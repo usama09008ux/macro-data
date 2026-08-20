@@ -1,0 +1,271 @@
+{
+  "generated_pkt": "21 Aug 2026 01:54",
+  "trading_day": "2026-08-20",
+  "series": {
+    "DFEDTARU": {
+      "latest": 3.75,
+      "latest_date": "2026-08-20",
+      "n_obs": 1105,
+      "changes": {
+        "1d": 0.0,
+        "5d": 0.0,
+        "20d": 0.0
+      },
+      "percentile": 0
+    },
+    "DGS2": {
+      "latest": 4.19,
+      "latest_date": "2026-08-19",
+      "n_obs": 754,
+      "changes": {
+        "1d": 0.0,
+        "5d": -0.01,
+        "20d": -0.12
+      },
+      "percentile": 56
+    },
+    "DGS10": {
+      "latest": 4.65,
+      "latest_date": "2026-08-19",
+      "n_obs": 754,
+      "changes": {
+        "1d": -0.06,
+        "5d": -0.03,
+        "20d": -0.02
+      },
+      "percentile": 93
+    },
+    "DGS30": {
+      "latest": 5.19,
+      "latest_date": "2026-08-19",
+      "n_obs": 754,
+      "changes": {
+        "1d": -0.09,
+        "5d": -0.05,
+        "20d": 0.04
+      },
+      "percentile": 98
+    },
+    "T10Y2Y": {
+      "latest": 0.46,
+      "latest_date": "2026-08-19",
+      "n_obs": 754,
+      "changes": {
+        "1d": -0.06,
+        "5d": -0.02,
+        "20d": 0.1
+      },
+      "percentile": 62
+    },
+    "T10Y3M": {
+      "latest": 0.79,
+      "latest_date": "2026-08-19",
+      "n_obs": 754,
+      "changes": {
+        "1d": -0.06,
+        "5d": -0.02,
+        "20d": 0.01
+      },
+      "percentile": 97
+    },
+    "DFII10": {
+      "latest": 2.35,
+      "latest_date": "2026-08-19",
+      "n_obs": 754,
+      "changes": {
+        "1d": -0.06,
+        "5d": -0.07,
+        "20d": -0.04
+      },
+      "percentile": 94
+    },
+    "DFII5": {
+      "latest": 2.07,
+      "latest_date": "2026-08-19",
+      "n_obs": 754,
+      "changes": {
+        "1d": -0.03,
+        "5d": -0.07,
+        "20d": -0.04
+      },
+      "percentile": 79
+    },
+    "T10YIE": {
+      "latest": 2.3,
+      "latest_date": "2026-08-19",
+      "n_obs": 754,
+      "changes": {
+        "1d": 0.0,
+        "5d": 0.04,
+        "20d": 0.02
+      },
+      "percentile": 42
+    },
+    "T5YIE": {
+      "latest": 2.28,
+      "latest_date": "2026-08-19",
+      "n_obs": 754,
+      "changes": {
+        "1d": 0.01,
+        "5d": 0.04,
+        "20d": -0.02
+      },
+      "percentile": 31
+    },
+    "DTWEXBGS": {
+      "latest": 118.9028,
+      "latest_date": "2026-08-14",
+      "n_obs": 752,
+      "changes": {
+        "1d": -0.282,
+        "5d": -0.1621,
+        "20d": -1.6287
+      },
+      "percentile": 7
+    },
+    "VIXCLS": {
+      "latest": 14.89,
+      "latest_date": "2026-08-19",
+      "n_obs": 779,
+      "changes": {
+        "1d": -0.95,
+        "5d": 0.34,
+        "20d": -1.75
+      },
+      "percentile": 28
+    },
+    "BAMLH0A0HYM2": {
+      "latest": 2.73,
+      "latest_date": "2026-08-19",
+      "n_obs": 787,
+      "changes": {
+        "1d": -0.02,
+        "5d": 0.02,
+        "20d": 0.05
+      },
+      "percentile": 13
+    },
+    "STLFSI4": {
+      "latest": -0.8285,
+      "latest_date": "2026-08-14",
+      "n_obs": 157,
+      "changes": {
+        "1d": -0.058,
+        "5d": 0.054,
+        "20d": -0.6508
+      },
+      "percentile": 12
+    },
+    "CPIAUCSL": {
+      "latest": 332.813,
+      "latest_date": "2026-07-01",
+      "n_obs": 35,
+      "changes": {
+        "MoM %": 0.07,
+        "YoY %": 3.54
+      },
+      "percentile": 94
+    },
+    "CPILFESL": {
+      "latest": 336.789,
+      "latest_date": "2026-07-01",
+      "n_obs": 35,
+      "changes": {
+        "MoM %": 0.22,
+        "YoY %": 2.79
+      },
+      "percentile": 97
+    },
+    "PCEPILFE": {
+      "latest": 130.266,
+      "latest_date": "2026-06-01",
+      "n_obs": 35,
+      "changes": {
+        "MoM %": 0.13,
+        "YoY %": 3.29
+      },
+      "percentile": 97
+    },
+    "PPIFIS": {
+      "latest": 156.563,
+      "latest_date": "2026-07-01",
+      "n_obs": 36,
+      "changes": {
+        "MoM %": -0.03,
+        "YoY %": 4.66
+      },
+      "percentile": 92
+    },
+    "PAYEMS": {
+      "latest": 158858.0,
+      "latest_date": "2026-07-01",
+      "n_obs": 36,
+      "changes": {
+        "MoM %": -0.01,
+        "YoY %": 0.2
+      },
+      "percentile": 92
+    },
+    "UNRATE": {
+      "latest": 4.1,
+      "latest_date": "2026-07-01",
+      "n_obs": 35,
+      "changes": {
+        "MoM %": -2.38,
+        "YoY %": 0.0
+      },
+      "percentile": 31
+    },
+    "CES0500000003": {
+      "latest": 37.62,
+      "latest_date": "2026-07-01",
+      "n_obs": 36,
+      "changes": {
+        "MoM %": 0.05,
+        "YoY %": 3.15
+      },
+      "percentile": 97
+    },
+    "ICSA": {
+      "latest": 206000.0,
+      "latest_date": "2026-08-15",
+      "n_obs": 158,
+      "changes": {
+        "1w": -6000.0,
+        "4w": 17000.0
+      },
+      "percentile": 9
+    },
+    "RSAFS": {
+      "latest": 763602.0,
+      "latest_date": "2026-07-01",
+      "n_obs": 36,
+      "changes": {
+        "MoM %": -0.58,
+        "YoY %": 5.01
+      },
+      "percentile": 92
+    },
+    "INDPRO": {
+      "latest": 102.9939,
+      "latest_date": "2026-07-01",
+      "n_obs": 36,
+      "changes": {
+        "MoM %": 0.2,
+        "YoY %": 1.08
+      },
+      "percentile": 97
+    },
+    "GDPC1": {
+      "latest": 24270.599,
+      "latest_date": "2026-04-01",
+      "n_obs": 12,
+      "changes": {
+        "QoQ %": 0.37,
+        "YoY %": 2.1
+      },
+      "percentile": null
+    }
+  },
+  "failures": {}
+}
