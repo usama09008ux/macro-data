@@ -243,20 +243,59 @@ keyword_exempt_groups:
 
 keywords:
   usd:    [dollar, dxy, fed, fomc, powell, warsh, treasury, yields, cpi, pce,
-           nfp, payrolls, jobless, ism, pmi, retail sales, gdp, inflation,
-           buyback, auction]
-  eur:    [ecb, lagarde, euro, eurozone, euro area, bund, hicp, germany, france]
-  gbp:    [boe, bailey, sterling, pound, gilt, ons, "uk inflation"]
-  jpy:    [boj, ueda, yen, japan, intervention]
-  chf:    [snb, franc, switzerland]
-  cad:    [boc, macklem, loonie, "canadian dollar", canada]
-  aud:    [rba, bullock, hauser, aussie, "australian dollar", australia]
-  nzd:    [rbnz, kiwi, "new zealand"]
-  gold:   [gold, xau, bullion, precious metals, silver, real yields, breakeven]
+           nfp, payrolls, jobless, ism, pmi, "retail sales", gdp, inflation,
+           buyback, auction, usd, "jobless claims", "philly fed"]
+  eur:    [ecb, lagarde, euro, eurozone, "euro area", bund, hicp, germany,
+           german, france, eur, bundesbank,
+           "eur/usd", eurusd, "eur/gbp", eurgbp, "eur/jpy", eurjpy, "eur/chf"]
+  gbp:    [boe, bailey, sterling, pound, gilt, "uk inflation", gbp,
+           "bank of england", "office for national statistics",
+           "gbp/usd", gbpusd, "gbp/jpy", gbpjpy, cable]
+  jpy:    [boj, ueda, yen, japan, japanese, intervention, jpy,
+           "usd/jpy", usdjpy, "aud/jpy", "gbp/jpy"]
+  chf:    [snb, "swiss franc", switzerland, chf,
+           "usd/chf", usdchf, "eur/chf"]
+  cad:    [boc, macklem, loonie, "canadian dollar", canada, canadian, cad,
+           "usd/cad", usdcad]
+  aud:    [rba, bullock, aussie, "australian dollar", australia,
+           australian, aud,
+           "aud/usd", audusd, "aud/jpy"]
+  nzd:    [rbnz, kiwi, "new zealand", nzd,
+           "nzd/usd", nzdusd]
+  gold:   [gold, xau, bullion, precious metals, silver, real yields, breakeven,
+           "xau/usd", xauusd, xau, "xag/usd", xagusd, xag, comex]
   oil:    [oil, wti, brent, opec, crude, hormuz, "eia inventories", diesel]
-  risk:   [tariff, sanctions, war, geopolitical, iran, escalation, ceasefire,
-           vix, risk-off, selloff]
+  risk:   [tariff, tariffs, sanctions, war, geopolitical, iran, escalation,
+           ceasefire, vix, "risk-off", selloff, russia, ukraine]
   rates:  [rate hike, rate cut, hawkish, dovish, minutes, bid-to-cover, margin]
+
+# ==========================================================
+# TAG WEIGHTS
+# ----------------------------------------------------------
+# Khabar us section mein jati hai jis ka score sab se zyada ho.
+# Score = kitne keywords mile  x  neeche wala weight.
+#
+# USD aur rates ka weight kam kyun:
+#   Har macro khabar mein dollar, yields aur Fed ka zikr hota
+#   hai. Agar sab barabar hote to USD har cheez kha jata.
+#   Misal: "Gold pulls back as US yields recover after Treasury
+#   buyback" — is mein USD ke 4 lafz hain aur gold ke 3, magar
+#   khabar gold ki hai. Weight ke baad gold jeet-ta hai.
+#   USD tab hi jeet-ta hai jab khabar SIRF dollar ki ho.
+# ==========================================================
+tag_weights:
+  gold:  1.0
+  oil:   1.0
+  eur:   1.0
+  gbp:   1.0
+  jpy:   1.0
+  chf:   1.0
+  cad:   1.0
+  aud:   1.0
+  nzd:   1.0
+  risk:  0.7
+  usd:   0.5
+  rates: 0.4
 
 # ==========================================================
 # CLEANUP
