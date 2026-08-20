@@ -15,6 +15,14 @@ settings:
   timezone: "Asia/Karachi"        # PKT = UTC+5, DST nahi
   trading_day_start_hour: 3       # trading day 3:00 AM PKT se
   keep_trading_days: 5            # DISK par kitne din ka data rehta hai
+  catchup_runs: 3                 # naye trading day ke SHURU ke itne run
+                                  # pichhle din ka bacha hua data bhi
+                                  # samet-te hain. CME raat 02:00-02:20
+                                  # PKT par deta hai — 3 AM ki hadd se
+                                  # theek pehle — is liye ye zaroori hai.
+                                  # Ginti se chalta hai, waqt se nahi,
+                                  # taake GitHub late chale to bhi ho.
+
   recovery_days: 1                # kitne din peechay tak ki NAYI khabar
                                   # qabool hogi. 1 = sirf aaj ka trading
                                   # day. Is se purani khabar rad ho jayegi
