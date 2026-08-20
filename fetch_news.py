@@ -222,6 +222,34 @@ def load_day_items(day):
 # Feed uthana
 # ==========================================================
 
+def catchup_state(day):
+    """
+    Naye trading day ke shuru mein pichhle din ka bacha hua data
+    samet-ne ke liye. Ginti rakhta hai ke aaj kitne run ho chuke.
+
+    Ginti kyun, waqt kyun nahi:
+        GitHub ka schedule kabhi late chalta hai. Agar "3:00 se
+        3:15 tak" likhte aur GitHub 3:20 par chalta, to audit
+        hoti hi nahi. Ginti se — pehle teen run jab bhi hon,
+        audit ho jayegi.
+    """
+    path = os.path.join(day_dir(day), "catchup.json")
+    if os.path.exists(path):
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                return json.load(f).get("runs", 0)
+        except Exception:
+            return 0
+    return 0
+
+
+def save_catchup(day, runs):
+    os.makedirs(day_dir(day), exist_ok=True)
+    with open(os.path.join(day_dir(day), "catchup.json"), "w",
+              encoding="utf-8") as f:
+        json.dump({"runs": runs}, f)
+
+
 def fetch_feed(feed, cfg, now_utc):
     name, url = feed["name"], feed["url"]
     cadence = feed.get("cadence_days", 1)
@@ -450,9 +478,27 @@ def main():
     print(f"Trading day: {today_td}")
     print("=" * 64)
 
-    # Recovery window: sirf itne trading days peechay tak ki khabar
-    # qabool hogi. User ne 1 rakha hai — yaani sirf AAJ ka trading day.
+    # Recovery window: aam tor par sirf AAJ ka trading day.
     valid_days = [today_td - timedelta(days=i) for i in range(recovery)]
+
+    # Magar naye trading day ke shuru mein pehle chand run pichhle
+    # din ka bacha hua data bhi samet-te hain. Zaroorat is liye ke
+    # CME apni commentary raat 02:00-02:20 PKT par deta hai — yaani
+    # 3:00 AM ki hadd se theek pehle. Bina is ke wo har roz reh jata.
+    catchup_runs = cfg["settings"].get("catchup_runs", 3)
+    runs_done = catchup_state(today_td)
+    doing_catchup = runs_done < catchup_runs
+
+    if doing_catchup:
+        prev_td = today_td - timedelta(days=1)
+        valid_days = valid_days + [prev_td]
+        save_catchup(today_td, runs_done + 1)
+        print(f"CATCHUP ON  — run {runs_done + 1}/{catchup_runs} "
+              f"ke tor par {prev_td} ka bacha hua data bhi samet raha hoon")
+    else:
+        print(f"CATCHUP OFF — aaj ke {catchup_runs} audit run ho chuke, "
+              f"ab sirf {today_td}")
+
     valid_set = set(valid_days)
 
     # "Dekhi hui" fehrist saare mehfooz dinon se uthate hain, sirf
