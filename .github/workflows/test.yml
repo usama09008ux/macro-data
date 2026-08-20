@@ -1,0 +1,37 @@
+name: Test Feeds
+
+# Ye workflow khud nahi chalta. Aap button daba kar chalayenge.
+on:
+  workflow_dispatch:
+
+# Script report file repo mein wapas likhegi, is liye likhne ki
+# ijazat chahiye.
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo ki copy lo
+        uses: actions/checkout@v4
+
+      - name: Python lagao
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Libraries install karo
+        run: pip install -r requirements.txt
+
+      - name: Feeds test karo
+        run: python test_feeds.py
+
+      - name: Report repo mein wapas daalo
+        run: |
+          git config user.name  "github-actions"
+          git config user.email "actions@github.com"
+          git add feed_test_report.md
+          git diff --staged --quiet || git commit -m "feed test report"
+          git push
