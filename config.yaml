@@ -1,207 +1,213 @@
 # ==========================================================
-# macro-data / config.yaml
-# Fundamentals News Flow — Phase 1 (RSS)
+# macro-data / config.yaml   —   v2
+# 20 Aug 2026 ke feed test ke baad update ki gayi
 # ==========================================================
-# NOTE: har feed ka "tested" field batata hai ke ye feed
-# check ho chuka hai ya nahi. Jo "no" hain, wo Step 4 mein
-# ek ek kar ke test honge — jo stale niklay wo hata denge.
+# BADLI HUI CHEEZ:
+# Pehle har feed par ek hi 14-din ka paimana tha. Wo ghalat
+# tha. Kuch feeds asal mein sust hain, marre nahi — Fed
+# speeches, BEA (mahine mein ek baar), CME margin notices.
+#
+# Ab har feed ka apna "cadence_days" hai = is feed se kitne
+# din mein nayi cheez aani chahiye. Verdict usi se banega.
 # ==========================================================
 
 settings:
   timezone: "Asia/Karachi"        # PKT = UTC+5, DST nahi
-  max_age_hours: 24               # is se purani item pack mein nahi jayegi
-  stale_feed_days: 14             # feed ki sab se nayi item itni purani -> STALE
-  warn_feed_days: 2               # 2-14 din -> WARN (log mein)
-  max_items_in_pack: 25           # is se aage shor hai
+  max_age_hours: 24               # is se purani item pack mein nahi
+  max_items_in_pack: 25
   request_timeout: 20
   retries: 3
+  # Feed ki umar > cadence_days x is number  ->  STALE
+  stale_multiplier: 3
+  warn_multiplier: 1.5
 
 # ==========================================================
-# TIER 1 — core feeds, roz chalenge
+# TIER 1 — reeddh ki haddi. Roz taza, aur seedha kaam ka.
 # ==========================================================
 feeds_tier1:
 
   - name: investinglive
     url: "https://investinglive.com/feed/"
-    weight: 10                    # sab se ahem — poora text + actual vs expected
-    tested: yes
+    weight: 10
+    cadence_days: 1
+    # Poora text + unwaan mein actual vs expected. Sab se ahem.
 
   - name: fxstreet_news
     url: "https://www.fxstreet.com/rss/news"
     weight: 8
-    tested: no
+    cadence_days: 1
 
   - name: fxstreet_analysis
     url: "https://www.fxstreet.com/rss/analysis"
     weight: 7
-    tested: no
+    cadence_days: 1
 
   - name: actionforex
     url: "https://www.actionforex.com/feed/"
-    weight: 6
-    tested: no
+    weight: 7
+    cadence_days: 1
 
   - name: marketpulse
     url: "https://www.marketpulse.com/feed/"
     weight: 6
-    tested: no
+    cadence_days: 2               # sirf 3 items dete hain, kam likhte hain
 
-  - name: investing_news
-    url: "https://www.investing.com/rss/news.rss"
-    weight: 5
-    tested: no
-
-  - name: myfxbook_news
-    url: "https://www.myfxbook.com/rss/latest-forex-news"
-    weight: 5
-    tested: no
-
-  - name: yahoo_finance
-    url: "https://finance.yahoo.com/news/rssindex"
-    weight: 4
-    tested: no
+  - name: wsj_economy
+    url: "https://feeds.content.dowjones.io/public/rss/socialeconomyfeed"
+    weight: 8
+    cadence_days: 1
+    # Test mein "U.S. Leading Indicators Ticked Up in July" — theek macro
 
 # ==========================================================
-# CENTRAL BANKS — sarkari feeds, sab se sacha zariya
-# Ye aap ki list mein nahi thay. Sab se zyada weight inhi ka.
+# CME — exchange ka apna rozana khulasa
+# ----------------------------------------------------------
+# Ye videos hain, magar UNWAAN khud ek line ka market summary
+# hai. Sirf title lena hai, video ki zaroorat nahi.
+# ==========================================================
+feeds_cme:
+
+  - name: cme_metals_video
+    url: "https://www.cmegroup.com/rss/metals-video-commentary.rss"
+    weight: 9
+    cadence_days: 1
+    tag: gold                     # XAUUSD — aap ka pehla asset
+
+  - name: cme_fx_video
+    url: "https://www.cmegroup.com/rss/fx-video-commentary.rss"
+    weight: 9
+    cadence_days: 1
+    tag: fx
+
+  - name: cme_rates_video
+    url: "https://www.cmegroup.com/rss/interestrates-video-commentary.rss"
+    weight: 9
+    cadence_days: 1
+    tag: rates
+
+  - name: cme_energy_video
+    url: "https://www.cmegroup.com/rss/energy-video-commentary.rss"
+    weight: 6
+    cadence_days: 1
+    tag: oil
+
+  - name: cme_daily_commentary
+    url: "https://www.cmegroup.com/rss/daily-market-commentary-videos.rss"
+    weight: 4
+    cadence_days: 1
+    # Mila jula feed — test mein "Live Cattle" aaya tha. Kam weight.
+
+  - name: cme_risk_management
+    url: "https://www.cmegroup.com/rss/cme-risk-management-feed.rss"
+    weight: 7
+    cadence_days: 10
+    # Margin changes tradeable khabar hai — margin barhne par
+    # gold/silver mein majboori ki liquidation aati hai.
+    # Ye kabhi kabhi aata hai, is liye cadence lamba rakha hai.
+
+# ==========================================================
+# CENTRAL BANKS — sarkari, sab se sacha zariya
 # ==========================================================
 feeds_centralbank:
 
   - name: fed_monetary
     url: "https://www.federalreserve.gov/feeds/press_monetary.xml"
     weight: 10
-    tested: no
+    cadence_days: 7
 
   - name: fed_speeches
     url: "https://www.federalreserve.gov/feeds/speeches.xml"
     weight: 9
-    tested: no
+    cadence_days: 21              # August mein Fed wale kam bolte hain
 
   - name: ecb_press
     url: "https://www.ecb.europa.eu/rss/press.html"
     weight: 9
-    tested: no
+    cadence_days: 7
 
   - name: boe_news
     url: "https://www.bankofengland.co.uk/rss/news"
     weight: 8
-    tested: no
+    cadence_days: 14
 
   - name: boj_whatsnew
     url: "https://www.boj.or.jp/en/rss/whatsnew.xml"
     weight: 8
-    tested: no
+    cadence_days: 7
 
   - name: rba_media
     url: "https://www.rba.gov.au/rss/rss-cb-media-releases.xml"
     weight: 7
-    tested: no
+    cadence_days: 14
 
 # ==========================================================
-# DATA AGENCIES — CPI / NFP seedha source se
+# DATA / GEOPOLITICS — sahara feeds
 # ==========================================================
-feeds_data:
-
-  - name: bls_latest
-    url: "https://www.bls.gov/feed/bls_latest.rss"
-    weight: 9
-    tested: no
+feeds_support:
 
   - name: bea_releases
     url: "https://apps.bea.gov/rss/rss.xml"
-    weight: 8
-    tested: no
-
-# ==========================================================
-# TIER 2 — pehle freshness test, phir faisla
-# ==========================================================
-feeds_tier2:
-
-  - name: wsj_markets
-    url: "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain"
-    weight: 5
-    tested: no
+    weight: 7
+    cadence_days: 30              # BEA mahine mein deta hai — 16 din normal
 
   - name: wsj_world
     url: "https://feeds.content.dowjones.io/public/rss/RSSWorldNews"
-    weight: 4
-    tested: no
-
-  - name: wsj_economy
-    url: "https://feeds.content.dowjones.io/public/rss/socialeconomyfeed"
     weight: 5
-    tested: no
+    cadence_days: 1
+    # Geopolitics — Iran, Hormuz, tariffs
+
+  - name: wsj_markets
+    url: "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain"
+    weight: 4
+    cadence_days: 1
+
+  - name: investing_news
+    url: "https://www.investing.com/rss/news.rss"
+    weight: 3
+    cadence_days: 1
+
+  - name: yahoo_finance
+    url: "https://finance.yahoo.com/news/rssindex"
+    weight: 3
+    cadence_days: 1
 
   - name: mw_topstories
     url: "https://feeds.content.dowjones.io/public/rss/mw_topstories"
-    weight: 4
-    tested: no
-
-  - name: benzinga
-    url: "https://www.benzinga.com/feed"
     weight: 3
-    tested: no
+    cadence_days: 1
 
   - name: cointelegraph
     url: "https://cointelegraph.com/rss"
-    weight: 2                     # sirf agar BTC trade karain
-    tested: no
+    weight: 2
+    cadence_days: 1               # sirf agar BTC dekhna ho
 
 # ==========================================================
-# CME — sirf TEST ke liye, abhi pack mein nahi jayenge
-# ----------------------------------------------------------
-# Claude ka tool robots.txt ki pabandi karta hai, is liye wo
-# in ko nahi khol saka. Magar Python script ye pabandi khud
-# nahi karti — mumkin hai script se chal jayen.
-# Step 3 ki test script batayegi ke haqeeqat kya hai.
-# Chal bhi gaye to bhi mawaad zyada tar taalimi/marketing
-# lagta hai, rozana ki market news nahi.
-# ==========================================================
-feeds_cme_test:
-
-  - name: cme_risk_management
-    url: "https://www.cmegroup.com/rss/cme-risk-management-feed.rss"
-    note: "in mein sab se kaam ka — margin changes tradeable khabar hai"
-
-  - name: cme_daily_commentary
-    url: "https://www.cmegroup.com/rss/daily-market-commentary-videos.rss"
-    note: "video — RSS mein sirf unwaan milega"
-
-  - name: cme_insights
-    url: "https://www.cmegroup.com/rss/commentary-home-insights-analysis.rss"
-
-  - name: cme_metals_video
-    url: "https://www.cmegroup.com/rss/metals-video-commentary.rss"
-
-  - name: cme_fx_video
-    url: "https://www.cmegroup.com/rss/fx-video-commentary.rss"
-
-  - name: cme_rates_video
-    url: "https://www.cmegroup.com/rss/interestrates-video-commentary.rss"
-
-  - name: cme_energy_video
-    url: "https://www.cmegroup.com/rss/energy-video-commentary.rss"
-
-  - name: cme_reference_data
-    url: "https://www.cmegroup.com/rss/cme-reference-data-feed.rss"
-    note: "contract specs — zyada tar shor"
-
-# ==========================================================
-# HATA DIYE GAYE — dobara add na karain, wajah likhi hai
+# HATA DIYE GAYE — wajah test se nikli hai
 # ==========================================================
 feeds_rejected:
-  - url: "https://feeds.feedburner.com/EconomicEventsInterestRates"
-    reason: "Zinda hai magar mawaad murda — sab se nayi item Jul 2025"
+  - url: "https://www.myfxbook.com/rss/latest-forex-news"
+    reason: "17 din purana — feed mar chuka hai"
+  - url: "https://www.bls.gov/feed/bls_latest.rss"
+    reason: "HTTP 403 — BLS default User-Agent rokta hai. Baad mein
+             dobara koshish karenge; abhi CPI/NFP investinglive se
+             mil jate hain, is liye rukawat nahi."
+  - url: "https://www.benzinga.com/feed"
+    reason: "Test mein crypto ka SEO kachra aaya — 'Myro Price Prediction'"
+  - url: "https://www.cmegroup.com/rss/cme-reference-data-feed.rss"
+    reason: "Contract specs ke notices — trading ke kaam ke nahi"
+  - url: "https://www.cmegroup.com/rss/commentary-home-insights-analysis.rss"
+    reason: "Test mein 'Agriculture Index' aaya — hamare assets ka nahi"
   - url: "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines"
-    reason: "Jaal — lastBuildDate aaj ki, magar sab se nayi khabar Jun 2025"
+    reason: "Jaal — tareekh aaj ki, khabar Jun 2025 ki"
+  - url: "https://feeds.feedburner.com/EconomicEventsInterestRates"
+    reason: "Zinda magar mawaad murda — Jul 2025 tak"
   - url: "https://www.marketwatch.com/site/rss"
-    reason: "Ye feed nahi, feeds ki fehrist ka safha hai"
+    reason: "Feed nahi, feeds ki fehrist ka safha"
   - url: "https://cointelegraph.com/feed"
     reason: "cointelegraph.com/rss ki naqal"
   - url: "https://www.investing.com/rss/news_1.rss"
     reason: "news.rss mein pehle se shamil"
   - url: "https://www.benzinga.com/news/feed"
-    reason: "benzinga.com/feed ki naqal"
+    reason: "naqal"
   - url: "https://www.myfxbook.com/rss/forex-community-recent-topics"
     reason: "Forum ki gap shap — khalis shor"
   - url: "https://feeds.businessinsider.com/custom/all"
@@ -210,12 +216,18 @@ feeds_rejected:
     reason: "Equity raaye — macro ke liye nahi"
 
 # ==========================================================
-# KEYWORDS — item pack mein tabhi jayegi jab in mein se
-# koi lafz mile (central bank aur data feeds is se mustasna)
+# KEYWORDS — item pack mein tabhi jayegi jab koi lafz mile.
+# Central bank, CME aur data feeds is se mustasna — un ki
+# har cheez le li jayegi.
 # ==========================================================
+keyword_exempt_groups:
+  - feeds_centralbank
+  - feeds_cme
+
 keywords:
-  usd:    [dollar, dxy, fed, fomc, powell, warsh, treasury, yields, cpi, pce, nfp,
-           payrolls, jobless, ism, pmi, retail sales, gdp, inflation]
+  usd:    [dollar, dxy, fed, fomc, powell, warsh, treasury, yields, cpi, pce,
+           nfp, payrolls, jobless, ism, pmi, retail sales, gdp, inflation,
+           buyback, auction]
   eur:    [ecb, lagarde, euro, eurozone, euro area, bund, hicp, germany, france]
   gbp:    [boe, bailey, sterling, pound, gilt, ons, "uk inflation"]
   jpy:    [boj, ueda, yen, japan, intervention]
@@ -224,14 +236,13 @@ keywords:
   aud:    [rba, bullock, hauser, aussie, "australian dollar", australia]
   nzd:    [rbnz, kiwi, "new zealand"]
   gold:   [gold, xau, bullion, precious metals, silver, real yields, breakeven]
-  oil:    [oil, wti, brent, opec, crude, hormuz, eia inventories]
+  oil:    [oil, wti, brent, opec, crude, hormuz, "eia inventories", diesel]
   risk:   [tariff, sanctions, war, geopolitical, iran, escalation, ceasefire,
            vix, risk-off, selloff]
-  rates:  [rate hike, rate cut, hawkish, dovish, minutes, auction, bid-to-cover]
+  rates:  [rate hike, rate cut, hawkish, dovish, minutes, bid-to-cover, margin]
 
 # ==========================================================
-# CLEANUP — investinglive ke text mein bohat sa style ka
-# koora hota hai, ise utarna zaroori hai
+# CLEANUP
 # ==========================================================
 cleanup:
   strip_html: true
