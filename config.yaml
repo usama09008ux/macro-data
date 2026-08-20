@@ -1,0 +1,240 @@
+# ==========================================================
+# macro-data / config.yaml
+# Fundamentals News Flow — Phase 1 (RSS)
+# ==========================================================
+# NOTE: har feed ka "tested" field batata hai ke ye feed
+# check ho chuka hai ya nahi. Jo "no" hain, wo Step 4 mein
+# ek ek kar ke test honge — jo stale niklay wo hata denge.
+# ==========================================================
+
+settings:
+  timezone: "Asia/Karachi"        # PKT = UTC+5, DST nahi
+  max_age_hours: 24               # is se purani item pack mein nahi jayegi
+  stale_feed_days: 14             # feed ki sab se nayi item itni purani -> STALE
+  warn_feed_days: 2               # 2-14 din -> WARN (log mein)
+  max_items_in_pack: 25           # is se aage shor hai
+  request_timeout: 20
+  retries: 3
+
+# ==========================================================
+# TIER 1 — core feeds, roz chalenge
+# ==========================================================
+feeds_tier1:
+
+  - name: investinglive
+    url: "https://investinglive.com/feed/"
+    weight: 10                    # sab se ahem — poora text + actual vs expected
+    tested: yes
+
+  - name: fxstreet_news
+    url: "https://www.fxstreet.com/rss/news"
+    weight: 8
+    tested: no
+
+  - name: fxstreet_analysis
+    url: "https://www.fxstreet.com/rss/analysis"
+    weight: 7
+    tested: no
+
+  - name: actionforex
+    url: "https://www.actionforex.com/feed/"
+    weight: 6
+    tested: no
+
+  - name: marketpulse
+    url: "https://www.marketpulse.com/feed/"
+    weight: 6
+    tested: no
+
+  - name: investing_news
+    url: "https://www.investing.com/rss/news.rss"
+    weight: 5
+    tested: no
+
+  - name: myfxbook_news
+    url: "https://www.myfxbook.com/rss/latest-forex-news"
+    weight: 5
+    tested: no
+
+  - name: yahoo_finance
+    url: "https://finance.yahoo.com/news/rssindex"
+    weight: 4
+    tested: no
+
+# ==========================================================
+# CENTRAL BANKS — sarkari feeds, sab se sacha zariya
+# Ye aap ki list mein nahi thay. Sab se zyada weight inhi ka.
+# ==========================================================
+feeds_centralbank:
+
+  - name: fed_monetary
+    url: "https://www.federalreserve.gov/feeds/press_monetary.xml"
+    weight: 10
+    tested: no
+
+  - name: fed_speeches
+    url: "https://www.federalreserve.gov/feeds/speeches.xml"
+    weight: 9
+    tested: no
+
+  - name: ecb_press
+    url: "https://www.ecb.europa.eu/rss/press.html"
+    weight: 9
+    tested: no
+
+  - name: boe_news
+    url: "https://www.bankofengland.co.uk/rss/news"
+    weight: 8
+    tested: no
+
+  - name: boj_whatsnew
+    url: "https://www.boj.or.jp/en/rss/whatsnew.xml"
+    weight: 8
+    tested: no
+
+  - name: rba_media
+    url: "https://www.rba.gov.au/rss/rss-cb-media-releases.xml"
+    weight: 7
+    tested: no
+
+# ==========================================================
+# DATA AGENCIES — CPI / NFP seedha source se
+# ==========================================================
+feeds_data:
+
+  - name: bls_latest
+    url: "https://www.bls.gov/feed/bls_latest.rss"
+    weight: 9
+    tested: no
+
+  - name: bea_releases
+    url: "https://apps.bea.gov/rss/rss.xml"
+    weight: 8
+    tested: no
+
+# ==========================================================
+# TIER 2 — pehle freshness test, phir faisla
+# ==========================================================
+feeds_tier2:
+
+  - name: wsj_markets
+    url: "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain"
+    weight: 5
+    tested: no
+
+  - name: wsj_world
+    url: "https://feeds.content.dowjones.io/public/rss/RSSWorldNews"
+    weight: 4
+    tested: no
+
+  - name: wsj_economy
+    url: "https://feeds.content.dowjones.io/public/rss/socialeconomyfeed"
+    weight: 5
+    tested: no
+
+  - name: mw_topstories
+    url: "https://feeds.content.dowjones.io/public/rss/mw_topstories"
+    weight: 4
+    tested: no
+
+  - name: benzinga
+    url: "https://www.benzinga.com/feed"
+    weight: 3
+    tested: no
+
+  - name: cointelegraph
+    url: "https://cointelegraph.com/rss"
+    weight: 2                     # sirf agar BTC trade karain
+    tested: no
+
+# ==========================================================
+# CME — sirf TEST ke liye, abhi pack mein nahi jayenge
+# ----------------------------------------------------------
+# Claude ka tool robots.txt ki pabandi karta hai, is liye wo
+# in ko nahi khol saka. Magar Python script ye pabandi khud
+# nahi karti — mumkin hai script se chal jayen.
+# Step 3 ki test script batayegi ke haqeeqat kya hai.
+# Chal bhi gaye to bhi mawaad zyada tar taalimi/marketing
+# lagta hai, rozana ki market news nahi.
+# ==========================================================
+feeds_cme_test:
+
+  - name: cme_risk_management
+    url: "https://www.cmegroup.com/rss/cme-risk-management-feed.rss"
+    note: "in mein sab se kaam ka — margin changes tradeable khabar hai"
+
+  - name: cme_daily_commentary
+    url: "https://www.cmegroup.com/rss/daily-market-commentary-videos.rss"
+    note: "video — RSS mein sirf unwaan milega"
+
+  - name: cme_insights
+    url: "https://www.cmegroup.com/rss/commentary-home-insights-analysis.rss"
+
+  - name: cme_metals_video
+    url: "https://www.cmegroup.com/rss/metals-video-commentary.rss"
+
+  - name: cme_fx_video
+    url: "https://www.cmegroup.com/rss/fx-video-commentary.rss"
+
+  - name: cme_rates_video
+    url: "https://www.cmegroup.com/rss/interestrates-video-commentary.rss"
+
+  - name: cme_energy_video
+    url: "https://www.cmegroup.com/rss/energy-video-commentary.rss"
+
+  - name: cme_reference_data
+    url: "https://www.cmegroup.com/rss/cme-reference-data-feed.rss"
+    note: "contract specs — zyada tar shor"
+
+# ==========================================================
+# HATA DIYE GAYE — dobara add na karain, wajah likhi hai
+# ==========================================================
+feeds_rejected:
+  - url: "https://feeds.feedburner.com/EconomicEventsInterestRates"
+    reason: "Zinda hai magar mawaad murda — sab se nayi item Jul 2025"
+  - url: "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines"
+    reason: "Jaal — lastBuildDate aaj ki, magar sab se nayi khabar Jun 2025"
+  - url: "https://www.marketwatch.com/site/rss"
+    reason: "Ye feed nahi, feeds ki fehrist ka safha hai"
+  - url: "https://cointelegraph.com/feed"
+    reason: "cointelegraph.com/rss ki naqal"
+  - url: "https://www.investing.com/rss/news_1.rss"
+    reason: "news.rss mein pehle se shamil"
+  - url: "https://www.benzinga.com/news/feed"
+    reason: "benzinga.com/feed ki naqal"
+  - url: "https://www.myfxbook.com/rss/forex-community-recent-topics"
+    reason: "Forum ki gap shap — khalis shor"
+  - url: "https://feeds.businessinsider.com/custom/all"
+    reason: "Zyada tar ghair-maaliyati"
+  - url: "https://seekingalpha.com/feed.xml"
+    reason: "Equity raaye — macro ke liye nahi"
+
+# ==========================================================
+# KEYWORDS — item pack mein tabhi jayegi jab in mein se
+# koi lafz mile (central bank aur data feeds is se mustasna)
+# ==========================================================
+keywords:
+  usd:    [dollar, dxy, fed, fomc, powell, warsh, treasury, yields, cpi, pce, nfp,
+           payrolls, jobless, ism, pmi, retail sales, gdp, inflation]
+  eur:    [ecb, lagarde, euro, eurozone, euro area, bund, hicp, germany, france]
+  gbp:    [boe, bailey, sterling, pound, gilt, ons, "uk inflation"]
+  jpy:    [boj, ueda, yen, japan, intervention]
+  chf:    [snb, franc, switzerland]
+  cad:    [boc, macklem, loonie, "canadian dollar", canada]
+  aud:    [rba, bullock, hauser, aussie, "australian dollar", australia]
+  nzd:    [rbnz, kiwi, "new zealand"]
+  gold:   [gold, xau, bullion, precious metals, silver, real yields, breakeven]
+  oil:    [oil, wti, brent, opec, crude, hormuz, eia inventories]
+  risk:   [tariff, sanctions, war, geopolitical, iran, escalation, ceasefire,
+           vix, risk-off, selloff]
+  rates:  [rate hike, rate cut, hawkish, dovish, minutes, auction, bid-to-cover]
+
+# ==========================================================
+# CLEANUP — investinglive ke text mein bohat sa style ka
+# koora hota hai, ise utarna zaroori hai
+# ==========================================================
+cleanup:
+  strip_html: true
+  strip_inline_styles: true
+  max_chars_per_item: 1200
+  dedupe_title_similarity: 0.85
