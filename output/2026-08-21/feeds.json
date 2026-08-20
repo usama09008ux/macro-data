@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "21 Aug 04:37",
+  "updated_pkt": "21 Aug 04:59",
   "feeds": [
     {
       "name": "investinglive",
@@ -40,7 +40,7 @@
       "name": "wsj_economy",
       "status": "OK",
       "fetched": 36,
-      "newest_age_days": 0.4,
+      "newest_age_days": 0.0,
       "note": ""
     },
     {
@@ -96,7 +96,7 @@
       "name": "fed_speeches",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 15.1,
+      "newest_age_days": 15.2,
       "note": ""
     },
     {
@@ -110,7 +110,7 @@
       "name": "boe_news",
       "status": "OK",
       "fetched": 50,
-      "newest_age_days": 9.4,
+      "newest_age_days": 9.5,
       "note": ""
     },
     {
@@ -145,7 +145,7 @@
       "name": "wsj_markets",
       "status": "OK",
       "fetched": 61,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.0,
       "note": ""
     },
     {

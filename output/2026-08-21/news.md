@@ -1,8 +1,8 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 04:37 PKT**
-- Kul khabrein: **45**
+- Aakhri update: **21 Aug 04:59 PKT**
+- Kul khabrein: **60**
 - Feeds: 25/25 OK
 
 ---
@@ -10,6 +10,11 @@
 ## Khabrein
 
 ### GOLD
+
+**Gold drifts higher above $4,500 on US Treasury buyback**
+`21 Aug 04:37 PKT` · pehli baar dekhi `21 Aug 04:59` · fxstreet_news
+
+Gold price (XAU/USD) edges higher to around $4,530 during the early Asian session on Friday. The precious metal rebounds after earlier falling following the US President Donald Trump administration's unexpected decision to boost repurchases of longer-dated bonds.
 
 **Citi says debasement trade needs new outlet, pointing markets back to gold**
 `21 Aug 03:27 PKT` · pehli baar dekhi `21 Aug 03:41` · investinglive
@@ -57,6 +62,14 @@ GBP/USD trades just beneath 1.3650 late in the session, 0.2% higher on the day a
 
 ### JPY
 
+**Japan Inflation Picks Up as Rate-Boost Bets Firm**
+`21 Aug 04:48 PKT` · pehli baar dekhi `21 Aug 04:59` · wsj_economy
+
+Japan's consumer inflation picked up last month as the effects of higher oil prices caused by the Middle East conflict broadened.
+
+**Japan CPI rises in July, core inflation grows but stays below BOJ target**
+`21 Aug 04:44 PKT` · pehli baar dekhi `21 Aug 04:59` · investing_news
+
 **Japan's National CPI climbs 2.0% YoY in July, Core CPI rises as expected**
 `21 Aug 04:32 PKT` · pehli baar dekhi `21 Aug 04:37` · fxstreet_news
 
@@ -98,6 +111,16 @@ New Zealand trade data, July 2026 Trade balance NZ$-1.95 billion (prior 23mn) Im
 
 ### OIL
 
+**Oil Futures Fall on Likely Technical Correction**
+`21 Aug 04:51 PKT` · pehli baar dekhi `21 Aug 04:59` · wsj_markets
+
+Oil futures fell on a likely technical correction after the futures rose for a fifth consecutive session on Thursday.
+
+**Iran plans oil strikes to hurt Trump before midterms, official says**
+`21 Aug 04:40 PKT` · pehli baar dekhi `21 Aug 04:59` · investinglive
+
+The plan as described would target the two main routes shippers have used to avoid the Strait of Hormuz, Saudi Arabia's Yanbu pipeline and the UAE's Fujairah terminal, which together handle roughly 5.5 million barrels a day. Combined with a push to fully shut the roughly 5 million barrels a day still moving through the strait via the US backed shadow fleet, a successful campaign would remove a significant share of the alternative capacity that has kept some Gulf oil flowing despite the broader ...
+
 **Iran "in bad shape," Trump says, citing weapon production collapse**
 `21 Aug 04:25 PKT` · pehli baar dekhi `21 Aug 04:37` · investinglive
 
@@ -105,13 +128,27 @@ Trump's comments add another data point to the market's ongoing assessment of ho
 
 ### RISK
 
+**Bessent says US unlikely to resume large-scale Iran combat, steps up economic pressure**
+`21 Aug 04:52 PKT` · pehli baar dekhi `21 Aug 04:59` · fxstreet_news
+
+US Treasury Secretary Scott Bessent said that the US President Donald Trump administration's plan to crush Iran's economy will likely negate the need for major US military operations against the Islamic Republic, CNBC reported on Thursday.
+
 **Bessent says US to impose 'toughest' ever sanctions on Iran, urges China to cooperate**
 `21 Aug 04:18 PKT` · pehli baar dekhi `21 Aug 04:37` · investing_news
 
-### BINA TAG (28)
+### BINA TAG (37)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `21 Aug 04:46` **investing_news** — Coeur Mining director J Kenneth Thompson sells $519,250 in stock
+- `21 Aug 04:46` **investing_news** — Coeur Mining EVP Nault sells $200,000 in company stock
+- `21 Aug 04:46` **investing_news** — Apple SVP Jennifer Newstead sells $442,478 in company stock
+- `21 Aug 04:46` **investing_news** — Virtu Financial director Joseph Grano Jr. sells $511,855 in stock
+- `21 Aug 04:41` **investing_news** — Earnings call transcript: ARN Media H1 2026 loss narrows as digital gains
+- `21 Aug 04:35` **investing_news** — Tapestry CEO Joanne Crevoiserat sells $3.68 million in stock on Aug 19
+- `21 Aug 04:31` **investing_news** — Eton Pharmaceuticals CEO Sean Brynjelsen sells $6.08m in stock
+- `21 Aug 04:31` **investing_news** — Skye Bioscience director Andrew Schwab sells $140,313 in stock
+- `21 Aug 04:31` **investing_news** — Senseonics director Douglas Roeder buys $125,300 in shares
 - `21 Aug 04:16` **investing_news** — 5am Partners VII, LLC sells $140,313 of Skye Bioscience stock
 - `21 Aug 04:16` **investing_news** — 10% owner DST Global Advisors sells $156.9m in Chime Financial stock
 - `21 Aug 04:15` **investing_news** — Heartflow CEO John Farquhar sells $1.47 million in company stock
@@ -152,7 +189,7 @@ Trump's comments add another data point to the market's ongoing assessment of ho
 | fxstreet_analysis | OK | 30 | 0.2 |  |
 | actionforex | OK | 20 | 0.4 |  |
 | marketpulse | OK | 3 | 0.7 |  |
-| wsj_economy | OK | 36 | 0.4 |  |
+| wsj_economy | OK | 36 | 0.0 |  |
 | cme_metals_video | OK | 10 | 0.1 |  |
 | cme_fx_video | OK | 10 | 0.1 |  |
 | cme_rates_video | OK | 10 | 0.1 |  |
@@ -160,14 +197,14 @@ Trump's comments add another data point to the market's ongoing assessment of ho
 | cme_daily_commentary | OK | 10 | 0.1 |  |
 | cme_risk_management | OK | 20 | 7.8 |  |
 | fed_monetary | OK | 15 | 1.2 |  |
-| fed_speeches | OK | 15 | 15.1 |  |
+| fed_speeches | OK | 15 | 15.2 |  |
 | ecb_press | OK | 15 | 1.7 |  |
-| boe_news | OK | 50 | 9.4 |  |
+| boe_news | OK | 50 | 9.5 |  |
 | boj_whatsnew | OK | 46 | 3.7 |  |
 | rba_media | OK | 1 | 1.6 |  |
 | bea_releases | OK | 47 | 16.5 |  |
 | wsj_world | OK | 72 | 0.1 |  |
-| wsj_markets | OK | 61 | 0.1 |  |
+| wsj_markets | OK | 61 | 0.0 |  |
 | investing_news | OK | 10 | 0.0 |  |
 | yahoo_finance | OK | 49 | 0.6 |  |
 | mw_topstories | OK | 10 | 0.0 |  |
