@@ -13,13 +13,20 @@
 
 settings:
   timezone: "Asia/Karachi"        # PKT = UTC+5, DST nahi
-  max_age_hours: 24               # is se purani item pack mein nahi
-  max_items_in_pack: 25
+  trading_day_start_hour: 3       # trading day 3:00 AM PKT se
+  keep_trading_days: 5            # DISK par kitne din ka data rehta hai
+  recovery_days: 1                # kitne din peechay tak ki NAYI khabar
+                                  # qabool hogi. 1 = sirf aaj ka trading
+                                  # day. Is se purani khabar rad ho jayegi
+                                  # chahe feed mein abhi maujood ho.
   request_timeout: 20
   retries: 3
   # Feed ki umar > cadence_days x is number  ->  STALE
   stale_multiplier: 3
   warn_multiplier: 1.5
+  # NOTE: max_items_in_pack aur max_per_source hata diye gaye.
+  # Ab kuch kaat-ta nahi — sab kuch mehfooz hota hai, sirf TAG
+  # lagta hai. Noise baad mein keywords behtar kar ke chhaanenge.
 
 # ==========================================================
 # TIER 1 — reeddh ki haddi. Roz taza, aur seedha kaam ka.
@@ -249,5 +256,5 @@ keywords:
 cleanup:
   strip_html: true
   strip_inline_styles: true
-  max_chars_per_item: 1200
+  max_chars_per_item: 1500
   dedupe_title_similarity: 0.85
