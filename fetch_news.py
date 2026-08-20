@@ -78,6 +78,18 @@ def clean_html(raw):
     return txt.strip()
 
 
+def snip(text, limit):
+    """Lafz ke beech se nahi kaat-ta. Jumle par kaatne ki koshish."""
+    if not text or len(text) <= limit:
+        return text or ""
+    cut = text[:limit]
+    dot = max(cut.rfind(". "), cut.rfind("? "), cut.rfind("! "))
+    if dot > limit * 0.5:
+        return cut[:dot + 1]
+    sp = cut.rfind(" ")
+    return (cut[:sp] if sp > 0 else cut).rstrip(" ,;:-") + " ..."
+
+
 def norm_title(t):
     """Dedupe ke liye title ko saada karta hai."""
     return re.sub(r"[^a-z0-9 ]", "", (t or "").lower()).strip()
@@ -202,7 +214,7 @@ def fetch_feed(feed, cfg, now_ts):
                 body = e["content"][0].get("value", "")
             except Exception:
                 body = ""
-        body = clean_html(body)[:max_chars]
+        body = snip(clean_html(body), max_chars)
 
         dt = item_dt_pkt(e)
         out.append({
@@ -213,6 +225,7 @@ def fetch_feed(feed, cfg, now_ts):
             "group": feed["_group"],
             "weight": feed.get("weight", 5),
             "feed_tag": feed.get("tag"),
+            "force_keywords": feed.get("keyword_filter", False),
             "age_hours": round(age * 24, 1),
             "when_pkt": dt.strftime("%d %b %H:%M") if dt else "",
             "sort_ts": calendar.timegm(
@@ -240,7 +253,12 @@ def filter_and_tag(items, cfg):
         if it.get("feed_tag") and it["feed_tag"] not in tags:
             tags.insert(0, it["feed_tag"])
 
-        if it["group"] in exempt:
+        # Kuch feeds group mein to mustasna hain, magar mila jula
+        # mawaad dete hain (jaise CME ka daily commentary — us mein
+        # cattle aur soybeans bhi aate hain). Un par filter lagta hai.
+        is_exempt = it["group"] in exempt and not it.get("force_keywords")
+
+        if is_exempt:
             # Central bank aur CME — har cheez le lo
             if not tags:
                 tags = ["rates"]
@@ -307,7 +325,7 @@ def build_markdown(items, statuses, cfg, started):
             L.append(f"`{it['when_pkt']} PKT` · {it['source']}")
             if it["body"]:
                 L.append("")
-                L.append(it["body"][:600])
+                L.append(snip(it["body"], 600))
             L.append("")
 
     # ---- Baqi, tag ke hisaab se ----
@@ -317,6 +335,22 @@ def build_markdown(items, statuses, cfg, started):
         L.append("## Khabrein")
         L.append("")
         used = set()
+
+        # Jo khabar 4 ya zyada cheezon ko chhoo rahi ho, wo kisi ek
+        # currency ki nahi hoti — wo session wrap hoti hai. Use alag
+        # rakho, warna wo GOLD ya USD ka section kha jati hai.
+        broad = [i for i in rest if len(i["tags"]) >= 4]
+        if broad:
+            L.append("### MARKET WRAP")
+            L.append("")
+            for it in sorted(broad, key=lambda x: -x["sort_ts"]):
+                used.add(id(it))
+                L.append(f"**{it['title']}**")
+                L.append(f"`{it['when_pkt']} PKT` · {it['source']}")
+                if it["body"]:
+                    L.append("")
+                    L.append(snip(it["body"], 450))
+                L.append("")
         for tag in TAG_ORDER:
             group = [i for i in rest
                      if tag in i["tags"] and id(i) not in used]
@@ -330,7 +364,7 @@ def build_markdown(items, statuses, cfg, started):
                 L.append(f"`{it['when_pkt']} PKT` · {it['source']}")
                 if it["body"]:
                     L.append("")
-                    L.append(it["body"][:450])
+                    L.append(snip(it["body"], 450))
                 L.append("")
 
     # ---- Data quality ----
