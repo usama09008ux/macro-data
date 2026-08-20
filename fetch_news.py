@@ -562,6 +562,17 @@ def main():
                 f"td={today_td}  feeds_ok={ok}/{len(statuses)}  "
                 f"new={total_new}\n")
 
+    # Commit message yahin banta hai, workflow mein nahi.
+    # Wajah: trading day ka hisaab sirf yahan hai. Agar bash mein
+    # dobara likhte to do jagah do hisaab hote aur kabhi na kabhi
+    # aapas mein farq aa jata.
+    commit_msg = (f"news | TD {today_td.strftime('%d %b %Y')} | "
+                  f"{now_pkt.strftime('%d %b %Y %H:%M')} PKT | "
+                  f"nayi {total_new}")
+    with open(os.path.join(OUT_DIR, "last_run.txt"), "w",
+              encoding="utf-8") as f:
+        f.write(commit_msg + "\n")
+
     print(f"\nAaj ka pack: {day_dir(today_td)}/news.md")
     return 0
 
