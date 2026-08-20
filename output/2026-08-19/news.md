@@ -1,8 +1,8 @@
 # News Pack — Trading Day 19 Aug 2026
 
 - Trading day: **19 Aug 03:00 -> 20 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 01:33 PKT**
-- Kul khabrein: **112**
+- Aakhri update: **21 Aug 02:05 PKT**
+- Kul khabrein: **131**
 - Feeds: 25/25 OK
 
 ---
@@ -73,19 +73,6 @@ Media Release Number 2026-21: The Reserve Bank of Australia and People's Bank of
 
 Gold is looking back toward the $4,400 level early Wednesday, reversing a steep pullback seen on Tuesday. All eyes now remain on the Minutes of the US Federal Reserve (Fed) July policy meeting, due later on Wednesday, for fresh trading impetus.
 
-### GOLD
-
-**$4,500 about to give up: Why Gold can reconquer its safe-haven status**
-`19 Aug 22:36 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_analysis
-
-The US Dollar (USD) is under strong selling pressure on Wednesday, resulting in Gold approaching the $4,500 mark for the first time in over two months.
-
-**Silver prices today, Wednesday, August 19, 2026: Silver rises in early trading on lower rate-hike expectations**
-`19 Aug 21:13 PKT` · pehli baar dekhi `21 Aug 01:33` · yahoo_finance
-
-**Gold prices today, Wednesday, August 19, 2026: Gold strengthens ahead of FOMC minutes release**
-`19 Aug 21:11 PKT` · pehli baar dekhi `21 Aug 01:33` · yahoo_finance
-
 ### USD
 
 **WSJ Dollar Index Falls 0.76% to 95.34**
@@ -97,6 +84,11 @@ The WSJ Dollar Index fell 0.8% — down three of the past four trading days.
 `20 Aug 02:05 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_markets
 
 The Treasury Department signals its willingness to intervene after yields hit nearly two-decade highs,
+
+**U.S. Stocks Up as Treasury Buybacks Calm Bond Yields; Moderna Surges**
+`20 Aug 01:59 PKT` · pehli baar dekhi `21 Aug 02:05` · wsj_markets
+
+U.S. stocks rose after the government said it would buy back more longer-dated bonds, easing pressure on a market that had pushed borrowing costs to their highest levels in nearly two decades.
 
 **Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet**
 `20 Aug 01:33 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
@@ -128,6 +120,14 @@ The US Treasury moved off its own calendar on Wednesday, and that is the part wo
 
 Many officials thought higher rates would likely be needed if inflation doesn't come down.
 
+**$4,500 about to give up: Why Gold can reconquer its safe-haven status**
+`19 Aug 22:36 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_analysis
+
+The US Dollar (USD) is under strong selling pressure on Wednesday, resulting in Gold approaching the $4,500 mark for the first time in over two months.
+
+**Gold prices today, Wednesday, August 19, 2026: Gold strengthens ahead of FOMC minutes release**
+`19 Aug 21:11 PKT` · pehli baar dekhi `21 Aug 01:33` · yahoo_finance
+
 **Standard Chartered analyst eyes $100K BTC as US Treasury doubles long-end buybacks**
 `19 Aug 21:00 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
 
@@ -142,6 +142,9 @@ The simple explanation for all this is that the world is going into a new era of
 `19 Aug 20:44 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
 
 Bitcoin joined US stocks in a broad rally after the US Treasury announced that it was at least doubling the amount of its debt buyback operations from September.
+
+**Most Investors Have Never Heard of the Bond ETFs That Lock In 5 Percent Yields Through 2030**
+`19 Aug 17:35 PKT` · pehli baar dekhi `21 Aug 02:05` · yahoo_finance
 
 **India rate panel signals impending hikes, eyes inflation path to gauge timing**
 `19 Aug 17:32 PKT` · pehli baar dekhi `21 Aug 01:33` · yahoo_finance
@@ -192,6 +195,9 @@ The investigations follow a multiyear review of combat incidents involving civil
 
 Randi Weingarten calls for a boycott of a company in which its members own millions of shares.
 
+**Silver prices today, Wednesday, August 19, 2026: Silver rises in early trading on lower rate-hike expectations**
+`19 Aug 21:13 PKT` · pehli baar dekhi `21 Aug 01:33` · yahoo_finance
+
 **US commodities regulator imposes 5-year trading ban on ex-Alameda, FTX execs**
 `19 Aug 20:50 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
 
@@ -220,6 +226,9 @@ U.S. politicians are crying foul as California Merlots, Kentucky bourbons and Te
 
 By putting the trade deal in doubt, he hurts red states, including Texas.
 
+**EXCLUSIVE: Sunshine Biopharma Secures Canadian Approval for Generic Hypertension Drug**
+`19 Aug 17:30 PKT` · pehli baar dekhi `21 Aug 02:05` · yahoo_finance
+
 **President Trump said he would pause a 50% tariff on certain goods from Canada for three days while the two countries seek to finalize an agreement**
 `19 Aug 08:35 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_economy
 
@@ -231,6 +240,11 @@ The levies were set to affect 5% of Canadian exports to the U.S. and risked esca
 `20 Aug 00:23 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_markets
 
 Oil futures rose for a fourth straight session as transit remained restricted through the Strait of Hormuz, keeping supply concerns alive.
+
+**U.S. Crude Oil Stockpiles Post Weekly Increase**
+`19 Aug 20:27 PKT` · pehli baar dekhi `21 Aug 02:05` · wsj_markets
+
+U.S. commercial crude oil inventories rose by 4.4 million barrels last week in a third consecutive build, according to the Energy Information Administration.
 
 ### RATES
 
@@ -251,6 +265,9 @@ The transaction connected the banks' separate tokenized deposit systems through 
 
 "Crypto mom" Hester Peirce praised the SEC's proposed crypto regime, published days after the Senate failed to pass the CLARITY Act, the US' first comprehensive industry framework.
 
+**The Stock Market Is Shrugging Off Geopolitical Risks. Why Wall Street Remains Bullish.**
+`19 Aug 17:31 PKT` · pehli baar dekhi `21 Aug 02:05` · yahoo_finance
+
 **This Rare VIX Signal Says Now's the Time to Take Profits**
 `19 Aug 17:00 PKT` · pehli baar dekhi `21 Aug 01:33` · yahoo_finance
 
@@ -267,7 +284,7 @@ Andy Burnham has made unemployment a priority amid skyrocketing youth inactivity
 
 The levies were set to affect 5% of Canadian exports to the U.S. and risked escalation into a broader trade conflict.
 
-### BINA TAG (60)
+### BINA TAG (74)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -281,22 +298,36 @@ The levies were set to affect 5% of Canadian exports to the U.S. and risked esca
 - `20 Aug 01:02` **wsj_world** — Opinion | Pyongyang's Threat Rises, With an Assist From Trump
 - `20 Aug 00:58` **wsj_markets** — Opinion | AI Bubble May Deflate, Not Burst
 - `20 Aug 00:54` **cointelegraph** — Trump pushes for CLARITY Act passage alongside crypto leaders
+- `20 Aug 00:34` **yahoo_finance** — Best dining credit cards (August 2026)
 - `19 Aug 23:48` **cointelegraph** — Crypto PAC notches primary wins, but loses $2M Florida race
 - `19 Aug 23:30` **wsj_world** — 'Graduate Tax' Hangs Over Generation of Workers in England
 - `19 Aug 23:15` **wsj_markets** — Opinion | Meritless Claims Will Raise Everyone's Rates
 - `19 Aug 23:14` **wsj_world** — Opinion | North Korea Is a U.S. Threat
+- `19 Aug 23:07` **yahoo_finance** — Does renters insurance cover pets, dog bites, and pet damage?
 - `19 Aug 22:34` **cointelegraph** — FalconX, Ethena bring USDe backing assets into $1B institutional credit facility
 - `19 Aug 22:00` **cointelegraph** — OCC head promises final GENIUS rules by November
+- `19 Aug 21:17` **yahoo_finance** — Bitcoin and ethereum prices today, Wednesday, August 19, 2026: Crypto prices rise after SEC announces proposed regulation
 - `19 Aug 21:12` **wsj_world** — How Saudi Arabia's Neom Megacity Dream Collapsed
 - `19 Aug 20:50` **yahoo_finance** — Indexed universal life insurance (IUL): Risks, costs, and how it works
+- `19 Aug 20:50` **yahoo_finance** — U.S. debt tops $40 trillion. How soaring federal debt affects you personally.
 - `19 Aug 20:19` **cointelegraph** — Injective receives SEC transfer agent registration for institutional services arm
 - `19 Aug 18:30` **cointelegraph** — 200,000 fake AI 'victims' deployed to scam bait online fraudsters
+- `19 Aug 18:02` **yahoo_finance** — Micron Technology (MU) Is Earning More Than Apple or Microsoft, but Can It Last?
+- `19 Aug 17:52` **yahoo_finance** — Are Wall Street Analysts Bullish on Simon Property Stock?
+- `19 Aug 17:48` **yahoo_finance** — Alphabet's (GOOGL) Small Data Deal Hints At A Bigger AI Appetite
+- `19 Aug 17:47` **yahoo_finance** — Nvidia's (NVDA) $105B Ohio Bet: Ecosystem Expansion or Strategic Circularity?
+- `19 Aug 17:47` **yahoo_finance** — Is NVIDIA's (NVDA) AI Dominance About to Face Its Biggest Test Yet?
 - `19 Aug 17:38` **yahoo_finance** — Marvell gives Google option to buy $12.2 billion stake in custom AI chip deal
+- `19 Aug 17:37` **yahoo_finance** — TOYO Shares Slide After Second-Quarter Earnings and Revenue Miss Forecasts
+- `19 Aug 17:35` **yahoo_finance** — The Next Massive Robotics IPO Is Coming. Will Robotics Stocks Be 2027's Biggest Investing Trend?
+- `19 Aug 17:31` **yahoo_finance** — These Are 3 of the Cheapest Stocks on the Nasdaq-100 Right Now. Are They Deals, or Is There Underlying Risk Here?
+- `19 Aug 17:30` **yahoo_finance** — Parsons Corp Sees Insider Buying as George Ball Invests in 20,000 Shares
 - `19 Aug 17:30` **yahoo_finance** — La-Z-Boy Incorporated Q1 2027 Earnings Call Summary
 - `19 Aug 17:30` **yahoo_finance** — Auna S.A. Q2 2026 Earnings Call Summary
 - `19 Aug 17:30` **yahoo_finance** — Toll Brothers, Inc. Q3 2026 Earnings Call Summary
 - `19 Aug 17:30` **yahoo_finance** — Evogene Ltd. Q2 2026 Earnings Call Summary
 - `19 Aug 17:30` **yahoo_finance** — Keysight Technologies, Inc. Q3 2026 Earnings Call Summary
+- `19 Aug 17:28` **yahoo_finance** — Providence Health Plan to close completely after Medicare Advantage deal falls through
 - `19 Aug 17:25` **yahoo_finance** — These 3 easy benchmarks can help you find out if you're really ready to retire. Have you met them yet?
 - `19 Aug 17:24` **yahoo_finance** — Church & Dwight Stock Outlook: Is Wall Street Bullish or Bearish?
 - `19 Aug 17:24` **yahoo_finance** — Soybeans Surging Higher on Wednesday Morning
@@ -341,22 +372,22 @@ The levies were set to affect 5% of Canadian exports to the U.S. and risked esca
 | investinglive | OK | 25 | 0.0 |  |
 | fxstreet_news | OK | 30 | 0.0 |  |
 | fxstreet_analysis | OK | 30 | 0.1 |  |
-| actionforex | OK | 20 | 0.2 |  |
-| marketpulse | OK | 3 | 0.5 |  |
-| wsj_economy | OK | 36 | 0.2 |  |
+| actionforex | OK | 20 | 0.3 |  |
+| marketpulse | OK | 3 | 0.6 |  |
+| wsj_economy | OK | 36 | 0.3 |  |
 | cme_metals_video | OK | 10 | 0.2 |  |
 | cme_fx_video | OK | 10 | 0.2 |  |
 | cme_rates_video | OK | 10 | 0.2 |  |
 | cme_energy_video | OK | 10 | 0.2 |  |
 | cme_daily_commentary | OK | 10 | 0.2 |  |
-| cme_risk_management | OK | 20 | 7.6 |  |
+| cme_risk_management | OK | 20 | 7.7 |  |
 | fed_monetary | OK | 15 | 1.1 |  |
 | fed_speeches | OK | 15 | 15.0 |  |
 | ecb_press | OK | 15 | 1.6 |  |
 | boe_news | OK | 50 | 9.3 |  |
 | boj_whatsnew | OK | 46 | 3.5 |  |
 | rba_media | OK | 1 | 1.5 |  |
-| bea_releases | OK | 47 | 16.3 |  |
+| bea_releases | OK | 47 | 16.4 |  |
 | wsj_world | OK | 72 | 0.0 |  |
 | wsj_markets | OK | 61 | 0.0 |  |
 | investing_news | OK | 10 | 0.0 |  |

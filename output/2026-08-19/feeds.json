@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "21 Aug 01:33",
+  "updated_pkt": "21 Aug 02:05",
   "feeds": [
     {
       "name": "investinglive",
@@ -26,21 +26,21 @@
       "name": "actionforex",
       "status": "OK",
       "fetched": 20,
-      "newest_age_days": 0.2,
+      "newest_age_days": 0.3,
       "note": ""
     },
     {
       "name": "marketpulse",
       "status": "OK",
       "fetched": 3,
-      "newest_age_days": 0.5,
+      "newest_age_days": 0.6,
       "note": ""
     },
     {
       "name": "wsj_economy",
       "status": "OK",
       "fetched": 36,
-      "newest_age_days": 0.2,
+      "newest_age_days": 0.3,
       "note": ""
     },
     {
@@ -82,7 +82,7 @@
       "name": "cme_risk_management",
       "status": "OK",
       "fetched": 20,
-      "newest_age_days": 7.6,
+      "newest_age_days": 7.7,
       "note": ""
     },
     {
@@ -131,7 +131,7 @@
       "name": "bea_releases",
       "status": "OK",
       "fetched": 47,
-      "newest_age_days": 16.3,
+      "newest_age_days": 16.4,
       "note": ""
     },
     {

@@ -1,8 +1,8 @@
 # News Pack — Trading Day 20 Aug 2026
 
 - Trading day: **20 Aug 03:00 -> 21 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 01:39 PKT**
-- Kul khabrein: **182**
+- Aakhri update: **21 Aug 02:05 PKT**
+- Kul khabrein: **196**
 - Feeds: 25/25 OK
 
 ---
@@ -97,45 +97,10 @@ SK Hynix swap costs, which spiked to 1000bp in June, now said to halve Run on ba
 
 ### GOLD
 
-**Comex Gold Settles 0.60% Higher at $4516.30**
-`20 Aug 23:53 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_markets
-
-Comex gold settled 0.6% higher and silver rose 3.5%, with both metals up for a second-consecutive session.
-
-**Silver Price Forecast: XAG/USD tests 100-day SMA as rally extends**
-`20 Aug 23:12 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
-
-Silver (XAG/USD) price extended its gains on Thursday, up more than 1.70%, even as US yields recovered some ground following the US Treasury bond buyback announcement. The XAG/USD pair trades at $68.18 at the time of writing, its highest level since June 18.
-
-**Gold pulls back as US yields recover after Treasury buyback**
-`20 Aug 22:36 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
-
-Gold (XAU/USD) price retreats about 0.33% on Thursday as US Treasury yields trim some of their Wednesday losses, weighing on bullion, which is also pressured by the recovery of the US Dollar. The XAU/USD pair trades at $4,509, after hitting a daily high of $4,540.
-
 **Gold: Higher range holds but next leg delayed – TD Securities**
 `20 Aug 18:45 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
 
 Ryan McKay and Bart Melek at TD Securities say Gold and broader precious metals are likely to remain comfortable in a higher trading range.
-
-**Gold reclaims $4,500 despite rebound in US Treasury yields and US Dollar**
-`20 Aug 16:16 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
-
-Gold (XAU/USD) trims its earlier intraday losses during American trading hours on Thursday and climbs back above the $4,500 mark, even as US Treasury yields rebound and the US Dollar (USD) stabilizes following the previous day's sharp pullback.
-
-**Trump Sparks Crypto Acceleration as Treasury Buybacks Add Fuel to Bitcoin and Ethereum**
-`20 Aug 15:01 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
-
-Bitcoin and Ethereum have surged over 14% and 22% this week, respectively, as falling real yields from the Treasury buyback shock combine with Trump's renewed crypto policy push — turning a macro rebound into a more powerful, crypto-specific acceleration. The post Trump Sparks Crypto Acceleration as Treasury Buybacks Add Fuel to Bitcoin and Ethereum appeared first on ActionForex.
-
-**Chart Alert: Gold Major Bullish Breakout as USD Debasement Narrative Takes Hold**
-`20 Aug 13:50 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
-
-Key takeaways Gold surges: XAU/USD jumped 4.35% on 19 August, its biggest one-day gain since February, lifting its August gain to 10.7%. USD debasement drives gold: Treasury bond buybacks have fuelled fiscal-dominance concerns, shifting focus from yields to US dollar purchasing-power risk.
-
-**Chart alert: Gold major bullish breakout as USD debasement narrative takes hold**
-`20 Aug 12:38 PKT` · pehli baar dekhi `21 Aug 01:33` · marketpulse
-
-Gold (XAU/USD) has staged a major bullish breakout, surging 4.35% on 19 August for its largest one-day gain since February 2026. The rally reflects growing US dollar debasement and fiscal-dominance concerns following larger US Treasury bond buybacks. Technical momentum remains bullish above the $4,434/$4,405 pivotal support, while a sustained break above $4,504 could reinforce the advance towards $4,580 and $4,640.
 
 **200-day SMA briefly reclaimed, but Gold pulls back before the next leg north**
 `20 Aug 08:05 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_analysis
@@ -143,6 +108,9 @@ Gold (XAU/USD) has staged a major bullish breakout, surging 4.35% on 19 August f
 Gold is struggling around the $4,500 level in Asia on Thursday after reaching the highest level in 11 weeks at $4,528 in early dealings.
 
 ### USD
+
+**Bond relief ebbs, stocks mixed as investors question Treasury's rescue efforts**
+`21 Aug 01:48 PKT` · pehli baar dekhi `21 Aug 02:05` · investing_news
 
 **Wall Street slides as Treasury yields, Walmart miss, and ongoing war hit stocks**
 `21 Aug 01:32 PKT` · pehli baar dekhi `21 Aug 01:39` · investinglive
@@ -212,6 +180,11 @@ United Overseas Bank's Quek Ser Leang and Lee Sue Ann note that USD/SGD extended
 
 The 30-year Treasury is 12 basis points below its highest level since before the financial crisis. Not its highest since 2023, or since the tightening cycle, but since June 12, 2007, the last time the longest bond in the world's deepest market yielded what it yields on Thursday.
 
+**Silver Price Forecast: XAG/USD tests 100-day SMA as rally extends**
+`20 Aug 23:12 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
+
+Silver (XAG/USD) price extended its gains on Thursday, up more than 1.70%, even as US yields recovered some ground following the US Treasury bond buyback announcement. The XAG/USD pair trades at $68.18 at the time of writing, its highest level since June 18.
+
 **The rise in interest rates hit a 'raw nerve' at the White House. Bessent's plan has analysts on edge.**
 `20 Aug 23:09 PKT` · pehli baar dekhi `21 Aug 01:33` · mw_topstories
 
@@ -231,6 +204,11 @@ USD/JPY rebounds on Thursday, recovering most of the previous day's losses as th
 `20 Aug 22:43 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
 
 Analysts say the $40 trillion debt milestone could bolster Bitcoin's long-term case, even as Treasury yields, dollar strength and liquidity remain key near-term drivers.
+
+**Gold pulls back as US yields recover after Treasury buyback**
+`20 Aug 22:36 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
+
+Gold (XAU/USD) price retreats about 0.33% on Thursday as US Treasury yields trim some of their Wednesday losses, weighing on bullion, which is also pressured by the recovery of the US Dollar. The XAU/USD pair trades at $4,509, after hitting a daily high of $4,540.
 
 **Banxico minutes signal long rate pause as inflation eases**
 `20 Aug 22:36 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
@@ -357,6 +335,11 @@ Prior was +41.4 Details: New orders 30.1 versus 37.0 last month Shipments 27.7 v
 
 Prior 209K (revised to 212K) Continuing claims 1799K vs 1790K expected Prior 1777K (revised to 1781K) Initial jobless claims fell to 206,000 for the week ending August 15, below the 210,000 consensus forecast. The previous week's figure was revised higher to 212,000 from 209,000. The data suggest that employers continue to hold onto workers despite signs of moderation.
 
+**Gold reclaims $4,500 despite rebound in US Treasury yields and US Dollar**
+`20 Aug 16:16 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
+
+Gold (XAU/USD) trims its earlier intraday losses during American trading hours on Thursday and climbs back above the $4,500 mark, even as US Treasury yields rebound and the US Dollar (USD) stabilizes following the previous day's sharp pullback.
+
 **Walmart shares fall on signal that consumers are pulling back on spending**
 `20 Aug 16:15 PKT` · pehli baar dekhi `21 Aug 01:33` · investinglive
 
@@ -367,6 +350,11 @@ Walmart shares were trading roughly flat in pre-market just before the earnings 
 
 Plus, 40 trillion reasons to worry.
 
+**Trump Sparks Crypto Acceleration as Treasury Buybacks Add Fuel to Bitcoin and Ethereum**
+`20 Aug 15:01 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
+
+Bitcoin and Ethereum have surged over 14% and 22% this week, respectively, as falling real yields from the Treasury buyback shock combine with Trump's renewed crypto policy push — turning a macro rebound into a more powerful, crypto-specific acceleration. The post Trump Sparks Crypto Acceleration as Treasury Buybacks Add Fuel to Bitcoin and Ethereum appeared first on ActionForex.
+
 **The Dollar Has Followed in the Yen's Footsteps**
 `20 Aug 14:57 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
 
@@ -376,6 +364,11 @@ The US Treasury is defending bond yields. The dovish Fed is weakening the dollar
 `20 Aug 14:30 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_markets
 
 Two new studies find signs investors aren't as willing to accept low yields because of Treasurys' safety.
+
+**Chart Alert: Gold Major Bullish Breakout as USD Debasement Narrative Takes Hold**
+`20 Aug 13:50 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
+
+Key takeaways Gold surges: XAU/USD jumped 4.35% on 19 August, its biggest one-day gain since February, lifting its August gain to 10.7%. USD debasement drives gold: Treasury bond buybacks have fuelled fiscal-dominance concerns, shifting focus from yields to US dollar purchasing-power risk.
 
 **GBP/USD at Three-Month High: Outlook Hinges on Economic Data**
 `20 Aug 13:49 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
@@ -401,6 +394,11 @@ Riksbank policymakers have held rates steady for seven consecutive meetings, ado
 `20 Aug 13:12 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_markets
 
 Dow slumps 700 points as bond yields rise with crude prices
+
+**Chart alert: Gold major bullish breakout as USD debasement narrative takes hold**
+`20 Aug 12:38 PKT` · pehli baar dekhi `21 Aug 01:33` · marketpulse
+
+Gold (XAU/USD) has staged a major bullish breakout, surging 4.35% on 19 August for its largest one-day gain since February 2026. The rally reflects growing US dollar debasement and fiscal-dominance concerns following larger US Treasury bond buybacks. Technical momentum remains bullish above the $4,434/$4,405 pivotal support, while a sustained break above $4,504 could reinforce the advance towards $4,580 and $4,640.
 
 **Stock Market Today: Treasury Buybacks Lift Tech as Chips, Crypto and Moderna Lead**
 `20 Aug 12:36 PKT` · pehli baar dekhi `21 Aug 01:33` · investinglive
@@ -463,6 +461,11 @@ Binance's Agent OS lets AI agents access market data, execute trades and make pa
 `21 Aug 00:40 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_markets
 
 U.S. natural gas futures settled lower with little consolation from the smallest inventory build of the season to date.
+
+**Comex Gold Settles 0.60% Higher at $4516.30**
+`20 Aug 23:53 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_markets
+
+Comex gold settled 0.6% higher and silver rose 3.5%, with both metals up for a second-consecutive session.
 
 **Neocloud stocks like CoreWeave are having a moment — and time's running out to cash in**
 `20 Aug 23:20 PKT` · pehli baar dekhi `21 Aug 01:33` · mw_topstories
@@ -553,6 +556,13 @@ Nasdaq futures are testing the upper boundary of the descending channel that has
 `20 Aug 07:00 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_world
 
 A leadership shake-up at Tata Sons has highlighted the challenges facing India's family-founded behemoths.
+
+### JPY
+
+**Preview: Japan core CPI seen hitting six month high, lifting bets on BoJ September hike**
+`21 Aug 01:49 PKT` · pehli baar dekhi `21 Aug 02:05` · investinglive
+
+Market pricing for a Bank of Japan rate hike in September has climbed to ~80 percent, up sharply from around 65 percent in early August, after media reports pointed to government support for an early tightening move. Attention is shifting toward the pace of subsequent hikes rather than whether the BoJ moves at all in September, a dynamic that could stoke concern about a faster than expected tightening path.
 
 ### CAD
 
@@ -655,10 +665,22 @@ Senator Ruben Gallego said the White House has not provided point-by-point feedb
 
 The United Arab Emirates, long Tehran's gateway to global commerce and finance, has pledged to crack down. But it's complicated.
 
-### BINA TAG (56)
+### BINA TAG (68)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `21 Aug 02:01` **mw_topstories** — We're in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?
+- `21 Aug 01:56` **cointelegraph** — CFTC chair says agency will move forward on crypto regulation if CLARITY fails
+- `21 Aug 01:54` **wsj_markets** — Private Credit's Next Big Thing Is $1 Trillion in British Pensions
+- `21 Aug 01:50` **investing_news** — DSV Leads Jefferies' Global Transport & Logistics Picks
+- `21 Aug 01:50` **investing_news** — Rigetti Computing COO David Rivas sells $151,734 in stock
+- `21 Aug 01:50` **investing_news** — NHC CEO Stephen Flatt sells $355,620 in company shares
+- `21 Aug 01:48` **investing_news** — Goldman Sachs raises NetEase stock price target on gaming strength
+- `21 Aug 01:48` **investing_news** — Ross Stores raises annual profit forecast again on discounted apparel demand
+- `21 Aug 01:48` **investing_news** — Provident Financial Services prices $175M subordinated notes
+- `21 Aug 01:46` **investing_news** — Rigetti Computing CTO Andrew Bestwick sells $97,319 in stock.
+- `21 Aug 01:46` **investing_news** — Applied Optoelectronics SVP Yeh sells $886k in shares
+- `21 Aug 01:46` **investing_news** — Roblox chief legal officer Mark Reinstra sells $250,000 of RBLX stock
 - `21 Aug 01:34` **investing_news** — Forum Markets at Micro-Cap Virtual Conference: cash flow first, tokenization later
 - `21 Aug 01:31` **investing_news** — Largo stock rises after debt restructuring extends maturity
 - `21 Aug 01:31` **investing_news** — TSX ends lower hurt by slump in financial and technology stocks
@@ -725,8 +747,8 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 | investinglive | OK | 25 | 0.0 |  |
 | fxstreet_news | OK | 30 | 0.0 |  |
 | fxstreet_analysis | OK | 30 | 0.1 |  |
-| actionforex | OK | 20 | 0.2 |  |
-| marketpulse | OK | 3 | 0.5 |  |
+| actionforex | OK | 20 | 0.3 |  |
+| marketpulse | OK | 3 | 0.6 |  |
 | wsj_economy | OK | 36 | 0.3 |  |
 | cme_metals_video | OK | 10 | 0.2 |  |
 | cme_fx_video | OK | 10 | 0.2 |  |
@@ -740,7 +762,7 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 | boe_news | OK | 50 | 9.3 |  |
 | boj_whatsnew | OK | 46 | 3.5 |  |
 | rba_media | OK | 1 | 1.5 |  |
-| bea_releases | OK | 47 | 16.3 |  |
+| bea_releases | OK | 47 | 16.4 |  |
 | wsj_world | OK | 72 | 0.0 |  |
 | wsj_markets | OK | 61 | 0.0 |  |
 | investing_news | OK | 10 | 0.0 |  |
