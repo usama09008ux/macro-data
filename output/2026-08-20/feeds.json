@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "21 Aug 02:05",
+  "updated_pkt": "21 Aug 02:40",
   "feeds": [
     {
       "name": "investinglive",
@@ -47,35 +47,35 @@
       "name": "cme_metals_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.2,
+      "newest_age_days": 0.3,
       "note": ""
     },
     {
       "name": "cme_fx_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.2,
+      "newest_age_days": 0.3,
       "note": ""
     },
     {
       "name": "cme_rates_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.2,
+      "newest_age_days": 0.3,
       "note": ""
     },
     {
       "name": "cme_energy_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.2,
+      "newest_age_days": 0.3,
       "note": ""
     },
     {
       "name": "cme_daily_commentary",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.2,
+      "newest_age_days": 0.3,
       "note": ""
     },
     {
@@ -89,14 +89,14 @@
       "name": "fed_monetary",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 1.1,
+      "newest_age_days": 1.2,
       "note": ""
     },
     {
       "name": "fed_speeches",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 15.0,
+      "newest_age_days": 15.1,
       "note": ""
     },
     {
@@ -110,14 +110,14 @@
       "name": "boe_news",
       "status": "OK",
       "fetched": 50,
-      "newest_age_days": 9.3,
+      "newest_age_days": 9.4,
       "note": ""
     },
     {
       "name": "boj_whatsnew",
       "status": "OK",
       "fetched": 46,
-      "newest_age_days": 3.5,
+      "newest_age_days": 3.6,
       "note": ""
     },
     {
@@ -158,7 +158,7 @@
     {
       "name": "yahoo_finance",
       "status": "OK",
-      "fetched": 50,
+      "fetched": 49,
       "newest_age_days": 0.5,
       "note": ""
     },

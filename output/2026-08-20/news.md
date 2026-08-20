@@ -1,8 +1,8 @@
 # News Pack — Trading Day 20 Aug 2026
 
 - Trading day: **20 Aug 03:00 -> 21 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 02:05 PKT**
-- Kul khabrein: **196**
+- Aakhri update: **21 Aug 02:40 PKT**
+- Kul khabrein: **216**
 - Feeds: 25/25 OK
 
 ---
@@ -108,6 +108,21 @@ Ryan McKay and Bart Melek at TD Securities say Gold and broader precious metals 
 Gold is struggling around the $4,500 level in Asia on Thursday after reaching the highest level in 11 weeks at $4,528 in early dealings.
 
 ### USD
+
+**U.S. Stocks and Bonds Slide, Brushing Off Treasury's Buyback Plans**
+`21 Aug 02:32 PKT` · pehli baar dekhi `21 Aug 02:40` · wsj_markets
+
+Mixed results from Walmart and other retailers offered more gloom on the health of the American consumer.
+
+**Fed's Daly, Musalem united on credibility concerns as bond selloff persists, but split on policy**
+`21 Aug 02:14 PKT` · pehli baar dekhi `21 Aug 02:40` · investinglive
+
+The remarks land as traders sharply pare bets on a September rate increase, with pricing falling to around 30 percent from more than 70 percent at the end of July. Daly's comments suggest a voting bloc within the Fed sees little urgency to act preemptively despite the bond market turmoil, which could reinforce the recent repricing lower in near term hike odds.
+
+**Bitcoin breaks above 200-day moving average for first time since November**
+`21 Aug 02:03 PKT` · pehli baar dekhi `21 Aug 02:40` · cointelegraph
+
+The BTC price reclaimed its 200-day moving average for the first time in nine months as its rally gained momentum after the US Treasury expanded its bond buybacks.
 
 **Bond relief ebbs, stocks mixed as investors question Treasury's rescue efforts**
 `21 Aug 01:48 PKT` · pehli baar dekhi `21 Aug 02:05` · investing_news
@@ -559,6 +574,11 @@ A leadership shake-up at Tata Sons has highlighted the challenges facing India's
 
 ### JPY
 
+**Japanese Yen slips as firmer yields lift US Dollar ahead of global PMIs**
+`21 Aug 02:18 PKT` · pehli baar dekhi `21 Aug 02:40` · fxstreet_news
+
+USD/JPY trades north of the 159.00 barrier at the time of writing on Thursday, higher on the day and clawing back most of the previous session's losses. The move owes more to a steadier US Dollar (USD) than to anything out of Japan, with the Greenback recovering after slipping to a three-month low.
+
 **Preview: Japan core CPI seen hitting six month high, lifting bets on BoJ September hike**
 `21 Aug 01:49 PKT` · pehli baar dekhi `21 Aug 02:05` · investinglive
 
@@ -586,6 +606,13 @@ Canadian manufactured goods prices rose again last month, driven higher by a jum
 
 The five owners of Florida-based EverBank clashed over its strategy after their 2023 purchase.
 
+### NZD
+
+**New Zealand Dollar holds early June high**
+`21 Aug 02:39 PKT` · pehli baar dekhi `21 Aug 02:40` · fxstreet_news
+
+The New Zealand Dollar (NZD) is holding near the top of its recent range against the US Dollar (USD), sitting in the mid-0.5900s at the time of writing after touching its best level since early June.
+
 ### OIL
 
 **Oil Extends Rally as U.S. Threatens Economic Measures**
@@ -611,6 +638,11 @@ West Texas Intermediate (WTI) US Oil rises 1.89% on Thursday and trades around $
 The Mexican Peso holds firm versus the Greenback as Banxico adopted a cautious stance regarding monetary policy, while jobs data in the US revealed that the labour market is stable. The USD/MXN pair exchanges hands at 16.95, virtually unchanged.
 
 ### RISK
+
+**Walmart Adds to Wall Street Pressures With Weak Sales Growth**
+`21 Aug 02:36 PKT` · pehli baar dekhi `21 Aug 02:40` · wsj_markets
+
+Plus, Romania accused Russia of launching an explosive drone, and healthcare costs are set for a steep increase.
 
 **Opinion | Dissent Grows Among Russia's Political Elites**
 `21 Aug 01:20 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_world
@@ -665,10 +697,23 @@ Senator Ruben Gallego said the White House has not provided point-by-point feedb
 
 The United Arab Emirates, long Tehran's gateway to global commerce and finance, has pledged to crack down. But it's complicated.
 
-### BINA TAG (68)
+### BINA TAG (82)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `21 Aug 02:40` **wsj_world** — Opinion | Darline Graham's Taiwan Mistake
+- `21 Aug 02:29` **wsj_markets** — James Hardie Selling European Fermacell Business for $980 Million to Holcim
+- `21 Aug 02:12` **investing_news** — Brazil launches AI supercomputer push, splits projects between Chinese, US firms
+- `21 Aug 02:11` **investing_news** — Earnings call transcript: Flux Power posts q4 2026 revenue miss, shares swing lower
+- `21 Aug 02:09` **wsj_markets** — Opinion | World Liberty's Stablecoin Becomes a Partisan Target
+- `21 Aug 02:08` **investing_news** — Route1 at Emerging Growth Conference: shifts to outcome-driven growth
+- `21 Aug 02:08` **investing_news** — Earnings call transcript: POSaBIT posts stronger margins in Q2 2026
+- `21 Aug 02:07` **investing_news** — Trading Day: Can't get no relief
+- `21 Aug 02:06` **investing_news** — Delta, Aeromexico win court battle to keep joint venture
+- `21 Aug 02:04` **investing_news** — Real Brokerage announces RE/MAX merger consideration results
+- `21 Aug 02:04` **investing_news** — Simmons First declares $0.215 quarterly dividend, up 1%
+- `21 Aug 02:04` **investing_news** — EShallGo raises $1.75 million in registered direct offering
+- `21 Aug 02:04` **investing_news** — Richmond Mutual Bancorporation declares $0.15 quarterly dividend
 - `21 Aug 02:01` **mw_topstories** — We're in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?
 - `21 Aug 01:56` **cointelegraph** — CFTC chair says agency will move forward on crypto regulation if CLARITY fails
 - `21 Aug 01:54` **wsj_markets** — Private Credit's Next Big Thing Is $1 Trillion in British Pensions
@@ -722,6 +767,7 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 - `20 Aug 16:16` **cointelegraph** — Bitcoin ETFs draw $517M in largest one-day inflow since early May
 - `20 Aug 16:05` **wsj_world** — Dwindling Patriot Supplies Leave Kyiv in the Line of Fire
 - `20 Aug 16:05` **cointelegraph** — Crypto generated about 1% of Webull's record $198M Q2 revenue
+- `20 Aug 15:00` **yahoo_finance** — Best CD rates today, Thursday, August 20, 2026: Lock in up to 4.30% APY with a 16-month CD
 - `20 Aug 14:30` **wsj_economy** — After 66-year-old Lynn Lee was laid off last year, she began an odyssey to find her way back to employment. "Don't give up."
 - `20 Aug 14:30` **wsj_markets** — Hyperscalers' Off-Grid Power Push Comes With Risks
 - `20 Aug 14:03` **yahoo_finance** — Bank of America sends message on Capital One stock
@@ -750,22 +796,22 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 | actionforex | OK | 20 | 0.3 |  |
 | marketpulse | OK | 3 | 0.6 |  |
 | wsj_economy | OK | 36 | 0.3 |  |
-| cme_metals_video | OK | 10 | 0.2 |  |
-| cme_fx_video | OK | 10 | 0.2 |  |
-| cme_rates_video | OK | 10 | 0.2 |  |
-| cme_energy_video | OK | 10 | 0.2 |  |
-| cme_daily_commentary | OK | 10 | 0.2 |  |
+| cme_metals_video | OK | 10 | 0.3 |  |
+| cme_fx_video | OK | 10 | 0.3 |  |
+| cme_rates_video | OK | 10 | 0.3 |  |
+| cme_energy_video | OK | 10 | 0.3 |  |
+| cme_daily_commentary | OK | 10 | 0.3 |  |
 | cme_risk_management | OK | 20 | 7.7 |  |
-| fed_monetary | OK | 15 | 1.1 |  |
-| fed_speeches | OK | 15 | 15.0 |  |
+| fed_monetary | OK | 15 | 1.2 |  |
+| fed_speeches | OK | 15 | 15.1 |  |
 | ecb_press | OK | 15 | 1.6 |  |
-| boe_news | OK | 50 | 9.3 |  |
-| boj_whatsnew | OK | 46 | 3.5 |  |
+| boe_news | OK | 50 | 9.4 |  |
+| boj_whatsnew | OK | 46 | 3.6 |  |
 | rba_media | OK | 1 | 1.5 |  |
 | bea_releases | OK | 47 | 16.4 |  |
 | wsj_world | OK | 72 | 0.0 |  |
 | wsj_markets | OK | 61 | 0.0 |  |
 | investing_news | OK | 10 | 0.0 |  |
-| yahoo_finance | OK | 50 | 0.5 |  |
+| yahoo_finance | OK | 49 | 0.5 |  |
 | mw_topstories | OK | 10 | 0.0 |  |
 | cointelegraph | OK | 30 | 0.0 |  |
