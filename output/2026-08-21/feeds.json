@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "21 Aug 03:41",
+  "updated_pkt": "21 Aug 04:04",
   "feeds": [
     {
       "name": "investinglive",
@@ -40,49 +40,49 @@
       "name": "wsj_economy",
       "status": "OK",
       "fetched": 36,
-      "newest_age_days": 0.3,
+      "newest_age_days": 0.4,
       "note": ""
     },
     {
       "name": "cme_metals_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": ""
     },
     {
       "name": "cme_fx_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": ""
     },
     {
       "name": "cme_rates_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": ""
     },
     {
       "name": "cme_energy_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": ""
     },
     {
       "name": "cme_daily_commentary",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": ""
     },
     {
       "name": "cme_risk_management",
       "status": "OK",
       "fetched": 20,
-      "newest_age_days": 7.7,
+      "newest_age_days": 7.8,
       "note": ""
     },
     {
@@ -103,7 +103,7 @@
       "name": "ecb_press",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 1.6,
+      "newest_age_days": 1.7,
       "note": ""
     },
     {
@@ -138,14 +138,14 @@
       "name": "wsj_world",
       "status": "OK",
       "fetched": 72,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": ""
     },
     {
       "name": "wsj_markets",
       "status": "OK",
       "fetched": 61,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": ""
     },
     {
@@ -158,7 +158,7 @@
     {
       "name": "yahoo_finance",
       "status": "OK",
-      "fetched": 50,
+      "fetched": 48,
       "newest_age_days": 0.5,
       "note": ""
     },
