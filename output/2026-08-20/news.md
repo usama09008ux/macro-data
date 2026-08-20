@@ -1,13 +1,38 @@
 # News Pack — Trading Day 20 Aug 2026
 
 - Trading day: **20 Aug 03:00 -> 21 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 02:40 PKT**
-- Kul khabrein: **216**
+- Aakhri update: **21 Aug 03:03 PKT**
+- Kul khabrein: **232**
 - Feeds: 25/25 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**Equity indices drop as Micro Bitcoin futures volume tops 100,000.**
+`21 Aug 02:38 PKT` · pehli baar dekhi `21 Aug 03:03` · cme_daily_commentary
+
+Scott Bauer discusses the recent risk-off sentiment in equity markets as Treasury yields reverse course and climb. The Dow dropped over 600 points, with the Nasdaq-100 and S&P 500 following lower amid stronger-than-expected manufacturing data and declining jobless claims. In the options market, E-mini S&P 500 futures see a significant uptick in put volume alongside higher implied volatility.
+
+**Gold futures rebounded after testing 200-day moving average.**
+`21 Aug 02:37 PKT` · pehli baar dekhi `21 Aug 03:03` · cme_metals_video
+
+Gold futures rebounded after testing support near their 200-day moving average, dropping to a low of $4,506 before rallying to $4,597.10. The metal built on Wednesday's gains following the release of the FOMC meeting minutes, which showed ongoing debate over rate hikes while softer economic data continues to support prices. Additionally, the U.S.
+
+**Natural Gas futures rebounded from lows following EIA build.**
+`21 Aug 02:37 PKT` · pehli baar dekhi `21 Aug 03:03` · cme_energy_video
+
+Natural Gas futures bounced off session lows despite a weekly EIA storage build of 16 billion cubic feet, which came in slightly higher than market expectations of 14 billion cubic feet. The build brought total inventories to 3,169 billion cubic feet, narrowing the surplus to 185 billion cubic feet and leaving supplies 28 billion cubic feet below last year's levels.
+
+**Euro futures test May highs ahead of Jackson Hole symposium.**
+`21 Aug 02:36 PKT` · pehli baar dekhi `21 Aug 03:03` · cme_fx_video
+
+Euro futures tested their highest levels since mid-May before reversing course to close near unchanged at 1.1675. The currency rallied as news of increased bond buybacks from the Treasury pushed the U.S. dollar to three-month lows. In the options market, the CVOL index showed volatility easing slightly as prices backed off their daily highs.
+
+**Treasury futures await Jackson Hole as 10-Year yields rebound.**
+`21 Aug 02:35 PKT` · pehli baar dekhi `21 Aug 03:03` · cme_rates_video
+
+Todd Colvin discusses the recent price action in 10-Year Treasury yields, noting a rebound to near 4.70% that reversed Wednesday's decline. Despite recent bond buyback announcements from the Treasury, the market focus remains on underlying inflation and demand dynamics. Colvin also highlights a slight uptick in the CVOL index as volatility nudges higher alongside yields.
 
 **Retail earnings highlight selective consumers.**
 `20 Aug 20:19 PKT` · pehli baar dekhi `21 Aug 01:33` · cme_metals_video
@@ -615,6 +640,14 @@ The New Zealand Dollar (NZD) is holding near the top of its recent range against
 
 ### OIL
 
+**South Korea producer prices fall for first time in 11 months on cheaper oil that month**
+`21 Aug 02:52 PKT` · pehli baar dekhi `21 Aug 03:03` · investinglive
+
+The on month decline snaps an 11 month run of gains and points to some near term easing in the pipeline pressures that feed into consumer prices, though the year on year rate remains elevated at 7.7 percent. The mix within the data is notable, with industrial goods and utility costs providing the disinflationary pull while agricultural, livestock and fisheries prices moved in the opposite direction on weather related supply disruption.
+
+**Oil hits nearly one-month high as Trump ramps up economic warfare against Iran**
+`21 Aug 02:29 PKT` · pehli baar dekhi `21 Aug 03:03` · investing_news
+
 **Oil Extends Rally as U.S. Threatens Economic Measures**
 `21 Aug 00:14 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_markets
 
@@ -697,11 +730,20 @@ Senator Ruben Gallego said the White House has not provided point-by-point feedb
 
 The United Arab Emirates, long Tehran's gateway to global commerce and finance, has pledged to crack down. But it's complicated.
 
-### BINA TAG (82)
+### BINA TAG (91)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `21 Aug 02:40` **investing_news** — Earnings call transcript: Ross Stores tops Q2 2026 estimates, shares jump after hours
 - `21 Aug 02:40` **wsj_world** — Opinion | Darline Graham's Taiwan Mistake
+- `21 Aug 02:38` **investing_news** — SkyCity FY26 slides: earnings fall 22% as asset sales, online push begin
+- `21 Aug 02:36` **investing_news** — Abbott agrees to $670 million settlement of infant formula cases
+- `21 Aug 02:36` **investing_news** — Tredegar adds Ana Dutra to board as independent director
+- `21 Aug 02:32` **investing_news** — Roots agrees to be acquired by Marquee Brands for C$4.10 per share
+- `21 Aug 02:31` **investing_news** — Fastly CTO Artur Bergman sells $1.7m in shares, some for tax
+- `21 Aug 02:31` **investing_news** — Performance food group EVP King sells $159k in company stock
+- `21 Aug 02:31` **investing_news** — SmartRent director Thomas Bohjalian buys $76,395 in stock
+- `21 Aug 02:30` **investing_news** — Mexico stocks higher at close of trade; S&P/BMV IPC up 0.55%
 - `21 Aug 02:29` **wsj_markets** — James Hardie Selling European Fermacell Business for $980 Million to Holcim
 - `21 Aug 02:12` **investing_news** — Brazil launches AI supercomputer push, splits projects between Chinese, US firms
 - `21 Aug 02:11` **investing_news** — Earnings call transcript: Flux Power posts q4 2026 revenue miss, shares swing lower
@@ -796,11 +838,11 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 | actionforex | OK | 20 | 0.3 |  |
 | marketpulse | OK | 3 | 0.6 |  |
 | wsj_economy | OK | 36 | 0.3 |  |
-| cme_metals_video | OK | 10 | 0.3 |  |
-| cme_fx_video | OK | 10 | 0.3 |  |
-| cme_rates_video | OK | 10 | 0.3 |  |
-| cme_energy_video | OK | 10 | 0.3 |  |
-| cme_daily_commentary | OK | 10 | 0.3 |  |
+| cme_metals_video | OK | 10 | 0.0 |  |
+| cme_fx_video | OK | 10 | 0.0 |  |
+| cme_rates_video | OK | 10 | 0.0 |  |
+| cme_energy_video | OK | 10 | 0.0 |  |
+| cme_daily_commentary | OK | 10 | 0.0 |  |
 | cme_risk_management | OK | 20 | 7.7 |  |
 | fed_monetary | OK | 15 | 1.2 |  |
 | fed_speeches | OK | 15 | 15.1 |  |
@@ -812,6 +854,6 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 | wsj_world | OK | 72 | 0.0 |  |
 | wsj_markets | OK | 61 | 0.0 |  |
 | investing_news | OK | 10 | 0.0 |  |
-| yahoo_finance | OK | 49 | 0.5 |  |
+| yahoo_finance | OK | 50 | 0.5 |  |
 | mw_topstories | OK | 10 | 0.0 |  |
 | cointelegraph | OK | 30 | 0.0 |  |
