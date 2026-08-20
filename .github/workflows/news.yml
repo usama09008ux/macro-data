@@ -48,7 +48,13 @@ jobs:
             exit 0
           fi
 
-          git commit -m "news $(date -u +'%Y-%m-%d %H:%M')Z"
+          # Commit message script ne banaya hai — us mein trading day
+          # aur Pakistani waqt dono hain. "Z" (UTC) ab nahi aayega.
+          if [ -f output/last_run.txt ]; then
+            git commit -F output/last_run.txt
+          else
+            git commit -m "news update"
+          fi
 
           # Do run takra sakte hain. Teen baar koshish karo.
           for i in 1 2 3; do
