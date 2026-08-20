@@ -270,6 +270,74 @@ keywords:
   rates:  [rate hike, rate cut, hawkish, dovish, minutes, bid-to-cover, margin]
 
 # ==========================================================
+# FRED SERIES  —  Phase 2
+# ----------------------------------------------------------
+# kind: daily / weekly / monthly / quarterly
+#   daily    -> 1d, 5d, 20d change + 2-saal ka percentile
+#   weekly   -> hafta-war change
+#   monthly  -> MoM aur YoY
+#   quarterly-> QoQ aur YoY
+#
+# key GitHub Secret "FRED_API_KEY" mein hai, code mein nahi.
+# ==========================================================
+
+fred_groups:
+
+  rates_yields:
+    label: "Rates aur Yields"
+    series:
+      - {id: DFEDTARU,  kind: daily,  name: "Fed funds target (upper)", unit: "%"}
+      - {id: DGS2,      kind: daily,  name: "US 2Y yield",  unit: "%"}
+      - {id: DGS10,     kind: daily,  name: "US 10Y yield", unit: "%"}
+      - {id: DGS30,     kind: daily,  name: "US 30Y yield", unit: "%"}
+      - {id: T10Y2Y,    kind: daily,  name: "10Y-2Y spread", unit: "%"}
+      - {id: T10Y3M,    kind: daily,  name: "10Y-3M spread", unit: "%"}
+
+  gold_drivers:
+    label: "Gold ke asal drivers"
+    series:
+      - {id: DFII10,    kind: daily,  name: "10Y REAL yield (TIPS)", unit: "%"}
+      - {id: DFII5,     kind: daily,  name: "5Y REAL yield (TIPS)",  unit: "%"}
+      - {id: T10YIE,    kind: daily,  name: "10Y breakeven inflation", unit: "%"}
+      - {id: T5YIE,     kind: daily,  name: "5Y breakeven inflation",  unit: "%"}
+      - {id: DTWEXBGS,  kind: daily,  name: "Broad dollar index", unit: "idx"}
+
+  risk:
+    label: "Risk aur stress"
+    series:
+      - {id: VIXCLS,       kind: daily, name: "VIX", unit: ""}
+      - {id: BAMLH0A0HYM2, kind: daily, name: "High-yield credit spread", unit: "%"}
+      - {id: STLFSI4,      kind: daily, name: "Financial stress index", unit: ""}
+
+  inflation:
+    label: "Inflation"
+    series:
+      - {id: CPIAUCSL,  kind: monthly, name: "CPI (headline)", unit: "idx"}
+      - {id: CPILFESL,  kind: monthly, name: "Core CPI", unit: "idx"}
+      - {id: PCEPILFE,  kind: monthly, name: "Core PCE (Fed ka hadaf)", unit: "idx"}
+      - {id: PPIFIS,    kind: monthly, name: "PPI final demand", unit: "idx"}
+
+  labour:
+    label: "Labour"
+    series:
+      - {id: PAYEMS,        kind: monthly, name: "Nonfarm payrolls", unit: "k"}
+      - {id: UNRATE,        kind: monthly, name: "Unemployment rate", unit: "%"}
+      - {id: CES0500000003, kind: monthly, name: "Average hourly earnings", unit: "$"}
+      - {id: ICSA,          kind: weekly,  name: "Initial jobless claims", unit: ""}
+
+  growth:
+    label: "Growth"
+    series:
+      - {id: RSAFS,   kind: monthly,   name: "Retail sales", unit: "$m"}
+      - {id: INDPRO,  kind: monthly,   name: "Industrial production", unit: "idx"}
+      - {id: GDPC1,   kind: quarterly, name: "Real GDP", unit: "$b"}
+
+fred_settings:
+  history_years: 3            # percentile aur YoY ke liye
+  sleep_between_calls: 0.3    # FRED ki had 120/minute hai
+  timeout: 25
+
+# ==========================================================
 # TAG WEIGHTS
 # ----------------------------------------------------------
 # Khabar us section mein jati hai jis ka score sab se zyada ho.
