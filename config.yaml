@@ -94,7 +94,9 @@ feeds_cme:
     url: "https://www.cmegroup.com/rss/daily-market-commentary-videos.rss"
     weight: 4
     cadence_days: 1
-    # Mila jula feed — test mein "Live Cattle" aaya tha. Kam weight.
+    keyword_filter: true
+    # Mila jula feed — is mein cattle aur soybeans bhi aate hain.
+    # Is liye is par keyword filter lagta hai (baqi CME feeds par nahi).
 
   - name: cme_risk_management
     url: "https://www.cmegroup.com/rss/cme-risk-management-feed.rss"
