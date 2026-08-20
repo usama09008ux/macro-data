@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "21 Aug 03:03",
+  "updated_pkt": "21 Aug 03:41",
   "feeds": [
     {
       "name": "investinglive",
@@ -19,7 +19,7 @@
       "name": "fxstreet_analysis",
       "status": "OK",
       "fetched": 30,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.2,
       "note": ""
     },
     {
@@ -124,7 +124,7 @@
       "name": "rba_media",
       "status": "OK",
       "fetched": 1,
-      "newest_age_days": 1.5,
+      "newest_age_days": 1.6,
       "note": ""
     },
     {
@@ -173,7 +173,7 @@
       "name": "cointelegraph",
       "status": "OK",
       "fetched": 30,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": ""
     }
   ]
