@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-08-20T15:21:32Z",
-  "generated_pkt": "2026-08-20 20:21",
-  "item_count": 34,
+  "generated_utc": "2026-08-20T15:30:38Z",
+  "generated_pkt": "2026-08-20 20:30",
+  "item_count": 35,
   "feeds": [
     {
       "name": "investinglive",
@@ -48,8 +48,8 @@
     {
       "name": "cme_metals_video",
       "status": "OK",
-      "items": 2,
-      "newest_age_days": 0.8,
+      "items": 3,
+      "newest_age_days": 0.0,
       "note": ""
     },
     {
@@ -62,8 +62,8 @@
     {
       "name": "cme_rates_video",
       "status": "OK",
-      "items": 2,
-      "newest_age_days": 0.8,
+      "items": 3,
+      "newest_age_days": 0.0,
       "note": ""
     },
     {
@@ -77,7 +77,7 @@
       "name": "cme_daily_commentary",
       "status": "OK",
       "items": 8,
-      "newest_age_days": 0.7,
+      "newest_age_days": 0.8,
       "note": ""
     },
     {
@@ -160,7 +160,7 @@
     {
       "name": "yahoo_finance",
       "status": "OK",
-      "items": 48,
+      "items": 47,
       "newest_age_days": 0.0,
       "note": ""
     },
@@ -188,11 +188,31 @@
       "group": "feeds_centralbank",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 21.4,
+      "force_keywords": false,
+      "age_hours": 21.5,
       "when_pkt": "19 Aug 23:00",
       "tags": [
         "usd",
         "rates"
+      ]
+    },
+    {
+      "title": "Retail earnings highlight selective consumers. 8/20/26",
+      "body": "Bob Iaccino breaks down the morning's market action, noting early losses in equities with Russell futures leading the decline. He covers the slight upward correction in Treasury yields and a modestly stronger U.S. dollar, alongside mixed metals and Bitcoin climbing back above the 71,000 level. Bob dives deep into this week's heavy slate of retail earnings from names like Home Depot, Lowe's, Target, and Walmart, which point to a resilient but highly selective consumer prioritizing value and necessities. He also explains why tomorrow's manufacturing PMI remains a critical cyclical indicator for traders despite its smaller share of the U.S. economy. Finally, he previews upcoming earnings and global economic data including Japan's CPI and U.K. retail sales. Learn More About Trading Futures and Options at CME Group: https://www.cmegroup.com/activetrader.html #Retail #Equities #Futures",
+      "link": "https://www.cmegroup.com/videos/2026/08/20/retail-earnings-highlight-selective-consumers-8-20-26.html?utm_source=cmegroup&utm_medium=rss&utm_campaign=distribution",
+      "source": "cme_metals_video",
+      "group": "feeds_cme",
+      "weight": 9,
+      "feed_tag": "gold",
+      "force_keywords": false,
+      "age_hours": 0.2,
+      "when_pkt": "20 Aug 20:19",
+      "tags": [
+        "gold",
+        "usd",
+        "gbp",
+        "jpy",
+        "risk"
       ]
     },
     {
@@ -203,7 +223,8 @@
       "group": "feeds_cme",
       "weight": 9,
       "feed_tag": "rates",
-      "age_hours": 18.2,
+      "force_keywords": false,
+      "age_hours": 18.4,
       "when_pkt": "20 Aug 02:08",
       "tags": [
         "rates",
@@ -219,7 +240,8 @@
       "group": "feeds_cme",
       "weight": 9,
       "feed_tag": "gold",
-      "age_hours": 18.2,
+      "force_keywords": false,
+      "age_hours": 18.4,
       "when_pkt": "20 Aug 02:07",
       "tags": [
         "usd",
@@ -236,7 +258,8 @@
       "group": "feeds_cme",
       "weight": 9,
       "feed_tag": "fx",
-      "age_hours": 20.5,
+      "force_keywords": false,
+      "age_hours": 20.7,
       "when_pkt": "19 Aug 23:50",
       "tags": [
         "fx",
@@ -253,7 +276,8 @@
       "group": "feeds_cme",
       "weight": 9,
       "feed_tag": "gold",
-      "age_hours": 20.8,
+      "force_keywords": false,
+      "age_hours": 21.0,
       "when_pkt": "19 Aug 23:31",
       "tags": [
         "gold",
@@ -270,7 +294,8 @@
       "group": "feeds_cme",
       "weight": 6,
       "feed_tag": "oil",
-      "age_hours": 18.2,
+      "force_keywords": false,
+      "age_hours": 18.4,
       "when_pkt": "20 Aug 02:06",
       "tags": [
         "gbp",
@@ -287,7 +312,8 @@
       "group": "feeds_cme",
       "weight": 4,
       "feed_tag": null,
-      "age_hours": 18.0,
+      "force_keywords": true,
+      "age_hours": 18.1,
       "when_pkt": "20 Aug 02:22",
       "tags": [
         "gbp",
@@ -302,7 +328,8 @@
       "group": "feeds_cme",
       "weight": 4,
       "feed_tag": null,
-      "age_hours": 18.2,
+      "force_keywords": true,
+      "age_hours": 18.4,
       "when_pkt": "20 Aug 02:07",
       "tags": [
         "usd",
@@ -318,7 +345,8 @@
       "group": "feeds_cme",
       "weight": 4,
       "feed_tag": null,
-      "age_hours": 20.3,
+      "force_keywords": true,
+      "age_hours": 20.5,
       "when_pkt": "20 Aug 00:01",
       "tags": [
         "usd",
@@ -327,13 +355,14 @@
     },
     {
       "title": "US Treasury Secretary Bessent says the long-dated bond buyback could be more than 4 billion",
-      "body": "Buyback could be more than 4 billion Part of it is signalling We want to show that yields do not reflect underlying fundamentals Probably going to announce increased focus on fiscal consolidation Nothing magic about $40 trillion debt number Expect tariff 2026 income will be similar to 2025 Very good chance we've seen peak deficit Market got a little ahead of itself Treasury and the Fed would work together if any change in balance sheet Rates have nothing to do with the buyback decision We would adjust to any kind of Fed bond runoff On Iran: Press conference on Monday to discuss actions Maximum economic pressure means likely not a kinetic restart Oil markets are misinterpreting what economic pressure means There will be coordinated economic isolation If countries insist on doing business with Iran, US will enforce actions against them Action will curtail Iran's ability to take action through proxies Going to have the toughest sanctions in history We are going to collapse this regime On whether Iran actions will include China, Bessent said \"some conversations better to be private\" Confident that everyone, including China, wants to see Hormuz strait reopened This article was written b",
+      "body": "Buyback could be more than 4 billion Part of it is signalling We want to show that yields do not reflect underlying fundamentals Probably going to announce increased focus on fiscal consolidation Nothing magic about $40 trillion debt number Expect tariff 2026 income will be similar to 2025 Very good chance we've seen peak deficit Market got a little ahead of itself Treasury and the Fed would work together if any change in balance sheet Rates have nothing to do with the buyback decision We would adjust to any kind of Fed bond runoff We will see what the conditions are in the bond market and whether more action will be needed Need to focus on the fundamentals We're trying to keep the market in equilibrium On Iran: Press conference on Monday to discuss actions Maximum economic pressure means likely not a kinetic restart Oil markets are misinterpreting what economic pressure means There will be coordinated economic isolation If countries insist on doing business with Iran, US will enforce actions against them Action will curtail Iran's ability to take action through proxies Going to have the toughest sanctions in history We are going to collapse this regime On whether Iran actions ...",
       "link": "https://investinglive.com/news/us-treasury-secretary-bessent-says-the-long-dated-bond-buyback-could-be-more-than-4-billion/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 0.3,
+      "force_keywords": false,
+      "age_hours": 0.4,
       "when_pkt": "20 Aug 20:04",
       "tags": [
         "usd",
@@ -344,29 +373,30 @@
     },
     {
       "title": "US leading index for July +0.2% vs +0.1% expected",
-      "body": "Prior -0.2% (revised to -0.1%) The Conference Board Leading Economic Index increased by 0.2% in July, after an upwardly revised decline of 0.1% in June. As a result, the LEI's six-month growth rate turned positive, to an increase of 0.2% between January and July 2026, a sharp reversal from its 1.3% contraction over the previous six months. \"The Leading Index for the US ticked up in July, marking the fourth increase over the past six months,\" said Justyna Zabinska-La Monica, Senior Manager, Business Cycle Indicators, at The Conference Board. \"Most components were positive in July except consumer expectations, which continued to be a notable drag on the overall index. With the most recent gains, the LEI's six-month growth rate turned positive for the first time in more than four years, suggesting moderate growth ahead. The economy should keep expanding, but growth is expected to be driven by business investments in AI, while the higher cost of living may reduce consumer spending, especially by lower- and middle-income households. Consequently, The Conference Board continues to forecast real GDP growth of 1.9% in 2026 and 1.9% in 2027.\" The \"higher cost of living may reduce consumer s",
+      "body": "Prior -0.2% (revised to -0.1%) The Conference Board Leading Economic Index increased by 0.2% in July, after an upwardly revised decline of 0.1% in June. As a result, the LEI's six-month growth rate turned positive, to an increase of 0.2% between January and July 2026, a sharp reversal from its 1.3% contraction over the previous six months. \"The Leading Index for the US ticked up in July, marking the fourth increase over the past six months,\" said Justyna Zabinska-La Monica, Senior Manager, Business Cycle Indicators, at The Conference Board. \"Most components were positive in July except consumer expectations, which continued to be a notable drag on the overall index. With the most recent gains, the LEI's six-month growth rate turned positive for the first time in more than four years, suggesting moderate growth ahead. The economy should keep expanding, but growth is expected to be driven by business investments in AI, while the higher cost of living may reduce consumer spending, especially by lower- and middle-income households.",
       "link": "https://investinglive.com/news/us-leading-index-for-july-0-2-vs-0-1-expected/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 1.4,
+      "force_keywords": false,
+      "age_hours": 1.5,
       "when_pkt": "20 Aug 19:00",
       "tags": [
-        "usd",
         "gbp",
         "risk"
       ]
     },
     {
       "title": "Fed's Daly doesn't see evidence calling for pre-emptive rate hikes, policy in good place",
-      "body": "Rise in long term yields is a global issue, not a signal for the Fed I don't see Fed credibility at risk Short term yields show markets understand Fed reaction function Policy is in a good place, watching markets I don't see evidence calling for pre-emptive rate hikes Modal outlook expects inflation shocks will dissipate I was very supportive of Fed's July interest rate hold Recent jobs and inflation data have not changed outlook so far I am looking for signs of more worrying inflation, not seeing that I don't see the job market contributing to inflation right now Fed will stick to its job regardless of Treasury action Fed really has to focus on achieving its inflation target I don't see any signs of labor market faltering I am not seeing broad inflation spillover from AI buildout Two softer prints didn't clear up inflation picture We are still in a good place to watch the data Labor market is stable, my attention is on inflation Fed missing its inflation goal by quite a bit San Francisco Federal Reserve President Mary Daly kept a cautious but broadly dovish tone, arguing that current monetary policy is well positioned and that recent economic data do not justify a shift toward tig",
+      "body": "Rise in long term yields is a global issue, not a signal for the Fed I don't see Fed credibility at risk Short term yields show markets understand Fed reaction function Policy is in a good place, watching markets I don't see evidence calling for pre-emptive rate hikes Modal outlook expects inflation shocks will dissipate I was very supportive of Fed's July interest rate hold Recent jobs and inflation data have not changed outlook so far I am looking for signs of more worrying inflation, not seeing that I don't see the job market contributing to inflation right now Fed will stick to its job regardless of Treasury action Fed really has to focus on achieving its inflation target I don't see any signs of labor market faltering I am not seeing broad inflation spillover from AI buildout Two softer prints didn't clear up inflation picture We are still in a good place to watch the data Labor market is stable, my attention is on inflation Fed missing its inflation goal by quite a bit San Francisco Federal Reserve President Mary Daly kept a cautious but broadly dovish tone, arguing that current monetary policy is well positioned and that recent economic data do not justify a shift toward ...",
       "link": "https://investinglive.com/central-banks/fed-s-daly-doesn-t-see-evidence-calling-for-pre-emptive-rate-hikes-policy-in-good-place/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 2.5,
+      "force_keywords": false,
+      "age_hours": 2.6,
       "when_pkt": "20 Aug 17:53",
       "tags": [
         "usd",
@@ -377,13 +407,14 @@
     },
     {
       "title": "US August Philly Fed business index +47.4 vs +25.0 expected",
-      "body": "Prior was +41.4 Details: New orders 30.1 versus 37.0 last month Shipments 27.7 versus 33.7 last month Unfilled orders 14.4 versus 18.1 last month Delivery times 3.7 versus 9.6 last month Inventories -3.7 versus 0.3 last month Prices paid 40.9 versus 53.9 last month Prices received 17.7 versus 27.4 last month Number of employees 27.9 versus 10.0 last month Average employee workweek 26.5 versus 14.0 last month Six-months from now indicators: 6 month index 73.6 vs 34.4 last month Capex index 6-month forward 48.2 versus 30.1 last month New orders 66.0 versus 35.1 last month Shipments 63.5 versus 39.3 last month Unfilled orders 8.5 versus 20.9 last month Delivery times 0.0 versus 9.3 last month Inventories 17.4 versus 12.5 last month Prices paid 62.9 versus 56.7 last month Prices received 59.8 versus 41.4 last month Number of employees 35.4 versus 29.5 last month Average employee workweek 21.4 versus 12.0 last month Manufacturing activity in the region continued to expand overall. The survey's indicator for general activity rose to a five-year high. The new orders and shipments indexes moved lower but remained elevated. The employment index rose, continuing to suggest overall gains in e",
+      "body": "Prior was +41.4 Details: New orders 30.1 versus 37.0 last month Shipments 27.7 versus 33.7 last month Unfilled orders 14.4 versus 18.1 last month Delivery times 3.7 versus 9.6 last month Inventories -3.7 versus 0.3 last month Prices paid 40.9 versus 53.9 last month Prices received 17.7 versus 27.4 last month Number of employees 27.9 versus 10.0 last month Average employee workweek 26.5 versus 14.0 last month Six-months from now indicators: 6 month index 73.6 vs 34.4 last month Capex index 6-month forward 48.2 versus 30.1 last month New orders 66.0 versus 35.1 last month Shipments 63.5 versus 39.3 last month Unfilled orders 8.5 versus 20.9 last month Delivery times 0.0 versus 9.3 last month Inventories 17.4 versus 12.5 last month Prices paid 62.9 versus 56.7 last month Prices received 59.8 versus 41.4 last month Number of employees 35.4 versus 29.5 last month Average employee workweek 21.4 versus 12.0 last month Manufacturing activity in the region continued to expand overall. The survey's indicator for general activity rose to a five-year high. The new orders and shipments indexes moved lower but remained elevated.",
       "link": "https://investinglive.com/news/us-august-philly-fed-business-index-xx-vs-25-0-expected/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 2.8,
+      "force_keywords": false,
+      "age_hours": 3.0,
       "when_pkt": "20 Aug 17:30",
       "tags": [
         "usd",
@@ -392,13 +423,14 @@
     },
     {
       "title": "Canada July PPI +0.6% vs -0.5% expected",
-      "body": "Prior -1.4% PPI Y/Y +12.4% vs +12.4% prior Raw Material Price index M/M -2.2% vs -6.9% prior Raw Material Price index Y/Y +18.1% vs +20.7% prior The PPI increased 0.6% m/m in July, following a 1.4% decrease in June. Excluding energy and petroleum products, the PPI decreased 0.2%. The resumption of the conflict between the United States and Iran in July contributed to higher prices for energy and petroleum products. Lower prices for primary non-ferrous metals and chemicals offset these price increases. The prices of energy and petroleum products rose 6.4% in July, leading the monthly increase in the PPI. Higher prices for refined petroleum energy products (+6.9%) drove the increase. Diesel fuel (+10.4%) and finished motor gasoline (+4.7%) were the top contributors to the monthly increase for the product group. Crude oil shipments through the Strait of Hormuz recovered for a brief period in early July, pushing crude oil prices downward. However, according to the International Energy Agency (IEA), refined product markets remained tight, pushing petroleum refinery margins to four-year highs in early July. The prices of primary non-ferrous metal products declined 5.2% m/m in July. The d",
+      "body": "Prior -1.4% PPI Y/Y +12.4% vs +12.4% prior Raw Material Price index M/M -2.2% vs -6.9% prior Raw Material Price index Y/Y +18.1% vs +20.7% prior The PPI increased 0.6% m/m in July, following a 1.4% decrease in June. Excluding energy and petroleum products, the PPI decreased 0.2%. The resumption of the conflict between the United States and Iran in July contributed to higher prices for energy and petroleum products. Lower prices for primary non-ferrous metals and chemicals offset these price increases. The prices of energy and petroleum products rose 6.4% in July, leading the monthly increase in the PPI. Higher prices for refined petroleum energy products (+6.9%) drove the increase. Diesel fuel (+10.4%) and finished motor gasoline (+4.7%) were the top contributors to the monthly increase for the product group. Crude oil shipments through the Strait of Hormuz recovered for a brief period in early July, pushing crude oil prices downward. However, according to the International Energy Agency (IEA), refined product markets remained tight, pushing petroleum refinery margins to four-year highs in early July. The prices of primary non-ferrous metal products declined 5.2% m/m in July.",
       "link": "https://investinglive.com/news/canada-july-ppi-xx-vs-0-5-expected/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 2.9,
+      "force_keywords": false,
+      "age_hours": 3.0,
       "when_pkt": "20 Aug 17:30",
       "tags": [
         "cad",
@@ -415,7 +447,8 @@
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 2.9,
+      "force_keywords": false,
+      "age_hours": 3.0,
       "when_pkt": "20 Aug 17:30",
       "tags": [
         "usd",
@@ -424,13 +457,14 @@
     },
     {
       "title": "investingLive European markets wrap: Dollar, yields recover some poise; Walmart shares slide after earnings",
-      "body": "Headlines: Will the US Treasury buyback be a game changer for markets? Why gold and Bitcoin surged together: What Treasury buybacks teach investors about dollar debasement Chart of the day: Is the Nasdaq breakout retesting or failing? EUR/USD extends gains to fresh three-month highs after yesterday's break Iran foreign minister plays down US president Trump's economic threat Walmart shares fall on signal that consumers are pulling back on spending German producer prices nudge up again in July as energy prices rise further Markets: CAD leads, JPY lags on the day European equities mostly lower; S&P 500 futures down 0.2% US 10-year yields up 4.1 bps to 4.694% WTI crude up 3.4% to $88.70 Gold down 1.1% to $4,469 Bitcoin up 4.1% to $71,916 Markets are still very much digesting the announcement by the US Treasury yesterday in doubling buyback operations at the long-end of the curve. This time, traders are showing some reservations to the initial reaction as we see yields bounce back and that is helping to let the dollar settle for a bit on the session. 10-year Treasury yields are up 4 bps to 4.694% with 30-year yields up 4 bps as well to 5.233% on the day. In turn, that is helping to pus",
+      "body": "Headlines: Will the US Treasury buyback be a game changer for markets? Why gold and Bitcoin surged together: What Treasury buybacks teach investors about dollar debasement Chart of the day: Is the Nasdaq breakout retesting or failing? EUR/USD extends gains to fresh three-month highs after yesterday's break Iran foreign minister plays down US president Trump's economic threat Walmart shares fall on signal that consumers are pulling back on spending German producer prices nudge up again in July as energy prices rise further Markets: CAD leads, JPY lags on the day European equities mostly lower; S&P 500 futures down 0.2% US 10-year yields up 4.1 bps to 4.694% WTI crude up 3.4% to $88.70 Gold down 1.1% to $4,469 Bitcoin up 4.1% to $71,916 Markets are still very much digesting the announcement by the US Treasury yesterday in doubling buyback operations at the long-end of the curve. This time, traders are showing some reservations to the initial reaction as we see yields bounce back and that is helping to let the dollar settle for a bit on the session. 10-year Treasury yields are up 4 bps to 4.694% with 30-year yields up 4 bps as well to 5.233% on the day.",
       "link": "https://investinglive.com/news/investinglive-european-markets-wrap-dollar-yields-recover-some-poise-walmart-shares-slide-after-earnings/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 3.4,
+      "force_keywords": false,
+      "age_hours": 3.5,
       "when_pkt": "20 Aug 16:58",
       "tags": [
         "usd",
@@ -443,13 +477,14 @@
     },
     {
       "title": "Experienced Traders Can Now Apply to Teach on investingLive Academy",
-      "body": "Have years of trading experience and knowledge worth sharing? investingLive Academy is now welcoming new instructors. Trading knowledge is built over time. It comes from following the markets, testing ideas, learning from mistakes and developing a better understanding of how trading works. Now, experienced traders and financial educators have the opportunity to share that knowledge with others. investingLive Academy is now accepting applications for its Instructor Programme, inviting qualified trading professionals to create courses, build an audience and earn as they grow on the platform. If you have at least five years of trading experience, you can apply to become an instructor and start creating your first course once approved. Turn Your Trading Experience Into Courses The investingLive Academy Instructor Programme is designed for experienced traders who want to teach what they know. Once your application is approved, you can create a public instructor profile and begin working on your first course. Whether your experience is in technical analysis, trading psychology, market analysis, risk management or another area of trading, the programme gives you a platform to share your k",
+      "body": "Have years of trading experience and knowledge worth sharing? investingLive Academy is now welcoming new instructors. Trading knowledge is built over time. It comes from following the markets, testing ideas, learning from mistakes and developing a better understanding of how trading works. Now, experienced traders and financial educators have the opportunity to share that knowledge with others. investingLive Academy is now accepting applications for its Instructor Programme, inviting qualified trading professionals to create courses, build an audience and earn as they grow on the platform. If you have at least five years of trading experience, you can apply to become an instructor and start creating your first course once approved. Turn Your Trading Experience Into Courses The investingLive Academy Instructor Programme is designed for experienced traders who want to teach what they know. Once your application is approved, you can create a public instructor profile and begin working on your first course.",
       "link": "https://investinglive.com/news/experienced-traders-can-now-apply-to-teach-on-investinglive-academy/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 3.5,
+      "force_keywords": false,
+      "age_hours": 3.6,
       "when_pkt": "20 Aug 16:52",
       "tags": [
         "gbp"
@@ -457,13 +492,14 @@
     },
     {
       "title": "Walmart shares fall on signal that consumers are pulling back on spending",
-      "body": "Walmart shares were trading roughly flat in pre-market just before the earnings call but are now down by roughly 5.7% after. The US retailer reported a beat on earnings per share of $0.81 versus expectations of $0.75 and also raised its annual targets slightly for the first time this year. That being said, the devil is in the details with comparable sales i.e. same-store sales heavily missing on estimates and only seeing a rise of 2.6% in Q2. Market expectations were for that to hit around 3.7% to 3.8%. In essence, that's a key metric in signaling that consumers are pulling back on spending in the wake of rising gas prices among other things. Walmart's earnings call is often times looked as a bellwether for the US consumer, as it helps to track the behaviour of price-sensitive shoppers and where households are prioritising their spending/finances. So, that is definitely a bit of a blow. Looking at the other aspects of the earnings release, Walmart now sees net sales to grow between 4% and 5% in the fiscal year 2027 as compared with its earlier target growth of between 3.5% and 4.5%. And the retailer also now expects annual adjusted EPS to come in between $2.80 and $2.87, compared t",
+      "body": "Walmart shares were trading roughly flat in pre-market just before the earnings call but are now down by roughly 5.7% after. The US retailer reported a beat on earnings per share of $0.81 versus expectations of $0.75 and also raised its annual targets slightly for the first time this year. That being said, the devil is in the details with comparable sales i.e. same-store sales heavily missing on estimates and only seeing a rise of 2.6% in Q2. Market expectations were for that to hit around 3.7% to 3.8%. In essence, that's a key metric in signaling that consumers are pulling back on spending in the wake of rising gas prices among other things. Walmart's earnings call is often times looked as a bellwether for the US consumer, as it helps to track the behaviour of price-sensitive shoppers and where households are prioritising their spending/finances. So, that is definitely a bit of a blow. Looking at the other aspects of the earnings release, Walmart now sees net sales to grow between 4% and 5% in the fiscal year 2027 as compared with its earlier target growth of between 3.5% and 4.5%.",
       "link": "https://investinglive.com/stocks/walmart-shares-fall-on-signal-that-consumers-are-pulling-back-on-spending/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 4.1,
+      "force_keywords": false,
+      "age_hours": 4.3,
       "when_pkt": "20 Aug 16:15",
       "tags": [
         "gbp"
@@ -471,13 +507,14 @@
     },
     {
       "title": "At best, German economy may grow slightly in this quarter - Bundesbank",
-      "body": "Poor weather conditions have hampered economic recovery Limited usable transport routes on major rivers likely to impair industrial output, export growth The low water levels are noticeably impacting overall economic activity in the third quarter ECB rate hikes are also dampening sentiment on corporate investment Inflation could rise even higher temporarily but outlook still largely dependent on Middle East conflict No evidence yet of second-round efects on inflation through wages at least For some context, months of dry weather have left the Rhine and a number of rivers in Germany with shallow waters - to the point that vessels have been unable to sail fully loaded. In turn, that has increased shipping costs and also result in slower transport of cargo across the country. Amid the impact of rising price pressures, the domestic issue there is just piling on concerns on the economy. Still, the Bundesbank says that there is hope and the German economy may still post a slight growth on the quarter at best. The central bank is also playing down any major worries on inflation for the time being, reaffirming that second-round effects are not yet evident. That being said, it won't stop th",
+      "body": "Poor weather conditions have hampered economic recovery Limited usable transport routes on major rivers likely to impair industrial output, export growth The low water levels are noticeably impacting overall economic activity in the third quarter ECB rate hikes are also dampening sentiment on corporate investment Inflation could rise even higher temporarily but outlook still largely dependent on Middle East conflict No evidence yet of second-round efects on inflation through wages at least For some context, months of dry weather have left the Rhine and a number of rivers in Germany with shallow waters - to the point that vessels have been unable to sail fully loaded. In turn, that has increased shipping costs and also result in slower transport of cargo across the country. Amid the impact of rising price pressures, the domestic issue there is just piling on concerns on the economy. Still, the Bundesbank says that there is hope and the German economy may still post a slight growth on the quarter at best. The central bank is also playing down any major worries on inflation for the time being, reaffirming that second-round effects are not yet evident.",
       "link": "https://investinglive.com/news/at-best-german-economy-may-grow-slightly-in-this-quarter-bundesbank/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 5.2,
+      "force_keywords": false,
+      "age_hours": 5.4,
       "when_pkt": "20 Aug 15:09",
       "tags": [
         "usd",
@@ -488,13 +525,14 @@
     },
     {
       "title": "EUR/USD extends gains to fresh three-month highs after yesterday's break",
-      "body": "The dollar continues to keep in a vulnerable spot after the US Treasury announcement yesterday, with traders still digesting and weighing up the impact of it all. While we're not seeing the greenback fall off that much more so far this session, EUR/USD is one that is looking to keep the run going at least. The currency pair is up a little over 0.1% to 1.1690 levels now, its highest in over three months. That comes despite some mixed moves across other dollar pairs, with the greenback holding slight gains against the likes of the yen and franc. The break yesterday had a lot of technical backing to it, thus likely exacerbating the ongoing momentum we're seeing. The pair had been a bit cagey in and around the 100-day moving average (red line) previously but then all of a sudden saw enough impetus to even break through the 200-day moving average (blue line). That now shifts the technical momentum to being more bullish. For now, buyers are not relenting just yet as we near a test of 1.1700. However, some caution might be warranted as we're not seeing all too much of a follow through so far today. The US Treasury announcement was definitely notable but there is a strong argument that any",
+      "body": "The dollar continues to keep in a vulnerable spot after the US Treasury announcement yesterday, with traders still digesting and weighing up the impact of it all. While we're not seeing the greenback fall off that much more so far this session, EUR/USD is one that is looking to keep the run going at least. The currency pair is up a little over 0.1% to 1.1690 levels now, its highest in over three months. That comes despite some mixed moves across other dollar pairs, with the greenback holding slight gains against the likes of the yen and franc. The break yesterday had a lot of technical backing to it, thus likely exacerbating the ongoing momentum we're seeing. The pair had been a bit cagey in and around the 100-day moving average (red line) previously but then all of a sudden saw enough impetus to even break through the 200-day moving average (blue line). That now shifts the technical momentum to being more bullish. For now, buyers are not relenting just yet as we near a test of 1.1700. However, some caution might be warranted as we're not seeing all too much of a follow through so far today.",
       "link": "https://investinglive.com/forex/eur-usd-extends-gains-to-fresh-three-month-highs-after-yesterday-s-break/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 6.7,
+      "force_keywords": false,
+      "age_hours": 6.9,
       "when_pkt": "20 Aug 13:38",
       "tags": [
         "usd",
@@ -506,13 +544,14 @@
     },
     {
       "title": "Stock Market Today: Treasury Buybacks Lift Tech as Chips, Crypto and Moderna Lead",
-      "body": "Key takeaways for investors and traders today Treasury buybacks: Lower bond yields are supporting technology and other growth assets. Semiconductor test: SK Hynix and Samsung are rebounding sharply, but U.S. chip stocks still need to confirm the recovery. Moderna re-rating: MRNA's 177% surge reflects major new clinical information, not merely a sector rebound. Crypto participation: Bitcoin is nearing $70,000, while Ethereum's breakout suggests the rally may be broadening. Main risk: The latest FOMC minutes show that higher interest rates remain possible if inflation does not continue falling. At approximately 03:15 ET, regular U.S. premarket trading had not yet begun. Nasdaq futures were around 0.4% higher, while S&P 500 futures were up approximately 0.15%. Which stock moves matter most? Why is the Treasury buyback helping technology stocks? The U.S. Treasury expanded its purchases of older, longer-dated government bonds. These operations can improve bond-market liquidity and increase demand for long-term debt, which helped push yields lower. This matters because long-term yields are used when investors calculate what a company's future profits are worth today. When yields fall, di",
+      "body": "Key takeaways for investors and traders today Treasury buybacks: Lower bond yields are supporting technology and other growth assets. Semiconductor test: SK Hynix and Samsung are rebounding sharply, but U.S. chip stocks still need to confirm the recovery. Moderna re-rating: MRNA's 177% surge reflects major new clinical information, not merely a sector rebound. Crypto participation: Bitcoin is nearing $70,000, while Ethereum's breakout suggests the rally may be broadening. Main risk: The latest FOMC minutes show that higher interest rates remain possible if inflation does not continue falling. At approximately 03:15 ET, regular U.S. premarket trading had not yet begun. Nasdaq futures were around 0.4% higher, while S&P 500 futures were up approximately 0.15%. Which stock moves matter most? Why is the Treasury buyback helping technology stocks? The U.S. Treasury expanded its purchases of older, longer-dated government bonds. These operations can improve bond-market liquidity and increase demand for long-term debt, which helped push yields lower. This matters because long-term yields are used when investors calculate what a company's future profits are worth today.",
       "link": "https://investinglive.com/stocks/stock-market-today-treasury-buybacks-lift-tech-as-chips-crypto-and-moderna-lead/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 7.8,
+      "force_keywords": false,
+      "age_hours": 7.9,
       "when_pkt": "20 Aug 12:36",
       "tags": [
         "usd",
@@ -522,13 +561,14 @@
     },
     {
       "title": "Iran foreign minister plays down US president Trump's economic threat",
-      "body": "From overnight: Trump vows crushing new economic operation against Iran, warns allies The threat by Trump pretty much underscores that we are still nowhere near any deal between the two sides. And after trying to brute force his way to getting Iran to concede, Trump is now having to find a different way of achieving that goal. But considering how US sanctions have not worked in the past, I'm not sure how much more they can push the issue from an economic perspective. So, we'll see. In any case, Iran remains unfazed with foreign minister Araghchi saying that: \"The so-called \"Economic D-Day\" is a diversion from America's own crisis: unprecedented debt & surging interest costs. Doubling down on failed policies will only bring further defeat—and enmity of Iranians. US economic terrorism threatens global economy and sovereignty worldwide.\" That seems to be the typical response from Iran in the wake of any of these threats. So, there's nothing new here. But again, it just reinforces the narrative that we are not likely to see the conflict reach a peaceful transition just yet. And after all that has transpired since the end of June, it looks like we might not see a return to a ceasefire -",
+      "body": "From overnight: Trump vows crushing new economic operation against Iran, warns allies The threat by Trump pretty much underscores that we are still nowhere near any deal between the two sides. And after trying to brute force his way to getting Iran to concede, Trump is now having to find a different way of achieving that goal. But considering how US sanctions have not worked in the past, I'm not sure how much more they can push the issue from an economic perspective. So, we'll see. In any case, Iran remains unfazed with foreign minister Araghchi saying that: \"The so-called \"Economic D-Day\" is a diversion from America's own crisis: unprecedented debt & surging interest costs. Doubling down on failed policies will only bring further defeat—and enmity of Iranians. US economic terrorism threatens global economy and sovereignty worldwide.\" That seems to be the typical response from Iran in the wake of any of these threats. So, there's nothing new here. But again, it just reinforces the narrative that we are not likely to see the conflict reach a peaceful transition just yet.",
       "link": "https://investinglive.com/news/iran-foreign-minister-plays-down-us-president-trump-s-economic-threat/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 8.0,
+      "force_keywords": false,
+      "age_hours": 8.2,
       "when_pkt": "20 Aug 12:19",
       "tags": [
         "usd",
@@ -544,7 +584,8 @@
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 9.3,
+      "force_keywords": false,
+      "age_hours": 9.5,
       "when_pkt": "20 Aug 11:00",
       "tags": [
         "gbp"
@@ -552,13 +593,14 @@
     },
     {
       "title": "FX option expiries for 20 August 10am New York cut",
-      "body": "There is arguably just one to take note of on the day, as highlighted in bold below. That being for EUR/USD at the 1.1650 level. The expiries don't tie to any technical significance, so I wouldn't attach too much impact on them for the day. That being said, we could still see the expiries limit any downside price extensions in the session ahead. That as traders are still digesting and figuring things out on the US Treasury decision to double buybacks at the long-end of the curve yesterday. The announcement there is still the main driver of trading sentiment at the moment, with that having impacted the dollar mood heavily. The greenback fell hard on the headlines, as Treasury yields also fell off significantly at the same time. Still, it is more than likely that such a move will only be short-term. That unless we do see inflation developments change up, with that also relying on how things are playing out in the Middle East. But for today at least, the \"Bessent put\" might continue to reverberate and keep the dollar pinned down for now. Keep an eye on the bond market for any clues in that regard. A material pick up in yields could yet see the dollar rebound more strongly. Besides tha",
+      "body": "There is arguably just one to take note of on the day, as highlighted in bold below. That being for EUR/USD at the 1.1650 level. The expiries don't tie to any technical significance, so I wouldn't attach too much impact on them for the day. That being said, we could still see the expiries limit any downside price extensions in the session ahead. That as traders are still digesting and figuring things out on the US Treasury decision to double buybacks at the long-end of the curve yesterday. The announcement there is still the main driver of trading sentiment at the moment, with that having impacted the dollar mood heavily. The greenback fell hard on the headlines, as Treasury yields also fell off significantly at the same time. Still, it is more than likely that such a move will only be short-term. That unless we do see inflation developments change up, with that also relying on how things are playing out in the Middle East. But for today at least, the \"Bessent put\" might continue to reverberate and keep the dollar pinned down for now. Keep an eye on the bond market for any clues in that regard. A material pick up in yields could yet see the dollar rebound more strongly.",
       "link": "https://investinglive.com/orders/fx-option-expiries-for-20-august-10am-new-york-cut/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 9.4,
+      "force_keywords": false,
+      "age_hours": 9.5,
       "when_pkt": "20 Aug 10:59",
       "tags": [
         "usd",
@@ -567,13 +609,14 @@
     },
     {
       "title": "Will the US Treasury buyback be a game changer for markets?",
-      "body": "In case you missed it: US Treasury is increasing the size of liquidity support buyback operations for longer-dated securities That was the big announcement that has gotten markets buzzing again this week. Essentially, the US Treasury is doubling the size of buybacks at the long-end of the curve. So, that adds more liquidity i.e. supply into the market after having seen 30-year yields surge to its highest since 2007 earlier in the week. As a result, the dollar got slammed down alongside bond yields while stocks and precious metals surged higher. The question now is, how significant is this change and will it be one to shift the structural outlook of not just the bond market but broader markets as well? Let's first address the impact of the announcement. The main point here is to bolster market liquidity and in that lieu, it definitely buys some relief for the long-end of the curve. However, that relief might just be short-term. What the US Treasury is doing here is no different than their recent steps to try and help Japan with the yen currency intervention. It's something different to try and get markets to react but it still does not address the underlying structural issues behind",
+      "body": "In case you missed it: US Treasury is increasing the size of liquidity support buyback operations for longer-dated securities That was the big announcement that has gotten markets buzzing again this week. Essentially, the US Treasury is doubling the size of buybacks at the long-end of the curve. So, that adds more liquidity i.e. supply into the market after having seen 30-year yields surge to its highest since 2007 earlier in the week. As a result, the dollar got slammed down alongside bond yields while stocks and precious metals surged higher. The question now is, how significant is this change and will it be one to shift the structural outlook of not just the bond market but broader markets as well? Let's first address the impact of the announcement. The main point here is to bolster market liquidity and in that lieu, it definitely buys some relief for the long-end of the curve. However, that relief might just be short-term. What the US Treasury is doing here is no different than their recent steps to try and help Japan with the yen currency intervention.",
       "link": "https://investinglive.com/news/will-the-us-treasury-buyback-be-a-game-changer-for-markets/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 9.8,
+      "force_keywords": false,
+      "age_hours": 10.0,
       "when_pkt": "20 Aug 10:33",
       "tags": [
         "usd",
@@ -584,13 +627,14 @@
     },
     {
       "title": "Chart of the day: Is the Nasdaq breakout retesting or failing?",
-      "body": "Nasdaq futures are testing the upper boundary of the descending channel that has contained price since June. With NQ near 29,616, the key question is whether the 29,500-29,600 area becomes support or whether price falls back inside the channel. Key takeaways for Nasdaq traders Constructive scenario: NQ holds above the channel and resumes higher. Main risk: A daily close back inside the channel would warn of a failed breakout. Upside test: The recent 30,000-30,200 resistance area. Downside risk: A failed breakout could expose 29,000, followed by 28,700-28,800. Why this Nasdaq retest matters (NQ daily chart) NQ broke above the descending trendline after recovering sharply from the late-July low near 27,250. Price has now returned to the same trendline, creating a classic breakout test. A successful retest happens when previous resistance becomes support. Buyers defend the trendline, price holds above it and the market begins moving higher again. A failed breakout would look different. NQ would fall back inside the channel and remain there, potentially trapping traders who bought the initial move above resistance. Importantly, the current daily candle is still open. A temporary move a",
+      "body": "Nasdaq futures are testing the upper boundary of the descending channel that has contained price since June. With NQ near 29,616, the key question is whether the 29,500-29,600 area becomes support or whether price falls back inside the channel. Key takeaways for Nasdaq traders Constructive scenario: NQ holds above the channel and resumes higher. Main risk: A daily close back inside the channel would warn of a failed breakout. Upside test: The recent 30,000-30,200 resistance area. Downside risk: A failed breakout could expose 29,000, followed by 28,700-28,800. Why this Nasdaq retest matters (NQ daily chart) NQ broke above the descending trendline after recovering sharply from the late-July low near 27,250. Price has now returned to the same trendline, creating a classic breakout test. A successful retest happens when previous resistance becomes support. Buyers defend the trendline, price holds above it and the market begins moving higher again. A failed breakout would look different. NQ would fall back inside the channel and remain there, potentially trapping traders who bought the initial move above resistance. Importantly, the current daily candle is still open.",
       "link": "https://investinglive.com/technical-analysis/chart-of-the-day-is-the-nasdaq-breakout-retesting-or-failing/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 10.5,
+      "force_keywords": false,
+      "age_hours": 10.6,
       "when_pkt": "20 Aug 09:52",
       "tags": [
         "gbp",
@@ -599,13 +643,14 @@
     },
     {
       "title": "Gold moves to test the next key threshold after US Treasury surprises with bond buybacks",
-      "body": "The big announcement from yesterday, in case you missed it: US Treasury is increasing the size of liquidity support buyback operations for longer-dated securities That pretty much overshadowed the FOMC minutes and is arguably going to stick as the biggest headline in markets this week. Essentially, Bessent is announcing that they will at least double buybacks on the long-end on the curve to at least $4 billion per operation. It's a significant change and one that shifts the debt burden to the short-end of the curve. But in a market size of over $30 trillion and US debt of over $40 trillion, the amount we're talking about is quite negligible. And all else being equal, it's arguably just another band-aid in not wanting to address the structural issues plaguing the market. Typically, this sort of yields suppression should flow through monetary policy. But instead, they choose this after 30-year yields hit their highest since 2007 earlier in the week. For now though, long-term yields are pushed down at least. And that is music to the ears of risk trades as well as dollar bears. Will this last though? I'll put up a separate discourse later in the day. In that lieu, gold is taking full a",
+      "body": "The big announcement from yesterday, in case you missed it: US Treasury is increasing the size of liquidity support buyback operations for longer-dated securities That pretty much overshadowed the FOMC minutes and is arguably going to stick as the biggest headline in markets this week. Essentially, Bessent is announcing that they will at least double buybacks on the long-end on the curve to at least $4 billion per operation. It's a significant change and one that shifts the debt burden to the short-end of the curve. But in a market size of over $30 trillion and US debt of over $40 trillion, the amount we're talking about is quite negligible. And all else being equal, it's arguably just another band-aid in not wanting to address the structural issues plaguing the market. Typically, this sort of yields suppression should flow through monetary policy. But instead, they choose this after 30-year yields hit their highest since 2007 earlier in the week. For now though, long-term yields are pushed down at least. And that is music to the ears of risk trades as well as dollar bears. Will this last though? I'll put up a separate discourse later in the day.",
       "link": "https://investinglive.com/commodities/gold-moves-to-test-the-next-key-threshold-after-us-treasury-surprises-with-bond-buybacks/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 10.6,
+      "force_keywords": false,
+      "age_hours": 10.8,
       "when_pkt": "20 Aug 09:44",
       "tags": [
         "usd",
@@ -616,13 +661,14 @@
     },
     {
       "title": "Why gold and Bitcoin surged together: What Treasury buybacks teach investors about dollar debasement",
-      "body": "Key lessons for gold and Bitcoin investors A Treasury buyback is not free money: The government repurchases older bonds, usually while continuing to issue new debt. Buybacks can calm markets: They add demand and liquidity to parts of the Treasury market, which can pull bond yields lower. This was not the same as Federal Reserve quantitative easing: The Treasury is managing government debt, not creating central-bank money. The market reaction carried a message: Gold's outsized gain suggests traders may be increasingly concerned about the dollar's long-term purchasing power. Gold and Bitcoin share a scarcity story, but they are not interchangeable: Gold is a traditional reserve asset, while Bitcoin remains much more volatile and often behaves like a risk asset. What happened to gold and Bitcoin? Gold jumped approximately 3%, while Bitcoin accelerated from above $65,000 toward the $69,000-$70,000 area after the US Treasury announced that it would expand buybacks of longer-dated government bonds. The Treasury doubled the planned size of some buyback operations from $2 billion to at least $4 billion, focusing on bonds with maturities of 10 years or longer. Treasury yields subsequently d",
+      "body": "Key lessons for gold and Bitcoin investors A Treasury buyback is not free money: The government repurchases older bonds, usually while continuing to issue new debt. Buybacks can calm markets: They add demand and liquidity to parts of the Treasury market, which can pull bond yields lower. This was not the same as Federal Reserve quantitative easing: The Treasury is managing government debt, not creating central-bank money. The market reaction carried a message: Gold's outsized gain suggests traders may be increasingly concerned about the dollar's long-term purchasing power. Gold and Bitcoin share a scarcity story, but they are not interchangeable: Gold is a traditional reserve asset, while Bitcoin remains much more volatile and often behaves like a risk asset. What happened to gold and Bitcoin? Gold jumped approximately 3%, while Bitcoin accelerated from above $65,000 toward the $69,000-$70,000 area after the US Treasury announced that it would expand buybacks of longer-dated government bonds. The Treasury doubled the planned size of some buyback operations from $2 billion to at least $4 billion, focusing on bonds with maturities of 10 years or longer.",
       "link": "https://investinglive.com/education/why-gold-and-bitcoin-surged-together-what-treasury-buybacks-teach-investors-about-dollar-debasement/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 11.2,
+      "force_keywords": false,
+      "age_hours": 11.3,
       "when_pkt": "20 Aug 09:10",
       "tags": [
         "usd",
@@ -633,13 +679,14 @@
     },
     {
       "title": "investingLive Asia-Pacific market news: Trump vows sweeping new Iran sanctions",
-      "body": "SK Hynix swap costs, which spiked to 1000bp in June, now said to halve Run on banks feared as concern rises over government seizing deposits to fund war Australia's jobless rate climbs to a near four year high in July PBOC sets USD/ CNY mid-point today at 6.7808 (vs. estimate at 6.7196) Australian July 2026 jobs report: Unemployment rate 4.5% (expected 4.4%, prior 4.4%) China's 5 year and 1 year Loan Prime Rate (LPR) remain at 3.5% and 3% respectively Gold's oversized reaction to Treasury buyback reflects debasement trade AI boom powers Japan's exports as semiconductor shipments surge 49% Japan July 2026 exports and imports both higher than expected UBS stays constructive on equities as VIX hits 2026 low despite risks Trump vows crushing new economic operation against Iran, warns allies Bessent's panic move risks reigniting rate hike bets, hands Fed hawks new ammunition Fed independence in focus as senators question Warsh's calendar gaps A radical Bessent, panicking with big Treasury bond buyback move, craters the dollar Deutsche Bank sees 4 reasons Treasury buyback move is dollar negative (ps. Fed hike too?) ICYMI - HUGE news: US Treasury's giant bond buyback boost sinks dollar, l",
+      "body": "SK Hynix swap costs, which spiked to 1000bp in June, now said to halve Run on banks feared as concern rises over government seizing deposits to fund war Australia's jobless rate climbs to a near four year high in July PBOC sets USD/ CNY mid-point today at 6.7808 (vs. estimate at 6.7196) Australian July 2026 jobs report: Unemployment rate 4.5% (expected 4.4%, prior 4.4%) China's 5 year and 1 year Loan Prime Rate (LPR) remain at 3.5% and 3% respectively Gold's oversized reaction to Treasury buyback reflects debasement trade AI boom powers Japan's exports as semiconductor shipments surge 49% Japan July 2026 exports and imports both higher than expected UBS stays constructive on equities as VIX hits 2026 low despite risks Trump vows crushing new economic operation against Iran, warns allies Bessent's panic move risks reigniting rate hike bets, hands Fed hawks new ammunition Fed independence in focus as senators question Warsh's calendar gaps A radical Bessent, panicking with big Treasury bond buyback move, craters the dollar Deutsche Bank sees 4 reasons Treasury buyback move is dollar negative (ps.",
       "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-trump-vows-sweeping-new-iran-sanctions/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 11.9,
+      "force_keywords": false,
+      "age_hours": 12.0,
       "when_pkt": "20 Aug 08:29",
       "tags": [
         "usd",
@@ -654,28 +701,29 @@
     },
     {
       "title": "Bitcoin nears $70K, but Ethereum's eight-hour breakout reveals the bigger crypto shift",
-      "body": "Crypto market update: Bitcoin nears $70K as Ethereum and altcoins broaden the rebound Crypto has shifted from fragile stabilization to a broad market rebound. Bitcoin has pushed toward $69,000-$70,000, Ethereum is outperforming, ETF demand has improved, and major altcoins are participating. The move is increasingly credible, but holding above the former $66,900 range ceiling is now more important than briefly trading through it. Key takeaways for crypto investors and traders Bitcoin breakout attempt: BTC advanced from above $65,000 to approximately $69,258 in the supplied market snapshot. Institutional demand improved: US spot Bitcoin ETFs recorded $297.5 million of inflows on August 17 and another $189.3 million on August 18. Ethereum confirms better risk appetite: ETH gained approximately 18% on the day, while spot Ethereum ETFs attracted $71.4 million on August 18. The rally is broadening: SOL, XRP, UNI, AAVE, LINK and NEAR all posted strong daily gains. Confirmation is still needed: Many major cryptocurrencies remain deeply negative year-to-date and over the past year. As Eamonn Sheridan at investingLive.com highlighted, Treasury Secretary Scott Bessent's aggressive expansion o",
+      "body": "Crypto market update: Bitcoin nears $70K as Ethereum and altcoins broaden the rebound Crypto has shifted from fragile stabilization to a broad market rebound. Bitcoin has pushed toward $69,000-$70,000, Ethereum is outperforming, ETF demand has improved, and major altcoins are participating. The move is increasingly credible, but holding above the former $66,900 range ceiling is now more important than briefly trading through it. Key takeaways for crypto investors and traders Bitcoin breakout attempt: BTC advanced from above $65,000 to approximately $69,258 in the supplied market snapshot. Institutional demand improved: US spot Bitcoin ETFs recorded $297.5 million of inflows on August 17 and another $189.3 million on August 18. Ethereum confirms better risk appetite: ETH gained approximately 18% on the day, while spot Ethereum ETFs attracted $71.4 million on August 18. The rally is broadening: SOL, XRP, UNI, AAVE, LINK and NEAR all posted strong daily gains. Confirmation is still needed: Many major cryptocurrencies remain deeply negative year-to-date and over the past year.",
       "link": "https://investinglive.com/cryptocurrency/bitcoin-nears-70k-but-ethereum-s-eight-hour-breakout-reveals-the-bigger-crypto-shift/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 11.9,
+      "force_keywords": false,
+      "age_hours": 12.1,
       "when_pkt": "20 Aug 08:25",
       "tags": [
-        "usd",
         "risk"
       ]
     },
     {
       "title": "SK Hynix swap costs, which spiked to 1000bp in June, now said to halve",
-      "body": "If accurate, an easing of swap financing costs would mark a meaningful shift in risk appetite toward SK Hynix specifically, and Korean chip names more broadly, after banks moved aggressively in June to curb concentrated leveraged exposure. Lower financing costs make it cheaper for hedge funds and other leveraged investors to re-establish or expand bullish positions via swaps, which could translate into renewed buying pressure on the stock and, by extension, the Kospi given SK Hynix's outsized index weighting. However, given this detail rests on unnamed sources rather than confirmed reporting, it should be treated as directional rather than definitive until corroborated by a named bank or a tier-one outlet. The scale of the reported move, from levels near 1000 basis points down to 150 to 300, would be a dramatic reversal in a short window and warrants some scepticism pending confirmation, particularly since SK Hynix shares have fallen sharply since their peak, which would independently reduce the case for banks to keep financing costs elevated regardless of positioning risk. --- SK Hynix swap financing costs that banks pushed to nearly 15% in June are now said to have roughly halved",
+      "body": "If accurate, an easing of swap financing costs would mark a meaningful shift in risk appetite toward SK Hynix specifically, and Korean chip names more broadly, after banks moved aggressively in June to curb concentrated leveraged exposure. Lower financing costs make it cheaper for hedge funds and other leveraged investors to re-establish or expand bullish positions via swaps, which could translate into renewed buying pressure on the stock and, by extension, the Kospi given SK Hynix's outsized index weighting. However, given this detail rests on unnamed sources rather than confirmed reporting, it should be treated as directional rather than definitive until corroborated by a named bank or a tier-one outlet. The scale of the reported move, from levels near 1000 basis points down to 150 to 300, would be a dramatic reversal in a short window and warrants some scepticism pending confirmation, particularly since SK Hynix shares have fallen sharply since their peak, which would independently reduce the case for banks to keep financing costs elevated regardless of positioning risk.",
       "link": "https://investinglive.com/stock-market-update/sk-hynix-swap-costs-which-spiked-to-1000bp-in-june-now-said-to-halve/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 12.6,
+      "force_keywords": false,
+      "age_hours": 12.7,
       "when_pkt": "20 Aug 07:48",
       "tags": [
         "usd",
@@ -685,17 +733,17 @@
     },
     {
       "title": "Run on banks feared as concern rises over government seizing deposits to fund war",
-      "body": "This is a domestic financial stability story for Russia rather than one with a direct read-through for Western asset prices, but it carries meaningful signal value for anyone tracking the sustainability of Moscow's war financing. A sustained deposit exodus of this scale tightens the funding base available to Russian banks just as they are already carrying a heavy load of state-directed lending to defence industries, raising the risk of a domestic liquidity squeeze that could eventually force more aggressive intervention, whether through deposit restrictions, capital controls, or the kind of confiscatory measures Russians are already anticipating. For traders positioning around sanctions and secondary market risk, the dismissal of a senior state economist for publicly doubting Russia's ability to sustain the war adds to a growing list of signals, alongside widening budget deficits and collapsing bond issuance, that domestic financial strain is becoming harder for the Kremlin to manage quietly. Russians have pulled around 24.4 billion euros from the banking system so far this year on fears the Kremlin could seize deposits to fund the war, a warning a top state economist made just bef",
+      "body": "This is a domestic financial stability story for Russia rather than one with a direct read-through for Western asset prices, but it carries meaningful signal value for anyone tracking the sustainability of Moscow's war financing. A sustained deposit exodus of this scale tightens the funding base available to Russian banks just as they are already carrying a heavy load of state-directed lending to defence industries, raising the risk of a domestic liquidity squeeze that could eventually force more aggressive intervention, whether through deposit restrictions, capital controls, or the kind of confiscatory measures Russians are already anticipating. For traders positioning around sanctions and secondary market risk, the dismissal of a senior state economist for publicly doubting Russia's ability to sustain the war adds to a growing list of signals, alongside widening budget deficits and collapsing bond issuance, that domestic financial strain is becoming harder for the Kremlin to manage quietly.",
       "link": "https://investinglive.com/news/run-on-banks-feared-as-concern-rises-over-government-seizing-deposits-to-fund-war/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 13.0,
+      "force_keywords": false,
+      "age_hours": 13.2,
       "when_pkt": "20 Aug 07:19",
       "tags": [
         "usd",
-        "eur",
         "gbp",
         "jpy",
         "risk"
@@ -703,13 +751,14 @@
     },
     {
       "title": "Australia's jobless rate climbs to a near four year high in July",
-      "body": "The unemployment rate's move to 4.5% is a genuine miss against 4.4% forecasts and takes the jobless rate to its highest level since late 2021, a signal likely to firm up expectations that the RBA has room to pause its hiking bias rather than push through further increases in the near term. That said, the softness is not uniform: full-time employment actually rose in July, the entire decline was driven by part-time roles, and the three-month average pace of employment growth still sits at a reasonably firm 34k, with the three-month average jobless rate unchanged at 4.4%. That combination points to a labour market that is softening gradually rather than deteriorating sharply, which should give the RBA room to assess the cumulative effect of its policy settings without feeling pressured into an immediate response either way. The Australian dollar is likely to come under some pressure given the scale of today's headline miss, though the sizeable upward revision to June's data should temper the reaction somewhat. --- Australian employment unexpectedly fell in July and the jobless rate climbed to its highest since late 2021, though the decline was driven entirely by part-time roles and J",
+      "body": "The unemployment rate's move to 4.5% is a genuine miss against 4.4% forecasts and takes the jobless rate to its highest level since late 2021, a signal likely to firm up expectations that the RBA has room to pause its hiking bias rather than push through further increases in the near term. That said, the softness is not uniform: full-time employment actually rose in July, the entire decline was driven by part-time roles, and the three-month average pace of employment growth still sits at a reasonably firm 34k, with the three-month average jobless rate unchanged at 4.4%. That combination points to a labour market that is softening gradually rather than deteriorating sharply, which should give the RBA room to assess the cumulative effect of its policy settings without feeling pressured into an immediate response either way. The Australian dollar is likely to come under some pressure given the scale of today's headline miss, though the sizeable upward revision to June's data should temper the reaction somewhat.",
       "link": "https://investinglive.com/news/australia-s-jobless-rate-climbs-to-a-near-four-year-high-in-july/",
       "source": "investinglive",
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 13.5,
+      "force_keywords": false,
+      "age_hours": 13.6,
       "when_pkt": "20 Aug 06:54",
       "tags": [
         "usd",
@@ -726,7 +775,8 @@
       "group": "feeds_tier1",
       "weight": 10,
       "feed_tag": null,
-      "age_hours": 14.1,
+      "force_keywords": false,
+      "age_hours": 14.3,
       "when_pkt": "20 Aug 06:15",
       "tags": [
         "cad"
