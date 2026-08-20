@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "21 Aug 04:04",
+  "updated_pkt": "21 Aug 04:37",
   "feeds": [
     {
       "name": "investinglive",
@@ -26,14 +26,14 @@
       "name": "actionforex",
       "status": "OK",
       "fetched": 20,
-      "newest_age_days": 0.3,
+      "newest_age_days": 0.4,
       "note": ""
     },
     {
       "name": "marketpulse",
       "status": "OK",
       "fetched": 3,
-      "newest_age_days": 0.6,
+      "newest_age_days": 0.7,
       "note": ""
     },
     {
@@ -117,7 +117,7 @@
       "name": "boj_whatsnew",
       "status": "OK",
       "fetched": 46,
-      "newest_age_days": 3.6,
+      "newest_age_days": 3.7,
       "note": ""
     },
     {
@@ -131,7 +131,7 @@
       "name": "bea_releases",
       "status": "OK",
       "fetched": 47,
-      "newest_age_days": 16.4,
+      "newest_age_days": 16.5,
       "note": ""
     },
     {
@@ -158,8 +158,8 @@
     {
       "name": "yahoo_finance",
       "status": "OK",
-      "fetched": 48,
-      "newest_age_days": 0.5,
+      "fetched": 49,
+      "newest_age_days": 0.6,
       "note": ""
     },
     {
