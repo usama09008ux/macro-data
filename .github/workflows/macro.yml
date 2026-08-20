@@ -1,0 +1,68 @@
+name: Fetch Macro
+
+# FRED ka data har 5 minute nahi badalta — din mein do baar kafi hai.
+# Waqt aisa rakha hai ke rozana report se thora pehle chale.
+on:
+  schedule:
+    - cron: "45 5 * * 1-5"      # 10:45 AM PKT
+    - cron: "15 12 * * 1-5"     # 05:15 PM PKT
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-macro
+  cancel-in-progress: false
+
+jobs:
+  macro:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Repo ki copy lo
+        uses: actions/checkout@v4
+
+      - name: Python lagao
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Libraries install karo
+        run: pip install -r requirements.txt
+
+      - name: FRED se data uthao
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: python fetch_fred.py
+
+      - name: Data repo mein daalo
+        run: |
+          git config user.name  "github-actions"
+          git config user.email "actions@github.com"
+          git add -A output/
+
+          if git diff --staged --quiet; then
+            echo "Kuch naya nahi — commit nahi kiya"
+            exit 0
+          fi
+
+          if [ -f output/last_run_macro.txt ]; then
+            git commit -F output/last_run_macro.txt
+          else
+            git commit -m "macro update"
+          fi
+
+          # News wali script bhi push karti hai — takrao ho sakta hai.
+          for i in 1 2 3; do
+            if git push; then
+              echo "Push ho gaya"
+              exit 0
+            fi
+            echo "Push nakaam — dobara koshish ($i)"
+            git pull --rebase --autostash origin main || true
+            sleep 5
+          done
+          exit 1
