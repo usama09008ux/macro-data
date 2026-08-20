@@ -1,8 +1,8 @@
 # News Pack — Trading Day 20 Aug 2026
 
 - Trading day: **20 Aug 03:00 -> 21 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 01:33 PKT**
-- Kul khabrein: **170**
+- Aakhri update: **21 Aug 01:39 PKT**
+- Kul khabrein: **182**
 - Feeds: 25/25 OK
 
 ---
@@ -143,6 +143,11 @@ Gold (XAU/USD) has staged a major bullish breakout, surging 4.35% on 19 August f
 Gold is struggling around the $4,500 level in Asia on Thursday after reaching the highest level in 11 weeks at $4,528 in early dealings.
 
 ### USD
+
+**Wall Street slides as Treasury yields, Walmart miss, and ongoing war hit stocks**
+`21 Aug 01:32 PKT` · pehli baar dekhi `21 Aug 01:39` · investinglive
+
+Rising Treasury yields reasserted themselves as the dominant cross asset driver, unwinding much of Wednesday's relief rally that followed the Treasury Department's buyback announcement. Traders read the expanded long dated buybacks as potentially inflationary given already ample dollar liquidity, sending yields back up the curve and pressuring risk assets.
 
 **U.S. Stocks Slide as Bond Yields Rebound; Walmart Disappoints**
 `21 Aug 01:23 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_markets
@@ -446,6 +451,11 @@ European stock indexes were mixed, with gains in autos and semiconductors unable
 
 ### GBP
 
+**Binance opens crypto trading to AI agents with user-set controls**
+`21 Aug 01:26 PKT` · pehli baar dekhi `21 Aug 01:39` · cointelegraph
+
+Binance's Agent OS lets AI agents access market data, execute trades and make payments while giving users control over permissions and account access.
+
 **Andersons declares $0.20 quarterly dividend for Q4 2026**
 `21 Aug 01:12 PKT` · pehli baar dekhi `21 Aug 01:33` · investing_news
 
@@ -546,6 +556,9 @@ A leadership shake-up at Tata Sons has highlighted the challenges facing India's
 
 ### CAD
 
+**Canada stocks lower at close of trade; S&P/TSX Composite down 0.10%**
+`21 Aug 01:30 PKT` · pehli baar dekhi `21 Aug 01:39` · investing_news
+
 **Canada Trade Official Says Tariff Deal With U.S. 'Very Close'**
 `21 Aug 01:02 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_world
 
@@ -642,10 +655,19 @@ Senator Ruben Gallego said the White House has not provided point-by-point feedb
 
 The United Arab Emirates, long Tehran's gateway to global commerce and finance, has pledged to crack down. But it's complicated.
 
-### BINA TAG (47)
+### BINA TAG (56)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `21 Aug 01:34` **investing_news** — Forum Markets at Micro-Cap Virtual Conference: cash flow first, tokenization later
+- `21 Aug 01:31` **investing_news** — Largo stock rises after debt restructuring extends maturity
+- `21 Aug 01:31` **investing_news** — TSX ends lower hurt by slump in financial and technology stocks
+- `21 Aug 01:31` **investing_news** — Aura Minerals director Sousa Mauad sells $22.8m in common shares
+- `21 Aug 01:31` **investing_news** — Rcm technologies division president Michael Saks sells $410,681 in stock
+- `21 Aug 01:30` **investing_news** — U.S. stocks lower at close of trade; Dow Jones Industrial Average down 1.31%
+- `21 Aug 01:30` **investing_news** — Brazil stocks higher at close of trade; Bovespa up 0.06%
+- `21 Aug 01:28` **investing_news** — Carter's declares $0.25 quarterly dividend, payable Sept. 25
+- `21 Aug 01:26` **investing_news** — Why is Flux Power stock sliding today?
 - `21 Aug 01:12` **investing_news** — VirTra wins $1.5M U.S. Army contract for training system
 - `21 Aug 01:12` **investing_news** — Ross Stores earnings beat by $0.72, revenue topped estimates
 - `21 Aug 01:12` **investing_news** — Anthropologie signs lease at St. Joe's Watersound Town Center
@@ -705,13 +727,13 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 | fxstreet_analysis | OK | 30 | 0.1 |  |
 | actionforex | OK | 20 | 0.2 |  |
 | marketpulse | OK | 3 | 0.5 |  |
-| wsj_economy | OK | 36 | 0.2 |  |
+| wsj_economy | OK | 36 | 0.3 |  |
 | cme_metals_video | OK | 10 | 0.2 |  |
 | cme_fx_video | OK | 10 | 0.2 |  |
 | cme_rates_video | OK | 10 | 0.2 |  |
 | cme_energy_video | OK | 10 | 0.2 |  |
 | cme_daily_commentary | OK | 10 | 0.2 |  |
-| cme_risk_management | OK | 20 | 7.6 |  |
+| cme_risk_management | OK | 20 | 7.7 |  |
 | fed_monetary | OK | 15 | 1.1 |  |
 | fed_speeches | OK | 15 | 15.0 |  |
 | ecb_press | OK | 15 | 1.6 |  |
