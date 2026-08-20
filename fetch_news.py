@@ -160,15 +160,63 @@ def entry_dt_utc(entry):
     return None
 
 
-def find_tags(text, keywords):
-    low = " " + (text or "").lower() + " "
-    hits = []
-    for tag, words in keywords.items():
-        for w in words:
-            if w.lower() in low:
-                hits.append(tag)
-                break
-    return hits
+# Keyword ke patterns ek baar bana kar rakh lete hain
+_PATTERN_CACHE = {}
+
+
+def _patterns(keywords):
+    """
+    Har keyword ka poora-lafz pattern banata hai.
+
+    YE KYUN ZAROORI HAI:
+        Pehle sirf harf milaate the. Nateeja ye tha ke GBP ka
+        keyword "ons" (UK ka Office for National Statistics)
+        "Andersons", "billions", "conditions", "consolidations"
+        — har us lafz se chipak jata tha. Isi tarah "war" ->
+        "toward", "rba" -> "urban", "ism" -> "optimism",
+        "franc" -> "France".
+
+        Ab poora lafz milta hai, harf nahi.
+    """
+    key = id(keywords)
+    if key not in _PATTERN_CACHE:
+        built = {}
+        for tag, words in keywords.items():
+            pats = []
+            for w in words:
+                w = str(w).lower().strip()
+                if not w:
+                    continue
+                pats.append(re.compile(r"(?<![a-z0-9])"
+                                       + re.escape(w).replace(r"\ ", r"\s+")
+                                       + r"(?![a-z0-9])"))
+            built[tag] = pats
+        _PATTERN_CACHE[key] = built
+    return _PATTERN_CACHE[key]
+
+
+def find_tags(text, keywords, weights=None):
+    """
+    Tag laga kar dete hain, sab se mazboot pehle.
+
+    Score = kitne alag keywords mile  x  us tag ka weight.
+
+    Weight is liye ke har macro khabar mein dollar, yields aur
+    Fed ka zikr hota hai. Bina weight ke USD har cheez kha jata:
+    "Gold pulls back as US yields recover after Treasury buyback"
+    mein USD ke 4 lafz hain aur gold ke 3 — magar khabar gold
+    ki hai.
+    """
+    low = (text or "").lower()
+    weights = weights or {}
+    scored = []
+    for tag, pats in _patterns(keywords).items():
+        n = sum(1 for pat in pats if pat.search(low))
+        if n:
+            scored.append((n * weights.get(tag, 1.0), tag))
+    scored.sort(key=lambda x: (-x[0], TAG_ORDER.index(x[1])
+                               if x[1] in TAG_ORDER else 99))
+    return [tag for _, tag in scored]
 
 
 # ==========================================================
@@ -396,8 +444,12 @@ def build_markdown(day, items, statuses, now_pkt):
                 block(it)
 
         for tag in TAG_ORDER:
+            # Sirf un khabron ko lo jin ka PEHLA (sab se mazboot)
+            # tag yehi hai. Warna har khabar pehle milne wale
+            # section mein chali jati hai, sahi wale mein nahi.
             grp = [i for i in rest
-                   if tag in i.get("tags", []) and id(i) not in used]
+                   if i.get("tags") and i["tags"][0] == tag
+                   and id(i) not in used]
             if not grp:
                 continue
             L.append(f"### {tag.upper()}")
@@ -527,6 +579,7 @@ def main():
     print(f"\nKul uthai: {len(all_items)}")
 
     keywords = cfg["keywords"]
+    tag_weights = cfg.get("tag_weights", {})
     exempt = set(cfg.get("keyword_exempt_groups", []))
     fresh_by_day = {}
     skipped_old = 0
@@ -546,7 +599,7 @@ def main():
             continue
 
         text = it["title"] + " " + it["body"]
-        tags = find_tags(text, keywords)
+        tags = find_tags(text, keywords, tag_weights)
         if it.get("feed_tag") and it["feed_tag"] not in tags:
             tags.insert(0, it["feed_tag"])
         if not tags and it["group"] in exempt:
