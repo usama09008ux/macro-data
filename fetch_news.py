@@ -353,10 +353,21 @@ def fetch_feed(feed, cfg, now_utc):
 
     max_chars = cfg["cleanup"].get("max_chars_per_item", 1500)
     out = []
+    # Kuch feeds ka waqt aage ka hota hai. instaforex ki umar
+    # 21 Aug ke test mein -0.2 din (yaani ~5 ghante AAGE) aayi.
+    # Bina is ke raat 11 baje ki khabar AGLE trading day ke
+    # folder mein chali jati.
+    max_ahead = timedelta(minutes=15)      # itni si dheel theek hai
+
     for e in entries:
         dt = entry_dt_utc(e)
         if dt is None:
             continue                       # bina tareekh ke kuch nahi lete
+
+        if dt > now_utc + max_ahead:
+            st["note"] = (st["note"] + " " if st["note"] else "") + \
+                         "waqt aage ka tha, theek kiya"
+            dt = now_utc
 
         title = clean_html(e.get("title", ""))
         if not title:
