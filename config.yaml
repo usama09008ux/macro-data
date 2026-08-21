@@ -124,6 +124,40 @@ feeds_cme:
     # Ye kabhi kabhi aata hai, is liye cadence lamba rakha hai.
 
 # ==========================================================
+# GOOGLE NEWS — mauzoo ke hisaab se
+# ----------------------------------------------------------
+# Ye pehle plan mein likha tha magar config mein daalna reh
+# gaya tha. Google News har query ka apna RSS deta hai, is
+# liye seedha wahi cheez maangi ja sakti hai jo darkar ho.
+# Nuqsan: sirf chhota sa khulasa deta hai, poora text nahi.
+# Is liye weight kam rakha hai — ye sahara hai, bunyaad nahi.
+# ==========================================================
+feeds_google:
+
+  - name: gnews_gold
+    url: "https://news.google.com/rss/search?q=gold+price+OR+bullion+when:1d&hl=en-US&gl=US&ceid=US:en"
+    weight: 5
+    cadence_days: 1
+    tag: gold
+
+  - name: gnews_fed
+    url: "https://news.google.com/rss/search?q=federal+reserve+OR+FOMC+when:1d&hl=en-US&gl=US&ceid=US:en"
+    weight: 5
+    cadence_days: 1
+    tag: usd
+
+  - name: gnews_geopolitics
+    url: "https://news.google.com/rss/search?q=Iran+sanctions+OR+tariffs+OR+oil+supply+when:1d&hl=en-US&gl=US&ceid=US:en"
+    weight: 4
+    cadence_days: 1
+    tag: risk
+
+  - name: gnews_centralbanks
+    url: "https://news.google.com/rss/search?q=ECB+OR+%22Bank+of+England%22+OR+%22Bank+of+Japan%22+rates+when:1d&hl=en-US&gl=US&ceid=US:en"
+    weight: 5
+    cadence_days: 1
+
+# ==========================================================
 # CENTRAL BANKS — sarkari, sab se sacha zariya
 # ==========================================================
 feeds_centralbank:
