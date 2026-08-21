@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "21 Aug 2026 18:12",
+  "generated_pkt": "21 Aug 2026 20:40",
   "trading_day": "2026-08-21",
   "series": {
     "DFEDTARU": {
@@ -124,26 +124,26 @@
       "percentile": 7
     },
     "VIXCLS": {
-      "latest": 14.89,
-      "latest_date": "2026-08-19",
-      "n_obs": 779,
+      "latest": 16.01,
+      "latest_date": "2026-08-20",
+      "n_obs": 780,
       "changes": {
-        "1d": -0.95,
-        "5d": 0.34,
-        "20d": -1.75
+        "1d": 1.12,
+        "5d": 1.38,
+        "20d": -2.69
       },
-      "percentile": 28
+      "percentile": 43
     },
     "BAMLH0A0HYM2": {
-      "latest": 2.73,
-      "latest_date": "2026-08-19",
+      "latest": 2.75,
+      "latest_date": "2026-08-20",
       "n_obs": 787,
       "changes": {
-        "1d": -0.02,
-        "5d": 0.02,
-        "20d": 0.05
+        "1d": 0.02,
+        "5d": 0.04,
+        "20d": -0.02
       },
-      "percentile": 13
+      "percentile": 15
     },
     "STLFSI4": {
       "latest": -0.8285,
@@ -265,6 +265,65 @@
         "YoY %": 2.1
       },
       "percentile": null
+    }
+  },
+  "treasury": {
+    "nominal": {
+      "kind": "nominal",
+      "ok": true,
+      "note": "",
+      "date": "2026-08-20",
+      "rates": {
+        "2Y": 4.19,
+        "5Y": 4.39,
+        "10Y": 4.69,
+        "30Y": 5.23,
+        "3M": 3.87
+      },
+      "fields_seen": [
+        "BC_10YEAR",
+        "BC_1MONTH",
+        "BC_1YEAR",
+        "BC_1_5MONTH",
+        "BC_20YEAR",
+        "BC_2MONTH",
+        "BC_2YEAR",
+        "BC_30YEAR",
+        "BC_30YEARDISPLAY",
+        "BC_3MONTH",
+        "BC_3YEAR",
+        "BC_4MONTH",
+        "BC_5YEAR",
+        "BC_6MONTH",
+        "BC_7YEAR",
+        "Id",
+        "NEW_DATE",
+        "id",
+        "updated"
+      ]
+    },
+    "real": {
+      "kind": "real",
+      "ok": true,
+      "note": "",
+      "date": "2026-08-20",
+      "rates": {
+        "5Y real": 2.05,
+        "10Y real": 2.35,
+        "20Y real": 2.73,
+        "30Y real": 2.95
+      },
+      "fields_seen": [
+        "DailyTreasuryRealYieldCurveRateDataId",
+        "NEW_DATE",
+        "TC_10YEAR",
+        "TC_20YEAR",
+        "TC_30YEAR",
+        "TC_5YEAR",
+        "TC_7YEAR",
+        "id",
+        "updated"
+      ]
     }
   },
   "failures": {}
