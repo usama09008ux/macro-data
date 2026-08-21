@@ -1,8 +1,8 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 23:14 PKT**
-- Kul khabrein: **662**
+- Aakhri update: **22 Aug 00:01 PKT**
+- Kul khabrein: **690**
 - Feeds: 38/39 OK
 
 ---
@@ -255,6 +255,21 @@ Canadian developer says new drilling at its past-producing Kerr-Addison property
 
 ### USD
 
+**Malaysian Ringgit: Supported by strong fundamentals against US Dollar – OCBC**
+`21 Aug 23:53 PKT` · pehli baar dekhi `22 Aug 00:01` · fxstreet_news
+
+OCBC's Sim Moh Siong and Christopher Wong stress that the Malaysian Ringgit (MYR) remains relatively well supported by a softer US Dollar (USD) and robust domestic fundamentals.
+
+**Singapore: inflation and production outlook – DBS**
+`21 Aug 23:24 PKT` · pehli baar dekhi `22 Aug 00:01` · fxstreet_news
+
+DBS economists Taimur Baig and Radhika Rao project Singapore's headline and core inflation will rise in July to 2.4% and 2.3% year-on-year, respectively, driven by higher energy and food costs.
+
+**The Treasury, the Fed and the threat to your money**
+`21 Aug 23:15 PKT` · pehli baar dekhi `22 Aug 00:01` · mw_topstories
+
+Also in Weekend Reads: The Gen Z online sports-betting trend, what's next for Apple as Tim Cook exits, and a bullish take on Nvidia heading into earnings.
+
 **Latin American stocks and currencies rise on dollar weakness**
 `21 Aug 22:37 PKT` · pehli baar dekhi `21 Aug 23:14` · investing_news
 
@@ -272,9 +287,10 @@ The Dollar Index trades just beneath 99.00 and unchanged on the session, with th
 What to Look Out for at the Fed's Jackson Hole Gathering Bloomberg.com
 
 **A 12-Year-Old Cheat Sheet for How Kevin Warsh Thinks About Central Banking - breitbart.com**
-`21 Aug 22:02 PKT` · pehli baar dekhi `21 Aug 23:14` · gnews_fed
+`21 Aug 22:02 PKT` · pehli baar dekhi `21 Aug 23:14` · gnews_fed · **2 feeds mein**
 
 A 12-Year-Old Cheat Sheet for How Kevin Warsh Thinks About Central Banking breitbart.com
+  - `21 Aug 22:02` *gnews_fed* — A 12-Year-Old Cheat Sheet for How Kevin Warsh Thinks About Central Banking - breitbart.com
 
 **Bond yields head higher again, giving back almost all gains since Treasury Department intervention**
 `21 Aug 21:59 PKT` · pehli baar dekhi `21 Aug 22:42` · yahoo_finance
@@ -373,9 +389,10 @@ The annual inflation rate accelerated for the fourth consecutive month, reaching
 US equity futures edged higher on Friday, offering a brief respite from the week's declines as investors continued to assess macroeconomic risks stemming from elevated energy prices and rising bond yields. Futures on the S&P 500, Dow Jones Industrial Average, and Nasdaq 100 were each up about 0.3%. Long-dated Treasury yields hovered near the levels seen before the US Treasury announced an increase in its buyback program, while the dollar held on to its recent sharp decline.
 
 **Week Ahead for FX, Bonds: Warsh Speech at Jackson Hole, U.S. PCE Data in Focus**
-`21 Aug 20:36 PKT` · pehli baar dekhi `21 Aug 20:49` · wsj_economy
+`21 Aug 20:36 PKT` · pehli baar dekhi `21 Aug 20:49` · wsj_economy · **2 feeds mein**
 
 Federal Reserve Chairman Kevin Warsh's speech at the Jackson Hole symposium will be the key event for investors as they continue to seek clarity on whether and when U.S. interest rates might rise.
+  - `21 Aug 20:36` *gnews_fed* — Week Ahead for FX, Bonds: Warsh Speech at Jackson Hole, U.S. PCE Data in Focus - WSJ
 
 **Fed and Treasury at Odds: A Policy Clash with Market Consequences - CryptoRank**
 `21 Aug 20:31 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
@@ -686,6 +703,9 @@ Trump Renews Criticism of Fed Interest Rate Policy, Says U.S. Should Be Paying M
 
 ### EUR
 
+**German state politician calls for EU tariffs on Chinese hybrid cars, letter shows**
+`21 Aug 23:31 PKT` · pehli baar dekhi `22 Aug 00:01` · investing_news
+
 **EUR/USD Price Forecast: Bulls test 1.1700 as RSI turns overbought**
 `21 Aug 22:52 PKT` · pehli baar dekhi `21 Aug 23:14` · fxstreet_news
 
@@ -848,12 +868,18 @@ Rates Outlook: Data for the EUR Belly Investing.com
 
 Euro gains on hawkish ECB outlook despite firm US Dollar FXStreet
 
+**Euro holds steady against British Pound as ECB, BoE rate hike bets offset each other - tmgm.com**
+`21 Aug 04:34 PKT` · pehli baar dekhi `22 Aug 00:01` · gnews_centralbanks
+
+Euro holds steady against British Pound as ECB, BoE rate hike bets offset each other tmgm.com
+
 ### GBP
 
-**Burnham can't face Parliament if Bank of England raises rates - mpamag.com**
-`21 Aug 21:25 PKT` · pehli baar dekhi `21 Aug 21:34` · gnews_centralbanks
+**'Burnham can't face Parliament if Bank of England raises rates': mortgage adviser - mpamag.com**
+`21 Aug 23:50 PKT` · pehli baar dekhi `22 Aug 00:01` · gnews_centralbanks · **2 feeds mein**
 
-Burnham can't face Parliament if Bank of England raises rates mpamag.com
+'Burnham can't face Parliament if Bank of England raises rates': mortgage adviser mpamag.com
+  - `21 Aug 21:25` *gnews_centralbanks* — Burnham can't face Parliament if Bank of England raises rates - mpamag.com
 
 **British Pound eases as UK sales drop, US services beat**
 `21 Aug 20:48 PKT` · pehli baar dekhi `21 Aug 20:49` · fxstreet_news
@@ -902,6 +928,11 @@ Easing expectations of Federal Reserve rate hikes have weakened the U.S. dollar,
 UK GfK consumer confidence beats forecasts, bolstering sterling and tempering Bank of England rate-cut hopes VT Markets
 
 ### JPY
+
+**US Dollar Weekly Forecast: The US Dollar's new enemy is the bond market**
+`21 Aug 23:22 PKT` · pehli baar dekhi `22 Aug 00:01` · fxstreet_analysis
+
+It was not geopolitics, the US-Japan joint FX intervention to support the beleaguered Japanese currency or the omnipresent bets on what the Federal Reserve (Fed) might do in the second half of the year that kept the US Dollar (USD) well on the back foot over the past five days.
 
 **Japanese Yen strengthens against US Dollar as inflation backs BoJ rate hike bets**
 `21 Aug 19:23 PKT` · pehli baar dekhi `21 Aug 20:49` · fxstreet_news
@@ -1161,6 +1192,11 @@ The New Zealand Dollar (NZD) extends its rally against the US Dollar (USD) on Fr
 
 ### OIL
 
+**Iraq Wants to Double Oil Output—and Needs OPEC to Get Out of the Way**
+`21 Aug 23:30 PKT` · pehli baar dekhi `22 Aug 00:01` · oilprice
+
+Iraq wants to more than double its oil production within six years. First, it needs OPEC to let it. Baghdad is targeting output of between 8 million and 10 million barrels per day, up from roughly 4 million bpd before the Iran war, Prime Minister Ali al-Zaidi said Friday. Iraq dispatched its oil and finance ministers to Saudi Arabia the same day to make the case for a higher OPEC production quota.
+
 **China Challenges Russia's Arms Dominance in Central Asia**
 `21 Aug 23:00 PKT` · pehli baar dekhi `21 Aug 23:14` · oilprice
 
@@ -1290,13 +1326,14 @@ Oil set for more than 6% weekly gain as Hormuz risks persist Anadolu Ajansı
 Oil prices rise for a second week amid the threat of new US sanctions Українські Національні Новини (УНН)
 
 **Oil set for second weekly gain as US ramps up pressure on Iran - Reuters**
-`21 Aug 18:19 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics · **5 feeds mein**
+`21 Aug 18:19 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics · **6 feeds mein**
 
 Oil set for second weekly gain as US ramps up pressure on Iran Reuters
   - `21 Aug 14:55` *gnews_geopolitics* — Oil set for second weekly gain as US ramps up pressure on Iran - Yahoo Finance
   - `21 Aug 14:55` *gnews_geopolitics* — Oil set for second weekly gain as US ramps up pressure on Iran - Euronext Markets
   - `21 Aug 14:35` *gnews_geopolitics* — Oil set for second weekly gain as US ramps up pressure on Iran - The Express Tribune
   - `21 Aug 12:44` *gnews_geopolitics* — Oil Set for Second Weekly Gain as US Ramps Up Pressure on Iran - EnergyNow.com
+  - `21 Aug 03:40` *gnews_geopolitics* — Oil set for second weekly gain as US ramps up pressure on Iran - The Edge Malaysia
 
 **Oil prices on track for second straight weekly rise amid Mideast tensions**
 `21 Aug 18:10 PKT` · pehli baar dekhi `21 Aug 20:49` · investing_commodities
@@ -1411,6 +1448,12 @@ Crude Oil Prices: Surge as Brent and WTI Rally on Strait of Hormuz Disruptions C
 
 Dow Jones Futures Rise as Traders Weigh Debt Buybacks vs. Surging Oil Prices CryptoRank
 
+**Iranian Oil Offers to Chinese Buyers Fall as U.S. Blockade Bites, Sources Say - The China-Global South Project**
+`21 Aug 14:15 PKT` · pehli baar dekhi `22 Aug 00:01` · gnews_geopolitics · **2 feeds mein**
+
+Iranian Oil Offers to Chinese Buyers Fall as U.S. Blockade Bites, Sources Say The China-Global South Project
+  - `21 Aug 13:45` *gnews_geopolitics* — Iranian oil offers to Chinese buyers fall as US blockade bites, sources say - Reuters
+
 **Iranian Oil Supply to China Is Rapidly Drying Up**
 `21 Aug 14:15 PKT` · pehli baar dekhi `21 Aug 20:49` · oilprice
 
@@ -1435,11 +1478,6 @@ WTI Price Forecast: Oil supply tightness supports further upside above $90 FXStr
 `21 Aug 14:01 PKT` · pehli baar dekhi `21 Aug 22:04` · gnews_geopolitics
 
 Iraq plans to raise oil output to as much as 10 million bpd Iran International
-
-**Iranian oil offers to Chinese buyers fall as US blockade bites, sources say - Reuters**
-`21 Aug 13:45 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
-
-Iranian oil offers to Chinese buyers fall as US blockade bites, sources say Reuters
 
 **Crisis Deepens as Iranian Oil Offers to China Decline Amid U.S. Blockade - Devdiscourse**
 `21 Aug 13:45 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
@@ -1828,6 +1866,16 @@ Support for rate hike may be growing ABC Columbia
 
 ### RISK
 
+**Drone strike on Ukraine shopping centre kills six, injures 103**
+`21 Aug 23:40 PKT` · pehli baar dekhi `22 Aug 00:01` · aljazeera
+
+A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing six people and injuring 103
+
+**Russian drone attack on busy shopping centre kills 14 in Ukraine**
+`21 Aug 23:17 PKT` · pehli baar dekhi `22 Aug 00:01` · aljazeera
+
+Ukraine&#039;s Volodymyr Zelenskyy slams &#039;cynical and despicable&#039; attack on his hometown Kryvyi Rih that injured over 120.
+
 **Germany: Ifo sentiment seen weakening on Iran war – Commerzbank**
 `21 Aug 22:47 PKT` · pehli baar dekhi `21 Aug 23:14` · fxstreet_news
 
@@ -1875,6 +1923,11 @@ TD Securities' Robert Both expects the Bank of Canada to remain cautious even if
 `21 Aug 21:34 PKT` · pehli baar dekhi `21 Aug 22:04` · wsj_world
 
 It's naive to think Trump wouldn't use it to wage trade war against U.S. allies.
+
+**Iran's Defiant Stand: The Impact of New U.S. Sanctions - Devdiscourse**
+`21 Aug 21:26 PKT` · pehli baar dekhi `22 Aug 00:01` · gnews_geopolitics
+
+Iran's Defiant Stand: The Impact of New U.S. Sanctions Devdiscourse
 
 **Brazil's Lula and US Pres. Trump held phone call on Friday.**
 `21 Aug 21:22 PKT` · pehli baar dekhi `21 Aug 21:34` · investinglive
@@ -2112,10 +2165,19 @@ Iran has so far proved adept at finding ways around years of already punishing s
 
 It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
 
-### BINA TAG (205)
+### BINA TAG (214)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `21 Aug 23:50` **investing_news** — Mizuho raises Viking Holdings stock price target on quality outlook
+- `21 Aug 23:40` **aljazeera** — Espanyol vs Real Madrid: La Liga – prediction, lineups, teams
+- `21 Aug 23:36` **investing_news** — US service sector fuels acceleration in business activity, S&P Global says
+- `21 Aug 23:31` **investing_news** — US shoppers tighten budgets, but still find room for treats and splurges
+- `21 Aug 23:29` **mw_topstories** — Trump, Vance and Bessent try to calm the bond market with 'alternative facts'
+- `21 Aug 23:25` **aljazeera** — Former Pakistan PM Imran Khan taken back to prison after hospital check-up
+- `21 Aug 23:24` **investing_news** — Ken Griffin's Citadel sheds over 80% of Situational Awareness' bets
+- `21 Aug 23:21` **gnews_fed** — Does housing have an AI problem? - HousingWire
+- `21 Aug 23:21` **investing_news** — Raymond James sees token pricing gap widen in August 2026
 - `21 Aug 23:03` **kitco_general** — Miners boost TSX as choppy week ends - KITCO
 - `21 Aug 23:00` **mw_topstories** — My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?
 - `21 Aug 22:55` **wsj_markets** — Fannie Mae Hit by Turmoil in Senior Ranks as at Least 10 Executives Depart
@@ -2324,11 +2386,11 @@ It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomati
 
 ---
 
-## Shor — 8 khabrein hatai gayin
+## Shor — 12 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (8)
+investing_news (12)
 
 ---
 
@@ -2338,11 +2400,11 @@ investing_news (8)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 4 | 26 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 4 | 0 | 4 | 26 | 0.1 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.1 |
-| marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.2 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 2 | 28 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 5 | 1 | 4 | 25 | 0.0 |
+| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.2 |
+| marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.3 |
 | instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.1 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
@@ -2351,31 +2413,31 @@ investing_news (8)
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.6 |
-| kitco_general | OK | 22 | 20 | 2 | 18 | 2 | 0.0 |
-| gnews_fed | OK | 90 | 58 | 3 | 55 | 32 | 0.0 |
-| gnews_geopolitics | OK | 100 | 93 | 1 | 92 | 7 | 0.0 |
-| gnews_centralbanks | OK | 35 | 33 | 2 | 31 | 2 | 0.0 |
+| kitco_general | OK | 21 | 20 | 0 | 20 | 1 | 0.1 |
+| gnews_fed | OK | 86 | 62 | 3 | 59 | 24 | 0.0 |
+| gnews_geopolitics | OK | 100 | 94 | 3 | 91 | 6 | 0.1 |
+| gnews_centralbanks | OK | 35 | 34 | 2 | 32 | 1 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.0 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.9 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.2 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.0 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.3 |
 | boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.5 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.4 |
 | mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.1 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
 | ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
 | bbc_business | OK | 50 | 15 | 0 | 15 | 35 | 0.1 |
-| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
 | snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.4 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.2 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.2 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.3 |
 | wsj_world | OK | 72 | 11 | 0 | 11 | 61 | 0.1 |
-| wsj_markets | OK | 61 | 23 | 1 | 22 | 38 | 0.0 |
-| investing_news | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| yahoo_finance | OK | 48 | 1 | 0 | 1 | 47 | 0.8 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| wsj_markets | OK | 61 | 23 | 0 | 23 | 38 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 3 | 0 | 3 | 46 | 0.3 |
+| mw_topstories | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
 | cointelegraph | OK | 30 | 14 | 0 | 14 | 16 | 0.1 |
 
 **Jo feeds nahi aaye:**
