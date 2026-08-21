@@ -1,8 +1,8 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 03:02 PKT**
-- Kul khabrein: **862**
+- Aakhri update: **22 Aug 03:37 PKT**
+- Kul khabrein: **869**
 - Feeds: 39/39 OK
 
 ---
@@ -1212,9 +1212,10 @@ Japanese Bank Stocks Worth Watching Before A Possible Bank Of Japan Rate Hike si
 Japan Inflation August 2026: CPI 1.8% Backs BOJ Rate Hike Case Univest
 
 **Japan's megabanks reap record profits as the Bank of Japan lifts rates to 1% - IntelliNews**
-`21 Aug 07:41 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_centralbanks
+`21 Aug 07:41 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_centralbanks · **2 feeds mein**
 
 Japan's megabanks reap record profits as the Bank of Japan lifts rates to 1% IntelliNews
+  - `21 Aug 07:41` *gnews_centralbanks* — Japan's megabanks reap record profits as the Bank of Japan lifts rates to 1% - IntelliNews
 
 **Japan Inflation Picks Up as Rate-Boost Bets Firm**
 `21 Aug 07:20 PKT` · pehli baar dekhi `21 Aug 20:49` · wsj_economy
@@ -2225,6 +2226,12 @@ A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killi
 
 Ukraine&#039;s Volodymyr Zelenskyy slams &#039;cynical and despicable&#039; attack on his hometown Kryvyi Rih that injured over 120.
 
+**Oil rises as Trump threatens sanctions on Iran partners - Euronext Markets**
+`21 Aug 23:14 PKT` · pehli baar dekhi `22 Aug 03:37` · gnews_geopolitics · **2 feeds mein**
+
+Oil rises as Trump threatens sanctions on Iran partners Euronext Markets
+  - `21 Aug 21:51` *gnews_geopolitics* — Oil rises as Trump threatens sanctions on Iran partners - Business Recorder
+
 **Germany: Ifo sentiment seen weakening on Iran war – Commerzbank**
 `21 Aug 22:47 PKT` · pehli baar dekhi `21 Aug 23:14` · fxstreet_news
 
@@ -2247,11 +2254,6 @@ Deutsche Bank Research, led by Sanjay Raja and Maui Brennan, highlights the Unit
 `21 Aug 21:53 PKT` · pehli baar dekhi `21 Aug 22:42` · aljazeera
 
 Shakhtar have not played at home since 2014 when Russia annexed the Donetsk region and now switch to Stamford Bridge.
-
-**Oil rises as Trump threatens sanctions on Iran partners - Business Recorder**
-`21 Aug 21:51 PKT` · pehli baar dekhi `21 Aug 22:04` · gnews_geopolitics
-
-Oil rises as Trump threatens sanctions on Iran partners Business Recorder
 
 **Iran's President Pezeshkian urges end to war as US pressure looms – Bloomberg**
 `21 Aug 21:41 PKT` · pehli baar dekhi `21 Aug 22:04` · fxstreet_news
@@ -2433,9 +2435,10 @@ US Plans Toughest Sanctions Yet Against Iran The Media Line
 `21 Aug 13:18 PKT` · pehli baar dekhi `21 Aug 20:49` · investing_commodities
 
 **Oil set for second weekly rise as unsettled US-Iran war crimps supply - mediaselangor.com**
-`21 Aug 13:12 PKT` · pehli baar dekhi `21 Aug 20:53` · gnews_geopolitics · **9 feeds mein**
+`21 Aug 13:12 PKT` · pehli baar dekhi `21 Aug 20:53` · gnews_geopolitics · **10 feeds mein**
 
 Oil set for second weekly rise as unsettled US-Iran war crimps supply mediaselangor.com
+  - `21 Aug 11:43` *gnews_geopolitics* — Oil set for second weekly rise as unsettled US-Iran war crimps supply - Dunya News
   - `21 Aug 11:10` *gnews_geopolitics* — Oil Set for Second Weekly Rise as Unsettled US-Iran War Crimps Supply - ASHARQ AL-AWSAT English
   - `21 Aug 11:05` *gnews_geopolitics* — Oil set for second weekly rise as unsettled US-Iran war crimps supply - Business Recorder
   - `21 Aug 10:16` *gnews_geopolitics* — Oil set for second weekly rise as unsettled US-Iran war crimps supply - KLSE Screener
@@ -2526,10 +2529,11 @@ Iran has so far proved adept at finding ways around years of already punishing s
 
 It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
 
-### BINA TAG (290)
+### BINA TAG (293)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 02:59` **aljazeera** — TikTok settles with US Justice Department for $400m over child privacy laws
 - `22 Aug 02:46` **wsj_world** — Opinion | Massacring the Memory of Tiananmen Square
 - `22 Aug 02:40` **investing_news** — Sigma Lithium resumes full operations after Brazil agreement
 - `22 Aug 02:40` **investing_news** — Kimbell Royalty closes $221.2 million acquisition
@@ -2558,6 +2562,7 @@ It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomati
 - `22 Aug 01:43` **investing_news** — Boeing white-collar union rejects contract offer
 - `22 Aug 01:41` **investing_news** — Mizuho Names Top Small & Midcap Biotech Stock
 - `22 Aug 01:40` **kitco_general** — Largest US grid's transmission constraint costs surge to $6 billion in 2026 - KITCO
+- `22 Aug 01:37` **gnews_fed** — Federal Reserve holds interest rates steady - FOX 35 Orlando
 - `22 Aug 01:37` **gnews_fed** — Federal Reserve holds interest rates steady - FOX 35 Orlando
 - `22 Aug 01:36` **investing_news** — loanDepot receives NYSE deficiency notice on stock price
 - `22 Aug 01:36` **investing_news** — Real receives court approval for RE/MAX acquisition
@@ -2793,6 +2798,7 @@ It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomati
 - `21 Aug 14:45` **bbc_business** — UK borrows more than expected in July as Healey prepares for first Budget
 - `21 Aug 14:30` **wsj_markets** — Stock Market Bargains Are Hiding in This Overlooked Place
 - `21 Aug 14:30` **wsj_markets** — When Your Bumper 401(k) Is a Tax Problem Waiting to Happen
+- `21 Aug 13:59` **gnews_fed** — Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch - marketscreener.com
 - `21 Aug 13:59` **gnews_fed** — Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank - marketscreener.com
 - `21 Aug 13:38` **bbc_business** — Why the US economy is ringing alarm bells
 - `21 Aug 13:02` **gnews_fed** — Hiring worse than expected in June, but White House says labor market on 'upward trajectory' - ABC News - Breaking News, Latest News and Videos
@@ -2823,11 +2829,11 @@ It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomati
 
 ---
 
-## Shor — 21 khabrein hatai gayin
+## Shor — 22 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (21)
+investing_news (22)
 
 ---
 
@@ -2837,42 +2843,42 @@ investing_news (21)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
-| fxstreet_news | OK | 30 | 30 | 0 | 30 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 1 | 29 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.2 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
 | marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.4 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.2 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.1 |
 | wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.3 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.1 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.7 |
-| kitco_general | OK | 26 | 26 | 1 | 25 | 0 | 0.0 |
-| gnews_fed | OK | 67 | 67 | 0 | 67 | 0 | 0.1 |
-| gnews_geopolitics | OK | 100 | 100 | 3 | 97 | 0 | 0.0 |
-| gnews_centralbanks | OK | 32 | 32 | 0 | 32 | 0 | 0.1 |
+| kitco_general | OK | 27 | 27 | 1 | 26 | 0 | 0.0 |
+| gnews_fed | OK | 67 | 67 | 3 | 64 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 2 | 98 | 0 | 0.0 |
+| gnews_centralbanks | OK | 33 | 33 | 1 | 32 | 0 | 0.2 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.1 |
 | ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.4 |
-| boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.5 |
+| boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.6 |
 | mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.1 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.5 |
 | bbc_business | OK | 50 | 16 | 0 | 16 | 34 | 0.0 |
 | aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.5 |
-| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.3 |
+| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.4 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.4 |
-| wsj_world | OK | 72 | 15 | 2 | 13 | 57 | 0.0 |
+| wsj_world | OK | 72 | 15 | 0 | 15 | 57 | 0.0 |
 | wsj_markets | OK | 61 | 27 | 0 | 27 | 34 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 2 | 0 | 2 | 48 | 0.4 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 5 | 0 | 5 | 45 | 0.3 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
 | cointelegraph | OK | 30 | 18 | 0 | 18 | 12 | 0.1 |
