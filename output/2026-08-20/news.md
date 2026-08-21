@@ -1,9 +1,9 @@
 # News Pack — Trading Day 20 Aug 2026
 
 - Trading day: **20 Aug 03:00 -> 21 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 18:56 PKT**
+- Aakhri update: **21 Aug 19:41 PKT**
 - Kul khabrein: **232**
-- Feeds: 30/35 OK
+- Feeds: 37/43 OK
 
 ---
 
@@ -98,14 +98,10 @@ Ryan McKay and Bart Melek at TD Securities say Gold and broader precious metals 
 Gold (XAU/USD) trims its earlier intraday losses during American trading hours on Thursday and climbs back above the $4,500 mark, even as US Treasury yields rebound and the US Dollar (USD) stabilizes following the previous day's sharp pullback.
 
 **Chart Alert: Gold Major Bullish Breakout as USD Debasement Narrative Takes Hold**
-`20 Aug 13:50 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
+`20 Aug 13:50 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex · **2 feeds mein**
 
 Key takeaways Gold surges: XAU/USD jumped 4.35% on 19 August, its biggest one-day gain since February, lifting its August gain to 10.7%. USD debasement drives gold: Treasury bond buybacks have fuelled fiscal-dominance concerns, shifting focus from yields to US dollar purchasing-power risk.
-
-**Chart alert: Gold major bullish breakout as USD debasement narrative takes hold**
-`20 Aug 12:38 PKT` · pehli baar dekhi `21 Aug 01:33` · marketpulse
-
-Gold (XAU/USD) has staged a major bullish breakout, surging 4.35% on 19 August for its largest one-day gain since February 2026. The rally reflects growing US dollar debasement and fiscal-dominance concerns following larger US Treasury bond buybacks. Technical momentum remains bullish above the $4,434/$4,405 pivotal support, while a sustained break above $4,504 could reinforce the advance towards $4,580 and $4,640.
+  - `20 Aug 12:38` *marketpulse* — Chart alert: Gold major bullish breakout as USD debasement narrative takes hold
 
 **200-day SMA briefly reclaimed, but Gold pulls back before the next leg north**
 `20 Aug 08:05 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_analysis
@@ -210,20 +206,16 @@ The minutes of the Bank of Mexico (Banxico) August meeting showed that the centr
 
 High yield: 2.973% WI level at the time of the auction 2.991% Stopped through by 1.8 bps Bid-to-cover ratio 2.82X Direct (domestic buyers) 13.4% Indirect (international buyers) 84.4% Dealers 2.1% The US Treasury's $9 billion auction of 30-year Treasury Inflation-Protected Securities (TIPS) attracted exceptionally strong participation from foreign investors. The auction stopped at a high yield of 2.973%, below the 2.991% when-issued (WI) yield trading in the market at the time of the sale.
 
-**Fed's Musalem: Hiking rates now could save more aggressive action later**
-`20 Aug 20:52 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
-
-Federal Reserve Bank of St. Louis President Alberto Musalem is crossing the wires with remarks on the economy and the monetary policy outlook, speaking in an interview with CNBC on Thursday.
-
 **US Dollar: Debasement worries weigh after buyback – Scotiabank**
 `20 Aug 20:52 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
 
 Scotiabank strategists Shaun Osborne and Eric Theoret note the US Dollar (USD) is extending losses to its weakest level since mid-June as markets react to the US Treasury's decision to double bond buybacks.
 
 **Fed's Musalem says hiking rates now could save more aggressive action later**
-`20 Aug 20:40 PKT` · pehli baar dekhi `21 Aug 01:33` · investinglive
+`20 Aug 20:40 PKT` · pehli baar dekhi `21 Aug 01:33` · investinglive · **2 feeds mein**
 
 Strong growth and investment is influencing bond market Fed credibility is not in question Fed is focused on making monetary policy independent of fiscal policy Monetary policy is neutral or accomodative right now Financial conditions are pretty accomodative here Number one concern of public is inflation Businesses are facing high input costs Super El Nino might be next supply shock Given current Fed rates, see lower probability of getting inflation to 2% Hiking rates now could save more ...
+  - `20 Aug 20:52` *fxstreet_news* — Fed's Musalem: Hiking rates now could save more aggressive action later
 
 **Dollar Looks Best Defensive Currency During Bond and Equity Selloffs**
 `20 Aug 20:29 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_markets
@@ -358,14 +350,10 @@ Scotiabank strategists Shaun Osborne and Eric Theoret report that EUR/USD gains 
 EURUSD extends steep ascend into second consecutive day and trading at three-month high on Thursday. Bulls hold grip after Wednesday's 0.85% advance (the biggest daily gain since March 19), after generating bullish signals on break above 200DMA (1.1628) and Fibo 61.8% of 1.1849/1.1324 (1.1648) and probe through round-figure barrier at 1.1700. Dips on partial profit-taking [&#8230;] The post EURUSD – Bulls Take a Breather Ahead of Fresh Advance appeared first on ActionForex.
 
 **Low Rhine Water Levels to Slow German Economy, Bundesbank Says**
-`20 Aug 16:57 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_economy
+`20 Aug 16:57 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_economy · **2 feeds mein**
 
 Limited usable transport routes on major rivers and sharply rising transport costs were likely to significantly impair industrial production and export growth, according to the central bank.
-
-**Low Rhine Water Levels to Slow German Economy, Bundesbank Says**
-`20 Aug 16:57 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_world
-
-Limited usable transport routes on major rivers and sharply rising transport costs were likely to significantly impair industrial production and export growth, according to the central bank.
+  - `20 Aug 16:57` *wsj_world* — Low Rhine Water Levels to Slow German Economy, Bundesbank Says
 
 **At best, German economy may grow slightly in this quarter - Bundesbank**
 `20 Aug 15:09 PKT` · pehli baar dekhi `21 Aug 01:33` · investinglive
@@ -378,14 +366,10 @@ Poor weather conditions have hampered economic recovery Limited usable transport
 The dollar continues to keep in a vulnerable spot after the US Treasury announcement yesterday, with traders still digesting and weighing up the impact of it all. While we're not seeing the greenback fall off that much more so far this session, EUR/USD is one that is looking to keep the run going at least. The currency pair is up a little over 0.1% to 1.1690 levels now, its highest in over three months.
 
 **EUR/USD Daily Outlook**
-`20 Aug 12:13 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
+`20 Aug 12:13 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex · **2 feeds mein**
 
 EUR/USD&#8217;s rally continues today and the strong break of 1.1621 cluster resistance (38.2% retracement of 1.2081 to 1.1323 at 1.1613) solidifies the case that fall from 1.2081 has completed as a three wave correction at 1.1323. Intraday bias stays on the upside for 61.8% retracement at 1.1791. On the downside, below 1.1613 minor support will [&#8230;] The post EUR/USD Daily Outlook appeared first on ActionForex.
-
-**EUR/JPY Daily Outlook**
-`20 Aug 11:46 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
-
-EUR/JPY&#8217;s rally from 179.34 continues after brief retreat. Intraday bias stays on the upside for 187.42 resistance first. Firm break there will bring retest of 187.93 high. On the downside, below 183.90 minor support will turn intraday bias neutral first. In the bigger picture, strong rebound from rising 55 W EMA (now at 180.23) keeps [&#8230;] The post EUR/JPY Daily Outlook appeared first on ActionForex.
+  - `20 Aug 11:46` *actionforex* — EUR/JPY Daily Outlook
 
 **German producer prices nudge up again in July as energy prices rise further**
 `20 Aug 11:00 PKT` · pehli baar dekhi `21 Aug 01:33` · investinglive
@@ -410,14 +394,10 @@ Scotiabank strategists Shaun Osborne and Eric Theoret note that GBP/USD gains in
 GBP/USD surged to 1.3613 on Wednesday, reaching a three-month high. Investors are digesting fresh UK inflation and labour market data. Consumer inflation accelerated to 2.9% in July, up from 2.6% in June and in line with forecasts. Core inflation held steady at 2.6%. Following the release, markets slightly scaled back expectations of a Bank of [&#8230;] The post GBP/USD at Three-Month High: Outlook Hinges on Economic Data appeared first on ActionForex.
 
 **GBP/USD Daily Outlook**
-`20 Aug 12:04 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
+`20 Aug 12:04 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex · **2 feeds mein**
 
 GBP/USD&#8217;s rally continues today and intraday bias stays on the upside. Rise from 1.3139 would target 100% projection of 1.3139 to 1.3557 from 1.3272 at 1.3690. On the downside, below 1.3521 minor support will turn intraday bias neutral again. In the bigger picture, price actions from 1.3867 are a corrective pattern within the broader up [&#8230;] The post GBP/USD Daily Outlook appeared first on ActionForex.
-
-**GBP/JPY Daily Outlook**
-`20 Aug 11:50 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
-
-Intraday bias in GBP/JPY is turned neutral first with current retreat. Some consolidations could be seen below 216.20 first. Further rise is in favor as long as 213.28 support holds. Break of 216.20 will target a retest on 219.56 high. Nevertheless, firm break of 213.28 will bring deeper fall back to 209.55 low. In the [&#8230;] The post GBP/JPY Daily Outlook appeared first on ActionForex.
+  - `20 Aug 11:50` *actionforex* — GBP/JPY Daily Outlook
 
 ### JPY
 
@@ -816,12 +796,12 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 4 | 26 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 2 | 0 | 2 | 28 | 0.3 |
-| actionforex | OK | 20 | 20 | 3 | 17 | 0 | 0.0 |
-| marketpulse | OK | 4 | 1 | 1 | 0 | 3 | 0.1 |
-| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 6 | 24 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 3 | 1 | 2 | 27 | 0.0 |
+| actionforex | OK | 20 | 20 | 2 | 18 | 0 | 0.0 |
+| marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.1 |
+| instaforex | OK | 25 | 25 | 13 | 12 | 0 | -0.2 |
 | wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.0 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
@@ -829,31 +809,40 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.4 |
-| gnews_gold | OK | 100 | 77 | 12 | 65 | 23 | 0.0 |
-| gnews_fed | OK | 100 | 37 | 5 | 32 | 63 | 0.0 |
-| gnews_geopolitics | OK | 100 | 77 | 4 | 73 | 23 | 0.0 |
-| gnews_centralbanks | OK | 39 | 33 | 2 | 31 | 6 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.8 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.7 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.2 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.0 |
+| gnews_gold | OK | 100 | 83 | 7 | 76 | 17 | 0.0 |
+| gnews_fed | OK | 100 | 42 | 3 | 39 | 58 | 0.1 |
+| gnews_geopolitics | OK | 100 | 82 | 3 | 79 | 18 | 0.0 |
+| gnews_centralbanks | OK | 39 | 35 | 4 | 31 | 4 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.8 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.3 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.1 |
 | boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.3 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.2 |
+| kitco_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| mining_com | OK | 36 | 3 | 3 | 0 | 33 | 0.1 |
+| oilprice | OK | 15 | 15 | 15 | 0 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| ing_think | OK | 10 | 6 | 6 | 0 | 4 | 0.2 |
+| nyfed_markets | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| bbc_business | OK | 50 | 13 | 11 | 2 | 37 | 0.1 |
+| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
 | boc_press | WARN | 10 | 0 | 0 | 0 | 10 | 21.2 |
 | rbnz_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | snb_press | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | us_treasury | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.0 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.1 |
-| wsj_world | OK | 71 | 9 | 0 | 9 | 62 | 0.0 |
-| wsj_markets | OK | 61 | 16 | 2 | 14 | 45 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 48 | 1 | 0 | 1 | 47 | 0.1 |
+| wsj_world | OK | 71 | 9 | 0 | 9 | 62 | 0.1 |
+| wsj_markets | OK | 61 | 18 | 2 | 16 | 43 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 19 | 18 | 1 | 31 | 0.0 |
 | mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 11 | 2 | 9 | 19 | 0.0 |
+| cointelegraph | OK | 30 | 11 | 0 | 11 | 19 | 0.0 |
 
 **Jo feeds nahi aaye:**
-- instaforex — FAIL, HTTP 500
+- kitco_news — FAIL, HTTP 404
+- nyfed_markets — FAIL, koi item nahi
 - rbnz_news — FAIL, HTTP 403
 - snb_press — FAIL, HTTP 404
 - us_treasury — FAIL, HTTP 404
