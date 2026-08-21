@@ -67,6 +67,15 @@ feeds_tier1:
     weight: 6
     cadence_days: 2               # sirf 3 items dete hain, kam likhte hain
 
+  - name: instaforex
+    url: "https://news.instaforex.com/news"
+    weight: 9
+    cadence_days: 1
+    # 21 Aug ko khud khol kar jaancha: 25 items, sab se nayi 6 minute
+    # purani, poora article text. Platinum/palladium/copper aur
+    # mukhtalif mulkon ke bond yields deta hai — ye baqi kisi feed
+    # mein theek se nahi aate.
+
   - name: wsj_economy
     url: "https://feeds.content.dowjones.io/public/rss/socialeconomyfeed"
     weight: 8
@@ -196,6 +205,47 @@ feeds_centralbank:
     cadence_days: 14
 
 # ==========================================================
+# GHAIR-MUSTANAD  —  pehle "Test Feeds" chalayen
+# ----------------------------------------------------------
+# Ye feeds maine khud nahi khol kar dekhe. URL ghalat ho sakta
+# hai ya site rok sakti hai. Test Feeds ka natija dekh kar jo
+# FAIL aayen unhein hata dena hai.
+#
+# Kyun daale ja rahe hain — asal kami:
+#   * BOC, RBNZ, SNB : aap CAD, NZD aur CHF trade karte hain
+#     magar in teenon central banks ka koi feed nahi tha.
+#   * US Treasury    : is waqt saara market Bessent ke buyback
+#     par chal raha hai, aur wo elaan yahin se aate hain.
+#   * EIA            : WTI ke liye hafta-war crude inventories.
+# ==========================================================
+feeds_unverified:
+
+  - name: boc_press
+    url: "https://www.bankofcanada.ca/content_type/press-releases/feed/"
+    weight: 8
+    cadence_days: 14
+
+  - name: rbnz_news
+    url: "https://www.rbnz.govt.nz/rss/news"
+    weight: 7
+    cadence_days: 14
+
+  - name: snb_press
+    url: "https://www.snb.ch/public/en/rss/newsPublications"
+    weight: 7
+    cadence_days: 21
+
+  - name: us_treasury
+    url: "https://home.treasury.gov/news/press-releases/feed"
+    weight: 9
+    cadence_days: 3
+
+  - name: eia_energy
+    url: "https://www.eia.gov/rss/todayinenergy.xml"
+    weight: 6
+    cadence_days: 2
+
+# ==========================================================
 # DATA / GEOPOLITICS — sahara feeds
 # ==========================================================
 feeds_support:
@@ -287,10 +337,15 @@ keywords:
   eur:    [ecb, lagarde, euro, eurozone, "euro area", bund, hicp, germany,
            german, france, eur, bundesbank,
            "eur/usd", eurusd, "eur/gbp", eurgbp, "eur/jpy", eurjpy, "eur/chf"]
-  gbp:    [boe, bailey, sterling, pound, gilt, "uk inflation", gbp,
+  gbp:    [boe, bailey, sterling, gilt, "uk inflation", gbp,
            "bank of england", "office for national statistics",
+           "pound sterling", "british pound",
+           # NOTE: akela "pound" JAAN BOOJH KAR nahi hai — copper
+           # "per pound" bikta hai aur "Copper Rises as Supply
+           # Concerns Persist" GBP section mein chali jati thi.
            "gbp/usd", gbpusd, "gbp/jpy", gbpjpy, cable]
   jpy:    [boj, ueda, yen, japan, japanese, intervention, jpy,
+           "bank of japan", nikkei, topix,
            "usd/jpy", usdjpy, "aud/jpy", "gbp/jpy"]
   chf:    [snb, "swiss franc", switzerland, chf,
            "usd/chf", usdchf, "eur/chf"]
@@ -306,7 +361,10 @@ keywords:
   oil:    [oil, wti, brent, opec, crude, hormuz, "eia inventories", diesel]
   risk:   [tariff, tariffs, sanctions, war, geopolitical, iran, escalation,
            ceasefire, vix, "risk-off", selloff, russia, ukraine]
-  rates:  [rate hike, rate cut, hawkish, dovish, minutes, bid-to-cover, margin]
+  crypto: [bitcoin, btc, ethereum, ether, crypto, cryptocurrency, altcoin,
+           stablecoin, coinbase]
+  rates:  ["rate hike", "rate cut", hawkish, dovish, minutes, bid-to-cover,
+           margin]
 
 # ==========================================================
 # FRED SERIES  —  Phase 2
@@ -400,6 +458,7 @@ tag_weights:
   cad:   1.0
   aud:   1.0
   nzd:   1.0
+  crypto: 0.8
   risk:  0.7
   usd:   0.5
   rates: 0.4
