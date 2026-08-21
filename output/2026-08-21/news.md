@@ -1,35 +1,132 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 07:58 PKT**
-- Kul khabrein: **112**
-- Feeds: 25/25 OK
+- Aakhri update: **21 Aug 08:50 PKT**
+- Kul khabrein: **183**
+- Feeds: 29/29 OK
 
 ---
 
 ## Khabrein
 
+### MARKET WRAP
+
+**investingLive Asia-Pacific market news: Surge for crypto**
+`21 Aug 08:28 PKT` · pehli baar dekhi `21 Aug 08:50` · investinglive
+
+Asia shares mixed as Nikkei heads for worst week in a month on oil fears China vice finance minister signals more fiscal support as economy slows USD slammed in Asia Friday: Bitcoin, gold, FX surge as investors hedge against US fiscal credibility concerns Goldman veteran Currie ties gold rally to debasement as commodities capture scarcity premium PBOC sets USD/ CNY reference rate for today at 6.7817 (vs.
+
+**Asia shares mixed as Nikkei heads for worst week in a month on oil fears**
+`21 Aug 08:15 PKT` · pehli baar dekhi `21 Aug 08:50` · investinglive
+
+The divergence between Japan and Korea on Friday captures how differently regional markets are digesting the same set of global pressures. Japan's slide reflects a fairly direct read-through from rising oil prices and bond yields into inflation and rate expectations, a sensitivity that has been building through the week as Middle East tensions escalate.
+
+**Japan Core Inflation Quickens to 1.8% as Weak Yen, Oil Costs Fuel Rate Hike Bets - finance.biggo.com**
+`21 Aug 05:58 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_centralbanks
+
+Japan Core Inflation Quickens to 1.8% as Weak Yen, Oil Costs Fuel Rate Hike Bets finance.biggo.com
+
 ### GOLD
+
+**Gold and Silver Technical Analysis: Gold Breakout Gains Momentum as Silver Eyes $72 - FXEmpire**
+`21 Aug 08:37 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
+
+Gold and Silver Technical Analysis: Gold Breakout Gains Momentum as Silver Eyes $72 FXEmpire
+
+**Gold price today, August 21st: World prices soar, domestic prices react slightly - Laodong.vn**
+`21 Aug 08:13 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
+
+Gold price today, August 21st: World prices soar, domestic prices react slightly Laodong.vn
+
+**Gold steadies, heads for third straight weekly gain - Business Recorder**
+`21 Aug 07:43 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
+
+Gold steadies, heads for third straight weekly gain Business Recorder
 
 **Silver Price Forecast: XAG/USD surges to near $69.00 amid heightened volatility**
 `21 Aug 07:37 PKT` · pehli baar dekhi `21 Aug 07:58` · fxstreet_news
 
 Silver price (XAG/USD) extends its gains for the third successive day, trading around $68.70 per troy ounce during the Asian hours on Friday. Silver prices rise as investors turn to safe-haven metals amid heightened volatility across global currency and bond markets.
 
+**One-third of British people regret missing the 128% increase in gold prices - Laodong.vn**
+`21 Aug 06:42 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
+
+One-third of British people regret missing the 128% increase in gold prices Laodong.vn
+
+**Gold, Silver Rate Today: What Are The 24K, 22K Prices In Mumbai, Delhi, Chennai, Kolkata, Bengaluru On August 21 - NDTV Profit**
+`21 Aug 06:41 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
+
+Gold, Silver Rate Today: What Are The 24K, 22K Prices In Mumbai, Delhi, Chennai, Kolkata, Bengaluru On August 21 NDTV Profit
+
+**Gold price officially exceeds 4,500 USD/ounce - Laodong.vn**
+`21 Aug 06:32 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
+
+Gold price officially exceeds 4,500 USD/ounce Laodong.vn
+
 **Gold Slips Amid Changing Monetary Policy Expectations**
 `21 Aug 06:16 PKT` · pehli baar dekhi `21 Aug 06:52` · wsj_markets
 
 Gold declined in early Asian trade. The precious metal was likely to continue reacting to changing monetary policy expectations, said Critical Metals.
+
+**Gold Price Eases Overbought Conditions and Prepares to Resume Its Bullish Trend – Analysis – 21-08-2026 - Economies.com**
+`21 Aug 06:03 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
+
+Gold Price Eases Overbought Conditions and Prepares to Resume Its Bullish Trend – Analysis – 21-08-2026 Economies.com
+
+**Gold drifts higher above $4,500 on US Treasury buyback - tmgm.com**
+`21 Aug 05:54 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
+
+Gold drifts higher above $4,500 on US Treasury buyback tmgm.com
+
+**Gold price rises Rs 264 to Rs 1.58 lakh per 10g on weak US dollar - The Shillong Times**
+`21 Aug 05:47 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
+
+Gold price rises Rs 264 to Rs 1.58 lakh per 10g on weak US dollar The Shillong Times
+
+**Major gold miners see major financial results for FY26 - Australian Mining**
+`21 Aug 05:24 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
+
+Major gold miners see major financial results for FY26 Australian Mining
+
+**Gold Miners Rally as Bullion Slips: The $40 Trillion Fiscal Fear Trade - NAI500**
+`21 Aug 04:46 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
+
+Gold Miners Rally as Bullion Slips: The $40 Trillion Fiscal Fear Trade NAI500
 
 **Gold drifts higher above $4,500 on US Treasury buyback**
 `21 Aug 04:37 PKT` · pehli baar dekhi `21 Aug 04:59` · fxstreet_news
 
 Gold price (XAU/USD) edges higher to around $4,530 during the early Asian session on Friday. The precious metal rebounds after earlier falling following the US President Donald Trump administration's unexpected decision to boost repurchases of longer-dated bonds.
 
+**Gold wavers as bond yields rebound, oil jump fuels US inflation worries - The Business Times**
+`21 Aug 04:31 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
+
+Gold wavers as bond yields rebound, oil jump fuels US inflation worries The Business Times
+
+**Gold price update morning of August 21st: Opposite pulling force, strong tug-of-war - Laodong.vn**
+`21 Aug 04:21 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
+
+Gold price update morning of August 21st: Opposite pulling force, strong tug-of-war Laodong.vn
+
+**Gold price today, August 21, 2026: SJC gold price surges by 3.3 million VND, reaching 146 million VND. - Vietnam.vn**
+`21 Aug 04:12 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
+
+Gold price today, August 21, 2026: SJC gold price surges by 3.3 million VND, reaching 146 million VND. Vietnam.vn
+
+**RMS: Record EBITDA margin achieved as gold price offsets lower production and higher costs - TradingView**
+`21 Aug 03:45 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
+
+RMS: Record EBITDA margin achieved as gold price offsets lower production and higher costs TradingView
+
 **Citi says debasement trade needs new outlet, pointing markets back to gold**
 `21 Aug 03:27 PKT` · pehli baar dekhi `21 Aug 03:41` · investinglive
 
 The pace of the rally is prompting banks to revisit both their timelines and their ceilings, with the metal already through a target that had been pencilled in for later in the year. Softer expectations for further Federal Reserve tightening are seen reviving exchange traded fund demand after a period of outflows, while central banks continue to use price dips as buying opportunities to build reserves.
+
+**Gold could surpass $5,000 by next year, says Morgan Stanley - Eurasia Business News**
+`21 Aug 03:11 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
+
+Gold could surpass $5,000 by next year, says Morgan Stanley Eurasia Business News
 
 ### USD
 
@@ -71,6 +168,11 @@ The PBOC allows the yuan to fluctuate within a +/- 2% range, around this referen
 
 The Thai baht was likely to stay weak against the dollar in the near term, said BMI.
 
+**IMF's New Chief Economist Warns: AI Investment Boom May First Fuel Inflation and Force Rate Hikes - finance.biggo.com**
+`21 Aug 05:36 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_centralbanks
+
+IMF's New Chief Economist Warns: AI Investment Boom May First Fuel Inflation and Force Rate Hikes finance.biggo.com
+
 **Once the world's top gold buyer, Russia's central bank now a steady seller**
 `21 Aug 05:30 PKT` · pehli baar dekhi `21 Aug 06:52` · investinglive
 
@@ -80,6 +182,16 @@ The scale of the drawdown, 1.6 million ounces since January, values reserve loss
 `21 Aug 05:17 PKT` · pehli baar dekhi `21 Aug 06:52` · investinglive
 
 The People's Bank of China is due to set the daily USD/CNY reference rate at around 0115 GMT (2115 US Eastern time), a fixing that remains one of the most closely watched signals in Asian foreign exchange markets. China operates a managed floating exchange rate system, under which the renminbi (yuan) is allowed to trade within a prescribed band around a central reference rate, or midpoint, set each trading day by the PBOC.
+
+**Fed officials tread carefully after Treasury's bond market intervention - Reuters**
+`21 Aug 04:44 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_fed
+
+Fed officials tread carefully after Treasury's bond market intervention Reuters
+
+**Fed's Rate Decision: A Turning Tide in Monetary Policy? - Devdiscourse**
+`21 Aug 04:30 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_fed
+
+Fed's Rate Decision: A Turning Tide in Monetary Policy? Devdiscourse
 
 **UK consumer confidence hits two year high despite inflation warning**
 `21 Aug 04:13 PKT` · pehli baar dekhi `21 Aug 04:37` · investinglive
@@ -96,12 +208,27 @@ This leans mildly inflationary at the margin, though it's a narrower, more targe
 
 Wednesday bought the bond market one session of calm and the Dow Jones Industrial Average spent Thursday paying for it with interest.
 
+**Philadelphia Fed Manufacturing Index Jumps To 47.4 In August, Far Exceeding Expectations - Bitcoin World**
+`21 Aug 03:05 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_fed
+
+Philadelphia Fed Manufacturing Index Jumps To 47.4 In August, Far Exceeding Expectations Bitcoin World
+
 ### EUR
+
+**Bitcoin Bulls Reclaim $74K as Rally Picks Up Steam**
+`21 Aug 08:12 PKT` · pehli baar dekhi `21 Aug 08:50` · actionforex
+
+Key Highlights Bitcoin started a fresh surge above $68,800 and $72,000. The bulls could now face hurdles near $75,500 on the 4-hour chart of BTC/USD. Ethereum gained pace and settled above $2,250. EUR/USD extended gains and traded above 1.1650. Bitcoin Price Technical Analysis Bitcoin price formed a base above $62,000 and started a fresh rally [&#8230;] The post Bitcoin Bulls Reclaim $74K as Rally Picks Up Steam appeared first on ActionForex.
 
 **Euro gains on hawkish ECB outlook despite firm US Dollar**
 `21 Aug 06:22 PKT` · pehli baar dekhi `21 Aug 06:52` · fxstreet_news
 
 EUR/USD remains stronger for the third consecutive day, trading around 1.1680 during the Asian hours on Friday. The Euro (EUR) gains ground against the US Dollar (USD), bolstered by strong economic fundamentals across the region.
+
+**Euro gains on hawkish ECB outlook despite firm US Dollar - FXStreet**
+`21 Aug 06:22 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_centralbanks
+
+Euro gains on hawkish ECB outlook despite firm US Dollar FXStreet
 
 **Euro fades below 1.1700 as US Dollar rebounds on yields**
 `21 Aug 03:30 PKT` · pehli baar dekhi `21 Aug 03:41` · fxstreet_news
@@ -130,6 +257,11 @@ GBP/USD trades just beneath 1.3650 late in the session, 0.2% higher on the day a
 
 ### JPY
 
+**Japan's megabanks reap record profits as the Bank of Japan lifts rates to 1% - IntelliNews**
+`21 Aug 07:41 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_centralbanks
+
+Japan's megabanks reap record profits as the Bank of Japan lifts rates to 1% IntelliNews
+
 **Japan Inflation Is Broadening Again — Core-Core at 1.9% Strengthens BoJ Hike Case**
 `21 Aug 07:09 PKT` · pehli baar dekhi `21 Aug 07:58` · actionforex
 
@@ -140,20 +272,60 @@ Japan's inflation pressures strengthened in July, with headline CPI rising from 
 
 Japan's private-sector expansion strengthened in August, with PMI Composite Output rising from 52.7 to 53.4, its fastest increase in output since February. PMI Services Business Activity improved from 51.2 to 52.3, while PMI Manufacturing climbed from 54.5 to 55.1.
 
+**Japan Core Inflation Hits 1.8%, BOJ Eyes September Rate Hike - Whalesbook**
+`21 Aug 06:57 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_centralbanks
+
+Japan Core Inflation Hits 1.8%, BOJ Eyes September Rate Hike Whalesbook
+
+**Nikkei 225 Opens Lower as Bank of Japan Rate Fears Bite - 24/7 Wall St.**
+`21 Aug 06:02 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_centralbanks
+
+Nikkei 225 Opens Lower as Bank of Japan Rate Fears Bite 24/7 Wall St.
+
 **Japanese Yen flatlines after CPI inflation report**
 `21 Aug 05:58 PKT` · pehli baar dekhi `21 Aug 06:52` · fxstreet_news
 
 The USD/JPY pair holds steady near 159.05 during the early Asian session on Friday. Growing speculation that the Bank of Japan (BoJ) could raise interest rates next month offsets the weaker Gross Domestic Product (GDP) data.
+
+**Japan's Inflation Picks Up, Backing BOJ's Case for Rate Hike - Bloomberg.com**
+`21 Aug 05:38 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_centralbanks
+
+Japan's Inflation Picks Up, Backing BOJ's Case for Rate Hike Bloomberg.com
 
 **Flash PMI shows Japan factories leading strongest growth since February**
 `21 Aug 05:37 PKT` · pehli baar dekhi `21 Aug 06:52` · investinglive
 
 The acceleration in output growth, combined with near record selling price inflation and a sustained rise in employment, strengthens the case for the Bank of Japan to proceed with a rate hike at its September meeting. A private sector expanding at its fastest pace in six months, alongside firms still able to push through some of the steepest price increases on record, suggests the economy can absorb tighter policy without an immediate loss of momentum, addressing one of the central bank's key ...
 
+**Japan's core inflation accelerates in July, bolsters case for rate hike - The Business Times**
+`21 Aug 05:16 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_centralbanks
+
+Japan's core inflation accelerates in July, bolsters case for rate hike The Business Times
+
+**Japan's Core Inflation Holds At 1.8% In July, Matching Expectations - Bitcoin World**
+`21 Aug 05:05 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_centralbanks
+
+Japan's Core Inflation Holds At 1.8% In July, Matching Expectations Bitcoin World
+
 **BOJ seen hiking to 1.25% in September as Japan inflation pressures broaden**
 `21 Aug 05:04 PKT` · pehli baar dekhi `21 Aug 06:52` · investinglive
 
 The data l ands squarely within the range the Bank of Japan needs to justify moving in September, with core inflation matching forecasts and the closely watched core-core measure accelerating to 1.9%. The pickup in service sector inflation is arguably the more important signal for policymakers than the headline energy driven move, since it points to firms passing on labour costs in a tight jobs market rather than a one-off pass-through from oil.
+
+**Japan's historic yen intervention has 'turbo-charged' the carry trade - CNBC**
+`21 Aug 05:00 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_centralbanks
+
+Japan's historic yen intervention has 'turbo-charged' the carry trade CNBC
+
+**Japan's Core Inflation Edges Higher In July, Keeping BOJ On Track - Bitcoin World**
+`21 Aug 04:55 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_centralbanks
+
+Japan's Core Inflation Edges Higher In July, Keeping BOJ On Track Bitcoin World
+
+**BOJ seen hiking to 1.25% in September as Japan inflation pressures broaden - investingLive**
+`21 Aug 04:54 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_centralbanks
+
+BOJ seen hiking to 1.25% in September as Japan inflation pressures broaden investingLive
 
 **Japan Inflation Picks Up as Rate-Boost Bets Firm**
 `21 Aug 04:48 PKT` · pehli baar dekhi `21 Aug 04:59` · wsj_economy
@@ -162,6 +334,11 @@ Japan's consumer inflation picked up last month as the effects of higher oil pri
 
 **Japan CPI rises in July, core inflation grows but stays below BOJ target**
 `21 Aug 04:44 PKT` · pehli baar dekhi `21 Aug 04:59` · investing_news
+
+**Japan Core Inflation Rate Hits 4-Month High - TradingView**
+`21 Aug 04:37 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_centralbanks
+
+Japan Core Inflation Rate Hits 4-Month High TradingView
 
 **Japan's National CPI climbs 2.0% YoY in July, Core CPI rises as expected**
 `21 Aug 04:32 PKT` · pehli baar dekhi `21 Aug 04:37` · fxstreet_news
@@ -173,10 +350,22 @@ Japan's National Consumer Price Index (CPI) climbed by 2.0% YoY in July, compare
 
 more to come I'll have more to come on this separately, detail and implications etc. -- Background to this: Preview: Japan core CPI seen hitting six month high, lifting bets on BoJ September hike This article was written by Eamonn Sheridan at investinglive.com.
 
+**The Japanese Yen Is Driving Its Own Rate Hike: A Self-Fulfilling Cycle - Bitcoin World**
+`21 Aug 04:10 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_centralbanks
+
+The Japanese Yen Is Driving Its Own Rate Hike: A Self-Fulfilling Cycle Bitcoin World
+
 **The Japanese Yen is the reason for its own hike**
 `21 Aug 03:46 PKT` · pehli baar dekhi `21 Aug 04:04` · fxstreet_news
 
 USD/JPY trades near 159.00 late in the session, 0.5% higher on the day and a little over a point clear of a rising 200-day Exponential Moving Average (EMA) near 158.00.
+
+### CHF
+
+**Swiss Franc edges up against US Dollar amid heightened US debt concerns**
+`21 Aug 08:22 PKT` · pehli baar dekhi `21 Aug 08:50` · fxstreet_news
+
+The Swiss Franc (CHF) resumes its upside journey against the US Dollar (USD) on Friday after a corrective move the previous day. The USD/CHF pair is down 0.17% to near 0.7990 in the Asian trading session.
 
 ### CAD
 
@@ -201,6 +390,11 @@ The AUD/USD pair gains traction to near 0.7135 during the Asian trading hours on
 `21 Aug 06:53 PKT` · pehli baar dekhi `21 Aug 07:58` · actionforex
 
 Australia private-sector activity continued to expand in August, although momentum eased slightly. PMI Composite Output fell from 53.2 to 52.5, while PMI Services Business Activity eased from 53.6 to 52.9. PMI Manufacturing held at 52.0, but PMI Manufacturing Output slipped from 50.3 to 49.7, indicating a marginal contraction in factory production even as broader manufacturing [&#8230;] The post Australia PMI Expansion Continues, but Manufacturing Output Slips Back Into Contraction appeared ...
+
+**Beacon triples the Iguana reserve - Australian Mining**
+`21 Aug 06:23 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
+
+Beacon triples the Iguana reserve Australian Mining
 
 **Australian Dollar weakens as US yields rebound, PMIs fail to impress**
 `21 Aug 04:15 PKT` · pehli baar dekhi `21 Aug 04:37` · fxstreet_news
@@ -231,15 +425,55 @@ New Zealand trade data, July 2026 Trade balance NZ$-1.95 billion (prior 23mn) Im
 
 ### OIL
 
+**Oil Prices Surge Past $93 As US-Iran Conflict Fuels Fresh Supply Fears - Times Now**
+`21 Aug 08:25 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
+
+Oil Prices Surge Past $93 As US-Iran Conflict Fuels Fresh Supply Fears Times Now
+
+**Live: Nifty set to clock weekly loss; Crude snaps 5-day rally | Opening Bell - Moneycontrol.com**
+`21 Aug 07:47 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_centralbanks
+
+Live: Nifty set to clock weekly loss; Crude snaps 5-day rally | Opening Bell Moneycontrol.com
+
+**US-Israel-Iran War Latest Live News: Brent Crude Nears $94 As Prolonged Conflict Keeps Global Oil Supply Under Pressure - The Sunday Guardian**
+`21 Aug 07:38 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
+
+US-Israel-Iran War Latest Live News: Brent Crude Nears $94 As Prolonged Conflict Keeps Global Oil Supply Under Pressure The Sunday Guardian
+
+**Brent hovers near $94 as US-Iran conflict continues to squeeze energy supply - The Times of India**
+`21 Aug 07:11 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
+
+Brent hovers near $94 as US-Iran conflict continues to squeeze energy supply The Times of India
+
+**Oil set for second weekly rise amid US-Iran tensions affecting supply - Crypto Briefing**
+`21 Aug 06:58 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
+
+Oil set for second weekly rise amid US-Iran tensions affecting supply Crypto Briefing
+
 **Goldman veteran Currie ties gold rally to debasement as commodities capture scarcity premium**
 `21 Aug 06:30 PKT` · pehli baar dekhi `21 Aug 06:52` · investinglive
 
 Currie's framing positions commodities as the asset class that benefits from both sides of the current macro backdrop, physical scarcity pushing prices higher and financial repression holding yields down artificially. His focus on the diesel crack, which he says settled above 100 dollars a barrel for the first time on record, points to a refining capacity problem distinct from crude supply itself, with implications for downstream costs in freight, agriculture and consumer fuel prices regardless ...
 
+**WTI Holds Near $86 As US-Iran Impasse Keeps Supply Risks Elevated - Bitcoin World**
+`21 Aug 06:30 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
+
+WTI Holds Near $86 As US-Iran Impasse Keeps Supply Risks Elevated Bitcoin World
+
+**Oil: New Brent rally above $93 amid Trump's economic war on Iran - ProtoThema English**
+`21 Aug 06:23 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
+
+Oil: New Brent rally above $93 amid Trump's economic war on Iran ProtoThema English
+
 **WTI consolidates around $86.00; bulls potential intact amid US-Iran impasse**
 `21 Aug 06:09 PKT` · pehli baar dekhi `21 Aug 06:52` · fxstreet_news
 
 West Texas Intermediate (WTI) – the benchmark US Crude Oil price – oscillates in a range around the $86.00 mark during the Asian session on Friday and remains well within striking distance of a three-week high, touched the previous day.
+
+**The Indicator - Oil Prices Surge Past $93 Amid Escalating US-Iran Tensions - Indicator.gr**
+`21 Aug 05:49 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
+
+The Indicator - Oil Prices Surge Past $93 Amid Escalating US-Iran Tensions Indicator.gr
 
 **Oil Futures Fall on Likely Technical Correction**
 `21 Aug 04:51 PKT` · pehli baar dekhi `21 Aug 04:59` · wsj_markets
@@ -251,17 +485,54 @@ Oil futures fell on a likely technical correction after the futures rose for a f
 
 The plan as described would target the two main routes shippers have used to avoid the Strait of Hormuz, Saudi Arabia's Yanbu pipeline and the UAE's Fujairah terminal, which together handle roughly 5.5 million barrels a day. Combined with a push to fully shut the roughly 5 million barrels a day still moving through the strait via the US backed shadow fleet, a successful campaign would remove a significant share of the alternative capacity that has kept some Gulf oil flowing despite the broader ...
 
+**Oil rises for fifth straight day as Trump promises to crush Iran's economy (USO:NYSEARCA) - Seeking Alpha**
+`21 Aug 04:35 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
+
+Oil rises for fifth straight day as Trump promises to crush Iran's economy (USO:NYSEARCA) Seeking Alpha
+
 **Iran "in bad shape," Trump says, citing weapon production collapse**
 `21 Aug 04:25 PKT` · pehli baar dekhi `21 Aug 04:37` · investinglive
 
 Trump's comments add another data point to the market's ongoing assessment of how much longer the Iran conflict, and the associated oil price premium, is likely to run. His characterization of Iran's economy as being in severe distress, with triple digit inflation and a collapsing currency, feeds a narrative that Tehran's capacity to sustain the standoff is eroding, which could support expectations of eventual de-escalation and a corresponding pullback in the geopolitical risk premium currently ...
 
+**Crude climbs over 1% on revived supply concerns - The Hans India**
+`21 Aug 03:20 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
+
+Crude climbs over 1% on revived supply concerns The Hans India
+
+**Oil Set for Weekly Surge as US Seeks to Throttle Iran's Economy - Bloomberg.com**
+`21 Aug 03:02 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
+
+Oil Set for Weekly Surge as US Seeks to Throttle Iran's Economy Bloomberg.com
+
+### RATES
+
+**Fed minutes show September rate hike still on the table - Reuters**
+`21 Aug 04:31 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_fed
+
+Fed minutes show September rate hike still on the table Reuters
+
 ### RISK
+
+**'One-two punch': US vows toughest-ever Iran sanctions, presses China to help reopen Hormuz - The Times of India**
+`21 Aug 07:14 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
+
+'One-two punch': US vows toughest-ever Iran sanctions, presses China to help reopen Hormuz The Times of India
+
+**Oil set for second weekly rise as unsettled US-Iran war crimps supply - CNBC**
+`21 Aug 07:05 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
+
+Oil set for second weekly rise as unsettled US-Iran war crimps supply CNBC
 
 **Is America Still Capable of Enforcing the World Order?**
 `21 Aug 07:00 PKT` · pehli baar dekhi `21 Aug 07:58` · wsj_world
 
 As the Iran war drains vital stockpiles of missile interceptors, American allies increasingly question Washington's capacity to wage multi-front conflicts.
+
+**Oil set for second weekly rise as unsettled US-Iran war crimps supply - TradingView**
+`21 Aug 06:46 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
+
+Oil set for second weekly rise as unsettled US-Iran war crimps supply TradingView
 
 **Bessent says US unlikely to resume large-scale Iran combat, steps up economic pressure**
 `21 Aug 04:52 PKT` · pehli baar dekhi `21 Aug 04:59` · fxstreet_news
@@ -271,10 +542,27 @@ US Treasury Secretary Scott Bessent said that the US President Donald Trump admi
 **Bessent says US to impose 'toughest' ever sanctions on Iran, urges China to cooperate**
 `21 Aug 04:18 PKT` · pehli baar dekhi `21 Aug 04:37` · investing_news
 
-### BINA TAG (62)
+**Oil set for second weekly rise as unsettled US-Iran war disrupts supply - The Business Times**
+`21 Aug 03:09 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
+
+Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Business Times
+
+### BINA TAG (79)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `21 Aug 08:36` **investing_news** — Implantica receives FDA approval for GERD implant RefluxStop
+- `21 Aug 08:33` **cointelegraph** — Capital.com plans UAE spot crypto services after affiliate wins licence
+- `21 Aug 08:27` **investing_news** — Why is Charter Hall stock sliding today?
+- `21 Aug 08:27` **investing_news** — Why is NRW Holdings stock surging today?
+- `21 Aug 08:22` **investing_news** — Mount Logan Capital CCO David Held buys $3,206 in common stock
+- `21 Aug 08:18` **gnews_gold** — Cadence Capital Reports Strong FY26 Performance Amid Strategic Portfolio Shifts - Sharecafe
+- `21 Aug 08:17` **investing_news** — Snowflake director Frank Slootman sells $97.4m in shares
+- `21 Aug 08:17` **investing_news** — Crowdstrike CEO George Kurtz sells over $4.1m in company stock
+- `21 Aug 08:16` **investing_news** — Neonc Technologies CEO Thomas Chen buys $69,997 in stock
+- `21 Aug 08:16` **investing_news** — Neonc Technologies CSO Thomas Chen buys $192,899 in stock
+- `21 Aug 08:13` **investing_news** — Henderson Land shares jump to more than 2-month high after H1 profit soars
+- `21 Aug 08:03` **investinglive** — South Korea to launch Future Fund with windfall AI chip tax revenue
 - `21 Aug 07:44` **wsj_world** — Hong Kong Court Convicts Activists Who Organized Tiananmen Vigils
 - `21 Aug 07:43` **investing_news** — Earnings call transcript: Regis Resources posts record FY2026 profit, shares rise 2.7%
 - `21 Aug 07:42` **investing_news** — Shein targets Hong Kong market debut on September 1, sources say
@@ -323,17 +611,22 @@ US Treasury Secretary Scott Bessent said that the US President Donald Trump admi
 - `21 Aug 04:00` **mw_topstories** — My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?
 - `21 Aug 03:51` **investing_news** — Earnings call transcript: Seeka posts record H1 2026 profit, lifts full-year view
 - `21 Aug 03:49` **investing_news** — EverCommerce CFO Ryan Siurek sells $32,398 in company stock
+- `21 Aug 03:49` **gnews_fed** — Congressman argues Federal Reserve is 'stuck in 2022,' operates in Biden-era ways - Fox Business
 - `21 Aug 03:46` **investing_news** — Nocopi CEO Matthew Winger buys $8,910 in company stock
 - `21 Aug 03:45` **investing_news** — Svp, chief HR officer Tara Wescott sells $161,650 in McGrath RentCorp stock
 - `21 Aug 03:45` **investing_news** — EverCommerce director Eric Remer sells $472,066 in shares
 - `21 Aug 03:45` **mw_topstories** — I hold my mother-in-law's power of attorney. I'm also her executor and trustee. Do I have too much power over her affairs?
+- `21 Aug 03:22` **gnews_fed** — As central bank bigwigs gather in Jackson Hole, local businesses carry on - marketplace.org
 - `21 Aug 03:19` **investing_news** — MGE Energy director Berbee buys $21,248 in common stock
 - `21 Aug 03:16` **investing_news** — Clipper Realty director Sam Levinson buys $310,591 in common stock
 - `21 Aug 03:16` **investing_news** — DST Global Advisors sells $156.9 million in Chime Financial stock
 - `21 Aug 03:16` **investing_news** — Stark Novus financial director Alexandre Zyngier buys $21,219 in shares
 - `21 Aug 03:15` **investing_news** — Expedia group SVP & chief accounting officer sells $909,456 in common stock
+- `21 Aug 03:14` **gnews_fed** — Boston Federal Reserve president visits Dover businesses, speaks about state of U.S. economy - WMUR
+- `21 Aug 03:12` **gnews_fed** — Boston Federal Reserve president remarks about U.S. economy in Dover visit - Yahoo
 - `21 Aug 03:07` **investing_news** — Earnings call transcript: eXoZymes posts q2 2026 loss as launch plans advance
 - `21 Aug 03:04` **investing_news** — Parker Hannifin declares $2.00 quarterly dividend
+- `21 Aug 03:03` **gnews_fed** — Does the Government Want Higher Borrowing Costs, Or Lower? Top Financial Officials Are Sending Mixed Signals - Investopedia
 - `21 Aug 03:01` **investing_news** — Mariana, 18 more Brazil cities join Vale-BHP dam collapse compensation deal
 - `21 Aug 03:01` **investing_news** — Medical properties trust senior VP, controller & CAO buys $9,545 in stock
 - `21 Aug 03:01` **investing_news** — Ichor Holdings director Iain MacKenzie sells $653,176 in shares
@@ -342,30 +635,36 @@ US Treasury Secretary Scott Bessent said that the US President Donald Trump admi
 
 ## Data quality
 
-| Feed | Status | Uthai | Sab se nayi (din) | Note |
-|---|---|---|---|---|
-| investinglive | OK | 25 | 0.0 |  |
-| fxstreet_news | OK | 30 | 0.0 |  |
-| fxstreet_analysis | OK | 30 | 0.3 |  |
-| actionforex | OK | 20 | 0.0 |  |
-| marketpulse | OK | 3 | 0.8 |  |
-| wsj_economy | OK | 36 | 0.0 |  |
-| cme_metals_video | OK | 10 | 0.2 |  |
-| cme_fx_video | OK | 10 | 0.2 |  |
-| cme_rates_video | OK | 10 | 0.2 |  |
-| cme_energy_video | OK | 10 | 0.2 |  |
-| cme_daily_commentary | OK | 10 | 0.2 |  |
-| cme_risk_management | OK | 20 | 7.9 |  |
-| fed_monetary | OK | 15 | 1.4 |  |
-| fed_speeches | OK | 15 | 15.3 |  |
-| ecb_press | OK | 15 | 1.8 |  |
-| boe_news | OK | 50 | 9.6 |  |
-| boj_whatsnew | OK | 46 | 3.8 |  |
-| rba_media | OK | 1 | 1.7 |  |
-| bea_releases | OK | 47 | 16.6 |  |
-| wsj_world | OK | 71 | 0.0 |  |
-| wsj_markets | OK | 61 | 0.0 |  |
-| investing_news | OK | 10 | 0.0 |  |
-| yahoo_finance | OK | 50 | 0.7 |  |
-| mw_topstories | OK | 10 | 0.2 |  |
-| cointelegraph | OK | 30 | 0.2 |  |
+*Feed mein = is run par feed ne kitni khabrein dikhayin. Aaj ki = jo aaj ke trading day ki thin. Nayi = jo is run par pehli baar mili. Purani = jo pehle mehfooz ho chuki thin. Bahar = doosre trading day ki thin.*
+
+| Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
+|---|---|---|---|---|---|---|---|
+| investinglive | OK | 25 | 20 | 3 | 17 | 5 | 0.0 |
+| fxstreet_news | OK | 30 | 21 | 1 | 20 | 9 | 0.0 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.4 |
+| actionforex | OK | 20 | 7 | 1 | 6 | 13 | 0.0 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 0.8 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.0 |
+| gnews_gold | OK | 100 | 18 | 18 | 0 | 82 | 0.0 |
+| gnews_fed | OK | 100 | 9 | 9 | 0 | 91 | 0.2 |
+| gnews_geopolitics | OK | 97 | 14 | 14 | 0 | 83 | 0.0 |
+| gnews_centralbanks | OK | 39 | 15 | 15 | 0 | 24 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.3 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 9.6 |
+| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 3.8 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 1.8 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 16.6 |
+| wsj_world | OK | 71 | 4 | 0 | 4 | 67 | 0.0 |
+| wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.1 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.8 |
+| mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
+| cointelegraph | OK | 30 | 1 | 1 | 0 | 29 | 0.0 |
