@@ -1,8 +1,8 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 00:33 PKT**
-- Kul khabrein: **707**
+- Aakhri update: **22 Aug 00:53 PKT**
+- Kul khabrein: **730**
 - Feeds: 38/39 OK
 
 ---
@@ -112,6 +112,17 @@ Prior 52.2 Services PMI 48.5 vs 50.1 expected Prior 49.8 Composite PMI 51.0 vs 5
 EUROPEAN SESSION In the European session, we get the Flash PMIs for the major Eurozone economies and the UK. Pretty much all of them are expected to pull back from prior month's levels given the ongoing Hormuz disruption and US-Iran stalemate. The data won't change anything for the respective central banks, though, so the market reaction will likely be muted. Right now, the market is more focused on the Treasury "intervention" plan trying to limit the surge in long-term yields.
 
 ### GOLD
+
+**Gold looks to PCE inflation, Jackson Hole for direction next week - KITCO**
+`22 Aug 00:50 PKT` · pehli baar dekhi `22 Aug 00:53` · kitco_general
+
+Gold looks to PCE inflation, Jackson Hole for direction next week KITCO
+
+**Silver tests 61.8% Fib at $70 with overbought RSI: Live levels**
+`22 Aug 00:19 PKT` · pehli baar dekhi `22 Aug 00:53` · investing_commodities
+
+**Gold parabolic surge hits overbought extremes: Live levels**
+`22 Aug 00:19 PKT` · pehli baar dekhi `22 Aug 00:53` · investing_commodities
 
 **Silver Price Forecast: XAG bulls test $70 as rally extends**
 `21 Aug 23:05 PKT` · pehli baar dekhi `21 Aug 23:14` · fxstreet_news
@@ -254,6 +265,9 @@ Gold price (XAU/USD) is up 0.65% at around $4,550 during the early European trad
 Canadian developer says new drilling at its past-producing Kerr-Addison property in Ontario could open the door to a larger open-pit gold resource.
 
 ### USD
+
+**DexCom stock hits 52-week high at 91.99 USD**
+`22 Aug 00:22 PKT` · pehli baar dekhi `22 Aug 00:53` · investing_news
 
 **Geo Group Inc stock hits 52-week high at 32.64 USD**
 `22 Aug 00:08 PKT` · pehli baar dekhi `22 Aug 00:33` · investing_news
@@ -933,6 +947,14 @@ UK GfK consumer confidence beats forecasts, bolstering sterling and tempering Ba
 
 ### JPY
 
+**Dollar at 3-month lows after weekly slump; yen set to halt post-intervention slide**
+`22 Aug 00:43 PKT` · pehli baar dekhi `22 Aug 00:53` · investing_news
+
+**Japanese Yen neutral as it meets resilient US data**
+`22 Aug 00:35 PKT` · pehli baar dekhi `22 Aug 00:53` · fxstreet_news
+
+The US Dollar (USD) is muted against the Japanese Yen (JPY). USD/JPY traded in the low 159.00s at the time of writing on Friday.
+
 **USDJPY sets the close guardrails for next week's trading**
 `22 Aug 00:01 PKT` · pehli baar dekhi `22 Aug 00:33` · investinglive
 
@@ -1211,6 +1233,17 @@ The New Zealand Dollar (NZD) extends its rally against the US Dollar (USD) on Fr
 
 ### OIL
 
+**Crude Oil Prices Decline Amidst Supply Risk Concern - MarketForces Africa**
+`22 Aug 00:44 PKT` · pehli baar dekhi `22 Aug 00:53` · gnews_geopolitics
+
+Crude Oil Prices Decline Amidst Supply Risk Concern MarketForces Africa
+
+**Brent Oil nears $95 resistance with overbought RSI: Live levels**
+`22 Aug 00:20 PKT` · pehli baar dekhi `22 Aug 00:53` · investing_commodities
+
+**London Gas Oil stalls at double top $1,328: Live levels**
+`22 Aug 00:19 PKT` · pehli baar dekhi `22 Aug 00:53` · investing_commodities
+
 **Iraq Wants to Double Oil Output—and Needs OPEC to Get Out of the Way**
 `21 Aug 23:30 PKT` · pehli baar dekhi `22 Aug 00:01` · oilprice
 
@@ -1351,12 +1384,13 @@ Oil set for more than 6% weekly gain as Hormuz risks persist Anadolu Ajansı
 Oil prices rise for a second week amid the threat of new US sanctions Українські Національні Новини (УНН)
 
 **Oil set for second weekly gain as US ramps up pressure on Iran - Reuters**
-`21 Aug 18:19 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics · **6 feeds mein**
+`21 Aug 18:19 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics · **7 feeds mein**
 
 Oil set for second weekly gain as US ramps up pressure on Iran Reuters
   - `21 Aug 14:55` *gnews_geopolitics* — Oil set for second weekly gain as US ramps up pressure on Iran - Yahoo Finance
   - `21 Aug 14:55` *gnews_geopolitics* — Oil set for second weekly gain as US ramps up pressure on Iran - Euronext Markets
   - `21 Aug 14:35` *gnews_geopolitics* — Oil set for second weekly gain as US ramps up pressure on Iran - The Express Tribune
+  - `21 Aug 13:27` *gnews_geopolitics* — Oil set for weekly gain as US ramps up pressure on Iran - RTE.ie
   - `21 Aug 12:44` *gnews_geopolitics* — Oil Set for Second Weekly Gain as US Ramps Up Pressure on Iran - EnergyNow.com
   - `21 Aug 03:40` *gnews_geopolitics* — Oil set for second weekly gain as US ramps up pressure on Iran - The Edge Malaysia
 
@@ -1699,6 +1733,19 @@ Crude Oil Futures Hit One-Month High as U.S. Sanctions on Iran Reignite Supply C
 Oil Set for Weekly Surge as US Seeks to Throttle Iran's Economy Bloomberg.com
 
 ### CRYPTO
+
+**Bitcoin RSI hits 89.4-overbought extreme: Hourly levels**
+`22 Aug 00:20 PKT` · pehli baar dekhi `22 Aug 00:53` · investing_news
+
+**Onchain, in court: What happened in crypto legal news this week**
+`22 Aug 00:19 PKT` · pehli baar dekhi `22 Aug 00:53` · cointelegraph
+
+The CFTC ordered a trading ban for former Alameda and FTX executives, and US prosecutors opposed a motion from a US soldier accused of profiting from the removal of Nicolas Maduro.
+
+**Bitcoin seeks support near $77K as BTC, gold near 100-day highs**
+`22 Aug 00:10 PKT` · pehli baar dekhi `22 Aug 00:53` · cointelegraph
+
+Bitcoin volatility eased after BTC hit its highest level since mid-May, while gold joined the cryptocurrency in approaching three-month highs.
 
 **Deutsche Bank Raises UK Growth Forecast On Resilient Economy - Bitcoin World**
 `21 Aug 22:30 PKT` · pehli baar dekhi `21 Aug 23:14` · gnews_centralbanks
@@ -2095,9 +2142,10 @@ US Plans Toughest Sanctions Yet Against Iran The Media Line
 `21 Aug 13:18 PKT` · pehli baar dekhi `21 Aug 20:49` · investing_commodities
 
 **Oil set for second weekly rise as unsettled US-Iran war crimps supply - mediaselangor.com**
-`21 Aug 13:12 PKT` · pehli baar dekhi `21 Aug 20:53` · gnews_geopolitics · **7 feeds mein**
+`21 Aug 13:12 PKT` · pehli baar dekhi `21 Aug 20:53` · gnews_geopolitics · **8 feeds mein**
 
 Oil set for second weekly rise as unsettled US-Iran war crimps supply mediaselangor.com
+  - `21 Aug 11:10` *gnews_geopolitics* — Oil Set for Second Weekly Rise as Unsettled US-Iran War Crimps Supply - ASHARQ AL-AWSAT English
   - `21 Aug 11:05` *gnews_geopolitics* — Oil set for second weekly rise as unsettled US-Iran war crimps supply - Business Recorder
   - `21 Aug 10:16` *gnews_geopolitics* — Oil set for second weekly rise as unsettled US-Iran war crimps supply - KLSE Screener
   - `21 Aug 09:04` *gnews_geopolitics* — Oil set for second weekly rise as unsettled US-Iran war crimps supply - Dunya News
@@ -2186,11 +2234,18 @@ Iran has so far proved adept at finding ways around years of already punishing s
 
 It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
 
-### BINA TAG (224)
+### BINA TAG (231)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 00:37` **fxstreet_news** — Thai Baht: Extended policy pause expected from Bank of Thailand – DBS
+- `22 Aug 00:35` **investing_news** — Trending stocks to watch: NVIDIA, Super Micro, Intel and more
+- `22 Aug 00:29` **aljazeera** — US court slashes Alex Jones fines for Sandy Hook school shooting case
+- `22 Aug 00:26` **investing_news** — Hyundai Motor's South Korean union stages first full strike in a decade over pay
+- `22 Aug 00:25` **investing_news** — US highway agency expands probe into GM pickups, SUVs over engine failures
 - `22 Aug 00:21` **aljazeera** — Libya rivals test a new path towards unity, 15 years after Gadaffi downfall
+- `22 Aug 00:19` **investing_commodities** — Natural Gas stuck below $2.80 resistance: Live levels
+- `22 Aug 00:19` **investing_commodities** — Copper coiled between $6.51-$6.62: Live breakout levels
 - `22 Aug 00:14` **aljazeera** — Palestinian victims of Israeli settler attacks face battle for justice
 - `22 Aug 00:12` **investing_news** — US health agencies report 55 cases of E. coli and salmonella infections tied to alfalfa sprouts
 - `22 Aug 00:11` **mw_topstories** — Former JPMorgan exec takes on Social Security advisory role
@@ -2417,11 +2472,11 @@ It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomati
 
 ---
 
-## Shor — 12 khabrein hatai gayin
+## Shor — 14 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (12)
+investing_news (14)
 
 ---
 
@@ -2431,9 +2486,9 @@ investing_news (12)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 0 | 30 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.0 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 2 | 28 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.1 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.2 |
 | marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.3 |
 | instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
@@ -2444,32 +2499,32 @@ investing_news (12)
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.6 |
-| kitco_general | OK | 21 | 20 | 0 | 20 | 1 | 0.1 |
-| gnews_fed | OK | 83 | 61 | 1 | 60 | 22 | 0.0 |
-| gnews_geopolitics | OK | 100 | 95 | 2 | 93 | 5 | 0.1 |
-| gnews_centralbanks | OK | 36 | 35 | 2 | 33 | 1 | 0.0 |
+| kitco_general | OK | 21 | 21 | 1 | 20 | 0 | 0.0 |
+| gnews_fed | OK | 77 | 60 | 0 | 60 | 17 | 0.1 |
+| gnews_geopolitics | OK | 100 | 96 | 3 | 93 | 4 | 0.0 |
+| gnews_centralbanks | OK | 36 | 35 | 0 | 35 | 1 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.0 |
 | ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.3 |
 | boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.5 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.4 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.5 |
 | mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.1 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
 | ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.4 |
 | bbc_business | OK | 50 | 15 | 0 | 15 | 35 | 0.1 |
-| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.4 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.2 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.3 |
 | wsj_world | OK | 72 | 11 | 0 | 11 | 61 | 0.0 |
 | wsj_markets | OK | 61 | 23 | 0 | 23 | 38 | 0.0 |
-| investing_news | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 4 | 0 | 4 | 46 | 0.3 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 14 | 0 | 14 | 16 | 0.1 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 2 | 0 | 2 | 48 | 0.4 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 16 | 2 | 14 | 14 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - instaforex — FAIL, koi item nahi
