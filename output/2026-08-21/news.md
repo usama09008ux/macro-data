@@ -1,9 +1,9 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 10:20 PKT**
-- Kul khabrein: **278**
-- Feeds: 32/35 OK
+- Aakhri update: **21 Aug 10:55 PKT**
+- Kul khabrein: **302**
+- Feeds: 31/35 OK
 
 ---
 
@@ -68,6 +68,16 @@ Palladium futures rose to around $1,350 per ounce, extending gains to a one-week
 
 The Shanghai Composite slipped 0.3% to 3,891 on Friday, while the Shenzhen Component inched up 0.3% to 14,021, as investors largely stayed on the sidelines amid a lack of new market catalysts. Market focus is shifting to the National People's Congress Standing Committee meeting in Beijing on August 25–28, where investors are looking for fresh policy signals following a run of weak July economic data.
 
+**Gold Price Today, 21 August 2026: 24K Gold Climbs Above ₹1.57 Lakh per 10g — Check Latest Rates Across India - chshyd.in**
+`21 Aug 10:23 PKT` · pehli baar dekhi `21 Aug 10:55` · gnews_gold
+
+Gold Price Today, 21 August 2026: 24K Gold Climbs Above ₹1.57 Lakh per 10g — Check Latest Rates Across India chshyd.in
+
+**Chennai Bullion Rates: Gold & Silver Prices Aug 21 - Rediff MoneyWiz**
+`21 Aug 10:04 PKT` · pehli baar dekhi `21 Aug 10:55` · gnews_gold
+
+Chennai Bullion Rates: Gold & Silver Prices Aug 21 Rediff MoneyWiz
+
 **Gold Rate Today, August 21: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express**
 `21 Aug 10:03 PKT` · pehli baar dekhi `21 Aug 10:20` · gnews_gold
 
@@ -77,6 +87,11 @@ Gold Rate Today, August 21: Check 18, 22 and 24 carat gold prices in Chennai, Mu
 `21 Aug 10:00 PKT` · pehli baar dekhi `21 Aug 10:20` · gnews_gold
 
 Gold price in Philippines: Rates on August 21 FXStreet
+
+**Chennai gold price rises by Rs 880 on August 21, 2026; check today's gold, silver rate - DT Next**
+`21 Aug 09:52 PKT` · pehli baar dekhi `21 Aug 10:55` · gnews_gold
+
+Chennai gold price rises by Rs 880 on August 21, 2026; check today's gold, silver rate DT Next
 
 **Gold prices rise Rs 6,400/10g in 3 days; silver jumps Rs 13,000/kg despite Middle East tensions. Big rally - The Economic Times**
 `21 Aug 09:35 PKT` · pehli baar dekhi `21 Aug 09:47` · gnews_gold
@@ -300,6 +315,11 @@ Australian equities edged lower around midday on Friday, with the benchmark inde
 
 The 10-year US Treasury yield hovered around 4.7% on Friday, after a sharp rebound in the previous session, as investors questioned whether the government's strategy to lower borrowing costs would deliver more than a short-lived reprieve. The 30-year yield also climbed to roughly 5.25%, almost fully reversing Wednesday's drop that followed the US Treasury Department's announcement of expanded debt buyback operations.
 
+**Indian Rupee ticks lower due to elevated oil prices, recovery in US bond yields**
+`21 Aug 10:51 PKT` · pehli baar dekhi `21 Aug 10:55` · fxstreet_news
+
+The Indian Rupee (INR) edges down against the US Dollar (USD) in the opening session on Friday. The USD/INR ticks up to near 95.72 as elevated oil prices and a sharp recovery in United States (US) Treasury Yields have weighed on the Indian currency.
+
 **Japan Services Growth at 5-Month High**
 `21 Aug 10:35 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
 
@@ -446,6 +466,11 @@ The Euro remains steady below 1.1700 after failing to hold gains above it, despi
 
 ### GBP
 
+**UK GfK consumer confidence beats forecasts, bolstering sterling and tempering Bank of England rate-cut hopes - VT Markets**
+`21 Aug 09:16 PKT` · pehli baar dekhi `21 Aug 10:55` · gnews_centralbanks
+
+UK GfK consumer confidence beats forecasts, bolstering sterling and tempering Bank of England rate-cut hopes VT Markets
+
 **British Pound edges higher to near 1.3650, UK Retail Sales data looms**
 `21 Aug 06:55 PKT` · pehli baar dekhi `21 Aug 07:58` · fxstreet_news
 
@@ -485,6 +510,11 @@ Japan's food prices rose 3.5% year-on-year in July 2026, up from 3.2% in June an
 `21 Aug 10:55 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
 
 The Nikkei 225 Index slipped 0.7% to below 66,000 on Friday, while the broader Topix Index lost 0.25% to around 4,050, reversing gains from the previous session. The pullback came as global bond yields rebounded, amid concerns that US efforts to contain borrowing costs through Treasury buybacks might offer only short-lived relief.
+
+**Japan's Data Is Strengthening as Australia's Weakens. Why Is AUD/JPY Rising?**
+`21 Aug 10:52 PKT` · pehli baar dekhi `21 Aug 10:55` · actionforex
+
+Japan's data is strengthening and Australia's is weakening, yet AUD/JPY keeps rising — because the cross is trading on the global yield backdrop and carry differential, not on either country's local fundamentals. The post Japan&#8217;s Data Is Strengthening as Australia&#8217;s Weakens. Why Is AUD/JPY Rising? appeared first on ActionForex.
 
 **Japan Factory Activity Growth Hits 4-Month High**
 `21 Aug 10:38 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
@@ -724,10 +754,30 @@ The Hang Seng Index rose 0.7%, or 171 points, to 25,868 on Friday, extending gai
 
 European natural gas prices slipped below €65 per MWh on Friday but remained close to their highest level since January 2023, as the deadlock in the US–Iran confrontation clouded the outlook for LNG supplies from the Gulf. Tensions over the Strait of Hormuz have escalated into a new phase of economic pressure, unnerving the market. Traders are increasingly concerned about Europe's readiness for the coming winter.
 
+**Oil futures: Crude steadies as US set to ramp up sanctions on Iran - Quantum Commodity Intelligence**
+`21 Aug 10:43 PKT` · pehli baar dekhi `21 Aug 10:55` · gnews_geopolitics
+
+Oil futures: Crude steadies as US set to ramp up sanctions on Iran Quantum Commodity Intelligence
+
+**Oil Prices Set For 5% Weekly Gain As Fresh US Iran Measures Raise Supply Disruption Fears - Free Press Journal**
+`21 Aug 10:36 PKT` · pehli baar dekhi `21 Aug 10:55` · gnews_geopolitics
+
+Oil Prices Set For 5% Weekly Gain As Fresh US Iran Measures Raise Supply Disruption Fears Free Press Journal
+
 **Oil Prices Surge for Second Week as US-Iran Conflict Crimps Global Supply - streamlinefeed.co.ke**
 `21 Aug 10:19 PKT` · pehli baar dekhi `21 Aug 10:20` · gnews_geopolitics
 
 Oil Prices Surge for Second Week as US-Iran Conflict Crimps Global Supply streamlinefeed.co.ke
+
+**Iranian Oil Supply to Chinese Refiners Squeezed by US Blockade - Bloomberg.com**
+`21 Aug 10:19 PKT` · pehli baar dekhi `21 Aug 10:55` · gnews_geopolitics
+
+Iranian Oil Supply to Chinese Refiners Squeezed by US Blockade Bloomberg.com
+
+**Oil Prices Steady as Iran Conflict Disrupts Supply | Market Update - News and Statistics - IndexBox**
+`21 Aug 09:50 PKT` · pehli baar dekhi `21 Aug 10:55` · gnews_geopolitics
+
+Oil Prices Steady as Iran Conflict Disrupts Supply | Market Update - News and Statistics IndexBox
 
 **Brent Oil Nears $94 as US-Iran War Keeps Supply Risks High - Bloom Pakistan**
 `21 Aug 09:30 PKT` · pehli baar dekhi `21 Aug 09:47` · gnews_geopolitics
@@ -744,6 +794,11 @@ Tajikistan Seeks 2.55 Million Tons of Iranian Oil and Fuel as Russian Supplies F
 
 Crude Slips but Heads for Second Weekly Gain HDFC Sky
 
+**Oil prices gain over 6 per cent as Trump steps up economic pressure on Iran - The Eastleigh Voice**
+`21 Aug 08:55 PKT` · pehli baar dekhi `21 Aug 10:55` · gnews_geopolitics
+
+Oil prices gain over 6 per cent as Trump steps up economic pressure on Iran The Eastleigh Voice
+
 **Iran Tensions And Hormuz Security Keep Crude Oil Markets On Edge, With Implications For TSX:RY - foreignpolicyjournal.com**
 `21 Aug 08:48 PKT` · pehli baar dekhi `21 Aug 08:56` · gnews_geopolitics
 
@@ -754,6 +809,11 @@ Iran Tensions And Hormuz Security Keep Crude Oil Markets On Edge, With Implicati
 
 Oil Prices Surge Past $93 As US-Iran Conflict Fuels Fresh Supply Fears Times Now
 
+**Oil prices steady near $94 as Strait of Hormuz tensions persist: Will US-Iran tensions push crude higher? - Zee Business**
+`21 Aug 08:23 PKT` · pehli baar dekhi `21 Aug 10:55` · gnews_geopolitics
+
+Oil prices steady near $94 as Strait of Hormuz tensions persist: Will US-Iran tensions push crude higher? Zee Business
+
 **Live: Nifty set to clock weekly loss; Crude snaps 5-day rally | Opening Bell - Moneycontrol.com**
 `21 Aug 07:47 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_centralbanks
 
@@ -763,6 +823,11 @@ Live: Nifty set to clock weekly loss; Crude snaps 5-day rally | Opening Bell Mon
 `21 Aug 07:38 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
 
 US-Israel-Iran War Latest Live News: Brent Crude Nears $94 As Prolonged Conflict Keeps Global Oil Supply Under Pressure The Sunday Guardian
+
+**Oil Price Today (August 21): Crude oil nears $95 as Iran peace deal hopes fade. What are experts saying? - The Economic Times**
+`21 Aug 07:25 PKT` · pehli baar dekhi `21 Aug 10:55` · gnews_geopolitics
+
+Oil Price Today (August 21): Crude oil nears $95 as Iran peace deal hopes fade. What are experts saying? The Economic Times
 
 **Brent hovers near $94 as US-Iran conflict continues to squeeze energy supply - The Times of India**
 `21 Aug 07:11 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
@@ -793,6 +858,11 @@ Oil: New Brent rally above $93 amid Trump's economic war on Iran ProtoThema Engl
 `21 Aug 06:09 PKT` · pehli baar dekhi `21 Aug 06:52` · fxstreet_news
 
 West Texas Intermediate (WTI) – the benchmark US Crude Oil price – oscillates in a range around the $86.00 mark during the Asian session on Friday and remains well within striking distance of a three-week high, touched the previous day.
+
+**Oil Rallies to One-Month High as Trump Targets Iran Backers - Business Post Nigeria**
+`21 Aug 06:01 PKT` · pehli baar dekhi `21 Aug 10:55` · gnews_geopolitics
+
+Oil Rallies to One-Month High as Trump Targets Iran Backers Business Post Nigeria
 
 **The Indicator - Oil Prices Surge Past $93 Amid Escalating US-Iran Tensions - Indicator.gr**
 `21 Aug 05:49 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
@@ -841,6 +911,24 @@ Oil Set for Weekly Surge as US Seeks to Throttle Iran's Economy Bloomberg.com
 
 Bitcoin extended its bullish climb toward the $75,000 mark in August, reaching its highest level since late May and on track for a weekly gain of about 19%—its strongest performance since February 2024. The surge followed President Donald Trump's call for Congress to pass a key crypto regulatory bill.
 
+**South Korean lawmakers seek expanded FIU powers over unregistered crypto firms**
+`21 Aug 10:47 PKT` · pehli baar dekhi `21 Aug 10:55` · cointelegraph
+
+The proposal would let the FIU investigate suspected violations and refer unregistered crypto operators directly to law enforcement.
+
+**Elliott Wave Outlook: Bitcoin (BTCUSD) Launches New Bullish Leg**
+`21 Aug 10:26 PKT` · pehli baar dekhi `21 Aug 10:55` · actionforex
+
+The short‑term Elliott Wave view in Bitcoin (BTCUSD) indicates that the cryptocurrency established a significant low on June 25, 2026. From that level, price action began to unfold with impulsive characteristics. The initial advance completed wave 1 at $66,990, followed by a corrective pullback in wave 2 that ended at $62,214.75. Momentum then shifted upward [&#8230;] The post Elliott Wave Outlook: Bitcoin (BTCUSD) Launches New Bullish Leg appeared first on ActionForex.
+
+**Bitcoin Wave Analysis**
+`21 Aug 10:25 PKT` · pehli baar dekhi `21 Aug 10:55` · actionforex
+
+Bitcoin: ⬆️ Buy – Bitcoin broke round resistance level 70000.00 – Likely to rise to resistance level 74000.00 Bitcoin cryptocurrency recently broke the resistance zone between the round resistance level 70000.00 and the resistance trendline of the daily up channel from June. The breakout of this resistance zone coincided with the breakout of the 50% Fibonacci correction [&#8230;] The post Bitcoin Wave Analysis appeared first on ActionForex.
+
+**Asia crypto stocks rally as Bitcoin rebounds sharply; Metaplanet surges 20%**
+`21 Aug 10:15 PKT` · pehli baar dekhi `21 Aug 10:55` · investing_news
+
 **Bitcoin tests $75k as Trump spurs U.S. regulatory hopes**
 `21 Aug 09:14 PKT` · pehli baar dekhi `21 Aug 09:47` · investing_news
 
@@ -878,6 +966,9 @@ Fed minutes show September rate hike still on the table Reuters
 
 Copper futures rose above $6.50 per pound on Friday, reversing early-week losses as tight physical supply continued to support prices. The market remains fragile after months of inventory outflows, driven in part by metal being redirected to the US ahead of expected tariffs. Top producer Chile also anticipates a decline in copper output this year, as ongoing operational disruptions weigh on mines and development projects.
 
+**Bessent says U.S. to impose 'toughest sanctions in history' on Iran**
+`21 Aug 10:28 PKT` · pehli baar dekhi `21 Aug 10:55` · investing_news
+
 **Oil set for second weekly rise as unsettled US-Iran war crimps supply - KLSE Screener**
 `21 Aug 10:16 PKT` · pehli baar dekhi `21 Aug 10:20` · gnews_geopolitics
 
@@ -895,6 +986,11 @@ Oil set for second weekly rise as unsettled US-Iran war crimps supply The Star
 
 **Analysis-War-hit European markets are far from down and out**
 `21 Aug 09:07 PKT` · pehli baar dekhi `21 Aug 09:26` · investing_news
+
+**Oil set for second weekly rise as unsettled US-Iran war crimps supply - Business Recorder**
+`21 Aug 07:49 PKT` · pehli baar dekhi `21 Aug 10:55` · gnews_geopolitics
+
+Oil set for second weekly rise as unsettled US-Iran war crimps supply Business Recorder
 
 **'One-two punch': US vows toughest-ever Iran sanctions, presses China to help reopen Hormuz - The Times of India**
 `21 Aug 07:14 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
@@ -944,13 +1040,17 @@ Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says Ene
 
 Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Business Times
 
-### BINA TAG (93)
+### BINA TAG (97)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
 - `21 Aug 15:00` **instaforex** — Estonia's Producer Prices Fall Further in July, Extending Deflationary Trend
 - `21 Aug 14:39` **instaforex** — Dutch Consumer Confidence Less Negative in August
 - `21 Aug 14:30` **instaforex** — Dutch Consumer Confidence Inches Up in August, Remains Deep in Negative Territory
+- `21 Aug 10:31` **investing_news** — CoreWeave CEO Michael Intrator sells $29.5m in stock
+- `21 Aug 10:31` **investing_news** — Arthur J. Gallagher VP Mead sells $899k in company stock
+- `21 Aug 10:16` **investing_news** — Nektar Therapeutics chief R&D officer Zalevsky sells $13,388 in shares
+- `21 Aug 10:14` **investing_news** — Indian steel pipe maker Welspun Corp surges to record high on bumper $1.8 bln U.S. order
 - `21 Aug 10:10` **investing_news** — Why is NetEase HK stock rising today?
 - `21 Aug 10:08` **investing_news** — Earnings call transcript: Hua Medicine posts 74% H1 2026 revenue growth
 - `21 Aug 10:07` **investing_news** — Alibaba shares fall after 75% profit plunge as AI spending weighs on earnings
@@ -1050,12 +1150,12 @@ Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Busi
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 23 | 2 | 21 | 2 | 0.0 |
-| fxstreet_news | OK | 30 | 29 | 2 | 27 | 1 | 0.0 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.4 |
-| actionforex | OK | 20 | 7 | 0 | 7 | 13 | 0.1 |
+| investinglive | OK | 25 | 23 | 0 | 23 | 2 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 1 | 29 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.5 |
+| actionforex | OK | 20 | 10 | 3 | 7 | 10 | 0.0 |
 | marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 0.9 |
-| instaforex | OK | 25 | 25 | 9 | 16 | 0 | -0.2 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
@@ -1063,30 +1163,31 @@ Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Busi
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.0 |
-| gnews_gold | OK | 100 | 25 | 4 | 21 | 75 | 0.0 |
+| gnews_gold | OK | 100 | 28 | 3 | 25 | 72 | 0.0 |
 | gnews_fed | OK | 100 | 11 | 0 | 11 | 89 | 0.1 |
-| gnews_geopolitics | OK | 98 | 23 | 3 | 20 | 75 | 0.0 |
-| gnews_centralbanks | OK | 36 | 17 | 2 | 15 | 19 | 0.0 |
+| gnews_geopolitics | OK | 100 | 32 | 9 | 23 | 68 | 0.0 |
+| gnews_centralbanks | OK | 37 | 18 | 1 | 17 | 19 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.4 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 9.7 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 3.9 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 1.8 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 20.8 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 1.9 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 20.9 |
 | rbnz_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | snb_press | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | us_treasury | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 1.6 |
+| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 1.7 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 16.7 |
 | wsj_world | OK | 71 | 4 | 0 | 4 | 67 | 0.1 |
 | wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.1 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| investing_news | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
 | yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.6 |
 | mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.3 |
-| cointelegraph | OK | 30 | 2 | 1 | 1 | 28 | 0.0 |
+| cointelegraph | OK | 30 | 3 | 1 | 2 | 27 | 0.0 |
 
 **Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi
 - rbnz_news — FAIL, HTTP 403
 - snb_press — FAIL, HTTP 404
 - us_treasury — FAIL, HTTP 404
