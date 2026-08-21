@@ -1,13 +1,18 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 01:51 PKT**
-- Kul khabrein: **796**
-- Feeds: 38/39 OK
+- Aakhri update: **22 Aug 02:18 PKT**
+- Kul khabrein: **830**
+- Feeds: 39/39 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**Gold futures hit May highs as fiscal concerns offset yields.**
+`22 Aug 02:05 PKT` · pehli baar dekhi `22 Aug 02:18` · cme_metals_video
+
+Bob Iaccino of Path Trading Partners analyzes the metals markets, noting that Gold futures rallied for a fifth consecutive week, reaching their highest level since May 14. Despite a slight uptick in yields and shifting rate-hike expectations, Gold prices remained supported by a strong fiscal stress and currency debasement narrative.
 
 **RBOB Gasoline futures reach highest levels since June as volume rolls.**
 `22 Aug 01:29 PKT` · pehli baar dekhi `22 Aug 01:51` · cme_energy_video
@@ -137,6 +142,11 @@ Prior 52.2 Services PMI 48.5 vs 50.1 expected Prior 49.8 Composite PMI 51.0 vs 5
 EUROPEAN SESSION In the European session, we get the Flash PMIs for the major Eurozone economies and the UK. Pretty much all of them are expected to pull back from prior month's levels given the ongoing Hormuz disruption and US-Iran stalemate. The data won't change anything for the respective central banks, though, so the market reaction will likely be muted. Right now, the market is more focused on the Treasury "intervention" plan trying to limit the surge in long-term yields.
 
 ### GOLD
+
+**TSX Closes Higher on Miners and Banks Gains**
+`22 Aug 02:18 PKT` · instaforex
+
+The S&P/TSX Composite Index advanced 0.7% to close at 36,620 on Friday, driven by gains in mining and banking stocks. Gold prices held steady near recent highs after the United States signaled it would increase Treasury note and bond buybacks in the secondary market. Among miners, Agnico Eagle rose 2.3%, Barrick added 2.9%, and WPM climbed 4.9%.
 
 **Gold looks to PCE inflation, Jackson Hole for direction next week - KITCO**
 `22 Aug 00:50 PKT` · pehli baar dekhi `22 Aug 00:53` · kitco_general
@@ -291,6 +301,31 @@ Canadian developer says new drilling at its past-producing Kerr-Addison property
 
 ### USD
 
+**Peru's GDP Growth Slows to 2.6% in Q2**
+`22 Aug 02:18 PKT` · instaforex
+
+Peru's economy grew 2.6% year-on-year in Q2 2026, easing from the 3.6% expansion registered in Q1. The increase was driven by non-primary activities, which rose 5.0%, while primary sectors shrank 5.2%. Among the non-primary sectors, construction remained the key growth engine, expanding 8.9%. It was followed by commerce, which advanced 7.3%, and electricity and water, up 5.6%. Services as a whole increased 4.7%. By contrast, several primary activities posted declines.
+
+**Ibovespa Jumps Ahead of Datafolha Poll**
+`22 Aug 02:18 PKT` · instaforex
+
+The Ibovespa jumped 1.8% to close at 171,032 on Friday, driven by a broad-based rally in financial stocks. Politics remained at the forefront ahead of a new Datafolha survey on Brazil's October presidential election, scheduled for release after the market close.
+
+**US Stocks Rise on Strong Business Activity**
+`22 Aug 02:18 PKT` · instaforex
+
+US equities finished higher on Friday, snapping a week-long decline amid stronger-than-expected economic data. The S&P 500 advanced 0.4%, the Nasdaq 100 gained 0.3%, and the Dow Jones Industrial Average rose 518 points. Stocks moved up after data showed US business activity expanding at its fastest pace in more than four years. At the same time, investors continued to weigh a recent jump in bond yields, driven by persistent inflation worries and mounting fiscal concerns.
+
+**Argentina Retail Sales Rise in June**
+`22 Aug 02:18 PKT` · instaforex
+
+Argentina's retail sales at current prices increased by 13.4% year on year in June 2026, reaching ARS 685.4 billion. Clothing, footwear and leather goods accounted for the largest share, with sales of ARS 231.0 billion, followed by sporting goods and clothing (ARS 116.6 billion), and food courts, food stores and kiosks (ARS 116.4 billion).
+
+**South Korean Won: Cautious tightening path expected from BoK – DBS**
+`22 Aug 01:58 PKT` · pehli baar dekhi `22 Aug 02:18` · fxstreet_news
+
+DBS economists Taimur Baig and Radhika Rao expect the Bank of Korea (BoK) to raise its base rate by 25bps to 3.00% at the August meeting, alongside upgraded Gross Domestic Product (GDP) and Consumer Price Index (CPI) forecasts.
+
 **Watch: How does the US national debt affect consumers around the world?**
 `22 Aug 01:28 PKT` · pehli baar dekhi `22 Aug 01:51` · bbc_business
 
@@ -331,6 +366,11 @@ The surprising move this week by Treasury Secretary Scott Bessent to intervene i
 
 **Zions Bancorporation stock hits 52-week low at 18.06 USD**
 `22 Aug 00:53 PKT` · pehli baar dekhi `22 Aug 01:25` · investing_news
+
+**Dollar Dips: Fiscal Moves Shake U.S. Currency - Devdiscourse**
+`22 Aug 00:44 PKT` · pehli baar dekhi `22 Aug 02:18` · gnews_fed
+
+Dollar Dips: Fiscal Moves Shake U.S. Currency Devdiscourse
 
 **DexCom stock hits 52-week high at 91.99 USD**
 `22 Aug 00:22 PKT` · pehli baar dekhi `22 Aug 00:53` · investing_news
@@ -1303,6 +1343,11 @@ Boston Federal Reserve president remarks about U.S. economy in Dover visit Yahoo
 
 ### AUD
 
+**The blockade is working — and China's oil problem could become Australia's fuel problem - The Times Australia**
+`22 Aug 02:03 PKT` · pehli baar dekhi `22 Aug 02:18` · gnews_geopolitics
+
+The blockade is working — and China's oil problem could become Australia's fuel problem The Times Australia
+
 **AUD/USD Price Forecast: Bulls eye 0.7200 as RSI nears overbought territory**
 `21 Aug 20:26 PKT` · pehli baar dekhi `21 Aug 20:49` · fxstreet_news
 
@@ -1321,6 +1366,16 @@ AUD/USD&#8217;s rally from 0.6864 resumed after brief consolidations. Intraday b
 The New Zealand Dollar (NZD) extends its rally against the US Dollar (USD) on Friday, trading near 0.6000 and close to its highest level since end-May.
 
 ### OIL
+
+**Oil Holds Near Highs as Iran Conflict Uncertainty Persists**
+`22 Aug 02:18 PKT` · instaforex
+
+Crude oil was little changed around $94 a barrel on Friday, as investors weighed signals that Iran may be looking to end its conflict with the United States. Iranian President Masoud Pezeshkian said Tehran would prefer to conclude the war while it remains in a position of strength, characterizing the existing memorandum with Washington as a victory for Iran.
+
+**The Race to Unlock the World's Hidden Hydrogen Reserves**
+`22 Aug 02:00 PKT` · pehli baar dekhi `22 Aug 02:18` · oilprice
+
+Countries around the globe are racing to become the world's first geologic hydrogen hotspot. A few years ago, the United States Department of Energy released a bombshell report that estimated that there are trillions of metric tons of natural hydrogen deposits sitting in underground pockets around the world – and that a considerable amount of that could be extracted for industrial use.
 
 **U.S. Oil & Gas Activity Eases as Baker Hughes Rig Count Slips to 588**
 `22 Aug 01:25 PKT` · instaforex
@@ -1341,6 +1396,11 @@ The extreme heat experienced across Europe in recent weeks has caused widespread
 `22 Aug 00:44 PKT` · pehli baar dekhi `22 Aug 00:53` · gnews_geopolitics
 
 Crude Oil Prices Decline Amidst Supply Risk Concern MarketForces Africa
+
+**Iran's Oil Exports to China Crumble Under U.S. Blockade - breitbart.com**
+`22 Aug 00:29 PKT` · pehli baar dekhi `22 Aug 02:18` · gnews_geopolitics
+
+Iran's Oil Exports to China Crumble Under U.S. Blockade breitbart.com
 
 **Brent Oil nears $95 resistance with overbought RSI: Live levels**
 `22 Aug 00:20 PKT` · pehli baar dekhi `22 Aug 00:53` · investing_commodities
@@ -1598,9 +1658,10 @@ Reuters, according to trading sources: Supplies of Iranian oil to China have dec
 The new Nigerian incentives for offshore oil and gas projects have the potential to attract $50 billion in new investment in Nigeria's offshore energy sector, the Nigerian Upstream Petroleum Regulatory Commission (NUPRC) has said. Nigeria, however, needs upskilled and additional numbers of skilled workers and employees, including in the digital industries, to take advantage of the new offshore opportunities, the regulator's chief executive, Oritsemeyiwa Eyesan, said at a human resources ...
 
 **Iran oil production now barely above domestic needs - TankerTrackers - t.co**
-`21 Aug 15:00 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
+`21 Aug 15:00 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics · **2 feeds mein**
 
 Iran oil production now barely above domestic needs - TankerTrackers t.co
+  - `21 Aug 15:00` *gnews_geopolitics* — Iran oil production now barely above domestic needs - TankerTrackers - Iran International
 
 **Iranian Oil Offers to China Fall as US Blockade Squeezes Exports - Arab Times Kuwait News**
 `21 Aug 14:46 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
@@ -1638,6 +1699,12 @@ Iranian Oil Supply to China Is Rapidly Drying Up Crude Oil Prices Today | OilPri
 
 Oil edges lower as markets assess Hormuz flows, US economic pressure on Iran Anadolu Ajansı
 
+**Has Iranian Crude Become Irrelevant to Global Oil Supply? - Investing.com**
+`21 Aug 14:06 PKT` · pehli baar dekhi `22 Aug 02:18` · gnews_geopolitics · **2 feeds mein**
+
+Has Iranian Crude Become Irrelevant to Global Oil Supply? Investing.com
+  - `21 Aug 13:43` *gnews_geopolitics* — Has Iranian Crude Become Irrelevant to Global Oil Supply? - Investing.com Canada
+
 **WTI Price Forecast: Oil supply tightness supports further upside above $90 - FXStreet**
 `21 Aug 14:04 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
 
@@ -1653,11 +1720,6 @@ Iraq plans to raise oil output to as much as 10 million bpd Iran International
 
 Crisis Deepens as Iranian Oil Offers to China Decline Amid U.S. Blockade Devdiscourse
   - `21 Aug 13:45` *gnews_geopolitics* — Crisis Deepens as Iranian Oil Offers to China Decline Amid U.S. Blockade - Devdiscourse
-
-**Has Iranian Crude Become Irrelevant to Global Oil Supply? - Investing.com Canada**
-`21 Aug 13:43 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
-
-Has Iranian Crude Become Irrelevant to Global Oil Supply? Investing.com Canada
 
 **Iranian oil supply to Chinese refiners squeezed by US blockade - Moneycontrol.com**
 `21 Aug 13:40 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics · **3 feeds mein**
@@ -1854,6 +1916,11 @@ Oil Set for Weekly Surge as US Seeks to Throttle Iran's Economy Bloomberg.com
 
 ### CRYPTO
 
+**U.S. Stocks Rise as Bitcoin Nears $80,000**
+`22 Aug 02:04 PKT` · pehli baar dekhi `22 Aug 02:18` · wsj_markets
+
+U.S. stocks rose Friday as a surging bitcoin and resilient crypto stocks helped lift sentiment.
+
 **Bond Yields Rise Despite Treasury Efforts to Curb Borrowing Costs**
 `22 Aug 01:27 PKT` · pehli baar dekhi `22 Aug 01:51` · wsj_markets
 
@@ -1869,6 +1936,17 @@ Gracy Chen says macroeconomic uncertainty could keep Bitcoin within $10,000 to $
 
 The hedge fund founder with an estimated net worth of $15 billion recommended that investors overweight Bitcoin and gold rather than bonds.
 
+**Lacy Hunt: Federal Reserve has engaged in stealth easing since December - Crypto Briefing**
+`22 Aug 00:57 PKT` · pehli baar dekhi `22 Aug 02:18` · gnews_fed
+
+Lacy Hunt: Federal Reserve has engaged in stealth easing since December Crypto Briefing
+
+**CoinShares: Bitcoin to Stay Rangebound Below $80K Until Fed Signals Policy Shift - CryptoRank**
+`22 Aug 00:22 PKT` · pehli baar dekhi `22 Aug 02:18` · gnews_fed · **2 feeds mein**
+
+CoinShares: Bitcoin to Stay Rangebound Below $80K Until Fed Signals Policy Shift CryptoRank
+  - `21 Aug 21:30` *gnews_fed* — CoinShares: Bitcoin To Stay Rangebound Below $80K Until Fed Signals Policy Shift - Bitcoin World
+
 **Bitcoin RSI hits 89.4-overbought extreme: Hourly levels**
 `22 Aug 00:20 PKT` · pehli baar dekhi `22 Aug 00:53` · investing_news
 
@@ -1881,6 +1959,11 @@ The CFTC ordered a trading ban for former Alameda and FTX executives, and US pro
 `22 Aug 00:10 PKT` · pehli baar dekhi `22 Aug 00:53` · cointelegraph
 
 Bitcoin volatility eased after BTC hit its highest level since mid-May, while gold joined the cryptocurrency in approaching three-month highs.
+
+**Bitcoin below US$ 80 thousand, evaluates CoinShares - portalcripto.com.br**
+`21 Aug 23:04 PKT` · pehli baar dekhi `22 Aug 02:18` · gnews_fed
+
+Bitcoin below US$ 80 thousand, evaluates CoinShares portalcripto.com.br
 
 **Deutsche Bank Raises UK Growth Forecast On Resilient Economy - Bitcoin World**
 `21 Aug 22:30 PKT` · pehli baar dekhi `21 Aug 23:14` · gnews_centralbanks
@@ -1903,11 +1986,6 @@ Bitcoin Price Outlook Highlights Range-Bound Trading Below $80,000 The Cryptonom
 
 **Utorg launches Utapp crypto wallet and card for iOS users, expanding its consumer product ecosystem**
 `21 Aug 21:32 PKT` · pehli baar dekhi `21 Aug 22:04` · investing_news
-
-**CoinShares: Bitcoin To Stay Rangebound Below $80K Until Fed Signals Policy Shift - Bitcoin World**
-`21 Aug 21:30 PKT` · pehli baar dekhi `21 Aug 22:42` · gnews_fed
-
-CoinShares: Bitcoin To Stay Rangebound Below $80K Until Fed Signals Policy Shift Bitcoin World
 
 **Financial Services Roundup: Market Talk**
 `21 Aug 21:28 PKT` · pehli baar dekhi `21 Aug 21:34` · wsj_markets
@@ -2069,6 +2147,11 @@ Support for rate hike may be growing ABC Columbia
 
 ### RISK
 
+**Goldman Sachs analyst says oil market already priced in Iran supply disruptions before latest sanctions - Crypto Briefing**
+`22 Aug 02:04 PKT` · pehli baar dekhi `22 Aug 02:18` · gnews_geopolitics
+
+Goldman Sachs analyst says oil market already priced in Iran supply disruptions before latest sanctions Crypto Briefing
+
 **Trump waives 'out-of-quota' beef tariffs for 90 days to lower prices**
 `22 Aug 00:42 PKT` · pehli baar dekhi `22 Aug 01:25` · aljazeera
 
@@ -2209,6 +2292,11 @@ Why China Thinks It Can Resist Trump's Economic Threats on Iran The New York Tim
 `21 Aug 18:29 PKT` · pehli baar dekhi `21 Aug 20:49` · aljazeera
 
 In Gaza, weddings offer Palestinian families a brief escape from Israel's genocidal war.
+
+**Behind the US-Iran Ceasefire: How the $300 Billion Sanctions Relief Impacts Global Oil - streamlinefeed.co.ke**
+`21 Aug 18:12 PKT` · pehli baar dekhi `22 Aug 02:18` · gnews_geopolitics
+
+Behind the US-Iran Ceasefire: How the $300 Billion Sanctions Relief Impacts Global Oil streamlinefeed.co.ke
 
 **US stock futures rise after previous session's selloff - KITCO**
 `21 Aug 17:50 PKT` · pehli baar dekhi `21 Aug 20:49` · kitco_general
@@ -2380,10 +2468,20 @@ Iran has so far proved adept at finding ways around years of already punishing s
 
 It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
 
-### BINA TAG (265)
+### BINA TAG (278)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 02:17` **mw_topstories** — Soon you can buy Medicare Advantage plans at Costco. What you need to know.
+- `22 Aug 02:15` **aljazeera** — Arsenal rout Coventry 3-0 to begin Premier League title defence in style
+- `22 Aug 02:11` **aljazeera** — Global Sumud Flotilla joins Albania's anti-resort protest
+- `22 Aug 02:04` **investing_news** — Singularity Future Technology closes $5 million offering
+- `22 Aug 02:00` **investing_news** — XRP Climbs 10% In Rally
+- `22 Aug 01:59` **investing_news** — TikTok settles children's privacy case for $400 million
+- `22 Aug 01:57` **investing_news** — Army Secretary Driscoll expected to step down by year's end - WSJ
+- `22 Aug 01:55` **wsj_world** — Mexican Governor Indicted by U.S. Vows Return to Office
+- `22 Aug 01:53` **investing_news** — Boeing workers reject contract, authorize strike
+- `22 Aug 01:48` **investing_news** — Apollo Global reveals data breach after hackers target financial firms
 - `22 Aug 01:45` **kitco_general** — SEC charges former Bank of America investment banker with insider trading - KITCO
 - `22 Aug 01:44` **investing_news** — Cytek Biosciences wins on three of four patent claims
 - `22 Aug 01:43` **investing_news** — MongoDB gets bullish call as Atlas, AI and enterprise push gain traction
@@ -2430,6 +2528,7 @@ It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomati
 - `22 Aug 00:00` **investing_news** — Andersen stockholders complete $216.8m secondary offering
 - `21 Aug 23:58` **investing_news** — Apple reportedly cuts jobs in Siri and Vision Pro teams amid AI shift
 - `21 Aug 23:55` **aljazeera** — Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta
+- `21 Aug 23:53` **yahoo_finance** — U.S. Bank Business Shield Visa review: Solid 0% APR offer, but little long-term rewards value
 - `21 Aug 23:52` **investing_news** — Top weekly stock gainers led by ZSTK's 203.6% surge
 - `21 Aug 23:50` **investing_news** — Mizuho raises Viking Holdings stock price target on quality outlook
 - `21 Aug 23:40` **aljazeera** — Espanyol vs Real Madrid: La Liga – prediction, lineups, teams
@@ -2438,6 +2537,7 @@ It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomati
 - `21 Aug 23:29` **mw_topstories** — Trump, Vance and Bessent try to calm the bond market with 'alternative facts'
 - `21 Aug 23:27` **gnews_fed** — Financial Wellness for Older Adults: Understanding the Challenges of an Aging Population - Philadelphia Federal Reserve Bank
 - `21 Aug 23:25` **aljazeera** — Former Pakistan PM Imran Khan taken back to prison after hospital check-up
+- `21 Aug 23:25` **yahoo_finance** — U.S. Bank Smartly Visa Signature Card review: Earn 2% cash back or more on every purchase
 - `21 Aug 23:24` **investing_news** — Ken Griffin's Citadel sheds over 80% of Situational Awareness' bets
 - `21 Aug 23:21` **gnews_fed** — Does housing have an AI problem? - HousingWire
 - `21 Aug 23:21` **investing_news** — Raymond James sees token pricing gap widen in August 2026
@@ -2547,6 +2647,7 @@ It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomati
 - `21 Aug 20:25` **investing_news** — Banco de Bogotá Q2 2026 slides: ROE hits double digits
 - `21 Aug 20:25` **investing_news** — JPMorgan hiring Bank of America's David Fishman as head of technology M&A, memo says
 - `21 Aug 20:25` **yahoo_finance** — All It Takes Is $5,000 Invested in Each of These 3 High-Yield Dividend Stocks to Generate Over $800 in Yearly Dividends
+- `21 Aug 20:23` **gnews_fed** — USA: US FEDERAL RESERVE CHAIRMAN ALAN GREENSPAN ADDRESSES PANEL Frankie Valli (4cBEketmWA) - Mshale
 - `21 Aug 20:22` **investing_news** — Analysis-US corporate AI debt surge tests investor limits as fatigue emerges
 - `21 Aug 20:19` **yahoo_finance** — Perenti to sell mining equipment business to Beetle for $71m
 - `21 Aug 20:13` **yahoo_finance** — Amigo Resources, STAMICO sign MoU for graphite project in Tanzania
@@ -2652,11 +2753,11 @@ It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomati
 
 ---
 
-## Shor — 14 khabrein hatai gayin
+## Shor — 15 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (14)
+investing_news (15)
 
 ---
 
@@ -2667,44 +2768,41 @@ investing_news (14)
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 0 | 30 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 1 | 29 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.1 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.2 |
-| marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.3 |
-| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
+| marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.4 |
+| instaforex | OK | 25 | 25 | 6 | 19 | 0 | -0.2 |
 | wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.2 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
+| cme_metals_video | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_energy_video | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.0 |
 | cme_daily_commentary | OK | 10 | 3 | 0 | 3 | 7 | 0.0 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.7 |
-| kitco_general | OK | 24 | 24 | 2 | 22 | 0 | 0.0 |
-| gnews_fed | OK | 76 | 68 | 4 | 64 | 8 | 0.0 |
-| gnews_geopolitics | OK | 100 | 97 | 2 | 95 | 3 | 0.0 |
+| kitco_general | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| gnews_fed | OK | 76 | 70 | 5 | 65 | 6 | 0.0 |
+| gnews_geopolitics | OK | 100 | 97 | 6 | 91 | 3 | 0.0 |
 | gnews_centralbanks | OK | 34 | 33 | 0 | 33 | 1 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.0 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.1 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.3 |
 | boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.6 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.5 |
-| mining_com | OK | 36 | 8 | 1 | 7 | 28 | 0.0 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.0 |
+| mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.0 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
 | investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.4 |
-| bbc_business | OK | 50 | 16 | 1 | 15 | 34 | 0.0 |
-| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
+| bbc_business | OK | 50 | 16 | 0 | 16 | 34 | 0.0 |
+| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
 | snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.5 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.3 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.3 |
-| wsj_world | OK | 72 | 12 | 0 | 12 | 60 | 0.0 |
-| wsj_markets | OK | 61 | 25 | 2 | 23 | 36 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 4 | 0 | 4 | 45 | 0.4 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 18 | 1 | 17 | 12 | 0.0 |
-
-**Jo feeds nahi aaye:**
-- instaforex — FAIL, koi item nahi
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.4 |
+| wsj_world | OK | 72 | 13 | 1 | 12 | 59 | 0.0 |
+| wsj_markets | OK | 61 | 26 | 1 | 25 | 35 | 0.0 |
+| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 9 | 2 | 7 | 40 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 18 | 0 | 18 | 12 | 0.0 |
