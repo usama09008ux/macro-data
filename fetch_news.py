@@ -63,7 +63,8 @@ HEADERS = {
     "Accept": "application/rss+xml, application/xml, text/xml, */*",
 }
 
-FEED_GROUPS = ["feeds_tier1", "feeds_cme", "feeds_centralbank", "feeds_support"]
+FEED_GROUPS = ["feeds_tier1", "feeds_cme", "feeds_google",
+               "feeds_centralbank", "feeds_support"]
 
 TAG_ORDER = ["gold", "usd", "eur", "gbp", "jpy", "chf",
              "cad", "aud", "nzd", "oil", "rates", "risk"]
@@ -475,12 +476,21 @@ def build_markdown(day, items, statuses, now_pkt):
     L.append("")
     L.append("## Data quality")
     L.append("")
-    L.append("| Feed | Status | Uthai | Sab se nayi (din) | Note |")
-    L.append("|---|---|---|---|---|")
-    for s in statuses:
-        age = s["newest_age_days"]
-        L.append(f"| {s['name']} | {s['status']} | {s['fetched']} | "
-                 f"{age if age is not None else '-'} | {s['note']} |")
+    L.append("*Feed mein = is run par feed ne kitni khabrein dikhayin. "
+             "Aaj ki = jo aaj ke trading day ki thin. Nayi = jo is run "
+             "par pehli baar mili. Purani = jo pehle mehfooz ho chuki "
+             "thin. Bahar = doosre trading day ki thin.*")
+    L.append("")
+    L.append("| Feed | Status | Feed mein | Aaj ki | Nayi | Purani "
+             "| Bahar | Sab se nayi (din) |")
+    L.append("|---|---|---|---|---|---|---|---|")
+    for st in statuses:
+        age = st["newest_age_days"]
+        L.append(
+            f"| {st['name']} | {st['status']} | {st['fetched']} "
+            f"| {st.get('in_window', 0)} | {st.get('new', 0)} "
+            f"| {st.get('seen_before', 0)} | {st.get('out_of_window', 0)} "
+            f"| {age if age is not None else '-'} |")
 
     bad = [s for s in statuses if s["status"] in ("FAIL", "STALE")]
     if bad:
@@ -585,18 +595,35 @@ def main():
     skipped_old = 0
     already = 0
 
+    # Har feed ka alag hisaab. Bina is ke pata hi nahi chalta ke
+    # feed ne 50 khabrein di thin aur 0 kyun mehfooz huin.
+    tally = {st["name"]: {"in_window": 0, "new": 0, "seen_before": 0,
+                          "out_of_window": 0} for st in statuses}
+
     for it in all_items:
         pub_pkt = to_pkt(it["published_utc"])
         td = trading_day(pub_pkt)
 
+        acc = tally.get(it["source"])
+
         if td not in valid_set:
             skipped_old += 1
+            if acc:
+                acc["out_of_window"] += 1
             continue
+
+        if acc:
+            acc["in_window"] += 1
 
         iid = item_id(it["link"], it["title"], it["source"])
         if iid in seen:
             already += 1
+            if acc:
+                acc["seen_before"] += 1
             continue
+
+        if acc:
+            acc["new"] += 1
 
         text = it["title"] + " " + it["body"]
         tags = find_tags(text, keywords, tag_weights)
@@ -626,6 +653,9 @@ def main():
         }
         seen.add(iid)
         fresh_by_day.setdefault(td, []).append(rec)
+
+    for st in statuses:
+        st.update(tally.get(st["name"], {}))
 
     total_new = sum(len(v) for v in fresh_by_day.values())
     print(f"Nayi khabrein: {total_new}   "
