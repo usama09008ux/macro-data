@@ -1,0 +1,69 @@
+name: Fetch Calendar
+
+# AHEM — ye har 5 minute NAHI chal sakti.
+# ForexFactory hafte wali file par 5 minute mein sirf 2 download
+# deta hai. Ye script har run par 2 download karti hai (thisweek +
+# nextweek), yaani had par hi hai. Is liye din mein 4 baar.
+on:
+  schedule:
+    - cron: "40 22 * * 0-4"     # 03:40 AM PKT — naye trading day ke shuru
+    - cron: "30 5  * * 1-5"     # 10:30 AM PKT — pehli report se pehle
+    - cron: "0  12 * * 1-5"     # 05:00 PM PKT — doosri report se pehle
+    - cron: "0  17 * * 1-5"     # 10:00 PM PKT — US session ke baad
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-calendar
+  cancel-in-progress: false
+
+jobs:
+  calendar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Repo ki copy lo
+        uses: actions/checkout@v4
+
+      - name: Python lagao
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Libraries install karo
+        run: pip install -r requirements.txt
+
+      - name: Calendar uthao
+        run: python fetch_calendar.py
+
+      - name: Data repo mein daalo
+        run: |
+          git config user.name  "github-actions"
+          git config user.email "actions@github.com"
+          git add -A output/
+
+          if git diff --staged --quiet; then
+            echo "Kuch naya nahi — commit nahi kiya"
+            exit 0
+          fi
+
+          if [ -f output/last_run_calendar.txt ]; then
+            git commit -F output/last_run_calendar.txt
+          else
+            git commit -m "calendar update"
+          fi
+
+          for i in 1 2 3; do
+            if git push; then
+              echo "Push ho gaya"
+              exit 0
+            fi
+            echo "Push nakaam — dobara koshish ($i)"
+            git pull --rebase --autostash origin main || true
+            sleep 5
+          done
+          exit 1
