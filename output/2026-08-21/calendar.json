@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "21 Aug 2026 20:49",
+  "generated_pkt": "21 Aug 2026 22:20",
   "trading_day": "2026-08-21",
   "feed_sources": {
     "thisweek": "live"
@@ -1306,5 +1306,55 @@
       "trading_day": "2026-08-22"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "Canada Retail sales for June 0.6% vs 0.4% estimate",
+      "actual_raw": "0.6%",
+      "forecast_raw": "0.4%",
+      "beat": true,
+      "raw_diff": "+0.20pp",
+      "sign_flip": false,
+      "diff_pct": 50.0,
+      "when_pkt": "21 Aug 17:31",
+      "source": "investinglive",
+      "tags": [
+        "cad",
+        "usd"
+      ]
+    },
+    {
+      "title": "UK August flash services PMI 52.8 vs 51.8 expected",
+      "actual_raw": "52.8",
+      "forecast_raw": "51.8",
+      "beat": true,
+      "raw_diff": "+1.00",
+      "sign_flip": false,
+      "diff_pct": 1.9,
+      "when_pkt": "21 Aug 13:30",
+      "source": "investinglive",
+      "tags": [
+        "usd",
+        "gbp",
+        "risk",
+        "rates"
+      ]
+    },
+    {
+      "title": "Germany August flash manufacturing PMI 54.1 vs 52.0 expected",
+      "actual_raw": "54.1",
+      "forecast_raw": "52.0",
+      "beat": true,
+      "raw_diff": "+2.10",
+      "sign_flip": false,
+      "diff_pct": 4.0,
+      "when_pkt": "21 Aug 12:30",
+      "source": "investinglive",
+      "tags": [
+        "usd",
+        "eur",
+        "oil",
+        "risk"
+      ]
+    }
+  ]
 }

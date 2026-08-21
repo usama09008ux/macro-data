@@ -1,6 +1,6 @@
 # Calendar — Trading Day 21 Aug 2026
 
-- Banaya gaya: **21 Aug 2026 20:49 PKT**
+- Banaya gaya: **21 Aug 2026 22:20 PKT**
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
 - Feed: thisweek=live
 
@@ -28,5 +28,11 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 21 Aug 17:31 | Canada Retail sales for June | 0.6% | 0.4% | +0.20pp (+50%) | upar |
+| 21 Aug 13:30 | UK August flash services PMI | 52.8 | 51.8 | +1.00 (+2%) | upar |
+| 21 Aug 12:30 | Germany August flash manufacturing PMI | 54.1 | 52.0 | +2.10 (+4%) | upar |
 
