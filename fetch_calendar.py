@@ -309,10 +309,19 @@ def build_markdown(day, events, surprises, now_pkt, sources):
              "script ne +5 kar diya hai.*")
     L.append("")
 
+    today_str = now_pkt.strftime("%d %b")
+
     def row(e):
         imp = {"High": "**HIGH**", "Medium": "MED", "Low": "low",
                "Holiday": "chhutti"}.get(e["impact"], e["impact"])
-        t = "poora din" if e["all_day"] else e["pkt"].split(" ", 2)[-1]
+        if e["all_day"]:
+            t = f"{e['pkt'].rsplit(' ', 1)[0]} poora din"
+        else:
+            day_part, clock = e["pkt"].rsplit(" ", 1)
+            # Aaj ka event ho to sirf ghanta; kal ka ho to tareekh bhi.
+            # Warna "04:00" dekh kar lagta hai ke subah ka hai jo
+            # guzar chuka, halanke wo AGLI subah ka hota hai.
+            t = clock if day_part == today_str else f"**{day_part}** {clock}"
         return (f"| {t} | {e['ccy']} | {imp} | {e['title']} "
                 f"| {e['forecast'] or '-'} | {e['previous'] or '-'} |")
 
@@ -360,8 +369,12 @@ def build_markdown(day, events, surprises, now_pkt, sources):
         L.append("|---|---|---|---|---|---|")
         for e in week:
             L.append(row(e))
+    elif sources.get("nextweek") == "none":
+        L.append("**Agle hafte ki file nahi mil saki.** Is liye ye hissa "
+                 "adhoora hai — is hafte ka bacha hua data hi dikh raha "
+                 "hai. Khaas kar Jumeraat/Jumma ko ye khali reh sakta hai.")
     else:
-        L.append("*Kuch nahi.*")
+        L.append("*Koi High ya Medium event nahi.*")
     L.append("")
 
     # ---- 3. Surprise ----
@@ -415,9 +428,27 @@ def main():
     print("=" * 62)
 
     events, sources = [], {}
+
     for i, (name, url) in enumerate(FF_URLS.items()):
+        # nextweek roz badalta nahi. Har run par dono lene se hum
+        # ForexFactory ki had (5 min mein 2) par chipke rehte hain.
+        # Is liye nextweek sirf tab laate hain jab uska cache 12
+        # ghante se purana ho. Baqi waqt cache se kaam chalta hai.
+        if name == "nextweek":
+            cp = os.path.join(CACHE_DIR, "ff_nextweek.xml")
+            if os.path.exists(cp):
+                age_h = (time.time() - os.path.getmtime(cp)) / 3600
+                if age_h < 12:
+                    with open(cp, "r", encoding="utf-8") as f:
+                        xml_text = f.read()
+                    got = parse_events(xml_text)
+                    events.extend(got)
+                    sources[name] = "cache"
+                    print(f"  {name:<10} cache  {len(got)} events "
+                          f"({age_h:.1f}h purana — abhi lene ki zaroorat nahi)")
+                    continue
+
         if i:
-            # Had 5 minute mein 2 hai — do request ke beech saans lo
             time.sleep(3)
         xml_text, src = fetch_week(name, url)
         sources[name] = src
