@@ -34,6 +34,7 @@ DO ALAG CHEEZEIN:
 """
 
 import calendar
+import difflib
 import hashlib
 import io
 import json
@@ -387,6 +388,106 @@ def fetch_feed(feed, cfg, now_utc):
 # Pack likhna
 # ==========================================================
 
+# Chhote lafz jo har unwaan mein hote hain — inhein ginti mein
+# nahi lete warna har khabar har khabar se milti hui lagti hai.
+_STOP = {"the", "a", "an", "of", "in", "on", "at", "to", "for", "and",
+         "as", "is", "are", "was", "were", "be", "by", "with", "from",
+         "after", "amid", "ahead", "its", "it", "that", "this", "says",
+         "said", "new", "more", "than", "over", "up", "down"}
+
+
+def _key_words(title):
+    return {w for w in norm_title(title).split()
+            if len(w) > 2 and w not in _STOP}
+
+
+# Alag alag cheezein. Agar do unwaanon mein in mein se ALAG
+# cheezein hon, to wo kabhi ek jhund nahi banengi — chahe baqi
+# lafz kitne hi miltay hon.
+#
+# Zaroorat kyun: "Gold rallies to fresh record high" aur "Silver
+# rallies to fresh three-week high" mein teen lafz mushtarik hain,
+# aur bina is pehre ke ye ek samjhi jati thin. Silver ki khabar
+# Gold ke neeche chhup jati — ek trader ke liye ye nuqsan hai.
+_SUBJECTS = [
+    {"gold", "xau", "bullion"},
+    {"silver", "xag"},
+    {"platinum", "palladium"},
+    {"copper"},
+    {"oil", "crude", "wti", "brent"},
+    {"gas", "lng"},
+    {"bitcoin", "btc", "crypto", "ethereum"},
+    {"euro", "eur", "ecb", "eurozone"},
+    {"pound", "sterling", "gbp", "boe"},
+    {"yen", "jpy", "boj", "japan"},
+    {"franc", "chf", "snb"},
+    {"aussie", "aud", "rba", "australia"},
+    {"kiwi", "nzd", "rbnz"},
+    {"loonie", "cad", "boc", "canada"},
+]
+
+
+def _subjects(words):
+    return {i for i, grp in enumerate(_SUBJECTS) if words & grp}
+
+
+def cluster_items(items, thresh=0.85):
+    """
+    Ek hi khabar jo kai feeds se aayi ho, unhein ek jhund mein
+    jama karta hai. KUCH HATAYA NAHI JATA — sab kuch rehta hai,
+    bas ek sath dikhta hai.
+
+    Faida: jab ek khabar 6 feeds mein aaye aur doosri sirf 1
+    mein, to ye khud batata hai ke duniya kis cheez ko ahem
+    samajh rahi hai. Pehle ye 6 alag alag entries ban kar
+    chhup jata tha.
+
+    Tareeqa: pehle lafzon ka mel dekhte hain (sasta), phir jo
+    qareeb lagen un par poora muqabla (mehnga). Bina is ke har
+    khabar ka har khabar se muqabla karna parta.
+    """
+    # Zyada weight wali pehle — wahi jhund ki sarbarah banegi
+    items = sorted(items, key=lambda x: (-x.get("weight", 5),
+                                         -x["published_utc"].timestamp()))
+    words = [_key_words(i["title"]) for i in items]
+
+    clusters, used = [], [False] * len(items)
+    for a in range(len(items)):
+        if used[a]:
+            continue
+        used[a] = True
+        group = [items[a]]
+        if not words[a]:
+            clusters.append(group)
+            continue
+
+        for b in range(a + 1, len(items)):
+            if used[b] or not words[b]:
+                continue
+            # Pehra: alag cheezon ki khabrein kabhi na juren
+            sa, sb = _subjects(words[a]), _subjects(words[b])
+            if sa and sb and not (sa & sb):
+                continue
+
+            # Sasta filter: do tihai se kam lafz miltay hain to chhod do
+            common = len(words[a] & words[b])
+            small = min(len(words[a]), len(words[b]))
+            if small == 0 or common / small < 0.65:
+                continue
+
+            # Ab poora muqabla. Bar ooncha rakha hai —
+            # kam jorna behtar hai, ghalat jorne se.
+            r = difflib.SequenceMatcher(
+                None, norm_title(items[a]["title"]),
+                norm_title(items[b]["title"])).ratio()
+            if r >= thresh:
+                used[b] = True
+                group.append(items[b])
+
+        clusters.append(group)
+    return clusters
+
+
 def build_markdown(day, items, statuses, now_pkt):
     start, end = day_window_pkt(day)
     L = []
@@ -400,17 +501,26 @@ def build_markdown(day, items, statuses, now_pkt):
     L.append(f"- Feeds: {ok}/{len(statuses)} OK")
     L.append("")
 
-    def block(it):
+    def block(group):
+        """Ek jhund likhta hai. Sarbarah poori, baqi ek ek line mein."""
+        it = group[0]
         L.append(f"**{it['title']}**")
         pub = it.get("published_pkt", "")
         first = it.get("first_seen_pkt", "")
         stamp = f"`{pub} PKT`" if pub else ""
         if first and first != pub:
             stamp += f" · pehli baar dekhi `{first}`"
-        L.append(f"{stamp} · {it['source']}")
+        line = f"{stamp} · {it['source']}"
+        if len(group) > 1:
+            line += f" · **{len(group)} feeds mein**"
+        L.append(line)
         if it.get("body"):
             L.append("")
             L.append(snip(it["body"], 500))
+        # Baqi feeds ki apni sharh — kuch hataya nahi gaya
+        for other in group[1:]:
+            L.append(f"  - `{other.get('published_pkt','')}` "
+                     f"*{other['source']}* — {other['title']}")
         L.append("")
 
     official = [i for i in items
@@ -426,8 +536,9 @@ def build_markdown(day, items, statuses, now_pkt):
         L.append("")
         L.append("## Sarkari / Exchange")
         L.append("")
-        for it in newest(official):
-            block(it)
+        for g in sorted(cluster_items(official),
+                        key=lambda g: g[0]["published_utc"], reverse=True):
+            block(g)
 
     if rest:
         L.append("---")
@@ -440,9 +551,11 @@ def build_markdown(day, items, statuses, now_pkt):
         if broad:
             L.append("### MARKET WRAP")
             L.append("")
-            for it in newest(broad):
-                used.add(id(it))
-                block(it)
+            for g in sorted(cluster_items(broad),
+                            key=lambda g: g[0]["published_utc"], reverse=True):
+                for it in g:
+                    used.add(id(it))
+                block(g)
 
         for tag in TAG_ORDER:
             # Sirf un khabron ko lo jin ka PEHLA (sab se mazboot)
@@ -455,9 +568,11 @@ def build_markdown(day, items, statuses, now_pkt):
                 continue
             L.append(f"### {tag.upper()}")
             L.append("")
-            for it in newest(grp):
-                used.add(id(it))
-                block(it)
+            for g in sorted(cluster_items(grp),
+                            key=lambda g: g[0]["published_utc"], reverse=True):
+                for it in g:
+                    used.add(id(it))
+                block(g)
 
         # Jin par koi tag nahi laga — phenka kuch nahi jata
         untagged = [i for i in rest if id(i) not in used]
