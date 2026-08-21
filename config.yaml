@@ -149,9 +149,32 @@ feeds_cme:
 # hai wo BINA TAG mein chali jayegi.
 feeds_google:
 
-  - name: gnews_gold
-    url: "https://news.google.com/rss/search?q=gold+price+OR+bullion+when:1d&hl=en-US&gl=US&ceid=US:en"
-    weight: 5
+
+  # ---------- Kitco, Google ke zariye ----------
+  # Kitco ne apna RSS band kar diya. Google News ka site: filter
+  # hi raasta hai.
+  #
+  # Purana gnews_gold hata diya gaya — wo "Gold Price Today: Check
+  # City-Wise 24K, 22K" jaisi Indian retail rate ki khabrein la
+  # raha tha, jo XAUUSD trader ke kaam ki nahi. site:kitco.com us
+  # se kahin behtar hai kyunke wo ek maayari source par band hai.
+  #
+  # Do feeds kaafi hain, teen nahi — har Google feed 100 items
+  # deta hai aur teen mein bohat overlap hota. Mining ka kaam
+  # mining_com pehle se kar raha hai.
+  #
+  # Link Google ka redirect hota hai. Hamein farq nahi parta —
+  # hum poora article download nahi karte, aur dedupe ke liye
+  # redirect URL bhi sabit rehta hai.
+
+  - name: kitco_gold
+    url: "https://news.google.com/rss/search?q=site%3Akitco.com%2Fnews+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    weight: 8
+    cadence_days: 1
+
+  - name: kitco_general
+    url: "https://news.google.com/rss/search?q=site%3Akitco.com%2Fnews+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
+    weight: 7
     cadence_days: 1
 
   - name: gnews_fed
@@ -224,13 +247,6 @@ feeds_unverified:
   # AAP KA PEHLA ASSET XAUUSD HAI, MAGAR 35 FEEDS MEIN EK BHI
   # GOLD KA MAHIR FEED NAHI THA. Ye wo khala bharte hain.
 
-  - name: kitco_news
-    url: "https://www.kitco.com/rss/KitcoNews.xml"
-    weight: 9
-    cadence_days: 1
-    tag: gold
-    # Gold/silver ki mandi ka sab se purana khaas idara —
-    # central bank khareedari, ETF flows, refinery ki khabrein
 
   - name: mining_com
     url: "https://www.mining.com/feed/"
@@ -263,12 +279,6 @@ feeds_unverified:
 
   # ---------- New York Fed ----------
 
-  - name: nyfed_markets
-    url: "https://www.newyorkfed.org/rss/markets_news"
-    weight: 9
-    cadence_days: 7
-    # Poora market abhi Treasury buyback par chal raha hai, aur
-    # us ka amal-darahmad NY Fed karta hai — SOMA operations.
 
   # ---------- Geopolitics ----------
 
@@ -286,25 +296,20 @@ feeds_unverified:
 
   # ---------- Pehle se maujood, jaanche bina ----------
 
+  - name: snb_press
+    url: "https://www.snb.ch/public/rss/en/news"
+    weight: 7
+    cadence_days: 21
+    # Sahi URL user ne dhoonda. Pehla andaza (public/en/rss/
+    # newsPublications) 404 tha.
+
   - name: boc_press
     url: "https://www.bankofcanada.ca/content_type/press-releases/feed/"
     weight: 8
     cadence_days: 14
 
-  - name: rbnz_news
-    url: "https://www.rbnz.govt.nz/rss/news"
-    weight: 7
-    cadence_days: 14
 
-  - name: snb_press
-    url: "https://www.snb.ch/public/en/rss/newsPublications"
-    weight: 7
-    cadence_days: 21
 
-  - name: us_treasury
-    url: "https://home.treasury.gov/news/press-releases/feed"
-    weight: 9
-    cadence_days: 3
 
   - name: eia_energy
     url: "https://www.eia.gov/rss/todayinenergy.xml"
@@ -356,6 +361,24 @@ feeds_support:
 # HATA DIYE GAYE — wajah test se nikli hai
 # ==========================================================
 feeds_rejected:
+  # --- 21 Aug 2026 ke test mein nakaam. URL Claude ne andaze se
+  # likhe the aur ghalat nikle. Sahi URL mil jaye to wapas laa
+  # sakte hain — kitco (gold) aur us_treasury (buyback) dono
+  # waqai kaam ke hain.
+  - url: "https://www.kitco.com/rss/KitcoNews.xml"
+    reason: "HTTP 404 — Kitco ne apna RSS band kar diya. Ab uski
+             khabrein Google ke site:kitco.com feed se aati hain."
+  - url: "gnews_gold (Google, aam gold query)"
+    reason: "Kachra la raha tha — Indian retail gold rate ki khabrein.
+             Uski jagah site:kitco.com wale feeds lag gaye."
+  - url: "https://home.treasury.gov/news/press-releases/feed"
+    reason: "HTTP 404 — URL ghalat"
+  - url: "https://www.newyorkfed.org/rss/markets_news"
+    reason: "RSS hai hi nahi — koi item nahi aayi"
+  - url: "https://www.rbnz.govt.nz/rss/news"
+    reason: "HTTP 403 — site rokti hai"
+  - url: "https://www.snb.ch/public/en/rss/newsPublications"
+    reason: "HTTP 404 — URL ghalat"
   - url: "https://www.myfxbook.com/rss/latest-forex-news"
     reason: "17 din purana — feed mar chuka hai"
   - url: "https://www.bls.gov/feed/bls_latest.rss"
