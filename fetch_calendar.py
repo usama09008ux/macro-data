@@ -47,9 +47,15 @@ CACHE_DIR = os.path.join(OUT_DIR, "cache")
 PKT = timezone(timedelta(hours=5))
 DAY_START_HOUR = 3
 
+# Sirf thisweek. "nextweek" naam ki koi file hai hi nahi — 21 Aug
+# ko browser mein khol kar dekha to 404 aaya, aur ForexFactory ke
+# apne forum par bhi yehi jawab hai.
+#
+# Iska matlab: Monday ko poora hafta nazar aata hai, Friday ko
+# aage kuch nahi. Intraday ke liye 24-ghante wala hissa hamesha
+# poora rehta hai, is liye ye qubool kar liya gaya hai.
 FF_URLS = {
     "thisweek": "https://nfs.faireconomy.media/ff_calendar_thisweek.xml",
-    "nextweek": "https://nfs.faireconomy.media/ff_calendar_nextweek.xml",
 }
 
 HEADERS = {
@@ -362,19 +368,20 @@ def build_markdown(day, events, surprises, now_pkt, sources):
 
     L.append("---")
     L.append("")
-    L.append("## Agle 7 din — sirf High aur Medium")
+    L.append("## Is hafte ka baqi hissa — sirf High aur Medium")
     L.append("")
     if week:
         L.append("| Waqt PKT | Ccy | Impact | Event | Forecast | Previous |")
         L.append("|---|---|---|---|---|---|")
         for e in week:
             L.append(row(e))
-    elif sources.get("nextweek") == "none":
-        L.append("**Agle hafte ki file nahi mil saki.** Is liye ye hissa "
-                 "adhoora hai — is hafte ka bacha hua data hi dikh raha "
-                 "hai. Khaas kar Jumeraat/Jumma ko ye khali reh sakta hai.")
     else:
-        L.append("*Koi High ya Medium event nahi.*")
+        L.append("*Is hafte mein aage koi High ya Medium event nahi bacha.*")
+        L.append("")
+        L.append("*Note: ForexFactory sirf MAUJOODA hafte ka calendar deta "
+                 "hai — agle hafte ki koi file mawjood nahi. Is liye Jumma "
+                 "ko ye hissa khali rehta hai aur Monday ko poora hafta "
+                 "nazar aata hai.*")
     L.append("")
 
     # ---- 3. Surprise ----
@@ -430,24 +437,6 @@ def main():
     events, sources = [], {}
 
     for i, (name, url) in enumerate(FF_URLS.items()):
-        # nextweek roz badalta nahi. Har run par dono lene se hum
-        # ForexFactory ki had (5 min mein 2) par chipke rehte hain.
-        # Is liye nextweek sirf tab laate hain jab uska cache 12
-        # ghante se purana ho. Baqi waqt cache se kaam chalta hai.
-        if name == "nextweek":
-            cp = os.path.join(CACHE_DIR, "ff_nextweek.xml")
-            if os.path.exists(cp):
-                age_h = (time.time() - os.path.getmtime(cp)) / 3600
-                if age_h < 12:
-                    with open(cp, "r", encoding="utf-8") as f:
-                        xml_text = f.read()
-                    got = parse_events(xml_text)
-                    events.extend(got)
-                    sources[name] = "cache"
-                    print(f"  {name:<10} cache  {len(got)} events "
-                          f"({age_h:.1f}h purana — abhi lene ki zaroorat nahi)")
-                    continue
-
         if i:
             time.sleep(3)
         xml_text, src = fetch_week(name, url)
