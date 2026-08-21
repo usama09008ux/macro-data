@@ -1,8 +1,8 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 00:01 PKT**
-- Kul khabrein: **690**
+- Aakhri update: **22 Aug 00:33 PKT**
+- Kul khabrein: **707**
 - Feeds: 38/39 OK
 
 ---
@@ -254,6 +254,9 @@ Gold price (XAU/USD) is up 0.65% at around $4,550 during the early European trad
 Canadian developer says new drilling at its past-producing Kerr-Addison property in Ontario could open the door to a larger open-pit gold resource.
 
 ### USD
+
+**Geo Group Inc stock hits 52-week high at 32.64 USD**
+`22 Aug 00:08 PKT` · pehli baar dekhi `22 Aug 00:33` · investing_news
 
 **Malaysian Ringgit: Supported by strong fundamentals against US Dollar – OCBC**
 `21 Aug 23:53 PKT` · pehli baar dekhi `22 Aug 00:01` · fxstreet_news
@@ -768,10 +771,11 @@ Commerzbank's Senior Economist Dr. Vincent Stamer notes that Euro area business 
 The Euro (EUR) is falling against the British Pound (GBP). EUR/GBP held the mid-0.8500s on Friday, hovering just below the 0.8570 area, even after a strong round of August flash Purchasing Managers Indexes (PMIs) on both sides of the cross.
 
 **Traders are bracing for an increasingly hawkish ECB - SRN News**
-`21 Aug 19:47 PKT` · pehli baar dekhi `21 Aug 21:34` · gnews_centralbanks · **2 feeds mein**
+`21 Aug 19:47 PKT` · pehli baar dekhi `21 Aug 21:34` · gnews_centralbanks · **3 feeds mein**
 
 Traders are bracing for an increasingly hawkish ECB SRN News
   - `21 Aug 18:21` *gnews_centralbanks* — Traders are bracing for an increasingly hawkish ECB - 95.7 KELO-FM
+  - `21 Aug 17:36` *gnews_centralbanks* — Traders are bracing for an increasingly hawkish ECB - Reuters
 
 **Euro: PMI strength supports against US Dollar – BBH**
 `21 Aug 19:28 PKT` · pehli baar dekhi `21 Aug 20:49` · fxstreet_news
@@ -929,6 +933,11 @@ UK GfK consumer confidence beats forecasts, bolstering sterling and tempering Ba
 
 ### JPY
 
+**USDJPY sets the close guardrails for next week's trading**
+`22 Aug 00:01 PKT` · pehli baar dekhi `22 Aug 00:33` · investinglive
+
+The USDJPY has set the technical guardrails for the rest of today and heading into next week. Looking at the hourly chart, the low for the day stalled just ahead of the 200-day moving average, currently at 158.313. The low reached 158.35 before buyers stepped in and pushed the pair back higher. That rebound has taken USDJPY back toward today's high and yesterday's high, where sellers have leaned against the 100-hour moving average at 159.04 and the 200-hour moving average at 159.154.
+
 **US Dollar Weekly Forecast: The US Dollar's new enemy is the bond market**
 `21 Aug 23:22 PKT` · pehli baar dekhi `22 Aug 00:01` · fxstreet_analysis
 
@@ -958,6 +967,11 @@ Nikkei 225 Opens Lower as Bank of Japan Rate Fears Bite 24/7 Wall St.
 `21 Aug 16:57 PKT` · pehli baar dekhi `21 Aug 20:49` · fxstreet_news
 
 British Pound's (GBP) rally against the Japanese Yen (JPY) was capped at the 217.00 area earlier on Friday, and the pair pulled back to the 216.50 area where it found some support.
+
+**Japan Inflation Spikes as Global Shocks Force BOJ Rate Hand - streamlinefeed.co.ke**
+`21 Aug 15:55 PKT` · pehli baar dekhi `22 Aug 00:33` · gnews_centralbanks
+
+Japan Inflation Spikes as Global Shocks Force BOJ Rate Hand streamlinefeed.co.ke
 
 **Japan's core inflation accelerates in July, bolsters case for rate hike - The Straits Times**
 `21 Aug 15:49 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_centralbanks
@@ -1076,6 +1090,11 @@ USD/CHF holds firm on Friday as the US Dollar (USD) trims its intraday losses. A
 USD/CHF&#8217;s fall from 0.8205 short term top is in progress and intraday bias stays on the downside for rising channel support (now at 0.7921). Sustained break there will solidify the case that rebound from 0.7603 has completed with three waves up to 0.8205. Deeper fall should be seen to 0.7760 support next. On the upside, [&#8230;] The post USD/CHF Daily Outlook appeared first on ActionForex.
 
 ### CAD
+
+**US, Canada negotiators race to ink a deal as Trump's tariff deadline looms**
+`22 Aug 00:20 PKT` · pehli baar dekhi `22 Aug 00:33` · aljazeera
+
+Experts say even a last-minute breakthrough will not result in the US lifting all its tariffs on Canadian goods.
 
 **The U.S. and Canada are scrambling to avoid new tariffs and seal a trade deal. Here's what could be in it.**
 `21 Aug 21:38 PKT` · pehli baar dekhi `21 Aug 22:04` · mw_topstories
@@ -1212,6 +1231,12 @@ Venezuela has plenty of oil buyers again. What it does not have is enough functi
 
 **European diesel margins climb as refinery output increases**
 `21 Aug 22:39 PKT` · pehli baar dekhi `21 Aug 23:14` · investing_commodities
+
+**Tajikistan seeks 2.55mn tons of oil and fuel from Iran amid supply diversification - Daryo.uz**
+`21 Aug 22:18 PKT` · pehli baar dekhi `22 Aug 00:33` · gnews_geopolitics · **2 feeds mein**
+
+Tajikistan seeks 2.55mn tons of oil and fuel from Iran amid supply diversification Daryo.uz
+  - `21 Aug 12:11` *gnews_geopolitics* — Tajikistan seeks 2.55mn tons of oil and fuel from Iran amid supply diversification - Daryo.uz
 
 **US Oil Drillers See Pullback as Oil Prices Rise**
 `21 Aug 22:16 PKT` · pehli baar dekhi `21 Aug 22:42` · oilprice
@@ -1480,9 +1505,10 @@ WTI Price Forecast: Oil supply tightness supports further upside above $90 FXStr
 Iraq plans to raise oil output to as much as 10 million bpd Iran International
 
 **Crisis Deepens as Iranian Oil Offers to China Decline Amid U.S. Blockade - Devdiscourse**
-`21 Aug 13:45 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
+`21 Aug 13:45 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics · **2 feeds mein**
 
 Crisis Deepens as Iranian Oil Offers to China Decline Amid U.S. Blockade Devdiscourse
+  - `21 Aug 13:45` *gnews_geopolitics* — Crisis Deepens as Iranian Oil Offers to China Decline Amid U.S. Blockade - Devdiscourse
 
 **Has Iranian Crude Become Irrelevant to Global Oil Supply? - Investing.com Canada**
 `21 Aug 13:43 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
@@ -1526,11 +1552,6 @@ US-Israel-Iran War Latest Live News: India's July Crude Processing Jumps 6.8% to
 
 **Crude Oil WTI tests $87.70 resistance with doji: Live levels**
 `21 Aug 12:12 PKT` · pehli baar dekhi `21 Aug 20:49` · investing_commodities
-
-**Tajikistan seeks 2.55mn tons of oil and fuel from Iran amid supply diversification - Daryo.uz**
-`21 Aug 12:11 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
-
-Tajikistan seeks 2.55mn tons of oil and fuel from Iran amid supply diversification Daryo.uz
 
 **Oil Prices Surge for Second Week as US-Iran Conflict Crimps Global Supply - streamlinefeed.co.ke**
 `21 Aug 12:02 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
@@ -2165,15 +2186,25 @@ Iran has so far proved adept at finding ways around years of already punishing s
 
 It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
 
-### BINA TAG (214)
+### BINA TAG (224)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 00:21` **aljazeera** — Libya rivals test a new path towards unity, 15 years after Gadaffi downfall
+- `22 Aug 00:14` **aljazeera** — Palestinian victims of Israeli settler attacks face battle for justice
+- `22 Aug 00:12` **investing_news** — US health agencies report 55 cases of E. coli and salmonella infections tied to alfalfa sprouts
+- `22 Aug 00:11` **mw_topstories** — Former JPMorgan exec takes on Social Security advisory role
+- `22 Aug 00:08` **aljazeera** — Turkiye accuses Israel's Netanyahu of 'genocide', seeks Interpol warrant
+- `22 Aug 00:00` **investing_news** — Andersen stockholders complete $216.8m secondary offering
+- `21 Aug 23:58` **investing_news** — Apple reportedly cuts jobs in Siri and Vision Pro teams amid AI shift
+- `21 Aug 23:55` **aljazeera** — Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta
+- `21 Aug 23:52` **investing_news** — Top weekly stock gainers led by ZSTK's 203.6% surge
 - `21 Aug 23:50` **investing_news** — Mizuho raises Viking Holdings stock price target on quality outlook
 - `21 Aug 23:40` **aljazeera** — Espanyol vs Real Madrid: La Liga – prediction, lineups, teams
 - `21 Aug 23:36` **investing_news** — US service sector fuels acceleration in business activity, S&P Global says
 - `21 Aug 23:31` **investing_news** — US shoppers tighten budgets, but still find room for treats and splurges
 - `21 Aug 23:29` **mw_topstories** — Trump, Vance and Bessent try to calm the bond market with 'alternative facts'
+- `21 Aug 23:27` **gnews_fed** — Financial Wellness for Older Adults: Understanding the Challenges of an Aging Population - Philadelphia Federal Reserve Bank
 - `21 Aug 23:25` **aljazeera** — Former Pakistan PM Imran Khan taken back to prison after hospital check-up
 - `21 Aug 23:24` **investing_news** — Ken Griffin's Citadel sheds over 80% of Situational Awareness' bets
 - `21 Aug 23:21` **gnews_fed** — Does housing have an AI problem? - HousingWire
@@ -2400,13 +2431,13 @@ investing_news (12)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 2 | 28 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 5 | 1 | 4 | 25 | 0.0 |
+| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 0 | 30 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.0 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.2 |
 | marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.3 |
 | instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.1 |
+| wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.2 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
@@ -2414,30 +2445,30 @@ investing_news (12)
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.6 |
 | kitco_general | OK | 21 | 20 | 0 | 20 | 1 | 0.1 |
-| gnews_fed | OK | 86 | 62 | 3 | 59 | 24 | 0.0 |
-| gnews_geopolitics | OK | 100 | 94 | 3 | 91 | 6 | 0.1 |
-| gnews_centralbanks | OK | 35 | 34 | 2 | 32 | 1 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.0 |
+| gnews_fed | OK | 83 | 61 | 1 | 60 | 22 | 0.0 |
+| gnews_geopolitics | OK | 100 | 95 | 2 | 93 | 5 | 0.1 |
+| gnews_centralbanks | OK | 36 | 35 | 2 | 33 | 1 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.0 |
 | ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.3 |
 | boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.5 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.4 |
 | mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.1 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.0 |
 | investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
+| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.4 |
 | bbc_business | OK | 50 | 15 | 0 | 15 | 35 | 0.1 |
-| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
 | snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.4 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.2 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.3 |
-| wsj_world | OK | 72 | 11 | 0 | 11 | 61 | 0.1 |
+| wsj_world | OK | 72 | 11 | 0 | 11 | 61 | 0.0 |
 | wsj_markets | OK | 61 | 23 | 0 | 23 | 38 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 3 | 0 | 3 | 46 | 0.3 |
-| mw_topstories | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| investing_news | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 4 | 0 | 4 | 46 | 0.3 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
 | cointelegraph | OK | 30 | 14 | 0 | 14 | 16 | 0.1 |
 
 **Jo feeds nahi aaye:**
