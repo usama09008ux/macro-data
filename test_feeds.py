@@ -42,9 +42,16 @@ HEADERS = {
 
 TIMEOUT = 20
 
-# Freshness ki hadd (dinon mein)
-WARN_DAYS = 2
-STALE_DAYS = 14
+# Freshness ki hadd — har feed ka apna cadence_days config mein
+# hai, aur usi par hisaab hota hai.
+#
+# Pehle yahan flat 14 din likha tha. Nateeja: fed_speeches ko
+# 15.3 din par STALE kaha, jabke fetch_news.py us ka cadence 21
+# din dekh kar OK kehta hai. Do scripts do alag jawab de rahi
+# thin. Ab dono ka hisaab ek hai.
+WARN_MULT = 1.5
+STALE_MULT = 3
+DEFAULT_CADENCE = 1
 
 # Groups ki fehrist yahan LIKHI HUI NAHI hai.
 #
@@ -82,7 +89,7 @@ def entry_age_days(entry, now_ts):
     return None
 
 
-def test_one_feed(name, url):
+def test_one_feed(name, url, cadence=DEFAULT_CADENCE):
     """
     Ek feed test karta hai.
     Wapas deta hai: dict jis mein verdict aur tafseel ho.
@@ -90,6 +97,7 @@ def test_one_feed(name, url):
     result = {
         "name": name,
         "url": url,
+        "cadence": cadence,
         "status": "",
         "http": "",
         "items": 0,
@@ -156,12 +164,13 @@ def test_one_feed(name, url):
             result["newest_title"] = (e.get("title", "") or "")[:70]
             break
 
-    if newest > STALE_DAYS:
+    if newest > cadence * STALE_MULT:
         result["status"] = "STALE"
-        result["note"] = "khulta hai magar mawaad purana — pack mein mat lo"
-    elif newest > WARN_DAYS:
+        result["note"] = (f"cadence {cadence}d, magar {newest:.0f}d purana "
+                          "— pack mein nahi jayega")
+    elif newest > cadence * WARN_MULT:
         result["status"] = "WARN"
-        result["note"] = "thora sust"
+        result["note"] = f"thora sust (cadence {cadence}d)"
     else:
         result["status"] = "OK"
 
@@ -200,22 +209,26 @@ def main():
         print("-" * 78)
         print(f"  {group}   ({len(feeds)} feeds)")
         print("-" * 78)
-        print(f"{'STATUS':<7} {'NAME':<22} {'ITEMS':>5} {'UMAR(din)':>10}  NOTE")
+        print(f"{'STATUS':<7} {'NAME':<22} {'ITEMS':>5} {'UMAR':>7} "
+              f"{'CADENCE':>8}  NOTE")
         print("-" * 78)
 
         for feed in feeds:
             name = feed.get("name", "?")
             url = feed.get("url", "")
 
-            res = test_one_feed(name, url)
+            res = test_one_feed(name, url,
+                                feed.get("cadence_days", DEFAULT_CADENCE))
             res["group"] = group
             all_results.append(res)
 
             age = res["age_days"]
             age_str = f"{age:.1f}" if age is not None else "-"
+            cadence_used = res["cadence"]
             note = res["note"] or ""
 
-            print(f"{res['status']:<7} {name:<22} {res['items']:>5} {age_str:>10}  {note}")
+            print(f"{res['status']:<7} {name:<22} {res['items']:>5} "
+                  f"{age_str:>7} {str(cadence_used) + 'd':>8}  {note}")
 
             # Sites ko aaram do
             time.sleep(0.5)
@@ -255,15 +268,17 @@ def main():
     lines.append("")
     lines.append(f"Waqt (UTC): {started.strftime('%Y-%m-%d %H:%M')}")
     lines.append("")
-    lines.append("| Group | Feed | Status | Items | Umar (din) | Sab se nayi khabar |")
-    lines.append("|---|---|---|---|---|---|")
+    lines.append("| Group | Feed | Status | Items | Umar (din) | "
+                 "Cadence | Sab se nayi khabar |")
+    lines.append("|---|---|---|---|---|---|---|")
     for r in all_results:
         age = r["age_days"]
         age_str = f"{age:.1f}" if age is not None else "-"
         title = (r["newest_title"] or r["note"] or "").replace("|", "/")
         lines.append(
             f"| {r['group'].replace('feeds_','')} | {r['name']} | "
-            f"{r['status']} | {r['items']} | {age_str} | {title} |"
+            f"{r['status']} | {r['items']} | {age_str} | "
+            f"{r['cadence']}d | {title} |"
         )
     lines.append("")
     lines.append("## Khulasa")
