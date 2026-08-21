@@ -1,6 +1,6 @@
 # Calendar — Trading Day 21 Aug 2026
 
-- Banaya gaya: **21 Aug 2026 09:43 PKT**
+- Banaya gaya: **21 Aug 2026 10:57 PKT**
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
 - Feed: thisweek=live, nextweek=none
 
@@ -27,7 +27,7 @@
 | 18:45 | USD | low | Flash Manufacturing PMI | 53.9 | 53.8 |
 | 18:45 | USD | low | Flash Services PMI | 54.0 | 53.6 |
 | 19:00 | EUR | low | Consumer Confidence | -16 | -16 |
-| 04:00 | USD | MED | President Trump Speaks | - | - |
+| **22 Aug** 04:00 | USD | MED | President Trump Speaks | - | - |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
@@ -35,7 +35,7 @@
 
 ## Agle 7 din — sirf High aur Medium
 
-*Kuch nahi.*
+**Agle hafte ki file nahi mil saki.** Is liye ye hissa adhoora hai — is hafte ka bacha hua data hi dikh raha hai. Khaas kar Jumeraat/Jumma ko ye khali reh sakta hai.
 
 ---
 
