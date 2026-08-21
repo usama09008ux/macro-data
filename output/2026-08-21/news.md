@@ -1,9 +1,16 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 11:54 PKT**
-- Kul khabrein: **352**
+- Aakhri update: **21 Aug 12:47 PKT**
+- Kul khabrein: **401**
 - Feeds: 31/35 OK
+
+---
+
+## Sarkari / Exchange
+
+**Developments in Real Exports and Real Imports**
+`21 Aug 12:00 PKT` · pehli baar dekhi `21 Aug 12:47` · boj_whatsnew
 
 ---
 
@@ -15,6 +22,11 @@
 `21 Aug 13:44 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
 
 Platinum futures rose above $1,870 an ounce to an eleven-week high, supported by a weaker US dollar and renewed interest in precious metals. The greenback came under pressure amid mounting concerns over the US fiscal outlook and doubts about the effectiveness of the Treasury's expanded bond-buyback program, which many investors regard as unlikely to deliver a durable reduction in borrowing costs.
+
+**Germany August flash manufacturing PMI 54.1 vs 52.0 expected**
+`21 Aug 12:30 PKT` · pehli baar dekhi `21 Aug 12:47` · investinglive
+
+Prior 52.2 Services PMI 48.5 vs 50.1 expected Prior 49.8 Composite PMI 51.0 vs 51.3 expected Prior 51.3 Comment: Phil Smith, Economics Associate Director at S&P Global Market Intelligence: "The recovery in the manufacturing sector has regained momentum, after it showed signs of stalling in the second quarter.
 
 **What are the main events for today?**
 `21 Aug 11:23 PKT` · pehli baar dekhi `21 Aug 11:54` · investinglive
@@ -68,6 +80,61 @@ The scale of the drawdown, 1.6 million ounces since January, values reserve loss
 
 Palladium futures rose to around $1,350 per ounce, extending gains to a one-week high, as a weaker US dollar and renewed demand for precious metals supported prices. The greenback retreated after the US Treasury unexpectedly expanded long-dated debt buybacks, with Treasury Secretary Scott Bessent indicating purchases could exceed $4 billion per issue. That move initially eased yield pressures and boosted non-yielding metals.
 
+**Harmony beats targets: earnings soar on strong gold and copper ops - Business Day**
+`21 Aug 12:37 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_gold
+
+Harmony beats targets: earnings soar on strong gold and copper ops Business Day
+
+**Regis Resources rides record cash pile and firm gold prices - Kalkine**
+`21 Aug 12:30 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_gold
+
+Regis Resources rides record cash pile and firm gold prices Kalkine
+
+**Gold price climbs ₹1,432 to ₹1.60 lakh/10 gm on firm spot demand - BusinessLine**
+`21 Aug 12:28 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_gold
+
+Gold price climbs ₹1,432 to ₹1.60 lakh/10 gm on firm spot demand BusinessLine
+
+**Gold Futures Rise to Rs 1.60 Lakh/10gm on Firm Demand - Rediff MoneyWiz**
+`21 Aug 12:23 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_gold
+
+Gold Futures Rise to Rs 1.60 Lakh/10gm on Firm Demand Rediff MoneyWiz
+
+**World gold prices increase by more than 500 USD in one month - Laodong.vn**
+`21 Aug 12:21 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_gold
+
+World gold prices increase by more than 500 USD in one month Laodong.vn
+
+**Gold price nears $4,600 on global markets - Azərtac**
+`21 Aug 12:21 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_gold
+
+Gold price nears $4,600 on global markets Azərtac
+
+**Morgan Stanley Research Report Analysis: Gold Hits $4,450 Target Ahead of Schedule, Central Bank Buying Provides Underl… - 深潮TechFlow**
+`21 Aug 12:20 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_gold
+
+Morgan Stanley Research Report Analysis: Gold Hits $4,450 Target Ahead of Schedule, Central Bank Buying Provides Underl… 深潮TechFlow
+
+**Silver Price Forecasts: XAG/USD hits highs past $69.00 amid US Dollar weakness**
+`21 Aug 12:13 PKT` · pehli baar dekhi `21 Aug 12:47` · fxstreet_news
+
+Silver (XAG/USD) rallies for the third consecutive day on Friday, hitting fresh two-month highs above $69.00 in the early European session.
+
+**Horizon Gold's Gum Creek story combines completed DFS with resource growth - Kalkine**
+`21 Aug 12:09 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_gold
+
+Horizon Gold's Gum Creek story combines completed DFS with resource growth Kalkine
+
+**XAG/USD Analysis: Triangle Breakout Attempt Amid US Treasury Buybacks**
+`21 Aug 12:07 PKT` · pehli baar dekhi `21 Aug 12:47` · actionforex
+
+On 19 August, the US Treasury announced that it would double the volume of long-term government bond buybacks. The measure led to a noticeable decline in yields at the longer end of the curve and forms part of the Treasury's broader efforts to contain pressure on long-term borrowing costs. These efforts include market interventions and [&#8230;] The post XAG/USD Analysis: Triangle Breakout Attempt Amid US Treasury Buybacks appeared first on ActionForex.
+
+**Gold price prediction: Gold is rally, but should you buy? Check August 21, 2026 outlook - The Times of India**
+`21 Aug 12:04 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_gold
+
+Gold price prediction: Gold is rally, but should you buy? Check August 21, 2026 outlook The Times of India
+
 **China Stocks Mixed, Headed for Weekly Losses**
 `21 Aug 12:00 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
 
@@ -77,6 +144,11 @@ The Shanghai Composite slipped 0.3% to 3,891 on Friday, while the Shenzhen Compo
 `21 Aug 11:39 PKT` · pehli baar dekhi `21 Aug 11:54` · gnews_gold
 
 How Oil Prices Shape Gold Mining Costs and Producer Margins discoveryalert.com.au
+
+**Gold Price Hovers Near $4500 - وكالة صدى نيوز**
+`21 Aug 11:39 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_gold
+
+Gold Price Hovers Near $4500 وكالة صدى نيوز
 
 **Gold price rises Rs 3,300 per tola, gains Rs 15,100 this week - The Himalayan Times**
 `21 Aug 11:30 PKT` · pehli baar dekhi `21 Aug 11:54` · gnews_gold
@@ -117,6 +189,11 @@ Gold rises ₹1,205 on MCX, silver gains ₹1,745 on safe-haven demand Business 
 `21 Aug 10:23 PKT` · pehli baar dekhi `21 Aug 10:55` · gnews_gold
 
 Gold Price Today, 21 August 2026: 24K Gold Climbs Above ₹1.57 Lakh per 10g — Check Latest Rates Across India chshyd.in
+
+**Chennai Bullion Rates: Gold & Silver Prices Aug 21 - Rediff MoneyWiz**
+`21 Aug 10:15 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_gold
+
+Chennai Bullion Rates: Gold & Silver Prices Aug 21 Rediff MoneyWiz
 
 **Chennai Bullion Rates: Gold & Silver Prices Aug 21 - Rediff MoneyWiz**
 `21 Aug 10:04 PKT` · pehli baar dekhi `21 Aug 10:55` · gnews_gold
@@ -350,6 +427,16 @@ Indonesia's current account deficit deepened markedly in the second quarter of 2
 
 Indonesian equities advanced 26 points, or 0.4%, to 6,527 in Friday morning trade, extending their rise to a three‑month high following Thursday's gains. Sentiment improved on the back of stronger U.S. equity futures, even as Wall Street closed lower overnight amid a rebound in Treasury yields and a renewed surge in oil prices. On the domestic front, July credit growth remained solid, though corporate borrowing showed signs of cooling in response to heightened uncertainty.
 
+**French business activity contracts further in August as demand conditions remain subdued**
+`21 Aug 12:15 PKT` · pehli baar dekhi `21 Aug 12:47` · investinglive
+
+August flash services PMI 48.4 vs 49.8 expected Prior 49.6 August flash manufacturing PMI 51.5 vs 50.0 expected Prior 49.8 August flash composite PMI 48.8 vs 49.5 expected Prior 49.4 The French private sector economy remains weak in August, with another contraction seen in overall business activity. This once again continues to reaffirm that the French economy remains on track for yet another subdued and mediocre quarterly showing as demand conditions remain soft.
+
+**Indian Rupee: Higher profile after hawkish RBI – MUFG**
+`21 Aug 12:00 PKT` · pehli baar dekhi `21 Aug 12:47` · fxstreet_news
+
+MUFG's Michael Wan highlights that FX measures to attract US Dollar (USD) inflows into India have significantly lowered Indian Rupee (INR) rates via added liquidity, with limited impact on USD/INR.
+
 **United States Dollar Index remains below 99.00 as 10-year US yield steadies**
 `21 Aug 11:52 PKT` · pehli baar dekhi `21 Aug 11:54` · fxstreet_news
 
@@ -463,6 +550,11 @@ Gold has been a hot topic this week again, owing much thanks to the US Treasury 
 **Asia FX set for weekly gains, dollar near 3-mth lows despite U.S. Treasury move**
 `21 Aug 08:48 PKT` · pehli baar dekhi `21 Aug 09:26` · investing_news
 
+**Energy Price Cap Hike Set to Send July Inflation Surging - streamlinefeed.co.ke**
+`21 Aug 08:32 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_centralbanks
+
+Energy Price Cap Hike Set to Send July Inflation Surging streamlinefeed.co.ke
+
 **China vice finance minister signals more fiscal support as economy slows**
 `21 Aug 07:41 PKT` · pehli baar dekhi `21 Aug 07:58` · investinglive
 
@@ -548,6 +640,29 @@ Wednesday bought the bond market one session of calm and the Dow Jones Industria
 
 Indonesia's balance of payments position improved significantly in the second quarter of 2026, with the overall deficit narrowing to EUR -0.9 billion from EUR -9.1 billion in the first quarter of the year. The latest figures, updated on 21 August 2026, mark a substantial easing in external pressures compared with the start of 2026.
 
+**Euro remains weaker against Canadian Dollar following German PMI data**
+`21 Aug 12:44 PKT` · pehli baar dekhi `21 Aug 12:47` · fxstreet_news
+
+EUR/CAD extends its losses for the second successive day, trading around 1.6100 during the European hours on Friday. The currency cross depreciates as the Euro (EUR) holds losses following the release of HCOB Purchasing Managers' Index (PMI) data from Germany.
+
+**German business activity grows in August, PMI shows**
+`21 Aug 12:36 PKT` · pehli baar dekhi `21 Aug 12:47` · investing_news
+
+**Germany's flash Manufacturing PMI unexpectedly rises faster to 54.1 vs. 52.0 estimates**
+`21 Aug 12:32 PKT` · pehli baar dekhi `21 Aug 12:47` · fxstreet_news
+
+German flash HCOB Composite PMI rises moderately to 51.0 in August as the services sector activity contracts again. The Composite PMI was expected to remain steady at 51.3.
+
+**Euro: Gentle upside against US Dollar as greenback softens - ING**
+`21 Aug 12:23 PKT` · pehli baar dekhi `21 Aug 12:47` · fxstreet_news
+
+ING's Chris Turner says EUR/USD remains well supported by broad Dollar softness. Expected mild eurozone growth in the August PMIs and elevated inflation expectations keep the case for another European Central Bank (ECB) hike alive.
+
+**Euro holds gains against British Pound after weaker UK Retail Sales data**
+`21 Aug 11:55 PKT` · pehli baar dekhi `21 Aug 12:47` · fxstreet_news
+
+The EUR/GBP cross posts modest gains to around 0.8570 during the early European session on Friday. The British Pound (GBP) edges slightly lower against the Euro (EUR) following disappointing UK economic data.
+
 **Flash PMIs to Test Growth Resilience**
 `21 Aug 11:23 PKT` · pehli baar dekhi `21 Aug 11:54` · actionforex
 
@@ -557,6 +672,11 @@ In focus today In the euro area, August flash PMIs and Q2 negotiated wage data a
 `21 Aug 11:10 PKT` · pehli baar dekhi `21 Aug 11:54` · fxstreet_news
 
 United Overseas Bank's (UOB) Quek Ser Leang highlights EUR/USD at 1.1685 holding recent gains, with intraday trading likely between 1.1655 and 1.1715.
+
+**Euro Holds Firm on Hawkish ECB Outlook, Even as US Dollar Stays Strong - CryptoRank**
+`21 Aug 10:42 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_centralbanks
+
+Euro Holds Firm on Hawkish ECB Outlook, Even as US Dollar Stays Strong CryptoRank
 
 **Euro sits near multi-month top vs weak USD as bulls await move beyond 1.1700 ahead of PMIs**
 `21 Aug 09:39 PKT` · pehli baar dekhi `21 Aug 09:47` · fxstreet_news
@@ -589,6 +709,11 @@ Euro gains on hawkish ECB outlook despite firm US Dollar FXStreet
 The Euro remains steady below 1.1700 after failing to hold gains above it, despite hitting a three-month high. Broad US Dollar strength kept EUR/USD from ending Thursday's session above the 1.1700 mark, with the pair finishing at around familiar levels, unchanged from Thursday's opening price.
 
 ### GBP
+
+**British Pound: Upward momentum targets 1.3700 against US Dollar – UOB**
+`21 Aug 12:31 PKT` · pehli baar dekhi `21 Aug 12:47` · fxstreet_news
+
+United Overseas Bank's (UOB) Quek Ser Leang reports GBP/USD at 1.3640 remains supported after breaking key resistance levels, with intraday gains likely capped between 1.3605 and 1.3670.
 
 **British Pound holds gains against a weak US Dollar despite downbeat UK Retail Sales**
 `21 Aug 11:36 PKT` · pehli baar dekhi `21 Aug 11:54` · fxstreet_news
@@ -625,10 +750,25 @@ GBP/USD trades just beneath 1.3650 late in the session, 0.2% higher on the day a
 
 ### JPY
 
+**Japanese Yen: September BoJ risk builds – Commerzbank**
+`21 Aug 12:41 PKT` · pehli baar dekhi `21 Aug 12:47` · fxstreet_news
+
+Volkmar Baur at Commerzbank argues that July inflation and strong Purchasing Managers' Index (PMI) data in Japan suggest price dynamics would not block a Bank of Japan (BoJ) rate hike.
+
+**Japanese Yen: September BoJ risk builds – Commerzbank - FXStreet**
+`21 Aug 12:41 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_centralbanks
+
+Japanese Yen: September BoJ risk builds – Commerzbank FXStreet
+
 **Japan 10Y Yield Tracks US Treasury Yields Higher**
 `21 Aug 12:26 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
 
 Japan's 10-year government bond yield climbed to around 2.88% on Friday, snapping a two-day losing streak and mirroring a rebound in US Treasury yields. The move came amid doubts that the US government's strategy to lower borrowing costs will deliver more than a short-lived reprieve. Global bond yields had fallen earlier in the week after the US Treasury Department announced an expansion of its debt buyback program to help contain funding costs.
+
+**British Pound trades firmly against Japanese Yen ahead of UK flash PMI data**
+`21 Aug 12:21 PKT` · pehli baar dekhi `21 Aug 12:47` · fxstreet_news
+
+The British Pound (GBP) holds onto Thursday's gains at around 217.00 against the Japanese Yen (JPY) during the European trading session on Friday.
 
 **Yen Holds Steady After Inflation Data**
 `21 Aug 12:14 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
@@ -639,6 +779,11 @@ The Japanese yen was steady around 159 per dollar on Friday after a bout of heig
 `21 Aug 12:14 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
 
 Japan's food prices rose 3.5% year-on-year in July 2026, up from 3.2% in June and marking the fastest increase since February. Inflationary pressures intensified across several categories, including fresh vegetables (6.6% vs 2.8%), fresh fruit (2.4% vs 0.2%), cakes and candies (6.1% vs 5.6%), fish and seafood (9.0% vs 7.6%), meats (3.9% vs 3.5%), alcoholic beverages (0.6% vs 0.5%), and meals eaten out (1.7% vs 1.6%).
+
+**Japan's Inflation Print Just Made a September BOJ Hike Harder to Avoid - BeInCrypto**
+`21 Aug 12:13 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_centralbanks
+
+Japan's Inflation Print Just Made a September BOJ Hike Harder to Avoid BeInCrypto
 
 **The Japanese Yen's historic rescue is running out of steam**
 `21 Aug 11:47 PKT` · pehli baar dekhi `21 Aug 11:54` · fxstreet_analysis
@@ -667,6 +812,11 @@ The S&P Global Japan Manufacturing PMI rose to 55.1 in August 2026 from 54.5 in 
 
 **Japanese Bank Stocks Worth Watching Before A Possible Bank Of Japan Rate Hike - simplywall.st**
 `21 Aug 10:34 PKT` · pehli baar dekhi `21 Aug 11:54` · gnews_centralbanks
+
+Japanese Bank Stocks Worth Watching Before A Possible Bank Of Japan Rate Hike simplywall.st
+
+**Japanese Bank Stocks Worth Watching Before A Possible Bank Of Japan Rate Hike - simplywall.st**
+`21 Aug 10:34 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_centralbanks
 
 Japanese Bank Stocks Worth Watching Before A Possible Bank Of Japan Rate Hike simplywall.st
 
@@ -839,6 +989,11 @@ Boston Federal Reserve president remarks about U.S. economy in Dover visit Yahoo
 
 Australia's 10-year government bond yield held above 5%, hovering near its highest level since late May, as markets continued to anticipate further policy tightening despite weak labor data. June figures showed employment falling by 15,800, contrary to expectations for a 15,000 increase, while the unemployment rate climbed to 4.5%, its highest level in nearly five years, indicating a cooling labor market.
 
+**AUD/USD Price Forecast: Hits fresh high since June as bulls eye gains beyond 0.7150**
+`21 Aug 12:17 PKT` · pehli baar dekhi `21 Aug 12:47` · fxstreet_news
+
+The AUD/USD pair regains positive traction following the previous day's dismal Aussie jobs data-led modest fall and climbs to a fresh high since early June during the first half of the European session.
+
 **Aussie Heads for 4th Weekly Gain**
 `21 Aug 12:13 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
 
@@ -906,15 +1061,30 @@ India's BSE Sensex inched up around 0.1% to 77,595 on Friday, extending gains fr
 
 Malaysian palm oil futures extended their gains to around MYR 4,990 per tonne, the highest level since December 2024. The benchmark contract is also heading for its largest weekly increase in 24 weeks, up nearly 6% so far and logging a third consecutive weekly advance. The recent rally has been underpinned by strength in Dalian vegetable oil markets and firmer demand from Indonesia, where buyers have accelerated purchases ahead of the full rollout of the B50 biodiesel mandate in October.
 
+**Dow Jones futures gain as traders weigh US debt buybacks against surging oil prices**
+`21 Aug 12:44 PKT` · pehli baar dekhi `21 Aug 12:47` · fxstreet_news
+
+Dow Jones futures gain 0.13% to trade above 52,900 during European hours on Friday. Meanwhile, S&P 500 futures remain up by 0.18%, to trade near 7,680, and Nasdaq 100 futures advance by 0.38% to trade above 29,400.
+
 **Hong Kong Stocks Gain for Second Session**
 `21 Aug 12:21 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
 
 The Hang Seng Index rose 0.7%, or 171 points, to 25,868 on Friday, extending gains from the previous session as investors reacted positively to softer local inflation data. Hong Kong's annual inflation rate slowed to 1.7% in July, down from 2.0% in each of the prior two months. Shares in electronic technology, producer manufacturing, and financial sectors led the advance.
 
+**Tajikistan seeks 2.55mn tons of oil and fuel from Iran amid supply diversification - Daryo.uz**
+`21 Aug 12:11 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_geopolitics
+
+Tajikistan seeks 2.55mn tons of oil and fuel from Iran amid supply diversification Daryo.uz
+
 **European Gas Remains Near Multi-Year Highs**
 `21 Aug 12:03 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
 
 European natural gas prices slipped below €65 per MWh on Friday but remained close to their highest level since January 2023, as the deadlock in the US–Iran confrontation clouded the outlook for LNG supplies from the Gulf. Tensions over the Strait of Hormuz have escalated into a new phase of economic pressure, unnerving the market. Traders are increasingly concerned about Europe's readiness for the coming winter.
+
+**Oil futures: Crude pauses as US set to ramp up sanctions on Iran - Quantum Commodity Intelligence**
+`21 Aug 11:48 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_geopolitics
+
+Oil futures: Crude pauses as US set to ramp up sanctions on Iran Quantum Commodity Intelligence
 
 **WTI steadies near $86.00 as Iran sanctions threat offsets US inventory build**
 `21 Aug 10:56 PKT` · pehli baar dekhi `21 Aug 11:54` · fxstreet_news
@@ -940,6 +1110,11 @@ Oil Prices Surge for Second Week as US-Iran Conflict Crimps Global Supply stream
 `21 Aug 10:19 PKT` · pehli baar dekhi `21 Aug 10:55` · gnews_geopolitics
 
 Iranian Oil Supply to Chinese Refiners Squeezed by US Blockade Bloomberg.com
+
+**Crude Oil Price Today: Brent $93.82 on Second Weekly Rise, US-Iran Supply Disruption - Univest**
+`21 Aug 10:18 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_geopolitics
+
+Crude Oil Price Today: Brent $93.82 on Second Weekly Rise, US-Iran Supply Disruption Univest
 
 **Oil Prices Steady as Iran Conflict Disrupts Supply | Market Update - News and Statistics - IndexBox**
 `21 Aug 09:50 PKT` · pehli baar dekhi `21 Aug 10:55` · gnews_geopolitics
@@ -1133,6 +1308,14 @@ Fed minutes show September rate hike still on the table Reuters
 
 Copper futures rose above $6.50 per pound on Friday, reversing early-week losses as tight physical supply continued to support prices. The market remains fragile after months of inventory outflows, driven in part by metal being redirected to the US ahead of expected tariffs. Top producer Chile also anticipates a decline in copper output this year, as ongoing operational disruptions weigh on mines and development projects.
 
+**Morgan Stanley upgrades Ternium stock rating on tariff outlook**
+`21 Aug 12:36 PKT` · pehli baar dekhi `21 Aug 12:47` · investing_news
+
+**US-Israel-Iran War Latest Live News: Trump Says US is 'Essentially Controlling the Straits' as Oil Prices Surge Above $90 – Mark Warner Condemns 'Disastrous' War - The Sunday Guardian**
+`21 Aug 12:22 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_geopolitics
+
+US-Israel-Iran War Latest Live News: Trump Says US is 'Essentially Controlling the Straits' as Oil Prices Surge Above $90 – Mark Warner Condemns 'Disastrous' War The Sunday Guardian
+
 **Equities: Mixed recovery after US selloff – Deutsche Bank**
 `21 Aug 11:44 PKT` · pehli baar dekhi `21 Aug 11:54` · fxstreet_news
 
@@ -1180,6 +1363,11 @@ Trump Threatens Unprecedented Economic Isolation of Iran streamlinefeed.co.ke
 `21 Aug 09:32 PKT` · pehli baar dekhi `21 Aug 09:47` · gnews_geopolitics
 
 Oil set for second weekly rise as unsettled US-Iran war crimps supply The Star
+
+**Oil set for second weekly rise as unsettled US-Iran war crimps supply - TradingView**
+`21 Aug 09:17 PKT` · pehli baar dekhi `21 Aug 12:47` · gnews_geopolitics
+
+Oil set for second weekly rise as unsettled US-Iran war crimps supply TradingView
 
 **Analysis-War-hit European markets are far from down and out**
 `21 Aug 09:07 PKT` · pehli baar dekhi `21 Aug 09:26` · investing_news
@@ -1247,13 +1435,24 @@ Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says Ene
 
 Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Business Times
 
-### BINA TAG (104)
+### BINA TAG (115)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
 - `21 Aug 15:00` **instaforex** — Estonia's Producer Prices Fall Further in July, Extending Deflationary Trend
 - `21 Aug 14:39` **instaforex** — Dutch Consumer Confidence Less Negative in August
 - `21 Aug 14:30` **instaforex** — Dutch Consumer Confidence Inches Up in August, Remains Deep in Negative Territory
+- `21 Aug 12:37` **investing_news** — Baird downgrades Teradyne stock rating on valuation concerns
+- `21 Aug 12:36` **investing_news** — Citizens initiates Builders FirstSource stock at Market Perform
+- `21 Aug 12:36` **investing_news** — Analysis-China tax crackdown forces wealthy investors to assess their offshore trusts
+- `21 Aug 12:34` **investing_news** — Earnings call transcript: Arendals Fossekompani lifts q2 2026 profit as shares slip
+- `21 Aug 12:33` **investinglive** — HFM and Arsenal Kick Off a New Season Together
+- `21 Aug 12:32` **investing_news** — Vp plc appoints Corinne Ripoche as non-executive director
+- `21 Aug 12:31` **investinglive** — Q3 earnings sentiment turns defensive as Walmart deepens the warning
+- `21 Aug 12:31` **investing_news** — KeyBanc upgrades Innovage stock rating on turnaround completion
+- `21 Aug 12:31` **investing_news** — Baird upgrades Parsons stock rating on conservative guidance outlook
+- `21 Aug 12:30` **investing_news** — JPMorgan initiates Select Water Solutions stock at Overweight
+- `21 Aug 12:06` **investinglive** — Stock market sector rotation explained: Where investors are moving their money now
 - `21 Aug 11:34` **wsj_markets** — Monte dei Paschi Makes $40 Billion Move to Buy Italian Peers Banco BPM, Banca Generali
 - `21 Aug 11:27` **investing_news** — Gore Street Energy Storage Fund urges vote against Saba resolutions
 - `21 Aug 11:27` **wsj_world** — U.K. Government Borrowing Rises Despite Record Income Tax Revenues
@@ -1365,9 +1564,9 @@ Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Busi
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 9 | 21 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 2 | 2 | 0 | 28 | 0.0 |
-| actionforex | OK | 20 | 13 | 3 | 10 | 7 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 11 | 19 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 2 | 0 | 2 | 28 | 0.0 |
+| actionforex | OK | 20 | 14 | 1 | 13 | 6 | 0.0 |
 | marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.0 |
 | instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
@@ -1377,15 +1576,15 @@ Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Busi
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.1 |
-| gnews_gold | OK | 100 | 37 | 9 | 28 | 63 | 0.0 |
+| gnews_gold | OK | 100 | 46 | 11 | 35 | 54 | 0.0 |
 | gnews_fed | OK | 100 | 11 | 0 | 11 | 89 | 0.2 |
-| gnews_geopolitics | OK | 100 | 39 | 7 | 32 | 61 | 0.0 |
-| gnews_centralbanks | OK | 40 | 23 | 4 | 19 | 17 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
+| gnews_geopolitics | OK | 99 | 40 | 5 | 35 | 59 | 0.0 |
+| gnews_centralbanks | OK | 41 | 25 | 5 | 20 | 16 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.5 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.0 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 9.7 |
-| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 4.0 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 9.8 |
+| boj_whatsnew | OK | 46 | 1 | 1 | 0 | 45 | 0.0 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 1.9 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 20.9 |
 | rbnz_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
@@ -1393,15 +1592,15 @@ Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Busi
 | us_treasury | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 1.7 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 16.8 |
-| wsj_world | OK | 71 | 5 | 1 | 4 | 66 | 0.0 |
-| wsj_markets | OK | 61 | 5 | 1 | 4 | 56 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.9 |
-| mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.3 |
-| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.0 |
+| wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.0 |
+| wsj_markets | OK | 61 | 5 | 0 | 5 | 56 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.9 |
+| mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
+| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.1 |
 
 **Jo feeds nahi aaye:**
-- instaforex — FAIL, SSLError
+- instaforex — FAIL, koi item nahi
 - rbnz_news — FAIL, HTTP 403
 - snb_press — FAIL, HTTP 404
 - us_treasury — FAIL, HTTP 404

@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "21 Aug 11:54",
+  "updated_pkt": "21 Aug 12:47",
   "feeds": [
     {
       "name": "investinglive",
@@ -19,8 +19,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 30,
-      "new": 9,
-      "seen_before": 21,
+      "new": 11,
+      "seen_before": 19,
       "out_of_window": 0
     },
     {
@@ -30,8 +30,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 2,
-      "new": 2,
-      "seen_before": 0,
+      "new": 0,
+      "seen_before": 2,
       "out_of_window": 28
     },
     {
@@ -40,10 +40,10 @@
       "fetched": 20,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 13,
-      "new": 3,
-      "seen_before": 10,
-      "out_of_window": 7
+      "in_window": 14,
+      "new": 1,
+      "seen_before": 13,
+      "out_of_window": 6
     },
     {
       "name": "marketpulse",
@@ -61,7 +61,7 @@
       "status": "FAIL",
       "fetched": 0,
       "newest_age_days": null,
-      "note": "SSLError",
+      "note": "koi item nahi",
       "in_window": 0,
       "new": 0,
       "seen_before": 0,
@@ -150,10 +150,10 @@
       "fetched": 100,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 37,
-      "new": 9,
-      "seen_before": 28,
-      "out_of_window": 63
+      "in_window": 46,
+      "new": 11,
+      "seen_before": 35,
+      "out_of_window": 54
     },
     {
       "name": "gnews_fed",
@@ -169,30 +169,30 @@
     {
       "name": "gnews_geopolitics",
       "status": "OK",
-      "fetched": 100,
+      "fetched": 99,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 39,
-      "new": 7,
-      "seen_before": 32,
-      "out_of_window": 61
+      "in_window": 40,
+      "new": 5,
+      "seen_before": 35,
+      "out_of_window": 59
     },
     {
       "name": "gnews_centralbanks",
       "status": "OK",
-      "fetched": 40,
+      "fetched": 41,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 23,
-      "new": 4,
-      "seen_before": 19,
-      "out_of_window": 17
+      "in_window": 25,
+      "new": 5,
+      "seen_before": 20,
+      "out_of_window": 16
     },
     {
       "name": "fed_monetary",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 1.5,
+      "newest_age_days": 1.6,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -225,7 +225,7 @@
       "name": "boe_news",
       "status": "OK",
       "fetched": 50,
-      "newest_age_days": 9.7,
+      "newest_age_days": 9.8,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -236,12 +236,12 @@
       "name": "boj_whatsnew",
       "status": "OK",
       "fetched": 46,
-      "newest_age_days": 4.0,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 0,
-      "new": 0,
+      "in_window": 1,
+      "new": 1,
       "seen_before": 0,
-      "out_of_window": 46
+      "out_of_window": 45
     },
     {
       "name": "rba_media",
@@ -327,8 +327,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 5,
-      "new": 1,
-      "seen_before": 4,
+      "new": 0,
+      "seen_before": 5,
       "out_of_window": 66
     },
     {
@@ -338,8 +338,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 5,
-      "new": 1,
-      "seen_before": 4,
+      "new": 0,
+      "seen_before": 5,
       "out_of_window": 56
     },
     {
@@ -349,26 +349,26 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 9,
-      "seen_before": 1,
+      "new": 10,
+      "seen_before": 0,
       "out_of_window": 0
     },
     {
       "name": "yahoo_finance",
       "status": "OK",
-      "fetched": 49,
+      "fetched": 50,
       "newest_age_days": 0.9,
       "note": "",
       "in_window": 0,
       "new": 0,
       "seen_before": 0,
-      "out_of_window": 49
+      "out_of_window": 50
     },
     {
       "name": "mw_topstories",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.3,
+      "newest_age_days": 0.4,
       "note": "",
       "in_window": 3,
       "new": 0,
@@ -379,7 +379,7 @@
       "name": "cointelegraph",
       "status": "OK",
       "fetched": 30,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": "",
       "in_window": 4,
       "new": 0,
