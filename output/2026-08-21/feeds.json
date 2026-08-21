@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "21 Aug 04:59",
+  "updated_pkt": "21 Aug 06:52",
   "feeds": [
     {
       "name": "investinglive",
@@ -19,77 +19,77 @@
       "name": "fxstreet_analysis",
       "status": "OK",
       "fetched": 30,
-      "newest_age_days": 0.2,
+      "newest_age_days": 0.3,
       "note": ""
     },
     {
       "name": "actionforex",
       "status": "OK",
       "fetched": 20,
-      "newest_age_days": 0.4,
+      "newest_age_days": 0.0,
       "note": ""
     },
     {
       "name": "marketpulse",
       "status": "OK",
       "fetched": 3,
-      "newest_age_days": 0.7,
+      "newest_age_days": 0.8,
       "note": ""
     },
     {
       "name": "wsj_economy",
       "status": "OK",
       "fetched": 36,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": ""
     },
     {
       "name": "cme_metals_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.2,
       "note": ""
     },
     {
       "name": "cme_fx_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.2,
       "note": ""
     },
     {
       "name": "cme_rates_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.2,
       "note": ""
     },
     {
       "name": "cme_energy_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.2,
       "note": ""
     },
     {
       "name": "cme_daily_commentary",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.2,
       "note": ""
     },
     {
       "name": "cme_risk_management",
       "status": "OK",
       "fetched": 20,
-      "newest_age_days": 7.8,
+      "newest_age_days": 7.9,
       "note": ""
     },
     {
       "name": "fed_monetary",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 1.2,
+      "newest_age_days": 1.3,
       "note": ""
     },
     {
@@ -103,7 +103,7 @@
       "name": "ecb_press",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 1.7,
+      "newest_age_days": 1.8,
       "note": ""
     },
     {
@@ -124,21 +124,21 @@
       "name": "rba_media",
       "status": "OK",
       "fetched": 1,
-      "newest_age_days": 1.6,
+      "newest_age_days": 1.7,
       "note": ""
     },
     {
       "name": "bea_releases",
       "status": "OK",
       "fetched": 47,
-      "newest_age_days": 16.5,
+      "newest_age_days": 16.6,
       "note": ""
     },
     {
       "name": "wsj_world",
       "status": "OK",
       "fetched": 72,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.2,
       "note": ""
     },
     {
@@ -158,22 +158,22 @@
     {
       "name": "yahoo_finance",
       "status": "OK",
-      "fetched": 49,
-      "newest_age_days": 0.6,
+      "fetched": 47,
+      "newest_age_days": 0.7,
       "note": ""
     },
     {
       "name": "mw_topstories",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": ""
     },
     {
       "name": "cointelegraph",
       "status": "OK",
       "fetched": 30,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.2,
       "note": ""
     }
   ]

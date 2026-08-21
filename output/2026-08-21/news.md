@@ -1,8 +1,8 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 04:59 PKT**
-- Kul khabrein: **60**
+- Aakhri update: **21 Aug 06:52 PKT**
+- Kul khabrein: **88**
 - Feeds: 25/25 OK
 
 ---
@@ -10,6 +10,11 @@
 ## Khabrein
 
 ### GOLD
+
+**Gold Slips Amid Changing Monetary Policy Expectations**
+`21 Aug 06:16 PKT` · pehli baar dekhi `21 Aug 06:52` · wsj_markets
+
+Gold declined in early Asian trade. The precious metal was likely to continue reacting to changing monetary policy expectations, said Critical Metals.
 
 **Gold drifts higher above $4,500 on US Treasury buyback**
 `21 Aug 04:37 PKT` · pehli baar dekhi `21 Aug 04:59` · fxstreet_news
@@ -22,6 +27,39 @@ Gold price (XAU/USD) edges higher to around $4,530 during the early Asian sessio
 The pace of the rally is prompting banks to revisit both their timelines and their ceilings, with the metal already through a target that had been pencilled in for later in the year. Softer expectations for further Federal Reserve tightening are seen reviving exchange traded fund demand after a period of outflows, while central banks continue to use price dips as buying opportunities to build reserves.
 
 ### USD
+
+**Dollar wobbles as investors balk at US Treasury's rescue efforts**
+`21 Aug 06:42 PKT` · pehli baar dekhi `21 Aug 06:52` · investing_news
+
+**Higher Long Bond Yields Stem from More Than Just One Thing**
+`21 Aug 06:42 PKT` · pehli baar dekhi `21 Aug 06:52` · actionforex
+
+AI-related investment and US fiscal incontinence add to the existing tendency for the global rates structure to average higher than pre-pandemic. Expect more US government action to contain debt-servicing costs. Bond yields have been rising in recent weeks, especially at the long end of the maturity spectrum. We have long believed that the global structure [&#8230;] The post Higher Long Bond Yields Stem from More Than Just One Thing appeared first on ActionForex.
+
+**PBOC sets USD/CNY reference rate at 6.7817 vs. 6.7808 previous**
+`21 Aug 06:15 PKT` · pehli baar dekhi `21 Aug 06:52` · fxstreet_news
+
+On Friday, the People's Bank of China (PBOC) sets the USD/CNY central rate for the trading session ahead at 6.7817 compared to the previous day's fix of 6.7808 and 6.7262 Reuters estimate.
+
+**PBOC sets USD/ CNY reference rate for today at 6.7817 (vs. estimate at 6.7262)**
+`21 Aug 06:15 PKT` · pehli baar dekhi `21 Aug 06:52` · investinglive
+
+The PBOC allows the yuan to fluctuate within a +/- 2% range, around this reference rate. More here on this. PBoC injects 95bn yuan through 7 day reverse repos at 1.4% over the week the net draw has been 272 bn yuan This article was written by Eamonn Sheridan at investinglive.com.
+
+**Thai Baht Likely to Stay Weak in Near Term**
+`21 Aug 05:53 PKT` · pehli baar dekhi `21 Aug 06:52` · wsj_markets
+
+The Thai baht was likely to stay weak against the dollar in the near term, said BMI.
+
+**Once the world's top gold buyer, Russia's central bank now a steady seller**
+`21 Aug 05:30 PKT` · pehli baar dekhi `21 Aug 06:52` · investinglive
+
+The scale of the drawdown, 1.6 million ounces since January, values reserve losses at 33.7 billion dollars over seven months, underscores how far Russia's fiscal position has deteriorated as weaker energy revenue forces the government to lean on its sovereign wealth buffers.
+
+**PBOC is expected to set the USD/CNY reference rate at 6.7262 – Reuters estimate**
+`21 Aug 05:17 PKT` · pehli baar dekhi `21 Aug 06:52` · investinglive
+
+The People's Bank of China is due to set the daily USD/CNY reference rate at around 0115 GMT (2115 US Eastern time), a fixing that remains one of the most closely watched signals in Asian foreign exchange markets. China operates a managed floating exchange rate system, under which the renminbi (yuan) is allowed to trade within a prescribed band around a central reference rate, or midpoint, set each trading day by the PBOC.
 
 **UK consumer confidence hits two year high despite inflation warning**
 `21 Aug 04:13 PKT` · pehli baar dekhi `21 Aug 04:37` · investinglive
@@ -39,6 +77,11 @@ This leans mildly inflationary at the margin, though it's a narrower, more targe
 Wednesday bought the bond market one session of calm and the Dow Jones Industrial Average spent Thursday paying for it with interest.
 
 ### EUR
+
+**Euro gains on hawkish ECB outlook despite firm US Dollar**
+`21 Aug 06:22 PKT` · pehli baar dekhi `21 Aug 06:52` · fxstreet_news
+
+EUR/USD remains stronger for the third consecutive day, trading around 1.1680 during the Asian hours on Friday. The Euro (EUR) gains ground against the US Dollar (USD), bolstered by strong economic fundamentals across the region.
 
 **Euro fades below 1.1700 as US Dollar rebounds on yields**
 `21 Aug 03:30 PKT` · pehli baar dekhi `21 Aug 03:41` · fxstreet_news
@@ -61,6 +104,21 @@ The GBP/JPY advanced over 0.72%, refreshing a 14-day high of 216.90, with buyers
 GBP/USD trades just beneath 1.3650 late in the session, 0.2% higher on the day and at its highest level in more than four months.
 
 ### JPY
+
+**Japanese Yen flatlines after CPI inflation report**
+`21 Aug 05:58 PKT` · pehli baar dekhi `21 Aug 06:52` · fxstreet_news
+
+The USD/JPY pair holds steady near 159.05 during the early Asian session on Friday. Growing speculation that the Bank of Japan (BoJ) could raise interest rates next month offsets the weaker Gross Domestic Product (GDP) data.
+
+**Flash PMI shows Japan factories leading strongest growth since February**
+`21 Aug 05:37 PKT` · pehli baar dekhi `21 Aug 06:52` · investinglive
+
+The acceleration in output growth, combined with near record selling price inflation and a sustained rise in employment, strengthens the case for the Bank of Japan to proceed with a rate hike at its September meeting. A private sector expanding at its fastest pace in six months, alongside firms still able to push through some of the steepest price increases on record, suggests the economy can absorb tighter policy without an immediate loss of momentum, addressing one of the central bank's key ...
+
+**BOJ seen hiking to 1.25% in September as Japan inflation pressures broaden**
+`21 Aug 05:04 PKT` · pehli baar dekhi `21 Aug 06:52` · investinglive
+
+The data l ands squarely within the range the Bank of Japan needs to justify moving in September, with core inflation matching forecasts and the closely watched core-core measure accelerating to 1.9%. The pickup in service sector inflation is arguably the more important signal for policymakers than the headline energy driven move, since it points to firms passing on labour costs in a tight jobs market rather than a one-off pass-through from oil.
 
 **Japan Inflation Picks Up as Rate-Boost Bets Firm**
 `21 Aug 04:48 PKT` · pehli baar dekhi `21 Aug 04:59` · wsj_economy
@@ -104,12 +162,27 @@ The preliminary reading of Australia's S&P Global Manufacturing Purchasing Manag
 
 ### NZD
 
+**New Zealand Dollar extends gains to fresh high since June, above mid-0.5900s vs softer USD**
+`21 Aug 06:41 PKT` · pehli baar dekhi `21 Aug 06:52` · fxstreet_news
+
+The NZD/USD pair attracts buyers for the third straight day and climbs to a fresh high since early June, around the 0.5965-0.5970 region during the Asian session on Friday. Spot prices remain on track to register strong weekly gains amid a supportive fundamental backdrop.
+
 **New Zealand July trade balance NZ$-1.95 billion (prior 23mn)**
 `21 Aug 03:51 PKT` · pehli baar dekhi `21 Aug 04:04` · investinglive
 
 New Zealand trade data, July 2026 Trade balance NZ$-1.95 billion (prior 23mn) Imports NZ$+9.34 billion (prior 8.07bn) Exports NZ$+7.39 billion (prior 8.09bn) New Zealand July annual trade balance NZ$-5.24 billion (prior -3.75bn) This article was written by Eamonn Sheridan at investinglive.com.
 
 ### OIL
+
+**Goldman veteran Currie ties gold rally to debasement as commodities capture scarcity premium**
+`21 Aug 06:30 PKT` · pehli baar dekhi `21 Aug 06:52` · investinglive
+
+Currie's framing positions commodities as the asset class that benefits from both sides of the current macro backdrop, physical scarcity pushing prices higher and financial repression holding yields down artificially. His focus on the diesel crack, which he says settled above 100 dollars a barrel for the first time on record, points to a refining capacity problem distinct from crude supply itself, with implications for downstream costs in freight, agriculture and consumer fuel prices regardless ...
+
+**WTI consolidates around $86.00; bulls potential intact amid US-Iran impasse**
+`21 Aug 06:09 PKT` · pehli baar dekhi `21 Aug 06:52` · fxstreet_news
+
+West Texas Intermediate (WTI) – the benchmark US Crude Oil price – oscillates in a range around the $86.00 mark during the Asian session on Friday and remains well within striking distance of a three-week high, touched the previous day.
 
 **Oil Futures Fall on Likely Technical Correction**
 `21 Aug 04:51 PKT` · pehli baar dekhi `21 Aug 04:59` · wsj_markets
@@ -136,10 +209,23 @@ US Treasury Secretary Scott Bessent said that the US President Donald Trump admi
 **Bessent says US to impose 'toughest' ever sanctions on Iran, urges China to cooperate**
 `21 Aug 04:18 PKT` · pehli baar dekhi `21 Aug 04:37` · investing_news
 
-### BINA TAG (37)
+### BINA TAG (50)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `21 Aug 06:43` **investing_news** — Why is Guzman Y Gomez stock surging today?
+- `21 Aug 06:41` **investing_news** — Qualitas FY26 slides: record deployment drives 20% profit growth
+- `21 Aug 06:35` **investing_news** — Earnings call transcript: South Port NZ posts record FY 2026 results
+- `21 Aug 06:34` **actionforex** — Cliff Notes: The Foundations of Confidence
+- `21 Aug 06:31` **investing_news** — Accent Group FY2026 slides: strategic reset amid retail headwinds
+- `21 Aug 06:31` **investing_news** — Rain enhancement technologies CEO Randy Seidl buys $104k stock
+- `21 Aug 06:31` **investing_news** — Kratos Defense director Scot Jarvis sells $634,961 in KTOS
+- `21 Aug 06:30` **investing_news** — Mount Logan Capital CFO Satoren buys $1,600 in MLCI shares
+- `21 Aug 06:30` **investing_news** — CSL rallies 25% in a week on strong FY earnings; is there more room to run?
+- `21 Aug 06:29` **investing_news** — Coast Entertainment FY26 slides: EBITDA doubles, land approval unlocks value
+- `21 Aug 05:52` **investinglive** — Bitcoin price forecasts for year 2027
+- `21 Aug 05:39` **wsj_markets** — Nikkei Falls 0.5%, Tracking Wall Street's Losses
+- `21 Aug 05:00` **actionforex** — Eco Data 8/21/26
 - `21 Aug 04:46` **investing_news** — Coeur Mining director J Kenneth Thompson sells $519,250 in stock
 - `21 Aug 04:46` **investing_news** — Coeur Mining EVP Nault sells $200,000 in company stock
 - `21 Aug 04:46` **investing_news** — Apple SVP Jennifer Newstead sells $442,478 in company stock
@@ -186,26 +272,26 @@ US Treasury Secretary Scott Bessent said that the US President Donald Trump admi
 |---|---|---|---|---|
 | investinglive | OK | 25 | 0.0 |  |
 | fxstreet_news | OK | 30 | 0.0 |  |
-| fxstreet_analysis | OK | 30 | 0.2 |  |
-| actionforex | OK | 20 | 0.4 |  |
-| marketpulse | OK | 3 | 0.7 |  |
-| wsj_economy | OK | 36 | 0.0 |  |
-| cme_metals_video | OK | 10 | 0.1 |  |
-| cme_fx_video | OK | 10 | 0.1 |  |
-| cme_rates_video | OK | 10 | 0.1 |  |
-| cme_energy_video | OK | 10 | 0.1 |  |
-| cme_daily_commentary | OK | 10 | 0.1 |  |
-| cme_risk_management | OK | 20 | 7.8 |  |
-| fed_monetary | OK | 15 | 1.2 |  |
+| fxstreet_analysis | OK | 30 | 0.3 |  |
+| actionforex | OK | 20 | 0.0 |  |
+| marketpulse | OK | 3 | 0.8 |  |
+| wsj_economy | OK | 36 | 0.1 |  |
+| cme_metals_video | OK | 10 | 0.2 |  |
+| cme_fx_video | OK | 10 | 0.2 |  |
+| cme_rates_video | OK | 10 | 0.2 |  |
+| cme_energy_video | OK | 10 | 0.2 |  |
+| cme_daily_commentary | OK | 10 | 0.2 |  |
+| cme_risk_management | OK | 20 | 7.9 |  |
+| fed_monetary | OK | 15 | 1.3 |  |
 | fed_speeches | OK | 15 | 15.2 |  |
-| ecb_press | OK | 15 | 1.7 |  |
+| ecb_press | OK | 15 | 1.8 |  |
 | boe_news | OK | 50 | 9.5 |  |
 | boj_whatsnew | OK | 46 | 3.7 |  |
-| rba_media | OK | 1 | 1.6 |  |
-| bea_releases | OK | 47 | 16.5 |  |
-| wsj_world | OK | 72 | 0.1 |  |
+| rba_media | OK | 1 | 1.7 |  |
+| bea_releases | OK | 47 | 16.6 |  |
+| wsj_world | OK | 72 | 0.2 |  |
 | wsj_markets | OK | 61 | 0.0 |  |
 | investing_news | OK | 10 | 0.0 |  |
-| yahoo_finance | OK | 49 | 0.6 |  |
-| mw_topstories | OK | 10 | 0.0 |  |
-| cointelegraph | OK | 30 | 0.1 |  |
+| yahoo_finance | OK | 47 | 0.7 |  |
+| mw_topstories | OK | 10 | 0.1 |  |
+| cointelegraph | OK | 30 | 0.2 |  |
