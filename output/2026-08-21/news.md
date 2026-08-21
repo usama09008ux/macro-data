@@ -1,8 +1,8 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 03:37 PKT**
-- Kul khabrein: **869**
+- Aakhri update: **22 Aug 03:59 PKT**
+- Kul khabrein: **874**
 - Feeds: 39/39 OK
 
 ---
@@ -324,6 +324,11 @@ Gold price (XAU/USD) is up 0.65% at around $4,550 during the early European trad
 
 Canadian developer says new drilling at its past-producing Kerr-Addison property in Ontario could open the door to a larger open-pit gold resource.
 
+**TAG: Sunshine Silver Mining and Refining - KITCO**
+`21 Aug 03:43 PKT` · pehli baar dekhi `22 Aug 03:59` · kitco_general
+
+TAG: Sunshine Silver Mining and Refining KITCO
+
 ### USD
 
 **Peru's GDP Growth Slows to 2.6% in Q2**
@@ -376,15 +381,16 @@ The US Dollar Index (DXY) ended the week near even with Thursday, holding near 9
 
 Philadelphia Fed Names Skander Van den Heuvel Director of Research Philadelphia Federal Reserve Bank
 
+**Here's how Bessent's newly activist Treasury Department is undercutting the Fed's Warsh - MarketWatch**
+`22 Aug 01:11 PKT` · pehli baar dekhi `22 Aug 03:59` · gnews_fed · **2 feeds mein**
+
+Here's how Bessent's newly activist Treasury Department is undercutting the Fed's Warsh MarketWatch
+  - `22 Aug 01:11` *mw_topstories* — Here's how Bessent's newly activist Treasury Department is undercutting the Fed's Warsh
+
 **Retirees: This investment gives you a guaranteed 5% safe withdrawal rate**
 `22 Aug 01:11 PKT` · pehli baar dekhi `22 Aug 01:25` · mw_topstories
 
 TIPS yields are at or close to 20-year highs.
-
-**Here's how Bessent's newly activist Treasury Department is undercutting the Fed's Warsh**
-`22 Aug 01:11 PKT` · pehli baar dekhi `22 Aug 01:25` · mw_topstories
-
-The surprising move this week by Treasury Secretary Scott Bessent to intervene in Treasury markets to lower the cost of government debt undercuts the credibility of Federal Reserve Chairman Kevin Warsh to make interest-rate policy, experts said.
 
 **WisdomTree stock hits 52-week high at 23.47 USD**
 `22 Aug 00:59 PKT` · pehli baar dekhi `22 Aug 01:25` · investing_news
@@ -687,6 +693,11 @@ Standard Chartered's Aldian Taloputra assesses Indonesia's 2027 fiscal plans, no
 `21 Aug 17:18 PKT` · pehli baar dekhi `21 Aug 20:49` · wsj_markets
 
 The dollar fell and could remain weak after the Treasury's buyback announcement.
+
+**Dollar Holds Near 3-Month Lows, Set for Weekly Drop Despite Treasury Move - CryptoRank**
+`21 Aug 17:04 PKT` · pehli baar dekhi `22 Aug 03:59` · gnews_fed
+
+Dollar Holds Near 3-Month Lows, Set for Weekly Drop Despite Treasury Move CryptoRank
 
 **BTCUSD Hits the Highest in Almost Four Months Following Rally of Over 20% in Past Three Days**
 `21 Aug 16:58 PKT` · pehli baar dekhi `21 Aug 20:49` · actionforex
@@ -1495,6 +1506,11 @@ Trump's Economic Warfare Against Iran: Oil Market Impact 2026 discoveryalert.com
 
 Solar power developers in India have started to add battery storage to photovoltaic projects to attract buyers and reduce the large share of curtailments for power supply that the grids are unable to absorb, Santosh Sarangi, Secretary of India's Ministry of New and Renewable Energy, said on Friday.
 
+**Oil Prices Set for Second Weekly Gain as US Threatens Iranian Sanctions - Marine News Magazine**
+`21 Aug 21:55 PKT` · pehli baar dekhi `22 Aug 03:59` · gnews_geopolitics
+
+Oil Prices Set for Second Weekly Gain as US Threatens Iranian Sanctions Marine News Magazine
+
 **Energy & Utilities Roundup: Market Talk**
 `21 Aug 21:47 PKT` · pehli baar dekhi `21 Aug 22:04` · wsj_markets
 
@@ -2023,6 +2039,11 @@ Deutsche Bank Raises UK Growth Forecast On Resilient Economy Bitcoin World
 
 **Wall Street rises as materials and crypto stocks offset continued bond sell-off**
 `21 Aug 22:04 PKT` · pehli baar dekhi `21 Aug 22:42` · investing_news
+
+**CoinShares Analysis: Bitcoin Likely to Stay Range-Bound - Coinfomania**
+`21 Aug 21:59 PKT` · pehli baar dekhi `22 Aug 03:59` · gnews_fed
+
+CoinShares Analysis: Bitcoin Likely to Stay Range-Bound Coinfomania
 
 **Bitcoin Price Outlook Highlights Range-Bound Trading Below $80,000 - The Cryptonomist**
 `21 Aug 21:57 PKT` · pehli baar dekhi `21 Aug 23:14` · gnews_fed
@@ -2843,7 +2864,7 @@ investing_news (22)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
 | fxstreet_news | OK | 30 | 30 | 1 | 29 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.2 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
@@ -2856,29 +2877,29 @@ investing_news (22)
 | cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
 | cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.1 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.7 |
-| kitco_general | OK | 27 | 27 | 1 | 26 | 0 | 0.0 |
-| gnews_fed | OK | 67 | 67 | 3 | 64 | 0 | 0.0 |
-| gnews_geopolitics | OK | 100 | 100 | 2 | 98 | 0 | 0.0 |
-| gnews_centralbanks | OK | 33 | 33 | 1 | 32 | 0 | 0.2 |
+| kitco_general | OK | 28 | 28 | 1 | 27 | 0 | 0.0 |
+| gnews_fed | OK | 65 | 65 | 3 | 62 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 1 | 99 | 0 | 0.0 |
+| gnews_centralbanks | OK | 23 | 23 | 0 | 23 | 0 | 0.2 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.1 |
 | ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.4 |
 | boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.7 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.6 |
-| mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.1 |
+| mining_com | OK | 36 | 10 | 1 | 9 | 26 | 0.0 |
 | oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.0 |
 | investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.5 |
-| bbc_business | OK | 50 | 16 | 0 | 16 | 34 | 0.0 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| bbc_business | OK | 50 | 16 | 0 | 16 | 34 | 0.1 |
+| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
 | snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.5 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.6 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.4 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.4 |
 | wsj_world | OK | 72 | 15 | 0 | 15 | 57 | 0.0 |
 | wsj_markets | OK | 61 | 27 | 0 | 27 | 34 | 0.0 |
-| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 5 | 0 | 5 | 45 | 0.3 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 7 | 0 | 7 | 43 | 0.3 |
 | mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
 | cointelegraph | OK | 30 | 18 | 0 | 18 | 12 | 0.1 |
