@@ -132,25 +132,28 @@ feeds_cme:
 # Nuqsan: sirf chhota sa khulasa deta hai, poora text nahi.
 # Is liye weight kam rakha hai — ye sahara hai, bunyaad nahi.
 # ==========================================================
+# NOTE: in par "tag:" JAAN BOOJH KAR nahi lagaya.
+# Google ki query dheeli hai — gnews_gold ne "Cadence Capital
+# Reports Strong FY26 Performance" bhi de diya tha. Agar tag
+# zabardasti lagate to 100 aisi khabrein roz GOLD section
+# mein ghus jatin. Ab mawaad khud faisla karega; jo bemaani
+# hai wo BINA TAG mein chali jayegi.
 feeds_google:
 
   - name: gnews_gold
     url: "https://news.google.com/rss/search?q=gold+price+OR+bullion+when:1d&hl=en-US&gl=US&ceid=US:en"
     weight: 5
     cadence_days: 1
-    tag: gold
 
   - name: gnews_fed
     url: "https://news.google.com/rss/search?q=federal+reserve+OR+FOMC+when:1d&hl=en-US&gl=US&ceid=US:en"
     weight: 5
     cadence_days: 1
-    tag: usd
 
   - name: gnews_geopolitics
     url: "https://news.google.com/rss/search?q=Iran+sanctions+OR+tariffs+OR+oil+supply+when:1d&hl=en-US&gl=US&ceid=US:en"
     weight: 4
     cadence_days: 1
-    tag: risk
 
   - name: gnews_centralbanks
     url: "https://news.google.com/rss/search?q=ECB+OR+%22Bank+of+England%22+OR+%22Bank+of+Japan%22+rates+when:1d&hl=en-US&gl=US&ceid=US:en"
