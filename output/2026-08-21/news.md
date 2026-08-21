@@ -1,8 +1,8 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 09:26 PKT**
-- Kul khabrein: **231**
+- Aakhri update: **21 Aug 09:47 PKT**
+- Kul khabrein: **245**
 - Feeds: 32/35 OK
 
 ---
@@ -15,6 +15,11 @@
 `21 Aug 13:44 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
 
 Platinum futures rose above $1,870 an ounce to an eleven-week high, supported by a weaker US dollar and renewed interest in precious metals. The greenback came under pressure amid mounting concerns over the US fiscal outlook and doubts about the effectiveness of the Treasury's expanded bond-buyback program, which many investors regard as unlikely to deliver a durable reduction in borrowing costs.
+
+**AUD/JPY Price Forecast: Strengthens above 113.50 as bullish momentum persists above 100-day SMA**
+`21 Aug 09:46 PKT` · pehli baar dekhi `21 Aug 09:47` · fxstreet_news
+
+The AUD/JPY cross trades in positive territory near 113.55 during the early European session on Friday. The Australian Dollar (AUD) strengthens against the Japanese Yen (JPY) despite the cooling labor market. The minutes of the Reserve Bank of Australia (RBA) meetings will be released next Tuesday.
 
 **RBI seen selling dollars to support rupee as USD/INR holds steady**
 `21 Aug 08:47 PKT` · pehli baar dekhi `21 Aug 08:56` · investinglive
@@ -57,6 +62,21 @@ Palladium futures rose to around $1,350 per ounce, extending gains to a one-week
 `21 Aug 12:00 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
 
 The Shanghai Composite slipped 0.3% to 3,891 on Friday, while the Shenzhen Component inched up 0.3% to 14,021, as investors largely stayed on the sidelines amid a lack of new market catalysts. Market focus is shifting to the National People's Congress Standing Committee meeting in Beijing on August 25–28, where investors are looking for fresh policy signals following a run of weak July economic data.
+
+**Gold prices rise Rs 6,400/10g in 3 days; silver jumps Rs 13,000/kg despite Middle East tensions. Big rally - The Economic Times**
+`21 Aug 09:35 PKT` · pehli baar dekhi `21 Aug 09:47` · gnews_gold
+
+Gold prices rise Rs 6,400/10g in 3 days; silver jumps Rs 13,000/kg despite Middle East tensions. Big rally The Economic Times
+
+**India Gold price today: Gold rises, according to FXStreet data**
+`21 Aug 09:35 PKT` · pehli baar dekhi `21 Aug 09:47` · fxstreet_news
+
+Gold prices rose in India on Friday, according to data compiled by FXStreet.
+
+**Gold price in India: Rates on August 21 - FXStreet**
+`21 Aug 09:35 PKT` · pehli baar dekhi `21 Aug 09:47` · gnews_gold
+
+Gold price in India: Rates on August 21 FXStreet
 
 **Gold, silver prices today, 21 August: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata - livemint.com**
 `21 Aug 09:08 PKT` · pehli baar dekhi `21 Aug 09:26` · gnews_gold
@@ -266,6 +286,11 @@ On Friday, the People's Bank of China (PBOC) sets the USD/CNY central rate for t
 
 The PBOC allows the yuan to fluctuate within a +/- 2% range, around this reference rate. More here on this. PBoC injects 95bn yuan through 7 day reverse repos at 1.4% over the week the net draw has been 272 bn yuan This article was written by Eamonn Sheridan at investinglive.com.
 
+**US Fed officials tread carefully after Treasury's bond market intervention - The Straits Times**
+`21 Aug 05:58 PKT` · pehli baar dekhi `21 Aug 09:47` · gnews_fed
+
+US Fed officials tread carefully after Treasury's bond market intervention The Straits Times
+
 **Thai Baht Likely to Stay Weak in Near Term**
 `21 Aug 05:53 PKT` · pehli baar dekhi `21 Aug 06:52` · wsj_markets
 
@@ -317,6 +342,11 @@ Wednesday bought the bond market one session of calm and the Dow Jones Industria
 `21 Aug 13:00 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
 
 Indonesia's balance of payments position improved significantly in the second quarter of 2026, with the overall deficit narrowing to EUR -0.9 billion from EUR -9.1 billion in the first quarter of the year. The latest figures, updated on 21 August 2026, mark a substantial easing in external pressures compared with the start of 2026.
+
+**Euro sits near multi-month top vs weak USD as bulls await move beyond 1.1700 ahead of PMIs**
+`21 Aug 09:39 PKT` · pehli baar dekhi `21 Aug 09:47` · fxstreet_news
+
+The EUR/USD pair attracts some dip-buyers during the Asian session on Friday and climbs back closer to its highest level since May 14, set the previous day, with bulls now awaiting a move beyond the 1.1700 mark before placing fresh bets.
 
 **EUR/JPY Price Forecast: Rises to near 186.00 as bullish bias prevails**
 `21 Aug 09:12 PKT` · pehli baar dekhi `21 Aug 09:26` · fxstreet_news
@@ -394,6 +424,11 @@ Japan Inflation Hits Fastest Pace Since January, Strengthening Case for BOJ Rate
 `21 Aug 09:08 PKT` · pehli baar dekhi `21 Aug 09:26` · fxstreet_news
 
 The Japanese Yen (JPY) trades in a limited range at around 159.00 against the US Dollar (USD) during the Asian trading session on Friday. The pair consolidates, while both the JPY and the USD are underperforming against their other currency peers.
+
+**Japan's megabanks reap record profits as the Bank of Japan lifts rates to 1% - IntelliNews**
+`21 Aug 07:41 PKT` · pehli baar dekhi `21 Aug 09:47` · gnews_centralbanks
+
+Japan's megabanks reap record profits as the Bank of Japan lifts rates to 1% IntelliNews
 
 **Japan's megabanks reap record profits as the Bank of Japan lifts rates to 1% - IntelliNews**
 `21 Aug 07:41 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_centralbanks
@@ -588,6 +623,11 @@ New Zealand trade data, July 2026 Trade balance NZ$-1.95 billion (prior 23mn) Im
 
 ### OIL
 
+**Palm Oil Set for Biggest Weekly Gain in Near Six Months**
+`21 Aug 14:01 PKT` · pehli baar dekhi `21 Aug 09:47` · instaforex
+
+Malaysian palm oil futures extended their gains to around MYR 4,990 per tonne, the highest level since December 2024. The benchmark contract is also heading for its largest weekly increase in 24 weeks, up nearly 6% so far and logging a third consecutive weekly advance. The recent rally has been underpinned by strength in Dalian vegetable oil markets and firmer demand from Indonesia, where buyers have accelerated purchases ahead of the full rollout of the B50 biodiesel mandate in October.
+
 **Hong Kong Stocks Gain for Second Session**
 `21 Aug 12:21 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
 
@@ -598,10 +638,20 @@ The Hang Seng Index rose 0.7%, or 171 points, to 25,868 on Friday, extending gai
 
 European natural gas prices slipped below €65 per MWh on Friday but remained close to their highest level since January 2023, as the deadlock in the US–Iran confrontation clouded the outlook for LNG supplies from the Gulf. Tensions over the Strait of Hormuz have escalated into a new phase of economic pressure, unnerving the market. Traders are increasingly concerned about Europe's readiness for the coming winter.
 
+**Brent Oil Nears $94 as US-Iran War Keeps Supply Risks High - Bloom Pakistan**
+`21 Aug 09:30 PKT` · pehli baar dekhi `21 Aug 09:47` · gnews_geopolitics
+
+Brent Oil Nears $94 as US-Iran War Keeps Supply Risks High Bloom Pakistan
+
 **Tajikistan Seeks 2.55 Million Tons of Iranian Oil and Fuel as Russian Supplies Falter - The Times Of Central Asia**
 `21 Aug 09:13 PKT` · pehli baar dekhi `21 Aug 09:26` · gnews_geopolitics
 
 Tajikistan Seeks 2.55 Million Tons of Iranian Oil and Fuel as Russian Supplies Falter The Times Of Central Asia
+
+**Crude Slips but Heads for Second Weekly Gain - HDFC Sky**
+`21 Aug 09:12 PKT` · pehli baar dekhi `21 Aug 09:47` · gnews_geopolitics
+
+Crude Slips but Heads for Second Weekly Gain HDFC Sky
 
 **Iran Tensions And Hormuz Security Keep Crude Oil Markets On Edge, With Implications For TSX:RY - foreignpolicyjournal.com**
 `21 Aug 08:48 PKT` · pehli baar dekhi `21 Aug 08:56` · gnews_geopolitics
@@ -700,6 +750,9 @@ Oil Set for Weekly Surge as US Seeks to Throttle Iran's Economy Bloomberg.com
 
 Bitcoin extended its bullish climb toward the $75,000 mark in August, reaching its highest level since late May and on track for a weekly gain of about 19%—its strongest performance since February 2024. The surge followed President Donald Trump's call for Congress to pass a key crypto regulatory bill.
 
+**Bitcoin tests $75k as Trump spurs U.S. regulatory hopes**
+`21 Aug 09:14 PKT` · pehli baar dekhi `21 Aug 09:47` · investing_news
+
 **Capital.com plans UAE spot crypto services after affiliate wins licence**
 `21 Aug 08:33 PKT` · pehli baar dekhi `21 Aug 08:50` · cointelegraph
 
@@ -734,6 +787,11 @@ Fed minutes show September rate hike still on the table Reuters
 
 Copper futures rose above $6.50 per pound on Friday, reversing early-week losses as tight physical supply continued to support prices. The market remains fragile after months of inventory outflows, driven in part by metal being redirected to the US ahead of expected tariffs. Top producer Chile also anticipates a decline in copper output this year, as ongoing operational disruptions weigh on mines and development projects.
 
+**Oil set for second weekly rise as unsettled US-Iran war crimps supply - The Star**
+`21 Aug 09:32 PKT` · pehli baar dekhi `21 Aug 09:47` · gnews_geopolitics
+
+Oil set for second weekly rise as unsettled US-Iran war crimps supply The Star
+
 **Analysis-War-hit European markets are far from down and out**
 `21 Aug 09:07 PKT` · pehli baar dekhi `21 Aug 09:26` · investing_news
 
@@ -756,6 +814,11 @@ As the Iran war drains vital stockpiles of missile interceptors, American allies
 `21 Aug 06:50 PKT` · pehli baar dekhi `21 Aug 09:26` · gnews_geopolitics
 
 Oil set for second weekly rise as unsettled US-Iran war crimps supply Reuters
+
+**Oil set for second weekly rise as unsettled US-Iran war crimps supply - marketscreener.com**
+`21 Aug 06:47 PKT` · pehli baar dekhi `21 Aug 09:47` · gnews_geopolitics
+
+Oil set for second weekly rise as unsettled US-Iran war crimps supply marketscreener.com
 
 **Oil set for second weekly rise as unsettled US-Iran war crimps supply - TradingView**
 `21 Aug 06:46 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
@@ -780,10 +843,11 @@ Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says Ene
 
 Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Business Times
 
-### BINA TAG (80)
+### BINA TAG (81)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `21 Aug 09:19` **investing_news** — Samsung shares climb on reports of shareholder return plan exceeding $72 bln
 - `21 Aug 09:12` **investing_news** — South Korea plans chip windfall fund to back youth, AI investment
 - `21 Aug 09:02` **investing_news** — Gift Nifty 50 coils in 0.3% squeeze near 24,100: Live levels
 - `21 Aug 09:01` **investing_news** — Alpha Metallurgical Resources director Kenneth Courtis buys $2.9m stock
@@ -874,11 +938,11 @@ Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Busi
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 21 | 0 | 21 | 4 | 0.0 |
-| fxstreet_news | OK | 30 | 24 | 3 | 21 | 6 | 0.0 |
+| fxstreet_news | OK | 30 | 27 | 3 | 24 | 3 | 0.0 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.4 |
 | actionforex | OK | 20 | 7 | 0 | 7 | 13 | 0.1 |
 | marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 0.9 |
-| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| instaforex | OK | 25 | 25 | 1 | 24 | 0 | -0.2 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
@@ -886,14 +950,14 @@ Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Busi
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.0 |
-| gnews_gold | OK | 100 | 21 | 5 | 16 | 79 | 0.0 |
-| gnews_fed | OK | 100 | 10 | 1 | 9 | 90 | 0.1 |
-| gnews_geopolitics | OK | 97 | 18 | 4 | 14 | 79 | 0.0 |
-| gnews_centralbanks | OK | 38 | 16 | 1 | 15 | 22 | 0.0 |
+| gnews_gold | OK | 100 | 24 | 2 | 22 | 76 | 0.0 |
+| gnews_fed | OK | 100 | 11 | 1 | 10 | 89 | 0.1 |
+| gnews_geopolitics | OK | 98 | 21 | 4 | 17 | 77 | 0.0 |
+| gnews_centralbanks | OK | 37 | 15 | 1 | 14 | 22 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.4 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 9.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 9.7 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 3.9 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 1.8 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 20.8 |
@@ -904,10 +968,10 @@ Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Busi
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 16.7 |
 | wsj_world | OK | 71 | 4 | 0 | 4 | 67 | 0.1 |
 | wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.1 |
-| investing_news | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
+| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
 | yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.8 |
 | mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
-| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.0 |
+| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - rbnz_news — FAIL, HTTP 403
