@@ -600,8 +600,13 @@ def main():
 
         text = it["title"] + " " + it["body"]
         tags = find_tags(text, keywords, tag_weights)
-        if it.get("feed_tag") and it["feed_tag"] not in tags:
-            tags.insert(0, it["feed_tag"])
+
+        # Feed ka apna tag sirf tab lagao jab wo asal section ho.
+        # Warna wo item kisi aise "section" mein chala jata hai jo
+        # maujood hi nahi, aur BINA TAG mein gir jata hai.
+        ft = it.get("feed_tag")
+        if ft and ft in TAG_ORDER and ft not in tags:
+            tags.insert(0, ft)
         if not tags and it["group"] in exempt:
             tags = ["rates"]
 
@@ -635,15 +640,43 @@ def main():
                 f.write(json.dumps(rec, ensure_ascii=False) + "\n")
         print(f"  + {len(recs):>3} -> {td}")
 
-    # Har chhoo hue din ka md dobara banao (aaj ka hamesha)
-    for td in sorted(set(list(fresh_by_day.keys()) + [today_td])):
+    # Feed ke apne tags (CME wale) — dobara tag lagane ke liye
+    feed_tags = {}
+    for group in FEED_GROUPS:
+        for f in (cfg.get(group) or []):
+            if f.get("tag"):
+                feed_tags[f["name"]] = f["tag"]
+
+    # Har mehfooz din ka md dobara banao — sirf chhoo hue ka nahi.
+    #
+    # TAGS HAR BAAR NAYE SIRE SE LAGTE HAIN:
+    #   Pehle tag likhte waqt pakka ho jata tha aur jsonl mein
+    #   mehfooz ho jata tha. Nateeja: keywords behtar karne se
+    #   sirf NAYI khabrein theek hoti thin, purani hamesha ghalat
+    #   rehti thin.
+    #   Ab tag padhte waqt lagta hai. Jab bhi keywords behtar
+    #   karenge, saara mehfooz data khud theek ho jayega — data
+    #   dobara lane ki zaroorat nahi.
+    rebuild_days = [today_td - timedelta(days=i) for i in range(keep)]
+    for td in sorted(set(rebuild_days + list(fresh_by_day.keys()))):
         d = day_dir(td)
+        if not os.path.exists(os.path.join(d, "news.jsonl")):
+            continue
         os.makedirs(d, exist_ok=True)
         recs = load_day_items(td)
         for r in recs:
             r["published_utc"] = datetime.strptime(
                 r["published_utc"], "%Y-%m-%dT%H:%M:%SZ"
             ).replace(tzinfo=timezone.utc)
+
+            t = find_tags(r["title"] + " " + r.get("body", ""),
+                          keywords, tag_weights)
+            ft = feed_tags.get(r["source"])
+            if ft and ft in TAG_ORDER and ft not in t:
+                t.insert(0, ft)
+            if not t and r.get("group") in exempt:
+                t = ["rates"]
+            r["tags"] = t
         with open(os.path.join(d, "news.md"), "w", encoding="utf-8") as f:
             f.write(build_markdown(td, recs, statuses, now_pkt))
         with open(os.path.join(d, "feeds.json"), "w", encoding="utf-8") as f:
