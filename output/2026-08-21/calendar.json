@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "21 Aug 2026 10:57",
+  "generated_pkt": "21 Aug 2026 17:28",
   "trading_day": "2026-08-21",
   "feed_sources": {
     "thisweek": "live",
@@ -1294,5 +1294,55 @@
       "trading_day": "2026-08-22"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "Germany August flash manufacturing PMI 54.1 vs 52.0 expected",
+      "actual_raw": "54.1",
+      "forecast_raw": "52.0",
+      "beat": true,
+      "raw_diff": "+2.10",
+      "sign_flip": false,
+      "diff_pct": 4.0,
+      "when_pkt": "21 Aug 12:30",
+      "source": "investinglive",
+      "tags": [
+        "usd",
+        "eur",
+        "oil",
+        "risk"
+      ]
+    },
+    {
+      "title": "Germany's flash Manufacturing PMI unexpectedly rises faster to 54.1 vs. 52.0 estimates",
+      "actual_raw": "54.1",
+      "forecast_raw": "52.0",
+      "beat": true,
+      "raw_diff": "+2.10",
+      "sign_flip": false,
+      "diff_pct": 4.0,
+      "when_pkt": "21 Aug 12:32",
+      "source": "fxstreet_news",
+      "tags": [
+        "eur",
+        "usd"
+      ]
+    },
+    {
+      "title": "UK August flash services PMI 52.8 vs 51.8 expected",
+      "actual_raw": "52.8",
+      "forecast_raw": "51.8",
+      "beat": true,
+      "raw_diff": "+1.00",
+      "sign_flip": false,
+      "diff_pct": 1.9,
+      "when_pkt": "21 Aug 13:30",
+      "source": "investinglive",
+      "tags": [
+        "usd",
+        "gbp",
+        "risk",
+        "rates"
+      ]
+    }
+  ]
 }

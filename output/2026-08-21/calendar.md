@@ -1,6 +1,6 @@
 # Calendar — Trading Day 21 Aug 2026
 
-- Banaya gaya: **21 Aug 2026 10:57 PKT**
+- Banaya gaya: **21 Aug 2026 17:28 PKT**
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
 - Feed: thisweek=live, nextweek=none
 
@@ -12,16 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 11:00 | GBP | MED | Retail Sales m/m | -0.5% | 1.0% |
-| 11:00 | GBP | low | Public Sector Net Borrowing | 0.0B | 16.0B |
-| 12:15 | EUR | MED | French Flash Manufacturing PMI | 50.1 | 50.0 |
-| 12:15 | EUR | MED | French Flash Services PMI | 49.4 | 49.8 |
-| 12:30 | EUR | MED | German Flash Manufacturing PMI | 52.1 | 52.2 |
-| 12:30 | EUR | MED | German Flash Services PMI | 50.1 | 49.6 |
-| 13:00 | EUR | low | Flash Manufacturing PMI | 51.8 | 52.0 |
-| 13:00 | EUR | low | Flash Services PMI | 51.5 | 51.6 |
-| 13:30 | GBP | MED | Flash Manufacturing PMI | 51.6 | 52.8 |
-| 13:30 | GBP | MED | Flash Services PMI | 51.8 | 51.8 |
 | 17:30 | CAD | low | Core Retail Sales m/m | 0.2% | 1.2% |
 | 17:30 | CAD | low | Retail Sales m/m | 0.4% | 1.0% |
 | 18:45 | USD | low | Flash Manufacturing PMI | 53.9 | 53.8 |
@@ -41,5 +31,11 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 21 Aug 13:30 | UK August flash services PMI | 52.8 | 51.8 | +1.00 (+2%) | upar |
+| 21 Aug 12:32 | Germany's flash Manufacturing PMI unexpected | 54.1 | 52.0 | +2.10 (+4%) | upar |
+| 21 Aug 12:30 | Germany August flash manufacturing PMI | 54.1 | 52.0 | +2.10 (+4%) | upar |
 
