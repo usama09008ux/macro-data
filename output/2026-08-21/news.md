@@ -1,9 +1,9 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 22:42 PKT**
-- Kul khabrein: **636**
-- Feeds: 39/39 OK
+- Aakhri update: **21 Aug 23:14 PKT**
+- Kul khabrein: **662**
+- Feeds: 38/39 OK
 
 ---
 
@@ -20,6 +20,11 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**AUDUSD is the biggest mover today and trades at highest level since early June**
+`21 Aug 22:54 PKT` · pehli baar dekhi `21 Aug 23:14` · investinglive
+
+The AUD is the strongest of the major currencies against the USD today, rising 0.86% and pushing AUDUSD to its highest level since early June. The pair has reached a high of 0.7178, with the next key upside target coming in at the swing area between 0.71993 and 0.7200 (see video and the chart below). Looking at the price action this week, AUDUSD traded up and down through the first half of the week before reaching its weekly low on Wednesday.
 
 **European stocks rebound Friday, but weekly losses dominate**
 `21 Aug 21:52 PKT` · pehli baar dekhi `21 Aug 22:04` · investinglive
@@ -107,6 +112,16 @@ Prior 52.2 Services PMI 48.5 vs 50.1 expected Prior 49.8 Composite PMI 51.0 vs 5
 EUROPEAN SESSION In the European session, we get the Flash PMIs for the major Eurozone economies and the UK. Pretty much all of them are expected to pull back from prior month's levels given the ongoing Hormuz disruption and US-Iran stalemate. The data won't change anything for the respective central banks, though, so the market reaction will likely be muted. Right now, the market is more focused on the Treasury "intervention" plan trying to limit the surge in long-term yields.
 
 ### GOLD
+
+**Silver Price Forecast: XAG bulls test $70 as rally extends**
+`21 Aug 23:05 PKT` · pehli baar dekhi `21 Aug 23:14` · fxstreet_news
+
+Silver prices rally for the third straight day, up more than 2% and, for the week, gains over 7.40%, as a firm US Dollar is not an excuse for precious metals buyers, who are choosing flight-to-quality over haven demand due to the difficult US fiscal stance.
+
+**Gold hits three-month peak above $4,600 as Middle East risks fuel rally**
+`21 Aug 22:56 PKT` · pehli baar dekhi `21 Aug 23:14` · fxstreet_news
+
+Gold price hits a three-month high and is poised to end the week with gains of over 5.6%, even though business activity in the services sector in the US was solid. Recent developments in the Middle East and a softer US Dollar underpin the yellow metal, which has surpassed the $4,600 threshold.
 
 **Silver price 20% August surge sends miners soaring**
 `21 Aug 22:02 PKT` · pehli baar dekhi `21 Aug 22:04` · mining_com
@@ -240,6 +255,9 @@ Canadian developer says new drilling at its past-producing Kerr-Addison property
 
 ### USD
 
+**Latin American stocks and currencies rise on dollar weakness**
+`21 Aug 22:37 PKT` · pehli baar dekhi `21 Aug 23:14` · investing_news
+
 **Swiss central bank official says AI may increase inflation short-term**
 `21 Aug 22:35 PKT` · pehli baar dekhi `21 Aug 22:42` · investing_news
 
@@ -253,6 +271,11 @@ The Dollar Index trades just beneath 99.00 and unchanged on the session, with th
 
 What to Look Out for at the Fed's Jackson Hole Gathering Bloomberg.com
 
+**A 12-Year-Old Cheat Sheet for How Kevin Warsh Thinks About Central Banking - breitbart.com**
+`21 Aug 22:02 PKT` · pehli baar dekhi `21 Aug 23:14` · gnews_fed
+
+A 12-Year-Old Cheat Sheet for How Kevin Warsh Thinks About Central Banking breitbart.com
+
 **Bond yields head higher again, giving back almost all gains since Treasury Department intervention**
 `21 Aug 21:59 PKT` · pehli baar dekhi `21 Aug 22:42` · yahoo_finance
 
@@ -260,6 +283,11 @@ What to Look Out for at the Fed's Jackson Hole Gathering Bloomberg.com
 `21 Aug 21:29 PKT` · pehli baar dekhi `21 Aug 22:04` · gnews_fed
 
 30-year Treasury yield tops 5% amid inflation concerns, Fed policy in focus Crypto Briefing
+
+**3 Healthcare Funds to Play Safe as Fed Readies for Rate Hike - TradingView**
+`21 Aug 21:28 PKT` · pehli baar dekhi `21 Aug 23:14` · gnews_fed
+
+3 Healthcare Funds to Play Safe as Fed Readies for Rate Hike TradingView
 
 **Alabama's SouthPoint under fire by the Fed - Banking Dive**
 `21 Aug 21:27 PKT` · pehli baar dekhi `21 Aug 21:34` · gnews_fed
@@ -658,6 +686,11 @@ Trump Renews Criticism of Fed Interest Rate Policy, Says U.S. Should Be Paying M
 
 ### EUR
 
+**EUR/USD Price Forecast: Bulls test 1.1700 as RSI turns overbought**
+`21 Aug 22:52 PKT` · pehli baar dekhi `21 Aug 23:14` · fxstreet_news
+
+EUR/USD heads for a fourth consecutive weekly gain on Friday, although it has erased its earlier intraday advance. At the time of writing, the pair trades around 1.1682 after briefly rising above 1.1700, its highest level since May 14.
+
 **Migrants clash with French police as they attempt to cross the Channel**
 `21 Aug 21:58 PKT` · pehli baar dekhi `21 Aug 22:42` · aljazeera
 
@@ -960,6 +993,11 @@ Global Market: Japan core inflation accelerates in July, strengthening case for 
 
 Japanese Bank Stocks Worth Watching Before A Possible Bank Of Japan Rate Hike simplywall.st
 
+**Japan Inflation August 2026: CPI 1.8% Backs BOJ Rate Hike Case - Univest**
+`21 Aug 09:29 PKT` · pehli baar dekhi `21 Aug 23:14` · gnews_centralbanks
+
+Japan Inflation August 2026: CPI 1.8% Backs BOJ Rate Hike Case Univest
+
 **Japan's megabanks reap record profits as the Bank of Japan lifts rates to 1% - IntelliNews**
 `21 Aug 07:41 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_centralbanks
 
@@ -1123,6 +1161,22 @@ The New Zealand Dollar (NZD) extends its rally against the US Dollar (USD) on Fr
 
 ### OIL
 
+**China Challenges Russia's Arms Dominance in Central Asia**
+`21 Aug 23:00 PKT` · pehli baar dekhi `21 Aug 23:14` · oilprice
+
+China is challenging Russia's stranglehold on Central Asia's arms market. Uzbekistan appears to have taken delivery of four PRC-made ChengduJ-10CE multi-role combat aircraft, according to multiple reports, one of which includes a photo of one of the fighters supposedly acquired by the Uzbek Air Force. Tashkent reportedly has an agreement with Beijing to receive a total of 24 fighters. Uzbek and Chinese officials have yet to confirm the initial delivery.
+
+**Tankers Wait a Month as Venezuela Hits an Oil Export Ceiling**
+`21 Aug 23:00 PKT` · pehli baar dekhi `21 Aug 23:14` · oilprice
+
+Venezuela has plenty of oil buyers again. What it does not have is enough functioning port infrastructure to get them their crude. Tankers are waiting as long as 30 days to load Venezuelan oil as aging terminals, power outages and crude-quality problems create a de facto ceiling on exports, according to Reuters. That ceiling appears to be around 1.25 million barrels per day.
+
+**NATO commander holds talks on Hormuz Strait navigation support**
+`21 Aug 22:46 PKT` · pehli baar dekhi `21 Aug 23:14` · investing_news
+
+**European diesel margins climb as refinery output increases**
+`21 Aug 22:39 PKT` · pehli baar dekhi `21 Aug 23:14` · investing_commodities
+
 **US Oil Drillers See Pullback as Oil Prices Rise**
 `21 Aug 22:16 PKT` · pehli baar dekhi `21 Aug 22:42` · oilprice
 
@@ -1132,6 +1186,11 @@ The total number of active drilling rigs for oil and gas in the United States fe
 `21 Aug 22:07 PKT` · pehli baar dekhi `21 Aug 22:42` · investinglive
 
 The weekly Baker Hughes rig count shows: Crude oil rigs -3 at 452 Natural Gas rigs -1 at 127 Total rigs -5 at 588 For the year: Oil was 412 Natural Gas was at 122 Total rigs was at 539. Crude oil is trading at $87. That's up $0.17 on the day. For the trading week, the price is up $4.60. Looking at the daily chart, the high-priced today reached $87.51. That is just below the 100 day moving average at $88.05. The high for the week reached $87.69 yesterday.
+
+**Trump's Economic Warfare Against Iran: Oil Market Impact 2026 - discoveryalert.com.au**
+`21 Aug 22:04 PKT` · pehli baar dekhi `21 Aug 23:14` · gnews_geopolitics
+
+Trump's Economic Warfare Against Iran: Oil Market Impact 2026 discoveryalert.com.au
 
 **India Boosts Battery Investment to Cut Solar Power Waste**
 `21 Aug 22:00 PKT` · pehli baar dekhi `21 Aug 22:42` · oilprice
@@ -1582,11 +1641,21 @@ Oil Set for Weekly Surge as US Seeks to Throttle Iran's Economy Bloomberg.com
 
 ### CRYPTO
 
+**Deutsche Bank Raises UK Growth Forecast On Resilient Economy - Bitcoin World**
+`21 Aug 22:30 PKT` · pehli baar dekhi `21 Aug 23:14` · gnews_centralbanks
+
+Deutsche Bank Raises UK Growth Forecast On Resilient Economy Bitcoin World
+
 **Standard Chartered Forecasts Bitcoin Will Retest All-Time High**
 `21 Aug 22:23 PKT` · pehli baar dekhi `21 Aug 22:42` · yahoo_finance
 
 **Wall Street rises as materials and crypto stocks offset continued bond sell-off**
 `21 Aug 22:04 PKT` · pehli baar dekhi `21 Aug 22:42` · investing_news
+
+**Bitcoin Price Outlook Highlights Range-Bound Trading Below $80,000 - The Cryptonomist**
+`21 Aug 21:57 PKT` · pehli baar dekhi `21 Aug 23:14` · gnews_fed
+
+Bitcoin Price Outlook Highlights Range-Bound Trading Below $80,000 The Cryptonomist
 
 **With Bitcoin Rallying, Strategy (MSTR) Just Flipped From a $13 Billion Loss to a $1.4 Billion Gain. Should Investors Buy the Rally?**
 `21 Aug 21:34 PKT` · pehli baar dekhi `21 Aug 22:04` · yahoo_finance
@@ -1758,6 +1827,11 @@ Fed minutes show September rate hike still on the table Reuters
 Support for rate hike may be growing ABC Columbia
 
 ### RISK
+
+**Germany: Ifo sentiment seen weakening on Iran war – Commerzbank**
+`21 Aug 22:47 PKT` · pehli baar dekhi `21 Aug 23:14` · fxstreet_news
+
+Commerzbank economists Christoph Balz and Ralph Solveen expect the Ifo Business Climate Index to slip from 86.6 to 86.0 in August as renewed Iran war concerns and higher energy prices weigh on expectations.
 
 **Why Iran is threatening Europe's 'strategically important' southeast**
 `21 Aug 22:29 PKT` · pehli baar dekhi `21 Aug 22:42` · aljazeera
@@ -2038,10 +2112,19 @@ Iran has so far proved adept at finding ways around years of already punishing s
 
 It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
 
-### BINA TAG (195)
+### BINA TAG (205)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `21 Aug 23:03` **kitco_general** — Miners boost TSX as choppy week ends - KITCO
+- `21 Aug 23:00` **mw_topstories** — My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?
+- `21 Aug 22:55` **wsj_markets** — Fannie Mae Hit by Turmoil in Senior Ranks as at Least 10 Executives Depart
+- `21 Aug 22:52` **aljazeera** — How is drought hitting UK farming?
+- `21 Aug 22:51` **investing_news** — Why is Nuvation Bio stock rallying today?
+- `21 Aug 22:49` **investing_news** — Trump administration moves to end attorney group's law school oversight
+- `21 Aug 22:47` **investing_news** — Nuvation Bio stock rises after Cantor starts at Overweight
+- `21 Aug 22:42` **investing_news** — Chinese court in Guangzhou accepts bankruptcy case of Evergrande unit
+- `21 Aug 22:38` **aljazeera** — Arsenal sign Konsa from Villa as Premier League holders bolster defence
 - `21 Aug 22:31` **investing_news** — Nscale seeks $3 billion US IPO amid AI data center rush
 - `21 Aug 22:30` **yahoo_finance** — Could Netflix Stock Double From Here? The Numbers Are Getting Interesting.
 - `21 Aug 22:28` **yahoo_finance** — Infleqtion Soars 10%, Rigetti Jumps 9%, IonQ Climbs 7%: What's Driving Quantum Computing Stocks Now?
@@ -2146,6 +2229,7 @@ It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomati
 - `21 Aug 20:03` **yahoo_finance** — Ross Stores Trounces Earnings, Set To Retake Buy Point
 - `21 Aug 20:02` **yahoo_finance** — KE Q2 Earnings Call Highlights
 - `21 Aug 19:55` **yahoo_finance** — Bank of America's sell signals are flashing red, but 56% of fund managers are going all-in on stocks anyway
+- `21 Aug 19:55` **kitco_general** — US service sector fuels acceleration in business activity, S&P Global says - KITCO
 - `21 Aug 19:50` **aljazeera** — Iraq's solar villages show how to build an energy transition that lasts
 - `21 Aug 19:50` **yahoo_finance** — A pug with a protruding tongue is the World's Ugliest Dog — fetching her a cool $5,000, a trophy and a trip to New York
 - `21 Aug 19:49` **yahoo_finance** — Apple paid 40% of its global taxes to Ireland in last fiscal year
@@ -2259,37 +2343,40 @@ investing_news (8)
 | fxstreet_analysis | OK | 30 | 4 | 0 | 4 | 26 | 0.1 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.1 |
 | marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.2 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.2 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.1 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.5 |
-| kitco_general | OK | 21 | 18 | 1 | 17 | 3 | 0.0 |
-| gnews_fed | OK | 91 | 53 | 5 | 48 | 38 | 0.0 |
-| gnews_geopolitics | OK | 100 | 93 | 5 | 88 | 7 | 0.1 |
-| gnews_centralbanks | OK | 35 | 33 | 0 | 33 | 2 | 0.1 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.6 |
+| kitco_general | OK | 22 | 20 | 2 | 18 | 2 | 0.0 |
+| gnews_fed | OK | 90 | 58 | 3 | 55 | 32 | 0.0 |
+| gnews_geopolitics | OK | 100 | 93 | 1 | 92 | 7 | 0.0 |
+| gnews_centralbanks | OK | 35 | 33 | 2 | 31 | 2 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.0 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.9 |
 | ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.2 |
-| boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.4 |
+| boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.5 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.4 |
-| mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.0 |
+| mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.1 |
 | oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
 | ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
-| bbc_business | OK | 50 | 15 | 1 | 14 | 35 | 0.0 |
-| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
+| bbc_business | OK | 50 | 15 | 0 | 15 | 35 | 0.1 |
+| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
 | snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.3 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.4 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.2 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.2 |
-| wsj_world | OK | 72 | 11 | 0 | 11 | 61 | 0.0 |
-| wsj_markets | OK | 61 | 22 | 0 | 22 | 39 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 36 | 17 | 19 | 14 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| wsj_world | OK | 72 | 11 | 0 | 11 | 61 | 0.1 |
+| wsj_markets | OK | 61 | 23 | 1 | 22 | 38 | 0.0 |
+| investing_news | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
+| yahoo_finance | OK | 48 | 1 | 0 | 1 | 47 | 0.8 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
 | cointelegraph | OK | 30 | 14 | 0 | 14 | 16 | 0.1 |
+
+**Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi
