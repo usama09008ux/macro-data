@@ -1,13 +1,23 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 00:53 PKT**
-- Kul khabrein: **730**
-- Feeds: 38/39 OK
+- Aakhri update: **22 Aug 01:25 PKT**
+- Kul khabrein: **767**
+- Feeds: 39/39 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**Live Cattle futures hit new lows as Lean Hogs rebound.**
+`22 Aug 01:03 PKT` · pehli baar dekhi `22 Aug 01:25` · cme_daily_commentary
+
+Virginia McGathey analyzes the livestock markets, noting that Live Cattle futures fell to recent lows as boxed beef prices declined and traders awaited the afternoon Cattle on Feed report. Feeder Cattle futures also faced downward pressure amid sluggish cash trade and cautious packer buying. Lean Hogs futures broke from the broader beef complex, firming up on improving demand and short covering as the market looks to establish a near-term floor.
+
+**Soybean futures hold steady as corn hits recent highs.**
+`22 Aug 00:58 PKT` · pehli baar dekhi `22 Aug 01:25` · cme_daily_commentary
+
+Virginia McGathey analyzes the agricultural markets, noting that Soybean futures remain steady despite crop quality concerns and weaker export sales. Corn futures achieved a recent high, driven by declining yield expectations and increased export commitments, with the December contract breaking above the 500 level. Wheat futures experienced downward pressure as export shipments exceeded USDA estimates, prompting some profit-taking to end the week.
 
 **ECB Consumer Expectations Survey results – July 2026**
 `21 Aug 13:00 PKT` · pehli baar dekhi `21 Aug 20:49` · ecb_press
@@ -20,6 +30,16 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**Canada 10-Year Yield Hits Highest Since 2024**
+`22 Aug 01:25 PKT` · instaforex
+
+Canada's 10-year government bond yield climbed to 3.76%, its highest level since April 2024, as a global selloff in sovereign debt drove long-term borrowing costs in advanced economies to multiyear highs. The move mirrored the rise in US Treasury yields, which rebounded after earlier declines sparked by the US Treasury Department's announcement of an expanded bond buyback program.
+
+**Canadian Dollar Nears Three-Month High**
+`22 Aug 01:25 PKT` · instaforex
+
+The Canadian dollar strengthened to 1.38 per USD in late August, approaching a three-month high, supported by a weaker US dollar and firm crude oil prices. The loonie's advance was largely driven by renewed downward pressure on the greenback as investors reassessed the Federal Reserve's policy trajectory.
 
 **AUDUSD is the biggest mover today and trades at highest level since early June**
 `21 Aug 22:54 PKT` · pehli baar dekhi `21 Aug 23:14` · investinglive
@@ -266,6 +286,42 @@ Canadian developer says new drilling at its past-producing Kerr-Addison property
 
 ### USD
 
+**Brazil Yields Fall on Tighter Election Race Prospects**
+`22 Aug 01:25 PKT` · instaforex
+
+Brazil's 10-year government bond yield declined to 14.7%, retreating from the near one-month high reached on August 14. The move was driven by expectations of a tighter presidential race and broad-based weakness in the US dollar. Financial markets generally regard Senator Flávio Bolsonaro as more fiscally conservative than President Lula, especially at a time when high domestic interest rates are already constraining economic activity.
+
+**Argentina's Retail Sales Growth Cools in June, Year-on-Year Rate Slips to 23.7%**
+`22 Aug 01:25 PKT` · instaforex
+
+Argentina's retail sector showed a deceleration in June 2026, as year-on-year sales growth slowed to 23.7%, down from 25.9% in May 2026. The figures, updated on 21 August 2026, reflect a moderation in consumer spending momentum compared with the same period a year earlier. The current reading means that retail sales in June 2026 were 23.7% higher than in June 2025, while May's previously reported 25.9% indicated a stronger annual comparison versus May 2025.
+
+**Forecasting the upcoming week: Warsh's Jackson Hole debut and US inflation test a soft US Dollar**
+`22 Aug 01:22 PKT` · pehli baar dekhi `22 Aug 01:25` · fxstreet_news
+
+The US Dollar Index (DXY) ended the week near even with Thursday, holding near 98.80. Like Thursday, DXY traded down to the 98.50s before recovering later in the session.
+
+**Philadelphia Fed Names Skander Van den Heuvel Director of Research - Philadelphia Federal Reserve Bank**
+`22 Aug 01:19 PKT` · pehli baar dekhi `22 Aug 01:25` · gnews_fed
+
+Philadelphia Fed Names Skander Van den Heuvel Director of Research Philadelphia Federal Reserve Bank
+
+**Retirees: This investment gives you a guaranteed 5% safe withdrawal rate**
+`22 Aug 01:11 PKT` · pehli baar dekhi `22 Aug 01:25` · mw_topstories
+
+TIPS yields are at or close to 20-year highs.
+
+**Here's how Bessent's newly activist Treasury Department is undercutting the Fed's Warsh**
+`22 Aug 01:11 PKT` · pehli baar dekhi `22 Aug 01:25` · mw_topstories
+
+The surprising move this week by Treasury Secretary Scott Bessent to intervene in Treasury markets to lower the cost of government debt undercuts the credibility of Federal Reserve Chairman Kevin Warsh to make interest-rate policy, experts said.
+
+**WisdomTree stock hits 52-week high at 23.47 USD**
+`22 Aug 00:59 PKT` · pehli baar dekhi `22 Aug 01:25` · investing_news
+
+**Zions Bancorporation stock hits 52-week low at 18.06 USD**
+`22 Aug 00:53 PKT` · pehli baar dekhi `22 Aug 01:25` · investing_news
+
 **DexCom stock hits 52-week high at 91.99 USD**
 `22 Aug 00:22 PKT` · pehli baar dekhi `22 Aug 00:53` · investing_news
 
@@ -286,6 +342,11 @@ DBS economists Taimur Baig and Radhika Rao project Singapore's headline and core
 `21 Aug 23:15 PKT` · pehli baar dekhi `22 Aug 00:01` · mw_topstories
 
 Also in Weekend Reads: The Gen Z online sports-betting trend, what's next for Apple as Tim Cook exits, and a bullish take on Nvidia heading into earnings.
+
+**Video Federal Reserve holds interest rates steady as economy weathers resurgent inflation - ABC News - Breaking News, Latest News and Videos**
+`21 Aug 23:10 PKT` · pehli baar dekhi `22 Aug 01:25` · gnews_fed
+
+Video Federal Reserve holds interest rates steady as economy weathers resurgent inflation ABC News - Breaking News, Latest News and Videos
 
 **Latin American stocks and currencies rise on dollar weakness**
 `21 Aug 22:37 PKT` · pehli baar dekhi `21 Aug 23:14` · investing_news
@@ -720,6 +781,11 @@ Trump Renews Criticism of Fed Interest Rate Policy, Says U.S. Should Be Paying M
 
 ### EUR
 
+**Week Ahead - Aug 24th**
+`22 Aug 01:25 PKT` · instaforex
+
+Global interest rates and long-term sovereign yields will remain at the center of market attention as investors navigate elevated energy prices, widening fiscal deficits, and a surge in corporate bond issuance. The Federal Reserve's monetary policy stance and its approach to duration risk will come under renewed scrutiny with FOMC communications at the Jackson Hole Symposium.
+
 **German state politician calls for EU tariffs on Chinese hybrid cars, letter shows**
 `21 Aug 23:31 PKT` · pehli baar dekhi `22 Aug 00:01` · investing_news
 
@@ -727,6 +793,11 @@ Trump Renews Criticism of Fed Interest Rate Policy, Says U.S. Should Be Paying M
 `21 Aug 22:52 PKT` · pehli baar dekhi `21 Aug 23:14` · fxstreet_news
 
 EUR/USD heads for a fourth consecutive weekly gain on Friday, although it has erased its earlier intraday advance. At the time of writing, the pair trades around 1.1682 after briefly rising above 1.1700, its highest level since May 14.
+
+**EUR/USD Weekly Forecast: US Dollar Slides on Rate-Cut Bets, Euro Gains - CryptoRank**
+`21 Aug 22:14 PKT` · pehli baar dekhi `22 Aug 01:25` · gnews_fed
+
+EUR/USD Weekly Forecast: US Dollar Slides on Rate-Cut Bets, Euro Gains CryptoRank
 
 **Migrants clash with French police as they attempt to cross the Channel**
 `21 Aug 21:58 PKT` · pehli baar dekhi `21 Aug 22:42` · aljazeera
@@ -1113,6 +1184,9 @@ USD/CHF&#8217;s fall from 0.8205 short term top is in progress and intraday bias
 
 ### CAD
 
+**Mexico expects trade deal similar to US-Canada USMCA outcomes**
+`22 Aug 01:02 PKT` · pehli baar dekhi `22 Aug 01:25` · investing_news
+
 **US, Canada negotiators race to ink a deal as Trump's tariff deadline looms**
 `22 Aug 00:20 PKT` · pehli baar dekhi `22 Aug 00:33` · aljazeera
 
@@ -1233,6 +1307,21 @@ The New Zealand Dollar (NZD) extends its rally against the US Dollar (USD) on Fr
 
 ### OIL
 
+**U.S. Oil & Gas Activity Eases as Baker Hughes Rig Count Slips to 588**
+`22 Aug 01:25 PKT` · instaforex
+
+The U.S. Baker Hughes Total Rig Count fell to 588 on 21 August 2026, down from a previous reading of 593, signaling a modest slowdown in domestic drilling activity. The five-rig decline reflects a cautious tone among producers amid evolving market conditions for oil and natural gas.
+
+**U.S. Oil Rig Count Slips to 452, Signaling Cautious Drilling Outlook**
+`22 Aug 01:25 PKT` · instaforex
+
+The number of active U.S. oil rigs edged lower in the latest week, with the Baker Hughes oil rig count declining to 452 from a previous level of 455. The updated figure, released on 21 August 2026, underscores a modest pullback in drilling activity across the United States. The three-rig decrease suggests operators may be adopting a more cautious stance, potentially responding to recent price signals, capital discipline priorities, or evolving demand expectations.
+
+**Low Rivers, High Stakes: Europe's Nuclear Cooling Crisis**
+`22 Aug 01:00 PKT` · pehli baar dekhi `22 Aug 01:25` · oilprice
+
+The extreme heat experienced across Europe in recent weeks has caused widespread disruption to nuclear power plants. Governments across the region have been forced to take extraordinary measures to keep nuclear facilities operating, but some are failing to meet their goals, with river levels at record lows. This is expected to have a significant impact on Europe's GDP, with economic losses in the billions.
+
 **Crude Oil Prices Decline Amidst Supply Risk Concern - MarketForces Africa**
 `22 Aug 00:44 PKT` · pehli baar dekhi `22 Aug 00:53` · gnews_geopolitics
 
@@ -1264,6 +1353,11 @@ Venezuela has plenty of oil buyers again. What it does not have is enough functi
 
 **European diesel margins climb as refinery output increases**
 `21 Aug 22:39 PKT` · pehli baar dekhi `21 Aug 23:14` · investing_commodities
+
+**US Stock Market: Wall Street divided on Fed as rising crude prices boost rate hike expectations - The Economic Times**
+`21 Aug 22:25 PKT` · pehli baar dekhi `22 Aug 01:25` · gnews_fed
+
+US Stock Market: Wall Street divided on Fed as rising crude prices boost rate hike expectations The Economic Times
 
 **Tajikistan seeks 2.55mn tons of oil and fuel from Iran amid supply diversification - Daryo.uz**
 `21 Aug 22:18 PKT` · pehli baar dekhi `22 Aug 00:33` · gnews_geopolitics · **2 feeds mein**
@@ -1717,6 +1811,16 @@ The Indicator - Oil Prices Surge Past $93 Amid Escalating US-Iran Tensions Indic
 
 Oil hits 3-week high on Middle East supply concerns Qatar Tribune
 
+**Fed's Logan Warns US Oil Production Won't Fill Global Supply Gap - EnergyNow.com**
+`21 Aug 03:45 PKT` · pehli baar dekhi `22 Aug 01:25` · gnews_fed
+
+Fed's Logan Warns US Oil Production Won't Fill Global Supply Gap EnergyNow.com
+
+**Fed's Schmid Warns Against Viewing Oil Shock as Transitory - EnergyNow.com**
+`21 Aug 03:26 PKT` · pehli baar dekhi `22 Aug 01:25` · gnews_fed
+
+Fed's Schmid Warns Against Viewing Oil Shock as Transitory EnergyNow.com
+
 **Crude climbs over 1% on revived supply concerns - The Hans India**
 `21 Aug 03:20 PKT` · pehli baar dekhi `21 Aug 21:34` · gnews_geopolitics
 
@@ -1733,6 +1837,11 @@ Crude Oil Futures Hit One-Month High as U.S. Sanctions on Iran Reignite Supply C
 Oil Set for Weekly Surge as US Seeks to Throttle Iran's Economy Bloomberg.com
 
 ### CRYPTO
+
+**Ray Dalio says to buy 'a bit' of Bitcoin amid potential debt crisis**
+`22 Aug 01:00 PKT` · pehli baar dekhi `22 Aug 01:25` · cointelegraph
+
+The hedge fund founder with an estimated net worth of $15 billion recommended that investors overweight Bitcoin and gold rather than bonds.
 
 **Bitcoin RSI hits 89.4-overbought extreme: Hourly levels**
 `22 Aug 00:20 PKT` · pehli baar dekhi `22 Aug 00:53` · investing_news
@@ -1933,6 +2042,11 @@ Fed minutes show September rate hike still on the table Reuters
 Support for rate hike may be growing ABC Columbia
 
 ### RISK
+
+**Trump waives 'out-of-quota' beef tariffs for 90 days to lower prices**
+`22 Aug 00:42 PKT` · pehli baar dekhi `22 Aug 01:25` · aljazeera
+
+The president did not mention with whom he made the deal or where the imported ground beef is coming from.
 
 **Drone strike on Ukraine shopping centre kills six, injures 103**
 `21 Aug 23:40 PKT` · pehli baar dekhi `22 Aug 00:01` · aljazeera
@@ -2234,10 +2348,21 @@ Iran has so far proved adept at finding ways around years of already punishing s
 
 It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
 
-### BINA TAG (231)
+### BINA TAG (244)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 01:24` **fxstreet_news** — Malaysian Ringgit: Robust trade supports MYR – Commerzbank
+- `22 Aug 01:16` **investinglive** — Nasdaq and S&P indices are settling between risk/bias defining MAs as the week comes to a close
+- `22 Aug 01:11` **mw_topstories** — I plan to leave money to grandkids — but they must pass financial-literacy classes to get it. Is that fair?
+- `22 Aug 01:04` **investing_news** — WhiteFiber closes $310m convertible notes offering
+- `22 Aug 01:04` **investing_news** — United Fire Group declares $0.20 dividend, adds board member
+- `22 Aug 01:00` **investing_news** — S&P Global upgrades Somnigroup rating on lower leverage
+- `22 Aug 01:00` **investing_news** — US Justice Department and TikTok reach $400 million children's privacy settlement
+- `22 Aug 01:00` **investing_news** — S&P cuts Leslie's rating on restructuring risk
+- `22 Aug 00:57` **wsj_world** — Prince Harry's Return to U.K. Sets Up Showdown With Tabloids
+- `22 Aug 00:55` **investing_news** — Moody's affirms Microsoft Aaa rating; outlook stable
+- `22 Aug 00:52` **aljazeera** — US Supreme Court allows Trump's ballroom project to continue for now
 - `22 Aug 00:37` **fxstreet_news** — Thai Baht: Extended policy pause expected from Bank of Thailand – DBS
 - `22 Aug 00:35` **investing_news** — Trending stocks to watch: NVIDIA, Super Micro, Intel and more
 - `22 Aug 00:29` **aljazeera** — US court slashes Alex Jones fines for Sandy Hook school shooting case
@@ -2351,6 +2476,7 @@ It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomati
 - `21 Aug 20:41` **investing_news** — China chipmaker YMTC files for $4.9 billion IPO
 - `21 Aug 20:38` **investing_news** — Bidco's Pinewood.AI takeover support drops to 46.72%
 - `21 Aug 20:36` **investing_news** — Citadel sheds over 80% of aggregate risk from Situational Awareness portfolio
+- `21 Aug 20:36` **kitco_general** — COMMODITIES News - KITCO
 - `21 Aug 20:35` **investing_news** — Poland stocks higher at close of trade; WIG30 up 0.51%
 - `21 Aug 20:34` **yahoo_finance** — BitMart Reverses Shutdown Decision, What Changed?
 - `21 Aug 20:33` **yahoo_finance** — Golar LNG (GLNG) Just Locked In The World's Scarcest LNG Capacity
@@ -2445,6 +2571,7 @@ It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomati
 - `21 Aug 14:30` **wsj_markets** — Stock Market Bargains Are Hiding in This Overlooked Place
 - `21 Aug 13:59` **gnews_fed** — Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank - marketscreener.com
 - `21 Aug 13:38` **bbc_business** — Why the US economy is ringing alarm bells
+- `21 Aug 13:02` **gnews_fed** — Hiring worse than expected in June, but White House says labor market on 'upward trajectory' - ABC News - Breaking News, Latest News and Videos
 - `21 Aug 12:53` **wsj_world** — U.K. Government Borrowing Rose Despite Record Income Tax Revenue
 - `21 Aug 12:44` **wsj_markets** — European Indexes Largely Higher at Open
 - `21 Aug 12:33` **investinglive** — HFM and Arsenal Kick Off a New Season Together
@@ -2486,45 +2613,42 @@ investing_news (14)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | fxstreet_news | OK | 30 | 30 | 2 | 28 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.1 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.2 |
 | marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.3 |
-| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| instaforex | OK | 25 | 25 | 7 | 18 | 0 | -0.2 |
 | wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.2 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
+| cme_daily_commentary | OK | 10 | 2 | 2 | 0 | 8 | 0.0 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.6 |
-| kitco_general | OK | 21 | 21 | 1 | 20 | 0 | 0.0 |
-| gnews_fed | OK | 77 | 60 | 0 | 60 | 17 | 0.1 |
-| gnews_geopolitics | OK | 100 | 96 | 3 | 93 | 4 | 0.0 |
-| gnews_centralbanks | OK | 36 | 35 | 0 | 35 | 1 | 0.0 |
+| kitco_general | OK | 22 | 22 | 1 | 21 | 0 | 0.0 |
+| gnews_fed | OK | 77 | 67 | 7 | 60 | 10 | 0.0 |
+| gnews_geopolitics | OK | 100 | 97 | 0 | 97 | 3 | 0.0 |
+| gnews_centralbanks | OK | 34 | 33 | 0 | 33 | 1 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.0 |
 | ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.3 |
-| boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.5 |
+| boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.6 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.5 |
 | mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.1 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.4 |
-| bbc_business | OK | 50 | 15 | 0 | 15 | 35 | 0.1 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| bbc_business | OK | 50 | 15 | 0 | 15 | 35 | 0.2 |
+| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
 | snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.4 |
-| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.2 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.5 |
+| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.3 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.3 |
-| wsj_world | OK | 72 | 11 | 0 | 11 | 61 | 0.0 |
+| wsj_world | OK | 72 | 12 | 1 | 11 | 60 | 0.0 |
 | wsj_markets | OK | 61 | 23 | 0 | 23 | 38 | 0.0 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | OK | 50 | 2 | 0 | 2 | 48 | 0.4 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 16 | 2 | 14 | 14 | 0.0 |
-
-**Jo feeds nahi aaye:**
-- instaforex — FAIL, koi item nahi
+| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 17 | 1 | 16 | 13 | 0.0 |

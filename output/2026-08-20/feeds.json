@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "22 Aug 00:53",
+  "updated_pkt": "22 Aug 01:25",
   "feeds": [
     {
       "name": "investinglive",
@@ -8,8 +8,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 25,
-      "new": 0,
-      "seen_before": 25,
+      "new": 1,
+      "seen_before": 24,
       "out_of_window": 0
     },
     {
@@ -58,13 +58,13 @@
     },
     {
       "name": "instaforex",
-      "status": "FAIL",
-      "fetched": 0,
-      "newest_age_days": null,
-      "note": "koi item nahi",
-      "in_window": 0,
-      "new": 0,
-      "seen_before": 0,
+      "status": "OK",
+      "fetched": 25,
+      "newest_age_days": -0.2,
+      "note": "waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya",
+      "in_window": 25,
+      "new": 7,
+      "seen_before": 18,
       "out_of_window": 0
     },
     {
@@ -93,7 +93,7 @@
       "name": "cme_fx_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.9,
+      "newest_age_days": 1.0,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -104,7 +104,7 @@
       "name": "cme_rates_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.9,
+      "newest_age_days": 1.0,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -115,7 +115,7 @@
       "name": "cme_energy_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.9,
+      "newest_age_days": 1.0,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -126,12 +126,12 @@
       "name": "cme_daily_commentary",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.9,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 0,
-      "new": 0,
+      "in_window": 2,
+      "new": 2,
       "seen_before": 0,
-      "out_of_window": 10
+      "out_of_window": 8
     },
     {
       "name": "cme_risk_management",
@@ -147,24 +147,24 @@
     {
       "name": "kitco_general",
       "status": "OK",
-      "fetched": 21,
+      "fetched": 22,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 21,
+      "in_window": 22,
       "new": 1,
-      "seen_before": 20,
+      "seen_before": 21,
       "out_of_window": 0
     },
     {
       "name": "gnews_fed",
       "status": "OK",
       "fetched": 77,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 60,
-      "new": 0,
+      "in_window": 67,
+      "new": 7,
       "seen_before": 60,
-      "out_of_window": 17
+      "out_of_window": 10
     },
     {
       "name": "gnews_geopolitics",
@@ -172,20 +172,20 @@
       "fetched": 100,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 96,
-      "new": 3,
-      "seen_before": 93,
-      "out_of_window": 4
+      "in_window": 97,
+      "new": 0,
+      "seen_before": 97,
+      "out_of_window": 3
     },
     {
       "name": "gnews_centralbanks",
       "status": "OK",
-      "fetched": 36,
-      "newest_age_days": 0.0,
+      "fetched": 34,
+      "newest_age_days": 0.1,
       "note": "",
-      "in_window": 35,
+      "in_window": 33,
       "new": 0,
-      "seen_before": 35,
+      "seen_before": 33,
       "out_of_window": 1
     },
     {
@@ -236,7 +236,7 @@
       "name": "boj_whatsnew",
       "status": "OK",
       "fetched": 46,
-      "newest_age_days": 0.5,
+      "newest_age_days": 0.6,
       "note": "",
       "in_window": 1,
       "new": 0,
@@ -269,11 +269,11 @@
       "name": "oilprice",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.0,
       "note": "",
       "in_window": 15,
-      "new": 0,
-      "seen_before": 15,
+      "new": 1,
+      "seen_before": 14,
       "out_of_window": 0
     },
     {
@@ -283,8 +283,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 6,
-      "seen_before": 4,
+      "new": 0,
+      "seen_before": 10,
       "out_of_window": 0
     },
     {
@@ -302,7 +302,7 @@
       "name": "bbc_business",
       "status": "OK",
       "fetched": 50,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.2,
       "note": "",
       "in_window": 15,
       "new": 0,
@@ -316,8 +316,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 25,
-      "new": 1,
-      "seen_before": 24,
+      "new": 2,
+      "seen_before": 23,
       "out_of_window": 0
     },
     {
@@ -335,7 +335,7 @@
       "name": "boc_press",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 21.4,
+      "newest_age_days": 21.5,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -346,7 +346,7 @@
       "name": "eia_energy",
       "status": "OK",
       "fetched": 18,
-      "newest_age_days": 2.2,
+      "newest_age_days": 2.3,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -370,10 +370,10 @@
       "fetched": 72,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 11,
-      "new": 0,
+      "in_window": 12,
+      "new": 1,
       "seen_before": 11,
-      "out_of_window": 61
+      "out_of_window": 60
     },
     {
       "name": "wsj_markets",
@@ -393,8 +393,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 8,
-      "seen_before": 2,
+      "new": 9,
+      "seen_before": 1,
       "out_of_window": 0
     },
     {
@@ -415,8 +415,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 0,
-      "seen_before": 10,
+      "new": 3,
+      "seen_before": 7,
       "out_of_window": 0
     },
     {
@@ -425,10 +425,10 @@
       "fetched": 30,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 16,
-      "new": 2,
-      "seen_before": 14,
-      "out_of_window": 14
+      "in_window": 17,
+      "new": 1,
+      "seen_before": 16,
+      "out_of_window": 13
     }
   ]
 }
