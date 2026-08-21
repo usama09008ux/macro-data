@@ -46,14 +46,14 @@ TIMEOUT = 20
 WARN_DAYS = 2
 STALE_DAYS = 14
 
-# Ye groups test honge. feeds_rejected test nahi hoga.
-GROUPS = [
-    "feeds_tier1",
-    "feeds_centralbank",
-    "feeds_data",
-    "feeds_tier2",
-    "feeds_cme_test",
-]
+# Groups ki fehrist yahan LIKHI HUI NAHI hai.
+#
+# Wajah: pehle yahan haath se naam likhe the — feeds_data,
+# feeds_tier2, feeds_cme_test. Phir config badli, group ke naam
+# badal gaye, aur ye file chupchap kuch bhi test karna chhod
+# baithi. Ab config se khud dhoondta hai, is liye aage naya
+# group banayein to wo apne aap shaamil ho jayega.
+SKIP_GROUPS = {"feeds_rejected"}
 
 
 # ----------------------------------------------------------
@@ -175,15 +175,23 @@ def test_one_feed(name, url):
 def main():
     cfg = load_config()
 
+    # config se saare feed groups khud dhoondo
+    groups = [k for k in cfg
+              if k.startswith("feeds_")
+              and k not in SKIP_GROUPS
+              and isinstance(cfg[k], list)]
+
     started = datetime.now(timezone.utc)
     print("=" * 78)
     print("FEED TEST")
     print("Waqt (UTC):", started.strftime("%Y-%m-%d %H:%M"))
+    total = sum(len(cfg[g] or []) for g in groups)
+    print(f"Groups: {len(groups)}   Feeds: {total}")
     print("=" * 78)
 
     all_results = []
 
-    for group in GROUPS:
+    for group in groups:
         feeds = cfg.get(group) or []
         if not feeds:
             continue
