@@ -1,8 +1,8 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 06:52 PKT**
-- Kul khabrein: **88**
+- Aakhri update: **21 Aug 07:58 PKT**
+- Kul khabrein: **112**
 - Feeds: 25/25 OK
 
 ---
@@ -10,6 +10,11 @@
 ## Khabrein
 
 ### GOLD
+
+**Silver Price Forecast: XAG/USD surges to near $69.00 amid heightened volatility**
+`21 Aug 07:37 PKT` · pehli baar dekhi `21 Aug 07:58` · fxstreet_news
+
+Silver price (XAG/USD) extends its gains for the third successive day, trading around $68.70 per troy ounce during the Asian hours on Friday. Silver prices rise as investors turn to safe-haven metals amid heightened volatility across global currency and bond markets.
 
 **Gold Slips Amid Changing Monetary Policy Expectations**
 `21 Aug 06:16 PKT` · pehli baar dekhi `21 Aug 06:52` · wsj_markets
@@ -27,6 +32,21 @@ Gold price (XAU/USD) edges higher to around $4,530 during the early Asian sessio
 The pace of the rally is prompting banks to revisit both their timelines and their ceilings, with the metal already through a target that had been pencilled in for later in the year. Softer expectations for further Federal Reserve tightening are seen reviving exchange traded fund demand after a period of outflows, while central banks continue to use price dips as buying opportunities to build reserves.
 
 ### USD
+
+**China vice finance minister signals more fiscal support as economy slows**
+`21 Aug 07:41 PKT` · pehli baar dekhi `21 Aug 07:58` · investinglive
+
+Liao Min's comments arrive against a backdrop of a broadening Chinese slowdown, with industrial output and retail sales both missing forecasts in July and officials already weighing fresh stimulus after growth abruptly weakened. The emphasis on timely, incremental measures rather than a large one-off package fits the pattern policymakers have followed through 2026, favouring calibrated support over aggressive stimulus even as deflationary pressure and soft domestic demand persist.
+
+**United States Dollar Index trades around 99.75-99.70, hangs near three-month low**
+`21 Aug 07:26 PKT` · pehli baar dekhi `21 Aug 07:58` · fxstreet_news
+
+The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, attracts fresh sellers during the Asian session on Friday, stalling the previous day's modest bounce from the vicinity of mid-98.00s, or the lowest since May 14.
+
+**USD slammed in Asia Friday: Bitcoin, gold, FX surge as investors hedge against US fiscal credibility concerns**
+`21 Aug 06:55 PKT` · pehli baar dekhi `21 Aug 07:58` · investinglive
+
+The dollar's slide reflects a shift from viewing the Treasury's buyback expansion as a stabilising measure to treating it as confirmation of how stretched US fiscal dynamics have become. Bessent's signal that repurchases could increase further, rather than reassuring markets, appears to have reinforced the view that officials are managing a structural problem with tactical tools, a distinction Goldman Sachs has framed explicitly in warning that yield suppression becomes progressively less ...
 
 **Dollar wobbles as investors balk at US Treasury's rescue efforts**
 `21 Aug 06:42 PKT` · pehli baar dekhi `21 Aug 06:52` · investing_news
@@ -90,6 +110,11 @@ The Euro remains steady below 1.1700 after failing to hold gains above it, despi
 
 ### GBP
 
+**British Pound edges higher to near 1.3650, UK Retail Sales data looms**
+`21 Aug 06:55 PKT` · pehli baar dekhi `21 Aug 07:58` · fxstreet_news
+
+The GBP/USD pair gathers strength near 1.3645 during the early Asian trading hours on Friday. The US Dollar (USD) softens against the British Pound (GBP) amid fading Federal Reserve (Fed) rate hike expectations.
+
 **GBP/JPY Price Forecast: Bulls eye 217.00 as rally extends**
 `21 Aug 04:27 PKT` · pehli baar dekhi `21 Aug 04:37` · fxstreet_news
 
@@ -104,6 +129,16 @@ The GBP/JPY advanced over 0.72%, refreshing a 14-day high of 216.90, with buyers
 GBP/USD trades just beneath 1.3650 late in the session, 0.2% higher on the day and at its highest level in more than four months.
 
 ### JPY
+
+**Japan Inflation Is Broadening Again — Core-Core at 1.9% Strengthens BoJ Hike Case**
+`21 Aug 07:09 PKT` · pehli baar dekhi `21 Aug 07:58` · actionforex
+
+Japan's inflation pressures strengthened in July, with headline CPI rising from 1.6% to 1.9% y/y, above 1.7% expected, while core CPI excluding fresh food accelerated from 1.6% to 1.8%, matching consensus. More importantly for underlying inflation, core-core CPI excluding fresh food and energy rose from 1.7% to 1.9%, bringing it close to BoJ's 2% target [&#8230;] The post Japan Inflation Is Broadening Again — Core-Core at 1.9% Strengthens BoJ Hike Case appeared first on ActionForex.
+
+**Japan PMI Accelerates as Manufacturing Leads Broad-Based August Growth**
+`21 Aug 06:59 PKT` · pehli baar dekhi `21 Aug 07:58` · actionforex
+
+Japan's private-sector expansion strengthened in August, with PMI Composite Output rising from 52.7 to 53.4, its fastest increase in output since February. PMI Services Business Activity improved from 51.2 to 52.3, while PMI Manufacturing climbed from 54.5 to 55.1.
 
 **Japanese Yen flatlines after CPI inflation report**
 `21 Aug 05:58 PKT` · pehli baar dekhi `21 Aug 06:52` · fxstreet_news
@@ -143,7 +178,29 @@ more to come I'll have more to come on this separately, detail and implications 
 
 USD/JPY trades near 159.00 late in the session, 0.5% higher on the day and a little over a point clear of a rising 200-day Exponential Moving Average (EMA) near 158.00.
 
+### CAD
+
+**Trump Wants to Revive Keystone XL. The Industry Has a Different Plan.**
+`21 Aug 07:00 PKT` · pehli baar dekhi `21 Aug 07:58` · wsj_world
+
+A trio of proposed pipelines would serve the same function—delivering heavy oil from western Canada to Gulf Coast refineries—without the hot-button name.
+
+**Canadian Dollar gains ground amid rising oil prices**
+`21 Aug 06:53 PKT` · pehli baar dekhi `21 Aug 07:58` · fxstreet_news
+
+USD/CAD extends its losses for the third successive day, trading around 1.3770 during the Asian hours on Friday. The currency pair loses ground as the commodity-linked Canadian Dollar (CAD) receives support from rising crude oil prices.
+
 ### AUD
+
+**Australian Dollar gains ground above 0.7100 as US debt concerns weigh on US Dollar**
+`21 Aug 07:45 PKT` · pehli baar dekhi `21 Aug 07:58` · fxstreet_news
+
+The AUD/USD pair gains traction to near 0.7135 during the Asian trading hours on Friday. The US Dollar (USD) weakens against the Australian Dollar (AUD) and is set for a weekly loss as traders viewed the US Treasury's bond buyback gambit as merely a temporary fix.
+
+**Australia PMI Expansion Continues, but Manufacturing Output Slips Back Into Contraction**
+`21 Aug 06:53 PKT` · pehli baar dekhi `21 Aug 07:58` · actionforex
+
+Australia private-sector activity continued to expand in August, although momentum eased slightly. PMI Composite Output fell from 53.2 to 52.5, while PMI Services Business Activity eased from 53.6 to 52.9. PMI Manufacturing held at 52.0, but PMI Manufacturing Output slipped from 50.3 to 49.7, indicating a marginal contraction in factory production even as broader manufacturing [&#8230;] The post Australia PMI Expansion Continues, but Manufacturing Output Slips Back Into Contraction appeared ...
 
 **Australian Dollar weakens as US yields rebound, PMIs fail to impress**
 `21 Aug 04:15 PKT` · pehli baar dekhi `21 Aug 04:37` · fxstreet_news
@@ -201,6 +258,11 @@ Trump's comments add another data point to the market's ongoing assessment of ho
 
 ### RISK
 
+**Is America Still Capable of Enforcing the World Order?**
+`21 Aug 07:00 PKT` · pehli baar dekhi `21 Aug 07:58` · wsj_world
+
+As the Iran war drains vital stockpiles of missile interceptors, American allies increasingly question Washington's capacity to wage multi-front conflicts.
+
 **Bessent says US unlikely to resume large-scale Iran combat, steps up economic pressure**
 `21 Aug 04:52 PKT` · pehli baar dekhi `21 Aug 04:59` · fxstreet_news
 
@@ -209,10 +271,22 @@ US Treasury Secretary Scott Bessent said that the US President Donald Trump admi
 **Bessent says US to impose 'toughest' ever sanctions on Iran, urges China to cooperate**
 `21 Aug 04:18 PKT` · pehli baar dekhi `21 Aug 04:37` · investing_news
 
-### BINA TAG (50)
+### BINA TAG (62)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `21 Aug 07:44` **wsj_world** — Hong Kong Court Convicts Activists Who Organized Tiananmen Vigils
+- `21 Aug 07:43` **investing_news** — Earnings call transcript: Regis Resources posts record FY2026 profit, shares rise 2.7%
+- `21 Aug 07:42` **investing_news** — Shein targets Hong Kong market debut on September 1, sources say
+- `21 Aug 07:42` **investing_news** — Charter Hall FY26 slides: earnings surge 27%, shares fall 8%
+- `21 Aug 07:41` **investing_news** — Charter Hall FY26 slides: record $6.7bn inflows, shares fall 8%
+- `21 Aug 07:36` **investing_news** — Samsung Elec to convene board meeting Friday to discuss shareholder return plan, says source
+- `21 Aug 07:31` **investing_news** — Tempus AI CFO James Rogers sells $2.69m in stock
+- `21 Aug 07:31` **investing_news** — Tempus AI chief accounting officer sells $306,341 in shares
+- `21 Aug 07:31` **investing_news** — Tempus AI EVP, chief legal officer Polovin sells $1.54m in stock
+- `21 Aug 07:30` **investing_news** — Protagenic therapeutics: exec. chair Garo Armen buys $9,810 in stock
+- `21 Aug 07:30` **investing_news** — Hyundai Motor's union stages first full strike in 10 years over wage talks
+- `21 Aug 07:00` **wsj_world** — The Controversial Academic Who Ignited the Jason Arday Furor
 - `21 Aug 06:43` **investing_news** — Why is Guzman Y Gomez stock surging today?
 - `21 Aug 06:41` **investing_news** — Qualitas FY26 slides: record deployment drives 20% profit growth
 - `21 Aug 06:35` **investing_news** — Earnings call transcript: South Port NZ posts record FY 2026 results
@@ -275,23 +349,23 @@ US Treasury Secretary Scott Bessent said that the US President Donald Trump admi
 | fxstreet_analysis | OK | 30 | 0.3 |  |
 | actionforex | OK | 20 | 0.0 |  |
 | marketpulse | OK | 3 | 0.8 |  |
-| wsj_economy | OK | 36 | 0.1 |  |
+| wsj_economy | OK | 36 | 0.0 |  |
 | cme_metals_video | OK | 10 | 0.2 |  |
 | cme_fx_video | OK | 10 | 0.2 |  |
 | cme_rates_video | OK | 10 | 0.2 |  |
 | cme_energy_video | OK | 10 | 0.2 |  |
 | cme_daily_commentary | OK | 10 | 0.2 |  |
 | cme_risk_management | OK | 20 | 7.9 |  |
-| fed_monetary | OK | 15 | 1.3 |  |
-| fed_speeches | OK | 15 | 15.2 |  |
+| fed_monetary | OK | 15 | 1.4 |  |
+| fed_speeches | OK | 15 | 15.3 |  |
 | ecb_press | OK | 15 | 1.8 |  |
-| boe_news | OK | 50 | 9.5 |  |
-| boj_whatsnew | OK | 46 | 3.7 |  |
+| boe_news | OK | 50 | 9.6 |  |
+| boj_whatsnew | OK | 46 | 3.8 |  |
 | rba_media | OK | 1 | 1.7 |  |
 | bea_releases | OK | 47 | 16.6 |  |
-| wsj_world | OK | 72 | 0.2 |  |
+| wsj_world | OK | 71 | 0.0 |  |
 | wsj_markets | OK | 61 | 0.0 |  |
 | investing_news | OK | 10 | 0.0 |  |
-| yahoo_finance | OK | 47 | 0.7 |  |
-| mw_topstories | OK | 10 | 0.1 |  |
+| yahoo_finance | OK | 50 | 0.7 |  |
+| mw_topstories | OK | 10 | 0.2 |  |
 | cointelegraph | OK | 30 | 0.2 |  |
