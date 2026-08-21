@@ -159,18 +159,16 @@ feeds_google:
   # raha tha, jo XAUUSD trader ke kaam ki nahi. site:kitco.com us
   # se kahin behtar hai kyunke wo ek maayari source par band hai.
   #
-  # Do feeds kaafi hain, teen nahi — har Google feed 100 items
-  # deta hai aur teen mein bohat overlap hota. Mining ka kaam
-  # mining_com pehle se kar raha hai.
+  # EK feed kaafi hai. 21 Aug ke test mein kitco_gold aur
+  # kitco_general dono ne bilkul EK JAISE 28 items diye — query
+  # mein "gold" lagane se koi farq nahi para, kyunke
+  # site:kitco.com/news waise bhi zyada tar gold hi hai.
+  # Is liye sirf general rakha, gold hata diya.
   #
   # Link Google ka redirect hota hai. Hamein farq nahi parta —
   # hum poora article download nahi karte, aur dedupe ke liye
   # redirect URL bhi sabit rehta hai.
 
-  - name: kitco_gold
-    url: "https://news.google.com/rss/search?q=site%3Akitco.com%2Fnews+gold+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
-    weight: 8
-    cadence_days: 1
 
   - name: kitco_general
     url: "https://news.google.com/rss/search?q=site%3Akitco.com%2Fnews+when%3A1d&hl=en-US&gl=US&ceid=US%3Aen"
@@ -306,7 +304,9 @@ feeds_unverified:
   - name: boc_press
     url: "https://www.bankofcanada.ca/content_type/press-releases/feed/"
     weight: 8
-    cadence_days: 14
+    cadence_days: 30
+    # 14 din tha, magar test mein 21 din par WARN aaya. BOC waqai
+    # kam bolta hai — ye feed ki kharabi nahi, uski aadat hai.
 
 
 
@@ -368,6 +368,9 @@ feeds_rejected:
   - url: "https://www.kitco.com/rss/KitcoNews.xml"
     reason: "HTTP 404 — Kitco ne apna RSS band kar diya. Ab uski
              khabrein Google ke site:kitco.com feed se aati hain."
+  - url: "kitco_gold (Google, site:kitco.com + gold)"
+    reason: "kitco_general se bilkul ek jaise nataij — dono 28 items,
+             wahi sab se nayi khabar. Ek hi kaafi hai."
   - url: "gnews_gold (Google, aam gold query)"
     reason: "Kachra la raha tha — Indian retail gold rate ki khabrein.
              Uski jagah site:kitco.com wale feeds lag gaye."
