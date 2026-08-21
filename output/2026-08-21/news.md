@@ -1,8 +1,8 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 22:04 PKT**
-- Kul khabrein: **581**
+- Aakhri update: **21 Aug 22:42 PKT**
+- Kul khabrein: **636**
 - Feeds: 39/39 OK
 
 ---
@@ -240,6 +240,22 @@ Canadian developer says new drilling at its past-producing Kerr-Addison property
 
 ### USD
 
+**Swiss central bank official says AI may increase inflation short-term**
+`21 Aug 22:35 PKT` · pehli baar dekhi `21 Aug 22:42` · investing_news
+
+**Higher yields stop paying the Dollar Index**
+`21 Aug 22:33 PKT` · pehli baar dekhi `21 Aug 22:42` · fxstreet_news
+
+The Dollar Index trades just beneath 99.00 and unchanged on the session, with the entire day fitting inside 35 pips between the 98.50 area and a high that stopped a shade short of the handle.
+
+**What to Look Out for at the Fed's Jackson Hole Gathering - Bloomberg.com**
+`21 Aug 22:13 PKT` · pehli baar dekhi `21 Aug 22:42` · gnews_fed
+
+What to Look Out for at the Fed's Jackson Hole Gathering Bloomberg.com
+
+**Bond yields head higher again, giving back almost all gains since Treasury Department intervention**
+`21 Aug 21:59 PKT` · pehli baar dekhi `21 Aug 22:42` · yahoo_finance
+
 **30-year Treasury yield tops 5% amid inflation concerns, Fed policy in focus - Crypto Briefing**
 `21 Aug 21:29 PKT` · pehli baar dekhi `21 Aug 22:04` · gnews_fed
 
@@ -249,6 +265,11 @@ Canadian developer says new drilling at its past-producing Kerr-Addison property
 `21 Aug 21:27 PKT` · pehli baar dekhi `21 Aug 21:34` · gnews_fed
 
 Alabama's SouthPoint under fire by the Fed Banking Dive
+
+**3 Large-Cap Growth Funds to Boost Your Portfolio as Inflation Eases - TradingView**
+`21 Aug 21:23 PKT` · pehli baar dekhi `21 Aug 22:42` · gnews_fed
+
+3 Large-Cap Growth Funds to Boost Your Portfolio as Inflation Eases TradingView
 
 **Dorchester Minerals LP stock hits 52-week high at 28.97 USD**
 `21 Aug 21:14 PKT` · pehli baar dekhi `21 Aug 22:04` · investing_news
@@ -637,6 +658,11 @@ Trump Renews Criticism of Fed Interest Rate Policy, Says U.S. Should Be Paying M
 
 ### EUR
 
+**Migrants clash with French police as they attempt to cross the Channel**
+`21 Aug 21:58 PKT` · pehli baar dekhi `21 Aug 22:42` · aljazeera
+
+French border police clashed with migrants in northern France on Friday, as they intercepted a small boat.
+
 **European Stocks Close Higher**
 `21 Aug 21:34 PKT` · instaforex
 
@@ -966,6 +992,11 @@ The Japanese Yen Is Driving Its Own Rate Hike: A Self-Fulfilling Cycle Bitcoin W
 
 ### CHF
 
+**Swiss Franc struggles as US Dollar steadies, SNB keeps negative rates on table**
+`21 Aug 22:26 PKT` · pehli baar dekhi `21 Aug 22:42` · fxstreet_news
+
+USD/CHF holds firm on Friday as the US Dollar (USD) trims its intraday losses. At the time of writing, the pair trades around 0.8013 after slipping to 0.7949 on the previous day, its lowest level since June 17.
+
 **Artificial intelligence could push up inflation - SNB's Tschudin says**
 `21 Aug 20:38 PKT` · pehli baar dekhi `21 Aug 20:53` · investing_news · **2 feeds mein**
   - `21 Aug 20:24` *yahoo_finance* — Artificial intelligence could push up inflation - SNB's Tschudin says
@@ -1031,9 +1062,10 @@ Scotiabank strategists Shaun Osborne and Eric Theoret note that the Canadian Dol
 Canada retail sales came in better than expectations today, helping to keep pressure on USDCAD. The pair is trading lower, although it has seen a modest bounce off the session lows. The broader move this week has been firmly to the downside, with selling accelerating following the U.S. Treasury announcement earlier in the week. Ongoing discussions surrounding the framework for a U.S.-Canada trade agreement have also helped underpin the Canadian dollar.
 
 **Canadian Dollar heads for fourth weekly gain on weaker US Dollar, elevated Oil prices**
-`21 Aug 17:59 PKT` · pehli baar dekhi `21 Aug 20:49` · fxstreet_news
+`21 Aug 17:59 PKT` · pehli baar dekhi `21 Aug 20:49` · fxstreet_news · **2 feeds mein**
 
 USD/CAD extends its decline on Friday as broad US Dollar (USD) weakness and elevated Oil prices provide a double boost to the Canadian Dollar (CAD). At the time of writing, the pair trades around 1.3745, while the Loonie is on track for a fourth consecutive weekly gain.
+  - `21 Aug 20:21` *gnews_fed* — Canadian Dollar Heads for Fourth Weekly Gain on Weak USD, Elevated Oil Prices - CryptoRank
 
 **Canada Retail Sales Rise 0.6% as Core Spending Strengthens, but July Estimate Warns of Pullback**
 `21 Aug 17:40 PKT` · pehli baar dekhi `21 Aug 20:49` · actionforex
@@ -1082,7 +1114,29 @@ AUD/USD edges higher on Friday, climbing to its highest level since June 3 as th
 
 AUD/USD&#8217;s rally from 0.6864 resumed after brief consolidations. Intraday bias is back on the upside for 161.8% projection of 0.6864 to 0.7026 from 0.6921 at 0.7183. Firm break there will bring retest of 0.7277 high. On the downside, below 0.7102 minor support will turn bias neutral and bring consolidations again. In the bigger picture, price [&#8230;] The post AUD/USD Daily Report appeared first on ActionForex.
 
+### NZD
+
+**New Zealand Dollar extends rally as fading Fed-hike bets soften US Dollar**
+`21 Aug 22:08 PKT` · pehli baar dekhi `21 Aug 22:42` · fxstreet_news
+
+The New Zealand Dollar (NZD) extends its rally against the US Dollar (USD) on Friday, trading near 0.6000 and close to its highest level since end-May.
+
 ### OIL
+
+**US Oil Drillers See Pullback as Oil Prices Rise**
+`21 Aug 22:16 PKT` · pehli baar dekhi `21 Aug 22:42` · oilprice
+
+The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US falling to 588, up 50 from this same time last year. The number of active oil rigs fell by 3, sinking to 452 during the latest reporting period, according to the data. This is 41 above this same time last year. The number of gas rigs fell by 1 to 127, which is 5 more than this time last year.
+
+**Baker Hughes rig count -5 at 588**
+`21 Aug 22:07 PKT` · pehli baar dekhi `21 Aug 22:42` · investinglive
+
+The weekly Baker Hughes rig count shows: Crude oil rigs -3 at 452 Natural Gas rigs -1 at 127 Total rigs -5 at 588 For the year: Oil was 412 Natural Gas was at 122 Total rigs was at 539. Crude oil is trading at $87. That's up $0.17 on the day. For the trading week, the price is up $4.60. Looking at the daily chart, the high-priced today reached $87.51. That is just below the 100 day moving average at $88.05. The high for the week reached $87.69 yesterday.
+
+**India Boosts Battery Investment to Cut Solar Power Waste**
+`21 Aug 22:00 PKT` · pehli baar dekhi `21 Aug 22:42` · oilprice
+
+Solar power developers in India have started to add battery storage to photovoltaic projects to attract buyers and reduce the large share of curtailments for power supply that the grids are unable to absorb, Santosh Sarangi, Secretary of India's Ministry of New and Renewable Energy, said on Friday.
 
 **Energy & Utilities Roundup: Market Talk**
 `21 Aug 21:47 PKT` · pehli baar dekhi `21 Aug 22:04` · wsj_markets
@@ -1177,12 +1231,13 @@ Oil set for more than 6% weekly gain as Hormuz risks persist Anadolu Ajansı
 Oil prices rise for a second week amid the threat of new US sanctions Українські Національні Новини (УНН)
 
 **Oil set for second weekly gain as US ramps up pressure on Iran - Reuters**
-`21 Aug 18:19 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics · **4 feeds mein**
+`21 Aug 18:19 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics · **5 feeds mein**
 
 Oil set for second weekly gain as US ramps up pressure on Iran Reuters
   - `21 Aug 14:55` *gnews_geopolitics* — Oil set for second weekly gain as US ramps up pressure on Iran - Yahoo Finance
   - `21 Aug 14:55` *gnews_geopolitics* — Oil set for second weekly gain as US ramps up pressure on Iran - Euronext Markets
   - `21 Aug 14:35` *gnews_geopolitics* — Oil set for second weekly gain as US ramps up pressure on Iran - The Express Tribune
+  - `21 Aug 12:44` *gnews_geopolitics* — Oil Set for Second Weekly Gain as US Ramps Up Pressure on Iran - EnergyNow.com
 
 **Oil prices on track for second straight weekly rise amid Mideast tensions**
 `21 Aug 18:10 PKT` · pehli baar dekhi `21 Aug 20:49` · investing_commodities
@@ -1201,6 +1256,11 @@ Commerzbank's Barbara Lambrecht says tensions around the Strait of Hormuz and ti
 `21 Aug 17:51 PKT` · pehli baar dekhi `21 Aug 20:49` · fxstreet_news
 
 West Texas Intermediate (WTI) US Oil trades around $86.50 on Friday at the time of writing, up 0.63% on the day. US Oil remains close to Thursday's high of $87.38, its highest level in more than three weeks, as concerns about global energy supplies continue to support prices.
+
+**Middle East Oil Supply: Assessing Crude Flow Through the Strait of Hormuz - Observer Voice**
+`21 Aug 17:48 PKT` · pehli baar dekhi `21 Aug 22:42` · gnews_geopolitics
+
+Middle East Oil Supply: Assessing Crude Flow Through the Strait of Hormuz Observer Voice
 
 **Why are oil prices rising? US-Iran tensions threaten Middle East oil supply | Hindustan Times - Hindustan Times**
 `21 Aug 17:32 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
@@ -1420,6 +1480,11 @@ Crude oil prices were on course to book a second consecutive weekly gain as the 
 
 Crude Oil Price Today: Brent $93.82 on Second Weekly Rise, US-Iran Supply Disruption Univest
 
+**Brent Oil Nears $94 as US-Iran War Keeps Supply Risks High - Bloom Pakistan**
+`21 Aug 09:50 PKT` · pehli baar dekhi `21 Aug 22:42` · gnews_geopolitics
+
+Brent Oil Nears $94 as US-Iran War Keeps Supply Risks High Bloom Pakistan
+
 **Oil Prices Steady as Iran Conflict Disrupts Supply | Market Update - News and Statistics - IndexBox**
 `21 Aug 09:50 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
 
@@ -1517,11 +1582,22 @@ Oil Set for Weekly Surge as US Seeks to Throttle Iran's Economy Bloomberg.com
 
 ### CRYPTO
 
+**Standard Chartered Forecasts Bitcoin Will Retest All-Time High**
+`21 Aug 22:23 PKT` · pehli baar dekhi `21 Aug 22:42` · yahoo_finance
+
+**Wall Street rises as materials and crypto stocks offset continued bond sell-off**
+`21 Aug 22:04 PKT` · pehli baar dekhi `21 Aug 22:42` · investing_news
+
 **With Bitcoin Rallying, Strategy (MSTR) Just Flipped From a $13 Billion Loss to a $1.4 Billion Gain. Should Investors Buy the Rally?**
 `21 Aug 21:34 PKT` · pehli baar dekhi `21 Aug 22:04` · yahoo_finance
 
 **Utorg launches Utapp crypto wallet and card for iOS users, expanding its consumer product ecosystem**
 `21 Aug 21:32 PKT` · pehli baar dekhi `21 Aug 22:04` · investing_news
+
+**CoinShares: Bitcoin To Stay Rangebound Below $80K Until Fed Signals Policy Shift - Bitcoin World**
+`21 Aug 21:30 PKT` · pehli baar dekhi `21 Aug 22:42` · gnews_fed
+
+CoinShares: Bitcoin To Stay Rangebound Below $80K Until Fed Signals Policy Shift Bitcoin World
 
 **Financial Services Roundup: Market Talk**
 `21 Aug 21:28 PKT` · pehli baar dekhi `21 Aug 21:34` · wsj_markets
@@ -1683,6 +1759,24 @@ Support for rate hike may be growing ABC Columbia
 
 ### RISK
 
+**Why Iran is threatening Europe's 'strategically important' southeast**
+`21 Aug 22:29 PKT` · pehli baar dekhi `21 Aug 22:42` · aljazeera
+
+Tehran has threatened Bulgaria, home to a US air base, but how credible is that threat?
+
+**United Kingdom: Resilient growth outlook – Deutsche Bank**
+`21 Aug 22:08 PKT` · pehli baar dekhi `21 Aug 22:42` · fxstreet_news
+
+Deutsche Bank Research, led by Sanjay Raja and Maui Brennan, highlights the United Kingdom (UK) economy's surprising resilience to the Iran-related energy shock in 2026. Gross Domestic Product (GDP) grew 0.6% q-o-q in Q1 and 0.4% in Q2, making the UK the fastest-growing G7 economy.
+
+**Lula, Trump discuss tariffs in phone call, Brazil says**
+`21 Aug 22:06 PKT` · pehli baar dekhi `21 Aug 22:42` · investing_news
+
+**Ukraine's Shakhtar to use ex-Russian-owned Chelsea as Champions League home**
+`21 Aug 21:53 PKT` · pehli baar dekhi `21 Aug 22:42` · aljazeera
+
+Shakhtar have not played at home since 2014 when Russia annexed the Donetsk region and now switch to Stamford Bridge.
+
 **Oil rises as Trump threatens sanctions on Iran partners - Business Recorder**
 `21 Aug 21:51 PKT` · pehli baar dekhi `21 Aug 22:04` · gnews_geopolitics
 
@@ -1692,6 +1786,11 @@ Oil rises as Trump threatens sanctions on Iran partners Business Recorder
 `21 Aug 21:41 PKT` · pehli baar dekhi `21 Aug 22:04` · fxstreet_news
 
 Iranian President Masoud Pezeshkian stated that "It would be better to end the war today, when we have power and dignity, and with the whole world acknowledging our victory," according to a Bloomberg report on Friday.
+
+**Ukraine sanctions popular Russian cartoon 'Masha and the Bear'**
+`21 Aug 21:38 PKT` · pehli baar dekhi `21 Aug 22:42` · aljazeera
+
+Zelenskyy signs decree imposing sanctions on producers, accuses cartoon show of spreading &#039;pro-Russian propaganda&#039;.
 
 **Bank of Canada: Tariff deal unlikely to accelerate hikes – TD Securities**
 `21 Aug 21:38 PKT` · pehli baar dekhi `21 Aug 22:04` · fxstreet_news
@@ -1819,6 +1918,11 @@ Oil set for second weekly rise as unsettled US-Iran war crimps supply Classic Ro
   - `21 Aug 07:05` *gnews_geopolitics* — Oil set for second weekly rise as unsettled US-Iran war crimps supply - CNBC
   - `21 Aug 06:49` *gnews_geopolitics* — Oil set for second weekly rise as unsettled US-Iran war crimps supply - AOL.ca
 
+**Oil Prices Ease on U.S. Sanctions on Iran, But Set for Weekly Gains | Market Update - News and Statistics - IndexBox**
+`21 Aug 15:11 PKT` · pehli baar dekhi `21 Aug 22:42` · gnews_geopolitics
+
+Oil Prices Ease on U.S. Sanctions on Iran, But Set for Weekly Gains | Market Update - News and Statistics IndexBox
+
 **How the US-Iran War Is Disrupting Global Oil Supply in 2026 - discoveryalert.com.au**
 `21 Aug 15:07 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
 
@@ -1852,6 +1956,11 @@ Oil set for second weekly rise as unsettled US-Iran war crimps supply mediaselan
   - `21 Aug 07:49` *gnews_geopolitics* — Oil set for second weekly rise as unsettled US-Iran war crimps supply - Business Recorder
   - `21 Aug 07:29` *gnews_geopolitics* — Oil set for second weekly rise as unsettled US-Iran war crimps supply - KLSE Screener
   - `21 Aug 07:29` *gnews_geopolitics* — Oil set for second weekly rise as unsettled US-Iran war crimps supply - NST Online
+
+**US Threatens Iran with "Toughest Sanctions in History" - Bloom Pakistan**
+`21 Aug 13:06 PKT` · pehli baar dekhi `21 Aug 22:42` · gnews_geopolitics
+
+US Threatens Iran with "Toughest Sanctions in History" Bloom Pakistan
 
 **US-Israel-Iran War Latest Live News: Trump Says US is 'Essentially Controlling the Straits' as Oil Prices Surge Above $90 – Mark Warner Condemns 'Disastrous' War - The Sunday Guardian**
 `21 Aug 12:22 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
@@ -1929,13 +2038,40 @@ Iran has so far proved adept at finding ways around years of already punishing s
 
 It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
 
-### BINA TAG (167)
+### BINA TAG (195)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `21 Aug 22:31` **investing_news** — Nscale seeks $3 billion US IPO amid AI data center rush
+- `21 Aug 22:30` **yahoo_finance** — Could Netflix Stock Double From Here? The Numbers Are Getting Interesting.
+- `21 Aug 22:28` **yahoo_finance** — Infleqtion Soars 10%, Rigetti Jumps 9%, IonQ Climbs 7%: What's Driving Quantum Computing Stocks Now?
+- `21 Aug 22:27` **yahoo_finance** — Citadel unwinds 80% of Situational Awareness portfolio
+- `21 Aug 22:25` **yahoo_finance** — Hyperscalers Will Spend $750 Billion on AI This Year. Cummins Sells the Backup Power.
+- `21 Aug 22:24` **investing_news** — Agroz receives Nasdaq delisting notice, plans appeal hearing
+- `21 Aug 22:23` **investing_news** — Walmart adds Apple Pay as retailer expands contactless payments
+- `21 Aug 22:19` **yahoo_finance** — Knightvest Buys Discounted Austin Apartment Portfolio
+- `21 Aug 22:19` **yahoo_finance** — Broadcom seeks up to $80 billion in debt for AI chip deal
+- `21 Aug 22:17` **aljazeera** — Israeli army, settlers kill 2 Palestinians in separate West Bank incidents
+- `21 Aug 22:17` **yahoo_finance** — Popular men's fashion retail chain files Chapter 11 bankruptcy
+- `21 Aug 22:14` **yahoo_finance** — These Copper Miners Top Buy Points Amid Supply, Demand Crunch
+- `21 Aug 22:09` **yahoo_finance** — IBD Stock Of The Day, Travere Therapeutics, Tests Another Breakout. Can The Stock Get Any 'Sweeter?'
+- `21 Aug 22:09` **yahoo_finance** — REPOWR, ATBS team up to expand trailer access for owner-operators
+- `21 Aug 22:09` **mw_topstories** — 5 things to know about the Chinese e-commerce juggernaut Shein ahead of its IPO
+- `21 Aug 22:07` **mw_topstories** — Tesla's stock jumps as the company gets ready for a robotaxi push
+- `21 Aug 22:06` **investing_news** — Exclusive-US plans $725 million payment towards its large UN debt
+- `21 Aug 22:06` **kitco_general** — Cleveland-Cliffs to match $500 million DOE grant for Ohio steel plant project - KITCO
+- `21 Aug 22:01` **investing_news** — Medifast director Parsa Kiai acquires $842,698 in company shares
+- `21 Aug 21:59` **yahoo_finance** — Impinj Set To Revolutionize Logistics With Tracking Chips. CEO Eyes 'Gigantic Opportunity.'
+- `21 Aug 21:50` **yahoo_finance** — Intuitive Machines (LUNR) Hits Record $1.8B Backlog as Spending Scales Up
+- `21 Aug 21:45` **yahoo_finance** — Uber Stock Options Trade Offers Exposure Without The Ownership Price Tag
+- `21 Aug 21:45` **bbc_business** — US borrowing costs rise as attempts to ease rates prove short-lived
 - `21 Aug 21:45` **wsj_markets** — Health Care Roundup: Market Talk
+- `21 Aug 21:44` **investing_commodities** — Northwest European gasoline margins climb on strong demand
+- `21 Aug 21:44` **investing_commodities** — Euronext wheat drops as traders take profits after four-week high
+- `21 Aug 21:43` **yahoo_finance** — Einride AB Reports Growth Acceleration & Fleet Scale Moves Towards 2028 – Quarterly Update Report
 - `21 Aug 21:43` **yahoo_finance** — Deals & Moves: NewEdge Adds AllianceBernstein Team to Lead New Houston Office
 - `21 Aug 21:41` **yahoo_finance** — Figure Technologies (FIGR) Leverages Blockchain Infrastructure for Accelerated Growth
+- `21 Aug 21:40` **yahoo_finance** — U.S. Billionaires Are Piling Into Argentina's Vaca Muerta Shale
 - `21 Aug 21:37` **mining_com** — Mining's next biggest challenge is securing talent
 - `21 Aug 21:35` **yahoo_finance** — Where Will Sandisk Stock Be in 5 Years?
 - `21 Aug 21:34` **yahoo_finance** — Why OSI Systems Seems Radioactive Today
@@ -1950,6 +2086,7 @@ It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomati
 - `21 Aug 21:25` **cointelegraph** — Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot
 - `21 Aug 21:24` **aljazeera** — England thrash Pakistan by an innings and 103 runs in first Test
 - `21 Aug 21:21` **yahoo_finance** — A Landmark Power Deal Puts Fermi's (FRMI) Big Bet to the Test
+- `21 Aug 21:18` **gnews_fed** — 3 Large-Cap Value Funds to Buy Amid Sinking Consumer Sentiment - TradingView
 - `21 Aug 21:17` **fxstreet_news** — The Dow Jones Industrial Average buys its own bond problem
 - `21 Aug 21:17` **wsj_markets** — Private Equity Is Deploying an Army of AI Wonks to Embed in the Firms They Back
 - `21 Aug 21:15` **aljazeera** — Arsenal vs Coventry LIVE: Premier League
@@ -2103,11 +2240,11 @@ It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomati
 
 ---
 
-## Shor — 6 khabrein hatai gayin
+## Shor — 8 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (6)
+investing_news (8)
 
 ---
 
@@ -2118,7 +2255,7 @@ investing_news (6)
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 2 | 28 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 4 | 26 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 4 | 0 | 4 | 26 | 0.1 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.1 |
 | marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.2 |
@@ -2130,29 +2267,29 @@ investing_news (6)
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.5 |
-| kitco_general | OK | 24 | 17 | 1 | 16 | 7 | 0.1 |
-| gnews_fed | OK | 93 | 53 | 6 | 47 | 40 | 0.0 |
-| gnews_geopolitics | OK | 100 | 90 | 4 | 86 | 10 | 0.0 |
-| gnews_centralbanks | OK | 35 | 33 | 1 | 32 | 2 | 0.0 |
+| kitco_general | OK | 21 | 18 | 1 | 17 | 3 | 0.0 |
+| gnews_fed | OK | 91 | 53 | 5 | 48 | 38 | 0.0 |
+| gnews_geopolitics | OK | 100 | 93 | 5 | 88 | 7 | 0.1 |
+| gnews_centralbanks | OK | 35 | 33 | 0 | 33 | 2 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.0 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.9 |
 | ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.2 |
 | boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.4 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.3 |
-| mining_com | OK | 36 | 8 | 4 | 4 | 28 | 0.0 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.4 |
+| mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.0 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
 | ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
-| bbc_business | OK | 50 | 14 | 0 | 14 | 36 | 0.1 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| bbc_business | OK | 50 | 15 | 1 | 14 | 35 | 0.0 |
+| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
 | snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.3 |
-| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.1 |
+| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.2 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.2 |
-| wsj_world | OK | 72 | 11 | 1 | 10 | 61 | 0.0 |
-| wsj_markets | OK | 61 | 22 | 3 | 19 | 39 | 0.0 |
+| wsj_world | OK | 72 | 11 | 0 | 11 | 61 | 0.0 |
+| wsj_markets | OK | 61 | 22 | 0 | 22 | 39 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 31 | 11 | 20 | 19 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 14 | 0 | 14 | 16 | 0.0 |
+| yahoo_finance | OK | 50 | 36 | 17 | 19 | 14 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 14 | 0 | 14 | 16 | 0.1 |
