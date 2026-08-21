@@ -1,9 +1,9 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 02:44 PKT**
-- Kul khabrein: **846**
-- Feeds: 35/39 OK
+- Aakhri update: **22 Aug 03:02 PKT**
+- Kul khabrein: **862**
+- Feeds: 39/39 OK
 
 ---
 
@@ -162,6 +162,11 @@ Prior 52.2 Services PMI 48.5 vs 50.1 expected Prior 49.8 Composite PMI 51.0 vs 5
 EUROPEAN SESSION In the European session, we get the Flash PMIs for the major Eurozone economies and the UK. Pretty much all of them are expected to pull back from prior month's levels given the ongoing Hormuz disruption and US-Iran stalemate. The data won't change anything for the respective central banks, though, so the market reaction will likely be muted. Right now, the market is more focused on the Treasury "intervention" plan trying to limit the surge in long-term yields.
 
 ### GOLD
+
+**Gold, silver extend rally as dollar slide offsets higher yields - Kitco PM Report - KITCO**
+`22 Aug 02:20 PKT` · pehli baar dekhi `22 Aug 03:02` · kitco_general
+
+Gold, silver extend rally as dollar slide offsets higher yields - Kitco PM Report KITCO
 
 **TSX Closes Higher on Miners and Banks Gains**
 `22 Aug 02:18 PKT` · instaforex
@@ -1531,9 +1536,10 @@ The Ibovespa climbed more than 1% on Friday, moving above the 170,000 mark ahead
 China's refiners have imported lower volumes of Iranian crude in August compared to July as the U.S. blockade reinstated in mid-July is squeezing crude supply to Iran's top oil customer. So far this month, China is estimated to have imported about 534,000 barrels per day (bpd) of Iranian crude oil, down from an estimated 823,000 bpd in July, according to preliminary data by Kpler cited by Reuters. The reinstated U.S.
 
 **China's Teapots Look Beyond Iranian Oil amid U.S. Blockade - Crude Oil Prices Today | OilPrice.com**
-`21 Aug 20:30 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
+`21 Aug 20:30 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics · **2 feeds mein**
 
 China's Teapots Look Beyond Iranian Oil amid U.S. Blockade Crude Oil Prices Today | OilPrice.com
+  - `21 Aug 20:30` *gnews_geopolitics* — China's Teapots Look Beyond Iranian Oil amid U.S. Blockade - Crude Oil Prices Today | OilPrice.com
 
 **Less oil for China due to US naval blockade of Iran - vijesti.me**
 `21 Aug 20:15 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
@@ -1679,6 +1685,11 @@ Reuters, according to trading sources: Supplies of Iranian oil to China have dec
 `21 Aug 15:30 PKT` · pehli baar dekhi `21 Aug 20:49` · oilprice
 
 The new Nigerian incentives for offshore oil and gas projects have the potential to attract $50 billion in new investment in Nigeria's offshore energy sector, the Nigerian Upstream Petroleum Regulatory Commission (NUPRC) has said. Nigeria, however, needs upskilled and additional numbers of skilled workers and employees, including in the digital industries, to take advantage of the new offshore opportunities, the regulator's chief executive, Oritsemeyiwa Eyesan, said at a human resources ...
+
+**Iranian Oil Offers to China Plunge as US Naval Blockade Squeezes Global Supply - streamlinefeed.co.ke**
+`21 Aug 15:10 PKT` · pehli baar dekhi `22 Aug 03:02` · gnews_geopolitics
+
+Iranian Oil Offers to China Plunge as US Naval Blockade Squeezes Global Supply streamlinefeed.co.ke
 
 **Iran oil production now barely above domestic needs - TankerTrackers - t.co**
 `21 Aug 15:00 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics · **2 feeds mein**
@@ -1939,6 +1950,14 @@ Oil Set for Weekly Surge as US Seeks to Throttle Iran's Economy Bloomberg.com
 
 ### CRYPTO
 
+**Boeing engineers reject contract and authorize strike - Crypto Briefing**
+`22 Aug 02:58 PKT` · pehli baar dekhi `22 Aug 03:02` · gnews_geopolitics
+
+Boeing engineers reject contract and authorize strike Crypto Briefing
+
+**Bitcoin rockets nearly 23% for the week as crypto roars back to life**
+`22 Aug 02:38 PKT` · pehli baar dekhi `22 Aug 03:02` · investing_news
+
 **Tech, Media & Telecom Roundup: Market Talk**
 `22 Aug 02:28 PKT` · pehli baar dekhi `22 Aug 02:44` · wsj_markets
 
@@ -2174,6 +2193,11 @@ Fed minutes show September rate hike still on the table Reuters
 Support for rate hike may be growing ABC Columbia
 
 ### RISK
+
+**Opinion | Trump's Iran Credibility Problem**
+`22 Aug 02:47 PKT` · pehli baar dekhi `22 Aug 03:02` · wsj_world
+
+Will the President really follow through on his new economic threats?
 
 **Russia stocks higher at close of trade; MOEX Russia Index up 0.60%**
 `22 Aug 02:20 PKT` · pehli baar dekhi `22 Aug 02:44` · investing_news
@@ -2502,10 +2526,17 @@ Iran has so far proved adept at finding ways around years of already punishing s
 
 It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
 
-### BINA TAG (283)
+### BINA TAG (290)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 02:46` **wsj_world** — Opinion | Massacring the Memory of Tiananmen Square
+- `22 Aug 02:40` **investing_news** — Sigma Lithium resumes full operations after Brazil agreement
+- `22 Aug 02:40` **investing_news** — Kimbell Royalty closes $221.2 million acquisition
+- `22 Aug 02:38` **aljazeera** — Mexico Governor Ruben Rocha returns to office despite US criminal charges
+- `22 Aug 02:31` **investing_news** — OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%
+- `22 Aug 02:30` **investing_news** — Mexico stocks higher at close of trade; S&P/BMV IPC up 2.14%
+- `22 Aug 02:29` **investing_news** — Fitch upgrades Summit Midstream rating on financial strength
 - `22 Aug 02:23` **aljazeera** — One killed, three wounded in sword attack at Swedish high school
 - `22 Aug 02:20` **mw_topstories** — You can now Venmo your kid's college tuition. But should you?
 - `22 Aug 02:19` **investing_news** — US Army Secretary Driscoll is expected to step down by year's end, WSJ reports
@@ -2792,11 +2823,11 @@ It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomati
 
 ---
 
-## Shor — 18 khabrein hatai gayin
+## Shor — 21 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (18)
+investing_news (21)
 
 ---
 
@@ -2808,21 +2839,21 @@ investing_news (18)
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
 | fxstreet_news | OK | 30 | 30 | 0 | 30 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.1 |
+| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.2 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
 | marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.4 |
 | instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.2 |
 | wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.3 |
-| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
-| cme_rates_video | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
 | cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
-| cme_daily_commentary | OK | 10 | 8 | 1 | 7 | 2 | 0.0 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.0 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.7 |
-| kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_geopolitics | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_centralbanks | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| kitco_general | OK | 26 | 26 | 1 | 25 | 0 | 0.0 |
+| gnews_fed | OK | 67 | 67 | 0 | 67 | 0 | 0.1 |
+| gnews_geopolitics | OK | 100 | 100 | 3 | 97 | 0 | 0.0 |
+| gnews_centralbanks | OK | 32 | 32 | 0 | 32 | 0 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.1 |
 | ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
@@ -2830,24 +2861,18 @@ investing_news (18)
 | boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.6 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.5 |
 | mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.1 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.4 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.5 |
 | bbc_business | OK | 50 | 16 | 0 | 16 | 34 | 0.0 |
 | aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.5 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.3 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.4 |
-| wsj_world | OK | 72 | 13 | 0 | 13 | 59 | 0.0 |
-| wsj_markets | OK | 61 | 27 | 1 | 26 | 34 | 0.0 |
+| wsj_world | OK | 72 | 15 | 2 | 13 | 57 | 0.0 |
+| wsj_markets | OK | 61 | 27 | 0 | 27 | 34 | 0.0 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 7 | 0 | 7 | 42 | 0.2 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 18 | 0 | 18 | 12 | 0.0 |
-
-**Jo feeds nahi aaye:**
-- kitco_general — FAIL, HTTP 503
-- gnews_fed — FAIL, HTTP 503
-- gnews_geopolitics — FAIL, HTTP 503
-- gnews_centralbanks — FAIL, HTTP 503
+| yahoo_finance | OK | 50 | 2 | 0 | 2 | 48 | 0.4 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 18 | 0 | 18 | 12 | 0.1 |
