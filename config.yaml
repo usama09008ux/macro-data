@@ -91,7 +91,9 @@ feeds_cme:
     url: "https://www.cmegroup.com/rss/fx-video-commentary.rss"
     weight: 9
     cadence_days: 1
-    tag: fx
+    # NOTE: pehle yahan "tag: fx" tha. Wo ghalti thi — 'fx' koi
+    # section hai hi nahi, is liye ye khabrein BINA TAG mein gir
+    # rahi thin. Ab mawaad khud apna tag chun lega (eur/jpy/gbp).
 
   - name: cme_rates_video
     url: "https://www.cmegroup.com/rss/interestrates-video-commentary.rss"
