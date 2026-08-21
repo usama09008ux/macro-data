@@ -1,7 +1,7 @@
 # News Pack — Trading Day 20 Aug 2026
 
 - Trading day: **20 Aug 03:00 -> 21 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 08:50 PKT**
+- Aakhri update: **21 Aug 08:56 PKT**
 - Kul khabrein: **232**
 - Feeds: 29/29 OK
 
@@ -762,10 +762,10 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 20 | 3 | 17 | 5 | 0.0 |
-| fxstreet_news | OK | 30 | 21 | 1 | 20 | 9 | 0.0 |
+| investinglive | OK | 25 | 21 | 1 | 20 | 4 | 0.0 |
+| fxstreet_news | OK | 30 | 21 | 0 | 21 | 9 | 0.0 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.4 |
-| actionforex | OK | 20 | 7 | 1 | 6 | 13 | 0.0 |
+| actionforex | OK | 20 | 7 | 0 | 7 | 13 | 0.0 |
 | marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 0.8 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
@@ -774,10 +774,10 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.0 |
-| gnews_gold | OK | 100 | 18 | 18 | 0 | 82 | 0.0 |
-| gnews_fed | OK | 100 | 9 | 9 | 0 | 91 | 0.2 |
-| gnews_geopolitics | OK | 97 | 14 | 14 | 0 | 83 | 0.0 |
-| gnews_centralbanks | OK | 39 | 15 | 15 | 0 | 24 | 0.0 |
+| gnews_gold | OK | 100 | 18 | 0 | 18 | 82 | 0.0 |
+| gnews_fed | OK | 100 | 9 | 1 | 8 | 91 | 0.2 |
+| gnews_geopolitics | OK | 96 | 15 | 1 | 14 | 81 | 0.0 |
+| gnews_centralbanks | OK | 39 | 15 | 0 | 15 | 24 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.3 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
@@ -785,9 +785,9 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 3.8 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 1.8 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 16.6 |
-| wsj_world | OK | 71 | 4 | 0 | 4 | 67 | 0.0 |
+| wsj_world | OK | 71 | 4 | 0 | 4 | 67 | 0.1 |
 | wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.1 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.8 |
 | mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
-| cointelegraph | OK | 30 | 1 | 1 | 0 | 29 | 0.0 |
+| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.0 |

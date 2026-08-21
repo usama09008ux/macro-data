@@ -1,8 +1,8 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 08:50 PKT**
-- Kul khabrein: **183**
+- Aakhri update: **21 Aug 08:56 PKT**
+- Kul khabrein: **186**
 - Feeds: 29/29 OK
 
 ---
@@ -10,6 +10,11 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**RBI seen selling dollars to support rupee as USD/INR holds steady**
+`21 Aug 08:47 PKT` · pehli baar dekhi `21 Aug 08:56` · investinglive
+
+The intervention fits a well established pattern for the RBI through 2026, stepping in periodically to smooth volatility rather than defend a specific level, typically when USD/INR approaches its record highs. That USD/INR is little changed despite the reported dollar sales suggests the central bank is currently offsetting fresh depreciation pressure rather than driving an outright reversal, consistent with analyst characterisations of the RBI's approach as containing losses rather than ...
 
 **investingLive Asia-Pacific market news: Surge for crypto**
 `21 Aug 08:28 PKT` · pehli baar dekhi `21 Aug 08:50` · investinglive
@@ -379,6 +384,11 @@ A trio of proposed pipelines would serve the same function—delivering heavy oi
 
 USD/CAD extends its losses for the third successive day, trading around 1.3770 during the Asian hours on Friday. The currency pair loses ground as the commodity-linked Canadian Dollar (CAD) receives support from rising crude oil prices.
 
+**Boston Federal Reserve president remarks about U.S. economy in Dover visit - Yahoo News Canada**
+`21 Aug 03:12 PKT` · pehli baar dekhi `21 Aug 08:56` · gnews_fed
+
+Boston Federal Reserve president remarks about U.S. economy in Dover visit Yahoo News Canada
+
 ### AUD
 
 **Australian Dollar gains ground above 0.7100 as US debt concerns weigh on US Dollar**
@@ -424,6 +434,11 @@ The NZD/USD pair attracts buyers for the third straight day and climbs to a fres
 New Zealand trade data, July 2026 Trade balance NZ$-1.95 billion (prior 23mn) Imports NZ$+9.34 billion (prior 8.07bn) Exports NZ$+7.39 billion (prior 8.09bn) New Zealand July annual trade balance NZ$-5.24 billion (prior -3.75bn) This article was written by Eamonn Sheridan at investinglive.com.
 
 ### OIL
+
+**Iran Tensions And Hormuz Security Keep Crude Oil Markets On Edge, With Implications For TSX:RY - foreignpolicyjournal.com**
+`21 Aug 08:48 PKT` · pehli baar dekhi `21 Aug 08:56` · gnews_geopolitics
+
+Iran Tensions And Hormuz Security Keep Crude Oil Markets On Edge, With Implications For TSX:RY foreignpolicyjournal.com
 
 **Oil Prices Surge Past $93 As US-Iran Conflict Fuels Fresh Supply Fears - Times Now**
 `21 Aug 08:25 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_geopolitics
@@ -639,10 +654,10 @@ Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Busi
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 20 | 3 | 17 | 5 | 0.0 |
-| fxstreet_news | OK | 30 | 21 | 1 | 20 | 9 | 0.0 |
+| investinglive | OK | 25 | 21 | 1 | 20 | 4 | 0.0 |
+| fxstreet_news | OK | 30 | 21 | 0 | 21 | 9 | 0.0 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.4 |
-| actionforex | OK | 20 | 7 | 1 | 6 | 13 | 0.0 |
+| actionforex | OK | 20 | 7 | 0 | 7 | 13 | 0.0 |
 | marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 0.8 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
@@ -651,10 +666,10 @@ Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Busi
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.0 |
-| gnews_gold | OK | 100 | 18 | 18 | 0 | 82 | 0.0 |
-| gnews_fed | OK | 100 | 9 | 9 | 0 | 91 | 0.2 |
-| gnews_geopolitics | OK | 97 | 14 | 14 | 0 | 83 | 0.0 |
-| gnews_centralbanks | OK | 39 | 15 | 15 | 0 | 24 | 0.0 |
+| gnews_gold | OK | 100 | 18 | 0 | 18 | 82 | 0.0 |
+| gnews_fed | OK | 100 | 9 | 1 | 8 | 91 | 0.2 |
+| gnews_geopolitics | OK | 96 | 15 | 1 | 14 | 81 | 0.0 |
+| gnews_centralbanks | OK | 39 | 15 | 0 | 15 | 24 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.3 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
@@ -662,9 +677,9 @@ Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Busi
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 3.8 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 1.8 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 16.6 |
-| wsj_world | OK | 71 | 4 | 0 | 4 | 67 | 0.0 |
+| wsj_world | OK | 71 | 4 | 0 | 4 | 67 | 0.1 |
 | wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.1 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.8 |
 | mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
-| cointelegraph | OK | 30 | 1 | 1 | 0 | 29 | 0.0 |
+| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.0 |
