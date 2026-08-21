@@ -1,18 +1,38 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 02:18 PKT**
-- Kul khabrein: **830**
-- Feeds: 39/39 OK
+- Aakhri update: **22 Aug 02:44 PKT**
+- Kul khabrein: **846**
+- Feeds: 35/39 OK
 
 ---
 
 ## Sarkari / Exchange
 
+**Warsh's Jackson Hole debut lands 19 days before the Fed decision.**
+`22 Aug 02:12 PKT` · pehli baar dekhi `22 Aug 02:44` · cme_metals_video
+
+Traders enter the week of August 24 seeking the next catalyst for equity index futures to break out higher or correct lower. Nvidia reports earnings Wednesday after the close, serving as a primary driver for tech trade sentiment alongside second-quarter U.S. GDP and PCE inflation data. Meanwhile, Treasury Secretary Scott Bessent outlines new sanctions on Iran, and Federal Reserve Chair Kevin Warsh delivers his debut Jackson Hole keynote 19 days ahead of the September FOMC rate decision.
+
+**S&P 500 futures rebound from 3-week low.**
+`22 Aug 02:06 PKT` · pehli baar dekhi `22 Aug 02:44` · cme_daily_commentary
+
+Dan Deming of KKM Financial analyzes the equity index futures markets as S&P 500 futures rebound after closing at a three-week low in the prior session. Deming notes that positive reactions to corporate earnings, options expiration for the August cycle, and solid economic data provided short-term support to help markets stabilize.
+
 **Gold futures hit May highs as fiscal concerns offset yields.**
 `22 Aug 02:05 PKT` · pehli baar dekhi `22 Aug 02:18` · cme_metals_video
 
 Bob Iaccino of Path Trading Partners analyzes the metals markets, noting that Gold futures rallied for a fifth consecutive week, reaching their highest level since May 14. Despite a slight uptick in yields and shifting rate-hike expectations, Gold prices remained supported by a strong fiscal stress and currency debasement narrative.
+
+**10-Year Note futures fall as 10-Year yield hits 2026 high.**
+`22 Aug 02:05 PKT` · pehli baar dekhi `22 Aug 02:44` · cme_rates_video
+
+Dan Deming of KKM Financial analyzes the interest rate markets, noting that 10-Year Note futures traded lower for a second consecutive session to 108'07, nearing their lowest closing level of 2026. Deming highlights that Treasury buyback activity and global debt concerns continue to influence market expectations, with yields in Japan reaching record highs.
+
+**British Pound futures reach 6.5-month highs on weaker dollar.**
+`22 Aug 02:05 PKT` · pehli baar dekhi `22 Aug 02:44` · cme_fx_video
+
+Bob Iaccino of Path Trading Partners analyzes the currency markets, noting that British Pound futures rallied for a third consecutive session to reach six-and-a-half-month highs. Despite mixed U.K. economic data showing a 0.5% drop in July retail sales alongside a rising composite PMI, the pound continues to find support. Iaccino highlights that the bigger driver for the currency is coming from the U.S.
 
 **RBOB Gasoline futures reach highest levels since June as volume rolls.**
 `22 Aug 01:29 PKT` · pehli baar dekhi `22 Aug 01:51` · cme_energy_video
@@ -1234,6 +1254,9 @@ USD/CHF&#8217;s fall from 0.8205 short term top is in progress and intraday bias
 
 ### CAD
 
+**Trump expects US to reach trade deal with Canada**
+`22 Aug 02:09 PKT` · pehli baar dekhi `22 Aug 02:44` · investing_news
+
 **Western allies slam Israel for ending World Central Kitchen strike probe**
 `22 Aug 01:03 PKT` · pehli baar dekhi `22 Aug 01:51` · aljazeera
 
@@ -1916,6 +1939,11 @@ Oil Set for Weekly Surge as US Seeks to Throttle Iran's Economy Bloomberg.com
 
 ### CRYPTO
 
+**Tech, Media & Telecom Roundup: Market Talk**
+`22 Aug 02:28 PKT` · pehli baar dekhi `22 Aug 02:44` · wsj_markets
+
+Find insight on Bitcoin, cryptocurrencies, Alibaba Group and more in the latest Market Talks covering technology, media and telecom.
+
 **U.S. Stocks Rise as Bitcoin Nears $80,000**
 `22 Aug 02:04 PKT` · pehli baar dekhi `22 Aug 02:18` · wsj_markets
 
@@ -2146,6 +2174,12 @@ Fed minutes show September rate hike still on the table Reuters
 Support for rate hike may be growing ABC Columbia
 
 ### RISK
+
+**Russia stocks higher at close of trade; MOEX Russia Index up 0.60%**
+`22 Aug 02:20 PKT` · pehli baar dekhi `22 Aug 02:44` · investing_news
+
+**Live cattle futures slip on tariff news and weak cash market**
+`22 Aug 02:12 PKT` · pehli baar dekhi `22 Aug 02:44` · investing_news
 
 **Goldman Sachs analyst says oil market already priced in Iran supply disruptions before latest sanctions - Crypto Briefing**
 `22 Aug 02:04 PKT` · pehli baar dekhi `22 Aug 02:18` · gnews_geopolitics
@@ -2468,10 +2502,15 @@ Iran has so far proved adept at finding ways around years of already punishing s
 
 It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
 
-### BINA TAG (278)
+### BINA TAG (283)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 02:23` **aljazeera** — One killed, three wounded in sword attack at Swedish high school
+- `22 Aug 02:20` **mw_topstories** — You can now Venmo your kid's college tuition. But should you?
+- `22 Aug 02:19` **investing_news** — US Army Secretary Driscoll is expected to step down by year's end, WSJ reports
+- `22 Aug 02:18` **investing_news** — Niki BioSolutions reports wider H1 loss amid going concern doubts
+- `22 Aug 02:18` **investing_news** — Hims & Hers faces Visa penalties over dispute surge - Bloomberg
 - `22 Aug 02:17` **mw_topstories** — Soon you can buy Medicare Advantage plans at Costco. What you need to know.
 - `22 Aug 02:15` **aljazeera** — Arsenal rout Coventry 3-0 to begin Premier League title defence in style
 - `22 Aug 02:11` **aljazeera** — Global Sumud Flotilla joins Albania's anti-resort protest
@@ -2753,11 +2792,11 @@ It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomati
 
 ---
 
-## Shor — 15 khabrein hatai gayin
+## Shor — 18 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (15)
+investing_news (18)
 
 ---
 
@@ -2767,42 +2806,48 @@ investing_news (15)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 1 | 29 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
+| fxstreet_news | OK | 30 | 30 | 0 | 30 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.1 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
 | marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.4 |
-| instaforex | OK | 25 | 25 | 6 | 19 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.2 |
-| cme_metals_video | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.0 |
-| cme_daily_commentary | OK | 10 | 3 | 0 | 3 | 7 | 0.0 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.3 |
+| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
+| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
+| cme_rates_video | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
+| cme_daily_commentary | OK | 10 | 8 | 1 | 7 | 2 | 0.0 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.7 |
-| kitco_general | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
-| gnews_fed | OK | 76 | 70 | 5 | 65 | 6 | 0.0 |
-| gnews_geopolitics | OK | 100 | 97 | 6 | 91 | 3 | 0.0 |
-| gnews_centralbanks | OK | 34 | 33 | 0 | 33 | 1 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
+| kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_fed | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_geopolitics | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_centralbanks | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.1 |
 | ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.3 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.4 |
 | boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.6 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.5 |
-| mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.0 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
+| mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.1 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.0 |
 | investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.4 |
 | bbc_business | OK | 50 | 16 | 0 | 16 | 34 | 0.0 |
-| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.5 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.3 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.4 |
-| wsj_world | OK | 72 | 13 | 1 | 12 | 59 | 0.0 |
-| wsj_markets | OK | 61 | 26 | 1 | 25 | 35 | 0.0 |
-| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 9 | 2 | 7 | 40 | 0.1 |
+| wsj_world | OK | 72 | 13 | 0 | 13 | 59 | 0.0 |
+| wsj_markets | OK | 61 | 27 | 1 | 26 | 34 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 7 | 0 | 7 | 42 | 0.2 |
 | mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
 | cointelegraph | OK | 30 | 18 | 0 | 18 | 12 | 0.0 |
+
+**Jo feeds nahi aaye:**
+- kitco_general — FAIL, HTTP 503
+- gnews_fed — FAIL, HTTP 503
+- gnews_geopolitics — FAIL, HTTP 503
+- gnews_centralbanks — FAIL, HTTP 503
