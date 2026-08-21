@@ -1,9 +1,9 @@
 # News Pack — Trading Day 20 Aug 2026
 
 - Trading day: **20 Aug 03:00 -> 21 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 13:21 PKT**
+- Aakhri update: **21 Aug 14:06 PKT**
 - Kul khabrein: **232**
-- Feeds: 31/35 OK
+- Feeds: 32/35 OK
 
 ---
 
@@ -817,25 +817,25 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 5 | 25 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 9 | 21 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 2 | 0 | 2 | 28 | 0.1 |
-| actionforex | OK | 20 | 15 | 1 | 14 | 5 | 0.0 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.0 |
-| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.1 |
-| gnews_gold | OK | 100 | 47 | 3 | 44 | 53 | 0.0 |
-| gnews_fed | OK | 100 | 12 | 1 | 11 | 88 | 0.2 |
-| gnews_geopolitics | OK | 99 | 43 | 5 | 38 | 56 | 0.0 |
-| gnews_centralbanks | OK | 40 | 25 | 5 | 20 | 15 | 0.0 |
+| actionforex | OK | 20 | 18 | 3 | 15 | 2 | 0.0 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.1 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 2 | 1 | 1 | 34 | 0.0 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.2 |
+| gnews_gold | OK | 100 | 52 | 8 | 44 | 48 | 0.0 |
+| gnews_fed | OK | 100 | 15 | 3 | 12 | 85 | 0.0 |
+| gnews_geopolitics | OK | 98 | 49 | 7 | 42 | 49 | 0.0 |
+| gnews_centralbanks | OK | 41 | 28 | 5 | 23 | 13 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.5 |
-| ecb_press | OK | 15 | 1 | 1 | 0 | 14 | 0.0 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.0 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 9.8 |
 | boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.1 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.0 |
@@ -844,16 +844,15 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 | snb_press | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | us_treasury | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 1.8 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 16.8 |
-| wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.0 |
-| wsj_markets | OK | 61 | 5 | 0 | 5 | 56 | 0.0 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 16.9 |
+| wsj_world | OK | 71 | 6 | 1 | 5 | 65 | 0.0 |
+| wsj_markets | OK | 61 | 7 | 2 | 5 | 54 | 0.0 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 1.0 |
-| mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
-| cointelegraph | OK | 30 | 5 | 1 | 4 | 25 | 0.0 |
+| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 1.0 |
+| mw_topstories | OK | 10 | 4 | 1 | 3 | 6 | 0.0 |
+| cointelegraph | OK | 30 | 6 | 1 | 5 | 24 | 0.0 |
 
 **Jo feeds nahi aaye:**
-- instaforex — FAIL, koi item nahi
 - rbnz_news — FAIL, HTTP 403
 - snb_press — FAIL, HTTP 404
 - us_treasury — FAIL, HTTP 404
