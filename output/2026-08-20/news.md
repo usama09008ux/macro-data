@@ -1,9 +1,9 @@
 # News Pack — Trading Day 20 Aug 2026
 
 - Trading day: **20 Aug 03:00 -> 21 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 08:56 PKT**
+- Aakhri update: **21 Aug 09:26 PKT**
 - Kul khabrein: **232**
-- Feeds: 29/29 OK
+- Feeds: 32/35 OK
 
 ---
 
@@ -123,11 +123,6 @@ Mixed results from Walmart and other retailers offered more gloom on the health 
 `21 Aug 02:14 PKT` · pehli baar dekhi `21 Aug 02:40` · investinglive
 
 The remarks land as traders sharply pare bets on a September rate increase, with pricing falling to around 30 percent from more than 70 percent at the end of July. Daly's comments suggest a voting bloc within the Fed sees little urgency to act preemptively despite the bond market turmoil, which could reinforce the recent repricing lower in near term hike odds.
-
-**Bitcoin breaks above 200-day moving average for first time since November**
-`21 Aug 02:03 PKT` · pehli baar dekhi `21 Aug 02:40` · cointelegraph
-
-The BTC price reclaimed its 200-day moving average for the first time in nine months as its rally gained momentum after the US Treasury expanded its bond buybacks.
 
 **Bond relief ebbs, stocks mixed as investors question Treasury's rescue efforts**
 `21 Aug 01:48 PKT` · pehli baar dekhi `21 Aug 02:05` · investing_news
@@ -305,11 +300,6 @@ Prior 209K (revised to 212K) Continuing claims 1799K vs 1790K expected Prior 177
 
 Walmart shares were trading roughly flat in pre-market just before the earnings call but are now down by roughly 5.7% after. The US retailer reported a beat on earnings per share of $0.81 versus expectations of $0.75 and also raised its annual targets slightly for the first time this year. That being said, the devil is in the details with comparable sales i.e. same-store sales heavily missing on estimates and only seeing a rise of 2.6% in Q2.
 
-**Trump Sparks Crypto Acceleration as Treasury Buybacks Add Fuel to Bitcoin and Ethereum**
-`20 Aug 15:01 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
-
-Bitcoin and Ethereum have surged over 14% and 22% this week, respectively, as falling real yields from the Treasury buyback shock combine with Trump's renewed crypto policy push — turning a macro rebound into a more powerful, crypto-specific acceleration. The post Trump Sparks Crypto Acceleration as Treasury Buybacks Add Fuel to Bitcoin and Ethereum appeared first on ActionForex.
-
 **The Dollar Has Followed in the Yen's Footsteps**
 `20 Aug 14:57 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
 
@@ -324,11 +314,6 @@ Two new studies find signs investors aren't as willing to accept low yields beca
 `20 Aug 13:47 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
 
 The US dollar has come under moderate pressure as long-term US Treasury yields have declined. Another factor has been the US Treasury Department's decision to increase buyback operations for securities with maturities ranging from 10 to 30 years in an effort to support market liquidity. Against this backdrop, the 30-year Treasury yield fell by around [&#8230;] The post Dollar Under Pressure as Treasury Yields Fall: USD/JPY and USD/CAD Await Fresh Data appeared first on ActionForex.
-
-**The Crypto Market Has Broken Out of Its Consolidation**
-`20 Aug 13:46 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
-
-Market Overview The cryptocurrency market has risen by almost 8% over the past 24 hours to $2.37T, reaching its highest level since early June. The initial momentum came on the back of news that the US Treasury was supporting the debt market. This relatively small but timely move signalled that the government is monitoring the [&#8230;] The post The Crypto Market Has Broken Out of Its Consolidation appeared first on ActionForex.
 
 **Sweden's Central Bank Holds Key Rate and Still Sees Chance of a Hike Later This Year**
 `20 Aug 13:22 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_economy
@@ -354,11 +339,6 @@ The big announcement from yesterday, in case you missed it: US Treasury is incre
 `20 Aug 09:10 PKT` · pehli baar dekhi `21 Aug 01:33` · investinglive
 
 Key lessons for gold and Bitcoin investors A Treasury buyback is not free money: The government repurchases older bonds, usually while continuing to issue new debt. Buybacks can calm markets: They add demand and liquidity to parts of the Treasury market, which can pull bond yields lower. This was not the same as Federal Reserve quantitative easing: The Treasury is managing government debt, not creating central-bank money.
-
-**Bitcoin nears $70K, but Ethereum's eight-hour breakout reveals the bigger crypto shift**
-`20 Aug 08:25 PKT` · pehli baar dekhi `21 Aug 01:33` · investinglive
-
-Crypto market update: Bitcoin nears $70K as Ethereum and altcoins broaden the rebound Crypto has shifted from fragile stabilization to a broad market rebound. Bitcoin has pushed toward $69,000-$70,000, Ethereum is outperforming, ETF demand has improved, and major altcoins are participating. The move is increasingly credible, but holding above the former $66,900 range ceiling is now more important than briefly trading through it.
 
 ### EUR
 
@@ -587,6 +567,98 @@ West Texas Intermediate (WTI) US Oil rises 1.89% on Thursday and trades around $
 
 Dow slumps 700 points as bond yields rise with crude prices
 
+### CRYPTO
+
+**Opinion | World Liberty's Stablecoin Becomes a Partisan Target**
+`21 Aug 02:09 PKT` · pehli baar dekhi `21 Aug 02:40` · wsj_markets
+
+Elizabeth Warren is a critic of the crypto industry, but she's joined by some Democrats who voted for the Genius Act.
+
+**Bitcoin breaks above 200-day moving average for first time since November**
+`21 Aug 02:03 PKT` · pehli baar dekhi `21 Aug 02:40` · cointelegraph
+
+The BTC price reclaimed its 200-day moving average for the first time in nine months as its rally gained momentum after the US Treasury expanded its bond buybacks.
+
+**CFTC chair says agency will move forward on crypto regulation if CLARITY fails**
+`21 Aug 01:56 PKT` · pehli baar dekhi `21 Aug 02:05` · cointelegraph
+
+Michael Selig said at a meeting of the Innovation Advisory Committee that he had directed CFTC staff to explore developer protections and other crypto-related policies.
+
+**Binance opens crypto trading to AI agents with user-set controls**
+`21 Aug 01:26 PKT` · pehli baar dekhi `21 Aug 01:39` · cointelegraph
+
+Binance's Agent OS lets AI agents access market data, execute trades and make payments while giving users control over permissions and account access.
+
+**Here's what happened in crypto today**
+`21 Aug 00:50 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+**Crypto Stocks Continue to Surge After Upbeat White House Meeting**
+`20 Aug 21:14 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_markets
+
+President Trump reaffirmed support for the Clarity Act, which would allow for greater integration of Bitcoin and its peers into the U.S. economy if passed.
+
+**Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1**
+`20 Aug 21:12 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
+
+Nine public miners generated $341 million from AI and HPC operations in the first half of 2026 after spending more than $5 billion on capital assets.
+
+**Most Americans say the Trump family's crypto investments are not 'appropriate': Poll**
+`20 Aug 20:53 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
+
+A new poll showed 63% of 1,166 Americans varied sharply along partisan lines, with a majority of Republicans saying it was appropriate for Trump and his family to invest in crypto.
+
+**Bitcoin price reaches $72.5K as US issues 'Economic D-Day' threat to Iran**
+`20 Aug 20:40 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
+
+Bitcoin saw new multimonth highs above $72,500 even as US stocks cooled amid US threats of "economic warfare" with Iran.
+
+**Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers**
+`20 Aug 17:35 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
+
+Rapid7 unveiled a new cryptocurrency phishing campaign targeting 885,000 phone numbers, aiming to steal investors' holdings by redirecting them to fake wallet provider websites.
+
+**Bitcoin ETFs draw $517M in largest one-day inflow since early May**
+`20 Aug 16:16 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
+
+Investors have poured more than $1 billion into US spot Bitcoin ETFs this week as BTC neared $72,000 and Ether climbed 19% to about $2,286 on Thursday.
+
+**Crypto generated about 1% of Webull's record $198M Q2 revenue**
+`20 Aug 16:05 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
+
+While Webull reported a record $198 million in second-quarter revenue, cryptocurrency trading only generated about $2.25 million of the quarter's revenue stream.
+
+**Crypto short liquidations pass $3B mark as Bitcoin price nears $72K**
+`20 Aug 15:03 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
+
+Bitcoin approached $72,000 in a second day of upside as crypto short liquidations passed $3.1 billion.
+
+**Trump Sparks Crypto Acceleration as Treasury Buybacks Add Fuel to Bitcoin and Ethereum**
+`20 Aug 15:01 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
+
+Bitcoin and Ethereum have surged over 14% and 22% this week, respectively, as falling real yields from the Treasury buyback shock combine with Trump's renewed crypto policy push — turning a macro rebound into a more powerful, crypto-specific acceleration. The post Trump Sparks Crypto Acceleration as Treasury Buybacks Add Fuel to Bitcoin and Ethereum appeared first on ActionForex.
+
+**GnosisDAO approves Gnosis Chain for Ethereum Economic Zone**
+`20 Aug 13:59 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
+
+Gnosis Chain was approved to transition to an EEZ rollup, enabling it to settle directly to Ethereum rather than continue with an independent validator set.
+
+**The Crypto Market Has Broken Out of Its Consolidation**
+`20 Aug 13:46 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
+
+Market Overview The cryptocurrency market has risen by almost 8% over the past 24 hours to $2.37T, reaching its highest level since early June. The initial momentum came on the back of news that the US Treasury was supporting the debt market. This relatively small but timely move signalled that the government is monitoring the [&#8230;] The post The Crypto Market Has Broken Out of Its Consolidation appeared first on ActionForex.
+
+**BitGo Korea secures VASP registration for institutional crypto custody**
+`20 Aug 12:48 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
+
+Regulators reportedly accepted BitGo Korea's registration on Tuesday, two days before stricter VASP entry requirements took effect.
+
+**Bitcoin nears $70K, but Ethereum's eight-hour breakout reveals the bigger crypto shift**
+`20 Aug 08:25 PKT` · pehli baar dekhi `21 Aug 01:33` · investinglive
+
+Crypto market update: Bitcoin nears $70K as Ethereum and altcoins broaden the rebound Crypto has shifted from fragile stabilization to a broad market rebound. Bitcoin has pushed toward $69,000-$70,000, Ethereum is outperforming, ETF demand has improved, and major altcoins are participating. The move is increasingly credible, but holding above the former $66,900 range ceiling is now more important than briefly trading through it.
+
 ### RISK
 
 **Walmart Adds to Wall Street Pressures With Weak Sales Growth**
@@ -598,11 +670,6 @@ Plus, Romania accused Russia of launching an explosive drone, and healthcare cos
 `21 Aug 01:20 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_world
 
 The firing of a high-profile economist reveals Putin's anxiety over insiders' opposition to the war.
-
-**Bitcoin price reaches $72.5K as US issues 'Economic D-Day' threat to Iran**
-`20 Aug 20:40 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
-
-Bitcoin saw new multimonth highs above $72,500 even as US stocks cooled amid US threats of "economic warfare" with Iran.
 
 **US Treasury Secretary Bessent says the long-dated bond buyback could be more than 4 billion**
 `20 Aug 20:04 PKT` · pehli baar dekhi `21 Aug 01:33` · investinglive
@@ -639,7 +706,7 @@ From overnight: Trump vows crushing new economic operation against Iran, warns a
 
 The United Arab Emirates, long Tehran's gateway to global commerce and finance, has pledged to crack down. But it's complicated.
 
-### BINA TAG (110)
+### BINA TAG (97)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -656,7 +723,6 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 - `21 Aug 02:29` **wsj_markets** — James Hardie Selling European Fermacell Business for $980 Million to Holcim
 - `21 Aug 02:12` **investing_news** — Brazil launches AI supercomputer push, splits projects between Chinese, US firms
 - `21 Aug 02:11` **investing_news** — Earnings call transcript: Flux Power posts q4 2026 revenue miss, shares swing lower
-- `21 Aug 02:09` **wsj_markets** — Opinion | World Liberty's Stablecoin Becomes a Partisan Target
 - `21 Aug 02:08` **investing_news** — Route1 at Emerging Growth Conference: shifts to outcome-driven growth
 - `21 Aug 02:08` **investing_news** — Earnings call transcript: POSaBIT posts stronger margins in Q2 2026
 - `21 Aug 02:07` **investing_news** — Trading Day: Can't get no relief
@@ -666,7 +732,6 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 - `21 Aug 02:04` **investing_news** — EShallGo raises $1.75 million in registered direct offering
 - `21 Aug 02:04` **investing_news** — Richmond Mutual Bancorporation declares $0.15 quarterly dividend
 - `21 Aug 02:01` **mw_topstories** — We're in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?
-- `21 Aug 01:56` **cointelegraph** — CFTC chair says agency will move forward on crypto regulation if CLARITY fails
 - `21 Aug 01:54` **wsj_markets** — Private Credit's Next Big Thing Is $1 Trillion in British Pensions
 - `21 Aug 01:50` **investing_news** — DSV Leads Jefferies' Global Transport & Logistics Picks
 - `21 Aug 01:50` **investing_news** — Rigetti Computing COO David Rivas sells $151,734 in stock
@@ -686,7 +751,6 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 - `21 Aug 01:30` **investing_news** — Brazil stocks higher at close of trade; Bovespa up 0.06%
 - `21 Aug 01:28` **investing_news** — Carter's declares $0.25 quarterly dividend, payable Sept. 25
 - `21 Aug 01:26` **investing_news** — Why is Flux Power stock sliding today?
-- `21 Aug 01:26` **cointelegraph** — Binance opens crypto trading to AI agents with user-set controls
 - `21 Aug 01:12` **investing_news** — VirTra wins $1.5M U.S. Army contract for training system
 - `21 Aug 01:12` **investing_news** — RedCloud receives Nasdaq delisting warning over market value
 - `21 Aug 01:12` **investing_news** — Ross Stores earnings beat by $0.72, revenue topped estimates
@@ -696,7 +760,6 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 - `21 Aug 01:12` **investing_news** — Andersons declares $0.20 quarterly dividend for Q4 2026
 - `21 Aug 01:12` **investing_news** — Suja Life refinances credit agreement with lower interest rate
 - `21 Aug 01:12` **investing_news** — Credit Acceptance completes $600 million securitization
-- `21 Aug 00:50` **cointelegraph** — Here's what happened in crypto today
 - `21 Aug 00:40` **wsj_world** — U.S. Begins Deporting Immigrants to Liberia
 - `21 Aug 00:40` **wsj_markets** — U.S. Natural Gas Futures Settle Lower
 - `21 Aug 00:14` **mw_topstories** — Sports betting to build wealth is becoming the new American dream
@@ -711,9 +774,6 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 - `20 Aug 21:59` **fxstreet_news** — Dow Jones Industrial Average sells the best outlook since 1983
 - `20 Aug 21:36` **wsj_markets** — Health Care Roundup: Market Talk
 - `20 Aug 21:29` **wsj_markets** — Auto & Transport Roundup: Market Talk
-- `20 Aug 21:14` **wsj_markets** — Crypto Stocks Continue to Surge After Upbeat White House Meeting
-- `20 Aug 21:12` **cointelegraph** — Bitcoin miners pour billions into AI as capex outpaces revenue 15-to-1
-- `20 Aug 20:53` **cointelegraph** — Most Americans say the Trump family's crypto investments are not 'appropriate': Poll
 - `20 Aug 20:43` **cointelegraph** — Optimism moves 546.9M OP from future airdrops to ecosystem growth fund
 - `20 Aug 20:11` **fxstreet_news** — Indonesia: Rupiah stability supports BI pause – DBS
 - `20 Aug 19:57` **wsj_markets** — Super Micro Clears Senior Management in Alleged Smuggling Scheme
@@ -725,25 +785,19 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 - `20 Aug 18:09` **wsj_economy** — Philadelphia Area Manufacturing Activity Continued to Expand in August
 - `20 Aug 18:08` **wsj_world** — Best High-Yield Savings Accounts for August 2026: Up to 4.50%
 - `20 Aug 18:08` **wsj_markets** — 10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider
-- `20 Aug 17:35` **cointelegraph** — Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers
 - `20 Aug 16:52` **investinglive** — Experienced Traders Can Now Apply to Teach on investingLive Academy
 - `20 Aug 16:39` **wsj_markets** — Novonesis Leads Europe's Stoxx 600 on Sales Beat, Guidance Raise
 - `20 Aug 16:17` **wsj_world** — Chinese Tycoon Who Symbolized Property Bust Is Sentenced to Life in Prison
-- `20 Aug 16:16` **cointelegraph** — Bitcoin ETFs draw $517M in largest one-day inflow since early May
 - `20 Aug 16:05` **wsj_world** — Dwindling Patriot Supplies Leave Kyiv in the Line of Fire
-- `20 Aug 16:05` **cointelegraph** — Crypto generated about 1% of Webull's record $198M Q2 revenue
 - `20 Aug 15:29` **wsj_markets** — Here's the Real Problem With Stock Buybacks
 - `20 Aug 15:11` **wsj_world** — Trump Wants a Summit That Kim Jong Un Doesn't Need
-- `20 Aug 15:03` **cointelegraph** — Crypto short liquidations pass $3B mark as Bitcoin price nears $72K
 - `20 Aug 15:00` **yahoo_finance** — Best CD rates today, Thursday, August 20, 2026: Lock in up to 4.30% APY with a 16-month CD
 - `20 Aug 14:52` **wsj_world** — U.S. Debt Soars and Scott Bessent Steps in as America's Bond Trader in Chief
 - `20 Aug 14:30` **wsj_economy** — After 66-year-old Lynn Lee was laid off last year, she began an odyssey to find her way back to employment. "Don't give up."
 - `20 Aug 14:30` **wsj_markets** — Hyperscalers' Off-Grid Power Push Comes With Risks
 - `20 Aug 14:03` **yahoo_finance** — Bank of America sends message on Capital One stock
-- `20 Aug 13:59` **cointelegraph** — GnosisDAO approves Gnosis Chain for Ethereum Economic Zone
 - `20 Aug 13:47` **wsj_economy** — Swiss Watch Exports Stay Resilient in July Helped by U.S. Performance
 - `20 Aug 13:47` **wsj_world** — Swiss Watch Exports Stay Resilient in July Helped by U.S. Performance
-- `20 Aug 12:48` **cointelegraph** — BitGo Korea secures VASP registration for institutional crypto custody
 - `20 Aug 12:26` **wsj_markets** — European Indexes Mixed, Autos Rally
 - `20 Aug 11:56` **wsj_world** — Taiwan Floats Record Defense Budget, Sending Message to U.S. and China
 - `20 Aug 10:52` **cointelegraph** — HYPE jumps 20% as Trump signals legal US path for Hyperliquid
@@ -762,11 +816,12 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 21 | 1 | 20 | 4 | 0.0 |
-| fxstreet_news | OK | 30 | 21 | 0 | 21 | 9 | 0.0 |
+| investinglive | OK | 25 | 21 | 0 | 21 | 4 | 0.0 |
+| fxstreet_news | OK | 30 | 24 | 3 | 21 | 6 | 0.0 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.4 |
-| actionforex | OK | 20 | 7 | 0 | 7 | 13 | 0.0 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 0.8 |
+| actionforex | OK | 20 | 7 | 0 | 7 | 13 | 0.1 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 0.9 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
@@ -774,20 +829,30 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.0 |
-| gnews_gold | OK | 100 | 18 | 0 | 18 | 82 | 0.0 |
-| gnews_fed | OK | 100 | 9 | 1 | 8 | 91 | 0.2 |
-| gnews_geopolitics | OK | 96 | 15 | 1 | 14 | 81 | 0.0 |
-| gnews_centralbanks | OK | 39 | 15 | 0 | 15 | 24 | 0.0 |
+| gnews_gold | OK | 100 | 21 | 5 | 16 | 79 | 0.0 |
+| gnews_fed | OK | 100 | 10 | 1 | 9 | 90 | 0.1 |
+| gnews_geopolitics | OK | 97 | 18 | 4 | 14 | 79 | 0.0 |
+| gnews_centralbanks | OK | 38 | 16 | 1 | 15 | 22 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.3 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 9.6 |
-| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 3.8 |
+| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 3.9 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 1.8 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 16.6 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 20.8 |
+| rbnz_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| snb_press | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| us_treasury | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 1.6 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 16.7 |
 | wsj_world | OK | 71 | 4 | 0 | 4 | 67 | 0.1 |
 | wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.1 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| investing_news | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
 | yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.8 |
 | mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.0 |
+
+**Jo feeds nahi aaye:**
+- rbnz_news — FAIL, HTTP 403
+- snb_press — FAIL, HTTP 404
+- us_treasury — FAIL, HTTP 404

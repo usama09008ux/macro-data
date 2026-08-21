@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "21 Aug 08:56",
+  "updated_pkt": "21 Aug 09:26",
   "feeds": [
     {
       "name": "investinglive",
@@ -8,8 +8,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 21,
-      "new": 1,
-      "seen_before": 20,
+      "new": 0,
+      "seen_before": 21,
       "out_of_window": 4
     },
     {
@@ -18,10 +18,10 @@
       "fetched": 30,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 21,
-      "new": 0,
+      "in_window": 24,
+      "new": 3,
       "seen_before": 21,
-      "out_of_window": 9
+      "out_of_window": 6
     },
     {
       "name": "fxstreet_analysis",
@@ -38,7 +38,7 @@
       "name": "actionforex",
       "status": "OK",
       "fetched": 20,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": "",
       "in_window": 7,
       "new": 0,
@@ -49,12 +49,23 @@
       "name": "marketpulse",
       "status": "OK",
       "fetched": 3,
-      "newest_age_days": 0.8,
+      "newest_age_days": 0.9,
       "note": "",
       "in_window": 0,
       "new": 0,
       "seen_before": 0,
       "out_of_window": 3
+    },
+    {
+      "name": "instaforex",
+      "status": "OK",
+      "fetched": 25,
+      "newest_age_days": -0.2,
+      "note": "",
+      "in_window": 25,
+      "new": 25,
+      "seen_before": 0,
+      "out_of_window": 0
     },
     {
       "name": "wsj_economy",
@@ -139,43 +150,43 @@
       "fetched": 100,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 18,
-      "new": 0,
-      "seen_before": 18,
-      "out_of_window": 82
+      "in_window": 21,
+      "new": 5,
+      "seen_before": 16,
+      "out_of_window": 79
     },
     {
       "name": "gnews_fed",
       "status": "OK",
       "fetched": 100,
-      "newest_age_days": 0.2,
+      "newest_age_days": 0.1,
       "note": "",
-      "in_window": 9,
+      "in_window": 10,
       "new": 1,
-      "seen_before": 8,
-      "out_of_window": 91
+      "seen_before": 9,
+      "out_of_window": 90
     },
     {
       "name": "gnews_geopolitics",
       "status": "OK",
-      "fetched": 96,
+      "fetched": 97,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 15,
-      "new": 1,
+      "in_window": 18,
+      "new": 4,
       "seen_before": 14,
-      "out_of_window": 81
+      "out_of_window": 79
     },
     {
       "name": "gnews_centralbanks",
       "status": "OK",
-      "fetched": 39,
+      "fetched": 38,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 15,
-      "new": 0,
+      "in_window": 16,
+      "new": 1,
       "seen_before": 15,
-      "out_of_window": 24
+      "out_of_window": 22
     },
     {
       "name": "fed_monetary",
@@ -225,7 +236,7 @@
       "name": "boj_whatsnew",
       "status": "OK",
       "fetched": 46,
-      "newest_age_days": 3.8,
+      "newest_age_days": 3.9,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -244,10 +255,65 @@
       "out_of_window": 1
     },
     {
+      "name": "boc_press",
+      "status": "OK",
+      "fetched": 10,
+      "newest_age_days": 20.8,
+      "note": "",
+      "in_window": 0,
+      "new": 0,
+      "seen_before": 0,
+      "out_of_window": 10
+    },
+    {
+      "name": "rbnz_news",
+      "status": "FAIL",
+      "fetched": 0,
+      "newest_age_days": null,
+      "note": "HTTP 403",
+      "in_window": 0,
+      "new": 0,
+      "seen_before": 0,
+      "out_of_window": 0
+    },
+    {
+      "name": "snb_press",
+      "status": "FAIL",
+      "fetched": 0,
+      "newest_age_days": null,
+      "note": "HTTP 404",
+      "in_window": 0,
+      "new": 0,
+      "seen_before": 0,
+      "out_of_window": 0
+    },
+    {
+      "name": "us_treasury",
+      "status": "FAIL",
+      "fetched": 0,
+      "newest_age_days": null,
+      "note": "HTTP 404",
+      "in_window": 0,
+      "new": 0,
+      "seen_before": 0,
+      "out_of_window": 0
+    },
+    {
+      "name": "eia_energy",
+      "status": "OK",
+      "fetched": 18,
+      "newest_age_days": 1.6,
+      "note": "",
+      "in_window": 0,
+      "new": 0,
+      "seen_before": 0,
+      "out_of_window": 18
+    },
+    {
       "name": "bea_releases",
       "status": "OK",
       "fetched": 47,
-      "newest_age_days": 16.6,
+      "newest_age_days": 16.7,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -283,8 +349,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 0,
-      "seen_before": 10,
+      "new": 6,
+      "seen_before": 4,
       "out_of_window": 0
     },
     {
