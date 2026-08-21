@@ -407,6 +407,23 @@ _STOP = {"the", "a", "an", "of", "in", "on", "at", "to", "for", "and",
          "said", "new", "more", "than", "over", "up", "down"}
 
 
+_NOISE_CACHE = {}
+
+
+def is_noise(title, patterns):
+    """
+    Kya ye unwaan shor hai? Aisi khabrein pack mein nahi dikhtin,
+    magar news.jsonl mein MEHFOOZ rehti hain — kuch phenka nahi
+    jata, bas nazar se hata diya jata hai.
+    """
+    if not patterns:
+        return False
+    key = id(patterns)
+    if key not in _NOISE_CACHE:
+        _NOISE_CACHE[key] = [re.compile(p) for p in patterns]
+    return any(p.search(title or "") for p in _NOISE_CACHE[key])
+
+
 def _key_words(title):
     return {w for w in norm_title(title).split()
             if len(w) > 2 and w not in _STOP}
@@ -499,7 +516,7 @@ def cluster_items(items, thresh=0.85):
     return clusters
 
 
-def build_markdown(day, items, statuses, now_pkt):
+def build_markdown(day, items, statuses, now_pkt, noise=None):
     start, end = day_window_pkt(day)
     L = []
     L.append(f"# News Pack — Trading Day {day.strftime('%d %b %Y')}")
@@ -533,6 +550,11 @@ def build_markdown(day, items, statuses, now_pkt):
             L.append(f"  - `{other.get('published_pkt','')}` "
                      f"*{other['source']}* — {other['title']}")
         L.append("")
+
+    # Shor alag kar do — mehfooz hai, bas dikhta nahi
+    noisy = [i for i in items if is_noise(i.get("title", ""), noise)]
+    noisy_ids = {id(i) for i in noisy}
+    items = [i for i in items if id(i) not in noisy_ids]
 
     official = [i for i in items
                 if i["group"] in ("feeds_centralbank", "feeds_cme")]
@@ -597,6 +619,20 @@ def build_markdown(day, items, statuses, now_pkt):
                 L.append(f"- `{it.get('published_pkt', '')}` "
                          f"**{it['source']}** — {it['title']}")
             L.append("")
+
+    if noisy:
+        from collections import Counter
+        by_src = Counter(i["source"] for i in noisy)
+        L.append("---")
+        L.append("")
+        L.append(f"## Shor — {len(noisy)} khabrein hatai gayin")
+        L.append("")
+        L.append("*Ye news.jsonl mein mehfooz hain, bas yahan nahi "
+                 "dikhaya gaya. Zyada tar US insider-trading filings "
+                 "aur earnings transcripts.*")
+        L.append("")
+        L.append(", ".join(f"{k} ({v})" for k, v in by_src.most_common()))
+        L.append("")
 
     L.append("---")
     L.append("")
@@ -834,7 +870,8 @@ def main():
                 t = ["rates"]
             r["tags"] = t
         with open(os.path.join(d, "news.md"), "w", encoding="utf-8") as f:
-            f.write(build_markdown(td, recs, statuses, now_pkt))
+            f.write(build_markdown(td, recs, statuses, now_pkt,
+                                   cfg.get("noise_patterns")))
         with open(os.path.join(d, "feeds.json"), "w", encoding="utf-8") as f:
             json.dump({"updated_pkt": now_pkt.strftime("%d %b %H:%M"),
                        "feeds": statuses}, f, ensure_ascii=False, indent=2)
