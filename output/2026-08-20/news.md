@@ -1,8 +1,8 @@
 # News Pack — Trading Day 20 Aug 2026
 
 - Trading day: **20 Aug 03:00 -> 21 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 20:49 PKT**
-- Kul khabrein: **340**
+- Aakhri update: **21 Aug 20:53 PKT**
+- Kul khabrein: **346**
 - Feeds: 39/39 OK
 
 ---
@@ -294,6 +294,11 @@ US Treasury bond yields rise, impacting borrowing costs and Fed rate outlook Cry
 
 St. Louis Fed's Musalem Keeps September Rate Decision Open, Signals Inflation Still Too High finance.biggo.com
 
+**Trump Renews Attack on Fed Rate Policy, Says U.S. Should Be Paying Far Less in Borrowing Costs - Post-Earnings Reaction - Vinanet**
+`20 Aug 23:03 PKT` · pehli baar dekhi `21 Aug 20:53` · gnews_fed
+
+Trump Renews Attack on Fed Rate Policy, Says U.S. Should Be Paying Far Less in Borrowing Costs - Post-Earnings Reaction Vinanet
+
 **If rising rates were enough to end a bull market, we'd have entered a bear market long ago**
 `20 Aug 23:03 PKT` · pehli baar dekhi `21 Aug 01:33` · mw_topstories
 
@@ -330,10 +335,11 @@ US Treasury buyback briefly eases bond rout, but debt worries persist KITCO
 Trump Renews Fed Rate Criticism, Says U.S. Should Be Paying Much Less - Earnings Expansion Phase Vinanet
 
 **Fed's Musalem says on CNBC he won't prejudge rate call view for September FOMC - KITCO**
-`20 Aug 22:12 PKT` · pehli baar dekhi `21 Aug 20:49` · kitco_general · **3 feeds mein**
+`20 Aug 22:12 PKT` · pehli baar dekhi `21 Aug 20:49` · kitco_general · **4 feeds mein**
 
 Fed's Musalem says on CNBC he won't prejudge rate call view for September FOMC KITCO
   - `20 Aug 22:38` *gnews_fed* — St. Louis Fed's Musalem says on CNBC he won't prejudge rate call view for September FOMC - The Economic Times
+  - `20 Aug 21:35` *gnews_fed* — Fed's Musalem says on CNBC he won't prejudge rate call view for September FOMC - Reuters
   - `20 Aug 21:00` *gnews_fed* — Fed's Musalem says won't prejudge rate call view for September FOMC – CNBC - WTVB
 
 **US Treasury auctions off $9 billion of 30-year TIPS at 2.973% vs 2.991% WI**
@@ -752,10 +758,20 @@ Oil futures rose for a fifth straight session as the U.S. planned what President
 
 Oil hits more than three-week high as Trump threatens Iran-related retaliation London South East
 
+**Oil hits over threeweek high on Middle East supply concerns - The Financial Express**
+`20 Aug 23:00 PKT` · pehli baar dekhi `21 Aug 20:53` · gnews_geopolitics
+
+Oil hits over threeweek high on Middle East supply concerns The Financial Express
+
 **Oil prices hit three-week high as Trump threatens Iran allies - The Journal Record**
 `20 Aug 22:50 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
 
 Oil prices hit three-week high as Trump threatens Iran allies The Journal Record
+
+**Oil Price Outlook: Iran Talks Fail as Hormuz Shipping Risk Returns - equiti.com**
+`20 Aug 22:11 PKT` · pehli baar dekhi `21 Aug 20:53` · gnews_geopolitics
+
+Oil Price Outlook: Iran Talks Fail as Hormuz Shipping Risk Returns equiti.com
 
 **Oil hits more than 3-week high as Trump tries to raise pressure on Iran - The Korea Times**
 `20 Aug 21:42 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
@@ -766,6 +782,11 @@ Oil hits more than 3-week high as Trump tries to raise pressure on Iran The Kore
 `20 Aug 21:31 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_markets
 
 Find insight on oil futures, Ithaca Energy and more in the latest Market Talks covering energy and utilities.
+
+**Oil Price Today: WTI Near $87 on Iran Sanctions - Markets.com**
+`20 Aug 21:04 PKT` · pehli baar dekhi `21 Aug 20:53` · gnews_geopolitics
+
+Oil Price Today: WTI Near $87 on Iran Sanctions Markets.com
 
 **The Caspian Sea Is Now a Critical Military Lifeline for Russia and Iran - Crude Oil Prices Today | OilPrice.com**
 `20 Aug 21:00 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
@@ -1008,7 +1029,7 @@ From overnight: Trump vows crushing new economic operation against Iran, warns a
 
 The United Arab Emirates, long Tehran's gateway to global commerce and finance, has pledged to crack down. But it's complicated.
 
-### BINA TAG (115)
+### BINA TAG (116)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -1055,6 +1076,7 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 - `21 Aug 00:14` **mw_topstories** — Sports betting to build wealth is becoming the new American dream
 - `21 Aug 00:04` **gnews_fed** — Trump Renews Attacks on Federal Reserve Rate Policy, Accuses Officials of Political Motives - Earnings Growth Forecast - Vinanet
 - `21 Aug 00:03` **mining_com** — BHP, MIT spinout to trial copper recovery tech at historic Arizona mine
+- `21 Aug 00:01` **gnews_fed** — Dow Jones Industrial Average Sells Best Outlook Since 1983: What It Means for Markets - CryptoRank
 - `21 Aug 00:01` **mw_topstories** — Moderna's personalized mRNA shot could reshape the fight against skin cancer — but it may also be overhyped
 - `20 Aug 23:43` **kitco_general** — Mining News, Mining Stocks, Junior Mining - KITCO
 - `20 Aug 23:20` **mw_topstories** — Neocloud stocks like CoreWeave are having a moment — and time's running out to cash in
@@ -1144,42 +1166,42 @@ investing_news (20)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 30 | 0 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 7 | 4 | 3 | 23 | 0.0 |
-| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.0 |
-| marketpulse | OK | 4 | 2 | 1 | 1 | 2 | 0.1 |
-| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 9 | 5 | 4 | 27 | 0.0 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 1 | 29 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 7 | 0 | 7 | 23 | 0.0 |
+| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.0 |
+| marketpulse | OK | 4 | 2 | 0 | 2 | 2 | 0.1 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 0.0 |
 | cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.8 |
 | cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.8 |
 | cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.8 |
 | cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.8 |
 | cme_daily_commentary | OK | 10 | 6 | 0 | 6 | 4 | 0.8 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.5 |
-| kitco_general | OK | 28 | 28 | 28 | 0 | 0 | 0.0 |
-| gnews_fed | OK | 90 | 90 | 90 | 0 | 0 | 0.0 |
-| gnews_geopolitics | OK | 100 | 100 | 100 | 0 | 0 | 0.0 |
-| gnews_centralbanks | OK | 37 | 37 | 37 | 0 | 0 | 0.1 |
+| kitco_general | OK | 28 | 28 | 0 | 28 | 0 | 0.1 |
+| gnews_fed | OK | 92 | 92 | 6 | 86 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 6 | 94 | 0 | 0.0 |
+| gnews_centralbanks | OK | 37 | 37 | 1 | 36 | 0 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.8 |
-| ecb_press | OK | 15 | 1 | 1 | 0 | 14 | 0.3 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.3 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.1 |
-| boj_whatsnew | OK | 46 | 1 | 1 | 0 | 45 | 0.4 |
+| boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.4 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.3 |
-| mining_com | OK | 36 | 14 | 14 | 0 | 22 | 0.2 |
-| oilprice | OK | 15 | 15 | 15 | 0 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 10 | 0 | 0 | 0.1 |
-| ing_think | OK | 10 | 10 | 10 | 0 | 0 | 0.2 |
-| bbc_business | OK | 50 | 28 | 25 | 3 | 22 | 0.0 |
-| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 3 | 3 | 0 | 17 | 0.0 |
+| mining_com | OK | 36 | 14 | 0 | 14 | 22 | 0.2 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| ing_think | OK | 10 | 10 | 1 | 9 | 0 | 0.2 |
+| bbc_business | OK | 50 | 28 | 0 | 28 | 22 | 0.0 |
+| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.3 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.1 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.1 |
-| wsj_world | OK | 71 | 28 | 8 | 20 | 43 | 0.1 |
-| wsj_markets | OK | 61 | 36 | 16 | 20 | 25 | 0.1 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 40 | 38 | 2 | 10 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 29 | 10 | 19 | 1 | 0.1 |
+| wsj_world | OK | 71 | 28 | 0 | 28 | 43 | 0.1 |
+| wsj_markets | OK | 61 | 36 | 0 | 36 | 25 | 0.1 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 41 | 6 | 35 | 9 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 29 | 0 | 29 | 1 | 0.1 |
