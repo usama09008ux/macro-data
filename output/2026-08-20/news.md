@@ -1,7 +1,7 @@
 # News Pack — Trading Day 20 Aug 2026
 
 - Trading day: **20 Aug 03:00 -> 21 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 09:47 PKT**
+- Aakhri update: **21 Aug 10:20 PKT**
 - Kul khabrein: **232**
 - Feeds: 32/35 OK
 
@@ -816,12 +816,12 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 21 | 0 | 21 | 4 | 0.0 |
-| fxstreet_news | OK | 30 | 27 | 3 | 24 | 3 | 0.0 |
+| investinglive | OK | 25 | 23 | 2 | 21 | 2 | 0.0 |
+| fxstreet_news | OK | 30 | 29 | 2 | 27 | 1 | 0.0 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.4 |
 | actionforex | OK | 20 | 7 | 0 | 7 | 13 | 0.1 |
 | marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 0.9 |
-| instaforex | OK | 25 | 25 | 1 | 24 | 0 | -0.2 |
+| instaforex | OK | 25 | 25 | 9 | 16 | 0 | -0.2 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
@@ -829,11 +829,11 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.0 |
-| gnews_gold | OK | 100 | 24 | 2 | 22 | 76 | 0.0 |
-| gnews_fed | OK | 100 | 11 | 1 | 10 | 89 | 0.1 |
-| gnews_geopolitics | OK | 98 | 21 | 4 | 17 | 77 | 0.0 |
-| gnews_centralbanks | OK | 37 | 15 | 1 | 14 | 22 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
+| gnews_gold | OK | 100 | 25 | 4 | 21 | 75 | 0.0 |
+| gnews_fed | OK | 100 | 11 | 0 | 11 | 89 | 0.1 |
+| gnews_geopolitics | OK | 98 | 23 | 3 | 20 | 75 | 0.0 |
+| gnews_centralbanks | OK | 36 | 17 | 2 | 15 | 19 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.4 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 9.7 |
@@ -847,10 +847,10 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 16.7 |
 | wsj_world | OK | 71 | 4 | 0 | 4 | 67 | 0.1 |
 | wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.1 |
-| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.8 |
-| mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
-| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.6 |
+| mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.3 |
+| cointelegraph | OK | 30 | 2 | 1 | 1 | 28 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - rbnz_news — FAIL, HTTP 403

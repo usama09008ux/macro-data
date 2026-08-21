@@ -1,8 +1,8 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 09:47 PKT**
-- Kul khabrein: **245**
+- Aakhri update: **21 Aug 10:20 PKT**
+- Kul khabrein: **278**
 - Feeds: 32/35 OK
 
 ---
@@ -20,6 +20,11 @@ Platinum futures rose above $1,870 an ounce to an eleven-week high, supported by
 `21 Aug 09:46 PKT` · pehli baar dekhi `21 Aug 09:47` · fxstreet_news
 
 The AUD/JPY cross trades in positive territory near 113.55 during the early European session on Friday. The Australian Dollar (AUD) strengthens against the Japanese Yen (JPY) despite the cooling labor market. The minutes of the Reserve Bank of Australia (RBA) meetings will be released next Tuesday.
+
+**Euro Holds Firm On Hawkish ECB Outlook, Even As US Dollar Stays Strong - Bitcoin World**
+`21 Aug 09:20 PKT` · pehli baar dekhi `21 Aug 10:20` · gnews_centralbanks
+
+Euro Holds Firm On Hawkish ECB Outlook, Even As US Dollar Stays Strong Bitcoin World
 
 **RBI seen selling dollars to support rupee as USD/INR holds steady**
 `21 Aug 08:47 PKT` · pehli baar dekhi `21 Aug 08:56` · investinglive
@@ -62,6 +67,16 @@ Palladium futures rose to around $1,350 per ounce, extending gains to a one-week
 `21 Aug 12:00 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
 
 The Shanghai Composite slipped 0.3% to 3,891 on Friday, while the Shenzhen Component inched up 0.3% to 14,021, as investors largely stayed on the sidelines amid a lack of new market catalysts. Market focus is shifting to the National People's Congress Standing Committee meeting in Beijing on August 25–28, where investors are looking for fresh policy signals following a run of weak July economic data.
+
+**Gold Rate Today, August 21: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities - The Indian Express**
+`21 Aug 10:03 PKT` · pehli baar dekhi `21 Aug 10:20` · gnews_gold
+
+Gold Rate Today, August 21: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities The Indian Express
+
+**Gold price in Philippines: Rates on August 21 - FXStreet**
+`21 Aug 10:00 PKT` · pehli baar dekhi `21 Aug 10:20` · gnews_gold
+
+Gold price in Philippines: Rates on August 21 FXStreet
 
 **Gold prices rise Rs 6,400/10g in 3 days; silver jumps Rs 13,000/kg despite Middle East tensions. Big rally - The Economic Times**
 `21 Aug 09:35 PKT` · pehli baar dekhi `21 Aug 09:47` · gnews_gold
@@ -108,6 +123,11 @@ Gold and Silver Technical Analysis: Gold Breakout Gains Momentum as Silver Eyes 
 
 Gold price today, August 21st: World prices soar, domestic prices react slightly Laodong.vn
 
+**Gold Price Next Week? Big Move Expected! | Weekly Gold Forecast (4–10 August 2025) Parental Leave (dlqxwjNNLb) - Mshale**
+`21 Aug 07:55 PKT` · pehli baar dekhi `21 Aug 10:20` · gnews_gold
+
+Gold Price Next Week? Big Move Expected! | Weekly Gold Forecast (4–10 August 2025) Parental Leave (dlqxwjNNLb) Mshale
+
 **Gold Rate Today in Bharuch 21st August 2026: 22 & 24 Carat, Gold Price in Bharuch - Business Today**
 `21 Aug 07:51 PKT` · pehli baar dekhi `21 Aug 09:26` · gnews_gold
 
@@ -130,6 +150,11 @@ One-third of British people regret missing the 128% increase in gold prices Laod
 
 **Gold, Silver Rate Today: What Are The 24K, 22K Prices In Mumbai, Delhi, Chennai, Kolkata, Bengaluru On August 21 - NDTV Profit**
 `21 Aug 06:41 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
+
+Gold, Silver Rate Today: What Are The 24K, 22K Prices In Mumbai, Delhi, Chennai, Kolkata, Bengaluru On August 21 NDTV Profit
+
+**Gold, Silver Rate Today: What Are The 24K, 22K Prices In Mumbai, Delhi, Chennai, Kolkata, Bengaluru On August 21 - NDTV Profit**
+`21 Aug 06:41 PKT` · pehli baar dekhi `21 Aug 10:20` · gnews_gold
 
 Gold, Silver Rate Today: What Are The 24K, 22K Prices In Mumbai, Delhi, Chennai, Kolkata, Bengaluru On August 21 NDTV Profit
 
@@ -210,6 +235,31 @@ Gold could surpass $5,000 by next year, says Morgan Stanley Eurasia Business New
 
 ### USD
 
+**Estonia's Producer Price Inflation Eases to 3.6% in July on Annual Basis**
+`21 Aug 15:00 PKT` · pehli baar dekhi `21 Aug 10:20` · instaforex
+
+Estonia's producer price index (PPI) inflation slowed slightly in July 2026, with the year-over-year rate easing to 3.6%, down from 3.8% in June 2026. The data, updated on 21 August 2026, show a modest cooling in price pressures at the factory gate level. Both the current and previous readings reflect annual changes — comparing each month to the same month a year earlier.
+
+**India's HSBC Composite PMI Edges Higher in August, Signalling Steady Economic Momentum**
+`21 Aug 15:00 PKT` · pehli baar dekhi `21 Aug 10:20` · instaforex
+
+India's economic activity strengthened modestly in August 2026, as the HSBC Manufacturing & Services PMI inched up to 54.60 from 54.30 in July, based on the latest data updated on 21 August 2026. The month‑on‑month rise in the composite index indicates a slight acceleration in the expansion of both manufacturing and services sectors.
+
+**India's Services Activity Accelerates in August as HSBC PMI Rises to 54.5**
+`21 Aug 15:00 PKT` · pehli baar dekhi `21 Aug 10:20` · instaforex
+
+India's services sector gained momentum in August 2026, with the HSBC India Services Purchasing Managers' Index (PMI) climbing to 54.5 from 53.3 in July 2026. The latest reading, updated on 21 August 2026, signals a stronger expansion in business activity across the country's key services industries. The move higher from July's level suggests improving demand conditions and a firmer pace of growth in services, a critical component of India's overall economic output.
+
+**India's Manufacturing Momentum Eases as HSBC PMI Slips to 52.9 in August**
+`21 Aug 15:00 PKT` · pehli baar dekhi `21 Aug 10:20` · instaforex
+
+India's manufacturing sector showed a modest loss of momentum in August 2026, with the HSBC India Manufacturing Purchasing Managers' Index (PMI) edging down to 52.9 from 53.5 in July 2026. The latest reading, updated on 21 August 2026, indicates that the sector continues to expand, but at a slower pace than in the previous month. A PMI value above 50 signals growth in manufacturing activity, while a reading below 50 points to contraction.
+
+**Rupiah on Track for 3rd Consecutive Weekly Rise**
+`21 Aug 14:45 PKT` · pehli baar dekhi `21 Aug 10:20` · instaforex
+
+The Indonesian rupiah strengthened to around IDR 17,720 per U.S. dollar on Friday, extending its recent rally and poised for a third consecutive weekly gain. The move came as the U.S. dollar index hovered near multi-month lows amid mounting uncertainty over the U.S. Treasury's bond buyback plans. Domestically, sentiment was supported by strong credit expansion, with loan growth accelerating to 13.58% year-on-year in July, exceeding Bank Indonesia's 8–12% target range for end-2026.
+
 **Indonesia Posts Record Current Account Deficit**
 `21 Aug 13:54 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
 
@@ -254,6 +304,27 @@ The 10-year US Treasury yield hovered around 4.7% on Friday, after a sharp rebou
 `21 Aug 10:35 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
 
 Japan's S&P Global Services PMI Business Activity Index rose to 52.3 in August 2026 from a final reading of 51.2 in July, according to a preliminary estimate. The latest figure signaled a third straight month of expansion in the services sector and the fastest growth since March, driven by a stronger rise in new business, which increased at the second-quickest pace since February.
+
+**India's August private sector growth recovers slightly from over four-year low, PMI shows**
+`21 Aug 10:12 PKT` · pehli baar dekhi `21 Aug 10:20` · investing_news
+
+**Treasury buyback renews dollar-debasement fears**
+`21 Aug 10:06 PKT` · pehli baar dekhi `21 Aug 10:20` · investing_news
+
+**52.9: India's HSBC Manufacturing PMI falls in August**
+`21 Aug 10:03 PKT` · pehli baar dekhi `21 Aug 10:20` · fxstreet_news
+
+The preliminary reading of India's HSBC Manufacturing Purchasing Managers Index (PMI) declined to 52.9 in August versus 53.5 prior, the latest data published by S&P Global and HSBC Bank showed on Friday.
+
+**Indonesian Rupiah advances despite record Current Account Deficit**
+`21 Aug 10:00 PKT` · pehli baar dekhi `21 Aug 10:20` · fxstreet_news
+
+USD/IDR extends its losses for the third successive day, trading around 17,760 during the Asian hours on Friday. The currency pair continues to depreciate as the Indonesian Rupiah (IDR) maintains its strength, defying a sharp widening of Indonesia's current account deficit.
+
+**Gold stays poised to post third straight week of gains**
+`21 Aug 09:52 PKT` · pehli baar dekhi `21 Aug 10:20` · investinglive
+
+Gold has been a hot topic this week again, owing much thanks to the US Treasury move on Wednesday. Bessent & co. called to double buybacks at the long-end of the curve and that led to a return of two key tailwinds for gold. That being a fall in the dollar and Treasury yields falling/being suppressed. The latter in particular is quite significant, with Bessent even doubling down on the narrative here. In essence, it's a signal that there is a clear "Bessent put" in the market right now.
 
 **Asia FX set for weekly gains, dollar near 3-mth lows despite U.S. Treasury move**
 `21 Aug 08:48 PKT` · pehli baar dekhi `21 Aug 09:26` · investing_news
@@ -353,6 +424,11 @@ The EUR/USD pair attracts some dip-buyers during the Asian session on Friday and
 
 EUR/JPY remains stronger for the second successive day, trading around 186.00 during the Asian hours on Friday. The technical analysis of a daily chart indicates that the spot is moving higher within the ascending channel pattern, signaling a persistent bullish bias.
 
+**Rates Spark: Data For The EUR Belly - Seeking Alpha**
+`21 Aug 08:00 PKT` · pehli baar dekhi `21 Aug 10:20` · gnews_centralbanks
+
+Rates Spark: Data For The EUR Belly Seeking Alpha
+
 **Euro gains on hawkish ECB outlook despite firm US Dollar**
 `21 Aug 06:22 PKT` · pehli baar dekhi `21 Aug 06:52` · fxstreet_news
 
@@ -414,6 +490,11 @@ The Nikkei 225 Index slipped 0.7% to below 66,000 on Friday, while the broader T
 `21 Aug 10:38 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
 
 The S&P Global Japan Manufacturing PMI rose to 55.1 in August 2026 from 54.5 in July, marking an eighth consecutive month of expansion in factory activity. This was the strongest pace of growth in the manufacturing sector since April, supported by the fastest increase in new orders since January 2018, alongside the sharpest rise in overseas sales since early 2018. Employment also continued to grow solidly.
+
+**US yields push back up, looks to challenge "Bessent put"**
+`21 Aug 10:13 PKT` · pehli baar dekhi `21 Aug 10:20` · investinglive
+
+US long-term yields have bounced back in the second half of the week in erasing much of the drop from the US Treasury announcement. 10-year yields have more or less recovered fully to be back up to 4.704% now while 30-year yields are nudging back up to 5.251% on the day. However, whether or not yields will look to break higher will depend on the conviction of the bond vigilantes - whom might be still cautious in wanting to challenge the "Bessent put" so quickly.
 
 **Japan Inflation Hits Fastest Pace Since January, Strengthening Case for BOJ Rate Hike - Moneycontrol.com**
 `21 Aug 09:11 PKT` · pehli baar dekhi `21 Aug 09:26` · gnews_centralbanks
@@ -623,6 +704,11 @@ New Zealand trade data, July 2026 Trade balance NZ$-1.95 billion (prior 23mn) Im
 
 ### OIL
 
+**Sensex Opens Slightly Higher**
+`21 Aug 14:39 PKT` · pehli baar dekhi `21 Aug 10:20` · instaforex
+
+India's BSE Sensex inched up around 0.1% to 77,595 on Friday, extending gains from the previous session, though advances were restrained by elevated crude oil prices and renewed pressure in global bond markets. Crude benchmarks, trading near one-month highs, remained a key overhang for Indian equities given their potential to stoke inflation, raise corporate input costs, and widen the country's import bill.
+
 **Palm Oil Set for Biggest Weekly Gain in Near Six Months**
 `21 Aug 14:01 PKT` · pehli baar dekhi `21 Aug 09:47` · instaforex
 
@@ -637,6 +723,11 @@ The Hang Seng Index rose 0.7%, or 171 points, to 25,868 on Friday, extending gai
 `21 Aug 12:03 PKT` · pehli baar dekhi `21 Aug 09:26` · instaforex
 
 European natural gas prices slipped below €65 per MWh on Friday but remained close to their highest level since January 2023, as the deadlock in the US–Iran confrontation clouded the outlook for LNG supplies from the Gulf. Tensions over the Strait of Hormuz have escalated into a new phase of economic pressure, unnerving the market. Traders are increasingly concerned about Europe's readiness for the coming winter.
+
+**Oil Prices Surge for Second Week as US-Iran Conflict Crimps Global Supply - streamlinefeed.co.ke**
+`21 Aug 10:19 PKT` · pehli baar dekhi `21 Aug 10:20` · gnews_geopolitics
+
+Oil Prices Surge for Second Week as US-Iran Conflict Crimps Global Supply streamlinefeed.co.ke
 
 **Brent Oil Nears $94 as US-Iran War Keeps Supply Risks High - Bloom Pakistan**
 `21 Aug 09:30 PKT` · pehli baar dekhi `21 Aug 09:47` · gnews_geopolitics
@@ -787,6 +878,16 @@ Fed minutes show September rate hike still on the table Reuters
 
 Copper futures rose above $6.50 per pound on Friday, reversing early-week losses as tight physical supply continued to support prices. The market remains fragile after months of inventory outflows, driven in part by metal being redirected to the US ahead of expected tariffs. Top producer Chile also anticipates a decline in copper output this year, as ongoing operational disruptions weigh on mines and development projects.
 
+**Oil set for second weekly rise as unsettled US-Iran war crimps supply - KLSE Screener**
+`21 Aug 10:16 PKT` · pehli baar dekhi `21 Aug 10:20` · gnews_geopolitics
+
+Oil set for second weekly rise as unsettled US-Iran war crimps supply KLSE Screener
+
+**Trump Threatens Unprecedented Economic Isolation of Iran - streamlinefeed.co.ke**
+`21 Aug 10:14 PKT` · pehli baar dekhi `21 Aug 10:20` · gnews_geopolitics
+
+Trump Threatens Unprecedented Economic Isolation of Iran streamlinefeed.co.ke
+
 **Oil set for second weekly rise as unsettled US-Iran war crimps supply - The Star**
 `21 Aug 09:32 PKT` · pehli baar dekhi `21 Aug 09:47` · gnews_geopolitics
 
@@ -843,10 +944,22 @@ Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says Ene
 
 Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Business Times
 
-### BINA TAG (81)
+### BINA TAG (93)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `21 Aug 15:00` **instaforex** — Estonia's Producer Prices Fall Further in July, Extending Deflationary Trend
+- `21 Aug 14:39` **instaforex** — Dutch Consumer Confidence Less Negative in August
+- `21 Aug 14:30` **instaforex** — Dutch Consumer Confidence Inches Up in August, Remains Deep in Negative Territory
+- `21 Aug 10:10` **investing_news** — Why is NetEase HK stock rising today?
+- `21 Aug 10:08` **investing_news** — Earnings call transcript: Hua Medicine posts 74% H1 2026 revenue growth
+- `21 Aug 10:07` **investing_news** — Alibaba shares fall after 75% profit plunge as AI spending weighs on earnings
+- `21 Aug 10:04` **cointelegraph** — MANTRA token sinks 18% to record low amid blockchain halt
+- `21 Aug 10:04` **investing_news** — SK Hynix tests SMA(200) after cloud breakout: Live levels
+- `21 Aug 10:04` **investing_news** — WISeKey names Alexander Hirsch as group chief marketing officer
+- `21 Aug 10:02` **investing_news** — Why is Lintec stock sliding today?
+- `21 Aug 10:02` **investing_news** — Why is Uniqlo owner Fast Retailing stock sliding today?
+- `21 Aug 09:48` **investing_news** — Chinese court in Guangzhou accepts bankruptcy case of Evergrande unit
 - `21 Aug 09:19` **investing_news** — Samsung shares climb on reports of shareholder return plan exceeding $72 bln
 - `21 Aug 09:12` **investing_news** — South Korea plans chip windfall fund to back youth, AI investment
 - `21 Aug 09:02` **investing_news** — Gift Nifty 50 coils in 0.3% squeeze near 24,100: Live levels
@@ -937,12 +1050,12 @@ Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Busi
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 21 | 0 | 21 | 4 | 0.0 |
-| fxstreet_news | OK | 30 | 27 | 3 | 24 | 3 | 0.0 |
+| investinglive | OK | 25 | 23 | 2 | 21 | 2 | 0.0 |
+| fxstreet_news | OK | 30 | 29 | 2 | 27 | 1 | 0.0 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.4 |
 | actionforex | OK | 20 | 7 | 0 | 7 | 13 | 0.1 |
 | marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 0.9 |
-| instaforex | OK | 25 | 25 | 1 | 24 | 0 | -0.2 |
+| instaforex | OK | 25 | 25 | 9 | 16 | 0 | -0.2 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
@@ -950,11 +1063,11 @@ Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Busi
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.0 |
-| gnews_gold | OK | 100 | 24 | 2 | 22 | 76 | 0.0 |
-| gnews_fed | OK | 100 | 11 | 1 | 10 | 89 | 0.1 |
-| gnews_geopolitics | OK | 98 | 21 | 4 | 17 | 77 | 0.0 |
-| gnews_centralbanks | OK | 37 | 15 | 1 | 14 | 22 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
+| gnews_gold | OK | 100 | 25 | 4 | 21 | 75 | 0.0 |
+| gnews_fed | OK | 100 | 11 | 0 | 11 | 89 | 0.1 |
+| gnews_geopolitics | OK | 98 | 23 | 3 | 20 | 75 | 0.0 |
+| gnews_centralbanks | OK | 36 | 17 | 2 | 15 | 19 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.4 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 9.7 |
@@ -968,10 +1081,10 @@ Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Busi
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 16.7 |
 | wsj_world | OK | 71 | 4 | 0 | 4 | 67 | 0.1 |
 | wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.1 |
-| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.8 |
-| mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
-| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.6 |
+| mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.3 |
+| cointelegraph | OK | 30 | 2 | 1 | 1 | 28 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - rbnz_news — FAIL, HTTP 403
