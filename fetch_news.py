@@ -64,10 +64,10 @@ HEADERS = {
 }
 
 FEED_GROUPS = ["feeds_tier1", "feeds_cme", "feeds_google",
-               "feeds_centralbank", "feeds_support"]
+               "feeds_centralbank", "feeds_unverified", "feeds_support"]
 
 TAG_ORDER = ["gold", "usd", "eur", "gbp", "jpy", "chf",
-             "cad", "aud", "nzd", "oil", "rates", "risk"]
+             "cad", "aud", "nzd", "oil", "crypto", "rates", "risk"]
 
 
 # ==========================================================
