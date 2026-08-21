@@ -1,8 +1,8 @@
 # News Pack — Trading Day 20 Aug 2026
 
 - Trading day: **20 Aug 03:00 -> 21 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 20:38 PKT**
-- Kul khabrein: **232**
+- Aakhri update: **21 Aug 20:49 PKT**
+- Kul khabrein: **340**
 - Feeds: 39/39 OK
 
 ---
@@ -82,10 +82,36 @@ Comex gold settled 0.6% higher and silver rose 3.5%, with both metals up for a s
 
 Silver (XAG/USD) price extended its gains on Thursday, up more than 1.70%, even as US yields recovered some ground following the US Treasury bond buyback announcement. The XAG/USD pair trades at $68.18 at the time of writing, its highest level since June 18.
 
+**Gold steadies, silver jumps as bond-market pressure hits equities - Kitco PM Report - KITCO**
+`20 Aug 22:50 PKT` · pehli baar dekhi `21 Aug 20:49` · kitco_general
+
+Gold steadies, silver jumps as bond-market pressure hits equities - Kitco PM Report KITCO
+
+**Gold miners climb as US Treasury yields rebound**
+`20 Aug 22:42 PKT` · pehli baar dekhi `21 Aug 20:49` · mining_com
+
+Bullion equities push higher as investors weigh rising US debt, stubborn long-term rates and Treasury intervention.
+
 **Gold pulls back as US yields recover after Treasury buyback**
 `20 Aug 22:36 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
 
 Gold (XAU/USD) price retreats about 0.33% on Thursday as US Treasury yields trim some of their Wednesday losses, weighing on bullion, which is also pressured by the recovery of the US Dollar. The XAU/USD pair trades at $4,509, after hitting a daily high of $4,540.
+
+**British Columbia First Nation rescinds support for Seabridge's KSM gold project**
+`20 Aug 22:35 PKT` · pehli baar dekhi `21 Aug 20:49` · mining_com
+
+The Hereditary Chiefs of the Gitxsan Huwilp government, which has supported KSM's development since 2013, decided via unanimous vote to withdraw its support on Aug. 13.
+
+**Silver prices today, Thursday, August 20, 2026: Silver opens higher on Treasury's news of increased debt buybacks**
+`20 Aug 20:36 PKT` · pehli baar dekhi `21 Aug 20:49` · yahoo_finance
+
+**Gold prices today, Thursday, August 20, 2026: Gold rallies after Treasury announcement, FOMC meeting minutes**
+`20 Aug 20:33 PKT` · pehli baar dekhi `21 Aug 20:49` · yahoo_finance
+
+**Colombia gold mine collapse kills 13 workers**
+`20 Aug 19:03 PKT` · pehli baar dekhi `21 Aug 20:49` · mining_com
+
+Rescue crews worked into early Thursday after a landslide struck an open-pit operation in the country's southwest.
 
 **Gold: Higher range holds but next leg delayed – TD Securities**
 `20 Aug 18:45 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
@@ -108,17 +134,37 @@ Key takeaways Gold surges: XAU/USD jumped 4.35% on 19 August, its biggest one-da
 
 Gold is struggling around the $4,500 level in Asia on Thursday after reaching the highest level in 11 weeks at $4,528 in early dealings.
 
+**Omai values Guyana gold project at $4B**
+`20 Aug 04:00 PKT` · pehli baar dekhi `21 Aug 20:49` · mining_com
+
+Company positions it among the largest and most valuable undeveloped gold projects in South America.
+
 ### USD
+
+**Who's buying U.S. Treasury debt, and why? - Brookings**
+`21 Aug 02:48 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Who's buying U.S. Treasury debt, and why? Brookings
 
 **U.S. Stocks and Bonds Slide, Brushing Off Treasury's Buyback Plans**
 `21 Aug 02:32 PKT` · pehli baar dekhi `21 Aug 02:40` · wsj_markets
 
 Mixed results from Walmart and other retailers offered more gloom on the health of the American consumer.
 
+**Citigroup strategists bearish on US dollar amid Fed, Treasury moves - Crypto Briefing**
+`21 Aug 02:18 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Citigroup strategists bearish on US dollar amid Fed, Treasury moves Crypto Briefing
+
 **Fed's Daly, Musalem united on credibility concerns as bond selloff persists, but split on policy**
 `21 Aug 02:14 PKT` · pehli baar dekhi `21 Aug 02:40` · investinglive
 
 The remarks land as traders sharply pare bets on a September rate increase, with pricing falling to around 30 percent from more than 70 percent at the end of July. Daly's comments suggest a voting bloc within the Fed sees little urgency to act preemptively despite the bond market turmoil, which could reinforce the recent repricing lower in near term hike odds.
+
+**Trump calls for lower interest rates as Fed officials watch inflation - USA Today**
+`21 Aug 02:13 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Trump calls for lower interest rates as Fed officials watch inflation USA Today
 
 **Bond relief ebbs, stocks mixed as investors question Treasury's rescue efforts**
 `21 Aug 01:48 PKT` · pehli baar dekhi `21 Aug 02:05` · investing_news
@@ -128,10 +174,16 @@ The remarks land as traders sharply pare bets on a September rate increase, with
 
 U.S. stocks fell as the brief calm in the bond market evaporated.
 
-**Opinion | The Bond 'Chaos' Is a Sign Kevin Warsh's Plan Is Working**
-`21 Aug 01:22 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_markets
+**Opinion | The Bond 'Chaos' Is a Sign Kevin Warsh's Plan Is Working - WSJ**
+`21 Aug 01:22 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed · **2 feeds mein**
 
-The Fed is becoming less willing to subsidize spendthrift lawmakers. This is a welcome turn.
+Opinion | The Bond 'Chaos' Is a Sign Kevin Warsh's Plan Is Working WSJ
+  - `21 Aug 01:22` *wsj_markets* — Opinion | The Bond 'Chaos' Is a Sign Kevin Warsh's Plan Is Working
+
+**The Fed's preferred measure of inflation is changing - marketplace.org**
+`21 Aug 01:18 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+The Fed's preferred measure of inflation is changing marketplace.org
 
 **Mexican Peso holds firm as Banxico minutes supports the Peso**
 `21 Aug 01:14 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
@@ -140,6 +192,27 @@ The Mexican Peso holds firm versus the Greenback as Banxico adopted a cautious s
 
 **OSI Systems expands stock buyback by 1 million shares**
 `21 Aug 01:12 PKT` · pehli baar dekhi `21 Aug 01:33` · investing_news
+
+**Fed Approves National Westminster Bank Application - Mirage News**
+`21 Aug 01:10 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Fed Approves National Westminster Bank Application Mirage News
+
+**Why Treasury Secretary Bessent's moves to calm the bond market haven't worked so far - Sentinel and Enterprise**
+`21 Aug 01:02 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed · **2 feeds mein**
+
+Why Treasury Secretary Bessent's moves to calm the bond market haven't worked so far Sentinel and Enterprise
+  - `20 Aug 21:25` *gnews_fed* — Why Treasury Secretary Bessent's moves to calm the bond market haven't worked so far - ABC27
+
+**Warsh faces Fed independence test as Bessent moves in on central bank's turf - CNBC**
+`21 Aug 01:02 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Warsh faces Fed independence test as Bessent moves in on central bank's turf CNBC
+
+**Another Culprit Behind the U.S. Treasury Selloff? St. Louis Fed President: AI Infrastructure Is Competing for Capital, Not a Fed Credibility Crisis - finance.biggo.com**
+`21 Aug 00:55 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Another Culprit Behind the U.S. Treasury Selloff? St. Louis Fed President: AI Infrastructure Is Competing for Capital, Not a Fed Credibility Crisis finance.biggo.com
 
 **Anxious bond market sends troubling message to investors: There's no easy fix for U.S. debt**
 `21 Aug 00:40 PKT` · pehli baar dekhi `21 Aug 01:33` · mw_topstories
@@ -161,20 +234,45 @@ DBS strategist Chang Wei Liang reports that South Korean Won (KRW) strength has 
 
 The US Dollar Index (DXY) is hovering near 98.90, still short of 100.00, but grinding higher on Thursday. Hawkish commentary from Federal Reserve Bank of St.
 
+**Fed Minutes Show Growing Support for Interest Rate Hike as Inflation Concerns Persist - NBC Palm Springs**
+`21 Aug 00:12 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Fed Minutes Show Growing Support for Interest Rate Hike as Inflation Concerns Persist NBC Palm Springs
+
 **The bond market is going to burst the stock-market bubble**
 `21 Aug 00:06 PKT` · pehli baar dekhi `21 Aug 01:33` · mw_topstories
 
 Rising yields threaten everything, especially overextended equities.
+
+**Fed Minutes Lay Out Specific Conditions That Could Revive Rate Hikes - finance.biggo.com**
+`20 Aug 23:56 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Fed Minutes Lay Out Specific Conditions That Could Revive Rate Hikes finance.biggo.com
+
+**Fed Officials Proceed Cautiously Ahead of September FOMC Meeting, Jackson Hole - TradingView**
+`20 Aug 23:53 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Fed Officials Proceed Cautiously Ahead of September FOMC Meeting, Jackson Hole TradingView
 
 **The Dollar Index takes its floor from a Fed non-voter**
 `20 Aug 23:44 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
 
 The Dollar Index has spent Thursday building a floor just above 98.50 and defending it with everything the calendar had to offer, and the entire effort is worth roughly a tenth of a point.
 
+**Trump Renews Criticism of Fed Interest Rate Policy, Calls for Lower U.S. Borrowing Costs - Tech Earnings Analysis - Vinanet**
+`20 Aug 23:43 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Trump Renews Criticism of Fed Interest Rate Policy, Calls for Lower U.S. Borrowing Costs - Tech Earnings Analysis Vinanet
+
 **Indonesian Rupiah: Softer Dollar offers limited relief – OCBC**
 `20 Aug 23:43 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
 
 OCBC strategists Sim Moh Siong and Christopher Wong note that Indonesian Rupiah (IDR) should find some relief from a softer Dollar and lower long-end US yields, with BI keeping its policy rate at 5.75% and focusing on currency stability.
+
+**The FOMC Minutes Just Quietly Floated Rate Hikes. Nobody's Pricing That In. - The South Shore Press**
+`20 Aug 23:41 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+The FOMC Minutes Just Quietly Floated Rate Hikes. Nobody's Pricing That In. The South Shore Press
 
 **Singapore Dollar: Upside risk stays in focus against US Dollar – UOB**
 `20 Aug 23:33 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
@@ -186,10 +284,30 @@ United Overseas Bank's Quek Ser Leang and Lee Sue Ann note that USD/SGD extended
 
 The 30-year Treasury is 12 basis points below its highest level since before the financial crisis. Not its highest since 2023, or since the tightening cycle, but since June 12, 2007, the last time the longest bond in the world's deepest market yielded what it yields on Thursday.
 
+**US Treasury bond yields rise, impacting borrowing costs and Fed rate outlook - Crypto Briefing**
+`20 Aug 23:31 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+US Treasury bond yields rise, impacting borrowing costs and Fed rate outlook Crypto Briefing
+
+**St. Louis Fed's Musalem Keeps September Rate Decision Open, Signals Inflation Still Too High - finance.biggo.com**
+`20 Aug 23:21 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+St. Louis Fed's Musalem Keeps September Rate Decision Open, Signals Inflation Still Too High finance.biggo.com
+
 **If rising rates were enough to end a bull market, we'd have entered a bear market long ago**
 `20 Aug 23:03 PKT` · pehli baar dekhi `21 Aug 01:33` · mw_topstories
 
 The "Fed Model" has turned bearish — how much should you care?
+
+**Boston Fed report exposes deep wealth disparities as homeowners outpace renters - The Bay State Banner**
+`20 Aug 23:00 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Boston Fed report exposes deep wealth disparities as homeowners outpace renters The Bay State Banner
+
+**Trump calls Fed 'political' as rate-cut case divides market - mpamag.com**
+`20 Aug 22:55 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Trump calls Fed 'political' as rate-cut case divides market mpamag.com
 
 **US debt tops $40T stoking debate on what it means for Bitcoin**
 `20 Aug 22:43 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
@@ -201,10 +319,52 @@ Analysts say the $40 trillion debt milestone could bolster Bitcoin's long-term c
 
 The minutes of the Bank of Mexico (Banxico) August meeting showed that the central bank is expected to hold rates steady for some time, despite the resumption of the disinflation process.
 
+**US Treasury buyback briefly eases bond rout, but debt worries persist - KITCO**
+`20 Aug 22:31 PKT` · pehli baar dekhi `21 Aug 20:49` · kitco_general
+
+US Treasury buyback briefly eases bond rout, but debt worries persist KITCO
+
+**Trump Renews Fed Rate Criticism, Says U.S. Should Be Paying Much Less - Earnings Expansion Phase - Vinanet**
+`20 Aug 22:23 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Trump Renews Fed Rate Criticism, Says U.S. Should Be Paying Much Less - Earnings Expansion Phase Vinanet
+
+**Fed's Musalem says on CNBC he won't prejudge rate call view for September FOMC - KITCO**
+`20 Aug 22:12 PKT` · pehli baar dekhi `21 Aug 20:49` · kitco_general · **3 feeds mein**
+
+Fed's Musalem says on CNBC he won't prejudge rate call view for September FOMC KITCO
+  - `20 Aug 22:38` *gnews_fed* — St. Louis Fed's Musalem says on CNBC he won't prejudge rate call view for September FOMC - The Economic Times
+  - `20 Aug 21:00` *gnews_fed* — Fed's Musalem says won't prejudge rate call view for September FOMC – CNBC - WTVB
+
 **US Treasury auctions off $9 billion of 30-year TIPS at 2.973% vs 2.991% WI**
 `20 Aug 22:11 PKT` · pehli baar dekhi `21 Aug 01:33` · investinglive
 
 High yield: 2.973% WI level at the time of the auction 2.991% Stopped through by 1.8 bps Bid-to-cover ratio 2.82X Direct (domestic buyers) 13.4% Indirect (international buyers) 84.4% Dealers 2.1% The US Treasury's $9 billion auction of 30-year Treasury Inflation-Protected Securities (TIPS) attracted exceptionally strong participation from foreign investors. The auction stopped at a high yield of 2.973%, below the 2.991% when-issued (WI) yield trading in the market at the time of the sale.
+
+**Treasury's upsized buybacks may complicate Fed's monetary policy work - Reuters**
+`20 Aug 22:05 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Treasury's upsized buybacks may complicate Fed's monetary policy work Reuters
+
+**Fed and Treasury appear at odds when it comes to the markets - Axios**
+`20 Aug 21:44 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Fed and Treasury appear at odds when it comes to the markets Axios
+
+**What the Treasury's Buyback Surprise Says About the Bond Market - Council on Foreign Relations**
+`20 Aug 21:30 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+What the Treasury's Buyback Surprise Says About the Bond Market Council on Foreign Relations
+
+**Daly Says Bond Market Showing Trust in Fed's Policy Stance - Bloomberg.com**
+`20 Aug 21:11 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Daly Says Bond Market Showing Trust in Fed's Policy Stance Bloomberg.com
+
+**Democrats press Warsh to release reported conversations with Trump - The Hill**
+`20 Aug 20:55 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Democrats press Warsh to release reported conversations with Trump The Hill
 
 **US Dollar: Debasement worries weigh after buyback – Scotiabank**
 `20 Aug 20:52 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
@@ -262,6 +422,16 @@ Prior -0.2% (revised to -0.1%) The Conference Board Leading Economic Index incre
 
 Market relief at the unexpected intervention proved short-lived as concerns remain about high levels of debt and government spending, analysts said.
 
+**Poland's economy enters the third quarter on an uneven footing**
+`20 Aug 18:41 PKT` · pehli baar dekhi `21 Aug 20:49` · ing_think
+
+CENTRAL AND EASTERN EUROPE: Poland's economy ended 2Q26 on a strong footing, but July brought a softer picture of activity. Solid industrial performance was accompanied by a surprising decline in construction output. We think the peak of the current economic cycle may already be behind us, but we still expect robust growth in the second half of the year and GDP to expand by 3.4% in 2026
+
+**Polish government announces fiscally neutral changes in income taxes**
+`20 Aug 18:18 PKT` · pehli baar dekhi `21 Aug 20:49` · ing_think
+
+CENTRAL AND EASTERN EUROPE: The government's tax proposals are to remove some unfairness in the tax system and are to be neutral to the budget: lower revenues from personal income taxes are to be offset by higher ones from corporate income taxes. But fiscal neutrality is not a remedy for an excessive 7% of GDP fiscal deficit, and financial markets are aware of it
+
 **U.S. Jobless Claims Pull Back After Recent Run-Up**
 `20 Aug 17:59 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_economy
 
@@ -312,10 +482,10 @@ The US dollar has come under moderate pressure as long-term US Treasury yields h
 
 Riksbank policymakers have held rates steady for seven consecutive meetings, adopting a wait-and-see stance to monitor inflation and economic developments.
 
-**Stock Market Today: Treasury Buybacks Lift Tech as Chips, Crypto and Moderna Lead**
-`20 Aug 12:36 PKT` · pehli baar dekhi `21 Aug 01:33` · investinglive
+**FX Daily: Introducing the Bessent Put in Treasuries**
+`20 Aug 11:46 PKT` · pehli baar dekhi `21 Aug 20:49` · ing_think
 
-Key takeaways for investors and traders today Treasury buybacks: Lower bond yields are supporting technology and other growth assets. Semiconductor test: SK Hynix and Samsung are rebounding sharply, but U.S. chip stocks still need to confirm the recovery. Moderna re-rating: MRNA's 177% surge reflects major new clinical information, not merely a sector rebound. Crypto participation: Bitcoin is nearing $70,000, while Ethereum's breakout suggests the rally may be broadening.
+For many years, the market spoke of a 'Greenspan Put' in equity markets, where investors were protected from much lower stock prices by the assumption that the Fed would cut rates. Yesterday's intervention in the Treasury market suggests the recent rise in longer-dated yields has touched a raw nerve. Risk assets are enjoying this more activist US Treasury
 
 **FX option expiries for 20 August 10am New York cut**
 `20 Aug 10:59 PKT` · pehli baar dekhi `21 Aug 01:33` · investinglive
@@ -333,6 +503,21 @@ The big announcement from yesterday, in case you missed it: US Treasury is incre
 Key lessons for gold and Bitcoin investors A Treasury buyback is not free money: The government repurchases older bonds, usually while continuing to issue new debt. Buybacks can calm markets: They add demand and liquidity to parts of the Treasury market, which can pull bond yields lower. This was not the same as Federal Reserve quantitative easing: The Treasury is managing government debt, not creating central-bank money.
 
 ### EUR
+
+**Rates Spark: Data for the EUR belly - ING THINK economic and financial analysis | ING THINK**
+`21 Aug 02:41 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_centralbanks
+
+Rates Spark: Data for the EUR belly ING THINK economic and financial analysis | ING THINK
+
+**Eurozone PPI below market predictions continues to justify ECB rate hikes; FOMC minutes and Nonfarm Payrolls report in focus - VT Markets**
+`20 Aug 23:30 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_centralbanks
+
+Eurozone PPI below market predictions continues to justify ECB rate hikes; FOMC minutes and Nonfarm Payrolls report in focus VT Markets
+
+**Rates Spark: Data for the EUR belly**
+`20 Aug 20:44 PKT` · pehli baar dekhi `21 Aug 20:49` · ing_think
+
+The latest volatility in long-end US yields has left the EUR side largely unimpressed. But we look to Friday's data, not so much to challenge the near-term hike discount, but with regard to whether the European Central Bank will be able to back track its tightening in any meaningful way further down the road
 
 **EUR/GBP eases from intraday highs as traders eye dual flash PMIs**
 `20 Aug 19:55 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
@@ -377,6 +562,11 @@ EUR/USD&#8217;s rally continues today and the strong break of 1.1621 cluster res
 July producer prices +1.1% vs +0.7% m/m expected Prior -0.3% July producer prices +3.0% vs +2.7% y/y expected Prior +1.8% German producer prices continue to move up again in July but owes much to another jump in energy prices. Of note, energy prices rose by 3.4% in July compared to the month before with prices for petroleum products in particular seen 6.6% higher than in June.
 
 ### GBP
+
+**Pound Firms As UK Inflation Holds Steady, Keeping BoE Hike Bets Alive - Bitcoin World**
+`20 Aug 21:10 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_centralbanks
+
+Pound Firms As UK Inflation Holds Steady, Keeping BoE Hike Bets Alive Bitcoin World
 
 **British Pound climbs as UK inflation keeps BoE hike bets alive**
 `20 Aug 20:58 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
@@ -426,6 +616,11 @@ U.S. Treasury Secretary Scott Bessent doubled down on his department's intervent
 
 USD/JPY rebounds on Thursday, recovering most of the previous day's losses as the US Dollar (USD) stages a modest recovery after falling to a three-month low. At the time of writing, USD/JPY trades around 159.05, up roughly 0.55% on the day.
 
+**Japan proposes giving state body JOGMEC more freedom to invest in critical minerals - KITCO**
+`20 Aug 21:14 PKT` · pehli baar dekhi `21 Aug 20:49` · kitco_general
+
+Japan proposes giving state body JOGMEC more freedom to invest in critical minerals KITCO
+
 **Japan 225 Analysis: Index Declines Amid Rising BoJ Rate Expectations**
 `20 Aug 16:20 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
 
@@ -458,10 +653,20 @@ USD/CHF&#8217;s extended decline argues that rebound from 0.7603 has completed w
 **Canada stocks lower at close of trade; S&P/TSX Composite down 0.10%**
 `21 Aug 01:30 PKT` · pehli baar dekhi `21 Aug 01:39` · investing_news
 
+**Carney asks Canada's provinces to end US alcohol ban as trade deal nears**
+`21 Aug 01:15 PKT` · pehli baar dekhi `21 Aug 20:49` · bbc_business
+
+An agreement preventing a new wave of US tariffs is close and could include an end to Canada's boycott of US wine and spirits.
+
 **Canada Trade Official Says Tariff Deal With U.S. 'Very Close'**
 `21 Aug 01:02 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_world
 
 Dominic LeBlanc, Canada's minister in charge of U.S. trade, said Ottawa and Washington are "very close" to finalizing an agreement.
+
+**Canadian dollar hits near 3-month high as oil prices climb - KITCO**
+`20 Aug 21:29 PKT` · pehli baar dekhi `21 Aug 20:49` · kitco_general
+
+Canadian dollar hits near 3-month high as oil prices climb KITCO
 
 **Canadian Dollar: Upside focus into 1.35–1.37 against US Dollar – Scotiabank**
 `20 Aug 18:30 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
@@ -480,6 +685,11 @@ USD/CAD&#8217;s fall from 1.4247 resumed after brief consolidations. Intraday bi
 
 ### AUD
 
+**China is taking Russia's oil from India — and Australia could pay at the fuel pump - The Times Australia**
+`21 Aug 02:52 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
+
+China is taking Russia's oil from India — and Australia could pay at the fuel pump The Times Australia
+
 **Australian Dollar Price Forecast: Focus shifts to data**
 `20 Aug 23:41 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_analysis
 
@@ -489,6 +699,11 @@ Base case: while above the 200-day SMA past 0.6940, spot should maintain the neu
 `20 Aug 22:01 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
 
 AUD/USD is trading in the 0.7100 neighborhood at the time of writing on Thursday, holding close to multi-week highs after a steady climb off its earlier lows. The pair is marginally weaker on the day as the US Dollar (USD) regains a little ground, but the broader uptrend remains intact.
+
+**Fortescue keeps executive at work during sex-harassment probe**
+`20 Aug 15:45 PKT` · pehli baar dekhi `21 Aug 20:49` · mining_com
+
+External lawyers are investigating misconduct claims as Australian miners face continued scrutiny over workplace culture.
 
 **AUD/USD Daily Report**
 `20 Aug 11:56 PKT` · pehli baar dekhi `21 Aug 01:33` · actionforex
@@ -532,10 +747,30 @@ Plus, Walmart sinks after reporting weak earnings.
 
 Oil futures rose for a fifth straight session as the U.S. planned what President Trump called unprecedented economic isolation on Iran.
 
+**Oil hits more than three-week high as Trump threatens Iran-related retaliation - London South East**
+`20 Aug 23:12 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
+
+Oil hits more than three-week high as Trump threatens Iran-related retaliation London South East
+
+**Oil prices hit three-week high as Trump threatens Iran allies - The Journal Record**
+`20 Aug 22:50 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
+
+Oil prices hit three-week high as Trump threatens Iran allies The Journal Record
+
+**Oil hits more than 3-week high as Trump tries to raise pressure on Iran - The Korea Times**
+`20 Aug 21:42 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
+
+Oil hits more than 3-week high as Trump tries to raise pressure on Iran The Korea Times
+
 **Energy & Utilities Roundup: Market Talk**
 `20 Aug 21:31 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_markets
 
 Find insight on oil futures, Ithaca Energy and more in the latest Market Talks covering energy and utilities.
+
+**The Caspian Sea Is Now a Critical Military Lifeline for Russia and Iran - Crude Oil Prices Today | OilPrice.com**
+`20 Aug 21:00 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
+
+The Caspian Sea Is Now a Critical Military Lifeline for Russia and Iran Crude Oil Prices Today | OilPrice.com
 
 **WTI hits three-week high as Iran deadlock supports Oil**
 `20 Aug 20:12 PKT` · pehli baar dekhi `21 Aug 01:33` · fxstreet_news
@@ -574,6 +809,21 @@ Binance's Agent OS lets AI agents access market data, execute trades and make pa
 
 Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
 
+**JD Vance says US shifting to economic pressure as primary strategy against Iran - Crypto Briefing**
+`21 Aug 00:31 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
+
+JD Vance says US shifting to economic pressure as primary strategy against Iran Crypto Briefing
+
+**CME and Polymarket both signal Fed rate hold, but at different confidence levels - Crypto Briefing**
+`21 Aug 00:20 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+CME and Polymarket both signal Fed rate hold, but at different confidence levels Crypto Briefing
+
+**Crypto shares climb after Treasury's doubled buybacks boost risk assets - KITCO**
+`20 Aug 21:20 PKT` · pehli baar dekhi `21 Aug 20:49` · kitco_general
+
+Crypto shares climb after Treasury's doubled buybacks boost risk assets KITCO
+
 **Crypto Stocks Continue to Surge After Upbeat White House Meeting**
 `20 Aug 21:14 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_markets
 
@@ -584,6 +834,22 @@ President Trump reaffirmed support for the Clarity Act, which would allow for gr
 
 Nine public miners generated $341 million from AI and HPC operations in the first half of 2026 after spending more than $5 billion on capital assets.
 
+**Federal Reserve's Musalem flags uneven credit tightening across the US economy - Crypto Briefing**
+`20 Aug 21:10 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Federal Reserve's Musalem flags uneven credit tightening across the US economy Crypto Briefing
+
+**Fed rate hikes seen as preventive measure against aggressive future actions - Crypto Briefing**
+`20 Aug 21:00 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Fed rate hikes seen as preventive measure against aggressive future actions Crypto Briefing
+
+**Fed's Musalem: Forward guidance strategic when rates near zero - Crypto Briefing**
+`20 Aug 21:00 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed · **2 feeds mein**
+
+Fed's Musalem: Forward guidance strategic when rates near zero Crypto Briefing
+  - `20 Aug 20:54` *gnews_fed* — Fed's Musalem: Forward guidance most effective when rates are at zero - Crypto Briefing
+
 **Most Americans say the Trump family's crypto investments are not 'appropriate': Poll**
 `20 Aug 20:53 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
 
@@ -593,6 +859,9 @@ A new poll showed 63% of 1,166 Americans varied sharply along partisan lines, wi
 `20 Aug 20:40 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
 
 Bitcoin saw new multimonth highs above $72,500 even as US stocks cooled amid US threats of "economic warfare" with Iran.
+
+**Bitcoin and ethereum prices today, Thursday, August 20, 2026: Crypto prices surge after President Trump pushes for Clarity Act**
+`20 Aug 20:40 PKT` · pehli baar dekhi `21 Aug 20:49` · yahoo_finance
 
 **Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers**
 `20 Aug 17:35 PKT` · pehli baar dekhi `21 Aug 01:33` · cointelegraph
@@ -634,22 +903,75 @@ Market Overview The cryptocurrency market has risen by almost 8% over the past 2
 
 Regulators reportedly accepted BitGo Korea's registration on Tuesday, two days before stricter VASP entry requirements took effect.
 
+**Stock Market Today: Treasury Buybacks Lift Tech as Chips, Crypto and Moderna Lead**
+`20 Aug 12:36 PKT` · pehli baar dekhi `21 Aug 01:33` · investinglive
+
+Key takeaways for investors and traders today Treasury buybacks: Lower bond yields are supporting technology and other growth assets. Semiconductor test: SK Hynix and Samsung are rebounding sharply, but U.S. chip stocks still need to confirm the recovery. Moderna re-rating: MRNA's 177% surge reflects major new clinical information, not merely a sector rebound. Crypto participation: Bitcoin is nearing $70,000, while Ethereum's breakout suggests the rally may be broadening.
+
 **Bitcoin nears $70K, but Ethereum's eight-hour breakout reveals the bigger crypto shift**
 `20 Aug 08:25 PKT` · pehli baar dekhi `21 Aug 01:33` · investinglive
 
 Crypto market update: Bitcoin nears $70K as Ethereum and altcoins broaden the rebound Crypto has shifted from fragile stabilization to a broad market rebound. Bitcoin has pushed toward $69,000-$70,000, Ethereum is outperforming, ETF demand has improved, and major altcoins are participating. The move is increasingly credible, but holding above the former $66,900 range ceiling is now more important than briefly trading through it.
 
+### RATES
+
+**Federal Reserve Members Could Support a Rate Hike and The Impact of Classroom Technology - KWTX**
+`21 Aug 02:40 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Federal Reserve Members Could Support a Rate Hike and The Impact of Classroom Technology KWTX
+
+**Federal Reserve considering rate hike - WDRB**
+`21 Aug 01:54 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Federal Reserve considering rate hike WDRB
+
+**Federal Reserve eyeing next interest rate hike - Atlanta News First**
+`21 Aug 00:41 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed
+
+Federal Reserve eyeing next interest rate hike Atlanta News First
+
+**Federal Reserve hints at possible rate hike - WSOC TV**
+`20 Aug 22:52 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_fed · **2 feeds mein**
+
+Federal Reserve hints at possible rate hike WSOC TV
+  - `20 Aug 22:52` *gnews_fed* — Federal Reserve hints at possible rate hike - Yahoo Finance
+
 ### RISK
+
+**Bessent: "I Don't Really Understand" Oil Price Spike, As Iran War Nears 6 Month Mark - 24/7 Wall St.**
+`21 Aug 02:43 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
+
+Bessent: "I Don't Really Understand" Oil Price Spike, As Iran War Nears 6 Month Mark 24/7 Wall St.
 
 **Walmart Adds to Wall Street Pressures With Weak Sales Growth**
 `21 Aug 02:36 PKT` · pehli baar dekhi `21 Aug 02:40` · wsj_markets
 
 Plus, Romania accused Russia of launching an explosive drone, and healthcare costs are set for a steep increase.
 
+**3 Global Oil Stocks in Focus as Iran Sanctions Rattle Energy Markets - simplywall.st**
+`21 Aug 02:32 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
+
+3 Global Oil Stocks in Focus as Iran Sanctions Rattle Energy Markets simplywall.st
+
 **Opinion | Dissent Grows Among Russia's Political Elites**
 `21 Aug 01:20 PKT` · pehli baar dekhi `21 Aug 01:33` · wsj_world
 
 The firing of a high-profile economist reveals Putin's anxiety over insiders' opposition to the war.
+
+**3 Energy Stocks For Investors Watching Iran Sanctions And Oil Supply Risk - simplywall.st**
+`20 Aug 22:21 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
+
+3 Energy Stocks For Investors Watching Iran Sanctions And Oil Supply Risk simplywall.st
+
+**US sanctions 10 over Hezbollah cash network linked to Iran - Iran International**
+`20 Aug 22:16 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
+
+US sanctions 10 over Hezbollah cash network linked to Iran Iran International
+
+**Bessent Declares US Will Impose Toughest Sanctions in History Against Iran - Sahi**
+`20 Aug 21:13 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
+
+Bessent Declares US Will Impose Toughest Sanctions in History Against Iran Sahi
 
 **US Treasury Secretary Bessent says the long-dated bond buyback could be more than 4 billion**
 `20 Aug 20:04 PKT` · pehli baar dekhi `21 Aug 01:33` · investinglive
@@ -686,92 +1008,104 @@ From overnight: Trump vows crushing new economic operation against Iran, warns a
 
 The United Arab Emirates, long Tehran's gateway to global commerce and finance, has pledged to crack down. But it's complicated.
 
-### BINA TAG (97)
+### BINA TAG (115)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
-- `21 Aug 02:40` **investing_news** — Earnings call transcript: Ross Stores tops Q2 2026 estimates, shares jump after hours
+- `21 Aug 02:49` **gnews_fed** — Federal Reserve orders oversight measures on Birmingham's SouthPoint Bancshares - AL.com
 - `21 Aug 02:40` **wsj_world** — Opinion | Darline Graham's Taiwan Mistake
-- `21 Aug 02:38` **investing_news** — SkyCity FY26 slides: earnings fall 22% as asset sales, online push begin
 - `21 Aug 02:36` **investing_news** — Abbott agrees to $670 million settlement of infant formula cases
+- `21 Aug 02:36` **gnews_fed** — Nearly Half of Young Adults Under 30 Live with Parents, Federal Reserve Reports - Fenado AI
 - `21 Aug 02:36` **investing_news** — Tredegar adds Ana Dutra to board as independent director
 - `21 Aug 02:32` **investing_news** — Roots agrees to be acquired by Marquee Brands for C$4.10 per share
-- `21 Aug 02:31` **investing_news** — Fastly CTO Artur Bergman sells $1.7m in shares, some for tax
-- `21 Aug 02:31` **investing_news** — Performance food group EVP King sells $159k in company stock
-- `21 Aug 02:31` **investing_news** — SmartRent director Thomas Bohjalian buys $76,395 in stock
 - `21 Aug 02:30` **investing_news** — Mexico stocks higher at close of trade; S&P/BMV IPC up 0.55%
 - `21 Aug 02:29` **wsj_markets** — James Hardie Selling European Fermacell Business for $980 Million to Holcim
+- `21 Aug 02:24` **gnews_fed** — Trump Renews Attack on Federal Reserve Rate Policy, Says U.S. Should Be Paying Much Less - EBITDA Estimate Trend - Vinanet
 - `21 Aug 02:12` **investing_news** — Brazil launches AI supercomputer push, splits projects between Chinese, US firms
-- `21 Aug 02:11` **investing_news** — Earnings call transcript: Flux Power posts q4 2026 revenue miss, shares swing lower
 - `21 Aug 02:08` **investing_news** — Route1 at Emerging Growth Conference: shifts to outcome-driven growth
-- `21 Aug 02:08` **investing_news** — Earnings call transcript: POSaBIT posts stronger margins in Q2 2026
 - `21 Aug 02:07` **investing_news** — Trading Day: Can't get no relief
 - `21 Aug 02:06` **investing_news** — Delta, Aeromexico win court battle to keep joint venture
 - `21 Aug 02:04` **investing_news** — Real Brokerage announces RE/MAX merger consideration results
-- `21 Aug 02:04` **investing_news** — Simmons First declares $0.215 quarterly dividend, up 1%
 - `21 Aug 02:04` **investing_news** — EShallGo raises $1.75 million in registered direct offering
-- `21 Aug 02:04` **investing_news** — Richmond Mutual Bancorporation declares $0.15 quarterly dividend
 - `21 Aug 02:01` **mw_topstories** — We're in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?
+- `21 Aug 02:00` **gnews_fed** — A British banking giant is expanding in the United States - DKNews.kz
 - `21 Aug 01:54` **wsj_markets** — Private Credit's Next Big Thing Is $1 Trillion in British Pensions
 - `21 Aug 01:50` **investing_news** — DSV Leads Jefferies' Global Transport & Logistics Picks
-- `21 Aug 01:50` **investing_news** — Rigetti Computing COO David Rivas sells $151,734 in stock
-- `21 Aug 01:50` **investing_news** — NHC CEO Stephen Flatt sells $355,620 in company shares
+- `21 Aug 01:49` **gnews_fed** — SouthPoint Bancshares faces formal enforcement action as regulators tighten oversight - The Business Journals
 - `21 Aug 01:48` **investing_news** — Goldman Sachs raises NetEase stock price target on gaming strength
 - `21 Aug 01:48` **investing_news** — Ross Stores raises annual profit forecast again on discounted apparel demand
 - `21 Aug 01:48` **investing_news** — Provident Financial Services prices $175M subordinated notes
-- `21 Aug 01:46` **investing_news** — Rigetti Computing CTO Andrew Bestwick sells $97,319 in stock.
-- `21 Aug 01:46` **investing_news** — Applied Optoelectronics SVP Yeh sells $886k in shares
-- `21 Aug 01:46` **investing_news** — Roblox chief legal officer Mark Reinstra sells $250,000 of RBLX stock
+- `21 Aug 01:40` **mining_com** — High-grade Ima resource boosts Idaho tungsten revival
 - `21 Aug 01:34` **investing_news** — Forum Markets at Micro-Cap Virtual Conference: cash flow first, tokenization later
 - `21 Aug 01:31` **investing_news** — Largo stock rises after debt restructuring extends maturity
 - `21 Aug 01:31` **investing_news** — TSX ends lower hurt by slump in financial and technology stocks
-- `21 Aug 01:31` **investing_news** — Aura Minerals director Sousa Mauad sells $22.8m in common shares
-- `21 Aug 01:31` **investing_news** — Rcm technologies division president Michael Saks sells $410,681 in stock
 - `21 Aug 01:30` **investing_news** — U.S. stocks lower at close of trade; Dow Jones Industrial Average down 1.31%
 - `21 Aug 01:30` **investing_news** — Brazil stocks higher at close of trade; Bovespa up 0.06%
-- `21 Aug 01:28` **investing_news** — Carter's declares $0.25 quarterly dividend, payable Sept. 25
-- `21 Aug 01:26` **investing_news** — Why is Flux Power stock sliding today?
 - `21 Aug 01:12` **investing_news** — VirTra wins $1.5M U.S. Army contract for training system
 - `21 Aug 01:12` **investing_news** — RedCloud receives Nasdaq delisting warning over market value
 - `21 Aug 01:12` **investing_news** — Ross Stores earnings beat by $0.72, revenue topped estimates
 - `21 Aug 01:12` **investing_news** — Anthropologie signs lease at St. Joe's Watersound Town Center
 - `21 Aug 01:12` **investing_news** — iSpecimen completes cancer research project in three weeks
-- `21 Aug 01:12` **investing_news** — LCNB Corp. declares $0.22 quarterly dividend
-- `21 Aug 01:12` **investing_news** — Andersons declares $0.20 quarterly dividend for Q4 2026
 - `21 Aug 01:12` **investing_news** — Suja Life refinances credit agreement with lower interest rate
 - `21 Aug 01:12` **investing_news** — Credit Acceptance completes $600 million securitization
+- `21 Aug 00:57` **gnews_fed** — Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch - InsuranceNewsNet
 - `21 Aug 00:40` **wsj_world** — U.S. Begins Deporting Immigrants to Liberia
 - `21 Aug 00:40` **wsj_markets** — U.S. Natural Gas Futures Settle Lower
+- `21 Aug 00:35` **gnews_fed** — Trump attacks Federal Reserve over 'ridiculous' rates - Social News XYZ
 - `21 Aug 00:14` **mw_topstories** — Sports betting to build wealth is becoming the new American dream
+- `21 Aug 00:04` **gnews_fed** — Trump Renews Attacks on Federal Reserve Rate Policy, Accuses Officials of Political Motives - Earnings Growth Forecast - Vinanet
+- `21 Aug 00:03` **mining_com** — BHP, MIT spinout to trial copper recovery tech at historic Arizona mine
 - `21 Aug 00:01` **mw_topstories** — Moderna's personalized mRNA shot could reshape the fight against skin cancer — but it may also be overhyped
+- `20 Aug 23:43` **kitco_general** — Mining News, Mining Stocks, Junior Mining - KITCO
 - `20 Aug 23:20` **mw_topstories** — Neocloud stocks like CoreWeave are having a moment — and time's running out to cash in
 - `20 Aug 23:18` **wsj_markets** — U.S. Stocks Fall After Weak Earnings Reports
 - `20 Aug 23:15` **mw_topstories** — 'There is considerable tension': My grandmother, 99, wants to cut my mother out of her will. Should I intervene?
+- `20 Aug 23:09` **gnews_fed** — Federal member Musalam raises the flag of tightening Interest rates may remain high - المتداول العربي
+- `20 Aug 23:04` **mining_com** — Government cash reshapes mining's capital: study
 - `20 Aug 23:00` **wsj_world** — From PlayStation to Spider-Man: Inside Sony's Transformation
+- `20 Aug 22:59` **bbc_business** — Walmart sales under strain as US shoppers pull back
+- `20 Aug 22:59` **kitco_general** — Trump administration to back US minerals projects with $500 million in grants - KITCO
+- `20 Aug 22:41` **kitco_general** — Ghana's mineworkers demand release of $34.5 million in trapped savings - KITCO
 - `20 Aug 22:30` **mw_topstories** — Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?
 - `20 Aug 22:20` **mw_topstories** — Seahawks player on his real-estate side hustle: 'I brought my Super Bowl ring to the open houses'
 - `20 Aug 22:13` **wsj_markets** — Private-Equity Firms Look for an Exit Three Years After Buying EverBank
+- `20 Aug 22:10` **kitco_general** — Fortescue sees commercial power sales from Pilbara green grid when demand emerges - KITCO
 - `20 Aug 21:59` **fxstreet_news** — Dow Jones Industrial Average sells the best outlook since 1983
+- `20 Aug 21:45` **kitco_general** — Radiant World lays off staff as lenders back away, sources say - KITCO
 - `20 Aug 21:36` **wsj_markets** — Health Care Roundup: Market Talk
+- `20 Aug 21:34` **gnews_fed** — Trump Renews Criticism of Federal Reserve, Argues U.S. Should Be Paying Much Less - Tech Earnings Analysis - Vinanet
+- `20 Aug 21:31` **bbc_business** — Reform UK proposes tax rebates for firms to boost apprenticeships
 - `20 Aug 21:29` **wsj_markets** — Auto & Transport Roundup: Market Talk
+- `20 Aug 21:27` **bbc_business** — Bernard Matthews confirms closure of Derby factory
+- `20 Aug 21:26` **gnews_centralbanks** — Bank of Finland's Olli Rehn's strategic call on interest rates and common debt - OMFIF
+- `20 Aug 21:25` **kitco_general** — US unemployment claims dipped last week, showing stability in job market - KITCO
+- `20 Aug 21:24` **kitco_general** — Coal India plans Singapore trading hub in hunt for critical mineral assets, sources say - KITCO
+- `20 Aug 21:22` **mining_com** — Op-Ed: Europe wants critical minerals, just not the mines
 - `20 Aug 20:43` **cointelegraph** — Optimism moves 546.9M OP from future airdrops to ecosystem growth fund
 - `20 Aug 20:11` **fxstreet_news** — Indonesia: Rupiah stability supports BI pause – DBS
 - `20 Aug 19:57` **wsj_markets** — Super Micro Clears Senior Management in Alleged Smuggling Scheme
+- `20 Aug 19:52` **yahoo_finance** — Should you buy a Medicare Advantage plan from Costco? What you'll want to know.
 - `20 Aug 19:38` **wsj_economy** — U.S. Leading Indicators Ticked Up in July
 - `20 Aug 19:38` **wsj_markets** — U.S. Leading Indicators Ticked Up in July
 - `20 Aug 18:53` **wsj_world** — The End of Harry and Meghan's American Dream
 - `20 Aug 18:30` **cointelegraph** — MiCA cracks down on USDT in Europe... but no one else cares
+- `20 Aug 18:24` **bbc_business** — Danone €1bn takeover of Huel approved by watchdog
 - `20 Aug 18:18` **cointelegraph** — Bitdeer signs $400M AI cloud computing deal for Malaysia facility
 - `20 Aug 18:09` **wsj_economy** — Philadelphia Area Manufacturing Activity Continued to Expand in August
 - `20 Aug 18:08` **wsj_world** — Best High-Yield Savings Accounts for August 2026: Up to 4.50%
 - `20 Aug 18:08` **wsj_markets** — 10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider
+- `20 Aug 17:10` **mining_com** — Las Bambas halt adds to South America copper woes
+- `20 Aug 17:05` **bbc_business** — Thousands helped with back to school costs
 - `20 Aug 16:52` **investinglive** — Experienced Traders Can Now Apply to Teach on investingLive Academy
 - `20 Aug 16:39` **wsj_markets** — Novonesis Leads Europe's Stoxx 600 on Sales Beat, Guidance Raise
+- `20 Aug 16:17` **bbc_business** — Illegal 'drip pricing' could add thousands to the cost of your holiday
 - `20 Aug 16:17` **wsj_world** — Chinese Tycoon Who Symbolized Property Bust Is Sentenced to Life in Prison
 - `20 Aug 16:05` **wsj_world** — Dwindling Patriot Supplies Leave Kyiv in the Line of Fire
 - `20 Aug 15:29` **wsj_markets** — Here's the Real Problem With Stock Buybacks
 - `20 Aug 15:11` **wsj_world** — Trump Wants a Summit That Kim Jong Un Doesn't Need
+- `20 Aug 15:05` **bbc_business** — Travelodge boss resigns as chain tackles security after sex assault at hotel
 - `20 Aug 15:00` **yahoo_finance** — Best CD rates today, Thursday, August 20, 2026: Lock in up to 4.30% APY with a 16-month CD
+- `20 Aug 15:00` **yahoo_finance** — Mortgage rates dropped last week despite heightened bond market volatility: Mortgage and refinance interest rates today, Thursday, August 20, 2026
 - `20 Aug 14:52` **wsj_world** — U.S. Debt Soars and Scott Bessent Steps in as America's Bond Trader in Chief
 - `20 Aug 14:30` **wsj_economy** — After 66-year-old Lynn Lee was laid off last year, she began an odyssey to find her way back to employment. "Don't give up."
 - `20 Aug 14:30` **wsj_markets** — Hyperscalers' Off-Grid Power Push Comes With Risks
@@ -780,13 +1114,27 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 - `20 Aug 13:47` **wsj_world** — Swiss Watch Exports Stay Resilient in July Helped by U.S. Performance
 - `20 Aug 12:26` **wsj_markets** — European Indexes Mixed, Autos Rally
 - `20 Aug 11:56` **wsj_world** — Taiwan Floats Record Defense Budget, Sending Message to U.S. and China
+- `20 Aug 11:23` **bbc_business** — US national debt passes $40tn after doubling in a decade
+- `20 Aug 11:08` **bbc_business** — Founder of collapsed Chinese property giant Evergrande sentenced to life in prison
 - `20 Aug 10:52` **cointelegraph** — HYPE jumps 20% as Trump signals legal US path for Hyperliquid
+- `20 Aug 10:17` **bbc_business** — Little Moons co-founder: Don't wait for your product to be perfect
 - `20 Aug 09:52` **investinglive** — Chart of the day: Is the Nasdaq breakout retesting or failing?
 - `20 Aug 09:30` **cointelegraph** — Rushed CLARITY Act vote could set legislation back, Gallego warns
 - `20 Aug 07:00` **wsj_world** — Asia's Businesses Struggle to Shake Off the Sway of Their Founding Families
+- `20 Aug 04:52` **mining_com** — Ramaco Resources, Indium Corp ink gallium and germanium supply deal for Brook mine
 - `20 Aug 04:50` **wsj_world** — Prince Harry and Meghan Markle to Return to the U.K.
+- `20 Aug 04:31` **bbc_business** — India's Gen Z are driving up a mega boom in its beauty market
+- `20 Aug 04:08` **bbc_business** — I quit my £80,000 job to make ice cream - here's how
 - `20 Aug 04:00` **yahoo_finance** — Jim Cramer drops stunning take on the economy
 - `20 Aug 03:37` **wsj_markets** — Why a Payments Giant Is Paying $7 Billion for the 'Stripe of AI'
+
+---
+
+## Shor — 20 khabrein hatai gayin
+
+*Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
+
+investing_news (20)
 
 ---
 
@@ -796,42 +1144,42 @@ The United Arab Emirates, long Tehran's gateway to global commerce and finance, 
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 1 | 29 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 4 | 1 | 3 | 26 | 0.0 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.0 |
-| marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.1 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 5 | 1 | 4 | 31 | 0.0 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.4 |
-| kitco_general | OK | 27 | 14 | 13 | 1 | 13 | 0.1 |
-| gnews_fed | OK | 94 | 43 | 2 | 41 | 51 | 0.0 |
-| gnews_geopolitics | OK | 100 | 88 | 6 | 82 | 12 | 0.0 |
-| gnews_centralbanks | OK | 38 | 34 | 2 | 32 | 4 | 0.0 |
+| investinglive | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 30 | 0 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 7 | 4 | 3 | 23 | 0.0 |
+| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.0 |
+| marketpulse | OK | 4 | 2 | 1 | 1 | 2 | 0.1 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 9 | 5 | 4 | 27 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.8 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.8 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.8 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.8 |
+| cme_daily_commentary | OK | 10 | 6 | 0 | 6 | 4 | 0.8 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.5 |
+| kitco_general | OK | 28 | 28 | 28 | 0 | 0 | 0.0 |
+| gnews_fed | OK | 90 | 90 | 90 | 0 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 100 | 0 | 0 | 0.0 |
+| gnews_centralbanks | OK | 37 | 37 | 37 | 0 | 0 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.8 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.3 |
+| ecb_press | OK | 15 | 1 | 1 | 0 | 14 | 0.3 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.1 |
-| boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.4 |
+| boj_whatsnew | OK | 46 | 1 | 1 | 0 | 45 | 0.4 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.3 |
-| mining_com | OK | 36 | 3 | 0 | 3 | 33 | 0.1 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| ing_think | OK | 10 | 6 | 0 | 6 | 4 | 0.2 |
-| bbc_business | OK | 50 | 14 | 0 | 14 | 36 | 0.0 |
-| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| mining_com | OK | 36 | 14 | 14 | 0 | 22 | 0.2 |
+| oilprice | OK | 15 | 15 | 15 | 0 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 10 | 0 | 0 | 0.1 |
+| ing_think | OK | 10 | 10 | 10 | 0 | 0 | 0.2 |
+| bbc_business | OK | 50 | 28 | 25 | 3 | 22 | 0.0 |
+| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
 | snb_press | OK | 20 | 3 | 3 | 0 | 17 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.3 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.1 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.1 |
-| wsj_world | OK | 71 | 9 | 0 | 9 | 62 | 0.1 |
-| wsj_markets | OK | 61 | 18 | 0 | 18 | 43 | 0.1 |
+| wsj_world | OK | 71 | 28 | 8 | 20 | 43 | 0.1 |
+| wsj_markets | OK | 61 | 36 | 16 | 20 | 25 | 0.1 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 33 | 8 | 25 | 16 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 11 | 0 | 11 | 19 | 0.1 |
+| yahoo_finance | OK | 50 | 40 | 38 | 2 | 10 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 29 | 10 | 19 | 1 | 0.1 |
