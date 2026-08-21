@@ -1,8 +1,8 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **21 Aug 15:56 PKT**
-- Kul khabrein: **633**
+- Aakhri update: **21 Aug 16:32 PKT**
+- Kul khabrein: **668**
 - Feeds: 31/35 OK
 
 ---
@@ -30,6 +30,11 @@ Germany's 10-year Bund yield eased to around 3.25%, down from Wednesday's 3.2625
 `21 Aug 18:12 PKT` · pehli baar dekhi `21 Aug 14:06` · instaforex
 
 The DAX 40 rose about 0.3% on Friday to trade slightly above the 26,000 mark, breaking a four-session losing streak, driven mainly by gains in technology and utility stocks. Overall sentiment remained cautious, however, as elevated oil prices and bond yields, together with ongoing geopolitical tensions, continued to weigh on risk appetite. On the macroeconomic front, Germany's private sector maintained a modest pace of expansion in August.
+
+**How have interest rate expectations changed after this week's events?**
+`21 Aug 15:55 PKT` · pehli baar dekhi `21 Aug 16:32` · investinglive
+
+Rate hikes by year-end RBNZ: 52 bps (91% probability of rate hike at the next meeting) ECB: 40 bps (94% probability of rate hike at the next meeting) BoJ: 35 bps (67% probability of rate hike at the next meeting) BoE: 27 bps (81% probability of no change at the next meeting) Fed: 23 bps (65% probability of no change at the next meeting) BoC: 20 bps (97% probability of no change at the next meeting) RBA: 15 bps (85% probability of no change at the next meeting) SNB: 5 bps (91% probability of no ...
 
 **Dollar falls alongside bond yields in final stretch of the week**
 `21 Aug 14:43 PKT` · pehli baar dekhi `21 Aug 14:51` · investinglive
@@ -108,6 +113,16 @@ The scale of the drawdown, 1.6 million ounces since January, values reserve loss
 
 ### GOLD
 
+**$4,600: Gold rallies to three-month high, eyes third weekly gain**
+`21 Aug 16:06 PKT` · pehli baar dekhi `21 Aug 16:32` · fxstreet_news
+
+Gold (XAU/USD) is heading for a third consecutive weekly gain on Friday, extending an impressive rally that has lifted the precious metal by around 13% so far this month. At the time of writing, XAU/USD trades near $4,590 after briefly climbing above $4,600, its highest level since May 15.
+
+**Gold (XAUUSD) Price Forecast: Gold Breakout Clears 200-Day MA as Dollar Falls - FXEmpire**
+`21 Aug 16:04 PKT` · pehli baar dekhi `21 Aug 16:32` · gnews_gold
+
+Gold (XAUUSD) Price Forecast: Gold Breakout Clears 200-Day MA as Dollar Falls FXEmpire
+
 **Gold Price Forecast: XAU/USD testing three-month highs near $4,600 as the US Dollar dives**
 `21 Aug 15:14 PKT` · pehli baar dekhi `21 Aug 15:22` · fxstreet_news
 
@@ -127,6 +142,11 @@ Gold price today: Check 22K, 24K rates in Delhi, Bengaluru, Chennai and Mumbai |
 `21 Aug 14:49 PKT` · pehli baar dekhi `21 Aug 15:22` · gnews_gold
 
 Gold Reclaims Rs 1.60 Lakh, Silver Nears Rs 2.50 Lakh: Why Are Bullion Prices Rising? Know Key Reasons News18
+
+**Gold price increases by Rs 3, 300 per tola on Friday - The Annapurna Express**
+`21 Aug 14:44 PKT` · pehli baar dekhi `21 Aug 16:32` · gnews_gold
+
+Gold price increases by Rs 3, 300 per tola on Friday The Annapurna Express
 
 **Gold Price Crosses Rs 1,61,000 Per 10 Grams On MCX. Can It Hit Rs 2,00,000 Soon? - NDTV Profit**
 `21 Aug 14:36 PKT` · pehli baar dekhi `21 Aug 14:51` · gnews_gold
@@ -152,6 +172,11 @@ Barry FitzGerald: Gold developers catch fire as takeover action heats up Gold Co
 `21 Aug 13:36 PKT` · pehli baar dekhi `21 Aug 14:06` · gnews_gold
 
 Barry FitzGerald: Gold developers catch fire as takeover action heats up The Mercury
+
+**Barry FitzGerald: Gold developers catch fire as takeover action heats up - The Daily Telegraph**
+`21 Aug 13:30 PKT` · pehli baar dekhi `21 Aug 16:32` · gnews_gold
+
+Barry FitzGerald: Gold developers catch fire as takeover action heats up The Daily Telegraph
 
 **Gold Wave Analysis**
 `21 Aug 13:25 PKT` · pehli baar dekhi `21 Aug 14:06` · actionforex
@@ -333,6 +358,11 @@ Gold Price Today: Third Weekly Gain at $4,514/Oz, Up 3.2% This Week Univest
 
 Chennai Bullion Rates: Gold & Silver Prices Aug 21 Rediff MoneyWiz
 
+**Chennai gold price rises by Rs 880 on August 21, 2026; check today's gold, silver rate - DT Next**
+`21 Aug 10:08 PKT` · pehli baar dekhi `21 Aug 16:32` · gnews_gold
+
+Chennai gold price rises by Rs 880 on August 21, 2026; check today's gold, silver rate DT Next
+
 **Chennai Bullion Rates: Gold & Silver Prices Aug 21 - Rediff MoneyWiz**
 `21 Aug 10:04 PKT` · pehli baar dekhi `21 Aug 10:55` · gnews_gold
 
@@ -498,6 +528,11 @@ Gold drifts higher above $4,500 on US Treasury buyback FXStreet
 
 Gold wavers as bond yields rebound, oil jump fuels US inflation worries The Business Times
 
+**Gold ETF launched in Indonesia, could gold bar producers also benefit? - idnfinancials.com**
+`21 Aug 04:30 PKT` · pehli baar dekhi `21 Aug 16:32` · gnews_gold
+
+Gold ETF launched in Indonesia, could gold bar producers also benefit? idnfinancials.com
+
 **Gold price update morning of August 21st: Opposite pulling force, strong tug-of-war - Laodong.vn**
 `21 Aug 04:21 PKT` · pehli baar dekhi `21 Aug 08:50` · gnews_gold
 
@@ -619,6 +654,11 @@ The S&P Global Germany Manufacturing PMI rose to 54.1 in August 2026 from 52.2 i
 `21 Aug 17:43 PKT` · pehli baar dekhi `21 Aug 14:06` · instaforex
 
 Germany's Services PMI declined to 48.5 in August 2026 from 49.8 in July, falling short of market expectations of 50.1, according to preliminary data. This was the fifth consecutive month of contraction and the sharpest downturn since May. Even so, a second straight modest increase in new business and a renewed rise in employment indicate that activity may start to improve in the coming months.
+
+**US Dollar: Yield management weighs on currency – BBH**
+`21 Aug 16:15 PKT` · pehli baar dekhi `21 Aug 16:32` · fxstreet_news
+
+Brown Brothers Harriman's (BBH) Elias Haddad notes the US Dollar (USD) is weaker against all major currencies as longer-term US Treasury yields edge lower following buyback plans. Haddad argues expanded buybacks and fiscal messaging may cap long-end yields but at a credibility cost for the USD.
 
 **US Dollar broadly consolidates as analysts cast doubts over long-term impact of US Treasury buyback**
 `21 Aug 15:43 PKT` · pehli baar dekhi `21 Aug 15:56` · fxstreet_news
@@ -1013,6 +1053,11 @@ The euro area's services sector maintained a modest growth pace in August, with 
 
 The Eurozone's manufacturing sector showed further signs of strengthening in August 2026, as the HCOB Eurozone Manufacturing Purchasing Managers' Index (PMI) rose to 52.8. This marks an acceleration from July 2026, when the index stood at 51.9, according to data updated on 21 August 2026. The latest reading not only confirms that Eurozone manufacturing remains in expansionary territory, but also suggests that industrial activity is gaining traction.
 
+**Experts agree: Weak Dollar backs near-term upside in EUR/USD**
+`21 Aug 16:18 PKT` · pehli baar dekhi `21 Aug 16:32` · fxstreet_news
+
+The Euro (EUR) trades 0.21% higher at around 1.1710 against the US Dollar (USD) during the European trading session on Friday, the highest level seen in over three months.
+
 **EUR/USD strengthens on diverging ECB and Fed rate expectations - Traders Union**
 `21 Aug 15:37 PKT` · pehli baar dekhi `21 Aug 15:56` · gnews_centralbanks
 
@@ -1020,6 +1065,16 @@ EUR/USD strengthens on diverging ECB and Fed rate expectations Traders Union
 
 **UBS raises Eurozone earnings outlook on broadening profit growth**
 `21 Aug 15:01 PKT` · pehli baar dekhi `21 Aug 15:22` · investing_news
+
+**ECB's Kazāks: Central Bank Ready To Act If Needed To Achieve 2% Inflation Target - Bitcoin World**
+`21 Aug 15:00 PKT` · pehli baar dekhi `21 Aug 16:32` · gnews_centralbanks
+
+ECB's Kazāks: Central Bank Ready To Act If Needed To Achieve 2% Inflation Target Bitcoin World
+
+**Euro Zone Business Activity Peaks Amid Global Disruptions - Devdiscourse**
+`21 Aug 14:58 PKT` · pehli baar dekhi `21 Aug 16:32` · gnews_centralbanks
+
+Euro Zone Business Activity Peaks Amid Global Disruptions Devdiscourse
 
 **EUR/USD Daily Outlook**
 `21 Aug 14:45 PKT` · pehli baar dekhi `21 Aug 14:51` · actionforex
@@ -1554,6 +1609,11 @@ The Swiss Franc (CHF) resumes its upside journey against the US Dollar (USD) on 
 
 ### CAD
 
+**Canada Small Business Confidence Weakens in August**
+`21 Aug 21:06 PKT` · pehli baar dekhi `21 Aug 16:32` · instaforex
+
+Canada's CFIB Business Barometer long-term index, which tracks 12‑month business expectations, slipped to 57.6 in August 2026 from 58.6 in June. Short‑term optimism, based on the three‑month outlook, weakened more sharply, falling to 52.4 from 57.6, with confidence deteriorating in manufacturing, construction, transportation and utilities, and information, arts and recreation. In contrast, long‑term sentiment improved in most sectors, with agriculture the sole exception (39.1 vs 39.2).
+
 **USD/CAD Daily Outlook**
 `21 Aug 14:23 PKT` · pehli baar dekhi `21 Aug 14:51` · actionforex
 
@@ -1585,6 +1645,11 @@ USD/CAD extends its losses for the third successive day, trading around 1.3770 d
 Boston Federal Reserve president remarks about U.S. economy in Dover visit Yahoo News Canada
 
 ### AUD
+
+**Australian Dollar rallies above 0.7150 as the US Dollar bleeds amid bond buybacks**
+`21 Aug 16:24 PKT` · pehli baar dekhi `21 Aug 16:32` · fxstreet_news
+
+The Australian Dollar (AUD) accelerated its rally against the US Dollar (USD) on Friday, hitting session highs above 0.7150 for the first time since early June and drawing closer to a three-month top, in the 0.7200 area.
 
 **Jefferies: 38% of Australian companies beat estimates this season**
 `21 Aug 15:03 PKT` · pehli baar dekhi `21 Aug 15:22` · investing_news
@@ -1671,10 +1736,40 @@ New Zealand trade data, July 2026 Trade balance NZ$-1.95 billion (prior 23mn) Im
 
 ### OIL
 
+**Sensex Closes Almost Flat**
+`21 Aug 20:58 PKT` · pehli baar dekhi `21 Aug 16:32` · instaforex
+
+India's BSE Sensex ended virtually flat at 77,541 on Friday, as sentiment stayed cautious amid elevated oil prices, higher global bond yields, and ongoing geopolitical uncertainty. Strength in financials helped offset weakness in technology, automobile, and FMCG counters. Major private-sector lenders gained more than 1%, with Kotak Mahindra Bank and ICICI Bank leading the advance after Goldman Sachs initiated coverage on 14 Indian banks, citing improving earnings prospects.
+
+**Crude Oil Rises for Second Straight Week**
+`21 Aug 20:54 PKT` · pehli baar dekhi `21 Aug 16:32` · instaforex
+
+Crude oil traded just below $87 a barrel on Friday and is on track for a second straight weekly gain of about 5%. Prices remain supported by expectations of heightened US pressure on Iran and the absence of a clear resolution to the conflict that has disrupted energy flows across the Middle East.
+
 **FTSE 100 Rises for 4th Session**
 `21 Aug 18:26 PKT` · pehli baar dekhi `21 Aug 14:06` · instaforex
 
 The FTSE 100 traded higher on Friday, on track for a fourth consecutive session of modest gains and a weekly rise of about 0.2%. The index was supported mainly by mining and banking stocks, while defensive healthcare names acted as a drag. Mining companies advanced on the back of stronger precious and industrial metal prices. Antofagasta climbed more than 5%, Fresnillo gained around 3.6%, Endeavour Mining added 2.8%, Anglo American rose 2.5% and Glencore advanced 2.3%.
+
+**Oil Prices Edge Down, Markets Eye Hormuz Flows and U.S. Pressure on Iran - VOI.ID**
+`21 Aug 16:14 PKT` · pehli baar dekhi `21 Aug 16:32` · gnews_geopolitics
+
+Oil Prices Edge Down, Markets Eye Hormuz Flows and U.S. Pressure on Iran VOI.ID
+
+**Iranian oil prices rise as US blockade tightens supplies to China - Middle East Eye**
+`21 Aug 16:11 PKT` · pehli baar dekhi `21 Aug 16:32` · gnews_geopolitics
+
+Iranian oil prices rise as US blockade tightens supplies to China Middle East Eye
+
+**Energy Stocks in Focus as Oil Supply Risks Deepen - Kalkine Media**
+`21 Aug 15:45 PKT` · pehli baar dekhi `21 Aug 16:32` · gnews_geopolitics
+
+Energy Stocks in Focus as Oil Supply Risks Deepen Kalkine Media
+
+**Oil set for second weekly gain as US ramps up pressure on Iran - Yahoo Finance**
+`21 Aug 14:55 PKT` · pehli baar dekhi `21 Aug 16:32` · gnews_geopolitics
+
+Oil set for second weekly gain as US ramps up pressure on Iran Yahoo Finance
 
 **Iranian Oil Offers to China Fall as US Blockade Squeezes Exports - Arab Times Kuwait News**
 `21 Aug 14:46 PKT` · pehli baar dekhi `21 Aug 14:51` · gnews_geopolitics
@@ -1729,8 +1824,18 @@ Malaysian palm oil futures extended their gains to around MYR 4,990 per tonne, t
 **Oil prices on track for second straight weekly rise amid Mideast tensions**
 `21 Aug 13:57 PKT` · pehli baar dekhi `21 Aug 14:06` · investing_news
 
+**Iranian oil offers to Chinese buyers fall as US blockade bites, sources say - Reuters**
+`21 Aug 13:45 PKT` · pehli baar dekhi `21 Aug 16:32` · gnews_geopolitics
+
+Iranian oil offers to Chinese buyers fall as US blockade bites, sources say Reuters
+
 **Crisis Deepens as Iranian Oil Offers to China Decline Amid U.S. Blockade - Devdiscourse**
 `21 Aug 13:45 PKT` · pehli baar dekhi `21 Aug 14:06` · gnews_geopolitics
+
+Crisis Deepens as Iranian Oil Offers to China Decline Amid U.S. Blockade Devdiscourse
+
+**Crisis Deepens as Iranian Oil Offers to China Decline Amid U.S. Blockade - Devdiscourse**
+`21 Aug 13:45 PKT` · pehli baar dekhi `21 Aug 16:32` · gnews_geopolitics
 
 Crisis Deepens as Iranian Oil Offers to China Decline Amid U.S. Blockade Devdiscourse
 
@@ -2039,6 +2144,9 @@ Philadelphia Fed Manufacturing Index Jumps To 47.4 In August, Far Exceeding Expe
 
 ### RATES
 
+**Orchid Pharma Q1 FY27 slides: margin recovery gains traction post-merger**
+`21 Aug 16:03 PKT` · pehli baar dekhi `21 Aug 16:32` · investing_news
+
 **NIBE shares jump 8% as strong margin recovery powers second-quarter profit**
 `21 Aug 13:10 PKT` · pehli baar dekhi `21 Aug 13:21` · investing_news
 
@@ -2053,6 +2161,11 @@ Fed minutes show September rate hike still on the table Reuters
 `21 Aug 18:23 PKT` · pehli baar dekhi `21 Aug 14:06` · instaforex
 
 The number of foreign visitors to Turkey edged down by 0.3% year-on-year to 7.1 million in July 2026, after a 4.02% decline in June. Among the five largest source markets, arrivals from Germany, the United Kingdom, and Poland fell by 1.9%, 11.0%, and 2.3%, respectively, while visitors from Russia and Iran increased by 6.9% and 27.1%. By region, arrivals from the Americas dropped 15.2%, whereas those from Africa and Asia rose by 4.2% and 10.4%, respectively.
+
+**Oil prices track for second weekly gain as U.S.-Iran war stifles supply - Female First**
+`21 Aug 16:15 PKT` · pehli baar dekhi `21 Aug 16:32` · gnews_geopolitics
+
+Oil prices track for second weekly gain as U.S.-Iran war stifles supply Female First
 
 **Blackwater's Erik Prince Launches Air-Defense Startup**
 `21 Aug 15:00 PKT` · pehli baar dekhi `21 Aug 15:22` · wsj_world
@@ -2239,10 +2352,11 @@ Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says Ene
 
 Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Business Times
 
-### BINA TAG (183)
+### BINA TAG (195)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `21 Aug 21:21` **instaforex** — US Natgas Prices Climb for 2nd Week
 - `21 Aug 19:24` **instaforex** — Belgium Consumer Mood Falls in August
 - `21 Aug 19:05` **instaforex** — China's FDI Downturn Deepens in July, Extending Negative Trend
 - `21 Aug 19:00` **instaforex** — Belgium's Consumer Confidence Slips Further Into Negative Territory in August
@@ -2250,6 +2364,17 @@ Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Busi
 - `21 Aug 18:47` **instaforex** — Macau Visitor Arrivals Rebound to 5-Month High
 - `21 Aug 18:00` **instaforex** — Turkey's Foreign Arrivals Slide Eases Sharply in July, Signaling Tentative Tourism Stabilization
 - `21 Aug 17:47` **instaforex** — Turkey Consumer Confidence Hits Over 3-Year High
+- `21 Aug 16:05` **investing_news** — Wells Fargo initiates Vivmark Residential stock with overweight rating
+- `21 Aug 16:04` **investing_news** — UBS lifts S&P 500 EPS forecasts, says bull market has further to run
+- `21 Aug 16:04` **investing_news** — Bunker Hill to acquire Silver47 for $163M in all-stock deal
+- `21 Aug 16:04` **investing_news** — LiveWire begins S4 Honcho Trail motorcycle deliveries to dealers
+- `21 Aug 16:04` **investing_news** — McChip Resources appoints Fraser Hartley to board of directors
+- `21 Aug 16:04` **investing_news** — Yum! Brands appoints former HanesBrands CEO to board
+- `21 Aug 16:04` **investing_news** — Buckle earnings beat by $0.07, revenue topped estimates
+- `21 Aug 16:03` **investing_news** — Jefferies downgrades Alfen as costs weigh and EV Charging recovery fades
+- `21 Aug 16:03` **investing_news** — Buckle beats second quarter estimates on revenue growth
+- `21 Aug 16:00` **mw_topstories** — The U.S. government plans to crack down on its $40 trillion debt — but brace for a 'wrenching time' ahead
+- `21 Aug 15:59` **investinglive** — Field Notes from an A-Book Operations Floor: The Real Decisions Behind "Pure" Execution
 - `21 Aug 15:54` **mw_topstories** — Nvidia earnings could rescue a stalling stock market — if the AI chip maker breaks this trend
 - `21 Aug 15:52` **wsj_markets** — The Morning Risk Report: Rainmakers in Talks to Leave Weil Gotshal Amid Poaching Frenzy
 - `21 Aug 15:48` **gnews_fed** — $207 Billion Left the Banking System in a Month. Nobody Flinched - 24/7 Wall St.
@@ -2435,23 +2560,23 @@ Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Busi
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
-| fxstreet_news | OK | 30 | 30 | 1 | 29 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 4 | 26 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 2 | 0 | 2 | 28 | 0.2 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.0 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.1 |
-| instaforex | OK | 25 | 25 | 3 | 22 | 0 | -0.2 |
+| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.1 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.2 |
+| instaforex | OK | 25 | 25 | 4 | 21 | 0 | -0.2 |
 | wsj_economy | OK | 36 | 2 | 0 | 2 | 34 | 0.1 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.2 |
-| gnews_gold | OK | 100 | 62 | 1 | 61 | 38 | 0.0 |
-| gnews_fed | OK | 100 | 24 | 3 | 21 | 76 | 0.0 |
-| gnews_geopolitics | OK | 100 | 63 | 4 | 59 | 37 | 0.0 |
-| gnews_centralbanks | OK | 47 | 38 | 5 | 33 | 9 | 0.0 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.3 |
+| gnews_gold | OK | 100 | 63 | 5 | 58 | 37 | 0.0 |
+| gnews_fed | OK | 100 | 24 | 0 | 24 | 76 | 0.0 |
+| gnews_geopolitics | OK | 100 | 66 | 7 | 59 | 34 | 0.0 |
+| gnews_centralbanks | OK | 47 | 39 | 2 | 37 | 8 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.6 |
 | ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.1 |
@@ -2463,13 +2588,13 @@ Oil set for second weekly rise as unsettled US-Iran war disrupts supply The Busi
 | snb_press | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | us_treasury | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 1.9 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 16.9 |
-| wsj_world | OK | 72 | 9 | 1 | 8 | 63 | 0.0 |
-| wsj_markets | OK | 61 | 12 | 2 | 10 | 49 | 0.0 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.0 |
+| wsj_world | OK | 72 | 9 | 0 | 9 | 63 | 0.1 |
+| wsj_markets | OK | 61 | 12 | 0 | 12 | 49 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 2 | 0 | 2 | 48 | 0.0 |
-| mw_topstories | OK | 10 | 7 | 1 | 6 | 3 | 0.0 |
-| cointelegraph | OK | 30 | 7 | 0 | 7 | 23 | 0.0 |
+| yahoo_finance | OK | 50 | 1 | 0 | 1 | 49 | 0.1 |
+| mw_topstories | OK | 10 | 9 | 1 | 8 | 1 | 0.0 |
+| cointelegraph | OK | 30 | 7 | 0 | 7 | 23 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - rbnz_news — FAIL, HTTP 403
