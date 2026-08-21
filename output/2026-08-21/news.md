@@ -1,13 +1,18 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 01:25 PKT**
-- Kul khabrein: **767**
-- Feeds: 39/39 OK
+- Aakhri update: **22 Aug 01:51 PKT**
+- Kul khabrein: **796**
+- Feeds: 38/39 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**RBOB Gasoline futures reach highest levels since June as volume rolls.**
+`22 Aug 01:29 PKT` · pehli baar dekhi `22 Aug 01:51` · cme_energy_video
+
+Dan Deming of KKM Financial analyzes the energy markets, noting that RBOB Gasoline futures are trading higher as positions roll from the September to the October contract. The September contract rose 2.5% to $3.35, reaching the top end of its recent range. Deming highlights that crude prices maintaining their range highs and refinery capacity challenges are contributing to RBOB outpacing WTI Crude Oil futures.
 
 **Live Cattle futures hit new lows as Lean Hogs rebound.**
 `22 Aug 01:03 PKT` · pehli baar dekhi `22 Aug 01:25` · cme_daily_commentary
@@ -285,6 +290,11 @@ Gold price (XAU/USD) is up 0.65% at around $4,550 during the early European trad
 Canadian developer says new drilling at its past-producing Kerr-Addison property in Ontario could open the door to a larger open-pit gold resource.
 
 ### USD
+
+**Watch: How does the US national debt affect consumers around the world?**
+`22 Aug 01:28 PKT` · pehli baar dekhi `22 Aug 01:51` · bbc_business
+
+The debt has more than doubled in a decade to reach a milestone $40tn (£29.4tn), Treasury figures show.
 
 **Brazil Yields Fall on Tighter Election Race Prospects**
 `22 Aug 01:25 PKT` · instaforex
@@ -1184,6 +1194,11 @@ USD/CHF&#8217;s fall from 0.8205 short term top is in progress and intraday bias
 
 ### CAD
 
+**Western allies slam Israel for ending World Central Kitchen strike probe**
+`22 Aug 01:03 PKT` · pehli baar dekhi `22 Aug 01:51` · aljazeera
+
+UK, Australia and Canada call Israel's decision not to investigate deadly 2024 strike on a Gaza aid convoy &#039;shameful&#039;.
+
 **Mexico expects trade deal similar to US-Canada USMCA outcomes**
 `22 Aug 01:02 PKT` · pehli baar dekhi `22 Aug 01:25` · investing_news
 
@@ -1359,6 +1374,12 @@ Venezuela has plenty of oil buyers again. What it does not have is enough functi
 
 US Stock Market: Wall Street divided on Fed as rising crude prices boost rate hike expectations The Economic Times
 
+**Oil futures: Crude firmer as US set to ramp up sanctions on Iran - Quantum Commodity Intelligence**
+`21 Aug 22:25 PKT` · pehli baar dekhi `22 Aug 01:51` · gnews_geopolitics · **2 feeds mein**
+
+Oil futures: Crude firmer as US set to ramp up sanctions on Iran Quantum Commodity Intelligence
+  - `21 Aug 18:07` *gnews_geopolitics* — Oil futures: Crude steadies as US set to ramp up sanctions on Iran - Quantum Commodity Intelligence
+
 **Tajikistan seeks 2.55mn tons of oil and fuel from Iran amid supply diversification - Daryo.uz**
 `21 Aug 22:18 PKT` · pehli baar dekhi `22 Aug 00:33` · gnews_geopolitics · **2 feeds mein**
 
@@ -1490,11 +1511,6 @@ Oil set for second weekly gain as US ramps up pressure on Iran Reuters
 
 **Oil prices on track for second straight weekly rise amid Mideast tensions**
 `21 Aug 18:10 PKT` · pehli baar dekhi `21 Aug 20:49` · investing_commodities
-
-**Oil futures: Crude steadies as US set to ramp up sanctions on Iran - Quantum Commodity Intelligence**
-`21 Aug 18:07 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
-
-Oil futures: Crude steadies as US set to ramp up sanctions on Iran Quantum Commodity Intelligence
 
 **Brent: Supply risks keep prices elevated – Commerzbank**
 `21 Aug 17:55 PKT` · pehli baar dekhi `21 Aug 20:49` · fxstreet_news
@@ -1837,6 +1853,16 @@ Crude Oil Futures Hit One-Month High as U.S. Sanctions on Iran Reignite Supply C
 Oil Set for Weekly Surge as US Seeks to Throttle Iran's Economy Bloomberg.com
 
 ### CRYPTO
+
+**Bond Yields Rise Despite Treasury Efforts to Curb Borrowing Costs**
+`22 Aug 01:27 PKT` · pehli baar dekhi `22 Aug 01:51` · wsj_markets
+
+Plus, crypto climbs and stocks bounce back.
+
+**Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC**
+`22 Aug 01:26 PKT` · pehli baar dekhi `22 Aug 01:51` · cointelegraph
+
+Gracy Chen says macroeconomic uncertainty could keep Bitcoin within $10,000 to $20,000 of current levels, while US government purchases remain unlikely within the next two years.
 
 **Ray Dalio says to buy 'a bit' of Bitcoin amid potential debt crisis**
 `22 Aug 01:00 PKT` · pehli baar dekhi `22 Aug 01:25` · cointelegraph
@@ -2209,6 +2235,11 @@ The US Treasury labels Lebanon-based group &#039;an extension&#039; of the IRGC&
 
 Incidents of anti-Semitism have been on the rise in Europe since Israel&#039;s genocidal war on Gaza began.
 
+**Fed holds interest rates steady in 1st move since Iran war spiked oil prices - ABC News - Breaking News, Latest News and Videos**
+`21 Aug 16:42 PKT` · pehli baar dekhi `22 Aug 01:51` · gnews_fed
+
+Fed holds interest rates steady in 1st move since Iran war spiked oil prices ABC News - Breaking News, Latest News and Videos
+
 **Oil prices track for second weekly gain as U.S.-Iran war stifles supply - Female First**
 `21 Aug 16:15 PKT` · pehli baar dekhi `21 Aug 20:49` · gnews_geopolitics
 
@@ -2256,13 +2287,14 @@ US Plans Toughest Sanctions Yet Against Iran The Media Line
 `21 Aug 13:18 PKT` · pehli baar dekhi `21 Aug 20:49` · investing_commodities
 
 **Oil set for second weekly rise as unsettled US-Iran war crimps supply - mediaselangor.com**
-`21 Aug 13:12 PKT` · pehli baar dekhi `21 Aug 20:53` · gnews_geopolitics · **8 feeds mein**
+`21 Aug 13:12 PKT` · pehli baar dekhi `21 Aug 20:53` · gnews_geopolitics · **9 feeds mein**
 
 Oil set for second weekly rise as unsettled US-Iran war crimps supply mediaselangor.com
   - `21 Aug 11:10` *gnews_geopolitics* — Oil Set for Second Weekly Rise as Unsettled US-Iran War Crimps Supply - ASHARQ AL-AWSAT English
   - `21 Aug 11:05` *gnews_geopolitics* — Oil set for second weekly rise as unsettled US-Iran war crimps supply - Business Recorder
   - `21 Aug 10:16` *gnews_geopolitics* — Oil set for second weekly rise as unsettled US-Iran war crimps supply - KLSE Screener
   - `21 Aug 09:04` *gnews_geopolitics* — Oil set for second weekly rise as unsettled US-Iran war crimps supply - Dunya News
+  - `21 Aug 07:49` *gnews_geopolitics* — Oil set for second weekly rise as unsettled US-Iran war crimps supply - Business Recorder
   - `21 Aug 07:49` *gnews_geopolitics* — Oil set for second weekly rise as unsettled US-Iran war crimps supply - Business Recorder
   - `21 Aug 07:29` *gnews_geopolitics* — Oil set for second weekly rise as unsettled US-Iran war crimps supply - KLSE Screener
   - `21 Aug 07:29` *gnews_geopolitics* — Oil set for second weekly rise as unsettled US-Iran war crimps supply - NST Online
@@ -2348,13 +2380,32 @@ Iran has so far proved adept at finding ways around years of already punishing s
 
 It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.
 
-### BINA TAG (244)
+### BINA TAG (265)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 01:45` **kitco_general** — SEC charges former Bank of America investment banker with insider trading - KITCO
+- `22 Aug 01:44` **investing_news** — Cytek Biosciences wins on three of four patent claims
+- `22 Aug 01:43` **investing_news** — MongoDB gets bullish call as Atlas, AI and enterprise push gain traction
+- `22 Aug 01:43` **investing_news** — Boeing white-collar union rejects contract offer
+- `22 Aug 01:41` **investing_news** — Mizuho Names Top Small & Midcap Biotech Stock
+- `22 Aug 01:40` **kitco_general** — Largest US grid's transmission constraint costs surge to $6 billion in 2026 - KITCO
+- `22 Aug 01:37` **gnews_fed** — Federal Reserve holds interest rates steady - FOX 35 Orlando
+- `22 Aug 01:36` **investing_news** — loanDepot receives NYSE deficiency notice on stock price
+- `22 Aug 01:36` **investing_news** — Real receives court approval for RE/MAX acquisition
+- `22 Aug 01:36` **investing_news** — Solowin Holdings marks 10th anniversary of operations
+- `22 Aug 01:36` **investing_news** — Kairos Pharma to conduct 1-for-7 reverse stock split
+- `22 Aug 01:36` **investing_news** — AEye grants equity award to new chief revenue officer
+- `22 Aug 01:36` **investing_news** — Gray Media completes $750 million debt refinancing
+- `22 Aug 01:35` **aljazeera** — Tunisian protesters call for President Kais Saied to step down
+- `22 Aug 01:30` **mining_com** — New American Industrial Alliance launches 'Ground Truth' critical minerals readiness survey
+- `22 Aug 01:29` **gnews_fed** — Cash is dying, here's how much less we're using it - New Jersey 101.5
+- `22 Aug 01:27` **aljazeera** — Can a humanitarian disaster be averted in Somalia?
 - `22 Aug 01:24` **fxstreet_news** — Malaysian Ringgit: Robust trade supports MYR – Commerzbank
+- `22 Aug 01:16` **aljazeera** — Pope Leo urges the world to 'help begin reconstruction' of Gaza
 - `22 Aug 01:16` **investinglive** — Nasdaq and S&P indices are settling between risk/bias defining MAs as the week comes to a close
 - `22 Aug 01:11` **mw_topstories** — I plan to leave money to grandkids — but they must pass financial-literacy classes to get it. Is that fair?
+- `22 Aug 01:07` **aljazeera** — Bolivia's President Rodrigo Paz fires economy minister amid unrest
 - `22 Aug 01:04` **investing_news** — WhiteFiber closes $310m convertible notes offering
 - `22 Aug 01:04` **investing_news** — United Fire Group declares $0.20 dividend, adds board member
 - `22 Aug 01:00` **investing_news** — S&P Global upgrades Somnigroup rating on lower leverage
@@ -2371,6 +2422,7 @@ It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomati
 - `22 Aug 00:21` **aljazeera** — Libya rivals test a new path towards unity, 15 years after Gadaffi downfall
 - `22 Aug 00:19` **investing_commodities** — Natural Gas stuck below $2.80 resistance: Live levels
 - `22 Aug 00:19` **investing_commodities** — Copper coiled between $6.51-$6.62: Live breakout levels
+- `22 Aug 00:17` **gnews_fed** — Video Federal Reserve leaves interest rates unchanged - ABC News - Breaking News, Latest News and Videos
 - `22 Aug 00:14` **aljazeera** — Palestinian victims of Israeli settler attacks face battle for justice
 - `22 Aug 00:12` **investing_news** — US health agencies report 55 cases of E. coli and salmonella infections tied to alfalfa sprouts
 - `22 Aug 00:11` **mw_topstories** — Former JPMorgan exec takes on Social Security advisory role
@@ -2569,6 +2621,7 @@ It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomati
 - `21 Aug 15:00` **yahoo_finance** — Best CD rates today, Friday, August 21, 2026: Up to 4.35% APY return available to boost savings
 - `21 Aug 14:45` **bbc_business** — UK borrows more than expected in July as Healey prepares for first Budget
 - `21 Aug 14:30` **wsj_markets** — Stock Market Bargains Are Hiding in This Overlooked Place
+- `21 Aug 14:30` **wsj_markets** — When Your Bumper 401(k) Is a Tax Problem Waiting to Happen
 - `21 Aug 13:59` **gnews_fed** — Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank - marketscreener.com
 - `21 Aug 13:38` **bbc_business** — Why the US economy is ringing alarm bells
 - `21 Aug 13:02` **gnews_fed** — Hiring worse than expected in June, but White House says labor market on 'upward trajectory' - ABC News - Breaking News, Latest News and Videos
@@ -2613,22 +2666,22 @@ investing_news (14)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 2 | 28 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 0 | 30 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.1 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.2 |
 | marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.3 |
-| instaforex | OK | 25 | 25 | 7 | 18 | 0 | -0.2 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.2 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_daily_commentary | OK | 10 | 2 | 2 | 0 | 8 | 0.0 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.6 |
-| kitco_general | OK | 22 | 22 | 1 | 21 | 0 | 0.0 |
-| gnews_fed | OK | 77 | 67 | 7 | 60 | 10 | 0.0 |
-| gnews_geopolitics | OK | 100 | 97 | 0 | 97 | 3 | 0.0 |
+| cme_energy_video | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
+| cme_daily_commentary | OK | 10 | 3 | 0 | 3 | 7 | 0.0 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.7 |
+| kitco_general | OK | 24 | 24 | 2 | 22 | 0 | 0.0 |
+| gnews_fed | OK | 76 | 68 | 4 | 64 | 8 | 0.0 |
+| gnews_geopolitics | OK | 100 | 97 | 2 | 95 | 3 | 0.0 |
 | gnews_centralbanks | OK | 34 | 33 | 0 | 33 | 1 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.0 |
@@ -2636,19 +2689,22 @@ investing_news (14)
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.3 |
 | boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.6 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.5 |
-| mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.1 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
+| mining_com | OK | 36 | 8 | 1 | 7 | 28 | 0.0 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.0 |
 | investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.4 |
-| bbc_business | OK | 50 | 15 | 0 | 15 | 35 | 0.2 |
-| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| bbc_business | OK | 50 | 16 | 1 | 15 | 34 | 0.0 |
+| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
 | snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.5 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.3 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.3 |
-| wsj_world | OK | 72 | 12 | 1 | 11 | 60 | 0.0 |
-| wsj_markets | OK | 61 | 23 | 0 | 23 | 38 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 2 | 0 | 2 | 48 | 0.4 |
-| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 17 | 1 | 16 | 13 | 0.0 |
+| wsj_world | OK | 72 | 12 | 0 | 12 | 60 | 0.0 |
+| wsj_markets | OK | 61 | 25 | 2 | 23 | 36 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 4 | 0 | 4 | 45 | 0.4 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 18 | 1 | 17 | 12 | 0.0 |
+
+**Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi
