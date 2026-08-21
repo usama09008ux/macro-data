@@ -220,6 +220,72 @@ feeds_centralbank:
 # ==========================================================
 feeds_unverified:
 
+  # ---------- Gold aur metals ----------
+  # AAP KA PEHLA ASSET XAUUSD HAI, MAGAR 35 FEEDS MEIN EK BHI
+  # GOLD KA MAHIR FEED NAHI THA. Ye wo khala bharte hain.
+
+  - name: kitco_news
+    url: "https://www.kitco.com/rss/KitcoNews.xml"
+    weight: 9
+    cadence_days: 1
+    tag: gold
+    # Gold/silver ki mandi ka sab se purana khaas idara —
+    # central bank khareedari, ETF flows, refinery ki khabrein
+
+  - name: mining_com
+    url: "https://www.mining.com/feed/"
+    weight: 6
+    cadence_days: 1
+    # Supply side — khaanein, production, hartaal
+
+  # ---------- Tel ----------
+
+  - name: oilprice
+    url: "https://oilprice.com/rss/main"
+    weight: 7
+    cadence_days: 1
+    tag: oil
+
+  - name: investing_commodities
+    url: "https://www.investing.com/rss/news_11.rss"
+    weight: 5
+    cadence_days: 1
+
+  # ---------- Bank ki apni research ----------
+  # Ab tak jo aata hai wo SAHAFAT hai. Ye TAHQEEQ hai — alag cheez.
+
+  - name: ing_think
+    url: "https://think.ing.com/rss/"
+    weight: 9
+    cadence_days: 1
+    # Muft. Rozana FX aur rates par pesha-warana tajziya,
+    # forecasts ke sath.
+
+  # ---------- New York Fed ----------
+
+  - name: nyfed_markets
+    url: "https://www.newyorkfed.org/rss/markets_news"
+    weight: 9
+    cadence_days: 7
+    # Poora market abhi Treasury buyback par chal raha hai, aur
+    # us ka amal-darahmad NY Fed karta hai — SOMA operations.
+
+  # ---------- Geopolitics ----------
+
+  - name: bbc_business
+    url: "https://feeds.bbci.co.uk/news/business/rss.xml"
+    weight: 5
+    cadence_days: 1
+
+  - name: aljazeera
+    url: "https://www.aljazeera.com/xml/rss/all.xml"
+    weight: 5
+    cadence_days: 1
+    # Middle East par sab se gehri nazar — Iran ke maamle mein
+    # kaam ka. Aur ye baqi kisi feed mein nahi hai.
+
+  # ---------- Pehle se maujood, jaanche bina ----------
+
   - name: boc_press
     url: "https://www.bankofcanada.ca/content_type/press-releases/feed/"
     weight: 8
