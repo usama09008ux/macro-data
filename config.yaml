@@ -429,7 +429,7 @@ keywords:
   eur:    [ecb, lagarde, euro, eurozone, "euro area", bund, hicp, germany,
            german, france, eur, bundesbank,
            "eur/usd", eurusd, "eur/gbp", eurgbp, "eur/jpy", eurjpy, "eur/chf"]
-  gbp:    [boe, bailey, sterling, gilt, "uk inflation", gbp,
+  gbp:    [boe, "andrew bailey", "governor bailey", sterling, gilt, "uk inflation", gbp,
            "bank of england", "office for national statistics",
            "pound sterling", "british pound",
            # NOTE: akela "pound" JAAN BOOJH KAR nahi hai — copper
@@ -550,10 +550,34 @@ tag_weights:
   cad:   1.0
   aud:   1.0
   nzd:   1.0
-  crypto: 0.8
+  crypto: 1.2   # 1.0 par barabari hoti thi aur tarteeb se EUR jeet jata tha
   risk:  0.7
   usd:   0.5
   rates: 0.4
+
+# ==========================================================
+# SHOR KE NAMOONE
+# ----------------------------------------------------------
+# Jo unwaan in se milte hain wo pack mein NAHI dikhte — magar
+# news.jsonl mein MEHFOOZ rehte hain. Kuch phenka nahi jata,
+# bas nazar se hata diya jata hai.
+#
+# Zaroorat kyun: investing_news har run par 10 mein se 9 khabrein
+# US insider-trading filings ki deta hai — "Tempus AI CFO sells
+# $2.69m", "Coeur Mining director sells $519,250". BINA TAG ki
+# 79 khabron mein se ~55 isi qism ki thin. In ka forex/gold se
+# koi taalluq nahi.
+#
+# Baad mein koi namoona hatana ho to bas yahan se line nikal
+# dein — data dobara lane ki zaroorat nahi paregi.
+# ==========================================================
+noise_patterns:
+  - "(?i)\\b(sells|buys|sold|bought)\\b.*\\$[\\d,.]+(k|m|bn)?\\b.*\\b(stock|shares|common stock)\\b"
+  - "(?i)\\b(CEO|CFO|CTO|COO|CCO|CSO|EVP|SVP|director|chair|officer|10% owner)\\b.*\\b(sells|buys)\\b"
+  - "(?i)^earnings call transcript"
+  - "(?i)\\bdeclares\\b.*\\bquarterly dividend\\b"
+  - "(?i)^why is .* stock (surging|sliding|falling|rising)"
+  - "(?i)\\bFY\\d{2} slides\\b"
 
 # ==========================================================
 # CLEANUP
