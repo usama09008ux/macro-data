@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "22 Aug 14:47",
+  "updated_pkt": "22 Aug 15:09",
   "feeds": [
     {
       "name": "investinglive",
@@ -16,7 +16,7 @@
       "name": "fxstreet_news",
       "status": "OK",
       "fetched": 30,
-      "newest_age_days": 0.4,
+      "newest_age_days": 0.5,
       "note": "",
       "in_window": 4,
       "new": 0,
@@ -27,7 +27,7 @@
       "name": "fxstreet_analysis",
       "status": "OK",
       "fetched": 30,
-      "newest_age_days": 0.6,
+      "newest_age_days": 0.7,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -41,8 +41,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 16,
-      "new": 1,
-      "seen_before": 15,
+      "new": 0,
+      "seen_before": 16,
       "out_of_window": 4
     },
     {
@@ -158,24 +158,24 @@
     {
       "name": "gnews_fed",
       "status": "OK",
-      "fetched": 70,
+      "fetched": 68,
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 16,
-      "new": 2,
-      "seen_before": 14,
-      "out_of_window": 54
+      "new": 0,
+      "seen_before": 16,
+      "out_of_window": 52
     },
     {
       "name": "gnews_geopolitics",
       "status": "OK",
-      "fetched": 99,
-      "newest_age_days": 0.0,
+      "fetched": 87,
+      "newest_age_days": 0.1,
       "note": "",
-      "in_window": 13,
-      "new": 2,
-      "seen_before": 11,
-      "out_of_window": 86
+      "in_window": 14,
+      "new": 0,
+      "seen_before": 14,
+      "out_of_window": 73
     },
     {
       "name": "gnews_centralbanks",
@@ -183,10 +183,10 @@
       "fetched": 34,
       "newest_age_days": 0.2,
       "note": "",
-      "in_window": 7,
+      "in_window": 6,
       "new": 0,
-      "seen_before": 7,
-      "out_of_window": 27
+      "seen_before": 6,
+      "out_of_window": 28
     },
     {
       "name": "fed_monetary",
@@ -280,7 +280,7 @@
       "name": "investing_commodities",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": "",
       "in_window": 4,
       "new": 0,
@@ -316,8 +316,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 25,
-      "new": 0,
-      "seen_before": 25,
+      "new": 1,
+      "seen_before": 24,
       "out_of_window": 0
     },
     {
@@ -393,18 +393,18 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 2,
-      "seen_before": 8,
+      "new": 1,
+      "seen_before": 9,
       "out_of_window": 0
     },
     {
       "name": "yahoo_finance",
       "status": "OK",
-      "fetched": 46,
-      "newest_age_days": 0.6,
+      "fetched": 48,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 0,
-      "new": 0,
+      "in_window": 2,
+      "new": 2,
       "seen_before": 0,
       "out_of_window": 46
     },
@@ -412,18 +412,18 @@
       "name": "mw_topstories",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.5,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 0,
-      "new": 0,
+      "in_window": 1,
+      "new": 1,
       "seen_before": 0,
-      "out_of_window": 10
+      "out_of_window": 9
     },
     {
       "name": "cointelegraph",
       "status": "OK",
       "fetched": 30,
-      "newest_age_days": 0.5,
+      "newest_age_days": 0.6,
       "note": "",
       "in_window": 0,
       "new": 0,

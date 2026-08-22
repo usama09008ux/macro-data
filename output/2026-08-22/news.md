@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 14:47 PKT**
-- Kul khabrein: **201**
+- Aakhri update: **22 Aug 15:09 PKT**
+- Kul khabrein: **206**
 - Feeds: 39/39 OK
 
 ---
@@ -370,6 +370,11 @@ BNY: Fed's High Intervention Bar And Backstop Doubts Signal Cautious Stance Bitc
 
 The country's president and its parliamentary speaker say Tehran needs to negotiate an exit and shore up its economy while it has leverage.
 
+**Iran says new US sanctions violate sovereignty of other states**
+`22 Aug 14:14 PKT` · pehli baar dekhi `22 Aug 15:09` · aljazeera
+
+Foreign Ministry spokesman Esmaeil Baghaei slams Trump&#039;s latest threat as a return to &#039;full-scale classic colonialism&#039;.
+
 **Ukrainian drones hit Ozon warehouse as Russia reports major overnight attack**
 `22 Aug 13:50 PKT` · pehli baar dekhi `22 Aug 14:47` · investing_news
 
@@ -443,10 +448,13 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (64)
+### BINA TAG (67)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 15:00` **yahoo_finance** — Mortgage and refinance interest rates today, Saturday, August 22, 2026: Bond market sends rates scrambling
+- `22 Aug 15:00` **yahoo_finance** — Best CD rates today, Saturday, August 22, 2026: Best CD account earns 4.35% APY
+- `22 Aug 15:00` **mw_topstories** — This has been one of the most affordable U.S. cities to buy a home for the past 134 years
 - `22 Aug 13:30` **aljazeera** — Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets
 - `22 Aug 13:16` **investing_news** — PTC Therapeutics director Schmertzler disposes of $1.8m in stock
 - `22 Aug 13:00` **aljazeera** — Panama Canal to reduce shipping as 'extreme' El Nino approaches
@@ -514,11 +522,11 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 
 ---
 
-## Shor — 43 khabrein hatai gayin
+## Shor — 44 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (43)
+investing_news (44)
 
 ---
 
@@ -529,9 +537,9 @@ investing_news (43)
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.5 |
-| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.4 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.6 |
-| actionforex | OK | 20 | 16 | 1 | 15 | 4 | 0.0 |
+| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.5 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |
+| actionforex | OK | 20 | 16 | 0 | 16 | 4 | 0.0 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.4 |
 | instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.3 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
@@ -542,9 +550,9 @@ investing_news (43)
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.2 |
 | kitco_general | OK | 24 | 2 | 0 | 2 | 22 | 0.2 |
-| gnews_fed | OK | 70 | 16 | 2 | 14 | 54 | 0.0 |
-| gnews_geopolitics | OK | 99 | 13 | 2 | 11 | 86 | 0.0 |
-| gnews_centralbanks | OK | 34 | 7 | 0 | 7 | 27 | 0.2 |
+| gnews_fed | OK | 68 | 16 | 0 | 16 | 52 | 0.0 |
+| gnews_geopolitics | OK | 87 | 14 | 0 | 14 | 73 | 0.1 |
+| gnews_centralbanks | OK | 34 | 6 | 0 | 6 | 28 | 0.2 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.7 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.6 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.1 |
@@ -553,17 +561,17 @@ investing_news (43)
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.0 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.5 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
-| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.0 |
+| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
 | bbc_business | OK | 50 | 2 | 0 | 2 | 48 | 0.1 |
-| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.0 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.8 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.9 |
 | wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.0 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.3 |
-| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| yahoo_finance | OK | 46 | 0 | 0 | 0 | 46 | 0.6 |
-| mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
-| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.5 |
+| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| yahoo_finance | OK | 48 | 2 | 2 | 0 | 46 | 0.0 |
+| mw_topstories | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
+| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.6 |
