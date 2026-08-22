@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 11:16 PKT**
-- Kul khabrein: **155**
+- Aakhri update: **22 Aug 12:05 PKT**
+- Kul khabrein: **161**
 - Feeds: 39/39 OK
 
 ---
@@ -56,6 +56,11 @@ Next week, July&#8217;s personal income and spending report is expected to show 
 
 The Treasury Department's announcement of a bond buyback stemmed a selloff—but not for long.
 
+**New Zealand Dollar Extends Rally as Fed Rate-Hike Bets Fade - CryptoRank**
+`22 Aug 04:28 PKT` · pehli baar dekhi `22 Aug 12:05` · gnews_fed
+
+New Zealand Dollar Extends Rally as Fed Rate-Hike Bets Fade CryptoRank
+
 **US Services Sector Growth Accelerates as PMI Hits 56.8 in August, Beating Forecasts - CryptoRank**
 `22 Aug 04:19 PKT` · pehli baar dekhi `22 Aug 10:16` · gnews_fed
 
@@ -76,18 +81,24 @@ The Mexican currency appreciates to levels last seen in May 2024 as the USD/MXN 
 
 ### EUR
 
+**EUR/USD Weekly Outlook**
+`22 Aug 11:20 PKT` · pehli baar dekhi `22 Aug 12:05` · actionforex · **5 feeds mein**
+
+EUR/USD&#8217;s rally from 1.1323 extended further to 1.1710 last week but turned sideway since then. Initial bias is turned neutral this week for some consolidations. Downside should be contained by 1.1565 support to bring another rally. On the upside, above 1.1710 will target 61.8% retracement of 1.2081 to 1.1323 at 1.1791 next. Firm break there [&#8230;] The post EUR/USD Weekly Outlook appeared first on ActionForex.
+  - `22 Aug 07:26` *actionforex* — EUR/JPY Weekly Outlook
+  - `22 Aug 07:22` *actionforex* — EUR/GBP Weekly Outlook
+  - `22 Aug 07:18` *actionforex* — EUR/AUD Weekly Outlook
+  - `22 Aug 07:14` *actionforex* — EUR/CHF Weekly Outlook
+
 **How banks fund themselves affects the reach of ECB rate decisions, study finds - Cyprus Mail**
 `22 Aug 10:30 PKT` · pehli baar dekhi `22 Aug 10:47` · gnews_centralbanks
 
 How banks fund themselves affects the reach of ECB rate decisions, study finds Cyprus Mail
 
-**EUR/JPY Weekly Outlook**
-`22 Aug 07:26 PKT` · pehli baar dekhi `22 Aug 07:41` · actionforex · **4 feeds mein**
+**Euro Area PMIs Point to Resilient Growth, Nomura Says - CryptoRank**
+`22 Aug 07:42 PKT` · pehli baar dekhi `22 Aug 12:05` · gnews_centralbanks
 
-EUR/JPY&#8217;s rally from 179.34 continued last week. The development is inline with the case that fall from 187.93 has completed as a three wave correction. Initial bias stays on the upside this week for 187.42 resistance. Firm break there will target a retest on 187.93 high. On the downside, below 184.89 minor support will turn [&#8230;] The post EUR/JPY Weekly Outlook appeared first on ActionForex.
-  - `22 Aug 07:22` *actionforex* — EUR/GBP Weekly Outlook
-  - `22 Aug 07:18` *actionforex* — EUR/AUD Weekly Outlook
-  - `22 Aug 07:14` *actionforex* — EUR/CHF Weekly Outlook
+Euro Area PMIs Point to Resilient Growth, Nomura Says CryptoRank
 
 **Weak Dollar Backs Near-Term Upside in EUR/USD, Say Analysts - CryptoRank**
 `22 Aug 04:37 PKT` · pehli baar dekhi `22 Aug 06:43` · gnews_fed
@@ -327,10 +338,13 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (48)
+### BINA TAG (51)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 11:59` **bbc_business** — Not 'poor enough': Do people use London's pay-it-forward schemes?
+- `22 Aug 11:56` **investing_news** — U.S. judge strikes down immigrant visa suspension covering 75 countries
+- `22 Aug 11:15` **investing_news** — China's robot games evolve from science fair to strategic showcase
 - `22 Aug 10:56` **investing_news** — Reform UK infighting complicates Farage's push to prepare party to govern
 - `22 Aug 10:36` **aljazeera** — China's new moon mission could unlock secret of lunar ice: Why that matters
 - `22 Aug 10:35` **aljazeera** — 'It was a tsunami': Floods leave death trail in India's Assam
@@ -396,42 +410,42 @@ investing_news (39)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.3 |
+| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.4 |
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.3 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.5 |
-| actionforex | OK | 20 | 14 | 3 | 11 | 6 | 0.0 |
-| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.2 |
+| actionforex | OK | 20 | 15 | 1 | 14 | 5 | 0.0 |
+| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.3 |
 | instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.0 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.1 |
-| kitco_general | OK | 29 | 2 | 0 | 2 | 27 | 0.3 |
-| gnews_fed | OK | 78 | 10 | 0 | 10 | 68 | 0.1 |
-| gnews_geopolitics | OK | 100 | 9 | 1 | 8 | 91 | 0.0 |
-| gnews_centralbanks | OK | 34 | 3 | 0 | 3 | 31 | 0.0 |
+| kitco_general | OK | 27 | 2 | 0 | 2 | 25 | 0.3 |
+| gnews_fed | OK | 75 | 11 | 1 | 10 | 64 | 0.1 |
+| gnews_geopolitics | OK | 100 | 8 | 0 | 8 | 92 | 0.1 |
+| gnews_centralbanks | OK | 34 | 5 | 1 | 4 | 29 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.4 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 0.9 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.7 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.5 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.0 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.8 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.0 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.9 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.3 |
-| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.3 |
-| investing_commodities | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
+| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
+| investing_commodities | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| bbc_business | OK | 50 | 1 | 0 | 1 | 49 | 0.2 |
-| aljazeera | OK | 25 | 21 | 2 | 19 | 4 | 0.0 |
+| bbc_business | OK | 50 | 2 | 1 | 1 | 48 | 0.0 |
+| aljazeera | OK | 25 | 21 | 0 | 21 | 4 | 0.1 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.9 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.7 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.7 |
-| wsj_world | OK | 72 | 4 | 0 | 4 | 68 | 0.0 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.8 |
+| wsj_world | OK | 72 | 4 | 0 | 4 | 68 | 0.1 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.2 |
-| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.5 |
+| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.5 |
 | mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.4 |
