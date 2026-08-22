@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 16:01 PKT**
-- Kul khabrein: **227**
+- Aakhri update: **22 Aug 16:31 PKT**
+- Kul khabrein: **231**
 - Feeds: 39/39 OK
 
 ---
@@ -83,6 +83,11 @@ The lift-off: impact of SpaceX's IPO on global markets and inflation thepost.co.
 `22 Aug 08:05 PKT` · pehli baar dekhi `22 Aug 14:17` · gnews_fed
 
 Fed Chair Warsh's Jackson Hole Debut: Goldman Sachs Warns of Amplified FX Volatility finance.biggo.com
+
+**Elon Musk's SpaceX IPO: A potential trillionaire's impact on global markets and inflation - thepost.co.za**
+`22 Aug 07:28 PKT` · pehli baar dekhi `22 Aug 16:31` · gnews_centralbanks
+
+Elon Musk's SpaceX IPO: A potential trillionaire's impact on global markets and inflation thepost.co.za
 
 **Economics Week Ahead**
 `22 Aug 06:36 PKT` · pehli baar dekhi `22 Aug 06:43` · actionforex
@@ -299,6 +304,11 @@ Speculative sentiment toward the New Zealand dollar has turned slightly less neg
 
 ### OIL
 
+**Oil Markets Brace for New U.S. Sanctions on Iran as Hormuz Shipping Stalls - Coinpaper**
+`22 Aug 16:07 PKT` · pehli baar dekhi `22 Aug 16:31` · gnews_geopolitics
+
+Oil Markets Brace for New U.S. Sanctions on Iran as Hormuz Shipping Stalls Coinpaper
+
 **Oil Prices Surge Over 6% as U.S.-Iran Tensions Escalate; CPC Corporation Taiwan Announces Fuel Price Freeze for Next Week - finance.biggo.com**
 `22 Aug 15:05 PKT` · pehli baar dekhi `22 Aug 16:01` · gnews_geopolitics
 
@@ -411,6 +421,13 @@ CoinShares: Bitcoin to Stay Rangebound Below $80K Until Fed Signals Policy Shift
 
 BNY: Fed's High Intervention Bar And Backstop Doubts Signal Cautious Stance Bitcoin World
 
+### RATES
+
+**Ebola continues to spread in the DRC as 16,000 vaccine doses arrive**
+`22 Aug 16:15 PKT` · pehli baar dekhi `22 Aug 16:31` · aljazeera
+
+Health authorities are warning that 'approximately one person has been dying from Ebola every thirty minutes'.
+
 ### RISK
 
 **A massive 'corporate welfare' program is underway — and consumers want a bigger cut of it**
@@ -464,6 +481,11 @@ Oil rises as Trump threatens sanctions on Iran partners Newswav
 `22 Aug 10:12 PKT` · pehli baar dekhi `22 Aug 12:44` · gnews_geopolitics
 
 Oil Prices Rise as Trump Threatens Sanctions on Iran's Trading Partners Bloom Pakistan
+
+**WTI Steadies Near $86 As Iran Sanctions Threat Offsets US Inventory Build - Bitcoin World**
+`22 Aug 09:15 PKT` · pehli baar dekhi `22 Aug 16:31` · gnews_geopolitics
+
+WTI Steadies Near $86 As Iran Sanctions Threat Offsets US Inventory Build Bitcoin World
 
 **Trump: Iran Not Ready for 'Right Deal' Amid Tough US Sanctions - Global Banking & Finance Review**
 `22 Aug 08:31 PKT` · pehli baar dekhi `22 Aug 09:08` · gnews_geopolitics
@@ -600,23 +622,23 @@ investing_news (47)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.5 |
+| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.6 |
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.5 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |
 | actionforex | OK | 20 | 16 | 0 | 16 | 4 | 0.1 |
-| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.4 |
+| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.5 |
 | instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.4 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.3 |
-| kitco_general | OK | 24 | 3 | 0 | 3 | 21 | 0.3 |
-| gnews_fed | OK | 60 | 15 | 1 | 14 | 45 | 0.0 |
-| gnews_geopolitics | OK | 98 | 17 | 2 | 15 | 81 | 0.0 |
-| gnews_centralbanks | OK | 38 | 11 | 2 | 9 | 27 | 0.0 |
+| kitco_general | OK | 24 | 2 | 0 | 2 | 22 | 0.3 |
+| gnews_fed | OK | 69 | 18 | 0 | 18 | 51 | 0.0 |
+| gnews_geopolitics | OK | 61 | 16 | 2 | 14 | 45 | 0.0 |
+| gnews_centralbanks | OK | 36 | 11 | 1 | 10 | 25 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.7 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.6 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.1 |
@@ -624,18 +646,18 @@ investing_news (47)
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.2 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.1 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.5 |
-| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
+| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
 | investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| bbc_business | OK | 50 | 3 | 1 | 2 | 47 | 0.0 |
-| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.0 |
+| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.1 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.9 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.9 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.0 |
 | wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.1 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.4 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 48 | 2 | 0 | 2 | 46 | 0.0 |
-| mw_topstories | OK | 10 | 4 | 1 | 3 | 6 | 0.0 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| yahoo_finance | OK | 50 | 2 | 0 | 2 | 48 | 0.1 |
+| mw_topstories | OK | 10 | 4 | 0 | 4 | 6 | 0.0 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.6 |
