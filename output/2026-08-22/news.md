@@ -1,9 +1,9 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 21:47 PKT**
-- Kul khabrein: **426**
-- Feeds: 37/39 OK
+- Aakhri update: **22 Aug 22:08 PKT**
+- Kul khabrein: **433**
+- Feeds: 38/39 OK
 
 ---
 
@@ -493,6 +493,11 @@ Speculative sentiment toward the New Zealand dollar has turned slightly less neg
 
 ### OIL
 
+**Every Chokepoint That Isn't Hormuz**
+`22 Aug 22:00 PKT` · pehli baar dekhi `22 Aug 22:08` · oilprice
+
+For six months the entire conversation about oil logistics has been about one strait, and you can hardly blame anyone for that. Hormuz has been effectively closed since late February, when the war between Iran and the U.S. and Israel started, and the EIA reckons only 4.9 million barrels a day of crude and liquids made it through in the second quarter. In the last quarter of 2025 that number was 21.6 million.
+
 **IEA: Southeast Asia Needs Grid Investment to Nearly Quadruple by 2050**
 `22 Aug 20:00 PKT` · pehli baar dekhi `22 Aug 20:30` · oilprice
 
@@ -731,6 +736,9 @@ BNY: Fed's High Intervention Bar And Backstop Doubts Signal Cautious Stance Bitc
 
 ### RATES
 
+**JPMorgan Chase CEO Jamie Dimon Dropped a 9-Word Warning: "Margin Debt Is the Highest It Has Ever Been." Should Investors Be Worried?**
+`22 Aug 21:35 PKT` · pehli baar dekhi `22 Aug 22:08` · yahoo_finance
+
 **The Master of the Margin Call: How Ken Griffin Turned an AI Meltdown into a $4 Billion Masterclass**
 `22 Aug 20:25 PKT` · pehli baar dekhi `22 Aug 20:52` · yahoo_finance
 
@@ -898,11 +906,15 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (183)
+### BINA TAG (187)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 21:50` **yahoo_finance** — If You Have $10,000: 3 Dividend ETFs Worth Buying Before September
+- `22 Aug 21:41` **aljazeera** — Sanctioned by EU, Israeli settler steals and kills Palestinian donkey
 - `22 Aug 21:33` **yahoo_finance** — Warren Buffett's Berkshire makes backdoor SpaceX play
+- `22 Aug 21:30` **aljazeera** — Espanyol vs Real Madrid LIVE: La Liga
+- `22 Aug 21:27` **yahoo_finance** — AI's Absurd Spending Boom? Hyperscalers Are Spending 102% of Cloud Revenue on Capex
 - `22 Aug 21:20` **yahoo_finance** — Billionaire Stephen Mandel Just Loaded Up on This Incredible Artificial Intelligence (AI) Stock Up Nearly 200% in 2026
 - `22 Aug 21:17` **aljazeera** — How is the pro-Israel lobby influencing US elections?
 - `22 Aug 21:17` **yahoo_finance** — Oppenheimer has a blunt Nvidia stock message ahead of earnings
@@ -1088,11 +1100,11 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 
 ---
 
-## Shor — 48 khabrein hatai gayin
+## Shor — 49 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (48)
+investing_news (48), yahoo_finance (1)
 
 ---
 
@@ -1104,10 +1116,10 @@ investing_news (48)
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.8 |
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.7 |
-| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
+| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
 | actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.1 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.7 |
-| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.6 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.5 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
@@ -1115,32 +1127,29 @@ investing_news (48)
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.5 |
-| kitco_general | OK | 11 | 2 | 0 | 2 | 9 | 0.5 |
-| gnews_fed | OK | 54 | 29 | 0 | 29 | 25 | 0.1 |
-| gnews_geopolitics | OK | 80 | 29 | 2 | 27 | 51 | 0.0 |
-| gnews_centralbanks | OK | 55 | 37 | 1 | 36 | 18 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.9 |
+| kitco_general | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| gnews_fed | OK | 51 | 28 | 0 | 28 | 23 | 0.1 |
+| gnews_geopolitics | OK | 81 | 31 | 0 | 31 | 50 | 0.0 |
+| gnews_centralbanks | OK | 49 | 36 | 0 | 36 | 13 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.0 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.9 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.2 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.4 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.3 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.8 |
-| oilprice | OK | 15 | 2 | 0 | 2 | 13 | 0.1 |
+| oilprice | OK | 15 | 3 | 1 | 2 | 12 | 0.0 |
 | investing_commodities | OK | 10 | 5 | 0 | 5 | 5 | 0.0 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
-| bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.2 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
+| bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.3 |
 | aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.3 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.1 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.2 |
-| wsj_world | OK | 72 | 6 | 1 | 5 | 66 | 0.0 |
+| wsj_world | OK | 72 | 6 | 0 | 6 | 66 | 0.0 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.6 |
-| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 31 | 9 | 22 | 19 | 0.0 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 31 | 4 | 27 | 18 | 0.0 |
 | mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
-
-**Jo feeds nahi aaye:**
-- instaforex — FAIL, koi item nahi
+| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
