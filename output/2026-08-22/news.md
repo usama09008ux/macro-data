@@ -1,9 +1,9 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 21:20 PKT**
-- Kul khabrein: **410**
-- Feeds: 38/39 OK
+- Aakhri update: **22 Aug 21:47 PKT**
+- Kul khabrein: **426**
+- Feeds: 37/39 OK
 
 ---
 
@@ -354,6 +354,11 @@ The Japanese Yen's Historic Rescue Is Running Out of Steam CryptoRank
 **Breaking down the U.S.-Japan "currency alliance"**
 `22 Aug 10:12 PKT` · pehli baar dekhi `22 Aug 10:16` · investing_news
 
+**Japan eyes fiscal 2027 assumed bond interest rate at 3.8% - The Japan Times**
+`22 Aug 09:25 PKT` · pehli baar dekhi `22 Aug 21:47` · gnews_centralbanks
+
+Japan eyes fiscal 2027 assumed bond interest rate at 3.8% The Japan Times
+
 **Sources: BoJ could raise rates again at September 17-18 meeting - investingLive**
 `22 Aug 08:39 PKT` · pehli baar dekhi `22 Aug 14:17` · gnews_centralbanks
 
@@ -402,6 +407,14 @@ Speculative positioning in the Swiss franc has turned less negative, according t
 The USD/CHF advanced on Friday, registering a modest 0.07% gain, trading at 0.8010. During the week, the pair finished with losses of over 1.49%, triggered by a drop in US yields on Wednesday, as the US Treasury tries to cap elevated yields on the 30-year bond.
 
 ### CAD
+
+**Canada Announces New Post-Labor Day Tariffs**
+`22 Aug 21:42 PKT` · pehli baar dekhi `22 Aug 21:47` · wsj_world
+
+Duties come after trade talks between the U.S. and Canada broke down.
+
+**Canada to match U.S. tariffs dollar for dollar after trade talks collapse**
+`22 Aug 21:10 PKT` · pehli baar dekhi `22 Aug 21:47` · investing_news
 
 **U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?**
 `22 Aug 18:26 PKT` · pehli baar dekhi `22 Aug 19:09` · yahoo_finance
@@ -487,6 +500,11 @@ Southeast Asia needs to invest heavily in upgrading and modernising its transmis
 
 **Why Shell and the Other Oil Majors Aren't Price Gouging**
 `22 Aug 19:35 PKT` · pehli baar dekhi `22 Aug 20:30` · yahoo_finance
+
+**Barclays Sees 13–14 Million bpd Oil Supply Loss From Prolonged Hormuz Disruption - EnergyNow**
+`22 Aug 18:16 PKT` · pehli baar dekhi `22 Aug 21:47` · gnews_geopolitics
+
+Barclays Sees 13–14 Million bpd Oil Supply Loss From Prolonged Hormuz Disruption EnergyNow
 
 **Iran Cut Back Oil Production by 400,000 bpd, US Energy Secretary Says - EnergyNow**
 `22 Aug 17:55 PKT` · pehli baar dekhi `22 Aug 20:30` · gnews_geopolitics
@@ -782,6 +800,11 @@ Tariff refunds have been flowing back to companies since President Donald Trump'
 
 Tax cuts, school holidays: How countries are fighting high gas prices amid the Iran war ABC News - Breaking News, Latest News and Videos
 
+**Iran Claims Victory as US Escalates Sanctions Ahead of Aug 24 - Whalesbook**
+`22 Aug 15:32 PKT` · pehli baar dekhi `22 Aug 21:47` · gnews_geopolitics
+
+Iran Claims Victory as US Escalates Sanctions Ahead of Aug 24 Whalesbook
+
 **Iran's Top Politicians Urge an End to the War**
 `22 Aug 14:15 PKT` · pehli baar dekhi `22 Aug 14:17` · wsj_world
 
@@ -875,10 +898,20 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (172)
+### BINA TAG (183)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 21:33` **yahoo_finance** — Warren Buffett's Berkshire makes backdoor SpaceX play
+- `22 Aug 21:20` **yahoo_finance** — Billionaire Stephen Mandel Just Loaded Up on This Incredible Artificial Intelligence (AI) Stock Up Nearly 200% in 2026
+- `22 Aug 21:17` **aljazeera** — How is the pro-Israel lobby influencing US elections?
+- `22 Aug 21:17` **yahoo_finance** — Oppenheimer has a blunt Nvidia stock message ahead of earnings
+- `22 Aug 21:16` **yahoo_finance** — The S&P 500 Is Near an All-Time High. Here's What History Says Investors Should Do.
+- `22 Aug 21:10` **yahoo_finance** — Adobe Stock Looks Cheap for a Reason. Here's Why I'm Buying.
+- `22 Aug 21:10` **aljazeera** — Elche vs Barcelona: La Liga – prediction, team news, lineups
+- `22 Aug 21:05` **yahoo_finance** — Insider Cuts Holdings of Growth Stock Following 78% Rally
+- `22 Aug 21:05` **yahoo_finance** — Can Bloom Energy Keep Beating the Market?
+- `22 Aug 21:03` **yahoo_finance** — 172-year-old luxury giant exits entire market
 - `22 Aug 21:00` **mw_topstories** — 'I'm running out of time': I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?
 - `22 Aug 20:59` **yahoo_finance** — How a 53-Year-Old Can Turn $465,000 Into a Monthly Paycheck Machine by 63
 - `22 Aug 20:52` **yahoo_finance** — Alphabet, Meta, and Microsoft Are Hiding $3 Trillion in Debt On the AI Boom's Hidden Ledger
@@ -1013,6 +1046,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 09:11` **gnews_fed** — Retirement Savings Benchmarks for Americans Ages 45 to 54: Participation Rates and Median Balances - Investopedia
 - `22 Aug 08:26` **kitco_general** — Videos - KITCO
 - `22 Aug 08:19` **aljazeera** — US judge strikes down Trump immigrant visa ban affecting 75 countries
+- `22 Aug 08:07` **yahoo_finance** — Bill Gates pulls $818M from Berkshire to buy this giant
 - `22 Aug 08:06` **investing_news** — Moderna cancer vaccine breakthrough revives hopes for biotech turnaround
 - `22 Aug 07:48` **gnews_fed** — Ringgit Rallies As Fiscal Concerns Weigh On Greenback, Expected To Hold At 4.06 - BusinessToday Malaysia
 - `22 Aug 07:09` **aljazeera** — Peru rescues people trapped by landslides on highway for nearly a week
@@ -1073,7 +1107,7 @@ investing_news (48)
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
 | actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.1 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.7 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.6 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.5 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
@@ -1081,29 +1115,32 @@ investing_news (48)
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.5 |
-| kitco_general | OK | 13 | 2 | 0 | 2 | 11 | 0.5 |
-| gnews_fed | OK | 57 | 27 | 1 | 26 | 30 | 0.1 |
-| gnews_geopolitics | OK | 84 | 28 | 3 | 25 | 56 | 0.0 |
-| gnews_centralbanks | OK | 48 | 35 | 1 | 34 | 13 | 0.1 |
+| kitco_general | OK | 11 | 2 | 0 | 2 | 9 | 0.5 |
+| gnews_fed | OK | 54 | 29 | 0 | 29 | 25 | 0.1 |
+| gnews_geopolitics | OK | 80 | 29 | 2 | 27 | 51 | 0.0 |
+| gnews_centralbanks | OK | 55 | 37 | 1 | 36 | 18 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.9 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.8 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.1 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.9 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.2 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.4 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.3 |
-| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.7 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.8 |
 | oilprice | OK | 15 | 2 | 0 | 2 | 13 | 0.1 |
-| investing_commodities | OK | 10 | 5 | 1 | 4 | 5 | 0.0 |
+| investing_commodities | OK | 10 | 5 | 0 | 5 | 5 | 0.0 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
 | bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.2 |
-| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.3 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.1 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.2 |
-| wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.3 |
+| wsj_world | OK | 72 | 6 | 1 | 5 | 66 | 0.0 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.6 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 31 | 7 | 24 | 19 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 31 | 9 | 22 | 19 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
+
+**Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi
