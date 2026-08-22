@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 19:59 PKT**
-- Kul khabrein: **357**
+- Aakhri update: **22 Aug 20:30 PKT**
+- Kul khabrein: **377**
 - Feeds: 38/39 OK
 
 ---
@@ -93,6 +93,11 @@ America In Focus: Fed officials eye higher rates; unemployment claims fall New H
 The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC Yahoo Finance
   - `22 Aug 18:16` *gnews_fed* — The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC - The Motley Fool
   - `22 Aug 18:26` *yahoo_finance* — The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC
+
+**Austria Inflation Rises to 2.7% in July, Beating Forecasts - CryptoRank**
+`22 Aug 16:43 PKT` · pehli baar dekhi `22 Aug 20:30` · gnews_centralbanks
+
+Austria Inflation Rises to 2.7% in July, Beating Forecasts CryptoRank
 
 **US Dollar Upside Capped as Treasury Yields Ease, MUFG Says - CryptoRank**
 `22 Aug 15:18 PKT` · pehli baar dekhi `22 Aug 18:18` · gnews_fed
@@ -185,6 +190,11 @@ US Treasury Yields Rebound As Services PMI Beats Estimates Bitcoin World
 US Treasury yields continue their recovery following the announcement of a bond buyback by the US Department of the Treasury, while data reveal that business activity remains solid despite a slowdown in manufacturing.
   - `22 Aug 09:51` *gnews_fed* — US Treasury Yields Rebound as Services PMI Beats Estimates - CryptoRank
 
+**Pound Dips as UK Retail Sales Disappoint, US Services Sector Outperforms - CryptoRank**
+`22 Aug 03:31 PKT` · pehli baar dekhi `22 Aug 20:30` · gnews_centralbanks
+
+Pound Dips as UK Retail Sales Disappoint, US Services Sector Outperforms CryptoRank
+
 **Mexican Peso reaches two-year high despite weaker Retail Sales**
 `22 Aug 03:22 PKT` · pehli baar dekhi `22 Aug 03:37` · fxstreet_news
 
@@ -231,6 +241,11 @@ Eurozone Business Activity Beats Forecasts as HCOB Composite PMI Hits 52.1 in Au
 `22 Aug 07:42 PKT` · pehli baar dekhi `22 Aug 12:05` · gnews_centralbanks
 
 Euro Area PMIs Point to Resilient Growth, Nomura Says CryptoRank
+
+**Experts agree: Weak Dollar backs near-term upside in EUR/USD - tmgm.com**
+`22 Aug 07:00 PKT` · pehli baar dekhi `22 Aug 20:30` · gnews_centralbanks
+
+Experts agree: Weak Dollar backs near-term upside in EUR/USD tmgm.com
 
 **Weak Dollar Backs Near-Term Upside in EUR/USD, Say Analysts - CryptoRank**
 `22 Aug 04:37 PKT` · pehli baar dekhi `22 Aug 06:43` · gnews_fed · **2 feeds mein**
@@ -427,6 +442,19 @@ Speculative sentiment toward the New Zealand dollar has turned slightly less neg
 
 ### OIL
 
+**IEA: Southeast Asia Needs Grid Investment to Nearly Quadruple by 2050**
+`22 Aug 20:00 PKT` · pehli baar dekhi `22 Aug 20:30` · oilprice
+
+Southeast Asia needs to invest heavily in upgrading and modernising its transmission networks if countries across the region hope to deploy larger quantities of renewable energy over the next decade. With investment in green energy growing ever higher, the grid systems in countries such as Indonesia, India, and Vietnam simply cannot keep up with capacity growth, creating a bottleneck in power distribution.
+
+**Why Shell and the Other Oil Majors Aren't Price Gouging**
+`22 Aug 19:35 PKT` · pehli baar dekhi `22 Aug 20:30` · yahoo_finance
+
+**Iran Cut Back Oil Production by 400,000 bpd, US Energy Secretary Says - EnergyNow**
+`22 Aug 17:55 PKT` · pehli baar dekhi `22 Aug 20:30` · gnews_geopolitics
+
+Iran Cut Back Oil Production by 400,000 bpd, US Energy Secretary Says EnergyNow
+
 **Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say - EnergyNow.com**
 `22 Aug 17:52 PKT` · pehli baar dekhi `22 Aug 19:09` · gnews_geopolitics
 
@@ -605,6 +633,11 @@ Euro Holds Gains Against Pound After UK Retail Sales Disappoint Bitcoin World
 
 Eurozone Business Activity Beats Forecasts As HCOB Composite PMI Hits 52.1 In August Bitcoin World
 
+**Eurozone Manufacturing PMI Unexpectedly Climbs to 52.8 in August, Signaling Renewed Expansion - Bitcoin World**
+`22 Aug 05:45 PKT` · pehli baar dekhi `22 Aug 20:30` · gnews_centralbanks
+
+Eurozone Manufacturing PMI Unexpectedly Climbs to 52.8 in August, Signaling Renewed Expansion Bitcoin World
+
 **CoinShares: Bitcoin to Stay Rangebound Below $80K Until Fed Signals Policy Shift - CryptoRank**
 `22 Aug 05:41 PKT` · pehli baar dekhi `22 Aug 13:11` · gnews_fed
 
@@ -758,10 +791,23 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (146)
+### BINA TAG (159)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 20:15` **yahoo_finance** — Occupancy Is Not Saving Office Loans From DSCR Stress
+- `22 Aug 20:09` **yahoo_finance** — NYC Office REIT Faces Going Concern Doubt on $249M Debt
+- `22 Aug 20:07` **yahoo_finance** — Warren Buffett sends investors 10-word stock market warning
+- `22 Aug 20:05` **yahoo_finance** — When he dies, Warren Buffett wants 90% of wife's inheritance put into 1 investment. Here's what it is, and how to get it
+- `22 Aug 20:05` **yahoo_finance** — Forget Rate Hikes. These 3 Vanguard ETFs Could Be Better Positioned for What Comes Next.
+- `22 Aug 20:00` **yahoo_finance** — Prediction: CoreWeave Stock Will Double on This Date
+- `22 Aug 19:59` **yahoo_finance** — The Death of the Easy Beat: Why Classic Stock-Picking Rules No Longer Work
+- `22 Aug 19:56` **yahoo_finance** — Gillette Buys South Boston Life Science Site for $99.29M
+- `22 Aug 19:50` **yahoo_finance** — 2 Hydrogen Stocks to Buy in August if You Believe in the Turnaround
+- `22 Aug 19:37` **aljazeera** — Israeli drone strike on 'civilian vehicle' injures several in Syria
+- `22 Aug 19:37` **yahoo_finance** — Kroger has a customer problem that may be its own fault
+- `22 Aug 19:35` **yahoo_finance** — Is Upstart Stock a Buy After Falling 55% This Year? Here's What to Know as One Insider Disposes of Shares
+- `22 Aug 19:35` **yahoo_finance** — Prediction: This Is Where Pfizer Stock Will Be in 2030
 - `22 Aug 19:30` **yahoo_finance** — She Loaded 20,000 Popsicles Onto a Truck. Social Security Said She Hadn't Sold One.
 - `22 Aug 19:30` **yahoo_finance** — Target Stock Has Been Crushed. Here's Why I'm Not Giving Up on It.
 - `22 Aug 19:30` **yahoo_finance** — AI jobs advertise $177,000 salaries — more than double non-AI roles — yet women land just 26% of hires
@@ -932,35 +978,35 @@ investing_news (48)
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.6 |
 | instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.6 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.4 |
-| kitco_general | OK | 13 | 2 | 0 | 2 | 11 | 0.4 |
-| gnews_fed | OK | 68 | 28 | 2 | 26 | 40 | 0.0 |
-| gnews_geopolitics | OK | 87 | 23 | 0 | 23 | 64 | 0.1 |
-| gnews_centralbanks | OK | 55 | 33 | 2 | 31 | 22 | 0.0 |
+| kitco_general | OK | 12 | 2 | 0 | 2 | 10 | 0.5 |
+| gnews_fed | OK | 64 | 28 | 0 | 28 | 36 | 0.0 |
+| gnews_geopolitics | OK | 83 | 24 | 1 | 23 | 59 | 0.1 |
+| gnews_centralbanks | OK | 55 | 36 | 4 | 32 | 19 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.9 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.8 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.1 |
-| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.3 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.2 |
+| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.4 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.3 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.7 |
-| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
-| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
+| oilprice | OK | 15 | 2 | 1 | 1 | 13 | 0.0 |
+| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.2 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
 | bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.2 |
-| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.2 |
-| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.0 |
+| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.1 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.1 |
-| wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.2 |
-| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.5 |
+| wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.3 |
+| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.6 |
 | investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 28 | 8 | 20 | 22 | 0.0 |
+| yahoo_finance | OK | 50 | 31 | 13 | 18 | 19 | 0.0 |
 | mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
