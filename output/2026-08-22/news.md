@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 18:18 PKT**
-- Kul khabrein: **283**
+- Aakhri update: **22 Aug 18:48 PKT**
+- Kul khabrein: **304**
 - Feeds: 39/39 OK
 
 ---
@@ -10,6 +10,11 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**CFTC Report: Oil positioning rebounds; VIX and Yen exposure turn more bearish**
+`22 Aug 18:19 PKT` · pehli baar dekhi `22 Aug 18:48` · fxstreet_analysis
+
+The week in one sentence: Speculative positioning turned more constructive in the week to August 18. WTI recorded the largest increase, followed by a sharp narrowing in CAD net shorts.
 
 **Swiss Franc Slides As Dollar Rebounds; Traders Eye FOMC Minutes - Bitcoin World**
 `22 Aug 18:10 PKT` · pehli baar dekhi `22 Aug 18:18` · gnews_fed
@@ -65,9 +70,10 @@ Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters b
 ### USD
 
 **The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC - The Motley Fool**
-`22 Aug 18:16 PKT` · pehli baar dekhi `22 Aug 18:18` · gnews_fed
+`22 Aug 18:16 PKT` · pehli baar dekhi `22 Aug 18:18` · gnews_fed · **2 feeds mein**
 
 The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC The Motley Fool
+  - `22 Aug 18:26` *yahoo_finance* — The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC
 
 **US Dollar Upside Capped as Treasury Yields Ease, MUFG Says - CryptoRank**
 `22 Aug 15:18 PKT` · pehli baar dekhi `22 Aug 18:18` · gnews_fed
@@ -198,13 +204,33 @@ Euro Pares Gains Against US Dollar but Eyes Fourth Weekly Advance CryptoRank
 
 ### GBP
 
+**The Bank of England is costing the taxpayer billions. It must stop - The Telegraph**
+`22 Aug 17:00 PKT` · pehli baar dekhi `22 Aug 18:48` · gnews_centralbanks
+
+The Bank of England is costing the taxpayer billions. It must stop The Telegraph
+
+**Pound Steady as UK Inflation Ticks Up as Expected, Core Pressures Remain - CryptoRank**
+`22 Aug 16:44 PKT` · pehli baar dekhi `22 Aug 18:48` · gnews_centralbanks
+
+Pound Steady as UK Inflation Ticks Up as Expected, Core Pressures Remain CryptoRank
+
 **GBP/USD Weekly Outlook**
 `22 Aug 11:11 PKT` · pehli baar dekhi `22 Aug 11:16` · actionforex · **2 feeds mein**
 
 GBP/USD&#8217;s rise form 1.3139 resumed by breaking through 1.3557 decisively last week. Initial bias stays on the upside this week for 100% projection of 1.3139 to 1.3557 from 1.3272 at 1.3690. Firm break there will target a retest on 1.3867 high. On the downside, below 1.3593 minor support will turn intraday bias neutral again first. [&#8230;] The post GBP/USD Weekly Outlook appeared first on ActionForex.
   - `22 Aug 07:30` *actionforex* — GBP/JPY Weekly Outlook
 
+**British Pound Holds Firm Despite Mixed UK Data, Says BBH - CryptoRank**
+`22 Aug 04:43 PKT` · pehli baar dekhi `22 Aug 18:48` · gnews_centralbanks
+
+British Pound Holds Firm Despite Mixed UK Data, Says BBH CryptoRank
+
 ### JPY
+
+**Hawkish BoJ Bets Underpin Japanese Yen vs. US Dollar: Expert Analysis - CryptoRank**
+`22 Aug 18:14 PKT` · pehli baar dekhi `22 Aug 18:48` · gnews_centralbanks
+
+Hawkish BoJ Bets Underpin Japanese Yen vs. US Dollar: Expert Analysis CryptoRank
 
 **Dollar steadies near 159 yen as Bank of Japan hike bets rise, US PMIs support greenback - VT Markets**
 `22 Aug 15:15 PKT` · pehli baar dekhi `22 Aug 17:36` · gnews_centralbanks
@@ -436,6 +462,21 @@ China's energy strategy has largely shielded it from the fallout of the war in I
 
 ### CRYPTO
 
+**US Treasury bond intervention challenges Fed's monetary policy stability - Crypto Briefing**
+`22 Aug 18:37 PKT` · pehli baar dekhi `22 Aug 18:48` · gnews_fed
+
+US Treasury bond intervention challenges Fed's monetary policy stability Crypto Briefing
+
+**MiCA is coming for DeFi vaults, but regulation will be difficult**
+`22 Aug 18:30 PKT` · pehli baar dekhi `22 Aug 18:48` · cointelegraph
+
+Brussels is reviewing whether crypto lending should fall under MiCA, but DeFi lending vaults are making it harder to determine who, exactly, should be regulated.
+
+**UK Wage Growth Holds At 4.1% In June As Earnings Beat Inflation, Easing BoE Pressure - Bitcoin World**
+`22 Aug 17:50 PKT` · pehli baar dekhi `22 Aug 18:48` · gnews_centralbanks
+
+UK Wage Growth Holds At 4.1% In June As Earnings Beat Inflation, Easing BoE Pressure Bitcoin World
+
 **UK Unemployment Rises To 4.9% In June, Exceeding Forecasts As Labor Market Cools - Bitcoin World**
 `22 Aug 17:45 PKT` · pehli baar dekhi `22 Aug 18:18` · gnews_centralbanks
 
@@ -450,6 +491,16 @@ Pound Drops Against Yen As UK Wage Growth Cools, Boosting Rate-Cut Bets Bitcoin 
 `22 Aug 17:05 PKT` · pehli baar dekhi `22 Aug 17:36` · gnews_centralbanks
 
 Pound slides to fresh lows near 1.3520 as mixed UK employment data fuels BoE rate cut bets Bitcoin World
+
+**UK Retail Price Index Holds At 3.2% In July, Matching Forecasts - Bitcoin World**
+`22 Aug 16:05 PKT` · pehli baar dekhi `22 Aug 18:48` · gnews_centralbanks
+
+UK Retail Price Index Holds At 3.2% In July, Matching Forecasts Bitcoin World
+
+**Pound Steady As UK Inflation Ticks Up As Expected, Core Pressures Remain - Bitcoin World**
+`22 Aug 15:25 PKT` · pehli baar dekhi `22 Aug 18:48` · gnews_centralbanks
+
+Pound Steady As UK Inflation Ticks Up As Expected, Core Pressures Remain Bitcoin World
 
 **Bitcoin holds above $77,000 after Treasury-fuelled short squeeze**
 `22 Aug 15:01 PKT` · pehli baar dekhi `22 Aug 15:41` · investing_news
@@ -483,6 +534,11 @@ UK Retail Sales Dip 0.5% In July As Consumer Spending Cools Bitcoin World
 `22 Aug 08:20 PKT` · pehli baar dekhi `22 Aug 10:16` · gnews_centralbanks
 
 Euro Holds Gains Against Pound After UK Retail Sales Disappoint Bitcoin World
+
+**Eurozone Business Activity Beats Forecasts As HCOB Composite PMI Hits 52.1 In August - Bitcoin World**
+`22 Aug 06:00 PKT` · pehli baar dekhi `22 Aug 18:48` · gnews_centralbanks
+
+Eurozone Business Activity Beats Forecasts As HCOB Composite PMI Hits 52.1 In August Bitcoin World
 
 **CoinShares: Bitcoin to Stay Rangebound Below $80K Until Fed Signals Policy Shift - CryptoRank**
 `22 Aug 05:41 PKT` · pehli baar dekhi `22 Aug 13:11` · gnews_fed
@@ -616,13 +672,21 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (106)
+### BINA TAG (115)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 18:35` **aljazeera** — Indonesia bolsters troop numbers to combat Borneo wildfires
+- `22 Aug 18:23` **aljazeera** — Is Trump making Latin America great again?
+- `22 Aug 18:23` **yahoo_finance** — QuantumScape's Chief Legal Officer Disposed of Stock. He Also Recently Acquired Some. Here's What to Know.
+- `22 Aug 18:18` **yahoo_finance** — QuantumScape's CFO Sold 31,095 Shares This Month. Here's What His Numbers Actually Show
+- `22 Aug 18:14` **yahoo_finance** — QuantumScape's COO Sold Stock the Same Quarter His Production Line Hit 90% Uptime. Here's What to Know
+- `22 Aug 18:10` **yahoo_finance** — QuantumScape's CTO Sold 75,962 Shares the Same Quarter Honda Bet on His Technology. Here's What to Know
+- `22 Aug 18:01` **yahoo_finance** — Granite Ridge Resources Targets Positive Free Cash Flow by 2027
 - `22 Aug 18:00` **yahoo_finance** — Books That Can Help You Build Better Money Habits
 - `22 Aug 17:59` **yahoo_finance** — Forget High-Yield Traps: Coca-Cola Is the Best Dividend Stock
 - `22 Aug 17:52` **yahoo_finance** — Why Did Nebius Stock Plunge This Week?
+- `22 Aug 17:51` **aljazeera** — Jewish activists push back against Israeli settlers
 - `22 Aug 17:45` **yahoo_finance** — I'm 44 with $1.3 million in my 401(k) — can I stop contributing and still retire in 15 years?
 - `22 Aug 17:39` **yahoo_finance** — A Tempus AI Director Sold Stock Four Days Before a 24% Rally. Here's What to Know
 - `22 Aug 17:37` **aljazeera** — CONCACAF asks Infantino to skip youth event amid FIFA governance crisis
@@ -675,6 +739,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 11:59` **bbc_business** — Not 'poor enough': Do people use London's pay-it-forward schemes?
 - `22 Aug 11:56` **investing_news** — U.S. judge strikes down immigrant visa suspension covering 75 countries
 - `22 Aug 11:15` **investing_news** — China's robot games evolve from science fair to strategic showcase
+- `22 Aug 11:04` **gnews_fed** — Global Yield Relief Evaporates as U.S. Rates Push Back Toward Multi-Decade Peaks - CryptoRank
 - `22 Aug 10:56` **investing_news** — Reform UK infighting complicates Farage's push to prepare party to govern
 - `22 Aug 10:36` **aljazeera** — China's new moon mission could unlock secret of lunar ice: Why that matters
 - `22 Aug 10:35` **aljazeera** — 'It was a tsunami': Floods leave death trail in India's Assam
@@ -745,21 +810,21 @@ investing_news (48)
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.6 |
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.6 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.8 |
+| fxstreet_analysis | OK | 30 | 1 | 1 | 0 | 29 | 0.0 |
 | actionforex | OK | 20 | 16 | 0 | 16 | 4 | 0.2 |
-| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.5 |
+| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.6 |
 | instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.5 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.3 |
-| kitco_general | OK | 17 | 2 | 0 | 2 | 15 | 0.4 |
-| gnews_fed | OK | 64 | 21 | 3 | 18 | 43 | 0.0 |
-| gnews_geopolitics | OK | 90 | 21 | 2 | 19 | 69 | 0.1 |
-| gnews_centralbanks | OK | 23 | 10 | 2 | 8 | 13 | 0.0 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.4 |
+| kitco_general | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
+| gnews_fed | OK | 61 | 22 | 2 | 20 | 39 | 0.0 |
+| gnews_geopolitics | OK | 89 | 21 | 0 | 21 | 68 | 0.1 |
+| gnews_centralbanks | OK | 52 | 27 | 8 | 19 | 25 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.8 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.7 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.2 |
@@ -767,18 +832,18 @@ investing_news (48)
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.3 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.2 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.6 |
-| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
+| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
 | investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
 | bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.1 |
-| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.2 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 3.0 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.0 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.1 |
 | wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.2 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.5 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 22 | 17 | 5 | 28 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| yahoo_finance | OK | 50 | 18 | 6 | 12 | 32 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 1 | 1 | 0 | 29 | 0.0 |
