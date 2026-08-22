@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 19:38 PKT**
-- Kul khabrein: **345**
+- Aakhri update: **22 Aug 19:59 PKT**
+- Kul khabrein: **357**
 - Feeds: 38/39 OK
 
 ---
@@ -74,6 +74,11 @@ Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters b
 
 ### USD
 
+**Fed Approves NatWest Office in Connecticut - stl.news**
+`22 Aug 19:40 PKT` · pehli baar dekhi `22 Aug 19:59` · gnews_fed
+
+Fed Approves NatWest Office in Connecticut stl.news
+
 **America In Focus: Fed officials eye higher rates; unemployment claims fall - New Haven Register**
 `22 Aug 19:30 PKT` · pehli baar dekhi `22 Aug 19:38` · gnews_fed
 
@@ -113,6 +118,11 @@ Hawkish vibe at the Fed The Globe and Mail
 `22 Aug 13:10 PKT` · pehli baar dekhi `22 Aug 16:01` · gnews_fed
 
 S&P 500 Forecast: SPX rises after no surprises from US CPI data FOREX.com
+
+**UK Retail Sales Ex-Fuel Miss Forecast in July as Consumer Spending Stays Weak - CryptoRank**
+`22 Aug 10:36 PKT` · pehli baar dekhi `22 Aug 19:59` · gnews_centralbanks
+
+UK Retail Sales Ex-Fuel Miss Forecast in July as Consumer Spending Stays Weak CryptoRank
 
 **UK Retail Sales Dip 0.5% in July as Consumer Spending Cools - CryptoRank**
 `22 Aug 10:31 PKT` · pehli baar dekhi `22 Aug 13:50` · gnews_centralbanks
@@ -158,6 +168,11 @@ New Zealand Dollar Extends Rally as Fed Rate-Hike Bets Fade CryptoRank
 `22 Aug 04:19 PKT` · pehli baar dekhi `22 Aug 10:16` · gnews_fed
 
 US Services Sector Growth Accelerates as PMI Hits 56.8 in August, Beating Forecasts CryptoRank
+
+**US Composite PMI Climbs to 56 in August, Marking Fastest Growth in Over Two Years - CryptoRank**
+`22 Aug 04:19 PKT` · pehli baar dekhi `22 Aug 19:59` · gnews_fed
+
+US Composite PMI Climbs to 56 in August, Marking Fastest Growth in Over Two Years CryptoRank
 
 **US Treasury Yields Rebound As Services PMI Beats Estimates - Bitcoin World**
 `22 Aug 04:00 PKT` · pehli baar dekhi `22 Aug 13:11` · gnews_fed
@@ -206,6 +221,11 @@ EUR/USD&#8217;s rally from 1.1323 extended further to 1.1710 last week but turne
 `22 Aug 10:30 PKT` · pehli baar dekhi `22 Aug 10:47` · gnews_centralbanks
 
 How banks fund themselves affects the reach of ECB rate decisions, study finds Cyprus Mail
+
+**Eurozone Business Activity Beats Forecasts as HCOB Composite PMI Hits 52.1 in August - CryptoRank**
+`22 Aug 09:07 PKT` · pehli baar dekhi `22 Aug 19:59` · gnews_centralbanks
+
+Eurozone Business Activity Beats Forecasts as HCOB Composite PMI Hits 52.1 in August CryptoRank
 
 **Euro Area PMIs Point to Resilient Growth, Nomura Says - CryptoRank**
 `22 Aug 07:42 PKT` · pehli baar dekhi `22 Aug 12:05` · gnews_centralbanks
@@ -609,6 +629,9 @@ Health authorities are warning that 'approximately one person has been dying fro
 
 With no last-minute deal to avoid new section 338 tariffs, new tariffs have now officially taken effect on another subset of U.S. imports from Canada. As we noted previously, the measures apply a 50% tariff rate on U.S. imports accounting for about 5% of Canadian exports to the United States – adding to existing tariffs [&#8230;] The post Next chapter of U.S.-Canada Trade War: What We Know and Don't About Section 338 Tariffs appeared first on ActionForex.
 
+**Tariff refunds are hitting retailers' wallets. Here's what they're doing with the money.**
+`22 Aug 19:29 PKT` · pehli baar dekhi `22 Aug 19:59` · yahoo_finance
+
 **What did war with the US reveal about Iran's weapons capabilities?**
 `22 Aug 19:19 PKT` · pehli baar dekhi `22 Aug 19:38` · aljazeera
 
@@ -735,13 +758,20 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (139)
+### BINA TAG (146)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 19:30` **yahoo_finance** — She Loaded 20,000 Popsicles Onto a Truck. Social Security Said She Hadn't Sold One.
+- `22 Aug 19:30` **yahoo_finance** — Target Stock Has Been Crushed. Here's Why I'm Not Giving Up on It.
+- `22 Aug 19:30` **yahoo_finance** — AI jobs advertise $177,000 salaries — more than double non-AI roles — yet women land just 26% of hires
+- `22 Aug 19:29` **yahoo_finance** — An Upstart Insider Filing Involves $216,000. Here's How It Connects to a New Bank Charter
+- `22 Aug 19:24` **yahoo_finance** — LA County CRE Sales Jump 28% in July on Multifamily
 - `22 Aug 19:20` **yahoo_finance** — The CMBS Maturity Wall Hides a Sharp Refinancing Reset
+- `22 Aug 19:15` **yahoo_finance** — How XRP Went From a Cycle Low to a Three-Month High in Four Days
 - `22 Aug 19:15` **yahoo_finance** — JPMREIT's First Office Buy Lags Its Industrial Portfolio
 - `22 Aug 19:09` **yahoo_finance** — Invesco Cuts Fees 20% to Stem Property Fund Redemptions
+- `22 Aug 19:07` **yahoo_finance** — When will AI begin delivering meaningful earnings gains? Goldman Sachs assesses the outlook
 - `22 Aug 19:05` **yahoo_finance** — CRE Borrowing Costs Stall as SOFR Finds a Floor in Q2
 - `22 Aug 19:05` **yahoo_finance** — Peter Lynch Beat the S&P 500 in 11 of His 13 Years Running Magellan. Here's Why He Says "Turning Over the Most Rocks" Is the Key to Winning.
 - `22 Aug 19:01` **yahoo_finance** — Madison Air Solutions to Buy ebm-papst in $5.8B Deal, Expanding Global Airflow Reach
@@ -896,11 +926,11 @@ investing_news (48)
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.7 |
-| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.6 |
+| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.7 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
-| actionforex | OK | 20 | 17 | 1 | 16 | 3 | 0.0 |
+| actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.0 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.6 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.5 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.6 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
@@ -908,10 +938,10 @@ investing_news (48)
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.4 |
-| kitco_general | OK | 14 | 2 | 0 | 2 | 12 | 0.4 |
-| gnews_fed | OK | 65 | 27 | 4 | 23 | 38 | 0.0 |
-| gnews_geopolitics | OK | 89 | 23 | 1 | 22 | 66 | 0.1 |
-| gnews_centralbanks | OK | 52 | 31 | 4 | 27 | 21 | 0.0 |
+| kitco_general | OK | 13 | 2 | 0 | 2 | 11 | 0.4 |
+| gnews_fed | OK | 68 | 28 | 2 | 26 | 40 | 0.0 |
+| gnews_geopolitics | OK | 87 | 23 | 0 | 23 | 64 | 0.1 |
+| gnews_centralbanks | OK | 55 | 33 | 2 | 31 | 22 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.9 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.8 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
@@ -923,7 +953,7 @@ investing_news (48)
 | investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
 | bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.2 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.2 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.0 |
@@ -931,6 +961,6 @@ investing_news (48)
 | wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.2 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.5 |
 | investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 28 | 12 | 16 | 22 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.0 |
+| yahoo_finance | OK | 50 | 28 | 8 | 20 | 22 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |

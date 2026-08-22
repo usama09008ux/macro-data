@@ -1,7 +1,7 @@
 # News Pack — Trading Day 20 Aug 2026
 
 - Trading day: **20 Aug 03:00 -> 21 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 19:38 PKT**
+- Aakhri update: **22 Aug 19:59 PKT**
 - Kul khabrein: **348**
 - Feeds: 38/39 OK
 
@@ -1177,11 +1177,11 @@ investing_news (20)
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.7 |
-| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.6 |
+| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.7 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
-| actionforex | OK | 20 | 17 | 1 | 16 | 3 | 0.0 |
+| actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.0 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.6 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.5 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.6 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
@@ -1189,10 +1189,10 @@ investing_news (20)
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.4 |
-| kitco_general | OK | 14 | 2 | 0 | 2 | 12 | 0.4 |
-| gnews_fed | OK | 65 | 27 | 4 | 23 | 38 | 0.0 |
-| gnews_geopolitics | OK | 89 | 23 | 1 | 22 | 66 | 0.1 |
-| gnews_centralbanks | OK | 52 | 31 | 4 | 27 | 21 | 0.0 |
+| kitco_general | OK | 13 | 2 | 0 | 2 | 11 | 0.4 |
+| gnews_fed | OK | 68 | 28 | 2 | 26 | 40 | 0.0 |
+| gnews_geopolitics | OK | 87 | 23 | 0 | 23 | 64 | 0.1 |
+| gnews_centralbanks | OK | 55 | 33 | 2 | 31 | 22 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.9 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.8 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
@@ -1204,7 +1204,7 @@ investing_news (20)
 | investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
 | bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.2 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.2 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.0 |
@@ -1212,6 +1212,6 @@ investing_news (20)
 | wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.2 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.5 |
 | investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 28 | 12 | 16 | 22 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.0 |
+| yahoo_finance | OK | 50 | 28 | 8 | 20 | 22 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
