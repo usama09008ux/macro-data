@@ -1,15 +1,20 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 04:57 PKT**
-- Kul khabrein: **60**
-- Feeds: 39/39 OK
+- Aakhri update: **22 Aug 06:43 PKT**
+- Kul khabrein: **88**
+- Feeds: 38/39 OK
 
 ---
 
 ## Khabrein
 
 ### MARKET WRAP
+
+**FX markets and central banks Overview - USD/CAD - AUD/USD**
+`22 Aug 05:18 PKT` · pehli baar dekhi `22 Aug 06:43` · marketpulse
+
+During the week of August 17–21, 2026, major currency pairs rallied against the U.S. dollar amid shifting monetary policy expectations. While accelerated Canadian inflation bolstered the CAD and a cooling job market complicated the RBA's outlook in Australia, markets looked past hawkish FOMC minutes to price in upcoming Fed rate cuts, driving broad gains led by NZD and AUD.
 
 **investingLive Americas FX news wrap 21 Aug: Trump folds on beef tariffs.**
 `22 Aug 03:14 PKT` · pehli baar dekhi `22 Aug 03:37` · investinglive · **2 feeds mein**
@@ -36,6 +41,11 @@ Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters b
 
 ### USD
 
+**Economics Week Ahead**
+`22 Aug 06:36 PKT` · pehli baar dekhi `22 Aug 06:43` · actionforex
+
+Next week, July&#8217;s personal income and spending report is expected to show resilient consumer demand, while PCE inflation should point to easing underlying price pressures. Jackson Hole will also be in focus, and Chair Warsh is likely to emphasize the Fed&#8217;s longer-term policy framework and task force priorities. Meanwhile, Friday&#8217;s benchmark payroll revision is expected [&#8230;] The post Economics Week Ahead appeared first on ActionForex.
+
 **The Wild Week When Scott Bessent Was Schooled by the Bond Market**
 `22 Aug 04:34 PKT` · pehli baar dekhi `22 Aug 04:57` · wsj_markets
 
@@ -56,12 +66,22 @@ The Mexican currency appreciates to levels last seen in May 2024 as the USD/MXN 
 
 ### EUR
 
+**Weak Dollar Backs Near-Term Upside in EUR/USD, Say Analysts - CryptoRank**
+`22 Aug 04:37 PKT` · pehli baar dekhi `22 Aug 06:43` · gnews_fed
+
+Weak Dollar Backs Near-Term Upside in EUR/USD, Say Analysts CryptoRank
+
 **Speculators Trim Bearish Euro Bets as CFTC Net Shorts Inch Higher**
 `22 Aug 04:34 PKT` · instaforex
 
 CFTC data released on 21 August 2026 show a slight easing in bearish sentiment toward the euro, with speculative net positions in EUR futures inching higher from deeply negative levels. Net positions improved from -60.0K contracts previously to -59.1K, indicating that traders have marginally reduced their net short exposure to the common currency.
 
 ### JPY
+
+**Japanese Yen Holds Gains on Hawkish BoJ Bets; USD Stays Weak on Fed Cut Expectations - CryptoRank**
+`22 Aug 06:22 PKT` · pehli baar dekhi `22 Aug 06:43` · gnews_fed
+
+Japanese Yen Holds Gains on Hawkish BoJ Bets; USD Stays Weak on Fed Cut Expectations CryptoRank
 
 **Speculators Flip Yen Bets as CFTC Positions Swing from Long to Deep Short**
 `22 Aug 04:34 PKT` · instaforex
@@ -81,6 +101,11 @@ Speculative positioning in the Swiss franc has turned less negative, according t
 The USD/CHF advanced on Friday, registering a modest 0.07% gain, trading at 0.8010. During the week, the pair finished with losses of over 1.49%, triggered by a drop in US yields on Wednesday, as the US Treasury tries to cap elevated yields on the 30-year bond.
 
 ### CAD
+
+**The Weekly Bottom Line: Markets Hit Record Highs Amid Resilient Data**
+`22 Aug 06:42 PKT` · pehli baar dekhi `22 Aug 06:43` · actionforex
+
+Our summary of recent economic events and what to expect in the weeks ahead. Canadian Highlights The U.S. delayed planned 50% tariffs on select Canadian goods by three days, providing brief breathing room as trade talks between the two countries continue. Canada&#8217;s economy grew a much stronger-than-expected 3.3% annualized in Q2, with broad-based strength across [&#8230;] The post The Weekly Bottom Line: Markets Hit Record Highs Amid Resilient Data appeared first on ActionForex.
 
 **Speculators Trim Bearish Bets on Canadian Dollar as Net Shorts Ease**
 `22 Aug 04:34 PKT` · instaforex
@@ -108,6 +133,19 @@ Speculative sentiment toward the New Zealand dollar has turned slightly less neg
 
 ### OIL
 
+**U.S., Iran trade warnings as new sanctions loom and Hormuz oil flows stall**
+`22 Aug 06:23 PKT` · pehli baar dekhi `22 Aug 06:43` · investing_news
+
+**Tajikistan seeks 2.55mn tons of oil and fuel from Iran amid supply diversification - Daryo.uz**
+`22 Aug 05:16 PKT` · pehli baar dekhi `22 Aug 06:43` · gnews_geopolitics
+
+Tajikistan seeks 2.55mn tons of oil and fuel from Iran amid supply diversification Daryo.uz
+
+**Iranian oil supply to Chinese buyers squeezed by U.S. blockade (USO:NYSEARCA) - Seeking Alpha**
+`22 Aug 04:56 PKT` · pehli baar dekhi `22 Aug 06:43` · gnews_geopolitics
+
+Iranian oil supply to Chinese buyers squeezed by U.S. blockade (USO:NYSEARCA) Seeking Alpha
+
 **Speculative Bullish Bets on U.S. Crude Oil Climb as Net Longs Jump to 122.1K**
 `22 Aug 04:34 PKT` · instaforex
 
@@ -118,10 +156,50 @@ Speculative sentiment in the U.S. crude oil market strengthened notably, as the 
 
 China's energy strategy has largely shielded it from the fallout of the war in Iran and the resultant closure of the Strait of Hormuz, a vital artery for global oil and gas trade. However, the country's newest five-year plan for its oil and gas sector reveals ongoing anxieties about geopolitical tensions, future conflicts, reliance on energy imports, and the country's dwindling crude supplies.
 
-### BINA TAG (24)
+### CRYPTO
+
+**BNY: Fed's High Intervention Bar And Backstop Doubts Signal Cautious Stance - Bitcoin World**
+`22 Aug 04:05 PKT` · pehli baar dekhi `22 Aug 06:43` · gnews_fed
+
+BNY: Fed's High Intervention Bar And Backstop Doubts Signal Cautious Stance Bitcoin World
+
+### RISK
+
+**Oil rises as Trump threatens sanctions on Iran partners - Arab News PK**
+`22 Aug 06:34 PKT` · pehli baar dekhi `22 Aug 06:43` · gnews_geopolitics
+
+Oil rises as Trump threatens sanctions on Iran partners Arab News PK
+
+**US, Iran keep up hostile rhetoric ahead of new sanctions**
+`22 Aug 06:24 PKT` · pehli baar dekhi `22 Aug 06:43` · investing_commodities
+
+**Iranian president says time to end war with US from 'position of strength'**
+`22 Aug 05:59 PKT` · pehli baar dekhi `22 Aug 06:43` · aljazeera
+
+Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.
+
+**Several killed in Russia's 'double-tap' drone strike on Ukraine mall**
+`22 Aug 05:06 PKT` · pehli baar dekhi `22 Aug 06:43` · aljazeera
+
+Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a mall in his hometown of Kryvyi Rih.
+
+**Iran war live: Trump says he views Strait of Hormuz as 'American territory'**
+`22 Aug 05:00 PKT` · pehli baar dekhi `22 Aug 06:43` · aljazeera
+
+US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
+
+### BINA TAG (32)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 06:31` **investing_news** — Solv energy management holdings disposes of 1.3m Solv energy shares
+- `22 Aug 06:19` **gnews_fed** — How Retirement Savings Differ by Age—and What That Means for Financial Planning - Investopedia
+- `22 Aug 06:16` **investing_news** — Neumora Therapeutics COO Aurora disposes of $269,966 in stock
+- `22 Aug 05:38` **aljazeera** — California lawmaker overcomes pro-Israel spending to win special election
+- `22 Aug 05:32` **aljazeera** — Guyana's Rodrigues Birkett leads informal poll in race to be next UN leader
+- `22 Aug 05:00` **actionforex** — Summary 8/24 – 8/28
+- `22 Aug 04:52` **aljazeera** — Myanmar military bombing kills 14 at Buddhist monastery, opposition reports
+- `22 Aug 04:51` **aljazeera** — Editor of US newspaper Stars and Stripes reportedly fired under Trump
 - `22 Aug 04:34` **aljazeera** — Outrage in India over death of six-year-old 'slapped' by his teacher
 - `22 Aug 04:34` **instaforex** — Speculative Bets on Brazil's Real Edge Higher as Net Long Positions Reach 68.7K
 - `22 Aug 04:34` **instaforex** — Speculators Trim Bullish Bets on Mexican Peso as CFTC Net Longs Ease to 79.5K
@@ -149,11 +227,11 @@ China's energy strategy has largely shielded it from the fallout of the war in I
 
 ---
 
-## Shor — 17 khabrein hatai gayin
+## Shor — 23 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (17)
+investing_news (23)
 
 ---
 
@@ -164,41 +242,44 @@ investing_news (17)
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.1 |
-| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.0 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.2 |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.4 |
-| marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 0.5 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.1 |
-| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 0.3 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.8 |
-| kitco_general | OK | 29 | 0 | 0 | 0 | 29 | 0.1 |
-| gnews_fed | OK | 65 | 1 | 0 | 1 | 64 | 0.1 |
-| gnews_geopolitics | OK | 100 | 0 | 0 | 0 | 100 | 0.1 |
-| gnews_centralbanks | OK | 34 | 0 | 0 | 0 | 34 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
+| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.1 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.3 |
+| actionforex | OK | 20 | 3 | 3 | 0 | 17 | 0.0 |
+| marketpulse | OK | 5 | 1 | 1 | 0 | 4 | 0.1 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 0.4 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.9 |
+| kitco_general | OK | 31 | 0 | 0 | 0 | 31 | 0.2 |
+| gnews_fed | OK | 69 | 5 | 4 | 1 | 64 | 0.0 |
+| gnews_geopolitics | OK | 100 | 3 | 3 | 0 | 97 | 0.0 |
+| gnews_centralbanks | OK | 33 | 0 | 0 | 0 | 33 | 0.2 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.2 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 0.7 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.5 |
-| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 0.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.6 |
+| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 0.8 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.7 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.1 |
-| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.1 |
-| investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
-| bbc_business | OK | 50 | 0 | 0 | 0 | 50 | 0.1 |
-| aljazeera | OK | 25 | 4 | 3 | 1 | 21 | 0.0 |
+| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.2 |
+| investing_commodities | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| bbc_business | OK | 50 | 1 | 0 | 1 | 49 | 0.0 |
+| aljazeera | OK | 25 | 11 | 7 | 4 | 14 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.6 |
-| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.4 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.5 |
-| wsj_world | OK | 72 | 2 | 1 | 1 | 70 | 0.0 |
-| wsj_markets | OK | 61 | 1 | 1 | 0 | 60 | 0.0 |
-| investing_news | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.5 |
-| mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
-| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.7 |
+| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.5 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.6 |
+| wsj_world | OK | 72 | 2 | 0 | 2 | 70 | 0.1 |
+| wsj_markets | OK | 61 | 1 | 0 | 1 | 60 | 0.1 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.3 |
+| mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
+| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.2 |
+
+**Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi
