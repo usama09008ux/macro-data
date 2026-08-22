@@ -1,9 +1,9 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 01:46 PKT**
-- Kul khabrein: **555**
-- Feeds: 37/39 OK
+- Aakhri update: **23 Aug 02:07 PKT**
+- Kul khabrein: **570**
+- Feeds: 38/39 OK
 
 ---
 
@@ -116,10 +116,11 @@ Swiss Franc Slides as Dollar Rebounds; Traders Eye FOMC Minutes CryptoRank
 Fed Approves NatWest Office in Connecticut stl.news
 
 **America In Focus: Fed officials eye higher rates; unemployment claims fall - New Haven Register**
-`22 Aug 19:30 PKT` · pehli baar dekhi `22 Aug 19:38` · gnews_fed · **3 feeds mein**
+`22 Aug 19:30 PKT` · pehli baar dekhi `22 Aug 19:38` · gnews_fed · **4 feeds mein**
 
 America In Focus: Fed officials eye higher rates; unemployment claims fall New Haven Register
   - `22 Aug 19:29` *gnews_fed* — America In Focus: Fed officials eye higher rates; unemployment claims fall - Norwalk Hour
+  - `22 Aug 19:23` *gnews_fed* — America In Focus: Fed officials eye higher rates; unemployment claims fall - News-Times
   - `22 Aug 19:16` *gnews_fed* — America In Focus: Fed officials eye higher rates; unemployment claims fall - WRAL
 
 **Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock**
@@ -136,6 +137,11 @@ US Fed Meeting March 2026: When & Where To Watch Jerome Powell Speech LIVE Today
 The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC Yahoo Finance
   - `22 Aug 18:16` *gnews_fed* — The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC - The Motley Fool
   - `22 Aug 18:26` *yahoo_finance* — The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC
+
+**July FOMC Meeting Minutes Released: What They Signal for Rates and Inflation - CryptoRank**
+`22 Aug 17:18 PKT` · pehli baar dekhi `23 Aug 02:07` · gnews_fed
+
+July FOMC Meeting Minutes Released: What They Signal for Rates and Inflation CryptoRank
 
 **Austria Inflation Rises to 2.7% in July, Beating Forecasts - CryptoRank**
 `22 Aug 16:43 PKT` · pehli baar dekhi `22 Aug 20:30` · gnews_centralbanks
@@ -166,6 +172,11 @@ Fed's Hawkish Minutes and Rising Yields Shake Markets Despite Mixed Data Interac
 `22 Aug 14:40 PKT` · pehli baar dekhi `22 Aug 14:47` · actionforex
 
 Dollar Is Approaching a Much Bigger Technical Test Dollar's selloff is not just about this week's Treasury buyback announcement. DXY has broken important support and is moving toward levels that could turn a medium-term decline into a much larger structural breakdown. A decisive break of 95.55 would threaten the multi-decade rising channel and eventually bring [&#8230;] The post Dollar Index Faces Structural Breakdown Toward 90, EUR/USD Eyes 1.20 Breakout appeared first on ActionForex.
+
+**Warsh's Jackson Hole Debut and US Inflation Data Set to Test Soft Dollar - CryptoRank**
+`22 Aug 13:36 PKT` · pehli baar dekhi `23 Aug 02:07` · gnews_fed
+
+Warsh's Jackson Hole Debut and US Inflation Data Set to Test Soft Dollar CryptoRank
 
 **Hawkish vibe at the Fed - The Globe and Mail**
 `22 Aug 13:25 PKT` · pehli baar dekhi `22 Aug 14:47` · gnews_fed
@@ -288,6 +299,11 @@ Waldhof Mannheim and Kaiserslautern game halted for 30 minutes as eight people h
 
 Euro Holds Gains Against Pound After UK Retail Sales Disappoint CryptoRank
 
+**Austria HICP Inflation Dips 0.4% in July, Matching Expectations - CryptoRank**
+`22 Aug 17:44 PKT` · pehli baar dekhi `23 Aug 02:07` · gnews_centralbanks
+
+Austria HICP Inflation Dips 0.4% in July, Matching Expectations CryptoRank
+
 **Germany's Producer Prices Rise 1.1% in July, Exceeding Forecasts - CryptoRank**
 `22 Aug 17:36 PKT` · pehli baar dekhi `22 Aug 22:35` · gnews_centralbanks
 
@@ -368,6 +384,11 @@ The Bank of England is costing the taxpayer billions. It must stop The Telegraph
 `22 Aug 16:44 PKT` · pehli baar dekhi `22 Aug 18:48` · gnews_centralbanks
 
 Pound Steady as UK Inflation Ticks Up as Expected, Core Pressures Remain CryptoRank
+
+**GBP/JPY Bulls Target 217.00 as Rally Extends: Technical Outlook - CryptoRank**
+`22 Aug 12:43 PKT` · pehli baar dekhi `23 Aug 02:07` · gnews_centralbanks
+
+GBP/JPY Bulls Target 217.00 as Rally Extends: Technical Outlook CryptoRank
 
 **GBP/USD Weekly Outlook**
 `22 Aug 11:11 PKT` · pehli baar dekhi `22 Aug 11:16` · actionforex · **2 feeds mein**
@@ -595,6 +616,11 @@ Speculative sentiment toward the New Zealand dollar has turned slightly less neg
 
 ### OIL
 
+**The Gas Turbine Shortage Just Became AI's Biggest Constraint**
+`23 Aug 02:00 PKT` · pehli baar dekhi `23 Aug 02:07` · oilprice
+
+Order a heavy-duty gas turbine from GE Vernova today and it won't arrive until 2031. That's the company's actual production schedule, confirmed on its July 22 earnings call, and it's the fact sitting underneath every AI data center power plan announced in the last two years. It comes up far less often than the announcements do. Goldman Sachs put hard numbers on the demand side in May. U.S. data center power demand climbs from 31 gigawatts in 2025 to 41 GW this year and 66 GW in 2027.
+
 **Iran opens Hormuz for Iraqi oil — but a new oil order may be emerging in the Gulf - The Times Australia**
 `23 Aug 01:32 PKT` · pehli baar dekhi `23 Aug 01:46` · gnews_geopolitics
 
@@ -608,6 +634,11 @@ Iraqi President Nizar Amidi says his country&#039;s territory will not be used t
 
 **Can This 6.3% Yield Survive if Oil Crashes Again?**
 `23 Aug 00:35 PKT` · pehli baar dekhi `23 Aug 00:53` · yahoo_finance
+
+**Farsnews | Iran, Tajikistan Reach Long-Term Deal on Oil Products Exports, Crude Supply for Tajik Refineries - خبرگزاری فارس**
+`23 Aug 00:04 PKT` · pehli baar dekhi `23 Aug 02:07` · gnews_geopolitics
+
+Farsnews | Iran, Tajikistan Reach Long-Term Deal on Oil Products Exports, Crude Supply for Tajik Refineries خبرگزاری فارس
 
 **Clean Energy Spending Tracking Toward Record $180 Billion in 2026**
 `23 Aug 00:00 PKT` · pehli baar dekhi `23 Aug 00:06` · oilprice
@@ -681,6 +712,11 @@ Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say En
 `22 Aug 17:41 PKT` · pehli baar dekhi `23 Aug 00:33` · gnews_geopolitics
 
 CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist EnergyNow.com
+
+**Kuwait Could Recover 70% of Oil Production in 6-8 Weeks After Hormuz Reopens, KPC Executive Says - EnergyNow.com**
+`22 Aug 17:33 PKT` · pehli baar dekhi `23 Aug 02:07` · gnews_geopolitics
+
+Kuwait Could Recover 70% of Oil Production in 6-8 Weeks After Hormuz Reopens, KPC Executive Says EnergyNow.com
 
 **Oil Falls After Iraq Resumes Oil Exports via Turkey's Ceyhan Port - EnergyNow**
 `22 Aug 17:27 PKT` · pehli baar dekhi `22 Aug 20:52` · gnews_geopolitics
@@ -938,6 +974,9 @@ China Assesses Ability to Withstand US Threat of Iran Sanctions Readers.id
 **Tariffs just pushed Hyundai deeper into America**
 `22 Aug 23:17 PKT` · pehli baar dekhi `22 Aug 23:40` · yahoo_finance
 
+**Trump wants more economic pressure on Iran. What are his options?**
+`22 Aug 23:06 PKT` · pehli baar dekhi `23 Aug 02:07` · investing_news
+
 **NOT OUT OF THE WOODS YET: Iran Ceasefire Provides Hope, But Physical Oil Markets to Remain Stressed: Russell - EnergyNow**
 `22 Aug 22:23 PKT` · pehli baar dekhi `23 Aug 00:33` · gnews_geopolitics
 
@@ -1148,10 +1187,14 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (252)
+### BINA TAG (258)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 01:49` **aljazeera** — US Postal Service shares mail-in ballot restrictions despite court ruling
+- `23 Aug 01:47` **investing_news** — Nvidia customers face over 15% server price hikes as memory costs soar - report
+- `23 Aug 01:43` **yahoo_finance** — Ross Stores Grew Comparable Sales 10%. TJX Grew 4%. Only One Stock Went Up.
+- `23 Aug 01:40` **yahoo_finance** — At 59½ Your 401(k) Quietly Unlocks While You're Still Working. The In-Service Rollover Nobody in HR Will Ever Mention to You.
 - `23 Aug 01:18` **yahoo_finance** — The Overtime Tax Break Only Counts the "Half," Not the "Time-and-a-Half." Most Workers Are Overestimating It by Double
 - `23 Aug 01:04` **yahoo_finance** — Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks
 - `23 Aug 00:59` **yahoo_finance** — Apple vs. Meta Platforms: Which "Magnificent Seven" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?
@@ -1174,6 +1217,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `23 Aug 00:00` **yahoo_finance** — Grant Cardone Says If He Were Down to His Last $5K, He'd Flip It Into $200,000 and Live Rent-Free for a Year With One Purchase
 - `23 Aug 00:00` **yahoo_finance** — Clean Energy Spending Tracking Toward Record $180 Billion in 2026
 - `22 Aug 23:56` **yahoo_finance** — Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports
+- `22 Aug 23:54` **investing_news** — Israel strikes southern Syria; Damascus condemns attack
 - `22 Aug 23:53` **yahoo_finance** — Amazon's Custom Chip Business Crossed a $25 Billion Run Rate: Time to Load Up on Shares?
 - `22 Aug 23:48` **yahoo_finance** — This Fund Pays 400% of the S&P's Dividend and Still Beat Half of Wall Street This Year
 - `22 Aug 23:47` **yahoo_finance** — Iconic fast-food fried chicken chain closes over 300 restaurants
@@ -1320,6 +1364,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 16:35` **yahoo_finance** — S&P 500 dividend yield hits record low near 1% and it has some retirees rethinking their strategies
 - `22 Aug 16:30` **aljazeera** — Usain Bolt's 100m record broken at World Humanoid Robot Games
 - `22 Aug 16:30` **yahoo_finance** — Billionaire Leon Cooperman says today's AI boom echoes a big bust from the 1970s — a lesson from the 'Nifty Fifty' crash
+- `22 Aug 16:22` **gnews_fed** — What the 'Bessent Put' Means for Treasuries and FX Markets - CryptoRank
 - `22 Aug 16:17` **yahoo_finance** — The ETF industry's newest asset class is absurdity: Chart of the Day
 - `22 Aug 16:10` **yahoo_finance** — 'I'm really disgusted': Ohio pair worth $40M want a lake house HELOC — Dave Ramsey says to change their advisor instead
 - `22 Aug 16:09` **investing_news** — World Kinect's 64% surge validates InvestingPro Fair Value analysis
@@ -1421,12 +1466,12 @@ investing_news (48), yahoo_finance (4)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.9 |
+| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 1.0 |
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.9 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
 | actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.3 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.9 |
-| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.8 |
 | wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.1 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
@@ -1434,10 +1479,10 @@ investing_news (48), yahoo_finance (4)
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.7 |
-| kitco_general | OK | 5 | 3 | 0 | 3 | 2 | 0.5 |
-| gnews_fed | OK | 45 | 42 | 0 | 42 | 3 | 0.1 |
-| gnews_geopolitics | OK | 53 | 50 | 3 | 47 | 3 | 0.0 |
-| gnews_centralbanks | OK | 24 | 23 | 0 | 23 | 1 | 0.3 |
+| kitco_general | OK | 5 | 4 | 0 | 4 | 1 | 0.4 |
+| gnews_fed | OK | 42 | 40 | 4 | 36 | 2 | 0.1 |
+| gnews_geopolitics | OK | 53 | 52 | 2 | 50 | 1 | 0.0 |
+| gnews_centralbanks | OK | 42 | 41 | 2 | 39 | 1 | 0.2 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.1 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.0 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
@@ -1445,21 +1490,18 @@ investing_news (48), yahoo_finance (4)
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.6 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.5 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.9 |
-| oilprice | OK | 15 | 4 | 0 | 4 | 11 | 0.1 |
-| investing_commodities | OK | 10 | 6 | 0 | 6 | 4 | 0.1 |
+| oilprice | OK | 15 | 5 | 1 | 4 | 10 | 0.0 |
+| investing_commodities | OK | 10 | 6 | 0 | 6 | 4 | 0.2 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
 | bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.4 |
 | aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.5 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.3 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.3 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.4 |
 | wsj_world | OK | 72 | 7 | 0 | 7 | 65 | 0.2 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.8 |
-| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 36 | 6 | 30 | 14 | 0.0 |
+| investing_news | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 36 | 2 | 34 | 14 | 0.0 |
 | mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
-
-**Jo feeds nahi aaye:**
-- instaforex — FAIL, koi item nahi

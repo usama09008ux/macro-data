@@ -1,11 +1,11 @@
 {
-  "updated_pkt": "23 Aug 01:46",
+  "updated_pkt": "23 Aug 02:07",
   "feeds": [
     {
       "name": "investinglive",
       "status": "OK",
       "fetched": 25,
-      "newest_age_days": 0.9,
+      "newest_age_days": 1.0,
       "note": "",
       "in_window": 2,
       "new": 0,
@@ -58,13 +58,13 @@
     },
     {
       "name": "instaforex",
-      "status": "FAIL",
-      "fetched": 0,
-      "newest_age_days": null,
-      "note": "koi item nahi",
-      "in_window": 0,
+      "status": "OK",
+      "fetched": 25,
+      "newest_age_days": 0.8,
+      "note": "",
+      "in_window": 25,
       "new": 0,
-      "seen_before": 0,
+      "seen_before": 25,
       "out_of_window": 0
     },
     {
@@ -148,23 +148,23 @@
       "name": "kitco_general",
       "status": "OK",
       "fetched": 5,
-      "newest_age_days": 0.5,
+      "newest_age_days": 0.4,
       "note": "",
-      "in_window": 3,
+      "in_window": 4,
       "new": 0,
-      "seen_before": 3,
-      "out_of_window": 2
+      "seen_before": 4,
+      "out_of_window": 1
     },
     {
       "name": "gnews_fed",
       "status": "OK",
-      "fetched": 45,
+      "fetched": 42,
       "newest_age_days": 0.1,
       "note": "",
-      "in_window": 42,
-      "new": 0,
-      "seen_before": 42,
-      "out_of_window": 3
+      "in_window": 40,
+      "new": 4,
+      "seen_before": 36,
+      "out_of_window": 2
     },
     {
       "name": "gnews_geopolitics",
@@ -172,20 +172,20 @@
       "fetched": 53,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 50,
-      "new": 3,
-      "seen_before": 47,
-      "out_of_window": 3
+      "in_window": 52,
+      "new": 2,
+      "seen_before": 50,
+      "out_of_window": 1
     },
     {
       "name": "gnews_centralbanks",
       "status": "OK",
-      "fetched": 24,
-      "newest_age_days": 0.3,
+      "fetched": 42,
+      "newest_age_days": 0.2,
       "note": "",
-      "in_window": 23,
-      "new": 0,
-      "seen_before": 23,
+      "in_window": 41,
+      "new": 2,
+      "seen_before": 39,
       "out_of_window": 1
     },
     {
@@ -269,18 +269,18 @@
       "name": "oilprice",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 4,
-      "new": 0,
+      "in_window": 5,
+      "new": 1,
       "seen_before": 4,
-      "out_of_window": 11
+      "out_of_window": 10
     },
     {
       "name": "investing_commodities",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.2,
       "note": "",
       "in_window": 6,
       "new": 0,
@@ -357,7 +357,7 @@
       "name": "bea_releases",
       "status": "OK",
       "fetched": 47,
-      "newest_age_days": 18.3,
+      "newest_age_days": 18.4,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -393,8 +393,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 2,
-      "seen_before": 8,
+      "new": 3,
+      "seen_before": 7,
       "out_of_window": 0
     },
     {
@@ -404,8 +404,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 36,
-      "new": 6,
-      "seen_before": 30,
+      "new": 2,
+      "seen_before": 34,
       "out_of_window": 14
     },
     {
