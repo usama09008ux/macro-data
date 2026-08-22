@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 03:51 PKT**
-- Kul khabrein: **605**
+- Aakhri update: **23 Aug 04:15 PKT**
+- Kul khabrein: **610**
 - Feeds: 37/39 OK
 
 ---
@@ -770,6 +770,11 @@ Iran Cut Back Oil Production by 400,000 bpd, US Energy Secretary Says EnergyNow
 
 Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say EnergyNow.com
 
+**How Would Trump's Blockade of the Strait of Hormuz Work? - EnergyNow.com**
+`22 Aug 17:43 PKT` · pehli baar dekhi `23 Aug 04:15` · gnews_geopolitics
+
+How Would Trump's Blockade of the Strait of Hormuz Work? EnergyNow.com
+
 **CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist - EnergyNow.com**
 `22 Aug 17:41 PKT` · pehli baar dekhi `23 Aug 00:33` · gnews_geopolitics
 
@@ -819,6 +824,11 @@ How the US and Middle East allies flipped the oil script on Iran CNN
 `22 Aug 13:55 PKT` · pehli baar dekhi `22 Aug 14:17` · gnews_geopolitics
 
 A turbulent week for the global oil market. Vietnam.vn
+
+**What might a US Navy escort for tankers in the Strait of Hormuz look like? - ABC News - Breaking News, Latest News and Videos**
+`22 Aug 11:35 PKT` · pehli baar dekhi `23 Aug 04:15` · gnews_geopolitics
+
+What might a US Navy escort for tankers in the Strait of Hormuz look like? ABC News - Breaking News, Latest News and Videos
 
 **Iranian crude supplies to China declined amid U.S. blockade - IranOilGas**
 `22 Aug 10:26 PKT` · pehli baar dekhi `22 Aug 10:47` · gnews_geopolitics
@@ -883,6 +893,11 @@ Iran closes Strait of Hormuz, traffic falls to 6% of normal as demands mount Cry
 
 **Monthly market brief: equities, bonds, crypto, and commodities in August 2026**
 `22 Aug 21:53 PKT` · pehli baar dekhi `22 Aug 22:35` · investing_news
+
+**Michael Howell Says 2026 Won't Be A Big Year For Bitcoin, Sees 30-Year Yield Going Higher - TradingView**
+`22 Aug 21:41 PKT` · pehli baar dekhi `23 Aug 04:15` · gnews_fed
+
+Michael Howell Says 2026 Won't Be A Big Year For Bitcoin, Sees 30-Year Yield Going Higher TradingView
 
 **US Treasury bond intervention challenges Fed's monetary policy stability - Crypto Briefing**
 `22 Aug 18:37 PKT` · pehli baar dekhi `22 Aug 18:48` · gnews_fed
@@ -1260,7 +1275,7 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (273)
+### BINA TAG (275)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -1379,6 +1394,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 19:59` **yahoo_finance** — The Death of the Easy Beat: Why Classic Stock-Picking Rules No Longer Work
 - `22 Aug 19:56` **yahoo_finance** — Gillette Buys South Boston Life Science Site for $99.29M
 - `22 Aug 19:50` **yahoo_finance** — 2 Hydrogen Stocks to Buy in August if You Believe in the Turnaround
+- `22 Aug 19:37` **gnews_centralbanks** — UK Employment Growth Slows to 83K in June, Down from 147K - CryptoRank
 - `22 Aug 19:37` **aljazeera** — Israeli drone strike on 'civilian vehicle' injures several in Syria
 - `22 Aug 19:37` **yahoo_finance** — Kroger has a customer problem that may be its own fault
 - `22 Aug 19:35` **yahoo_finance** — Is Upstart Stock a Buy After Falling 55% This Year? Here's What to Know as One Insider Disposes of Shares
@@ -1468,6 +1484,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 15:00` **yahoo_finance** — Best CD rates today, Saturday, August 22, 2026: Best CD account earns 4.35% APY
 - `22 Aug 15:00` **mw_topstories** — This has been one of the most affordable U.S. cities to buy a home for the past 134 years
 - `22 Aug 14:51` **aljazeera** — Former world champion boxer Zolani Tete shot and killed in South Africa
+- `22 Aug 14:02` **gnews_fed** — The Economy Got Used to Low Borrowing Costs. Their Exit Could Pose Risks. - The New York Times
 - `22 Aug 13:30` **aljazeera** — Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets
 - `22 Aug 13:16` **investing_news** — PTC Therapeutics director Schmertzler disposes of $1.8m in stock
 - `22 Aug 13:00` **aljazeera** — Panama Canal to reduce shipping as 'extreme' El Nino approaches
@@ -1557,8 +1574,8 @@ investing_news (48), yahoo_finance (7)
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 1.0 |
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 1.0 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.4 |
-| actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.3 |
-| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.9 |
+| actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.4 |
+| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 1.0 |
 | instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.9 |
 | wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.0 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
@@ -1566,33 +1583,30 @@ investing_news (48), yahoo_finance (7)
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.7 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.8 |
 | kitco_general | OK | 3 | 3 | 0 | 3 | 0 | 0.5 |
-| gnews_fed | OK | 43 | 43 | 1 | 42 | 0 | 0.0 |
-| gnews_geopolitics | OK | 60 | 60 | 0 | 60 | 0 | 0.0 |
-| gnews_centralbanks | OK | 40 | 40 | 2 | 38 | 0 | 0.2 |
+| gnews_fed | OK | 42 | 42 | 2 | 40 | 0 | 0.0 |
+| gnews_geopolitics | OK | 62 | 62 | 2 | 60 | 0 | 0.1 |
+| gnews_centralbanks | OK | 41 | 41 | 1 | 40 | 0 | 0.2 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.2 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.1 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.4 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.7 |
-| rba_media | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.6 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 1.0 |
-| oilprice | OK | 15 | 5 | 0 | 5 | 10 | 0.1 |
+| oilprice | OK | 15 | 5 | 1 | 4 | 10 | 0.0 |
 | investing_commodities | OK | 10 | 6 | 0 | 6 | 4 | 0.2 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
-| bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.5 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| bbc_business | OK | 50 | 4 | 1 | 3 | 46 | 0.0 |
+| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.6 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.4 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.4 |
-| wsj_world | OK | 72 | 7 | 0 | 7 | 65 | 0.2 |
+| wsj_world | OK | 72 | 7 | 0 | 7 | 65 | 0.0 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.9 |
-| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 37 | 4 | 33 | 13 | 0.0 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 38 | 2 | 36 | 12 | 0.0 |
 | mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.4 |
-
-**Jo feeds nahi aaye:**
-- rba_media — FAIL, HTTP 403
