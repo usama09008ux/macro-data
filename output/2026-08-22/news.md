@@ -1,9 +1,9 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 13:50 PKT**
-- Kul khabrein: **185**
-- Feeds: 38/39 OK
+- Aakhri update: **22 Aug 14:17 PKT**
+- Kul khabrein: **194**
+- Feeds: 39/39 OK
 
 ---
 
@@ -15,6 +15,11 @@
 `22 Aug 05:18 PKT` · pehli baar dekhi `22 Aug 06:43` · marketpulse
 
 During the week of August 17–21, 2026, major currency pairs rallied against the U.S. dollar amid shifting monetary policy expectations. While accelerated Canadian inflation bolstered the CAD and a cooling job market complicated the RBA's outlook in Australia, markets looked past hawkish FOMC minutes to price in upcoming Fed rate cuts, driving broad gains led by NZD and AUD.
+
+**Japanese Yen Holds Gains on Hawkish BoJ Bets; USD Stays Weak on Fed Cut Expectations - Bitcoin World**
+`22 Aug 03:50 PKT` · pehli baar dekhi `22 Aug 14:17` · gnews_centralbanks
+
+Japanese Yen Holds Gains on Hawkish BoJ Bets; USD Stays Weak on Fed Cut Expectations Bitcoin World
 
 **investingLive Americas FX news wrap 21 Aug: Trump folds on beef tariffs.**
 `22 Aug 03:14 PKT` · pehli baar dekhi `22 Aug 03:37` · investinglive · **2 feeds mein**
@@ -53,6 +58,11 @@ UK Retail Sales Dip 0.5% in July as Consumer Spending Cools CryptoRank
 `22 Aug 09:07 PKT` · pehli baar dekhi `22 Aug 09:08` · gnews_fed
 
 Treasury Yields Rising August 2026: Investor Guide to Bond Market Intellectia AI
+
+**Fed Chair Warsh's Jackson Hole Debut: Goldman Sachs Warns of Amplified FX Volatility - finance.biggo.com**
+`22 Aug 08:05 PKT` · pehli baar dekhi `22 Aug 14:17` · gnews_fed
+
+Fed Chair Warsh's Jackson Hole Debut: Goldman Sachs Warns of Amplified FX Volatility finance.biggo.com
 
 **Economics Week Ahead**
 `22 Aug 06:36 PKT` · pehli baar dekhi `22 Aug 06:43` · actionforex
@@ -143,6 +153,11 @@ GBP/USD&#8217;s rise form 1.3139 resumed by breaking through 1.3557 decisively l
 
 USD/JPY dipped lower to 157.99 last week but recovered since then. Initial bias remains neutral this week first. On the downside, below 157.99 will extend the fall from 159.76 to retest 155.22 low. In case of another rise, strong resistance could emerge from 159.59 to 160.62 zone (50% and 61.8% retracement of 163.97 to 155.22) [&#8230;] The post USD/JPY Weekly Outlook appeared first on ActionForex.
 
+**Japanese Stocks Next Week: Jackson Hole and Nvidia Earnings in Focus; Nikkei Ends Week Down 3.9% - finance.biggo.com**
+`22 Aug 10:55 PKT` · pehli baar dekhi `22 Aug 14:17` · gnews_centralbanks
+
+Japanese Stocks Next Week: Jackson Hole and Nvidia Earnings in Focus; Nikkei Ends Week Down 3.9% finance.biggo.com
+
 **The Japanese Yen's Historic Rescue Is Running Out of Steam - CryptoRank**
 `22 Aug 10:15 PKT` · pehli baar dekhi `22 Aug 10:47` · gnews_centralbanks
 
@@ -150,6 +165,11 @@ The Japanese Yen's Historic Rescue Is Running Out of Steam CryptoRank
 
 **Breaking down the U.S.-Japan "currency alliance"**
 `22 Aug 10:12 PKT` · pehli baar dekhi `22 Aug 10:16` · investing_news
+
+**Sources: BoJ could raise rates again at September 17-18 meeting - investingLive**
+`22 Aug 08:39 PKT` · pehli baar dekhi `22 Aug 14:17` · gnews_centralbanks
+
+Sources: BoJ could raise rates again at September 17-18 meeting investingLive
 
 **Japanese Yen Holds Gains on Hawkish BoJ Bets; USD Stays Weak on Fed Cut Expectations - CryptoRank**
 `22 Aug 06:22 PKT` · pehli baar dekhi `22 Aug 06:43` · gnews_fed
@@ -225,6 +245,11 @@ Data from the latest Commitments of Traders (CFTC) report show that speculative 
 
 ### AUD
 
+**Australia bite back as 18 wickets fall on day one of second Bangladesh Test**
+`22 Aug 13:53 PKT` · pehli baar dekhi `22 Aug 14:17` · aljazeera
+
+Left-armers star in wicket bonanza as Australia take 101-run lead over Bangladesh on first day of the second Test.
+
 **AUD/USD Weekly Report**
 `22 Aug 07:43 PKT` · pehli baar dekhi `22 Aug 08:27` · actionforex
 
@@ -248,6 +273,11 @@ The Aussie Dollar finished the week with gains of over 0.82% on Friday and up mo
 Speculative sentiment toward the New Zealand dollar has turned slightly less negative, with CFTC NZD net positions improving from -39.6K to -32.6K, according to data updated on 21 August 2026. The move reflects a reduction in overall bearish positioning, even though traders remain net short on the currency.
 
 ### OIL
+
+**A turbulent week for the global oil market. - Vietnam.vn**
+`22 Aug 13:55 PKT` · pehli baar dekhi `22 Aug 14:17` · gnews_geopolitics
+
+A turbulent week for the global oil market. Vietnam.vn
 
 **Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz**
 `22 Aug 13:42 PKT` · pehli baar dekhi `22 Aug 13:50` · investing_commodities
@@ -324,10 +354,20 @@ BNY: Fed's High Intervention Bar And Backstop Doubts Signal Cautious Stance Bitc
 
 ### RISK
 
+**Iran's Top Politicians Urge an End to the War**
+`22 Aug 14:15 PKT` · pehli baar dekhi `22 Aug 14:17` · wsj_world
+
+The country's president and its parliamentary speaker say Tehran needs to negotiate an exit and shore up its economy while it has leverage.
+
 **World Bank projects war-hit Lebanon's economy to contract by 6.4 percent**
 `22 Aug 12:35 PKT` · pehli baar dekhi `22 Aug 13:11` · aljazeera
 
 Conflict with Israel derails Lebanon&#039;s economic recovery as inflation and consumer prices rise, the global lender says.
+
+**Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA - EnergyNow**
+`22 Aug 11:37 PKT` · pehli baar dekhi `22 Aug 14:17` · gnews_geopolitics
+
+Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA EnergyNow
 
 **Iran Dismisses 'Unprecedented' Sanctions Proposed By US - Big News Network.com**
 `22 Aug 11:05 PKT` · pehli baar dekhi `22 Aug 13:50` · gnews_geopolitics
@@ -384,13 +424,14 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (62)
+### BINA TAG (63)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
 - `22 Aug 13:30` **aljazeera** — Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets
 - `22 Aug 13:16` **investing_news** — PTC Therapeutics director Schmertzler disposes of $1.8m in stock
 - `22 Aug 13:00` **aljazeera** — Panama Canal to reduce shipping as 'extreme' El Nino approaches
+- `22 Aug 12:57` **gnews_geopolitics** — Will gas prices keep falling? Experts weigh in - ABC News - Breaking News, Latest News and Videos
 - `22 Aug 12:42` **investing_news** — Ukrainian drones hit warehouse of Russian online retailer Ozon in overnight strikes
 - `22 Aug 12:41` **aljazeera** — Lionel Messi fined for striking opponent in Inter Miami MLS game
 - `22 Aug 12:41` **aljazeera** — 'Young want to leave': Libya's brain drain, 15 years after Tripoli fell
@@ -467,12 +508,12 @@ investing_news (42)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.4 |
+| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.5 |
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.4 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.6 |
 | actionforex | OK | 20 | 15 | 0 | 15 | 5 | 0.1 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.4 |
-| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.3 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
@@ -480,32 +521,29 @@ investing_news (42)
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.2 |
-| kitco_general | OK | 26 | 3 | 1 | 2 | 23 | 0.2 |
-| gnews_fed | OK | 72 | 12 | 0 | 12 | 60 | 0.1 |
-| gnews_geopolitics | OK | 98 | 11 | 2 | 9 | 87 | 0.1 |
-| gnews_centralbanks | OK | 34 | 6 | 1 | 5 | 28 | 0.1 |
+| kitco_general | OK | 25 | 3 | 0 | 3 | 22 | 0.2 |
+| gnews_fed | OK | 32 | 7 | 1 | 6 | 25 | 0.0 |
+| gnews_geopolitics | OK | 97 | 14 | 3 | 11 | 83 | 0.0 |
+| gnews_centralbanks | OK | 37 | 7 | 3 | 4 | 30 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.5 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.0 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.6 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.1 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.8 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.1 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.0 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.4 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
-| investing_commodities | OK | 10 | 4 | 1 | 3 | 6 | 0.0 |
+| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.0 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | bbc_business | OK | 50 | 2 | 0 | 2 | 48 | 0.1 |
-| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.0 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.8 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.8 |
-| wsj_world | OK | 72 | 4 | 0 | 4 | 68 | 0.2 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.9 |
+| wsj_world | OK | 71 | 5 | 1 | 4 | 66 | 0.0 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.3 |
-| investing_news | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.6 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| yahoo_finance | OK | 46 | 0 | 0 | 0 | 46 | 0.6 |
 | mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.5 |
-
-**Jo feeds nahi aaye:**
-- instaforex — FAIL, koi item nahi
