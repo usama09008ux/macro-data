@@ -1,9 +1,9 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 01:20 PKT**
-- Kul khabrein: **543**
-- Feeds: 38/39 OK
+- Aakhri update: **23 Aug 01:46 PKT**
+- Kul khabrein: **555**
+- Feeds: 37/39 OK
 
 ---
 
@@ -382,6 +382,9 @@ British Pound Holds Firm Despite Mixed UK Data, Says BBH CryptoRank
 
 ### JPY
 
+**Will Bessent's intervention mark a turning point for the yen?**
+`23 Aug 01:18 PKT` · pehli baar dekhi `23 Aug 01:46` · investing_news
+
 **Walk-In "Human Fridges" are Japan's newest heatwave weapon**
 `22 Aug 20:48 PKT` · pehli baar dekhi `22 Aug 21:20` · aljazeera
 
@@ -478,6 +481,9 @@ Speculative positioning in the Swiss franc has turned less negative, according t
 The USD/CHF advanced on Friday, registering a modest 0.07% gain, trading at 0.8010. During the week, the pair finished with losses of over 1.49%, triggered by a drop in US yields on Wednesday, as the US Treasury tries to cap elevated yields on the 30-year bond.
 
 ### CAD
+
+**Canada's Unifor union, GM reach tentative agreements**
+`23 Aug 01:24 PKT` · pehli baar dekhi `23 Aug 01:46` · investing_news
 
 **Canada to match US tariffs "dollar for dollar," PM Carney says**
 `23 Aug 00:13 PKT` · pehli baar dekhi `23 Aug 00:53` · aljazeera
@@ -588,6 +594,17 @@ The Aussie Dollar finished the week with gains of over 0.82% on Friday and up mo
 Speculative sentiment toward the New Zealand dollar has turned slightly less negative, with CFTC NZD net positions improving from -39.6K to -32.6K, according to data updated on 21 August 2026. The move reflects a reduction in overall bearish positioning, even though traders remain net short on the currency.
 
 ### OIL
+
+**Iran opens Hormuz for Iraqi oil — but a new oil order may be emerging in the Gulf - The Times Australia**
+`23 Aug 01:32 PKT` · pehli baar dekhi `23 Aug 01:46` · gnews_geopolitics
+
+Iran opens Hormuz for Iraqi oil — but a new oil order may be emerging in the Gulf The Times Australia
+
+**Iran grants permission for some Iraqi oil tankers to pass through Hormuz**
+`23 Aug 01:05 PKT` · pehli baar dekhi `23 Aug 01:46` · aljazeera · **2 feeds mein**
+
+Iraqi President Nizar Amidi says his country&#039;s territory will not be used to launch attacks against any other state.
+  - `22 Aug 13:42` *investing_commodities* — Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz
 
 **Can This 6.3% Yield Survive if Oil Crashes Again?**
 `23 Aug 00:35 PKT` · pehli baar dekhi `23 Aug 00:53` · yahoo_finance
@@ -710,9 +727,6 @@ How the US and Middle East allies flipped the oil script on Iran CNN
 
 A turbulent week for the global oil market. Vietnam.vn
 
-**Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz**
-`22 Aug 13:42 PKT` · pehli baar dekhi `22 Aug 13:50` · investing_commodities
-
 **Iranian crude supplies to China declined amid U.S. blockade - IranOilGas**
 `22 Aug 10:26 PKT` · pehli baar dekhi `22 Aug 10:47` · gnews_geopolitics
 
@@ -768,6 +782,11 @@ Speculative sentiment in the U.S. crude oil market strengthened notably, as the 
 China's energy strategy has largely shielded it from the fallout of the war in Iran and the resultant closure of the Strait of Hormuz, a vital artery for global oil and gas trade. However, the country's newest five-year plan for its oil and gas sector reveals ongoing anxieties about geopolitical tensions, future conflicts, reliance on energy imports, and the country's dwindling crude supplies.
 
 ### CRYPTO
+
+**Iran closes Strait of Hormuz, traffic falls to 6% of normal as demands mount - Crypto Briefing**
+`23 Aug 01:31 PKT` · pehli baar dekhi `23 Aug 01:46` · gnews_geopolitics
+
+Iran closes Strait of Hormuz, traffic falls to 6% of normal as demands mount Crypto Briefing
 
 **Monthly market brief: equities, bonds, crypto, and commodities in August 2026**
 `22 Aug 21:53 PKT` · pehli baar dekhi `22 Aug 22:35` · investing_news
@@ -910,6 +929,11 @@ Health authorities are warning that 'approximately one person has been dying fro
 `23 Aug 00:24 PKT` · pehli baar dekhi `23 Aug 01:20` · aljazeera
 
 In an interview with the Russian channel Vesti, Vladimir Putin threatened Ukraine&#039;s &#039;most vulnerable&#039; economic sectors.
+
+**China Assesses Ability to Withstand US Threat of Iran Sanctions - Readers.id**
+`23 Aug 00:01 PKT` · pehli baar dekhi `23 Aug 01:46` · gnews_geopolitics
+
+China Assesses Ability to Withstand US Threat of Iran Sanctions Readers.id
 
 **Tariffs just pushed Hyundai deeper into America**
 `22 Aug 23:17 PKT` · pehli baar dekhi `22 Aug 23:40` · yahoo_finance
@@ -1124,16 +1148,19 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (248)
+### BINA TAG (252)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 01:18` **yahoo_finance** — The Overtime Tax Break Only Counts the "Half," Not the "Time-and-a-Half." Most Workers Are Overestimating It by Double
+- `23 Aug 01:04` **yahoo_finance** — Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks
 - `23 Aug 00:59` **yahoo_finance** — Apple vs. Meta Platforms: Which "Magnificent Seven" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?
 - `23 Aug 00:56` **yahoo_finance** — Is Alphabet's Search Risk Really Priced In? Stress-Testing Rosenblatt's $410 Thesis
 - `23 Aug 00:53` **yahoo_finance** — Does Greg Abel Know Something Wall Street Doesn't? New Berkshire Hathaway CEO Doubles Down On a Legacy Department Store Stock With a 3.3% Dividend Yield
 - `23 Aug 00:41` **yahoo_finance** — Snowflake (SNOW) Stock: AI Growth Is Real, But Is the Valuation Already Priced In?
 - `23 Aug 00:40` **aljazeera** — Why is Israel building new illegal settlements?
 - `23 Aug 00:38` **yahoo_finance** — How a 56-Year-Old Turned a $735,000 401(k) Rollover Into a $4,300 Monthly Paycheck Without Buying an Annuity
+- `23 Aug 00:37` **yahoo_finance** — Paramount Prepares to Begin Early Settlement Talks With California Officials
 - `23 Aug 00:29` **aljazeera** — More than 200,000 newly displaced in Sudan's Kordofan region
 - `23 Aug 00:24` **aljazeera** — Israeli strikes kill two and injure others as Gaza attacks continue
 - `23 Aug 00:24` **investing_news** — Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports
@@ -1228,6 +1255,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 19:35` **yahoo_finance** — Prediction: This Is Where Pfizer Stock Will Be in 2030
 - `22 Aug 19:30` **yahoo_finance** — She Loaded 20,000 Popsicles Onto a Truck. Social Security Said She Hadn't Sold One.
 - `22 Aug 19:30` **yahoo_finance** — Target Stock Has Been Crushed. Here's Why I'm Not Giving Up on It.
+- `22 Aug 19:30` **yahoo_finance** — Most Tech Stocks Are More Correlated Than You Think. Don't Let That Wreck Your Trading Plan.
 - `22 Aug 19:30` **yahoo_finance** — AI jobs advertise $177,000 salaries — more than double non-AI roles — yet women land just 26% of hires
 - `22 Aug 19:29` **yahoo_finance** — An Upstart Insider Filing Involves $216,000. Here's How It Connects to a New Bank Charter
 - `22 Aug 19:24` **yahoo_finance** — LA County CRE Sales Jump 28% in July on Multifamily
@@ -1379,11 +1407,11 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 
 ---
 
-## Shor — 50 khabrein hatai gayin
+## Shor — 52 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (48), yahoo_finance (2)
+investing_news (48), yahoo_finance (4)
 
 ---
 
@@ -1396,20 +1424,20 @@ investing_news (48), yahoo_finance (2)
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.9 |
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.9 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
-| actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.2 |
-| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.8 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.8 |
+| actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.3 |
+| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.9 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.1 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.6 |
-| kitco_general | OK | 7 | 2 | 0 | 2 | 5 | 0.7 |
-| gnews_fed | OK | 46 | 41 | 2 | 39 | 5 | 0.1 |
-| gnews_geopolitics | OK | 54 | 47 | 5 | 42 | 7 | 0.1 |
-| gnews_centralbanks | OK | 43 | 40 | 0 | 40 | 3 | 0.1 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.7 |
+| kitco_general | OK | 5 | 3 | 0 | 3 | 2 | 0.5 |
+| gnews_fed | OK | 45 | 42 | 0 | 42 | 3 | 0.1 |
+| gnews_geopolitics | OK | 53 | 50 | 3 | 47 | 3 | 0.0 |
+| gnews_centralbanks | OK | 24 | 23 | 0 | 23 | 1 | 0.3 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.1 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.0 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
@@ -1421,14 +1449,17 @@ investing_news (48), yahoo_finance (2)
 | investing_commodities | OK | 10 | 6 | 0 | 6 | 4 | 0.1 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
 | bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.4 |
-| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.5 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.3 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.3 |
-| wsj_world | OK | 72 | 7 | 0 | 7 | 65 | 0.1 |
+| wsj_world | OK | 72 | 7 | 0 | 7 | 65 | 0.2 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.8 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 35 | 7 | 28 | 15 | 0.0 |
+| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 36 | 6 | 30 | 14 | 0.0 |
 | mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
+
+**Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi

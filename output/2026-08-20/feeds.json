@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "23 Aug 01:20",
+  "updated_pkt": "23 Aug 01:46",
   "feeds": [
     {
       "name": "investinglive",
@@ -38,7 +38,7 @@
       "name": "actionforex",
       "status": "OK",
       "fetched": 20,
-      "newest_age_days": 0.2,
+      "newest_age_days": 0.3,
       "note": "",
       "in_window": 17,
       "new": 0,
@@ -49,7 +49,7 @@
       "name": "marketpulse",
       "status": "OK",
       "fetched": 5,
-      "newest_age_days": 0.8,
+      "newest_age_days": 0.9,
       "note": "",
       "in_window": 1,
       "new": 0,
@@ -58,13 +58,13 @@
     },
     {
       "name": "instaforex",
-      "status": "OK",
-      "fetched": 25,
-      "newest_age_days": 0.8,
-      "note": "",
-      "in_window": 25,
+      "status": "FAIL",
+      "fetched": 0,
+      "newest_age_days": null,
+      "note": "koi item nahi",
+      "in_window": 0,
       "new": 0,
-      "seen_before": 25,
+      "seen_before": 0,
       "out_of_window": 0
     },
     {
@@ -137,7 +137,7 @@
       "name": "cme_risk_management",
       "status": "OK",
       "fetched": 20,
-      "newest_age_days": 9.6,
+      "newest_age_days": 9.7,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -147,46 +147,46 @@
     {
       "name": "kitco_general",
       "status": "OK",
-      "fetched": 7,
-      "newest_age_days": 0.7,
+      "fetched": 5,
+      "newest_age_days": 0.5,
       "note": "",
-      "in_window": 2,
+      "in_window": 3,
       "new": 0,
-      "seen_before": 2,
-      "out_of_window": 5
+      "seen_before": 3,
+      "out_of_window": 2
     },
     {
       "name": "gnews_fed",
       "status": "OK",
-      "fetched": 46,
+      "fetched": 45,
       "newest_age_days": 0.1,
       "note": "",
-      "in_window": 41,
-      "new": 2,
-      "seen_before": 39,
-      "out_of_window": 5
+      "in_window": 42,
+      "new": 0,
+      "seen_before": 42,
+      "out_of_window": 3
     },
     {
       "name": "gnews_geopolitics",
       "status": "OK",
-      "fetched": 54,
-      "newest_age_days": 0.1,
+      "fetched": 53,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 47,
-      "new": 5,
-      "seen_before": 42,
-      "out_of_window": 7
+      "in_window": 50,
+      "new": 3,
+      "seen_before": 47,
+      "out_of_window": 3
     },
     {
       "name": "gnews_centralbanks",
       "status": "OK",
-      "fetched": 43,
-      "newest_age_days": 0.1,
+      "fetched": 24,
+      "newest_age_days": 0.3,
       "note": "",
-      "in_window": 40,
+      "in_window": 23,
       "new": 0,
-      "seen_before": 40,
-      "out_of_window": 3
+      "seen_before": 23,
+      "out_of_window": 1
     },
     {
       "name": "fed_monetary",
@@ -316,8 +316,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 25,
-      "new": 4,
-      "seen_before": 21,
+      "new": 1,
+      "seen_before": 24,
       "out_of_window": 0
     },
     {
@@ -368,7 +368,7 @@
       "name": "wsj_world",
       "status": "OK",
       "fetched": 72,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.2,
       "note": "",
       "in_window": 7,
       "new": 0,
@@ -393,8 +393,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 0,
-      "seen_before": 10,
+      "new": 2,
+      "seen_before": 8,
       "out_of_window": 0
     },
     {
@@ -403,10 +403,10 @@
       "fetched": 50,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 35,
-      "new": 7,
-      "seen_before": 28,
-      "out_of_window": 15
+      "in_window": 36,
+      "new": 6,
+      "seen_before": 30,
+      "out_of_window": 14
     },
     {
       "name": "mw_topstories",
