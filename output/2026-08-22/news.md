@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 10:16 PKT**
-- Kul khabrein: **145**
+- Aakhri update: **22 Aug 10:47 PKT**
+- Kul khabrein: **148**
 - Feeds: 39/39 OK
 
 ---
@@ -76,6 +76,11 @@ The Mexican currency appreciates to levels last seen in May 2024 as the USD/MXN 
 
 ### EUR
 
+**How banks fund themselves affects the reach of ECB rate decisions, study finds - Cyprus Mail**
+`22 Aug 10:30 PKT` · pehli baar dekhi `22 Aug 10:47` · gnews_centralbanks
+
+How banks fund themselves affects the reach of ECB rate decisions, study finds Cyprus Mail
+
 **EUR/JPY Weekly Outlook**
 `22 Aug 07:26 PKT` · pehli baar dekhi `22 Aug 07:41` · actionforex · **4 feeds mein**
 
@@ -107,6 +112,11 @@ Euro Pares Gains Against US Dollar but Eyes Fourth Weekly Advance CryptoRank
 GBP/JPY&#8217;s rally continued last week and the development is inline with the case that corrective fall from 219.56 has already completed. Initial bias stays on the upside this week for retesting 219.56 high. On the downside, below 216.20 minor support will turn bias neutral and bring consolidations first, before staging another rally. In the bigger [&#8230;] The post GBP/JPY Weekly Outlook appeared first on ActionForex.
 
 ### JPY
+
+**The Japanese Yen's Historic Rescue Is Running Out of Steam - CryptoRank**
+`22 Aug 10:15 PKT` · pehli baar dekhi `22 Aug 10:47` · gnews_centralbanks
+
+The Japanese Yen's Historic Rescue Is Running Out of Steam CryptoRank
 
 **Breaking down the U.S.-Japan "currency alliance"**
 `22 Aug 10:12 PKT` · pehli baar dekhi `22 Aug 10:16` · investing_news
@@ -198,6 +208,11 @@ The Aussie Dollar finished the week with gains of over 0.82% on Friday and up mo
 Speculative sentiment toward the New Zealand dollar has turned slightly less negative, with CFTC NZD net positions improving from -39.6K to -32.6K, according to data updated on 21 August 2026. The move reflects a reduction in overall bearish positioning, even though traders remain net short on the currency.
 
 ### OIL
+
+**Iranian crude supplies to China declined amid U.S. blockade - IranOilGas**
+`22 Aug 10:26 PKT` · pehli baar dekhi `22 Aug 10:47` · gnews_geopolitics
+
+Iranian crude supplies to China declined amid U.S. blockade IranOilGas
 
 **See How China Weathered the Iran Oil Shock**
 `22 Aug 07:00 PKT` · pehli baar dekhi `22 Aug 07:41` · wsj_markets
@@ -371,37 +386,37 @@ investing_news (39)
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.5 |
 | actionforex | OK | 20 | 11 | 0 | 11 | 9 | 0.1 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.2 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.0 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.0 |
-| kitco_general | OK | 29 | 1 | 0 | 1 | 28 | 0.3 |
-| gnews_fed | OK | 79 | 10 | 3 | 7 | 69 | 0.0 |
-| gnews_geopolitics | OK | 100 | 7 | 1 | 6 | 93 | 0.1 |
-| gnews_centralbanks | OK | 34 | 2 | 1 | 1 | 32 | 0.1 |
+| kitco_general | OK | 29 | 2 | 0 | 2 | 27 | 0.3 |
+| gnews_fed | OK | 72 | 9 | 0 | 9 | 63 | 0.1 |
+| gnews_geopolitics | OK | 100 | 8 | 1 | 7 | 92 | 0.0 |
+| gnews_centralbanks | OK | 36 | 3 | 2 | 1 | 33 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.4 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 0.9 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.7 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 0.9 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.8 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.9 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.3 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.3 |
 | investing_commodities | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
 | bbc_business | OK | 50 | 1 | 0 | 1 | 49 | 0.2 |
 | aljazeera | OK | 25 | 19 | 0 | 19 | 6 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | -0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.8 |
-| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.6 |
+| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.7 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.7 |
 | wsj_world | OK | 72 | 4 | 0 | 4 | 68 | 0.0 |
-| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.1 |
-| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.4 |
-| mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
+| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.2 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.5 |
+| mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.4 |
