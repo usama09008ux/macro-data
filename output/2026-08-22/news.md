@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 07:41 PKT**
-- Kul khabrein: **114**
+- Aakhri update: **22 Aug 08:27 PKT**
+- Kul khabrein: **122**
 - Feeds: 39/39 OK
 
 ---
@@ -144,6 +144,11 @@ Data from the latest Commitments of Traders (CFTC) report show that speculative 
 
 ### AUD
 
+**AUD/USD Weekly Report**
+`22 Aug 07:43 PKT` · pehli baar dekhi `22 Aug 08:27` · actionforex
+
+AUD/USD&#8217;s rally from 0.6864 continued last week and accelerated higher. Initial bias remains on the upside this week. Firm break of 161.8% projection of 0.6864 to 0.7026 from 0.6921 at 0.7183 will bring retest of 0.7277 high. On the downside, below 0.7128 minor support will turn bias neutral and bring consolidations again. In the bigger [&#8230;] The post AUD/USD Weekly Report appeared first on ActionForex.
+
 **Speculators Deepen Bearish Bets on Australian Dollar as Net Short Positions Widen**
 `22 Aug 04:34 PKT` · instaforex
 
@@ -215,6 +220,9 @@ BNY: Fed's High Intervention Bar And Backstop Doubts Signal Cautious Stance Bitc
 
 ### RISK
 
+**Iran threatens military response to US sanctions**
+`22 Aug 07:48 PKT` · pehli baar dekhi `22 Aug 08:27` · investing_news
+
 **The Fall of Russia's Only Antiwar Party Has Exposed Putin's Vulnerability**
 `22 Aug 07:00 PKT` · pehli baar dekhi `22 Aug 07:41` · wsj_world
 
@@ -244,10 +252,11 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (34)
+### BINA TAG (36)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 08:06` **investing_news** — Moderna cancer vaccine breakthrough revives hopes for biotech turnaround
 - `22 Aug 07:09` **aljazeera** — Peru rescues people trapped by landslides on highway for nearly a week
 - `22 Aug 06:42` **aljazeera** — Palestinian-British girl, 6, dies days after family drowned off UK coast
 - `22 Aug 06:31` **investing_news** — Solv energy management holdings disposes of 1.3m Solv energy shares
@@ -271,6 +280,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 04:34` **instaforex** — Aluminium Bears Ease Off as CFTC Net Short Positions Narrow in the U.S.
 - `22 Aug 04:32` **wsj_world** — Plane Crash Near Remote Military Radar Site in Alaska Kills 8
 - `22 Aug 04:30` **investing_news** — Trump says he did not direct Bessent to intervene in bond market
+- `22 Aug 04:28` **gnews_centralbanks** — Deutsche Bank Raises UK Growth Forecast on Resilient Economy - CryptoRank
 - `22 Aug 04:19` **aljazeera** — US debt tops $40 trillion, Americans left with the bill
 - `22 Aug 04:19` **aljazeera** — Pakistan's Imran Khan back to prison after evaluation at hospital
 - `22 Aug 04:07` **investing_news** — David J. Taylor from Ohio's 2nd district buys Alphabet Inc and Procter & Gamble stocks, sells Microsoft
@@ -285,11 +295,11 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 
 ---
 
-## Shor — 33 khabrein hatai gayin
+## Shor — 37 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (33)
+investing_news (37)
 
 ---
 
@@ -300,41 +310,41 @@ investing_news (33)
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.2 |
-| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.1 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.3 |
-| actionforex | OK | 20 | 10 | 7 | 3 | 10 | 0.0 |
+| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.2 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.4 |
+| actionforex | OK | 20 | 11 | 1 | 10 | 9 | 0.0 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.1 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
 | wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 0.5 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.9 |
-| kitco_general | OK | 32 | 1 | 0 | 1 | 31 | 0.2 |
-| gnews_fed | OK | 76 | 6 | 1 | 5 | 70 | 0.1 |
-| gnews_geopolitics | OK | 100 | 7 | 4 | 3 | 93 | 0.0 |
-| gnews_centralbanks | OK | 35 | 0 | 0 | 0 | 35 | 0.2 |
+| kitco_general | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
+| gnews_fed | OK | 72 | 6 | 0 | 6 | 66 | 0.1 |
+| gnews_geopolitics | OK | 100 | 6 | 0 | 6 | 94 | 0.1 |
+| gnews_centralbanks | OK | 34 | 1 | 1 | 0 | 33 | 0.2 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.3 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 0.8 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.6 |
-| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 0.8 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.7 |
+| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 0.9 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.8 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.2 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.2 |
 | investing_commodities | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | bbc_business | OK | 50 | 1 | 0 | 1 | 49 | 0.1 |
-| aljazeera | OK | 25 | 13 | 2 | 11 | 12 | 0.0 |
+| aljazeera | OK | 25 | 13 | 0 | 13 | 12 | 0.1 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.7 |
-| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.5 |
+| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.6 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.6 |
-| wsj_world | OK | 72 | 3 | 1 | 2 | 69 | 0.0 |
-| wsj_markets | OK | 61 | 2 | 1 | 1 | 59 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.3 |
-| mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
-| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.2 |
+| wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.1 |
+| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.1 |
+| investing_news | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.4 |
+| mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
+| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.3 |
