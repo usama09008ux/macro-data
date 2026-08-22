@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 20:30 PKT**
-- Kul khabrein: **377**
+- Aakhri update: **22 Aug 20:52 PKT**
+- Kul khabrein: **393**
 - Feeds: 38/39 OK
 
 ---
@@ -80,12 +80,18 @@ Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters b
 Fed Approves NatWest Office in Connecticut stl.news
 
 **America In Focus: Fed officials eye higher rates; unemployment claims fall - New Haven Register**
-`22 Aug 19:30 PKT` · pehli baar dekhi `22 Aug 19:38` · gnews_fed
+`22 Aug 19:30 PKT` · pehli baar dekhi `22 Aug 19:38` · gnews_fed · **2 feeds mein**
 
 America In Focus: Fed officials eye higher rates; unemployment claims fall New Haven Register
+  - `22 Aug 19:29` *gnews_fed* — America In Focus: Fed officials eye higher rates; unemployment claims fall - Norwalk Hour
 
 **Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock**
 `22 Aug 19:20 PKT` · pehli baar dekhi `22 Aug 19:38` · yahoo_finance
+
+**US Fed Meeting March 2026: When & Where To Watch Jerome Powell Speech LIVE Today; FOMC Decision Time in India - Goodreturns**
+`22 Aug 18:50 PKT` · pehli baar dekhi `22 Aug 20:52` · gnews_fed
+
+US Fed Meeting March 2026: When & Where To Watch Jerome Powell Speech LIVE Today; FOMC Decision Time in India Goodreturns
 
 **The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC - Yahoo Finance**
 `22 Aug 18:26 PKT` · pehli baar dekhi `22 Aug 19:09` · gnews_fed · **3 feeds mein**
@@ -205,6 +211,11 @@ The Mexican currency appreciates to levels last seen in May 2024 as the USD/MXN 
 
 ### EUR
 
+**Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine**
+`22 Aug 20:30 PKT` · pehli baar dekhi `22 Aug 20:52` · aljazeera
+
+An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.
+
 **Fans and police injured in pitch invasion during 'high risk' German Cup tie**
 `22 Aug 18:44 PKT` · pehli baar dekhi `22 Aug 19:09` · aljazeera
 
@@ -303,6 +314,11 @@ Japanese Bank Stocks Gaining From Higher Rates ուշադրություն simply
 
 Dollar steadies near 159 yen as Bank of Japan hike bets rise, US PMIs support greenback VT Markets
 
+**U.S.-Japan 'Currency Alliance' Signals Deeper Coordination on Yen and Dollar - CryptoRank**
+`22 Aug 12:44 PKT` · pehli baar dekhi `22 Aug 20:52` · gnews_centralbanks
+
+U.S.-Japan 'Currency Alliance' Signals Deeper Coordination on Yen and Dollar CryptoRank
+
 **USD/JPY Weekly Outlook**
 `22 Aug 11:15 PKT` · pehli baar dekhi `22 Aug 11:16` · actionforex
 
@@ -345,6 +361,11 @@ Japanese Yen Holds Gains on Hawkish BoJ Bets; USD Stays Weak on Fed Cut Expectat
 `22 Aug 04:34 PKT` · instaforex
 
 Speculative sentiment toward the Japanese yen has undergone a sharp reversal, with CFTC JPY speculative net positions plunging from positive to deeply negative territory. According to data updated on 21 August 2026, net positions shifted from a previous 42.1K to -52.9K, indicating that traders moved from a net long stance on the yen to a substantial net short position.
+
+**Japanese Bank Stocks to Watch as BOJ Rate Hikes Reshape Regional Lenders - simplywall.st**
+`22 Aug 03:42 PKT` · pehli baar dekhi `22 Aug 20:52` · gnews_centralbanks
+
+Japanese Bank Stocks to Watch as BOJ Rate Hikes Reshape Regional Lenders simplywall.st
 
 ### CHF
 
@@ -460,6 +481,11 @@ Iran Cut Back Oil Production by 400,000 bpd, US Energy Secretary Says EnergyNow
 
 Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say EnergyNow.com
 
+**Oil Falls After Iraq Resumes Oil Exports via Turkey's Ceyhan Port - EnergyNow**
+`22 Aug 17:27 PKT` · pehli baar dekhi `22 Aug 20:52` · gnews_geopolitics
+
+Oil Falls After Iraq Resumes Oil Exports via Turkey's Ceyhan Port EnergyNow
+
 **Government clarifies that India is importing crude oil from 40 countries including Iran, refutes reports of payment | Akashvani News - News On AIR**
 `22 Aug 16:18 PKT` · pehli baar dekhi `22 Aug 18:18` · gnews_geopolitics
 
@@ -569,6 +595,11 @@ UK Wage Growth Holds At 4.1% In June As Earnings Beat Inflation, Easing BoE Pres
 
 UK Unemployment Rises To 4.9% In June, Exceeding Forecasts As Labor Market Cools Bitcoin World
 
+**UK Employment Growth Slows To 83K In June, Down From 147K - Bitcoin World**
+`22 Aug 17:35 PKT` · pehli baar dekhi `22 Aug 20:52` · gnews_centralbanks
+
+UK Employment Growth Slows To 83K In June, Down From 147K Bitcoin World
+
 **Pound Drops Against Yen As UK Wage Growth Cools, Boosting Rate-Cut Bets - Bitcoin World**
 `22 Aug 17:30 PKT` · pehli baar dekhi `22 Aug 18:18` · gnews_centralbanks
 
@@ -613,6 +644,11 @@ July FOMC Meeting Minutes Released: What They Signal For Rates And Inflation Bit
 
 CoinShares Expects Bitcoin to Remain Below $80,000 Until Fed Policy Becomes Clearer HOKANEWS.COM
 
+**UK Retail Sales Ex-Fuel Miss Forecast In July As Consumer Spending Stays Weak - Bitcoin World**
+`22 Aug 08:55 PKT` · pehli baar dekhi `22 Aug 20:52` · gnews_centralbanks
+
+UK Retail Sales Ex-Fuel Miss Forecast In July As Consumer Spending Stays Weak Bitcoin World
+
 **UK Retail Sales Dip 0.5% In July As Consumer Spending Cools - Bitcoin World**
 `22 Aug 08:50 PKT` · pehli baar dekhi `22 Aug 16:01` · gnews_centralbanks
 
@@ -643,12 +679,20 @@ Eurozone Manufacturing PMI Unexpectedly Climbs to 52.8 in August, Signaling Rene
 
 CoinShares: Bitcoin to Stay Rangebound Below $80K Until Fed Signals Policy Shift CryptoRank
 
+**UK Composite PMI Beats Forecasts, Signals Faster Private Sector Growth In August - Bitcoin World**
+`22 Aug 04:35 PKT` · pehli baar dekhi `22 Aug 20:52` · gnews_centralbanks
+
+UK Composite PMI Beats Forecasts, Signals Faster Private Sector Growth In August Bitcoin World
+
 **BNY: Fed's High Intervention Bar And Backstop Doubts Signal Cautious Stance - Bitcoin World**
 `22 Aug 04:05 PKT` · pehli baar dekhi `22 Aug 06:43` · gnews_fed
 
 BNY: Fed's High Intervention Bar And Backstop Doubts Signal Cautious Stance Bitcoin World
 
 ### RATES
+
+**The Master of the Margin Call: How Ken Griffin Turned an AI Meltdown into a $4 Billion Masterclass**
+`22 Aug 20:25 PKT` · pehli baar dekhi `22 Aug 20:52` · yahoo_finance
 
 **Ebola continues to spread in the DRC as 16,000 vaccine doses arrive**
 `22 Aug 16:15 PKT` · pehli baar dekhi `22 Aug 16:31` · aljazeera
@@ -697,6 +741,11 @@ On Gaza's shore, 1,300 Palestinian children joined a swimming class to cope with
 `22 Aug 16:00 PKT` · pehli baar dekhi `22 Aug 16:01` · mw_topstories
 
 Tariff refunds have been flowing back to companies since President Donald Trump's levies were rejected by the Supreme Court.
+
+**Tax cuts, school holidays: How countries are fighting high gas prices amid the Iran war - ABC News - Breaking News, Latest News and Videos**
+`22 Aug 15:50 PKT` · pehli baar dekhi `22 Aug 20:52` · gnews_geopolitics
+
+Tax cuts, school holidays: How countries are fighting high gas prices amid the Iran war ABC News - Breaking News, Latest News and Videos
 
 **Iran's Top Politicians Urge an End to the War**
 `22 Aug 14:15 PKT` · pehli baar dekhi `22 Aug 14:17` · wsj_world
@@ -791,11 +840,15 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (159)
+### BINA TAG (164)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 20:25` **yahoo_finance** — Insider Sells Over 17,000 Shares of Utility Stock, Valued at Nearly $700,000
+- `22 Aug 20:23` **yahoo_finance** — How a 77-Year-Old Collects $9,700 a Month Without Selling a Single Share
+- `22 Aug 20:20` **yahoo_finance** — Medical Office Pulls Ahead as General Office Stalls
 - `22 Aug 20:15` **yahoo_finance** — Occupancy Is Not Saving Office Loans From DSCR Stress
+- `22 Aug 20:12` **yahoo_finance** — Deutsche Bank warns markets are pricing in a near-perfect Goldilocks scenario
 - `22 Aug 20:09` **yahoo_finance** — NYC Office REIT Faces Going Concern Doubt on $249M Debt
 - `22 Aug 20:07` **yahoo_finance** — Warren Buffett sends investors 10-word stock market warning
 - `22 Aug 20:05` **yahoo_finance** — When he dies, Warren Buffett wants 90% of wife's inheritance put into 1 investment. Here's what it is, and how to get it
@@ -881,6 +934,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 16:01` **investing_news** — These 3 AI stocks are bought by both hedge funds and mutual funds
 - `22 Aug 15:53` **bbc_business** — Taxi drivers urge council to agree 8% fare hike
 - `22 Aug 15:52` **yahoo_finance** — Intuitive Machines Misses Big on Earnings. Stifel Upgrades It Anyway
+- `22 Aug 15:27` **gnews_fed** — Michael Hudson and Steve Keen: The Federal Reserve, the Constitution, and the End of US Hegemony - InsuranceNewsNet
 - `22 Aug 15:16` **mw_topstories** — 'She's desperate': My friend was laid off and lost her health insurance. How can she find affordable coverage?
 - `22 Aug 15:13` **aljazeera** — More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo
 - `22 Aug 15:13` **aljazeera** — Pakistan's PTI seeks contempt action over jailed Imran Khan's hospital move
@@ -974,7 +1028,7 @@ investing_news (48)
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.7 |
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.7 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
-| actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.0 |
+| actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.1 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.6 |
 | instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.6 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
@@ -983,11 +1037,11 @@ investing_news (48)
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.4 |
-| kitco_general | OK | 12 | 2 | 0 | 2 | 10 | 0.5 |
-| gnews_fed | OK | 64 | 28 | 0 | 28 | 36 | 0.0 |
-| gnews_geopolitics | OK | 83 | 24 | 1 | 23 | 59 | 0.1 |
-| gnews_centralbanks | OK | 55 | 36 | 4 | 32 | 19 | 0.1 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.5 |
+| kitco_general | OK | 13 | 2 | 0 | 2 | 11 | 0.5 |
+| gnews_fed | OK | 51 | 23 | 3 | 20 | 28 | 0.1 |
+| gnews_geopolitics | OK | 83 | 27 | 2 | 25 | 56 | 0.1 |
+| gnews_centralbanks | OK | 57 | 35 | 5 | 30 | 22 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.9 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.8 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
@@ -995,18 +1049,18 @@ investing_news (48)
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.4 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.3 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.7 |
-| oilprice | OK | 15 | 2 | 1 | 1 | 13 | 0.0 |
+| oilprice | OK | 15 | 2 | 0 | 2 | 13 | 0.0 |
 | investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.2 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
 | bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.2 |
 | aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.2 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.3 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.1 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.1 |
 | wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.3 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.6 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 31 | 13 | 18 | 19 | 0.0 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| yahoo_finance | OK | 50 | 30 | 5 | 25 | 20 | 0.0 |
 | mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |

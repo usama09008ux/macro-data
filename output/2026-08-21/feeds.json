@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "22 Aug 20:30",
+  "updated_pkt": "22 Aug 20:52",
   "feeds": [
     {
       "name": "investinglive",
@@ -38,7 +38,7 @@
       "name": "actionforex",
       "status": "OK",
       "fetched": 20,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": "",
       "in_window": 17,
       "new": 0,
@@ -137,7 +137,7 @@
       "name": "cme_risk_management",
       "status": "OK",
       "fetched": 20,
-      "newest_age_days": 9.4,
+      "newest_age_days": 9.5,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -147,24 +147,24 @@
     {
       "name": "kitco_general",
       "status": "OK",
-      "fetched": 12,
+      "fetched": 13,
       "newest_age_days": 0.5,
       "note": "",
       "in_window": 2,
       "new": 0,
       "seen_before": 2,
-      "out_of_window": 10
+      "out_of_window": 11
     },
     {
       "name": "gnews_fed",
       "status": "OK",
-      "fetched": 64,
-      "newest_age_days": 0.0,
+      "fetched": 51,
+      "newest_age_days": 0.1,
       "note": "",
-      "in_window": 28,
-      "new": 0,
-      "seen_before": 28,
-      "out_of_window": 36
+      "in_window": 23,
+      "new": 3,
+      "seen_before": 20,
+      "out_of_window": 28
     },
     {
       "name": "gnews_geopolitics",
@@ -172,21 +172,21 @@
       "fetched": 83,
       "newest_age_days": 0.1,
       "note": "",
-      "in_window": 24,
-      "new": 1,
-      "seen_before": 23,
-      "out_of_window": 59
+      "in_window": 27,
+      "new": 2,
+      "seen_before": 25,
+      "out_of_window": 56
     },
     {
       "name": "gnews_centralbanks",
       "status": "OK",
-      "fetched": 55,
+      "fetched": 57,
       "newest_age_days": 0.1,
       "note": "",
-      "in_window": 36,
-      "new": 4,
-      "seen_before": 32,
-      "out_of_window": 19
+      "in_window": 35,
+      "new": 5,
+      "seen_before": 30,
+      "out_of_window": 22
     },
     {
       "name": "fed_monetary",
@@ -272,8 +272,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 2,
-      "new": 1,
-      "seen_before": 1,
+      "new": 0,
+      "seen_before": 2,
       "out_of_window": 13
     },
     {
@@ -335,7 +335,7 @@
       "name": "boc_press",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 22.2,
+      "newest_age_days": 22.3,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -390,7 +390,7 @@
       "name": "investing_news",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": "",
       "in_window": 10,
       "new": 0,
@@ -403,10 +403,10 @@
       "fetched": 50,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 31,
-      "new": 13,
-      "seen_before": 18,
-      "out_of_window": 19
+      "in_window": 30,
+      "new": 5,
+      "seen_before": 25,
+      "out_of_window": 20
     },
     {
       "name": "mw_topstories",
