@@ -1,9 +1,9 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 18:48 PKT**
-- Kul khabrein: **304**
-- Feeds: 39/39 OK
+- Aakhri update: **22 Aug 19:09 PKT**
+- Kul khabrein: **322**
+- Feeds: 38/39 OK
 
 ---
 
@@ -69,10 +69,11 @@ Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters b
 
 ### USD
 
-**The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC - The Motley Fool**
-`22 Aug 18:16 PKT` · pehli baar dekhi `22 Aug 18:18` · gnews_fed · **2 feeds mein**
+**The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC - Yahoo Finance**
+`22 Aug 18:26 PKT` · pehli baar dekhi `22 Aug 19:09` · gnews_fed · **3 feeds mein**
 
-The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC The Motley Fool
+The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC Yahoo Finance
+  - `22 Aug 18:16` *gnews_fed* — The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC - The Motley Fool
   - `22 Aug 18:26` *yahoo_finance* — The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC
 
 **US Dollar Upside Capped as Treasury Yields Ease, MUFG Says - CryptoRank**
@@ -159,6 +160,11 @@ The Mexican currency appreciates to levels last seen in May 2024 as the USD/MXN 
 `22 Aug 03:12 PKT` · pehli baar dekhi `22 Aug 03:37` · investing_news
 
 ### EUR
+
+**Fans and police injured in pitch invasion during 'high risk' German Cup tie**
+`22 Aug 18:44 PKT` · pehli baar dekhi `22 Aug 19:09` · aljazeera
+
+Waldhof Mannheim and Kaiserslautern game halted for 30 minutes as eight people hospitalised with about 100 injured.
 
 **The Berlin Wall separated his family. Its legacy still endures**
 `22 Aug 17:31 PKT` · pehli baar dekhi `22 Aug 18:18` · aljazeera
@@ -299,6 +305,9 @@ The USD/CHF advanced on Friday, registering a modest 0.07% gain, trading at 0.80
 
 ### CAD
 
+**U.S. Steel Stocks Nucor, Steel Dynamics: Big Winners As Canada Trade Talks Collapse?**
+`22 Aug 18:26 PKT` · pehli baar dekhi `22 Aug 19:09` · yahoo_finance
+
 **How will Trump's tariffs affect Canada's economy?**
 `22 Aug 13:01 PKT` · pehli baar dekhi `22 Aug 13:50` · aljazeera
 
@@ -372,6 +381,11 @@ The Aussie Dollar finished the week with gains of over 0.82% on Friday and up mo
 Speculative sentiment toward the New Zealand dollar has turned slightly less negative, with CFTC NZD net positions improving from -39.6K to -32.6K, according to data updated on 21 August 2026. The move reflects a reduction in overall bearish positioning, even though traders remain net short on the currency.
 
 ### OIL
+
+**Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say - EnergyNow.com**
+`22 Aug 17:52 PKT` · pehli baar dekhi `22 Aug 19:09` · gnews_geopolitics
+
+Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say EnergyNow.com
 
 **Government clarifies that India is importing crude oil from 40 countries including Iran, refutes reports of payment | Akashvani News - News On AIR**
 `22 Aug 16:18 PKT` · pehli baar dekhi `22 Aug 18:18` · gnews_geopolitics
@@ -559,6 +573,14 @@ Health authorities are warning that 'approximately one person has been dying fro
 
 ### RISK
 
+**CTA equity positioning back to pre-Iran levels: BofA**
+`22 Aug 18:47 PKT` · pehli baar dekhi `22 Aug 19:09` · investing_news
+
+**As families retrieve bodies, Gaza is running out of places to bury the dead**
+`22 Aug 18:10 PKT` · pehli baar dekhi `22 Aug 19:09` · aljazeera
+
+Israel&#039;s genocidal war on Gaza has seen thousands of bodies buried in makeshift sites.
+
 **Russian strikes kill 6 people in Ukraine, day after shopping complex attack**
 `22 Aug 17:09 PKT` · pehli baar dekhi `22 Aug 17:36` · aljazeera
 
@@ -672,11 +694,21 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (115)
+### BINA TAG (127)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 18:54` **aljazeera** — Man Utd humiliated at Hull to open Premier League account
+- `22 Aug 18:49` **gnews_centralbanks** — 'Cheaper than fixed rate' mortgage deals 'become more popular' - Daily Express
+- `22 Aug 18:47` **yahoo_finance** — Rocket Lab Trades at 59 Times Revenue With Neutron Still Unflown
+- `22 Aug 18:46` **yahoo_finance** — Upstart's CFO Sold Stock as the Company Returned to Profit. Here's What to Know
+- `22 Aug 18:41` **yahoo_finance** — Custom Health CEO explains pharmacy growth plan – ICYMI
 - `22 Aug 18:35` **aljazeera** — Indonesia bolsters troop numbers to combat Borneo wildfires
+- `22 Aug 18:35` **yahoo_finance** — What the Typical Retirement Saver Over 70 Actually Has Stashed Away
+- `22 Aug 18:33` **yahoo_finance** — Target pledges price cuts as sales grow
+- `22 Aug 18:31` **yahoo_finance** — Here's What to Know About Coach CEO Todd Kahn's Latest Insider Transaction
+- `22 Aug 18:30` **yahoo_finance** — Amazon Stock Is Historically Cheap. Is This a Once-in-a-Decade Buying Opportunity?
+- `22 Aug 18:30` **yahoo_finance** — I make $80,000 a year and Dave Ramsey told me this is why I'm staying broke
 - `22 Aug 18:23` **aljazeera** — Is Trump making Latin America great again?
 - `22 Aug 18:23` **yahoo_finance** — QuantumScape's Chief Legal Officer Disposed of Stock. He Also Recently Acquired Some. Here's What to Know.
 - `22 Aug 18:18` **yahoo_finance** — QuantumScape's CFO Sold 31,095 Shares This Month. Here's What His Numbers Actually Show
@@ -716,8 +748,10 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 16:10` **yahoo_finance** — 'I'm really disgusted': Ohio pair worth $40M want a lake house HELOC — Dave Ramsey says to change their advisor instead
 - `22 Aug 16:09` **investing_news** — World Kinect's 64% surge validates InvestingPro Fair Value analysis
 - `22 Aug 16:02` **investing_news** — InvestingPro's Fair Value spotted TTM's 38% drop before it happened
+- `22 Aug 16:01` **yahoo_finance** — Airbnb Just Hit a Four-Year High. The Downgrade Says That's the Problem.
 - `22 Aug 16:01` **investing_news** — These 3 AI stocks are bought by both hedge funds and mutual funds
 - `22 Aug 15:53` **bbc_business** — Taxi drivers urge council to agree 8% fare hike
+- `22 Aug 15:52` **yahoo_finance** — Intuitive Machines Misses Big on Earnings. Stifel Upgrades It Anyway
 - `22 Aug 15:16` **mw_topstories** — 'She's desperate': My friend was laid off and lost her health insurance. How can she find affordable coverage?
 - `22 Aug 15:13` **aljazeera** — More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo
 - `22 Aug 15:13` **aljazeera** — Pakistan's PTI seeks contempt action over jailed Imran Khan's hospital move
@@ -808,9 +842,9 @@ investing_news (48)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.6 |
+| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.7 |
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.6 |
-| fxstreet_analysis | OK | 30 | 1 | 1 | 0 | 29 | 0.0 |
+| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.0 |
 | actionforex | OK | 20 | 16 | 0 | 16 | 4 | 0.2 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.6 |
 | instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.5 |
@@ -821,13 +855,13 @@ investing_news (48)
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.4 |
-| kitco_general | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
-| gnews_fed | OK | 61 | 22 | 2 | 20 | 39 | 0.0 |
-| gnews_geopolitics | OK | 89 | 21 | 0 | 21 | 68 | 0.1 |
-| gnews_centralbanks | OK | 52 | 27 | 8 | 19 | 25 | 0.0 |
+| kitco_general | OK | 14 | 1 | 0 | 1 | 13 | 0.4 |
+| gnews_fed | OK | 62 | 23 | 1 | 22 | 39 | 0.0 |
+| gnews_geopolitics | OK | 88 | 22 | 1 | 21 | 66 | 0.1 |
+| gnews_centralbanks | OK | 51 | 28 | 1 | 27 | 23 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.8 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.7 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.2 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.8 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.0 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.3 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.2 |
@@ -839,11 +873,11 @@ investing_news (48)
 | aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.2 |
-| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 3.0 |
+| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.0 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.1 |
 | wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.2 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.5 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| yahoo_finance | OK | 50 | 18 | 6 | 12 | 32 | 0.0 |
+| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 23 | 11 | 12 | 27 | 0.0 |
 | mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 1 | 1 | 0 | 29 | 0.0 |
+| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.0 |
