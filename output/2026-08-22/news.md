@@ -1,9 +1,9 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 22:35 PKT**
-- Kul khabrein: **451**
-- Feeds: 37/39 OK
+- Aakhri update: **22 Aug 22:56 PKT**
+- Kul khabrein: **458**
+- Feeds: 38/39 OK
 
 ---
 
@@ -77,10 +77,15 @@ Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters b
 
 ### USD
 
+**Treasury Yields Have Surged. Is It Finally Time to Buy Bond ETFs?**
+`22 Aug 22:35 PKT` · pehli baar dekhi `22 Aug 22:56` · yahoo_finance
+
 **This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. - The Motley Fool**
-`22 Aug 22:20 PKT` · pehli baar dekhi `22 Aug 22:35` · gnews_fed
+`22 Aug 22:20 PKT` · pehli baar dekhi `22 Aug 22:35` · gnews_fed · **3 feeds mein**
 
 This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. The Motley Fool
+  - `22 Aug 22:20` *gnews_fed* — This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. - Yahoo Finance
+  - `22 Aug 22:20` *yahoo_finance* — This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh.
 
 **Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive**
 `22 Aug 21:00 PKT` · pehli baar dekhi `22 Aug 21:20` · yahoo_finance
@@ -226,6 +231,11 @@ The Mexican currency appreciates to levels last seen in May 2024 as the USD/MXN 
 `22 Aug 22:30 PKT` · pehli baar dekhi `22 Aug 22:35` · gnews_centralbanks
 
 Eurozone business activity growing at fast pace: PMIs Kuwait Times
+
+**EUR/USD Forecast: Euro Maintains Strong Momentum Following the Release of the Fed Minutes - FOREX.com**
+`22 Aug 21:02 PKT` · pehli baar dekhi `22 Aug 22:56` · gnews_fed
+
+EUR/USD Forecast: Euro Maintains Strong Momentum Following the Release of the Fed Minutes FOREX.com
 
 **Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine**
 `22 Aug 20:30 PKT` · pehli baar dekhi `22 Aug 20:52` · aljazeera
@@ -525,6 +535,11 @@ Southeast Asia needs to invest heavily in upgrading and modernising its transmis
 `22 Aug 18:16 PKT` · pehli baar dekhi `22 Aug 21:47` · gnews_geopolitics
 
 Barclays Sees 13–14 Million bpd Oil Supply Loss From Prolonged Hormuz Disruption EnergyNow
+
+**Morgan Stanley Maintains Oil Price Forecasts and Predicts Slow Recovery in Supply - EnergyNow.com**
+`22 Aug 18:09 PKT` · pehli baar dekhi `22 Aug 22:56` · gnews_geopolitics
+
+Morgan Stanley Maintains Oil Price Forecasts and Predicts Slow Recovery in Supply EnergyNow.com
 
 **Kuwait Cuts Oil Production as Precaution Amid Iran Tensions, KPC Says - EnergyNow**
 `22 Aug 18:08 PKT` · pehli baar dekhi `22 Aug 22:35` · gnews_geopolitics
@@ -947,10 +962,11 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (196)
+### BINA TAG (198)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 22:32` **yahoo_finance** — Let's Be Real. For Most Retirees, Only One Great Lake Town Actually Works
 - `22 Aug 22:17` **yahoo_finance** — Comcast adds new service to internet plans as customers leave
 - `22 Aug 22:12` **yahoo_finance** — After Exploding by 18% in One Day, Is XRP a Buy?
 - `22 Aug 22:08` **wsj_world** — Ride Shotgun in a Corvette on D.C.'s Freedom 250 IndyCar Track
@@ -1098,6 +1114,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 10:56` **investing_news** — Reform UK infighting complicates Farage's push to prepare party to govern
 - `22 Aug 10:36` **aljazeera** — China's new moon mission could unlock secret of lunar ice: Why that matters
 - `22 Aug 10:35` **aljazeera** — 'It was a tsunami': Floods leave death trail in India's Assam
+- `22 Aug 10:11` **gnews_centralbanks** — UK PMIs beat forecasts as Middle East tensions ease, lifting business sentiment - CryptoRank
 - `22 Aug 09:40` **investing_news** — Pentagon removes Stars and Stripes newspaper leadership
 - `22 Aug 09:36` **aljazeera** — Inundated Philippine communities seek answers over flood control funds
 - `22 Aug 09:31` **kitco_general** — Videos - KITCO
@@ -1169,40 +1186,37 @@ investing_news (48), yahoo_finance (1)
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
 | actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.1 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.7 |
-| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.7 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.5 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.5 |
 | kitco_general | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
-| gnews_fed | OK | 24 | 13 | 1 | 12 | 11 | 0.0 |
-| gnews_geopolitics | OK | 84 | 36 | 4 | 32 | 48 | 0.1 |
-| gnews_centralbanks | OK | 50 | 38 | 2 | 36 | 12 | 0.0 |
+| gnews_fed | OK | 47 | 28 | 2 | 26 | 19 | 0.0 |
+| gnews_geopolitics | OK | 82 | 37 | 1 | 36 | 45 | 0.1 |
+| gnews_centralbanks | OK | 54 | 42 | 1 | 41 | 12 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.0 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.9 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.2 |
-| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.4 |
+| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.5 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.4 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.8 |
 | oilprice | OK | 15 | 3 | 0 | 3 | 12 | 0.0 |
-| investing_commodities | OK | 10 | 6 | 1 | 5 | 4 | 0.0 |
+| investing_commodities | OK | 10 | 6 | 0 | 6 | 4 | 0.0 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
 | bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.3 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | -0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.3 |
-| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.1 |
+| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.4 |
+| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.2 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.2 |
-| wsj_world | OK | 72 | 7 | 1 | 6 | 65 | 0.0 |
-| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.6 |
-| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 31 | 6 | 25 | 18 | 0.0 |
+| wsj_world | OK | 72 | 7 | 0 | 7 | 65 | 0.0 |
+| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.7 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 31 | 3 | 28 | 18 | 0.0 |
 | mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
-
-**Jo feeds nahi aaye:**
-- instaforex — FAIL, koi item nahi
