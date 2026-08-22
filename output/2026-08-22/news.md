@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 20:52 PKT**
-- Kul khabrein: **393**
+- Aakhri update: **22 Aug 21:20 PKT**
+- Kul khabrein: **410**
 - Feeds: 38/39 OK
 
 ---
@@ -49,6 +49,9 @@ Nasdaq and S&P indices are settling between risk/bias defining MAs as the week c
 
 ### GOLD
 
+**Gold, Silver, and Copper Are Rebounding in August. Here's One Stock to Invest in to Own All of Them.**
+`22 Aug 20:50 PKT` · pehli baar dekhi `22 Aug 21:20` · yahoo_finance
+
 **Why an announcement from the Treasury sparked a rally in gold and bitcoin this week**
 `22 Aug 18:00 PKT` · pehli baar dekhi `22 Aug 18:18` · mw_topstories
 
@@ -73,6 +76,9 @@ Speculative interest in gold futures has strengthened in the United States, with
 Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters bullish majority with Warsh, PCE in focus KITCO
 
 ### USD
+
+**Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive**
+`22 Aug 21:00 PKT` · pehli baar dekhi `22 Aug 21:20` · yahoo_finance
 
 **Fed Approves NatWest Office in Connecticut - stl.news**
 `22 Aug 19:40 PKT` · pehli baar dekhi `22 Aug 19:59` · gnews_fed
@@ -243,6 +249,18 @@ EUR/USD&#8217;s rally from 1.1323 extended further to 1.1710 last week but turne
 
 How banks fund themselves affects the reach of ECB rate decisions, study finds Cyprus Mail
 
+**Weak Dollar Backs Near-Term Upside in EUR/USD, Say Analysts - CryptoRank**
+`22 Aug 10:20 PKT` · pehli baar dekhi `22 Aug 21:20` · gnews_fed · **3 feeds mein**
+
+Weak Dollar Backs Near-Term Upside in EUR/USD, Say Analysts CryptoRank
+  - `22 Aug 04:37` *gnews_fed* — Weak Dollar Backs Near-Term Upside in EUR/USD, Say Analysts - CryptoRank
+  - `22 Aug 03:00` *gnews_centralbanks* — Weak Dollar Backs Near-Term Upside In EUR/USD, Say Analysts - Bitcoin World
+
+**Eurozone Manufacturing PMI Unexpectedly Climbs to 52.8 in August, Signaling Renewed Expansion - CryptoRank**
+`22 Aug 09:38 PKT` · pehli baar dekhi `22 Aug 21:20` · gnews_centralbanks
+
+Eurozone Manufacturing PMI Unexpectedly Climbs to 52.8 in August, Signaling Renewed Expansion CryptoRank
+
 **Eurozone Business Activity Beats Forecasts as HCOB Composite PMI Hits 52.1 in August - CryptoRank**
 `22 Aug 09:07 PKT` · pehli baar dekhi `22 Aug 19:59` · gnews_centralbanks
 
@@ -257,12 +275,6 @@ Euro Area PMIs Point to Resilient Growth, Nomura Says CryptoRank
 `22 Aug 07:00 PKT` · pehli baar dekhi `22 Aug 20:30` · gnews_centralbanks
 
 Experts agree: Weak Dollar backs near-term upside in EUR/USD tmgm.com
-
-**Weak Dollar Backs Near-Term Upside in EUR/USD, Say Analysts - CryptoRank**
-`22 Aug 04:37 PKT` · pehli baar dekhi `22 Aug 06:43` · gnews_fed · **2 feeds mein**
-
-Weak Dollar Backs Near-Term Upside in EUR/USD, Say Analysts CryptoRank
-  - `22 Aug 03:00` *gnews_centralbanks* — Weak Dollar Backs Near-Term Upside In EUR/USD, Say Analysts - Bitcoin World
 
 **Speculators Trim Bearish Euro Bets as CFTC Net Shorts Inch Higher**
 `22 Aug 04:34 PKT` · instaforex
@@ -298,6 +310,11 @@ GBP/USD&#8217;s rise form 1.3139 resumed by breaking through 1.3557 decisively l
 British Pound Holds Firm Despite Mixed UK Data, Says BBH CryptoRank
 
 ### JPY
+
+**Walk-In "Human Fridges" are Japan's newest heatwave weapon**
+`22 Aug 20:48 PKT` · pehli baar dekhi `22 Aug 21:20` · aljazeera
+
+Designed to stop heatstroke in its tracks, the "Do Hiemon Box" delivers rapid, targeted cooling during extreme weather.
 
 **Hawkish BoJ Bets Underpin Japanese Yen vs. US Dollar: Expert Analysis - CryptoRank**
 `22 Aug 18:14 PKT` · pehli baar dekhi `22 Aug 18:48` · gnews_centralbanks
@@ -511,6 +528,11 @@ The situation is unprecedented! Here are the biggest oil supply disruptions in h
 
 Iran Opens Hormuz Route for Iraq Oil Ships: What It Means for Indian Fuel Prices Dynamite News
 
+**How the US and Middle East allies flipped the oil script on Iran - CNN**
+`22 Aug 14:00 PKT` · pehli baar dekhi `22 Aug 21:20` · gnews_geopolitics
+
+How the US and Middle East allies flipped the oil script on Iran CNN
+
 **A turbulent week for the global oil market. - Vietnam.vn**
 `22 Aug 13:55 PKT` · pehli baar dekhi `22 Aug 14:17` · gnews_geopolitics
 
@@ -701,6 +723,14 @@ Health authorities are warning that 'approximately one person has been dying fro
 
 ### RISK
 
+**US, Iran trade threats as new sanctions loom - Pakistan Today**
+`22 Aug 21:07 PKT` · pehli baar dekhi `22 Aug 21:20` · gnews_geopolitics
+
+US, Iran trade threats as new sanctions loom Pakistan Today
+
+**Putin says Ukraine opened 'Pandora's box' with strikes on economic targets**
+`22 Aug 21:06 PKT` · pehli baar dekhi `22 Aug 21:20` · investing_commodities
+
 **Next chapter of U.S.-Canada Trade War: What We Know and Don't About Section 338 Tariffs**
 `22 Aug 19:33 PKT` · pehli baar dekhi `22 Aug 19:38` · actionforex
 
@@ -721,6 +751,11 @@ Iran says production is ongoing, but details will not be revealed during war con
 `22 Aug 18:10 PKT` · pehli baar dekhi `22 Aug 19:09` · aljazeera
 
 Israel&#039;s genocidal war on Gaza has seen thousands of bodies buried in makeshift sites.
+
+**Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says - EnergyNow.com**
+`22 Aug 17:44 PKT` · pehli baar dekhi `22 Aug 21:20` · gnews_geopolitics
+
+Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says EnergyNow.com
 
 **Russian strikes kill 6 people in Ukraine, day after shopping complex attack**
 `22 Aug 17:09 PKT` · pehli baar dekhi `22 Aug 17:36` · aljazeera
@@ -840,10 +875,18 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (164)
+### BINA TAG (172)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 21:00` **mw_topstories** — 'I'm running out of time': I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?
+- `22 Aug 20:59` **yahoo_finance** — How a 53-Year-Old Can Turn $465,000 Into a Monthly Paycheck Machine by 63
+- `22 Aug 20:52` **yahoo_finance** — Alphabet, Meta, and Microsoft Are Hiding $3 Trillion in Debt On the AI Boom's Hidden Ledger
+- `22 Aug 20:48` **yahoo_finance** — Alphabet Could Own 7% of Marvell — But Here's What Google Has to Do to Get It
+- `22 Aug 20:46` **aljazeera** — Did DOGE cuts make America's food safety problem worse?
+- `22 Aug 20:45` **aljazeera** — Settlers target Palestinian homes in Occupied West Bank's Area B
+- `22 Aug 20:40` **yahoo_finance** — Pinterest Insider Dumps Nearly 94,000 Shares, After Stock Drops by 33% Over Last Year
+- `22 Aug 20:30` **yahoo_finance** — Nvidia Stock Doesn't Look as Expensive as You Think
 - `22 Aug 20:25` **yahoo_finance** — Insider Sells Over 17,000 Shares of Utility Stock, Valued at Nearly $700,000
 - `22 Aug 20:23` **yahoo_finance** — How a 77-Year-Old Collects $9,700 a Month Without Selling a Single Share
 - `22 Aug 20:20` **yahoo_finance** — Medical Office Pulls Ahead as General Office Stalls
@@ -1025,13 +1068,13 @@ investing_news (48)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.7 |
+| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.8 |
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.7 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
 | actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.1 |
-| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.6 |
+| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.7 |
 | instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.6 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.5 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
@@ -1039,9 +1082,9 @@ investing_news (48)
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.5 |
 | kitco_general | OK | 13 | 2 | 0 | 2 | 11 | 0.5 |
-| gnews_fed | OK | 51 | 23 | 3 | 20 | 28 | 0.1 |
-| gnews_geopolitics | OK | 83 | 27 | 2 | 25 | 56 | 0.1 |
-| gnews_centralbanks | OK | 57 | 35 | 5 | 30 | 22 | 0.1 |
+| gnews_fed | OK | 57 | 27 | 1 | 26 | 30 | 0.1 |
+| gnews_geopolitics | OK | 84 | 28 | 3 | 25 | 56 | 0.0 |
+| gnews_centralbanks | OK | 48 | 35 | 1 | 34 | 13 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.9 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.8 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
@@ -1049,18 +1092,18 @@ investing_news (48)
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.4 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.3 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.7 |
-| oilprice | OK | 15 | 2 | 0 | 2 | 13 | 0.0 |
-| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.2 |
+| oilprice | OK | 15 | 2 | 0 | 2 | 13 | 0.1 |
+| investing_commodities | OK | 10 | 5 | 1 | 4 | 5 | 0.0 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
 | bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.2 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.3 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.1 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.1 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.2 |
 | wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.3 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.6 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| yahoo_finance | OK | 50 | 30 | 5 | 25 | 20 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 31 | 7 | 24 | 19 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
