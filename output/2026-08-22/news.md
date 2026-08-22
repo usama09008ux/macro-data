@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 19:09 PKT**
-- Kul khabrein: **322**
+- Aakhri update: **22 Aug 19:38 PKT**
+- Kul khabrein: **345**
 - Feeds: 38/39 OK
 
 ---
@@ -25,6 +25,11 @@ Swiss Franc Slides As Dollar Rebounds; Traders Eye FOMC Minutes Bitcoin World
 `22 Aug 16:15 PKT` · pehli baar dekhi `22 Aug 17:36` · gnews_centralbanks
 
 UK Inflation Holds At 2.9% In July, Matching Expectations; BoE Rate Cut Hopes Persist Bitcoin World
+
+**Hawkish BoJ Bets Underpin Japanese Yen Vs. US Dollar: Expert Analysis - Bitcoin World**
+`22 Aug 15:40 PKT` · pehli baar dekhi `22 Aug 19:38` · gnews_centralbanks
+
+Hawkish BoJ Bets Underpin Japanese Yen Vs. US Dollar: Expert Analysis Bitcoin World
 
 **FX markets and central banks Overview - USD/CAD - AUD/USD**
 `22 Aug 05:18 PKT` · pehli baar dekhi `22 Aug 06:43` · marketpulse
@@ -69,6 +74,14 @@ Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters b
 
 ### USD
 
+**America In Focus: Fed officials eye higher rates; unemployment claims fall - New Haven Register**
+`22 Aug 19:30 PKT` · pehli baar dekhi `22 Aug 19:38` · gnews_fed
+
+America In Focus: Fed officials eye higher rates; unemployment claims fall New Haven Register
+
+**Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock**
+`22 Aug 19:20 PKT` · pehli baar dekhi `22 Aug 19:38` · yahoo_finance
+
 **The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Chair Kevin Warsh and the FOMC - Yahoo Finance**
 `22 Aug 18:26 PKT` · pehli baar dekhi `22 Aug 19:09` · gnews_fed · **3 feeds mein**
 
@@ -80,6 +93,11 @@ The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Cha
 `22 Aug 15:18 PKT` · pehli baar dekhi `22 Aug 18:18` · gnews_fed
 
 US Dollar Upside Capped as Treasury Yields Ease, MUFG Says CryptoRank
+
+**Fed's Hawkish Minutes and Rising Yields Shake Markets Despite Mixed Data - InteractiveCrypto**
+`22 Aug 15:08 PKT` · pehli baar dekhi `22 Aug 19:38` · gnews_fed
+
+Fed's Hawkish Minutes and Rising Yields Shake Markets Despite Mixed Data InteractiveCrypto
 
 **Dollar Index Faces Structural Breakdown Toward 90, EUR/USD Eyes 1.20 Breakout**
 `22 Aug 14:40 PKT` · pehli baar dekhi `22 Aug 14:47` · actionforex
@@ -147,9 +165,10 @@ US Services Sector Growth Accelerates as PMI Hits 56.8 in August, Beating Foreca
 US Treasury Yields Rebound As Services PMI Beats Estimates Bitcoin World
 
 **US Treasury yields extend rebound as Services PMI beats estimates**
-`22 Aug 03:38 PKT` · pehli baar dekhi `22 Aug 03:59` · fxstreet_news
+`22 Aug 03:38 PKT` · pehli baar dekhi `22 Aug 03:59` · fxstreet_news · **2 feeds mein**
 
 US Treasury yields continue their recovery following the announcement of a bond buyback by the US Department of the Treasury, while data reveal that business activity remains solid despite a slowdown in manufacturing.
+  - `22 Aug 09:51` *gnews_fed* — US Treasury Yields Rebound as Services PMI Beats Estimates - CryptoRank
 
 **Mexican Peso reaches two-year high despite weaker Retail Sales**
 `22 Aug 03:22 PKT` · pehli baar dekhi `22 Aug 03:37` · fxstreet_news
@@ -194,9 +213,10 @@ How banks fund themselves affects the reach of ECB rate decisions, study finds C
 Euro Area PMIs Point to Resilient Growth, Nomura Says CryptoRank
 
 **Weak Dollar Backs Near-Term Upside in EUR/USD, Say Analysts - CryptoRank**
-`22 Aug 04:37 PKT` · pehli baar dekhi `22 Aug 06:43` · gnews_fed
+`22 Aug 04:37 PKT` · pehli baar dekhi `22 Aug 06:43` · gnews_fed · **2 feeds mein**
 
 Weak Dollar Backs Near-Term Upside in EUR/USD, Say Analysts CryptoRank
+  - `22 Aug 03:00` *gnews_centralbanks* — Weak Dollar Backs Near-Term Upside In EUR/USD, Say Analysts - Bitcoin World
 
 **Speculators Trim Bearish Euro Bets as CFTC Net Shorts Inch Higher**
 `22 Aug 04:34 PKT` · instaforex
@@ -237,6 +257,11 @@ British Pound Holds Firm Despite Mixed UK Data, Says BBH CryptoRank
 `22 Aug 18:14 PKT` · pehli baar dekhi `22 Aug 18:48` · gnews_centralbanks
 
 Hawkish BoJ Bets Underpin Japanese Yen vs. US Dollar: Expert Analysis CryptoRank
+
+**Japanese Bank Stocks Gaining From Higher Rates ուշադրություն - simplywall.st**
+`22 Aug 16:36 PKT` · pehli baar dekhi `22 Aug 19:38` · gnews_centralbanks
+
+Japanese Bank Stocks Gaining From Higher Rates ուշադրություն simplywall.st
 
 **Dollar steadies near 159 yen as Bank of Japan hike bets rise, US PMIs support greenback - VT Markets**
 `22 Aug 15:15 PKT` · pehli baar dekhi `22 Aug 17:36` · gnews_centralbanks
@@ -501,6 +526,12 @@ UK Unemployment Rises To 4.9% In June, Exceeding Forecasts As Labor Market Cools
 
 Pound Drops Against Yen As UK Wage Growth Cools, Boosting Rate-Cut Bets Bitcoin World
 
+**Bitcoin Price Forecast: BTC Nears Key 50-Day EMA as FOMC Minutes Loom - CryptoRank**
+`22 Aug 17:25 PKT` · pehli baar dekhi `22 Aug 19:38` · gnews_fed · **2 feeds mein**
+
+Bitcoin Price Forecast: BTC Nears Key 50-Day EMA as FOMC Minutes Loom CryptoRank
+  - `22 Aug 15:00` *gnews_fed* — Bitcoin Price Forecast: BTC Nears Key 50-Day EMA As FOMC Minutes Loom - Bitcoin World
+
 **Pound slides to fresh lows near 1.3520 as mixed UK employment data fuels BoE rate cut bets - Bitcoin World**
 `22 Aug 17:05 PKT` · pehli baar dekhi `22 Aug 17:36` · gnews_centralbanks
 
@@ -518,11 +549,6 @@ Pound Steady As UK Inflation Ticks Up As Expected, Core Pressures Remain Bitcoin
 
 **Bitcoin holds above $77,000 after Treasury-fuelled short squeeze**
 `22 Aug 15:01 PKT` · pehli baar dekhi `22 Aug 15:41` · investing_news
-
-**Bitcoin Price Forecast: BTC Nears Key 50-Day EMA As FOMC Minutes Loom - Bitcoin World**
-`22 Aug 15:00 PKT` · pehli baar dekhi `22 Aug 15:41` · gnews_fed
-
-Bitcoin Price Forecast: BTC Nears Key 50-Day EMA As FOMC Minutes Loom Bitcoin World
 
 **ECB's Rehn: Anchored Inflation Expectations Are Key To Policy Credibility - Bitcoin World**
 `22 Aug 14:50 PKT` · pehli baar dekhi `22 Aug 15:41` · gnews_centralbanks
@@ -543,6 +569,11 @@ CoinShares Expects Bitcoin to Remain Below $80,000 Until Fed Policy Becomes Clea
 `22 Aug 08:50 PKT` · pehli baar dekhi `22 Aug 16:01` · gnews_centralbanks
 
 UK Retail Sales Dip 0.5% In July As Consumer Spending Cools Bitcoin World
+
+**UK Retail Sales Growth Slows To 1.6% In July, Missing Forecasts - Bitcoin World**
+`22 Aug 08:45 PKT` · pehli baar dekhi `22 Aug 19:38` · gnews_centralbanks
+
+UK Retail Sales Growth Slows To 1.6% In July, Missing Forecasts Bitcoin World
 
 **Euro Holds Gains Against Pound After UK Retail Sales Disappoint - Bitcoin World**
 `22 Aug 08:20 PKT` · pehli baar dekhi `22 Aug 10:16` · gnews_centralbanks
@@ -572,6 +603,16 @@ BNY: Fed's High Intervention Bar And Backstop Doubts Signal Cautious Stance Bitc
 Health authorities are warning that 'approximately one person has been dying from Ebola every thirty minutes'.
 
 ### RISK
+
+**Next chapter of U.S.-Canada Trade War: What We Know and Don't About Section 338 Tariffs**
+`22 Aug 19:33 PKT` · pehli baar dekhi `22 Aug 19:38` · actionforex
+
+With no last-minute deal to avoid new section 338 tariffs, new tariffs have now officially taken effect on another subset of U.S. imports from Canada. As we noted previously, the measures apply a 50% tariff rate on U.S. imports accounting for about 5% of Canadian exports to the United States – adding to existing tariffs [&#8230;] The post Next chapter of U.S.-Canada Trade War: What We Know and Don't About Section 338 Tariffs appeared first on ActionForex.
+
+**What did war with the US reveal about Iran's weapons capabilities?**
+`22 Aug 19:19 PKT` · pehli baar dekhi `22 Aug 19:38` · aljazeera
+
+Iran says production is ongoing, but details will not be revealed during war conditions.
 
 **CTA equity positioning back to pre-Iran levels: BofA**
 `22 Aug 18:47 PKT` · pehli baar dekhi `22 Aug 19:09` · investing_news
@@ -694,11 +735,22 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (127)
+### BINA TAG (139)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 19:20` **yahoo_finance** — The CMBS Maturity Wall Hides a Sharp Refinancing Reset
+- `22 Aug 19:15` **yahoo_finance** — JPMREIT's First Office Buy Lags Its Industrial Portfolio
+- `22 Aug 19:09` **yahoo_finance** — Invesco Cuts Fees 20% to Stem Property Fund Redemptions
+- `22 Aug 19:05` **yahoo_finance** — CRE Borrowing Costs Stall as SOFR Finds a Floor in Q2
+- `22 Aug 19:05` **yahoo_finance** — Peter Lynch Beat the S&P 500 in 11 of His 13 Years Running Magellan. Here's Why He Says "Turning Over the Most Rocks" Is the Key to Winning.
+- `22 Aug 19:01` **yahoo_finance** — Madison Air Solutions to Buy ebm-papst in $5.8B Deal, Expanding Global Airflow Reach
+- `22 Aug 19:00` **yahoo_finance** — This Stock Is Quietly Becoming an AI Powerhouse in 2026
+- `22 Aug 19:00` **yahoo_finance** — Arbor Realty, Icahn Enterprises and Herzfeld: 3 Unconventional High Yield Bets
+- `22 Aug 19:00` **yahoo_finance** — BlackRock CEO Larry Fink says a bank account is 'one of the worst financial decisions' — and urges Americans to invest
 - `22 Aug 18:54` **aljazeera** — Man Utd humiliated at Hull to open Premier League account
+- `22 Aug 18:51` **yahoo_finance** — Americans are Turning Against AI — Anthropic Says It Could Hurt IPO
+- `22 Aug 18:50` **yahoo_finance** — Why I Think the Best Dividend Stock Isn't a Tech Name: It's Realty Income
 - `22 Aug 18:49` **gnews_centralbanks** — 'Cheaper than fixed rate' mortgage deals 'become more popular' - Daily Express
 - `22 Aug 18:47` **yahoo_finance** — Rocket Lab Trades at 59 Times Revenue With Neutron Still Unflown
 - `22 Aug 18:46` **yahoo_finance** — Upstart's CFO Sold Stock as the Company Returned to Profit. Here's What to Know
@@ -709,6 +761,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 18:31` **yahoo_finance** — Here's What to Know About Coach CEO Todd Kahn's Latest Insider Transaction
 - `22 Aug 18:30` **yahoo_finance** — Amazon Stock Is Historically Cheap. Is This a Once-in-a-Decade Buying Opportunity?
 - `22 Aug 18:30` **yahoo_finance** — I make $80,000 a year and Dave Ramsey told me this is why I'm staying broke
+- `22 Aug 18:26` **gnews_geopolitics** — Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News
 - `22 Aug 18:23` **aljazeera** — Is Trump making Latin America great again?
 - `22 Aug 18:23` **yahoo_finance** — QuantumScape's Chief Legal Officer Disposed of Stock. He Also Recently Acquired Some. Here's What to Know.
 - `22 Aug 18:18` **yahoo_finance** — QuantumScape's CFO Sold 31,095 Shares This Month. Here's What His Numbers Actually Show
@@ -844,8 +897,8 @@ investing_news (48)
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.7 |
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.6 |
-| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.0 |
-| actionforex | OK | 20 | 16 | 0 | 16 | 4 | 0.2 |
+| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
+| actionforex | OK | 20 | 17 | 1 | 16 | 3 | 0.0 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.6 |
 | instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.5 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
@@ -855,29 +908,29 @@ investing_news (48)
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.4 |
-| kitco_general | OK | 14 | 1 | 0 | 1 | 13 | 0.4 |
-| gnews_fed | OK | 62 | 23 | 1 | 22 | 39 | 0.0 |
-| gnews_geopolitics | OK | 88 | 22 | 1 | 21 | 66 | 0.1 |
-| gnews_centralbanks | OK | 51 | 28 | 1 | 27 | 23 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.8 |
+| kitco_general | OK | 14 | 2 | 0 | 2 | 12 | 0.4 |
+| gnews_fed | OK | 65 | 27 | 4 | 23 | 38 | 0.0 |
+| gnews_geopolitics | OK | 89 | 23 | 1 | 22 | 66 | 0.1 |
+| gnews_centralbanks | OK | 52 | 31 | 4 | 27 | 21 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.9 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.8 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.0 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.1 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.3 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.2 |
-| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.6 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.7 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
 | investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.1 |
-| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.2 |
+| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.2 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.0 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.1 |
 | wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.2 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.5 |
-| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 23 | 11 | 12 | 27 | 0.0 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 28 | 12 | 16 | 22 | 0.0 |
 | mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.0 |
