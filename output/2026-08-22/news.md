@@ -1,9 +1,9 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 22:08 PKT**
-- Kul khabrein: **433**
-- Feeds: 38/39 OK
+- Aakhri update: **22 Aug 22:35 PKT**
+- Kul khabrein: **451**
+- Feeds: 37/39 OK
 
 ---
 
@@ -76,6 +76,11 @@ Speculative interest in gold futures has strengthened in the United States, with
 Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters bullish majority with Warsh, PCE in focus KITCO
 
 ### USD
+
+**This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. - The Motley Fool**
+`22 Aug 22:20 PKT` · pehli baar dekhi `22 Aug 22:35` · gnews_fed
+
+This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. The Motley Fool
 
 **Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive**
 `22 Aug 21:00 PKT` · pehli baar dekhi `22 Aug 21:20` · yahoo_finance
@@ -217,6 +222,11 @@ The Mexican currency appreciates to levels last seen in May 2024 as the USD/MXN 
 
 ### EUR
 
+**Eurozone business activity growing at fast pace: PMIs - Kuwait Times**
+`22 Aug 22:30 PKT` · pehli baar dekhi `22 Aug 22:35` · gnews_centralbanks
+
+Eurozone business activity growing at fast pace: PMIs Kuwait Times
+
 **Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine**
 `22 Aug 20:30 PKT` · pehli baar dekhi `22 Aug 20:52` · aljazeera
 
@@ -226,6 +236,11 @@ An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-
 `22 Aug 18:44 PKT` · pehli baar dekhi `22 Aug 19:09` · aljazeera
 
 Waldhof Mannheim and Kaiserslautern game halted for 30 minutes as eight people hospitalised with about 100 injured.
+
+**Germany's Producer Prices Rise 1.1% in July, Exceeding Forecasts - CryptoRank**
+`22 Aug 17:36 PKT` · pehli baar dekhi `22 Aug 22:35` · gnews_centralbanks
+
+Germany's Producer Prices Rise 1.1% in July, Exceeding Forecasts CryptoRank
 
 **The Berlin Wall separated his family. Its legacy still endures**
 `22 Aug 17:31 PKT` · pehli baar dekhi `22 Aug 18:18` · aljazeera
@@ -511,6 +526,11 @@ Southeast Asia needs to invest heavily in upgrading and modernising its transmis
 
 Barclays Sees 13–14 Million bpd Oil Supply Loss From Prolonged Hormuz Disruption EnergyNow
 
+**Kuwait Cuts Oil Production as Precaution Amid Iran Tensions, KPC Says - EnergyNow**
+`22 Aug 18:08 PKT` · pehli baar dekhi `22 Aug 22:35` · gnews_geopolitics
+
+Kuwait Cuts Oil Production as Precaution Amid Iran Tensions, KPC Says EnergyNow
+
 **Iran Cut Back Oil Production by 400,000 bpd, US Energy Secretary Says - EnergyNow**
 `22 Aug 17:55 PKT` · pehli baar dekhi `22 Aug 20:30` · gnews_geopolitics
 
@@ -525,6 +545,11 @@ Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say En
 `22 Aug 17:27 PKT` · pehli baar dekhi `22 Aug 20:52` · gnews_geopolitics
 
 Oil Falls After Iraq Resumes Oil Exports via Turkey's Ceyhan Port EnergyNow
+
+**Brent Crude Oil Price Jumps After Attack on Iran's South Pars Field - EnergyNow.com**
+`22 Aug 17:22 PKT` · pehli baar dekhi `22 Aug 22:35` · gnews_geopolitics
+
+Brent Crude Oil Price Jumps After Attack on Iran's South Pars Field EnergyNow.com
 
 **Government clarifies that India is importing crude oil from 40 countries including Iran, refutes reports of payment | Akashvani News - News On AIR**
 `22 Aug 16:18 PKT` · pehli baar dekhi `22 Aug 18:18` · gnews_geopolitics
@@ -619,6 +644,9 @@ Speculative sentiment in the U.S. crude oil market strengthened notably, as the 
 China's energy strategy has largely shielded it from the fallout of the war in Iran and the resultant closure of the Strait of Hormuz, a vital artery for global oil and gas trade. However, the country's newest five-year plan for its oil and gas sector reveals ongoing anxieties about geopolitical tensions, future conflicts, reliance on energy imports, and the country's dwindling crude supplies.
 
 ### CRYPTO
+
+**Monthly market brief: equities, bonds, crypto, and commodities in August 2026**
+`22 Aug 21:53 PKT` · pehli baar dekhi `22 Aug 22:35` · investing_news
 
 **US Treasury bond intervention challenges Fed's monetary policy stability - Crypto Briefing**
 `22 Aug 18:37 PKT` · pehli baar dekhi `22 Aug 18:48` · gnews_fed
@@ -749,6 +777,9 @@ Health authorities are warning that 'approximately one person has been dying fro
 
 ### RISK
 
+**Iran condemns US plans to announce new sanctions**
+`22 Aug 22:18 PKT` · pehli baar dekhi `22 Aug 22:35` · investing_commodities
+
 **US, Iran trade threats as new sanctions loom - Pakistan Today**
 `22 Aug 21:07 PKT` · pehli baar dekhi `22 Aug 21:20` · gnews_geopolitics
 
@@ -756,6 +787,11 @@ US, Iran trade threats as new sanctions loom Pakistan Today
 
 **Putin says Ukraine opened 'Pandora's box' with strikes on economic targets**
 `22 Aug 21:06 PKT` · pehli baar dekhi `22 Aug 21:20` · investing_commodities
+
+**China buys 80% of Iran's shipped oil: Why US sanctions could put Beijing in a bind - financialexpress.com**
+`22 Aug 20:17 PKT` · pehli baar dekhi `22 Aug 22:35` · gnews_geopolitics
+
+China buys 80% of Iran's shipped oil: Why US sanctions could put Beijing in a bind financialexpress.com
 
 **Next chapter of U.S.-Canada Trade War: What We Know and Don't About Section 338 Tariffs**
 `22 Aug 19:33 PKT` · pehli baar dekhi `22 Aug 19:38` · actionforex
@@ -772,6 +808,11 @@ Iran says production is ongoing, but details will not be revealed during war con
 
 **CTA equity positioning back to pre-Iran levels: BofA**
 `22 Aug 18:47 PKT` · pehli baar dekhi `22 Aug 19:09` · investing_news
+
+**Donald Trump escalates pressure on Iran with new sanctions and blockade - Crypto Briefing**
+`22 Aug 18:39 PKT` · pehli baar dekhi `22 Aug 22:35` · gnews_geopolitics
+
+Donald Trump escalates pressure on Iran with new sanctions and blockade Crypto Briefing
 
 **As families retrieve bodies, Gaza is running out of places to bury the dead**
 `22 Aug 18:10 PKT` · pehli baar dekhi `22 Aug 19:09` · aljazeera
@@ -906,11 +947,19 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (187)
+### BINA TAG (196)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 22:17` **yahoo_finance** — Comcast adds new service to internet plans as customers leave
+- `22 Aug 22:12` **yahoo_finance** — After Exploding by 18% in One Day, Is XRP a Buy?
+- `22 Aug 22:08` **wsj_world** — Ride Shotgun in a Corvette on D.C.'s Freedom 250 IndyCar Track
+- `22 Aug 22:05` **yahoo_finance** — Stock Market Week Ahead: A Choppy Market Heads For Nvidia Earnings, Jackson Hole
+- `22 Aug 22:05` **yahoo_finance** — CVS Health Stock Is Beating the Market in 2026. Here's Why Wall Street Thinks It Can Soar Another 22%.
+- `22 Aug 22:04` **investing_news** — Will Apple's risk appetite change under John Ternus?
+- `22 Aug 22:00` **yahoo_finance** — Microsoft Has Something Nvidia Doesn't and Here's Why it Matters
 - `22 Aug 21:50` **yahoo_finance** — If You Have $10,000: 3 Dividend ETFs Worth Buying Before September
+- `22 Aug 21:46` **aljazeera** — South Korea sending first container ship through Arctic route
 - `22 Aug 21:41` **aljazeera** — Sanctioned by EU, Israeli settler steals and kills Palestinian donkey
 - `22 Aug 21:33` **yahoo_finance** — Warren Buffett's Berkshire makes backdoor SpaceX play
 - `22 Aug 21:30` **aljazeera** — Espanyol vs Real Madrid LIVE: La Liga
@@ -924,6 +973,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 21:05` **yahoo_finance** — Insider Cuts Holdings of Growth Stock Following 78% Rally
 - `22 Aug 21:05` **yahoo_finance** — Can Bloom Energy Keep Beating the Market?
 - `22 Aug 21:03` **yahoo_finance** — 172-year-old luxury giant exits entire market
+- `22 Aug 21:00` **yahoo_finance** — Suze Orman Says Owning a Car or Two May Be Unavoidable, but There's a $7K Mistake When Trading in Your Car
 - `22 Aug 21:00` **mw_topstories** — 'I'm running out of time': I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?
 - `22 Aug 20:59` **yahoo_finance** — How a 53-Year-Old Can Turn $465,000 Into a Monthly Paycheck Machine by 63
 - `22 Aug 20:52` **yahoo_finance** — Alphabet, Meta, and Microsoft Are Hiding $3 Trillion in Debt On the AI Boom's Hidden Ledger
@@ -1115,11 +1165,11 @@ investing_news (48), yahoo_finance (1)
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.8 |
-| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.7 |
+| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.8 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
 | actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.1 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.7 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.6 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.5 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
@@ -1127,29 +1177,32 @@ investing_news (48), yahoo_finance (1)
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.5 |
-| kitco_general | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
-| gnews_fed | OK | 51 | 28 | 0 | 28 | 23 | 0.1 |
-| gnews_geopolitics | OK | 81 | 31 | 0 | 31 | 50 | 0.0 |
-| gnews_centralbanks | OK | 49 | 36 | 0 | 36 | 13 | 0.1 |
+| kitco_general | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| gnews_fed | OK | 24 | 13 | 1 | 12 | 11 | 0.0 |
+| gnews_geopolitics | OK | 84 | 36 | 4 | 32 | 48 | 0.1 |
+| gnews_centralbanks | OK | 50 | 38 | 2 | 36 | 12 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.0 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.9 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.2 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.4 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.3 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.4 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.8 |
-| oilprice | OK | 15 | 3 | 1 | 2 | 12 | 0.0 |
-| investing_commodities | OK | 10 | 5 | 0 | 5 | 5 | 0.0 |
+| oilprice | OK | 15 | 3 | 0 | 3 | 12 | 0.0 |
+| investing_commodities | OK | 10 | 6 | 1 | 5 | 4 | 0.0 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
 | bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.3 |
-| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
+| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | -0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.3 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.1 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.2 |
-| wsj_world | OK | 72 | 6 | 0 | 6 | 66 | 0.0 |
+| wsj_world | OK | 72 | 7 | 1 | 6 | 65 | 0.0 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.6 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 31 | 4 | 27 | 18 | 0.0 |
+| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 31 | 6 | 25 | 18 | 0.0 |
 | mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
+
+**Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi
