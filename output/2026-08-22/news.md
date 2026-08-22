@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 23:40 PKT**
-- Kul khabrein: **482**
+- Aakhri update: **23 Aug 00:06 PKT**
+- Kul khabrein: **496**
 - Feeds: 38/39 OK
 
 ---
@@ -81,6 +81,11 @@ Speculative interest in gold futures has strengthened in the United States, with
 Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters bullish majority with Warsh, PCE in focus KITCO
 
 ### USD
+
+**Read My Lips: Warsh's Jackson Hole Playbook, Nvidia Numbers To Steer Wall Street This Week - International Business Times**
+`22 Aug 22:54 PKT` · pehli baar dekhi `23 Aug 00:06` · gnews_fed
+
+Read My Lips: Warsh's Jackson Hole Playbook, Nvidia Numbers To Steer Wall Street This Week International Business Times
 
 **Treasury Yields Have Surged. Is It Finally Time to Buy Bond ETFs?**
 `22 Aug 22:35 PKT` · pehli baar dekhi `22 Aug 22:56` · yahoo_finance
@@ -458,6 +463,21 @@ The USD/CHF advanced on Friday, registering a modest 0.07% gain, trading at 0.80
 
 ### CAD
 
+**New tariffs have kicked in on U.S. imports from Canada after trade talks collapsed. Canada intends to set retaliatory tariffs starting in September. Here's what to know about the new levies.**
+`22 Aug 23:59 PKT` · pehli baar dekhi `23 Aug 00:06` · wsj_economy
+
+The U.S. is levying a 50% charge on Canadian imports including wine, hockey sticks, cement, and paper and textile products. Ottawa has pledged retaliation.
+
+**Canada announces retaliatory tariffs on U.S. goods after trade talks break down**
+`22 Aug 23:55 PKT` · pehli baar dekhi `23 Aug 00:06` · mw_topstories
+
+Canada Prime Minister Mark Carney on Saturday announced his country would impose "dollar-for-dollar" tariffs on U.S. goods — a retaliatory measure after trade talks between the two nations broke down.
+
+**Prime Minister Mark Carney on Saturday said Canada would impose dollar-for-dollar tariffs on U.S. goods in retaliation for U.S. tariffs on Canadian exports that went into effect early in the morning**
+`22 Aug 21:42 PKT` · pehli baar dekhi `23 Aug 00:06` · wsj_economy
+
+The tit-for-tat retaliation risks escalation into an all-out trade conflict and threatens to further unravel deteriorating ties between the two allies.
+
 **Canada Announces New Post-Labor Day Tariffs**
 `22 Aug 21:42 PKT` · pehli baar dekhi `22 Aug 21:47` · wsj_world
 
@@ -542,6 +562,11 @@ The Aussie Dollar finished the week with gains of over 0.82% on Friday and up mo
 Speculative sentiment toward the New Zealand dollar has turned slightly less negative, with CFTC NZD net positions improving from -39.6K to -32.6K, according to data updated on 21 August 2026. The move reflects a reduction in overall bearish positioning, even though traders remain net short on the currency.
 
 ### OIL
+
+**Clean Energy Spending Tracking Toward Record $180 Billion in 2026**
+`23 Aug 00:00 PKT` · pehli baar dekhi `23 Aug 00:06` · oilprice
+
+Donald Trump is accidentally overseeing a massive buildout of the country's renewable energy capacity and infrastructure. Not only are investments in renewable technologies soaring to new highs, the national energy grid is rapidly transforming to accommodate an increasingly solar- and wind-powered energy mix.
 
 **Every Chokepoint That Isn't Hormuz**
 `22 Aug 22:00 PKT` · pehli baar dekhi `22 Aug 22:08` · oilprice
@@ -823,6 +848,11 @@ Health authorities are warning that 'approximately one person has been dying fro
 **Iran condemns US plans to announce new sanctions**
 `22 Aug 22:18 PKT` · pehli baar dekhi `22 Aug 22:35` · investing_commodities
 
+**Canada Announces New Tariffs on U.S. as Trade War Widens**
+`22 Aug 21:42 PKT` · pehli baar dekhi `23 Aug 00:06` · wsj_world
+
+The tit-for-tat retaliation risks escalation into an all-out trade conflict and threatens to further unravel deteriorating ties between the two allies.
+
 **US, Iran trade threats as new sanctions loom - Pakistan Today**
 `22 Aug 21:07 PKT` · pehli baar dekhi `22 Aug 21:20` · gnews_geopolitics
 
@@ -995,12 +1025,18 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (215)
+### BINA TAG (222)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 23:43` **investing_news** — What happens when the AI capex cycle slows?
+- `22 Aug 23:37` **yahoo_finance** — Here's How Many Shares of Target You'd Need for $10,000 in Yearly Dividends
+- `22 Aug 23:35` **yahoo_finance** — She Harvested a $40,000 Stock Gain at the 0% Rate. It Still Made 85% of Her Social Security Taxable.
+- `22 Aug 23:35` **aljazeera** — Israel, Turkiye and the new regional reordering
+- `22 Aug 23:35` **yahoo_finance** — Data Centers Don't Just Need Power -- They Need Cooling. Trane and Carrier Sell It.
 - `22 Aug 23:33` **yahoo_finance** — I've Held Microsoft for 10 Years. Here's Why I'm Not Selling a Single Share.
 - `22 Aug 23:33` **yahoo_finance** — Bill Gates makes $180 million bet on backbone of America's economy
+- `22 Aug 23:29` **aljazeera** — Swedish police identify 17-year-old girl as victim in school sword attack
 - `22 Aug 23:20` **yahoo_finance** — CoreWeave CEO Michael Intrator Sold Over 13,000 Shares for $1.2 Million. What Does This Mean for Investors?
 - `22 Aug 23:20` **yahoo_finance** — Warren Buffett's Hand-Picked Successor, Greg Abel, Has 72% of Berkshire Hathaway's Portfolio Invested in Just 5 Stocks. Here's My Top Pick for August.
 - `22 Aug 23:15` **yahoo_finance** — Insider Liquidates More Than 26,000 Shares of Fintech Stock for Tax Obligations
@@ -1015,6 +1051,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 22:50` **yahoo_finance** — 1 Quantum Computing Stock That Looks Like a Screaming Buy Right Now
 - `22 Aug 22:47` **aljazeera** — 'Not a small issue': People deported by US to Liberia face uncertain future
 - `22 Aug 22:34` **aljazeera** — Seven killed, including two police officers, in UK 'wrong-side' car crash
+- `22 Aug 22:32` **yahoo_finance** — CaaStle Founder Christine Hunsicker Sentenced to Five Years in Prison
 - `22 Aug 22:32` **yahoo_finance** — Let's Be Real. For Most Retirees, Only One Great Lake Town Actually Works
 - `22 Aug 22:17` **yahoo_finance** — Comcast adds new service to internet plans as customers leave
 - `22 Aug 22:12` **yahoo_finance** — After Exploding by 18% in One Day, Is XRP a Buy?
@@ -1217,11 +1254,11 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 
 ---
 
-## Shor — 49 khabrein hatai gayin
+## Shor — 50 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (48), yahoo_finance (1)
+investing_news (48), yahoo_finance (2)
 
 ---
 
@@ -1237,36 +1274,36 @@ investing_news (48), yahoo_finance (1)
 | actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.2 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.8 |
 | instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.7 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.6 |
+| wsj_economy | OK | 36 | 3 | 2 | 1 | 33 | 0.0 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.6 |
-| kitco_general | OK | 8 | 1 | 0 | 1 | 7 | 0.6 |
-| gnews_fed | OK | 46 | 35 | 3 | 32 | 11 | 0.1 |
-| gnews_geopolitics | OK | 82 | 38 | 1 | 37 | 44 | 0.1 |
-| gnews_centralbanks | OK | 45 | 37 | 3 | 34 | 8 | 0.0 |
+| kitco_general | OK | 8 | 2 | 0 | 2 | 6 | 0.6 |
+| gnews_fed | OK | 47 | 37 | 1 | 36 | 10 | 0.1 |
+| gnews_geopolitics | OK | 79 | 35 | 0 | 35 | 44 | 0.1 |
+| gnews_centralbanks | OK | 45 | 39 | 0 | 39 | 6 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.0 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.9 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.2 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.0 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.3 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.5 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.4 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.8 |
-| oilprice | OK | 15 | 3 | 0 | 3 | 12 | 0.1 |
+| oilprice | OK | 15 | 4 | 1 | 3 | 11 | 0.0 |
 | investing_commodities | OK | 10 | 6 | 0 | 6 | 4 | 0.1 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
 | bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.3 |
-| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.4 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.2 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.3 |
-| wsj_world | OK | 72 | 7 | 0 | 7 | 65 | 0.1 |
+| wsj_world | OK | 72 | 7 | 1 | 6 | 65 | 0.1 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.7 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| yahoo_finance | OK | 49 | 32 | 12 | 20 | 17 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 33 | 5 | 28 | 17 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
