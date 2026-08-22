@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 12:44 PKT**
-- Kul khabrein: **166**
+- Aakhri update: **22 Aug 13:11 PKT**
+- Kul khabrein: **174**
 - Feeds: 39/39 OK
 
 ---
@@ -23,6 +23,9 @@ Nasdaq and S&P indices are settling between risk/bias defining MAs as the week c
   - `22 Aug 03:14` *investinglive* — investingLive Americas FX news wrap 21 Aug: Trump folds on beef tariffs.
 
 ### GOLD
+
+**Where are central banks keeping their gold?**
+`22 Aug 13:03 PKT` · pehli baar dekhi `22 Aug 13:11` · investing_news
 
 **Speculative Silver Bets Hold Steady in the U.S., CFTC Data Shows**
 `22 Aug 04:34 PKT` · instaforex
@@ -65,6 +68,11 @@ New Zealand Dollar Extends Rally as Fed Rate-Hike Bets Fade CryptoRank
 `22 Aug 04:19 PKT` · pehli baar dekhi `22 Aug 10:16` · gnews_fed
 
 US Services Sector Growth Accelerates as PMI Hits 56.8 in August, Beating Forecasts CryptoRank
+
+**US Treasury Yields Rebound As Services PMI Beats Estimates - Bitcoin World**
+`22 Aug 04:00 PKT` · pehli baar dekhi `22 Aug 13:11` · gnews_fed
+
+US Treasury Yields Rebound As Services PMI Beats Estimates Bitcoin World
 
 **US Treasury yields extend rebound as Services PMI beats estimates**
 `22 Aug 03:38 PKT` · pehli baar dekhi `22 Aug 03:59` · fxstreet_news
@@ -291,12 +299,22 @@ CoinShares Expects Bitcoin to Remain Below $80,000 Until Fed Policy Becomes Clea
 
 Euro Holds Gains Against Pound After UK Retail Sales Disappoint Bitcoin World
 
+**CoinShares: Bitcoin to Stay Rangebound Below $80K Until Fed Signals Policy Shift - CryptoRank**
+`22 Aug 05:41 PKT` · pehli baar dekhi `22 Aug 13:11` · gnews_fed
+
+CoinShares: Bitcoin to Stay Rangebound Below $80K Until Fed Signals Policy Shift CryptoRank
+
 **BNY: Fed's High Intervention Bar And Backstop Doubts Signal Cautious Stance - Bitcoin World**
 `22 Aug 04:05 PKT` · pehli baar dekhi `22 Aug 06:43` · gnews_fed
 
 BNY: Fed's High Intervention Bar And Backstop Doubts Signal Cautious Stance Bitcoin World
 
 ### RISK
+
+**World Bank projects war-hit Lebanon's economy to contract by 6.4 percent**
+`22 Aug 12:35 PKT` · pehli baar dekhi `22 Aug 13:11` · aljazeera
+
+Conflict with Israel derails Lebanon&#039;s economic recovery as inflation and consumer prices rise, the global lender says.
 
 **Oil rises as Trump threatens sanctions on Iran partners - Newswav**
 `22 Aug 10:23 PKT` · pehli baar dekhi `22 Aug 11:16` · gnews_geopolitics · **5 feeds mein**
@@ -343,10 +361,14 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (55)
+### BINA TAG (59)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 13:00` **aljazeera** — Panama Canal to reduce shipping as 'extreme' El Nino approaches
+- `22 Aug 12:42` **investing_news** — Ukrainian drones hit warehouse of Russian online retailer Ozon in overnight strikes
+- `22 Aug 12:41` **aljazeera** — Lionel Messi fined for striking opponent in Inter Miami MLS game
+- `22 Aug 12:41` **aljazeera** — 'Young want to leave': Libya's brain drain, 15 years after Tripoli fell
 - `22 Aug 12:27` **investing_news** — Vatican plans €100 million agrivoltaic energy plant near Rome
 - `22 Aug 12:12` **investing_commodities** — Vatican to build €100 million renewable energy plant, sources say
 - `22 Aug 12:11` **aljazeera** — Somalia child hunger crisis deepens after aid cuts, UNICEF says
@@ -424,37 +446,37 @@ investing_news (39)
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.6 |
 | actionforex | OK | 20 | 15 | 0 | 15 | 5 | 0.1 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.3 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.3 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.1 |
-| kitco_general | OK | 27 | 3 | 1 | 2 | 24 | 0.1 |
-| gnews_fed | OK | 75 | 11 | 0 | 11 | 64 | 0.0 |
-| gnews_geopolitics | OK | 100 | 9 | 1 | 8 | 91 | 0.1 |
-| gnews_centralbanks | OK | 35 | 5 | 0 | 5 | 30 | 0.1 |
+| kitco_general | OK | 27 | 2 | 0 | 2 | 25 | 0.2 |
+| gnews_fed | OK | 75 | 13 | 2 | 11 | 62 | 0.0 |
+| gnews_geopolitics | OK | 100 | 9 | 0 | 9 | 91 | 0.1 |
+| gnews_centralbanks | OK | 34 | 5 | 0 | 5 | 29 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.5 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.0 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.8 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.9 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.0 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.4 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
-| investing_commodities | OK | 10 | 3 | 1 | 2 | 7 | 0.0 |
+| investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.0 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | bbc_business | OK | 50 | 2 | 0 | 2 | 48 | 0.0 |
-| aljazeera | OK | 25 | 22 | 1 | 21 | 3 | 0.0 |
+| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.9 |
-| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.7 |
+| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.8 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.8 |
 | wsj_world | OK | 72 | 4 | 0 | 4 | 68 | 0.1 |
-| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.2 |
-| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| yahoo_finance | OK | 48 | 0 | 0 | 0 | 48 | 0.5 |
-| mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
+| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.3 |
+| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.6 |
+| mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.5 |
