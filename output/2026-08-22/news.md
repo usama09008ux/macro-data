@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 16:31 PKT**
-- Kul khabrein: **231**
+- Aakhri update: **22 Aug 16:53 PKT**
+- Kul khabrein: **237**
 - Feeds: 39/39 OK
 
 ---
@@ -351,6 +351,11 @@ Oil Prices up on Fears of Tighter Supply After Trump's Iran Threat Business Post
 **U.S., Iran trade warnings as new sanctions loom and Hormuz oil flows stall**
 `22 Aug 06:23 PKT` · pehli baar dekhi `22 Aug 06:43` · investing_news
 
+**WTI Edges Higher as Supply Risks Outweigh US Stockpile Increase - CryptoRank**
+`22 Aug 05:37 PKT` · pehli baar dekhi `22 Aug 16:53` · gnews_geopolitics
+
+WTI Edges Higher as Supply Risks Outweigh US Stockpile Increase CryptoRank
+
 **Oil Price Outlook: Iran Talks Fail as Hormuz Shipping Risk Returns - equiti.com**
 `22 Aug 05:28 PKT` · pehli baar dekhi `22 Aug 07:41` · gnews_geopolitics
 
@@ -528,10 +533,14 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (73)
+### BINA TAG (77)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 16:30` **aljazeera** — Usain Bolt's 100m record broken at World Humanoid Robot Games
+- `22 Aug 16:09` **investing_news** — World Kinect's 64% surge validates InvestingPro Fair Value analysis
+- `22 Aug 16:02` **investing_news** — InvestingPro's Fair Value spotted TTM's 38% drop before it happened
+- `22 Aug 16:01` **investing_news** — These 3 AI stocks are bought by both hedge funds and mutual funds
 - `22 Aug 15:53` **bbc_business** — Taxi drivers urge council to agree 8% fare hike
 - `22 Aug 15:16` **mw_topstories** — 'She's desperate': My friend was laid off and lost her health insurance. How can she find affordable coverage?
 - `22 Aug 15:13` **aljazeera** — More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo
@@ -608,11 +617,11 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 
 ---
 
-## Shor — 47 khabrein hatai gayin
+## Shor — 48 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (47)
+investing_news (48)
 
 ---
 
@@ -636,13 +645,13 @@ investing_news (47)
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.3 |
 | kitco_general | OK | 24 | 2 | 0 | 2 | 22 | 0.3 |
-| gnews_fed | OK | 69 | 18 | 0 | 18 | 51 | 0.0 |
-| gnews_geopolitics | OK | 61 | 16 | 2 | 14 | 45 | 0.0 |
-| gnews_centralbanks | OK | 36 | 11 | 1 | 10 | 25 | 0.1 |
+| gnews_fed | OK | 66 | 17 | 0 | 17 | 49 | 0.1 |
+| gnews_geopolitics | OK | 98 | 19 | 1 | 18 | 79 | 0.0 |
+| gnews_centralbanks | OK | 35 | 11 | 0 | 11 | 24 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.7 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.6 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.1 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.9 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.7 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.2 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.0 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.2 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.1 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.5 |
@@ -657,7 +666,7 @@ investing_news (47)
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.0 |
 | wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.1 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.4 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| investing_news | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
 | yahoo_finance | OK | 50 | 2 | 0 | 2 | 48 | 0.1 |
 | mw_topstories | OK | 10 | 4 | 0 | 4 | 6 | 0.0 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.6 |

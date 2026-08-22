@@ -1,7 +1,7 @@
 # News Pack — Trading Day 20 Aug 2026
 
 - Trading day: **20 Aug 03:00 -> 21 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 16:31 PKT**
+- Aakhri update: **22 Aug 16:53 PKT**
 - Kul khabrein: **348**
 - Feeds: 39/39 OK
 
@@ -1190,13 +1190,13 @@ investing_news (20)
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.3 |
 | kitco_general | OK | 24 | 2 | 0 | 2 | 22 | 0.3 |
-| gnews_fed | OK | 69 | 18 | 0 | 18 | 51 | 0.0 |
-| gnews_geopolitics | OK | 61 | 16 | 2 | 14 | 45 | 0.0 |
-| gnews_centralbanks | OK | 36 | 11 | 1 | 10 | 25 | 0.1 |
+| gnews_fed | OK | 66 | 17 | 0 | 17 | 49 | 0.1 |
+| gnews_geopolitics | OK | 98 | 19 | 1 | 18 | 79 | 0.0 |
+| gnews_centralbanks | OK | 35 | 11 | 0 | 11 | 24 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.7 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.6 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.1 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.9 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.7 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.2 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.0 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.2 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.1 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.5 |
@@ -1211,7 +1211,7 @@ investing_news (20)
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.0 |
 | wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.1 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.4 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| investing_news | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
 | yahoo_finance | OK | 50 | 2 | 0 | 2 | 48 | 0.1 |
 | mw_topstories | OK | 10 | 4 | 0 | 4 | 6 | 0.0 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.6 |
