@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 02:55 PKT**
-- Kul khabrein: **594**
+- Aakhri update: **23 Aug 03:27 PKT**
+- Kul khabrein: **601**
 - Feeds: 38/39 OK
 
 ---
@@ -92,6 +92,11 @@ Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters b
 
 **Active ETFs Now Take 42% of Every Dollar Flowing Into ETFs, Up From 26% in 2024**
 `23 Aug 01:50 PKT` · pehli baar dekhi `23 Aug 02:35` · yahoo_finance
+
+**UK Retail Sales Growth Slows to 1.6% in July, Missing Forecasts - CryptoRank**
+`22 Aug 23:57 PKT` · pehli baar dekhi `23 Aug 03:27` · gnews_centralbanks
+
+UK Retail Sales Growth Slows to 1.6% in July, Missing Forecasts CryptoRank
 
 **Read My Lips: Warsh's Jackson Hole Playbook, Nvidia Numbers To Steer Wall Street This Week - International Business Times**
 `22 Aug 22:54 PKT` · pehli baar dekhi `23 Aug 00:06` · gnews_fed
@@ -1240,14 +1245,17 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (267)
+### BINA TAG (272)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 02:55` **aljazeera** — Real Madrid beat Espanyol 2-1 in Jose Mourinho's first game on return
+- `23 Aug 02:50` **yahoo_finance** — Institutional Investors Are Buying Hyperliquid Strategies. Should You?
 - `23 Aug 02:35` **yahoo_finance** — What Would Alan Greenspan Say About This Stock Market?
 - `23 Aug 02:33` **yahoo_finance** — One quantum stock just posted a 9,000% revenue jump
 - `23 Aug 02:23` **yahoo_finance** — Reddit vs. Rigetti Computing: Which High-Growth Stock Is a Better Buy in 2026, the Social Media Giant or Rising Quantum Computing Company?
 - `23 Aug 02:02` **aljazeera** — Israeli army and settlers injure several Palestinians across West Bank
+- `23 Aug 02:00` **yahoo_finance** — The Gas Turbine Shortage Just Became AI's Biggest Constraint
 - `23 Aug 01:49` **aljazeera** — US Postal Service shares mail-in ballot restrictions despite court ruling
 - `23 Aug 01:47` **investing_news** — Nvidia customers face over 15% server price hikes as memory costs soar - report
 - `23 Aug 01:43` **yahoo_finance** — Ross Stores Grew Comparable Sales 10%. TJX Grew 4%. Only One Stock Went Up.
@@ -1264,6 +1272,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `23 Aug 00:38` **yahoo_finance** — How a 56-Year-Old Turned a $735,000 401(k) Rollover Into a $4,300 Monthly Paycheck Without Buying an Annuity
 - `23 Aug 00:37` **yahoo_finance** — Paramount Prepares to Begin Early Settlement Talks With California Officials
 - `23 Aug 00:29` **aljazeera** — More than 200,000 newly displaced in Sudan's Kordofan region
+- `23 Aug 00:25` **yahoo_finance** — Forget AI, debt has become the main character on Wall Street as markets just now decided that it's gotten out of control after years of warnings
 - `23 Aug 00:24` **aljazeera** — Israeli strikes kill two and injure others as Gaza attacks continue
 - `23 Aug 00:24` **investing_news** — Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports
 - `23 Aug 00:22` **yahoo_finance** — My 3 Favorite High-Yield Dividend Stocks to Buy Right Now
@@ -1339,6 +1348,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 20:45` **aljazeera** — Settlers target Palestinian homes in Occupied West Bank's Area B
 - `22 Aug 20:40` **yahoo_finance** — Pinterest Insider Dumps Nearly 94,000 Shares, After Stock Drops by 33% Over Last Year
 - `22 Aug 20:30` **yahoo_finance** — Nvidia Stock Doesn't Look as Expensive as You Think
+- `22 Aug 20:30` **yahoo_finance** — McDonald's Just Started Selling Energy Drinks. How to Play MCD Stock Here.
 - `22 Aug 20:25` **yahoo_finance** — Insider Sells Over 17,000 Shares of Utility Stock, Valued at Nearly $700,000
 - `22 Aug 20:23` **yahoo_finance** — How a 77-Year-Old Collects $9,700 a Month Without Selling a Single Share
 - `22 Aug 20:20` **yahoo_finance** — Medical Office Pulls Ahead as General Office Stalls
@@ -1514,11 +1524,11 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 
 ---
 
-## Shor — 54 khabrein hatai gayin
+## Shor — 55 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (48), yahoo_finance (6)
+investing_news (48), yahoo_finance (7)
 
 ---
 
@@ -1529,41 +1539,41 @@ investing_news (48), yahoo_finance (6)
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 1.0 |
-| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.9 |
+| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 1.0 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.4 |
 | actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.3 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.9 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.8 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.9 |
 | wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.1 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.7 |
 | kitco_general | OK | 4 | 4 | 0 | 4 | 0 | 0.5 |
-| gnews_fed | OK | 42 | 42 | 1 | 41 | 0 | 0.2 |
-| gnews_geopolitics | OK | 61 | 60 | 4 | 56 | 1 | 0.0 |
-| gnews_centralbanks | OK | 41 | 41 | 2 | 39 | 0 | 0.2 |
+| gnews_fed | OK | 42 | 42 | 1 | 41 | 0 | 0.0 |
+| gnews_geopolitics | OK | 59 | 59 | 0 | 59 | 0 | 0.1 |
+| gnews_centralbanks | OK | 41 | 41 | 1 | 40 | 0 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.2 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.1 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.4 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.5 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.6 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 1.0 |
-| oilprice | OK | 15 | 5 | 0 | 5 | 10 | 0.0 |
+| oilprice | OK | 15 | 5 | 0 | 5 | 10 | 0.1 |
 | investing_commodities | OK | 10 | 6 | 0 | 6 | 4 | 0.2 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
 | bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.5 |
 | aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.5 |
-| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.3 |
+| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.4 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.4 |
 | wsj_world | OK | 72 | 7 | 0 | 7 | 65 | 0.2 |
-| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.8 |
+| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.9 |
 | investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 37 | 6 | 31 | 13 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 37 | 5 | 32 | 13 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.4 |
