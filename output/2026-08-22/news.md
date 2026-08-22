@@ -1,9 +1,9 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 13:11 PKT**
-- Kul khabrein: **174**
-- Feeds: 39/39 OK
+- Aakhri update: **22 Aug 13:50 PKT**
+- Kul khabrein: **185**
+- Feeds: 38/39 OK
 
 ---
 
@@ -43,6 +43,11 @@ Speculative interest in gold futures has strengthened in the United States, with
 Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters bullish majority with Warsh, PCE in focus KITCO
 
 ### USD
+
+**UK Retail Sales Dip 0.5% in July as Consumer Spending Cools - CryptoRank**
+`22 Aug 10:31 PKT` · pehli baar dekhi `22 Aug 13:50` · gnews_centralbanks
+
+UK Retail Sales Dip 0.5% in July as Consumer Spending Cools CryptoRank
 
 **Treasury Yields Rising August 2026: Investor Guide to Bond Market - Intellectia AI**
 `22 Aug 09:07 PKT` · pehli baar dekhi `22 Aug 09:08` · gnews_fed
@@ -175,6 +180,11 @@ The USD/CHF advanced on Friday, registering a modest 0.07% gain, trading at 0.80
 
 ### CAD
 
+**How will Trump's tariffs affect Canada's economy?**
+`22 Aug 13:01 PKT` · pehli baar dekhi `22 Aug 13:50` · aljazeera
+
+US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada&#039;s economy.
+
 **U.S. tariffs on Canada take effect after trade talks collapse**
 `22 Aug 09:15 PKT` · pehli baar dekhi `22 Aug 09:49` · investing_news
 
@@ -238,6 +248,9 @@ The Aussie Dollar finished the week with gains of over 0.82% on Friday and up mo
 Speculative sentiment toward the New Zealand dollar has turned slightly less negative, with CFTC NZD net positions improving from -39.6K to -32.6K, according to data updated on 21 August 2026. The move reflects a reduction in overall bearish positioning, even though traders remain net short on the currency.
 
 ### OIL
+
+**Iran grants permission for a number of Iraqi oil tankers to pass through Hormuz**
+`22 Aug 13:42 PKT` · pehli baar dekhi `22 Aug 13:50` · investing_commodities
 
 **Iranian crude supplies to China declined amid U.S. blockade - IranOilGas**
 `22 Aug 10:26 PKT` · pehli baar dekhi `22 Aug 10:47` · gnews_geopolitics
@@ -316,6 +329,11 @@ BNY: Fed's High Intervention Bar And Backstop Doubts Signal Cautious Stance Bitc
 
 Conflict with Israel derails Lebanon&#039;s economic recovery as inflation and consumer prices rise, the global lender says.
 
+**Iran Dismisses 'Unprecedented' Sanctions Proposed By US - Big News Network.com**
+`22 Aug 11:05 PKT` · pehli baar dekhi `22 Aug 13:50` · gnews_geopolitics
+
+Iran Dismisses 'Unprecedented' Sanctions Proposed By US Big News Network.com
+
 **Oil rises as Trump threatens sanctions on Iran partners - Newswav**
 `22 Aug 10:23 PKT` · pehli baar dekhi `22 Aug 11:16` · gnews_geopolitics · **5 feeds mein**
 
@@ -343,6 +361,11 @@ Trump: Iran Not Ready for 'Right Deal' Amid Tough US Sanctions Global Banking & 
 
 Yabloko spent decades censoring itself to survive. The war in Ukraine made continuing that balancing act impossible.
 
+**Trump Promises 'Economic Warfare' Against Iran and Its Allies - SSBCrack**
+`22 Aug 06:56 PKT` · pehli baar dekhi `22 Aug 13:50` · gnews_geopolitics
+
+Trump Promises 'Economic Warfare' Against Iran and Its Allies SSBCrack
+
 **US, Iran keep up hostile rhetoric ahead of new sanctions**
 `22 Aug 06:24 PKT` · pehli baar dekhi `22 Aug 06:43` · investing_commodities
 
@@ -361,10 +384,12 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (59)
+### BINA TAG (62)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 13:30` **aljazeera** — Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets
+- `22 Aug 13:16` **investing_news** — PTC Therapeutics director Schmertzler disposes of $1.8m in stock
 - `22 Aug 13:00` **aljazeera** — Panama Canal to reduce shipping as 'extreme' El Nino approaches
 - `22 Aug 12:42` **investing_news** — Ukrainian drones hit warehouse of Russian online retailer Ozon in overnight strikes
 - `22 Aug 12:41` **aljazeera** — Lionel Messi fined for striking opponent in Inter Miami MLS game
@@ -386,6 +411,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 09:24` **aljazeera** — At least 13 Tunisians missing as migrant boat headed for Italy capsizes
 - `22 Aug 09:22` **investing_news** — springbig Holdings earnings missed by $0.03, revenue fell short of estimates
 - `22 Aug 09:11` **gnews_fed** — Retirement Savings Benchmarks for Americans Ages 45 to 54: Participation Rates and Median Balances - Investopedia
+- `22 Aug 08:26` **kitco_general** — Videos - KITCO
 - `22 Aug 08:19` **aljazeera** — US judge strikes down Trump immigrant visa ban affecting 75 countries
 - `22 Aug 08:06` **investing_news** — Moderna cancer vaccine breakthrough revives hopes for biotech turnaround
 - `22 Aug 07:48` **gnews_fed** — Ringgit Rallies As Fiscal Concerns Weigh On Greenback, Expected To Hold At 4.06 - BusinessToday Malaysia
@@ -427,11 +453,11 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 
 ---
 
-## Shor — 39 khabrein hatai gayin
+## Shor — 42 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (39)
+investing_news (42)
 
 ---
 
@@ -445,38 +471,41 @@ investing_news (39)
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.4 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.6 |
 | actionforex | OK | 20 | 15 | 0 | 15 | 5 | 0.1 |
-| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.3 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.3 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
+| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.4 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.1 |
-| kitco_general | OK | 27 | 2 | 0 | 2 | 25 | 0.2 |
-| gnews_fed | OK | 75 | 13 | 2 | 11 | 62 | 0.0 |
-| gnews_geopolitics | OK | 100 | 9 | 0 | 9 | 91 | 0.1 |
-| gnews_centralbanks | OK | 34 | 5 | 0 | 5 | 29 | 0.1 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.2 |
+| kitco_general | OK | 26 | 3 | 1 | 2 | 23 | 0.2 |
+| gnews_fed | OK | 72 | 12 | 0 | 12 | 60 | 0.1 |
+| gnews_geopolitics | OK | 98 | 11 | 2 | 9 | 87 | 0.1 |
+| gnews_centralbanks | OK | 34 | 6 | 1 | 5 | 28 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.5 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.0 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.8 |
-| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.0 |
+| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.1 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.0 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.4 |
-| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
-| investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.0 |
+| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
+| investing_commodities | OK | 10 | 4 | 1 | 3 | 6 | 0.0 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
-| bbc_business | OK | 50 | 2 | 0 | 2 | 48 | 0.0 |
-| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
+| bbc_business | OK | 50 | 2 | 0 | 2 | 48 | 0.1 |
+| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.9 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.0 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.8 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.8 |
-| wsj_world | OK | 72 | 4 | 0 | 4 | 68 | 0.1 |
+| wsj_world | OK | 72 | 4 | 0 | 4 | 68 | 0.2 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.3 |
-| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| investing_news | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
 | yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.6 |
 | mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.5 |
+
+**Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi
