@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 15:09 PKT**
-- Kul khabrein: **206**
+- Aakhri update: **22 Aug 15:41 PKT**
+- Kul khabrein: **220**
 - Feeds: 39/39 OK
 
 ---
@@ -68,6 +68,11 @@ UK Retail Sales Dip 0.5% in July as Consumer Spending Cools CryptoRank
 `22 Aug 09:07 PKT` · pehli baar dekhi `22 Aug 09:08` · gnews_fed
 
 Treasury Yields Rising August 2026: Investor Guide to Bond Market Intellectia AI
+
+**The lift-off: impact of SpaceX's IPO on global markets and inflation - thepost.co.za**
+`22 Aug 08:26 PKT` · pehli baar dekhi `22 Aug 15:41` · gnews_centralbanks
+
+The lift-off: impact of SpaceX's IPO on global markets and inflation thepost.co.za
 
 **Fed Chair Warsh's Jackson Hole Debut: Goldman Sachs Warns of Amplified FX Volatility - finance.biggo.com**
 `22 Aug 08:05 PKT` · pehli baar dekhi `22 Aug 14:17` · gnews_fed
@@ -284,6 +289,11 @@ Speculative sentiment toward the New Zealand dollar has turned slightly less neg
 
 ### OIL
 
+**Iran Opens Hormuz Route for Iraq Oil Ships: What It Means for Indian Fuel Prices - Dynamite News**
+`22 Aug 14:01 PKT` · pehli baar dekhi `22 Aug 15:41` · gnews_geopolitics
+
+Iran Opens Hormuz Route for Iraq Oil Ships: What It Means for Indian Fuel Prices Dynamite News
+
 **A turbulent week for the global oil market. - Vietnam.vn**
 `22 Aug 13:55 PKT` · pehli baar dekhi `22 Aug 14:17` · gnews_geopolitics
 
@@ -342,6 +352,24 @@ Speculative sentiment in the U.S. crude oil market strengthened notably, as the 
 China's energy strategy has largely shielded it from the fallout of the war in Iran and the resultant closure of the Strait of Hormuz, a vital artery for global oil and gas trade. However, the country's newest five-year plan for its oil and gas sector reveals ongoing anxieties about geopolitical tensions, future conflicts, reliance on energy imports, and the country's dwindling crude supplies.
 
 ### CRYPTO
+
+**Bitcoin holds above $77,000 after Treasury-fuelled short squeeze**
+`22 Aug 15:01 PKT` · pehli baar dekhi `22 Aug 15:41` · investing_news
+
+**Bitcoin Price Forecast: BTC Nears Key 50-Day EMA As FOMC Minutes Loom - Bitcoin World**
+`22 Aug 15:00 PKT` · pehli baar dekhi `22 Aug 15:41` · gnews_fed
+
+Bitcoin Price Forecast: BTC Nears Key 50-Day EMA As FOMC Minutes Loom Bitcoin World
+
+**ECB's Rehn: Anchored Inflation Expectations Are Key To Policy Credibility - Bitcoin World**
+`22 Aug 14:50 PKT` · pehli baar dekhi `22 Aug 15:41` · gnews_centralbanks
+
+ECB's Rehn: Anchored Inflation Expectations Are Key To Policy Credibility Bitcoin World
+
+**July FOMC Meeting Minutes Released: What They Signal For Rates And Inflation - Bitcoin World**
+`22 Aug 14:45 PKT` · pehli baar dekhi `22 Aug 15:41` · gnews_fed
+
+July FOMC Meeting Minutes Released: What They Signal For Rates And Inflation Bitcoin World
 
 **CoinShares Expects Bitcoin to Remain Below $80,000 Until Fed Policy Becomes Clearer - HOKANEWS.COM**
 `22 Aug 09:17 PKT` · pehli baar dekhi `22 Aug 10:16` · gnews_fed
@@ -448,13 +476,18 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (67)
+### BINA TAG (72)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 15:16` **mw_topstories** — 'She's desperate': My friend was laid off and lost her health insurance. How can she find affordable coverage?
+- `22 Aug 15:13` **aljazeera** — More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo
+- `22 Aug 15:13` **aljazeera** — Pakistan's PTI seeks contempt action over jailed Imran Khan's hospital move
+- `22 Aug 15:09` **aljazeera** — Manchester City preview: Five key questions heading into 2026-27 season
 - `22 Aug 15:00` **yahoo_finance** — Mortgage and refinance interest rates today, Saturday, August 22, 2026: Bond market sends rates scrambling
 - `22 Aug 15:00` **yahoo_finance** — Best CD rates today, Saturday, August 22, 2026: Best CD account earns 4.35% APY
 - `22 Aug 15:00` **mw_topstories** — This has been one of the most affordable U.S. cities to buy a home for the past 134 years
+- `22 Aug 14:51` **aljazeera** — Former world champion boxer Zolani Tete shot and killed in South Africa
 - `22 Aug 13:30` **aljazeera** — Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets
 - `22 Aug 13:16` **investing_news** — PTC Therapeutics director Schmertzler disposes of $1.8m in stock
 - `22 Aug 13:00` **aljazeera** — Panama Canal to reduce shipping as 'extreme' El Nino approaches
@@ -522,11 +555,11 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 
 ---
 
-## Shor — 44 khabrein hatai gayin
+## Shor — 47 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (44)
+investing_news (47)
 
 ---
 
@@ -541,37 +574,37 @@ investing_news (44)
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |
 | actionforex | OK | 20 | 16 | 0 | 16 | 4 | 0.0 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.4 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.3 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.4 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.2 |
-| kitco_general | OK | 24 | 2 | 0 | 2 | 22 | 0.2 |
-| gnews_fed | OK | 68 | 16 | 0 | 16 | 52 | 0.0 |
-| gnews_geopolitics | OK | 87 | 14 | 0 | 14 | 73 | 0.1 |
-| gnews_centralbanks | OK | 34 | 6 | 0 | 6 | 28 | 0.2 |
+| kitco_general | OK | 24 | 2 | 0 | 2 | 22 | 0.3 |
+| gnews_fed | OK | 68 | 17 | 2 | 15 | 51 | 0.0 |
+| gnews_geopolitics | OK | 92 | 14 | 1 | 13 | 78 | 0.1 |
+| gnews_centralbanks | OK | 32 | 8 | 2 | 6 | 24 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.7 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.6 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.1 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.9 |
-| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.0 |
+| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.2 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.1 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.5 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
 | investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| bbc_business | OK | 50 | 2 | 0 | 2 | 48 | 0.1 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| bbc_business | OK | 50 | 2 | 0 | 2 | 48 | 0.2 |
+| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.0 |
-| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.8 |
+| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.9 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.9 |
-| wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.0 |
-| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.3 |
-| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| yahoo_finance | OK | 48 | 2 | 2 | 0 | 46 | 0.0 |
-| mw_topstories | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
+| wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.1 |
+| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.4 |
+| investing_news | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| yahoo_finance | OK | 47 | 2 | 0 | 2 | 45 | 0.0 |
+| mw_topstories | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.6 |
