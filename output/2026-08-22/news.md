@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 14:17 PKT**
-- Kul khabrein: **194**
+- Aakhri update: **22 Aug 14:47 PKT**
+- Kul khabrein: **201**
 - Feeds: 39/39 OK
 
 ---
@@ -48,6 +48,16 @@ Speculative interest in gold futures has strengthened in the United States, with
 Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters bullish majority with Warsh, PCE in focus KITCO
 
 ### USD
+
+**Dollar Index Faces Structural Breakdown Toward 90, EUR/USD Eyes 1.20 Breakout**
+`22 Aug 14:40 PKT` · pehli baar dekhi `22 Aug 14:47` · actionforex
+
+Dollar Is Approaching a Much Bigger Technical Test Dollar's selloff is not just about this week's Treasury buyback announcement. DXY has broken important support and is moving toward levels that could turn a medium-term decline into a much larger structural breakdown. A decisive break of 95.55 would threaten the multi-decade rising channel and eventually bring [&#8230;] The post Dollar Index Faces Structural Breakdown Toward 90, EUR/USD Eyes 1.20 Breakout appeared first on ActionForex.
+
+**Hawkish vibe at the Fed - The Globe and Mail**
+`22 Aug 13:25 PKT` · pehli baar dekhi `22 Aug 14:47` · gnews_fed
+
+Hawkish vibe at the Fed The Globe and Mail
 
 **UK Retail Sales Dip 0.5% in July as Consumer Spending Cools - CryptoRank**
 `22 Aug 10:31 PKT` · pehli baar dekhi `22 Aug 13:50` · gnews_centralbanks
@@ -287,6 +297,12 @@ A turbulent week for the global oil market. Vietnam.vn
 
 Iranian crude supplies to China declined amid U.S. blockade IranOilGas
 
+**Tajikistan seeks 2.55mn tons of oil and fuel from Iran amid supply diversification - Daryo.uz**
+`22 Aug 07:59 PKT` · pehli baar dekhi `22 Aug 14:47` · gnews_geopolitics · **2 feeds mein**
+
+Tajikistan seeks 2.55mn tons of oil and fuel from Iran amid supply diversification Daryo.uz
+  - `22 Aug 05:16` *gnews_geopolitics* — Tajikistan seeks 2.55mn tons of oil and fuel from Iran amid supply diversification - Daryo.uz
+
 **See How China Weathered the Iran Oil Shock**
 `22 Aug 07:00 PKT` · pehli baar dekhi `22 Aug 07:41` · wsj_markets
 
@@ -304,11 +320,6 @@ Oil Prices up on Fears of Tighter Supply After Trump's Iran Threat Business Post
 `22 Aug 05:28 PKT` · pehli baar dekhi `22 Aug 07:41` · gnews_geopolitics
 
 Oil Price Outlook: Iran Talks Fail as Hormuz Shipping Risk Returns equiti.com
-
-**Tajikistan seeks 2.55mn tons of oil and fuel from Iran amid supply diversification - Daryo.uz**
-`22 Aug 05:16 PKT` · pehli baar dekhi `22 Aug 06:43` · gnews_geopolitics
-
-Tajikistan seeks 2.55mn tons of oil and fuel from Iran amid supply diversification Daryo.uz
 
 **Oil prices rise - Business Recorder**
 `22 Aug 04:59 PKT` · pehli baar dekhi `22 Aug 07:41` · gnews_geopolitics
@@ -359,6 +370,9 @@ BNY: Fed's High Intervention Bar And Backstop Doubts Signal Cautious Stance Bitc
 
 The country's president and its parliamentary speaker say Tehran needs to negotiate an exit and shore up its economy while it has leverage.
 
+**Ukrainian drones hit Ozon warehouse as Russia reports major overnight attack**
+`22 Aug 13:50 PKT` · pehli baar dekhi `22 Aug 14:47` · investing_news
+
 **World Bank projects war-hit Lebanon's economy to contract by 6.4 percent**
 `22 Aug 12:35 PKT` · pehli baar dekhi `22 Aug 13:11` · aljazeera
 
@@ -396,6 +410,11 @@ Trump: Iran Not Ready for 'Right Deal' Amid Tough US Sanctions Global Banking & 
 **Iran threatens military response to US sanctions**
 `22 Aug 07:48 PKT` · pehli baar dekhi `22 Aug 08:27` · investing_news
 
+**Iran Dismisses 'Unprecedented' Sanctions Proposed By US - malaysiasun.com**
+`22 Aug 07:35 PKT` · pehli baar dekhi `22 Aug 14:47` · gnews_geopolitics
+
+Iran Dismisses 'Unprecedented' Sanctions Proposed By US malaysiasun.com
+
 **The Fall of Russia's Only Antiwar Party Has Exposed Putin's Vulnerability**
 `22 Aug 07:00 PKT` · pehli baar dekhi `22 Aug 07:41` · wsj_world
 
@@ -424,7 +443,7 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (63)
+### BINA TAG (64)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -463,6 +482,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 06:16` **investing_news** — Neumora Therapeutics COO Aurora disposes of $269,966 in stock
 - `22 Aug 05:38` **aljazeera** — California lawmaker overcomes pro-Israel spending to win special election
 - `22 Aug 05:32` **aljazeera** — Guyana's Rodrigues Birkett leads informal poll in race to be next UN leader
+- `22 Aug 05:24` **gnews_fed** — Trump Renews Push for Sharply Lower Interest Rates, Again Questions Federal Reserve's Motives - Estimate Accuracy - vinanet.vn
 - `22 Aug 05:00` **actionforex** — Summary 8/24 – 8/28
 - `22 Aug 04:52` **aljazeera** — Myanmar military bombing kills 14 at Buddhist monastery, opposition reports
 - `22 Aug 04:51` **aljazeera** — Editor of US newspaper Stars and Stripes reportedly fired under Trump
@@ -494,11 +514,11 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 
 ---
 
-## Shor — 42 khabrein hatai gayin
+## Shor — 43 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (42)
+investing_news (43)
 
 ---
 
@@ -511,7 +531,7 @@ investing_news (42)
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.5 |
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.4 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.6 |
-| actionforex | OK | 20 | 15 | 0 | 15 | 5 | 0.1 |
+| actionforex | OK | 20 | 16 | 1 | 15 | 4 | 0.0 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.4 |
 | instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.3 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
@@ -521,29 +541,29 @@ investing_news (42)
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.2 |
-| kitco_general | OK | 25 | 3 | 0 | 3 | 22 | 0.2 |
-| gnews_fed | OK | 32 | 7 | 1 | 6 | 25 | 0.0 |
-| gnews_geopolitics | OK | 97 | 14 | 3 | 11 | 83 | 0.0 |
-| gnews_centralbanks | OK | 37 | 7 | 3 | 4 | 30 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
+| kitco_general | OK | 24 | 2 | 0 | 2 | 22 | 0.2 |
+| gnews_fed | OK | 70 | 16 | 2 | 14 | 54 | 0.0 |
+| gnews_geopolitics | OK | 99 | 13 | 2 | 11 | 86 | 0.0 |
+| gnews_centralbanks | OK | 34 | 7 | 0 | 7 | 27 | 0.2 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.7 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.6 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.1 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.8 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.9 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.1 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.0 |
-| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.4 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.5 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
 | investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.0 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
 | bbc_business | OK | 50 | 2 | 0 | 2 | 48 | 0.1 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.0 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.8 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.9 |
-| wsj_world | OK | 71 | 5 | 1 | 4 | 66 | 0.0 |
+| wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.0 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.3 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
 | yahoo_finance | OK | 46 | 0 | 0 | 0 | 46 | 0.6 |
 | mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.5 |
