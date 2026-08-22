@@ -1,9 +1,9 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 09:08 PKT**
-- Kul khabrein: **131**
-- Feeds: 39/39 OK
+- Aakhri update: **22 Aug 09:49 PKT**
+- Kul khabrein: **138**
+- Feeds: 35/39 OK
 
 ---
 
@@ -127,6 +127,9 @@ The USD/CHF advanced on Friday, registering a modest 0.07% gain, trading at 0.80
 
 ### CAD
 
+**U.S. tariffs on Canada take effect after trade talks collapse**
+`22 Aug 09:15 PKT` · pehli baar dekhi `22 Aug 09:49` · investing_news
+
 **Trade talks between the U.S. and Canada broke down on Friday, officials from both countries said, paving the way for the U.S. to impose 50% tariffs on about $20 billion worth of Canadian goods and risking an all-out trade war**
 `22 Aug 09:06 PKT` · pehli baar dekhi `22 Aug 09:08` · wsj_economy
 
@@ -136,6 +139,11 @@ Negotiations between the neighboring countries broke down Friday night and Ottaw
 `22 Aug 09:06 PKT` · pehli baar dekhi `22 Aug 09:08` · wsj_world
 
 Negotiations between the neighboring countries broke down Friday night and Ottawa threatened to retaliate.
+
+**US imposes 50% tariffs on $20bn worth of Canadian goods after talks fail**
+`22 Aug 09:02 PKT` · pehli baar dekhi `22 Aug 09:49` · aljazeera
+
+Canadian prime minister says country will match tariffs &#039;dollar for dollar&#039; after failure to secure US trade agreement.
 
 **USD/CAD Weekly Outlook**
 `22 Aug 07:39 PKT` · pehli baar dekhi `22 Aug 07:41` · actionforex
@@ -273,10 +281,15 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (38)
+### BINA TAG (43)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 09:36` **aljazeera** — Inundated Philippine communities seek answers over flood control funds
+- `22 Aug 09:30` **aljazeera** — Palestinian teen shot and killed in West Bank attack, UN responds
+- `22 Aug 09:30` **aljazeera** — Nigeria and the Sahel: A growing security divide
+- `22 Aug 09:24` **aljazeera** — At least 13 Tunisians missing as migrant boat headed for Italy capsizes
+- `22 Aug 09:22` **investing_news** — springbig Holdings earnings missed by $0.03, revenue fell short of estimates
 - `22 Aug 08:19` **aljazeera** — US judge strikes down Trump immigrant visa ban affecting 75 countries
 - `22 Aug 08:06` **investing_news** — Moderna cancer vaccine breakthrough revives hopes for biotech turnaround
 - `22 Aug 07:48` **gnews_fed** — Ringgit Rallies As Fiscal Concerns Weigh On Greenback, Expected To Hold At 4.06 - BusinessToday Malaysia
@@ -332,42 +345,48 @@ investing_news (39)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.2 |
+| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.3 |
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.2 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.4 |
 | actionforex | OK | 20 | 11 | 0 | 11 | 9 | 0.1 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.2 |
 | instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
-| wsj_economy | OK | 36 | 1 | 1 | 0 | 35 | 0.0 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.0 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.0 |
-| kitco_general | OK | 29 | 1 | 0 | 1 | 28 | 0.2 |
-| gnews_fed | OK | 70 | 7 | 2 | 5 | 63 | 0.0 |
-| gnews_geopolitics | OK | 100 | 7 | 2 | 5 | 93 | 0.0 |
-| gnews_centralbanks | OK | 35 | 0 | 0 | 0 | 35 | 0.3 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.3 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 0.8 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.6 |
+| kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_fed | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_geopolitics | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_centralbanks | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.4 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 0.9 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.7 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 0.9 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.8 |
-| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.2 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.3 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.3 |
 | investing_commodities | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
-| bbc_business | OK | 50 | 1 | 0 | 1 | 49 | 0.1 |
-| aljazeera | OK | 25 | 14 | 1 | 13 | 11 | 0.0 |
+| bbc_business | OK | 50 | 1 | 0 | 1 | 49 | 0.2 |
+| aljazeera | OK | 25 | 19 | 5 | 14 | 6 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.8 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.6 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.7 |
-| wsj_world | OK | 72 | 4 | 1 | 3 | 68 | 0.0 |
+| wsj_world | OK | 72 | 4 | 0 | 4 | 68 | 0.0 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.1 |
 | investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
 | yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.4 |
 | mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.3 |
+
+**Jo feeds nahi aaye:**
+- kitco_general — FAIL, HTTP 503
+- gnews_fed — FAIL, HTTP 503
+- gnews_geopolitics — FAIL, HTTP 503
+- gnews_centralbanks — FAIL, HTTP 503
