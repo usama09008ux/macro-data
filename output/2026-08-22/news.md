@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 00:06 PKT**
-- Kul khabrein: **496**
+- Aakhri update: **23 Aug 00:33 PKT**
+- Kul khabrein: **516**
 - Feeds: 38/39 OK
 
 ---
@@ -20,6 +20,11 @@ The week in one sentence: Speculative positioning turned more constructive in th
 `22 Aug 18:10 PKT` · pehli baar dekhi `22 Aug 18:18` · gnews_fed
 
 Swiss Franc Slides As Dollar Rebounds; Traders Eye FOMC Minutes Bitcoin World
+
+**Canadian Dollar Rises as Fed Rate Hike Bets Fade and US-Canada Tariff Pause Supports Sentiment - CryptoRank**
+`22 Aug 17:34 PKT` · pehli baar dekhi `23 Aug 00:33` · gnews_fed
+
+Canadian Dollar Rises as Fed Rate Hike Bets Fade and US-Canada Tariff Pause Supports Sentiment CryptoRank
 
 **UK Inflation Holds At 2.9% In July, Matching Expectations; BoE Rate Cut Hopes Persist - Bitcoin World**
 `22 Aug 16:15 PKT` · pehli baar dekhi `22 Aug 17:36` · gnews_centralbanks
@@ -581,10 +586,20 @@ Southeast Asia needs to invest heavily in upgrading and modernising its transmis
 **Why Shell and the Other Oil Majors Aren't Price Gouging**
 `22 Aug 19:35 PKT` · pehli baar dekhi `22 Aug 20:30` · yahoo_finance
 
+**Port of Fujairah Resumes Oil Loadings After Attack and Why it Matters Globally - EnergyNow.com**
+`22 Aug 18:16 PKT` · pehli baar dekhi `23 Aug 00:33` · gnews_geopolitics
+
+Port of Fujairah Resumes Oil Loadings After Attack and Why it Matters Globally EnergyNow.com
+
 **Barclays Sees 13–14 Million bpd Oil Supply Loss From Prolonged Hormuz Disruption - EnergyNow**
 `22 Aug 18:16 PKT` · pehli baar dekhi `22 Aug 21:47` · gnews_geopolitics
 
 Barclays Sees 13–14 Million bpd Oil Supply Loss From Prolonged Hormuz Disruption EnergyNow
+
+**Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com**
+`22 Aug 18:15 PKT` · pehli baar dekhi `23 Aug 00:33` · gnews_geopolitics
+
+Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns EnergyNow.com
 
 **Morgan Stanley Maintains Oil Price Forecasts and Predicts Slow Recovery in Supply - EnergyNow.com**
 `22 Aug 18:09 PKT` · pehli baar dekhi `22 Aug 22:56` · gnews_geopolitics
@@ -605,6 +620,11 @@ Iran Cut Back Oil Production by 400,000 bpd, US Energy Secretary Says EnergyNow
 `22 Aug 17:52 PKT` · pehli baar dekhi `22 Aug 19:09` · gnews_geopolitics
 
 Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say EnergyNow.com
+
+**CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist - EnergyNow.com**
+`22 Aug 17:41 PKT` · pehli baar dekhi `23 Aug 00:33` · gnews_geopolitics
+
+CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist EnergyNow.com
 
 **Oil Falls After Iraq Resumes Oil Exports via Turkey's Ceyhan Port - EnergyNow**
 `22 Aug 17:27 PKT` · pehli baar dekhi `22 Aug 20:52` · gnews_geopolitics
@@ -845,6 +865,11 @@ Health authorities are warning that 'approximately one person has been dying fro
 **Tariffs just pushed Hyundai deeper into America**
 `22 Aug 23:17 PKT` · pehli baar dekhi `22 Aug 23:40` · yahoo_finance
 
+**NOT OUT OF THE WOODS YET: Iran Ceasefire Provides Hope, But Physical Oil Markets to Remain Stressed: Russell - EnergyNow**
+`22 Aug 22:23 PKT` · pehli baar dekhi `23 Aug 00:33` · gnews_geopolitics
+
+NOT OUT OF THE WOODS YET: Iran Ceasefire Provides Hope, But Physical Oil Markets to Remain Stressed: Russell EnergyNow
+
 **Iran condemns US plans to announce new sanctions**
 `22 Aug 22:18 PKT` · pehli baar dekhi `22 Aug 22:35` · investing_commodities
 
@@ -887,6 +912,11 @@ Iran says production is ongoing, but details will not be revealed during war con
 
 Donald Trump escalates pressure on Iran with new sanctions and blockade Crypto Briefing
 
+**Iran War Hands OPEC's Swing Producer Crown to America: Bousso - EnergyNow**
+`22 Aug 18:15 PKT` · pehli baar dekhi `23 Aug 00:33` · gnews_geopolitics
+
+Iran War Hands OPEC's Swing Producer Crown to America: Bousso EnergyNow
+
 **As families retrieve bodies, Gaza is running out of places to bury the dead**
 `22 Aug 18:10 PKT` · pehli baar dekhi `22 Aug 19:09` · aljazeera
 
@@ -896,6 +926,16 @@ Israel&#039;s genocidal war on Gaza has seen thousands of bodies buried in makes
 `22 Aug 17:44 PKT` · pehli baar dekhi `22 Aug 21:20` · gnews_geopolitics
 
 Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says EnergyNow.com
+
+**Oil Prices Fall After US and Iran Receive Framework Ceasefire Proposal - EnergyNow**
+`22 Aug 17:43 PKT` · pehli baar dekhi `23 Aug 00:33` · gnews_geopolitics
+
+Oil Prices Fall After US and Iran Receive Framework Ceasefire Proposal EnergyNow
+
+**How 50 Days of the Iran War Led to the Loss of $50 Billion Worth of Oil - EnergyNow**
+`22 Aug 17:39 PKT` · pehli baar dekhi `23 Aug 00:33` · gnews_geopolitics
+
+How 50 Days of the Iran War Led to the Loss of $50 Billion Worth of Oil EnergyNow
 
 **US Oil Prices Soar in Early Trading on Supply Fears Amid Expanding U.S.-Israeli War With Iran - EnergyNow**
 `22 Aug 17:37 PKT` · pehli baar dekhi `22 Aug 23:40` · gnews_geopolitics
@@ -1025,12 +1065,22 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (222)
+### BINA TAG (234)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 00:13` **yahoo_finance** — Marvell investors must carefully consider latest Google deal
+- `23 Aug 00:10` **yahoo_finance** — New for 2026: Workers 60 to 63 Can Put Away an Extra $11,250. Almost Nobody Does.
+- `23 Aug 00:06` **investing_news** — Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports
+- `23 Aug 00:05` **yahoo_finance** — TSMC's $100 Billion Arizona Expansion Shows The Stock Is a No-Brainer Buy
+- `23 Aug 00:01` **yahoo_finance** — Want $10,000 a Year on $100K? The Private-Credit Funds Banks Can't Compete With Pay 10%+
+- `22 Aug 23:56` **yahoo_finance** — Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports
+- `22 Aug 23:53` **yahoo_finance** — Amazon's Custom Chip Business Crossed a $25 Billion Run Rate: Time to Load Up on Shares?
+- `22 Aug 23:48` **yahoo_finance** — This Fund Pays 400% of the S&P's Dividend and Still Beat Half of Wall Street This Year
+- `22 Aug 23:47` **yahoo_finance** — Iconic fast-food fried chicken chain closes over 300 restaurants
 - `22 Aug 23:43` **investing_news** — What happens when the AI capex cycle slows?
 - `22 Aug 23:37` **yahoo_finance** — Here's How Many Shares of Target You'd Need for $10,000 in Yearly Dividends
+- `22 Aug 23:37` **yahoo_finance** — $830 Million in an Hour: XRP and TRUMP Drive New Record in South Korea
 - `22 Aug 23:35` **yahoo_finance** — She Harvested a $40,000 Stock Gain at the 0% Rate. It Still Made 85% of Her Social Security Taxable.
 - `22 Aug 23:35` **aljazeera** — Israel, Turkiye and the new regional reordering
 - `22 Aug 23:35` **yahoo_finance** — Data Centers Don't Just Need Power -- They Need Cooling. Trane and Carrier Sell It.
@@ -1042,7 +1092,9 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 23:15` **yahoo_finance** — Insider Liquidates More Than 26,000 Shares of Fintech Stock for Tax Obligations
 - `22 Aug 23:05` **yahoo_finance** — Which Consumer Staples ETF Is a Better Buy: Invesco's RSPS or SPDR's XLP?
 - `22 Aug 23:05` **yahoo_finance** — Citi Predicts Up to 410% Rally for These 2 'Strong Buy' Stocks
+- `22 Aug 23:05` **yahoo_finance** — Monthly Spending Breakdown for Retirees 65 and Older: Housing, Food, Transportation, Healthcare
 - `22 Aug 23:01` **yahoo_finance** — Forget JEPI: BlackRock's Answer Pays 7.6%, Charges the Same 0.35%, and Beat It by 10 Points This Year
+- `22 Aug 23:01` **yahoo_finance** — Elon Musk Says China Is 'By Far' Strongest AI Competitor, Echoing 2011 Warning as SPCX Faces New Rocket Rival
 - `22 Aug 22:58` **aljazeera** — Armed men kidnap dozens in attacks on Nigerian villages
 - `22 Aug 22:55` **yahoo_finance** — The Smartest ETF to Buy With $750 Right Now
 - `22 Aug 22:54` **aljazeera** — Israel's Chief Rabbi says Palestinians are not a people and have no rights
@@ -1270,11 +1322,11 @@ investing_news (48), yahoo_finance (2)
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.9 |
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.8 |
-| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
+| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
 | actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.2 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.8 |
 | instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.7 |
-| wsj_economy | OK | 36 | 3 | 2 | 1 | 33 | 0.0 |
+| wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.0 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
@@ -1282,28 +1334,28 @@ investing_news (48), yahoo_finance (2)
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.6 |
 | kitco_general | OK | 8 | 2 | 0 | 2 | 6 | 0.6 |
-| gnews_fed | OK | 47 | 37 | 1 | 36 | 10 | 0.1 |
-| gnews_geopolitics | OK | 79 | 35 | 0 | 35 | 44 | 0.1 |
-| gnews_centralbanks | OK | 45 | 39 | 0 | 39 | 6 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.0 |
+| gnews_fed | OK | 47 | 38 | 1 | 37 | 9 | 0.1 |
+| gnews_geopolitics | OK | 76 | 42 | 7 | 35 | 34 | 0.1 |
+| gnews_centralbanks | OK | 44 | 39 | 0 | 39 | 5 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.1 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.0 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.3 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.5 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.4 |
-| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.8 |
-| oilprice | OK | 15 | 4 | 1 | 3 | 11 | 0.0 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.9 |
+| oilprice | OK | 15 | 4 | 0 | 4 | 11 | 0.0 |
 | investing_commodities | OK | 10 | 6 | 0 | 6 | 4 | 0.1 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
-| bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.3 |
-| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
+| bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.4 |
+| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.4 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.2 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.3 |
-| wsj_world | OK | 72 | 7 | 1 | 6 | 65 | 0.1 |
+| wsj_world | OK | 72 | 7 | 0 | 7 | 65 | 0.1 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.7 |
 | investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 33 | 5 | 28 | 17 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
+| yahoo_finance | OK | 50 | 34 | 11 | 23 | 16 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
