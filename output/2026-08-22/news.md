@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 15:41 PKT**
-- Kul khabrein: **220**
+- Aakhri update: **22 Aug 16:01 PKT**
+- Kul khabrein: **227**
 - Feeds: 39/39 OK
 
 ---
@@ -58,6 +58,11 @@ Dollar Is Approaching a Much Bigger Technical Test Dollar's selloff is not just 
 `22 Aug 13:25 PKT` · pehli baar dekhi `22 Aug 14:47` · gnews_fed
 
 Hawkish vibe at the Fed The Globe and Mail
+
+**S&P 500 Forecast: SPX rises after no surprises from US CPI data - FOREX.com**
+`22 Aug 13:10 PKT` · pehli baar dekhi `22 Aug 16:01` · gnews_fed
+
+S&P 500 Forecast: SPX rises after no surprises from US CPI data FOREX.com
 
 **UK Retail Sales Dip 0.5% in July as Consumer Spending Cools - CryptoRank**
 `22 Aug 10:31 PKT` · pehli baar dekhi `22 Aug 13:50` · gnews_centralbanks
@@ -186,6 +191,11 @@ The Japanese Yen's Historic Rescue Is Running Out of Steam CryptoRank
 
 Sources: BoJ could raise rates again at September 17-18 meeting investingLive
 
+**Japanese Yen: September BoJ Risk Builds – Commerzbank - CryptoRank**
+`22 Aug 08:18 PKT` · pehli baar dekhi `22 Aug 16:01` · gnews_centralbanks
+
+Japanese Yen: September BoJ Risk Builds – Commerzbank CryptoRank
+
 **Japanese Yen Holds Gains on Hawkish BoJ Bets; USD Stays Weak on Fed Cut Expectations - CryptoRank**
 `22 Aug 06:22 PKT` · pehli baar dekhi `22 Aug 06:43` · gnews_fed
 
@@ -289,6 +299,11 @@ Speculative sentiment toward the New Zealand dollar has turned slightly less neg
 
 ### OIL
 
+**Oil Prices Surge Over 6% as U.S.-Iran Tensions Escalate; CPC Corporation Taiwan Announces Fuel Price Freeze for Next Week - finance.biggo.com**
+`22 Aug 15:05 PKT` · pehli baar dekhi `22 Aug 16:01` · gnews_geopolitics
+
+Oil Prices Surge Over 6% as U.S.-Iran Tensions Escalate; CPC Corporation Taiwan Announces Fuel Price Freeze for Next Week finance.biggo.com
+
 **Iran Opens Hormuz Route for Iraq Oil Ships: What It Means for Indian Fuel Prices - Dynamite News**
 `22 Aug 14:01 PKT` · pehli baar dekhi `22 Aug 15:41` · gnews_geopolitics
 
@@ -376,6 +391,11 @@ July FOMC Meeting Minutes Released: What They Signal For Rates And Inflation Bit
 
 CoinShares Expects Bitcoin to Remain Below $80,000 Until Fed Policy Becomes Clearer HOKANEWS.COM
 
+**UK Retail Sales Dip 0.5% In July As Consumer Spending Cools - Bitcoin World**
+`22 Aug 08:50 PKT` · pehli baar dekhi `22 Aug 16:01` · gnews_centralbanks
+
+UK Retail Sales Dip 0.5% In July As Consumer Spending Cools Bitcoin World
+
 **Euro Holds Gains Against Pound After UK Retail Sales Disappoint - Bitcoin World**
 `22 Aug 08:20 PKT` · pehli baar dekhi `22 Aug 10:16` · gnews_centralbanks
 
@@ -392,6 +412,11 @@ CoinShares: Bitcoin to Stay Rangebound Below $80K Until Fed Signals Policy Shift
 BNY: Fed's High Intervention Bar And Backstop Doubts Signal Cautious Stance Bitcoin World
 
 ### RISK
+
+**A massive 'corporate welfare' program is underway — and consumers want a bigger cut of it**
+`22 Aug 16:00 PKT` · pehli baar dekhi `22 Aug 16:01` · mw_topstories
+
+Tariff refunds have been flowing back to companies since President Donald Trump's levies were rejected by the Supreme Court.
 
 **Iran's Top Politicians Urge an End to the War**
 `22 Aug 14:15 PKT` · pehli baar dekhi `22 Aug 14:17` · wsj_world
@@ -410,6 +435,11 @@ Foreign Ministry spokesman Esmaeil Baghaei slams Trump&#039;s latest threat as a
 `22 Aug 12:35 PKT` · pehli baar dekhi `22 Aug 13:11` · aljazeera
 
 Conflict with Israel derails Lebanon&#039;s economic recovery as inflation and consumer prices rise, the global lender says.
+
+**Iran Dismisses 'Unprecedented' Sanctions Proposed By US - Radio Free Europe/Radio Liberty**
+`22 Aug 12:05 PKT` · pehli baar dekhi `22 Aug 16:01` · gnews_geopolitics
+
+Iran Dismisses 'Unprecedented' Sanctions Proposed By US Radio Free Europe/Radio Liberty
 
 **Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA - EnergyNow**
 `22 Aug 11:37 PKT` · pehli baar dekhi `22 Aug 14:17` · gnews_geopolitics
@@ -476,10 +506,11 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (72)
+### BINA TAG (73)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 15:53` **bbc_business** — Taxi drivers urge council to agree 8% fare hike
 - `22 Aug 15:16` **mw_topstories** — 'She's desperate': My friend was laid off and lost her health insurance. How can she find affordable coverage?
 - `22 Aug 15:13` **aljazeera** — More than 16,000 doses of Ervebo vaccine arrive in Ebola-hit DR Congo
 - `22 Aug 15:13` **aljazeera** — Pakistan's PTI seeks contempt action over jailed Imran Khan's hospital move
@@ -572,7 +603,7 @@ investing_news (47)
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.5 |
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.5 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |
-| actionforex | OK | 20 | 16 | 0 | 16 | 4 | 0.0 |
+| actionforex | OK | 20 | 16 | 0 | 16 | 4 | 0.1 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.4 |
 | instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.4 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
@@ -581,11 +612,11 @@ investing_news (47)
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.2 |
-| kitco_general | OK | 24 | 2 | 0 | 2 | 22 | 0.3 |
-| gnews_fed | OK | 68 | 17 | 2 | 15 | 51 | 0.0 |
-| gnews_geopolitics | OK | 92 | 14 | 1 | 13 | 78 | 0.1 |
-| gnews_centralbanks | OK | 32 | 8 | 2 | 6 | 24 | 0.0 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.3 |
+| kitco_general | OK | 24 | 3 | 0 | 3 | 21 | 0.3 |
+| gnews_fed | OK | 60 | 15 | 1 | 14 | 45 | 0.0 |
+| gnews_geopolitics | OK | 98 | 17 | 2 | 15 | 81 | 0.0 |
+| gnews_centralbanks | OK | 38 | 11 | 2 | 9 | 27 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.7 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.6 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.1 |
@@ -596,15 +627,15 @@ investing_news (47)
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
 | investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| bbc_business | OK | 50 | 2 | 0 | 2 | 48 | 0.2 |
-| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
+| bbc_business | OK | 50 | 3 | 1 | 2 | 47 | 0.0 |
+| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.1 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.9 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 17.9 |
 | wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.1 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.4 |
-| investing_news | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| yahoo_finance | OK | 47 | 2 | 0 | 2 | 45 | 0.0 |
-| mw_topstories | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| yahoo_finance | OK | 48 | 2 | 0 | 2 | 46 | 0.0 |
+| mw_topstories | OK | 10 | 4 | 1 | 3 | 6 | 0.0 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.6 |
