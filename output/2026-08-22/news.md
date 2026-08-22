@@ -1,9 +1,9 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 02:07 PKT**
-- Kul khabrein: **570**
-- Feeds: 38/39 OK
+- Aakhri update: **23 Aug 02:35 PKT**
+- Kul khabrein: **580**
+- Feeds: 37/39 OK
 
 ---
 
@@ -86,6 +86,9 @@ Speculative interest in gold futures has strengthened in the United States, with
 Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters bullish majority with Warsh, PCE in focus KITCO
 
 ### USD
+
+**Active ETFs Now Take 42% of Every Dollar Flowing Into ETFs, Up From 26% in 2024**
+`23 Aug 01:50 PKT` · pehli baar dekhi `23 Aug 02:35` · yahoo_finance
 
 **Read My Lips: Warsh's Jackson Hole Playbook, Nvidia Numbers To Steer Wall Street This Week - International Business Times**
 `22 Aug 22:54 PKT` · pehli baar dekhi `23 Aug 00:06` · gnews_fed
@@ -616,6 +619,11 @@ Speculative sentiment toward the New Zealand dollar has turned slightly less neg
 
 ### OIL
 
+**Oil Market Rallies, Brent Price Increases By 6.4% In 5 Days - MarketForces Africa**
+`23 Aug 02:11 PKT` · pehli baar dekhi `23 Aug 02:35` · gnews_geopolitics
+
+Oil Market Rallies, Brent Price Increases By 6.4% In 5 Days MarketForces Africa
+
 **The Gas Turbine Shortage Just Became AI's Biggest Constraint**
 `23 Aug 02:00 PKT` · pehli baar dekhi `23 Aug 02:07` · oilprice
 
@@ -654,6 +662,11 @@ Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts
 `22 Aug 22:00 PKT` · pehli baar dekhi `22 Aug 22:08` · oilprice
 
 For six months the entire conversation about oil logistics has been about one strait, and you can hardly blame anyone for that. Hormuz has been effectively closed since late February, when the war between Iran and the U.S. and Israel started, and the EIA reckons only 4.9 million barrels a day of crude and liquids made it through in the second quarter. In the last quarter of 2025 that number was 21.6 million.
+
+**Personal Finance: Oil prices are high. But why aren't they higher? - Chattanooga Times Free Press**
+`22 Aug 21:00 PKT` · pehli baar dekhi `23 Aug 02:35` · gnews_geopolitics
+
+Personal Finance: Oil prices are high. But why aren't they higher? Chattanooga Times Free Press
 
 **IEA: Southeast Asia Needs Grid Investment to Nearly Quadruple by 2050**
 `22 Aug 20:00 PKT` · pehli baar dekhi `22 Aug 20:30` · oilprice
@@ -961,6 +974,9 @@ Health authorities are warning that 'approximately one person has been dying fro
 
 ### RISK
 
+**Russia stocks lower at close of trade; MOEX Russia Index unchanged**
+`23 Aug 02:20 PKT` · pehli baar dekhi `23 Aug 02:35` · investing_news
+
 **Putin warns Ukraine has opened 'Pandora's box', rejects peace proposals**
 `23 Aug 00:24 PKT` · pehli baar dekhi `23 Aug 01:20` · aljazeera
 
@@ -1002,6 +1018,12 @@ US, Iran trade threats as new sanctions loom Pakistan Today
 `22 Aug 20:17 PKT` · pehli baar dekhi `22 Aug 22:35` · gnews_geopolitics
 
 China buys 80% of Iran's shipped oil: Why US sanctions could put Beijing in a bind financialexpress.com
+
+**Iran threatens military response to US sanctions - DZRH**
+`22 Aug 20:08 PKT` · pehli baar dekhi `23 Aug 02:35` · gnews_geopolitics · **2 feeds mein**
+
+Iran threatens military response to US sanctions DZRH
+  - `22 Aug 07:48` *investing_news* — Iran threatens military response to US sanctions
 
 **Next chapter of U.S.-Canada Trade War: What We Know and Don't About Section 338 Tariffs**
 `22 Aug 19:33 PKT` · pehli baar dekhi `22 Aug 19:38` · actionforex
@@ -1151,9 +1173,6 @@ WTI Steadies Near $86 As Iran Sanctions Threat Offsets US Inventory Build Bitcoi
 
 Trump: Iran Not Ready for 'Right Deal' Amid Tough US Sanctions Global Banking & Finance Review
 
-**Iran threatens military response to US sanctions**
-`22 Aug 07:48 PKT` · pehli baar dekhi `22 Aug 08:27` · investing_news
-
 **Iran Dismisses 'Unprecedented' Sanctions Proposed By US - malaysiasun.com**
 `22 Aug 07:35 PKT` · pehli baar dekhi `22 Aug 14:47` · gnews_geopolitics
 
@@ -1187,16 +1206,18 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (258)
+### BINA TAG (262)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 02:02` **aljazeera** — Israeli army and settlers injure several Palestinians across West Bank
 - `23 Aug 01:49` **aljazeera** — US Postal Service shares mail-in ballot restrictions despite court ruling
 - `23 Aug 01:47` **investing_news** — Nvidia customers face over 15% server price hikes as memory costs soar - report
 - `23 Aug 01:43` **yahoo_finance** — Ross Stores Grew Comparable Sales 10%. TJX Grew 4%. Only One Stock Went Up.
 - `23 Aug 01:40` **yahoo_finance** — At 59½ Your 401(k) Quietly Unlocks While You're Still Working. The In-Service Rollover Nobody in HR Will Ever Mention to You.
 - `23 Aug 01:18` **yahoo_finance** — The Overtime Tax Break Only Counts the "Half," Not the "Time-and-a-Half." Most Workers Are Overestimating It by Double
 - `23 Aug 01:04` **yahoo_finance** — Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks
+- `23 Aug 01:01` **yahoo_finance** — Kevin O'Leary Says If You're Dating, You'll Want to Talk About Money on the 3rd Date — That's How You'll Know If There's a Future
 - `23 Aug 00:59` **yahoo_finance** — Apple vs. Meta Platforms: Which "Magnificent Seven" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?
 - `23 Aug 00:56` **yahoo_finance** — Is Alphabet's Search Risk Really Priced In? Stress-Testing Rosenblatt's $410 Thesis
 - `23 Aug 00:53` **yahoo_finance** — Does Greg Abel Know Something Wall Street Doesn't? New Berkshire Hathaway CEO Doubles Down On a Legacy Department Store Stock With a 3.3% Dividend Yield
@@ -1290,6 +1311,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 20:05` **yahoo_finance** — When he dies, Warren Buffett wants 90% of wife's inheritance put into 1 investment. Here's what it is, and how to get it
 - `22 Aug 20:05` **yahoo_finance** — Forget Rate Hikes. These 3 Vanguard ETFs Could Be Better Positioned for What Comes Next.
 - `22 Aug 20:00` **yahoo_finance** — Prediction: CoreWeave Stock Will Double on This Date
+- `22 Aug 20:00` **yahoo_finance** — A $28.7 Billion Reason to Buy SK hynix Stock Now
 - `22 Aug 19:59` **yahoo_finance** — The Death of the Easy Beat: Why Classic Stock-Picking Rules No Longer Work
 - `22 Aug 19:56` **yahoo_finance** — Gillette Buys South Boston Life Science Site for $99.29M
 - `22 Aug 19:50` **yahoo_finance** — 2 Hydrogen Stocks to Buy in August if You Believe in the Turnaround
@@ -1413,6 +1435,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 08:07` **yahoo_finance** — Bill Gates pulls $818M from Berkshire to buy this giant
 - `22 Aug 08:06` **investing_news** — Moderna cancer vaccine breakthrough revives hopes for biotech turnaround
 - `22 Aug 07:48` **gnews_fed** — Ringgit Rallies As Fiscal Concerns Weigh On Greenback, Expected To Hold At 4.06 - BusinessToday Malaysia
+- `22 Aug 07:39` **gnews_fed** — Ringgit poised to see profit-taking after this week's strong rally - The Malaysian Reserve
 - `22 Aug 07:09` **aljazeera** — Peru rescues people trapped by landslides on highway for nearly a week
 - `22 Aug 06:42` **aljazeera** — Palestinian-British girl, 6, dies days after family drowned off UK coast
 - `22 Aug 06:31` **investing_news** — Solv energy management holdings disposes of 1.3m Solv energy shares
@@ -1452,11 +1475,11 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 
 ---
 
-## Shor — 52 khabrein hatai gayin
+## Shor — 53 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (48), yahoo_finance (4)
+investing_news (48), yahoo_finance (5)
 
 ---
 
@@ -1471,7 +1494,7 @@ investing_news (48), yahoo_finance (4)
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
 | actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.3 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.9 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.8 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.1 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
@@ -1479,18 +1502,18 @@ investing_news (48), yahoo_finance (4)
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.7 |
-| kitco_general | OK | 5 | 4 | 0 | 4 | 1 | 0.4 |
-| gnews_fed | OK | 42 | 40 | 4 | 36 | 2 | 0.1 |
-| gnews_geopolitics | OK | 53 | 52 | 2 | 50 | 1 | 0.0 |
-| gnews_centralbanks | OK | 42 | 41 | 2 | 39 | 1 | 0.2 |
+| kitco_general | OK | 4 | 4 | 0 | 4 | 0 | 0.5 |
+| gnews_fed | OK | 41 | 41 | 1 | 40 | 0 | 0.2 |
+| gnews_geopolitics | OK | 57 | 56 | 3 | 53 | 1 | 0.0 |
+| gnews_centralbanks | OK | 43 | 42 | 0 | 42 | 1 | 0.2 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.1 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.0 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.1 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.4 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.6 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.5 |
-| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.9 |
-| oilprice | OK | 15 | 5 | 1 | 4 | 10 | 0.0 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 1.0 |
+| oilprice | OK | 15 | 5 | 0 | 5 | 10 | 0.0 |
 | investing_commodities | OK | 10 | 6 | 0 | 6 | 4 | 0.2 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
 | bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.4 |
@@ -1501,7 +1524,10 @@ investing_news (48), yahoo_finance (4)
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.4 |
 | wsj_world | OK | 72 | 7 | 0 | 7 | 65 | 0.2 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.8 |
-| investing_news | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 36 | 2 | 34 | 14 | 0.0 |
+| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 37 | 4 | 33 | 13 | 0.0 |
 | mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
+
+**Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi
