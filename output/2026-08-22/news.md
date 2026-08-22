@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 16:53 PKT**
-- Kul khabrein: **237**
+- Aakhri update: **22 Aug 17:36 PKT**
+- Kul khabrein: **256**
 - Feeds: 39/39 OK
 
 ---
@@ -10,6 +10,11 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**UK Inflation Holds At 2.9% In July, Matching Expectations; BoE Rate Cut Hopes Persist - Bitcoin World**
+`22 Aug 16:15 PKT` · pehli baar dekhi `22 Aug 17:36` · gnews_centralbanks
+
+UK Inflation Holds At 2.9% In July, Matching Expectations; BoE Rate Cut Hopes Persist Bitcoin World
 
 **FX markets and central banks Overview - USD/CAD - AUD/USD**
 `22 Aug 05:18 PKT` · pehli baar dekhi `22 Aug 06:43` · marketpulse
@@ -129,6 +134,9 @@ The Mexican currency appreciates to levels last seen in May 2024 as the USD/MXN 
 
 ### EUR
 
+**BofA says CTA Treasury shorts stable, euro short-cover risk rises**
+`22 Aug 16:40 PKT` · pehli baar dekhi `22 Aug 17:36` · investing_news
+
 **EUR/USD Weekly Outlook**
 `22 Aug 11:20 PKT` · pehli baar dekhi `22 Aug 12:05` · actionforex · **5 feeds mein**
 
@@ -173,6 +181,11 @@ GBP/USD&#8217;s rise form 1.3139 resumed by breaking through 1.3557 decisively l
 
 ### JPY
 
+**Dollar steadies near 159 yen as Bank of Japan hike bets rise, US PMIs support greenback - VT Markets**
+`22 Aug 15:15 PKT` · pehli baar dekhi `22 Aug 17:36` · gnews_centralbanks
+
+Dollar steadies near 159 yen as Bank of Japan hike bets rise, US PMIs support greenback VT Markets
+
 **USD/JPY Weekly Outlook**
 `22 Aug 11:15 PKT` · pehli baar dekhi `22 Aug 11:16` · actionforex
 
@@ -200,6 +213,11 @@ Sources: BoJ could raise rates again at September 17-18 meeting investingLive
 `22 Aug 08:18 PKT` · pehli baar dekhi `22 Aug 16:01` · gnews_centralbanks
 
 Japanese Yen: September BoJ Risk Builds – Commerzbank CryptoRank
+
+**BNY: Fed's High Intervention Bar and Backstop Doubts Signal Cautious Stance - CryptoRank**
+`22 Aug 07:42 PKT` · pehli baar dekhi `22 Aug 17:36` · gnews_fed
+
+BNY: Fed's High Intervention Bar and Backstop Doubts Signal Cautious Stance CryptoRank
 
 **Japanese Yen Holds Gains on Hawkish BoJ Bets; USD Stays Weak on Fed Cut Expectations - CryptoRank**
 `22 Aug 06:22 PKT` · pehli baar dekhi `22 Aug 06:43` · gnews_fed
@@ -314,6 +332,11 @@ Oil Markets Brace for New U.S. Sanctions on Iran as Hormuz Shipping Stalls Coinp
 
 Oil Prices Surge Over 6% as U.S.-Iran Tensions Escalate; CPC Corporation Taiwan Announces Fuel Price Freeze for Next Week finance.biggo.com
 
+**The situation is unprecedented! Here are the biggest oil supply disruptions in history ᐉ News from Fakti.bg - World - fakti.bg**
+`22 Aug 14:53 PKT` · pehli baar dekhi `22 Aug 17:36` · gnews_geopolitics
+
+The situation is unprecedented! Here are the biggest oil supply disruptions in history ᐉ News from Fakti.bg - World fakti.bg
+
 **Iran Opens Hormuz Route for Iraq Oil Ships: What It Means for Indian Fuel Prices - Dynamite News**
 `22 Aug 14:01 PKT` · pehli baar dekhi `22 Aug 15:41` · gnews_geopolitics
 
@@ -383,6 +406,11 @@ China's energy strategy has largely shielded it from the fallout of the war in I
 
 ### CRYPTO
 
+**Pound slides to fresh lows near 1.3520 as mixed UK employment data fuels BoE rate cut bets - Bitcoin World**
+`22 Aug 17:05 PKT` · pehli baar dekhi `22 Aug 17:36` · gnews_centralbanks
+
+Pound slides to fresh lows near 1.3520 as mixed UK employment data fuels BoE rate cut bets Bitcoin World
+
 **Bitcoin holds above $77,000 after Treasury-fuelled short squeeze**
 `22 Aug 15:01 PKT` · pehli baar dekhi `22 Aug 15:41` · investing_news
 
@@ -434,6 +462,16 @@ BNY: Fed's High Intervention Bar And Backstop Doubts Signal Cautious Stance Bitc
 Health authorities are warning that 'approximately one person has been dying from Ebola every thirty minutes'.
 
 ### RISK
+
+**Russian strikes kill 6 people in Ukraine, day after shopping complex attack**
+`22 Aug 17:09 PKT` · pehli baar dekhi `22 Aug 17:36` · aljazeera
+
+Meanwhile, Ukrainian drone hits home in southern Russia, killing two children and injuring their parents, officials say.
+
+**Hundreds of children take part in swimming class on Gaza's shore**
+`22 Aug 16:58 PKT` · pehli baar dekhi `22 Aug 17:36` · aljazeera
+
+On Gaza's shore, 1,300 Palestinian children joined a swimming class to cope with the trauma of Israel's genocidal war.
 
 **A massive 'corporate welfare' program is underway — and consumers want a bigger cut of it**
 `22 Aug 16:00 PKT` · pehli baar dekhi `22 Aug 16:01` · mw_topstories
@@ -533,10 +571,21 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (77)
+### BINA TAG (88)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 17:30` **mw_topstories** — Move over, credit cards: Social-media stars are tapping magic wands to buy things
+- `22 Aug 17:20` **yahoo_finance** — Where Will This Vanguard ETF, Loaded With Nvidia and Broadcom, Be in 10 Years?
+- `22 Aug 17:18` **yahoo_finance** — Tempus AI's Accounting Chief Just Reported an Insider Transaction. Here's What Long-Term Investors Should Know
+- `22 Aug 17:15` **yahoo_finance** — 'Always the best time to buy': Todd Nepola says real estate builds generational wealth. 4 ways to get in from $100
+- `22 Aug 17:13` **yahoo_finance** — Her Annuity Pays $1,580 a Month, Guaranteed for Life. At 73, It Pushed Her Medicare Premium Up Two Brackets.
+- `22 Aug 17:09` **investing_news** — BofA maintains underperform ratings on six BDC stocks
+- `22 Aug 17:08` **yahoo_finance** — Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia Earnings Loom
+- `22 Aug 17:05` **investing_news** — Wolfe Research sees CNH stock flat 2027 outlook on commodity prices
+- `22 Aug 17:00` **mw_topstories** — Here's some surprisingly good news for the stock market this midterm election year
+- `22 Aug 16:56` **investing_news** — Jefferies sees metals breakout on currency concerns
+- `22 Aug 16:45` **investing_news** — Gamma, dealer hedging, and the 0DTE effect on market dynamics
 - `22 Aug 16:30` **aljazeera** — Usain Bolt's 100m record broken at World Humanoid Robot Games
 - `22 Aug 16:09` **investing_news** — World Kinect's 64% surge validates InvestingPro Fair Value analysis
 - `22 Aug 16:02` **investing_news** — InvestingPro's Fair Value spotted TTM's 38% drop before it happened
@@ -632,11 +681,11 @@ investing_news (48)
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.6 |
-| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.5 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |
+| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.6 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.8 |
 | actionforex | OK | 20 | 16 | 0 | 16 | 4 | 0.1 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.5 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.4 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.5 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
@@ -644,29 +693,29 @@ investing_news (48)
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.3 |
-| kitco_general | OK | 24 | 2 | 0 | 2 | 22 | 0.3 |
-| gnews_fed | OK | 66 | 17 | 0 | 17 | 49 | 0.1 |
-| gnews_geopolitics | OK | 98 | 19 | 1 | 18 | 79 | 0.0 |
-| gnews_centralbanks | OK | 35 | 11 | 0 | 11 | 24 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.7 |
+| kitco_general | OK | 24 | 2 | 0 | 2 | 22 | 0.4 |
+| gnews_fed | OK | 62 | 18 | 1 | 17 | 44 | 0.1 |
+| gnews_geopolitics | OK | 93 | 19 | 1 | 18 | 74 | 0.1 |
+| gnews_centralbanks | OK | 38 | 16 | 3 | 13 | 22 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.8 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.7 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.2 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.0 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.2 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.1 |
-| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.5 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.2 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.6 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
-| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.0 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.0 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
+| bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.1 |
+| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.1 |
 | eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.9 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.0 |
 | wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.1 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.4 |
-| investing_news | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 2 | 0 | 2 | 48 | 0.1 |
-| mw_topstories | OK | 10 | 4 | 0 | 4 | 6 | 0.0 |
-| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.6 |
+| investing_news | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 7 | 5 | 2 | 42 | 0.0 |
+| mw_topstories | OK | 10 | 8 | 2 | 6 | 2 | 0.0 |
+| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |
