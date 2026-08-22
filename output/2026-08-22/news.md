@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **22 Aug 22:56 PKT**
-- Kul khabrein: **458**
+- Aakhri update: **22 Aug 23:40 PKT**
+- Kul khabrein: **482**
 - Feeds: 38/39 OK
 
 ---
@@ -60,6 +60,11 @@ Cryptocurrencies and precious metals shot higher, while the U.S. dollar weakened
 **Where are central banks keeping their gold?**
 `22 Aug 13:03 PKT` · pehli baar dekhi `22 Aug 13:11` · investing_news
 
+**Gold Pares Gains, Stays Near Highs as Treasury Buybacks Weigh on Dollar - CryptoRank**
+`22 Aug 12:34 PKT` · pehli baar dekhi `22 Aug 23:40` · gnews_fed
+
+Gold Pares Gains, Stays Near Highs as Treasury Buybacks Weigh on Dollar CryptoRank
+
 **Speculative Silver Bets Hold Steady in the U.S., CFTC Data Shows**
 `22 Aug 04:34 PKT` · instaforex
 
@@ -86,6 +91,11 @@ Wall Street bereft of bears after gold smashes $4,600/oz, Main Street bolsters b
 This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. The Motley Fool
   - `22 Aug 22:20` *gnews_fed* — This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. - Yahoo Finance
   - `22 Aug 22:20` *yahoo_finance* — This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh.
+
+**Swiss Franc Slides as Dollar Rebounds; Traders Eye FOMC Minutes - CryptoRank**
+`22 Aug 22:17 PKT` · pehli baar dekhi `22 Aug 23:40` · gnews_fed
+
+Swiss Franc Slides as Dollar Rebounds; Traders Eye FOMC Minutes CryptoRank
 
 **Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive**
 `22 Aug 21:00 PKT` · pehli baar dekhi `22 Aug 21:20` · yahoo_finance
@@ -155,6 +165,11 @@ UK Retail Sales Ex-Fuel Miss Forecast in July as Consumer Spending Stays Weak Cr
 `22 Aug 10:31 PKT` · pehli baar dekhi `22 Aug 13:50` · gnews_centralbanks
 
 UK Retail Sales Dip 0.5% in July as Consumer Spending Cools CryptoRank
+
+**US Yields Rise, Dollar Falls: The Divergence Explained - CryptoRank**
+`22 Aug 10:03 PKT` · pehli baar dekhi `22 Aug 23:40` · gnews_fed
+
+US Yields Rise, Dollar Falls: The Divergence Explained CryptoRank
 
 **Treasury Yields Rising August 2026: Investor Guide to Bond Market - Intellectia AI**
 `22 Aug 09:07 PKT` · pehli baar dekhi `22 Aug 09:08` · gnews_fed
@@ -247,6 +262,11 @@ An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-
 
 Waldhof Mannheim and Kaiserslautern game halted for 30 minutes as eight people hospitalised with about 100 injured.
 
+**Euro Holds Gains Against Pound After UK Retail Sales Disappoint - CryptoRank**
+`22 Aug 18:36 PKT` · pehli baar dekhi `22 Aug 23:40` · gnews_centralbanks
+
+Euro Holds Gains Against Pound After UK Retail Sales Disappoint CryptoRank
+
 **Germany's Producer Prices Rise 1.1% in July, Exceeding Forecasts - CryptoRank**
 `22 Aug 17:36 PKT` · pehli baar dekhi `22 Aug 22:35` · gnews_centralbanks
 
@@ -312,6 +332,11 @@ CFTC data released on 21 August 2026 show a slight easing in bearish sentiment t
 Euro Pares Gains Against US Dollar but Eyes Fourth Weekly Advance CryptoRank
 
 ### GBP
+
+**Pound slides to fresh lows near 1.3520 as mixed UK employment data fuels BoE rate cut bets - CryptoRank**
+`22 Aug 19:13 PKT` · pehli baar dekhi `22 Aug 23:40` · gnews_centralbanks
+
+Pound slides to fresh lows near 1.3520 as mixed UK employment data fuels BoE rate cut bets CryptoRank
 
 **The Bank of England is costing the taxpayer billions. It must stop - The Telegraph**
 `22 Aug 17:00 PKT` · pehli baar dekhi `22 Aug 18:48` · gnews_centralbanks
@@ -792,6 +817,9 @@ Health authorities are warning that 'approximately one person has been dying fro
 
 ### RISK
 
+**Tariffs just pushed Hyundai deeper into America**
+`22 Aug 23:17 PKT` · pehli baar dekhi `22 Aug 23:40` · yahoo_finance
+
 **Iran condemns US plans to announce new sanctions**
 `22 Aug 22:18 PKT` · pehli baar dekhi `22 Aug 22:35` · investing_commodities
 
@@ -838,6 +866,11 @@ Israel&#039;s genocidal war on Gaza has seen thousands of bodies buried in makes
 `22 Aug 17:44 PKT` · pehli baar dekhi `22 Aug 21:20` · gnews_geopolitics
 
 Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says EnergyNow.com
+
+**US Oil Prices Soar in Early Trading on Supply Fears Amid Expanding U.S.-Israeli War With Iran - EnergyNow**
+`22 Aug 17:37 PKT` · pehli baar dekhi `22 Aug 23:40` · gnews_geopolitics
+
+US Oil Prices Soar in Early Trading on Supply Fears Amid Expanding U.S.-Israeli War With Iran EnergyNow
 
 **Russian strikes kill 6 people in Ukraine, day after shopping complex attack**
 `22 Aug 17:09 PKT` · pehli baar dekhi `22 Aug 17:36` · aljazeera
@@ -962,10 +995,26 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (198)
+### BINA TAG (215)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Aug 23:33` **yahoo_finance** — I've Held Microsoft for 10 Years. Here's Why I'm Not Selling a Single Share.
+- `22 Aug 23:33` **yahoo_finance** — Bill Gates makes $180 million bet on backbone of America's economy
+- `22 Aug 23:20` **yahoo_finance** — CoreWeave CEO Michael Intrator Sold Over 13,000 Shares for $1.2 Million. What Does This Mean for Investors?
+- `22 Aug 23:20` **yahoo_finance** — Warren Buffett's Hand-Picked Successor, Greg Abel, Has 72% of Berkshire Hathaway's Portfolio Invested in Just 5 Stocks. Here's My Top Pick for August.
+- `22 Aug 23:15` **yahoo_finance** — Insider Liquidates More Than 26,000 Shares of Fintech Stock for Tax Obligations
+- `22 Aug 23:05` **yahoo_finance** — Which Consumer Staples ETF Is a Better Buy: Invesco's RSPS or SPDR's XLP?
+- `22 Aug 23:05` **yahoo_finance** — Citi Predicts Up to 410% Rally for These 2 'Strong Buy' Stocks
+- `22 Aug 23:01` **yahoo_finance** — Forget JEPI: BlackRock's Answer Pays 7.6%, Charges the Same 0.35%, and Beat It by 10 Points This Year
+- `22 Aug 22:58` **aljazeera** — Armed men kidnap dozens in attacks on Nigerian villages
+- `22 Aug 22:55` **yahoo_finance** — The Smartest ETF to Buy With $750 Right Now
+- `22 Aug 22:54` **aljazeera** — Israel's Chief Rabbi says Palestinians are not a people and have no rights
+- `22 Aug 22:52` **aljazeera** — Trump seeks to block the BBC's attempt to subpoena Ivanka Trump, Trump Jr
+- `22 Aug 22:50` **yahoo_finance** — Executive Parts Ways With 4,000 Shares of Regional Bank Stock, Following 11% Rally
+- `22 Aug 22:50` **yahoo_finance** — 1 Quantum Computing Stock That Looks Like a Screaming Buy Right Now
+- `22 Aug 22:47` **aljazeera** — 'Not a small issue': People deported by US to Liberia face uncertain future
+- `22 Aug 22:34` **aljazeera** — Seven killed, including two police officers, in UK 'wrong-side' car crash
 - `22 Aug 22:32` **yahoo_finance** — Let's Be Real. For Most Retirees, Only One Great Lake Town Actually Works
 - `22 Aug 22:17` **yahoo_finance** — Comcast adds new service to internet plans as customers leave
 - `22 Aug 22:12` **yahoo_finance** — After Exploding by 18% in One Day, Is XRP a Buy?
@@ -1023,6 +1072,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 19:20` **yahoo_finance** — The CMBS Maturity Wall Hides a Sharp Refinancing Reset
 - `22 Aug 19:15` **yahoo_finance** — How XRP Went From a Cycle Low to a Three-Month High in Four Days
 - `22 Aug 19:15` **yahoo_finance** — JPMREIT's First Office Buy Lags Its Industrial Portfolio
+- `22 Aug 19:13` **gnews_centralbanks** — UK Retail Price Index Holds at 3.2% in July, Matching Forecasts - CryptoRank
 - `22 Aug 19:09` **yahoo_finance** — Invesco Cuts Fees 20% to Stem Property Fund Redemptions
 - `22 Aug 19:07` **yahoo_finance** — When will AI begin delivering meaningful earnings gains? Goldman Sachs assesses the outlook
 - `22 Aug 19:05` **yahoo_finance** — CRE Borrowing Costs Stall as SOFR Finds a Floor in Q2
@@ -1181,23 +1231,23 @@ investing_news (48), yahoo_finance (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.8 |
+| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.9 |
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.8 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
-| actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.1 |
-| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.7 |
+| actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.2 |
+| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.8 |
 | instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.7 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.5 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.6 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.5 |
-| kitco_general | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
-| gnews_fed | OK | 47 | 28 | 2 | 26 | 19 | 0.0 |
-| gnews_geopolitics | OK | 82 | 37 | 1 | 36 | 45 | 0.1 |
-| gnews_centralbanks | OK | 54 | 42 | 1 | 41 | 12 | 0.0 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.6 |
+| kitco_general | OK | 8 | 1 | 0 | 1 | 7 | 0.6 |
+| gnews_fed | OK | 46 | 35 | 3 | 32 | 11 | 0.1 |
+| gnews_geopolitics | OK | 82 | 38 | 1 | 37 | 44 | 0.1 |
+| gnews_centralbanks | OK | 45 | 37 | 3 | 34 | 8 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.0 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.9 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
@@ -1205,18 +1255,18 @@ investing_news (48), yahoo_finance (1)
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.5 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.4 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.8 |
-| oilprice | OK | 15 | 3 | 0 | 3 | 12 | 0.0 |
-| investing_commodities | OK | 10 | 6 | 0 | 6 | 4 | 0.0 |
+| oilprice | OK | 15 | 3 | 0 | 3 | 12 | 0.1 |
+| investing_commodities | OK | 10 | 6 | 0 | 6 | 4 | 0.1 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
 | bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.3 |
-| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.4 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.2 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.2 |
-| wsj_world | OK | 72 | 7 | 0 | 7 | 65 | 0.0 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.3 |
+| wsj_world | OK | 72 | 7 | 0 | 7 | 65 | 0.1 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.7 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 31 | 3 | 28 | 18 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| yahoo_finance | OK | 49 | 32 | 12 | 20 | 17 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
