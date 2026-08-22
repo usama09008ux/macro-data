@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "23 Aug 03:27",
+  "updated_pkt": "23 Aug 03:51",
   "feeds": [
     {
       "name": "investinglive",
@@ -71,7 +71,7 @@
       "name": "wsj_economy",
       "status": "OK",
       "fetched": 36,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.0,
       "note": "",
       "in_window": 3,
       "new": 0,
@@ -147,45 +147,45 @@
     {
       "name": "kitco_general",
       "status": "OK",
-      "fetched": 4,
+      "fetched": 3,
       "newest_age_days": 0.5,
       "note": "",
-      "in_window": 4,
+      "in_window": 3,
       "new": 0,
-      "seen_before": 4,
+      "seen_before": 3,
       "out_of_window": 0
     },
     {
       "name": "gnews_fed",
       "status": "OK",
-      "fetched": 42,
+      "fetched": 43,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 42,
+      "in_window": 43,
       "new": 1,
-      "seen_before": 41,
+      "seen_before": 42,
       "out_of_window": 0
     },
     {
       "name": "gnews_geopolitics",
       "status": "OK",
-      "fetched": 59,
-      "newest_age_days": 0.1,
+      "fetched": 60,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 59,
+      "in_window": 60,
       "new": 0,
-      "seen_before": 59,
+      "seen_before": 60,
       "out_of_window": 0
     },
     {
       "name": "gnews_centralbanks",
       "status": "OK",
-      "fetched": 41,
-      "newest_age_days": 0.1,
+      "fetched": 40,
+      "newest_age_days": 0.2,
       "note": "",
-      "in_window": 41,
-      "new": 1,
-      "seen_before": 40,
+      "in_window": 40,
+      "new": 2,
+      "seen_before": 38,
       "out_of_window": 0
     },
     {
@@ -236,7 +236,7 @@
       "name": "boj_whatsnew",
       "status": "OK",
       "fetched": 46,
-      "newest_age_days": 1.6,
+      "newest_age_days": 1.7,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -245,14 +245,14 @@
     },
     {
       "name": "rba_media",
-      "status": "OK",
-      "fetched": 1,
-      "newest_age_days": 3.6,
-      "note": "",
+      "status": "FAIL",
+      "fetched": 0,
+      "newest_age_days": null,
+      "note": "HTTP 403",
       "in_window": 0,
       "new": 0,
       "seen_before": 0,
-      "out_of_window": 1
+      "out_of_window": 0
     },
     {
       "name": "mining_com",
@@ -335,7 +335,7 @@
       "name": "boc_press",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 22.5,
+      "newest_age_days": 22.6,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -393,8 +393,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 0,
-      "seen_before": 10,
+      "new": 1,
+      "seen_before": 9,
       "out_of_window": 0
     },
     {
@@ -404,8 +404,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 37,
-      "new": 5,
-      "seen_before": 32,
+      "new": 4,
+      "seen_before": 33,
       "out_of_window": 13
     },
     {
