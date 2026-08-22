@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Aug 2026
 
 - Trading day: **22 Aug 03:00 -> 23 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 00:33 PKT**
-- Kul khabrein: **516**
+- Aakhri update: **23 Aug 00:53 PKT**
+- Kul khabrein: **525**
 - Feeds: 38/39 OK
 
 ---
@@ -140,6 +140,16 @@ The U.S. Treasury's Bond Market Intervention Is a Nightmare Scenario for Fed Cha
 `22 Aug 16:43 PKT` · pehli baar dekhi `22 Aug 20:30` · gnews_centralbanks
 
 Austria Inflation Rises to 2.7% in July, Beating Forecasts CryptoRank
+
+**Euro Rises to Three-Month High as US Bond Buyback Plan Pressures Dollar - CryptoRank**
+`22 Aug 16:24 PKT` · pehli baar dekhi `23 Aug 00:53` · gnews_fed
+
+Euro Rises to Three-Month High as US Bond Buyback Plan Pressures Dollar CryptoRank
+
+**Bessent Put, Economic Warfare, and Fed Minutes: What Investors Should Watch - CryptoRank**
+`22 Aug 15:48 PKT` · pehli baar dekhi `23 Aug 00:53` · gnews_fed
+
+Bessent Put, Economic Warfare, and Fed Minutes: What Investors Should Watch CryptoRank
 
 **US Dollar Upside Capped as Treasury Yields Ease, MUFG Says - CryptoRank**
 `22 Aug 15:18 PKT` · pehli baar dekhi `22 Aug 18:18` · gnews_fed
@@ -468,6 +478,16 @@ The USD/CHF advanced on Friday, registering a modest 0.07% gain, trading at 0.80
 
 ### CAD
 
+**Canada to match US tariffs "dollar for dollar," PM Carney says**
+`23 Aug 00:13 PKT` · pehli baar dekhi `23 Aug 00:53` · aljazeera
+
+Canadian Prime Minister Mark Carney says Canada will match new US tariffs "dollar for dollar."
+
+**Carney: Canada will enact retaliatory US tariffs starting September 8**
+`23 Aug 00:00 PKT` · pehli baar dekhi `23 Aug 00:53` · aljazeera
+
+The prime minister spoke hours after the US imposed 50 percent tariffs on nearly $20bn worth of Canadian goods.
+
 **New tariffs have kicked in on U.S. imports from Canada after trade talks collapsed. Canada intends to set retaliatory tariffs starting in September. Here's what to know about the new levies.**
 `22 Aug 23:59 PKT` · pehli baar dekhi `23 Aug 00:06` · wsj_economy
 
@@ -567,6 +587,9 @@ The Aussie Dollar finished the week with gains of over 0.82% on Friday and up mo
 Speculative sentiment toward the New Zealand dollar has turned slightly less negative, with CFTC NZD net positions improving from -39.6K to -32.6K, according to data updated on 21 August 2026. The move reflects a reduction in overall bearish positioning, even though traders remain net short on the currency.
 
 ### OIL
+
+**Can This 6.3% Yield Survive if Oil Crashes Again?**
+`23 Aug 00:35 PKT` · pehli baar dekhi `23 Aug 00:53` · yahoo_finance
 
 **Clean Energy Spending Tracking Toward Record $180 Billion in 2026**
 `23 Aug 00:00 PKT` · pehli baar dekhi `23 Aug 00:06` · oilprice
@@ -1065,10 +1088,13 @@ Ukraine's president accuses Russia of a 'cowardly and deliberate' attack on a ma
 
 US president says Iran &#039;would love to make a deal, but they're not ready to make the right deal in my opinion&#039;.
 
-### BINA TAG (234)
+### BINA TAG (238)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 00:24` **investing_news** — Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports
+- `23 Aug 00:22` **yahoo_finance** — My 3 Favorite High-Yield Dividend Stocks to Buy Right Now
+- `23 Aug 00:18` **aljazeera** — Envoy says Israel did not give the US notice before strikes on Syrian base
 - `23 Aug 00:13` **yahoo_finance** — Marvell investors must carefully consider latest Google deal
 - `23 Aug 00:10` **yahoo_finance** — New for 2026: Workers 60 to 63 Can Put Away an Extra $11,250. Almost Nobody Does.
 - `23 Aug 00:06` **investing_news** — Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports
@@ -1086,6 +1112,7 @@ US president says Iran &#039;would love to make a deal, but they're not ready to
 - `22 Aug 23:35` **yahoo_finance** — Data Centers Don't Just Need Power -- They Need Cooling. Trane and Carrier Sell It.
 - `22 Aug 23:33` **yahoo_finance** — I've Held Microsoft for 10 Years. Here's Why I'm Not Selling a Single Share.
 - `22 Aug 23:33` **yahoo_finance** — Bill Gates makes $180 million bet on backbone of America's economy
+- `22 Aug 23:31` **yahoo_finance** — The Full Retirement Age Quietly Reached 67 This Year. I Don't Want a Number on Paper Deciding When I Can Afford to Stop Working
 - `22 Aug 23:29` **aljazeera** — Swedish police identify 17-year-old girl as victim in school sword attack
 - `22 Aug 23:20` **yahoo_finance** — CoreWeave CEO Michael Intrator Sold Over 13,000 Shares for $1.2 Million. What Does This Mean for Investors?
 - `22 Aug 23:20` **yahoo_finance** — Warren Buffett's Hand-Picked Successor, Greg Abel, Has 72% of Berkshire Hathaway's Portfolio Invested in Just 5 Stocks. Here's My Top Pick for August.
@@ -1321,11 +1348,11 @@ investing_news (48), yahoo_finance (2)
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.9 |
-| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.8 |
+| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.9 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
 | actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.2 |
 | marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.8 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.7 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.8 |
 | wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.0 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
@@ -1333,22 +1360,22 @@ investing_news (48), yahoo_finance (2)
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.6 |
-| kitco_general | OK | 8 | 2 | 0 | 2 | 6 | 0.6 |
-| gnews_fed | OK | 47 | 38 | 1 | 37 | 9 | 0.1 |
-| gnews_geopolitics | OK | 76 | 42 | 7 | 35 | 34 | 0.1 |
-| gnews_centralbanks | OK | 44 | 39 | 0 | 39 | 5 | 0.1 |
+| kitco_general | OK | 8 | 2 | 0 | 2 | 6 | 0.7 |
+| gnews_fed | OK | 49 | 41 | 2 | 39 | 8 | 0.1 |
+| gnews_geopolitics | OK | 62 | 41 | 0 | 41 | 21 | 0.1 |
+| gnews_centralbanks | OK | 41 | 37 | 0 | 37 | 4 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.1 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.0 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.3 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.5 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.4 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.5 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.9 |
 | oilprice | OK | 15 | 4 | 0 | 4 | 11 | 0.0 |
 | investing_commodities | OK | 10 | 6 | 0 | 6 | 4 | 0.1 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
 | bbc_business | OK | 50 | 3 | 0 | 3 | 47 | 0.4 |
-| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.4 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.2 |
@@ -1356,6 +1383,6 @@ investing_news (48), yahoo_finance (2)
 | wsj_world | OK | 72 | 7 | 0 | 7 | 65 | 0.1 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.7 |
 | investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 34 | 11 | 23 | 16 | 0.0 |
+| yahoo_finance | OK | 50 | 34 | 3 | 31 | 16 | 0.0 |
 | mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
