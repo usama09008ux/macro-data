@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 16:58 PKT**
-- Kul khabrein: **118**
+- Aakhri update: **23 Aug 17:56 PKT**
+- Kul khabrein: **135**
 - Feeds: 29/39 OK
 
 ---
@@ -27,6 +27,16 @@ Bullion to Shine: US Inflation, Fed Signals Drive Gold & Silver Rediff MoneyWiz
 MCX gold rallies for fifth straight week; gains ₹19,000 per 10 grams in August livemint.com
 
 ### USD
+
+**Jackson Hole 2026: Fed Chair Warsh's Speech Could Move Markets - Intellectia AI**
+`23 Aug 17:07 PKT` · pehli baar dekhi `23 Aug 17:56` · gnews_fed
+
+Jackson Hole 2026: Fed Chair Warsh's Speech Could Move Markets Intellectia AI
+
+**The Week Ahead: Warsh Makes Jackson Hole Debut as Nvidia and Marvell Earnings Test AI Investment Demand - TradingKey**
+`23 Aug 17:04 PKT` · pehli baar dekhi `23 Aug 17:56` · gnews_fed
+
+The Week Ahead: Warsh Makes Jackson Hole Debut as Nvidia and Marvell Earnings Test AI Investment Demand TradingKey
 
 **US Inflation Is Cooling on Paper, but Price Pressures Have Gone Far Beyond the Pump - finance.biggo.com**
 `23 Aug 15:25 PKT` · pehli baar dekhi `23 Aug 15:50` · gnews_fed
@@ -97,6 +107,11 @@ Pound Sterling to US Dollar Exchange Rate August 24 2026 Robinhood
 Bank of England insiders warn AI boom could push up interest rates in Britain This is Money
 
 ### JPY
+
+**The Treasury's bond-market intervention isn't working. So what comes next?**
+`23 Aug 17:00 PKT` · pehli baar dekhi `23 Aug 17:56` · mw_topstories
+
+You can't just sweep $40 trillion in U.S. national debt under a rug and forget about it — or so the bond market appears to be telling Treasury Secretary Scott Bessent.
 
 **Yen Poised to Test 160 Again as Markets Focus on BOJ and Fed Officials' Remarks - finance.biggo.com**
 `23 Aug 15:35 PKT` · pehli baar dekhi `23 Aug 16:39` · gnews_centralbanks
@@ -223,8 +238,18 @@ The Rhine has slightly risen from its mid-August record low (when Kaub's water l
 
 ### CRYPTO
 
+**Market Watch: Nvidia (NVDA) Earnings, Bitcoin Surges Past $70K, and Fed-Treasury Tensions Rise - Blockonomi**
+`23 Aug 17:20 PKT` · pehli baar dekhi `23 Aug 17:56` · gnews_fed
+
+Market Watch: Nvidia (NVDA) Earnings, Bitcoin Surges Past $70K, and Fed-Treasury Tensions Rise Blockonomi
+
 **Bitcoin slips under $77,000 as rally boosts mining economics**
 `23 Aug 14:58 PKT` · pehli baar dekhi `23 Aug 15:23` · investing_news
+
+**China cuts oil imports, driving $30 drop in global oil prices amid Iran tensions - Crypto Briefing**
+`23 Aug 14:01 PKT` · pehli baar dekhi `23 Aug 17:56` · gnews_geopolitics
+
+China cuts oil imports, driving $30 drop in global oil prices amid Iran tensions Crypto Briefing
 
 **BCA Research Advises Selling The U.S. Dollar: Here's Why - Bitcoin World**
 `23 Aug 13:55 PKT` · pehli baar dekhi `23 Aug 16:12` · gnews_fed
@@ -238,6 +263,29 @@ Bitcoin price analysis: What would activate the potential bull flag toward $84K-
 
 ### RISK
 
+**Iran says new sanctions threatened by 'desperate' US will fail**
+`23 Aug 17:30 PKT` · pehli baar dekhi `23 Aug 17:56` · investing_news
+
+**Iran Finds 7.5 Trillion Cubic Feet of Gas; Sanctions Cloud Production - Whalesbook**
+`23 Aug 17:25 PKT` · pehli baar dekhi `23 Aug 17:56` · gnews_geopolitics
+
+Iran Finds 7.5 Trillion Cubic Feet of Gas; Sanctions Cloud Production Whalesbook
+
+**US-Israel-Iran War Live News: Iran's Oil Minister Announces Major Gas Discovery in Fars Province of More Than 7.5 Trillion Cubic Feet - The Sunday Guardian**
+`23 Aug 17:22 PKT` · pehli baar dekhi `23 Aug 17:56` · gnews_geopolitics
+
+US-Israel-Iran War Live News: Iran's Oil Minister Announces Major Gas Discovery in Fars Province of More Than 7.5 Trillion Cubic Feet The Sunday Guardian
+
+**Zelenskyy says wartime elections could 'destroy' Ukraine**
+`23 Aug 17:19 PKT` · pehli baar dekhi `23 Aug 17:56` · aljazeera
+
+The embattled Ukrainian president slams Mykhailo Fedorov&#039;s idea as a &#039;tsunami&#039; that would &#039;split&#039; the country.
+
+**Can Iran retaliate against countries that join US 'economic war'?**
+`23 Aug 16:50 PKT` · pehli baar dekhi `23 Aug 17:56` · aljazeera
+
+Iran warns that countries backing US economic sanctions will be considered an enemy of Tehran.
+
 **Israel's war on Gaza forces Palestinians to rely on 'Stone Age' toilets**
 `23 Aug 16:00 PKT` · pehli baar dekhi `23 Aug 16:39` · aljazeera
 
@@ -247,6 +295,11 @@ The displaced in Gaza are struggling to find safe, discreet and sanitary toilets
 `23 Aug 15:56 PKT` · pehli baar dekhi `23 Aug 16:12` · wsj_markets
 
 Plus, Russia's military is testing its readiness for a fresh mobilization push, and we take you inside Wall Street's exclusive wilderness retreat.
+
+**Steady Oil Prices Set for Weekly Gain as Iran War Rumbles On - EnergyNow.com**
+`23 Aug 15:52 PKT` · pehli baar dekhi `23 Aug 17:56` · gnews_geopolitics
+
+Steady Oil Prices Set for Weekly Gain as Iran War Rumbles On EnergyNow.com
 
 **Russia Tests Readiness for New Round of Military Mobilization**
 `23 Aug 14:30 PKT` · pehli baar dekhi `23 Aug 14:53` · wsj_world
@@ -295,10 +348,16 @@ Iran warns that countries joining the US economic war against Iran will face 'ti
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (56)
+### BINA TAG (62)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 17:45` **investing_news** — Saudi Arabia stocks higher at close of trade; Tadawul All Share up 1.13%
+- `23 Aug 17:13` **aljazeera** — DR Congo miners risk Ebola to make a living
+- `23 Aug 17:13` **aljazeera** — Real Madrid's Mourinho condemns bullying of Vinicius after La Liga win
+- `23 Aug 17:02` **aljazeera** — US Senate nominee Abdul El-Sayed rebuts criticism from JD Vance
+- `23 Aug 17:00` **mw_topstories** — I'm turning 70. Here's how I'm making this decade the richest of my retirement.
+- `23 Aug 16:44` **aljazeera** — Sydney Marathon organisers not running away from 'unfortunate' medal error
 - `23 Aug 16:30` **gnews_fed** — Wall St Week Ahead-Nvidia Earnings, Jackson Hole to Test Pillars of Stock Rally - Newsmax
 - `23 Aug 16:17` **investing_news** — Citi expects Nvidia stock to trade higher post earnings
 - `23 Aug 16:09` **investing_news** — Castle Biosciences surges 67% after InvestingPro Fair Value call
@@ -364,45 +423,45 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.3 |
-| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.5 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.9 |
+| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.4 |
+| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.6 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.0 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.9 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.5 |
-| instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.4 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.5 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
+| instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.5 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.0 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.3 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 35 | 12 | 2 | 10 | 23 | 0.0 |
-| gnews_geopolitics | OK | 92 | 13 | 1 | 12 | 79 | 0.1 |
-| gnews_centralbanks | OK | 42 | 14 | 0 | 14 | 28 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.7 |
+| gnews_fed | OK | 34 | 15 | 3 | 12 | 19 | 0.0 |
+| gnews_geopolitics | OK | 78 | 17 | 4 | 13 | 61 | 0.0 |
+| gnews_centralbanks | OK | 33 | 14 | 0 | 14 | 19 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.8 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.7 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.0 |
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.2 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.2 |
 | mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.6 |
-| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
+| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
 | investing_commodities | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.0 |
-| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.1 |
-| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.9 |
+| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.0 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.0 |
-| wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.1 |
-| wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.0 |
+| wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.0 |
+| wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.1 |
 | investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 3 | 0 | 3 | 46 | 0.1 |
-| mw_topstories | OK | 10 | 1 | 0 | 1 | 9 | 0.0 |
-| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.9 |
+| yahoo_finance | OK | 50 | 3 | 0 | 3 | 47 | 0.1 |
+| mw_topstories | OK | 10 | 4 | 2 | 2 | 6 | 0.0 |
+| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 1.0 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi
