@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 11:25 PKT**
-- Kul khabrein: **49**
+- Aakhri update: **23 Aug 12:11 PKT**
+- Kul khabrein: **56**
 - Feeds: 37/39 OK
 
 ---
@@ -76,7 +76,19 @@ Bessent's Yen Intervention: A Turning Point or Temporary Relief? CryptoRank
 
 Provincial premiers have joined Canada's Prime Minister Mark Carney, firing back after US President imposed tariffs.
 
+### AUD
+
+**Starc takes 10 as Australia hand Bangladesh innings defeat in second Test**
+`23 Aug 11:48 PKT` · pehli baar dekhi `23 Aug 12:11` · aljazeera
+
+Australia bounce back after losing first Test, bowling out the visitors for 64 and 95 to win by an innings and 51 runs.
+
 ### OIL
+
+**Market outlook next week: Fed Chair speech, US-Iran tensions and crude oil in focus - BizzBuzz**
+`23 Aug 11:29 PKT` · pehli baar dekhi `23 Aug 12:11` · gnews_fed
+
+Market outlook next week: Fed Chair speech, US-Iran tensions and crude oil in focus BizzBuzz
 
 **US-Iran war: Crude oil price is key | Is Tehran writing the obituary of Turkey-Pakistan-Saudi Arabia's defence pact? - livemint.com**
 `23 Aug 11:04 PKT` · pehli baar dekhi `23 Aug 11:25` · gnews_geopolitics
@@ -117,6 +129,11 @@ Bitcoin price analysis: What would activate the potential bull flag toward $84K-
 
 ### RISK
 
+**Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war**
+`23 Aug 10:46 PKT` · pehli baar dekhi `23 Aug 12:11` · bbc_business
+
+Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs as he accused the US of starting a trade war.
+
 **Canada to hit US with retaliatory tariffs as trade war escalates**
 `23 Aug 07:34 PKT` · pehli baar dekhi `23 Aug 08:04` · aljazeera
 
@@ -142,10 +159,12 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 
 Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 
-### BINA TAG (24)
+### BINA TAG (28)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 11:59` **aljazeera** — Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles
+- `23 Aug 11:09` **investing_news** — Korean retail traders chase 40% coupons after historic stock rout - report
 - `23 Aug 11:05` **investing_news** — 5 big analyst AI moves: Apple upgraded on foldable iPhone push, new AI strategy
 - `23 Aug 11:03` **investing_news** — Trump disclosure shows more than 1,000 securities trades in June - report
 - `23 Aug 10:55` **aljazeera** — Kazakhstan parliamentary elections begin: What's at stake?
@@ -155,6 +174,8 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 - `23 Aug 08:40` **investing_news** — Cardano Falls 10% In Bearish Trade
 - `23 Aug 08:21` **aljazeera** — In rural Chad, solar kiosks bring healthcare closer
 - `23 Aug 08:16` **aljazeera** — Chinese robot beats Usain Bolt's 100m world record at humanoid games
+- `23 Aug 08:10` **bbc_business** — Mayors to get powers to overrule local councils on planning decisions
+- `23 Aug 07:48` **bbc_business** — Cyber attack shut down small power plant
 - `23 Aug 07:00` **wsj_world** — This Ancient Temple Is Where China's Young People Go to Pray for a Good Job
 - `23 Aug 06:51` **aljazeera** — Thousands flee Sudan's Kordofan fighting for relative safety of El Obeid
 - `23 Aug 06:00` **wsj_markets** — We Went to Wall Street's Exclusive Wilderness Camp. Everyone Was Spooked by AI.
@@ -192,29 +213,29 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.1 |
-| kitco_general | OK | 2 | 0 | 0 | 0 | 2 | 0.8 |
-| gnews_fed | OK | 36 | 2 | 0 | 2 | 34 | 0.2 |
-| gnews_geopolitics | OK | 86 | 7 | 2 | 5 | 79 | 0.0 |
-| gnews_centralbanks | OK | 42 | 6 | 1 | 5 | 36 | 0.0 |
+| kitco_general | OK | 2 | 0 | 0 | 0 | 2 | 0.9 |
+| gnews_fed | OK | 37 | 3 | 1 | 2 | 34 | 0.0 |
+| gnews_geopolitics | OK | 88 | 7 | 0 | 7 | 81 | 0.0 |
+| gnews_centralbanks | OK | 44 | 6 | 0 | 6 | 38 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.5 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.4 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.7 |
-| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 2.0 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.5 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.0 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.8 |
+| boj_whatsnew | OK | 43 | 0 | 0 | 0 | 43 | 2.0 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.9 |
-| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.3 |
+| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.4 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.3 |
-| investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
+| investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
-| bbc_business | OK | 50 | 1 | 0 | 1 | 49 | 0.3 |
-| aljazeera | OK | 25 | 12 | 2 | 10 | 13 | 0.0 |
+| bbc_business | OK | 50 | 5 | 3 | 2 | 45 | 0.1 |
+| aljazeera | OK | 25 | 14 | 2 | 12 | 11 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.9 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.7 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.7 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.8 |
 | wsj_world | OK | 72 | 2 | 0 | 2 | 70 | 0.2 |
-| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.2 |
-| investing_news | OK | 10 | 8 | 2 | 6 | 2 | 0.0 |
-| yahoo_finance | OK | 50 | 1 | 0 | 1 | 49 | 0.3 |
+| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.3 |
+| investing_news | OK | 10 | 9 | 1 | 8 | 1 | 0.0 |
+| yahoo_finance | OK | 48 | 1 | 0 | 1 | 47 | 0.3 |
 | mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |
