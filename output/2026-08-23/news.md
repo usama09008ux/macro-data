@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **24 Aug 02:35 PKT**
-- Kul khabrein: **414**
+- Aakhri update: **24 Aug 02:55 PKT**
+- Kul khabrein: **424**
 - Feeds: 29/39 OK
 
 ---
@@ -65,6 +65,11 @@ MCX gold rallies for fifth straight week; gains ₹19,000 per 10 grams in August
 `24 Aug 02:10 PKT` · pehli baar dekhi `24 Aug 02:35` · investinglive
 
 Kashkari's comments push back against any narrative that surging long-end yields reflect market dysfunction, which should ease some of the term premium anxiety that has crept into rates trading in recent sessions. With the 10-year sitting near 4.73% and the 30-year close to its highest level since 2007, the message that liquidity remains intact is likely to matter more to fixed income desks than the yield level itself.
+
+**Kevin Warsh's Jackson Hole speech draws bond investors' attention as Treasury yields hit multi-year highs - Crypto Briefing**
+`24 Aug 00:39 PKT` · pehli baar dekhi `24 Aug 02:55` · gnews_fed
+
+Kevin Warsh's Jackson Hole speech draws bond investors' attention as Treasury yields hit multi-year highs Crypto Briefing
 
 **This Chinese Tech Giant Quietly Cut Its Buyback 80% to Fund AI**
 `24 Aug 00:17 PKT` · pehli baar dekhi `24 Aug 00:34` · yahoo_finance
@@ -426,6 +431,11 @@ Iran war could last deep into 2027 as the Strait of Hormuz isn't that closed, al
 
 Oil Prices Flat After Iran Says Dozens of Vessels are Crossing Hormuz EnergyNow.com
 
+**Oil Prices Keep Climbing as Expanding Conflict Heightens Supply Risks - EnergyNow**
+`24 Aug 00:28 PKT` · pehli baar dekhi `24 Aug 02:55` · gnews_geopolitics
+
+Oil Prices Keep Climbing as Expanding Conflict Heightens Supply Risks EnergyNow
+
 **Super El Niño Threatens Food, Water and Trade Worldwide**
 `24 Aug 00:00 PKT` · pehli baar dekhi `24 Aug 00:07` · oilprice
 
@@ -659,6 +669,9 @@ US oil and gas production hits all-time high, says energy secretary Crypto Brief
 
 ### RATES
 
+**SoundHound Is Making a Big AI Bet That Could Be a Margin Game Changer**
+`23 Aug 20:30 PKT` · pehli baar dekhi `24 Aug 02:55` · yahoo_finance
+
 **Fed minutes show September rate hike still on the table | Gulf Times - Gulf Times**
 `23 Aug 18:12 PKT` · pehli baar dekhi `23 Aug 20:30` · gnews_fed · **2 feeds mein**
 
@@ -666,6 +679,16 @@ Fed minutes show September rate hike still on the table | Gulf Times Gulf Times
   - `23 Aug 18:12` *gnews_fed* — Fed minutes show September rate hike still on the table | Gulf Times - Gulf Times
 
 ### RISK
+
+**Will Donald Trump's new sanctions against Iran work?**
+`24 Aug 02:34 PKT` · pehli baar dekhi `24 Aug 02:55` · aljazeera
+
+The US president says he will impose &#039;crushing measures&#039; on Tehran.
+
+**Serbia requests international assistance to battle wildfires**
+`24 Aug 02:27 PKT` · pehli baar dekhi `24 Aug 02:55` · aljazeera
+
+Serbia requested assistance from the European Union and Russia to help bring intense wildfires under control.
 
 **Russia stocks lower at close of trade; MOEX Russia Index unchanged**
 `24 Aug 02:20 PKT` · pehli baar dekhi `24 Aug 02:35` · investing_news
@@ -905,11 +928,14 @@ Oil prices up as Trump vows sanctions vs Iran partners The Manila Times
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (211)
+### BINA TAG (216)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `24 Aug 02:35` **yahoo_finance** — Does Billionaire Bill Ackman Know Something Wall Street Doesn't? He Invested in These 2 Stocks That Have Dropped 33% and 18% Over the Past Year
+- `24 Aug 02:33` **yahoo_finance** — Liquor industry struggles grow with another Chapter 7 filing
 - `24 Aug 02:23` **aljazeera** — US envoy Tom Barrack retracts comment that Syria's Golan is occupied
+- `24 Aug 02:20` **yahoo_finance** — Axsome Therapeutics Stock Is Up 16% Year to Date. Why Wall Street Thinks It Has Even More Room to Run
 - `24 Aug 02:08` **aljazeera** — Landfill collapse kills 30 in Guinea's capital after heavy rains
 - `24 Aug 02:02` **yahoo_finance** — The Metals Company Is Riding the Critical Metals Boom. Here's Why I Still Wouldn't Touch It.
 - `24 Aug 02:01` **yahoo_finance** — One Social Security Move Boomers Used to Boost Their Checks Is Now Off-Limits to Almost Everyone Else.
@@ -919,6 +945,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 - `24 Aug 01:43` **yahoo_finance** — The Custodial Account You Opened for Your Grandson Becomes Legally His the Day He Turns 21, and He Can Spend It on a Car. A 529 Never Does.
 - `24 Aug 01:38` **yahoo_finance** — This Company Just Paid Out $6.8 Billion. Its AI Bill Was 4x That
 - `24 Aug 01:35` **yahoo_finance** — If a Bear Market Is Coming, Here's What All of the Smartest Investors Are Doing Right Now
+- `24 Aug 01:31` **yahoo_finance** — Jim Cramer Says Stocks and the Economy Are Telling Two Very Different Stories: 'Jarring Gulf'
 - `24 Aug 01:23` **aljazeera** — Is Israel about to split the occupied West Bank in half?
 - `24 Aug 01:23` **yahoo_finance** — UBS revamps S&P 500 target for rest of 2026
 - `24 Aug 01:20` **yahoo_finance** — Better Dividend King to Buy Right Now: Abbott Labs or Johnson & Johnson?
@@ -1008,6 +1035,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 - `23 Aug 20:35` **yahoo_finance** — Berkshire CEO Greg Abel Is Sitting on Nearly $400 Billion in Cash. Here's How His Deal-Making Approach Differs From Warren Buffett's.
 - `23 Aug 20:33` **investing_news** — Can Hershey step up to buy Mondelez?
 - `23 Aug 20:33` **yahoo_finance** — Spectrum rolls out free offer after steep customer losses
+- `23 Aug 20:30` **yahoo_finance** — Walmart Fell 9%. I'm Not Sure This Is Just a Walmart Problem
 - `23 Aug 20:30` **yahoo_finance** — 40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them
 - `23 Aug 20:25` **yahoo_finance** — NVIDIA, Cloverleaf Partnering to Advance Data Center Development
 - `23 Aug 20:25` **gnews_centralbanks** — Policy Signals Shape The Rates Outlook - Seeking Alpha
@@ -1137,9 +1165,9 @@ yahoo_finance (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 7 | 2 | 5 | 18 | 0.0 |
+| investinglive | OK | 25 | 7 | 0 | 7 | 18 | 0.0 |
 | fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.9 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.3 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.4 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.3 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.9 |
 | instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.8 |
@@ -1151,10 +1179,10 @@ yahoo_finance (1)
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.7 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 41 | 41 | 1 | 40 | 0 | 0.1 |
-| gnews_geopolitics | OK | 46 | 46 | 4 | 42 | 0 | 0.1 |
-| gnews_centralbanks | OK | 28 | 28 | 1 | 27 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.1 |
+| gnews_fed | OK | 42 | 42 | 1 | 41 | 0 | 0.0 |
+| gnews_geopolitics | OK | 46 | 46 | 1 | 45 | 0 | 0.1 |
+| gnews_centralbanks | OK | 27 | 27 | 0 | 27 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.2 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 18.1 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.4 |
@@ -1163,7 +1191,7 @@ yahoo_finance (1)
 | mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
 | oilprice | OK | 15 | 5 | 0 | 5 | 10 | 0.0 |
 | investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.1 |
 | aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
@@ -1172,8 +1200,8 @@ yahoo_finance (1)
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.4 |
 | wsj_world | OK | 72 | 11 | 0 | 11 | 61 | 0.1 |
 | wsj_markets | OK | 61 | 6 | 0 | 6 | 55 | 0.1 |
-| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 47 | 5 | 42 | 3 | 0.0 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 47 | 6 | 41 | 3 | 0.0 |
 | mw_topstories | OK | 10 | 9 | 0 | 9 | 1 | 0.1 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
 
