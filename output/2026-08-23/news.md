@@ -1,13 +1,20 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 18:59 PKT**
-- Kul khabrein: **157**
+- Aakhri update: **23 Aug 19:33 PKT**
+- Kul khabrein: **164**
 - Feeds: 28/39 OK
 
 ---
 
 ## Khabrein
+
+### MARKET WRAP
+
+**Week Ahead: Jackson Hole; BoK Meeting; RBA, Riksbank and ECB Minutes; U.S., Australia, Tokyo, France and Spain Inflation Reports; U.S. BLS Revisions; China's Top Legislature Meeting; Bessent on Iran; Nvidia Earnings - christophe-barraud.com**
+`23 Aug 17:08 PKT` · pehli baar dekhi `23 Aug 19:33` · gnews_centralbanks
+
+Week Ahead: Jackson Hole; BoK Meeting; RBA, Riksbank and ECB Minutes; U.S., Australia, Tokyo, France and Spain Inflation Reports; U.S. BLS Revisions; China's Top Legislature Meeting; Bessent on Iran; Nvidia Earnings christophe-barraud.com
 
 ### GOLD
 
@@ -25,6 +32,11 @@ Bullion to Shine: US Inflation, Fed Signals Drive Gold & Silver Rediff MoneyWiz
 `23 Aug 12:44 PKT` · pehli baar dekhi `23 Aug 13:15` · gnews_centralbanks
 
 55 years ago today, on August 23, 1971, U.S. President Nixon suddenly announced the suspension of the dollar's convertibility into gold on August 15. ababnews.com
+
+**MCX Gold Rallies Over 13% In August 2026: Six Key Reasons Behind The Surge - NDTV Profit**
+`23 Aug 08:16 PKT` · pehli baar dekhi `23 Aug 19:33` · gnews_fed
+
+MCX Gold Rallies Over 13% In August 2026: Six Key Reasons Behind The Surge NDTV Profit
 
 **MCX gold rallies for fifth straight week; gains ₹19,000 per 10 grams in August - livemint.com**
 `23 Aug 05:31 PKT` · pehli baar dekhi `23 Aug 08:04` · gnews_fed
@@ -211,6 +223,11 @@ In the latest episode of Al Jazeera's new podcast, Deja Vu looks at how oil, shi
 
 Crude oil, US-Iran tensions and Fed cues to steer markets this week ET Auto
 
+**Dalal Street outlook: Markets seek recovery after two-week slide; crude, geopolitical cues in focus - The Times of India**
+`23 Aug 15:07 PKT` · pehli baar dekhi `23 Aug 19:33` · gnews_fed
+
+Dalal Street outlook: Markets seek recovery after two-week slide; crude, geopolitical cues in focus The Times of India
+
 **Hormuz crisis hides a deeper oil threat that could outlast the war - Fox News**
 `23 Aug 15:00 PKT` · pehli baar dekhi `23 Aug 18:37` · gnews_geopolitics
 
@@ -303,6 +320,11 @@ Bitcoin price analysis: What would activate the potential bull flag toward $84K-
 
 ### RISK
 
+**Iran discovers huge 7.5 trillion cubic feet gas reserve in Fars Province amid US sanctions pressure - livemint.com**
+`23 Aug 19:04 PKT` · pehli baar dekhi `23 Aug 19:33` · gnews_geopolitics
+
+Iran discovers huge 7.5 trillion cubic feet gas reserve in Fars Province amid US sanctions pressure livemint.com
+
 **Iran says new sanctions threatened by 'desperate' US will fail**
 `23 Aug 17:30 PKT` · pehli baar dekhi `23 Aug 17:56` · investing_news
 
@@ -388,10 +410,12 @@ Iran warns that countries joining the US economic war against Iran will face 'ti
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (74)
+### BINA TAG (77)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 19:17` **aljazeera** — PM Tarique Rahman's trip stalled: What it means for Bangladesh-India ties
+- `23 Aug 18:52` **gnews_centralbanks** — priced in | data, expectations & market repricing | - TradingView
 - `23 Aug 18:50` **aljazeera** — Nordic nations 'have lost confidence in Infantino', demand FIFA reforms
 - `23 Aug 18:37` **investing_news** — Organon earnings up next: Can drugmaker rebound after Q1 miss?
 - `23 Aug 18:36` **investing_news** — ATAI Beckley earnings up next in final report before acquisition
@@ -443,6 +467,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 - `23 Aug 10:55` **aljazeera** — Kazakhstan parliamentary elections begin: What's at stake?
 - `23 Aug 10:18` **investing_news** — Alibaba proposes Hong Kong share placement worth $10 billion
 - `23 Aug 10:10` **aljazeera** — Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide
+- `23 Aug 09:04` **gnews_fed** — Business News - LatestLY
 - `23 Aug 09:01` **investing_news** — XRP Falls 11% In Bearish Trade
 - `23 Aug 08:40` **investing_news** — Cardano Falls 10% In Bearish Trade
 - `23 Aug 08:21` **aljazeera** — In rural Chad, solar kiosks bring healthcare closer
@@ -477,7 +502,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.4 |
 | fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.6 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.0 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.1 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.0 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.6 |
 | instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.5 |
@@ -489,30 +514,30 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.4 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 34 | 21 | 2 | 19 | 13 | 0.0 |
-| gnews_geopolitics | OK | 55 | 18 | 0 | 18 | 37 | 0.1 |
-| gnews_centralbanks | OK | 30 | 14 | 0 | 14 | 16 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.8 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.7 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.0 |
+| gnews_fed | OK | 36 | 23 | 3 | 20 | 13 | 0.1 |
+| gnews_geopolitics | OK | 56 | 19 | 1 | 18 | 37 | 0.0 |
+| gnews_centralbanks | OK | 29 | 16 | 2 | 14 | 13 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.9 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.8 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.1 |
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.3 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.2 |
-| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.6 |
+| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.7 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
 | investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.0 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.0 |
-| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.2 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.0 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.1 |
 | wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.1 |
-| wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.1 |
-| investing_news | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 3 | 0 | 3 | 47 | 0.2 |
-| mw_topstories | OK | 10 | 5 | 0 | 5 | 5 | 0.0 |
+| wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.2 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 3 | 0 | 3 | 46 | 0.2 |
+| mw_topstories | OK | 10 | 5 | 0 | 5 | 5 | 0.1 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 1.0 |
 
 **Jo feeds nahi aaye:**
