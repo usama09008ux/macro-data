@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 10:16 PKT**
-- Kul khabrein: **38**
+- Aakhri update: **23 Aug 10:50 PKT**
+- Kul khabrein: **42**
 - Feeds: 37/39 OK
 
 ---
@@ -39,12 +39,20 @@ Cooling Wage Growth May Let ECB Stay on Hold Briefs Finance
 
 ### GBP
 
+**Robots can outrun humans, but can they plug in a cable?**
+`23 Aug 10:06 PKT` · pehli baar dekhi `23 Aug 10:50` · investing_news
+
 **Bank of England insiders warn AI boom could push up interest rates in Britain - This is Money**
 `23 Aug 10:00 PKT` · pehli baar dekhi `23 Aug 10:16` · gnews_centralbanks
 
 Bank of England insiders warn AI boom could push up interest rates in Britain This is Money
 
 ### JPY
+
+**Japan's debt costs surge 17% as rates rise, straining 2027 budget - CHOSUNBIZ - Chosunbiz**
+`23 Aug 10:21 PKT` · pehli baar dekhi `23 Aug 10:50` · gnews_centralbanks
+
+Japan's debt costs surge 17% as rates rise, straining 2027 budget - CHOSUNBIZ Chosunbiz
 
 **Bessent's Yen Intervention: A Turning Point or Temporary Relief? - CryptoRank**
 `23 Aug 03:00 PKT` · pehli baar dekhi `23 Aug 09:46` · gnews_centralbanks
@@ -114,10 +122,12 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 
 Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 
-### BINA TAG (19)
+### BINA TAG (21)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 10:18` **investing_news** — Alibaba proposes Hong Kong share placement worth $10 billion
+- `23 Aug 10:10` **aljazeera** — Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide
 - `23 Aug 09:01` **investing_news** — XRP Falls 11% In Bearish Trade
 - `23 Aug 08:40` **investing_news** — Cardano Falls 10% In Bearish Trade
 - `23 Aug 08:21` **aljazeera** — In rural Chad, solar kiosks bring healthcare closer
@@ -151,37 +161,37 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.6 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.2 |
-| instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.1 |
+| instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.2 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.0 |
 | kitco_general | OK | 2 | 0 | 0 | 0 | 2 | 0.8 |
-| gnews_fed | OK | 38 | 2 | 0 | 2 | 36 | 0.2 |
-| gnews_geopolitics | OK | 85 | 5 | 0 | 5 | 80 | 0.1 |
-| gnews_centralbanks | OK | 43 | 4 | 1 | 3 | 39 | 0.0 |
+| gnews_fed | OK | 36 | 2 | 0 | 2 | 34 | 0.2 |
+| gnews_geopolitics | OK | 83 | 5 | 0 | 5 | 78 | 0.2 |
+| gnews_centralbanks | OK | 43 | 5 | 1 | 4 | 38 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.5 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.4 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.7 |
-| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 1.9 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.8 |
+| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 2.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.9 |
 | mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.3 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.3 |
 | investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
 | bbc_business | OK | 50 | 1 | 0 | 1 | 49 | 0.3 |
-| aljazeera | OK | 25 | 9 | 0 | 9 | 16 | 0.1 |
+| aljazeera | OK | 25 | 10 | 1 | 9 | 15 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.8 |
-| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.6 |
+| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.7 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.7 |
-| wsj_world | OK | 72 | 2 | 0 | 2 | 70 | 0.1 |
+| wsj_world | OK | 72 | 2 | 0 | 2 | 70 | 0.2 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.2 |
-| investing_news | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
-| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.4 |
+| investing_news | OK | 10 | 6 | 2 | 4 | 4 | 0.0 |
+| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.5 |
 | mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |
