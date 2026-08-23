@@ -1,9 +1,9 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 16:12 PKT**
-- Kul khabrein: **108**
-- Feeds: 30/39 OK
+- Aakhri update: **23 Aug 16:39 PKT**
+- Kul khabrein: **113**
+- Feeds: 29/39 OK
 
 ---
 
@@ -43,6 +43,11 @@ US Inflation Is Cooling on Paper, but Price Pressures Have Gone Far Beyond the P
 `23 Aug 12:39 PKT` · pehli baar dekhi `23 Aug 12:48` · gnews_fed
 
 Why the Federal Funds Rate Pause Matters as Vacation Inflation Reshapes American Travel InteractiveCrypto
+
+**Fed Rate Decision Predictions and Odds - DeFi Rate**
+`23 Aug 11:48 PKT` · pehli baar dekhi `23 Aug 16:39` · gnews_fed
+
+Fed Rate Decision Predictions and Odds DeFi Rate
 
 **Back From The Dead - Is The FOMC Meeting LIVE For A Rate Hike? | Daily Market Update, July 28 2026 St. Louis Vs Colorado (r1D7GKCd2Q) - Mshale**
 `23 Aug 11:33 PKT` · pehli baar dekhi `23 Aug 12:48` · gnews_fed
@@ -92,6 +97,11 @@ Pound Sterling to US Dollar Exchange Rate August 24 2026 Robinhood
 Bank of England insiders warn AI boom could push up interest rates in Britain This is Money
 
 ### JPY
+
+**Yen Poised to Test 160 Again as Markets Focus on BOJ and Fed Officials' Remarks - finance.biggo.com**
+`23 Aug 15:35 PKT` · pehli baar dekhi `23 Aug 16:39` · gnews_centralbanks
+
+Yen Poised to Test 160 Again as Markets Focus on BOJ and Fed Officials' Remarks finance.biggo.com
 
 **37 injured as magnitude 5.9 earthquake strikes eastern Japan**
 `23 Aug 14:21 PKT` · pehli baar dekhi `23 Aug 14:53` · aljazeera
@@ -223,6 +233,11 @@ Bitcoin price analysis: What would activate the potential bull flag toward $84K-
 
 ### RISK
 
+**Israel's war on Gaza forces Palestinians to rely on 'Stone Age' toilets**
+`23 Aug 16:00 PKT` · pehli baar dekhi `23 Aug 16:39` · aljazeera
+
+The displaced in Gaza are struggling to find safe, discreet and sanitary toilets amid health crisis.
+
 **The Heirs to Jack Daniel's Are Fighting to Keep Control**
 `23 Aug 15:56 PKT` · pehli baar dekhi `23 Aug 16:12` · wsj_markets
 
@@ -274,13 +289,15 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 
 Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 
-### BINA TAG (51)
+### BINA TAG (53)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 16:06` **aljazeera** — Explosion injures 13 in Taiwan
 - `23 Aug 16:02` **investing_news** — InvestingPro's Fair Value flagged Vicor before 45% decline
 - `23 Aug 16:01` **investing_news** — Eni targets commercial fusion power plant in Europe by 2040s
 - `23 Aug 16:01` **investing_news** — Sinopec reports 19% profit jump in H1 2026 despite Middle East crisis
+- `23 Aug 15:56` **aljazeera** — Mourinho decries alleged bullying of Vinicius in Real's win at Espanyol
 - `23 Aug 15:48` **aljazeera** — Syria foreign minister says door open for diplomacy with Israel
 - `23 Aug 15:41` **aljazeera** — Far-right provocateur Jake Lang arrested after Minneapolis riot
 - `23 Aug 15:39` **aljazeera** — South Africa's former boxing champion Tete shot dead outside home
@@ -339,7 +356,7 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.3 |
-| fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 1.5 |
+| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.5 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.9 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.9 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.5 |
@@ -352,12 +369,12 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.3 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 34 | 11 | 1 | 10 | 23 | 0.0 |
-| gnews_geopolitics | OK | 89 | 11 | 0 | 11 | 78 | 0.1 |
-| gnews_centralbanks | OK | 47 | 12 | 1 | 11 | 35 | 0.1 |
+| gnews_fed | OK | 22 | 5 | 1 | 4 | 17 | 0.1 |
+| gnews_geopolitics | OK | 90 | 12 | 0 | 12 | 78 | 0.1 |
+| gnews_centralbanks | OK | 45 | 13 | 1 | 12 | 32 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.7 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.6 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.9 |
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.2 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.1 |
@@ -366,14 +383,14 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 | investing_commodities | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.0 |
-| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.1 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.9 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.9 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.0 |
 | wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.1 |
-| wsj_markets | OK | 61 | 4 | 1 | 3 | 57 | 0.0 |
-| investing_news | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.0 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | yahoo_finance | OK | 49 | 3 | 0 | 3 | 46 | 0.1 |
 | mw_topstories | OK | 10 | 1 | 0 | 1 | 9 | 0.0 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.9 |

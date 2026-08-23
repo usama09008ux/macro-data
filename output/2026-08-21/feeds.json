@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "23 Aug 16:12",
+  "updated_pkt": "23 Aug 16:39",
   "feeds": [
     {
       "name": "investinglive",
@@ -14,10 +14,10 @@
     },
     {
       "name": "fxstreet_news",
-      "status": "OK",
+      "status": "WARN",
       "fetched": 30,
       "newest_age_days": 1.5,
-      "note": "",
+      "note": "thora sust",
       "in_window": 0,
       "new": 0,
       "seen_before": 0,
@@ -158,35 +158,35 @@
     {
       "name": "gnews_fed",
       "status": "OK",
-      "fetched": 34,
-      "newest_age_days": 0.0,
+      "fetched": 22,
+      "newest_age_days": 0.1,
       "note": "",
-      "in_window": 11,
+      "in_window": 5,
       "new": 1,
-      "seen_before": 10,
-      "out_of_window": 23
+      "seen_before": 4,
+      "out_of_window": 17
     },
     {
       "name": "gnews_geopolitics",
       "status": "OK",
-      "fetched": 89,
+      "fetched": 90,
       "newest_age_days": 0.1,
       "note": "",
-      "in_window": 11,
+      "in_window": 12,
       "new": 0,
-      "seen_before": 11,
+      "seen_before": 12,
       "out_of_window": 78
     },
     {
       "name": "gnews_centralbanks",
       "status": "OK",
-      "fetched": 47,
-      "newest_age_days": 0.1,
+      "fetched": 45,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 12,
+      "in_window": 13,
       "new": 1,
-      "seen_before": 11,
-      "out_of_window": 35
+      "seen_before": 12,
+      "out_of_window": 32
     },
     {
       "name": "fed_monetary",
@@ -214,7 +214,7 @@
       "name": "ecb_press",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 2.1,
+      "newest_age_days": 2.2,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -316,8 +316,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 25,
-      "new": 4,
-      "seen_before": 21,
+      "new": 3,
+      "seen_before": 22,
       "out_of_window": 0
     },
     {
@@ -357,7 +357,7 @@
       "name": "bea_releases",
       "status": "OK",
       "fetched": 47,
-      "newest_age_days": 18.9,
+      "newest_age_days": 19.0,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -382,8 +382,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 4,
-      "new": 1,
-      "seen_before": 3,
+      "new": 0,
+      "seen_before": 4,
       "out_of_window": 57
     },
     {
@@ -393,8 +393,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 3,
-      "seen_before": 7,
+      "new": 0,
+      "seen_before": 10,
       "out_of_window": 0
     },
     {
