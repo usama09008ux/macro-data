@@ -1,9 +1,9 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 15:50 PKT**
-- Kul khabrein: **98**
-- Feeds: 29/39 OK
+- Aakhri update: **23 Aug 16:12 PKT**
+- Kul khabrein: **108**
+- Feeds: 30/39 OK
 
 ---
 
@@ -211,12 +211,22 @@ The Rhine has slightly risen from its mid-August record low (when Kaub's water l
 **Bitcoin slips under $77,000 as rally boosts mining economics**
 `23 Aug 14:58 PKT` · pehli baar dekhi `23 Aug 15:23` · investing_news
 
+**BCA Research Advises Selling The U.S. Dollar: Here's Why - Bitcoin World**
+`23 Aug 13:55 PKT` · pehli baar dekhi `23 Aug 16:12` · gnews_fed
+
+BCA Research Advises Selling The U.S. Dollar: Here's Why Bitcoin World
+
 **Is Bitcoin at $77k preparing for another breakout? This BTCUSD analysis shows a a potential bull flag pointing to $84K-$86K**
 `23 Aug 08:55 PKT` · pehli baar dekhi `23 Aug 09:46` · investinglive
 
 Bitcoin price analysis: What would activate the potential bull flag toward $84K-$86K? Bitcoin is trading near $77,100 inside a mildly downward-sloping 1-hour regression channel. The structure resembles a bull flag following the surge from below $70,000 to $79,461, but the pattern is not active yet. Bulls still need a decisive breakout above the channel, while $75,700-$75,200 is the main invalidation zone.
 
 ### RISK
+
+**The Heirs to Jack Daniel's Are Fighting to Keep Control**
+`23 Aug 15:56 PKT` · pehli baar dekhi `23 Aug 16:12` · wsj_markets
+
+Plus, Russia's military is testing its readiness for a fresh mobilization push, and we take you inside Wall Street's exclusive wilderness retreat.
 
 **Russia Tests Readiness for New Round of Military Mobilization**
 `23 Aug 14:30 PKT` · pehli baar dekhi `23 Aug 14:53` · wsj_world
@@ -264,10 +274,16 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 
 Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 
-### BINA TAG (43)
+### BINA TAG (51)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 16:02` **investing_news** — InvestingPro's Fair Value flagged Vicor before 45% decline
+- `23 Aug 16:01` **investing_news** — Eni targets commercial fusion power plant in Europe by 2040s
+- `23 Aug 16:01` **investing_news** — Sinopec reports 19% profit jump in H1 2026 despite Middle East crisis
+- `23 Aug 15:48` **aljazeera** — Syria foreign minister says door open for diplomacy with Israel
+- `23 Aug 15:41` **aljazeera** — Far-right provocateur Jake Lang arrested after Minneapolis riot
+- `23 Aug 15:39` **aljazeera** — South Africa's former boxing champion Tete shot dead outside home
 - `23 Aug 15:03` **bbc_business** — CrossCountry cancels UK services after power cut
 - `23 Aug 15:00` **aljazeera** — How the deadliest Bundibugyo Ebola outbreak can be stopped
 - `23 Aug 15:00` **yahoo_finance** — Mortgage and refinance interest rates today, Sunday, August 23, 2026: Higher than last weekend as prime selling season wraps up
@@ -280,6 +296,7 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 - `23 Aug 13:08` **aljazeera** — Flooding across Caracas, Venezuela, after heavy rains
 - `23 Aug 13:03` **aljazeera** — DR Congo, M23 rebels agree on roadmap for peace talks
 - `23 Aug 12:50` **investing_news** — Alibaba plans record $10.2 billion Hong Kong share sale to fund AI
+- `23 Aug 12:46` **aljazeera** — Israeli politicians focus on foreign threats, ignoring spiralling debt
 - `23 Aug 12:38` **aljazeera** — Kazakhstan holds parliamentary election expected to cement president's grip
 - `23 Aug 12:22` **aljazeera** — Infantino defies FIFA vice president, makes appearance in the Caribbean
 - `23 Aug 11:59` **aljazeera** — Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles
@@ -307,6 +324,7 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 - `23 Aug 04:00` **bbc_business** — Struggling households need more help with bills, energy industry says
 - `23 Aug 04:00` **yahoo_finance** — Top analyst sees trouble looming for SpaceX stock
 - `23 Aug 03:47` **yahoo_finance** — He Sold Nothing in the 2022 Crash. He Swapped Into a Similar Fund for a Week, Booked $90,000 of Losses, and Hasn't Paid Capital-Gains Tax Since.
+- `23 Aug 03:41` **gnews_centralbanks** — Borrowing costs surge to multi-decade highs across the West - AOL.com
 - `23 Aug 03:32` **yahoo_finance** — The Hidden Cost Of Home Insurance
 - `23 Aug 03:29` **aljazeera** — Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds
 - `23 Aug 03:17` **gnews_fed** — Federal Reserve Chair's Upcoming Speech Sparks Investor Anticipa - GuruFocus
@@ -323,20 +341,20 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 | investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.3 |
 | fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 1.5 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.9 |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.8 |
-| marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.4 |
-| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.9 |
+| marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.5 |
+| instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.4 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.5 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
 | cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
 | cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
 | cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.2 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.3 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 34 | 10 | 1 | 9 | 24 | 0.0 |
-| gnews_geopolitics | OK | 90 | 11 | 0 | 11 | 79 | 0.1 |
-| gnews_centralbanks | OK | 46 | 11 | 0 | 11 | 35 | 0.1 |
+| gnews_fed | OK | 34 | 11 | 1 | 10 | 23 | 0.0 |
+| gnews_geopolitics | OK | 89 | 11 | 0 | 11 | 78 | 0.1 |
+| gnews_centralbanks | OK | 47 | 12 | 1 | 11 | 35 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.7 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.6 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
@@ -345,21 +363,20 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.1 |
 | mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.5 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
-| investing_commodities | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
+| investing_commodities | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.0 |
-| aljazeera | OK | 25 | 24 | 0 | 24 | 1 | 0.0 |
+| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.1 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.9 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.9 |
 | wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.1 |
-| wsj_markets | OK | 61 | 3 | 0 | 3 | 58 | 0.1 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 3 | 0 | 3 | 47 | 0.0 |
-| mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| wsj_markets | OK | 61 | 4 | 1 | 3 | 57 | 0.0 |
+| investing_news | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 3 | 0 | 3 | 46 | 0.1 |
+| mw_topstories | OK | 10 | 1 | 0 | 1 | 9 | 0.0 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.9 |
 
 **Jo feeds nahi aaye:**
-- instaforex — FAIL, koi item nahi
 - kitco_general — FAIL, koi item nahi
