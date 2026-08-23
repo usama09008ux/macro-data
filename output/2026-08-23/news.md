@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 20:53 PKT**
-- Kul khabrein: **211**
+- Aakhri update: **23 Aug 21:24 PKT**
+- Kul khabrein: **228**
 - Feeds: 28/39 OK
 
 ---
@@ -54,6 +54,11 @@ The Three Minds Leading the Fed's Inflation Rethink WSJ
 `23 Aug 20:02 PKT` · pehli baar dekhi `23 Aug 20:30` · gnews_fed
 
 US Stock Market Prediction: Will Dow, S&P 500 & Nasdaq Rise Or Fall? Nvidia Earnings, Fed Jackson Hole, Treasury Yields & Iran Risks In Focus; Check Monday Market Outlook, Key Things To Watch The Sunday Guardian
+
+**Dow Jones Futures Prediction: Will Dow Rise Or Fall Monday? Nvidia Earnings, Fed's Jackson Hole Meeting & Treasury Yields In Focus; Check Market Outlook, Key Things To Watch - The Sunday Guardian**
+`23 Aug 19:51 PKT` · pehli baar dekhi `23 Aug 21:24` · gnews_fed
+
+Dow Jones Futures Prediction: Will Dow Rise Or Fall Monday? Nvidia Earnings, Fed's Jackson Hole Meeting & Treasury Yields In Focus; Check Market Outlook, Key Things To Watch The Sunday Guardian
 
 **Fed can't control market prices, which are alwa... - Pluang**
 `23 Aug 19:47 PKT` · pehli baar dekhi `23 Aug 19:57` · gnews_fed
@@ -123,6 +128,10 @@ America In Focus: Fed officials eye higher rates; unemployment claims fall Newsd
 
 ### EUR
 
+**Commerzbank chair calls for review of German takeover rules**
+`23 Aug 21:06 PKT` · pehli baar dekhi `23 Aug 21:24` · investing_news · **2 feeds mein**
+  - `23 Aug 20:54` *investing_news* — Commerzbank chair calls for review of German takeover rules after UniCredit bid
+
 **Greece Leads Euro Area in Cash Acceptance as 99% of Businesses Still Take Cash - Greek City Times**
 `23 Aug 19:45 PKT` · pehli baar dekhi `23 Aug 19:57` · gnews_centralbanks
 
@@ -132,6 +141,11 @@ Greece Leads Euro Area in Cash Acceptance as 99% of Businesses Still Take Cash G
 `23 Aug 16:07 PKT` · pehli baar dekhi `23 Aug 18:37` · gnews_centralbanks
 
 EURUSD Edges Higher on Eurozone Strength and US Treasury Debt Buyback Concerns InteractiveCrypto
+
+**ECB Chief Lagarde Reportedly 'Ready to Serve' WEF - ASHARQ AL-AWSAT English**
+`23 Aug 15:05 PKT` · pehli baar dekhi `23 Aug 21:24` · gnews_centralbanks
+
+ECB Chief Lagarde Reportedly 'Ready to Serve' WEF ASHARQ AL-AWSAT English
 
 **ECB chief Lagarde 'ready to serve' WEF, Swiss newspaper reports**
 `23 Aug 13:18 PKT` · pehli baar dekhi `23 Aug 13:52` · investing_news
@@ -230,6 +244,9 @@ Australia bounce back after losing first Test, bowling out the visitors for 64 a
 
 ### OIL
 
+**One of Exxon's Biggest Oil Fields Is Running Out of Room to Grow. Here's Why That's Not a Crisis.**
+`23 Aug 21:05 PKT` · pehli baar dekhi `23 Aug 21:24` · yahoo_finance
+
 **How long could global oil stockpiles last if supply disruptions continue?**
 `23 Aug 20:20 PKT` · pehli baar dekhi `23 Aug 20:53` · yahoo_finance
 
@@ -324,15 +341,26 @@ The Rhine has slightly risen from its mid-August record low (when Kaub's water l
 
 ### CRYPTO
 
+**Fed study finds Bitcoin gains boost crypto buyi... - Pluang**
+`23 Aug 21:07 PKT` · pehli baar dekhi `23 Aug 21:24` · gnews_fed
+
+Fed study finds Bitcoin gains boost crypto buyi... Pluang
+
+**Federal Reserve Bank of Cleveland study reveals crypto investors swayed by Bitcoin returns - Crypto Briefing**
+`23 Aug 20:56 PKT` · pehli baar dekhi `23 Aug 21:24` · gnews_fed
+
+Federal Reserve Bank of Cleveland study reveals crypto investors swayed by Bitcoin returns Crypto Briefing
+
 **Federal Reserve Bank of Cleveland study links crypto ownership to return beliefs - Traders Union**
 `23 Aug 20:45 PKT` · pehli baar dekhi `23 Aug 20:53` · gnews_fed
 
 Federal Reserve Bank of Cleveland study links crypto ownership to return beliefs Traders Union
 
-**Fed study finds crypto investors driven by beliefs, easily swayed by returns**
-`23 Aug 20:30 PKT` · pehli baar dekhi `23 Aug 20:53` · cointelegraph
+**Fed study finds crypto investors driven by beliefs, easily swayed by returns - TradingView**
+`23 Aug 20:30 PKT` · pehli baar dekhi `23 Aug 21:24` · gnews_fed · **2 feeds mein**
 
-A Federal Reserve Bank of Cleveland study finds crypto investors hold sharply different views on returns and risk, while information about Bitcoin's past gains can increase both desired allocations and actual crypto purchases.
+Fed study finds crypto investors driven by beliefs, easily swayed by returns TradingView
+  - `23 Aug 20:30` *cointelegraph* — Fed study finds crypto investors driven by beliefs, easily swayed by returns
 
 **Market Watch: Nvidia (NVDA) Earnings, Bitcoin Surges Past $70K, and Fed-Treasury Tensions Rise - Blockonomi**
 `23 Aug 17:20 PKT` · pehli baar dekhi `23 Aug 17:56` · gnews_fed
@@ -366,6 +394,16 @@ Fed minutes show September rate hike still on the table | Gulf Times Gulf Times
   - `23 Aug 18:12` *gnews_fed* — Fed minutes show September rate hike still on the table | Gulf Times - Gulf Times
 
 ### RISK
+
+**Can Nigeria cash in on Iran war?**
+`23 Aug 21:07 PKT` · pehli baar dekhi `23 Aug 21:24` · aljazeera
+
+Ekperikpe Ekpo says the US-Israel war on Iran has pushed Nigeria to expand its gas production.
+
+**Canada, US and tit-for-tat tariffs: How will they impact their economies?**
+`23 Aug 20:54 PKT` · pehli baar dekhi `23 Aug 21:24` · aljazeera
+
+Both countries will suffer from the trade war with steeper tariffs raising business costs and consumer prices.
 
 **Gaza families search for children missing after years of war**
 `23 Aug 20:42 PKT` · pehli baar dekhi `23 Aug 20:53` · aljazeera
@@ -482,10 +520,17 @@ Oil prices up as Trump vows sanctions vs Iran partners The Manila Times
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (108)
+### BINA TAG (115)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 21:17` **gnews_fed** — What should you pay attention to at next week's Jackson Hole conference? - ChainCatcher
+- `23 Aug 21:12` **aljazeera** — French President Macron to host Saudi Crown Prince MBS in Paris for talks
+- `23 Aug 21:05` **yahoo_finance** — Two Dropbox Executives Sold After Their Shares Vested Last Week. The Future Sole CEO Wasn't One of Them
+- `23 Aug 21:03` **yahoo_finance** — Iconic bank stock pays Buffett's Berkshire $619M in annual dividends
+- `23 Aug 21:00` **yahoo_finance** — Prediction: Eli Lilly Could Be One of the Biggest Winners of the Next Decade. Here's Why.
+- `23 Aug 20:50` **yahoo_finance** — AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSMC. Here's What Lisa Su Is Actually Buying With That Money.
+- `23 Aug 20:43` **yahoo_finance** — Circle Stock Is Down More Than 70% From Its All-Time High. Is It Time to Update the Investment Thesis for CRCL Stock?
 - `23 Aug 20:35` **yahoo_finance** — Berkshire CEO Greg Abel Is Sitting on Nearly $400 Billion in Cash. Here's How His Deal-Making Approach Differs From Warren Buffett's.
 - `23 Aug 20:33` **investing_news** — Can Hershey step up to buy Mondelez?
 - `23 Aug 20:33` **yahoo_finance** — Spectrum rolls out free offer after steep customer losses
@@ -607,9 +652,9 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.7 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.1 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.1 |
-| marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.6 |
+| marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.7 |
 | instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.6 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
 | cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
 | cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
@@ -617,17 +662,17 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.5 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 39 | 28 | 3 | 25 | 11 | 0.0 |
-| gnews_geopolitics | OK | 55 | 20 | 0 | 20 | 35 | 0.1 |
-| gnews_centralbanks | OK | 28 | 18 | 0 | 18 | 10 | 0.0 |
+| gnews_fed | OK | 42 | 32 | 5 | 27 | 10 | 0.0 |
+| gnews_geopolitics | OK | 57 | 20 | 0 | 20 | 37 | 0.1 |
+| gnews_centralbanks | OK | 30 | 19 | 1 | 18 | 11 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.9 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.8 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.1 |
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.4 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.3 |
 | mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.7 |
-| oilprice | OK | 15 | 2 | 0 | 2 | 13 | 0.0 |
+| oilprice | OK | 15 | 2 | 0 | 2 | 13 | 0.1 |
 | investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.1 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.1 |
@@ -635,13 +680,13 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.3 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.1 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.1 |
-| wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.1 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.2 |
+| wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.2 |
 | wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.2 |
-| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 26 | 7 | 19 | 24 | 0.0 |
+| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 27 | 6 | 21 | 23 | 0.0 |
 | mw_topstories | OK | 10 | 5 | 0 | 5 | 5 | 0.1 |
-| cointelegraph | OK | 30 | 1 | 1 | 0 | 29 | 0.0 |
+| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi

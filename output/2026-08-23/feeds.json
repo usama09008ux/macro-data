@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "23 Aug 20:53",
+  "updated_pkt": "23 Aug 21:24",
   "feeds": [
     {
       "name": "investinglive",
@@ -49,7 +49,7 @@
       "name": "marketpulse",
       "status": "OK",
       "fetched": 5,
-      "newest_age_days": 1.6,
+      "newest_age_days": 1.7,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -71,7 +71,7 @@
       "name": "wsj_economy",
       "status": "OK",
       "fetched": 36,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.2,
       "note": "",
       "in_window": 1,
       "new": 0,
@@ -158,35 +158,35 @@
     {
       "name": "gnews_fed",
       "status": "OK",
-      "fetched": 39,
+      "fetched": 42,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 28,
-      "new": 3,
-      "seen_before": 25,
-      "out_of_window": 11
+      "in_window": 32,
+      "new": 5,
+      "seen_before": 27,
+      "out_of_window": 10
     },
     {
       "name": "gnews_geopolitics",
       "status": "OK",
-      "fetched": 55,
+      "fetched": 57,
       "newest_age_days": 0.1,
       "note": "",
       "in_window": 20,
       "new": 0,
       "seen_before": 20,
-      "out_of_window": 35
+      "out_of_window": 37
     },
     {
       "name": "gnews_centralbanks",
       "status": "OK",
-      "fetched": 28,
+      "fetched": 30,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 18,
-      "new": 0,
+      "in_window": 19,
+      "new": 1,
       "seen_before": 18,
-      "out_of_window": 10
+      "out_of_window": 11
     },
     {
       "name": "fed_monetary",
@@ -214,7 +214,7 @@
       "name": "ecb_press",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 2.3,
+      "newest_age_days": 2.4,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -269,7 +269,7 @@
       "name": "oilprice",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": "",
       "in_window": 2,
       "new": 0,
@@ -357,7 +357,7 @@
       "name": "bea_releases",
       "status": "OK",
       "fetched": 47,
-      "newest_age_days": 19.1,
+      "newest_age_days": 19.2,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -368,7 +368,7 @@
       "name": "wsj_world",
       "status": "OK",
       "fetched": 72,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.2,
       "note": "",
       "in_window": 3,
       "new": 0,
@@ -393,8 +393,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 1,
-      "seen_before": 9,
+      "new": 2,
+      "seen_before": 8,
       "out_of_window": 0
     },
     {
@@ -403,10 +403,10 @@
       "fetched": 50,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 26,
-      "new": 7,
-      "seen_before": 19,
-      "out_of_window": 24
+      "in_window": 27,
+      "new": 6,
+      "seen_before": 21,
+      "out_of_window": 23
     },
     {
       "name": "mw_topstories",
@@ -426,8 +426,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 1,
-      "new": 1,
-      "seen_before": 0,
+      "new": 0,
+      "seen_before": 1,
       "out_of_window": 29
     }
   ]
