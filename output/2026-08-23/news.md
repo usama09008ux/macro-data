@@ -1,15 +1,20 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 13:15 PKT**
-- Kul khabrein: **67**
-- Feeds: 37/39 OK
+- Aakhri update: **23 Aug 13:52 PKT**
+- Kul khabrein: **76**
+- Feeds: 36/39 OK
 
 ---
 
 ## Khabrein
 
 ### GOLD
+
+**Bullion to Shine: US Inflation, Fed Signals Drive Gold & Silver - Rediff MoneyWiz**
+`23 Aug 13:30 PKT` · pehli baar dekhi `23 Aug 13:52` · gnews_fed
+
+Bullion to Shine: US Inflation, Fed Signals Drive Gold & Silver Rediff MoneyWiz
 
 **55 years ago today, on August 23, 1971, U.S. President Nixon suddenly announced the suspension of the dollar's convertibility into gold on August 15. - ababnews.com**
 `23 Aug 12:44 PKT` · pehli baar dekhi `23 Aug 13:15` · gnews_centralbanks
@@ -22,6 +27,9 @@
 MCX gold rallies for fifth straight week; gains ₹19,000 per 10 grams in August livemint.com
 
 ### USD
+
+**Sell U.S. dollar versus these currencies, BCA says**
+`23 Aug 13:30 PKT` · pehli baar dekhi `23 Aug 13:52` · investing_news
 
 **Why the Federal Funds Rate Pause Matters as Vacation Inflation Reshapes American Travel - InteractiveCrypto**
 `23 Aug 12:39 PKT` · pehli baar dekhi `23 Aug 12:48` · gnews_fed
@@ -43,6 +51,9 @@ Back From The Dead - Is The FOMC Meeting LIVE For A Rate Hike? | Daily Market Up
 `23 Aug 03:20 PKT` · pehli baar dekhi `23 Aug 03:51` · yahoo_finance
 
 ### EUR
+
+**ECB chief Lagarde 'ready to serve' WEF, Swiss newspaper reports**
+`23 Aug 13:18 PKT` · pehli baar dekhi `23 Aug 13:52` · investing_news
 
 **Pegula dethrones Swiatek to book Cincinnati final against Gauff**
 `23 Aug 11:15 PKT` · pehli baar dekhi `23 Aug 11:25` · aljazeera
@@ -84,6 +95,11 @@ Japan's debt costs surge 17% as rates rise, straining 2027 budget - CHOSUNBIZ Ch
 
 Japan's Debt-Service Costs to Hit Record ¥36.6 Trillion in Fiscal 2027 bloomingbit
 
+**Yen Forecast: Can Japan Stop Another USD/JPY Surge? - equiti.com**
+`23 Aug 03:29 PKT` · pehli baar dekhi `23 Aug 13:52` · gnews_centralbanks
+
+Yen Forecast: Can Japan Stop Another USD/JPY Surge? equiti.com
+
 **Bessent's Yen Intervention: A Turning Point or Temporary Relief? - CryptoRank**
 `23 Aug 03:00 PKT` · pehli baar dekhi `23 Aug 09:46` · gnews_centralbanks
 
@@ -106,11 +122,12 @@ Australia bounce back after losing first Test, bowling out the visitors for 64 a
 ### OIL
 
 **Market outlook next week: Fed Chair speech, US-Iran tensions and crude oil in focus - BizzBuzz**
-`23 Aug 11:29 PKT` · pehli baar dekhi `23 Aug 12:11` · gnews_fed · **3 feeds mein**
+`23 Aug 11:29 PKT` · pehli baar dekhi `23 Aug 12:11` · gnews_fed · **4 feeds mein**
 
 Market outlook next week: Fed Chair speech, US-Iran tensions and crude oil in focus BizzBuzz
   - `23 Aug 11:25` *gnews_fed* — Market outlook next week: Fed Chair speech, US-Iran tensions and crude oil in focus - The Hans India
   - `23 Aug 11:25` *gnews_fed* — Market outlook next week: Fed Chair speech, US-Iran tensions and crude oil in focus - The Hans India
+  - `23 Aug 11:21` *gnews_fed* — Market outlook next week: Fed Chair speech, US-Iran tensions and crude oil in focus - DT Next
 
 **US-Iran war: Crude oil price is key | Is Tehran writing the obituary of Turkey-Pakistan-Saudi Arabia's defence pact? - livemint.com**
 `23 Aug 11:04 PKT` · pehli baar dekhi `23 Aug 11:25` · gnews_geopolitics · **2 feeds mein**
@@ -152,6 +169,14 @@ Bitcoin price analysis: What would activate the potential bull flag toward $84K-
 
 ### RISK
 
+**Iran warns neighbours against joining U.S. sanctions as Hormuz stays closed**
+`23 Aug 13:10 PKT` · pehli baar dekhi `23 Aug 13:52` · investing_news
+
+**Photos: Russia celebrates National Flag Day amid war and tensions with the West**
+`23 Aug 13:07 PKT` · pehli baar dekhi `23 Aug 13:52` · aljazeera
+
+Participants in St Petersburg honour Russia's tricolour with patriotic events and ribbon distributions across the city.
+
 **Iran says Pakistan's army chief to visit Tehran on Monday**
 `23 Aug 12:48 PKT` · pehli baar dekhi `23 Aug 13:15` · investing_commodities
 
@@ -185,10 +210,12 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 
 Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 
-### BINA TAG (31)
+### BINA TAG (33)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 13:08` **aljazeera** — Flooding across Caracas, Venezuela, after heavy rains
+- `23 Aug 13:03` **aljazeera** — DR Congo, M23 rebels agree on roadmap for peace talks
 - `23 Aug 12:50` **investing_news** — Alibaba plans record $10.2 billion Hong Kong share sale to fund AI
 - `23 Aug 12:38` **aljazeera** — Kazakhstan holds parliamentary election expected to cement president's grip
 - `23 Aug 12:22` **aljazeera** — Infantino defies FIFA vice president, makes appearance in the Caribbean
@@ -232,20 +259,20 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 | investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.2 |
 | fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 1.4 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.8 |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.7 |
-| marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.3 |
-| instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.3 |
+| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.8 |
+| marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.4 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.1 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.2 |
 | kitco_general | OK | 2 | 0 | 0 | 0 | 2 | 0.9 |
-| gnews_fed | OK | 37 | 4 | 1 | 3 | 33 | 0.0 |
-| gnews_geopolitics | OK | 87 | 8 | 0 | 8 | 79 | 0.1 |
-| gnews_centralbanks | OK | 44 | 8 | 1 | 7 | 36 | 0.0 |
+| gnews_fed | OK | 36 | 6 | 2 | 4 | 30 | 0.0 |
+| gnews_geopolitics | OK | 95 | 10 | 0 | 10 | 85 | 0.1 |
+| gnews_centralbanks | OK | 44 | 9 | 1 | 8 | 35 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.6 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.5 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.0 |
@@ -254,17 +281,20 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.0 |
 | mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.4 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
-| investing_commodities | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
+| investing_commodities | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
 | bbc_business | OK | 50 | 5 | 0 | 5 | 45 | 0.0 |
-| aljazeera | OK | 25 | 16 | 1 | 15 | 9 | 0.0 |
+| aljazeera | OK | 25 | 19 | 3 | 16 | 6 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.9 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.0 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.8 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.8 |
 | wsj_world | OK | 72 | 2 | 0 | 2 | 70 | 0.3 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.3 |
-| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| investing_news | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
 | yahoo_finance | OK | 50 | 1 | 0 | 1 | 49 | 0.4 |
 | mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.8 |
+
+**Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi
