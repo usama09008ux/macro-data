@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 19:33 PKT**
-- Kul khabrein: **164**
+- Aakhri update: **23 Aug 19:57 PKT**
+- Kul khabrein: **169**
 - Feeds: 28/39 OK
 
 ---
@@ -44,6 +44,11 @@ MCX Gold Rallies Over 13% In August 2026: Six Key Reasons Behind The Surge NDTV 
 MCX gold rallies for fifth straight week; gains ₹19,000 per 10 grams in August livemint.com
 
 ### USD
+
+**Fed can't control market prices, which are alwa... - Pluang**
+`23 Aug 19:47 PKT` · pehli baar dekhi `23 Aug 19:57` · gnews_fed
+
+Fed can't control market prices, which are alwa... Pluang
 
 **USD Outlook Tied to UST Yields and Fed Policy Credibility: What Investors Should Know - CryptoRank**
 `23 Aug 17:41 PKT` · pehli baar dekhi `23 Aug 18:59` · gnews_fed · **2 feeds mein**
@@ -107,6 +112,11 @@ America In Focus: Fed officials eye higher rates; unemployment claims fall Newsd
 `23 Aug 03:20 PKT` · pehli baar dekhi `23 Aug 03:51` · yahoo_finance
 
 ### EUR
+
+**Greece Leads Euro Area in Cash Acceptance as 99% of Businesses Still Take Cash - Greek City Times**
+`23 Aug 19:45 PKT` · pehli baar dekhi `23 Aug 19:57` · gnews_centralbanks
+
+Greece Leads Euro Area in Cash Acceptance as 99% of Businesses Still Take Cash Greek City Times
 
 **EURUSD Edges Higher on Eurozone Strength and US Treasury Debt Buyback Concerns - InteractiveCrypto**
 `23 Aug 16:07 PKT` · pehli baar dekhi `23 Aug 18:37` · gnews_centralbanks
@@ -325,6 +335,11 @@ Bitcoin price analysis: What would activate the potential bull flag toward $84K-
 
 Iran discovers huge 7.5 trillion cubic feet gas reserve in Fars Province amid US sanctions pressure livemint.com
 
+**Iran Threatens Retaliation Against Nations Supporting US Economic Sanctions - ABC NEWS NEPAL**
+`23 Aug 18:01 PKT` · pehli baar dekhi `23 Aug 19:57` · gnews_geopolitics
+
+Iran Threatens Retaliation Against Nations Supporting US Economic Sanctions ABC NEWS NEPAL
+
 **Iran says new sanctions threatened by 'desperate' US will fail**
 `23 Aug 17:30 PKT` · pehli baar dekhi `23 Aug 17:56` · investing_news
 
@@ -405,15 +420,21 @@ Official says any state joining US would be considered an enemy and Tehran would
 
 Iran warns that countries joining the US economic war against Iran will face 'tit-for-tat' action.
 
+**Oil prices up as Trump vows sanctions vs Iran partners - The Manila Times**
+`23 Aug 04:53 PKT` · pehli baar dekhi `23 Aug 19:57` · gnews_geopolitics
+
+Oil prices up as Trump vows sanctions vs Iran partners The Manila Times
+
 **Iran warns nearby nations against joining US 'economic war' efforts**
 `23 Aug 04:26 PKT` · pehli baar dekhi `23 Aug 04:58` · aljazeera
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (77)
+### BINA TAG (78)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 19:22` **investing_news** — UBS downgrades Klarna stock rating on guidance cut, executive departures
 - `23 Aug 19:17` **aljazeera** — PM Tarique Rahman's trip stalled: What it means for Bangladesh-India ties
 - `23 Aug 18:52` **gnews_centralbanks** — priced in | data, expectations & market repricing | - TradingView
 - `23 Aug 18:50` **aljazeera** — Nordic nations 'have lost confidence in Infantino', demand FIFA reforms
@@ -500,8 +521,8 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.4 |
-| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.6 |
+| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.5 |
+| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.7 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.1 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.0 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.6 |
@@ -514,9 +535,9 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.4 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 36 | 23 | 3 | 20 | 13 | 0.1 |
-| gnews_geopolitics | OK | 56 | 19 | 1 | 18 | 37 | 0.0 |
-| gnews_centralbanks | OK | 29 | 16 | 2 | 14 | 13 | 0.0 |
+| gnews_fed | OK | 37 | 24 | 1 | 23 | 13 | 0.0 |
+| gnews_geopolitics | OK | 58 | 20 | 2 | 18 | 38 | 0.0 |
+| gnews_centralbanks | OK | 27 | 16 | 1 | 15 | 11 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.9 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.8 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
@@ -524,21 +545,21 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.3 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.2 |
 | mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.7 |
-| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
+| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
 | investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.0 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.0 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.2 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.0 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.1 |
 | wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.1 |
 | wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.2 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
 | yahoo_finance | OK | 49 | 3 | 0 | 3 | 46 | 0.2 |
 | mw_topstories | OK | 10 | 5 | 0 | 5 | 5 | 0.1 |
-| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 1.0 |
+| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 1.1 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi
