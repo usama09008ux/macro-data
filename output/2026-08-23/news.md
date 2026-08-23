@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **24 Aug 02:08 PKT**
-- Kul khabrein: **398**
+- Aakhri update: **24 Aug 02:35 PKT**
+- Kul khabrein: **414**
 - Feeds: 29/39 OK
 
 ---
@@ -10,6 +10,11 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**Goldman flags China stimulus risk as growth slips further below target**
+`24 Aug 02:29 PKT` · pehli baar dekhi `24 Aug 02:35` · investinglive
+
+A confirmed slowdown toward the 4% handle keeps pressure on Chinese equities and the yuan, particularly if incoming August and September data fail to show stabilisation. The gap between bank estimates, Goldman at the softer end near 4%, Macquarie near 4.2%, BNP Paribas at 4.1%, points to genuine uncertainty over how much fiscal and monetary support Beijing will ultimately deploy, which should keep policy-sensitive Asian equities and industrial commodities reactive to each fresh data point.
 
 **Monday open indicative forex prices, 24 August 2026 - CAD weaker on trade war**
 `24 Aug 00:55 PKT` · pehli baar dekhi `24 Aug 01:22` · investinglive
@@ -55,6 +60,11 @@ MCX Gold Rallies Over 13% In August 2026: Six Key Reasons Behind The Surge NDTV 
 MCX gold rallies for fifth straight week; gains ₹19,000 per 10 grams in August livemint.com
 
 ### USD
+
+**Weekend - Fed's Kashkari says bond market functioning well despite yield rise**
+`24 Aug 02:10 PKT` · pehli baar dekhi `24 Aug 02:35` · investinglive
+
+Kashkari's comments push back against any narrative that surging long-end yields reflect market dysfunction, which should ease some of the term premium anxiety that has crept into rates trading in recent sessions. With the 10-year sitting near 4.73% and the 30-year close to its highest level since 2007, the message that liquidity remains intact is likely to matter more to fixed income desks than the yield level itself.
 
 **This Chinese Tech Giant Quietly Cut Its Buyback 80% to Fund AI**
 `24 Aug 00:17 PKT` · pehli baar dekhi `24 Aug 00:34` · yahoo_finance
@@ -103,9 +113,10 @@ Federal Reserve Holds $1.62 Trillion in U.S. Treasury Bonds Exceeding 10 Years W
 Transcript: Neel Kashkari, Minneapolis Fed president and CEO, on "Face the Nation with Margaret Brennan," Aug. 23, 2026 CBS News
 
 **Hawkish Fed minutes meet a softer dollar as European activity picks up - Kuwait Times**
-`23 Aug 21:40 PKT` · pehli baar dekhi `23 Aug 21:53` · gnews_fed
+`23 Aug 21:40 PKT` · pehli baar dekhi `23 Aug 21:53` · gnews_fed · **2 feeds mein**
 
 Hawkish Fed minutes meet a softer dollar as European activity picks up Kuwait Times
+  - `23 Aug 21:34` *gnews_fed* — Hawkish Fed minutes meet a softer dollar as European activity picks up - Kuwait Times
 
 **Fed's Kashkari says rising Treasury yields not a concern**
 `23 Aug 21:37 PKT` · pehli baar dekhi `23 Aug 22:19` · investing_news
@@ -402,8 +413,18 @@ Mexico's state oil firm Pemex and Brazil's national oil company Petrobras are jo
 
 The near standstill in Strait of Hormuz shipping keeps a geopolitical risk premium embedded in oil prices, with traders likely to stay cautious heading into Monday's sanctions announcement from Washington. Iran's parliament advancing a bill to charge navigation, environmental, fueling, insurance and safety fees on transiting vessels suggests Tehran is moving toward formalised, monetised control of the waterway rather than a purely war-linked disruption, raising the odds this becomes a ...
 
+**Iran war could last deep into 2027 as the Strait of Hormuz isn't that closed, allowing more oil out - Fortune**
+`24 Aug 00:59 PKT` · pehli baar dekhi `24 Aug 02:35` · gnews_geopolitics
+
+Iran war could last deep into 2027 as the Strait of Hormuz isn't that closed, allowing more oil out Fortune
+
 **Italy extends diesel tax cut to Wednesday amid rising fuel prices**
 `24 Aug 00:39 PKT` · pehli baar dekhi `24 Aug 01:22` · investing_commodities
+
+**Oil Prices Flat After Iran Says Dozens of Vessels are Crossing Hormuz - EnergyNow.com**
+`24 Aug 00:35 PKT` · pehli baar dekhi `24 Aug 02:35` · gnews_geopolitics
+
+Oil Prices Flat After Iran Says Dozens of Vessels are Crossing Hormuz EnergyNow.com
 
 **Super El Niño Threatens Food, Water and Trade Worldwide**
 `24 Aug 00:00 PKT` · pehli baar dekhi `24 Aug 00:07` · oilprice
@@ -646,6 +667,9 @@ Fed minutes show September rate hike still on the table | Gulf Times Gulf Times
 
 ### RISK
 
+**Russia stocks lower at close of trade; MOEX Russia Index unchanged**
+`24 Aug 02:20 PKT` · pehli baar dekhi `24 Aug 02:35` · investing_news
+
 **Going nuclear... Iran security chief warns Tehran may seek nuclear weapons after US strikes**
 `24 Aug 01:46 PKT` · pehli baar dekhi `24 Aug 02:08` · investinglive
 
@@ -670,6 +694,11 @@ Letting Kyiv hit launchers in Russia's border areas could save civilian lives.
 `24 Aug 00:12 PKT` · pehli baar dekhi `24 Aug 00:34` · wsj_world
 
 Thirty-five years ago, a nation was reborn. Today it symbolizes freedom and resistance to aggression.
+
+**Lviv Sets Ukraine's First Mass Murph CrossFit Record - Межа. Новини України.**
+`24 Aug 00:05 PKT` · pehli baar dekhi `24 Aug 02:35` · gnews_centralbanks
+
+Lviv Sets Ukraine's First Mass Murph CrossFit Record Межа. Новини України.
 
 **US-Iran War Boosts Dangote's Fortune by $5bn - Business Post Nigeria**
 `23 Aug 23:42 PKT` · pehli baar dekhi `24 Aug 00:07` · gnews_geopolitics
@@ -851,6 +880,11 @@ Iran condemns US plans to announce new sanctions Al-Monitor
 
 Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products.
 
+**Day 177 | Iran warns countries against joining US sanctions - Roya News**
+`23 Aug 05:18 PKT` · pehli baar dekhi `24 Aug 02:35` · gnews_geopolitics
+
+Day 177 | Iran warns countries against joining US sanctions Roya News
+
 **Iran war live: Tehran warns neighbours against joining US economic war**
 `23 Aug 05:00 PKT` · pehli baar dekhi `23 Aug 06:54` · aljazeera
 
@@ -871,10 +905,17 @@ Oil prices up as Trump vows sanctions vs Iran partners The Manila Times
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (203)
+### BINA TAG (211)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `24 Aug 02:23` **aljazeera** — US envoy Tom Barrack retracts comment that Syria's Golan is occupied
+- `24 Aug 02:08` **aljazeera** — Landfill collapse kills 30 in Guinea's capital after heavy rains
+- `24 Aug 02:02` **yahoo_finance** — The Metals Company Is Riding the Critical Metals Boom. Here's Why I Still Wouldn't Touch It.
+- `24 Aug 02:01` **yahoo_finance** — One Social Security Move Boomers Used to Boost Their Checks Is Now Off-Limits to Almost Everyone Else.
+- `24 Aug 01:59` **yahoo_finance** — Tilray Posted Record Fiscal 2026 Revenue -- Why Isn't the Stock Rallying?
+- `24 Aug 01:57` **yahoo_finance** — SK Hynix Is Buying Back 3.3% of Its Shares and Canceling Every One
+- `24 Aug 01:54` **yahoo_finance** — CHAT vs. FTEC: Is Concentrated AI Exposure or Broad Tech Diversification the Better Play Right Now?
 - `24 Aug 01:43` **yahoo_finance** — The Custodial Account You Opened for Your Grandson Becomes Legally His the Day He Turns 21, and He Can Spend It on a Car. A 529 Never Does.
 - `24 Aug 01:38` **yahoo_finance** — This Company Just Paid Out $6.8 Billion. Its AI Bill Was 4x That
 - `24 Aug 01:35` **yahoo_finance** — If a Bear Market Is Coming, Here's What All of the Smartest Investors Are Doing Right Now
@@ -950,6 +991,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 - `23 Aug 21:29` **yahoo_finance** — America's Fastest Growing Retirement Town Is Not in Florida or Arizona
 - `23 Aug 21:27` **wsj_world** — Opinion | The Syria Disaster Washington Helped Create
 - `23 Aug 21:26` **yahoo_finance** — Dropbox's CFO Filed Days After Raising Guidance. What Should Investors Make of the Sequence?
+- `23 Aug 21:26` **gnews_geopolitics** — US Natural Gas Futures Leap 6% as Middle East Conflict Disrupts Global Supplies - EnergyNow.com
 - `23 Aug 21:25` **wsj_markets** — Opinion | The Pension Bill Comes Due
 - `23 Aug 21:20` **yahoo_finance** — Greg Abel Just Spent $23.5 Billion on 9 Stocks for Berkshire Hathaway. Here's the Best of the Bunch.
 - `23 Aug 21:17` **yahoo_finance** — Dropbox's CTO Is Selling on a Plan He Set 15 Months Ago. Here's What to Know
@@ -1095,7 +1137,7 @@ yahoo_finance (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 5 | 1 | 4 | 20 | 0.0 |
+| investinglive | OK | 25 | 7 | 2 | 5 | 18 | 0.0 |
 | fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.9 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.3 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.3 |
@@ -1109,31 +1151,31 @@ yahoo_finance (1)
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.7 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 42 | 42 | 2 | 40 | 0 | 0.0 |
-| gnews_geopolitics | OK | 45 | 42 | 0 | 42 | 3 | 0.1 |
-| gnews_centralbanks | OK | 27 | 27 | 1 | 26 | 0 | 0.0 |
+| gnews_fed | OK | 41 | 41 | 1 | 40 | 0 | 0.1 |
+| gnews_geopolitics | OK | 46 | 46 | 4 | 42 | 0 | 0.1 |
+| gnews_centralbanks | OK | 28 | 28 | 1 | 27 | 0 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.1 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 18.0 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 18.1 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.4 |
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.6 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.5 |
 | mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
-| oilprice | OK | 15 | 5 | 1 | 4 | 10 | 0.0 |
+| oilprice | OK | 15 | 5 | 0 | 5 | 10 | 0.0 |
 | investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.1 |
-| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.5 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.3 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.4 |
 | wsj_world | OK | 72 | 11 | 0 | 11 | 61 | 0.1 |
 | wsj_markets | OK | 61 | 6 | 0 | 6 | 55 | 0.1 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 44 | 5 | 39 | 6 | 0.0 |
+| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 47 | 5 | 42 | 3 | 0.0 |
 | mw_topstories | OK | 10 | 9 | 0 | 9 | 1 | 0.1 |
-| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
+| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi
