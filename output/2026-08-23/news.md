@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 12:11 PKT**
-- Kul khabrein: **56**
+- Aakhri update: **23 Aug 12:48 PKT**
+- Kul khabrein: **62**
 - Feeds: 37/39 OK
 
 ---
@@ -17,6 +17,16 @@
 MCX gold rallies for fifth straight week; gains ₹19,000 per 10 grams in August livemint.com
 
 ### USD
+
+**Why the Federal Funds Rate Pause Matters as Vacation Inflation Reshapes American Travel - InteractiveCrypto**
+`23 Aug 12:39 PKT` · pehli baar dekhi `23 Aug 12:48` · gnews_fed
+
+Why the Federal Funds Rate Pause Matters as Vacation Inflation Reshapes American Travel InteractiveCrypto
+
+**Back From The Dead - Is The FOMC Meeting LIVE For A Rate Hike? | Daily Market Update, July 28 2026 St. Louis Vs Colorado (r1D7GKCd2Q) - Mshale**
+`23 Aug 11:33 PKT` · pehli baar dekhi `23 Aug 12:48` · gnews_fed
+
+Back From The Dead - Is The FOMC Meeting LIVE For A Rate Hike? | Daily Market Update, July 28 2026 St. Louis Vs Colorado (r1D7GKCd2Q) Mshale
 
 **GE Vernova's Backlog Is Bigger Than Some Countries' GDP. Here's What's Actually Inside the $176 Billion.**
 `23 Aug 04:25 PKT` · pehli baar dekhi `23 Aug 04:58` · yahoo_finance
@@ -64,6 +74,11 @@ Japan's JGB Debt-Service Costs to Hit Record ¥36.6 Trillion Next Year Amid Surg
 
 Japan's debt costs surge 17% as rates rise, straining 2027 budget - CHOSUNBIZ Chosunbiz
 
+**Japan's Debt-Service Costs to Hit Record ¥36.6 Trillion in Fiscal 2027 - bloomingbit**
+`23 Aug 10:09 PKT` · pehli baar dekhi `23 Aug 12:48` · gnews_centralbanks
+
+Japan's Debt-Service Costs to Hit Record ¥36.6 Trillion in Fiscal 2027 bloomingbit
+
 **Bessent's Yen Intervention: A Turning Point or Temporary Relief? - CryptoRank**
 `23 Aug 03:00 PKT` · pehli baar dekhi `23 Aug 09:46` · gnews_centralbanks
 
@@ -86,14 +101,16 @@ Australia bounce back after losing first Test, bowling out the visitors for 64 a
 ### OIL
 
 **Market outlook next week: Fed Chair speech, US-Iran tensions and crude oil in focus - BizzBuzz**
-`23 Aug 11:29 PKT` · pehli baar dekhi `23 Aug 12:11` · gnews_fed
+`23 Aug 11:29 PKT` · pehli baar dekhi `23 Aug 12:11` · gnews_fed · **2 feeds mein**
 
 Market outlook next week: Fed Chair speech, US-Iran tensions and crude oil in focus BizzBuzz
+  - `23 Aug 11:25` *gnews_fed* — Market outlook next week: Fed Chair speech, US-Iran tensions and crude oil in focus - The Hans India
 
 **US-Iran war: Crude oil price is key | Is Tehran writing the obituary of Turkey-Pakistan-Saudi Arabia's defence pact? - livemint.com**
-`23 Aug 11:04 PKT` · pehli baar dekhi `23 Aug 11:25` · gnews_geopolitics
+`23 Aug 11:04 PKT` · pehli baar dekhi `23 Aug 11:25` · gnews_geopolitics · **2 feeds mein**
 
 US-Iran war: Crude oil price is key | Is Tehran writing the obituary of Turkey-Pakistan-Saudi Arabia's defence pact? livemint.com
+  - `23 Aug 11:04` *gnews_geopolitics* — US-Iran war: Crude oil price is key | Is Tehran writing the obituary of Turkey-Pakistan-Saudi Arabia's defence pack? - livemint.com
 
 **Trump's 'Economic D-Day' vs Iran's Oil Chokehold: Who Blinks First at Hormuz? - Open Magazine**
 `23 Aug 07:06 PKT` · pehli baar dekhi `23 Aug 08:04` · gnews_geopolitics
@@ -159,10 +176,11 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 
 Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 
-### BINA TAG (28)
+### BINA TAG (29)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 12:22` **aljazeera** — Infantino defies FIFA vice president, makes appearance in the Caribbean
 - `23 Aug 11:59` **aljazeera** — Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles
 - `23 Aug 11:09` **investing_news** — Korean retail traders chase 40% coupons after historic stock rout - report
 - `23 Aug 11:05` **investing_news** — 5 big analyst AI moves: Apple upgraded on foldable iPhone push, new AI strategy
@@ -200,13 +218,13 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.1 |
-| fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 1.3 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |
+| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.2 |
+| fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 1.4 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.8 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.7 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.3 |
-| instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.2 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
+| instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.3 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
@@ -214,28 +232,28 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.1 |
 | kitco_general | OK | 2 | 0 | 0 | 0 | 2 | 0.9 |
-| gnews_fed | OK | 37 | 3 | 1 | 2 | 34 | 0.0 |
-| gnews_geopolitics | OK | 88 | 7 | 0 | 7 | 81 | 0.0 |
-| gnews_centralbanks | OK | 44 | 6 | 0 | 6 | 38 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.5 |
+| gnews_fed | OK | 37 | 5 | 3 | 2 | 32 | 0.0 |
+| gnews_geopolitics | OK | 91 | 8 | 1 | 7 | 83 | 0.1 |
+| gnews_centralbanks | OK | 43 | 7 | 1 | 6 | 36 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.6 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.5 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.0 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.8 |
 | boj_whatsnew | OK | 43 | 0 | 0 | 0 | 43 | 2.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.9 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.0 |
 | mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.4 |
-| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.3 |
+| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
 | investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
-| bbc_business | OK | 50 | 5 | 3 | 2 | 45 | 0.1 |
-| aljazeera | OK | 25 | 14 | 2 | 12 | 11 | 0.0 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| bbc_business | OK | 50 | 5 | 0 | 5 | 45 | 0.1 |
+| aljazeera | OK | 25 | 15 | 1 | 14 | 10 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.9 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.7 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.8 |
 | wsj_world | OK | 72 | 2 | 0 | 2 | 70 | 0.2 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.3 |
-| investing_news | OK | 10 | 9 | 1 | 8 | 1 | 0.0 |
-| yahoo_finance | OK | 48 | 1 | 0 | 1 | 47 | 0.3 |
-| mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
-| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 1 | 0 | 1 | 49 | 0.4 |
+| mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.8 |
