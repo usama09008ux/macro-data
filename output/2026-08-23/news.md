@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 22:19 PKT**
-- Kul khabrein: **266**
+- Aakhri update: **23 Aug 22:41 PKT**
+- Kul khabrein: **276**
 - Feeds: 29/39 OK
 
 ---
@@ -19,9 +19,10 @@ Week Ahead: Jackson Hole; BoK Meeting; RBA, Riksbank and ECB Minutes; U.S., Aust
 ### GOLD
 
 **Bullion set to shine next week as traders await US inflation data, Fed signals - Rediff**
-`23 Aug 17:56 PKT` · pehli baar dekhi `23 Aug 18:37` · gnews_fed
+`23 Aug 17:56 PKT` · pehli baar dekhi `23 Aug 18:37` · gnews_fed · **2 feeds mein**
 
 Bullion set to shine next week as traders await US inflation data, Fed signals Rediff
+  - `23 Aug 17:56` *gnews_fed* — Bullion set to shine next week as traders await US inflation data, Fed signals - Rediff
 
 **Bullion to Shine: US Inflation, Fed Signals Drive Gold & Silver - Rediff MoneyWiz**
 `23 Aug 13:30 PKT` · pehli baar dekhi `23 Aug 13:52` · gnews_fed
@@ -74,9 +75,10 @@ Fed's Kashkari Says Treasury Market Still Working 'As It Should' Bloomberg.com
 US Stock Market Prediction: Will Dow, S&P 500 & Nasdaq Rise Or Fall? Nvidia Earnings, Fed Jackson Hole, Treasury Yields & Iran Risks In Focus; Check Monday Market Outlook, Key Things To Watch The Sunday Guardian
 
 **Dow Jones Futures Prediction: Will Dow Rise Or Fall Monday? Nvidia Earnings, Fed's Jackson Hole Meeting & Treasury Yields In Focus; Check Market Outlook, Key Things To Watch - The Sunday Guardian**
-`23 Aug 19:51 PKT` · pehli baar dekhi `23 Aug 21:24` · gnews_fed
+`23 Aug 19:52 PKT` · pehli baar dekhi `23 Aug 22:41` · gnews_fed · **2 feeds mein**
 
 Dow Jones Futures Prediction: Will Dow Rise Or Fall Monday? Nvidia Earnings, Fed's Jackson Hole Meeting & Treasury Yields In Focus; Check Market Outlook, Key Things To Watch The Sunday Guardian
+  - `23 Aug 19:51` *gnews_fed* — Dow Jones Futures Prediction: Will Dow Rise Or Fall Monday? Nvidia Earnings, Fed's Jackson Hole Meeting & Treasury Yields In Focus; Check Market Outlook, Key Things To Watch - The Sunday Guardian
 
 **Fed can't control market prices, which are alwa... - Pluang**
 `23 Aug 19:47 PKT` · pehli baar dekhi `23 Aug 19:57` · gnews_fed
@@ -291,6 +293,11 @@ Australia bounce back after losing first Test, bowling out the visitors for 64 a
 
 A Seattle startup is seeking to revolutionize geothermal energy by tapping into undersea volcanoes. In September, a 100-kilowatt geothermal generator will be deployed to the seafloor off Oregon's coast, where a hydrothermal vent emits temperatures of up to 750 degrees Fahrenheit. The pilot project – the fifth of its kind – will continue to test the viability of turning that heat into commercially competitive, round-the-clock, and totally emissions-free electricity.
 
+**Middle Eastern Oil Producers Employ "Dark" Transits to Evade Iranian Threats - SSBCrack**
+`23 Aug 19:55 PKT` · pehli baar dekhi `23 Aug 22:41` · gnews_geopolitics
+
+Middle Eastern Oil Producers Employ "Dark" Transits to Evade Iranian Threats SSBCrack
+
 **Gulf markets rise as oil prices climb on Iran sanction fears**
 `23 Aug 18:49 PKT` · pehli baar dekhi `23 Aug 18:59` · investing_news
 
@@ -303,6 +310,11 @@ In the latest episode of Al Jazeera's new podcast, Deja Vu looks at how oil, shi
 `23 Aug 17:44 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_geopolitics
 
 Vast reserves, Hormuz, infrastructure define Iran's geopolitical oil weight: expert Tehran Times
+
+**Union Minister Hardeep Singh Puri rejects claims regarding Iranian crude cargo being diverted from Vadinar, India, to China | Akashvani News - News On AIR**
+`23 Aug 16:16 PKT` · pehli baar dekhi `23 Aug 22:41` · gnews_geopolitics
+
+Union Minister Hardeep Singh Puri rejects claims regarding Iranian crude cargo being diverted from Vadinar, India, to China | Akashvani News News On AIR
 
 **Crude oil, US-Iran tensions and Fed cues to steer markets this week - ET Auto**
 `23 Aug 15:38 PKT` · pehli baar dekhi `23 Aug 16:58` · gnews_fed · **2 feeds mein**
@@ -465,6 +477,11 @@ Fed minutes show September rate hike still on the table | Gulf Times Gulf Times
 
 ### RISK
 
+**Photos: Ukraine celebrates National Flag Day**
+`23 Aug 22:18 PKT` · pehli baar dekhi `23 Aug 22:41` · aljazeera
+
+People observe a minute of silence for those killed in war to mark the holiday established in 2004.
+
 **Can Nigeria cash in on Iran war?**
 `23 Aug 21:07 PKT` · pehli baar dekhi `23 Aug 21:24` · aljazeera
 
@@ -574,6 +591,11 @@ Iran threatens countries joining Trump's sanctions, calling them 'enemies' RBC-U
 
 Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs as he accused the US of starting a trade war.
 
+**Iran warns any country joining US sanctions considered 'enemy' - The Business Standard**
+`23 Aug 10:34 PKT` · pehli baar dekhi `23 Aug 22:41` · gnews_geopolitics
+
+Iran warns any country joining US sanctions considered 'enemy' The Business Standard
+
 **Oil rises as Trump threatens sanctions on Iran partners - bdnews24.com**
 `23 Aug 09:51 PKT` · pehli baar dekhi `23 Aug 16:58` · gnews_geopolitics · **2 feeds mein**
 
@@ -610,10 +632,13 @@ Oil prices up as Trump vows sanctions vs Iran partners The Manila Times
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (133)
+### BINA TAG (137)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 22:26` **yahoo_finance** — Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock
+- `23 Aug 22:10` **yahoo_finance** — Should You Buy Oracle Stock Before September? The Answer Might Surprise You.
+- `23 Aug 22:07` **yahoo_finance** — Bill Ackman's Pershing Square invests $1.1B in fintech giant
 - `23 Aug 22:00` **yahoo_finance** — Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy
 - `23 Aug 21:57` **yahoo_finance** — An e.l.f. Beauty Insider Sells 5,718 Shares. Here's What That Means for Investors.
 - `23 Aug 21:55` **yahoo_finance** — Your Last Chance to Buy Nvidia Stock for Cheap in 2026 May Be Near
@@ -632,6 +657,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 - `23 Aug 21:12` **aljazeera** — French President Macron to host Saudi Crown Prince MBS in Paris for talks
 - `23 Aug 21:05` **yahoo_finance** — Two Dropbox Executives Sold After Their Shares Vested Last Week. The Future Sole CEO Wasn't One of Them
 - `23 Aug 21:03` **yahoo_finance** — Iconic bank stock pays Buffett's Berkshire $619M in annual dividends
+- `23 Aug 21:01` **yahoo_finance** — We're Bleeding $730 a Month on a Rental Property. The Worst Part Is We Just Signed Another Lease and Now Selling May Not Be an Option
 - `23 Aug 21:00` **yahoo_finance** — Prediction: Eli Lilly Could Be One of the Biggest Winners of the Next Decade. Here's Why.
 - `23 Aug 20:58` **gnews_centralbanks** — It's Relatively Easy To Keep A Job These Days. Finding One Is Another Story - AOL.com
 - `23 Aug 20:50` **yahoo_finance** — AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSMC. Here's What Lisa Su Is Actually Buying With That Money.
@@ -763,36 +789,36 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.7 |
 | instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.5 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 43 | 35 | 4 | 31 | 8 | 0.0 |
-| gnews_geopolitics | OK | 51 | 29 | 8 | 21 | 22 | 0.1 |
-| gnews_centralbanks | OK | 33 | 23 | 3 | 20 | 10 | 0.0 |
+| gnews_fed | OK | 42 | 35 | 2 | 33 | 7 | 0.0 |
+| gnews_geopolitics | OK | 47 | 32 | 3 | 29 | 15 | 0.1 |
+| gnews_centralbanks | OK | 31 | 23 | 0 | 23 | 8 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.0 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.9 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.2 |
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.4 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.3 |
-| mining_com | OK | 36 | 1 | 1 | 0 | 35 | 0.2 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.4 |
+| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
 | oilprice | OK | 15 | 2 | 0 | 2 | 13 | 0.1 |
 | investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.1 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
-| bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.1 |
-| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.2 |
+| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.3 |
-| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.1 |
+| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.2 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.2 |
 | wsj_world | OK | 72 | 5 | 0 | 5 | 67 | 0.0 |
-| wsj_markets | OK | 61 | 5 | 0 | 5 | 56 | 0.0 |
-| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 35 | 7 | 28 | 14 | 0.0 |
+| wsj_markets | OK | 61 | 5 | 0 | 5 | 56 | 0.1 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| yahoo_finance | OK | 48 | 34 | 4 | 30 | 14 | 0.0 |
 | mw_topstories | OK | 10 | 6 | 0 | 6 | 4 | 0.0 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
 
