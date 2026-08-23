@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 20:30 PKT**
-- Kul khabrein: **196**
+- Aakhri update: **23 Aug 20:53 PKT**
+- Kul khabrein: **211**
 - Feeds: 28/39 OK
 
 ---
@@ -44,6 +44,11 @@ MCX Gold Rallies Over 13% In August 2026: Six Key Reasons Behind The Surge NDTV 
 MCX gold rallies for fifth straight week; gains ₹19,000 per 10 grams in August livemint.com
 
 ### USD
+
+**The Three Minds Leading the Fed's Inflation Rethink - WSJ**
+`23 Aug 20:50 PKT` · pehli baar dekhi `23 Aug 20:53` · gnews_fed
+
+The Three Minds Leading the Fed's Inflation Rethink WSJ
 
 **US Stock Market Prediction: Will Dow, S&P 500 & Nasdaq Rise Or Fall? Nvidia Earnings, Fed Jackson Hole, Treasury Yields & Iran Risks In Focus; Check Monday Market Outlook, Key Things To Watch - The Sunday Guardian**
 `23 Aug 20:02 PKT` · pehli baar dekhi `23 Aug 20:30` · gnews_fed
@@ -225,6 +230,9 @@ Australia bounce back after losing first Test, bowling out the visitors for 64 a
 
 ### OIL
 
+**How long could global oil stockpiles last if supply disruptions continue?**
+`23 Aug 20:20 PKT` · pehli baar dekhi `23 Aug 20:53` · yahoo_finance
+
 **Underwater Volcanoes Are Geothermal Energy's Next Frontier**
 `23 Aug 20:00 PKT` · pehli baar dekhi `23 Aug 20:30` · oilprice
 
@@ -316,6 +324,16 @@ The Rhine has slightly risen from its mid-August record low (when Kaub's water l
 
 ### CRYPTO
 
+**Federal Reserve Bank of Cleveland study links crypto ownership to return beliefs - Traders Union**
+`23 Aug 20:45 PKT` · pehli baar dekhi `23 Aug 20:53` · gnews_fed
+
+Federal Reserve Bank of Cleveland study links crypto ownership to return beliefs Traders Union
+
+**Fed study finds crypto investors driven by beliefs, easily swayed by returns**
+`23 Aug 20:30 PKT` · pehli baar dekhi `23 Aug 20:53` · cointelegraph
+
+A Federal Reserve Bank of Cleveland study finds crypto investors hold sharply different views on returns and risk, while information about Bitcoin's past gains can increase both desired allocations and actual crypto purchases.
+
 **Market Watch: Nvidia (NVDA) Earnings, Bitcoin Surges Past $70K, and Fed-Treasury Tensions Rise - Blockonomi**
 `23 Aug 17:20 PKT` · pehli baar dekhi `23 Aug 17:56` · gnews_fed
 
@@ -342,11 +360,27 @@ Bitcoin price analysis: What would activate the potential bull flag toward $84K-
 ### RATES
 
 **Fed minutes show September rate hike still on the table | Gulf Times - Gulf Times**
-`23 Aug 18:12 PKT` · pehli baar dekhi `23 Aug 20:30` · gnews_fed
+`23 Aug 18:12 PKT` · pehli baar dekhi `23 Aug 20:30` · gnews_fed · **2 feeds mein**
 
 Fed minutes show September rate hike still on the table | Gulf Times Gulf Times
+  - `23 Aug 18:12` *gnews_fed* — Fed minutes show September rate hike still on the table | Gulf Times - Gulf Times
 
 ### RISK
+
+**Gaza families search for children missing after years of war**
+`23 Aug 20:42 PKT` · pehli baar dekhi `23 Aug 20:53` · aljazeera
+
+Families in Gaza continue searching for children and relatives missing in the war.
+
+**Iran government signals fuel price hike on eve of new US sanctions**
+`23 Aug 20:38 PKT` · pehli baar dekhi `23 Aug 20:53` · aljazeera
+
+Prices for food and other items are soaring, and there is a history of unrest, so any increase is being considered.
+
+**Pezeshkian says Iran 'has not become Venezuela' despite war and sanctions**
+`23 Aug 20:25 PKT` · pehli baar dekhi `23 Aug 20:53` · aljazeera
+
+Iranian President Masoud Pezeshkian says Iran has stood firm despite what he calls a full-scale war.
 
 **Iran discovers huge 7.5 trillion cubic feet gas reserve in Fars Province amid US sanctions pressure - livemint.com**
 `23 Aug 19:04 PKT` · pehli baar dekhi `23 Aug 19:33` · gnews_geopolitics
@@ -448,12 +482,19 @@ Oil prices up as Trump vows sanctions vs Iran partners The Manila Times
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (101)
+### BINA TAG (108)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 20:35` **yahoo_finance** — Berkshire CEO Greg Abel Is Sitting on Nearly $400 Billion in Cash. Here's How His Deal-Making Approach Differs From Warren Buffett's.
+- `23 Aug 20:33` **investing_news** — Can Hershey step up to buy Mondelez?
+- `23 Aug 20:33` **yahoo_finance** — Spectrum rolls out free offer after steep customer losses
+- `23 Aug 20:30` **yahoo_finance** — 40% of companies posted fake job listings in 2024 — now lawmakers in multiple states are moving to ban them
+- `23 Aug 20:25` **yahoo_finance** — NVIDIA, Cloverleaf Partnering to Advance Data Center Development
 - `23 Aug 20:25` **gnews_centralbanks** — Policy Signals Shape The Rates Outlook - Seeking Alpha
+- `23 Aug 20:22` **yahoo_finance** — 3 Reasons Not to Claim Social Security at 67
 - `23 Aug 20:16` **yahoo_finance** — Jim Cramer holds back support for surging beverage stock
+- `23 Aug 20:06` **yahoo_finance** — How to Build $6,600 a Month in Dividend Income From Three Income Buckets
 - `23 Aug 20:05` **yahoo_finance** — The Stock Market Is Repeating a Pattern Not Seen in Decades. Here's What History Says Comes Next.
 - `23 Aug 20:00` **yahoo_finance** — This is One of the Cheapest Magnificent Seven Stocks Right Now
 - `23 Aug 20:00` **yahoo_finance** — Rocket Mortgage pushes home equity loans to wipe out credit card debt — here's how that could backfire on homeowners
@@ -565,20 +606,20 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.5 |
 | fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.7 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.1 |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.0 |
+| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.1 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.6 |
-| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.6 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
 | cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
 | cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
 | cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.4 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.5 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 36 | 25 | 3 | 22 | 11 | 0.0 |
-| gnews_geopolitics | OK | 57 | 20 | 0 | 20 | 37 | 0.1 |
-| gnews_centralbanks | OK | 29 | 18 | 2 | 16 | 11 | 0.0 |
+| gnews_fed | OK | 39 | 28 | 3 | 25 | 11 | 0.0 |
+| gnews_geopolitics | OK | 55 | 20 | 0 | 20 | 35 | 0.1 |
+| gnews_centralbanks | OK | 28 | 18 | 0 | 18 | 10 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.9 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.8 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
@@ -586,22 +627,21 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.4 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.3 |
 | mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.7 |
-| oilprice | OK | 15 | 2 | 1 | 1 | 13 | 0.0 |
-| investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.0 |
+| oilprice | OK | 15 | 2 | 0 | 2 | 13 | 0.0 |
+| investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.1 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.1 |
-| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
+| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.2 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.3 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.1 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.1 |
 | wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.1 |
 | wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.2 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 25 | 21 | 4 | 25 | 0.0 |
+| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 26 | 7 | 19 | 24 | 0.0 |
 | mw_topstories | OK | 10 | 5 | 0 | 5 | 5 | 0.1 |
-| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 1.1 |
+| cointelegraph | OK | 30 | 1 | 1 | 0 | 29 | 0.0 |
 
 **Jo feeds nahi aaye:**
-- instaforex — FAIL, koi item nahi
 - kitco_general — FAIL, koi item nahi
