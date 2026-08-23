@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 14:25 PKT**
-- Kul khabrein: **80**
+- Aakhri update: **23 Aug 14:53 PKT**
+- Kul khabrein: **86**
 - Feeds: 32/39 OK
 
 ---
@@ -27,6 +27,9 @@ Bullion to Shine: US Inflation, Fed Signals Drive Gold & Silver Rediff MoneyWiz
 MCX gold rallies for fifth straight week; gains ₹19,000 per 10 grams in August livemint.com
 
 ### USD
+
+**Why does the USD outlook depend on UST and Fed policy credibility?**
+`23 Aug 14:15 PKT` · pehli baar dekhi `23 Aug 14:53` · investing_news
 
 **Sell U.S. dollar versus these currencies, BCA says**
 `23 Aug 13:30 PKT` · pehli baar dekhi `23 Aug 13:52` · investing_news
@@ -80,6 +83,11 @@ Bank of England insiders warn AI boom could push up interest rates in Britain Th
 
 ### JPY
 
+**37 injured as magnitude 5.9 earthquake strikes eastern Japan**
+`23 Aug 14:21 PKT` · pehli baar dekhi `23 Aug 14:53` · aljazeera
+
+37 injured as magnitude 5.9 earthquake strikes eastern Japan
+
 **Japan's JGB Debt-Service Costs to Hit Record ¥36.6 Trillion Next Year Amid Surging Rates - finance.biggo.com**
 `23 Aug 10:35 PKT` · pehli baar dekhi `23 Aug 11:25` · gnews_centralbanks
 
@@ -129,6 +137,11 @@ Australia bounce back after losing first Test, bowling out the visitors for 64 a
 
 Crude Oil, Geopolitics Drive Market Movement: Analysts Rediff MoneyWiz
 
+**Oil hits 3-week high on supply concerns - The Daily Star**
+`23 Aug 12:51 PKT` · pehli baar dekhi `23 Aug 14:53` · gnews_geopolitics
+
+Oil hits 3-week high on supply concerns The Daily Star
+
 **Market outlook next week: Fed Chair speech, US-Iran tensions and crude oil in focus - BizzBuzz**
 `23 Aug 11:29 PKT` · pehli baar dekhi `23 Aug 12:11` · gnews_fed · **4 feeds mein**
 
@@ -177,6 +190,11 @@ Bitcoin price analysis: What would activate the potential bull flag toward $84K-
 
 ### RISK
 
+**Russia Tests Readiness for New Round of Military Mobilization**
+`23 Aug 14:30 PKT` · pehli baar dekhi `23 Aug 14:53` · wsj_world
+
+Recent exercises gauged the military's ability to absorb a mass of recruits in case the Kremlin orders a fresh mobilization for the first time since 2022.
+
 **Iran warns neighbours against joining U.S. sanctions as Hormuz stays closed**
 `23 Aug 13:10 PKT` · pehli baar dekhi `23 Aug 13:52` · investing_news
 
@@ -218,10 +236,12 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 
 Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 
-### BINA TAG (35)
+### BINA TAG (37)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 14:30` **wsj_markets** — Hype for Moderna's Cancer Vaccine Is Running Ahead of the Math
+- `23 Aug 14:13` **aljazeera** — Where water conflicts pose the biggest threat in 2026
 - `23 Aug 13:38` **aljazeera** — Israeli wounded in occupied West Bank stabbing
 - `23 Aug 13:28` **gnews_centralbanks** — Britons with £8,099 in savings issued urgent warning after change - Daily Express
 - `23 Aug 13:08` **aljazeera** — Flooding across Caracas, Venezuela, after heavy rains
@@ -268,39 +288,39 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.2 |
 | fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 1.4 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.8 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.9 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.8 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.4 |
 | instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.3 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.5 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.5 |
 | cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.5 |
 | cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.5 |
 | cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.5 |
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.5 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.2 |
-| kitco_general | OK | 2 | 0 | 0 | 0 | 2 | 1.0 |
-| gnews_fed | OK | 38 | 7 | 1 | 6 | 31 | 0.0 |
-| gnews_geopolitics | OK | 95 | 9 | 0 | 9 | 86 | 0.1 |
-| gnews_centralbanks | OK | 45 | 10 | 1 | 9 | 35 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.6 |
+| kitco_general | OK | 1 | 0 | 0 | 0 | 1 | 1.0 |
+| gnews_fed | OK | 36 | 7 | 0 | 7 | 29 | 0.1 |
+| gnews_geopolitics | OK | 95 | 11 | 1 | 10 | 84 | 0.1 |
+| gnews_centralbanks | OK | 44 | 10 | 0 | 10 | 34 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.7 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.6 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.9 |
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.1 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.0 |
-| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.4 |
-| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
-| investing_commodities | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.5 |
+| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
+| investing_commodities | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
 | bbc_business | OK | 50 | 5 | 0 | 5 | 45 | 0.1 |
-| aljazeera | OK | 25 | 20 | 1 | 19 | 5 | 0.0 |
+| aljazeera | OK | 25 | 22 | 2 | 20 | 3 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.0 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.8 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.9 |
-| wsj_world | OK | 72 | 2 | 0 | 2 | 70 | 0.3 |
-| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.4 |
+| wsj_world | OK | 72 | 3 | 1 | 2 | 69 | 0.0 |
+| wsj_markets | OK | 61 | 3 | 1 | 2 | 58 | 0.0 |
 | investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
 | yahoo_finance | OK | 50 | 1 | 0 | 1 | 49 | 0.4 |
 | mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
