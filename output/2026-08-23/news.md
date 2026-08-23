@@ -1,9 +1,9 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 18:37 PKT**
-- Kul khabrein: **147**
-- Feeds: 29/39 OK
+- Aakhri update: **23 Aug 18:59 PKT**
+- Kul khabrein: **157**
+- Feeds: 28/39 OK
 
 ---
 
@@ -33,6 +33,12 @@ MCX gold rallies for fifth straight week; gains ₹19,000 per 10 grams in August
 
 ### USD
 
+**USD Outlook Tied to UST Yields and Fed Policy Credibility: What Investors Should Know - CryptoRank**
+`23 Aug 17:41 PKT` · pehli baar dekhi `23 Aug 18:59` · gnews_fed · **2 feeds mein**
+
+USD Outlook Tied to UST Yields and Fed Policy Credibility: What Investors Should Know CryptoRank
+  - `23 Aug 14:40` *gnews_fed* — USD Outlook Tied To UST Yields And Fed Policy Credibility: What Investors Should Know - Bitcoin World
+
 **Jackson Hole 2026: Fed Chair Warsh's Speech Could Move Markets - Intellectia AI**
 `23 Aug 17:07 PKT` · pehli baar dekhi `23 Aug 17:56` · gnews_fed
 
@@ -52,11 +58,6 @@ US Inflation Is Cooling on Paper, but Price Pressures Have Gone Far Beyond the P
 `23 Aug 15:17 PKT` · pehli baar dekhi `23 Aug 18:37` · gnews_fed
 
 Investors seek clearer Fed guidance from Warsh at Jackson Hole address Business Standard
-
-**USD Outlook Tied To UST Yields And Fed Policy Credibility: What Investors Should Know - Bitcoin World**
-`23 Aug 14:40 PKT` · pehli baar dekhi `23 Aug 18:37` · gnews_fed
-
-USD Outlook Tied To UST Yields And Fed Policy Credibility: What Investors Should Know Bitcoin World
 
 **Why does the USD outlook depend on UST and Fed policy credibility?**
 `23 Aug 14:15 PKT` · pehli baar dekhi `23 Aug 14:53` · investing_news
@@ -78,6 +79,11 @@ Fed Rate Decision Predictions and Odds DeFi Rate
 `23 Aug 11:33 PKT` · pehli baar dekhi `23 Aug 12:48` · gnews_fed
 
 Back From The Dead - Is The FOMC Meeting LIVE For A Rate Hike? | Daily Market Update, July 28 2026 St. Louis Vs Colorado (r1D7GKCd2Q) Mshale
+
+**America In Focus: Fed officials eye higher rates; unemployment claims fall - Newsday**
+`23 Aug 04:58 PKT` · pehli baar dekhi `23 Aug 18:59` · gnews_fed
+
+America In Focus: Fed officials eye higher rates; unemployment claims fall Newsday
 
 **GE Vernova's Backlog Is Bigger Than Some Countries' GDP. Here's What's Actually Inside the $176 Billion.**
 `23 Aug 04:25 PKT` · pehli baar dekhi `23 Aug 04:58` · yahoo_finance
@@ -191,6 +197,14 @@ Provincial premiers have joined Canada's Prime Minister Mark Carney, firing back
 Australia bounce back after losing first Test, bowling out the visitors for 64 and 95 to win by an innings and 51 runs.
 
 ### OIL
+
+**Gulf markets rise as oil prices climb on Iran sanction fears**
+`23 Aug 18:49 PKT` · pehli baar dekhi `23 Aug 18:59` · investing_news
+
+**The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?**
+`23 Aug 18:37 PKT` · pehli baar dekhi `23 Aug 18:59` · aljazeera
+
+In the latest episode of Al Jazeera's new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.
 
 **Crude oil, US-Iran tensions and Fed cues to steer markets this week - ET Auto**
 `23 Aug 15:38 PKT` · pehli baar dekhi `23 Aug 16:58` · gnews_fed
@@ -374,10 +388,16 @@ Iran warns that countries joining the US economic war against Iran will face 'ti
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (68)
+### BINA TAG (74)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 18:50` **aljazeera** — Nordic nations 'have lost confidence in Infantino', demand FIFA reforms
+- `23 Aug 18:37` **investing_news** — Organon earnings up next: Can drugmaker rebound after Q1 miss?
+- `23 Aug 18:36` **investing_news** — ATAI Beckley earnings up next in final report before acquisition
+- `23 Aug 18:35` **investing_news** — Hub Group earnings up next as freight recovery meets execution risk
+- `23 Aug 18:35` **investing_news** — Forte Biosciences earnings on deck as argenx deal looms
+- `23 Aug 18:33` **aljazeera** — Chelsea preview: Five key talking points for 2026-27 Premier League season
 - `23 Aug 18:20` **aljazeera** — Heavy Israeli air strike hits warehouse in central Gaza
 - `23 Aug 18:10` **investing_news** — Up another 12% Friday, this AI-picked energy stock is now up +90%
 - `23 Aug 18:08` **aljazeera** — Dozens of attacks in southern Thailand wound three people
@@ -460,7 +480,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.0 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.0 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.6 |
-| instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.5 |
+| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.5 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
 | cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
@@ -469,9 +489,9 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.4 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 35 | 20 | 5 | 15 | 15 | 0.0 |
-| gnews_geopolitics | OK | 58 | 18 | 1 | 17 | 40 | 0.1 |
-| gnews_centralbanks | OK | 30 | 14 | 1 | 13 | 16 | 0.1 |
+| gnews_fed | OK | 34 | 21 | 2 | 19 | 13 | 0.0 |
+| gnews_geopolitics | OK | 55 | 18 | 0 | 18 | 37 | 0.1 |
+| gnews_centralbanks | OK | 30 | 14 | 0 | 14 | 16 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.8 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.7 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
@@ -487,12 +507,12 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.2 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.0 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.0 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.1 |
 | wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.1 |
 | wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.1 |
-| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| investing_news | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
 | yahoo_finance | OK | 50 | 3 | 0 | 3 | 47 | 0.2 |
-| mw_topstories | OK | 10 | 5 | 1 | 4 | 5 | 0.0 |
+| mw_topstories | OK | 10 | 5 | 0 | 5 | 5 | 0.0 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 1.0 |
 
 **Jo feeds nahi aaye:**

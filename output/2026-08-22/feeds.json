@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "23 Aug 18:37",
+  "updated_pkt": "23 Aug 18:59",
   "feeds": [
     {
       "name": "investinglive",
@@ -58,10 +58,10 @@
     },
     {
       "name": "instaforex",
-      "status": "OK",
+      "status": "WARN",
       "fetched": 25,
       "newest_age_days": 1.5,
-      "note": "",
+      "note": "thora sust",
       "in_window": 0,
       "new": 0,
       "seen_before": 0,
@@ -158,34 +158,34 @@
     {
       "name": "gnews_fed",
       "status": "OK",
-      "fetched": 35,
+      "fetched": 34,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 20,
-      "new": 5,
-      "seen_before": 15,
-      "out_of_window": 15
+      "in_window": 21,
+      "new": 2,
+      "seen_before": 19,
+      "out_of_window": 13
     },
     {
       "name": "gnews_geopolitics",
       "status": "OK",
-      "fetched": 58,
+      "fetched": 55,
       "newest_age_days": 0.1,
       "note": "",
       "in_window": 18,
-      "new": 1,
-      "seen_before": 17,
-      "out_of_window": 40
+      "new": 0,
+      "seen_before": 18,
+      "out_of_window": 37
     },
     {
       "name": "gnews_centralbanks",
       "status": "OK",
       "fetched": 30,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.0,
       "note": "",
       "in_window": 14,
-      "new": 1,
-      "seen_before": 13,
+      "new": 0,
+      "seen_before": 14,
       "out_of_window": 16
     },
     {
@@ -357,7 +357,7 @@
       "name": "bea_releases",
       "status": "OK",
       "fetched": 47,
-      "newest_age_days": 19.0,
+      "newest_age_days": 19.1,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -393,8 +393,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 1,
-      "seen_before": 9,
+      "new": 5,
+      "seen_before": 5,
       "out_of_window": 0
     },
     {
@@ -415,8 +415,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 5,
-      "new": 1,
-      "seen_before": 4,
+      "new": 0,
+      "seen_before": 5,
       "out_of_window": 5
     },
     {
