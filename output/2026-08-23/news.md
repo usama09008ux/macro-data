@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **24 Aug 00:34 PKT**
-- Kul khabrein: **346**
+- Aakhri update: **24 Aug 00:53 PKT**
+- Kul khabrein: **355**
 - Feeds: 29/39 OK
 
 ---
@@ -272,6 +272,9 @@ Bank of England insiders warn AI boom could push up interest rates in Britain Th
 
 ### JPY
 
+**Japan Borrowing Costs Reach 1996 Highs: Will the Weak Yen Hurt Bitcoin?**
+`24 Aug 00:14 PKT` · pehli baar dekhi `24 Aug 00:53` · yahoo_finance
+
 **The Treasury's bond-market intervention isn't working. So what comes next?**
 `23 Aug 17:00 PKT` · pehli baar dekhi `23 Aug 17:56` · mw_topstories
 
@@ -319,6 +322,11 @@ Bessent's Yen Intervention: A Turning Point or Temporary Relief? CryptoRank
 
 ### CAD
 
+**CANADA IS ONE OF THEM - Half the World's Oil Comes From Just Five Countries - Visual Capitalist - EnergyNow**
+`23 Aug 23:56 PKT` · pehli baar dekhi `24 Aug 00:53` · gnews_geopolitics
+
+CANADA IS ONE OF THEM - Half the World's Oil Comes From Just Five Countries - Visual Capitalist EnergyNow
+
 **Kashkari says inflation could be extended "the longer there's back and forth" in Canada tariff fight - CBS News**
 `23 Aug 23:22 PKT` · pehli baar dekhi `23 Aug 23:41` · gnews_fed
 
@@ -347,10 +355,11 @@ Australia bounce back after losing first Test, bowling out the visitors for 64 a
 The world is set to experience an extremely intense El Niño weather event this year, with warmer-than-normal sea surface temperatures in the tropical Pacific. This could disrupt typical weather patterns and lead to heavy rainfall in some regions and severe drought in others. While it is unclear whether the more frequent occurrence of El Niño is directly linked to human-caused climate change, it is certainly exacerbating extreme weather patterns in some parts of the world.
 
 **Iran discovers new gas field in Southern Fars Province, says Oil minister Paknejad - Dailyhunt**
-`23 Aug 23:44 PKT` · pehli baar dekhi `24 Aug 00:34` · gnews_geopolitics · **2 feeds mein**
+`23 Aug 23:44 PKT` · pehli baar dekhi `24 Aug 00:34` · gnews_geopolitics · **3 feeds mein**
 
 Iran discovers new gas field in Southern Fars Province, says Oil minister Paknejad Dailyhunt
   - `23 Aug 23:44` *gnews_geopolitics* — Iran discovers new gas field in Southern Fars Province, says Oil minister Paknejad - Dailyhunt
+  - `23 Aug 23:38` *gnews_geopolitics* — Iran discovers new gas field in Southern Fars Province, says Oil minister Paknejad - The Tribune
 
 **400% Strait Traffic Surge Eases Supply Fears, Will Oil Break Lower Monday? - BeInCrypto**
 `23 Aug 23:11 PKT` · pehli baar dekhi `23 Aug 23:41` · gnews_geopolitics
@@ -361,6 +370,11 @@ Iran discovers new gas field in Southern Fars Province, says Oil minister Paknej
 `23 Aug 23:00 PKT` · pehli baar dekhi `23 Aug 23:41` · oilprice
 
 While it seems that Democrats and Republicans can't agree on much of anything these days, there's at least one common enemy that's bringing both sides of the aisle together: data centers. Representatives on both sides of the aisle are increasingly pushing back against hyperscalers who are developing massive data center campuses on local energy grids, driving up energy demand and therefore causing electricity prices to skyrocket for everyone, whether they benefit from the artificial intelligence ...
+
+**'Geopolitics & oil prices to drive mkts this week' - MillenniumPost**
+`23 Aug 22:47 PKT` · pehli baar dekhi `24 Aug 00:53` · gnews_centralbanks
+
+'Geopolitics & oil prices to drive mkts this week' MillenniumPost
 
 **Oil Rebounds as Fragile Ceasefire, Hormuz Concerns Keep Supply Risks Elevated - EnergyNow**
 `23 Aug 21:29 PKT` · pehli baar dekhi `24 Aug 00:34` · gnews_geopolitics
@@ -565,6 +579,11 @@ Fed minutes show September rate hike still on the table | Gulf Times Gulf Times
 
 ### RISK
 
+**Middle East Tensions, Ukraine War and Rising Pressure on Global Trade - ENA English**
+`24 Aug 00:36 PKT` · pehli baar dekhi `24 Aug 00:53` · gnews_geopolitics
+
+Middle East Tensions, Ukraine War and Rising Pressure on Global Trade ENA English
+
 **Opinion | The Dumbest Trade War Revisited**
 `24 Aug 00:19 PKT` · pehli baar dekhi `24 Aug 00:34` · wsj_world
 
@@ -609,6 +628,11 @@ People observe a minute of silence for those killed in war to mark the holiday e
 `23 Aug 21:44 PKT` · pehli baar dekhi `23 Aug 22:58` · gnews_geopolitics
 
 US, Gulf allies threaten Iran with sanctions in UN proposal if it doesn't release Hormuz chokehold News On AIR
+
+**Iran Attack Wipes Out 17% of Qatar's LNG Capacity for Up to Five Years, QatarEnergy CEO Says - EnergyNow.com**
+`23 Aug 21:36 PKT` · pehli baar dekhi `24 Aug 00:53` · gnews_geopolitics
+
+Iran Attack Wipes Out 17% of Qatar's LNG Capacity for Up to Five Years, QatarEnergy CEO Says EnergyNow.com
 
 **US President Donald Trump Says Iran War Could Be Short | Akashvani News - News On AIR**
 `23 Aug 21:30 PKT` · pehli baar dekhi `23 Aug 23:41` · gnews_geopolitics
@@ -775,10 +799,13 @@ Oil prices up as Trump vows sanctions vs Iran partners The Manila Times
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (175)
+### BINA TAG (178)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `24 Aug 00:40` **aljazeera** — Gaza's hospitals are running out of oxygen as healthcare nears collapse
+- `24 Aug 00:28` **yahoo_finance** — This Company Has Raised Its Dividend for 72 Straight Years. Almost Nobody Talks About It.
+- `24 Aug 00:27` **aljazeera** — Two killed after giant Ganesha statue collapses onto crowd in Mumbai
 - `24 Aug 00:16` **yahoo_finance** — Prediction: ExxonMobil Raises Its Dividend More Than Wall Street Expects
 - `24 Aug 00:08` **wsj_world** — Opinion | What a Cuban Transition Might Look Like
 - `24 Aug 00:06` **wsj_markets** — Opinion | The Summer of 'My Bad'
@@ -972,11 +999,11 @@ yahoo_finance (1)
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.7 |
-| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.8 |
+| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.9 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.3 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.2 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.8 |
-| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.7 |
+| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.8 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
 | cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
@@ -985,15 +1012,15 @@ yahoo_finance (1)
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.6 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 43 | 39 | 1 | 38 | 4 | 0.0 |
-| gnews_geopolitics | OK | 45 | 37 | 3 | 34 | 8 | 0.0 |
-| gnews_centralbanks | OK | 29 | 25 | 0 | 25 | 4 | 0.0 |
+| gnews_fed | OK | 43 | 39 | 0 | 39 | 4 | 0.0 |
+| gnews_geopolitics | OK | 44 | 36 | 4 | 32 | 8 | 0.0 |
+| gnews_centralbanks | OK | 28 | 26 | 1 | 25 | 2 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.1 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 18.0 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.3 |
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.5 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.4 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.5 |
 | mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
 | oilprice | OK | 15 | 4 | 0 | 4 | 11 | 0.0 |
 | investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
@@ -1004,10 +1031,10 @@ yahoo_finance (1)
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.4 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.2 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.3 |
-| wsj_world | OK | 72 | 11 | 4 | 7 | 61 | 0.0 |
-| wsj_markets | OK | 61 | 6 | 1 | 5 | 55 | 0.0 |
+| wsj_world | OK | 72 | 11 | 0 | 11 | 61 | 0.0 |
+| wsj_markets | OK | 61 | 6 | 0 | 6 | 55 | 0.0 |
 | investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 40 | 4 | 36 | 9 | 0.0 |
+| yahoo_finance | OK | 50 | 41 | 2 | 39 | 9 | 0.0 |
 | mw_topstories | OK | 10 | 9 | 0 | 9 | 1 | 0.0 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
 
