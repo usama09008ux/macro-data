@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 10:50 PKT**
-- Kul khabrein: **42**
+- Aakhri update: **23 Aug 11:25 PKT**
+- Kul khabrein: **49**
 - Feeds: 37/39 OK
 
 ---
@@ -29,6 +29,11 @@ MCX gold rallies for fifth straight week; gains ₹19,000 per 10 grams in August
 
 ### EUR
 
+**Pegula dethrones Swiatek to book Cincinnati final against Gauff**
+`23 Aug 11:15 PKT` · pehli baar dekhi `23 Aug 11:25` · aljazeera
+
+The women's all-American final will be followed by a men&#039;s title clash between Frances Tiafoe and Arthur Fils of France.
+
 **Cooling Wage Growth May Let ECB Stay on Hold - Briefs Finance**
 `23 Aug 07:29 PKT` · pehli baar dekhi `23 Aug 08:04` · gnews_centralbanks
 
@@ -49,6 +54,11 @@ Bank of England insiders warn AI boom could push up interest rates in Britain Th
 
 ### JPY
 
+**Japan's JGB Debt-Service Costs to Hit Record ¥36.6 Trillion Next Year Amid Surging Rates - finance.biggo.com**
+`23 Aug 10:35 PKT` · pehli baar dekhi `23 Aug 11:25` · gnews_centralbanks
+
+Japan's JGB Debt-Service Costs to Hit Record ¥36.6 Trillion Next Year Amid Surging Rates finance.biggo.com
+
 **Japan's debt costs surge 17% as rates rise, straining 2027 budget - CHOSUNBIZ - Chosunbiz**
 `23 Aug 10:21 PKT` · pehli baar dekhi `23 Aug 10:50` · gnews_centralbanks
 
@@ -68,6 +78,11 @@ Provincial premiers have joined Canada's Prime Minister Mark Carney, firing back
 
 ### OIL
 
+**US-Iran war: Crude oil price is key | Is Tehran writing the obituary of Turkey-Pakistan-Saudi Arabia's defence pact? - livemint.com**
+`23 Aug 11:04 PKT` · pehli baar dekhi `23 Aug 11:25` · gnews_geopolitics
+
+US-Iran war: Crude oil price is key | Is Tehran writing the obituary of Turkey-Pakistan-Saudi Arabia's defence pact? livemint.com
+
 **Trump's 'Economic D-Day' vs Iran's Oil Chokehold: Who Blinks First at Hormuz? - Open Magazine**
 `23 Aug 07:06 PKT` · pehli baar dekhi `23 Aug 08:04` · gnews_geopolitics
 
@@ -82,6 +97,11 @@ Great Hormuz escape: 80% of traffic goes 'dark' as US flips Iran's playbook Gulf
 `23 Aug 05:42 PKT` · pehli baar dekhi `23 Aug 06:54` · gnews_geopolitics
 
 US oil and gas workers drive production to record high: Energy Secretary Chris Wright ANI News
+
+**Oil Prices Surge 6% in Week as Brent Nears $95 Barrel - Sada Elbalad english**
+`23 Aug 04:01 PKT` · pehli baar dekhi `23 Aug 11:25` · gnews_geopolitics
+
+Oil Prices Surge 6% in Week as Brent Nears $95 Barrel Sada Elbalad english
 
 **Europe Dodges a Rhine Crisis for the Worst Possible Reason**
 `23 Aug 04:00 PKT` · pehli baar dekhi `23 Aug 04:15` · oilprice
@@ -122,10 +142,13 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 
 Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 
-### BINA TAG (21)
+### BINA TAG (24)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 11:05` **investing_news** — 5 big analyst AI moves: Apple upgraded on foldable iPhone push, new AI strategy
+- `23 Aug 11:03` **investing_news** — Trump disclosure shows more than 1,000 securities trades in June - report
+- `23 Aug 10:55` **aljazeera** — Kazakhstan parliamentary elections begin: What's at stake?
 - `23 Aug 10:18` **investing_news** — Alibaba proposes Hong Kong share placement worth $10 billion
 - `23 Aug 10:10` **aljazeera** — Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide
 - `23 Aug 09:01` **investing_news** — XRP Falls 11% In Bearish Trade
@@ -159,8 +182,8 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 | investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.1 |
 | fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 1.3 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.6 |
-| marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.2 |
+| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.7 |
+| marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.3 |
 | instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.2 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
@@ -168,11 +191,11 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.0 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.1 |
 | kitco_general | OK | 2 | 0 | 0 | 0 | 2 | 0.8 |
 | gnews_fed | OK | 36 | 2 | 0 | 2 | 34 | 0.2 |
-| gnews_geopolitics | OK | 83 | 5 | 0 | 5 | 78 | 0.2 |
-| gnews_centralbanks | OK | 43 | 5 | 1 | 4 | 38 | 0.0 |
+| gnews_geopolitics | OK | 86 | 7 | 2 | 5 | 79 | 0.0 |
+| gnews_centralbanks | OK | 42 | 6 | 1 | 5 | 36 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.5 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.4 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
@@ -184,14 +207,14 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 | investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
 | bbc_business | OK | 50 | 1 | 0 | 1 | 49 | 0.3 |
-| aljazeera | OK | 25 | 10 | 1 | 9 | 15 | 0.0 |
+| aljazeera | OK | 25 | 12 | 2 | 10 | 13 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.8 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.9 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.7 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.7 |
 | wsj_world | OK | 72 | 2 | 0 | 2 | 70 | 0.2 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.2 |
-| investing_news | OK | 10 | 6 | 2 | 4 | 4 | 0.0 |
-| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.5 |
+| investing_news | OK | 10 | 8 | 2 | 6 | 2 | 0.0 |
+| yahoo_finance | OK | 50 | 1 | 0 | 1 | 49 | 0.3 |
 | mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |

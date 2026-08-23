@@ -1,7 +1,7 @@
 # News Pack — Trading Day 21 Aug 2026
 
 - Trading day: **21 Aug 03:00 -> 22 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 10:50 PKT**
+- Aakhri update: **23 Aug 11:25 PKT**
 - Kul khabrein: **874**
 - Feeds: 37/39 OK
 
@@ -2867,8 +2867,8 @@ investing_news (22)
 | investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.1 |
 | fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 1.3 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.6 |
-| marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.2 |
+| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.7 |
+| marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.3 |
 | instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.2 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
@@ -2876,11 +2876,11 @@ investing_news (22)
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.0 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.1 |
 | kitco_general | OK | 2 | 0 | 0 | 0 | 2 | 0.8 |
 | gnews_fed | OK | 36 | 2 | 0 | 2 | 34 | 0.2 |
-| gnews_geopolitics | OK | 83 | 5 | 0 | 5 | 78 | 0.2 |
-| gnews_centralbanks | OK | 43 | 5 | 1 | 4 | 38 | 0.0 |
+| gnews_geopolitics | OK | 86 | 7 | 2 | 5 | 79 | 0.0 |
+| gnews_centralbanks | OK | 42 | 6 | 1 | 5 | 36 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.5 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.4 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
@@ -2892,14 +2892,14 @@ investing_news (22)
 | investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
 | bbc_business | OK | 50 | 1 | 0 | 1 | 49 | 0.3 |
-| aljazeera | OK | 25 | 10 | 1 | 9 | 15 | 0.0 |
+| aljazeera | OK | 25 | 12 | 2 | 10 | 13 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.8 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.9 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.7 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.7 |
 | wsj_world | OK | 72 | 2 | 0 | 2 | 70 | 0.2 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.2 |
-| investing_news | OK | 10 | 6 | 2 | 4 | 4 | 0.0 |
-| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.5 |
+| investing_news | OK | 10 | 8 | 2 | 6 | 2 | 0.0 |
+| yahoo_finance | OK | 50 | 1 | 0 | 1 | 49 | 0.3 |
 | mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |
