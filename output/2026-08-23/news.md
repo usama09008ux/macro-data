@@ -1,9 +1,9 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 08:57 PKT**
-- Kul khabrein: **34**
-- Feeds: 33/39 OK
+- Aakhri update: **23 Aug 09:46 PKT**
+- Kul khabrein: **37**
+- Feeds: 37/39 OK
 
 ---
 
@@ -37,6 +37,13 @@ Cooling Wage Growth May Let ECB Stay on Hold Briefs Finance
 **Germany's Merz to press cabinet for faster pro-growth reforms**
 `23 Aug 03:12 PKT` · pehli baar dekhi `23 Aug 03:51` · investing_news
 
+### JPY
+
+**Bessent's Yen Intervention: A Turning Point or Temporary Relief? - CryptoRank**
+`23 Aug 03:00 PKT` · pehli baar dekhi `23 Aug 09:46` · gnews_centralbanks
+
+Bessent's Yen Intervention: A Turning Point or Temporary Relief? CryptoRank
+
 ### CAD
 
 **'You just can't trust Trump': Canadian premiers fire back in trade war**
@@ -66,6 +73,13 @@ US oil and gas workers drive production to record high: Energy Secretary Chris W
 
 The Rhine has slightly risen from its mid-August record low (when Kaub's water level gauge – at the river's decisive chokepoint – was below 10 cm), but the relief is mostly optical. Barges still cannot carry normal loads through it, leaving the industrial corridor from Rotterdam and Antwerp to southern Germany, eastern France and Switzerland short of transport capacity. The immediate result is expensive freight, constrained chemical production and uneven fuel supply.
 
+### CRYPTO
+
+**Is Bitcoin at $77k preparing for another breakout? This BTCUSD analysis shows a a potential bull flag pointing to $84K-$86K**
+`23 Aug 08:55 PKT` · pehli baar dekhi `23 Aug 09:46` · investinglive
+
+Bitcoin price analysis: What would activate the potential bull flag toward $84K-$86K? Bitcoin is trading near $77,100 inside a mildly downward-sloping 1-hour regression channel. The structure resembles a bull flag following the surge from below $70,000 to $79,461, but the pattern is not active yet. Bulls still need a decisive breakout above the channel, while $75,700-$75,200 is the main invalidation zone.
+
 ### RISK
 
 **Canada to hit US with retaliatory tariffs as trade war escalates**
@@ -93,10 +107,11 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 
 Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 
-### BINA TAG (18)
+### BINA TAG (19)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 09:01` **investing_news** — XRP Falls 11% In Bearish Trade
 - `23 Aug 08:40` **investing_news** — Cardano Falls 10% In Bearish Trade
 - `23 Aug 08:21` **aljazeera** — In rural Chad, solar kiosks bring healthcare closer
 - `23 Aug 08:16` **aljazeera** — Chinese robot beats Usain Bolt's 100m world record at humanoid games
@@ -124,7 +139,7 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 1.2 |
+| investinglive | OK | 25 | 1 | 1 | 0 | 24 | 0.0 |
 | fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 1.2 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.6 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.6 |
@@ -137,35 +152,29 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.0 |
-| kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_geopolitics | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_centralbanks | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| kitco_general | OK | 2 | 0 | 0 | 0 | 2 | 0.8 |
+| gnews_fed | OK | 39 | 2 | 0 | 2 | 37 | 0.2 |
+| gnews_geopolitics | OK | 80 | 5 | 0 | 5 | 75 | 0.1 |
+| gnews_centralbanks | OK | 45 | 3 | 1 | 2 | 42 | 0.2 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.4 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.3 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.8 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.4 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.7 |
 | boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 1.9 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.8 |
-| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.2 |
+| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.3 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.2 |
-| investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.0 |
+| investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
 | bbc_business | OK | 50 | 1 | 0 | 1 | 49 | 0.2 |
-| aljazeera | OK | 25 | 9 | 3 | 6 | 16 | 0.0 |
+| aljazeera | OK | 25 | 9 | 0 | 9 | 16 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.8 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.6 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.6 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.7 |
 | wsj_world | OK | 72 | 2 | 0 | 2 | 70 | 0.1 |
-| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.1 |
-| investing_news | OK | 10 | 3 | 1 | 2 | 7 | 0.0 |
+| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.2 |
+| investing_news | OK | 10 | 4 | 1 | 3 | 6 | 0.0 |
 | yahoo_finance | OK | 48 | 0 | 0 | 0 | 48 | 0.4 |
 | mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.6 |
-
-**Jo feeds nahi aaye:**
-- kitco_general — FAIL, HTTP 503
-- gnews_fed — FAIL, HTTP 503
-- gnews_geopolitics — FAIL, HTTP 503
-- gnews_centralbanks — FAIL, HTTP 503
