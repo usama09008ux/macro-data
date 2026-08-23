@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "23 Aug 12:48",
+  "updated_pkt": "23 Aug 13:15",
   "feeds": [
     {
       "name": "investinglive",
@@ -82,7 +82,7 @@
       "name": "cme_metals_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 1.4,
+      "newest_age_days": 1.5,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -93,7 +93,7 @@
       "name": "cme_fx_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 1.4,
+      "newest_age_days": 1.5,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -104,7 +104,7 @@
       "name": "cme_rates_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 1.4,
+      "newest_age_days": 1.5,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -115,7 +115,7 @@
       "name": "cme_energy_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 1.4,
+      "newest_age_days": 1.5,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -126,7 +126,7 @@
       "name": "cme_daily_commentary",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 1.4,
+      "newest_age_days": 1.5,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -161,31 +161,31 @@
       "fetched": 37,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 5,
-      "new": 3,
-      "seen_before": 2,
-      "out_of_window": 32
+      "in_window": 4,
+      "new": 1,
+      "seen_before": 3,
+      "out_of_window": 33
     },
     {
       "name": "gnews_geopolitics",
       "status": "OK",
-      "fetched": 91,
+      "fetched": 87,
       "newest_age_days": 0.1,
       "note": "",
       "in_window": 8,
-      "new": 1,
-      "seen_before": 7,
-      "out_of_window": 83
+      "new": 0,
+      "seen_before": 8,
+      "out_of_window": 79
     },
     {
       "name": "gnews_centralbanks",
       "status": "OK",
-      "fetched": 43,
-      "newest_age_days": 0.1,
+      "fetched": 44,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 7,
+      "in_window": 8,
       "new": 1,
-      "seen_before": 6,
+      "seen_before": 7,
       "out_of_window": 36
     },
     {
@@ -235,13 +235,13 @@
     {
       "name": "boj_whatsnew",
       "status": "OK",
-      "fetched": 43,
-      "newest_age_days": 2.0,
+      "fetched": 42,
+      "newest_age_days": 2.1,
       "note": "",
       "in_window": 0,
       "new": 0,
       "seen_before": 0,
-      "out_of_window": 43
+      "out_of_window": 42
     },
     {
       "name": "rba_media",
@@ -280,12 +280,12 @@
       "name": "investing_commodities",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.2,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 1,
-      "new": 0,
+      "in_window": 2,
+      "new": 1,
       "seen_before": 1,
-      "out_of_window": 9
+      "out_of_window": 8
     },
     {
       "name": "ing_think",
@@ -302,7 +302,7 @@
       "name": "bbc_business",
       "status": "OK",
       "fetched": 50,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.0,
       "note": "",
       "in_window": 5,
       "new": 0,
@@ -315,10 +315,10 @@
       "fetched": 25,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 15,
+      "in_window": 16,
       "new": 1,
-      "seen_before": 14,
-      "out_of_window": 10
+      "seen_before": 15,
+      "out_of_window": 9
     },
     {
       "name": "snb_press",
@@ -346,7 +346,7 @@
       "name": "eia_energy",
       "status": "WARN",
       "fetched": 18,
-      "newest_age_days": 3.7,
+      "newest_age_days": 3.8,
       "note": "thora sust",
       "in_window": 0,
       "new": 0,
@@ -368,7 +368,7 @@
       "name": "wsj_world",
       "status": "OK",
       "fetched": 72,
-      "newest_age_days": 0.2,
+      "newest_age_days": 0.3,
       "note": "",
       "in_window": 2,
       "new": 0,
@@ -393,8 +393,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 0,
-      "seen_before": 10,
+      "new": 1,
+      "seen_before": 9,
       "out_of_window": 0
     },
     {

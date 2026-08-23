@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 12:48 PKT**
-- Kul khabrein: **62**
+- Aakhri update: **23 Aug 13:15 PKT**
+- Kul khabrein: **67**
 - Feeds: 37/39 OK
 
 ---
@@ -10,6 +10,11 @@
 ## Khabrein
 
 ### GOLD
+
+**55 years ago today, on August 23, 1971, U.S. President Nixon suddenly announced the suspension of the dollar's convertibility into gold on August 15. - ababnews.com**
+`23 Aug 12:44 PKT` · pehli baar dekhi `23 Aug 13:15` · gnews_centralbanks
+
+55 years ago today, on August 23, 1971, U.S. President Nixon suddenly announced the suspension of the dollar's convertibility into gold on August 15. ababnews.com
 
 **MCX gold rallies for fifth straight week; gains ₹19,000 per 10 grams in August - livemint.com**
 `23 Aug 05:31 PKT` · pehli baar dekhi `23 Aug 08:04` · gnews_fed
@@ -101,9 +106,10 @@ Australia bounce back after losing first Test, bowling out the visitors for 64 a
 ### OIL
 
 **Market outlook next week: Fed Chair speech, US-Iran tensions and crude oil in focus - BizzBuzz**
-`23 Aug 11:29 PKT` · pehli baar dekhi `23 Aug 12:11` · gnews_fed · **2 feeds mein**
+`23 Aug 11:29 PKT` · pehli baar dekhi `23 Aug 12:11` · gnews_fed · **3 feeds mein**
 
 Market outlook next week: Fed Chair speech, US-Iran tensions and crude oil in focus BizzBuzz
+  - `23 Aug 11:25` *gnews_fed* — Market outlook next week: Fed Chair speech, US-Iran tensions and crude oil in focus - The Hans India
   - `23 Aug 11:25` *gnews_fed* — Market outlook next week: Fed Chair speech, US-Iran tensions and crude oil in focus - The Hans India
 
 **US-Iran war: Crude oil price is key | Is Tehran writing the obituary of Turkey-Pakistan-Saudi Arabia's defence pact? - livemint.com**
@@ -146,6 +152,9 @@ Bitcoin price analysis: What would activate the potential bull flag toward $84K-
 
 ### RISK
 
+**Iran says Pakistan's army chief to visit Tehran on Monday**
+`23 Aug 12:48 PKT` · pehli baar dekhi `23 Aug 13:15` · investing_commodities
+
 **Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war**
 `23 Aug 10:46 PKT` · pehli baar dekhi `23 Aug 12:11` · bbc_business
 
@@ -176,10 +185,12 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 
 Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 
-### BINA TAG (29)
+### BINA TAG (31)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 12:50` **investing_news** — Alibaba plans record $10.2 billion Hong Kong share sale to fund AI
+- `23 Aug 12:38` **aljazeera** — Kazakhstan holds parliamentary election expected to cement president's grip
 - `23 Aug 12:22` **aljazeera** — Infantino defies FIFA vice president, makes appearance in the Caribbean
 - `23 Aug 11:59` **aljazeera** — Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles
 - `23 Aug 11:09` **investing_news** — Korean retail traders chase 40% coupons after historic stock rout - report
@@ -225,35 +236,35 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.3 |
 | instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.3 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.1 |
 | kitco_general | OK | 2 | 0 | 0 | 0 | 2 | 0.9 |
-| gnews_fed | OK | 37 | 5 | 3 | 2 | 32 | 0.0 |
-| gnews_geopolitics | OK | 91 | 8 | 1 | 7 | 83 | 0.1 |
-| gnews_centralbanks | OK | 43 | 7 | 1 | 6 | 36 | 0.1 |
+| gnews_fed | OK | 37 | 4 | 1 | 3 | 33 | 0.0 |
+| gnews_geopolitics | OK | 87 | 8 | 0 | 8 | 79 | 0.1 |
+| gnews_centralbanks | OK | 44 | 8 | 1 | 7 | 36 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.6 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.5 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.0 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.8 |
-| boj_whatsnew | OK | 43 | 0 | 0 | 0 | 43 | 2.0 |
+| boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.1 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.0 |
 | mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.4 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
-| investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
+| investing_commodities | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| bbc_business | OK | 50 | 5 | 0 | 5 | 45 | 0.1 |
-| aljazeera | OK | 25 | 15 | 1 | 14 | 10 | 0.0 |
+| bbc_business | OK | 50 | 5 | 0 | 5 | 45 | 0.0 |
+| aljazeera | OK | 25 | 16 | 1 | 15 | 9 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 22.9 |
-| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.7 |
+| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.8 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.8 |
-| wsj_world | OK | 72 | 2 | 0 | 2 | 70 | 0.2 |
+| wsj_world | OK | 72 | 2 | 0 | 2 | 70 | 0.3 |
 | wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.3 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
 | yahoo_finance | OK | 50 | 1 | 0 | 1 | 49 | 0.4 |
 | mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.8 |
