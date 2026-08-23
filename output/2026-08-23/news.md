@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 22:58 PKT**
-- Kul khabrein: **286**
+- Aakhri update: **23 Aug 23:41 PKT**
+- Kul khabrein: **312**
 - Feeds: 29/39 OK
 
 ---
@@ -45,6 +45,14 @@ MCX Gold Rallies Over 13% In August 2026: Six Key Reasons Behind The Surge NDTV 
 MCX gold rallies for fifth straight week; gains ₹19,000 per 10 grams in August livemint.com
 
 ### USD
+
+**Kevin Warsh seeks to soothe investors' nerves as signs of economic strain mount - Financial Times**
+`23 Aug 23:00 PKT` · pehli baar dekhi `23 Aug 23:41` · gnews_fed
+
+Kevin Warsh seeks to soothe investors' nerves as signs of economic strain mount Financial Times
+
+**Nvidia, Fed Confab, Inflation, GDP, and More to Watch This Week**
+`23 Aug 23:00 PKT` · pehli baar dekhi `23 Aug 23:41` · yahoo_finance
 
 **Transcript: Neel Kashkari, Minneapolis Fed president and CEO, on "Face the Nation with Margaret Brennan," Aug. 23, 2026 - CBS News**
 `23 Aug 22:03 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_fed
@@ -156,6 +164,11 @@ America In Focus: Fed officials eye higher rates; unemployment claims fall Newsd
 
 ### EUR
 
+**Germany's Far Right Has a New Enemy: The 100-Year-Old Bauhaus**
+`23 Aug 23:09 PKT` · pehli baar dekhi `23 Aug 23:41` · wsj_world
+
+The architecture and design school closed by the Nazis is battling a new culture war.
+
 **Euro To Dollar Forecast 2026, 2027, 2028: Latest Bank Survey Sees EUR/USD Rising Towards 1.18 - Exchange Rates UK**
 `23 Aug 22:00 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_centralbanks
 
@@ -197,6 +210,11 @@ ECB Chief Lagarde Reportedly 'Ready to Serve' WEF ASHARQ AL-AWSAT English
 `23 Aug 11:15 PKT` · pehli baar dekhi `23 Aug 11:25` · aljazeera
 
 The women's all-American final will be followed by a men&#039;s title clash between Frances Tiafoe and Arthur Fils of France.
+
+**Shooting Stars At 1.17 Signal EUR/USD Overbought Resistance - Menafn**
+`23 Aug 11:10 PKT` · pehli baar dekhi `23 Aug 23:41` · gnews_centralbanks
+
+Shooting Stars At 1.17 Signal EUR/USD Overbought Resistance Menafn
 
 **Cooling Wage Growth May Let ECB Stay on Hold - Briefs Finance**
 `23 Aug 07:29 PKT` · pehli baar dekhi `23 Aug 08:04` · gnews_centralbanks
@@ -270,6 +288,11 @@ Bessent's Yen Intervention: A Turning Point or Temporary Relief? CryptoRank
 
 ### CAD
 
+**Kashkari says inflation could be extended "the longer there's back and forth" in Canada tariff fight - CBS News**
+`23 Aug 23:22 PKT` · pehli baar dekhi `23 Aug 23:41` · gnews_fed
+
+Kashkari says inflation could be extended "the longer there's back and forth" in Canada tariff fight CBS News
+
 **Could Canada fully supply the U.S. with aluminium?**
 `23 Aug 13:51 PKT` · pehli baar dekhi `23 Aug 14:25` · investing_news
 
@@ -286,6 +309,16 @@ Provincial premiers have joined Canada's Prime Minister Mark Carney, firing back
 Australia bounce back after losing first Test, bowling out the visitors for 64 and 95 to win by an innings and 51 runs.
 
 ### OIL
+
+**400% Strait Traffic Surge Eases Supply Fears, Will Oil Break Lower Monday? - BeInCrypto**
+`23 Aug 23:11 PKT` · pehli baar dekhi `23 Aug 23:41` · gnews_geopolitics
+
+400% Strait Traffic Surge Eases Supply Fears, Will Oil Break Lower Monday? BeInCrypto
+
+**Private Equity Is Circling Utilities as AI Reshapes the Grid**
+`23 Aug 23:00 PKT` · pehli baar dekhi `23 Aug 23:41` · oilprice
+
+While it seems that Democrats and Republicans can't agree on much of anything these days, there's at least one common enemy that's bringing both sides of the aisle together: data centers. Representatives on both sides of the aisle are increasingly pushing back against hyperscalers who are developing massive data center campuses on local energy grids, driving up energy demand and therefore causing electricity prices to skyrocket for everyone, whether they benefit from the artificial intelligence ...
 
 **One of Exxon's Biggest Oil Fields Is Running Out of Room to Grow. Here's Why That's Not a Crisis.**
 `23 Aug 21:05 PKT` · pehli baar dekhi `23 Aug 21:24` · yahoo_finance
@@ -482,6 +515,21 @@ Fed minutes show September rate hike still on the table | Gulf Times Gulf Times
 
 ### RISK
 
+**Iran warns Gulf neighbors: join US economic war, become an enemy - scanx.trade**
+`23 Aug 23:20 PKT` · pehli baar dekhi `23 Aug 23:41` · gnews_geopolitics
+
+Iran warns Gulf neighbors: join US economic war, become an enemy scanx.trade
+
+**Trump has 'run out of options' in Iran war: Stephen Walt**
+`23 Aug 23:15 PKT` · pehli baar dekhi `23 Aug 23:41` · aljazeera
+
+Political scientist Stephen Walt says Trump promised to make US stronger, but many of his policies are making it weaker.
+
+**Iran war: Top US lawmaker says Republicans can 'absolutely' win midterms**
+`23 Aug 22:53 PKT` · pehli baar dekhi `23 Aug 23:41` · aljazeera
+
+House Speaker Mike Johnson, a Trump ally, admits it &#039;would be helpful&#039; if conflict ends before elections in November.
+
 **Photos: Ukraine celebrates National Flag Day**
 `23 Aug 22:18 PKT` · pehli baar dekhi `23 Aug 22:41` · aljazeera
 
@@ -491,6 +539,11 @@ People observe a minute of silence for those killed in war to mark the holiday e
 `23 Aug 21:44 PKT` · pehli baar dekhi `23 Aug 22:58` · gnews_geopolitics
 
 US, Gulf allies threaten Iran with sanctions in UN proposal if it doesn't release Hormuz chokehold News On AIR
+
+**US President Donald Trump Says Iran War Could Be Short | Akashvani News - News On AIR**
+`23 Aug 21:30 PKT` · pehli baar dekhi `23 Aug 23:41` · gnews_geopolitics
+
+US President Donald Trump Says Iran War Could Be Short | Akashvani News News On AIR
 
 **Can Nigeria cash in on Iran war?**
 `23 Aug 21:07 PKT` · pehli baar dekhi `23 Aug 21:24` · aljazeera
@@ -642,10 +695,23 @@ Oil prices up as Trump vows sanctions vs Iran partners The Manila Times
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (145)
+### BINA TAG (159)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 23:27` **aljazeera** — Video: Thousands of families flee fighting in Sudan's North Kordofan State
+- `23 Aug 23:23` **investing_news** — Burry exits Alibaba, builds large JD.com position over valuation concerns
+- `23 Aug 23:20` **yahoo_finance** — A Grocery Outlet Insider Purchases 8,000 Shares Amid a 40% Stock Decline
+- `23 Aug 23:20` **yahoo_finance** — 3 Ways to Maximize Social Security Without Working Longer
+- `23 Aug 23:17` **yahoo_finance** — 125-year-old mall retail anchor closes discount outlet, cuts 101 jobs
+- `23 Aug 23:14` **yahoo_finance** — I Love NuScale Stock for 1 Reason, and It's Not What You Think
+- `23 Aug 23:12` **yahoo_finance** — Is Dropbox Stock a Buy as Revenue Grows Under 1% and Insiders Dispose of Shares?
+- `23 Aug 23:03` **yahoo_finance** — Target admits it still has big problems to fix
+- `23 Aug 23:02` **investing_news** — Turkey's central bank to restart one-week repo auctions
+- `23 Aug 23:00` **yahoo_finance** — Target Just Reported Earnings. Here's Whether the Dividend King Is Still a Buy.
+- `23 Aug 22:57` **aljazeera** — Tunisia sees protests after migrant boat sinking kills eight
+- `23 Aug 22:55` **aljazeera** — Thousands displaced as wildfire threatens homes in US state of Nevada
+- `23 Aug 22:50` **yahoo_finance** — The U.S. National Debt Officially Surpassed $40 Trillion in August: Here's What History Says This Means for the Stock Market
 - `23 Aug 22:40` **yahoo_finance** — SentinelOne Is Up 42% This Year and Reports Earnings on August 27. Should You Buy Before the Earnings Release?
 - `23 Aug 22:39` **yahoo_finance** — The Real Cost of Retiring in Myrtle Beach, South Carolina, on $2,500 a Month
 - `23 Aug 22:35` **aljazeera** — Landfill collapse in Guinea kills at least 22 people
@@ -655,6 +721,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 - `23 Aug 22:26` **yahoo_finance** — Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock
 - `23 Aug 22:10` **yahoo_finance** — Should You Buy Oracle Stock Before September? The Answer Might Surprise You.
 - `23 Aug 22:07` **yahoo_finance** — Bill Ackman's Pershing Square invests $1.1B in fintech giant
+- `23 Aug 22:00` **yahoo_finance** — People Usually Recommend Whatever Is Making Them Money. These Business Owners Say the Pay Still Isn't Worth the Headache
 - `23 Aug 22:00` **yahoo_finance** — Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy
 - `23 Aug 21:57` **yahoo_finance** — An e.l.f. Beauty Insider Sells 5,718 Shares. Here's What That Means for Investors.
 - `23 Aug 21:55` **yahoo_finance** — Your Last Chance to Buy Nvidia Stock for Cheap in 2026 May Be Near
@@ -794,6 +861,14 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 
 ---
 
+## Shor — 1 khabrein hatai gayin
+
+*Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
+
+yahoo_finance (1)
+
+---
+
 ## Data quality
 
 *Feed mein = is run par feed ne kitni khabrein dikhayin. Aaj ki = jo aaj ke trading day ki thin. Nayi = jo is run par pehli baar mili. Purani = jo pehle mehfooz ho chuki thin. Bahar = doosre trading day ki thin.*
@@ -803,41 +878,41 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.6 |
 | fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.8 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.2 |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.1 |
-| marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.7 |
+| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.2 |
+| marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.8 |
 | instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.7 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
 | cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
 | cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
 | cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.5 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.6 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 42 | 37 | 0 | 37 | 5 | 0.0 |
-| gnews_geopolitics | OK | 47 | 32 | 1 | 31 | 15 | 0.1 |
-| gnews_centralbanks | OK | 31 | 24 | 2 | 22 | 7 | 0.0 |
+| gnews_fed | OK | 42 | 39 | 2 | 37 | 3 | 0.0 |
+| gnews_geopolitics | OK | 46 | 33 | 3 | 30 | 13 | 0.0 |
+| gnews_centralbanks | OK | 30 | 23 | 1 | 22 | 7 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.0 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.9 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.2 |
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.5 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.4 |
-| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
-| oilprice | OK | 15 | 2 | 0 | 2 | 13 | 0.1 |
-| investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.1 |
+| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
+| oilprice | OK | 15 | 3 | 1 | 2 | 12 | 0.0 |
+| investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.2 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.4 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.2 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.2 |
-| wsj_world | OK | 72 | 5 | 0 | 5 | 67 | 0.1 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.3 |
+| wsj_world | OK | 72 | 7 | 1 | 6 | 65 | 0.0 |
 | wsj_markets | OK | 61 | 5 | 0 | 5 | 56 | 0.1 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 36 | 6 | 30 | 13 | 0.0 |
-| mw_topstories | OK | 10 | 6 | 0 | 6 | 4 | 0.0 |
+| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| yahoo_finance | OK | 48 | 36 | 11 | 25 | 12 | 0.0 |
+| mw_topstories | OK | 10 | 7 | 0 | 7 | 3 | 0.0 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
 
 **Jo feeds nahi aaye:**
