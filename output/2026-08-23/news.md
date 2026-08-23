@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **24 Aug 00:53 PKT**
-- Kul khabrein: **355**
+- Aakhri update: **24 Aug 01:22 PKT**
+- Kul khabrein: **377**
 - Feeds: 29/39 OK
 
 ---
@@ -10,6 +10,11 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**Monday open indicative forex prices, 24 August 2026 - CAD weaker on trade war**
+`24 Aug 00:55 PKT` · pehli baar dekhi `24 Aug 01:22` · investinglive
+
+Its just before: 5am Tokyo 4am ingapore/Hong Kong 6am Australia/8am New Zealand Bitcoin is on the move: Is Bitcoin at $77k preparing for another breakout? This BTCUSD analysis shows a a potential bull flag pointing to $84K-$86K Early indications: EUR/USD 1.1676 USD/JPY 159.02 GBP/USD 1.3627 USD/CHF 0.7992 USD/CAD 1.3821 AUD/USD 0.7168 NZD/USD 0.5980 I'll be back with weekend news soon. This article was written by Eamonn Sheridan at investinglive.com.
 
 **Week Ahead: Jackson Hole; BoK Meeting; RBA, Riksbank and ECB Minutes; U.S., Australia, Tokyo, France and Spain Inflation Reports; U.S. BLS Revisions; China's Top Legislature Meeting; Bessent on Iran; Nvidia Earnings - christophe-barraud.com**
 `23 Aug 17:08 PKT` · pehli baar dekhi `23 Aug 19:33` · gnews_centralbanks
@@ -53,9 +58,18 @@ MCX gold rallies for fifth straight week; gains ₹19,000 per 10 grams in August
 `24 Aug 00:11 PKT` · pehli baar dekhi `24 Aug 00:34` · yahoo_finance
 
 **Minneapolis Fed President: "U.S. Treasury Market Functioning Normally... Long-term Yields Determined by Fundamentals" - 아시아경제**
-`23 Aug 23:56 PKT` · pehli baar dekhi `24 Aug 00:07` · gnews_fed
+`23 Aug 23:56 PKT` · pehli baar dekhi `24 Aug 00:07` · gnews_fed · **2 feeds mein**
 
 Minneapolis Fed President: "U.S. Treasury Market Functioning Normally... Long-term Yields Determined by Fundamentals" 아시아경제
+  - `23 Aug 23:56` *gnews_fed* — Minneapolis Fed President: "U.S. Treasury Market Functioning Normally... Long-term Yields Determined by Fundamentals" - 아시아경제
+
+**Trump's Bond Buyback Push Puts Kevin Warsh in a Tough Spot — Peter Schiff Says Treasury 'Pulled the Rug Out From Under'**
+`23 Aug 23:31 PKT` · pehli baar dekhi `24 Aug 01:22` · yahoo_finance
+
+**Wall Street Week Ahead: Warsh's Jackson speech, PCE inflation and Nvidia earnings in focus - livemint.com**
+`23 Aug 23:24 PKT` · pehli baar dekhi `24 Aug 01:22` · gnews_fed
+
+Wall Street Week Ahead: Warsh's Jackson speech, PCE inflation and Nvidia earnings in focus livemint.com
 
 **Fed's Kashkari Says Rising Treasury Yields Won't Sway Rate Decisions - finance.biggo.com**
 `23 Aug 23:20 PKT` · pehli baar dekhi `24 Aug 00:07` · gnews_fed
@@ -322,6 +336,11 @@ Bessent's Yen Intervention: A Turning Point or Temporary Relief? CryptoRank
 
 ### CAD
 
+**US-Canada trade talks collapse as 50% tariffs take effect, Carney vows retaliation**
+`24 Aug 01:07 PKT` · pehli baar dekhi `24 Aug 01:22` · investinglive
+
+The breakdown reintroduces cross-border trade risk into North American markets just as investors had begun pricing in a de-escalation after weeks of negotiation. The Canadian dollar has come under renewed pressure, with commentary pointing to a slide toward the low 70s against the US dollar, though that figure should be checked against a primary data feed rather than taken at face value.
+
 **CANADA IS ONE OF THEM - Half the World's Oil Comes From Just Five Countries - Visual Capitalist - EnergyNow**
 `23 Aug 23:56 PKT` · pehli baar dekhi `24 Aug 00:53` · gnews_geopolitics
 
@@ -348,6 +367,9 @@ Provincial premiers have joined Canada's Prime Minister Mark Carney, firing back
 Australia bounce back after losing first Test, bowling out the visitors for 64 and 95 to win by an innings and 51 runs.
 
 ### OIL
+
+**Italy extends diesel tax cut to Wednesday amid rising fuel prices**
+`24 Aug 00:39 PKT` · pehli baar dekhi `24 Aug 01:22` · investing_commodities
 
 **Super El Niño Threatens Food, Water and Trade Worldwide**
 `24 Aug 00:00 PKT` · pehli baar dekhi `24 Aug 00:07` · oilprice
@@ -504,6 +526,18 @@ The Rhine has slightly risen from its mid-August record low (when Kaub's water l
 
 ### CRYPTO
 
+**Bond investors eye Kevin Warsh's Jackson Hole speech amid Treasury selloff - Crypto Briefing**
+`24 Aug 01:00 PKT` · pehli baar dekhi `24 Aug 01:22` · gnews_fed
+
+Bond investors eye Kevin Warsh's Jackson Hole speech amid Treasury selloff Crypto Briefing
+
+**Fed study finds crypto investors driven by beliefs, easily swayed by returns - Cryptonews.net**
+`24 Aug 00:52 PKT` · pehli baar dekhi `24 Aug 01:22` · gnews_fed · **3 feeds mein**
+
+Fed study finds crypto investors driven by beliefs, easily swayed by returns Cryptonews.net
+  - `23 Aug 20:30` *gnews_fed* — Fed study finds crypto investors driven by beliefs, easily swayed by returns - TradingView
+  - `23 Aug 20:30` *cointelegraph* — Fed study finds crypto investors driven by beliefs, easily swayed by returns
+
 **Bitcoin's Rally Leans on Fears That Fiscal Strains Are Mounting**
 `23 Aug 23:00 PKT` · pehli baar dekhi `24 Aug 00:07` · yahoo_finance
 
@@ -534,12 +568,6 @@ Federal Reserve Bank of Cleveland study reveals crypto investors swayed by Bitco
 `23 Aug 20:45 PKT` · pehli baar dekhi `23 Aug 20:53` · gnews_fed
 
 Federal Reserve Bank of Cleveland study links crypto ownership to return beliefs Traders Union
-
-**Fed study finds crypto investors driven by beliefs, easily swayed by returns - TradingView**
-`23 Aug 20:30 PKT` · pehli baar dekhi `23 Aug 21:24` · gnews_fed · **2 feeds mein**
-
-Fed study finds crypto investors driven by beliefs, easily swayed by returns TradingView
-  - `23 Aug 20:30` *cointelegraph* — Fed study finds crypto investors driven by beliefs, easily swayed by returns
 
 **Market Watch: Nvidia (NVDA) Earnings, Bitcoin Surges Past $70K, and Fed-Treasury Tensions Rise - Blockonomi**
 `23 Aug 17:20 PKT` · pehli baar dekhi `23 Aug 17:56` · gnews_fed
@@ -799,11 +827,24 @@ Oil prices up as Trump vows sanctions vs Iran partners The Manila Times
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (178)
+### BINA TAG (192)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `24 Aug 01:13` **yahoo_finance** — Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?
+- `24 Aug 01:00` **aljazeera** — Severe winds toss four aircraft across Italian airport tarmac
+- `24 Aug 01:00` **yahoo_finance** — After Buying Circle Through a 42% Drop, Cathie Wood Says Analysts Cannot Fathom It
+- `24 Aug 00:57` **yahoo_finance** — Gilead's Revenue Is Accelerating, But are its Acquisitions Worth the Cost?
+- `24 Aug 00:54` **yahoo_finance** — Pfizer vs. Gilead: Which Drugmaker Has the Stronger Growth Story?
+- `24 Aug 00:52` **aljazeera** — Photos: IndyCars speed past Washington landmarks as part of Freedom 250
+- `24 Aug 00:49` **yahoo_finance** — Zoetis Earnings Reveal a Divided Business, But Can its Pipeline Restore Growth?
+- `24 Aug 00:47` **yahoo_finance** — Your mortgage rate has a growing problem in the bond market
+- `24 Aug 00:43` **yahoo_finance** — Medtronic vs. Tenet Healthcare: Which Healthcare Stock Offers Better Long-Term Growth?
 - `24 Aug 00:40` **aljazeera** — Gaza's hospitals are running out of oxygen as healthcare nears collapse
+- `24 Aug 00:40` **yahoo_finance** — FHLC vs. PJP: Which Healthcare ETF Is the Better Buy for Investors?
+- `24 Aug 00:39` **yahoo_finance** — Vistra Is the Quietest Big Winner of the AI Power Boom. Here's Why.
+- `24 Aug 00:38` **yahoo_finance** — AstraZeneca Made a $1.5 Billion Lung Cancer Bet, but Can Zegfrovy Strengthen its Oncology Growth?
+- `24 Aug 00:37` **yahoo_finance** — Major alcohol company shrinks workforce by nearly 2,000
 - `24 Aug 00:28` **yahoo_finance** — This Company Has Raised Its Dividend for 72 Straight Years. Almost Nobody Talks About It.
 - `24 Aug 00:27` **aljazeera** — Two killed after giant Ganesha statue collapses onto crowd in Mumbai
 - `24 Aug 00:16` **yahoo_finance** — Prediction: ExxonMobil Raises Its Dividend More Than Wall Street Expects
@@ -947,6 +988,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 - `23 Aug 12:50` **investing_news** — Alibaba plans record $10.2 billion Hong Kong share sale to fund AI
 - `23 Aug 12:46` **aljazeera** — Israeli politicians focus on foreign threats, ignoring spiralling debt
 - `23 Aug 12:38` **aljazeera** — Kazakhstan holds parliamentary election expected to cement president's grip
+- `23 Aug 12:28` **gnews_geopolitics** — How High Are Gas Prices Where You Live? - The New York Times
 - `23 Aug 12:22` **aljazeera** — Infantino defies FIFA vice president, makes appearance in the Caribbean
 - `23 Aug 11:59` **aljazeera** — Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles
 - `23 Aug 11:23` **bbc_business** — Les used a QR code to download a parking app - but it was a scam
@@ -998,45 +1040,46 @@ yahoo_finance (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.7 |
+| investinglive | OK | 25 | 3 | 2 | 1 | 22 | 0.0 |
 | fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.9 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.3 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.2 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.8 |
-| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.8 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.6 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 43 | 39 | 0 | 39 | 4 | 0.0 |
-| gnews_geopolitics | OK | 44 | 36 | 4 | 32 | 8 | 0.0 |
-| gnews_centralbanks | OK | 28 | 26 | 1 | 25 | 2 | 0.0 |
+| gnews_fed | OK | 40 | 39 | 4 | 35 | 1 | 0.0 |
+| gnews_geopolitics | OK | 45 | 38 | 1 | 37 | 7 | 0.0 |
+| gnews_centralbanks | OK | 27 | 26 | 0 | 26 | 1 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.1 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 18.0 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.3 |
-| boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.5 |
+| boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.6 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.5 |
 | mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
-| oilprice | OK | 15 | 4 | 0 | 4 | 11 | 0.0 |
-| investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
+| oilprice | OK | 15 | 4 | 0 | 4 | 11 | 0.1 |
+| investing_commodities | OK | 10 | 4 | 1 | 3 | 6 | 0.0 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.0 |
 | aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.4 |
-| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.2 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.5 |
+| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.3 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.3 |
 | wsj_world | OK | 72 | 11 | 0 | 11 | 61 | 0.0 |
-| wsj_markets | OK | 61 | 6 | 0 | 6 | 55 | 0.0 |
+| wsj_markets | OK | 61 | 6 | 0 | 6 | 55 | 0.1 |
 | investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 41 | 2 | 39 | 9 | 0.0 |
+| yahoo_finance | OK | 50 | 44 | 12 | 32 | 6 | 0.0 |
 | mw_topstories | OK | 10 | 9 | 0 | 9 | 1 | 0.0 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
 
 **Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi
 - kitco_general — FAIL, koi item nahi
