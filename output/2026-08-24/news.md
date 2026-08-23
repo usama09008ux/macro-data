@@ -1,9 +1,9 @@
 # News Pack — Trading Day 24 Aug 2026
 
 - Trading day: **24 Aug 03:00 -> 25 Aug 02:59 PKT**
-- Aakhri update: **24 Aug 04:16 PKT**
-- Kul khabrein: **39**
-- Feeds: 31/39 OK
+- Aakhri update: **24 Aug 04:40 PKT**
+- Kul khabrein: **55**
+- Feeds: 30/39 OK
 
 ---
 
@@ -36,6 +36,11 @@ ECB chief Lagarde 'ready to serve' World Economic Forum: report The Business Tim
 **Europe EV market share tops 25% in July as France, Germany drive growth**
 `24 Aug 03:06 PKT` · pehli baar dekhi `24 Aug 03:28` · investing_news
 
+**Energy Risks Push Markets to Price ECB Rates Near 3% by 2027 - Межа. Новини України.**
+`24 Aug 03:03 PKT` · pehli baar dekhi `24 Aug 04:40` · gnews_centralbanks
+
+Energy Risks Push Markets to Price ECB Rates Near 3% by 2027 Межа. Новини України.
+
 ### CAD
 
 **Stock futures slip as U.S. and Canada appear headed for trade war**
@@ -49,6 +54,11 @@ U.S. stock-index futures dipped on Sunday, as it appeared the U.S. was on the ve
 `24 Aug 03:49 PKT` · pehli baar dekhi `24 Aug 04:16` · investing_news
 
 ### NZD
+
+**New Zealand Dollar edges lower below 0.6000 after weaker Retail Sales data**
+`24 Aug 04:39 PKT` · pehli baar dekhi `24 Aug 04:40` · fxstreet_news
+
+The NZD/USD pair declines to around 0.5970 during the early Asian session on Monday. The New Zealand Dollar (NZD) weakens against the US Dollar (USD) following New Zealand's downbeat economic data.
 
 **New Zealand Core Retail Sales Lose Momentum, Quarterly Growth Cools to 0.7%**
 `24 Aug 03:52 PKT` · instaforex
@@ -81,6 +91,11 @@ Retail Sales,a measures of the volume of sales of goods by retailers in New Zeal
 New Zealand data soon. Despite the pick up in retail sales in Q1 today's data is expected to be much slower. Fuel prices rocketing will weigh. This article was written by Eamonn Sheridan at investinglive.com.
 
 ### OIL
+
+**Oil eases on Globex after weekend Iran escalation and sanctions threats**
+`24 Aug 04:36 PKT` · pehli baar dekhi `24 Aug 04:40` · investinglive
+
+Oil is trading a little lower on Globex Monday, a move that sits alongside rather than in place of the string of Iran-linked headlines already on the wire today: Bessent's toughest-ever sanctions announcement due at 2pm EDT, Rezaei's threat to halt all Gulf oil exports if the economic war continues, and Rezaei's separate remarks framing Trump's Iran strikes as having increased global interest in nuclear weapons.
 
 **Diesel Crisis Threatens to Outlast the Middle East War**
 `24 Aug 04:00 PKT` · pehli baar dekhi `24 Aug 04:16` · oilprice
@@ -125,10 +140,21 @@ Iran announces gas discovery after war worsens energy squeeze The Business Times
 
 Global oil prices cross $100 a barrel as Iran war sends fuel prices surging ABC7 Los Angeles
 
-### BINA TAG (16)
+### BINA TAG (28)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `24 Aug 04:26` **bbc_business** — Review launched into how pub and hotel business rates calculated
+- `24 Aug 04:25` **bbc_business** — 'I didn't speak the Queen's English': Why people worry about their accents
+- `24 Aug 04:23` **bbc_business** — Why students are being paid £2,000 to play computer games
+- `24 Aug 04:22` **yahoo_finance** — You Can Now Deduct Car Loan Interest but Only if the Final Assembly Happened in America. Here's How to Check If a Car Qualifies
+- `24 Aug 04:18` **yahoo_finance** — The AI Debt Boom Is Helping Push Everyone's Cost of Capital Higher
+- `24 Aug 04:15` **yahoo_finance** — Gilead's HIV Business is Surging, but is the Company Too Dependent on One Franchise?
+- `24 Aug 04:13` **yahoo_finance** — Pfizer's Turnaround is Gaining Traction, but Can New Products Offset its Patent Cliff?
+- `24 Aug 04:13` **yahoo_finance** — Retirees can supplement their Social Security with two top dividend stocks
+- `24 Aug 04:12` **investing_news** — Analysis-China's property crisis grinds on after Evergrande sentencing
+- `24 Aug 04:12` **investing_news** — UK productivity showing sustained improvement, economists say
+- `24 Aug 04:01` **yahoo_finance** — Is Johnson & Johnson's $5.5 Billion Talc Settlement a Buy Signal, or Is the Legal Risk Far From Over?
 - `24 Aug 03:54` **yahoo_finance** — A Tax Strategy So Aggressive It Built the World's Largest Hedge Fund and Made Losing Money the Hottest Product on Wall Street
 - `24 Aug 03:53` **yahoo_finance** — Medtronic vs. Thermo Fisher: Which Healthcare Turnaround Offers More Upside?
 - `24 Aug 03:50` **yahoo_finance** — The Cannabis M&A Wave Is Here. Curaleaf Proved It. Here's Whether Green Thumb Should Ride It -- or Wait to Be Swept Up.
@@ -139,6 +165,7 @@ Global oil prices cross $100 a barrel as Iran war sends fuel prices surging ABC7
 - `24 Aug 03:32` **yahoo_finance** — Johnson & Johnson vs. Thermo Fisher: Which Healthcare Growth Story Is More Durable?
 - `24 Aug 03:31` **yahoo_finance** — The $70M business behind Ballerina Farm
 - `24 Aug 03:28` **wsj_markets** — Mark Walter Lieutenant Was Key to Dodgers Owner's Complex Lending Machine
+- `24 Aug 03:28` **yahoo_finance** — Mark Walter Lieutenant Was Key to Dodgers Owner's Complex Lending Machine
 - `24 Aug 03:21` **yahoo_finance** — Danaher vs. Intuitive Surgical: Is Recovery or Innovation the Better Long-Term Bet?
 - `24 Aug 03:20` **yahoo_finance** — Eli Lilly and Novo Nordisk Can't Treat This Form of Obesity. Billionaire Stanley Druckenmiller Is Betting Rhythm Pharmaceuticals Can
 - `24 Aug 03:17` **yahoo_finance** — Goldman Sachs spots huge twist ahead of Nvidia's earnings
@@ -148,11 +175,11 @@ Global oil prices cross $100 a barrel as Iran war sends fuel prices surging ABC7
 
 ---
 
-## Shor — 1 khabrein hatai gayin
+## Shor — 2 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (1)
+investing_news (2)
 
 ---
 
@@ -162,13 +189,13 @@ investing_news (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 11 | 2 | 9 | 14 | 0.0 |
-| fxstreet_news | OK | 30 | 2 | 1 | 1 | 28 | 0.0 |
+| investinglive | OK | 25 | 5 | 1 | 4 | 20 | 0.0 |
+| fxstreet_news | OK | 30 | 3 | 1 | 2 | 27 | 0.0 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.4 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.4 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 2.0 |
-| instaforex | OK | 25 | 4 | 1 | 3 | 21 | -0.2 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.5 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 0.5 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
 | cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
 | cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
@@ -176,31 +203,32 @@ investing_news (1)
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.8 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 44 | 44 | 1 | 43 | 0 | 0.0 |
-| gnews_geopolitics | OK | 51 | 51 | 5 | 46 | 0 | 0.0 |
-| gnews_centralbanks | OK | 26 | 26 | 0 | 26 | 0 | 0.0 |
+| gnews_fed | OK | 44 | 2 | 0 | 2 | 42 | 0.1 |
+| gnews_geopolitics | OK | 51 | 1 | 0 | 1 | 50 | 0.0 |
+| gnews_centralbanks | OK | 28 | 2 | 1 | 1 | 26 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.2 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 18.1 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.7 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.4 |
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.7 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.6 |
-| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.5 |
-| oilprice | OK | 15 | 5 | 1 | 4 | 10 | 0.0 |
-| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.2 |
+| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 0.5 |
+| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.0 |
+| investing_commodities | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
-| bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.2 |
-| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | -0.0 |
+| bbc_business | OK | 50 | 3 | 3 | 0 | 47 | 0.0 |
+| aljazeera | OK | 25 | 0 | 0 | 0 | 25 | 0.1 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.6 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.4 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.4 |
-| wsj_world | OK | 72 | 11 | 0 | 11 | 61 | 0.2 |
-| wsj_markets | OK | 61 | 7 | 0 | 7 | 54 | 0.0 |
-| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 47 | 6 | 41 | 3 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.5 |
+| wsj_world | OK | 72 | 0 | 0 | 0 | 72 | 0.2 |
+| wsj_markets | OK | 61 | 1 | 0 | 1 | 60 | 0.1 |
+| investing_news | OK | 10 | 8 | 3 | 5 | 2 | 0.0 |
+| yahoo_finance | OK | 50 | 24 | 7 | 17 | 26 | 0.0 |
+| mw_topstories | OK | 10 | 1 | 0 | 1 | 9 | 0.0 |
+| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.3 |
 
 **Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi
 - kitco_general — FAIL, koi item nahi
