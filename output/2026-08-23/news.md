@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 17:56 PKT**
-- Kul khabrein: **135**
+- Aakhri update: **23 Aug 18:37 PKT**
+- Kul khabrein: **147**
 - Feeds: 29/39 OK
 
 ---
@@ -10,6 +10,11 @@
 ## Khabrein
 
 ### GOLD
+
+**Bullion set to shine next week as traders await US inflation data, Fed signals - Rediff**
+`23 Aug 17:56 PKT` · pehli baar dekhi `23 Aug 18:37` · gnews_fed
+
+Bullion set to shine next week as traders await US inflation data, Fed signals Rediff
 
 **Bullion to Shine: US Inflation, Fed Signals Drive Gold & Silver - Rediff MoneyWiz**
 `23 Aug 13:30 PKT` · pehli baar dekhi `23 Aug 13:52` · gnews_fed
@@ -43,6 +48,16 @@ The Week Ahead: Warsh Makes Jackson Hole Debut as Nvidia and Marvell Earnings Te
 
 US Inflation Is Cooling on Paper, but Price Pressures Have Gone Far Beyond the Pump finance.biggo.com
 
+**Investors seek clearer Fed guidance from Warsh at Jackson Hole address - Business Standard**
+`23 Aug 15:17 PKT` · pehli baar dekhi `23 Aug 18:37` · gnews_fed
+
+Investors seek clearer Fed guidance from Warsh at Jackson Hole address Business Standard
+
+**USD Outlook Tied To UST Yields And Fed Policy Credibility: What Investors Should Know - Bitcoin World**
+`23 Aug 14:40 PKT` · pehli baar dekhi `23 Aug 18:37` · gnews_fed
+
+USD Outlook Tied To UST Yields And Fed Policy Credibility: What Investors Should Know Bitcoin World
+
 **Why does the USD outlook depend on UST and Fed policy credibility?**
 `23 Aug 14:15 PKT` · pehli baar dekhi `23 Aug 14:53` · investing_news
 
@@ -74,6 +89,11 @@ Back From The Dead - Is The FOMC Meeting LIVE For A Rate Hike? | Daily Market Up
 `23 Aug 03:20 PKT` · pehli baar dekhi `23 Aug 03:51` · yahoo_finance
 
 ### EUR
+
+**EURUSD Edges Higher on Eurozone Strength and US Treasury Debt Buyback Concerns - InteractiveCrypto**
+`23 Aug 16:07 PKT` · pehli baar dekhi `23 Aug 18:37` · gnews_centralbanks
+
+EURUSD Edges Higher on Eurozone Strength and US Treasury Debt Buyback Concerns InteractiveCrypto
 
 **ECB chief Lagarde 'ready to serve' WEF, Swiss newspaper reports**
 `23 Aug 13:18 PKT` · pehli baar dekhi `23 Aug 13:52` · investing_news
@@ -177,6 +197,11 @@ Australia bounce back after losing first Test, bowling out the visitors for 64 a
 
 Crude oil, US-Iran tensions and Fed cues to steer markets this week ET Auto
 
+**Hormuz crisis hides a deeper oil threat that could outlast the war - Fox News**
+`23 Aug 15:00 PKT` · pehli baar dekhi `23 Aug 18:37` · gnews_geopolitics
+
+Hormuz crisis hides a deeper oil threat that could outlast the war Fox News
+
 **Oil Prices Little Changed for Week as US-Iran Peace Efforts Hold - EnergyNow.com**
 `23 Aug 14:44 PKT` · pehli baar dekhi `23 Aug 15:23` · gnews_geopolitics
 
@@ -188,9 +213,10 @@ Oil Prices Little Changed for Week as US-Iran Peace Efforts Hold EnergyNow.com
 Stock Market Outlook: Crude Oil, US-Iran Tensions & Fed Signals To Drive Sensex, Nifty This Week Free Press Journal
 
 **Crude Oil, Geopolitics Drive Market Movement: Analysts - Rediff MoneyWiz**
-`23 Aug 13:01 PKT` · pehli baar dekhi `23 Aug 14:25` · gnews_fed
+`23 Aug 13:01 PKT` · pehli baar dekhi `23 Aug 18:37` · gnews_fed · **2 feeds mein**
 
 Crude Oil, Geopolitics Drive Market Movement: Analysts Rediff MoneyWiz
+  - `23 Aug 13:01` *gnews_fed* — Crude Oil, Geopolitics Drive Market Movement: Analysts - Rediff MoneyWiz
 
 **Oil hits 3-week high on supply concerns - The Daily Star**
 `23 Aug 12:51 PKT` · pehli baar dekhi `23 Aug 14:53` · gnews_geopolitics
@@ -348,10 +374,15 @@ Iran warns that countries joining the US economic war against Iran will face 'ti
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (62)
+### BINA TAG (68)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 18:20` **aljazeera** — Heavy Israeli air strike hits warehouse in central Gaza
+- `23 Aug 18:10` **investing_news** — Up another 12% Friday, this AI-picked energy stock is now up +90%
+- `23 Aug 18:08` **aljazeera** — Dozens of attacks in southern Thailand wound three people
+- `23 Aug 18:08` **aljazeera** — AI fraud costing victims millions of dollars
+- `23 Aug 18:00` **mw_topstories** — Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test
 - `23 Aug 17:45` **investing_news** — Saudi Arabia stocks higher at close of trade; Tadawul All Share up 1.13%
 - `23 Aug 17:13` **aljazeera** — DR Congo miners risk Ebola to make a living
 - `23 Aug 17:13` **aljazeera** — Real Madrid's Mourinho condemns bullying of Vinicius after La Liga win
@@ -400,6 +431,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 - `23 Aug 07:48` **bbc_business** — Cyber attack shut down small power plant
 - `23 Aug 07:00` **wsj_world** — This Ancient Temple Is Where China's Young People Go to Pray for a Good Job
 - `23 Aug 06:51` **aljazeera** — Thousands flee Sudan's Kordofan fighting for relative safety of El Obeid
+- `23 Aug 06:11` **gnews_fed** — Ringgit poised to see profit-taking after this week's strong rally - KLSE Screener
 - `23 Aug 06:00` **wsj_markets** — We Went to Wall Street's Exclusive Wilderness Camp. Everyone Was Spooked by AI.
 - `23 Aug 05:41` **wsj_markets** — Trump Discloses 1,000 Stock Trades in June
 - `23 Aug 05:27` **gnews_centralbanks** — Asia Stock Market Today 23/08/2026 [UPDATE: 08:08 SGT] [Yield Shock Splits Asia: Weekly Recap and Week Ahead] - TechStock²
@@ -426,41 +458,41 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.4 |
 | fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.6 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.0 |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.9 |
-| marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.5 |
+| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.0 |
+| marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.6 |
 | instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.5 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.0 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
 | cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
 | cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
 | cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.3 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.4 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 34 | 15 | 3 | 12 | 19 | 0.0 |
-| gnews_geopolitics | OK | 78 | 17 | 4 | 13 | 61 | 0.0 |
-| gnews_centralbanks | OK | 33 | 14 | 0 | 14 | 19 | 0.1 |
+| gnews_fed | OK | 35 | 20 | 5 | 15 | 15 | 0.0 |
+| gnews_geopolitics | OK | 58 | 18 | 1 | 17 | 40 | 0.1 |
+| gnews_centralbanks | OK | 30 | 14 | 1 | 13 | 16 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.8 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.7 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.0 |
-| boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.2 |
+| boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.3 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.2 |
 | mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.6 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
-| investing_commodities | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
+| investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.0 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.0 |
-| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.2 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.0 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.0 |
-| wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.0 |
+| wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.1 |
 | wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.1 |
-| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 3 | 0 | 3 | 47 | 0.1 |
-| mw_topstories | OK | 10 | 4 | 2 | 2 | 6 | 0.0 |
+| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 3 | 0 | 3 | 47 | 0.2 |
+| mw_topstories | OK | 10 | 5 | 1 | 4 | 5 | 0.0 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 1.0 |
 
 **Jo feeds nahi aaye:**
