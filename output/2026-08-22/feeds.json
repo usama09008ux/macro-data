@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "24 Aug 02:55",
+  "updated_pkt": "24 Aug 03:28",
   "feeds": [
     {
       "name": "investinglive",
@@ -7,16 +7,16 @@
       "fetched": 25,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 7,
-      "new": 0,
+      "in_window": 8,
+      "new": 1,
       "seen_before": 7,
-      "out_of_window": 18
+      "out_of_window": 17
     },
     {
       "name": "fxstreet_news",
       "status": "WARN",
       "fetched": 30,
-      "newest_age_days": 1.9,
+      "newest_age_days": 2.0,
       "note": "thora sust",
       "in_window": 0,
       "new": 0,
@@ -58,14 +58,14 @@
     },
     {
       "name": "instaforex",
-      "status": "WARN",
-      "fetched": 25,
-      "newest_age_days": 1.8,
-      "note": "thora sust",
+      "status": "FAIL",
+      "fetched": 0,
+      "newest_age_days": null,
+      "note": "koi item nahi",
       "in_window": 0,
       "new": 0,
       "seen_before": 0,
-      "out_of_window": 25
+      "out_of_window": 0
     },
     {
       "name": "wsj_economy",
@@ -82,7 +82,7 @@
       "name": "cme_metals_video",
       "status": "WARN",
       "fetched": 10,
-      "newest_age_days": 2.0,
+      "newest_age_days": 2.1,
       "note": "thora sust",
       "in_window": 0,
       "new": 0,
@@ -93,7 +93,7 @@
       "name": "cme_fx_video",
       "status": "WARN",
       "fetched": 10,
-      "newest_age_days": 2.0,
+      "newest_age_days": 2.1,
       "note": "thora sust",
       "in_window": 0,
       "new": 0,
@@ -104,7 +104,7 @@
       "name": "cme_rates_video",
       "status": "WARN",
       "fetched": 10,
-      "newest_age_days": 2.0,
+      "newest_age_days": 2.1,
       "note": "thora sust",
       "in_window": 0,
       "new": 0,
@@ -115,7 +115,7 @@
       "name": "cme_energy_video",
       "status": "WARN",
       "fetched": 10,
-      "newest_age_days": 2.0,
+      "newest_age_days": 2.1,
       "note": "thora sust",
       "in_window": 0,
       "new": 0,
@@ -126,7 +126,7 @@
       "name": "cme_daily_commentary",
       "status": "WARN",
       "fetched": 10,
-      "newest_age_days": 2.0,
+      "newest_age_days": 2.1,
       "note": "thora sust",
       "in_window": 0,
       "new": 0,
@@ -158,23 +158,23 @@
     {
       "name": "gnews_fed",
       "status": "OK",
-      "fetched": 42,
+      "fetched": 44,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 42,
+      "in_window": 44,
       "new": 1,
-      "seen_before": 41,
+      "seen_before": 43,
       "out_of_window": 0
     },
     {
       "name": "gnews_geopolitics",
       "status": "OK",
-      "fetched": 46,
+      "fetched": 47,
       "newest_age_days": 0.1,
       "note": "",
-      "in_window": 46,
-      "new": 1,
-      "seen_before": 45,
+      "in_window": 47,
+      "new": 0,
+      "seen_before": 47,
       "out_of_window": 0
     },
     {
@@ -184,8 +184,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 27,
-      "new": 0,
-      "seen_before": 27,
+      "new": 2,
+      "seen_before": 25,
       "out_of_window": 0
     },
     {
@@ -247,7 +247,7 @@
       "name": "rba_media",
       "status": "OK",
       "fetched": 1,
-      "newest_age_days": 4.5,
+      "newest_age_days": 4.6,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -269,7 +269,7 @@
       "name": "oilprice",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": "",
       "in_window": 5,
       "new": 0,
@@ -316,8 +316,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 25,
-      "new": 2,
-      "seen_before": 23,
+      "new": 1,
+      "seen_before": 24,
       "out_of_window": 0
     },
     {
@@ -346,7 +346,7 @@
       "name": "eia_energy",
       "status": "WARN",
       "fetched": 18,
-      "newest_age_days": 4.3,
+      "newest_age_days": 4.4,
       "note": "thora sust",
       "in_window": 0,
       "new": 0,
@@ -393,8 +393,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 0,
-      "seen_before": 10,
+      "new": 1,
+      "seen_before": 9,
       "out_of_window": 0
     },
     {
@@ -404,20 +404,20 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 47,
-      "new": 6,
-      "seen_before": 41,
+      "new": 2,
+      "seen_before": 45,
       "out_of_window": 3
     },
     {
       "name": "mw_topstories",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 9,
-      "new": 0,
+      "in_window": 10,
+      "new": 1,
       "seen_before": 9,
-      "out_of_window": 1
+      "out_of_window": 0
     },
     {
       "name": "cointelegraph",

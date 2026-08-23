@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **24 Aug 02:55 PKT**
-- Kul khabrein: **424**
+- Aakhri update: **24 Aug 03:28 PKT**
+- Kul khabrein: **428**
 - Feeds: 29/39 OK
 
 ---
@@ -928,10 +928,13 @@ Oil prices up as Trump vows sanctions vs Iran partners The Manila Times
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (216)
+### BINA TAG (220)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `24 Aug 02:59` **gnews_centralbanks** — TikTok and ByteDance Agree to Pay $400 Million in US Child Privacy Lawsuit - Межа. Новини України.
+- `24 Aug 02:56` **yahoo_finance** — Tesla Maintained Its Majority of the U.S. EV Market in Q2, but That's Not All You Need to Know
+- `24 Aug 02:45` **aljazeera** — Raphinha and Lopez score braces as Barcelona trounce Elche 5-0
 - `24 Aug 02:35` **yahoo_finance** — Does Billionaire Bill Ackman Know Something Wall Street Doesn't? He Invested in These 2 Stocks That Have Dropped 33% and 18% Over the Past Year
 - `24 Aug 02:33` **yahoo_finance** — Liquor industry struggles grow with another Chapter 7 filing
 - `24 Aug 02:23` **aljazeera** — US envoy Tom Barrack retracts comment that Syria's Golan is occupied
@@ -939,6 +942,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 - `24 Aug 02:08` **aljazeera** — Landfill collapse kills 30 in Guinea's capital after heavy rains
 - `24 Aug 02:02` **yahoo_finance** — The Metals Company Is Riding the Critical Metals Boom. Here's Why I Still Wouldn't Touch It.
 - `24 Aug 02:01` **yahoo_finance** — One Social Security Move Boomers Used to Boost Their Checks Is Now Off-Limits to Almost Everyone Else.
+- `24 Aug 02:00` **yahoo_finance** — Pemex and Petrobras Bet Big on High-Risk High-Reward Drilling Off Mexico
 - `24 Aug 01:59` **yahoo_finance** — Tilray Posted Record Fiscal 2026 Revenue -- Why Isn't the Stock Rallying?
 - `24 Aug 01:57` **yahoo_finance** — SK Hynix Is Buying Back 3.3% of Its Shares and Canceling Every One
 - `24 Aug 01:54` **yahoo_finance** — CHAT vs. FTEC: Is Concentrated AI Exposure or Broad Tech Diversification the Better Play Right Now?
@@ -1165,45 +1169,46 @@ yahoo_finance (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 7 | 0 | 7 | 18 | 0.0 |
-| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.9 |
+| investinglive | OK | 25 | 8 | 1 | 7 | 17 | 0.0 |
+| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 2.0 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.4 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.3 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.9 |
-| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.8 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.7 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 42 | 42 | 1 | 41 | 0 | 0.0 |
-| gnews_geopolitics | OK | 46 | 46 | 1 | 45 | 0 | 0.1 |
-| gnews_centralbanks | OK | 27 | 27 | 0 | 27 | 0 | 0.0 |
+| gnews_fed | OK | 44 | 44 | 1 | 43 | 0 | 0.0 |
+| gnews_geopolitics | OK | 47 | 47 | 0 | 47 | 0 | 0.1 |
+| gnews_centralbanks | OK | 27 | 27 | 2 | 25 | 0 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.2 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 18.1 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.4 |
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.5 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.6 |
 | mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
-| oilprice | OK | 15 | 5 | 0 | 5 | 10 | 0.0 |
+| oilprice | OK | 15 | 5 | 0 | 5 | 10 | 0.1 |
 | investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.1 |
-| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.5 |
-| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.3 |
+| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.4 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.4 |
 | wsj_world | OK | 72 | 11 | 0 | 11 | 61 | 0.1 |
 | wsj_markets | OK | 61 | 6 | 0 | 6 | 55 | 0.1 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 47 | 6 | 41 | 3 | 0.0 |
-| mw_topstories | OK | 10 | 9 | 0 | 9 | 1 | 0.1 |
+| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 47 | 2 | 45 | 3 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
 
 **Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi
 - kitco_general — FAIL, koi item nahi
