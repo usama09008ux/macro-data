@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "23 Aug 22:41",
+  "updated_pkt": "23 Aug 22:58",
   "feeds": [
     {
       "name": "investinglive",
@@ -58,14 +58,14 @@
     },
     {
       "name": "instaforex",
-      "status": "FAIL",
-      "fetched": 0,
-      "newest_age_days": null,
-      "note": "koi item nahi",
+      "status": "WARN",
+      "fetched": 25,
+      "newest_age_days": 1.7,
+      "note": "thora sust",
       "in_window": 0,
       "new": 0,
       "seen_before": 0,
-      "out_of_window": 0
+      "out_of_window": 25
     },
     {
       "name": "wsj_economy",
@@ -161,10 +161,10 @@
       "fetched": 42,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 35,
-      "new": 2,
-      "seen_before": 33,
-      "out_of_window": 7
+      "in_window": 37,
+      "new": 0,
+      "seen_before": 37,
+      "out_of_window": 5
     },
     {
       "name": "gnews_geopolitics",
@@ -173,8 +173,8 @@
       "newest_age_days": 0.1,
       "note": "",
       "in_window": 32,
-      "new": 3,
-      "seen_before": 29,
+      "new": 1,
+      "seen_before": 31,
       "out_of_window": 15
     },
     {
@@ -183,10 +183,10 @@
       "fetched": 31,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 23,
-      "new": 0,
-      "seen_before": 23,
-      "out_of_window": 8
+      "in_window": 24,
+      "new": 2,
+      "seen_before": 22,
+      "out_of_window": 7
     },
     {
       "name": "fed_monetary",
@@ -236,7 +236,7 @@
       "name": "boj_whatsnew",
       "status": "OK",
       "fetched": 42,
-      "newest_age_days": 2.4,
+      "newest_age_days": 2.5,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -335,7 +335,7 @@
       "name": "boc_press",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 23.3,
+      "newest_age_days": 23.4,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -368,7 +368,7 @@
       "name": "wsj_world",
       "status": "OK",
       "fetched": 72,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": "",
       "in_window": 5,
       "new": 0,
@@ -400,13 +400,13 @@
     {
       "name": "yahoo_finance",
       "status": "OK",
-      "fetched": 48,
+      "fetched": 49,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 34,
-      "new": 4,
+      "in_window": 36,
+      "new": 6,
       "seen_before": 30,
-      "out_of_window": 14
+      "out_of_window": 13
     },
     {
       "name": "mw_topstories",

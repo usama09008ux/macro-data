@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 22:41 PKT**
-- Kul khabrein: **276**
+- Aakhri update: **23 Aug 22:58 PKT**
+- Kul khabrein: **286**
 - Feeds: 29/39 OK
 
 ---
@@ -169,6 +169,11 @@ ECB launches investigation into Brydon Carse after England pacer seen in handcuf
 **Commerzbank chair calls for review of German takeover rules**
 `23 Aug 21:06 PKT` · pehli baar dekhi `23 Aug 21:24` · investing_news · **2 feeds mein**
   - `23 Aug 20:54` *investing_news* — Commerzbank chair calls for review of German takeover rules after UniCredit bid
+
+**ECB chief Lagarde 'ready to serve' WEF - The Manila Times**
+`23 Aug 21:01 PKT` · pehli baar dekhi `23 Aug 22:58` · gnews_centralbanks
+
+ECB chief Lagarde 'ready to serve' WEF The Manila Times
 
 **Greece Leads Euro Area in Cash Acceptance as 99% of Businesses Still Take Cash - Greek City Times**
 `23 Aug 19:45 PKT` · pehli baar dekhi `23 Aug 19:57` · gnews_centralbanks
@@ -482,6 +487,11 @@ Fed minutes show September rate hike still on the table | Gulf Times Gulf Times
 
 People observe a minute of silence for those killed in war to mark the holiday established in 2004.
 
+**US, Gulf allies threaten Iran with sanctions in UN proposal if it doesn't release Hormuz chokehold - News On AIR**
+`23 Aug 21:44 PKT` · pehli baar dekhi `23 Aug 22:58` · gnews_geopolitics
+
+US, Gulf allies threaten Iran with sanctions in UN proposal if it doesn't release Hormuz chokehold News On AIR
+
 **Can Nigeria cash in on Iran war?**
 `23 Aug 21:07 PKT` · pehli baar dekhi `23 Aug 21:24` · aljazeera
 
@@ -632,10 +642,16 @@ Oil prices up as Trump vows sanctions vs Iran partners The Manila Times
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (137)
+### BINA TAG (145)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 22:40` **yahoo_finance** — SentinelOne Is Up 42% This Year and Reports Earnings on August 27. Should You Buy Before the Earnings Release?
+- `23 Aug 22:39` **yahoo_finance** — The Real Cost of Retiring in Myrtle Beach, South Carolina, on $2,500 a Month
+- `23 Aug 22:35` **aljazeera** — Landfill collapse in Guinea kills at least 22 people
+- `23 Aug 22:33` **yahoo_finance** — Jim Cramer doubles down on his bold call on memory stocks
+- `23 Aug 22:32` **yahoo_finance** — Dropbox's Chief Accounting Officer Had 5,854 Shares Withheld. Here's What Investors Should Know
+- `23 Aug 22:31` **yahoo_finance** — I make $32K/month from 3 simple, boring websites
 - `23 Aug 22:26` **yahoo_finance** — Broadcom vs. Marvell Technology: 1 Critical Metric Decides the Better Custom AI Chip Stock
 - `23 Aug 22:10` **yahoo_finance** — Should You Buy Oracle Stock Before September? The Answer Might Surprise You.
 - `23 Aug 22:07` **yahoo_finance** — Bill Ackman's Pershing Square invests $1.1B in fintech giant
@@ -643,6 +659,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 - `23 Aug 21:57` **yahoo_finance** — An e.l.f. Beauty Insider Sells 5,718 Shares. Here's What That Means for Investors.
 - `23 Aug 21:55` **yahoo_finance** — Your Last Chance to Buy Nvidia Stock for Cheap in 2026 May Be Near
 - `23 Aug 21:50` **aljazeera** — LIVE: Elche vs Barcelona – La Liga
+- `23 Aug 21:49` **yahoo_finance** — Burry Says He Sold Alibaba, Calling It Pricey Before Share Sale
 - `23 Aug 21:44` **yahoo_finance** — Is This $7 Stock Your Ticket to Becoming a Millionaire?
 - `23 Aug 21:31` **yahoo_finance** — Gas Turbine Prices Are on Track to Nearly Triple. These Stocks Are Cashing In
 - `23 Aug 21:30` **wsj_world** — Opinion | The Brave Witness of Chow Hang-tung
@@ -743,6 +760,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 - `23 Aug 12:22` **aljazeera** — Infantino defies FIFA vice president, makes appearance in the Caribbean
 - `23 Aug 11:59` **aljazeera** — Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles
 - `23 Aug 11:23` **bbc_business** — Les used a QR code to download a parking app - but it was a scam
+- `23 Aug 11:17` **gnews_centralbanks** — Andy Burnham urged to help young Londoners as capital suffering highest unemployment in Britain - AOL.ca
 - `23 Aug 11:09` **investing_news** — Korean retail traders chase 40% coupons after historic stock rout - report
 - `23 Aug 11:05` **investing_news** — 5 big analyst AI moves: Apple upgraded on foldable iPhone push, new AI strategy
 - `23 Aug 11:03` **investing_news** — Trump disclosure shows more than 1,000 securities trades in June - report
@@ -787,7 +805,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.2 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.1 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.7 |
-| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.7 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
 | cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
@@ -796,14 +814,14 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.5 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 42 | 35 | 2 | 33 | 7 | 0.0 |
-| gnews_geopolitics | OK | 47 | 32 | 3 | 29 | 15 | 0.1 |
-| gnews_centralbanks | OK | 31 | 23 | 0 | 23 | 8 | 0.0 |
+| gnews_fed | OK | 42 | 37 | 0 | 37 | 5 | 0.0 |
+| gnews_geopolitics | OK | 47 | 32 | 1 | 31 | 15 | 0.1 |
+| gnews_centralbanks | OK | 31 | 24 | 2 | 22 | 7 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.0 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.9 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.2 |
-| boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.4 |
+| boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.5 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.4 |
 | mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
 | oilprice | OK | 15 | 2 | 0 | 2 | 13 | 0.1 |
@@ -812,16 +830,15 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.2 |
 | aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.3 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.4 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.2 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.2 |
-| wsj_world | OK | 72 | 5 | 0 | 5 | 67 | 0.0 |
+| wsj_world | OK | 72 | 5 | 0 | 5 | 67 | 0.1 |
 | wsj_markets | OK | 61 | 5 | 0 | 5 | 56 | 0.1 |
 | investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 48 | 34 | 4 | 30 | 14 | 0.0 |
+| yahoo_finance | OK | 49 | 36 | 6 | 30 | 13 | 0.0 |
 | mw_topstories | OK | 10 | 6 | 0 | 6 | 4 | 0.0 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
 
 **Jo feeds nahi aaye:**
-- instaforex — FAIL, koi item nahi
 - kitco_general — FAIL, koi item nahi
