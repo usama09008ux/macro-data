@@ -1,9 +1,9 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 21:53 PKT**
-- Kul khabrein: **242**
-- Feeds: 28/39 OK
+- Aakhri update: **23 Aug 22:19 PKT**
+- Kul khabrein: **266**
+- Feeds: 29/39 OK
 
 ---
 
@@ -45,15 +45,28 @@ MCX gold rallies for fifth straight week; gains ₹19,000 per 10 grams in August
 
 ### USD
 
+**Transcript: Neel Kashkari, Minneapolis Fed president and CEO, on "Face the Nation with Margaret Brennan," Aug. 23, 2026 - CBS News**
+`23 Aug 22:03 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_fed
+
+Transcript: Neel Kashkari, Minneapolis Fed president and CEO, on "Face the Nation with Margaret Brennan," Aug. 23, 2026 CBS News
+
 **Hawkish Fed minutes meet a softer dollar as European activity picks up - Kuwait Times**
 `23 Aug 21:40 PKT` · pehli baar dekhi `23 Aug 21:53` · gnews_fed
 
 Hawkish Fed minutes meet a softer dollar as European activity picks up Kuwait Times
 
+**Fed's Kashkari says rising Treasury yields not a concern**
+`23 Aug 21:37 PKT` · pehli baar dekhi `23 Aug 22:19` · investing_news
+
 **The Three Minds Leading the Fed's Inflation Rethink - WSJ**
 `23 Aug 20:50 PKT` · pehli baar dekhi `23 Aug 20:53` · gnews_fed
 
 The Three Minds Leading the Fed's Inflation Rethink WSJ
+
+**Fed's Kashkari Says Treasury Market Still Working 'As It Should' - Bloomberg.com**
+`23 Aug 20:23 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_fed
+
+Fed's Kashkari Says Treasury Market Still Working 'As It Should' Bloomberg.com
 
 **US Stock Market Prediction: Will Dow, S&P 500 & Nasdaq Rise Or Fall? Nvidia Earnings, Fed Jackson Hole, Treasury Yields & Iran Risks In Focus; Check Monday Market Outlook, Key Things To Watch - The Sunday Guardian**
 `23 Aug 20:02 PKT` · pehli baar dekhi `23 Aug 20:30` · gnews_fed
@@ -69,6 +82,9 @@ Dow Jones Futures Prediction: Will Dow Rise Or Fall Monday? Nvidia Earnings, Fed
 `23 Aug 19:47 PKT` · pehli baar dekhi `23 Aug 19:57` · gnews_fed
 
 Fed can't control market prices, which are alwa... Pluang
+
+**Trump made a multimillion-dollar bond bet — and Fed Chair Kevin Warsh could shape the outcome. What investors can learn**
+`23 Aug 18:00 PKT` · pehli baar dekhi `23 Aug 22:19` · yahoo_finance
 
 **USD Outlook Tied to UST Yields and Fed Policy Credibility: What Investors Should Know - CryptoRank**
 `23 Aug 17:41 PKT` · pehli baar dekhi `23 Aug 18:59` · gnews_fed · **2 feeds mein**
@@ -137,6 +153,16 @@ America In Focus: Fed officials eye higher rates; unemployment claims fall Newsd
 `23 Aug 03:20 PKT` · pehli baar dekhi `23 Aug 03:51` · yahoo_finance
 
 ### EUR
+
+**Euro To Dollar Forecast 2026, 2027, 2028: Latest Bank Survey Sees EUR/USD Rising Towards 1.18 - Exchange Rates UK**
+`23 Aug 22:00 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_centralbanks
+
+Euro To Dollar Forecast 2026, 2027, 2028: Latest Bank Survey Sees EUR/USD Rising Towards 1.18 Exchange Rates UK
+
+**ECB launches investigation into Brydon Carse after England pacer seen in handcuffs outside nightclub - The Times of India**
+`23 Aug 21:23 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_centralbanks
+
+ECB launches investigation into Brydon Carse after England pacer seen in handcuffs outside nightclub The Times of India
 
 **Commerzbank chair calls for review of German takeover rules**
 `23 Aug 21:06 PKT` · pehli baar dekhi `23 Aug 21:24` · investing_news · **2 feeds mein**
@@ -273,6 +299,11 @@ A Seattle startup is seeking to revolutionize geothermal energy by tapping into 
 
 In the latest episode of Al Jazeera's new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.
 
+**Vast reserves, Hormuz, infrastructure define Iran's geopolitical oil weight: expert - Tehran Times**
+`23 Aug 17:44 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_geopolitics
+
+Vast reserves, Hormuz, infrastructure define Iran's geopolitical oil weight: expert Tehran Times
+
 **Crude oil, US-Iran tensions and Fed cues to steer markets this week - ET Auto**
 `23 Aug 15:38 PKT` · pehli baar dekhi `23 Aug 16:58` · gnews_fed · **2 feeds mein**
 
@@ -325,9 +356,10 @@ US-Iran war: Crude oil price is key | Is Tehran writing the obituary of Turkey-P
   - `23 Aug 11:04` *gnews_geopolitics* — US-Iran war: Crude oil price is key | Is Tehran writing the obituary of Turkey-Pakistan-Saudi Arabia's defence pack? - livemint.com
 
 **US Oil & Gas Production Hits Record High: Energy Secy Wright Credits Trump's Agenda - NDTV Profit**
-`23 Aug 09:58 PKT` · pehli baar dekhi `23 Aug 21:53` · gnews_geopolitics
+`23 Aug 09:58 PKT` · pehli baar dekhi `23 Aug 21:53` · gnews_geopolitics · **2 feeds mein**
 
 US Oil & Gas Production Hits Record High: Energy Secy Wright Credits Trump's Agenda NDTV Profit
+  - `23 Aug 09:58` *gnews_geopolitics* — US Oil & Gas Production Hits Record High: Energy Secy Wright Credits Trump's Agenda - NDTV Profit
 
 **Trump's 'Economic D-Day' vs Iran's Oil Chokehold: Who Blinks First at Hormuz? - Open Magazine**
 `23 Aug 07:06 PKT` · pehli baar dekhi `23 Aug 08:04` · gnews_geopolitics
@@ -344,6 +376,11 @@ Great Hormuz escape: 80% of traffic goes 'dark' as US flips Iran's playbook Gulf
 
 US oil and gas workers drive production to record high: Energy Secretary Chris Wright ANI News
 
+**Trump Warns Iran Over Hormuz Oil Route; IRGC Says Tehran Will Decide War's End - News On AIR**
+`23 Aug 04:33 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_geopolitics
+
+Trump Warns Iran Over Hormuz Oil Route; IRGC Says Tehran Will Decide War's End News On AIR
+
 **Oil Prices Surge 6% in Week as Brent Nears $95 Barrel - Sada Elbalad english**
 `23 Aug 04:01 PKT` · pehli baar dekhi `23 Aug 11:25` · gnews_geopolitics
 
@@ -355,6 +392,16 @@ Oil Prices Surge 6% in Week as Brent Nears $95 Barrel Sada Elbalad english
 The Rhine has slightly risen from its mid-August record low (when Kaub's water level gauge – at the river's decisive chokepoint – was below 10 cm), but the relief is mostly optical. Barges still cannot carry normal loads through it, leaving the industrial corridor from Rotterdam and Antwerp to southern Germany, eastern France and Switzerland short of transport capacity. The immediate result is expensive freight, constrained chemical production and uneven fuel supply.
 
 ### CRYPTO
+
+**Ripple's XRP enabled for FedNow payments via Volante integration - Crypto Briefing**
+`23 Aug 22:04 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_fed
+
+Ripple's XRP enabled for FedNow payments via Volante integration Crypto Briefing
+
+**Federal Reserve owns over 50% of bonds maturing in 10 to 15 years - Crypto Briefing**
+`23 Aug 21:58 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_fed
+
+Federal Reserve owns over 50% of bonds maturing in 10 to 15 years Crypto Briefing
 
 **Fed study finds Bitcoin gains boost crypto buyi... - Pluang**
 `23 Aug 21:07 PKT` · pehli baar dekhi `23 Aug 21:24` · gnews_fed
@@ -403,6 +450,11 @@ BCA Research Advises Selling The U.S. Dollar: Here's Why Bitcoin World
 
 Bitcoin price analysis: What would activate the potential bull flag toward $84K-$86K? Bitcoin is trading near $77,100 inside a mildly downward-sloping 1-hour regression channel. The structure resembles a bull flag following the surge from below $70,000 to $79,461, but the pattern is not active yet. Bulls still need a decisive breakout above the channel, while $75,700-$75,200 is the main invalidation zone.
 
+**US oil and gas production hits all-time high, says energy secretary - Crypto Briefing**
+`23 Aug 06:55 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_geopolitics
+
+US oil and gas production hits all-time high, says energy secretary Crypto Briefing
+
 ### RATES
 
 **Fed minutes show September rate hike still on the table | Gulf Times - Gulf Times**
@@ -437,6 +489,11 @@ Prices for food and other items are soaring, and there is a history of unrest, s
 `23 Aug 20:25 PKT` · pehli baar dekhi `23 Aug 20:53` · aljazeera
 
 Iranian President Masoud Pezeshkian says Iran has stood firm despite what he calls a full-scale war.
+
+**Iran discovers over 7.5 trillion cubic feet of gas amid US conflict, sanctions: Report - financialexpress.com**
+`23 Aug 19:46 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_geopolitics
+
+Iran discovers over 7.5 trillion cubic feet of gas amid US conflict, sanctions: Report financialexpress.com
 
 **Iran discovers huge 7.5 trillion cubic feet gas reserve in Fars Province amid US sanctions pressure - livemint.com**
 `23 Aug 19:04 PKT` · pehli baar dekhi `23 Aug 19:33` · gnews_geopolitics
@@ -486,6 +543,11 @@ Plus, Russia's military is testing its readiness for a fresh mobilization push, 
 
 Steady Oil Prices Set for Weekly Gain as Iran War Rumbles On EnergyNow.com
 
+**Trump's 'D-Day' economic war on Iran: Why Gulf states are most worried - The Times of India**
+`23 Aug 15:29 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_geopolitics
+
+Trump's 'D-Day' economic war on Iran: Why Gulf states are most worried The Times of India
+
 **Russia Tests Readiness for New Round of Military Mobilization**
 `23 Aug 14:30 PKT` · pehli baar dekhi `23 Aug 14:53` · wsj_world
 
@@ -502,6 +564,11 @@ Participants in St Petersburg honour Russia's tricolour with patriotic events an
 **Iran says Pakistan's army chief to visit Tehran on Monday**
 `23 Aug 12:48 PKT` · pehli baar dekhi `23 Aug 13:15` · investing_commodities
 
+**Iran threatens countries joining Trump's sanctions, calling them 'enemies' - RBC-Ukraine**
+`23 Aug 11:16 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_geopolitics
+
+Iran threatens countries joining Trump's sanctions, calling them 'enemies' RBC-Ukraine
+
 **Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war**
 `23 Aug 10:46 PKT` · pehli baar dekhi `23 Aug 12:11` · bbc_business
 
@@ -512,6 +579,11 @@ Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs
 
 Oil rises as Trump threatens sanctions on Iran partners bdnews24.com
   - `23 Aug 03:24` *gnews_geopolitics* — Oil rises as Trump threatens sanctions on Iran partners - Qatar Tribune
+
+**Iran condemns US plans to announce new sanctions - Al-Monitor**
+`23 Aug 08:46 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_geopolitics
+
+Iran condemns US plans to announce new sanctions Al-Monitor
 
 **Canada to hit US with retaliatory tariffs as trade war escalates**
 `23 Aug 07:34 PKT` · pehli baar dekhi `23 Aug 08:04` · aljazeera
@@ -538,11 +610,15 @@ Oil prices up as Trump vows sanctions vs Iran partners The Manila Times
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (125)
+### BINA TAG (133)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 22:00` **yahoo_finance** — Rachel Cruze and George Kamel share the spending 'clues' that reveal if you're broke, average or wealthy
+- `23 Aug 21:57` **yahoo_finance** — An e.l.f. Beauty Insider Sells 5,718 Shares. Here's What That Means for Investors.
+- `23 Aug 21:55` **yahoo_finance** — Your Last Chance to Buy Nvidia Stock for Cheap in 2026 May Be Near
 - `23 Aug 21:50` **aljazeera** — LIVE: Elche vs Barcelona – La Liga
+- `23 Aug 21:44` **yahoo_finance** — Is This $7 Stock Your Ticket to Becoming a Millionaire?
 - `23 Aug 21:31` **yahoo_finance** — Gas Turbine Prices Are on Track to Nearly Triple. These Stocks Are Cashing In
 - `23 Aug 21:30` **wsj_world** — Opinion | The Brave Witness of Chow Hang-tung
 - `23 Aug 21:29` **yahoo_finance** — America's Fastest Growing Retirement Town Is Not in Florida or Arizona
@@ -557,6 +633,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 - `23 Aug 21:05` **yahoo_finance** — Two Dropbox Executives Sold After Their Shares Vested Last Week. The Future Sole CEO Wasn't One of Them
 - `23 Aug 21:03` **yahoo_finance** — Iconic bank stock pays Buffett's Berkshire $619M in annual dividends
 - `23 Aug 21:00` **yahoo_finance** — Prediction: Eli Lilly Could Be One of the Biggest Winners of the Next Decade. Here's Why.
+- `23 Aug 20:58` **gnews_centralbanks** — It's Relatively Easy To Keep A Job These Days. Finding One Is Another Story - AOL.com
 - `23 Aug 20:50` **yahoo_finance** — AMD Is Investing More Than $10 Billion in Taiwan to Build Advanced Chip Packaging With TSMC. Here's What Lisa Su Is Actually Buying With That Money.
 - `23 Aug 20:43` **yahoo_finance** — Circle Stock Is Down More Than 70% From Its All-Time High. Is It Time to Update the Investment Thesis for CRCL Stock?
 - `23 Aug 20:35` **yahoo_finance** — Berkshire CEO Greg Abel Is Sitting on Nearly $400 Billion in Cash. Here's How His Deal-Making Approach Differs From Warren Buffett's.
@@ -602,11 +679,14 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 - `23 Aug 18:08` **aljazeera** — Dozens of attacks in southern Thailand wound three people
 - `23 Aug 18:08` **aljazeera** — AI fraud costing victims millions of dollars
 - `23 Aug 18:00` **mw_topstories** — Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test
+- `23 Aug 18:00` **yahoo_finance** — HP exec reveals the Gen Z 'superpower' that he says helps young employees build 'a healthy relationship with work'
 - `23 Aug 17:45` **investing_news** — Saudi Arabia stocks higher at close of trade; Tadawul All Share up 1.13%
+- `23 Aug 17:45` **yahoo_finance** — Got $2M saved? You should (probably) retire immediately. Don't sacrifice it all for nothing
 - `23 Aug 17:13` **aljazeera** — DR Congo miners risk Ebola to make a living
 - `23 Aug 17:13` **aljazeera** — Real Madrid's Mourinho condemns bullying of Vinicius after La Liga win
 - `23 Aug 17:02` **aljazeera** — US Senate nominee Abdul El-Sayed rebuts criticism from JD Vance
 - `23 Aug 17:00` **mw_topstories** — I'm turning 70. Here's how I'm making this decade the richest of my retirement.
+- `23 Aug 17:00` **mining_com** — Op-Ed: US scrap rules put processing to the test
 - `23 Aug 16:44` **aljazeera** — Sydney Marathon organisers not running away from 'unfortunate' medal error
 - `23 Aug 16:30` **gnews_fed** — Wall St Week Ahead-Nvidia Earnings, Jackson Hole to Test Pillars of Stock Rally - Newsmax
 - `23 Aug 16:17` **investing_news** — Citi expects Nvidia stock to trade higher post earnings
@@ -676,12 +756,12 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.5 |
-| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.7 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.1 |
+| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.6 |
+| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.8 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.2 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.1 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.7 |
-| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.6 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
 | cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
@@ -690,31 +770,32 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.5 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 42 | 33 | 2 | 31 | 9 | 0.0 |
-| gnews_geopolitics | OK | 53 | 21 | 1 | 20 | 32 | 0.1 |
-| gnews_centralbanks | OK | 30 | 19 | 0 | 19 | 11 | 0.1 |
+| gnews_fed | OK | 43 | 35 | 4 | 31 | 8 | 0.0 |
+| gnews_geopolitics | OK | 51 | 29 | 8 | 21 | 22 | 0.1 |
+| gnews_centralbanks | OK | 33 | 23 | 3 | 20 | 10 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.0 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.9 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.2 |
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.4 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.3 |
-| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.8 |
+| mining_com | OK | 36 | 1 | 1 | 0 | 35 | 0.2 |
 | oilprice | OK | 15 | 2 | 0 | 2 | 13 | 0.1 |
 | investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.1 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.1 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.3 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.1 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.2 |
-| wsj_world | OK | 72 | 5 | 2 | 3 | 67 | 0.0 |
-| wsj_markets | OK | 61 | 5 | 1 | 4 | 56 | 0.0 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 32 | 7 | 25 | 17 | 0.0 |
-| mw_topstories | OK | 10 | 5 | 0 | 5 | 5 | 0.0 |
+| wsj_world | OK | 72 | 5 | 0 | 5 | 67 | 0.0 |
+| wsj_markets | OK | 61 | 5 | 0 | 5 | 56 | 0.0 |
+| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 35 | 7 | 28 | 14 | 0.0 |
+| mw_topstories | OK | 10 | 6 | 0 | 6 | 4 | 0.0 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
 
 **Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi
 - kitco_general — FAIL, koi item nahi
