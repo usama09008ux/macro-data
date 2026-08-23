@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 19:57 PKT**
-- Kul khabrein: **169**
+- Aakhri update: **23 Aug 20:30 PKT**
+- Kul khabrein: **196**
 - Feeds: 28/39 OK
 
 ---
@@ -44,6 +44,11 @@ MCX Gold Rallies Over 13% In August 2026: Six Key Reasons Behind The Surge NDTV 
 MCX gold rallies for fifth straight week; gains ₹19,000 per 10 grams in August livemint.com
 
 ### USD
+
+**US Stock Market Prediction: Will Dow, S&P 500 & Nasdaq Rise Or Fall? Nvidia Earnings, Fed Jackson Hole, Treasury Yields & Iran Risks In Focus; Check Monday Market Outlook, Key Things To Watch - The Sunday Guardian**
+`23 Aug 20:02 PKT` · pehli baar dekhi `23 Aug 20:30` · gnews_fed
+
+US Stock Market Prediction: Will Dow, S&P 500 & Nasdaq Rise Or Fall? Nvidia Earnings, Fed Jackson Hole, Treasury Yields & Iran Risks In Focus; Check Monday Market Outlook, Key Things To Watch The Sunday Guardian
 
 **Fed can't control market prices, which are alwa... - Pluang**
 `23 Aug 19:47 PKT` · pehli baar dekhi `23 Aug 19:57` · gnews_fed
@@ -220,6 +225,11 @@ Australia bounce back after losing first Test, bowling out the visitors for 64 a
 
 ### OIL
 
+**Underwater Volcanoes Are Geothermal Energy's Next Frontier**
+`23 Aug 20:00 PKT` · pehli baar dekhi `23 Aug 20:30` · oilprice
+
+A Seattle startup is seeking to revolutionize geothermal energy by tapping into undersea volcanoes. In September, a 100-kilowatt geothermal generator will be deployed to the seafloor off Oregon's coast, where a hydrothermal vent emits temperatures of up to 750 degrees Fahrenheit. The pilot project – the fifth of its kind – will continue to test the viability of turning that heat into commercially competitive, round-the-clock, and totally emissions-free electricity.
+
 **Gulf markets rise as oil prices climb on Iran sanction fears**
 `23 Aug 18:49 PKT` · pehli baar dekhi `23 Aug 18:59` · investing_news
 
@@ -229,9 +239,10 @@ Australia bounce back after losing first Test, bowling out the visitors for 64 a
 In the latest episode of Al Jazeera's new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.
 
 **Crude oil, US-Iran tensions and Fed cues to steer markets this week - ET Auto**
-`23 Aug 15:38 PKT` · pehli baar dekhi `23 Aug 16:58` · gnews_fed
+`23 Aug 15:38 PKT` · pehli baar dekhi `23 Aug 16:58` · gnews_fed · **2 feeds mein**
 
 Crude oil, US-Iran tensions and Fed cues to steer markets this week ET Auto
+  - `23 Aug 15:38` *gnews_fed* — Crude oil, US-Iran tensions and Fed cues to steer markets this week - ET Auto
 
 **Dalal Street outlook: Markets seek recovery after two-week slide; crude, geopolitical cues in focus - The Times of India**
 `23 Aug 15:07 PKT` · pehli baar dekhi `23 Aug 19:33` · gnews_fed
@@ -327,6 +338,13 @@ BCA Research Advises Selling The U.S. Dollar: Here's Why Bitcoin World
 `23 Aug 08:55 PKT` · pehli baar dekhi `23 Aug 09:46` · investinglive
 
 Bitcoin price analysis: What would activate the potential bull flag toward $84K-$86K? Bitcoin is trading near $77,100 inside a mildly downward-sloping 1-hour regression channel. The structure resembles a bull flag following the surge from below $70,000 to $79,461, but the pattern is not active yet. Bulls still need a decisive breakout above the channel, while $75,700-$75,200 is the main invalidation zone.
+
+### RATES
+
+**Fed minutes show September rate hike still on the table | Gulf Times - Gulf Times**
+`23 Aug 18:12 PKT` · pehli baar dekhi `23 Aug 20:30` · gnews_fed
+
+Fed minutes show September rate hike still on the table | Gulf Times Gulf Times
 
 ### RISK
 
@@ -430,19 +448,41 @@ Oil prices up as Trump vows sanctions vs Iran partners The Manila Times
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (78)
+### BINA TAG (101)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 20:25` **gnews_centralbanks** — Policy Signals Shape The Rates Outlook - Seeking Alpha
+- `23 Aug 20:16` **yahoo_finance** — Jim Cramer holds back support for surging beverage stock
+- `23 Aug 20:05` **yahoo_finance** — The Stock Market Is Repeating a Pattern Not Seen in Decades. Here's What History Says Comes Next.
+- `23 Aug 20:00` **yahoo_finance** — This is One of the Cheapest Magnificent Seven Stocks Right Now
+- `23 Aug 20:00` **yahoo_finance** — Rocket Mortgage pushes home equity loans to wipe out credit card debt — here's how that could backfire on homeowners
+- `23 Aug 19:56` **yahoo_finance** — SpaceX Stock: Boom or Bust?
+- `23 Aug 19:55` **yahoo_finance** — Luxury auto CEOs say there's a K-shaped economy even at the very top of the market
+- `23 Aug 19:50` **yahoo_finance** — Here's the Truth About How Much You Need to Save If You Want to End Up a Millionaire
+- `23 Aug 19:37` **yahoo_finance** — Warren Buffett explains investing sin Munger called 'thumb-sucking'
+- `23 Aug 19:35` **yahoo_finance** — Amazon's Free Cash Flow Went Negative by $7.6 Billion Even as Operating Cash Flow Rose 33%. Here's the Gap AI Capex Is Actually Creating.
 - `23 Aug 19:22` **investing_news** — UBS downgrades Klarna stock rating on guidance cut, executive departures
+- `23 Aug 19:20` **yahoo_finance** — What Happens When Social Security Takes Your Benefits Because You Work Too Much?
+- `23 Aug 19:18` **yahoo_finance** — Investor bullishness surges as BofA survey shows cash levels near historic lows
 - `23 Aug 19:17` **aljazeera** — PM Tarique Rahman's trip stalled: What it means for Bangladesh-India ties
+- `23 Aug 19:08` **yahoo_finance** — Alibaba Launches Record $10 Billion Share Sale to Enter the AI Race
+- `23 Aug 19:07` **yahoo_finance** — Morgan Housel warns of a looming career threat for your child
+- `23 Aug 19:05` **yahoo_finance** — History Says You Should Know These 3 Things Before Buying the Vanguard S&P 500 ETF (VOO)
+- `23 Aug 19:02` **yahoo_finance** — He Camped One Weekend on Riverfront Land Inside His IRA. Medicare Charged Him for It Two Years Later.
+- `23 Aug 19:00` **yahoo_finance** — PennantPark vs. PennantPark Floating Rate: Which BDC Pays Income Investors Better?
+- `23 Aug 18:57` **yahoo_finance** — How to Build $11,800 a Month in Dividend Income Without Selling a Single Share
+- `23 Aug 18:55` **yahoo_finance** — Is the 60/40 Dead Or Just Playing Possum?
 - `23 Aug 18:52` **gnews_centralbanks** — priced in | data, expectations & market repricing | - TradingView
 - `23 Aug 18:50` **aljazeera** — Nordic nations 'have lost confidence in Infantino', demand FIFA reforms
+- `23 Aug 18:50` **yahoo_finance** — Choosing This Retirement Account Over a Traditional 401(k) Could Mean Keeping More of Your Social Security Benefits
+- `23 Aug 18:45` **yahoo_finance** — Should You Buy, Sell, or Hold Nu Holdings Now That Its Earnings Are Out?
 - `23 Aug 18:37` **investing_news** — Organon earnings up next: Can drugmaker rebound after Q1 miss?
 - `23 Aug 18:36` **investing_news** — ATAI Beckley earnings up next in final report before acquisition
 - `23 Aug 18:35` **investing_news** — Hub Group earnings up next as freight recovery meets execution risk
 - `23 Aug 18:35` **investing_news** — Forte Biosciences earnings on deck as argenx deal looms
 - `23 Aug 18:33` **aljazeera** — Chelsea preview: Five key talking points for 2026-27 Premier League season
+- `23 Aug 18:30` **yahoo_finance** — Home insurers pocket $8.8M a day in investment income when claims are delayed, new analysis finds
 - `23 Aug 18:20` **aljazeera** — Heavy Israeli air strike hits warehouse in central Gaza
 - `23 Aug 18:10` **investing_news** — Up another 12% Friday, this AI-picked energy stock is now up +90%
 - `23 Aug 18:08` **aljazeera** — Dozens of attacks in southern Thailand wound three people
@@ -472,6 +512,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 - `23 Aug 14:43` **aljazeera** — Israeli air strike near Gaza refugee camp kills one person and injures two
 - `23 Aug 14:30` **wsj_markets** — Hype for Moderna's Cancer Vaccine Is Running Ahead of the Math
 - `23 Aug 14:13` **aljazeera** — Where water conflicts pose the biggest threat in 2026
+- `23 Aug 14:02` **gnews_centralbanks** — The Games High-Debt Countries Play - Robin J Brooks | Substack
 - `23 Aug 13:38` **aljazeera** — Israeli wounded in occupied West Bank stabbing
 - `23 Aug 13:28` **gnews_centralbanks** — Britons with £8,099 in savings issued urgent warning after change - Daily Express
 - `23 Aug 13:08` **aljazeera** — Flooding across Caracas, Venezuela, after heavy rains
@@ -526,40 +567,41 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.1 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.0 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.6 |
-| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.5 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.4 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 37 | 24 | 1 | 23 | 13 | 0.0 |
-| gnews_geopolitics | OK | 58 | 20 | 2 | 18 | 38 | 0.0 |
-| gnews_centralbanks | OK | 27 | 16 | 1 | 15 | 11 | 0.0 |
+| gnews_fed | OK | 36 | 25 | 3 | 22 | 11 | 0.0 |
+| gnews_geopolitics | OK | 57 | 20 | 0 | 20 | 37 | 0.1 |
+| gnews_centralbanks | OK | 29 | 18 | 2 | 16 | 11 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.9 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.8 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.1 |
-| boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.3 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.2 |
+| boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.4 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.3 |
 | mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.7 |
-| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
+| oilprice | OK | 15 | 2 | 1 | 1 | 13 | 0.0 |
 | investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.0 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.0 |
-| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.1 |
+| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.2 |
-| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.0 |
+| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.1 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.1 |
 | wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.1 |
 | wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.2 |
-| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 3 | 0 | 3 | 46 | 0.2 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 25 | 21 | 4 | 25 | 0.0 |
 | mw_topstories | OK | 10 | 5 | 0 | 5 | 5 | 0.1 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 1.1 |
 
 **Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi
 - kitco_general — FAIL, koi item nahi
