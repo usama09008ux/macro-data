@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 14:53 PKT**
-- Kul khabrein: **86**
+- Aakhri update: **23 Aug 15:23 PKT**
+- Kul khabrein: **97**
 - Feeds: 32/39 OK
 
 ---
@@ -73,6 +73,11 @@ Cooling Wage Growth May Let ECB Stay on Hold Briefs Finance
 
 ### GBP
 
+**Pound Sterling to US Dollar Exchange Rate August 24 2026 - Robinhood**
+`23 Aug 12:30 PKT` · pehli baar dekhi `23 Aug 15:23` · gnews_centralbanks
+
+Pound Sterling to US Dollar Exchange Rate August 24 2026 Robinhood
+
 **Robots can outrun humans, but can they plug in a cable?**
 `23 Aug 10:06 PKT` · pehli baar dekhi `23 Aug 10:50` · investing_news
 
@@ -103,6 +108,11 @@ Japan's debt costs surge 17% as rates rise, straining 2027 budget - CHOSUNBIZ Ch
 
 Japan's Debt-Service Costs to Hit Record ¥36.6 Trillion in Fiscal 2027 bloomingbit
 
+**Will the AUD/JPY pair trade sideways? Expectations of an early interest rate hike by the Bank of Japan may cap upside gains. - Moomoo**
+`23 Aug 09:45 PKT` · pehli baar dekhi `23 Aug 15:23` · gnews_centralbanks
+
+Will the AUD/JPY pair trade sideways? Expectations of an early interest rate hike by the Bank of Japan may cap upside gains. Moomoo
+
 **Yen Forecast: Can Japan Stop Another USD/JPY Surge? - equiti.com**
 `23 Aug 03:29 PKT` · pehli baar dekhi `23 Aug 13:52` · gnews_centralbanks
 
@@ -131,6 +141,16 @@ Provincial premiers have joined Canada's Prime Minister Mark Carney, firing back
 Australia bounce back after losing first Test, bowling out the visitors for 64 and 95 to win by an innings and 51 runs.
 
 ### OIL
+
+**Oil Prices Little Changed for Week as US-Iran Peace Efforts Hold - EnergyNow.com**
+`23 Aug 14:44 PKT` · pehli baar dekhi `23 Aug 15:23` · gnews_geopolitics
+
+Oil Prices Little Changed for Week as US-Iran Peace Efforts Hold EnergyNow.com
+
+**Stock Market Outlook: Crude Oil, US-Iran Tensions & Fed Signals To Drive Sensex, Nifty This Week - Free Press Journal**
+`23 Aug 13:13 PKT` · pehli baar dekhi `23 Aug 15:23` · gnews_fed
+
+Stock Market Outlook: Crude Oil, US-Iran Tensions & Fed Signals To Drive Sensex, Nifty This Week Free Press Journal
 
 **Crude Oil, Geopolitics Drive Market Movement: Analysts - Rediff MoneyWiz**
 `23 Aug 13:01 PKT` · pehli baar dekhi `23 Aug 14:25` · gnews_fed
@@ -182,6 +202,9 @@ Oil Prices Surge 6% in Week as Brent Nears $95 Barrel Sada Elbalad english
 The Rhine has slightly risen from its mid-August record low (when Kaub's water level gauge – at the river's decisive chokepoint – was below 10 cm), but the relief is mostly optical. Barges still cannot carry normal loads through it, leaving the industrial corridor from Rotterdam and Antwerp to southern Germany, eastern France and Switzerland short of transport capacity. The immediate result is expensive freight, constrained chemical production and uneven fuel supply.
 
 ### CRYPTO
+
+**Bitcoin slips under $77,000 as rally boosts mining economics**
+`23 Aug 14:58 PKT` · pehli baar dekhi `23 Aug 15:23` · investing_news
 
 **Is Bitcoin at $77k preparing for another breakout? This BTCUSD analysis shows a a potential bull flag pointing to $84K-$86K**
 `23 Aug 08:55 PKT` · pehli baar dekhi `23 Aug 09:46` · investinglive
@@ -236,10 +259,15 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 
 Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 
-### BINA TAG (37)
+### BINA TAG (43)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 15:03` **bbc_business** — CrossCountry cancels UK services after power cut
+- `23 Aug 15:00` **aljazeera** — How the deadliest Bundibugyo Ebola outbreak can be stopped
+- `23 Aug 15:00` **yahoo_finance** — Mortgage and refinance interest rates today, Sunday, August 23, 2026: Higher than last weekend as prime selling season wraps up
+- `23 Aug 15:00` **yahoo_finance** — Best CD rates today, Sunday, August 23, 2026: Lock in up to 4.35% APY
+- `23 Aug 14:43` **aljazeera** — Israeli air strike near Gaza refugee camp kills one person and injures two
 - `23 Aug 14:30` **wsj_markets** — Hype for Moderna's Cancer Vaccine Is Running Ahead of the Math
 - `23 Aug 14:13` **aljazeera** — Where water conflicts pose the biggest threat in 2026
 - `23 Aug 13:38` **aljazeera** — Israeli wounded in occupied West Bank stabbing
@@ -250,6 +278,7 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 - `23 Aug 12:38` **aljazeera** — Kazakhstan holds parliamentary election expected to cement president's grip
 - `23 Aug 12:22` **aljazeera** — Infantino defies FIFA vice president, makes appearance in the Caribbean
 - `23 Aug 11:59` **aljazeera** — Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles
+- `23 Aug 11:23` **bbc_business** — Les used a QR code to download a parking app - but it was a scam
 - `23 Aug 11:09` **investing_news** — Korean retail traders chase 40% coupons after historic stock rout - report
 - `23 Aug 11:05` **investing_news** — 5 big analyst AI moves: Apple upgraded on foldable iPhone push, new AI strategy
 - `23 Aug 11:03` **investing_news** — Trump disclosure shows more than 1,000 securities trades in June - report
@@ -286,12 +315,12 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.2 |
-| fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 1.4 |
+| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.3 |
+| fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 1.5 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.9 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.8 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.4 |
-| instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.3 |
+| instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.4 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.5 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.5 |
 | cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.5 |
@@ -300,28 +329,28 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.5 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.2 |
 | kitco_general | OK | 1 | 0 | 0 | 0 | 1 | 1.0 |
-| gnews_fed | OK | 36 | 7 | 0 | 7 | 29 | 0.1 |
-| gnews_geopolitics | OK | 95 | 11 | 1 | 10 | 84 | 0.1 |
-| gnews_centralbanks | OK | 44 | 10 | 0 | 10 | 34 | 0.1 |
+| gnews_fed | OK | 35 | 9 | 1 | 8 | 26 | 0.1 |
+| gnews_geopolitics | OK | 95 | 12 | 1 | 11 | 83 | 0.0 |
+| gnews_centralbanks | OK | 46 | 12 | 2 | 10 | 34 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.7 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.6 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.9 |
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.1 |
 | mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.5 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
 | investing_commodities | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| bbc_business | OK | 50 | 5 | 0 | 5 | 45 | 0.1 |
-| aljazeera | OK | 25 | 22 | 2 | 20 | 3 | 0.0 |
+| bbc_business | OK | 50 | 7 | 2 | 5 | 43 | 0.0 |
+| aljazeera | OK | 25 | 24 | 2 | 22 | 1 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.0 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.8 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 18.9 |
-| wsj_world | OK | 72 | 3 | 1 | 2 | 69 | 0.0 |
-| wsj_markets | OK | 61 | 3 | 1 | 2 | 58 | 0.0 |
+| wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.0 |
+| wsj_markets | OK | 61 | 3 | 0 | 3 | 58 | 0.0 |
 | investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 1 | 0 | 1 | 49 | 0.4 |
-| mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
-| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.8 |
+| yahoo_finance | OK | 50 | 3 | 2 | 1 | 47 | 0.0 |
+| mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.9 |
