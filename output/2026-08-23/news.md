@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **24 Aug 01:22 PKT**
-- Kul khabrein: **377**
+- Aakhri update: **24 Aug 01:47 PKT**
+- Kul khabrein: **388**
 - Feeds: 29/39 OK
 
 ---
@@ -15,6 +15,11 @@
 `24 Aug 00:55 PKT` · pehli baar dekhi `24 Aug 01:22` · investinglive
 
 Its just before: 5am Tokyo 4am ingapore/Hong Kong 6am Australia/8am New Zealand Bitcoin is on the move: Is Bitcoin at $77k preparing for another breakout? This BTCUSD analysis shows a a potential bull flag pointing to $84K-$86K Early indications: EUR/USD 1.1676 USD/JPY 159.02 GBP/USD 1.3627 USD/CHF 0.7992 USD/CAD 1.3821 AUD/USD 0.7168 NZD/USD 0.5980 I'll be back with weekend news soon. This article was written by Eamonn Sheridan at investinglive.com.
+
+**FOMC Preview: Fed Rate Hike Surprise? Gold, USD/JPY, Euro Outlook | ATFX Birmingham Election Results (wDC1HyxwvP) - Mshale**
+`23 Aug 18:59 PKT` · pehli baar dekhi `24 Aug 01:47` · gnews_fed
+
+FOMC Preview: Fed Rate Hike Surprise? Gold, USD/JPY, Euro Outlook | ATFX Birmingham Election Results (wDC1HyxwvP) Mshale
 
 **Week Ahead: Jackson Hole; BoK Meeting; RBA, Riksbank and ECB Minutes; U.S., Australia, Tokyo, France and Spain Inflation Reports; U.S. BLS Revisions; China's Top Legislature Meeting; Bessent on Iran; Nvidia Earnings - christophe-barraud.com**
 `23 Aug 17:08 PKT` · pehli baar dekhi `23 Aug 19:33` · gnews_centralbanks
@@ -65,6 +70,9 @@ Minneapolis Fed President: "U.S. Treasury Market Functioning Normally... Long-te
 
 **Trump's Bond Buyback Push Puts Kevin Warsh in a Tough Spot — Peter Schiff Says Treasury 'Pulled the Rug Out From Under'**
 `23 Aug 23:31 PKT` · pehli baar dekhi `24 Aug 01:22` · yahoo_finance
+
+**Bond Market Won't Affect the Fed: Kashkari**
+`23 Aug 23:28 PKT` · pehli baar dekhi `24 Aug 01:47` · yahoo_finance
 
 **Wall Street Week Ahead: Warsh's Jackson speech, PCE inflation and Nvidia earnings in focus - livemint.com**
 `23 Aug 23:24 PKT` · pehli baar dekhi `24 Aug 01:22` · gnews_fed
@@ -286,6 +294,9 @@ Bank of England insiders warn AI boom could push up interest rates in Britain Th
 
 ### JPY
 
+**Japan's stock market setup looks similar to late 2023. Here's what it means**
+`24 Aug 01:34 PKT` · pehli baar dekhi `24 Aug 01:47` · investing_news
+
 **Japan Borrowing Costs Reach 1996 Highs: Will the Weak Yen Hurt Bitcoin?**
 `24 Aug 00:14 PKT` · pehli baar dekhi `24 Aug 00:53` · yahoo_finance
 
@@ -368,6 +379,11 @@ Australia bounce back after losing first Test, bowling out the visitors for 64 a
 
 ### OIL
 
+**Iran dismisses new US sanctions as desperate as Hormuz shipping standstill continues**
+`24 Aug 01:31 PKT` · pehli baar dekhi `24 Aug 01:47` · investinglive
+
+The near standstill in Strait of Hormuz shipping keeps a geopolitical risk premium embedded in oil prices, with traders likely to stay cautious heading into Monday's sanctions announcement from Washington. Iran's parliament advancing a bill to charge navigation, environmental, fueling, insurance and safety fees on transiting vessels suggests Tehran is moving toward formalised, monetised control of the waterway rather than a purely war-linked disruption, raising the odds this becomes a ...
+
 **Italy extends diesel tax cut to Wednesday amid rising fuel prices**
 `24 Aug 00:39 PKT` · pehli baar dekhi `24 Aug 01:22` · investing_commodities
 
@@ -402,6 +418,11 @@ While it seems that Democrats and Republicans can't agree on much of anything th
 `23 Aug 21:29 PKT` · pehli baar dekhi `24 Aug 00:34` · gnews_geopolitics
 
 Oil Rebounds as Fragile Ceasefire, Hormuz Concerns Keep Supply Risks Elevated EnergyNow
+
+**Trump Threatens More Strikes on Iran's Kharg Island, Pushes Allies on Strait of Hormuz - EnergyNow.com**
+`23 Aug 21:29 PKT` · pehli baar dekhi `24 Aug 01:47` · gnews_geopolitics
+
+Trump Threatens More Strikes on Iran's Kharg Island, Pushes Allies on Strait of Hormuz EnergyNow.com
 
 **One of Exxon's Biggest Oil Fields Is Running Out of Room to Grow. Here's Why That's Not a Crisis.**
 `23 Aug 21:05 PKT` · pehli baar dekhi `23 Aug 21:24` · yahoo_finance
@@ -827,11 +848,16 @@ Oil prices up as Trump vows sanctions vs Iran partners The Manila Times
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (192)
+### BINA TAG (198)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `24 Aug 01:23` **aljazeera** — Is Israel about to split the occupied West Bank in half?
+- `24 Aug 01:23` **yahoo_finance** — UBS revamps S&P 500 target for rest of 2026
+- `24 Aug 01:20` **yahoo_finance** — Better Dividend King to Buy Right Now: Abbott Labs or Johnson & Johnson?
 - `24 Aug 01:13` **yahoo_finance** — Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?
+- `24 Aug 01:12` **yahoo_finance** — $22 Billion in Customer Deposits Did Not Stop This Chip CEO From Selling $37 Million
+- `24 Aug 01:07` **yahoo_finance** — Billionaire Druckenmiller makes cancer stock his #1 buy for a reason
 - `24 Aug 01:00` **aljazeera** — Severe winds toss four aircraft across Italian airport tarmac
 - `24 Aug 01:00` **yahoo_finance** — After Buying Circle Through a 42% Drop, Cathie Wood Says Analysts Cannot Fathom It
 - `24 Aug 00:57` **yahoo_finance** — Gilead's Revenue Is Accelerating, But are its Acquisitions Worth the Cost?
@@ -931,6 +957,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 - `23 Aug 19:20` **yahoo_finance** — What Happens When Social Security Takes Your Benefits Because You Work Too Much?
 - `23 Aug 19:18` **yahoo_finance** — Investor bullishness surges as BofA survey shows cash levels near historic lows
 - `23 Aug 19:17` **aljazeera** — PM Tarique Rahman's trip stalled: What it means for Bangladesh-India ties
+- `23 Aug 19:15` **yahoo_finance** — Duolingo Stock Is Shaking Off AI Fears
 - `23 Aug 19:08` **yahoo_finance** — Alibaba Launches Record $10 Billion Share Sale to Enter the AI Race
 - `23 Aug 19:07` **yahoo_finance** — Morgan Housel warns of a looming career threat for your child
 - `23 Aug 19:05` **yahoo_finance** — History Says You Should Know These 3 Things Before Buying the Vanguard S&P 500 ETF (VOO)
@@ -1040,22 +1067,22 @@ yahoo_finance (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 3 | 2 | 1 | 22 | 0.0 |
+| investinglive | OK | 25 | 4 | 1 | 3 | 21 | 0.0 |
 | fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.9 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.3 |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.2 |
-| marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.8 |
-| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.3 |
+| marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.9 |
+| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.8 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
 | cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
 | cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
 | cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.6 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.7 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 40 | 39 | 4 | 35 | 1 | 0.0 |
-| gnews_geopolitics | OK | 45 | 38 | 1 | 37 | 7 | 0.0 |
+| gnews_fed | OK | 41 | 40 | 1 | 39 | 1 | 0.0 |
+| gnews_geopolitics | OK | 44 | 40 | 1 | 39 | 4 | 0.0 |
 | gnews_centralbanks | OK | 27 | 26 | 0 | 26 | 1 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.1 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 18.0 |
@@ -1063,23 +1090,22 @@ yahoo_finance (1)
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.3 |
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.6 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.5 |
-| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
+| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
 | oilprice | OK | 15 | 4 | 0 | 4 | 11 | 0.1 |
-| investing_commodities | OK | 10 | 4 | 1 | 3 | 6 | 0.0 |
+| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.0 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
-| bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.0 |
-| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.1 |
+| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.5 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.3 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.3 |
-| wsj_world | OK | 72 | 11 | 0 | 11 | 61 | 0.0 |
+| wsj_world | OK | 72 | 11 | 0 | 11 | 61 | 0.1 |
 | wsj_markets | OK | 61 | 6 | 0 | 6 | 55 | 0.1 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 44 | 12 | 32 | 6 | 0.0 |
-| mw_topstories | OK | 10 | 9 | 0 | 9 | 1 | 0.0 |
+| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 44 | 6 | 38 | 6 | 0.0 |
+| mw_topstories | OK | 10 | 9 | 0 | 9 | 1 | 0.1 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
 
 **Jo feeds nahi aaye:**
-- instaforex — FAIL, koi item nahi
 - kitco_general — FAIL, koi item nahi
