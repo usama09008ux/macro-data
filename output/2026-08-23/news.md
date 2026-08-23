@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 21:24 PKT**
-- Kul khabrein: **228**
+- Aakhri update: **23 Aug 21:53 PKT**
+- Kul khabrein: **242**
 - Feeds: 28/39 OK
 
 ---
@@ -44,6 +44,11 @@ MCX Gold Rallies Over 13% In August 2026: Six Key Reasons Behind The Surge NDTV 
 MCX gold rallies for fifth straight week; gains ₹19,000 per 10 grams in August livemint.com
 
 ### USD
+
+**Hawkish Fed minutes meet a softer dollar as European activity picks up - Kuwait Times**
+`23 Aug 21:40 PKT` · pehli baar dekhi `23 Aug 21:53` · gnews_fed
+
+Hawkish Fed minutes meet a softer dollar as European activity picks up Kuwait Times
 
 **The Three Minds Leading the Fed's Inflation Rethink - WSJ**
 `23 Aug 20:50 PKT` · pehli baar dekhi `23 Aug 20:53` · gnews_fed
@@ -111,6 +116,11 @@ Fed Rate Decision Predictions and Odds DeFi Rate
 `23 Aug 11:33 PKT` · pehli baar dekhi `23 Aug 12:48` · gnews_fed
 
 Back From The Dead - Is The FOMC Meeting LIVE For A Rate Hike? | Daily Market Update, July 28 2026 St. Louis Vs Colorado (r1D7GKCd2Q) Mshale
+
+**US Dollar Upside Capped as Treasury Yields Ease, MUFG Says - CryptoRank**
+`23 Aug 06:41 PKT` · pehli baar dekhi `23 Aug 21:53` · gnews_fed
+
+US Dollar Upside Capped as Treasury Yields Ease, MUFG Says CryptoRank
 
 **America In Focus: Fed officials eye higher rates; unemployment claims fall - Newsday**
 `23 Aug 04:58 PKT` · pehli baar dekhi `23 Aug 18:59` · gnews_fed
@@ -314,6 +324,11 @@ Market outlook next week: Fed Chair speech, US-Iran tensions and crude oil in fo
 US-Iran war: Crude oil price is key | Is Tehran writing the obituary of Turkey-Pakistan-Saudi Arabia's defence pact? livemint.com
   - `23 Aug 11:04` *gnews_geopolitics* — US-Iran war: Crude oil price is key | Is Tehran writing the obituary of Turkey-Pakistan-Saudi Arabia's defence pack? - livemint.com
 
+**US Oil & Gas Production Hits Record High: Energy Secy Wright Credits Trump's Agenda - NDTV Profit**
+`23 Aug 09:58 PKT` · pehli baar dekhi `23 Aug 21:53` · gnews_geopolitics
+
+US Oil & Gas Production Hits Record High: Energy Secy Wright Credits Trump's Agenda NDTV Profit
+
 **Trump's 'Economic D-Day' vs Iran's Oil Chokehold: Who Blinks First at Hormuz? - Open Magazine**
 `23 Aug 07:06 PKT` · pehli baar dekhi `23 Aug 08:04` · gnews_geopolitics
 
@@ -345,6 +360,9 @@ The Rhine has slightly risen from its mid-August record low (when Kaub's water l
 `23 Aug 21:07 PKT` · pehli baar dekhi `23 Aug 21:24` · gnews_fed
 
 Fed study finds Bitcoin gains boost crypto buyi... Pluang
+
+**Donald Trump Sold MicroStrategy and Bought Two Other Crypto Stocks**
+`23 Aug 21:02 PKT` · pehli baar dekhi `23 Aug 21:53` · yahoo_finance
 
 **Federal Reserve Bank of Cleveland study reveals crypto investors swayed by Bitcoin returns - Crypto Briefing**
 `23 Aug 20:56 PKT` · pehli baar dekhi `23 Aug 21:24` · gnews_fed
@@ -520,11 +538,21 @@ Oil prices up as Trump vows sanctions vs Iran partners The Manila Times
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (115)
+### BINA TAG (125)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 21:50` **aljazeera** — LIVE: Elche vs Barcelona – La Liga
+- `23 Aug 21:31` **yahoo_finance** — Gas Turbine Prices Are on Track to Nearly Triple. These Stocks Are Cashing In
+- `23 Aug 21:30` **wsj_world** — Opinion | The Brave Witness of Chow Hang-tung
+- `23 Aug 21:29` **yahoo_finance** — America's Fastest Growing Retirement Town Is Not in Florida or Arizona
+- `23 Aug 21:27` **wsj_world** — Opinion | The Syria Disaster Washington Helped Create
+- `23 Aug 21:26` **yahoo_finance** — Dropbox's CFO Filed Days After Raising Guidance. What Should Investors Make of the Sequence?
+- `23 Aug 21:25` **wsj_markets** — Opinion | The Pension Bill Comes Due
+- `23 Aug 21:20` **yahoo_finance** — Greg Abel Just Spent $23.5 Billion on 9 Stocks for Berkshire Hathaway. Here's the Best of the Bunch.
+- `23 Aug 21:17` **yahoo_finance** — Dropbox's CTO Is Selling on a Plan He Set 15 Months Ago. Here's What to Know
 - `23 Aug 21:17` **gnews_fed** — What should you pay attention to at next week's Jackson Hole conference? - ChainCatcher
+- `23 Aug 21:15` **yahoo_finance** — A Retired Couple Can Pull About $46,700 From Their IRAs This Year and Pay $0 Federal Tax. Most Leave the Free Space Unused.
 - `23 Aug 21:12` **aljazeera** — French President Macron to host Saudi Crown Prince MBS in Paris for talks
 - `23 Aug 21:05` **yahoo_finance** — Two Dropbox Executives Sold After Their Shares Vested Last Week. The Future Sole CEO Wasn't One of Them
 - `23 Aug 21:03` **yahoo_finance** — Iconic bank stock pays Buffett's Berkshire $619M in annual dividends
@@ -662,31 +690,31 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.5 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 42 | 32 | 5 | 27 | 10 | 0.0 |
-| gnews_geopolitics | OK | 57 | 20 | 0 | 20 | 37 | 0.1 |
-| gnews_centralbanks | OK | 30 | 19 | 1 | 18 | 11 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.9 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.8 |
+| gnews_fed | OK | 42 | 33 | 2 | 31 | 9 | 0.0 |
+| gnews_geopolitics | OK | 53 | 21 | 1 | 20 | 32 | 0.1 |
+| gnews_centralbanks | OK | 30 | 19 | 0 | 19 | 11 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.0 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.9 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.1 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.2 |
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.4 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.3 |
-| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.7 |
+| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.8 |
 | oilprice | OK | 15 | 2 | 0 | 2 | 13 | 0.1 |
 | investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.1 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.1 |
-| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.3 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.1 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.2 |
-| wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.2 |
-| wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.2 |
-| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 27 | 6 | 21 | 23 | 0.0 |
-| mw_topstories | OK | 10 | 5 | 0 | 5 | 5 | 0.1 |
-| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.0 |
+| wsj_world | OK | 72 | 5 | 2 | 3 | 67 | 0.0 |
+| wsj_markets | OK | 61 | 5 | 1 | 4 | 56 | 0.0 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 32 | 7 | 25 | 17 | 0.0 |
+| mw_topstories | OK | 10 | 5 | 0 | 5 | 5 | 0.0 |
+| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi
