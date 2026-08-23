@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **24 Aug 01:47 PKT**
-- Kul khabrein: **388**
+- Aakhri update: **24 Aug 02:08 PKT**
+- Kul khabrein: **398**
 - Feeds: 29/39 OK
 
 ---
@@ -136,6 +136,11 @@ Dow Jones Futures Prediction: Will Dow Rise Or Fall Monday? Nvidia Earnings, Fed
 
 Fed can't control market prices, which are alwa... Pluang
 
+**FOMC Introductory Statement, January 29, 2025 Jericho High School (gqlMff0gMR) - Mshale**
+`23 Aug 18:59 PKT` · pehli baar dekhi `24 Aug 02:08` · gnews_fed
+
+FOMC Introductory Statement, January 29, 2025 Jericho High School (gqlMff0gMR) Mshale
+
 **Trump made a multimillion-dollar bond bet — and Fed Chair Kevin Warsh could shape the outcome. What investors can learn**
 `23 Aug 18:00 PKT` · pehli baar dekhi `23 Aug 22:19` · yahoo_finance
 
@@ -185,6 +190,11 @@ Fed Rate Decision Predictions and Odds DeFi Rate
 `23 Aug 11:33 PKT` · pehli baar dekhi `23 Aug 12:48` · gnews_fed
 
 Back From The Dead - Is The FOMC Meeting LIVE For A Rate Hike? | Daily Market Update, July 28 2026 St. Louis Vs Colorado (r1D7GKCd2Q) Mshale
+
+**Swiss Franc Slides as Dollar Rebounds; Traders Eye FOMC Minutes - CryptoRank**
+`23 Aug 09:42 PKT` · pehli baar dekhi `24 Aug 02:08` · gnews_fed
+
+Swiss Franc Slides as Dollar Rebounds; Traders Eye FOMC Minutes CryptoRank
 
 **US Dollar Upside Capped as Treasury Yields Ease, MUFG Says - CryptoRank**
 `23 Aug 06:41 PKT` · pehli baar dekhi `23 Aug 21:53` · gnews_fed
@@ -294,11 +304,14 @@ Bank of England insiders warn AI boom could push up interest rates in Britain Th
 
 ### JPY
 
+**Japan Borrowing Costs Reach 1996 Highs: Will the Weak Yen Hurt Bitcoin? - CryptoRank**
+`24 Aug 01:53 PKT` · pehli baar dekhi `24 Aug 02:08` · gnews_centralbanks · **2 feeds mein**
+
+Japan Borrowing Costs Reach 1996 Highs: Will the Weak Yen Hurt Bitcoin? CryptoRank
+  - `24 Aug 00:14` *yahoo_finance* — Japan Borrowing Costs Reach 1996 Highs: Will the Weak Yen Hurt Bitcoin?
+
 **Japan's stock market setup looks similar to late 2023. Here's what it means**
 `24 Aug 01:34 PKT` · pehli baar dekhi `24 Aug 01:47` · investing_news
-
-**Japan Borrowing Costs Reach 1996 Highs: Will the Weak Yen Hurt Bitcoin?**
-`24 Aug 00:14 PKT` · pehli baar dekhi `24 Aug 00:53` · yahoo_finance
 
 **The Treasury's bond-market intervention isn't working. So what comes next?**
 `23 Aug 17:00 PKT` · pehli baar dekhi `23 Aug 17:56` · mw_topstories
@@ -378,6 +391,11 @@ Provincial premiers have joined Canada's Prime Minister Mark Carney, firing back
 Australia bounce back after losing first Test, bowling out the visitors for 64 and 95 to win by an innings and 51 runs.
 
 ### OIL
+
+**Pemex and Petrobras Bet Big on High-Risk High-Reward Drilling Off Mexico**
+`24 Aug 02:00 PKT` · pehli baar dekhi `24 Aug 02:08` · oilprice
+
+Mexico's state oil firm Pemex and Brazil's national oil company Petrobras are joining efforts and expertise to drill prospects in Mexican waters in the Gulf of Mexico, hoping to unlock huge oil resources from source rock formations that are miles deeper and eight times older than the currently producing formations in the U.S. Gulf.
 
 **Iran dismisses new US sanctions as desperate as Hormuz shipping standstill continues**
 `24 Aug 01:31 PKT` · pehli baar dekhi `24 Aug 01:47` · investinglive
@@ -628,6 +646,11 @@ Fed minutes show September rate hike still on the table | Gulf Times Gulf Times
 
 ### RISK
 
+**Going nuclear... Iran security chief warns Tehran may seek nuclear weapons after US strikes**
+`24 Aug 01:46 PKT` · pehli baar dekhi `24 Aug 02:08` · investinglive
+
+Any credible signal that Iran might reconsider its non-nuclear posture adds a new layer of geopolitical risk premium to oil markets already pricing in Strait of Hormuz disruption and an active blockade. Coming from the secretary of Iran's Supreme National Security Council rather than a peripheral commentator, the remarks carry more institutional weight than earlier statements from hardline figures and could sharpen market attention on any future move by Tehran to restrict IAEA access or ...
+
 **Middle East Tensions, Ukraine War and Rising Pressure on Global Trade - ENA English**
 `24 Aug 00:36 PKT` · pehli baar dekhi `24 Aug 00:53` · gnews_geopolitics
 
@@ -848,10 +871,13 @@ Oil prices up as Trump vows sanctions vs Iran partners The Manila Times
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (198)
+### BINA TAG (203)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `24 Aug 01:43` **yahoo_finance** — The Custodial Account You Opened for Your Grandson Becomes Legally His the Day He Turns 21, and He Can Spend It on a Car. A 529 Never Does.
+- `24 Aug 01:38` **yahoo_finance** — This Company Just Paid Out $6.8 Billion. Its AI Bill Was 4x That
+- `24 Aug 01:35` **yahoo_finance** — If a Bear Market Is Coming, Here's What All of the Smartest Investors Are Doing Right Now
 - `24 Aug 01:23` **aljazeera** — Is Israel about to split the occupied West Bank in half?
 - `24 Aug 01:23` **yahoo_finance** — UBS revamps S&P 500 target for rest of 2026
 - `24 Aug 01:20` **yahoo_finance** — Better Dividend King to Buy Right Now: Abbott Labs or Johnson & Johnson?
@@ -871,6 +897,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 - `24 Aug 00:39` **yahoo_finance** — Vistra Is the Quietest Big Winner of the AI Power Boom. Here's Why.
 - `24 Aug 00:38` **yahoo_finance** — AstraZeneca Made a $1.5 Billion Lung Cancer Bet, but Can Zegfrovy Strengthen its Oncology Growth?
 - `24 Aug 00:37` **yahoo_finance** — Major alcohol company shrinks workforce by nearly 2,000
+- `24 Aug 00:31` **yahoo_finance** — Kevin O'Leary Says New York Mayor Deserves 'Real Estate Agent of the Year Award' for Driving People Out of the City — 'Beyond Insane, But I Love It'
 - `24 Aug 00:28` **yahoo_finance** — This Company Has Raised Its Dividend for 72 Straight Years. Almost Nobody Talks About It.
 - `24 Aug 00:27` **aljazeera** — Two killed after giant Ganesha statue collapses onto crowd in Mumbai
 - `24 Aug 00:16` **yahoo_finance** — Prediction: ExxonMobil Raises Its Dividend More Than Wall Street Expects
@@ -953,6 +980,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 - `23 Aug 19:50` **yahoo_finance** — Here's the Truth About How Much You Need to Save If You Want to End Up a Millionaire
 - `23 Aug 19:37` **yahoo_finance** — Warren Buffett explains investing sin Munger called 'thumb-sucking'
 - `23 Aug 19:35` **yahoo_finance** — Amazon's Free Cash Flow Went Negative by $7.6 Billion Even as Operating Cash Flow Rose 33%. Here's the Gap AI Capex Is Actually Creating.
+- `23 Aug 19:30` **yahoo_finance** — Nvidia Stock Is Treading Water Ahead of Earnings This Week - What's the Best NVDA Play?
 - `23 Aug 19:22` **investing_news** — UBS downgrades Klarna stock rating on guidance cut, executive departures
 - `23 Aug 19:20` **yahoo_finance** — What Happens When Social Security Takes Your Benefits Because You Work Too Much?
 - `23 Aug 19:18` **yahoo_finance** — Investor bullishness surges as BofA survey shows cash levels near historic lows
@@ -1067,13 +1095,13 @@ yahoo_finance (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 4 | 1 | 3 | 21 | 0.0 |
+| investinglive | OK | 25 | 5 | 1 | 4 | 20 | 0.0 |
 | fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.9 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.3 |
 | actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.3 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 1.9 |
 | instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.8 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
 | cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
 | cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
@@ -1081,9 +1109,9 @@ yahoo_finance (1)
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.7 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 41 | 40 | 1 | 39 | 1 | 0.0 |
-| gnews_geopolitics | OK | 44 | 40 | 1 | 39 | 4 | 0.0 |
-| gnews_centralbanks | OK | 27 | 26 | 0 | 26 | 1 | 0.1 |
+| gnews_fed | OK | 42 | 42 | 2 | 40 | 0 | 0.0 |
+| gnews_geopolitics | OK | 45 | 42 | 0 | 42 | 3 | 0.1 |
+| gnews_centralbanks | OK | 27 | 27 | 1 | 26 | 0 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.1 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 18.0 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
@@ -1091,19 +1119,19 @@ yahoo_finance (1)
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.6 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.5 |
 | mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
-| oilprice | OK | 15 | 4 | 0 | 4 | 11 | 0.1 |
-| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.0 |
+| oilprice | OK | 15 | 5 | 1 | 4 | 10 | 0.0 |
+| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.1 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.5 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.3 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.3 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.4 |
 | wsj_world | OK | 72 | 11 | 0 | 11 | 61 | 0.1 |
 | wsj_markets | OK | 61 | 6 | 0 | 6 | 55 | 0.1 |
-| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 44 | 6 | 38 | 6 | 0.0 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 44 | 5 | 39 | 6 | 0.0 |
 | mw_topstories | OK | 10 | 9 | 0 | 9 | 1 | 0.1 |
 | cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
 
