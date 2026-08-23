@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 23:41 PKT**
-- Kul khabrein: **312**
+- Aakhri update: **24 Aug 00:07 PKT**
+- Kul khabrein: **331**
 - Feeds: 29/39 OK
 
 ---
@@ -46,6 +46,16 @@ MCX gold rallies for fifth straight week; gains ₹19,000 per 10 grams in August
 
 ### USD
 
+**Minneapolis Fed President: "U.S. Treasury Market Functioning Normally... Long-term Yields Determined by Fundamentals" - 아시아경제**
+`23 Aug 23:56 PKT` · pehli baar dekhi `24 Aug 00:07` · gnews_fed
+
+Minneapolis Fed President: "U.S. Treasury Market Functioning Normally... Long-term Yields Determined by Fundamentals" 아시아경제
+
+**Fed's Kashkari Says Rising Treasury Yields Won't Sway Rate Decisions - finance.biggo.com**
+`23 Aug 23:20 PKT` · pehli baar dekhi `24 Aug 00:07` · gnews_fed
+
+Fed's Kashkari Says Rising Treasury Yields Won't Sway Rate Decisions finance.biggo.com
+
 **Kevin Warsh seeks to soothe investors' nerves as signs of economic strain mount - Financial Times**
 `23 Aug 23:00 PKT` · pehli baar dekhi `23 Aug 23:41` · gnews_fed
 
@@ -53,6 +63,11 @@ Kevin Warsh seeks to soothe investors' nerves as signs of economic strain mount 
 
 **Nvidia, Fed Confab, Inflation, GDP, and More to Watch This Week**
 `23 Aug 23:00 PKT` · pehli baar dekhi `23 Aug 23:41` · yahoo_finance
+
+**Federal Reserve Holds $1.62 Trillion in U.S. Treasury Bonds Exceeding 10 Years - WEEX**
+`23 Aug 22:28 PKT` · pehli baar dekhi `24 Aug 00:07` · gnews_fed
+
+Federal Reserve Holds $1.62 Trillion in U.S. Treasury Bonds Exceeding 10 Years WEEX
 
 **Transcript: Neel Kashkari, Minneapolis Fed president and CEO, on "Face the Nation with Margaret Brennan," Aug. 23, 2026 - CBS News**
 `23 Aug 22:03 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_fed
@@ -164,10 +179,20 @@ America In Focus: Fed officials eye higher rates; unemployment claims fall Newsd
 
 ### EUR
 
+**Markets Bet on Harsher ECB Policy as Energy Risks Keep Inflation Elevated - Межа. Новини України.**
+`23 Aug 23:45 PKT` · pehli baar dekhi `24 Aug 00:07` · gnews_centralbanks
+
+Markets Bet on Harsher ECB Policy as Energy Risks Keep Inflation Elevated Межа. Новини України.
+
 **Germany's Far Right Has a New Enemy: The 100-Year-Old Bauhaus**
 `23 Aug 23:09 PKT` · pehli baar dekhi `23 Aug 23:41` · wsj_world
 
 The architecture and design school closed by the Nazis is battling a new culture war.
+
+**ECB's Muller: Rate hikes are having an effect, but inflation is still too high - Forex Factory**
+`23 Aug 23:06 PKT` · pehli baar dekhi `24 Aug 00:07` · gnews_centralbanks
+
+ECB's Muller: Rate hikes are having an effect, but inflation is still too high Forex Factory
 
 **Euro To Dollar Forecast 2026, 2027, 2028: Latest Bank Survey Sees EUR/USD Rising Towards 1.18 - Exchange Rates UK**
 `23 Aug 22:00 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_centralbanks
@@ -310,6 +335,16 @@ Australia bounce back after losing first Test, bowling out the visitors for 64 a
 
 ### OIL
 
+**Super El Niño Threatens Food, Water and Trade Worldwide**
+`24 Aug 00:00 PKT` · pehli baar dekhi `24 Aug 00:07` · oilprice
+
+The world is set to experience an extremely intense El Niño weather event this year, with warmer-than-normal sea surface temperatures in the tropical Pacific. This could disrupt typical weather patterns and lead to heavy rainfall in some regions and severe drought in others. While it is unclear whether the more frequent occurrence of El Niño is directly linked to human-caused climate change, it is certainly exacerbating extreme weather patterns in some parts of the world.
+
+**Iran discovers new gas field in Southern Fars Province, says Oil minister Paknejad - Dailyhunt**
+`23 Aug 23:44 PKT` · pehli baar dekhi `24 Aug 00:07` · gnews_geopolitics
+
+Iran discovers new gas field in Southern Fars Province, says Oil minister Paknejad Dailyhunt
+
 **400% Strait Traffic Surge Eases Supply Fears, Will Oil Break Lower Monday? - BeInCrypto**
 `23 Aug 23:11 PKT` · pehli baar dekhi `23 Aug 23:41` · gnews_geopolitics
 
@@ -443,6 +478,9 @@ The Rhine has slightly risen from its mid-August record low (when Kaub's water l
 
 ### CRYPTO
 
+**Bitcoin's Rally Leans on Fears That Fiscal Strains Are Mounting**
+`23 Aug 23:00 PKT` · pehli baar dekhi `24 Aug 00:07` · yahoo_finance
+
 **Ripple's XRP enabled for FedNow payments via Volante integration - Crypto Briefing**
 `23 Aug 22:04 PKT` · pehli baar dekhi `23 Aug 22:19` · gnews_fed
 
@@ -514,6 +552,11 @@ Fed minutes show September rate hike still on the table | Gulf Times Gulf Times
   - `23 Aug 18:12` *gnews_fed* — Fed minutes show September rate hike still on the table | Gulf Times - Gulf Times
 
 ### RISK
+
+**US-Iran War Boosts Dangote's Fortune by $5bn - Business Post Nigeria**
+`23 Aug 23:42 PKT` · pehli baar dekhi `24 Aug 00:07` · gnews_geopolitics
+
+US-Iran War Boosts Dangote's Fortune by $5bn Business Post Nigeria
 
 **Iran warns Gulf neighbors: join US economic war, become an enemy - scanx.trade**
 `23 Aug 23:20 PKT` · pehli baar dekhi `23 Aug 23:41` · gnews_geopolitics
@@ -628,6 +671,11 @@ Steady Oil Prices Set for Weekly Gain as Iran War Rumbles On EnergyNow.com
 
 Trump's 'D-Day' economic war on Iran: Why Gulf states are most worried The Times of India
 
+**Asian Hedging Against Oil Crises: What Is New About the Iran War Crisis? - Trends Research**
+`23 Aug 15:08 PKT` · pehli baar dekhi `24 Aug 00:07` · gnews_geopolitics
+
+Asian Hedging Against Oil Crises: What Is New About the Iran War Crisis? Trends Research
+
 **Russia Tests Readiness for New Round of Military Mobilization**
 `23 Aug 14:30 PKT` · pehli baar dekhi `23 Aug 14:53` · wsj_world
 
@@ -695,10 +743,18 @@ Oil prices up as Trump vows sanctions vs Iran partners The Manila Times
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-### BINA TAG (159)
+### BINA TAG (168)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `24 Aug 00:00` **mw_topstories** — 'The market is obviously on fire': Should I take $1,000 from my brokerage account to pay off my car loan?
+- `23 Aug 23:56` **yahoo_finance** — Why Social Security Can't Be the Center of Your Retirement Income Plan
+- `23 Aug 23:55` **yahoo_finance** — 2 Energy Stocks Riding the Data Center Power Crunch
+- `23 Aug 23:47` **yahoo_finance** — J.P. Morgan just poured cold water on Bessent's bond fix
+- `23 Aug 23:44` **yahoo_finance** — Nobody Plans to Retire Alone in The Villages. Here's What It Costs When It Happens
+- `23 Aug 23:38` **yahoo_finance** — Walmart Just Posted Its Biggest One-Day Drop Since 2022. History Says What Its Big Drops Have Been Worth.
+- `23 Aug 23:35` **yahoo_finance** — Billionaires Stanley Druckenmiller and Dan Loeb Both Sold Broadcom and Piled Into This Virtual Monopoly Artificial Intelligence (AI) Stock Instead
+- `23 Aug 23:32` **yahoo_finance** — The Hidden Cost Of Home Insurance
 - `23 Aug 23:27` **aljazeera** — Video: Thousands of families flee fighting in Sudan's North Kordofan State
 - `23 Aug 23:23` **investing_news** — Burry exits Alibaba, builds large JD.com position over valuation concerns
 - `23 Aug 23:20` **yahoo_finance** — A Grocery Outlet Insider Purchases 8,000 Shares Amid a 40% Stock Decline
@@ -709,6 +765,7 @@ The warning comes as US President Donald Trump threatens to isolate Iran economi
 - `23 Aug 23:03` **yahoo_finance** — Target admits it still has big problems to fix
 - `23 Aug 23:02` **investing_news** — Turkey's central bank to restart one-week repo auctions
 - `23 Aug 23:00` **yahoo_finance** — Target Just Reported Earnings. Here's Whether the Dividend King Is Still a Buy.
+- `23 Aug 23:00` **yahoo_finance** — Private Equity Is Circling Utilities as AI Reshapes the Grid
 - `23 Aug 22:57` **aljazeera** — Tunisia sees protests after migrant boat sinking kills eight
 - `23 Aug 22:55` **aljazeera** — Thousands displaced as wildfire threatens homes in US state of Nevada
 - `23 Aug 22:50` **yahoo_finance** — The U.S. National Debt Officially Surpassed $40 Trillion in August: Here's What History Says This Means for the Stock Market
@@ -889,31 +946,31 @@ yahoo_finance (1)
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.6 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 42 | 39 | 2 | 37 | 3 | 0.0 |
-| gnews_geopolitics | OK | 46 | 33 | 3 | 30 | 13 | 0.0 |
-| gnews_centralbanks | OK | 30 | 23 | 1 | 22 | 7 | 0.1 |
+| gnews_fed | OK | 43 | 39 | 3 | 36 | 4 | 0.0 |
+| gnews_geopolitics | OK | 46 | 36 | 3 | 33 | 10 | 0.0 |
+| gnews_centralbanks | OK | 30 | 26 | 2 | 24 | 4 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.0 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.9 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.2 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 18.0 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.3 |
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.5 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.4 |
 | mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
-| oilprice | OK | 15 | 3 | 1 | 2 | 12 | 0.0 |
+| oilprice | OK | 15 | 4 | 1 | 3 | 11 | 0.0 |
 | investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.2 |
-| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.4 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.2 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.3 |
-| wsj_world | OK | 72 | 7 | 1 | 6 | 65 | 0.0 |
+| wsj_world | OK | 72 | 7 | 0 | 7 | 65 | 0.0 |
 | wsj_markets | OK | 61 | 5 | 0 | 5 | 56 | 0.1 |
-| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| yahoo_finance | OK | 48 | 36 | 11 | 25 | 12 | 0.0 |
-| mw_topstories | OK | 10 | 7 | 0 | 7 | 3 | 0.0 |
-| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 40 | 9 | 31 | 9 | 0.0 |
+| mw_topstories | OK | 10 | 8 | 1 | 7 | 2 | 0.0 |
+| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi
