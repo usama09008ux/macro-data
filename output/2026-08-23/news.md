@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Aug 2026
 
 - Trading day: **23 Aug 03:00 -> 24 Aug 02:59 PKT**
-- Aakhri update: **23 Aug 16:39 PKT**
-- Kul khabrein: **113**
+- Aakhri update: **23 Aug 16:58 PKT**
+- Kul khabrein: **118**
 - Feeds: 29/39 OK
 
 ---
@@ -157,6 +157,11 @@ Australia bounce back after losing first Test, bowling out the visitors for 64 a
 
 ### OIL
 
+**Crude oil, US-Iran tensions and Fed cues to steer markets this week - ET Auto**
+`23 Aug 15:38 PKT` · pehli baar dekhi `23 Aug 16:58` · gnews_fed
+
+Crude oil, US-Iran tensions and Fed cues to steer markets this week ET Auto
+
 **Oil Prices Little Changed for Week as US-Iran Peace Efforts Hold - EnergyNow.com**
 `23 Aug 14:44 PKT` · pehli baar dekhi `23 Aug 15:23` · gnews_geopolitics
 
@@ -264,6 +269,12 @@ Participants in St Petersburg honour Russia's tricolour with patriotic events an
 
 Canada's prime minister said he was "reluctantly" announcing retaliatory tariffs as he accused the US of starting a trade war.
 
+**Oil rises as Trump threatens sanctions on Iran partners - bdnews24.com**
+`23 Aug 09:51 PKT` · pehli baar dekhi `23 Aug 16:58` · gnews_geopolitics · **2 feeds mein**
+
+Oil rises as Trump threatens sanctions on Iran partners bdnews24.com
+  - `23 Aug 03:24` *gnews_geopolitics* — Oil rises as Trump threatens sanctions on Iran partners - Qatar Tribune
+
 **Canada to hit US with retaliatory tariffs as trade war escalates**
 `23 Aug 07:34 PKT` · pehli baar dekhi `23 Aug 08:04` · aljazeera
 
@@ -284,15 +295,13 @@ Iran warns that countries joining the US economic war against Iran will face 'ti
 
 The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.
 
-**Oil rises as Trump threatens sanctions on Iran partners - Qatar Tribune**
-`23 Aug 03:24 PKT` · pehli baar dekhi `23 Aug 08:04` · gnews_geopolitics
-
-Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
-
-### BINA TAG (53)
+### BINA TAG (56)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Aug 16:30` **gnews_fed** — Wall St Week Ahead-Nvidia Earnings, Jackson Hole to Test Pillars of Stock Rally - Newsmax
+- `23 Aug 16:17` **investing_news** — Citi expects Nvidia stock to trade higher post earnings
+- `23 Aug 16:09` **investing_news** — Castle Biosciences surges 67% after InvestingPro Fair Value call
 - `23 Aug 16:06` **aljazeera** — Explosion injures 13 in Taiwan
 - `23 Aug 16:02` **investing_news** — InvestingPro's Fair Value flagged Vicor before 45% decline
 - `23 Aug 16:01` **investing_news** — Eni targets commercial fusion power plant in Europe by 2040s
@@ -369,28 +378,28 @@ Oil rises as Trump threatens sanctions on Iran partners Qatar Tribune
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.3 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 22 | 5 | 1 | 4 | 17 | 0.1 |
-| gnews_geopolitics | OK | 90 | 12 | 0 | 12 | 78 | 0.1 |
-| gnews_centralbanks | OK | 45 | 13 | 1 | 12 | 32 | 0.0 |
+| gnews_fed | OK | 35 | 12 | 2 | 10 | 23 | 0.0 |
+| gnews_geopolitics | OK | 92 | 13 | 1 | 12 | 79 | 0.1 |
+| gnews_centralbanks | OK | 42 | 14 | 0 | 14 | 28 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.7 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.7 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.9 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.0 |
 | boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 2.2 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.1 |
-| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.5 |
+| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.6 |
 | oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
 | investing_commodities | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
 | ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
 | bbc_business | OK | 50 | 7 | 0 | 7 | 43 | 0.0 |
-| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.1 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 3.9 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.0 |
 | wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.1 |
 | wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.0 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
 | yahoo_finance | OK | 49 | 3 | 0 | 3 | 46 | 0.1 |
 | mw_topstories | OK | 10 | 1 | 0 | 1 | 9 | 0.0 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.9 |

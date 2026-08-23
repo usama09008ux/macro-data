@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "23 Aug 16:39",
+  "updated_pkt": "23 Aug 16:58",
   "feeds": [
     {
       "name": "investinglive",
@@ -158,35 +158,35 @@
     {
       "name": "gnews_fed",
       "status": "OK",
-      "fetched": 22,
-      "newest_age_days": 0.1,
+      "fetched": 35,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 5,
-      "new": 1,
-      "seen_before": 4,
-      "out_of_window": 17
+      "in_window": 12,
+      "new": 2,
+      "seen_before": 10,
+      "out_of_window": 23
     },
     {
       "name": "gnews_geopolitics",
       "status": "OK",
-      "fetched": 90,
+      "fetched": 92,
       "newest_age_days": 0.1,
-      "note": "",
-      "in_window": 12,
-      "new": 0,
-      "seen_before": 12,
-      "out_of_window": 78
-    },
-    {
-      "name": "gnews_centralbanks",
-      "status": "OK",
-      "fetched": 45,
-      "newest_age_days": 0.0,
       "note": "",
       "in_window": 13,
       "new": 1,
       "seen_before": 12,
-      "out_of_window": 32
+      "out_of_window": 79
+    },
+    {
+      "name": "gnews_centralbanks",
+      "status": "OK",
+      "fetched": 42,
+      "newest_age_days": 0.1,
+      "note": "",
+      "in_window": 14,
+      "new": 0,
+      "seen_before": 14,
+      "out_of_window": 28
     },
     {
       "name": "fed_monetary",
@@ -203,7 +203,7 @@
       "name": "fed_speeches",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 17.6,
+      "newest_age_days": 17.7,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -225,7 +225,7 @@
       "name": "boe_news",
       "status": "OK",
       "fetched": 50,
-      "newest_age_days": 11.9,
+      "newest_age_days": 12.0,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -258,7 +258,7 @@
       "name": "mining_com",
       "status": "WARN",
       "fetched": 36,
-      "newest_age_days": 1.5,
+      "newest_age_days": 1.6,
       "note": "thora sust",
       "in_window": 0,
       "new": 0,
@@ -316,8 +316,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 25,
-      "new": 3,
-      "seen_before": 22,
+      "new": 0,
+      "seen_before": 25,
       "out_of_window": 0
     },
     {
@@ -393,8 +393,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 0,
-      "seen_before": 10,
+      "new": 2,
+      "seen_before": 8,
       "out_of_window": 0
     },
     {
