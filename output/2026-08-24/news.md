@@ -1,13 +1,18 @@
 # News Pack — Trading Day 24 Aug 2026
 
 - Trading day: **24 Aug 03:00 -> 25 Aug 02:59 PKT**
-- Aakhri update: **25 Aug 00:05 PKT**
-- Kul khabrein: **1422**
-- Feeds: 34/39 OK
+- Aakhri update: **25 Aug 00:41 PKT**
+- Kul khabrein: **1457**
+- Feeds: 35/39 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**Corn futures hit new contract highs on low yield estimates.**
+`25 Aug 00:07 PKT` · pehli baar dekhi `25 Aug 00:41` · cme_daily_commentary
+
+Virginia McGathey provides an update on the grain markets, highlighting the divergence in agricultural commodities. Soybean futures faced pressure from crop tour forecasts suggesting record production, pushing November contracts down 21 and 3/4 cents. Conversely, Corn futures jumped to a new contract high after Pro Farmer estimates indicated a potential six-year low in yields, sending December prices surging above 5'24'2.
 
 **Japanese Government Bonds Held by the Bank of Japan**
 `24 Aug 13:00 PKT` · pehli baar dekhi `24 Aug 13:28` · boj_whatsnew · **2 feeds mein**
@@ -474,6 +479,16 @@ No fresh news apart from what has been covered. This article was written by Eamo
 
 ### USD
 
+**US Dollar Index: Cautious rebound capped near 100 – Scotiabank**
+`25 Aug 00:36 PKT` · pehli baar dekhi `25 Aug 00:41` · fxstreet_news
+
+Scotiabank strategists Shaun Osborne and Eric Theoret observe that the US Dollar (USD) is modestly stronger as markets start the week cautiously, with equities defensive and Treasuries firmer.
+
+**Chinese Yuan: Gradual appreciation bias with key levels against US Dollar – OCBC**
+`25 Aug 00:17 PKT` · pehli baar dekhi `25 Aug 00:41` · fxstreet_news
+
+OCBC's Sim Moh Siong and Christopher Wong highlight that RMB and CNH remain supported by softer USD dynamics and exporter conversion, but the People's Bank of China is signalling a preference for gradual gains via its fixing.
+
 **FS Bancorp authorizes $5 million share buyback program**
 `24 Aug 23:48 PKT` · pehli baar dekhi `25 Aug 00:05` · investing_news
 
@@ -697,6 +712,11 @@ CNBC came out with a story this morning along the lines that the Treasury could 
 `24 Aug 17:33 PKT` · pehli baar dekhi `24 Aug 18:09` · fxstreet_news
 
 ING's Chris Turner, Francesco Pesole and Frantisek Taborsky note the Dollar starts the week soft as markets await US policy signals from the White House.
+
+**First Thing: New Fed chair Kevin Warsh faces early test amid bond market worries - The Guardian**
+`24 Aug 17:30 PKT` · pehli baar dekhi `25 Aug 00:41` · gnews_fed
+
+First Thing: New Fed chair Kevin Warsh faces early test amid bond market worries The Guardian
 
 **Bond market anxiety raises stakes for Warsh's debut Jackson Hole speech - KITCO**
 `24 Aug 17:27 PKT` · pehli baar dekhi `24 Aug 18:09` · kitco_general · **2 feeds mein**
@@ -1150,6 +1170,11 @@ After Supreme Court ruling, Trump tries again to remove Fed Gov. Lisa Cook Scrip
 
 The EURUSD is testing a key short-term support area after buyers failed to sustain a break above an important retracement level last week. Last week, the EURUSD moved above the 50% retracement of the decline from the January 28 high to the June low. That midpoint level comes in at 1.1702. Buyers had their shot, with the price reaching near 1.1710 on both Thursday and Friday, but each attempt above the midpoint failed.
 
+**TAG: Bank of France - KITCO**
+`24 Aug 23:24 PKT` · pehli baar dekhi `25 Aug 00:41` · kitco_general
+
+TAG: Bank of France KITCO
+
 **Euro stalls below recent highs against Pound Sterling as German surveys take center stage**
 `24 Aug 23:07 PKT` · pehli baar dekhi `24 Aug 23:14` · fxstreet_news
 
@@ -1477,6 +1502,11 @@ The GBP/USD pair trades with a positive bias around mid-1.3600s at the start of 
 
 ### JPY
 
+**USDJPY tests the 200-hour MA as buyers probe higher**
+`25 Aug 00:31 PKT` · pehli baar dekhi `25 Aug 00:41` · investinglive
+
+The USDJPY is pressing against an important technical ceiling after rebounding from last week's lows. On Wednesday and Thursday last week, the pair briefly traded below its 200-day moving average (lower green line on the chart above at 158.33 currently), but sellers could not keep the momentum. Support emerged against the swing level near 157.96, and the failure to break lower gave buyers the opportunity to push the price back toward the shorter-term moving averages.
+
 **Japanese Yen: Focus shifts to BoJ path – Scotiabank**
 `24 Aug 22:47 PKT` · pehli baar dekhi `24 Aug 23:14` · fxstreet_news
 
@@ -1654,6 +1684,11 @@ Intraday bias in USD/CHF remains neutral for the moment. On the downside, decisi
 USD/CHF depreciates after two days of gains, trading around 0.8000 during the Asian hours on Monday. The currency pair depreciates as the US Dollar (USD) struggles under pressure from newly announced fiscal measures in Washington.
 
 ### CAD
+
+**Is the US-Canada deal the classic fifth stage of Trump negotiations**
+`25 Aug 00:23 PKT` · pehli baar dekhi `25 Aug 00:41` · investinglive
+
+US Vice President JD Vance said today that trade negotiations with Canada remain ongoing in something of a turnabout that's a hint that not everything is lost. Notably, Canada's counter-tariffs won't go into effect until Sept 7 and Trump is threatening Jan 1 tariffs on auto parts. The longer Canadian timeline and even-longer Trump timeline, suggest that both don't want to push things too far now.
 
 **Trump on Canada: Someone should get these clowns to "fall in line"**
 `24 Aug 23:10 PKT` · pehli baar dekhi `25 Aug 00:05` · investinglive
@@ -1969,10 +2004,25 @@ New Zealand data soon. Despite the pick up in retail sales in Q1 today's data is
 
 ### OIL
 
+**Treasury Expands Iran Sanctions Without Targeting Major Chinese Banks**
+`25 Aug 00:13 PKT` · pehli baar dekhi `25 Aug 00:41` · oilprice
+
+The Trump administration has revealed the details of its "economic D-Day" campaign against Iran, expanding secondary sanctions that threaten foreign companies with exclusion from the U.S. financial system for continuing to do business with Tehran and targeting nearly 60 individuals, entities and vessels in the first round of new measures.
+
+**Crude oil futures settled at $85.01**
+`25 Aug 00:09 PKT` · pehli baar dekhi `25 Aug 00:41` · investinglive
+
+WTI crude oil futures are settling at $85.01, down $2.05 or 2.35% on the day. The low reached $84.36, while the high extended to $86.57. Fundamentally, several factors helped pressure crude prices today. First, there was some profit-taking following last week's gains, particularly ahead of the U.S. announcement of additional sanctions against Iran. Second, although the U.S.
+
 **Oil Prices Slide as US Expands Sanctions on Iran**
 `25 Aug 00:05 PKT` · instaforex
 
 Crude oil extended its decline on Monday, slipping below $85 a barrel after US Treasury Secretary Scott Bessent outlined plans to further isolate Iran with sanctions aimed at entities and individuals doing business with the country. Although the measures are wide-ranging, market participants are primarily focused on how they might affect Iran's oil exports and whether they will hasten or hinder any resolution to the US-Iran standoff.
+
+**Norway Warns Oil and Gas Output Could Collapse After 2030**
+`25 Aug 00:00 PKT` · pehli baar dekhi `25 Aug 00:41` · oilprice
+
+Norway is producing oil and gas faster than the industry is finding new resources, increasing the risk of a steep decline after 2030, according to a new report from the Norwegian Offshore Directorate. The warning comes despite strong current activity. Norwegian oil production reached its highest level since 2009 last year, while petroleum investment in 2026 is estimated at approximately $25 billion. Much of today's spending supports projects and discoveries made years ago.
 
 **Trump Administration Prepares New Economic Offensive Against Iran as Oil Markets Face Fresh Supply Risks - Межа. Новини України.**
 `24 Aug 23:43 PKT` · pehli baar dekhi `25 Aug 00:05` · gnews_geopolitics
@@ -1988,6 +2038,11 @@ TotalEnergies will invest in two major oil pipelines designed to bypass the Stra
 `24 Aug 23:12 PKT` · pehli baar dekhi `24 Aug 23:14` · gnews_geopolitics
 
 US-Israel-Iran War News: US Oil Reserve Hits 44-Year Low – Strategic Petroleum Reserve Falls to 289.7 Million Barrels, Lowest Since 1982, as Trump Draws Crude Amid Iran War The Sunday Guardian
+
+**WTI Crude Slips Toward $85 As Market Weighs US Strike On Iran - Bitcoin World**
+`24 Aug 23:05 PKT` · pehli baar dekhi `25 Aug 00:41` · gnews_geopolitics
+
+WTI Crude Slips Toward $85 As Market Weighs US Strike On Iran Bitcoin World
 
 **US Accuses More Than 40 Countries of Helping China Evade Tariffs**
 `24 Aug 23:00 PKT` · pehli baar dekhi `24 Aug 23:14` · oilprice
@@ -2206,6 +2261,11 @@ Iran Oil Cargoes Dry Up Even Before US Acts on Tehran Threats Bloomberg.com
 `24 Aug 11:56 PKT` · pehli baar dekhi `24 Aug 12:40` · gnews_geopolitics
 
 US-Iran 'Economic D-Day' Could Hit Oil, Shipping And India Inc. Here's How outlookbusiness.com
+
+**Iran Oil Minister Mohsen Paknejad Announces 7.5 Tcf Gas Discovery in Fars Province: how 21 outlets framed it - NewsCord**
+`24 Aug 11:49 PKT` · pehli baar dekhi `25 Aug 00:41` · gnews_geopolitics
+
+Iran Oil Minister Mohsen Paknejad Announces 7.5 Tcf Gas Discovery in Fars Province: how 21 outlets framed it NewsCord
 
 **WTI Oil flirts with the $85.00 level as markets await economic D-Day sanctions on Iran**
 `24 Aug 11:45 PKT` · pehli baar dekhi `24 Aug 12:40` · fxstreet_news
@@ -2427,6 +2487,16 @@ Iran War: The Strait of Hormuz Oil Shock Is Now Heading West EnergyNow
 The explicit threat to halt all oil exports from the Persian Gulf, not just the Strait of Hormuz, raises the stakes well beyond the partial disruption markets have priced in over recent months, and traders should treat Rezaei's language as a genuine escalation risk rather than rhetorical posturing given his position atop Iran's security apparatus.
 
 ### CRYPTO
+
+**Coinbase-affiliated advocacy group endorses candidates for US midterms**
+`25 Aug 00:18 PKT` · pehli baar dekhi `25 Aug 00:41` · cointelegraph
+
+With just over two months until the US general election, Stand With Crypto announced its pick for politicians in its efforts to "elect the most pro-crypto Congress in history."
+
+**Coinbase tokenized stocks go live on Base with Chainlink price feeds**
+`25 Aug 00:11 PKT` · pehli baar dekhi `25 Aug 00:41` · cointelegraph
+
+Coinbase's B20 equities bring stocks including Apple and Nvidia onchain, allowing eligible non-US users to trade them 24/7 and use them across DeFi.
 
 **Bitcoin price hits $80K as 24-hour crypto short liquidations pass $220M**
 `24 Aug 22:48 PKT` · pehli baar dekhi `24 Aug 23:14` · cointelegraph
@@ -2763,6 +2833,12 @@ Bitcoin's 2026 FOMC Track Record Shows Bearish Pressure Amid Fed Rate Decisions 
 
 ### RISK
 
+**AMD analysis: monthly uptrend intact despite near-term selloff**
+`25 Aug 00:27 PKT` · pehli baar dekhi `25 Aug 00:41` · investing_news
+
+**Medical devices sector outlook: value opportunities amid 2026 selloff**
+`25 Aug 00:23 PKT` · pehli baar dekhi `25 Aug 00:41` · investing_news
+
 **US 10-Year Yield Eases as Oil Prices Fall, but Remains Elevated**
 `25 Aug 00:05 PKT` · instaforex
 
@@ -2772,6 +2848,11 @@ The yield on the 10-year US Treasury note eased to 4.7% on Monday, tracking the 
 `25 Aug 00:05 PKT` · instaforex
 
 The dollar index inched up to 99.0 on Monday but hovered near three-month lows after recording its third weekly loss in four weeks. The greenback remained under pressure following the US Treasury's move to double its buyback operations for longer-dated bonds, amid reports that Secretary Scott Bessent could tap nearly $1 trillion from the Treasury General Account to help finance the program.
+
+**Gold Rallies As New Iran Sanctions Boost Haven Demand - Bitcoin World**
+`24 Aug 23:45 PKT` · pehli baar dekhi `25 Aug 00:41` · gnews_geopolitics
+
+Gold Rallies As New Iran Sanctions Boost Haven Demand Bitcoin World
 
 **Norway plans further development of Arctic drilling amid EU energy concerns**
 `24 Aug 23:22 PKT` · pehli baar dekhi `25 Aug 00:05` · aljazeera
@@ -2927,6 +3008,11 @@ The move, which would take effect in January, is the latest in the rapidly escal
 `24 Aug 19:47 PKT` · pehli baar dekhi `24 Aug 20:46` · gnews_geopolitics
 
 Oil prices slip as markets await new Iran sanctions Business News Nigeria
+
+**Wall Street mixed as US sanctions on Iran loom, oil prices dip - Crypto Briefing**
+`24 Aug 19:36 PKT` · pehli baar dekhi `25 Aug 00:41` · gnews_geopolitics
+
+Wall Street mixed as US sanctions on Iran loom, oil prices dip Crypto Briefing
 
 **US to expand sanctions, intensify economic pressure on Iran - Crypto Briefing**
 `24 Aug 19:32 PKT` · pehli baar dekhi `24 Aug 23:14` · gnews_geopolitics
@@ -3638,10 +3724,23 @@ Market Analysts React to US-Israel Strikes on Iran EnergyNow
 
 World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks EnergyNow
 
-### BINA TAG (545)
+### BINA TAG (560)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `25 Aug 00:30` **investing_news** — Target apologizes for children's clown Halloween costume after backlash
+- `25 Aug 00:30` **investing_news** — US removes Syria from terrorism sponsor list, lifting major investment obstacle
+- `25 Aug 00:26` **yahoo_finance** — The best credit cards for groceries (2026)
+- `25 Aug 00:24` **investing_news** — Domino's Pizza options activity shows bullish tilt with calendar spreads at $520–$540
+- `25 Aug 00:21` **aljazeera** — Video: Israel attacks desalination plant and mosque in Gaza
+- `25 Aug 00:20` **investing_news** — Nasdaq 100 hammer at 29,146 after double top break: Live levels
+- `25 Aug 00:20` **investing_news** — Tesla trapped between $345-$354 on 5h chart: Live levels
+- `25 Aug 00:20` **investing_news** — Alphabet C bear flag at $345: Live hourly levels
+- `25 Aug 00:18` **aljazeera** — Israeli restrictions cause fuel shortage in occupied West Bank
+- `25 Aug 00:09` **aljazeera** — Why 'pogrom' best describes what's happening in the occupied West Bank
+- `25 Aug 00:08` **investing_commodities** — US ethanol credit prices slump after EPA delays biofuel compliance deadline
+- `25 Aug 00:08` **gnews_fed** — Native federal contractors contribute to local economies nationwide - Federal Reserve Bank of Minneapolis
+- `25 Aug 00:00` **aljazeera** — Israel threatens attacks in Gaza over children's kites
 - `24 Aug 23:55` **investing_commodities** — Tesla stops selling solar roofs a decade after launch
 - `24 Aug 23:48` **investing_news** — Guardant Health to appeal Delaware court ruling on patent case
 - `24 Aug 23:47` **investing_news** — Freedom Broker initiates Dine Brands stock coverage with Hold rating
@@ -3850,6 +3949,7 @@ World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks
 - `24 Aug 18:09` **instaforex** — Mexico's Economic Slowdown Eases in June as Activity Indicator Narrows Decline
 - `24 Aug 18:09` **instaforex** — Mexico's Economic Activity Accelerates in June, Year‑Over‑Year Growth Jumps to 2.8%
 - `24 Aug 18:09` **eia_energy** — Dangote refinery drives increase in petroleum shipments from Nigeria
+- `24 Aug 18:06` **kitco_general** — Indonesia will build trustworthy commodity exchange, chief supervisor candidate says - KITCO
 - `24 Aug 18:04` **investing_news** — Collins Aerospace completes altitude testing for F-35 cooling system
 - `24 Aug 18:04` **yahoo_finance** — This Fund Exits Intuit (INTU) Amid Concerns of AI Disruption to TurboTax's Moat
 - `24 Aug 18:03` **investing_news** — Morgan Stanley Flags Five European Software Stocks to Buy in Second-Half Outlook
@@ -3969,6 +4069,7 @@ World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks
 - `24 Aug 15:36` **investing_news** — nVent to acquire Maverick Power for $1.75 billion
 - `24 Aug 15:36` **investing_news** — European Commission approves Trodelvy-Keytruda combo for TNBC
 - `24 Aug 15:36` **investing_news** — Parsons wins $514M missile defense contract option
+- `24 Aug 15:35` **gnews_fed** — XRP's FedNow Connection Sends Ripple Community Into a Frenzy - CryptoRank
 - `24 Aug 15:35` **yahoo_finance** — SpaceX Faces Key Price Warning as Analyst Flags 45% Downside Risk
 - `24 Aug 15:34` **investing_news** — Klaus-Michael Kuehne, logistics billionaire, dies at 89
 - `24 Aug 15:34` **yahoo_finance** — Prediction: If You Invest $10,000 in Micron Stock Today, It Will Be Worth This Much by 2030
@@ -4190,11 +4291,11 @@ World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks
 
 ---
 
-## Shor — 36 khabrein hatai gayin
+## Shor — 38 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (31), yahoo_finance (4), cointelegraph (1)
+investing_news (33), yahoo_finance (4), cointelegraph (1)
 
 ---
 
@@ -4204,42 +4305,42 @@ investing_news (31), yahoo_finance (4), cointelegraph (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 3 | 27 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 2 | 28 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 3 | 0 | 3 | 27 | 0.1 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.2 |
 | marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 2.8 |
-| instaforex | OK | 25 | 25 | 4 | 21 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.0 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.1 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.9 |
 | cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.9 |
 | cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.9 |
 | cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.9 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.9 |
+| cme_daily_commentary | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.6 |
-| kitco_general | OK | 21 | 21 | 2 | 19 | 0 | 0.1 |
-| gnews_fed | OK | 72 | 70 | 4 | 66 | 2 | 0.1 |
-| gnews_geopolitics | OK | 100 | 99 | 5 | 94 | 1 | 0.0 |
-| gnews_centralbanks | OK | 36 | 34 | 1 | 33 | 2 | 0.2 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.0 |
+| kitco_general | OK | 22 | 22 | 2 | 20 | 0 | 0.0 |
+| gnews_fed | OK | 75 | 73 | 3 | 70 | 2 | 0.0 |
+| gnews_geopolitics | OK | 100 | 99 | 4 | 95 | 1 | 0.0 |
+| gnews_centralbanks | OK | 36 | 35 | 0 | 35 | 1 | 0.2 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.1 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 19.0 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 13.3 |
 | boj_whatsnew | OK | 46 | 4 | 0 | 4 | 42 | 0.5 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.4 |
-| mining_com | OK | 36 | 4 | 2 | 2 | 32 | 0.0 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
+| mining_com | OK | 36 | 4 | 0 | 4 | 32 | 0.1 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
 | investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
 | ing_think | OK | 10 | 6 | 0 | 6 | 4 | 0.3 |
 | bbc_business | OK | 50 | 13 | 0 | 13 | 37 | 0.0 |
-| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
 | snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.4 |
 | eia_energy | OK | 19 | 1 | 0 | 1 | 18 | 0.2 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 20.3 |
 | wsj_world | OK | 71 | 13 | 0 | 13 | 58 | 0.0 |
 | wsj_markets | OK | 61 | 18 | 0 | 18 | 43 | 0.0 |
-| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 9 | 0 | 9 | 40 | 0.2 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 17 | 0 | 17 | 13 | 0.1 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 10 | 1 | 9 | 40 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 19 | 2 | 17 | 11 | 0.0 |
