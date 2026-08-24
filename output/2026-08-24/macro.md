@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 24 Aug 2026
 
-- Banaya gaya: **24 Aug 2026 11:24 PKT**
+- Banaya gaya: **24 Aug 2026 18:14 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
@@ -11,7 +11,7 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| Fed funds target (upper) <br>`DFEDTARU` | **3.75%** | 0.0 | 0.0 | 0.0 | 0 | 2026-08-23 |
+| Fed funds target (upper) <br>`DFEDTARU` | **3.75%** | 0.0 | 0.0 | 0.0 | 0 | 2026-08-24 |
 | US 2Y yield <br>`DGS2` | **4.19%** | 0.0 | +0.04 | -0.18 | 56 | 2026-08-20 |
 | US 10Y yield <br>`DGS10` | **4.69%** | +0.04 | +0.06 | -0.02 | 95 | 2026-08-20 |
 | US 30Y yield <br>`DGS30` | **5.23%** | +0.04 | +0.02 | +0.06 | 99 | 2026-08-20 |
