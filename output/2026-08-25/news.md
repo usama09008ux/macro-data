@@ -1,9 +1,9 @@
 # News Pack — Trading Day 25 Aug 2026
 
 - Trading day: **25 Aug 03:00 -> 26 Aug 02:59 PKT**
-- Aakhri update: **25 Aug 04:38 PKT**
-- Kul khabrein: **42**
-- Feeds: 38/39 OK
+- Aakhri update: **25 Aug 04:58 PKT**
+- Kul khabrein: **54**
+- Feeds: 39/39 OK
 
 ---
 
@@ -48,6 +48,11 @@ Crude's slide reflects a market reassessing just how aggressive Washington's Ira
 
 United Overseas Bank's (UOB) Quek Ser Leang and Lee Sue Ann keep a downside bias on USD/CNH after the pair dipped to 6.7180 and closed near 6.7210.
 
+**TAG: 30‑year Treasury yield - KITCO**
+`25 Aug 03:08 PKT` · pehli baar dekhi `25 Aug 04:58` · kitco_general
+
+TAG: 30‑year Treasury yield KITCO
+
 ### JPY
 
 **MUFG sees yen risk skewed weaker despite 80% BOJ hike odds**
@@ -61,6 +66,11 @@ The disconnect MUFG highlights, hike odds near 80% without corresponding yen buy
 The EUR/JPY trades horizontally on Monday as market participants remain reluctant to push the cross higher amid fears of potential intervention by Japanese authorities, even though they have remained shut following the coordinated action by the US and Japan.
 
 ### OIL
+
+**Oil Edges Higher as Traders Assess U.S. Measures Against Iran**
+`25 Aug 04:46 PKT` · pehli baar dekhi `25 Aug 04:58` · wsj_markets
+
+Oil edged higher as traders assessed new U.S. measures against Iran.
 
 **Oil Holds Decline as US Tightens Iran Sanctions**
 `25 Aug 04:38 PKT` · instaforex
@@ -86,6 +96,11 @@ Austin on why raising rates now pushes more money into the private sector Crypto
 
 ### RISK
 
+**Oil Prices Fall After U.S. Rolls Out Toughest-Ever Sanctions Campaign Focused on Iran: how 17 outlets framed it - NewsCord**
+`25 Aug 04:45 PKT` · pehli baar dekhi `25 Aug 04:58` · gnews_geopolitics
+
+Oil Prices Fall After U.S. Rolls Out Toughest-Ever Sanctions Campaign Focused on Iran: how 17 outlets framed it NewsCord
+
 **How US sanctions on Iran ripple through global markets and consumers**
 `25 Aug 03:46 PKT` · pehli baar dekhi `25 Aug 04:10` · aljazeera · **2 feeds mein**
 
@@ -97,11 +112,18 @@ New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying p
 
 Another reported strike on a tanker adds to a run of incidents that have kept a risk premium attached to oil prices even as headline benchmarks have been choppy. With crew safety confirmed and environmental impact still unclear, the immediate market reaction is likely to hinge on whether this proves an isolated event or part of a broader pattern of attacks on merchant shipping in the wider Gulf and Arabian Sea region.
 
-### BINA TAG (12)
+### BINA TAG (19)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `25 Aug 04:36` **investing_news** — Astellas begins phase 3 trial of ASP2138 for gastric cancer
+- `25 Aug 04:31` **investing_news** — Aveanna Healthcare director-linked entities sell $192.6m in stock
+- `25 Aug 04:29` **investing_news** — NZME H1 2026 slides: audio drives return to revenue growth
 - `25 Aug 04:28` **mining_com** — South32 boosts Sierra Gorda ore reserve estimate by 61%
+- `25 Aug 04:25` **investing_news** — Meta to launch Hatch AI agent platform in coming weeks- The Information
+- `25 Aug 04:24` **investing_news** — Judge rejects First Brands' plan to pay down debts by pursuing lawsuits
+- `25 Aug 04:24` **investing_news** — NZME H1 2026 slides: profit surges as audio drives growth
+- `25 Aug 04:16` **investing_news** — FDA approves J&J's Imaavy for rare blood disorder treatment
 - `25 Aug 04:04` **bbc_business** — 'What you see is what you pay' - why some US restaurants are banning tips
 - `25 Aug 04:03` **bbc_business** — New 10p coin enters circulation - will you spot one?
 - `25 Aug 04:01` **investing_news** — Community West Bancshares director Lokey acquires $1,405 common stock
@@ -116,11 +138,11 @@ Another reported strike on a tanker adds to a run of incidents that have kept a 
 
 ---
 
-## Shor — 14 khabrein hatai gayin
+## Shor — 16 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (14)
+investing_news (16)
 
 ---
 
@@ -130,45 +152,42 @@ investing_news (14)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 5 | 1 | 4 | 20 | 0.0 |
+| investinglive | OK | 25 | 5 | 0 | 5 | 20 | 0.0 |
 | fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.0 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.3 |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.3 |
+| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.4 |
 | marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 3.0 |
-| instaforex | OK | 25 | 12 | 1 | 11 | 13 | -0.2 |
-| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 0.2 |
+| instaforex | OK | 25 | 12 | 0 | 12 | 13 | -0.2 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.0 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.8 |
-| kitco_general | OK | 34 | 0 | 0 | 0 | 34 | 0.1 |
-| gnews_fed | OK | 87 | 1 | 0 | 1 | 86 | 0.0 |
-| gnews_geopolitics | OK | 100 | 1 | 0 | 1 | 99 | 0.0 |
+| kitco_general | OK | 37 | 1 | 1 | 0 | 36 | 0.1 |
+| gnews_fed | OK | 90 | 1 | 0 | 1 | 89 | 0.1 |
+| gnews_geopolitics | OK | 100 | 2 | 1 | 1 | 98 | 0.0 |
 | gnews_centralbanks | OK | 34 | 0 | 0 | 0 | 34 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 19.1 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 19.2 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 0.7 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 13.4 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 13.5 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 0.7 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.6 |
-| mining_com | OK | 36 | 1 | 1 | 0 | 35 | 0.0 |
+| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.0 |
 | oilprice | OK | 15 | 2 | 0 | 2 | 13 | 0.0 |
 | investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
-| bbc_business | OK | 51 | 3 | 0 | 3 | 48 | 0.0 |
-| aljazeera | OK | 25 | 4 | 0 | 4 | 21 | 0.0 |
+| bbc_business | OK | 51 | 5 | 0 | 5 | 46 | 0.0 |
+| aljazeera | OK | 25 | 4 | 0 | 4 | 21 | 0.1 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.6 |
 | eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 0.4 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 20.5 |
-| wsj_world | OK | 72 | 0 | 0 | 0 | 72 | 0.1 |
-| wsj_markets | OK | 61 | 0 | 0 | 0 | 61 | 0.1 |
-| investing_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.1 |
-| mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
+| wsj_world | OK | 72 | 1 | 0 | 1 | 71 | 0.0 |
+| wsj_markets | OK | 61 | 1 | 1 | 0 | 60 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | OK | 48 | 0 | 0 | 0 | 48 | 0.2 |
+| mw_topstories | OK | 10 | 1 | 0 | 1 | 9 | 0.0 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.1 |
-
-**Jo feeds nahi aaye:**
-- investing_news — FAIL, HTTP 502
