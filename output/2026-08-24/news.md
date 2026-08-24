@@ -1,13 +1,18 @@
 # News Pack — Trading Day 24 Aug 2026
 
 - Trading day: **24 Aug 03:00 -> 25 Aug 02:59 PKT**
-- Aakhri update: **25 Aug 01:45 PKT**
-- Kul khabrein: **1540**
-- Feeds: 37/39 OK
+- Aakhri update: **25 Aug 02:14 PKT**
+- Kul khabrein: **1573**
+- Feeds: 39/39 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**E-mini S&P 500 futures fell to 7,675 on macro catalyst watch.**
+`25 Aug 01:58 PKT` · pehli baar dekhi `25 Aug 02:14` · cme_daily_commentary
+
+Todd Colvin of Mark IV Brokerage breaks down the latest market action in E-mini S&P 500 futures as index prices kick off the week with a modest decline, holding near 7,675. Colvin examines price trends since the August 13 all-time high, noting a 2 percent pullback as markets await key economic catalysts, including PCE inflation data and the Jackson Hole Symposium.
 
 **10-Year Treasury Note futures rose as yields fell to 4.70%.**
 `25 Aug 01:27 PKT` · pehli baar dekhi `25 Aug 01:45` · cme_daily_commentary
@@ -287,6 +292,11 @@ The remark itself carries no identifiable policy mechanism, there is no establis
 
 Brown Brothers Harriman's (BBH) Elias Haddad expects the Bank of Thailand (BoT) to hold rates at 1.00%, leaving negative real yields that keep Thai Baht (THB) lagging. The Bank of Korea (BoK) is seen hiking again to 3.00%, supporting South Korean Won (KRW) as growth and inflation exceed targets.
 
+**Gold tops $4,600 as investors eye PCE data and Jackson Hole - CryptoRank**
+`25 Aug 01:09 PKT` · pehli baar dekhi `25 Aug 02:14` · gnews_fed
+
+Gold tops $4,600 as investors eye PCE data and Jackson Hole CryptoRank
+
 **Trump's Canada trade war could lead the U.S. back to quantitative easing**
 `24 Aug 23:58 PKT` · pehli baar dekhi `25 Aug 00:05` · mw_topstories
 
@@ -433,6 +443,11 @@ Gold climbs to more than three-month high as markets await US inflation data KIT
 
 Gold Rally Explodes: Weak Dollar, Fed Uncertainty Push Prices To 3-Month High outlookbusiness.com
 
+**Fidelity Fund Doubles Gold Holdings on Uncertainty Over Fed - Bloomberg.com**
+`24 Aug 13:32 PKT` · pehli baar dekhi `25 Aug 02:14` · gnews_fed
+
+Fidelity Fund Doubles Gold Holdings on Uncertainty Over Fed Bloomberg.com
+
 **Silver Price Forecast: XAG/USD steadies around $69.00 amid US bond buybacks**
 `24 Aug 13:01 PKT` · pehli baar dekhi `24 Aug 13:28` · fxstreet_news
 
@@ -534,6 +549,9 @@ No fresh news apart from what has been covered. This article was written by Eamo
 `25 Aug 01:45 PKT` · instaforex
 
 US stocks ended mixed on Monday as weakness in chipmakers offset gains across the broader market. The S&P 500 slipped 0.3% and the Nasdaq fell 1%, while the Dow rose by 140 points. AI infrastructure names led the declines amid ongoing uncertainty about future returns in the space, though sentiment was partially supported by anticipation of upcoming LLM developer IPOs, which eased worries that capital spending on chips has already gone too far.
+
+**Real REMAX Group authorizes $450 million share buyback program**
+`25 Aug 01:44 PKT` · pehli baar dekhi `25 Aug 02:14` · investing_news
 
 **Will Warsh Hit Reset With Markets at Jackson Hole? - Investopedia**
 `25 Aug 01:33 PKT` · pehli baar dekhi `25 Aug 01:45` · gnews_fed
@@ -652,6 +670,11 @@ The same department that spent the morning telling the bond market it has roughl
 
 **Walker & Dunlop stock hits 52-week low at 39.43 USD**
 `24 Aug 20:55 PKT` · pehli baar dekhi `24 Aug 21:19` · investing_news
+
+**Fed Rate Hike Hurdle Remains High as USD Struggles to Find a Floor - CryptoRank**
+`24 Aug 20:51 PKT` · pehli baar dekhi `25 Aug 02:14` · gnews_fed
+
+Fed Rate Hike Hurdle Remains High as USD Struggles to Find a Floor CryptoRank
 
 **Scott Bessent's $1 Trillion Bond Market Fight — Treasury Yields Aren't Buying It**
 `24 Aug 20:37 PKT` · pehli baar dekhi `24 Aug 21:19` · yahoo_finance
@@ -1266,6 +1289,11 @@ After Supreme Court ruling, Trump tries again to remove Fed Gov. Lisa Cook Scrip
 Euro Steadies Against Yen as ECB and BoJ Rate Paths Diverge CryptoRank
   - `24 Aug 15:20` *gnews_centralbanks* — Euro Steadies Against Yen As ECB And BoJ Rate Paths Diverge - Bitcoin World
 
+**France's Car Registration Growth Cools to 9.0% in August, Down from 11.4% in July**
+`25 Aug 00:50 PKT` · pehli baar dekhi `25 Aug 02:14` · instaforex
+
+French car registrations continued to grow in August 2026 but at a slower pace, as the year-over-year increase eased to 9.0%, down from 11.4% in July. The latest data, updated on 24 August 2026, show that while demand remains solid, the momentum in new vehicle registrations is moderating. Both the current and previous readings measure the percentage change for each month compared with the same month a year earlier.
+
 **EURUSD is testing the rising 100 hour MA/swing area**
 `24 Aug 23:40 PKT` · pehli baar dekhi `25 Aug 00:05` · investinglive
 
@@ -1602,6 +1630,11 @@ The GBP/USD pair trades with a positive bias around mid-1.3600s at the start of 
   - `24 Aug 09:01` *gnews_fed* — British Pound Holds Near Feb. 11 Highs vs Weak USD as Bulls Await Breakout Above 1.3660 - CryptoRank
 
 ### JPY
+
+**Groundwork Is Set for BOJ Rate Hike Next Month, Ex-Official Says - Bloomberg.com**
+`25 Aug 02:00 PKT` · pehli baar dekhi `25 Aug 02:14` · gnews_centralbanks
+
+Groundwork Is Set for BOJ Rate Hike Next Month, Ex-Official Says Bloomberg.com
 
 **Mizuho raises Insmed stock price target to $195 on Japan approval**
 `25 Aug 01:25 PKT` · pehli baar dekhi `25 Aug 01:45` · investing_news
@@ -2129,6 +2162,11 @@ New Zealand data soon. Despite the pick up in retail sales in Q1 today's data is
 
 ### OIL
 
+**Europe's Biogas Plants Could Become Fertilizer Factories**
+`25 Aug 02:00 PKT` · pehli baar dekhi `25 Aug 02:14` · oilprice
+
+The fertilizer crisis is usually framed as a natural gas problem. When gas prices rise, ammonia costs rise, fertilizer plants reduce production, and farmers become exposed to a global commodity chain they cannot control. That diagnosis is correct but incomplete. Across Europe, thousands of anaerobic digesters are already producing a methane-rich gas close to the farms and food industries that consume fertilizer.
+
 **Oil slips over $2 as traders shrug off fresh US sanctions on Iran**
 `25 Aug 01:37 PKT` · pehli baar dekhi `25 Aug 01:45` · investinglive
 
@@ -2645,6 +2683,16 @@ The explicit threat to halt all oil exports from the Persian Gulf, not just the 
 
 ### CRYPTO
 
+**Bitcoin has beaten stocks and gold over six months. Now it's closing in on $80,000.**
+`25 Aug 01:53 PKT` · pehli baar dekhi `25 Aug 02:14` · mw_topstories
+
+Bitcoin was rising Monday near the $80,000 level that it last touched in May, after the cryptocurrency surged last week on the Treasury Department's plans to buy back longer-dated Treasurys.
+
+**Gemini plans to distribute crypto prediction markets through Apex brokerages**
+`25 Aug 01:46 PKT` · pehli baar dekhi `25 Aug 02:14` · cointelegraph
+
+The proposed deal would make Gemini the exclusive venue for crypto event contracts offered through Apex's FCM, expanding its prediction-market reach to brokerage clients.
+
 **BNP Paribas sets US 10-year yield target for July 2026 - Crypto Briefing**
 `25 Aug 01:21 PKT` · pehli baar dekhi `25 Aug 01:45` · gnews_fed
 
@@ -3003,6 +3051,41 @@ Bitcoin's 2026 FOMC Track Record Shows Bearish Pressure Amid Fed Rate Decisions 
 
 ### RISK
 
+**Ibovespa Rises for Fourth Consecutive Session**
+`25 Aug 02:14 PKT` · instaforex
+
+The Ibovespa rose 0.5% to close at 171,907 on Monday, marking its fourth straight gain after eleven consecutive sessions of losses. Vale advanced 2.8%, driven by higher iron ore futures in China amid fresh indications of stimulus from Beijing and expectations of stronger demand ahead of the peak construction season in September. Bank stocks also moved higher as the Focus Survey projection for the Selic rate at the end of 2026 remained at 13.75% for the third consecutive week.
+
+**Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - KITCO**
+`25 Aug 02:00 PKT` · pehli baar dekhi `25 Aug 02:14` · kitco_general
+
+Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds KITCO
+
+**What's behind domestic political pressure on Ukraine's president?**
+`25 Aug 01:54 PKT` · pehli baar dekhi `25 Aug 02:14` · aljazeera
+
+Zelenskyy rejects call from sacked minister for wartime elections.
+
+**AI Jitters and Geopolitical Threats Mark Start of Busy Week in Markets**
+`25 Aug 01:51 PKT` · pehli baar dekhi `25 Aug 02:14` · wsj_markets
+
+Chip makers and other tech stocks weighed on major U.S. indexes.
+
+**Video: Iran reacts to US 'economic D-Day' sanctions**
+`25 Aug 01:48 PKT` · pehli baar dekhi `25 Aug 02:14` · aljazeera
+
+Iran's Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign.
+
+**Ceasefire monitoring mission arrives in Democratic Republic of Congo**
+`25 Aug 01:48 PKT` · pehli baar dekhi `25 Aug 02:14` · aljazeera
+
+Fighting persists in the mineral-rich region despite ceasefire agreements.
+
+**Ambush in South Sudan kills peacekeeping troops**
+`25 Aug 01:47 PKT` · pehli baar dekhi `25 Aug 02:14` · aljazeera
+
+Armed men injured three additional peacekeepers as fears grow of the country relapsing into civil war.
+
 **TSX Edges Higher on Mining Gains**
 `25 Aug 01:45 PKT` · instaforex
 
@@ -3093,10 +3176,11 @@ The treasury secretary announced new sanctions meant to target Tehran's enablers
 `24 Aug 22:26 PKT` · pehli baar dekhi `24 Aug 22:41` · investing_news
 
 **Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran - capradio.org**
-`24 Aug 22:24 PKT` · pehli baar dekhi `25 Aug 00:05` · gnews_geopolitics · **2 feeds mein**
+`24 Aug 22:24 PKT` · pehli baar dekhi `25 Aug 00:05` · gnews_geopolitics · **3 feeds mein**
 
 Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran capradio.org
   - `24 Aug 17:26` *gnews_geopolitics* — Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran - WXXI News
+  - `24 Aug 17:26` *gnews_geopolitics* — Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran - WCMU Public Media
 
 **Trump administration announces 'economic D-day' sanctions on Iran**
 `24 Aug 22:10 PKT` · pehli baar dekhi `24 Aug 22:41` · aljazeera
@@ -3945,10 +4029,20 @@ Market Analysts React to US-Israel Strikes on Iran EnergyNow
 
 World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks EnergyNow
 
-### BINA TAG (586)
+### BINA TAG (598)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `25 Aug 02:14` **instaforex** — South Korea's Consumer Confidence Slips in August, Signalling Softer Household Sentiment
+- `25 Aug 02:14` **fxstreet_news** — Singapore: National Day Rally focus – DBS
+- `25 Aug 02:01` **gnews_fed** — Beyond the Rent: The economic signals multifamily leaders should watch this fall - Multifamily Dive
+- `25 Aug 01:56` **investing_news** — Judge dismisses lawsuit over Trump offshore drilling order
+- `25 Aug 01:54` **investing_news** — Citi says patience needed for EVT asset sales worth A$800 mln
+- `25 Aug 01:54` **investing_news** — US SEC sends subpoenas to Wall Street banks over Situational Awareness, NYT reports
+- `25 Aug 01:45` **aljazeera** — Displaced Palestinian builds mud shelter as tents offer little relief
+- `25 Aug 01:42` **investing_news** — WestJet cabin crew approve proposed deal after strike
+- `25 Aug 01:42` **investing_news** — WestJet flight attendants approve deal with 18% wage increase
+- `25 Aug 01:37` **investing_commodities** — Arabica coffee hits six-week high as delivery period begins
 - `25 Aug 01:36` **kitco_general** — Rusal derailment in Guinea halts alumina exports, sources say - KITCO
 - `25 Aug 01:35` **investing_news** — Aggreko files for proposed IPO
 - `25 Aug 01:33` **wsj_markets** — Former Forbes Editor Got $6 Million for Helping Magazine's Partner With Sale
@@ -3959,6 +4053,8 @@ World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks
 - `25 Aug 01:23` **aljazeera** — Violence flares in Haiti as gang attack kills 30 people
 - `25 Aug 01:21` **investinglive** — Broader US stocks close lower with Chip/AI stocks under pressure
 - `25 Aug 01:20` **yahoo_finance** — How to buy travel insurance (and when to skip it)
+- `25 Aug 01:18` **kitco_general** — TAG: Richard Vague - KITCO
+- `25 Aug 01:18` **kitco_general** — TAG: Candace Browning Platt - KITCO
 - `25 Aug 01:13` **gnews_fed** — Downtown's Federal Reserve Building listed for $8M - Nashville Post
 - `25 Aug 01:04` **mining_com** — Top of Mine: Costa sees mining as the cheapest way to invest in AI
 - `25 Aug 01:03` **aljazeera** — Ex-Liverpool star Fabinho reunited with Mohamed Salah at Trabzonspor
@@ -4538,11 +4634,11 @@ World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks
 
 ---
 
-## Shor — 40 khabrein hatai gayin
+## Shor — 43 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (35), yahoo_finance (4), cointelegraph (1)
+investing_news (38), yahoo_finance (4), cointelegraph (1)
 
 ---
 
@@ -4552,42 +4648,42 @@ investing_news (35), yahoo_finance (4), cointelegraph (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 3 | 27 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 1 | 29 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 3 | 0 | 3 | 27 | 0.2 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.2 |
 | marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 2.9 |
-| instaforex | OK | 25 | 25 | 2 | 23 | 0 | -0.2 |
+| instaforex | OK | 25 | 25 | 3 | 22 | 0 | -0.2 |
 | wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.1 |
-| cme_metals_video | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
-| cme_fx_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 3.0 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 3.0 |
-| cme_daily_commentary | OK | 10 | 6 | 3 | 3 | 4 | 0.0 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.0 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.0 |
+| cme_daily_commentary | OK | 10 | 7 | 1 | 6 | 3 | 0.0 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.7 |
-| kitco_general | OK | 28 | 28 | 3 | 25 | 0 | 0.0 |
-| gnews_fed | OK | 85 | 84 | 8 | 76 | 1 | 0.0 |
-| gnews_geopolitics | OK | 100 | 100 | 5 | 95 | 0 | 0.0 |
+| kitco_general | OK | 31 | 31 | 3 | 28 | 0 | 0.0 |
+| gnews_fed | OK | 88 | 88 | 4 | 84 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 1 | 99 | 0 | 0.0 |
 | gnews_centralbanks | OK | 36 | 35 | 1 | 34 | 1 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.1 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 19.0 |
 | ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 13.3 |
-| boj_whatsnew | OK | 46 | 4 | 0 | 4 | 42 | 0.5 |
+| boj_whatsnew | OK | 46 | 4 | 0 | 4 | 42 | 0.6 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.5 |
-| mining_com | OK | 36 | 5 | 1 | 4 | 31 | 0.0 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| ing_think | OK | 10 | 7 | 1 | 6 | 3 | 0.2 |
-| bbc_business | OK | 50 | 14 | 1 | 13 | 36 | 0.0 |
-| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
-| snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
+| mining_com | OK | 36 | 5 | 0 | 5 | 31 | 0.0 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.2 |
+| bbc_business | OK | 50 | 14 | 0 | 14 | 36 | 0.1 |
+| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
+| snb_press | OK | 20 | 3 | 0 | 3 | 17 | -0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.5 |
 | eia_energy | OK | 19 | 1 | 0 | 1 | 18 | 0.3 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 20.3 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 20.4 |
 | wsj_world | OK | 71 | 13 | 0 | 13 | 58 | 0.1 |
-| wsj_markets | OK | 61 | 21 | 3 | 18 | 40 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 11 | 2 | 9 | 39 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 20 | 0 | 20 | 10 | 0.0 |
+| wsj_markets | OK | 61 | 22 | 1 | 21 | 39 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 10 | 0 | 10 | 40 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 21 | 1 | 20 | 9 | 0.0 |
