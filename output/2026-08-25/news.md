@@ -1,15 +1,20 @@
 # News Pack — Trading Day 25 Aug 2026
 
 - Trading day: **25 Aug 03:00 -> 26 Aug 02:59 PKT**
-- Aakhri update: **25 Aug 03:46 PKT**
-- Kul khabrein: **21**
-- Feeds: 38/39 OK
+- Aakhri update: **25 Aug 04:10 PKT**
+- Kul khabrein: **39**
+- Feeds: 39/39 OK
 
 ---
 
 ## Khabrein
 
 ### MARKET WRAP
+
+**Australian Dollar falls as Iran sanctions sour risk appetite, RBA minutes eyed**
+`25 Aug 03:58 PKT` · pehli baar dekhi `25 Aug 04:10` · fxstreet_news
+
+The Australian Dollar began the week on a lower note, trading with a 0.28% loss against the Greenback as risk appetite soured after the US Department of the Treasury imposed sanctions on Iran-linked entities. At the time of writing, the pair trades at 0.7159
 
 **GBP/JPY Price Forecast: 217.00 caps bulls as RSI stalls**
 `25 Aug 03:07 PKT` · pehli baar dekhi `25 Aug 03:11` · fxstreet_news
@@ -23,12 +28,27 @@ The dollar's slide to its weakest level since May reflects a shift in the rates 
 
 ### USD
 
+**NZX 50 Edges Higher in Morning Trade**
+`25 Aug 04:10 PKT` · instaforex
+
+New Zealand shares rose 27 points, or 0.2%, to 13,908 in Tuesday morning trade, snapping the prior session's losses, with gains led by consumer discretionary, healthcare, and energy stocks. The benchmark index also mirrored a modest uptick in US stock futures ahead of Nvidia's earnings and this week's release of US PCE inflation data.
+
+**Waking up? Catch up time! Bessent softens Iran sanctions tone as Treasury's yield fix unravels**
+`25 Aug 03:46 PKT` · pehli baar dekhi `25 Aug 04:10` · investinglive
+
+Crude's slide reflects a market reassessing just how aggressive Washington's Iran campaign really is, now that Bessent has explicitly framed Monday's rollout as a warning shot rather than the crippling package originally trailed. That reframing sits alongside a harder line from Tehran, where threats to halt Hormuz flow entirely and a parliamentary push to charge transiting vessels keep a geopolitical floor under prices even as headline benchmarks fall.
+
 **Chinese Yuan: Targeting 6.7200 against US Dollar – UOB**
 `25 Aug 03:33 PKT` · pehli baar dekhi `25 Aug 03:46` · fxstreet_news
 
 United Overseas Bank's (UOB) Quek Ser Leang and Lee Sue Ann keep a downside bias on USD/CNH after the pair dipped to 6.7180 and closed near 6.7210.
 
 ### JPY
+
+**MUFG sees yen risk skewed weaker despite 80% BOJ hike odds**
+`25 Aug 04:09 PKT` · pehli baar dekhi `25 Aug 04:10` · investinglive
+
+The disconnect MUFG highlights, hike odds near 80% without corresponding yen buying, points to a market that has priced in tightening ahead of any clear signal from the BOJ itself, leaving the currency vulnerable if the central bank either delivers less than expected or pushes back on the pricing.
 
 **EUR/JPY Price Forecast: Bulls struggle at 187 amid intervention fears**
 `25 Aug 03:29 PKT` · pehli baar dekhi `25 Aug 03:46` · fxstreet_news
@@ -37,22 +57,45 @@ The EUR/JPY trades horizontally on Monday as market participants remain reluctan
 
 ### OIL
 
+**Venezuela's Oil Revival Is Slower Than the U.S. Hoped**
+`25 Aug 04:00 PKT` · pehli baar dekhi `25 Aug 04:10` · oilprice
+
+More than half a year after the U.S. captured and extracted Nicolas Maduro from Venezuela, the biggest American oil firms haven't returned to operating oilfields in the world's largest oil reserves holder. Chevron, which has operated in Venezuela throughout Maduro's reign, is extracting and exporting oil to the U.S., but neither ExxonMobil nor ConocoPhillips have returned as negotiations led by Venezuela's state oil firm PDVSA are not progressing as fast as the U.S.
+
 **U.S. Leaves Europe Behind in Critical Minerals Race**
 `25 Aug 03:00 PKT` · pehli baar dekhi `25 Aug 03:11` · oilprice
 
 The United States is forging ahead with its critical minerals ambitions, investing billions in securing non-Chinese supply, while in Europe, the central EU government "hesitate, over-administrate, talk and lose time." The EU was already behind the U.S. on critical minerals. Now, it has fallen further behind, which means a lot more work would need to be done to catch up. The quote above comes from the head of a Europe-wide organization representing critical minerals companies.
 
+### CRYPTO
+
+**Austin on why raising rates now pushes more money into the private sector - Crypto Briefing**
+`25 Aug 03:31 PKT` · pehli baar dekhi `25 Aug 04:10` · gnews_fed
+
+Austin on why raising rates now pushes more money into the private sector Crypto Briefing
+
 ### RISK
+
+**How US sanctions on Iran ripple through global markets and consumers**
+`25 Aug 03:46 PKT` · pehli baar dekhi `25 Aug 04:10` · aljazeera · **2 feeds mein**
+
+New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.
+  - `25 Aug 03:47` *gnews_geopolitics* — How US sanctions on Iran ripple through global markets and consumers - Al Jazeera
 
 **Tanker struck by projectile off Oman, UKMTO says**
 `25 Aug 03:17 PKT` · pehli baar dekhi `25 Aug 03:46` · investinglive
 
 Another reported strike on a tanker adds to a run of incidents that have kept a risk premium attached to oil prices even as headline benchmarks have been choppy. With crew safety confirmed and environmental impact still unclear, the immediate market reaction is likely to hinge on whether this proves an isolated event or part of a broader pattern of attacks on merchant shipping in the wider Gulf and Arabian Sea region.
 
-### BINA TAG (6)
+### BINA TAG (11)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `25 Aug 04:04` **bbc_business** — 'What you see is what you pay' - why some US restaurants are banning tips
+- `25 Aug 04:03` **bbc_business** — New 10p coin enters circulation - will you spot one?
+- `25 Aug 04:01` **investing_news** — Community West Bancshares director Lokey acquires $1,405 common stock
+- `25 Aug 03:46` **investing_news** — PicPay Q2 2026 slides: strong beat, efficiency gains, stock slips
+- `25 Aug 03:40` **aljazeera** — US Supreme Court sides with Trump administration on mail voting
 - `25 Aug 03:36` **investing_news** — Alkermes narcolepsy drug shows positive phase 2 trial results
 - `25 Aug 03:32` **aljazeera** — US removes Syria from 'state sponsor of terrorism' list
 - `25 Aug 03:30` **investing_news** — Altria, Philip Morris International sign contract manufacturing deals
@@ -62,11 +105,11 @@ Another reported strike on a tanker adds to a run of incidents that have kept a 
 
 ---
 
-## Shor — 9 khabrein hatai gayin
+## Shor — 14 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (9)
+investing_news (14)
 
 ---
 
@@ -76,23 +119,23 @@ investing_news (9)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 2 | 28 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 3 | 0 | 3 | 27 | 0.2 |
+| investinglive | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 1 | 29 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 3 | 0 | 3 | 27 | 0.3 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 2.9 |
-| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 3.0 |
+| instaforex | OK | 25 | 25 | 1 | 24 | 0 | -0.2 |
 | wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.2 |
 | cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
 | cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
 | cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
 | cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.1 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.7 |
-| kitco_general | OK | 34 | 34 | 0 | 34 | 0 | 0.0 |
-| gnews_fed | OK | 87 | 87 | 3 | 84 | 0 | 0.1 |
-| gnews_geopolitics | OK | 100 | 100 | 1 | 99 | 0 | 0.1 |
-| gnews_centralbanks | OK | 34 | 34 | 1 | 33 | 0 | 0.1 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.8 |
+| kitco_general | OK | 34 | 34 | 1 | 33 | 0 | 0.1 |
+| gnews_fed | OK | 84 | 84 | 2 | 82 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 3 | 97 | 0 | 0.0 |
+| gnews_centralbanks | OK | 35 | 35 | 1 | 34 | 0 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.2 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 19.1 |
 | ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
@@ -100,21 +143,18 @@ investing_news (9)
 | boj_whatsnew | OK | 46 | 4 | 0 | 4 | 42 | 0.6 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.6 |
 | mining_com | OK | 36 | 6 | 0 | 6 | 30 | 0.1 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.0 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
 | investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
-| bbc_business | OK | 51 | 16 | 1 | 15 | 35 | 0.0 |
+| bbc_business | OK | 51 | 19 | 2 | 17 | 32 | 0.0 |
 | aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
 | snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.6 |
 | eia_energy | OK | 19 | 1 | 0 | 1 | 18 | 0.4 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 20.4 |
-| wsj_world | OK | 72 | 18 | 0 | 18 | 54 | 0.0 |
-| wsj_markets | OK | 61 | 24 | 0 | 24 | 37 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 9 | 0 | 9 | 40 | 0.1 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| wsj_world | OK | 72 | 18 | 0 | 18 | 54 | 0.1 |
+| wsj_markets | OK | 61 | 24 | 0 | 24 | 37 | 0.1 |
+| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 9 | 0 | 9 | 41 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
 | cointelegraph | OK | 30 | 22 | 0 | 22 | 8 | 0.1 |
-
-**Jo feeds nahi aaye:**
-- instaforex — FAIL, koi item nahi

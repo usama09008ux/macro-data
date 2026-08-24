@@ -1,9 +1,9 @@
 # News Pack — Trading Day 24 Aug 2026
 
 - Trading day: **24 Aug 03:00 -> 25 Aug 02:59 PKT**
-- Aakhri update: **25 Aug 03:46 PKT**
-- Kul khabrein: **1630**
-- Feeds: 38/39 OK
+- Aakhri update: **25 Aug 04:10 PKT**
+- Kul khabrein: **1635**
+- Feeds: 39/39 OK
 
 ---
 
@@ -317,6 +317,12 @@ Silver price reverses course on Monday, down 0.59% as buyers failed to push the 
 
 Gold (XAU/USD) price resumes its advance on Monday and refreshes three-month highs at $4,681 as US Treasury Secretary Scott Bessent crosses the wires to reveal sanctions on Iran-linked entities, while investors await a speech by new Fed Chair Kevin Warsh at the Jackson Hole symposium on Friday.
 
+**Gold rises, silver slips as fiscal-risk trade holds - Kitco PM Report - KITCO**
+`24 Aug 23:08 PKT` · pehli baar dekhi `25 Aug 04:10` · kitco_general · **2 feeds mein**
+
+Gold rises, silver slips as fiscal-risk trade holds - Kitco PM Report KITCO
+  - `24 Aug 19:21` *kitco_general* — Gold rises, silver slips as fiscal-risk trade holds - Kitco PM Report - KITCO
+
 **Gold price rises, silver slips on Treasury cash-pile buyback signal**
 `24 Aug 22:50 PKT` · pehli baar dekhi `24 Aug 23:14` · mining_com
 
@@ -351,11 +357,6 @@ Why Flat Gold During Inflation Points to Fed Action Institutional Investor
 `24 Aug 19:21 PKT` · pehli baar dekhi `24 Aug 19:56` · kitco_general
 
 Gold rally gains momentum ahead of US inflation, Jackson Hole event KITCO
-
-**Gold rises, silver slips as fiscal-risk trade holds - Kitco PM Report - KITCO**
-`24 Aug 19:21 PKT` · pehli baar dekhi `25 Aug 02:48` · kitco_general
-
-Gold rises, silver slips as fiscal-risk trade holds - Kitco PM Report KITCO
 
 **Treasure Yields Fall, Gold Rises On Bessent's $1 Trillion Warning**
 `24 Aug 19:07 PKT` · pehli baar dekhi `24 Aug 19:56` · yahoo_finance
@@ -1876,6 +1877,11 @@ The Nikkei Stock Average rose 0.3% to 66212.61. Japanese stocks swung between mi
 
 BOJ September Rate-Hike Odds Surge to 82% as Markets Watch for Tightening Signal bloomingbit
 
+**Ex-BOJ Member Sees Back-To-Back Rate Hikes Ahead - Finimize**
+`24 Aug 04:48 PKT` · pehli baar dekhi `25 Aug 04:10` · gnews_centralbanks
+
+Ex-BOJ Member Sees Back-To-Back Rate Hikes Ahead Finimize
+
 ### CHF
 
 **Swiss Franc eases as US Dollar stabilizes after last week's sell-off**
@@ -2477,6 +2483,11 @@ Iran oil cargoes dry up even before US acts on Tehran threats; China's 'teapots'
 `24 Aug 14:45 PKT` · pehli baar dekhi `24 Aug 15:18` · oilprice
 
 Norway plans to continue exploring for oil and gas in its Arctic waters in the Barents Sea regardless of whether the European Union supports or lifts a moratorium on Arctic drilling, Norway's Energy Minister Terje Aasland told Reuters. Norway, not an EU member but a close ally and the single biggest gas supplier to Europe, pursues increasing its oil and gas supply to meet demand in Europe, which has had to contend with the bans on Russian oil and gas imports amid two energy crises in four ...
+
+**Oil Prices Retreat as Iraqi Tanker Passage Through Hormuz Eases Supply Fears - Yahoo Finance**
+`24 Aug 14:37 PKT` · pehli baar dekhi `25 Aug 04:10` · gnews_geopolitics
+
+Oil Prices Retreat as Iraqi Tanker Passage Through Hormuz Eases Supply Fears Yahoo Finance
 
 **Looking Forward: G20 Finance Meet Amid Iran Crisis, Oil Shock & Global Supply Chain Concerns Travel Visa (OS8Db9j3ZX) - Mshale**
 `24 Aug 14:27 PKT` · pehli baar dekhi `24 Aug 15:59` · gnews_geopolitics
@@ -3165,6 +3176,11 @@ Falling Republican support, rising gas prices, and fears of a long conflict driv
 
 Mark Carney accused Trump of wanting to "destroy" Canada's auto industry, and said he would only resume trade talks if the US comes with the "right attitude".
 
+**Oil Drops 2.4% as Iran Sanctions Reveal Enforcement Weakness - TechStock²**
+`25 Aug 02:18 PKT` · pehli baar dekhi `25 Aug 04:10` · gnews_geopolitics
+
+Oil Drops 2.4% as Iran Sanctions Reveal Enforcement Weakness TechStock²
+
 **Ibovespa Rises for Fourth Consecutive Session**
 `25 Aug 02:14 PKT` · instaforex
 
@@ -3548,9 +3564,10 @@ US Stock Market Today: S&P 500 Futures Fall 0.28%, Nasdaq Futures Drop 0.68% As 
   - `24 Aug 17:38` *gnews_fed* — US Stock Market Today: S&P 500 Futures Fall 0.28%, Nasdaq Futures Drop 0.68% As Iran Sanctions, Nvidia Earnings & Fed Rate Outlook Weigh On Wall Street; Check What Investors Should Know - The Sunday Guardian
 
 **Dow Jones Today: Dow Futures Slip as Investors Await Iran Sanctions, Nvidia Earnings & Federal Reserve Rate Outlook; Check What Investors Should Know - The Sunday Guardian**
-`24 Aug 17:28 PKT` · pehli baar dekhi `24 Aug 19:56` · gnews_fed
+`24 Aug 17:28 PKT` · pehli baar dekhi `25 Aug 04:10` · gnews_fed · **2 feeds mein**
 
 Dow Jones Today: Dow Futures Slip as Investors Await Iran Sanctions, Nvidia Earnings & Federal Reserve Rate Outlook; Check What Investors Should Know The Sunday Guardian
+  - `24 Aug 17:28` *gnews_fed* — Dow Jones Today: Dow Futures Slip as Investors Await Iran Sanctions, Nvidia Earnings & Federal Reserve Rate Outlook; Check What Investors Should Know - The Sunday Guardian
 
 **South Korea says US cancelled upcoming joint marine exercises over Iran war**
 `24 Aug 17:28 PKT` · pehli baar dekhi `24 Aug 18:09` · aljazeera
@@ -4809,23 +4826,23 @@ investing_news (44), yahoo_finance (4), cointelegraph (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 2 | 28 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 3 | 0 | 3 | 27 | 0.2 |
+| investinglive | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 1 | 29 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 3 | 0 | 3 | 27 | 0.3 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 2.9 |
-| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 3.0 |
+| instaforex | OK | 25 | 25 | 1 | 24 | 0 | -0.2 |
 | wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.2 |
 | cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
 | cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
 | cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
 | cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.1 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.7 |
-| kitco_general | OK | 34 | 34 | 0 | 34 | 0 | 0.0 |
-| gnews_fed | OK | 87 | 87 | 3 | 84 | 0 | 0.1 |
-| gnews_geopolitics | OK | 100 | 100 | 1 | 99 | 0 | 0.1 |
-| gnews_centralbanks | OK | 34 | 34 | 1 | 33 | 0 | 0.1 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.8 |
+| kitco_general | OK | 34 | 34 | 1 | 33 | 0 | 0.1 |
+| gnews_fed | OK | 84 | 84 | 2 | 82 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 3 | 97 | 0 | 0.0 |
+| gnews_centralbanks | OK | 35 | 35 | 1 | 34 | 0 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.2 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 19.1 |
 | ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
@@ -4833,21 +4850,18 @@ investing_news (44), yahoo_finance (4), cointelegraph (1)
 | boj_whatsnew | OK | 46 | 4 | 0 | 4 | 42 | 0.6 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.6 |
 | mining_com | OK | 36 | 6 | 0 | 6 | 30 | 0.1 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.0 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
 | investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
-| bbc_business | OK | 51 | 16 | 1 | 15 | 35 | 0.0 |
+| bbc_business | OK | 51 | 19 | 2 | 17 | 32 | 0.0 |
 | aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
 | snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.6 |
 | eia_energy | OK | 19 | 1 | 0 | 1 | 18 | 0.4 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 20.4 |
-| wsj_world | OK | 72 | 18 | 0 | 18 | 54 | 0.0 |
-| wsj_markets | OK | 61 | 24 | 0 | 24 | 37 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 9 | 0 | 9 | 40 | 0.1 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| wsj_world | OK | 72 | 18 | 0 | 18 | 54 | 0.1 |
+| wsj_markets | OK | 61 | 24 | 0 | 24 | 37 | 0.1 |
+| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 9 | 0 | 9 | 41 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
 | cointelegraph | OK | 30 | 22 | 0 | 22 | 8 | 0.1 |
-
-**Jo feeds nahi aaye:**
-- instaforex — FAIL, koi item nahi
