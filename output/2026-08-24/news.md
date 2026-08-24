@@ -1,34 +1,43 @@
 # News Pack — Trading Day 24 Aug 2026
 
 - Trading day: **24 Aug 03:00 -> 25 Aug 02:59 PKT**
-- Aakhri update: **24 Aug 15:59 PKT**
-- Kul khabrein: **707**
-- Feeds: 32/39 OK
+- Aakhri update: **24 Aug 16:37 PKT**
+- Kul khabrein: **765**
+- Feeds: 31/39 OK
 
 ---
 
 ## Sarkari / Exchange
 
 **Japanese Government Bonds Held by the Bank of Japan**
-`24 Aug 13:00 PKT` · pehli baar dekhi `24 Aug 13:28` · boj_whatsnew
+`24 Aug 13:00 PKT` · pehli baar dekhi `24 Aug 13:28` · boj_whatsnew · **2 feeds mein**
+  - `24 Aug 13:00` *boj_whatsnew* — Japanese Government Bonds Held by the Bank of Japan
 
 **Piero Cipollone: Interview with ilsussidiario.net**
 `24 Aug 11:00 PKT` · pehli baar dekhi `24 Aug 11:26` · ecb_press
 
 **Financial System Report Annex "Use and Risk Management of Generative AI by Japanese Financial Institutions"**
-`24 Aug 07:00 PKT` · pehli baar dekhi `24 Aug 07:58` · boj_whatsnew
+`24 Aug 07:00 PKT` · pehli baar dekhi `24 Aug 07:58` · boj_whatsnew · **2 feeds mein**
+  - `24 Aug 07:00` *boj_whatsnew* — Financial System Report Annex "Use and Risk Management of Generative AI by Japanese Financial Institutions"
 
 **Bank of Japan Accounts (August 20)**
-`24 Aug 06:00 PKT` · pehli baar dekhi `24 Aug 06:51` · boj_whatsnew
+`24 Aug 06:00 PKT` · pehli baar dekhi `24 Aug 06:51` · boj_whatsnew · **2 feeds mein**
+  - `24 Aug 06:00` *boj_whatsnew* — Bank of Japan Accounts (August 20)
 
 **Statistics on Securities Financing Transactions in Japan**
-`24 Aug 04:50 PKT` · pehli baar dekhi `24 Aug 04:58` · boj_whatsnew
+`24 Aug 04:50 PKT` · pehli baar dekhi `24 Aug 04:58` · boj_whatsnew · **2 feeds mein**
+  - `24 Aug 04:50` *boj_whatsnew* — Statistics on Securities Financing Transactions in Japan
 
 ---
 
 ## Khabrein
 
 ### MARKET WRAP
+
+**investingLive European news wrap: Canadian dollar extends losses after trade talks collapse**
+`24 Aug 16:34 PKT` · pehli baar dekhi `24 Aug 16:37` · investinglive
+
+Gold remains supported into Jackson Hole event after US Treasury ignited 'debasement' trades PrimeXBT Guide to Trading Costs: Spreads, Fees, and Swap-Free Trading This Nasdaq futures analysis shows how to trade Nasdaq today The Indian rupee is set to revisit record lows as US-Iran deadlock extends, tensions rise ECB policymaker Cipollone says inflation is far from the ECB adverse and severe scenarios Bitcoin Bull Flag Analysis: See this video after the $79,460 surge The Canadian dollar falls ...
 
 **UK Gilt Yields Hold Above 5% as Inflation Risks Persist**
 `24 Aug 15:18 PKT` · instaforex
@@ -152,6 +161,22 @@ The remark itself carries no identifiable policy mechanism, there is no establis
 
 ### GOLD
 
+**Gold: Breakout sustains upward momentum – Societe Generale**
+`24 Aug 16:26 PKT` · pehli baar dekhi `24 Aug 16:37` · fxstreet_news
+
+Societe Generale analysts highlight that Gold has broken out of a small base formation, reclaimed its 200‑DMA and is enjoying an extended rebound. The move is framed within broader Dollar debasement concerns and rising term premium.
+
+**Solstice Gold expands Strathy project, acquires Leckie zone**
+`24 Aug 16:16 PKT` · pehli baar dekhi `24 Aug 16:37` · investing_news
+
+**Mayfair Gold appoints two senior executives for Fenn-Gib project**
+`24 Aug 16:16 PKT` · pehli baar dekhi `24 Aug 16:37` · investing_news
+
+**Gold extends rally as markets await US PCE and Warsh's Jackson Hole speech**
+`24 Aug 16:07 PKT` · pehli baar dekhi `24 Aug 16:37` · fxstreet_news
+
+Gold (XAU/USD) extends its advance on Monday, building on the strong rally seen last week following the US Treasury's buyback announcement. At the time of writing, XAU/USD trades around $4,644, up nearly 0.90% on the day, at levels last seen on May 15.
+
 **Gold Price Forecast: XAU/USD pushes higher, but overbought RSI warns bulls**
 `24 Aug 15:26 PKT` · pehli baar dekhi `24 Aug 15:59` · fxstreet_news
 
@@ -271,6 +296,16 @@ Gold price (XAU/USD) gains traction to around $4,625 during the early Asian trad
 No fresh news apart from what has been covered. This article was written by Eamonn Sheridan at investinglive.com.
 
 ### USD
+
+**New Zealand Dollar: Retail slump yet hikes priced – BBH**
+`24 Aug 16:06 PKT` · pehli baar dekhi `24 Aug 16:37` · fxstreet_news
+
+Brown Brothers Harriman's (BBH) Elias Haddad highlights that New Zealand retail sales volumes unexpectedly fell in Q2, driven by fuel and motor-related categories, while core sales still rose, showing resilient domestic demand.
+
+**Five Questions Kevin Warsh Must Answer This Week - Newsweek**
+`24 Aug 15:58 PKT` · pehli baar dekhi `24 Aug 16:37` · gnews_fed
+
+Five Questions Kevin Warsh Must Answer This Week Newsweek
 
 **Palestine Trade Gap Widens in June**
 `24 Aug 15:18 PKT` · instaforex
@@ -451,6 +486,11 @@ Markets US Treasuries went from bear steepening on Thursday into flattening goin
 `24 Aug 11:26 PKT` · instaforex
 
 New Zealand equities retreated on Monday, with the benchmark index falling 91 points, or 0.7%, to close at 13,882. The move erased the prior session's gains and pulled the market back from Friday's high, which had marked the strongest level since August 5. The decline was led by weakness in communication services, financials, technology, and consumer staples, mirroring a drop in US stock futures as investors attempted to recover from last week's selloff driven by a jump in Treasury yields.
+
+**Gold's Rally Persists as Markets Focus on US Inflation and Potential Fed Chair Warsh - CryptoRank**
+`24 Aug 11:04 PKT` · pehli baar dekhi `24 Aug 16:37` · gnews_fed
+
+Gold's Rally Persists as Markets Focus on US Inflation and Potential Fed Chair Warsh CryptoRank
 
 **Decoding Fed Chair Kevin Warsh's Decision-Making: A Supply-Side Pessimist - finance.biggo.com**
 `24 Aug 11:00 PKT` · pehli baar dekhi `24 Aug 11:26` · gnews_fed
@@ -668,6 +708,16 @@ After Supreme Court ruling, Trump tries again to remove Fed Gov. Lisa Cook Scrip
 
 ### EUR
 
+**ECB defends digital euro privacy as CBDCs face global scrutiny**
+`24 Aug 16:21 PKT` · pehli baar dekhi `24 Aug 16:37` · cointelegraph
+
+Piero Cipollone said the Eurosystem would not identify digital euro users as central bank digital currencies face privacy concerns worldwide.
+
+**Euro: Positioning supports gradual gains against US Dollar – ING**
+`24 Aug 16:17 PKT` · pehli baar dekhi `24 Aug 16:37` · fxstreet_news
+
+ING's Chris Turner highlights futures data showing asset managers and leveraged funds adding Euro exposure, leaving speculators underweight. He notes recovering German IFO and Eurozone PMIs, and sees limited need for EUR/USD to drop sharply below 1.1660/70 unless risk assets suffer.
+
 **Germany widens MiCA lead as latest EU register update adds 6 banks**
 `24 Aug 15:41 PKT` · pehli baar dekhi `24 Aug 15:59` · cointelegraph
 
@@ -872,6 +922,9 @@ The madness of the Bank of England explained The National Scot
 The GBP/USD pair trades with a positive bias around mid-1.3600s at the start of a new week and remains well within striking distance of its highest level since February 11, touched on Friday.
 
 ### JPY
+
+**Super X AI Technology Stock Climbs on Japan Growth and Buyback Momentum**
+`24 Aug 15:51 PKT` · pehli baar dekhi `24 Aug 16:37` · yahoo_finance
 
 **Euro steadies against Japanese Yen as markets weigh ECB, BoJ rate hikes - FXStreet**
 `24 Aug 14:58 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_centralbanks
@@ -1133,6 +1186,16 @@ New Zealand data soon. Despite the pick up in retail sales in Q1 today's data is
 
 ### OIL
 
+**U.S. Says Oil Is Pouring Through Hormuz. Trackers Can't Find It.**
+`24 Aug 16:01 PKT` · pehli baar dekhi `24 Aug 16:37` · wsj_world
+
+Firms that count ships, oil output and imports aren't able to verify U.S. claims about the volume of oil getting through Iran's chokehold.
+
+**Japan Power Prices Surge to Highest Since 2023**
+`24 Aug 16:00 PKT` · pehli baar dekhi `24 Aug 16:37` · oilprice
+
+Japan's nationwide day-ahead electricity price soared by 20% in one week to settle on Monday at the highest level since January 2023, as gas supply disruptions from the Middle East and an intense heatwave pushed up prices and consumption. The day-ahead power price in Japan has jumped to $0.16 (25.18 Japanese yen) per kilowatt-hour (kWh) on Monday, per data from the Japan Electric Power Exchange cited by Bloomberg.
+
 **Iran Gulf Oil Warning: Tehran Threatens to Halt Oil Exports - The Impressive Times**
 `24 Aug 15:07 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_geopolitics
 
@@ -1242,9 +1305,10 @@ Crude price forecast: Oil falls, but Iran tensions keep $100 target alive Invezz
   - `24 Aug 10:20` *gnews_geopolitics* — Crude price forecast: Oil falls, but Iran tensions keep $100 target alive - Invezz
 
 **Iran's Hormuz Warning: 'Not a Single Drop of Oil Will Be Exported' Amid US Tensions - Dynamite News**
-`24 Aug 10:37 PKT` · pehli baar dekhi `24 Aug 15:59` · gnews_geopolitics
+`24 Aug 10:37 PKT` · pehli baar dekhi `24 Aug 15:59` · gnews_geopolitics · **2 feeds mein**
 
 Iran's Hormuz Warning: 'Not a Single Drop of Oil Will Be Exported' Amid US Tensions Dynamite News
+  - `24 Aug 10:37` *gnews_geopolitics* — Iran's Hormuz Warning: 'Not a Single Drop of Oil Will Be Exported' Amid US Tensions - Dynamite News
 
 **Opinion | Let Iran Control the Strait of Hormuz - The New York Times**
 `24 Aug 10:00 PKT` · pehli baar dekhi `24 Aug 13:28` · gnews_geopolitics
@@ -1435,6 +1499,19 @@ The explicit threat to halt all oil exports from the Persian Gulf, not just the 
 
 ### CRYPTO
 
+**Japan's SBI leads $68M Fasset round at $1B valuation**
+`24 Aug 16:25 PKT` · pehli baar dekhi `24 Aug 16:37` · cointelegraph
+
+Fasset raised $68 million in a Series C led by SBI Group as the companies plan a digital bank in Malaysia and to expand stablecoin payments.
+
+**First bear-market trend line reclaim since 2025: Five things to know in Bitcoin this week**
+`24 Aug 16:23 PKT` · pehli baar dekhi `24 Aug 16:37` · cointelegraph
+
+Bitcoin closed a weekly candle above its 50-week EMA for the first time since late 2025 as markets prepared for the Jackson Hole symposium.
+
+**The Clarity Act Is on Hold, but the SEC Is Picking Up the Slack. Here's the Latest Outlook on Crypto Regulation.**
+`24 Aug 16:01 PKT` · pehli baar dekhi `24 Aug 16:37` · yahoo_finance
+
 **3 Trading Firms Still Short Bitcoin and Ethereum Despite Sharp Price Rally**
 `24 Aug 15:31 PKT` · pehli baar dekhi `24 Aug 15:59` · yahoo_finance
 
@@ -1592,6 +1669,14 @@ September FOMC is coming – Bitcoin's 2026 track record reveals why it's bad ne
 
 ### RISK
 
+**India VIX Closes 2.86% Higher at 11.69 as Iran Sanctions and Crude Shape Session - HDFC Sky**
+`24 Aug 16:00 PKT` · pehli baar dekhi `24 Aug 16:37` · gnews_geopolitics
+
+India VIX Closes 2.86% Higher at 11.69 as Iran Sanctions and Crude Shape Session HDFC Sky
+
+**Iran reports discovery of 7.5tcf of natural gas reserves in Fars province**
+`24 Aug 15:57 PKT` · pehli baar dekhi `24 Aug 16:37` · yahoo_finance
+
 **Iran threatens 45 tankers with fines, confiscation in Hormuz escalation**
 `24 Aug 15:43 PKT` · pehli baar dekhi `24 Aug 15:59` · investing_commodities
 
@@ -1619,6 +1704,11 @@ The DAX 40 slipped about 0.3% to below 26,100 on Monday, erasing gains from the 
 `24 Aug 15:11 PKT` · pehli baar dekhi `24 Aug 15:59` · aljazeera
 
 War-induced shortages set off cross-border fuel runs and deepen energy problems for Russia&#039;s allies.
+
+**WTI dips on profit-taking as US readies tougher Iran sanctions and supply risks stay elevated - VT Markets**
+`24 Aug 15:07 PKT` · pehli baar dekhi `24 Aug 16:37` · gnews_geopolitics
+
+WTI dips on profit-taking as US readies tougher Iran sanctions and supply risks stay elevated VT Markets
 
 **Pound Takes A Breather As US Sanctions Loom - Finimize**
 `24 Aug 15:00 PKT` · pehli baar dekhi `24 Aug 15:59` · gnews_centralbanks
@@ -2071,11 +2161,42 @@ Market Analysts React to US-Israel Strikes on Iran EnergyNow
 
 World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks EnergyNow
 
-### BINA TAG (227)
+### BINA TAG (260)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `24 Aug 16:21` **investing_news** — Why is Biomea Fusion stock climbing today?
+- `24 Aug 16:20` **investing_news** — Oppenheimer raises Workday stock price target to $220 on AI momentum
+- `24 Aug 16:20` **investing_news** — Moody's affirms Philippines' Baa2 rating with stable outlook
+- `24 Aug 16:19` **mw_topstories** — Think Medicare Advantage provides better care for chronic conditions? A new study suggests otherwise.
+- `24 Aug 16:18` **investing_news** — Gledhow Investments confirms director appointments, CLN reduction
+- `24 Aug 16:17` **investing_news** — Norwegian energy firms team up for frontier exploration
+- `24 Aug 16:16` **investing_news** — Ashland launches intestinal permeation enhancer for oral drugs
+- `24 Aug 16:16` **investing_news** — Vanda gets EU orphan designation for psoriasis drug imsidolimab
+- `24 Aug 16:16` **investing_news** — FDA accepts United Therapeutics' ralinepag application for PAH
+- `24 Aug 16:15` **yahoo_finance** — Neura Robotics acquires ADLATUS to build physical AI powerhouse
+- `24 Aug 16:14` **yahoo_finance** — Honeywell Aerospace (HONA) Spin-Off Unlocks Standalone Value Amid Strong Market Outlook
+- `24 Aug 16:12` **yahoo_finance** — Royal De Vries folding-carton plant closes after 152 years
+- `24 Aug 16:11` **yahoo_finance** — "It Was Ugly. It Was Late. But Not One Check Bounced." Suze Orman Explains What Happened The Last Time Social Security Almost Ran Out Of Money
+- `24 Aug 16:11` **yahoo_finance** — PENGU Jumps 62% in a Week on IPO Speculation and a Target Rollout
+- `24 Aug 16:11` **yahoo_finance** — Aditya Birla Renewables secures $1.6bn MUFG loan for Sprng Energy deal
+- `24 Aug 16:11` **yahoo_finance** — The Bear Case on Agents and Compute is Wrong So I Buy More Nvidia
+- `24 Aug 16:04` **yahoo_finance** — Peter Thiel's $418 Million Bet On These 8 Companies Reveals AI's Biggest Bottleneck
+- `24 Aug 16:02` **yahoo_finance** — She Bought the Winery's Reserve Vintage With Her IRA. The IRS Treated Every Bottle as an Instant Withdrawal.
+- `24 Aug 16:01` **yahoo_finance** — 4 High-Yield Stocks That Hand the IRS Nothing Inside a Roth
+- `24 Aug 16:01` **yahoo_finance** — 5 Monthly Dividend Payers That Belong in Your Roth IRA
+- `24 Aug 16:00` **yahoo_finance** — 5 High-Yield Dividend Stocks for Retirement Income
+- `24 Aug 16:00` **yahoo_finance** — 3 Growth Stocks to Buy Before Wall Street Catches On
+- `24 Aug 16:00` **yahoo_finance** — 3 Nuclear Energy Stocks for the AI Power Era
+- `24 Aug 15:56` **yahoo_finance** — T. Rowe Price to buy fixed income fund manager F/m Investments
 - `24 Aug 15:55` **bbc_business** — Graduate job vacancies drop by almost 50% in a year
+- `24 Aug 15:53` **aljazeera** — India used pellets, grenades on Gen Z protests: What Amnesty report reveals
+- `24 Aug 15:53` **yahoo_finance** — 3 Things Nvidia Needs to Get Right This Week
+- `24 Aug 15:52` **yahoo_finance** — Cleveland-Cliffs Shares Rise After $1 Billion Middletown Modernisation Plan
+- `24 Aug 15:51` **yahoo_finance** — Market Fear Index Jumps
+- `24 Aug 15:50` **yahoo_finance** — PulteGroup Shares Rise After Wolfe Research Upgrade
+- `24 Aug 15:49` **yahoo_finance** — A Lumentum VP Just Parted With $10 Million in Stock. Here's What Long-Term Investors Should Know
+- `24 Aug 15:49` **yahoo_finance** — Ross Stores raises forecast after surge in Q2 sales and store openings
 - `24 Aug 15:44` **yahoo_finance** — Volkswagen CEO calls for deeper cuts as restructuring nears – report
 - `24 Aug 15:42` **aljazeera** — Dutch public broadcaster to boycott 'no longer' neutral Eurovision
 - `24 Aug 15:42` **investing_news** — PDD Holdings gains on second quarter earnings beat
@@ -2095,6 +2216,7 @@ World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks
 - `24 Aug 15:33` **yahoo_finance** — DBS and IBF sign MoU on AI skills, job redesign and talent pipeline
 - `24 Aug 15:32` **yahoo_finance** — This Nvidia earnings fact will frustrate you
 - `24 Aug 15:30` **yahoo_finance** — AI scammers are scouring obituaries to target widows — one lost $7,000 after being told her late husband evaded taxes
+- `24 Aug 15:30` **yahoo_finance** — Vivian Tu says investors carrying credit card debt need to stop and pay it off first. The math says she's right
 - `24 Aug 15:26` **yahoo_finance** — What to Know About the CFO of Lumentum's Latest Insider Transaction Filing
 - `24 Aug 15:26` **yahoo_finance** — Tech, Media & Telecom Roundup: Market Talk
 - `24 Aug 15:24` **yahoo_finance** — Exclusive-India plans first tokenised bond issue in September, sources say
@@ -2163,6 +2285,7 @@ World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks
 - `24 Aug 14:00` **yahoo_finance** — Downsizing after retirement often makes no sense — are you locking yourself in for a smaller life than you should?
 - `24 Aug 14:00` **yahoo_finance** — The subscription economy makes everything a monthly bill
 - `24 Aug 13:57` **yahoo_finance** — Nvidia opens talks with Rebellions on potential AI chip partnership
+- `24 Aug 13:54` **gnews_fed** — At the end of August every year, central bank governors and economists from major countries gather i.. - 매일경제
 - `24 Aug 13:53` **investinglive** — This Nasdaq futures analysis shows how to trade Nasdaq today
 - `24 Aug 13:45` **aljazeera** — E1 settlement: Why Netanyahu, Israel's right might not mind global outrage
 - `24 Aug 13:44` **yahoo_finance** — Will Nvidia Stock Soar After Aug. 26? Here's What History Shows.
@@ -2305,11 +2428,11 @@ World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks
 
 ---
 
-## Shor — 18 khabrein hatai gayin
+## Shor — 19 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (18)
+investing_news (18), yahoo_finance (1)
 
 ---
 
@@ -2319,45 +2442,46 @@ investing_news (18)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 2 | 28 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
+| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 4 | 26 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.4 |
 | actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.1 |
-| marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 2.4 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.1 |
+| marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 2.5 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.6 |
 | cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.6 |
 | cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.6 |
 | cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.6 |
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.6 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.2 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.3 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 68 | 38 | 2 | 36 | 30 | 0.0 |
-| gnews_geopolitics | OK | 94 | 82 | 9 | 73 | 12 | 0.0 |
-| gnews_centralbanks | OK | 32 | 27 | 3 | 24 | 5 | 0.0 |
+| gnews_fed | OK | 71 | 40 | 3 | 37 | 31 | 0.0 |
+| gnews_geopolitics | OK | 96 | 86 | 3 | 83 | 10 | 0.0 |
+| gnews_centralbanks | OK | 30 | 25 | 0 | 25 | 5 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.7 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 18.6 |
 | ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.2 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.9 |
-| boj_whatsnew | OK | 46 | 4 | 0 | 4 | 42 | 0.1 |
+| boj_whatsnew | OK | 46 | 4 | 4 | 0 | 42 | 0.2 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.1 |
 | mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.0 |
-| oilprice | OK | 15 | 6 | 0 | 6 | 9 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| ing_think | OK | 10 | 5 | 0 | 5 | 5 | 0.0 |
-| bbc_business | OK | 50 | 10 | 3 | 7 | 40 | 0.0 |
-| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
+| oilprice | OK | 15 | 7 | 1 | 6 | 8 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| ing_think | OK | 10 | 5 | 0 | 5 | 5 | 0.1 |
+| bbc_business | OK | 50 | 10 | 0 | 10 | 40 | 0.0 |
+| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.1 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.9 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.9 |
-| wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.1 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 20.0 |
+| wsj_world | OK | 72 | 4 | 1 | 3 | 68 | 0.0 |
 | wsj_markets | OK | 61 | 13 | 0 | 13 | 48 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 36 | 21 | 15 | 14 | 0.0 |
-| mw_topstories | OK | 10 | 9 | 1 | 8 | 1 | 0.0 |
-| cointelegraph | OK | 30 | 7 | 1 | 6 | 23 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 40 | 26 | 14 | 10 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 10 | 3 | 7 | 20 | 0.0 |
 
 **Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi
 - kitco_general — FAIL, koi item nahi
