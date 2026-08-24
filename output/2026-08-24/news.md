@@ -1,8 +1,8 @@
 # News Pack — Trading Day 24 Aug 2026
 
 - Trading day: **24 Aug 03:00 -> 25 Aug 02:59 PKT**
-- Aakhri update: **24 Aug 09:56 PKT**
-- Kul khabrein: **282**
+- Aakhri update: **24 Aug 10:45 PKT**
+- Kul khabrein: **327**
 - Feeds: 31/39 OK
 
 ---
@@ -23,6 +23,21 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**Pound-to-Canadian Dollar Week Ahead Forecast: A Coiled Range Meets a Trade War the Chart Has Not Priced - Pound Sterling Live**
+`24 Aug 10:32 PKT` · pehli baar dekhi `24 Aug 10:45` · gnews_centralbanks
+
+Pound-to-Canadian Dollar Week Ahead Forecast: A Coiled Range Meets a Trade War the Chart Has Not Priced Pound Sterling Live
+
+**FX option expiries for 24 August 10am New York cut**
+`24 Aug 10:26 PKT` · pehli baar dekhi `24 Aug 10:45` · investinglive
+
+EUR/USD 1.1680 (EUR 1.00 bn) 1.1640 (EUR 1.33 bn) USD/JPY 159.00 (US$ 350.12 mn) 157.85 (US$ 542.01 mn) GBP/USD 1.3530 (GBP 282.33 mn) USD/CHF 0.8100 (US$ 300.00 mn) 0.8000 (US$ 350.00 mn) USD/CAD 1.3935 (US$ 304.46 mn) 1.3855 (US$ 269.60 mn) 1.3800 (US$ 230.00 mn) AUD/USD 0.7120 (AUD 604.23 mn) EUR/GBP 0.8570 (EUR 100.35 mn) WHAT ARE OPTION EXPIRIES? The FX option expiration price levels refer to the strike prices where option contracts are set to expire.
+
+**Market outlook for the week of 24th-28th August**
+`24 Aug 10:15 PKT` · pehli baar dekhi `24 Aug 10:45` · investinglive
+
+The week starts off slow with no major economic events for the FX market scheduled for Monday. The following day Japan will release the BoJ core CPI y/y, while the U.S. will publish the CB consumer confidence and new home sales data. Wednesday will bring Australia's CPI data and in the U.S., the focus will shift to the core PCE price index m/m, preliminary GDP q/q, and durable goods orders m/m. The U.S.
 
 **Rupee Steady as Inflows Cushion Oil Risks**
 `24 Aug 09:56 PKT` · instaforex
@@ -137,6 +152,72 @@ No fresh news apart from what has been covered. This article was written by Eamo
 
 ### USD
 
+**Rupiah Falls as Profit-Taking and External Risks Weigh**
+`24 Aug 10:45 PKT` · instaforex
+
+The Indonesian rupiah weakened to around IDR 17,700 per US dollar on Monday, giving back gains from the previous three sessions as traders locked in profits after the currency touched a near ten-week high last week. Sentiment was further pressured by worries that Indonesia's current account could remain under strain in the near term, amid elevated global oil prices, strong oil import growth, and softer export performance.
+
+**Singapore Inflation Rate Hits Near 2-Year High**
+`24 Aug 10:45 PKT` · instaforex
+
+Singapore's annual inflation rate accelerated to 2.2% in July 2026, up from 1.9% in June, reaching its highest level since August 2024. The pickup was driven by faster price increases for food (2.2% vs 2.1% in June), housing and utilities (1.3% vs 0.3%), transport (7.9% vs 7.5%), and health (3.3% vs 3.1%). Prices for clothing and footwear also rebounded, rising 1.5% after a 0.1% decline in June.
+
+**Finland Producer Inflation Accelerates in July**
+`24 Aug 10:45 PKT` · instaforex
+
+Producer prices in Finland rose by 6.9% year-on-year in July 2026, slightly faster than the 6.7% increase recorded in June. The upturn was largely driven by the manufacturing sector, where producer price inflation accelerated to 7.6% from 5.8%, led in particular by higher prices for refined petroleum products and basic metals. Prices for water supply, sewerage, waste management and remediation services also picked up, rising 11.5% after an 11.1% increase in the previous month.
+
+**Copper Falls as Inventories Ease Supply Concerns**
+`24 Aug 10:45 PKT` · instaforex
+
+Copper futures slipped to around $6.55 per pound on Monday, pulling back from recent gains as a sharp increase in exchange inventories eased fears of near-term supply tightness. LME-monitored copper stocks reached 238,575 tons on August 20, roughly 16% above their February low, while SHFE-monitored inventories surged 28.4% last week to 89,548 tons.
+
+**Finnish Import Price Inflation Accelerates to 7.3% in July, Up from 6.5%**
+`24 Aug 10:45 PKT` · instaforex
+
+Finland's import prices rose at a faster pace in July 2026, with the Import Price Index climbing 7.3% year-over-year, up from a 6.5% annual increase in June 2026. The data, updated on 24 August 2026, indicate a continued build-up of cost pressures on imported goods. Both the current and previous readings compare each month with the same month a year earlier, showing that the rate of import price inflation has strengthened from June to July.
+
+**Singapore Consumer Prices Slip 0.2% in July, Ending Flat Trend**
+`24 Aug 10:45 PKT` · instaforex
+
+Singapore's consumer prices edged down in July 2026, with the month‑on‑month Consumer Price Index (CPI) registering a 0.20% decline, according to data updated on 24 August 2026. This marks a shift from June 2026, when prices were unchanged on a monthly basis at 0.00%. The latest July reading indicates that, on a month‑over‑month basis, overall price levels fell slightly compared with June, after having shown no change in the previous comparison period.
+
+**Finnish Producer Prices Edge Higher in July, Extending Annual Inflation Trend**
+`24 Aug 10:45 PKT` · instaforex
+
+Finland's producer price inflation continued to firm in July 2026, with the Producer Price Index (PPI) rising 6.9% year-over-year, up from 6.7% in June 2026. The latest data, updated on 24 August 2026, indicate a modest but persistent acceleration in price pressures at the factory gate. The PPI figures compare each month's price level to the same month a year earlier, highlighting underlying trends rather than short-term volatility.
+
+**Indonesia's M2 Growth Eases to 8.3% in July, Signalling Mild Liquidity Cooldown**
+`24 Aug 10:45 PKT` · instaforex
+
+Indonesia's broad money supply (M2) growth eased slightly in July 2026, with the year-over-year expansion slowing to 8.30%, down from 8.70% in June 2026. The figures, updated on 24 August 2026, indicate a modest cooling in liquidity conditions across the Indonesian economy. Both readings are based on year-over-year comparisons, with the "previous" figure reflecting June's change versus June a year earlier, and the "actual" showing July's change versus the same month a year ago.
+
+**Singapore CPI Inflation Accelerates to 2.2% in July, Highest in Recent Months**
+`24 Aug 10:45 PKT` · instaforex
+
+Singapore's consumer price inflation picked up in July 2026, with the Consumer Price Index (CPI) rising 2.2% year-on-year, up from 1.9% in June 2026. The latest data, updated on 24 August 2026, shows price pressures edging higher compared with the same month a year earlier. On a year-over-year basis, July's reading indicates that inflationary momentum has strengthened slightly, reversing the more moderate pace seen in June.
+
+**Singapore Core Inflation Quickens to 2.0% in July, Ending Recent Cooling Trend**
+`24 Aug 10:45 PKT` · instaforex
+
+Singapore's core consumer price index (CPI) accelerated to 2.00% year-over-year in July 2026, up from 1.60% in June, signalling a pickup in underlying inflationary pressures. The data, updated on 24 August 2026, marks a reversal from the softer pace recorded in the previous month. Measured on a year-over-year basis, the July reading compares price changes in July 2026 to those in July 2025, while the June figure reflected the change versus June 2025.
+
+**Indonesian Rupiah declines despite prevailing high interest rates, weaker US Dollar**
+`24 Aug 10:32 PKT` · pehli baar dekhi `24 Aug 10:45` · fxstreet_news
+
+USD/IDR gains ground after three days of losses, trading around 17,740 during the Asian hours on Monday. However, the currency pair could face headwind pressure as the Indonesian Rupiah (IDR) may draw renewed support from lingering high interest rates.
+
+**Dollar trading near multi-month lows, restrained by debt nerves**
+`24 Aug 10:18 PKT` · pehli baar dekhi `24 Aug 10:45` · investing_news
+
+**New Fed chair faces critical test at Jackson Hole as inflation fears mount - inkl**
+`24 Aug 10:16 PKT` · pehli baar dekhi `24 Aug 10:45` · gnews_fed
+
+New Fed chair faces critical test at Jackson Hole as inflation fears mount inkl
+
+**Singapore core inflation at 2.0% year-on-year in July, lower than expected**
+`24 Aug 10:06 PKT` · pehli baar dekhi `24 Aug 10:45` · investing_news
+
 **Soybeans Trade Near Multi-Week High**
 `24 Aug 09:56 PKT` · instaforex
 
@@ -179,6 +260,11 @@ Gold is extending its previous week's advance into Asia on Monday, refreshing th
 `24 Aug 07:48 PKT` · pehli baar dekhi `24 Aug 07:58` · fxstreet_news
 
 The US Dollar Index (DXY), an index of the value of the US Dollar (USD) measured against a basket of six world currencies, currently trades near 98.80 in the Asian trading hours on Monday.
+
+**US's Fed and Pakistan's dilemma - Dawn**
+`24 Aug 07:39 PKT` · pehli baar dekhi `24 Aug 10:45` · gnews_fed
+
+US's Fed and Pakistan's dilemma Dawn
 
 **Dollar Holds Decline**
 `24 Aug 06:51 PKT` · instaforex
@@ -282,16 +368,17 @@ ECB refines inflation measures to better capture domestic price pressures Cyprus
 
 Another nightclub incident hits England: Fast bowler handcuffed, detained by police; ECB launches probe The Times of India
 
+**US holds pace, euro area gains as China growth slows in Q2: Report - Fibre2Fashion**
+`24 Aug 08:49 PKT` · pehli baar dekhi `24 Aug 10:45` · gnews_centralbanks · **3 feeds mein**
+
+US holds pace, euro area gains as China growth slows in Q2: Report Fibre2Fashion
+  - `24 Aug 07:46` *gnews_centralbanks* — US holds pace, euro area gains as China growth slows in Q2: Report - Fibre2Fashion
+  - `24 Aug 07:46` *gnews_centralbanks* — US holds pace, euro area gains as China growth slows in Q2: Report - Fibre2Fashion
+
 **Eurozone consumer inflation expectations ease in July - Fibre2Fashion**
 `24 Aug 08:17 PKT` · pehli baar dekhi `24 Aug 09:00` · gnews_centralbanks
 
 Eurozone consumer inflation expectations ease in July Fibre2Fashion
-
-**US holds pace, euro area gains as China growth slows in Q2: Report - Fibre2Fashion**
-`24 Aug 07:46 PKT` · pehli baar dekhi `24 Aug 09:56` · gnews_centralbanks · **2 feeds mein**
-
-US holds pace, euro area gains as China growth slows in Q2: Report Fibre2Fashion
-  - `24 Aug 07:46` *gnews_centralbanks* — US holds pace, euro area gains as China growth slows in Q2: Report - Fibre2Fashion
 
 **Euro holds steady against US Dollar amid US debt strategy**
 `24 Aug 05:55 PKT` · pehli baar dekhi `24 Aug 06:51` · fxstreet_news · **2 feeds mein**
@@ -324,6 +411,21 @@ Energy Risks Push Markets to Price ECB Rates Near 3% by 2027 Межа. Нови�
 
 ### GBP
 
+**Euro-to-Dollar Week Ahead Forecast: Broken Trendline Points Higher After a Pause - Pound Sterling Live**
+`24 Aug 10:28 PKT` · pehli baar dekhi `24 Aug 10:45` · gnews_centralbanks
+
+Euro-to-Dollar Week Ahead Forecast: Broken Trendline Points Higher After a Pause Pound Sterling Live
+
+**Pound-to-Dollar Week Ahead Forecast: Young Uptrend Backs a Break of the Yearly Ceiling - Pound Sterling Live**
+`24 Aug 10:28 PKT` · pehli baar dekhi `24 Aug 10:45` · gnews_centralbanks
+
+Pound-to-Dollar Week Ahead Forecast: Young Uptrend Backs a Break of the Yearly Ceiling Pound Sterling Live
+
+**Pound-to-Euro Week Ahead Forecast: Averages Turn Down and the Correction Extends - Pound Sterling Live**
+`24 Aug 10:26 PKT` · pehli baar dekhi `24 Aug 10:45` · gnews_centralbanks
+
+Pound-to-Euro Week Ahead Forecast: Averages Turn Down and the Correction Extends Pound Sterling Live
+
 **Analysts' views: forecasters continue to see Fed and Bank of England on hold this year - Financial Times**
 `24 Aug 09:31 PKT` · pehli baar dekhi `24 Aug 09:56` · gnews_centralbanks
 
@@ -335,6 +437,11 @@ Analysts' views: forecasters continue to see Fed and Bank of England on hold thi
 The GBP/USD pair trades with a positive bias around mid-1.3600s at the start of a new week and remains well within striking distance of its highest level since February 11, touched on Friday.
 
 ### JPY
+
+**Global Market: Japan's Nikkei swings as AI stocks slip ahead of Nvidia results - The Economic Times**
+`24 Aug 09:50 PKT` · pehli baar dekhi `24 Aug 10:45` · gnews_centralbanks
+
+Global Market: Japan's Nikkei swings as AI stocks slip ahead of Nvidia results The Economic Times
 
 **Japanese Yen Strengthens as BoJ Rate Hike Bets Rise, US Dollar Stays Subdued - CryptoRank**
 `24 Aug 09:02 PKT` · pehli baar dekhi `24 Aug 09:56` · gnews_centralbanks
@@ -451,6 +558,11 @@ The AUD/USD pair trades with mild gains around 0.7175 during the early Asian ses
 
 ### NZD
 
+**NZD/USD Price Forecast: Consolidates near June high as bulls await breakout through 0.6000**
+`24 Aug 10:12 PKT` · pehli baar dekhi `24 Aug 10:45` · fxstreet_news
+
+The NZD/USD pair enters a bullish consolidation phase at the start of a new week and trades around the 0.5975 region during the Asian session, just below its highest level since June, touched on Friday.
+
 **New Zealand Retail Sales Fall -0.35% Q/Q as Fuel Price Surge Masks Weaker Volumes**
 `24 Aug 08:21 PKT` · pehli baar dekhi `24 Aug 09:00` · actionforex
 
@@ -497,6 +609,16 @@ Retail Sales,a measures of the volume of sales of goods by retailers in New Zeal
 New Zealand data soon. Despite the pick up in retail sales in Q1 today's data is expected to be much slower. Fuel prices rocketing will weigh. This article was written by Eamonn Sheridan at investinglive.com.
 
 ### OIL
+
+**Sensex Starts Week With Modest Gains**
+`24 Aug 10:45 PKT` · instaforex
+
+India's BSE Sensex inched up about 0.2% to 77,671 on Monday, after a subdued close in the previous session, as investors stayed cautious ahead of fresh US sanctions on Iran and continued to track elevated crude oil prices. Market participants were also awaiting remarks from US Treasury Secretary Scott Bessent, who was scheduled to hold a press conference later on Monday after vowing to impose what he called the "toughest sanctions in history" on Iran.
+
+**Crude price forecast: Oil falls, but Iran tensions keep $100 target alive - Invezz**
+`24 Aug 10:42 PKT` · pehli baar dekhi `24 Aug 10:45` · gnews_geopolitics
+
+Crude price forecast: Oil falls, but Iran tensions keep $100 target alive Invezz
 
 **Crude Oil Gains After US Sanctions Threaten Middle East Supply Disruptions Ahead By Kedia Advisory - Investing.com India**
 `24 Aug 09:17 PKT` · pehli baar dekhi `24 Aug 09:56` · gnews_geopolitics
@@ -622,6 +744,11 @@ Oil, Gas Recovery May Take Two Years After War, IEA's Birol Says EnergyNow.com
 
 Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War EnergyNow.com
 
+**Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say - EnergyNow.com**
+`24 Aug 03:53 PKT` · pehli baar dekhi `24 Aug 10:45` · gnews_geopolitics
+
+Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say EnergyNow.com
+
 **US allows Countries to Buy Russian Oil Stranded at Sea for 30 Days - EnergyNow.com**
 `24 Aug 03:48 PKT` · pehli baar dekhi `24 Aug 07:58` · gnews_geopolitics
 
@@ -652,6 +779,11 @@ The explicit threat to halt all oil exports from the Persian Gulf, not just the 
 
 ### CRYPTO
 
+**Pakistan opens crypto licensing portal, sets Sept. 5 deadline for existing firms**
+`24 Aug 10:17 PKT` · pehli baar dekhi `24 Aug 10:45` · cointelegraph
+
+Existing virtual asset providers must apply for an NOC by Sept. 5 or cease operations under Pakistan's new regulatory framework.
+
 **Term Finance loses estimated $8.5M in vault governance exploit**
 `24 Aug 08:59 PKT` · pehli baar dekhi `24 Aug 09:56` · cointelegraph
 
@@ -677,6 +809,11 @@ British Pound Holds Near Feb. 11 Highs vs Weak USD as Bulls Await Breakout Above
 
 The US may face a debt crisis within three years according to Ray Dalio, and debt-related issues helped fuel a rally in Bitcoin that could mark the beginning of a new cycle.
 
+**Fed study links crypto demand to beliefs - grafa.com**
+`24 Aug 04:51 PKT` · pehli baar dekhi `24 Aug 10:45` · gnews_fed
+
+Fed study links crypto demand to beliefs grafa.com
+
 **Bitcoin plunges 7% after Fed nominee Warsh spar... - Pluang**
 `24 Aug 03:27 PKT` · pehli baar dekhi `24 Aug 03:52` · gnews_fed
 
@@ -694,15 +831,21 @@ September FOMC is coming – Bitcoin's 2026 track record reveals why it's bad ne
 
 ### RISK
 
+**Alibaba's Near HK$80 Billion Share Placement Triggers Selloff; Hang Seng Index Loses 25,500 as Double-Bottom Risk Mounts - finance.biggo.com**
+`24 Aug 10:10 PKT` · pehli baar dekhi `24 Aug 10:45` · gnews_centralbanks
+
+Alibaba's Near HK$80 Billion Share Placement Triggers Selloff; Hang Seng Index Loses 25,500 as Double-Bottom Risk Mounts finance.biggo.com
+
 **European Gas Holds Firm**
 `24 Aug 09:56 PKT` · instaforex
 
 European natural gas prices held near multi‑year highs around €65.8/MWh on Monday, as investors awaited details of a new US plan to economically isolate Iran that could further disrupt Middle Eastern energy supplies. Treasury Secretary Bessent is due to hold a press conference later today and has warned of "the toughest sanctions in history" against Iran. This comes on the heels of President Trump's threat last week to penalize countries that continue to trade with Tehran.
 
 **Oil falls as US prepares to unveil new Iran sanctions - KLSE Screener**
-`24 Aug 09:23 PKT` · pehli baar dekhi `24 Aug 09:56` · gnews_geopolitics
+`24 Aug 09:23 PKT` · pehli baar dekhi `24 Aug 09:56` · gnews_geopolitics · **2 feeds mein**
 
 Oil falls as US prepares to unveil new Iran sanctions KLSE Screener
+  - `24 Aug 08:52` *gnews_geopolitics* — Oil falls as US prepares to unveil new Iran sanctions - Dunya News
 
 **Oil Prices Fall on Profit-Taking Ahead of U.S. Sanctions on Iran | Reuters - News and Statistics - IndexBox**
 `24 Aug 09:20 PKT` · pehli baar dekhi `24 Aug 09:56` · gnews_geopolitics
@@ -718,6 +861,11 @@ Dollar Slides as US Bond Buybacks and Iran Sanctions Rattle Currency Markets М�
 `24 Aug 09:02 PKT` · pehli baar dekhi `24 Aug 09:56` · aljazeera
 
 Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like watching the &#039;same movie on repeat&#039;.
+
+**'Not a single drop of oil' will be exported if US economic war continues: Iran - Aaj English TV**
+`24 Aug 08:56 PKT` · pehli baar dekhi `24 Aug 10:45` · gnews_geopolitics
+
+'Not a single drop of oil' will be exported if US economic war continues: Iran Aaj English TV
 
 **Iran discovers over 200 billion cubic metres of gas as US sanctions squeeze energy sector - News9live**
 `24 Aug 08:34 PKT` · pehli baar dekhi `24 Aug 09:00` · gnews_geopolitics
@@ -895,6 +1043,11 @@ Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies EnergyN
 
 Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says EnergyNow
 
+**Trader or Driller? Iran War Exposes Big Oil's Transatlantic Divide: Bousso - EnergyNow**
+`24 Aug 03:35 PKT` · pehli baar dekhi `24 Aug 10:45` · gnews_geopolitics
+
+Trader or Driller? Iran War Exposes Big Oil's Transatlantic Divide: Bousso EnergyNow
+
 **Iran announces gas discovery after war worsens energy squeeze - The Business Times**
 `24 Aug 03:34 PKT` · pehli baar dekhi `24 Aug 03:52` · gnews_geopolitics · **2 feeds mein**
 
@@ -911,10 +1064,23 @@ Global oil prices cross $100 a barrel as Iran war sends fuel prices surging ABC7
 
 Market Analysts React to US-Israel Strikes on Iran EnergyNow
 
-### BINA TAG (71)
+**World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks - EnergyNow**
+`24 Aug 03:15 PKT` · pehli baar dekhi `24 Aug 10:45` · gnews_geopolitics
+
+World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks EnergyNow
+
+### BINA TAG (80)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `24 Aug 10:45` **instaforex** — Steel Drops to 4-Week Low
+- `24 Aug 10:45` **instaforex** — Finnish Export Prices Accelerate in July, Annual Growth Reaches 8.5%
+- `24 Aug 10:16` **investing_news** — Hanmi Pharm shares jump 30% on Genentech obesity drug deal
+- `24 Aug 10:15` **bbc_business** — Kids food scheme set to grow after 'crazy' support
+- `24 Aug 10:13` **investing_news** — Up +28% ahead of Q2 earnings, this software giant still has 49%+ upside
+- `24 Aug 10:12` **investing_news** — Norway will drill in Arctic regardless of EU's position, says energy minister
+- `24 Aug 10:08` **investing_news** — UAW members reject Deere contract extension offer
+- `24 Aug 10:06` **investing_news** — SK Hynix tests SuperTrend resistance at KRW 1,701,000: Live
 - `24 Aug 09:56` **instaforex** — Iron Ore Weakens Despite China Stimulus
 - `24 Aug 09:56` **instaforex** — Malaysia Leading Economic Index Edges Up
 - `24 Aug 09:36` **investing_news** — Morning Bid: Mixing economic wars, trade wars and actual wars
@@ -939,6 +1105,7 @@ Market Analysts React to US-Israel Strikes on Iran EnergyNow
 - `24 Aug 07:52` **actionforex** — DAX Index Wave Analysis
 - `24 Aug 07:37` **gnews_fed** — US 10-Year Yield Retreats - TradingView
 - `24 Aug 07:30` **investing_news** — California expected to seek TV channel sales from Paramount-Warner, WSJ reports
+- `24 Aug 07:14` **gnews_centralbanks** — CIO Weekly: What Happens If No One Hikes? - Neuberger Berman
 - `24 Aug 07:09` **aljazeera** — Can Kenya's AI ambitions coexist with Naivasha's water needs?
 - `24 Aug 07:02` **aljazeera** — Ebola cases in DRC hit 5,515 as Pope Leo urges global action to save lives
 - `24 Aug 07:00` **wsj_world** — Europe Chastised Trump's Climate Rollback. Now It's Delaying Its Own Green Goals.
@@ -989,11 +1156,11 @@ Market Analysts React to US-Israel Strikes on Iran EnergyNow
 
 ---
 
-## Shor — 15 khabrein hatai gayin
+## Shor — 17 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (15)
+investing_news (17)
 
 ---
 
@@ -1003,45 +1170,45 @@ investing_news (15)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 17 | 1 | 16 | 8 | 0.0 |
-| fxstreet_news | OK | 30 | 19 | 5 | 14 | 11 | 0.0 |
+| investinglive | OK | 25 | 19 | 2 | 17 | 6 | 0.0 |
+| fxstreet_news | OK | 30 | 21 | 2 | 19 | 9 | 0.0 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
 | actionforex | OK | 20 | 7 | 0 | 7 | 13 | 0.1 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 2.2 |
-| instaforex | OK | 25 | 25 | 5 | 20 | 0 | -0.2 |
+| instaforex | OK | 25 | 25 | 13 | 12 | 0 | -0.2 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.0 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 47 | 12 | 2 | 10 | 35 | 0.1 |
-| gnews_geopolitics | OK | 100 | 59 | 11 | 48 | 41 | 0.0 |
-| gnews_centralbanks | OK | 50 | 25 | 8 | 17 | 25 | 0.0 |
+| gnews_fed | OK | 48 | 13 | 3 | 10 | 35 | 0.0 |
+| gnews_geopolitics | OK | 100 | 64 | 6 | 58 | 36 | 0.0 |
+| gnews_centralbanks | OK | 54 | 32 | 8 | 24 | 22 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.5 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 18.4 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.9 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.7 |
-| boj_whatsnew | OK | 45 | 3 | 0 | 3 | 42 | 0.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.8 |
+| boj_whatsnew | OK | 45 | 3 | 0 | 3 | 42 | 0.2 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.9 |
 | mining_com | OK | 36 | 0 | 0 | 0 | 36 | 0.7 |
 | oilprice | OK | 15 | 2 | 0 | 2 | 13 | 0.1 |
-| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.0 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.7 |
-| bbc_business | OK | 50 | 5 | 0 | 5 | 45 | 0.0 |
-| aljazeera | OK | 25 | 11 | 4 | 7 | 14 | 0.0 |
+| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.8 |
+| bbc_business | OK | 51 | 6 | 1 | 5 | 45 | 0.0 |
+| aljazeera | OK | 25 | 11 | 0 | 11 | 14 | 0.1 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.8 |
-| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.6 |
+| eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.7 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.7 |
-| wsj_world | OK | 72 | 2 | 0 | 2 | 70 | 0.1 |
+| wsj_world | OK | 72 | 2 | 0 | 2 | 70 | 0.2 |
 | wsj_markets | OK | 61 | 6 | 0 | 6 | 55 | 0.1 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.8 |
 | mw_topstories | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| cointelegraph | OK | 30 | 2 | 1 | 1 | 28 | 0.0 |
+| cointelegraph | OK | 30 | 3 | 1 | 2 | 27 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi
