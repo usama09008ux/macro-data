@@ -1,8 +1,8 @@
 # News Pack — Trading Day 24 Aug 2026
 
 - Trading day: **24 Aug 03:00 -> 25 Aug 02:59 PKT**
-- Aakhri update: **25 Aug 02:48 PKT**
-- Kul khabrein: **1607**
+- Aakhri update: **25 Aug 03:11 PKT**
+- Kul khabrein: **1624**
 - Feeds: 39/39 OK
 
 ---
@@ -555,6 +555,11 @@ No fresh news apart from what has been covered. This article was written by Eamo
 
 ### USD
 
+**South Korean Won: Rally faces consolidation risk on policy week – OCBC**
+`25 Aug 02:51 PKT` · pehli baar dekhi `25 Aug 03:11` · fxstreet_news
+
+OCBC's Sim Moh Siong and Christopher Wong note that South Korean Won (KRW) has extended its rally, with USD/KRW briefly touching 1380 on exporter and corporate US Dollar (USD) selling and a softer USD backdrop.
+
 **South Korea Consumer Sentiment Falls in August**
 `25 Aug 02:48 PKT` · instaforex
 
@@ -600,6 +605,11 @@ Commerzbank's Charlie Lay and Dr. Henry Hao highlight South Korea's strong expor
 `25 Aug 00:36 PKT` · pehli baar dekhi `25 Aug 00:41` · fxstreet_news
 
 Scotiabank strategists Shaun Osborne and Eric Theoret observe that the US Dollar (USD) is modestly stronger as markets start the week cautiously, with equities defensive and Treasuries firmer.
+
+**Fed Chair Warsh to Make Jackson Hole Debut — Policy Tensions with Treasury in Focus - finance.biggo.com**
+`25 Aug 00:35 PKT` · pehli baar dekhi `25 Aug 03:11` · gnews_fed
+
+Fed Chair Warsh to Make Jackson Hole Debut — Policy Tensions with Treasury in Focus finance.biggo.com
 
 **Chinese Yuan: Gradual appreciation bias with key levels against US Dollar – OCBC**
 `25 Aug 00:17 PKT` · pehli baar dekhi `25 Aug 00:41` · fxstreet_news
@@ -1306,6 +1316,11 @@ After Supreme Court ruling, Trump tries again to remove Fed Gov. Lisa Cook Scrip
 
 The shared currency registers minimal losses of 0.13% versus the US Dollar as EUR/USD fails to surpass 1.1700, exacerbating the drop towards the 1.1660 area, despite retaining its current neutral-to-upward bias.
 
+**Eurostat Crude Oil Supply June 2026: France Leads, Germany and Italy at Zero - News and Statistics - IndexBox**
+`25 Aug 02:10 PKT` · pehli baar dekhi `25 Aug 03:11` · gnews_geopolitics
+
+Eurostat Crude Oil Supply June 2026: France Leads, Germany and Italy at Zero - News and Statistics IndexBox
+
 **Euro Steadies Against Yen as ECB and BoJ Rate Paths Diverge - CryptoRank**
 `25 Aug 01:07 PKT` · pehli baar dekhi `25 Aug 01:45` · gnews_centralbanks · **2 feeds mein**
 
@@ -1658,6 +1673,11 @@ The GBP/USD pair trades with a positive bias around mid-1.3600s at the start of 
   - `24 Aug 09:01` *gnews_fed* — British Pound Holds Near Feb. 11 Highs vs Weak USD as Bulls Await Breakout Above 1.3660 - CryptoRank
 
 ### JPY
+
+**Record intervention bought the Japanese Yen three weeks**
+`25 Aug 02:48 PKT` · pehli baar dekhi `25 Aug 03:11` · fxstreet_news
+
+Dollar-Yen holds near 159.00 into the North American afternoon, marginally higher on the day inside a range of roughly three quarters of a Yen between the 158.50 area and a high short of 159.50.
 
 **BOJ likely to hike next month and again in January, says ex-board member**
 `25 Aug 02:40 PKT` · pehli baar dekhi `25 Aug 02:48` · investinglive
@@ -2454,9 +2474,10 @@ Norway plans to continue exploring for oil and gas in its Arctic waters in the B
 Looking Forward: G20 Finance Meet Amid Iran Crisis, Oil Shock & Global Supply Chain Concerns Travel Visa (OS8Db9j3ZX) Mshale
 
 **Oil falls as Iran allows Iraqi tankers through Hormuz, easing supply concerns - Investing.com**
-`24 Aug 14:06 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_geopolitics
+`24 Aug 14:06 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_geopolitics · **2 feeds mein**
 
 Oil falls as Iran allows Iraqi tankers through Hormuz, easing supply concerns Investing.com
+  - `24 Aug 05:28` *gnews_geopolitics* — Oil dips as Iran allows Iraqi tankers through Hormuz, easing supply concerns - Investing.com Canada
 
 **Oil Prices Decline as US Considers 'D-Day' Iran Sanctions; Focus on Strait of Hormuz Shipping Risks - Observer Voice**
 `24 Aug 14:05 PKT` · pehli baar dekhi `24 Aug 14:26` · gnews_geopolitics
@@ -2586,6 +2607,11 @@ Indonesia's IDX Composite slipped 18 points, or 0.2%, to 6,511 in Monday morning
 `24 Aug 08:44 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_geopolitics
 
 Brent Drops 1.87% as Bessent Vows to Sever Iran's Economic Lifelines CryptoRank
+
+**Brent oil falls to USD 93 as Iran sanctions take centre stage - idnfinancials.com**
+`24 Aug 08:40 PKT` · pehli baar dekhi `25 Aug 03:11` · gnews_geopolitics
+
+Brent oil falls to USD 93 as Iran sanctions take centre stage idnfinancials.com
 
 **Oil Prices Dip as Iran Threatens Strait of Hormuz; Gas Prices Remain Elevated - NBC Palm Springs**
 `24 Aug 08:17 PKT` · pehli baar dekhi `24 Aug 15:59` · gnews_geopolitics
@@ -2755,6 +2781,11 @@ The proposed deal would make Gemini the exclusive venue for crypto event contrac
 `25 Aug 01:21 PKT` · pehli baar dekhi `25 Aug 01:45` · gnews_fed
 
 BNP Paribas sets US 10-year yield target for July 2026 Crypto Briefing
+
+**Here's what happened in crypto today**
+`25 Aug 00:58 PKT` · pehli baar dekhi `25 Aug 03:11` · cointelegraph
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
 
 **Coinbase-affiliated advocacy group endorses candidates for US midterms**
 `25 Aug 00:18 PKT` · pehli baar dekhi `25 Aug 00:41` · cointelegraph
@@ -3193,6 +3224,11 @@ The Mexican Peso lost ground against the Greenback on Monday, even though econom
 Gold Rallies as New Iran Sanctions Boost Haven Demand CryptoRank
   - `24 Aug 23:45` *gnews_geopolitics* — Gold Rallies As New Iran Sanctions Boost Haven Demand - Bitcoin World
 
+**Euro Steadies as Dollar Firms; Markets Weigh Iran Sanctions Impact - CryptoRank**
+`25 Aug 01:07 PKT` · pehli baar dekhi `25 Aug 03:11` · gnews_geopolitics
+
+Euro Steadies as Dollar Firms; Markets Weigh Iran Sanctions Impact CryptoRank
+
 **Treasury yields dip but continues to probe the top of the range**
 `25 Aug 00:54 PKT` · pehli baar dekhi `25 Aug 01:04` · investinglive
 
@@ -3417,6 +3453,11 @@ S&P 500, Nasdaq slip as Iran tensions test markets in high-stakes week KITCO
 US Treasury to broaden scope of secondary sanctions on Iran, source says KITCO
   - `24 Aug 17:54` *investing_commodities* — U.S. Treasury to broaden scope of secondary sanctions on Iran, source says
 
+**Oil Prices Fall Ahead of US, Iran Sanctions - THISDAYLIVE**
+`24 Aug 19:01 PKT` · pehli baar dekhi `25 Aug 03:11` · gnews_geopolitics
+
+Oil Prices Fall Ahead of US, Iran Sanctions THISDAYLIVE
+
 **Is Netflix (NFLX) a Buying Opportunity After Its Sharp Selloff?**
 `24 Aug 18:50 PKT` · pehli baar dekhi `24 Aug 19:56` · yahoo_finance
 
@@ -3458,6 +3499,12 @@ The United States (US) Treasury is expected to broaden the scope of secondary sa
 `24 Aug 18:09 PKT` · instaforex
 
 Mexico's GDP grew by 1.4% in the second quarter of 2026, revised slightly down from the preliminary estimate of 1.5%, yet remaining above the market's initial forecast of 1.3%. The data confirm a rebound from the 0.6% contraction recorded in the first quarter, underscoring the Mexican economy's resilience in the face of ongoing trade frictions with the United States and sharply higher energy prices stemming from the war between the US and Iran.
+
+**Euro Holds Near Three-Month Highs as Traders Await US Sanctions on Iran - CryptoRank**
+`24 Aug 18:04 PKT` · pehli baar dekhi `25 Aug 03:11` · gnews_geopolitics · **2 feeds mein**
+
+Euro Holds Near Three-Month Highs as Traders Await US Sanctions on Iran CryptoRank
+  - `24 Aug 14:45` *gnews_geopolitics* — Euro Holds Near Three-Month Highs As Traders Await US Sanctions On Iran - Bitcoin World
 
 **Global Stocks, Oil, Bonds Slip as Iran Sanctions, Nvidia Earnings and Jackson Hole Put Markets on Edge - Tekedia**
 `24 Aug 17:54 PKT` · pehli baar dekhi `24 Aug 22:41` · gnews_geopolitics
@@ -3600,11 +3647,6 @@ US Set to Unveil Fresh Iran Sanctions as Rial Hits Record Low Bloomberg.com
 `24 Aug 14:54 PKT` · pehli baar dekhi `24 Aug 15:18` · mw_topstories
 
 Morgan Stanley recommends quality stocks with large market capitalizations, adopters of artificial intelligence and the S&P 500.
-
-**Euro Holds Near Three-Month Highs As Traders Await US Sanctions On Iran - Bitcoin World**
-`24 Aug 14:45 PKT` · pehli baar dekhi `24 Aug 19:02` · gnews_geopolitics
-
-Euro Holds Near Three-Month Highs As Traders Await US Sanctions On Iran Bitcoin World
 
 **U.S. Prepares New Iran Sanctions as Hormuz Tensions Grow - WMAL**
 `24 Aug 14:42 PKT` · pehli baar dekhi `25 Aug 01:45` · gnews_geopolitics
@@ -4112,10 +4154,13 @@ Market Analysts React to US-Israel Strikes on Iran EnergyNow
 
 World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks EnergyNow
 
-### BINA TAG (611)
+### BINA TAG (616)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `25 Aug 02:56` **investing_news** — La Rosa Holdings regains Nasdaq compliance after filing delay
+- `25 Aug 02:55` **mw_topstories** — Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer
+- `25 Aug 02:52` **kitco_general** — Tharisa secures 25-year mining lease for Zimbabwe platinum project - KITCO
 - `25 Aug 02:37` **wsj_world** — Opinion | Make American Magnesium Again
 - `25 Aug 02:37` **wsj_markets** — Opinion | Make American Magnesium Again
 - `25 Aug 02:36` **investing_news** — Nevada sues to block Trump administration's Colorado River plan
@@ -4387,6 +4432,8 @@ World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks
 - `24 Aug 18:09` **instaforex** — Mexico's Economic Slowdown Eases in June as Activity Indicator Narrows Decline
 - `24 Aug 18:09` **instaforex** — Mexico's Economic Activity Accelerates in June, Year‑Over‑Year Growth Jumps to 2.8%
 - `24 Aug 18:09` **eia_energy** — Dangote refinery drives increase in petroleum shipments from Nigeria
+- `24 Aug 18:08` **wsj_world** — Best High-Yield Savings Accounts for August 2026: Up to 4.50%
+- `24 Aug 18:08` **wsj_markets** — 10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider
 - `24 Aug 18:06` **kitco_general** — Indonesia will build trustworthy commodity exchange, chief supervisor candidate says - KITCO
 - `24 Aug 18:04` **investing_news** — Collins Aerospace completes altitude testing for F-35 cooling system
 - `24 Aug 18:04` **yahoo_finance** — This Fund Exits Intuit (INTU) Amid Concerns of AI Disruption to TurboTax's Moat
@@ -4730,11 +4777,11 @@ World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks
 
 ---
 
-## Shor — 47 khabrein hatai gayin
+## Shor — 49 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (42), yahoo_finance (4), cointelegraph (1)
+investing_news (44), yahoo_finance (4), cointelegraph (1)
 
 ---
 
@@ -4744,42 +4791,42 @@ investing_news (42), yahoo_finance (4), cointelegraph (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 4 | 26 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 3 | 27 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 3 | 0 | 3 | 27 | 0.2 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
 | marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 2.9 |
-| instaforex | OK | 25 | 25 | 1 | 24 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.1 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.2 |
 | cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
 | cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
 | cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
 | cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.0 |
+| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.1 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.7 |
-| kitco_general | OK | 34 | 34 | 3 | 31 | 0 | 0.0 |
-| gnews_fed | OK | 87 | 87 | 0 | 87 | 0 | 0.0 |
-| gnews_geopolitics | OK | 100 | 100 | 1 | 99 | 0 | 0.0 |
-| gnews_centralbanks | OK | 36 | 35 | 0 | 35 | 1 | 0.0 |
+| kitco_general | OK | 33 | 33 | 1 | 32 | 0 | 0.0 |
+| gnews_fed | OK | 84 | 84 | 1 | 83 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 6 | 94 | 0 | 0.0 |
+| gnews_centralbanks | OK | 33 | 33 | 0 | 33 | 0 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.2 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 19.1 |
 | ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 13.4 |
 | boj_whatsnew | OK | 46 | 4 | 0 | 4 | 42 | 0.6 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.5 |
-| mining_com | OK | 36 | 6 | 1 | 5 | 30 | 0.0 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.0 |
+| mining_com | OK | 36 | 6 | 0 | 6 | 30 | 0.0 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
 | investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
-| bbc_business | OK | 51 | 15 | 1 | 14 | 36 | 0.0 |
-| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
+| bbc_business | OK | 51 | 15 | 0 | 15 | 36 | 0.0 |
+| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
 | snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.5 |
 | eia_energy | OK | 19 | 1 | 0 | 1 | 18 | 0.3 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 20.4 |
-| wsj_world | OK | 72 | 18 | 5 | 13 | 54 | 0.0 |
-| wsj_markets | OK | 61 | 24 | 2 | 22 | 37 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 9 | 0 | 9 | 40 | 0.1 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| wsj_world | OK | 72 | 18 | 1 | 17 | 54 | 0.0 |
+| wsj_markets | OK | 61 | 24 | 1 | 23 | 37 | 0.0 |
+| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| yahoo_finance | OK | 48 | 9 | 0 | 9 | 39 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
 | cointelegraph | OK | 30 | 22 | 1 | 21 | 8 | 0.0 |
