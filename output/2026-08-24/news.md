@@ -1,9 +1,9 @@
 # News Pack — Trading Day 24 Aug 2026
 
 - Trading day: **24 Aug 03:00 -> 25 Aug 02:59 PKT**
-- Aakhri update: **25 Aug 03:11 PKT**
-- Kul khabrein: **1624**
-- Feeds: 39/39 OK
+- Aakhri update: **25 Aug 03:46 PKT**
+- Kul khabrein: **1630**
+- Feeds: 38/39 OK
 
 ---
 
@@ -738,6 +738,11 @@ Chicago Fed National Activity Index Dips to -0.08 in July, Signaling Slower Grow
 `24 Aug 20:00 PKT` · pehli baar dekhi `24 Aug 22:41` · gnews_fed
 
 US Dollar Upside Capped by Debasement Narrative, OCBC Says CryptoRank
+
+**Dollar Gains on Weak Stocks - TradingView**
+`24 Aug 19:32 PKT` · pehli baar dekhi `25 Aug 03:46` · gnews_centralbanks
+
+Dollar Gains on Weak Stocks TradingView
 
 **Crinetics Pharmaceuticals stock hits all-time high at 84.8 USD**
 `24 Aug 19:32 PKT` · pehli baar dekhi `24 Aug 19:56` · investing_news
@@ -1701,6 +1706,11 @@ Groundwork Is Set for BOJ Rate Hike Next Month, Ex-Official Says Bloomberg.com
 `25 Aug 00:31 PKT` · pehli baar dekhi `25 Aug 00:41` · investinglive
 
 The USDJPY is pressing against an important technical ceiling after rebounding from last week's lows. On Wednesday and Thursday last week, the pair briefly traded below its 200-day moving average (lower green line on the chart above at 158.33 currently), but sellers could not keep the momentum. Support emerged against the swing level near 157.96, and the failure to break lower gave buyers the opportunity to push the price back toward the shorter-term moving averages.
+
+**Japanese Yen Slips as Dollar Steadies; US PCE Inflation Data in Focus - CryptoRank**
+`25 Aug 00:02 PKT` · pehli baar dekhi `25 Aug 03:46` · gnews_fed
+
+Japanese Yen Slips as Dollar Steadies; US PCE Inflation Data in Focus CryptoRank
 
 **How the Bank of Japan's September interest-rate meeting will risk Bitcoin's 21% rally - AMBCrypto**
 `25 Aug 00:00 PKT` · pehli baar dekhi `25 Aug 01:04` · gnews_centralbanks
@@ -3170,6 +3180,11 @@ The subpoenas mark an early but notable escalation of regulatory interest in one
 
 Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds KITCO
 
+**U.S. sanctions Iran, China may be targeted - idnfinancials.com**
+`25 Aug 02:00 PKT` · pehli baar dekhi `25 Aug 03:46` · gnews_geopolitics
+
+U.S. sanctions Iran, China may be targeted idnfinancials.com
+
 **What's behind domestic political pressure on Ukraine's president?**
 `25 Aug 01:54 PKT` · pehli baar dekhi `25 Aug 02:14` · aljazeera
 
@@ -4154,10 +4169,11 @@ Market Analysts React to US-Israel Strikes on Iran EnergyNow
 
 World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks EnergyNow
 
-### BINA TAG (616)
+### BINA TAG (619)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `25 Aug 02:58` **bbc_business** — 70,000 social and affordable homes to be built across England as part of £39bn plan
 - `25 Aug 02:56` **investing_news** — La Rosa Holdings regains Nasdaq compliance after filing delay
 - `25 Aug 02:55` **mw_topstories** — Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer
 - `25 Aug 02:52` **kitco_general** — Tharisa secures 25-year mining lease for Zimbabwe platinum project - KITCO
@@ -4180,6 +4196,7 @@ World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks
 - `25 Aug 01:56` **investing_news** — Judge dismisses lawsuit over Trump offshore drilling order
 - `25 Aug 01:54` **investing_news** — Citi says patience needed for EVT asset sales worth A$800 mln
 - `25 Aug 01:54` **investing_news** — US SEC sends subpoenas to Wall Street banks over Situational Awareness, NYT reports
+- `25 Aug 01:49` **gnews_fed** — New generations use Route 66 to revitalize historic Clinton, Oklahoma - Kansas City - Federal Reserve
 - `25 Aug 01:45` **aljazeera** — Displaced Palestinian builds mud shelter as tents offer little relief
 - `25 Aug 01:42` **investing_news** — WestJet cabin crew approve proposed deal after strike
 - `25 Aug 01:42` **investing_news** — WestJet flight attendants approve deal with 18% wage increase
@@ -4197,6 +4214,7 @@ World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks
 - `25 Aug 01:18` **kitco_general** — TAG: Richard Vague - KITCO
 - `25 Aug 01:18` **kitco_general** — TAG: Candace Browning Platt - KITCO
 - `25 Aug 01:13` **gnews_fed** — Downtown's Federal Reserve Building listed for $8M - Nashville Post
+- `25 Aug 01:08` **gnews_fed** — Federal Reserve Bars Two Former Bank Employees Over Misappropriation of Customer Funds - InsuranceNewsNet
 - `25 Aug 01:04` **mining_com** — Top of Mine: Costa sees mining as the cheapest way to invest in AI
 - `25 Aug 01:03` **aljazeera** — Ex-Liverpool star Fabinho reunited with Mohamed Salah at Trabzonspor
 - `25 Aug 01:00` **cointelegraph** — Bernstein sees new USDC growth cycle, sets $140 Circle price target
@@ -4792,11 +4810,11 @@ investing_news (44), yahoo_finance (4), cointelegraph (1)
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 3 | 27 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 2 | 28 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 3 | 0 | 3 | 27 | 0.2 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
 | marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 2.9 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.2 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.2 |
 | cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
 | cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
@@ -4804,29 +4822,32 @@ investing_news (44), yahoo_finance (4), cointelegraph (1)
 | cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
 | cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.1 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.7 |
-| kitco_general | OK | 33 | 33 | 1 | 32 | 0 | 0.0 |
-| gnews_fed | OK | 84 | 84 | 1 | 83 | 0 | 0.0 |
-| gnews_geopolitics | OK | 100 | 100 | 6 | 94 | 0 | 0.0 |
-| gnews_centralbanks | OK | 33 | 33 | 0 | 33 | 0 | 0.0 |
+| kitco_general | OK | 34 | 34 | 0 | 34 | 0 | 0.0 |
+| gnews_fed | OK | 87 | 87 | 3 | 84 | 0 | 0.1 |
+| gnews_geopolitics | OK | 100 | 100 | 1 | 99 | 0 | 0.1 |
+| gnews_centralbanks | OK | 34 | 34 | 1 | 33 | 0 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.2 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 19.1 |
 | ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 13.4 |
 | boj_whatsnew | OK | 46 | 4 | 0 | 4 | 42 | 0.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.5 |
-| mining_com | OK | 36 | 6 | 0 | 6 | 30 | 0.0 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.6 |
+| mining_com | OK | 36 | 6 | 0 | 6 | 30 | 0.1 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.0 |
 | investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
-| bbc_business | OK | 51 | 15 | 0 | 15 | 36 | 0.0 |
-| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| bbc_business | OK | 51 | 16 | 1 | 15 | 35 | 0.0 |
+| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
 | snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.5 |
-| eia_energy | OK | 19 | 1 | 0 | 1 | 18 | 0.3 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.6 |
+| eia_energy | OK | 19 | 1 | 0 | 1 | 18 | 0.4 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 20.4 |
-| wsj_world | OK | 72 | 18 | 1 | 17 | 54 | 0.0 |
-| wsj_markets | OK | 61 | 24 | 1 | 23 | 37 | 0.0 |
-| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| yahoo_finance | OK | 48 | 9 | 0 | 9 | 39 | 0.1 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 22 | 1 | 21 | 8 | 0.0 |
+| wsj_world | OK | 72 | 18 | 0 | 18 | 54 | 0.0 |
+| wsj_markets | OK | 61 | 24 | 0 | 24 | 37 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 9 | 0 | 9 | 40 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 22 | 0 | 22 | 8 | 0.1 |
+
+**Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi
