@@ -1,6 +1,6 @@
 # Calendar — Trading Day 24 Aug 2026
 
-- Banaya gaya: **24 Aug 2026 11:02 PKT**
+- Banaya gaya: **24 Aug 2026 17:30 PKT**
 - Trading day: **24 Aug 03:00 -> 25 Aug 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,11 +12,12 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 17:30 | CAD | low | Corporate Profits q/q | - | -2.0% |
 | 23:00 | USD | MED | Treasury Sec Bessent Speaks | - | - |
 | **25 Aug** 06:30 | AUD | low | Monetary Policy Meeting Minutes | - | - |
 | **25 Aug** 10:00 | JPY | low | BOJ Core CPI y/y | 1.4% | 1.5% |
 | **25 Aug** 11:00 | EUR | low | German Final GDP q/q | 0.2% | 0.2% |
+| **25 Aug** 13:00 | EUR | low | German ifo Business Climate | 87.3 | 86.6 |
+| **25 Aug** 17:15 | USD | low | ADP Weekly Employment Change | - | 9.5K |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
