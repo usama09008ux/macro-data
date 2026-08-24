@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "24 Aug 2026 17:30",
+  "generated_pkt": "24 Aug 2026 22:23",
   "trading_day": "2026-08-24",
   "feed_sources": {
     "thisweek": "live"
@@ -52,9 +52,9 @@
       "previous": "",
       "url": "https://www.forexfactory.com/calendar/917-us-treasury-sec-bessent-speaks",
       "all_day": false,
-      "utc": "2026-08-24T18:00Z",
-      "pkt": "24 Aug 23:00",
-      "pkt_iso": "2026-08-24T23:00:00+05:00",
+      "utc": "2026-08-24T17:00Z",
+      "pkt": "24 Aug 22:00",
+      "pkt_iso": "2026-08-24T22:00:00+05:00",
       "trading_day": "2026-08-24"
     },
     {
@@ -100,7 +100,7 @@
       "title": "German ifo Business Climate",
       "ccy": "EUR",
       "impact": "Low",
-      "forecast": "87.3",
+      "forecast": "87.2",
       "previous": "86.6",
       "url": "https://www.forexfactory.com/calendar/316-ge-ifo-business-climate",
       "all_day": false,
@@ -120,6 +120,19 @@
       "utc": "2026-08-25T12:15Z",
       "pkt": "25 Aug 17:15",
       "pkt_iso": "2026-08-25T17:15:00+05:00",
+      "trading_day": "2026-08-25"
+    },
+    {
+      "title": "FOMC Member Barkin Speaks",
+      "ccy": "USD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/728-us-fomc-member-barkin-speaks",
+      "all_day": false,
+      "utc": "2026-08-25T12:30Z",
+      "pkt": "25 Aug 17:30",
+      "pkt_iso": "2026-08-25T17:30:00+05:00",
       "trading_day": "2026-08-25"
     },
     {
@@ -152,7 +165,7 @@
       "title": "S&P/CS Composite-20 HPI y/y",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "1.9%",
+      "forecast": "1.8%",
       "previous": "1.6%",
       "url": "https://www.forexfactory.com/calendar/240-us-spcs-composite-20-hpi-yy",
       "all_day": false,
@@ -191,13 +204,26 @@
       "title": "Richmond Manufacturing Index",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "7",
+      "forecast": "6",
       "previous": "5",
       "url": "https://www.forexfactory.com/calendar/186-us-richmond-manufacturing-index",
       "all_day": false,
       "utc": "2026-08-25T14:00Z",
       "pkt": "25 Aug 19:00",
       "pkt_iso": "2026-08-25T19:00:00+05:00",
+      "trading_day": "2026-08-25"
+    },
+    {
+      "title": "FOMC Member Barkin Speaks",
+      "ccy": "USD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/728-us-fomc-member-barkin-speaks",
+      "all_day": false,
+      "utc": "2026-08-25T20:00Z",
+      "pkt": "26 Aug 01:00",
+      "pkt_iso": "2026-08-26T01:00:00+05:00",
       "trading_day": "2026-08-25"
     },
     {
@@ -269,7 +295,7 @@
       "title": "Trimmed Mean CPI m/m",
       "ccy": "AUD",
       "impact": "High",
-      "forecast": "0.3%",
+      "forecast": "0.4%",
       "previous": "0.3%",
       "url": "https://www.forexfactory.com/calendar/99-au-trimmed-mean-cpi-mm",
       "all_day": false,
@@ -419,6 +445,19 @@
       "utc": "2026-08-26T14:30Z",
       "pkt": "26 Aug 19:30",
       "pkt_iso": "2026-08-26T19:30:00+05:00",
+      "trading_day": "2026-08-26"
+    },
+    {
+      "title": "FOMC Member Barkin Speaks",
+      "ccy": "USD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/728-us-fomc-member-barkin-speaks",
+      "all_day": false,
+      "utc": "2026-08-26T15:45Z",
+      "pkt": "26 Aug 20:45",
+      "pkt_iso": "2026-08-26T20:45:00+05:00",
       "trading_day": "2026-08-26"
     },
     {

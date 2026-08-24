@@ -1,6 +1,6 @@
 # Calendar — Trading Day 24 Aug 2026
 
-- Banaya gaya: **24 Aug 2026 17:30 PKT**
+- Banaya gaya: **24 Aug 2026 22:23 PKT**
 - Trading day: **24 Aug 03:00 -> 25 Aug 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,12 +12,18 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 23:00 | USD | MED | Treasury Sec Bessent Speaks | - | - |
 | **25 Aug** 06:30 | AUD | low | Monetary Policy Meeting Minutes | - | - |
 | **25 Aug** 10:00 | JPY | low | BOJ Core CPI y/y | 1.4% | 1.5% |
 | **25 Aug** 11:00 | EUR | low | German Final GDP q/q | 0.2% | 0.2% |
-| **25 Aug** 13:00 | EUR | low | German ifo Business Climate | 87.3 | 86.6 |
+| **25 Aug** 13:00 | EUR | low | German ifo Business Climate | 87.2 | 86.6 |
 | **25 Aug** 17:15 | USD | low | ADP Weekly Employment Change | - | 9.5K |
+| **25 Aug** 17:30 | USD | low | FOMC Member Barkin Speaks | - | - |
+| **25 Aug** 18:00 | EUR | low | Belgian NBB Business Climate | -11.0 | -11.9 |
+| **25 Aug** 18:00 | USD | low | HPI m/m | 0.2% | 0.3% |
+| **25 Aug** 18:00 | USD | low | S&P/CS Composite-20 HPI y/y | 1.8% | 1.6% |
+| **25 Aug** 19:00 | USD | MED | CB Consumer Confidence | 90.3 | 90.8 |
+| **25 Aug** 19:00 | USD | low | New Home Sales | 620K | 628K |
+| **25 Aug** 19:00 | USD | low | Richmond Manufacturing Index | 6 | 5 |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
@@ -27,10 +33,9 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **25 Aug** 19:00 | USD | MED | CB Consumer Confidence | 90.3 | 90.8 |
 | **26 Aug** 06:30 | AUD | **HIGH** | CPI m/m | 0.9% | -0.1% |
 | **26 Aug** 06:30 | AUD | **HIGH** | CPI y/y | 3.3% | 3.8% |
-| **26 Aug** 06:30 | AUD | **HIGH** | Trimmed Mean CPI m/m | 0.3% | 0.3% |
+| **26 Aug** 06:30 | AUD | **HIGH** | Trimmed Mean CPI m/m | 0.4% | 0.3% |
 | **26 Aug** 17:30 | USD | **HIGH** | Core PCE Price Index m/m | 0.2% | 0.1% |
 | **26 Aug** 17:30 | USD | **HIGH** | Prelim GDP q/q | 1.5% | 1.5% |
 | **26 Aug** 17:30 | USD | MED | Prelim GDP Price Index q/q | 6.2% | 6.2% |
