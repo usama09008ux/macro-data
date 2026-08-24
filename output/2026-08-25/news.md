@@ -1,15 +1,20 @@
 # News Pack — Trading Day 25 Aug 2026
 
 - Trading day: **25 Aug 03:00 -> 26 Aug 02:59 PKT**
-- Aakhri update: **25 Aug 04:10 PKT**
-- Kul khabrein: **39**
-- Feeds: 39/39 OK
+- Aakhri update: **25 Aug 04:38 PKT**
+- Kul khabrein: **42**
+- Feeds: 38/39 OK
 
 ---
 
 ## Khabrein
 
 ### MARKET WRAP
+
+**Legendary investor Druckenmiller says Treasury is suppressing the bond market's warning signal**
+`25 Aug 04:29 PKT` · pehli baar dekhi `25 Aug 04:38` · investinglive
+
+Druckenmiller's framing adds a heavyweight voice to the growing debate over whether the Treasury's enlarged buyback program is a legitimate liquidity tool or an attempt to manage the price of long-dated debt directly, a distinction that matters for how markets read future interventions.
 
 **Australian Dollar falls as Iran sanctions sour risk appetite, RBA minutes eyed**
 `25 Aug 03:58 PKT` · pehli baar dekhi `25 Aug 04:10` · fxstreet_news
@@ -57,6 +62,11 @@ The EUR/JPY trades horizontally on Monday as market participants remain reluctan
 
 ### OIL
 
+**Oil Holds Decline as US Tightens Iran Sanctions**
+`25 Aug 04:38 PKT` · instaforex
+
+Crude oil hovered near $85 per barrel on Tuesday after sliding more than 2% in the previous session, as the US ramped up economic pressure on Iran and its trading partners in a bid to force the reopening of the Strait of Hormuz. Treasury Secretary Scott Bessent outlined plans to further isolate Iran via sanctions aimed at countries that continue commercial dealings with the Islamic Republic, while President Donald Trump said those nations would be given a defined deadline to cut ties with ...
+
 **Venezuela's Oil Revival Is Slower Than the U.S. Hoped**
 `25 Aug 04:00 PKT` · pehli baar dekhi `25 Aug 04:10` · oilprice
 
@@ -87,10 +97,11 @@ New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying p
 
 Another reported strike on a tanker adds to a run of incidents that have kept a risk premium attached to oil prices even as headline benchmarks have been choppy. With crew safety confirmed and environmental impact still unclear, the immediate market reaction is likely to hinge on whether this proves an isolated event or part of a broader pattern of attacks on merchant shipping in the wider Gulf and Arabian Sea region.
 
-### BINA TAG (11)
+### BINA TAG (12)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `25 Aug 04:28` **mining_com** — South32 boosts Sierra Gorda ore reserve estimate by 61%
 - `25 Aug 04:04` **bbc_business** — 'What you see is what you pay' - why some US restaurants are banning tips
 - `25 Aug 04:03` **bbc_business** — New 10p coin enters circulation - will you spot one?
 - `25 Aug 04:01` **investing_news** — Community West Bancshares director Lokey acquires $1,405 common stock
@@ -119,42 +130,45 @@ investing_news (14)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 1 | 29 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 3 | 0 | 3 | 27 | 0.3 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
+| investinglive | OK | 25 | 5 | 1 | 4 | 20 | 0.0 |
+| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.0 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.3 |
+| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.3 |
 | marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 3.0 |
-| instaforex | OK | 25 | 25 | 1 | 24 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.2 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.1 |
+| instaforex | OK | 25 | 12 | 1 | 11 | 13 | -0.2 |
+| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 0.2 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.8 |
-| kitco_general | OK | 34 | 34 | 1 | 33 | 0 | 0.1 |
-| gnews_fed | OK | 84 | 84 | 2 | 82 | 0 | 0.0 |
-| gnews_geopolitics | OK | 100 | 100 | 3 | 97 | 0 | 0.0 |
-| gnews_centralbanks | OK | 35 | 35 | 1 | 34 | 0 | 0.1 |
+| kitco_general | OK | 34 | 0 | 0 | 0 | 34 | 0.1 |
+| gnews_fed | OK | 87 | 1 | 0 | 1 | 86 | 0.0 |
+| gnews_geopolitics | OK | 100 | 1 | 0 | 1 | 99 | 0.0 |
+| gnews_centralbanks | OK | 34 | 0 | 0 | 0 | 34 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.2 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 19.1 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 0.7 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 13.4 |
-| boj_whatsnew | OK | 46 | 4 | 0 | 4 | 42 | 0.6 |
+| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 0.7 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.6 |
-| mining_com | OK | 36 | 6 | 0 | 6 | 30 | 0.1 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
-| bbc_business | OK | 51 | 19 | 2 | 17 | 32 | 0.0 |
-| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
-| snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.0 |
+| mining_com | OK | 36 | 1 | 1 | 0 | 35 | 0.0 |
+| oilprice | OK | 15 | 2 | 0 | 2 | 13 | 0.0 |
+| investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
+| bbc_business | OK | 51 | 3 | 0 | 3 | 48 | 0.0 |
+| aljazeera | OK | 25 | 4 | 0 | 4 | 21 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.6 |
-| eia_energy | OK | 19 | 1 | 0 | 1 | 18 | 0.4 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 20.4 |
-| wsj_world | OK | 72 | 18 | 0 | 18 | 54 | 0.1 |
-| wsj_markets | OK | 61 | 24 | 0 | 24 | 37 | 0.1 |
-| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 9 | 0 | 9 | 41 | 0.1 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 22 | 0 | 22 | 8 | 0.1 |
+| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 0.4 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 20.5 |
+| wsj_world | OK | 72 | 0 | 0 | 0 | 72 | 0.1 |
+| wsj_markets | OK | 61 | 0 | 0 | 0 | 61 | 0.1 |
+| investing_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.1 |
+| mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
+| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.1 |
+
+**Jo feeds nahi aaye:**
+- investing_news — FAIL, HTTP 502
