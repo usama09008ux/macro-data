@@ -1,9 +1,9 @@
 # News Pack — Trading Day 24 Aug 2026
 
 - Trading day: **24 Aug 03:00 -> 25 Aug 02:59 PKT**
-- Aakhri update: **24 Aug 14:26 PKT**
-- Kul khabrein: **558**
-- Feeds: 31/39 OK
+- Aakhri update: **24 Aug 15:18 PKT**
+- Kul khabrein: **652**
+- Feeds: 32/39 OK
 
 ---
 
@@ -29,6 +29,16 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**UK Gilt Yields Hold Above 5% as Inflation Risks Persist**
+`24 Aug 15:18 PKT` · instaforex
+
+UK 10-year gilt yields held above the 5% mark as investors assessed persistent inflationary risks driven by Brent crude prices above $90 per barrel, the threat of fuel supply disruptions, low Eurozone gas storage levels, and the possibility of a prolonged conflict involving Iran.
+
+**FTSE 100 Struggles for Direction**
+`24 Aug 15:18 PKT` · instaforex
+
+The FTSE 100 hovered around the flatline on Monday, as strength in mining stocks was offset by weakness in the energy and healthcare sectors. Oil majors Shell and BP retreated as crude prices eased, with investors awaiting details of a US plan to ratchet up economic pressure on Iran. Treasury Secretary Scott Bessent was expected to outline the measures later in the day and press US allies to back the initiative.
 
 **Bund Yield Near 2011 Highs on ECB Hawkishness**
 `24 Aug 12:40 PKT` · instaforex
@@ -142,8 +152,24 @@ The remark itself carries no identifiable policy mechanism, there is no establis
 
 ### GOLD
 
+**Gold Climbs Above $4,650 as U.S. Fiscal Risks Boost Demand for Bullion**
+`24 Aug 14:41 PKT` · pehli baar dekhi `24 Aug 15:18` · yahoo_finance
+
+**Silver price today: Silver falls, according to FXStreet data**
+`24 Aug 14:31 PKT` · pehli baar dekhi `24 Aug 15:18` · fxstreet_news
+
+Silver prices (XAG/USD) fell on Monday, according to FXStreet data. Silver trades at $68.80 per troy ounce, down 0.25% from the $68.98 it cost on Friday.
+
+**Why gold and silver prices have added $5 trillion in value**
+`24 Aug 14:22 PKT` · pehli baar dekhi `24 Aug 15:18` · yahoo_finance
+
 **Metals Exploration targets December 2026 gold output at La India project**
 `24 Aug 13:54 PKT` · pehli baar dekhi `24 Aug 14:26` · yahoo_finance
+
+**Gold Rally Explodes: Weak Dollar, Fed Uncertainty Push Prices To 3-Month High - outlookbusiness.com**
+`24 Aug 13:40 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_fed
+
+Gold Rally Explodes: Weak Dollar, Fed Uncertainty Push Prices To 3-Month High outlookbusiness.com
 
 **Silver Price Forecast: XAG/USD steadies around $69.00 amid US bond buybacks**
 `24 Aug 13:01 PKT` · pehli baar dekhi `24 Aug 13:28` · fxstreet_news
@@ -235,6 +261,72 @@ Gold price (XAU/USD) gains traction to around $4,625 during the early Asian trad
 No fresh news apart from what has been covered. This article was written by Eamonn Sheridan at investinglive.com.
 
 ### USD
+
+**Palestine Trade Gap Widens in June**
+`24 Aug 15:18 PKT` · instaforex
+
+Palestine's trade deficit widened to USD 521.3 million in June 2026, up from USD 388.4 million in the same month a year earlier. Exports increased by 74% year-on-year to USD 213.4 million, driven by a 79% surge in sales to Israel, which accounted for 96% of total exports. Shipments to other countries also rose, by 6%. Meanwhile, imports grew 44% to USD 734.7 million, reflecting a 63% increase in imports from Israel, which made up 62% of total imports.
+
+**Taiwan Jobless Rate Steady in July**
+`24 Aug 15:18 PKT` · instaforex
+
+Taiwan's seasonally adjusted unemployment rate was 3.33% in July 2026, unchanged from June. The number of unemployed persons also held steady at 401,000. Youth unemployment among those aged 15–24 inched up to 11.71%, from 11.57% in the previous month. Meanwhile, total employment declined by 2,000 to 11.646 million. The labor force participation rate was virtually flat, at 59.59% in July compared with a four-month high of 59.60% in June. In July 2025, the unemployment rate was likewise 3.33%.
+
+**Pound Holds at Six-Month Highs**
+`24 Aug 15:18 PKT` · instaforex
+
+The British pound traded above $1.36 in the final full week of August, hovering near its strongest level since mid-February, as the US dollar came under pressure after the US Treasury unexpectedly announced plans to at least double its purchases of longer-dated government bonds. Investors also looked ahead to further clarity on Iran-related sanctions, while markets awaited Fed Chair Kevin Warsh's remarks at Jackson Hole on Friday for guidance on the future path of interest rates.
+
+**Taiwan Jobless Rate Holds Steady at 3.33% in July, Signaling Labor Market Stability**
+`24 Aug 15:18 PKT` · instaforex
+
+Taiwan's unemployment rate remained unchanged at 3.33% in July 2026, matching the level recorded in June 2026, according to the latest data updated on 24 August 2026. The flat reading suggests a period of relative stability in the island's labor market, with no apparent deterioration or improvement in overall joblessness during the month. The steady July figure indicates that employment conditions have, at least for now, resisted significant swings.
+
+**Poland Retail Sales Growth Slows in July**
+`24 Aug 15:18 PKT` · instaforex
+
+Retail sales in Poland rose by 3.9% year-on-year in July 2026, slowing from a 6.2% increase in June and falling short of market expectations of 4.5%. Growth moderated in several key categories, including motor vehicles, motorcycles, and parts (8.1% vs 9.6% in June); food, beverages, and tobacco (1.5% vs 1.7%); furniture, radio and TV equipment, and household appliances (8.8% vs 14.8%); and other retail categories (9.2% vs 9.9%).
+
+**European Stocks Edge Lower as Investors Brace for Busy Week**
+`24 Aug 15:18 PKT` · instaforex
+
+European equities traded mostly lower on Monday, with the STOXX 50 down 0.2% to 6,450 and the broader STOXX 600 slipping 0.1%, as investors turned cautious ahead of a busy week. The AI-related rally remained under pressure ahead of a key test from Nvidia's earnings on Wednesday.
+
+**Bessent Wants to Bring Treasury Yields Down. Warsh Could Complicate the Plan. - International Business Times**
+`24 Aug 15:17 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_fed
+
+Bessent Wants to Bring Treasury Yields Down. Warsh Could Complicate the Plan. International Business Times
+
+**Bond market anxiety raises stakes for Warsh's debut Jackson Hole speech - Reuters**
+`24 Aug 15:11 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_fed
+
+Bond market anxiety raises stakes for Warsh's debut Jackson Hole speech Reuters
+
+**New Zealand Dollar edges down from highs amid soft retail consumption data**
+`24 Aug 15:02 PKT` · pehli baar dekhi `24 Aug 15:18` · fxstreet_news
+
+The New Zealand Dollar ticks down against the US Dollar on Monday, weighed by an unexpected decline in New Zealand's Retail Sales in the second quarter of the year.
+
+**Poland's consumers shrug off higher fuel prices in July**
+`24 Aug 15:00 PKT` · pehli baar dekhi `24 Aug 15:18` · ing_think
+
+CENTRAL AND EASTERN EUROPE: Polish consumers proved resilient to July's fuel price shock. Retail sales growth slowed only modestly, with spending on durable goods remaining robust. While higher fuel costs squeezed household budgets, consumption continues to support economic growth. We still see 2026 GDP growth at 3.4%
+
+**US Dollar: Event-driven risks shape debasement narrative – MUFG**
+`24 Aug 14:58 PKT` · pehli baar dekhi `24 Aug 15:18` · fxstreet_news
+
+MUFG's Derek Halpenny notes the US Dollar is broadly stable as investors focus on US Treasury actions to contain long-term yields and renewed talk of Dollar debasement.
+
+**Gold remains supported into Jackson Hole event after US Treasury ignited 'debasement' trades**
+`24 Aug 14:54 PKT` · pehli baar dekhi `24 Aug 15:18` · investinglive
+
+FUNDAMENTAL OVERVIEW Gold surged on Wednesday after the US Treasury announced that it will at least double the size of its liquidity-support buyback operations for longer-dated Treasury securities, increasing the maximum purchase from $2 billion to at least $4 billion per operation.
+
+**Wolfe warns AI spending may face pressure from rising yields**
+`24 Aug 14:50 PKT` · pehli baar dekhi `24 Aug 15:18` · investing_news
+
+**Treasury's yield-lowering push faces an uphill battle: Barclays**
+`24 Aug 14:47 PKT` · pehli baar dekhi `24 Aug 15:18` · investing_news
 
 **National Bank of Hungary preview: More clues for more cuts**
 `24 Aug 14:20 PKT` · pehli baar dekhi `24 Aug 14:26` · ing_think
@@ -566,6 +658,24 @@ After Supreme Court ruling, Trump tries again to remove Fed Gov. Lisa Cook Scrip
 
 ### EUR
 
+**Euro steadies against Japanese Yen as markets weigh ECB, BoJ rate hikes**
+`24 Aug 14:58 PKT` · pehli baar dekhi `24 Aug 15:18` · fxstreet_news
+
+EUR/JPY trades around 185.70 on Monday at the time of writing, virtually unchanged on the day.
+
+**Boohoo fined $2.7m in France for misleading labelling on website**
+`24 Aug 14:56 PKT` · pehli baar dekhi `24 Aug 15:18` · yahoo_finance
+
+**Is the Euro area economy strong enough for another ECB hike? - Investing.com**
+`24 Aug 14:46 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_centralbanks
+
+Is the Euro area economy strong enough for another ECB hike? Investing.com
+
+**Polish Zloty: Budget risks point to further weakness versus Euro - Societe Generale**
+`24 Aug 14:27 PKT` · pehli baar dekhi `24 Aug 15:18` · fxstreet_news
+
+Societe Generale says Poland's elevated fiscal deficit and rapidly rising public debt could keep pressure on the zloty, with the draft 2027 budget set to provide the next key test for investor appetite.
+
 **EUR/USD Analysis: Is the Dollar Rally Really Over?**
 `24 Aug 14:20 PKT` · pehli baar dekhi `24 Aug 14:26` · actionforex
 
@@ -597,9 +707,10 @@ Markets brace for more hawkish ECB as energy risks threaten to keep inflation el
 Geoff Yu at BNY notes that Europe is seeking a Goldilocks mix of improving activity without reigniting inflation, with Euro strength already tightening conditions.
 
 **Traders are bracing for an increasingly hawkish ECB By Reuters - Investing.com Canada**
-`24 Aug 12:41 PKT` · pehli baar dekhi `24 Aug 14:26` · gnews_centralbanks · **2 feeds mein**
+`24 Aug 12:41 PKT` · pehli baar dekhi `24 Aug 14:26` · gnews_centralbanks · **3 feeds mein**
 
 Traders are bracing for an increasingly hawkish ECB By Reuters Investing.com Canada
+  - `24 Aug 11:41` *gnews_centralbanks* — Traders are bracing for an increasingly hawkish ECB By Reuters - Investing.com South Africa
   - `24 Aug 11:33` *gnews_centralbanks* — Traders are bracing for an increasingly hawkish ECB By Reuters - Investing.com
 
 **Bund Yield Near 2011 Highs on ECB Hawkishness - TradingView**
@@ -742,6 +853,11 @@ The GBP/USD pair trades with a positive bias around mid-1.3600s at the start of 
 
 ### JPY
 
+**Euro steadies against Japanese Yen as markets weigh ECB, BoJ rate hikes - FXStreet**
+`24 Aug 14:58 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_centralbanks
+
+Euro steadies against Japanese Yen as markets weigh ECB, BoJ rate hikes FXStreet
+
 **Japanese Yen weakens against recovering USD; seems vulnerable amid US-Japan rate gap**
 `24 Aug 14:09 PKT` · pehli baar dekhi `24 Aug 14:26` · fxstreet_news
 
@@ -844,6 +960,16 @@ USD/CHF depreciates after two days of gains, trading around 0.8000 during the As
 
 ### CAD
 
+**Nvidia's Earnings Will Test Wall Street's Faith in the AI Boom**
+`24 Aug 15:00 PKT` · pehli baar dekhi `24 Aug 15:18` · wsj_markets
+
+Plus, Canada's Mark Carney puts his trade doctrine to the test, and a billionaire's seafood shack sparks a fight with Montauk locals.
+
+**Canadian Dollar: Trade tensions threaten recovery against US Dollar - OCBC**
+`24 Aug 14:39 PKT` · pehli baar dekhi `24 Aug 15:18` · fxstreet_news
+
+OCBC's Sim Moh Siong and Christopher Wong warn that renewed US-Canada trade tensions could undermine the Canadian Dollar's (CAD) recent recovery.
+
 **Nasdaq Futures, Tech Stocks Slide as U.S.-Canada Trade War in Focus**
 `24 Aug 14:01 PKT` · pehli baar dekhi `24 Aug 14:26` · wsj_markets
 
@@ -885,6 +1011,11 @@ The prime minister 's approach has broad support from the Canadian public and hi
 U.S. stock-index futures dipped on Sunday, as it appeared the U.S. was on the verge of an all-out trade war with Canada, one of its biggest trade partners.
 
 ### AUD
+
+**Australian Dollar: Momentum builds toward 0.7200 against US Dollar – UOB**
+`24 Aug 14:48 PKT` · pehli baar dekhi `24 Aug 15:18` · fxstreet_news
+
+United Overseas Bank's (UOB) Quek Ser Leang and Lee Sue Ann highlight AUD/USD's sharp rally to 0.7180 and close near 0.7170, noting the move looks stretched but still lacks signs of a pause.
 
 **Australian Dollar holds near June highs, above 0.7150 ahead of expected Iran sanctions**
 `24 Aug 12:20 PKT` · pehli baar dekhi `24 Aug 12:40` · fxstreet_news
@@ -969,6 +1100,26 @@ New Zealand data soon. Despite the pick up in retail sales in Q1 today's data is
 
 ### OIL
 
+**Iran Gulf Oil Warning: Tehran Threatens to Halt Oil Exports - The Impressive Times**
+`24 Aug 15:07 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_geopolitics
+
+Iran Gulf Oil Warning: Tehran Threatens to Halt Oil Exports The Impressive Times
+
+**Iran oil cargoes dry up even before US acts on Tehran threats; China's 'teapots' face crunch - livemint.com**
+`24 Aug 14:47 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_geopolitics
+
+Iran oil cargoes dry up even before US acts on Tehran threats; China's 'teapots' face crunch livemint.com
+
+**Norway Vows to Keep Drilling for Oil and Gas in the Arctic**
+`24 Aug 14:45 PKT` · pehli baar dekhi `24 Aug 15:18` · oilprice
+
+Norway plans to continue exploring for oil and gas in its Arctic waters in the Barents Sea regardless of whether the European Union supports or lifts a moratorium on Arctic drilling, Norway's Energy Minister Terje Aasland told Reuters. Norway, not an EU member but a close ally and the single biggest gas supplier to Europe, pursues increasing its oil and gas supply to meet demand in Europe, which has had to contend with the bans on Russian oil and gas imports amid two energy crises in four ...
+
+**Oil falls as Iran allows Iraqi tankers through Hormuz, easing supply concerns - Investing.com**
+`24 Aug 14:06 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_geopolitics
+
+Oil falls as Iran allows Iraqi tankers through Hormuz, easing supply concerns Investing.com
+
 **Oil Prices Decline as US Considers 'D-Day' Iran Sanctions; Focus on Strait of Hormuz Shipping Risks - Observer Voice**
 `24 Aug 14:05 PKT` · pehli baar dekhi `24 Aug 14:26` · gnews_geopolitics
 
@@ -981,6 +1132,11 @@ Oil Prices Decline as US Considers 'D-Day' Iran Sanctions; Focus on Strait of Ho
 `24 Aug 13:45 PKT` · pehli baar dekhi `24 Aug 14:26` · ing_think
 
 ASIA/PACIFIC: Singapore inflation picked up in July but remained below expectations. With further utility tariff increases ahead, elevated oil prices, and potential weather-related effects on food prices, upside inflation risks remain intact, keeping the October Monetary Authority of Singapore meeting live for another modest policy tightening
+
+**Oil prices fall ahead of a new economic blow from the US to Iran - Курс України**
+`24 Aug 13:29 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_geopolitics
+
+Oil prices fall ahead of a new economic blow from the US to Iran Курс України
 
 **Iran Running Out of Oil Cargoes - Rigzone**
 `24 Aug 13:25 PKT` · pehli baar dekhi `24 Aug 13:28` · gnews_geopolitics
@@ -1071,6 +1227,11 @@ Malaysian palm oil futures hovered just below MYR 5,000 per tonne, ending a five
 `24 Aug 09:00 PKT` · instaforex
 
 Indonesia's IDX Composite slipped 18 points, or 0.2%, to 6,511 in Monday morning trade, ending a two-session winning streak as selling pressure hit transportation, cyclical, and technology stocks. Investor sentiment turned cautious with borrowing costs still elevated after a cumulative 100 bps rate hike between May and June. At the same time, the current account deficit widened to a record level, driven by a shrinking goods surplus and higher energy import costs.
+
+**Brent Drops 1.87% as Bessent Vows to Sever Iran's Economic Lifelines - CryptoRank**
+`24 Aug 08:44 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_geopolitics
+
+Brent Drops 1.87% as Bessent Vows to Sever Iran's Economic Lifelines CryptoRank
 
 **Iran Threatens Total Oil Export Halt Through Strait of Hormuz If US Economic Pressure Continues - LatestLY**
 `24 Aug 08:04 PKT` · pehli baar dekhi `24 Aug 09:00` · gnews_geopolitics
@@ -1221,6 +1382,37 @@ The explicit threat to halt all oil exports from the Persian Gulf, not just the 
 
 ### CRYPTO
 
+**Fed experiment shows how bitcoin rallies attract new crypto buyers - CoinDesk**
+`24 Aug 14:56 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_fed
+
+Fed experiment shows how bitcoin rallies attract new crypto buyers CoinDesk
+
+**Fidelity doubles gold holdings amid Fed policy uncertainty - Crypto Briefing**
+`24 Aug 14:47 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_fed
+
+Fidelity doubles gold holdings amid Fed policy uncertainty Crypto Briefing
+
+**Bitcoin Holds Above $77,000 After Regulatory Optimism Drives Rebound**
+`24 Aug 14:33 PKT` · pehli baar dekhi `24 Aug 15:18` · yahoo_finance
+
+**Crypto Card Purchases Set New $1 Billion Monthly Record**
+`24 Aug 14:32 PKT` · pehli baar dekhi `24 Aug 15:18` · yahoo_finance
+
+**Fidelity portfolio manager plans to rebuild gold holdings amid Fed uncertainty - Crypto Briefing**
+`24 Aug 14:30 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_fed
+
+Fidelity portfolio manager plans to rebuild gold holdings amid Fed uncertainty Crypto Briefing
+
+**Fed Study Finds Bitcoin Returns Influence Household Crypto Purchases - Blockonomi**
+`24 Aug 14:30 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_fed
+
+Fed Study Finds Bitcoin Returns Influence Household Crypto Purchases Blockonomi
+
+**How Trump's Crypto Push Is Linked to Bessent's Treasury Moves**
+`24 Aug 14:30 PKT` · pehli baar dekhi `24 Aug 15:18` · wsj_markets
+
+Stablecoins could drive demand for Treasury bills.
+
 **Bitcoin ETF inflows hit $1.9B in strongest week since October 2025**
 `24 Aug 13:56 PKT` · pehli baar dekhi `24 Aug 14:26` · cointelegraph
 
@@ -1233,6 +1425,11 @@ US spot Bitcoin ETFs attracted $1.92 billion last week, their strongest weekly i
 `24 Aug 13:15 PKT` · pehli baar dekhi `24 Aug 14:26` · gnews_centralbanks
 
 ECB's Patience Tested As Inflation And Growth Tensions Persist, BNY Says Bitcoin World
+
+**Fed Study Finds Crypto Beliefs, Not Demographics, Drive Ownership - Crypto News Australia**
+`24 Aug 13:04 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_fed
+
+Fed Study Finds Crypto Beliefs, Not Demographics, Drive Ownership Crypto News Australia
 
 **Markets Drift As Investors Await Bessent's Iran-Related Press Conference; Oil Futures Slide - Bitcoin World**
 `24 Aug 13:00 PKT` · pehli baar dekhi `24 Aug 14:26` · gnews_geopolitics
@@ -1314,6 +1511,11 @@ Fed study links crypto demand to beliefs grafa.com
 
 Bitcoin plunges 7% after Fed nominee Warsh spar... Pluang
 
+**Bitcoin's 2026 FOMC Track Record Shows Bearish Pressure Amid Fed Rate Decisions - KuCoin**
+`24 Aug 03:13 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_fed
+
+Bitcoin's 2026 FOMC Track Record Shows Bearish Pressure Amid Fed Rate Decisions KuCoin
+
 **September FOMC is coming – Bitcoin's 2026 track record reveals why it's bad news - AMBCrypto**
 `24 Aug 03:00 PKT` · pehli baar dekhi `24 Aug 03:28` · gnews_fed
 
@@ -1325,6 +1527,34 @@ September FOMC is coming – Bitcoin's 2026 track record reveals why it's bad ne
 `24 Aug 07:14 PKT` · pehli baar dekhi `24 Aug 07:58` · investing_news
 
 ### RISK
+
+**DAX Starts Week on Negative Note**
+`24 Aug 15:18 PKT` · instaforex
+
+The DAX 40 slipped about 0.3% to below 26,100 on Monday, erasing gains from the previous session as technology shares came under pressure amid heightened caution ahead of Nvidia's earnings release. Sentiment was further weighed down as investors awaited details of new US sanctions on Iran expected later in the day. The US administration has recently signaled its intention to step up economic pressure on Iran and its trading partners in an effort to help bring the conflict with Iran to an end.
+
+**Oil Pulls Back As Traders Wait For New US Iran Sanctions - Finimize**
+`24 Aug 15:00 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_geopolitics
+
+Oil Pulls Back As Traders Wait For New US Iran Sanctions Finimize
+
+**The post-World War II market shift is here — and bond yields could have higher to go, says Morgan Stanley**
+`24 Aug 14:54 PKT` · pehli baar dekhi `24 Aug 15:18` · mw_topstories
+
+Morgan Stanley recommends quality stocks with large market capitalizations, adopters of artificial intelligence and the S&P 500.
+
+**The Iran War's Latest Toll: A 44-Year Low In US Oil Supply - the deep dive**
+`24 Aug 14:34 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_geopolitics
+
+The Iran War's Latest Toll: A 44-Year Low In US Oil Supply the deep dive
+
+**Exxon's Weekly $20.6 Billion Gain Threatened by Iran Sanctions - TechStock²**
+`24 Aug 14:31 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_geopolitics
+
+Exxon's Weekly $20.6 Billion Gain Threatened by Iran Sanctions TechStock²
+
+**AI Trade in Focus as Nvidia Earnings and Iran Sanctions Keep Markets on Edge: Dow Jones, S&P, Nasdaq, Wall Street Futures**
+`24 Aug 14:28 PKT` · pehli baar dekhi `24 Aug 15:18` · yahoo_finance
 
 **US threat of 'economic D-Day' for Iran tests Trump's China detente**
 `24 Aug 14:10 PKT` · pehli baar dekhi `24 Aug 14:26` · aljazeera
@@ -1393,6 +1623,11 @@ South African rand holds near multi-month high as Iran sanctions loom Business R
 
 **European equities trade sideways as markets await Iran sanctions**
 `24 Aug 12:14 PKT` · pehli baar dekhi `24 Aug 12:40` · investing_news
+
+**ExxonMobil Stock Tops Oil And Gas Picks As Iran Sanctions Threaten Supply - simplywall.st**
+`24 Aug 12:07 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_geopolitics
+
+ExxonMobil Stock Tops Oil And Gas Picks As Iran Sanctions Threaten Supply simplywall.st
 
 **Iran Warns Against Sweeping New US Sanctions, Will Washington's Toughest Economic Offensive Change - Free Press Journal**
 `24 Aug 12:01 PKT` · pehli baar dekhi `24 Aug 12:40` · gnews_geopolitics
@@ -1514,6 +1749,12 @@ Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like wat
 
 'Not a single drop of oil' will be exported if US economic war continues: Iran Aaj English TV
 
+**WTI Dips Below $85 as Traders Lock in Profits Ahead of New Iran Sanctions - CryptoRank**
+`24 Aug 08:44 PKT` · pehli baar dekhi `24 Aug 15:18` · gnews_geopolitics · **2 feeds mein**
+
+WTI Dips Below $85 as Traders Lock in Profits Ahead of New Iran Sanctions CryptoRank
+  - `24 Aug 07:20` *gnews_geopolitics* — WTI Dips Below $85 As Traders Lock In Profits Ahead Of New Iran Sanctions - Bitcoin World
+
 **Iran discovers over 200 billion cubic metres of gas as US sanctions squeeze energy sector - News9live**
 `24 Aug 08:34 PKT` · pehli baar dekhi `24 Aug 09:00` · gnews_geopolitics
 
@@ -1580,11 +1821,6 @@ Oil Prices Dip 1% as Markets Await New US Sanctions on Iran Whalesbook
 
 Oil falls ahead of US announcement on new Iran sanctions, Money News AsiaOne
   - `24 Aug 07:30` *gnews_geopolitics* — Oil falls ahead of US announcement on new Iran sanctions, Money News - AsiaOne
-
-**WTI Dips Below $85 As Traders Lock In Profits Ahead Of New Iran Sanctions - Bitcoin World**
-`24 Aug 07:20 PKT` · pehli baar dekhi `24 Aug 09:00` · gnews_geopolitics
-
-WTI Dips Below $85 As Traders Lock In Profits Ahead Of New Iran Sanctions Bitcoin World
 
 **Shares flat in Asia before Iran sanctions news, Nvidia results - The Straits Times**
 `24 Aug 07:13 PKT` · pehli baar dekhi `24 Aug 07:58` · gnews_fed · **3 feeds mein**
@@ -1723,12 +1959,53 @@ Market Analysts React to US-Israel Strikes on Iran EnergyNow
 
 World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks EnergyNow
 
-### BINA TAG (154)
+### BINA TAG (196)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `24 Aug 15:18` **instaforex** — Taiwan M2 Money Supply Growth Eases
+- `24 Aug 15:18` **instaforex** — Taiwan's M3 Money Supply Edges Higher in July, Signaling Stable Liquidity Conditions
+- `24 Aug 15:18` **instaforex** — Taiwan's M2 Growth Cools to 7.42% in July, Marking Second Month of Deceleration
+- `24 Aug 15:18` **instaforex** — US Natgas Prices Fall on Monday
+- `24 Aug 15:18` **instaforex** — Czech Republic Consumer Morale at 1-Year Low
+- `24 Aug 15:15` **mw_topstories** — 'My main goal is to help people': I'm single, 74, with $10 million burning a hole in my pocket. What should I do?
+- `24 Aug 15:12` **wsj_markets** — Uncle Sam's $40 Trillion Tab Is Living Rent-Free in Your Mortgage Payment
+- `24 Aug 15:10` **yahoo_finance** — Indian family office assets to grow 1.5x over three years: Julius Baer-EY report
+- `24 Aug 15:04` **yahoo_finance** — Fairfax may get time to align bank stakes for IDBI bid – report
+- `24 Aug 15:03` **yahoo_finance** — At 62, This Farmer Found a Social Security Tax Break Hidden Inside His USDA Conservation Checks.
+- `24 Aug 15:03` **yahoo_finance** — His IRA Cratered From $100,000 to $16,000. The RMD Still Came Due and Pulled Social Security Into the Tax Bill.
+- `24 Aug 15:00` **yahoo_finance** — Best high-yield savings interest rates today, Monday, August 24, 2026: Earn up to 4.15% APY
+- `24 Aug 15:00` **yahoo_finance** — Best CD rates today, Monday, August 24, 2026: Lock in up to 4.35% APY
+- `24 Aug 15:00` **yahoo_finance** — Mortgage and refinance rates today, Monday, August 24, 2026: Purchase and refi rates prove shopping matters
+- `24 Aug 15:00` **yahoo_finance** — HELOC and home equity loan rates today, Monday, August 24, 2026: A 19-basis-point differential
+- `24 Aug 14:58` **aljazeera** — US military says strike on alleged drug-smuggling boat kills two
+- `24 Aug 14:56` **investing_news** — Evercore ISI reiterates Dell stock Outperform on AI server demand
+- `24 Aug 14:56` **investing_news** — Wolfe Research upgrades Janux stock rating on autoimmune data
+- `24 Aug 14:56` **investing_news** — William Blair initiates Reformation stock with outperform rating
+- `24 Aug 14:56` **gnews_fed** — XRP's FedNow Connection Sends Ripple Community Into a Frenzy - Coinpaper
+- `24 Aug 14:52` **investing_news** — Global steel output edges lower as China decline offsets growth, Morgan Stanley comments
+- `24 Aug 14:50` **investing_news** — Evercore ISI initiates Jersey Mike's stock with outperform rating
+- `24 Aug 14:50` **yahoo_finance** — The One Line in Anthropic's S-1 That Amazon Investors Should Read First
+- `24 Aug 14:48` **investing_news** — Hengli takes top spot in global containership orders
+- `24 Aug 14:47` **investing_news** — Why is Jersey Mike's Subs stock climbing today?
+- `24 Aug 14:46` **investing_news** — Why is Nucor stock climbing today?
+- `24 Aug 14:45` **yahoo_finance** — My brother just died, and I don't want to work anymore, but I can't afford to quit. Is a 'soft retirement' the solution?
+- `24 Aug 14:44` **aljazeera** — Dozens of coordinated arson attacks carried out across Thailand
+- `24 Aug 14:44` **aljazeera** — Macron and MBS attend Esports World Cup closing ceremony
+- `24 Aug 14:42` **yahoo_finance** — Should You Buy Dogecoin While It's Below $0.10? The Answer Might Shock You.
+- `24 Aug 14:38` **yahoo_finance** — EQ expands Scottish presence with Innes & Partners deal
+- `24 Aug 14:35` **yahoo_finance** — Beyond Nvidia, AMD, and Broadcom: Why This Chip Stock Will Emerge as the Biggest Winner of the AI Semiconductor Boom
+- `24 Aug 14:33` **aljazeera** — Give Imran Khan proper medical care, cricket legends urge Pakistani gov't
+- `24 Aug 14:31` **investinglive** — PrimeXBT Guide to Trading Costs: Spreads, Fees, and Swap-Free Trading
+- `24 Aug 14:30` **yahoo_finance** — ISCA, ICAI partner on responsible AI learning for accountants
+- `24 Aug 14:30` **yahoo_finance** — An 83-year-old has $31,000 in credit card debt — her daughter needs to know one thing before paying another bill
+- `24 Aug 14:29` **aljazeera** — Transfer target Julian Alvarez booed by fans in Atletico Madrid win
+- `24 Aug 14:26` **yahoo_finance** — 8 Billionaire Money Managers Dumped Micron in the Second Quarter, With Several Favoring This Foundational AI Stock Instead
+- `24 Aug 14:20` **yahoo_finance** — US launches national security probe into Shein-Everlane deal – report
+- `24 Aug 14:17` **yahoo_finance** — GE Vernova to supply technology for stage three of Supernode BESS project
 - `24 Aug 14:16` **fxstreet_news** — Hungarian Forint: Rate path extends beyond summer – ING
 - `24 Aug 14:16` **mw_topstories** — My father-in-law passed away, leaving a house with tenants. Do I evict them?
+- `24 Aug 14:15` **yahoo_finance** — Archion reports strong maiden Q1 results
 - `24 Aug 14:14` **investing_news** — DoorDash stock rating maintained at Market Outperform by Citizens
 - `24 Aug 14:13` **mw_topstories** — Alibaba shares tumble as investors question whether AI spending splurge is justified
 - `24 Aug 14:12` **investing_news** — CB&I wins $50-100M operations contract in Côte d'Ivoire
@@ -1818,6 +2095,7 @@ World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks
 - `24 Aug 09:22` **investing_news** — Why is Samsung Electronics stock plunging today?
 - `24 Aug 09:19` **aljazeera** — Maradona's 'Hand of God' ball from Mexico sells for $3.35m
 - `24 Aug 09:18` **aljazeera** — Climbers escape rockfall crossing 'Death Pass' on Mont Blanc
+- `24 Aug 08:57` **gnews_centralbanks** — CIO Weekly: What Happens If No One Hikes? - Neuberger Berman
 - `24 Aug 08:56` **aljazeera** — Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions
 - `24 Aug 08:48` **investing_news** — Shein to pay up to $3.5 billion to select pre-IPO investors around Hong Kong listing
 - `24 Aug 08:38` **investing_news** — Alibaba shares plunge as Burry exits stake, shifts to JD.com
@@ -1898,12 +2176,12 @@ investing_news (18)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 23 | 1 | 22 | 2 | 0.0 |
+| investinglive | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
 | fxstreet_news | OK | 30 | 30 | 7 | 23 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
-| actionforex | OK | 20 | 17 | 4 | 13 | 3 | 0.0 |
+| actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.0 |
 | marketpulse | OK | 5 | 0 | 0 | 0 | 5 | 2.4 |
-| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| instaforex | OK | 25 | 25 | 14 | 11 | 0 | -0.1 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
 | cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
@@ -1912,32 +2190,31 @@ investing_news (18)
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.2 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 57 | 26 | 2 | 24 | 31 | 0.0 |
-| gnews_geopolitics | OK | 81 | 69 | 5 | 64 | 12 | 0.0 |
-| gnews_centralbanks | OK | 40 | 33 | 4 | 29 | 7 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.6 |
+| gnews_fed | OK | 66 | 35 | 10 | 25 | 31 | 0.0 |
+| gnews_geopolitics | OK | 87 | 77 | 10 | 67 | 10 | 0.0 |
+| gnews_centralbanks | OK | 33 | 26 | 4 | 22 | 7 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.7 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 18.6 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.1 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.2 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.9 |
 | boj_whatsnew | OK | 46 | 4 | 0 | 4 | 42 | 0.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.1 |
 | mining_com | OK | 36 | 0 | 0 | 0 | 36 | 0.9 |
-| oilprice | OK | 15 | 5 | 1 | 4 | 10 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| ing_think | OK | 10 | 4 | 2 | 2 | 6 | 0.0 |
-| bbc_business | OK | 51 | 7 | 0 | 7 | 44 | 0.1 |
-| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
+| oilprice | OK | 15 | 6 | 1 | 5 | 9 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| ing_think | OK | 10 | 5 | 1 | 4 | 5 | 0.0 |
+| bbc_business | OK | 51 | 7 | 0 | 7 | 44 | 0.0 |
+| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
 | snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.0 |
 | eia_energy | WARN | 18 | 0 | 0 | 0 | 18 | 4.8 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 19.9 |
-| wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.0 |
-| wsj_markets | OK | 61 | 10 | 2 | 8 | 51 | 0.0 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
-| yahoo_finance | OK | 47 | 26 | 23 | 3 | 21 | 0.0 |
-| mw_topstories | OK | 10 | 5 | 3 | 2 | 5 | 0.0 |
-| cointelegraph | OK | 30 | 6 | 1 | 5 | 24 | 0.0 |
+| wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.1 |
+| wsj_markets | OK | 61 | 13 | 3 | 10 | 48 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 35 | 25 | 10 | 14 | 0.0 |
+| mw_topstories | OK | 10 | 7 | 2 | 5 | 3 | 0.0 |
+| cointelegraph | OK | 30 | 6 | 0 | 6 | 24 | 0.1 |
 
 **Jo feeds nahi aaye:**
-- instaforex — FAIL, koi item nahi
 - kitco_general — FAIL, koi item nahi
