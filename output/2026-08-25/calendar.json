@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "25 Aug 2026 10:57",
+  "generated_pkt": "25 Aug 2026 17:30",
   "trading_day": "2026-08-25",
   "feed_sources": {
     "thisweek": "live"
@@ -903,5 +903,48 @@
       "trading_day": "2026-08-29"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "France August consumer confidence 86 vs 87 expected",
+      "actual_raw": "86",
+      "forecast_raw": "87",
+      "beat": false,
+      "raw_diff": "-1.00",
+      "sign_flip": false,
+      "diff_pct": -1.1,
+      "when_pkt": "25 Aug 11:45",
+      "source": "investinglive",
+      "tags": [
+        "eur"
+      ]
+    },
+    {
+      "title": "Germany August Ifo business climate index 88.8 vs 87.2 expected",
+      "actual_raw": "88.8",
+      "forecast_raw": "87.2",
+      "beat": true,
+      "raw_diff": "+1.60",
+      "sign_flip": false,
+      "diff_pct": 1.8,
+      "when_pkt": "25 Aug 13:00",
+      "source": "investinglive",
+      "tags": [
+        "eur"
+      ]
+    },
+    {
+      "title": "Germany's IFO Business Climate Index improves again, arriving at 88.8 vs. 87.2 estimates",
+      "actual_raw": "88.8",
+      "forecast_raw": "87.2",
+      "beat": true,
+      "raw_diff": "+1.60",
+      "sign_flip": false,
+      "diff_pct": 1.8,
+      "when_pkt": "25 Aug 13:02",
+      "source": "fxstreet_news",
+      "tags": [
+        "eur"
+      ]
+    }
+  ]
 }

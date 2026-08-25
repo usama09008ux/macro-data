@@ -1,6 +1,6 @@
 # Calendar — Trading Day 25 Aug 2026
 
-- Banaya gaya: **25 Aug 2026 10:57 PKT**
+- Banaya gaya: **25 Aug 2026 17:30 PKT**
 - Trading day: **25 Aug 03:00 -> 26 Aug 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,10 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 11:00 | EUR | low | German Final GDP q/q | 0.2% | 0.2% |
-| 13:00 | EUR | low | German ifo Business Climate | 87.2 | 86.6 |
-| 17:15 | USD | low | ADP Weekly Employment Change | - | 9.5K |
-| 17:30 | USD | low | FOMC Member Barkin Speaks | - | - |
 | 18:00 | EUR | low | Belgian NBB Business Climate | -11.0 | -11.9 |
 | 18:00 | USD | low | HPI m/m | 0.2% | 0.3% |
 | 18:00 | USD | low | S&P/CS Composite-20 HPI y/y | 1.8% | 1.6% |
@@ -30,12 +26,23 @@
 | **26 Aug** 06:30 | AUD | **HIGH** | CPI y/y | 3.3% | 3.8% |
 | **26 Aug** 06:30 | AUD | **HIGH** | Trimmed Mean CPI m/m | 0.4% | 0.3% |
 | **26 Aug** 06:30 | AUD | low | Construction Work Done q/q | 0.5% | 3.4% |
+| **26 Aug** 13:00 | CHF | low | UBS Economic Expectations | - | 10.0 |
+| **26 Aug** 15:00 | GBP | low | CBI Realized Sales | -35 | -26 |
+| **26 Aug** 17:30 | USD | **HIGH** | Core PCE Price Index m/m | 0.2% | 0.1% |
+| **26 Aug** 17:30 | USD | **HIGH** | Prelim GDP q/q | 1.5% | 1.5% |
+| **26 Aug** 17:30 | USD | MED | Prelim GDP Price Index q/q | 6.2% | 6.2% |
+| **26 Aug** 17:30 | USD | low | Core Durable Goods Orders m/m | 0.6% | 0.6% |
+| **26 Aug** 17:30 | USD | low | Durable Goods Orders m/m | 0.4% | 0.3% |
+| **26 Aug** 17:30 | USD | low | Personal Income m/m | 0.2% | 0.2% |
+| **26 Aug** 17:30 | USD | low | Personal Spending m/m | 0.1% | 0.3% |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
 - `26 Aug 06:30` **AUD CPI m/m**
 - `26 Aug 06:30` **AUD CPI y/y**
 - `26 Aug 06:30` **AUD Trimmed Mean CPI m/m**
+- `26 Aug 17:30` **USD Core PCE Price Index m/m**
+- `26 Aug 17:30` **USD Prelim GDP q/q**
 
 ---
 
@@ -43,9 +50,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **26 Aug** 17:30 | USD | **HIGH** | Core PCE Price Index m/m | 0.2% | 0.1% |
-| **26 Aug** 17:30 | USD | **HIGH** | Prelim GDP q/q | 1.5% | 1.5% |
-| **26 Aug** 17:30 | USD | MED | Prelim GDP Price Index q/q | 6.2% | 6.2% |
 | **27 Aug** 17:30 | USD | MED | Unemployment Claims | 208K | 206K |
 | **27 Aug** 21:15 | All | MED | Jackson Hole Symposium | - | - |
 | **28 Aug** 04:30 | JPY | MED | Tokyo Core CPI y/y | 1.8% | 1.9% |
@@ -61,5 +65,11 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 25 Aug 13:02 | Germany's IFO Business Climate Index improve | 88.8 | 87.2 | +1.60 (+2%) | upar |
+| 25 Aug 13:00 | Germany August Ifo business climate index | 88.8 | 87.2 | +1.60 (+2%) | upar |
+| 25 Aug 11:45 | France August consumer confidence | 86 | 87 | -1.00 (-1%) | neeche |
 
