@@ -1,6 +1,6 @@
 # Calendar — Trading Day 25 Aug 2026
 
-- Banaya gaya: **25 Aug 2026 17:30 PKT**
+- Banaya gaya: **25 Aug 2026 22:23 PKT**
 - Trading day: **25 Aug 03:00 -> 26 Aug 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,12 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 18:00 | EUR | low | Belgian NBB Business Climate | -11.0 | -11.9 |
-| 18:00 | USD | low | HPI m/m | 0.2% | 0.3% |
-| 18:00 | USD | low | S&P/CS Composite-20 HPI y/y | 1.8% | 1.6% |
-| 19:00 | USD | MED | CB Consumer Confidence | 90.3 | 90.8 |
-| 19:00 | USD | low | New Home Sales | 620K | 628K |
-| 19:00 | USD | low | Richmond Manufacturing Index | 6 | 5 |
 | **26 Aug** 01:00 | USD | low | FOMC Member Barkin Speaks | - | - |
 | **26 Aug** 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
 | **26 Aug** 04:50 | JPY | low | SPPI y/y | 3.2% | 3.2% |
@@ -35,6 +29,9 @@
 | **26 Aug** 17:30 | USD | low | Durable Goods Orders m/m | 0.4% | 0.3% |
 | **26 Aug** 17:30 | USD | low | Personal Income m/m | 0.2% | 0.2% |
 | **26 Aug** 17:30 | USD | low | Personal Spending m/m | 0.1% | 0.3% |
+| **26 Aug** 19:30 | USD | low | Crude Oil Inventories | 1.6M | 4.4M |
+| **26 Aug** 20:45 | USD | low | FOMC Member Barkin Speaks | - | - |
+| **26 Aug** 21:15 | CHF | low | Gov Board Member Martin Speaks | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
@@ -69,6 +66,8 @@
 
 | Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
 |---|---|---|---|---|---|
+| 25 Aug 19:00 | US New home sales for July | 0.607M | 0.620M | -0.0M (-2%) | neeche |
+| 25 Aug 19:00 | US Conference Board August consumer confiden | 89.4 | 90.2 | -0.80 (-1%) | neeche |
 | 25 Aug 13:02 | Germany's IFO Business Climate Index improve | 88.8 | 87.2 | +1.60 (+2%) | upar |
 | 25 Aug 13:00 | Germany August Ifo business climate index | 88.8 | 87.2 | +1.60 (+2%) | upar |
 | 25 Aug 11:45 | France August consumer confidence | 86 | 87 | -1.00 (-1%) | neeche |

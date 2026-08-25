@@ -336,7 +336,7 @@
 		<date><![CDATA[08-26-2026]]></date>
 		<time><![CDATA[2:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[1.9M]]></forecast>
+		<forecast><![CDATA[1.6M]]></forecast>
 		<previous><![CDATA[4.4M]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/10-us-crude-oil-inventories]]></url>
 	</event>
@@ -486,7 +486,7 @@
 		<date><![CDATA[08-27-2026]]></date>
 		<time><![CDATA[2:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast />
+		<forecast><![CDATA[19B]]></forecast>
 		<previous><![CDATA[16B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/26-us-natural-gas-storage]]></url>
 	</event>
@@ -607,7 +607,7 @@
 		<time><![CDATA[9:33am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
-		<previous />
+		<previous><![CDATA[4.00|1.7]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/524-it-10-y-bond-auction]]></url>
 	</event>
 	<event>

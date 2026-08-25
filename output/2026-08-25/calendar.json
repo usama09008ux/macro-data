@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "25 Aug 2026 17:30",
+  "generated_pkt": "25 Aug 2026 22:23",
   "trading_day": "2026-08-25",
   "feed_sources": {
     "thisweek": "live"
@@ -438,7 +438,7 @@
       "title": "Crude Oil Inventories",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "1.9M",
+      "forecast": "1.6M",
       "previous": "4.4M",
       "url": "https://www.forexfactory.com/calendar/10-us-crude-oil-inventories",
       "all_day": false,
@@ -633,7 +633,7 @@
       "title": "Natural Gas Storage",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "19B",
       "previous": "16B",
       "url": "https://www.forexfactory.com/calendar/26-us-natural-gas-storage",
       "all_day": false,
@@ -790,7 +790,7 @@
       "ccy": "EUR",
       "impact": "Low",
       "forecast": "",
-      "previous": "",
+      "previous": "4.00|1.7",
       "url": "https://www.forexfactory.com/calendar/524-it-10-y-bond-auction",
       "all_day": false,
       "utc": "2026-08-28T09:33Z",
@@ -945,6 +945,32 @@
       "tags": [
         "eur"
       ]
+    },
+    {
+      "title": "US New home sales for July 0.607M vs 0.620M estimate",
+      "actual_raw": "0.607M",
+      "forecast_raw": "0.620M",
+      "beat": false,
+      "raw_diff": "-0.0M",
+      "sign_flip": false,
+      "diff_pct": -2.1,
+      "when_pkt": "25 Aug 19:00",
+      "source": "investinglive",
+      "tags": [
+        "rates"
+      ]
+    },
+    {
+      "title": "US Conference Board August consumer confidence 89.4 vs 90.2 expected",
+      "actual_raw": "89.4",
+      "forecast_raw": "90.2",
+      "beat": false,
+      "raw_diff": "-0.80",
+      "sign_flip": false,
+      "diff_pct": -0.9,
+      "when_pkt": "25 Aug 19:00",
+      "source": "investinglive",
+      "tags": []
     }
   ]
 }
