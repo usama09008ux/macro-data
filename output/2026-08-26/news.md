@@ -1,8 +1,8 @@
 # News Pack — Trading Day 26 Aug 2026
 
 - Trading day: **26 Aug 03:00 -> 27 Aug 02:59 PKT**
-- Aakhri update: **26 Aug 03:47 PKT**
-- Kul khabrein: **25**
+- Aakhri update: **26 Aug 04:13 PKT**
+- Kul khabrein: **42**
 - Feeds: 39/39 OK
 
 ---
@@ -18,10 +18,21 @@ Gold Fields flags Ghana licence risk as half-year profit surges KITCO
 
 ### USD
 
-**Fed Chairman Kevin Warsh Cut the Fed's Post-Meeting Statement From 341 Words to Just 130, Dropping All Mention of Future Rate Cuts. Does That Signal Higher-for-Longer Rates Are Here to Stay? - The Motley Fool**
-`26 Aug 03:43 PKT` · pehli baar dekhi `26 Aug 03:47` · gnews_fed
+**NZX 50 Edges Lower in Morning Trade**
+`26 Aug 04:13 PKT` · instaforex
 
-Fed Chairman Kevin Warsh Cut the Fed's Post-Meeting Statement From 341 Words to Just 130, Dropping All Mention of Future Rate Cuts. Does That Signal Higher-for-Longer Rates Are Here to Stay? The Motley Fool
+New Zealand shares slipped 15 points, or 0.1%, to 13,982 in Wednesday morning trade, erasing the previous session's gains, with weakness concentrated in healthcare, energy, and utilities. Investors remained cautious ahead of a busy corporate earnings calendar later this week, with Meridian Energy due to report today.
+
+**Fed's Barkin says rising US debt will eventually lead to a reckoning**
+`26 Aug 03:49 PKT` · pehli baar dekhi `26 Aug 04:13` · investinglive
+
+Barkin's comments add a senior Fed voice to a debate that has already unsettled bond markets this month, following the sharp Treasury sell off that forced an extraordinary buyback intervention and pushed long dated yields to multi decade highs. While he stopped short of predicting a near term crisis, his direct warning that investors could eventually stop buying US debt echoes concerns already raised by figures across Wall Street this year.
+
+**Fed Chairman Kevin Warsh Cut the Fed's Post-Meeting Statement From 341 Words to Just 130, Dropping All Mention of Future Rate Cuts. Does That Signal Higher-for-Longer Rates Are Here to Stay? - AOL.com**
+`26 Aug 03:49 PKT` · pehli baar dekhi `26 Aug 04:13` · gnews_fed · **2 feeds mein**
+
+Fed Chairman Kevin Warsh Cut the Fed's Post-Meeting Statement From 341 Words to Just 130, Dropping All Mention of Future Rate Cuts. Does That Signal Higher-for-Longer Rates Are Here to Stay? AOL.com
+  - `26 Aug 03:43` *gnews_fed* — Fed Chairman Kevin Warsh Cut the Fed's Post-Meeting Statement From 341 Words to Just 130, Dropping All Mention of Future Rate Cuts. Does That Signal Higher-for-Longer Rates Are Here to Stay? - The Motley Fool
 
 **Singapore Dollar: Consolidation risk after recent gains against US Dollar – OCBC**
 `26 Aug 03:37 PKT` · pehli baar dekhi `26 Aug 03:47` · fxstreet_news
@@ -38,7 +49,19 @@ The upcoming PCE Price Index report, scheduled for release on Wednesday, August 
 
 The Mexican Peso holds firm near 10-year highs against the US Dollar on Tuesday, as the USD/MXN pair sits below the 16.95 level while investors digest US economic data and recent developments between the US and Iran. The exotic pair trades at 16.94, virtually unchanged.
 
+### GBP
+
+**Pound Sterling's six-month high has no British test this week**
+`26 Aug 04:01 PKT` · pehli baar dekhi `26 Aug 04:13` · fxstreet_news
+
+GBP/USD trades near 1.3650 late on Tuesday, August 25, up around a tenth of a percent on a session that has covered barely 33 pips between a floor just above 1.3600 and a ceiling a shade over 1.3650.
+
 ### JPY
+
+**Tokyo bought the Japanese Yen a range, not a trend**
+`26 Aug 04:02 PKT` · pehli baar dekhi `26 Aug 04:13` · fxstreet_news
+
+USD/JPY trades just above 159.00 late on Tuesday, August 25, holding a gain of under a tenth of a percent across a session that has covered 44 pips between a floor near 159.00 and a ceiling short of 159.50.
 
 **GBP/JPY Price Forecast: Bulls hold 217.00 after trendline break**
 `26 Aug 03:14 PKT` · pehli baar dekhi `26 Aug 03:47` · fxstreet_news
@@ -57,6 +80,11 @@ BOJ to speed up its tightening campaign, raise key rate to 1.25% in September Re
 
 ### AUD
 
+**Australian Dollar rises after RBA hawkish minutes, inflation data eyed**
+`26 Aug 04:04 PKT` · pehli baar dekhi `26 Aug 04:13` · fxstreet_news
+
+The Aussie Dollar advanced on Tuesday, gaining over 0.20% as the Greenback edged lower, amid minutes from the Reserve Bank of Australia (RBA)'s last meeting suggesting the board was close to raising rates. At the time of writing, the AUD/USD trades at 0.7163, after bouncing off daily lows of 0.7137.
+
 **Australia CPI expected to show inflation easing in July**
 `26 Aug 03:30 PKT` · pehli baar dekhi `26 Aug 03:47` · fxstreet_news
 
@@ -66,6 +94,13 @@ The Australian Bureau of Statistics (ABS) will publish the July Consumer Price I
 
 **Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on**
 `26 Aug 03:30 PKT` · pehli baar dekhi `26 Aug 03:47` · investing_commodities
+
+### CRYPTO
+
+**AI gold rush draws crypto firms away from Bitcoin**
+`26 Aug 04:11 PKT` · pehli baar dekhi `26 Aug 04:13` · bbc_business
+
+The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.
 
 ### RISK
 
@@ -79,10 +114,15 @@ Oil settles down more than 3%; investors shrug off US sanctions on Iran The Busi
 
 As Russia remains occupied with its war in Ukraine, Iran focuses on defending its territory against U.S. and Israeli attacks, and China maintains its involvement in both conflicts under the bar that would trigger direct conflict with America, Washington is leveraging its position in Iraq. These efforts by the U.S.
 
-### BINA TAG (6)
+### BINA TAG (11)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `26 Aug 04:09` **bbc_business** — Firms scramble for battery power in Spain and Portugal
+- `26 Aug 04:08` **bbc_business** — Back to school: How to save on uniform costs
+- `26 Aug 04:07` **bbc_business** — Winter energy prices expected to rise to three-year high
+- `26 Aug 03:44` **investing_news** — Waystar names new product chief, promotes commercial head
+- `26 Aug 03:33` **gnews_fed** — Alan Greenspan, Former Federal Reserve Chairman, Dies At 100 Ketanji Brown Jackson Solo Dissents (4RlbqKIeiV) - Mshale
 - `26 Aug 03:25` **wsj_markets** — Druckenmiller's Surprising Critique of Bessent Was Delivered With the Help of AI
 - `26 Aug 03:18` **investing_news** — We told you first: these AI-picked small-cap stocks are both up +41% MTD
 - `26 Aug 03:16` **investing_news** — Brixton Metals closes financing raising $9 million total
@@ -92,11 +132,11 @@ As Russia remains occupied with its war in Ukraine, Iran focuses on defending it
 
 ---
 
-## Shor — 7 khabrein hatai gayin
+## Shor — 12 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (7)
+investing_news (12)
 
 ---
 
@@ -106,42 +146,42 @@ investing_news (7)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | fxstreet_news | OK | 30 | 30 | 3 | 27 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 4 | 0 | 4 | 26 | 0.1 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.4 |
-| marketpulse | OK | 4 | 1 | 1 | 0 | 3 | 0.0 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.1 |
-| wsj_economy | OK | 36 | 7 | 0 | 7 | 29 | 0.3 |
+| marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.0 |
+| instaforex | OK | 25 | 25 | 1 | 24 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 7 | 0 | 7 | 29 | 0.4 |
 | cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
 | cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
 | cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
 | cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
 | cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.1 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 12.7 |
-| kitco_general | OK | 39 | 39 | 6 | 33 | 0 | 0.0 |
-| gnews_fed | OK | 83 | 83 | 2 | 81 | 0 | 0.0 |
-| gnews_geopolitics | OK | 100 | 100 | 2 | 98 | 0 | 0.0 |
-| gnews_centralbanks | OK | 28 | 28 | 0 | 28 | 0 | 0.0 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 12.8 |
+| kitco_general | OK | 39 | 39 | 0 | 39 | 0 | 0.0 |
+| gnews_fed | OK | 85 | 85 | 2 | 83 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 0 | 100 | 0 | 0.1 |
+| gnews_centralbanks | OK | 27 | 27 | 0 | 27 | 0 | 0.0 |
 | fed_monetary | OK | 15 | 1 | 0 | 1 | 14 | 0.2 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.1 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 14.4 |
-| boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.7 |
+| boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.8 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.6 |
 | mining_com | OK | 36 | 4 | 0 | 4 | 32 | 0.2 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
-| bbc_business | OK | 51 | 16 | 0 | 16 | 35 | 0.3 |
-| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| bbc_business | OK | 53 | 21 | 4 | 17 | 32 | 0.0 |
+| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
 | snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 25.6 |
 | eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.4 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 21.4 |
 | wsj_world | OK | 70 | 16 | 0 | 16 | 54 | 0.0 |
 | wsj_markets | OK | 61 | 30 | 1 | 29 | 31 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 5 | 0 | 5 | 44 | 0.4 |
+| investing_news | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 6 | 0 | 6 | 44 | 0.1 |
 | mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 22 | 1 | 21 | 8 | 0.1 |
+| cointelegraph | OK | 30 | 22 | 0 | 22 | 8 | 0.1 |
