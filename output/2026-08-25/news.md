@@ -1,8 +1,8 @@
 # News Pack — Trading Day 25 Aug 2026
 
 - Trading day: **25 Aug 03:00 -> 26 Aug 02:59 PKT**
-- Aakhri update: **26 Aug 02:48 PKT**
-- Kul khabrein: **1539**
+- Aakhri update: **26 Aug 03:11 PKT**
+- Kul khabrein: **1556**
 - Feeds: 38/39 OK
 
 ---
@@ -259,6 +259,11 @@ The GBP/JPY consolidates near familiar levels around 217.00 on Monday, as risk a
 The dollar's slide to its weakest level since May reflects a shift in the rates backdrop rather than a single catalyst, with the Treasury's expanded buyback plan adding to pressure on medium and long-term yields already primed for lower Fed expectations. HSBC's framing suggests near-term price action will stay driven by incoming data and rate pricing rather than the structural concerns building beneath the surface, meaning a September Fed hold could extend the greenback's slide.
 
 ### GOLD
+
+**Thai Baht: Bullish bias against US Dollar faces BoT sensitivity – OCBC**
+`26 Aug 02:54 PKT` · pehli baar dekhi `26 Aug 03:11` · fxstreet_news
+
+OCBC's Sim Moh Siong and Christopher Wong highlight that Thai Baht (THB) has rallied to a two‑month high on softer US Dollar (USD), lower Oil prices, strong electronics exports and Gold-related flows.
 
 **Gold is having its best month since 1999. A former banker told me most people still aren't protected - KITCO**
 `26 Aug 02:17 PKT` · pehli baar dekhi `26 Aug 02:48` · kitco_general
@@ -518,6 +523,11 @@ Societe Generale analysts highlight that the Korean Won (KRW) has gained 12% ver
 
 OCBC's Sim Moh Siong and Christopher Wong note that reports of potential US tariffs on Chinese goods and the PBoC's resistance to rapid Renminbi (RMB) gains are likely to limit further downside in USD/CNH.
 
+**Euro Forecast: Will Core PCE Tip the Scales for the Fed? - FOREX.com**
+`26 Aug 00:22 PKT` · pehli baar dekhi `26 Aug 03:11` · gnews_fed
+
+Euro Forecast: Will Core PCE Tip the Scales for the Fed? FOREX.com
+
 **Lemaitre Vascular stock hits 52-week low at 78.64 USD**
 `26 Aug 00:22 PKT` · pehli baar dekhi `26 Aug 00:45` · investing_news
 
@@ -639,9 +649,10 @@ Service sector activity in the US Fifth District softened in August. The revenue
 Manufacturing activity in the Richmond Federal Reserve district strengthened modestly in August 2026, as the shipments index rose to 11 from 8 in July. The latest reading, updated on 25 August 2026, signals a continued expansion in factory output across the region, which covers parts of the mid-Atlantic United States. The uptick from July's level suggests that demand for manufactured goods in the Richmond area improved further toward the end of the summer period.
 
 **Pound Steadies Near Six-Month Highs as Markets Brace for Key US Data and Fed Signals - CryptoRank**
-`25 Aug 20:51 PKT` · pehli baar dekhi `26 Aug 02:48` · gnews_fed
+`25 Aug 20:51 PKT` · pehli baar dekhi `26 Aug 02:48` · gnews_fed · **2 feeds mein**
 
 Pound Steadies Near Six-Month Highs as Markets Brace for Key US Data and Fed Signals CryptoRank
+  - `25 Aug 19:10` *gnews_fed* — Pound Steadies Near Six-Month Highs as Markets Brace for Key US Data and Fed Signals - CryptoRank
 
 **The Federal Reserve hints at raising interest rates if inflation persists - المتداول العربي**
 `25 Aug 20:50 PKT` · pehli baar dekhi `25 Aug 20:53` · gnews_fed
@@ -3759,14 +3770,20 @@ NY Crude Falls for First Time in 7 Sessions on Profit-Taking, Settles in $85 Ran
 
 Another reported strike on a tanker adds to a run of incidents that have kept a risk premium attached to oil prices even as headline benchmarks have been choppy. With crew safety confirmed and environmental impact still unclear, the immediate market reaction is likely to hinge on whether this proves an isolated event or part of a broader pattern of attacks on merchant shipping in the wider Gulf and Arabian Sea region.
 
-### BINA TAG (615)
+### BINA TAG (623)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `26 Aug 02:51` **wsj_world** — Trump Sends Nuclear Agreement With Saudi Arabia to Congress
+- `26 Aug 02:49` **investing_news** — Electromed FY 2026 slides: 35% operating income CAGR, 78% margins
 - `26 Aug 02:48` **instaforex** — South Korea Manufacturing Sentiment Weakens
+- `26 Aug 02:47` **wsj_world** — Opinion | A False End of the 'Two-State Solution'
 - `26 Aug 02:44` **kitco_general** — IMF's Georgieva says global economy weathering energy shock, sees fiscal concerns - KITCO
 - `26 Aug 02:44` **wsj_world** — Opinion | The Metals Lobby's Big Steal
 - `26 Aug 02:43` **gnews_fed** — Man Stabbed to Death Outside Memphis Federal Reserve Building, Motive Unknown - Hoodline
+- `26 Aug 02:42` **investing_news** — Southern Cross Acquisition II prices $75M IPO on Nasdaq
+- `26 Aug 02:36` **investing_news** — Greenland Mines plans public stock offering to fund acquisition
+- `26 Aug 02:32` **aljazeera** — US judge blocks Ohio law requiring proof of citizenship to register to vote
 - `26 Aug 02:30` **investing_news** — Mexico stocks higher at close of trade; S&P/BMV IPC up 0.79%
 - `26 Aug 02:29` **investing_news** — Dynatrace upgraded by Morgan Stanley as observability demand boosts growth
 - `26 Aug 02:29` **aljazeera** — Who was the 'Queen of Country' Dolly Parton?
@@ -3829,6 +3846,7 @@ Another reported strike on a tanker adds to a run of incidents that have kept a 
 - `25 Aug 23:19` **investing_news** — Kohl's options show heavy put volume and elevated volatility ahead of earnings
 - `25 Aug 23:14` **investinglive** — The AI leaders can't be trusted for AI predictions
 - `25 Aug 23:13` **kitco_general** — South Africa's Northam Platinum invites more potential suitors after unsolicited offer - KITCO
+- `25 Aug 23:09` **gnews_centralbanks** — UK Economy: Rabobank Sees Resilient Growth Amid Persistent Fiscal Strain - CryptoRank
 - `25 Aug 23:08` **investing_news** — HHS plans two new deputy commissioners at FDA, CNBC reports
 - `25 Aug 23:07` **investing_commodities** — IMF's Georgieva says global economy weathering energy shock, sees fiscal concerns
 - `25 Aug 23:06` **investing_news** — BofA reiterates Kanzhun stock rating on monetization strategy
@@ -4351,6 +4369,7 @@ Another reported strike on a tanker adds to a run of incidents that have kept a 
 - `25 Aug 05:34` **aljazeera** — DRC's constitutional battle: The fight over the 2028 vote
 - `25 Aug 05:18` **aljazeera** — Search continues in Tunisia as migrant boat sinking sparks protests
 - `25 Aug 05:05` **gnews_fed** — Markets on Edge: Nvidia Earnings and Jackson Hole Take Center Stage - CryptoRank
+- `25 Aug 05:02` **gnews_fed** — Markets Brace for Jackson Hole and Nvidia Earnings as Political Noise Fades - CryptoRank
 - `25 Aug 05:00` **actionforex** — Eco Data 8/25/26
 - `25 Aug 04:50` **gnews_centralbanks** — Bank Rate holds, but the pressure is building - Mortgage Soup
 - `25 Aug 04:47` **gnews_fed** — KOSPI's 7,000 Threshold Hinges on NVIDIA, Jackson Hole, BOK Meeting - 조선일보
@@ -4381,11 +4400,11 @@ Another reported strike on a tanker adds to a run of incidents that have kept a 
 
 ---
 
-## Shor — 74 khabrein hatai gayin
+## Shor — 80 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (70), yahoo_finance (3), mw_topstories (1)
+investing_news (76), yahoo_finance (3), mw_topstories (1)
 
 ---
 
@@ -4395,23 +4414,23 @@ investing_news (70), yahoo_finance (3), mw_topstories (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 1 | 29 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 2 | 28 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 4 | 0 | 4 | 26 | 0.1 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
 | marketpulse | WARN | 4 | 0 | 0 | 0 | 4 | 3.9 |
-| instaforex | OK | 25 | 24 | 1 | 23 | 1 | -0.2 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.2 |
 | wsj_economy | OK | 36 | 7 | 0 | 7 | 29 | 0.3 |
 | cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
 | cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 8 | 2 | 6 | 2 | 0.0 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.0 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 12.7 |
-| kitco_general | OK | 36 | 35 | 3 | 32 | 1 | 0.0 |
-| gnews_fed | OK | 85 | 85 | 6 | 79 | 0 | 0.0 |
-| gnews_geopolitics | OK | 100 | 100 | 2 | 98 | 0 | 0.0 |
-| gnews_centralbanks | OK | 33 | 32 | 0 | 32 | 1 | 0.1 |
+| kitco_general | OK | 35 | 34 | 0 | 34 | 1 | 0.0 |
+| gnews_fed | OK | 83 | 83 | 3 | 80 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 1 | 99 | 0 | 0.0 |
+| gnews_centralbanks | OK | 31 | 31 | 2 | 29 | 0 | 0.0 |
 | fed_monetary | OK | 15 | 1 | 0 | 1 | 14 | 0.2 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.1 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
@@ -4419,18 +4438,18 @@ investing_news (70), yahoo_finance (3), mw_topstories (1)
 | boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.7 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.5 |
 | mining_com | OK | 36 | 4 | 0 | 4 | 32 | 0.1 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.0 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
 | investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.2 |
+| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
 | bbc_business | OK | 51 | 16 | 0 | 16 | 35 | 0.3 |
-| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
-| snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.0 |
+| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| snb_press | OK | 20 | 2 | 1 | 1 | 18 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 25.5 |
 | eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.3 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 21.4 |
-| wsj_world | OK | 70 | 14 | 1 | 13 | 56 | 0.0 |
-| wsj_markets | OK | 61 | 29 | 2 | 27 | 32 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 48 | 6 | 0 | 6 | 42 | 0.0 |
+| wsj_world | OK | 70 | 16 | 2 | 14 | 54 | 0.0 |
+| wsj_markets | OK | 61 | 29 | 0 | 29 | 32 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 4 | 0 | 4 | 46 | 0.4 |
 | mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | cointelegraph | OK | 30 | 22 | 0 | 22 | 8 | 0.1 |
