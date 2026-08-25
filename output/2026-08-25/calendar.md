@@ -1,6 +1,6 @@
 # Calendar — Trading Day 25 Aug 2026
 
-- Banaya gaya: **25 Aug 2026 03:57 PKT**
+- Banaya gaya: **25 Aug 2026 10:57 PKT**
 - Trading day: **25 Aug 03:00 -> 26 Aug 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,8 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 06:30 | AUD | low | Monetary Policy Meeting Minutes | - | - |
-| 10:00 | JPY | low | BOJ Core CPI y/y | 1.4% | 1.5% |
 | 11:00 | EUR | low | German Final GDP q/q | 0.2% | 0.2% |
 | 13:00 | EUR | low | German ifo Business Climate | 87.2 | 86.6 |
 | 17:15 | USD | low | ADP Weekly Employment Change | - | 9.5K |
@@ -26,8 +24,18 @@
 | 19:00 | USD | low | Richmond Manufacturing Index | 6 | 5 |
 | **26 Aug** 01:00 | USD | low | FOMC Member Barkin Speaks | - | - |
 | **26 Aug** 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
+| **26 Aug** 04:50 | JPY | low | SPPI y/y | 3.2% | 3.2% |
+| **26 Aug** 05:30 | AUD | low | MI Leading Index m/m | - | 0.0% |
+| **26 Aug** 06:30 | AUD | **HIGH** | CPI m/m | 0.9% | -0.1% |
+| **26 Aug** 06:30 | AUD | **HIGH** | CPI y/y | 3.3% | 3.8% |
+| **26 Aug** 06:30 | AUD | **HIGH** | Trimmed Mean CPI m/m | 0.4% | 0.3% |
+| **26 Aug** 06:30 | AUD | low | Construction Work Done q/q | 0.5% | 3.4% |
 
-*Agle 24 ghante mein koi HIGH impact event nahi.*
+**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
+
+- `26 Aug 06:30` **AUD CPI m/m**
+- `26 Aug 06:30` **AUD CPI y/y**
+- `26 Aug 06:30` **AUD Trimmed Mean CPI m/m**
 
 ---
 
@@ -35,9 +43,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **26 Aug** 06:30 | AUD | **HIGH** | CPI m/m | 0.9% | -0.1% |
-| **26 Aug** 06:30 | AUD | **HIGH** | CPI y/y | 3.3% | 3.8% |
-| **26 Aug** 06:30 | AUD | **HIGH** | Trimmed Mean CPI m/m | 0.4% | 0.3% |
 | **26 Aug** 17:30 | USD | **HIGH** | Core PCE Price Index m/m | 0.2% | 0.1% |
 | **26 Aug** 17:30 | USD | **HIGH** | Prelim GDP q/q | 1.5% | 1.5% |
 | **26 Aug** 17:30 | USD | MED | Prelim GDP Price Index q/q | 6.2% | 6.2% |
