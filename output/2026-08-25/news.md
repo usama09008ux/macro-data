@@ -1,8 +1,8 @@
 # News Pack — Trading Day 25 Aug 2026
 
 - Trading day: **25 Aug 03:00 -> 26 Aug 02:59 PKT**
-- Aakhri update: **25 Aug 11:19 PKT**
-- Kul khabrein: **277**
+- Aakhri update: **25 Aug 12:23 PKT**
+- Kul khabrein: **327**
 - Feeds: 38/39 OK
 
 ---
@@ -17,6 +17,16 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**Euro Remains Close to Three-Month Highs**
+`25 Aug 12:23 PKT` · instaforex
+
+The euro held just above $1.165 in the final full week of August, maintaining its highest level since mid-May, as investors positioned for a more hawkish European Central Bank against a backdrop of geopolitical tensions complicating the fight against inflation. The ECB is widely expected to raise interest rates in September, following its June tightening aimed at curbing price pressures linked to the US–Iran conflict and its effect on energy markets.
+
+**ASX 200 Closes at More than 1-Week High**
+`25 Aug 12:23 PKT` · instaforex
+
+Australia's ASX 200 rose 62 points, or 0.7%, to close at 9,165 on Tuesday, extending gains for a second session to reach its highest level in more than a week. Risk appetite improved on the back of stronger U.S. stock futures after a mixed Wall Street finish on Monday, as U.S. Treasury Secretary Scott Bessent pledged to "sever every economic lifeline" to Iran. Investors turned their attention to upcoming catalysts, including Fed Chair Warsh's speech at Jackson Hole, a key U.S.
 
 **US targets Iran's crypto sector, cites over $100M in oil-linked payments**
 `25 Aug 10:29 PKT` · pehli baar dekhi `25 Aug 10:45` · cointelegraph
@@ -160,6 +170,31 @@ Gold has the potential to move toward $5,000 a troy ounce as continued central b
 
 ### USD
 
+**Spain's Producer Prices Accelerate in July, Yearly PPI Jumps to 9.2%**
+`25 Aug 12:23 PKT` · instaforex
+
+Spain's producer price inflation accelerated in July 2026, with the Producer Price Index (PPI) rising 9.2% year-over-year, up from a 7.0% increase recorded in June 2026. The latest data, updated on 25 August 2026, underline mounting price pressures at the factory gate level in the Spanish economy. Both the current and previous readings are based on year-over-year comparisons, measuring price changes against the same month a year earlier.
+
+**TAIEX Turns Higher, Up 0.9% at Close**
+`25 Aug 12:23 PKT` · instaforex
+
+The TAIEX, Taiwan's benchmark stock index, rose 407 points, or 0.9%, to close at 45,169 on Tuesday, reversing early-session weakness and fully retracing the previous day's losses as electronic technology and technology services shares rebounded. Electronic technology gained 0.8%, technology services advanced 1.4%, and the finance subindex climbed 2.1%.
+
+**Norway Jobless Rate Hits 17-Month Low**
+`25 Aug 12:23 PKT` · instaforex
+
+Norway's seasonally adjusted unemployment rate fell to 4.2% in July, down from a revised 4.6% in June, marking its lowest level since February 2025. The number of unemployed persons declined to 130 thousand from 140 thousand, with male unemployment dropping by 4.5% to 73 thousand and female unemployment decreasing by 3.9% to 57 thousand. Youth unemployment, covering those aged 15 to 24, eased to 12.1% from 14.0%.
+
+**Denmark Retail Sales Accelerates in July**
+`25 Aug 12:23 PKT` · instaforex
+
+Retail sales in Denmark increased by 6.7% year-on-year in July 2026, up from a 4.6% rise in June and representing the strongest expansion since March 2026. Growth accelerated in several categories, including consumer electronics (17.1% vs 16.5% in June); household equipment, furniture, and building materials (11.8% vs 9.3%); supermarkets, department stores, and specialized grocery stores (3.9% vs 1.6%); cultural and leisure products (16.7% vs 14.5%); and pharmaceuticals and personal care ...
+
+**US Dollar: Data weakness keeps downside risks elevated - TD Securities**
+`25 Aug 11:27 PKT` · pehli baar dekhi `25 Aug 12:23` · fxstreet_news
+
+TD Securities strategists argue that the US Dollar (USD) has re-entered a bearish regime after the Treasury buyback announcement pushed the US Dollar Index (DXY) below its 200‑day SMA.
+
 **Danish Retail Sales Growth Accelerates to 6.7% YoY in July 2026**
 `25 Aug 11:19 PKT` · instaforex
 
@@ -302,6 +337,41 @@ TAG: 30‑year Treasury yield KITCO
 
 ### EUR
 
+**French Consumer Confidence Holds Steady in August, Signalling Cautious Stability**
+`25 Aug 12:23 PKT` · instaforex
+
+France's consumer confidence remained unchanged in August 2026, with the headline indicator holding at 86, the same level recorded in July 2026. The latest data, updated on 25 August 2026, suggest that French households' sentiment has stabilized but remains below the long-term average often associated with robust consumer optimism.
+
+**Germany Q2 GDP Growth Revised Up**
+`25 Aug 12:23 PKT` · instaforex
+
+Germany's economy grew by 0.3% in Q2 2026, slightly above the preliminary estimate of 0.2% but slower than the 0.4% expansion recorded in the previous quarter. Ruth Brand, president of the Federal Statistical Office, noted that the economy broadly maintained the growth momentum seen at the start of 2026, with exports continuing to serve as the main engine of expansion.
+
+**European Stocks Head for Higher Open**
+`25 Aug 12:23 PKT` · instaforex
+
+European equity markets were poised for a higher open on Tuesday as risk appetite improved and the recent global selloff in technology stocks showed signs of stabilizing. Attention turned to Nvidia's upcoming earnings report later this week, which is expected to offer fresh insight into the strength of AI-related demand.
+
+**Euro remains depressed against British Pound despite upbeat German GDP figures**
+`25 Aug 12:11 PKT` · pehli baar dekhi `25 Aug 12:23` · fxstreet_news
+
+The Euro (EUR) extends losses for the fourth consecutive day against the British Pound (GBP) on Tuesday, testing weekly lows in the 0.8550 area despite the upward revision to German Q2 Gross Domestic Product (GDP) earlier in the day.
+
+**Cyprus inflation holds at 4% as eurozone expectations ease - Philenews**
+`25 Aug 12:06 PKT` · pehli baar dekhi `25 Aug 12:23` · gnews_centralbanks
+
+Cyprus inflation holds at 4% as eurozone expectations ease Philenews
+
+**France August consumer confidence 86 vs 87 expected**
+`25 Aug 11:45 PKT` · pehli baar dekhi `25 Aug 12:23` · investinglive
+
+Prior was 86 Full report here French consumer confidence remained unchanged in August, with the headline indicator holding at 86. Confidence remains significantly below its long-term average of 100. Households look more focused on saving rather than spending, reflecting persistent concerns about the economic outlook and employment prospects. In fact, there was further improvement in the savings climate.
+
+**German Economy Gets Upward Revision for Second Quarter on Resilient Exports**
+`25 Aug 11:39 PKT` · pehli baar dekhi `25 Aug 12:23` · wsj_economy
+
+There was a noticeable upward revision to exports, with goods exports rising 2.6% on quarter, though growth is set to slow in the months ahead.
+
 **Germany's GDP Growth Edges Up to 1.0% in Q2 2026, Slightly Above Prior Pace**
 `25 Aug 11:19 PKT` · instaforex
 
@@ -328,9 +398,10 @@ United Overseas Bank's (UOB) Quek Ser Leang and Lee Sue Ann keep a constructive 
 Prior +0.4% GDP Y/Y +1.0% vs +0.9% prelim Prior +0.7% Full report here Germany's economy expanded by 0.3% q/q in the second quarter of 2026), exceeding the preliminary estimate of 0.2%. On an annual basis, GDP grew 1.0% highlighting a continued recovery in economic activity. Destatis said the German economy is maintaining the growth momentum seen at the beginning of the year, with exports once again serving as the primary engine of growth.
 
 **EUR/USD Price Forecast: Corrects further as US Dollar extends recovery**
-`25 Aug 10:58 PKT` · pehli baar dekhi `25 Aug 11:19` · fxstreet_news
+`25 Aug 10:58 PKT` · pehli baar dekhi `25 Aug 11:19` · fxstreet_news · **2 feeds mein**
 
 The Euro (EUR) trades marginally lower against the US Dollar (USD) on Tuesday, extending its corrective move from the four-day high of 1.1711 to near 1.1655 during the European trading session.
+  - `25 Aug 10:58` *gnews_centralbanks* — EUR/USD Price Forecast: Corrects further as US Dollar extends recovery - FXStreet
 
 **France and Saudi Arabia plan Dragon Ball Z theme park near Paris**
 `25 Aug 10:09 PKT` · pehli baar dekhi `25 Aug 10:45` · aljazeera
@@ -386,6 +457,16 @@ The GBP/USD pair extends its sideways consolidative price move for the second st
 
 ### JPY
 
+**Saudi Arabia Trade Surplus Smallest in 5 Months**
+`25 Aug 12:23 PKT` · instaforex
+
+Saudi Arabia's trade surplus narrowed to SAR 17.3 billion in June 2026, down from SAR 19.2 billion a year earlier, marking the smallest surplus since January as exports declined more sharply than imports. Total exports fell 4.5% year-on-year to SAR 87.8 billion, the lowest level in five years, largely due to a 2.3% drop in oil exports, which accounted for 72.0% of total exports.
+
+**USD/JPY Price Forecast: US Dollar keeps crawling towards the key 160.00 area**
+`25 Aug 11:31 PKT` · pehli baar dekhi `25 Aug 12:23` · fxstreet_news
+
+The Japanese Yen (JPY) remains on the defensive against the US Dollar (USD) on Tuesday, in a low-volatility market, as investors await key data releases and the Jackson Hole symposium, due in the second half of the week, to make decisions.
+
 **Japan Coincident Index Revised Higher**
 `25 Aug 11:19 PKT` · instaforex
 
@@ -430,9 +511,10 @@ BOJ's Price Gauge Stays Above 2% Amid Rate Hike Speculation Bloomberg
 `25 Aug 09:08 PKT` · pehli baar dekhi `25 Aug 10:04` · investing_news
 
 **Japan 10Y Yield Gains on Hawkish BOJ Bets**
-`25 Aug 08:36 PKT` · instaforex
+`25 Aug 08:36 PKT` · instaforex · **2 feeds mein**
 
 Japan's 10-year government bond yield climbed to around 2.89% on Tuesday, trading near multi-decade highs as expectations strengthened for an imminent interest rate hike by the Bank of Japan. Former BOJ board member Seiji Adachi said the central bank will likely raise rates next month and again as early as January, cautioning that keeping policy unchanged could trigger renewed yen selling and intensify import-driven inflation.
+  - `25 Aug 07:51` *gnews_centralbanks* — Japan 10Y Yield Gains on Hawkish BOJ Bets - TradingView
 
 **Dollar Firms in Lower 159 Yen Range as U.S. Yields Rise; Intervention Caution Caps Upside - finance.biggo.com**
 `25 Aug 08:26 PKT` · pehli baar dekhi `25 Aug 10:45` · gnews_centralbanks
@@ -454,6 +536,11 @@ Japan Finance Minister (FM) Satsuki Katayama said in the Asian trading session o
 
 The USD/JPY pair is seen oscillating in a narrow band just above the 159.00 mark during the Asian session on Tuesday, awaiting a fresh catalyst before the next leg of a directional move.
 
+**USD/JPY Gains as Dollar Stabilises, Markets Eye PCE, Jackson Hole and Bank of Japan Meeting - VT Markets**
+`25 Aug 05:33 PKT` · pehli baar dekhi `25 Aug 12:23` · gnews_centralbanks
+
+USD/JPY Gains as Dollar Stabilises, Markets Eye PCE, Jackson Hole and Bank of Japan Meeting VT Markets
+
 **Asian equites shunted lower at opening, South Korea and Japan both down**
 `25 Aug 05:27 PKT` · pehli baar dekhi `25 Aug 06:46` · investinglive
 
@@ -469,12 +556,29 @@ Japanese stocks were lower after U.S. technology shares fell overnight.
 
 The disconnect MUFG highlights, hike odds near 80% without corresponding yen buying, points to a market that has priced in tightening ahead of any clear signal from the BOJ itself, leaving the currency vulnerable if the central bank either delivers less than expected or pushes back on the pricing.
 
+**Why Inflation Could Be Good News for Japan | Trumponomics - finance.biggo.com**
+`25 Aug 04:01 PKT` · pehli baar dekhi `25 Aug 12:23` · gnews_centralbanks
+
+Why Inflation Could Be Good News for Japan | Trumponomics finance.biggo.com
+
 **EUR/JPY Price Forecast: Bulls struggle at 187 amid intervention fears**
 `25 Aug 03:29 PKT` · pehli baar dekhi `25 Aug 03:46` · fxstreet_news
 
 The EUR/JPY trades horizontally on Monday as market participants remain reluctant to push the cross higher amid fears of potential intervention by Japanese authorities, even though they have remained shut following the coordinated action by the US and Japan.
 
+### CHF
+
+**Swiss Franc: Export strains with strong CHF – Commerzbank**
+`25 Aug 12:10 PKT` · pehli baar dekhi `25 Aug 12:23` · fxstreet_news
+
+Commerzbank's Michael Pfister analyses how the strong Swiss Franc (CHF) and an undervalued Chinese Yuan (CNY) are weighing on Switzerland's export competitiveness.
+
 ### CAD
+
+**FX Daily: Dollar caught between many fronts**
+`25 Aug 11:50 PKT` · pehli baar dekhi `25 Aug 12:23` · ing_think
+
+The dollar is starting the week on a firm footing, juggling several drivers at once: the bond market remains a key focus, while trade headlines are increasingly moving currencies, especially CAD as US-Canada trade tensions keep escalating. Attention today will also turn to data, with US consumer confidence and the German Ifo survey in the spotlight
 
 **How Canada could hit back to hurt the US economy - and Trump**
 `25 Aug 05:40 PKT` · pehli baar dekhi `25 Aug 06:46` · bbc_business
@@ -482,6 +586,16 @@ The EUR/JPY trades horizontally on Monday as market participants remain reluctan
 What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?
 
 ### AUD
+
+**Australian Dollar edges up as RBA keeps rate hike option quite possible**
+`25 Aug 11:44 PKT` · pehli baar dekhi `25 Aug 12:23` · fxstreet_news
+
+The Australian Dollar (AUD) trades slightly higher against its major currency peers, except the US Dollar (USD), on Tuesday. In the European session, the Aussie pair is slightly down to near 0.7147.
+
+**Australia's music charts ban AI-made songs amid backlash over Madonna cover**
+`25 Aug 11:00 PKT` · pehli baar dekhi `25 Aug 12:23` · aljazeera
+
+Tracks that use AI in a &#039;supporting role&#039; will still be eligible for inclusion in the official charts.
 
 **Ample-Reserves Transition Still Underway: RBA Jacobs**
 `25 Aug 10:04 PKT` · instaforex
@@ -560,6 +674,24 @@ NZD/USD gains ground after registering modest losses in the previous day, tradin
 
 ### OIL
 
+**WTI slides below $84.00 on firmer USD but US-Iran tensions limit deeper losses**
+`25 Aug 11:47 PKT` · pehli baar dekhi `25 Aug 12:23` · fxstreet_news
+
+West Texas Intermediate (WTI) – the benchmark US Crude Oil price – attracts fresh sellers following an intraday uptick to the $85.35 region and turns lower for the second straight day. The commodity slides below $84.00 during the early European session, though the downside potential seems limited.
+
+**Oil under fire: Nearly half of global oil supply comes from conflict-hit countries - Firstpost**
+`25 Aug 11:38 PKT` · pehli baar dekhi `25 Aug 12:23` · gnews_geopolitics
+
+Oil under fire: Nearly half of global oil supply comes from conflict-hit countries Firstpost
+
+**New Sinopec boss presses reset for world's biggest oil refiner**
+`25 Aug 11:36 PKT` · pehli baar dekhi `25 Aug 12:23` · investing_commodities
+
+**Is the World's Oil Supply Becoming Too Dependent on War Zones? - Modern Diplomacy**
+`25 Aug 11:06 PKT` · pehli baar dekhi `25 Aug 12:23` · gnews_geopolitics
+
+Is the World's Oil Supply Becoming Too Dependent on War Zones? Modern Diplomacy
+
 **Iran Threatens Retaliation as U.S. Widens Sanctions**
 `25 Aug 11:00 PKT` · pehli baar dekhi `25 Aug 11:19` · oilprice
 
@@ -591,9 +723,10 @@ US heating oil futures hovered near $4.28 per gallon, consolidating most of the 
 Crude Oil Trading Alert: U.S. Expands Secondary Sanctions on Iran; Rising Supply Risks and Stagflation Concerns Keep Oil Prices Range-Bound Moomoo
 
 **The Commodities Feed: Oil shrugs off Bessent's 'D-day' plan for Iran**
-`25 Aug 07:23 PKT` · pehli baar dekhi `25 Aug 07:47` · ing_think
+`25 Aug 07:23 PKT` · pehli baar dekhi `25 Aug 07:47` · ing_think · **2 feeds mein**
 
 Oil prices drifted lower yesterday despite renewed US plans to tighten economic pressure on Iran. Meanwhile, anxiety is building in Europe's gas market as storage levels look increasingly fragile heading into the heating season
+  - `25 Aug 12:16` *gnews_geopolitics* — The commodities feed: Oil shrugs off Bessent's 'D-day' plan for Iran - FXStreet
 
 **Oil is still quietly crossing Hormuz, TotalEnergies CEO says**
 `25 Aug 07:06 PKT` · pehli baar dekhi `25 Aug 07:47` · investinglive
@@ -655,6 +788,12 @@ The United States is forging ahead with its critical minerals ambitions, investi
 
 ### CRYPTO
 
+**Stablecoin card spending forecast to hit $50 billion a year by 2028 - RedotPay**
+`25 Aug 12:12 PKT` · pehli baar dekhi `25 Aug 12:23` · investing_news
+
+**Bitcoin hits extreme overbought at $80,730: Live levels**
+`25 Aug 12:11 PKT` · pehli baar dekhi `25 Aug 12:23` · investing_news
+
 **Iran conflict disrupts global oil supply, crisis looms - Crypto Briefing**
 `25 Aug 11:03 PKT` · pehli baar dekhi `25 Aug 11:19` · gnews_geopolitics
 
@@ -709,15 +848,49 @@ In focus today In Sweden, the focus is on the Riksbank minutes from last week&#8
 
 ### RISK
 
+**European stocks rebound as Iran sanctions threats fizzle**
+`25 Aug 12:11 PKT` · pehli baar dekhi `25 Aug 12:23` · investing_news
+
+**Equities: Semiconductor selloff pressures Wall Street - Deutsche Bank**
+`25 Aug 11:38 PKT` · pehli baar dekhi `25 Aug 12:23` · fxstreet_news
+
+Deutsche Bank strategists describe a cautious session for United States (US) equities, with the S&P 500 slipping as AI‑chip names sold off ahead of Nvidia's earnings. While the equal‑weighted S&P approached record highs, headline indices were dragged lower by semiconductor weakness.
+
+**3 Oil Stocks To Watch As Iran Sanctions Put Offshore Supply Back In Focus - simplywall.st**
+`25 Aug 11:37 PKT` · pehli baar dekhi `25 Aug 12:23` · gnews_geopolitics
+
+3 Oil Stocks To Watch As Iran Sanctions Put Offshore Supply Back In Focus simplywall.st
+
+**The Iran war is bringing cyberwarfare into critical infrastructure**
+`25 Aug 11:37 PKT` · pehli baar dekhi `25 Aug 12:23` · aljazeera
+
+Recent attacks in the UK and the US demonstrate critical vulnerabilities that governments need to urgently address.
+
+**Can U.S. Sanctions Force Iran to Back Down Without Triggering a Wider War? - Modern Diplomacy**
+`25 Aug 11:29 PKT` · pehli baar dekhi `25 Aug 12:23` · gnews_geopolitics
+
+Can U.S. Sanctions Force Iran to Back Down Without Triggering a Wider War? Modern Diplomacy
+
+**Sunrise Market Commentary**
+`25 Aug 11:21 PKT` · pehli baar dekhi `25 Aug 12:23` · actionforex
+
+Markets US Treasury Secretary Bessent stopped short of announcing so-called secondary sanctions against Iran&#8217;s trading partners and its financial institutions in particular in yesterday&#8217;s closely watched presser. He issued a final warning instead. He did unveil more sanctions on other entities, individuals and vessels but falls way short of what was dubbed &#8220;economic D-Day&#8221; beforehand. [&#8230;] The post Sunrise Market Commentary appeared first on ActionForex.
+
 **Expanded US Sanctions Against Iran: Oil Price Impact 2026 - Discovery Alert**
 `25 Aug 10:51 PKT` · pehli baar dekhi `25 Aug 11:19` · gnews_geopolitics
 
 Expanded US Sanctions Against Iran: Oil Price Impact 2026 Discovery Alert
 
+**Dozens of China, Hong Kong Firms Hit by Bessent's Iran Sanctions - Bloomberg**
+`25 Aug 10:28 PKT` · pehli baar dekhi `25 Aug 12:23` · gnews_geopolitics
+
+Dozens of China, Hong Kong Firms Hit by Bessent's Iran Sanctions Bloomberg
+
 **Shafaq News..Oil prices rise as Iran sanctions take focus - شفق نيوز**
-`25 Aug 10:17 PKT` · pehli baar dekhi `25 Aug 10:45` · gnews_geopolitics
+`25 Aug 10:17 PKT` · pehli baar dekhi `25 Aug 12:23` · gnews_geopolitics · **2 feeds mein**
 
 Shafaq News..Oil prices rise as Iran sanctions take focus شفق نيوز
+  - `25 Aug 10:17` *gnews_geopolitics* — Shafaq News..Oil prices rise as Iran sanctions take focus - شفق نيوز
 
 **Six months into Iran war, almost half of global oil flows from war zones - Internazionale**
 `25 Aug 10:08 PKT` · pehli baar dekhi `25 Aug 10:45` · gnews_geopolitics · **2 feeds mein**
@@ -729,6 +902,16 @@ Six months into Iran war, almost half of global oil flows from war zones Interna
 `25 Aug 10:04 PKT` · instaforex
 
 The Nikkei 225 Index rose 0.4% to above 65,700 on Tuesday, rebounding from earlier losses as select technology and AI-related stocks recovered from the previous session's selloff. Investors also positioned ahead of chipmaker Nvidia's earnings later this week, seeking fresh insight into the strength of AI-driven demand.
+
+**US Tells Iran Trade Partners to Cut Ties or Risk Sanctions - Bloomberg**
+`25 Aug 10:04 PKT` · pehli baar dekhi `25 Aug 12:23` · gnews_geopolitics
+
+US Tells Iran Trade Partners to Cut Ties or Risk Sanctions Bloomberg
+
+**Oil prices steady after sharp sell-off as Iran sanctions take focus - Mettis Global**
+`25 Aug 10:02 PKT` · pehli baar dekhi `25 Aug 12:23` · gnews_geopolitics
+
+Oil prices steady after sharp sell-off as Iran sanctions take focus Mettis Global
 
 **GRAPHIC-Six months into Iran war, almost half of global oil flows from war zones - Devdiscourse**
 `25 Aug 10:00 PKT` · pehli baar dekhi `25 Aug 10:04` · gnews_geopolitics
@@ -891,13 +1074,22 @@ NY Crude Falls for First Time in 7 Sessions on Profit-Taking, Settles in $85 Ran
 
 Another reported strike on a tanker adds to a run of incidents that have kept a risk premium attached to oil prices even as headline benchmarks have been choppy. With crew safety confirmed and environmental impact still unclear, the immediate market reaction is likely to hinge on whether this proves an isolated event or part of a broader pattern of attacks on merchant shipping in the wider Gulf and Arabian Sea region.
 
-### BINA TAG (62)
+### BINA TAG (71)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `25 Aug 12:23` **instaforex** — South Africa's Leading Indicators Ease in June, Hinting at Softer Growth Momentum
+- `25 Aug 12:23` **instaforex** — Sweden Industrial Inventories Drop in Q2
+- `25 Aug 12:23` **instaforex** — Steel Holds Near 1-Month High
+- `25 Aug 12:13` **investing_news** — Bernstein upgrades Summit Therapeutics stock rating on valuation
+- `25 Aug 11:32` **aljazeera** — Fulham vs Chelsea: Alonso starts new era with thrilling 3–2 win
 - `25 Aug 11:19` **instaforex** — Norway's Unemployment Rate Eases to 4.2% in July 2026
+- `25 Aug 11:16` **gnews_fed** — Jackson Hole Economic Symposium 2026: Dates, schedule, attendees list, what's discussed, and why world waits for it ⁩ - Livemint
+- `25 Aug 11:12` **aljazeera** — Angel Reese breaks WNBA record with 26 rebounds in Dream's win over Sparks
+- `25 Aug 11:10` **aljazeera** — Libya factions draft initial election pact amid lingering mistrust
 - `25 Aug 11:00` **ing_think** — Europe's Pitch Book: Doomed by demographics?
 - `25 Aug 10:19` **aljazeera** — Two US carrier groups in Middle East strain navy resources
+- `25 Aug 10:16` **gnews_centralbanks** — Gazundering Resurges in UK Property Market as High Interest Rates Empower Buyers - streamlinefeed.co.ke
 - `25 Aug 10:09` **bbc_business** — The Gurkha families fighting for their pensions
 - `25 Aug 10:08` **bbc_business** — Drought leaves 'barely any apples' to make cider
 - `25 Aug 10:04` **instaforex** — Iron Ore Gains on China Demand Hopes
@@ -974,42 +1166,42 @@ investing_news (35)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 22 | 1 | 21 | 3 | 0.0 |
-| fxstreet_news | OK | 30 | 25 | 2 | 23 | 5 | 0.0 |
-| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
-| actionforex | OK | 20 | 7 | 2 | 5 | 13 | 0.0 |
+| investinglive | OK | 25 | 23 | 1 | 22 | 2 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 7 | 23 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
+| actionforex | OK | 20 | 8 | 1 | 7 | 12 | 0.0 |
 | marketpulse | WARN | 4 | 0 | 0 | 0 | 4 | 3.3 |
-| instaforex | OK | 25 | 25 | 12 | 13 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 2 | 0 | 2 | 34 | 0.1 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
+| instaforex | OK | 25 | 25 | 13 | 12 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 3 | 1 | 2 | 33 | 0.0 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 12.1 |
-| kitco_general | OK | 34 | 9 | 0 | 9 | 25 | 0.2 |
-| gnews_fed | OK | 82 | 8 | 0 | 8 | 74 | 0.1 |
-| gnews_geopolitics | OK | 100 | 27 | 5 | 22 | 73 | 0.0 |
-| gnews_centralbanks | OK | 39 | 10 | 2 | 8 | 29 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.5 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 19.4 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.0 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 13.7 |
+| kitco_general | OK | 34 | 10 | 0 | 10 | 24 | 0.3 |
+| gnews_fed | OK | 83 | 10 | 1 | 9 | 73 | 0.0 |
+| gnews_geopolitics | OK | 100 | 34 | 9 | 25 | 66 | 0.0 |
+| gnews_centralbanks | OK | 43 | 17 | 6 | 11 | 26 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 19.5 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.1 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 13.8 |
 | boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.1 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.9 |
 | mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
-| oilprice | OK | 15 | 4 | 1 | 3 | 11 | 0.0 |
-| investing_commodities | OK | 10 | 5 | 0 | 5 | 5 | 0.1 |
-| ing_think | OK | 10 | 3 | 2 | 1 | 7 | 0.0 |
-| bbc_business | OK | 52 | 13 | 1 | 12 | 39 | 0.0 |
-| aljazeera | OK | 25 | 18 | 0 | 18 | 7 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | -0.0 |
+| oilprice | OK | 15 | 4 | 0 | 4 | 11 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| ing_think | OK | 10 | 4 | 1 | 3 | 6 | 0.0 |
+| bbc_business | OK | 52 | 13 | 0 | 13 | 39 | 0.0 |
+| aljazeera | OK | 25 | 23 | 5 | 18 | 2 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.9 |
 | eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 0.7 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 20.7 |
-| wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.1 |
-| wsj_markets | OK | 61 | 8 | 1 | 7 | 53 | 0.0 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.4 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 20.8 |
+| wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.2 |
+| wsj_markets | OK | 61 | 8 | 0 | 8 | 53 | 0.0 |
+| investing_news | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.5 |
 | mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.3 |
-| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.0 |
+| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.1 |
