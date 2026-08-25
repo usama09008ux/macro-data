@@ -1,13 +1,18 @@
 # News Pack — Trading Day 25 Aug 2026
 
 - Trading day: **25 Aug 03:00 -> 26 Aug 02:59 PKT**
-- Aakhri update: **25 Aug 23:22 PKT**
-- Kul khabrein: **1345**
-- Feeds: 38/39 OK
+- Aakhri update: **26 Aug 00:08 PKT**
+- Kul khabrein: **1379**
+- Feeds: 37/39 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**WTI Crude Oil futures dropped as market shrugged off new Iran sanctions.**
+`25 Aug 23:57 PKT` · pehli baar dekhi `26 Aug 00:08` · cme_energy_video
+
+WTI Crude Oil futures saw significant downward pressure, dropping over 4% to hit $81.54, their lowest level since mid-August. Despite the U.S. Treasury announcing new economic sanctions targeting entities doing business with Iran, including those in China, crude oil markets largely brushed off the news.
 
 **Minutes of the Board's discount rate meetings on July 20 and July 29, 2026**
 `25 Aug 23:00 PKT` · pehli baar dekhi `25 Aug 23:22` · fed_monetary
@@ -220,6 +225,16 @@ The dollar's slide to its weakest level since May reflects a shift in the rates 
 
 ### GOLD
 
+**Natixis raises gold price target to $5,000 as U.S. debt and bond market fears mount - KITCO**
+`25 Aug 23:42 PKT` · pehli baar dekhi `26 Aug 00:08` · kitco_general
+
+Natixis raises gold price target to $5,000 as U.S. debt and bond market fears mount KITCO
+
+**Silver Price Forecast: XAG/USD reclaims 100-day SMA, eyes $70**
+`25 Aug 23:31 PKT` · pehli baar dekhi `26 Aug 00:08` · fxstreet_news
+
+Silver price registers modest gains on Tuesday, after briefly breaching the 100-day Simple Moving Average (SMA) at $68.38, pushing the white metal to a three-day low of $67.43 before making a U-turn and turning bullish. The XAG/USD trades at $68.86, up 0.55%,
+
 **Gold sees profit taking even as US consumer confidence drops 89.4 - KITCO**
 `25 Aug 23:11 PKT` · pehli baar dekhi `25 Aug 23:22` · kitco_general · **2 feeds mein**
 
@@ -400,6 +415,44 @@ US Treasury bond buy-back reinforces gold debasement trade ahead of Jackson Hole
 Gold has the potential to move toward $5,000 a troy ounce as continued central bank demand, fiscal risks and geopolitical uncertainty support a largely optimistic medium-term outlook, XS.com said.
 
 ### USD
+
+**This chart shows exactly why investors should worry about rising yields — even if they don't own any bonds**
+`25 Aug 23:58 PKT` · pehli baar dekhi `26 Aug 00:08` · mw_topstories
+
+Strong earnings growth over the past few quarters has helped lift U.S. stocks into record territory. Now, rising Treasury yields are threatening to temporarily derail the rally.
+
+**Fed Rate Split Widens as Four Regional Banks Sought Discount-Rate Increase - bloomingbit**
+`25 Aug 23:53 PKT` · pehli baar dekhi `26 Aug 00:08` · gnews_fed
+
+Fed Rate Split Widens as Four Regional Banks Sought Discount-Rate Increase bloomingbit
+
+**The US Dollar Index stops paying for hawks who cannot vote**
+`25 Aug 23:53 PKT` · pehli baar dekhi `26 Aug 00:08` · fxstreet_news
+
+A non-voting regional Federal Reserve president published a conditional hold on Tuesday, tying the current target range to continued evidence that inflation is actually coming down, and the Dollar Index has not moved for it.
+
+**Forex Today: US Dollar stays on the back foot ahead of PCE**
+`25 Aug 23:43 PKT` · pehli baar dekhi `26 Aug 00:08` · fxstreet_news
+
+The US Dollar Index (DXY) is hovering below the 99.00 mark as traders squared positions ahead of a heavy Wednesday data slate and Federal Reserve (Fed) Chair Kevin Warsh's Jackson Hole address on Friday.
+
+**Singapore Dollar: Upside momentum eases against US Dollar – UOB**
+`25 Aug 23:39 PKT` · pehli baar dekhi `26 Aug 00:08` · fxstreet_news
+
+United Overseas Bank's (UOB) Quek Ser Leang and Lee Sue Ann note that USD/SGD remains under mild downward pressure but short-term momentum is flat, keeping the pair in a tight intraday band around 1.2700.
+
+**Federal Reserve Watch for Aug. 25: Rate Hikes Possible if Inflation Does Not Slow, Collins Says - marketscreener.com**
+`25 Aug 23:28 PKT` · pehli baar dekhi `26 Aug 00:08` · gnews_fed
+
+Federal Reserve Watch for Aug. 25: Rate Hikes Possible if Inflation Does Not Slow, Collins Says marketscreener.com
+
+**AAMI stock hits all-time high at 94.0 USD**
+`25 Aug 23:23 PKT` · pehli baar dekhi `26 Aug 00:08` · investing_news
+
+**Fed's Collins: 'Appropriate to Tighten Policy Soon' If Inflation Doesn't Recede - TradingView**
+`25 Aug 23:15 PKT` · pehli baar dekhi `26 Aug 00:08` · gnews_fed
+
+Fed's Collins: 'Appropriate to Tighten Policy Soon' If Inflation Doesn't Recede TradingView
 
 **Warsh Keynote at Jackson Hole: AI Capex Is Breaking His Rate-Hold Case - Tech Times**
 `25 Aug 22:57 PKT` · pehli baar dekhi `25 Aug 23:22` · gnews_fed
@@ -1288,6 +1341,11 @@ The British Pound (GBP) remains practically flat for the second consecutive day 
 
 Sterling hovers near six-month high underpinned by BoE rate hike expectations Reuters
 
+**GBP/USD Holds Near Highs As Markets Await Key UK And US Data - Bitcoin World**
+`25 Aug 16:20 PKT` · pehli baar dekhi `26 Aug 00:08` · gnews_centralbanks
+
+GBP/USD Holds Near Highs As Markets Await Key UK And US Data Bitcoin World
+
 **Pound Holds Near A Six-Month High As BoE Bets Build - Finimize**
 `25 Aug 16:01 PKT` · pehli baar dekhi `25 Aug 16:59` · gnews_centralbanks
 
@@ -1803,6 +1861,21 @@ NZD/USD gains ground after registering modest losses in the previous day, tradin
 
 ### OIL
 
+**Norway's Troll Gas Expansion Buys Europe Time—But Not New Supply**
+`26 Aug 00:00 PKT` · pehli baar dekhi `26 Aug 00:08` · oilprice
+
+Norway has started production from the second stage of the Troll Phase 3 development, accelerating 55 billion cubic meters of natural gas from the Troll West reservoir and helping sustain high gas deliveries to Europe from one of the continent's most important energy assets. Production began on August 22, several months earlier than planned and a cost at tens of millions of dollars below the original estimate of approximately $1.2 billion, according to Equinor.
+
+**UK Tax Rises Back on the Table as Burnham Faces Fiscal Crunch**
+`26 Aug 00:00 PKT` · pehli baar dekhi `26 Aug 00:08` · oilprice
+
+Andy Burnham has suggested tax rises could be on the cards in the looming Autumn Budget, warning he "won't be unrealistic" over the state of the public purse. The Prime Minister quickly pledged to give people "breathing space" and ease the cost of living after taking the keys to No.10 last month. But in fresh comments during his visit to Ukraine, Burnham acknowledged the fiscal pressures facing the UK and said his spending packages would be fully funded.
+
+**Crude oil futures sell at $82.36**
+`25 Aug 23:54 PKT` · pehli baar dekhi `26 Aug 00:08` · investinglive
+
+Crude oil futures are settling at $82.36, down $2.65, or 3.12%, on the day. Fundamentally, the decline reflects an easing of the geopolitical risk premium as traders see the latest U.S. sanctions against Iran as less threatening to global supplies than direct military action. Reports of diplomatic progress and the possible return of U.S. diplomats to the region have also reduced fears of a broader conflict or prolonged disruption through the Strait of Hormuz.
+
 **Crude oil prices slide 4% as markets look past Iran sanctions - The Economic Times**
 `25 Aug 23:05 PKT` · pehli baar dekhi `25 Aug 23:22` · gnews_geopolitics
 
@@ -1982,6 +2055,11 @@ Oil drops 3% to 12-day low as Iran claims two-year plan to cope with Washington'
 `25 Aug 16:32 PKT` · instaforex
 
 India's BSE Sensex reversed early losses on Tuesday to finish about 0.4% higher at 77,656, recovering from the previous session's weakness as financial and IT stocks rebounded. Sentiment was also supported by lower crude oil prices, while the latest US measures to increase economic pressure on Iran turned out to be less severe than markets had anticipated.
+
+**WTI Slides Below $84 as Dollar Firms, But US-Iran Tensions Cap Losses - CryptoRank**
+`25 Aug 16:01 PKT` · pehli baar dekhi `26 Aug 00:08` · gnews_geopolitics
+
+WTI Slides Below $84 as Dollar Firms, But US-Iran Tensions Cap Losses CryptoRank
 
 **Malacca States Vow to Keep Asia's Busiest Shipping Route Open**
 `25 Aug 16:00 PKT` · pehli baar dekhi `25 Aug 16:32` · oilprice
@@ -2222,6 +2300,11 @@ Oil Steadies as US Plan Offers Little Clarity on Hormuz Deadlock Bloomberg
 The United States is forging ahead with its critical minerals ambitions, investing billions in securing non-Chinese supply, while in Europe, the central EU government "hesitate, over-administrate, talk and lose time." The EU was already behind the U.S. on critical minerals. Now, it has fallen further behind, which means a lot more work would need to be done to catch up. The quote above comes from the head of a Europe-wide organization representing critical minerals companies.
 
 ### CRYPTO
+
+**Four Fed regional banks push for July rate hike amid inflation concerns - Crypto Briefing**
+`25 Aug 23:47 PKT` · pehli baar dekhi `26 Aug 00:08` · gnews_fed
+
+Four Fed regional banks push for July rate hike amid inflation concerns Crypto Briefing
 
 **Federal Reserve holds discount rate steady at 3.75% as inflation hawks circle - Crypto Briefing**
 `25 Aug 23:17 PKT` · pehli baar dekhi `25 Aug 23:22` · gnews_fed
@@ -2497,6 +2580,26 @@ In focus today In Sweden, the focus is on the Riksbank minutes from last week&#8
 
 ### RISK
 
+**Occidental Petroleum stock steadies as new Iran sanctions shift the 2026 oil trade - Ad-hoc-news.de**
+`25 Aug 23:52 PKT` · pehli baar dekhi `26 Aug 00:08` · gnews_geopolitics
+
+Occidental Petroleum stock steadies as new Iran sanctions shift the 2026 oil trade Ad-hoc-news.de
+
+**Syria's economy poised for improvement after US sanctions removal**
+`25 Aug 23:43 PKT` · pehli baar dekhi `26 Aug 00:08` · aljazeera
+
+Removal of US sanctions offers Syria a chance to fully rejoin the global financial system after years of isolation.
+
+**Four India-based companies bear the brunt of US' Iran sanctions - Business Standard**
+`25 Aug 23:35 PKT` · pehli baar dekhi `26 Aug 00:08` · gnews_geopolitics
+
+Four India-based companies bear the brunt of US' Iran sanctions Business Standard
+
+**Syria 'shakes off' past with removal from US 'terror' list, says al-Sharaa**
+`25 Aug 23:13 PKT` · pehli baar dekhi `26 Aug 00:08` · aljazeera
+
+Removal of decades-old designation offers major sanctions relief for Syria, aiming to boost post-war reconstruction.
+
 **Iran Vows To Resist Expanded U.S. Sanctions, Says Measures Threaten International Law: how 17 outlets framed it - NewsCord**
 `25 Aug 23:03 PKT` · pehli baar dekhi `25 Aug 23:22` · gnews_geopolitics
 
@@ -2504,6 +2607,11 @@ Iran Vows To Resist Expanded U.S. Sanctions, Says Measures Threaten Internationa
 
 **IMF chief says global economy weathered Iran war shock well**
 `25 Aug 23:03 PKT` · pehli baar dekhi `25 Aug 23:22` · investing_news
+
+**Oil Prices Slid 4% As Iran Sanctions Looked Manageable - Finimize**
+`25 Aug 23:01 PKT` · pehli baar dekhi `26 Aug 00:08` · gnews_geopolitics
+
+Oil Prices Slid 4% As Iran Sanctions Looked Manageable Finimize
 
 **Kremlin denies planned talks with US envoys amid reports CIA head in Russia**
 `25 Aug 23:01 PKT` · pehli baar dekhi `25 Aug 23:22` · aljazeera
@@ -2519,6 +2627,11 @@ CRU now calls its forecast 639kt surplus "at best balanced", while Southern Copp
 `25 Aug 22:56 PKT` · pehli baar dekhi `25 Aug 23:22` · gnews_geopolitics
 
 Indian basmati may get caught in US 'economic onslaught' on Iran Business Standard
+
+**Germany Defies Iran War Energy Shock: Business Confidence Hits One-Year High - Tech Times**
+`25 Aug 22:47 PKT` · pehli baar dekhi `26 Aug 00:08` · gnews_centralbanks
+
+Germany Defies Iran War Energy Shock: Business Confidence Hits One-Year High Tech Times
 
 **Big Oil Is Seeing Windfall Profits as Trump's War on Iran Drives Up Prices - Truthout**
 `25 Aug 22:32 PKT` · pehli baar dekhi `25 Aug 22:49` · gnews_geopolitics
@@ -2890,6 +3003,11 @@ Crude Slides as Market Downplays New U.S. Sanctions on Iran TradingPedia
 
 Oil Prices Rise As Iran Sanctions Raise Supply Risks International Business Times, Singapore Edition
 
+**Iran threatens retaliation as new US sanctions hit already-struggling economy - France 24**
+`25 Aug 14:10 PKT` · pehli baar dekhi `26 Aug 00:08` · gnews_geopolitics
+
+Iran threatens retaliation as new US sanctions hit already-struggling economy France 24
+
 **Hedge funds cut Asia tech holdings in second-largest selloff**
 `25 Aug 14:09 PKT` · pehli baar dekhi `25 Aug 14:46` · investing_news
 
@@ -3236,10 +3354,20 @@ NY Crude Falls for First Time in 7 Sessions on Profit-Taking, Settles in $85 Ran
 
 Another reported strike on a tanker adds to a run of incidents that have kept a risk premium attached to oil prices even as headline benchmarks have been choppy. With crew safety confirmed and environmental impact still unclear, the immediate market reaction is likely to hinge on whether this proves an isolated event or part of a broader pattern of attacks on merchant shipping in the wider Gulf and Arabian Sea region.
 
-### BINA TAG (547)
+### BINA TAG (557)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `25 Aug 23:55` **mw_topstories** — SpaceX to build Musk's vision for a spaceport that until now 'only existed in science fiction'
+- `25 Aug 23:36` **mining_com** — Tungsten West scores $97M UK investment, stock soars
+- `25 Aug 23:36` **investinglive** — Zoom Stock Faces a Two-Part Earnings Test: Core Growth and Anthropic
+- `25 Aug 23:36` **investing_news** — Intuit options skew toward puts ahead of earnings as traders hedge downside
+- `25 Aug 23:34` **investing_news** — CME Group launches U.S. zinc futures with first trades
+- `25 Aug 23:30` **investing_news** — California AG says no settlement talks scheduled with Paramount
+- `25 Aug 23:29` **mw_topstories** — Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs
+- `25 Aug 23:28` **investing_news** — Semtech options activity points to bullish bets on a breakout by September 18
+- `25 Aug 23:24` **investing_news** — Factbox-Companies face backlash over controversial products and advertisement campaigns
+- `25 Aug 23:19` **investing_news** — Kohl's options show heavy put volume and elevated volatility ahead of earnings
 - `25 Aug 23:14` **investinglive** — The AI leaders can't be trusted for AI predictions
 - `25 Aug 23:13` **kitco_general** — South Africa's Northam Platinum invites more potential suitors after unsolicited offer - KITCO
 - `25 Aug 23:08` **investing_news** — HHS plans two new deputy commissioners at FDA, CNBC reports
@@ -3804,42 +3932,45 @@ investing_news (61), yahoo_finance (3), mw_topstories (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 2 | 28 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 3 | 0 | 3 | 27 | 0.0 |
+| investinglive | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 4 | 26 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 3 | 0 | 3 | 27 | 0.1 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.2 |
 | marketpulse | WARN | 4 | 0 | 0 | 0 | 4 | 3.8 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.2 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.1 |
 | wsj_economy | OK | 36 | 7 | 0 | 7 | 29 | 0.2 |
 | cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
 | cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
 | cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
+| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
 | cme_daily_commentary | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 12.6 |
-| kitco_general | OK | 37 | 26 | 4 | 22 | 11 | 0.0 |
-| gnews_fed | OK | 74 | 56 | 7 | 49 | 18 | 0.0 |
-| gnews_geopolitics | OK | 100 | 87 | 11 | 76 | 13 | 0.0 |
-| gnews_centralbanks | OK | 56 | 47 | 4 | 43 | 9 | 0.0 |
-| fed_monetary | OK | 15 | 1 | 1 | 0 | 14 | 0.0 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 19.9 |
+| kitco_general | OK | 37 | 27 | 1 | 26 | 10 | 0.0 |
+| gnews_fed | OK | 83 | 66 | 4 | 62 | 17 | 0.0 |
+| gnews_geopolitics | OK | 100 | 88 | 5 | 83 | 12 | 0.0 |
+| gnews_centralbanks | OK | 55 | 47 | 2 | 45 | 8 | 0.1 |
+| fed_monetary | OK | 15 | 1 | 0 | 1 | 14 | 0.0 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.0 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 14.2 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 14.3 |
 | boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.6 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.4 |
-| mining_com | OK | 36 | 3 | 1 | 2 | 33 | 0.0 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| mining_com | OK | 36 | 4 | 1 | 3 | 32 | 0.0 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
+| investing_commodities | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | ing_think | OK | 10 | 6 | 0 | 6 | 4 | 0.2 |
-| bbc_business | OK | 51 | 16 | 0 | 16 | 35 | 0.1 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| bbc_business | OK | 51 | 16 | 0 | 16 | 35 | 0.2 |
+| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
 | snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 25.4 |
 | eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.2 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 21.2 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 21.3 |
 | wsj_world | OK | 70 | 11 | 0 | 11 | 59 | 0.1 |
 | wsj_markets | OK | 61 | 23 | 0 | 23 | 38 | 0.0 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
-| yahoo_finance | OK | 48 | 5 | 0 | 5 | 43 | 0.2 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 21 | 2 | 19 | 9 | 0.0 |
+| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 5 | 0 | 5 | 44 | 0.3 |
+| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 21 | 0 | 21 | 9 | 0.0 |
+
+**Jo feeds nahi aaye:**
+- investing_commodities — FAIL, ReadTimeout
