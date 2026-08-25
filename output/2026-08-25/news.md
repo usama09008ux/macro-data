@@ -1,8 +1,8 @@
 # News Pack — Trading Day 25 Aug 2026
 
 - Trading day: **25 Aug 03:00 -> 26 Aug 02:59 PKT**
-- Aakhri update: **25 Aug 07:47 PKT**
-- Kul khabrein: **145**
+- Aakhri update: **25 Aug 08:36 PKT**
+- Kul khabrein: **180**
 - Feeds: 38/39 OK
 
 ---
@@ -10,6 +10,21 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**investingLive Asia-Pacific market news: Gold down, Bitcoin up**
+`25 Aug 08:34 PKT` · pehli baar dekhi `25 Aug 08:36` · investinglive
+
+Bitcoin jumps above US$80K for the first time in 3 months Japan to weigh tax incentives for retail JGB investors, Katayama says Gold has been slammed down $50 and oil has jumped Oil is still quietly crossing Hormuz, TotalEnergies CEO says RBA minutes reveal live debate over a pre-emptive August hike China leans hardest against yuan gains in six months, AUD softens Citi lifts near-term gold target to $4,800, JPMorgan flags $5k Bank of Korea rate call a coin toss as economists split on August ...
+
+**GBP/USD Extends Gains as Bulls Keep the Pressure on**
+`25 Aug 08:09 PKT` · pehli baar dekhi `25 Aug 08:36` · actionforex
+
+Key Highlights GBP/USD started a steady increase and climbed above 1.3650. A bullish trend line is forming with support near 1.3580 on the 4-hour chart. Gold surged and broke the $4,620 resistance zone. Bitcoin remained elevated, and the bulls could aim for a close above $80,000. GBP/USD Technical Analysis The British Pound found support near [&#8230;] The post GBP/USD Extends Gains as Bulls Keep the Pressure on appeared first on ActionForex.
+
+**Japan to weigh tax incentives for retail JGB investors, Katayama says**
+`25 Aug 07:49 PKT` · pehli baar dekhi `25 Aug 08:36` · investinglive
+
+Katayama's comments on retail JGB incentives point to a policy avenue aimed at broadening the domestic investor base for government debt at a time when long and super-long yields have been under sustained upward pressure, though any tax reform would need to clear discussions with the ruling party before taking shape.
 
 **New Zealand Dollar Holds Losses**
 `25 Aug 07:47 PKT` · instaforex
@@ -73,6 +88,16 @@ The dollar's slide to its weakest level since May reflects a shift in the rates 
 
 ### GOLD
 
+**$4700 tested as Gold pulls back but bullish potential remains intact**
+`25 Aug 08:11 PKT` · pehli baar dekhi `25 Aug 08:36` · fxstreet_analysis
+
+Gold has pulled back sharply from fresh 15-week highs of $4,697, snapping a two-day uptrend in Asia on Tuesday. The US Dollar (USD) holds onto recovery gains, capping further upside in the bullion.
+
+**Gold retreats from mid-May highs; fails ahead of $4,700 as Fed risks support USD**
+`25 Aug 07:54 PKT` · pehli baar dekhi `25 Aug 08:36` · fxstreet_news
+
+Gold (XAU/USD) touched a fresh high since May 14, during the Asian session on Tuesday, though it struggled to capitalize on the move and failed to break the $4,700 mark.
+
 **Gold has been slammed down $50 and oil has jumped**
 `25 Aug 07:14 PKT` · pehli baar dekhi `25 Aug 07:47` · investinglive
 
@@ -92,6 +117,11 @@ US Treasury bond buy-back reinforces gold debasement trade ahead of Jackson Hole
 Gold has the potential to move toward $5,000 a troy ounce as continued central bank demand, fiscal risks and geopolitical uncertainty support a largely optimistic medium-term outlook, XS.com said.
 
 ### USD
+
+**PBoC Injects Short- and Medium-Term Funds Into Banks**
+`25 Aug 08:36 PKT` · instaforex
+
+The People's Bank of China (PBoC) announced it will conduct overnight reverse repo operations from August 27 to September 1 to meet short-term liquidity demand. These operations will be executed at a fixed interest rate through quantity-based bidding, with a daily ceiling of CNY 600 billion.
 
 **TAIEX at Over 2-Week Low as Tech Weighs**
 `25 Aug 07:47 PKT` · instaforex
@@ -185,7 +215,24 @@ ECB rate increases seen eKathimerini.com
 
 Euro gains support amid hawkish ECB expectations, subdued US Dollar FXStreet
 
+### GBP
+
+**British Pound holds range below mid-1.3600s as USD firms amid Fed risks and Iran tensions**
+`25 Aug 08:33 PKT` · pehli baar dekhi `25 Aug 08:36` · fxstreet_news
+
+The GBP/USD pair extends its sideways consolidative price move for the second straight day and trades around the 1.3630 area during the Asian session on Tuesday.
+
 ### JPY
+
+**Japan 10Y Yield Gains on Hawkish BOJ Bets**
+`25 Aug 08:36 PKT` · instaforex
+
+Japan's 10-year government bond yield climbed to around 2.89% on Tuesday, trading near multi-decade highs as expectations strengthened for an imminent interest rate hike by the Bank of Japan. Former BOJ board member Seiji Adachi said the central bank will likely raise rates next month and again as early as January, cautioning that keeping policy unchanged could trigger renewed yen selling and intensify import-driven inflation.
+
+**Groundwork is set for BOJ rate hike next month, ex-official says - The Japan Times**
+`25 Aug 07:52 PKT` · pehli baar dekhi `25 Aug 08:36` · gnews_centralbanks
+
+Groundwork is set for BOJ rate hike next month, ex-official says The Japan Times
 
 **Japan's Katayama: Will focus on key policies in FY27 budget to drive economic growth**
 `25 Aug 07:41 PKT` · pehli baar dekhi `25 Aug 07:47` · fxstreet_news
@@ -226,6 +273,21 @@ What leverage does Canada, which sells about 70% of its goods to the US, actuall
 
 ### AUD
 
+**Aussie Holds Firm After RBA Minutes**
+`25 Aug 08:36 PKT` · instaforex
+
+The Australian dollar traded above $0.71, hovering near an eleven-week high as investors digested the Reserve Bank of Australia's August meeting minutes. The Board concluded that the current cash rate is sufficiently restrictive to return inflation to target within a reasonable timeframe, though several members highlighted a significant risk that inflation could remain more persistent than anticipated.
+
+**AUD/USD Stalls at Resistance as RBA Minutes Leave Real Test to Tomorrow's CPI**
+`25 Aug 08:35 PKT` · pehli baar dekhi `25 Aug 08:36` · actionforex
+
+TL;DR: AUD/USD barely moved on RBA minutes that confirmed, but didn&#8217;t change, the existing hawkish-hold debate — the real signal was the Board&#8217;s openness to pre-emptive tightening based on monthly data alone, which keeps a September hike live even without the Q3 quarterly CPI, making Wednesday&#8217;s July print the more consequential test.
+
+**Reserve Bank of Australia Remains Jittery About Inflation Risks**
+`25 Aug 07:56 PKT` · pehli baar dekhi `25 Aug 08:36` · wsj_economy
+
+The central bank doesn't rule out further interest-rate increases, especially if the unresolved war in the Middle East drives fuel prices sharply higher once again.
+
 **RBA discussed hiking rates in August amid inflationary risks, minutes show**
 `25 Aug 07:22 PKT` · pehli baar dekhi `25 Aug 07:47` · investing_news
 
@@ -258,6 +320,13 @@ The scale of this deviation stands out because it comes against a backdrop of br
 `25 Aug 06:16 PKT` · pehli baar dekhi `25 Aug 06:46` · investinglive
 
 The PBOC allows the yuan to fluctuate within a +/- 2% range, around this reference rate. More here on this. injects 386bn yuan via 7-day reverse repos at 1.4% (unchanged rate) ADDED: Check this out on today's setting: China leans hardest against yuan gains in six months, AUD softens This article was written by Eamonn Sheridan at investinglive.com.
+
+### NZD
+
+**New Zealand Dollar gains as high inflation fuels odds of RBNZ September rate hikes**
+`25 Aug 08:00 PKT` · pehli baar dekhi `25 Aug 08:36` · fxstreet_news
+
+NZD/USD gains ground after registering modest losses in the previous day, trading around 0.5960 during the Asian hours on Tuesday.
 
 ### OIL
 
@@ -336,6 +405,16 @@ The United States is forging ahead with its critical minerals ambitions, investi
 
 ### CRYPTO
 
+**Bitcoin Surges Above $80,000**
+`25 Aug 08:36 PKT` · instaforex
+
+Bitcoin climbed above $80,000 on Tuesday, its highest level since May, extending its rally to roughly 28% since mid-August. The advance was underpinned by several supportive factors, including renewed interest in the so‑called "debasement trade" after the US Treasury announced plans to increase purchases of longer-dated government bonds. That announcement pressured long-term yields and the US dollar, bolstering demand for alternative assets such as Bitcoin.
+
+**Bitcoin jumps above US$80K for the first time in 3 months**
+`25 Aug 08:01 PKT` · pehli baar dekhi `25 Aug 08:36` · investinglive
+
+BTC continues to benefit from the weak USD and poor sentiment towards bonds. Earlier: Is Bitcoin at $77k preparing for another breakout? This BTCUSD analysis shows a a potential bull flag pointing to $84K-$86K Bitcoin Bull Flag Analysis: See this video after the $79,460 surge This article was written by Eamonn Sheridan at investinglive.com.
+
 **Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express**
 `25 Aug 07:03 PKT` · pehli baar dekhi `25 Aug 07:47` · cointelegraph
 
@@ -352,6 +431,21 @@ Prediction Markets Gauge Fed, Bitcoin, and Geopolitics StartupHub.ai
 Austin on why raising rates now pushes more money into the private sector Crypto Briefing
 
 ### RISK
+
+**Iran war goes beyond oil supply, threatens US refining capacity - Firstpost**
+`25 Aug 08:01 PKT` · pehli baar dekhi `25 Aug 08:36` · gnews_geopolitics
+
+Iran war goes beyond oil supply, threatens US refining capacity Firstpost
+
+**The Warnings That Came Before a War Now Reaching the Six-Month Mark**
+`25 Aug 08:00 PKT` · pehli baar dekhi `25 Aug 08:36` · wsj_world
+
+After military and diplomatic efforts, President Trump is pinning his hopes on economic warfare.
+
+**Israel's Netanyahu claims Iran tried to kill one of his sons**
+`25 Aug 07:54 PKT` · pehli baar dekhi `25 Aug 08:36` · aljazeera
+
+Netanyahu&#039;s claim comes after US and Israel killed Iran&#039;s supreme leader and four members of his family in Tehran.
 
 **Hong Kong Stocks Edge Lower**
 `25 Aug 07:47 PKT` · instaforex
@@ -378,8 +472,19 @@ US gasoline futures hovered near $3.27 per gallon, extending the prior session's
 
 The Nikkei 225 Index fell 0.9% to below 65,000 on Tuesday, marking a third straight session of losses and mirroring a tech-led selloff on Wall Street, where artificial intelligence infrastructure stocks remained under heavy pressure. Market participants were also cautious ahead of chipmaker Nvidia's earnings later this week, seeking fresh indications of the strength of AI-related demand.
 
+**China is the biggest buyer of Iran's oil. Could US sanctions threaten those ties? - The Guardian**
+`25 Aug 07:45 PKT` · pehli baar dekhi `25 Aug 08:36` · gnews_geopolitics
+
+China is the biggest buyer of Iran's oil. Could US sanctions threaten those ties? The Guardian
+
+**Oil prices drift higher as markets digest fresh U.S.-Iran sanctions By Investing.com - Investing.com Australia**
+`25 Aug 06:55 PKT` · pehli baar dekhi `25 Aug 08:36` · gnews_geopolitics
+
+Oil prices drift higher as markets digest fresh U.S.-Iran sanctions By Investing.com Investing.com Australia
+
 **Oil prices drift higher as markets digest fresh U.S.-Iran sanctions**
-`25 Aug 06:33 PKT` · pehli baar dekhi `25 Aug 06:46` · investing_commodities
+`25 Aug 06:33 PKT` · pehli baar dekhi `25 Aug 06:46` · investing_commodities · **2 feeds mein**
+  - `25 Aug 06:33` *gnews_geopolitics* — Oil prices drift higher as markets digest fresh U.S.-Iran sanctions - Investing.com
 
 **Iran's Economy Minister Madanizadeh: Enemies should wait for an attack**
 `25 Aug 06:28 PKT` · pehli baar dekhi `25 Aug 06:46` · fxstreet_news
@@ -387,7 +492,8 @@ The Nikkei 225 Index fell 0.9% to below 65,000 on Tuesday, marking a third strai
 Iranian Economy Minister Ali Madanizadeh said on Tuesday, "We are fully prepared for the US sanctions."
 
 **Oil prices steady as investors weigh impact of expanded US sanctions against Iran**
-`25 Aug 06:24 PKT` · pehli baar dekhi `25 Aug 06:46` · investing_commodities · **2 feeds mein**
+`25 Aug 06:24 PKT` · pehli baar dekhi `25 Aug 06:46` · investing_commodities · **3 feeds mein**
+  - `25 Aug 07:23` *gnews_geopolitics* — Oil prices steady as investors weigh impact of expanded US sanctions against Iran - hi99.com
   - `25 Aug 07:19` *gnews_geopolitics* — Oil prices steady as investors weigh impact of expanded US sanctions against Iran, Money News - AsiaOne
 
 **Iran vows to retaliate after US widens sanctions**
@@ -419,14 +525,20 @@ New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying p
 
 Another reported strike on a tanker adds to a run of incidents that have kept a risk premium attached to oil prices even as headline benchmarks have been choppy. With crew safety confirmed and environmental impact still unclear, the immediate market reaction is likely to hinge on whether this proves an isolated event or part of a broader pattern of attacks on merchant shipping in the wider Gulf and Arabian Sea region.
 
-### BINA TAG (36)
+### BINA TAG (42)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `25 Aug 08:16` **investing_news** — GenusPlus FY2026 slides: EBITDA tops $100M, revenue surges 70%
+- `25 Aug 08:02` **investing_news** — Woolworths FY2026 earnings preview: Coles print sets a high bar
+- `25 Aug 08:00` **gnews_fed** — The credibility of the US Federal Reserve, the world's most powerful financial institution, is at risk - Le Monde.fr
+- `25 Aug 07:53` **aljazeera** — Amnesty says India used lethal weapons on 'Cockroach' protesters
+- `25 Aug 07:49` **gnews_centralbanks** — How to Read a Central Bank Statement - Bangkok Post
 - `25 Aug 07:25` **investing_news** — Viva Energy H1 2026 slides: record profit on strong refining margins
 - `25 Aug 07:24` **investing_news** — China robot maker Unitree's post-listing slump sparks bubble fears
 - `25 Aug 07:16` **investing_news** — Why is Suncorp stock rallying today?
 - `25 Aug 07:11` **aljazeera** — Muslims celebrate Prophet Muhammad's birthday
+- `25 Aug 07:00` **gnews_fed** — US borrowing costs rise as attempts to ease rates prove short-lived - internationalfinance.com
 - `25 Aug 06:51` **aljazeera** — Man killed in world's largest annual bullfighting event in Mexico
 - `25 Aug 06:46` **aljazeera** — Brutal gang attack on strategic Haiti hillside leaves at least 30 dead
 - `25 Aug 06:35` **bbc_business** — Burnham refuses to rule out tax rises in autumn Budget
@@ -462,11 +574,11 @@ Another reported strike on a tanker adds to a run of incidents that have kept a 
 
 ---
 
-## Shor — 27 khabrein hatai gayin
+## Shor — 34 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (27)
+investing_news (34)
 
 ---
 
@@ -476,42 +588,42 @@ investing_news (27)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 15 | 2 | 13 | 10 | 0.0 |
-| fxstreet_news | OK | 30 | 12 | 2 | 10 | 18 | 0.0 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.4 |
-| actionforex | OK | 20 | 3 | 2 | 1 | 17 | 0.0 |
+| investinglive | OK | 25 | 18 | 3 | 15 | 7 | 0.0 |
+| fxstreet_news | OK | 30 | 15 | 3 | 12 | 15 | 0.0 |
+| fxstreet_analysis | OK | 30 | 1 | 1 | 0 | 29 | 0.0 |
+| actionforex | OK | 20 | 5 | 2 | 3 | 15 | 0.0 |
 | marketpulse | WARN | 4 | 0 | 0 | 0 | 4 | 3.1 |
-| instaforex | OK | 25 | 25 | 16 | 9 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
+| instaforex | OK | 25 | 25 | 4 | 21 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 2 | 1 | 1 | 34 | 0.0 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.9 |
-| kitco_general | OK | 37 | 1 | 0 | 1 | 36 | 0.2 |
-| gnews_fed | OK | 86 | 5 | 1 | 4 | 81 | 0.1 |
-| gnews_geopolitics | OK | 100 | 8 | 3 | 5 | 92 | 0.0 |
-| gnews_centralbanks | OK | 35 | 2 | 1 | 1 | 33 | 0.0 |
+| kitco_general | OK | 34 | 3 | 0 | 3 | 31 | 0.1 |
+| gnews_fed | OK | 86 | 6 | 2 | 4 | 80 | 0.0 |
+| gnews_geopolitics | OK | 100 | 12 | 5 | 7 | 88 | 0.0 |
+| gnews_centralbanks | OK | 35 | 4 | 2 | 2 | 31 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.4 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 19.3 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 0.9 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 13.6 |
 | boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 0.8 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.7 |
-| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
-| oilprice | OK | 15 | 3 | 0 | 3 | 12 | 0.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.8 |
+| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
+| oilprice | OK | 15 | 3 | 0 | 3 | 12 | 0.2 |
 | investing_commodities | OK | 10 | 5 | 0 | 5 | 5 | 0.1 |
-| ing_think | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
+| ing_think | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
 | bbc_business | OK | 51 | 10 | 0 | 10 | 41 | 0.0 |
-| aljazeera | OK | 25 | 11 | 3 | 8 | 14 | 0.0 |
+| aljazeera | OK | 25 | 13 | 2 | 11 | 12 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.7 |
-| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 0.5 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.8 |
+| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 0.6 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 20.6 |
-| wsj_world | OK | 72 | 2 | 0 | 2 | 70 | 0.1 |
+| wsj_world | OK | 72 | 3 | 1 | 2 | 69 | 0.0 |
 | wsj_markets | OK | 61 | 6 | 0 | 6 | 55 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.6 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | OK | 48 | 0 | 0 | 0 | 48 | 0.6 |
 | mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.1 |
-| cointelegraph | OK | 30 | 1 | 1 | 0 | 29 | 0.0 |
+| cointelegraph | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
