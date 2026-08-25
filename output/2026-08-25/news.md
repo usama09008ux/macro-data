@@ -1,8 +1,8 @@
 # News Pack — Trading Day 25 Aug 2026
 
 - Trading day: **25 Aug 03:00 -> 26 Aug 02:59 PKT**
-- Aakhri update: **25 Aug 15:55 PKT**
-- Kul khabrein: **611**
+- Aakhri update: **25 Aug 16:32 PKT**
+- Kul khabrein: **679**
 - Feeds: 38/39 OK
 
 ---
@@ -17,6 +17,16 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**European Stocks Extend Gains as Iran Concerns Ease**
+`25 Aug 16:32 PKT` · instaforex
+
+European stocks extended gains on Tuesday afternoon, with both the STOXX 50 and the broader STOXX 600 up roughly 0.6%, as investors reacted positively to a US sanctions package on Iran that proved milder than anticipated. Oil prices continued to decline amid perceptions of limited near-term threats to global crude supply, while defense stocks outperformed.
+
+**British Pound: Dovish Repricing Points To Weakness Against Euro – ING - Bitcoin World**
+`25 Aug 16:00 PKT` · pehli baar dekhi `25 Aug 16:32` · gnews_centralbanks
+
+British Pound: Dovish Repricing Points To Weakness Against Euro – ING Bitcoin World
 
 **DAX Rebounds on Tuesday**
 `25 Aug 14:46 PKT` · instaforex
@@ -145,6 +155,17 @@ The dollar's slide to its weakest level since May reflects a shift in the rates 
 
 ### GOLD
 
+**Gold pauses near three-month high after sharp rally**
+`25 Aug 16:09 PKT` · pehli baar dekhi `25 Aug 16:32` · fxstreet_news
+
+Gold (XAU/USD) loses ground on Tuesday after setting a fresh three-month high of $4,697 earlier in the Asian session. Traders appear to be booking some profits following the recent rally, which has pushed the Relative Strength Index (RSI) into overbought territory.
+
+**Fury Gold reports drilling results from Eau Claire project**
+`25 Aug 16:04 PKT` · pehli baar dekhi `25 Aug 16:32` · investing_news
+
+**Citi says gold's breakout is spec-driven and hinges on Jackson Hole**
+`25 Aug 15:57 PKT` · pehli baar dekhi `25 Aug 16:32` · investing_commodities
+
 **Gold Price Forecast: XAU/USD holds onto early losses near $4,630, US Yields plunge**
 `25 Aug 15:22 PKT` · pehli baar dekhi `25 Aug 15:55` · fxstreet_news
 
@@ -226,6 +247,21 @@ Gold has the potential to move toward $5,000 a troy ounce as continued central b
 
 ### USD
 
+**Jersey earnings rise by 1.2% after inflation**
+`25 Aug 16:22 PKT` · pehli baar dekhi `25 Aug 16:32` · bbc_business
+
+Statistics Jersey says the increase is "slightly lower" than the long-term annual average.
+
+**Stick with value stocks until everyone is talking about them — and they are still under the radar, this Wall Street firm says.**
+`25 Aug 16:09 PKT` · pehli baar dekhi `25 Aug 16:32` · mw_topstories
+
+BofA says investors continue to overlook value stocks, which work particularly well in a new era of higher interest rates and inflation.
+
+**US Dollar: Debasement fears meet historical skepticism – MUFG**
+`25 Aug 16:08 PKT` · pehli baar dekhi `25 Aug 16:32` · fxstreet_news
+
+MUFG analysts Derek Halpenny and Abdul-Ahad Lockhart note that the Dollar Index (DXY) is consolidating after a modest rebound, even as markets focus on US fiscal concerns, Treasury buybacks and perceived USD debasement.
+
 **Bank of Montreal Plans to Buy Back Shares After Earnings Hit by Charge**
 `25 Aug 15:31 PKT` · pehli baar dekhi `25 Aug 15:55` · wsj_markets
 
@@ -270,9 +306,10 @@ Taiwan's retail sales rose 7.7% year-on-year in July 2026, moderating slightly f
 Treasury Secretary Scott Bessent's recent maneuvers in the bond market have come in for some searing criticism from illustrious investor Stanley Druckenmiller — his long-time ally and mentor.
 
 **Jackson Hole 2026: Why Kevin Warsh's first speech matters for markets - Firstpost**
-`25 Aug 14:16 PKT` · pehli baar dekhi `25 Aug 14:46` · gnews_fed
+`25 Aug 14:16 PKT` · pehli baar dekhi `25 Aug 14:46` · gnews_fed · **2 feeds mein**
 
 Jackson Hole 2026: Why Kevin Warsh's first speech matters for markets Firstpost
+  - `25 Aug 14:16` *gnews_fed* — Jackson Hole 2026: Why Kevin Warsh's first speech matters for markets - Firstpost
 
 **Indian Rupee: Range holds against US Dollar as inflows offset trade drag – DBS**
 `25 Aug 14:02 PKT` · pehli baar dekhi `25 Aug 14:46` · fxstreet_news
@@ -509,6 +546,25 @@ TAG: 30‑year Treasury yield KITCO
 
 ### EUR
 
+**Irish Average Weekly Earnings Rise 3.9% in Q2**
+`25 Aug 16:32 PKT` · instaforex
+
+In Ireland, average weekly earnings increased by 3.9% year-on-year to EUR 1,046.88 in the second quarter of 2026, based on preliminary estimates. This followed a revised 3.4% annual rise in the previous quarter. Earnings grew in 12 of the 13 economic sectors, with the strongest gains in accommodation and food services (up 7.7%), followed by administrative and support services (up 5.6%).
+
+**EUR/JPY Daily Outlook**
+`25 Aug 16:27 PKT` · pehli baar dekhi `25 Aug 16:32` · actionforex · **4 feeds mein**
+
+Intraday bias in EUR/JPY remains neutral and some consolidations could be seen below 186.00 temporary top. Further rally is expected as long as 183.90 support holds. Above 186.00 will extend the rise from 179.34 to retest 187.42, and then 187.93. In the bigger picture, strong rebound from rising 55 W EMA (now at 180.81) keeps [&#8230;] The post EUR/JPY Daily Outlook appeared first on ActionForex.
+  - `25 Aug 16:25` *actionforex* — EUR/GBP Daily Outlook
+  - `25 Aug 16:24` *actionforex* — EUR/AUD Daily Outlook
+  - `25 Aug 16:20` *actionforex* — EUR/CHF Daily Outlook
+
+**Euro: Recovery against US Dollar supported by data – BBH**
+`25 Aug 16:17 PKT` · pehli baar dekhi `25 Aug 16:32` · fxstreet_news · **2 feeds mein**
+
+Brown Brothers Harriman's (BBH) Elias Haddad reports EUR/USD is firmer but still below 1.1700 as Germany's IFO survey rises to a one-year high, echoing Eurozone PMI and ZEW improvements.
+  - `25 Aug 16:17` *gnews_centralbanks* — Euro: Recovery against US Dollar supported by data – BBH - FXStreet
+
 **Luxembourg Trade Gap Largest in 6 Months**
 `25 Aug 15:55 PKT` · instaforex
 
@@ -738,10 +794,16 @@ EUR/USD Climbs to Highest Level Since May 2025: What's Driving the Rally? Crypto
 
 ### GBP
 
+**GBP/JPY Daily Outlook**
+`25 Aug 16:30 PKT` · pehli baar dekhi `25 Aug 16:32` · actionforex
+
+No change in GBP/JPY&#8217;s outlook and intraday bias stays on the upside. Rise from 209.55 should target a retest on 219.56 high. On the downside, below 216.20 minor support will turn bias neutral and bring consolidations first, before staging another rally. In the bigger picture, strong rebound above 55 W EMA (now at 209.69) keeps [&#8230;] The post GBP/JPY Daily Outlook appeared first on ActionForex.
+
 **GBP/USD Holds Near Highs: Focus Turns to Key Events Later This Week**
-`25 Aug 14:37 PKT` · pehli baar dekhi `25 Aug 14:46` · actionforex
+`25 Aug 14:37 PKT` · pehli baar dekhi `25 Aug 14:46` · actionforex · **2 feeds mein**
 
 GBP/USD is holding at 1.3627 on Tuesday. In the final full week of August, the pair remains near its highest level since mid-February. Sterling is being supported by dollar weakness following the US Treasury's unexpected decision to at least double its purchases of long-term government bonds. Investors are also awaiting details of new sanctions against [&#8230;] The post GBP/USD Holds Near Highs: Focus Turns to Key Events Later This Week appeared first on ActionForex.
+  - `25 Aug 14:49` *gnews_centralbanks* — GBP/USD Holds Near Highs: Focus Turns to Key Events Later This Week - Investing.com
 
 **British Pound extends gains to fresh monthly peak, around mid-217.00s vs weaker Yen**
 `25 Aug 13:29 PKT` · pehli baar dekhi `25 Aug 13:59` · fxstreet_news · **2 feeds mein**
@@ -924,6 +986,11 @@ Commerzbank's Michael Pfister analyses how the strong Swiss Franc (CHF) and an u
 
 ### CAD
 
+**USD/CAD Daily Outlook**
+`25 Aug 16:32 PKT` · actionforex
+
+Intraday bias in USD/CAD remains neutral and more consolidations could be seen above 1.3730. Upside should be limited by 38.2% retracement of 1.4247 to 1.3730 at 1.3972. Break of 1.3730 will resume the fall from 1.4247 to retest 1.3480 low. In the bigger picture, the pattern from 1.4791 (2025 high) is still extending, with fall [&#8230;] The post USD/CAD Daily Outlook appeared first on ActionForex.
+
 **Canadian Dollar: Tariff risks cloud outlook – Commerzbank**
 `25 Aug 14:31 PKT` · pehli baar dekhi `25 Aug 14:46` · fxstreet_news
 
@@ -958,6 +1025,11 @@ The dollar is starting the week on a firm footing, juggling several drivers at o
 What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiraling trade dispute?
 
 ### AUD
+
+**Australian Dollar: Strength intact with 0.7200 in focus against US Dollar – UOB**
+`25 Aug 16:27 PKT` · pehli baar dekhi `25 Aug 16:32` · fxstreet_news
+
+United Overseas Bank's (UOB) Quek Ser Leang and Lee Sue Ann note AUD/USD has slipped into short-term consolidation between 0.7135 and 0.7170 after last week's sharp rise, but they still regard the broader uptrend as intact.
 
 **Australian Dollar: CPI keeps RBA on hold bias – ING**
 `25 Aug 13:48 PKT` · pehli baar dekhi `25 Aug 13:59` · fxstreet_news
@@ -1056,6 +1128,21 @@ NZD/USD gains ground after registering modest losses in the previous day, tradin
 
 ### OIL
 
+**Sensex Finishes Higher**
+`25 Aug 16:32 PKT` · instaforex
+
+India's BSE Sensex reversed early losses on Tuesday to finish about 0.4% higher at 77,656, recovering from the previous session's weakness as financial and IT stocks rebounded. Sentiment was also supported by lower crude oil prices, while the latest US measures to increase economic pressure on Iran turned out to be less severe than markets had anticipated.
+
+**Malacca States Vow to Keep Asia's Busiest Shipping Route Open**
+`25 Aug 16:00 PKT` · pehli baar dekhi `25 Aug 16:32` · oilprice
+
+The three states in the Strait of Malacca, the vital shipping lane into Asia, have pledged to keep the world's busiest maritime thoroughfare free and open to vessels amid the ongoing crisis in the Strait of Hormuz in the Middle East. Indonesia, Malaysia, and Singapore on Tuesday reaffirmed in a joint statement their "shared commitment to keep the Straits open and safe for international shipping." The Strait of Malacca is the shortest route from the Middle East to Asia and is vital for commodity ...
+
+**Crude awakening: As Russia, Iran face Trump heat, can Venezuela fill India's oil gap? - The Times of India**
+`25 Aug 15:58 PKT` · pehli baar dekhi `25 Aug 16:32` · gnews_geopolitics
+
+Crude awakening: As Russia, Iran face Trump heat, can Venezuela fill India's oil gap? The Times of India
+
 **Oil prices decline as investors brush aside Bessent's 'economic D-Day' for Iran**
 `25 Aug 15:45 PKT` · pehli baar dekhi `25 Aug 15:55` · mw_topstories
 
@@ -1149,6 +1236,11 @@ The short‑term Elliott Wave view in Oil (CL) continues to suggest a constructi
 
 India's BSE Sensex slipped around 0.2% to 77,234 on Tuesday, extending the previous session's losses, as investor sentiment stayed cautious amid persistent geopolitical tensions in the Middle East and ahead of the Nifty 50 monthly derivatives expiry. The Nifty 50 also declined, with 14 of the 16 major sectors trading in the red, while rising crude oil prices further weighed on Indian equities.
 
+**Oil Price Forecast: Iran Sanctions Put WTI and Brent Breakouts in Focus - FXEmpire**
+`25 Aug 08:48 PKT` · pehli baar dekhi `25 Aug 16:32` · gnews_geopolitics
+
+Oil Price Forecast: Iran Sanctions Put WTI and Brent Breakouts in Focus FXEmpire
+
 **Oil Prices Steady After 2% Slide As Iran Sanctions, Strait Of Hormuz Risks Keep Markets On Edge - Times Now**
 `25 Aug 08:39 PKT` · pehli baar dekhi `25 Aug 09:22` · gnews_geopolitics
 
@@ -1239,6 +1331,14 @@ Oil Steadies as US Plan Offers Little Clarity on Hormuz Deadlock Bloomberg
 The United States is forging ahead with its critical minerals ambitions, investing billions in securing non-Chinese supply, while in Europe, the central EU government "hesitate, over-administrate, talk and lose time." The EU was already behind the U.S. on critical minerals. Now, it has fallen further behind, which means a lot more work would need to be done to catch up. The quote above comes from the head of a Europe-wide organization representing critical minerals companies.
 
 ### CRYPTO
+
+**Treasury Secretary urges Congress to address $40T debt amid fiscal challenges - Crypto Briefing**
+`25 Aug 16:10 PKT` · pehli baar dekhi `25 Aug 16:32` · gnews_fed
+
+Treasury Secretary urges Congress to address $40T debt amid fiscal challenges Crypto Briefing
+
+**1 Popular Cryptocurrency to Buy Before It Surges by 920%, According to Cathie Wood's Ark Invest**
+`25 Aug 16:05 PKT` · pehli baar dekhi `25 Aug 16:32` · yahoo_finance
 
 **Bitcoin RSI bullish divergence draws 2022 comparisons as analysis weighs new price trend**
 `25 Aug 15:49 PKT` · pehli baar dekhi `25 Aug 15:55` · cointelegraph
@@ -1746,10 +1846,52 @@ NY Crude Falls for First Time in 7 Sessions on Profit-Taking, Settles in $85 Ran
 
 Another reported strike on a tanker adds to a run of incidents that have kept a risk premium attached to oil prices even as headline benchmarks have been choppy. With crew safety confirmed and environmental impact still unclear, the immediate market reaction is likely to hinge on whether this proves an isolated event or part of a broader pattern of attacks on merchant shipping in the wider Gulf and Arabian Sea region.
 
-### BINA TAG (186)
+### BINA TAG (228)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `25 Aug 16:32` **instaforex** — Brazil's Consumer Confidence Slips in August, Reversing Recent Gains
+- `25 Aug 16:13` **yahoo_finance** — Aramco signs agreements, MoU worth $3.7bn with French companies
+- `25 Aug 16:12` **mw_topstories** — The debt-fueled AI build-out may already be too big to fail
+- `25 Aug 16:09` **yahoo_finance** — ShardLab invests in StoreHub, launches payments JV
+- `25 Aug 16:06` **investing_news** — United Airlines expects enough Airbus A321XLR deliveries for 2027 Europe expansion
+- `25 Aug 16:06` **investing_news** — Needham raises Teleflex stock price target on Freesolve potential
+- `25 Aug 16:06` **investing_news** — Celea to present deupirfenidone trial data at ERS congress
+- `25 Aug 16:06` **investing_news** — Citi Trends beats estimates but stock slips on guidance concerns
+- `25 Aug 16:05` **investing_news** — Why is Capricor Therapeutics stock rallying today?
+- `25 Aug 16:05` **yahoo_finance** — SCHD and VNQ Both Pay Quarterly, Yet Only One Soars When Rates Stay High
+- `25 Aug 16:05` **yahoo_finance** — WAWWA invests in automated fabric cutting to save time and reduce waste
+- `25 Aug 16:04` **yahoo_finance** — He Gave $100,000 of Stock to Fight a Wealth Tax. The IRS Taxed a Gain He Never Pocketed and More of His Social Security.
+- `25 Aug 16:04` **investing_news** — Parabilis Medicines adds former J&J oncology executive to board
+- `25 Aug 16:04` **investing_news** — Madison Air announces $2.25 billion private placement
+- `25 Aug 16:04` **investing_news** — Celea to present deupirfenidone trial data at ERS congress
+- `25 Aug 16:04` **investing_news** — Beyond Air to sell NeuroNOS stake to Univo for 19.99% equity
+- `25 Aug 16:03` **yahoo_finance** — Equinor, Aker BP and Vår Energi launch NCS exploration alliance
+- `25 Aug 16:03` **yahoo_finance** — After Burry ditched Alibaba for JD, Alibaba proved his point
+- `25 Aug 16:02` **yahoo_finance** — Azura launches Azura Private as Stella team comes on board
+- `25 Aug 16:02` **yahoo_finance** — LANXESS Targets Deeper Cuts, Deleveraging as Chemical Markets Stay Weak
+- `25 Aug 16:02` **yahoo_finance** — Gulf Keystone Petroleum H1 Earnings Call Highlights
+- `25 Aug 16:01` **aljazeera** — India faces criticism from UN discrimination watchdog
+- `25 Aug 16:01` **yahoo_finance** — 3 BDCs Yielding Big. A Roth Is the Only Place They Make Sense
+- `25 Aug 16:01` **yahoo_finance** — Why These 5 Dividend Stocks Are Worth More in a Roth Than a Brokerage Account
+- `25 Aug 16:00` **yahoo_finance** — 3 Cloud Stocks to Buy Heading Into September
+- `25 Aug 16:00` **yahoo_finance** — 3 Chip Stocks Under $50 Worth Buying Now
+- `25 Aug 16:00` **yahoo_finance** — 5 Dividend Aristocrats Boomers Should Own for Life
+- `25 Aug 16:00` **yahoo_finance** — Pennon faces balance sheet pressure ahead of September strategy update
+- `25 Aug 15:57` **yahoo_finance** — QDM International Seeks Nasdaq Uplisting Through Public Share Offering
+- `25 Aug 15:57` **yahoo_finance** — Nancy Pelosi Made Millions On Nvidia Options. Now She's Betting $3 Million On 1 AI Energy Stock
+- `25 Aug 15:57` **yahoo_finance** — Scott Bessent Wants to 'Put the Fear of God' Into Bond Vigilantes — Why This Midterm Ploy Could Backfire on Investors
+- `25 Aug 15:56` **yahoo_finance** — RUM Group signs six-year $13.7bn GPU services contract
+- `25 Aug 15:56` **yahoo_finance** — Fluence Energy Shares Surge After UBS Upgrades Stock to Neutral
+- `25 Aug 15:55` **aljazeera** — Is AIPAC's political standing declining in the US?
+- `25 Aug 15:55` **yahoo_finance** — 'Don't be a loser': Robert Kiyosaki sounds alarm on $40T US debtload — warns owners of this 'fake asset' will get poorer
+- `25 Aug 15:54` **yahoo_finance** — Avantus secures $300m in tax equity for Aratina 2 solar storage project
+- `25 Aug 15:54` **yahoo_finance** — Shift4 Payments Shares Climb After Wells Fargo Upgrades Stock
+- `25 Aug 15:54` **gnews_fed** — NatWest secures US Federal Reserve approval to establish Connecticut office as it seeks to rebuild US prescence - Scottish Financial News
+- `25 Aug 15:53` **yahoo_finance** — Fidelity National Information Services Shares Fall After Wells Fargo Downgrade
+- `25 Aug 15:51` **yahoo_finance** — Summit Therapeutics Shares Rise After Bernstein SocGen Upgrade
+- `25 Aug 15:51` **yahoo_finance** — Cathie Wood Bought SpaceX Stock as Michael Burry Piled Into Palantir Puts. Here's What Each Bet Is Actually Pricing In.
+- `25 Aug 15:50` **yahoo_finance** — 707 Cayman Holdings Shares Surge 47% on Speculative Trading Momentum
 - `25 Aug 15:47` **wsj_markets** — Scotiabank Earnings Lifted by Record Result in Wealth Management
 - `25 Aug 15:46` **investing_news** — Canaccord raises Workday stock price target on growth outlook
 - `25 Aug 15:43` **investing_news** — Master Drilling H1 2026 slides: record revenue, $1bn pipeline
@@ -1953,42 +2095,42 @@ investing_news (42)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 2 | 28 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
+| fxstreet_news | OK | 30 | 30 | 4 | 26 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
-| actionforex | OK | 20 | 14 | 0 | 14 | 6 | 0.1 |
-| marketpulse | WARN | 4 | 0 | 0 | 0 | 4 | 3.4 |
-| instaforex | OK | 25 | 25 | 1 | 24 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 4 | 1 | 3 | 32 | 0.0 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| actionforex | OK | 20 | 20 | 6 | 14 | 0 | 0.0 |
+| marketpulse | WARN | 4 | 0 | 0 | 0 | 4 | 3.5 |
+| instaforex | OK | 25 | 25 | 4 | 21 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.0 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 12.2 |
-| kitco_general | OK | 33 | 8 | 0 | 8 | 25 | 0.4 |
-| gnews_fed | OK | 71 | 17 | 3 | 14 | 54 | 0.0 |
-| gnews_geopolitics | OK | 100 | 54 | 7 | 47 | 46 | 0.0 |
-| gnews_centralbanks | OK | 55 | 31 | 9 | 22 | 24 | 0.0 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 12.3 |
+| kitco_general | OK | 33 | 6 | 0 | 6 | 27 | 0.4 |
+| gnews_fed | OK | 73 | 20 | 3 | 17 | 53 | 0.0 |
+| gnews_geopolitics | OK | 100 | 54 | 2 | 52 | 46 | 0.0 |
+| gnews_centralbanks | OK | 56 | 33 | 3 | 30 | 23 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.7 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 19.6 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.2 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 13.9 |
-| boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.2 |
+| boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.3 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.1 |
 | mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.5 |
-| oilprice | OK | 15 | 7 | 0 | 7 | 8 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| oilprice | OK | 15 | 8 | 1 | 7 | 7 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
 | ing_think | OK | 10 | 5 | 0 | 5 | 5 | 0.1 |
-| bbc_business | OK | 52 | 14 | 0 | 14 | 38 | 0.0 |
+| bbc_business | OK | 52 | 15 | 1 | 14 | 37 | 0.0 |
 | aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 25.1 |
 | eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 0.9 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 20.9 |
-| wsj_world | OK | 71 | 4 | 1 | 3 | 67 | 0.0 |
-| wsj_markets | OK | 61 | 17 | 2 | 15 | 44 | 0.0 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 21.0 |
+| wsj_world | OK | 71 | 4 | 0 | 4 | 67 | 0.0 |
+| wsj_markets | OK | 61 | 17 | 0 | 17 | 44 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 38 | 20 | 18 | 11 | 0.0 |
-| mw_topstories | OK | 10 | 9 | 1 | 8 | 1 | 0.0 |
-| cointelegraph | OK | 30 | 10 | 2 | 8 | 20 | 0.0 |
+| yahoo_finance | OK | 49 | 39 | 29 | 10 | 10 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 10 | 0 | 10 | 20 | 0.0 |
