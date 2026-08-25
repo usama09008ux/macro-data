@@ -1,9 +1,9 @@
 # News Pack — Trading Day 25 Aug 2026
 
 - Trading day: **25 Aug 03:00 -> 26 Aug 02:59 PKT**
-- Aakhri update: **25 Aug 10:45 PKT**
-- Kul khabrein: **248**
-- Feeds: 37/39 OK
+- Aakhri update: **25 Aug 11:19 PKT**
+- Kul khabrein: **277**
+- Feeds: 38/39 OK
 
 ---
 
@@ -110,6 +110,11 @@ The dollar's slide to its weakest level since May reflects a shift in the rates 
 
 ### GOLD
 
+**Gold Fields Returns More Cash to Shareholders as Earnings Jump on Higher Prices**
+`25 Aug 11:04 PKT` · pehli baar dekhi `25 Aug 11:19` · wsj_markets
+
+The company more than doubled its interim dividend and said it would return an additional $500 million to shareholders over the year.
+
 **India Gold price today: Gold falls, according to FXStreet data**
 `25 Aug 09:35 PKT` · pehli baar dekhi `25 Aug 10:04` · fxstreet_news
 
@@ -154,6 +159,21 @@ US Treasury bond buy-back reinforces gold debasement trade ahead of Jackson Hole
 Gold has the potential to move toward $5,000 a troy ounce as continued central bank demand, fiscal risks and geopolitical uncertainty support a largely optimistic medium-term outlook, XS.com said.
 
 ### USD
+
+**Danish Retail Sales Growth Accelerates to 6.7% YoY in July 2026**
+`25 Aug 11:19 PKT` · instaforex
+
+Retail sales growth in Denmark strengthened in July 2026, with the year-over-year rate rising to 6.7%, up from 4.6% in June 2026. The figures, updated on 25 August 2026, indicate a solid acceleration in consumer spending compared with the same period a year earlier. On a year-over-year basis, the July reading reflects a faster pace of expansion than in the previous month, when June's retail activity was measured against June of the prior year.
+
+**NZX 50 Ends 0.8% Higher as Consumer Stocks Boost**
+`25 Aug 11:19 PKT` · instaforex
+
+New Zealand shares rose 111 points, or 0.8%, to finish at 13,993 on Tuesday, fully reversing the prior session's losses. The advance was led by consumer staples, technology, and utilities. Consumer staples climbed 3.2%, driven in particular by a 5.0% jump in A2 Milk, as traders reassessed the stock after a volatile mid-August session following its earnings release.
+
+**Finnish Jobless Rate at 7-Month Low**
+`25 Aug 11:19 PKT` · instaforex
+
+Finland's unemployment rate rose to 9.9% in July 2026, up from 9.3% in July 2025, although it remained at its lowest level since December 2025. The number of unemployed increased by 20,000 over the year to 289,000, including 150,000 men and 139,000 women. By gender, the unemployment rate for men edged down to 10.0%, 0.2 percentage points lower than a year earlier, while the women's rate climbed to 9.8%, an increase of 1.5 percentage points.
 
 **Indian Rupee ticks up against US Dollar on RBI's likely intervention**
 `25 Aug 10:37 PKT` · pehli baar dekhi `25 Aug 10:45` · fxstreet_news
@@ -282,6 +302,36 @@ TAG: 30‑year Treasury yield KITCO
 
 ### EUR
 
+**Germany's GDP Growth Edges Up to 1.0% in Q2 2026, Slightly Above Prior Pace**
+`25 Aug 11:19 PKT` · instaforex
+
+Germany's economy registered a modest acceleration in the second quarter of 2026, with gross domestic product (GDP) growing 1.0% year-over-year, up from 0.9% in the previous reading. The data, updated on 25 August 2026, underscore a gradual strengthening in Europe's largest economy compared with the same period a year earlier. The comparison is made on a year-over-year basis, measuring how the second quarter of 2026 performed against the second quarter of the previous year.
+
+**German Growth Momentum Eases as Q2 GDP Slips to 0.3% QoQ**
+`25 Aug 11:19 PKT` · instaforex
+
+Germany's economic growth lost some momentum in the second quarter of 2026, with gross domestic product (GDP) expanding by 0.3% quarter-on-quarter, down from a 0.4% increase in the previous quarter. The latest reading, updated on 25 August 2026, points to a modest cooling in Europe's largest economy.
+
+**Germany's hot political autumn**
+`25 Aug 11:10 PKT` · pehli baar dekhi `25 Aug 11:19` · ing_think
+
+EUROPE: The weather is cooling in Germany, but politics is heating up. Three state elections in a fortnight now decide how much authority the Merz government has left
+
+**Euro: Further gains eyed toward 1.1800 against US Dollar – UOB**
+`25 Aug 11:08 PKT` · pehli baar dekhi `25 Aug 11:19` · fxstreet_news
+
+United Overseas Bank's (UOB) Quek Ser Leang and Lee Sue Ann keep a constructive stance on EUR/USD despite recent consolidation around 1.1660. They still see room for upside toward 1.1725 in the coming weeks as long as support at 1.1630 holds.
+
+**Germany Q2 final GDP +0.3% vs +0.2% q/q prelim**
+`25 Aug 11:00 PKT` · pehli baar dekhi `25 Aug 11:19` · investinglive
+
+Prior +0.4% GDP Y/Y +1.0% vs +0.9% prelim Prior +0.7% Full report here Germany's economy expanded by 0.3% q/q in the second quarter of 2026), exceeding the preliminary estimate of 0.2%. On an annual basis, GDP grew 1.0% highlighting a continued recovery in economic activity. Destatis said the German economy is maintaining the growth momentum seen at the beginning of the year, with exports once again serving as the primary engine of growth.
+
+**EUR/USD Price Forecast: Corrects further as US Dollar extends recovery**
+`25 Aug 10:58 PKT` · pehli baar dekhi `25 Aug 11:19` · fxstreet_news
+
+The Euro (EUR) trades marginally lower against the US Dollar (USD) on Tuesday, extending its corrective move from the four-day high of 1.1711 to near 1.1655 during the European trading session.
+
 **France and Saudi Arabia plan Dragon Ball Z theme park near Paris**
 `25 Aug 10:09 PKT` · pehli baar dekhi `25 Aug 10:45` · aljazeera
 
@@ -335,6 +385,46 @@ Reports Some ECB Members See Rate Hike At End-2019 As 'Too Late' Forex Factory
 The GBP/USD pair extends its sideways consolidative price move for the second straight day and trades around the 1.3630 area during the Asian session on Tuesday.
 
 ### JPY
+
+**Japan Coincident Index Revised Higher**
+`25 Aug 11:19 PKT` · instaforex
+
+Japan's coincident economic index, a key gauge of current economic conditions derived from indicators such as industrial production, employment, and retail sales, rose to 118.5 in June 2025. This surpassed the flash estimate of 118.2 and marked the highest level since May 2019. The latest reading followed May's 117.9, underscoring a continued, moderate economic recovery.
+
+**Japan Leading Index Revised Slightly Upward**
+`25 Aug 11:19 PKT` · instaforex
+
+Japan's leading economic index, which anticipates economic activity in the coming months based on indicators such as job offers and consumer sentiment, was revised slightly upward to 116.5 in June 2026 from an initial estimate of 116.4, unchanged from May's upwardly revised reading.
+
+**Japan's Core Inflation Cools to 2.3% YoY, Easing from 2.7%**
+`25 Aug 11:19 PKT` · instaforex
+
+Japan's core Consumer Price Index (CPI) slowed to 2.3% year-over-year, down from 2.7% previously, according to data updated on 25 August 2026. The figure reflects the change in prices for the latest reported month compared with the same month a year earlier, while the prior reading represents the previous month's annual comparison.
+
+**Japan's June Leading Index Stalls Again, Signaling Flat Near-Term Momentum**
+`25 Aug 11:19 PKT` · instaforex
+
+Japan's leading economic index showed no change in June 2026, with the indicator registering a 0.0% month-over-month movement, matching the revised figure for the previous month. According to data updated on 25 August 2026, the index's performance in June reflects a second consecutive month of flat growth, pointing to a lack of clear acceleration in Japan's near-term economic outlook.
+
+**Japan's Leading Index Inches Up to 116.5 in June, Signaling Steady Momentum**
+`25 Aug 11:19 PKT` · instaforex
+
+Japan's leading index edged higher in June, suggesting the country's economic momentum remains broadly stable. According to the latest figures updated on 25 August 2026, the index rose to 116.5 in June 2026, up slightly from the previous level of 116.4 recorded earlier in the same month.
+
+**Japan's Coincident Indicator Turns Positive in June, Signaling Firmer Economic Momentum**
+`25 Aug 11:19 PKT` · instaforex
+
+Japan's coincident indicator moved back into positive territory in June, suggesting a strengthening in current economic conditions. The index rose to 0.6% month-over-month in June 2026, compared with a decline of -0.2% in the previous month, according to data updated on 25 August 2026. The coincident indicator tracks a range of data series designed to capture the present state of the economy.
+
+**Japan Underlying Inflation Gauge Rises 2.3%, Strengthening Case for BOJ September Rate Hike - bloomingbit**
+`25 Aug 10:46 PKT` · pehli baar dekhi `25 Aug 11:19` · gnews_centralbanks
+
+Japan Underlying Inflation Gauge Rises 2.3%, Strengthening Case for BOJ September Rate Hike bloomingbit
+
+**BOJ's Price Gauge Stays Above 2% Amid Rate Hike Speculation - Bloomberg**
+`25 Aug 10:23 PKT` · pehli baar dekhi `25 Aug 11:19` · gnews_centralbanks
+
+BOJ's Price Gauge Stays Above 2% Amid Rate Hike Speculation Bloomberg
 
 **KKR to acquire Japanese beauty platform Ci FLAVORS**
 `25 Aug 09:08 PKT` · pehli baar dekhi `25 Aug 10:04` · investing_news
@@ -397,6 +487,11 @@ What leverage does Canada, which sells about 70% of its goods to the US, actuall
 `25 Aug 10:04 PKT` · instaforex
 
 The Reserve Bank of Australia has reiterated that its transition to an ample-reserves framework is still underway, with no fixed timeline for reaching a new equilibrium. In a recent speech, Head of Domestic Markets David Jacobs said market behaviour will ultimately signal when the level of reserves reflects banks' underlying structural demand rather than the temporary build-up of assets during the pandemic.
+
+**Songs created by AI banned from Australia's music charts**
+`25 Aug 09:54 PKT` · pehli baar dekhi `25 Aug 11:19` · bbc_business
+
+The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.
 
 **Australia 10Y Yield Remains Above 5%**
 `25 Aug 09:22 PKT` · instaforex
@@ -464,6 +559,16 @@ The PBOC allows the yuan to fluctuate within a +/- 2% range, around this referen
 NZD/USD gains ground after registering modest losses in the previous day, trading around 0.5960 during the Asian hours on Tuesday.
 
 ### OIL
+
+**Iran Threatens Retaliation as U.S. Widens Sanctions**
+`25 Aug 11:00 PKT` · pehli baar dekhi `25 Aug 11:19` · oilprice
+
+Iran threatened an aggressive response to the latest U.S. sanctions announced on Monday by Treasury Secretary Scott Bessent, with a top government official noting Tehran was "fully prepared for the U.S. sanctions." "Naturally, the enemies intend to launch an economic terrorist attack on us, but we also have our own tools and know how to play the game," Iran's economy minister Ali Madanizadeh said, as quoted by Reuters earlier today.
+
+**Elliott Wave Forecast: Crude Oil (CL) AIms Higher, $100.6 in Sight**
+`25 Aug 10:54 PKT` · pehli baar dekhi `25 Aug 11:19` · actionforex
+
+The short‑term Elliott Wave view in Oil (CL) continues to suggest a constructive bias, supported by the impulsive rally from the July 2, 2026 low. That advance unfolded in five waves and concluded wave (A) at $93.50. Following this peak, the market experienced a three‑wave corrective decline, which terminated at $74.17 as reflected in the [&#8230;] The post Elliott Wave Forecast: Crude Oil (CL) AIms Higher, $100.6 in Sight appeared first on ActionForex.
 
 **Sensex Falls as Geopolitical Risks Weigh**
 `25 Aug 10:04 PKT` · instaforex
@@ -550,6 +655,11 @@ The United States is forging ahead with its critical minerals ambitions, investi
 
 ### CRYPTO
 
+**Iran conflict disrupts global oil supply, crisis looms - Crypto Briefing**
+`25 Aug 11:03 PKT` · pehli baar dekhi `25 Aug 11:19` · gnews_geopolitics
+
+Iran conflict disrupts global oil supply, crisis looms Crypto Briefing
+
 **Bitcoin Hits More Than Three-Month High**
 `25 Aug 10:12 PKT` · pehli baar dekhi `25 Aug 10:45` · wsj_markets
 
@@ -590,7 +700,19 @@ Prediction Markets Gauge Fed, Bitcoin, and Geopolitics StartupHub.ai
 
 Austin on why raising rates now pushes more money into the private sector Crypto Briefing
 
+### RATES
+
+**Riksbank Minutes to Shed Light on Board Divisions**
+`25 Aug 11:18 PKT` · pehli baar dekhi `25 Aug 11:19` · actionforex
+
+In focus today In Sweden, the focus is on the Riksbank minutes from last week&#8217;s meeting, released at 9.30 CET today. As this was a smaller meeting with no new projections and only a brief monetary policy update, the minutes will be important for understanding whether the relatively dovish communication was unanimously supported. The key [&#8230;] The post Riksbank Minutes to Shed Light on Board Divisions appeared first on ActionForex.
+
 ### RISK
+
+**Expanded US Sanctions Against Iran: Oil Price Impact 2026 - Discovery Alert**
+`25 Aug 10:51 PKT` · pehli baar dekhi `25 Aug 11:19` · gnews_geopolitics
+
+Expanded US Sanctions Against Iran: Oil Price Impact 2026 Discovery Alert
 
 **Shafaq News..Oil prices rise as Iran sanctions take focus - شفق نيوز**
 `25 Aug 10:17 PKT` · pehli baar dekhi `25 Aug 10:45` · gnews_geopolitics
@@ -699,6 +821,11 @@ Dollar struggles amid Iran sanctions, Treasury buybacks impact Crypto Briefing
 Oil prices drift higher as markets digest fresh U.S.-Iran sanctions By Investing.com Investing.com South Africa
   - `25 Aug 06:55` *gnews_geopolitics* — Oil prices drift higher as markets digest fresh U.S.-Iran sanctions By Investing.com - Investing.com Australia
 
+**Trump's Economic D-Day on Iran: Oil, Sanctions & Global Impact - Discovery Alert**
+`25 Aug 06:39 PKT` · pehli baar dekhi `25 Aug 11:19` · gnews_geopolitics
+
+Trump's Economic D-Day on Iran: Oil, Sanctions & Global Impact Discovery Alert
+
 **Oil prices drift higher as markets digest fresh U.S.-Iran sanctions**
 `25 Aug 06:33 PKT` · pehli baar dekhi `25 Aug 06:46` · investing_commodities · **2 feeds mein**
   - `25 Aug 06:33` *gnews_geopolitics* — Oil prices drift higher as markets digest fresh U.S.-Iran sanctions - Investing.com
@@ -721,6 +848,12 @@ Iran vows retaliation after US expands sanctions targeting digital assets, gold,
 
 **Iran vows to retaliate after US widens sanctions**
 `25 Aug 06:19 PKT` · pehli baar dekhi `25 Aug 06:46` · investing_commodities
+
+**Oil steadies as investors weigh impact of latest US sanctions on Iran - Reuters**
+`25 Aug 06:16 PKT` · pehli baar dekhi `25 Aug 11:19` · gnews_geopolitics · **2 feeds mein**
+
+Oil steadies as investors weigh impact of latest US sanctions on Iran Reuters
+  - `25 Aug 03:10` *gnews_geopolitics* — Oil steadies as investors weigh impact of latest US sanctions on Iran - The Business Times
 
 **Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners**
 `25 Aug 05:00 PKT` · pehli baar dekhi `25 Aug 06:46` · aljazeera
@@ -758,10 +891,12 @@ NY Crude Falls for First Time in 7 Sessions on Profit-Taking, Settles in $85 Ran
 
 Another reported strike on a tanker adds to a run of incidents that have kept a risk premium attached to oil prices even as headline benchmarks have been choppy. With crew safety confirmed and environmental impact still unclear, the immediate market reaction is likely to hinge on whether this proves an isolated event or part of a broader pattern of attacks on merchant shipping in the wider Gulf and Arabian Sea region.
 
-### BINA TAG (60)
+### BINA TAG (62)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `25 Aug 11:19` **instaforex** — Norway's Unemployment Rate Eases to 4.2% in July 2026
+- `25 Aug 11:00` **ing_think** — Europe's Pitch Book: Doomed by demographics?
 - `25 Aug 10:19` **aljazeera** — Two US carrier groups in Middle East strain navy resources
 - `25 Aug 10:09` **bbc_business** — The Gurkha families fighting for their pensions
 - `25 Aug 10:08` **bbc_business** — Drought leaves 'barely any apples' to make cider
@@ -839,45 +974,42 @@ investing_news (35)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 21 | 2 | 19 | 4 | 0.0 |
-| fxstreet_news | OK | 30 | 23 | 2 | 21 | 7 | 0.0 |
+| investinglive | OK | 25 | 22 | 1 | 21 | 3 | 0.0 |
+| fxstreet_news | OK | 30 | 25 | 2 | 23 | 5 | 0.0 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
-| actionforex | OK | 20 | 5 | 0 | 5 | 15 | 0.1 |
-| marketpulse | WARN | 4 | 0 | 0 | 0 | 4 | 3.2 |
-| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| actionforex | OK | 20 | 7 | 2 | 5 | 13 | 0.0 |
+| marketpulse | WARN | 4 | 0 | 0 | 0 | 4 | 3.3 |
+| instaforex | OK | 25 | 25 | 12 | 13 | 0 | -0.2 |
 | wsj_economy | OK | 36 | 2 | 0 | 2 | 34 | 0.1 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 12.0 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 12.1 |
 | kitco_general | OK | 34 | 9 | 0 | 9 | 25 | 0.2 |
-| gnews_fed | OK | 85 | 8 | 0 | 8 | 77 | 0.1 |
-| gnews_geopolitics | OK | 100 | 26 | 5 | 21 | 74 | 0.0 |
-| gnews_centralbanks | OK | 38 | 8 | 1 | 7 | 30 | 0.1 |
+| gnews_fed | OK | 82 | 8 | 0 | 8 | 74 | 0.1 |
+| gnews_geopolitics | OK | 100 | 27 | 5 | 22 | 73 | 0.0 |
+| gnews_centralbanks | OK | 39 | 10 | 2 | 8 | 29 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.5 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 19.4 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.0 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 13.7 |
-| boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.0 |
+| boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.1 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.9 |
 | mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
-| oilprice | OK | 15 | 3 | 0 | 3 | 12 | 0.2 |
+| oilprice | OK | 15 | 4 | 1 | 3 | 11 | 0.0 |
 | investing_commodities | OK | 10 | 5 | 0 | 5 | 5 | 0.1 |
-| ing_think | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| bbc_business | OK | 52 | 12 | 2 | 10 | 40 | 0.0 |
-| aljazeera | OK | 25 | 18 | 2 | 16 | 7 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.8 |
+| ing_think | OK | 10 | 3 | 2 | 1 | 7 | 0.0 |
+| bbc_business | OK | 52 | 13 | 1 | 12 | 39 | 0.0 |
+| aljazeera | OK | 25 | 18 | 0 | 18 | 7 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | -0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.9 |
 | eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 0.7 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 20.7 |
 | wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.1 |
-| wsj_markets | OK | 61 | 7 | 1 | 6 | 54 | 0.0 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.4 |
-| mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
-| cointelegraph | OK | 30 | 3 | 1 | 2 | 27 | 0.0 |
-
-**Jo feeds nahi aaye:**
-- instaforex — FAIL, koi item nahi
+| wsj_markets | OK | 61 | 8 | 1 | 7 | 53 | 0.0 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.4 |
+| mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.3 |
+| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.0 |
