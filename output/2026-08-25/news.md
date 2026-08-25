@@ -1,9 +1,9 @@
 # News Pack — Trading Day 25 Aug 2026
 
 - Trading day: **25 Aug 03:00 -> 26 Aug 02:59 PKT**
-- Aakhri update: **26 Aug 03:11 PKT**
-- Kul khabrein: **1556**
-- Feeds: 38/39 OK
+- Aakhri update: **26 Aug 03:47 PKT**
+- Kul khabrein: **1565**
+- Feeds: 39/39 OK
 
 ---
 
@@ -482,6 +482,11 @@ Short-term Treasury fixes and reliance on growth won't turn the tide. Real refor
 
 United Overseas Bank's (UOB) Quek Ser Leang and Lee Sue Ann maintain a negative stance on USD/CNH, noting a softened underlying tone even as recent price action stayed relatively quiet. Intraday, they see scope for a modest drift lower while keeping 6.7150 as key support.
 
+**Business owners squeezed as costs rise, profits fall, Minneapolis Fed survey finds - MPR News**
+`26 Aug 02:18 PKT` · pehli baar dekhi `26 Aug 03:47` · gnews_fed
+
+Business owners squeezed as costs rise, profits fall, Minneapolis Fed survey finds MPR News
+
 **US Stocks Rise as Tech Rebounds**
 `26 Aug 02:15 PKT` · instaforex
 
@@ -530,6 +535,13 @@ Euro Forecast: Will Core PCE Tip the Scales for the Fed? FOREX.com
 
 **Lemaitre Vascular stock hits 52-week low at 78.64 USD**
 `26 Aug 00:22 PKT` · pehli baar dekhi `26 Aug 00:45` · investing_news
+
+**US rates need to rise soon absent evidence of ongoing drop in inflation, Fed's Collins says - KITCO**
+`26 Aug 00:15 PKT` · pehli baar dekhi `26 Aug 03:47` · kitco_general · **3 feeds mein**
+
+US rates need to rise soon absent evidence of ongoing drop in inflation, Fed's Collins says KITCO
+  - `25 Aug 20:07` *gnews_fed* — US rates need to rise soon absent evidence of ongoing drop in inflation, Fed's Collins says - Reuters
+  - `25 Aug 20:06` *yahoo_finance* — US rates need to rise soon absent evidence of ongoing drop in inflation, Fed's Collins says
 
 **This chart shows exactly why investors should worry about rising yields — even if they don't own any bonds**
 `25 Aug 23:58 PKT` · pehli baar dekhi `26 Aug 00:08` · mw_topstories
@@ -676,12 +688,6 @@ U.S. Federal Reserve signals possible rate rise as inflation stays above target 
 
 **JPMorgan compares Bessent's $4B bond buyback to 'paying your mortgage with your credit card' as U.S. debt hits $40T**
 `25 Aug 20:20 PKT` · pehli baar dekhi `25 Aug 21:36` · yahoo_finance
-
-**US rates need to rise soon absent evidence of ongoing drop in inflation, Fed's Collins says - Reuters**
-`25 Aug 20:07 PKT` · pehli baar dekhi `25 Aug 20:53` · gnews_fed · **2 feeds mein**
-
-US rates need to rise soon absent evidence of ongoing drop in inflation, Fed's Collins says Reuters
-  - `25 Aug 20:06` *yahoo_finance* — US rates need to rise soon absent evidence of ongoing drop in inflation, Fed's Collins says
 
 **Boston Fed's Collins Says Early Rate Hike Appropriate Without Evidence of Slowing Inflation - finance.biggo.com**
 `25 Aug 20:05 PKT` · pehli baar dekhi `25 Aug 20:53` · gnews_fed
@@ -2986,6 +2992,11 @@ Removal of US sanctions offers Syria a chance to fully rejoin the global financi
 
 Four India-based companies bear the brunt of US' Iran sanctions Business Standard
 
+**Long Petrol Queues In Tehran After U.S. Announces New Sanctions On Iran: how 11 outlets framed it - NewsCord**
+`25 Aug 23:23 PKT` · pehli baar dekhi `26 Aug 03:47` · gnews_geopolitics
+
+Long Petrol Queues In Tehran After U.S. Announces New Sanctions On Iran: how 11 outlets framed it NewsCord
+
 **live Oil prices fall as Iran vows retaliation over U.S. sanctions - AnewZ**
 `25 Aug 23:23 PKT` · pehli baar dekhi `26 Aug 02:15` · gnews_geopolitics
 
@@ -3679,6 +3690,11 @@ Oil prices fall as Trump halts new Iran sanctions Crypto Briefing
 
 Dollar struggles amid Iran sanctions, Treasury buybacks impact Crypto Briefing
 
+**Scott Bessent Announces Operation Economic Outcast Sanctions Campaign Against Iran And Enablers - NewsCord**
+`25 Aug 07:15 PKT` · pehli baar dekhi `26 Aug 03:47` · gnews_geopolitics
+
+Scott Bessent Announces Operation Economic Outcast Sanctions Campaign Against Iran And Enablers NewsCord
+
 **Oil prices drift higher as markets digest fresh U.S.-Iran sanctions By Investing.com - Investing.com South Africa**
 `25 Aug 06:59 PKT` · pehli baar dekhi `25 Aug 09:22` · gnews_geopolitics · **2 feeds mein**
 
@@ -3770,7 +3786,7 @@ NY Crude Falls for First Time in 7 Sessions on Profit-Taking, Settles in $85 Ran
 
 Another reported strike on a tanker adds to a run of incidents that have kept a risk premium attached to oil prices even as headline benchmarks have been choppy. With crew safety confirmed and environmental impact still unclear, the immediate market reaction is likely to hinge on whether this proves an isolated event or part of a broader pattern of attacks on merchant shipping in the wider Gulf and Arabian Sea region.
 
-### BINA TAG (623)
+### BINA TAG (628)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -3823,14 +3839,18 @@ Another reported strike on a tanker adds to a run of incidents that have kept a 
 - `26 Aug 00:35` **mw_topstories** — Has AI gotten any better at stock picking?
 - `26 Aug 00:32` **investing_news** — Seagate at The Six Five Summit: AI puts data retention in focus
 - `26 Aug 00:31` **investing_news** — Alpha Metallurgical director Gorzynski acquires $2.09m in shares
+- `26 Aug 00:29` **kitco_general** — Port Hedland unions place wage deal counterproposal to BHP ahead of September 8 talks - KITCO
 - `26 Aug 00:27` **investing_news** — S&P Global vs Moody's: valuation comparison favors SPGI
 - `26 Aug 00:27` **aljazeera** — Two unvaccinated people die of measles in US state of Pennsylvania
 - `26 Aug 00:27` **aljazeera** — Israeli forces block Palestinian American Lou Ridi from walking on his land
+- `26 Aug 00:25` **kitco_general** — Sinomine secures additional Zimbabwe lithium export quota - KITCO
 - `26 Aug 00:24` **aljazeera** — India police clash with protesters a month after Gen Z demonstrations
 - `26 Aug 00:24` **investing_news** — Trump administration defends Kennedy Center renaming plan, warns of demolition risk
 - `26 Aug 00:24` **investing_news** — Strategic M&A trends: PE, cross-border deals and defense tech roll-ups reshape markets
 - `26 Aug 00:21` **investing_news** — Why is Jazz Pharmaceuticals stock rallying today?
+- `26 Aug 00:17` **kitco_general** — New US single-family home sales slide in July, confidence dips in August - KITCO
 - `26 Aug 00:13` **aljazeera** — Kurdish-led forces in Syria dissolve after merging with army
+- `26 Aug 00:13` **kitco_general** — Wall Street ends higher as tech rebounds before Nvidia results - KITCO
 - `26 Aug 00:03` **wsj_world** — Dolly Parton, Prolific Songwriter, Beloved Cultural Icon, Dies at 80
 - `26 Aug 00:02` **aljazeera** — Israeli protesters block aid trucks from reaching Gaza
 - `25 Aug 23:55` **mw_topstories** — SpaceX to build Musk's vision for a spaceport that until now 'only existed in science fiction'
@@ -4061,6 +4081,7 @@ Another reported strike on a tanker adds to a run of incidents that have kept a 
 - `25 Aug 18:35` **yahoo_finance** — These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street
 - `25 Aug 18:34` **yahoo_finance** — AMD upgraded, Five Below downgraded: Wall Street's top analyst calls
 - `25 Aug 18:30` **yahoo_finance** — Pepsi vs. Coke: One Stock Is Starting to Pull Ahead
+- `25 Aug 18:30` **cointelegraph** — Hugging Face hack exposes the open-weight AI cybersecurity paradox
 - `25 Aug 18:30` **cointelegraph** — Hugging Face hack exposes the open-weight AI cybersecurity paradox
 - `25 Aug 18:29` **yahoo_finance** — Vnet Group (VNET) Q2 2026 Earnings Call Transcript
 - `25 Aug 18:27` **yahoo_finance** — Nvidia's Groq Chip Will Shape AI Agent Usability
@@ -4414,42 +4435,42 @@ investing_news (76), yahoo_finance (3), mw_topstories (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 2 | 28 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 3 | 27 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 4 | 0 | 4 | 26 | 0.1 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | WARN | 4 | 0 | 0 | 0 | 4 | 3.9 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.2 |
+| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.4 |
+| marketpulse | OK | 4 | 1 | 1 | 0 | 3 | 0.0 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.1 |
 | wsj_economy | OK | 36 | 7 | 0 | 7 | 29 | 0.3 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
 | cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.0 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.1 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 12.7 |
-| kitco_general | OK | 35 | 34 | 0 | 34 | 1 | 0.0 |
-| gnews_fed | OK | 83 | 83 | 3 | 80 | 0 | 0.0 |
-| gnews_geopolitics | OK | 100 | 100 | 1 | 99 | 0 | 0.0 |
-| gnews_centralbanks | OK | 31 | 31 | 2 | 29 | 0 | 0.0 |
+| kitco_general | OK | 39 | 39 | 6 | 33 | 0 | 0.0 |
+| gnews_fed | OK | 83 | 83 | 2 | 81 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 2 | 98 | 0 | 0.0 |
+| gnews_centralbanks | OK | 28 | 28 | 0 | 28 | 0 | 0.0 |
 | fed_monetary | OK | 15 | 1 | 0 | 1 | 14 | 0.2 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.1 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 14.4 |
 | boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.5 |
-| mining_com | OK | 36 | 4 | 0 | 4 | 32 | 0.1 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.6 |
+| mining_com | OK | 36 | 4 | 0 | 4 | 32 | 0.2 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
 | ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
 | bbc_business | OK | 51 | 16 | 0 | 16 | 35 | 0.3 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
-| snb_press | OK | 20 | 2 | 1 | 1 | 18 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 25.5 |
-| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.3 |
+| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 25.6 |
+| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.4 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 21.4 |
-| wsj_world | OK | 70 | 16 | 2 | 14 | 54 | 0.0 |
-| wsj_markets | OK | 61 | 29 | 0 | 29 | 32 | 0.0 |
+| wsj_world | OK | 70 | 16 | 0 | 16 | 54 | 0.0 |
+| wsj_markets | OK | 61 | 30 | 1 | 29 | 31 | 0.0 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 4 | 0 | 4 | 46 | 0.4 |
+| yahoo_finance | OK | 49 | 5 | 0 | 5 | 44 | 0.4 |
 | mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 22 | 0 | 22 | 8 | 0.1 |
+| cointelegraph | OK | 30 | 22 | 1 | 21 | 8 | 0.1 |
