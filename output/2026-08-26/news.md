@@ -1,8 +1,8 @@
 # News Pack — Trading Day 26 Aug 2026
 
 - Trading day: **26 Aug 03:00 -> 27 Aug 02:59 PKT**
-- Aakhri update: **26 Aug 04:13 PKT**
-- Kul khabrein: **42**
+- Aakhri update: **26 Aug 04:41 PKT**
+- Kul khabrein: **58**
 - Feeds: 39/39 OK
 
 ---
@@ -11,12 +11,23 @@
 
 ### GOLD
 
+**Gold advances above $4,650 on US Dollar weakness, Treasury bond buyback plans**
+`26 Aug 04:27 PKT` · pehli baar dekhi `26 Aug 04:41` · fxstreet_news
+
+Gold price (XAU/USD) rises to around 4,670, the highest since May 14, during the early Asian session on Wednesday. The precious metal extends the rally amid a weaker US Dollar (USD) and as the US Treasury's bond buyback plans.
+
 **Gold Fields flags Ghana licence risk as half-year profit surges - KITCO**
 `26 Aug 03:37 PKT` · pehli baar dekhi `26 Aug 03:47` · kitco_general
 
 Gold Fields flags Ghana licence risk as half-year profit surges KITCO
 
 ### USD
+
+**Four regional Fed banks sought discount rate hike ahead of July FOMC hold**
+`26 Aug 04:26 PKT` · pehli baar dekhi `26 Aug 04:41` · investinglive · **2 feeds mein**
+
+The minutes reveal a hawkish contingent one bank larger than the public FOMC vote suggested, since Kansas City Fed President Jeff Schmid does not hold a policy vote this year and his view would not otherwise have been visible. That reinforces the picture from the FOMC minutes themselves, that support for tightening extended well beyond the three officially dissenting presidents, and adds to the case that the Fed's rate path remains genuinely contested rather than settled at a hold.
+  - `26 Aug 04:26` *gnews_fed* — Four regional Fed banks sought discount rate hike ahead of July FOMC hold - investingLive
 
 **NZX 50 Edges Lower in Morning Trade**
 `26 Aug 04:13 PKT` · instaforex
@@ -92,6 +103,19 @@ The Australian Bureau of Statistics (ABS) will publish the July Consumer Price I
 
 ### OIL
 
+**Oil Declines for Third Straight Session**
+`26 Aug 04:41 PKT` · instaforex
+
+Crude oil prices fell to around $81 per barrel on Wednesday, extending losses for a third straight session after reports that Iran and Oman discussed creating a "temporary joint maritime corridor" in the Strait of Hormuz. Technical talks between the two countries are expected to continue as they work toward a permanent corridor that would address future governance of the strait, information-sharing protocols, traffic management, and the provision of maritime and security services.
+
+**US Crude Inventories Rise More Than Expected**
+`26 Aug 04:41 PKT` · instaforex
+
+US crude oil inventories increased by 4.2 million barrels in the week ending August 21st, significantly exceeding market expectations for a 1.9 million-barrel build and reversing the prior week's 328,000-barrel draw. Over the past 19 weeks, commercial crude inventories excluding the SPR have fallen by just over 45 million barrels, yet they remain 5.8 million barrels higher on a year-to-date basis.
+
+**US oil prices extend losses on hopes of Iran-Oman talks on Strait of Hormuz**
+`26 Aug 04:07 PKT` · pehli baar dekhi `26 Aug 04:41` · investing_commodities
+
 **Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on**
 `26 Aug 03:30 PKT` · pehli baar dekhi `26 Aug 03:47` · investing_commodities
 
@@ -114,14 +138,18 @@ Oil settles down more than 3%; investors shrug off US sanctions on Iran The Busi
 
 As Russia remains occupied with its war in Ukraine, Iran focuses on defending its territory against U.S. and Israeli attacks, and China maintains its involvement in both conflicts under the bar that would trigger direct conflict with America, Washington is leveraging its position in Iraq. These efforts by the U.S.
 
-### BINA TAG (11)
+### BINA TAG (15)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `26 Aug 04:30` **investing_commodities** — Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel
+- `26 Aug 04:18` **investing_news** — Deloitte to pay $21.5 million to settle US government probe over DEI
+- `26 Aug 04:18` **investing_news** — Bolivia's Paz taps deputy to lead economy after minister's ousting
 - `26 Aug 04:09` **bbc_business** — Firms scramble for battery power in Spain and Portugal
 - `26 Aug 04:08` **bbc_business** — Back to school: How to save on uniform costs
 - `26 Aug 04:07` **bbc_business** — Winter energy prices expected to rise to three-year high
 - `26 Aug 03:44` **investing_news** — Waystar names new product chief, promotes commercial head
+- `26 Aug 03:38` **mining_com** — Atomic Eagle claws back Niger uranium project
 - `26 Aug 03:33` **gnews_fed** — Alan Greenspan, Former Federal Reserve Chairman, Dies At 100 Ketanji Brown Jackson Solo Dissents (4RlbqKIeiV) - Mshale
 - `26 Aug 03:25` **wsj_markets** — Druckenmiller's Surprising Critique of Bessent Was Delivered With the Help of AI
 - `26 Aug 03:18` **investing_news** — We told you first: these AI-picked small-cap stocks are both up +41% MTD
@@ -132,11 +160,11 @@ As Russia remains occupied with its war in Ukraine, Iran focuses on defending it
 
 ---
 
-## Shor — 12 khabrein hatai gayin
+## Shor — 18 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (12)
+investing_news (18)
 
 ---
 
@@ -146,42 +174,42 @@ investing_news (12)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 3 | 27 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 4 | 0 | 4 | 26 | 0.1 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.4 |
-| marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.0 |
-| instaforex | OK | 25 | 25 | 1 | 24 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 7 | 0 | 7 | 29 | 0.4 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.1 |
+| investinglive | OK | 25 | 3 | 1 | 2 | 22 | 0.0 |
+| fxstreet_news | OK | 30 | 8 | 1 | 7 | 22 | 0.0 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.1 |
+| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.4 |
+| marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.1 |
+| instaforex | OK | 25 | 11 | 2 | 9 | 14 | -0.2 |
+| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 0.4 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 12.8 |
-| kitco_general | OK | 39 | 39 | 0 | 39 | 0 | 0.0 |
-| gnews_fed | OK | 85 | 85 | 2 | 83 | 0 | 0.0 |
-| gnews_geopolitics | OK | 100 | 100 | 0 | 100 | 0 | 0.1 |
-| gnews_centralbanks | OK | 27 | 27 | 0 | 27 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 1 | 0 | 1 | 14 | 0.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.1 |
+| kitco_general | OK | 39 | 1 | 0 | 1 | 38 | 0.0 |
+| gnews_fed | OK | 87 | 4 | 1 | 3 | 83 | 0.0 |
+| gnews_geopolitics | OK | 100 | 1 | 0 | 1 | 99 | 0.0 |
+| gnews_centralbanks | OK | 27 | 2 | 0 | 2 | 25 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 0.2 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.2 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 14.4 |
-| boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.8 |
+| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 0.8 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.6 |
-| mining_com | OK | 36 | 4 | 0 | 4 | 32 | 0.2 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
-| bbc_business | OK | 53 | 21 | 4 | 17 | 32 | 0.0 |
-| aljazeera | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
-| snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.0 |
+| mining_com | OK | 36 | 1 | 1 | 0 | 35 | 0.0 |
+| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.1 |
+| investing_commodities | OK | 10 | 5 | 2 | 3 | 5 | 0.0 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
+| bbc_business | OK | 53 | 6 | 0 | 6 | 47 | 0.0 |
+| aljazeera | OK | 25 | 2 | 0 | 2 | 23 | 0.1 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 25.6 |
 | eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.4 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 21.4 |
-| wsj_world | OK | 70 | 16 | 0 | 16 | 54 | 0.0 |
-| wsj_markets | OK | 61 | 30 | 1 | 29 | 31 | 0.0 |
-| investing_news | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 6 | 0 | 6 | 44 | 0.1 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 22 | 0 | 22 | 8 | 0.1 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 21.5 |
+| wsj_world | OK | 70 | 1 | 0 | 1 | 69 | 0.0 |
+| wsj_markets | OK | 61 | 1 | 0 | 1 | 60 | 0.1 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.1 |
+| mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.0 |
+| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.1 |
