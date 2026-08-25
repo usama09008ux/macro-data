@@ -1,9 +1,9 @@
 # News Pack — Trading Day 25 Aug 2026
 
 - Trading day: **25 Aug 03:00 -> 26 Aug 02:59 PKT**
-- Aakhri update: **25 Aug 10:04 PKT**
-- Kul khabrein: **232**
-- Feeds: 38/39 OK
+- Aakhri update: **25 Aug 10:45 PKT**
+- Kul khabrein: **248**
+- Feeds: 37/39 OK
 
 ---
 
@@ -17,6 +17,16 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**US targets Iran's crypto sector, cites over $100M in oil-linked payments**
+`25 Aug 10:29 PKT` · pehli baar dekhi `25 Aug 10:45` · cointelegraph
+
+The US Treasury expanded sanctions to Iran's digital asset sector, alleging a UAE-based broker processed over $100 million in crypto for oil sales.
+
+**FX option expiries for 25 August 10am New York cut**
+`25 Aug 10:22 PKT` · pehli baar dekhi `25 Aug 10:45` · investinglive
+
+EUR/USD 1.1725 (EUR 729.21 mn) 1.1680 (EUR 799.65 mn) 1.1650 (EUR 632.35 mn) USD/JPY 159.00 (US$ 345.34 mn) USD/CHF 0.8020 (US$ 309.47 mn) USD/CAD 1.4020 (US$ 530.85 mn) 1.3755 (US$ 602.32 mn) AUD/USD 0.7130 (AUD 874.19 mn) WHAT ARE OPTION EXPIRIES? The FX option expiration price levels refer to the strike prices where option contracts are set to expire. These levels include both calls and puts.
 
 **Canadian Dollar remains depressed as firmer USD and trade war counter higher oil prices**
 `25 Aug 09:12 PKT` · pehli baar dekhi `25 Aug 09:22` · fxstreet_news
@@ -145,6 +155,16 @@ Gold has the potential to move toward $5,000 a troy ounce as continued central b
 
 ### USD
 
+**Indian Rupee ticks up against US Dollar on RBI's likely intervention**
+`25 Aug 10:37 PKT` · pehli baar dekhi `25 Aug 10:45` · fxstreet_news
+
+The Indian Rupee (INR) trades marginally higher against the US Dollar (USD) in the opening session on Tuesday.
+
+**Indonesian Rupiah struggles amid record deficit, external pressures**
+`25 Aug 10:27 PKT` · pehli baar dekhi `25 Aug 10:45` · fxstreet_news
+
+USD/IDR halts its three-day losing streak, trading around 17,770 during the Asian hours on Tuesday. The pair appreciates as the Indonesian Rupiah (IDR) struggles under the weight of cautious market sentiment driven by persistent external pressures.
+
 **Finland's Jobless Rate Holds at 10.5% in July, Signalling Stalled Labor Market Momentum**
 `25 Aug 10:04 PKT` · instaforex
 
@@ -262,6 +282,11 @@ TAG: 30‑year Treasury yield KITCO
 
 ### EUR
 
+**France and Saudi Arabia plan Dragon Ball Z theme park near Paris**
+`25 Aug 10:09 PKT` · pehli baar dekhi `25 Aug 10:45` · aljazeera
+
+France and Saudi Arabia plan to invest $7bn in three amusement parks near Paris, including one based on Japanese manga.
+
 **France, Saudi Arabia agree on $7bn theme park project near Paris**
 `25 Aug 09:38 PKT` · pehli baar dekhi `25 Aug 10:04` · aljazeera
 
@@ -318,6 +343,11 @@ The GBP/USD pair extends its sideways consolidative price move for the second st
 `25 Aug 08:36 PKT` · instaforex
 
 Japan's 10-year government bond yield climbed to around 2.89% on Tuesday, trading near multi-decade highs as expectations strengthened for an imminent interest rate hike by the Bank of Japan. Former BOJ board member Seiji Adachi said the central bank will likely raise rates next month and again as early as January, cautioning that keeping policy unchanged could trigger renewed yen selling and intensify import-driven inflation.
+
+**Dollar Firms in Lower 159 Yen Range as U.S. Yields Rise; Intervention Caution Caps Upside - finance.biggo.com**
+`25 Aug 08:26 PKT` · pehli baar dekhi `25 Aug 10:45` · gnews_centralbanks
+
+Dollar Firms in Lower 159 Yen Range as U.S. Yields Rise; Intervention Caution Caps Upside finance.biggo.com
 
 **Groundwork is set for BOJ rate hike next month, ex-official says - The Japan Times**
 `25 Aug 07:52 PKT` · pehli baar dekhi `25 Aug 08:36` · gnews_centralbanks
@@ -520,6 +550,16 @@ The United States is forging ahead with its critical minerals ambitions, investi
 
 ### CRYPTO
 
+**Bitcoin Hits More Than Three-Month High**
+`25 Aug 10:12 PKT` · pehli baar dekhi `25 Aug 10:45` · wsj_markets
+
+Bitcoin hit $80,000, reversing months of subdued valuations as fresh investor interest in the so-called debasement trade brought growing support for the cryptocurrency as a dollar hedge.
+
+**Crypto news today: ETF inflows, Ethereum demand and US regulation lift sentiment**
+`25 Aug 10:05 PKT` · pehli baar dekhi `25 Aug 10:45` · investinglive
+
+Key crypto news for traders and investors today US spot Bitcoin and Ethereum ETFs attracted about $2.6 billion combined during the August 17-21 week, their strongest week since October 2025. Ethereum demand came from two directions: nearly $700 million entered spot ETH ETFs, while BitMine disclosed another 32,447 ETH purchase. US regulators are moving toward clearer crypto rules, but the main market-structure legislation sought by the industry remains stalled in the Senate.
+
 **Bitcoin Surges Above $80,000**
 `25 Aug 08:36 PKT` · instaforex
 
@@ -552,6 +592,17 @@ Austin on why raising rates now pushes more money into the private sector Crypto
 
 ### RISK
 
+**Shafaq News..Oil prices rise as Iran sanctions take focus - شفق نيوز**
+`25 Aug 10:17 PKT` · pehli baar dekhi `25 Aug 10:45` · gnews_geopolitics
+
+Shafaq News..Oil prices rise as Iran sanctions take focus شفق نيوز
+
+**Six months into Iran war, almost half of global oil flows from war zones - Internazionale**
+`25 Aug 10:08 PKT` · pehli baar dekhi `25 Aug 10:45` · gnews_geopolitics · **2 feeds mein**
+
+Six months into Iran war, almost half of global oil flows from war zones Internazionale
+  - `25 Aug 10:05` *gnews_geopolitics* — Six months into Iran war, almost half of global oil flows from war zones - Reuters
+
 **Japanese Shares Turn Higher**
 `25 Aug 10:04 PKT` · instaforex
 
@@ -576,6 +627,11 @@ Tighter Iran curbs could raise risks for Malaysian firms KLSE Screener
 `25 Aug 08:55 PKT` · pehli baar dekhi `25 Aug 09:22` · gnews_geopolitics
 
 Oil Steadies as US Chooses Economic Squeeze Over Military Escalation on Iran finance.biggo.com
+
+**Gift Nifty Signals Mild Rebound as Iran Sanctions Keep Risk High - HDFC Sky**
+`25 Aug 08:27 PKT` · pehli baar dekhi `25 Aug 10:45` · gnews_geopolitics
+
+Gift Nifty Signals Mild Rebound as Iran Sanctions Keep Risk High HDFC Sky
 
 **Iran war goes beyond oil supply, threatens US refining capacity - Firstpost**
 `25 Aug 08:01 PKT` · pehli baar dekhi `25 Aug 08:36` · gnews_geopolitics
@@ -702,10 +758,13 @@ NY Crude Falls for First Time in 7 Sessions on Profit-Taking, Settles in $85 Ran
 
 Another reported strike on a tanker adds to a run of incidents that have kept a risk premium attached to oil prices even as headline benchmarks have been choppy. With crew safety confirmed and environmental impact still unclear, the immediate market reaction is likely to hinge on whether this proves an isolated event or part of a broader pattern of attacks on merchant shipping in the wider Gulf and Arabian Sea region.
 
-### BINA TAG (56)
+### BINA TAG (60)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `25 Aug 10:19` **aljazeera** — Two US carrier groups in Middle East strain navy resources
+- `25 Aug 10:09` **bbc_business** — The Gurkha families fighting for their pensions
+- `25 Aug 10:08` **bbc_business** — Drought leaves 'barely any apples' to make cider
 - `25 Aug 10:04` **instaforex** — Iron Ore Gains on China Demand Hopes
 - `25 Aug 10:04` **instaforex** — US Natgas Prices Decline
 - `25 Aug 10:04` **instaforex** — Thailand Car Sales Jump 20.07% in July
@@ -719,6 +778,7 @@ Another reported strike on a tanker adds to a run of incidents that have kept a 
 - `25 Aug 08:56` **investing_news** — Nvidia earnings on tap: watch these Asian chip stocks for exposure
 - `25 Aug 08:48` **investing_news** — Navitas to acquire Claros for up to $232.8 million
 - `25 Aug 08:48` **investing_news** — Navitas to acquire Claros for up to $232.8 million
+- `25 Aug 08:35` **gnews_geopolitics** — Daily discussion thread for August 24, 2026 - equiti.com
 - `25 Aug 08:16` **investing_news** — GenusPlus FY2026 slides: EBITDA tops $100M, revenue surges 70%
 - `25 Aug 08:02` **investing_news** — Woolworths FY2026 earnings preview: Coles print sets a high bar
 - `25 Aug 08:00` **gnews_fed** — The credibility of the US Federal Reserve, the world's most powerful financial institution, is at risk - Le Monde.fr
@@ -779,42 +839,45 @@ investing_news (35)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 19 | 0 | 19 | 6 | 0.0 |
-| fxstreet_news | OK | 30 | 21 | 1 | 20 | 9 | 0.0 |
+| investinglive | OK | 25 | 21 | 2 | 19 | 4 | 0.0 |
+| fxstreet_news | OK | 30 | 23 | 2 | 21 | 7 | 0.0 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
 | actionforex | OK | 20 | 5 | 0 | 5 | 15 | 0.1 |
 | marketpulse | WARN | 4 | 0 | 0 | 0 | 4 | 3.2 |
-| instaforex | OK | 25 | 25 | 9 | 16 | 0 | -0.2 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 2 | 0 | 2 | 34 | 0.1 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 12.0 |
-| kitco_general | OK | 35 | 6 | 0 | 6 | 29 | 0.2 |
-| gnews_fed | OK | 90 | 8 | 0 | 8 | 82 | 0.1 |
-| gnews_geopolitics | OK | 100 | 23 | 7 | 16 | 77 | 0.0 |
-| gnews_centralbanks | OK | 38 | 8 | 2 | 6 | 30 | 0.0 |
+| kitco_general | OK | 34 | 9 | 0 | 9 | 25 | 0.2 |
+| gnews_fed | OK | 85 | 8 | 0 | 8 | 77 | 0.1 |
+| gnews_geopolitics | OK | 100 | 26 | 5 | 21 | 74 | 0.0 |
+| gnews_centralbanks | OK | 38 | 8 | 1 | 7 | 30 | 0.1 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.5 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 19.4 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.0 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 13.7 |
-| boj_whatsnew | OK | 46 | 1 | 1 | 0 | 45 | 0.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.8 |
-| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
+| boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.9 |
+| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
 | oilprice | OK | 15 | 3 | 0 | 3 | 12 | 0.2 |
-| investing_commodities | OK | 10 | 5 | 0 | 5 | 5 | 0.0 |
+| investing_commodities | OK | 10 | 5 | 0 | 5 | 5 | 0.1 |
 | ing_think | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| bbc_business | OK | 51 | 10 | 0 | 10 | 41 | 0.1 |
-| aljazeera | OK | 25 | 16 | 2 | 14 | 9 | 0.0 |
+| bbc_business | OK | 52 | 12 | 2 | 10 | 40 | 0.0 |
+| aljazeera | OK | 25 | 18 | 2 | 16 | 7 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.8 |
-| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 0.6 |
+| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 0.7 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 20.7 |
 | wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.1 |
-| wsj_markets | OK | 61 | 6 | 0 | 6 | 55 | 0.1 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| wsj_markets | OK | 61 | 7 | 1 | 6 | 54 | 0.0 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.4 |
 | mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
-| cointelegraph | OK | 30 | 2 | 0 | 2 | 28 | 0.0 |
+| cointelegraph | OK | 30 | 3 | 1 | 2 | 27 | 0.0 |
+
+**Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi
