@@ -1,9 +1,9 @@
 # News Pack — Trading Day 26 Aug 2026
 
 - Trading day: **26 Aug 03:00 -> 27 Aug 02:59 PKT**
-- Aakhri update: **26 Aug 15:20 PKT**
-- Kul khabrein: **582**
-- Feeds: 39/39 OK
+- Aakhri update: **26 Aug 15:58 PKT**
+- Kul khabrein: **613**
+- Feeds: 35/39 OK
 
 ---
 
@@ -212,6 +212,19 @@ Gold price (XAU/USD) rises to around 4,670, the highest since May 14, during the
 Gold Fields flags Ghana licence risk as half-year profit surges KITCO
 
 ### USD
+
+**UK Retail Activity Slumps in August: CBI**
+`26 Aug 15:58 PKT` · instaforex
+
+The CBI's headline retail sales balance dropped to -48 in August 2026 from -26 in July, sharply undershooting market expectations of -24. Retailers reported notably weaker sales volumes, and trading remained subdued across the wider distribution sector. This deterioration weighed on both hiring and investment plans. Despite the weaker backdrop, retailers anticipate some improvement in September: the sales expectations balance rose to -22, its highest level since March.
+
+**North Macedonia Jobless Rate Holds Steady**
+`26 Aug 15:58 PKT` · instaforex
+
+North Macedonia's unemployment rate was 11.3% in the second quarter of 2026, unchanged from the previous quarter and remaining at its lowest level since at least 1993. The number of unemployed persons fell by 1.5% to 90,020, of whom 63.6% were men and 36.4% were women. At the same time, the number of employed persons inched up by 0.2% to 708,698, with men representing 57.7% and women 42.3% of the total.
+
+**The Stock Market Faces a Critical Test on Wednesday -- Nvidia Earnings, Inflation, and GDP on the Same Day. Here's What Investors Need to Know.**
+`26 Aug 15:32 PKT` · pehli baar dekhi `26 Aug 15:58` · yahoo_finance
 
 **Italy's 2-Year CTZ Auction Yield Climbs to 3.02%**
 `26 Aug 15:20 PKT` · instaforex
@@ -833,6 +846,16 @@ GBP/USD trades near 1.3650 late on Tuesday, August 25, up around a tenth of a pe
 
 ### JPY
 
+**Japan weighs blockchain fast lane for securities cash settlement**
+`26 Aug 15:46 PKT` · pehli baar dekhi `26 Aug 15:58` · cointelegraph
+
+The FSA, Finance Ministry, BOJ and financial institutions plan to study the infrastructure and produce a development plan by early 2027.
+
+**Is Japan trying to build bridges with China after Taiwan spat?**
+`26 Aug 15:28 PKT` · pehli baar dekhi `26 Aug 15:58` · aljazeera
+
+Experts say Japanese lawmakers&#039; visit to Beijing signals an attempt by Japan to defrost its worst China rift in decades.
+
 **Japanese Yen: BoJ hike expectations support JPY against US Dollar – MUFG**
 `26 Aug 15:04 PKT` · pehli baar dekhi `26 Aug 15:20` · fxstreet_news
 
@@ -1013,6 +1036,11 @@ USD/CHF gains ground after posting minor losses, trading around 0.8040 during th
 
 ### CAD
 
+**USD/CAD Price Forecast: Approaches 20-day EMA on the back of US-Canada trade dispute**
+`26 Aug 15:53 PKT` · pehli baar dekhi `26 Aug 15:58` · fxstreet_news
+
+The US Dollar (USD) trades 0.2% higher at around 1.3870 against the Canadian Dollar (USD) during the European trading session on Wednesday. The Loonie pair strengthens as the Canadian Dollar underperforms due to trade tensions between the United States (US) and Canada.
+
 **The $1.5 Trillion Question Nvidia's Earnings Can't Answer**
 `26 Aug 15:11 PKT` · pehli baar dekhi `26 Aug 15:20` · wsj_markets
 
@@ -1183,6 +1211,10 @@ NZD/USD depreciates after registering modest gains in the previous day, trading 
 New Zealand Dollar Holds Ground Against Firm US Dollar on RBNZ Rate Hike Bets CryptoRank
 
 ### OIL
+
+**Morning Bid: Falling oil calms nervy markets**
+`26 Aug 15:36 PKT` · pehli baar dekhi `26 Aug 15:58` · investing_commodities · **2 feeds mein**
+  - `26 Aug 15:33` *yahoo_finance* — Morning Bid: Falling oil calms nervy markets
 
 **WTI Oil drops below $80 amid hopes of Hormuz reopening, US-Iran de-escalation**
 `26 Aug 14:57 PKT` · pehli baar dekhi `26 Aug 15:20` · fxstreet_news
@@ -1473,6 +1505,14 @@ Oil Extends Declines as Iran, Oman Push Talks to Reopen Hormuz Bloomberg
 
 ### CRYPTO
 
+**Supply absorption 'key question' as Bitcoin fails to reclaim $80K: Analysis**
+`26 Aug 15:49 PKT` · pehli baar dekhi `26 Aug 15:58` · cointelegraph
+
+Bitcoin struggled to establish support at $80,000 as investor cohorts all returned to net profitability.
+
+**Tether CEO Paolo Ardoino Says to Avoid Disaster, Hold Bitcoin and Gold. Is He Right?**
+`26 Aug 15:35 PKT` · pehli baar dekhi `26 Aug 15:58` · yahoo_finance
+
 **Fed Chair Warsh under pressure as interest rate hike debated - Crypto Briefing**
 `26 Aug 14:16 PKT` · pehli baar dekhi `26 Aug 14:42` · gnews_fed
 
@@ -1510,12 +1550,21 @@ The price of Bitcoin has risen in August but is still far below its peak almost 
 
 ### RATES
 
+**Hyundai raises 2030 profit margin target on hybrid shift**
+`26 Aug 15:37 PKT` · pehli baar dekhi `26 Aug 15:58` · investing_news
+
 **Preview: Nvidia reports Q2 results today, guidance implies revenue near $91 billion**
 `26 Aug 05:03 PKT` · pehli baar dekhi `26 Aug 06:54` · investinglive
 
 With consensus sitting less than one percent above Nvidia's own guidance midpoint, the setup leaves little room for a clean beat to move the stock on its own, the market reaction is more likely to hinge on the Q3 outlook, gross margin trajectory and any colour on Blackwell Ultra execution than on the headline Q2 number.
 
 ### RISK
+
+**Ukraine awards Musk high state honour as it seeks to use Starlink more**
+`26 Aug 15:42 PKT` · pehli baar dekhi `26 Aug 15:58` · investing_news
+
+**Exclusive-Hack of water sector supplier draws FBI scrutiny as Iran-linked cyber concerns grow**
+`26 Aug 15:37 PKT` · pehli baar dekhi `26 Aug 15:58` · investing_news
 
 **Global Market: ECB may raise rates in September as Iran war fuels inflation concerns: Reports - India IPO**
 `26 Aug 15:17 PKT` · pehli baar dekhi `26 Aug 15:20` · gnews_centralbanks · **2 feeds mein**
@@ -1696,12 +1745,27 @@ Oil settles down more than 3%; investors shrug off US sanctions on Iran The Busi
 
 As Russia remains occupied with its war in Ukraine, Iran focuses on defending its territory against U.S. and Israeli attacks, and China maintains its involvement in both conflicts under the bar that would trigger direct conflict with America, Washington is leveraging its position in Iraq. These efforts by the U.S.
 
-### BINA TAG (149)
+### BINA TAG (165)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `26 Aug 15:42` **aljazeera** — Infantino has no future at FIFA, says European Leagues chief
+- `26 Aug 15:41` **investing_news** — Wolfe Research finds improving sentiment in agriculture sector
+- `26 Aug 15:40` **yahoo_finance** — SpaceX Just Announced a $100 Billion Starship Spaceport in Louisiana. Here's What It Means for Investors.
+- `26 Aug 15:40` **yahoo_finance** — Billionaire Ken Griffin Increased His Stake in This Dividend King by 547% in Q2. Wall Street Thinks It's Still a Buy.
+- `26 Aug 15:37` **investing_news** — Why is Donaldson Company stock gaining today?
+- `26 Aug 15:36` **yahoo_finance** — Bill Gates Wants Up to 40% of Jobs Reserved for Humans, Not AI
+- `26 Aug 15:36` **investing_news** — Parsons wins position on $14B defense intelligence contract
+- `26 Aug 15:36` **investing_news** — Victory Capital to acquire First Eagle for $7 billion
+- `26 Aug 15:36` **yahoo_finance** — Prediction market traders all but rule out an Nvidia earnings miss
+- `26 Aug 15:34` **yahoo_finance** — Nvidia Has Fallen After Four Straight Earnings Beats. Here's Why It Could Happen Again.
+- `26 Aug 15:32` **yahoo_finance** — ZEC Price to $1,000? Zcash Gets First Spot ETF as Grayscale Fund Starts Trading on NYSE Arca
+- `26 Aug 15:29` **yahoo_finance** — CID HoldCo shares soar as speculative momentum continues
+- `26 Aug 15:29` **aljazeera** — China's Xi to visit Kyrgyzstan, Egypt
 - `26 Aug 15:20` **instaforex** — UK Retail Sentiment Slumps as CBI Distributive Trades Balance Falls to -48 in August
 - `26 Aug 15:16` **mw_topstories** — Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.
+- `26 Aug 15:15` **cointelegraph** — Kalshi's $1.5B equity offering is three-quarters sold at $1.12B
+- `26 Aug 15:15` **yahoo_finance** — Nearly $4.9T sits in target-date funds — Suze Orman warns you may be 'far better off' on your own. Diversify your mix
 - `26 Aug 15:10` **bbc_business** — Why we should all get used to high household energy bills
 - `26 Aug 15:03` **wsj_world** — The AI Prodigy Who Won Over Silicon Valley—and Lost $45 Billion
 - `26 Aug 15:03` **wsj_markets** — The AI Prodigy Who Won Over Silicon Valley—and Lost $45 Billion
@@ -1832,6 +1896,7 @@ As Russia remains occupied with its war in Ukraine, Iran focuses on defending it
 - `26 Aug 04:52` **gnews_geopolitics** — Gas Prices Rise Due To Conflicts - JAM'N 107.5
 - `26 Aug 04:44` **investing_news** — Domino's Pizza swings to FY loss on writedowns, underlying profit up 4%
 - `26 Aug 04:30` **investing_commodities** — Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel
+- `26 Aug 04:30` **bbc_business** — The Interview
 - `26 Aug 04:18` **investing_news** — Deloitte to pay $21.5 million to settle US government probe over DEI
 - `26 Aug 04:18` **investing_news** — Bolivia's Paz taps deputy to lead economy after minister's ousting
 - `26 Aug 04:13` **gnews_fed** — Occupational Licensing of Uber Drivers - Federal Reserve Bank of Minneapolis
@@ -1852,11 +1917,11 @@ As Russia remains occupied with its war in Ukraine, Iran focuses on defending it
 
 ---
 
-## Shor — 70 khabrein hatai gayin
+## Shor — 72 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (70)
+investing_news (72)
 
 ---
 
@@ -1866,42 +1931,48 @@ investing_news (70)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 4 | 26 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 1 | 29 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
 | actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.1 |
 | marketpulse | OK | 5 | 2 | 0 | 2 | 3 | 0.2 |
-| instaforex | OK | 25 | 25 | 3 | 22 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.0 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| instaforex | OK | 25 | 25 | 2 | 23 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.1 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 13.2 |
-| kitco_general | OK | 37 | 7 | 0 | 7 | 30 | 0.1 |
-| gnews_fed | OK | 100 | 43 | 6 | 37 | 57 | 0.0 |
-| gnews_geopolitics | OK | 100 | 29 | 3 | 26 | 71 | 0.1 |
-| gnews_centralbanks | OK | 43 | 34 | 4 | 30 | 9 | 0.0 |
+| kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_fed | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_geopolitics | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_centralbanks | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 0.7 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.6 |
-| ecb_press | OK | 15 | 1 | 1 | 0 | 14 | 0.0 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.0 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 14.9 |
-| boj_whatsnew | OK | 47 | 1 | 0 | 1 | 46 | 0.4 |
+| boj_whatsnew | OK | 47 | 1 | 0 | 1 | 46 | 0.5 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.1 |
-| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.4 |
-| oilprice | OK | 15 | 6 | 0 | 6 | 9 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| ing_think | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| bbc_business | OK | 53 | 14 | 2 | 12 | 39 | 0.0 |
-| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.5 |
+| oilprice | OK | 15 | 6 | 0 | 6 | 9 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| ing_think | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| bbc_business | OK | 53 | 15 | 1 | 14 | 38 | 0.0 |
+| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 26.0 |
-| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.8 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 26.1 |
+| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.9 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 21.9 |
-| wsj_world | OK | 70 | 9 | 2 | 7 | 61 | 0.0 |
-| wsj_markets | OK | 61 | 11 | 2 | 9 | 50 | 0.0 |
+| wsj_world | OK | 70 | 9 | 0 | 9 | 61 | 0.0 |
+| wsj_markets | OK | 61 | 11 | 0 | 11 | 50 | 0.0 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 18 | 18 | 0 | 32 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 5 | 0 | 5 | 25 | 0.1 |
+| yahoo_finance | OK | 49 | 14 | 11 | 3 | 35 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 8 | 3 | 5 | 22 | 0.0 |
+
+**Jo feeds nahi aaye:**
+- kitco_general — FAIL, HTTP 503
+- gnews_fed — FAIL, HTTP 503
+- gnews_geopolitics — FAIL, HTTP 503
+- gnews_centralbanks — FAIL, HTTP 503
