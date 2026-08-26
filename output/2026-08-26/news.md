@@ -1,9 +1,9 @@
 # News Pack — Trading Day 26 Aug 2026
 
 - Trading day: **26 Aug 03:00 -> 27 Aug 02:59 PKT**
-- Aakhri update: **26 Aug 17:03 PKT**
-- Kul khabrein: **746**
-- Feeds: 37/39 OK
+- Aakhri update: **26 Aug 18:12 PKT**
+- Kul khabrein: **870**
+- Feeds: 39/39 OK
 
 ---
 
@@ -20,6 +20,16 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**Dollar Barely Moves on PCE as Aussie Rallies and Brent Unwinds War Premium**
+`26 Aug 18:04 PKT` · pehli baar dekhi `26 Aug 18:12` · actionforex
+
+Three separate reactions to three separate catalysts: PCE confirms Fed pricing, Australian CPI reopens the RBA hike debate, and Hormuz diplomacy pulls Brent&#8217;s war premium out Today&#8217;s themes: Dollar: barely moved on July PCE, which landed almost exactly at consensus (core 0.2% m/m, 3.3% y/y), confirming existing Fed pricing, around 63% odds of a September [&#8230;] The post Dollar Barely Moves on PCE as Aussie Rallies and Brent Unwinds War Premium appeared first on ActionForex.
+
+**Kickstart the trading day with a technical look at the EURUSD, USDJPY and GBPUSD: Bias, Risk and Targets**
+`26 Aug 17:09 PKT` · pehli baar dekhi `26 Aug 18:12` · investinglive
+
+The US dollar is mixed as North American traders enter for the day. The greenback is trading higher against the EUR, GBP, CHF, CAD and NZD, while moving lower against the JPY and AUD. The largest moves are against the NZD and CHF. The NZDUSD is down -0.35% (higher USD), while the USDCHF is up +0.34% (also higher USD). The AUD is the strongest of the major currencies vs the greenback, with the AUDUSD rising +0.29%. The changes against the EUR, GBP and JPY remain relatively modest.
 
 **Sensex Closes on Negative Note**
 `26 Aug 16:38 PKT` · instaforex
@@ -133,6 +143,32 @@ New Zealand Dollar Holds Ground Against Firm US Dollar On RBNZ Rate Hike Bets Bi
 
 ### GOLD
 
+**Gold fades after PCE keeps September Fed hike live - Kitco AM Report - KITCO**
+`26 Aug 18:07 PKT` · pehli baar dekhi `26 Aug 18:12` · kitco_general
+
+Gold fades after PCE keeps September Fed hike live - Kitco AM Report KITCO
+
+**Gold slips as sticky US PCE inflation fails to boost Fed rate-hike expectations**
+`26 Aug 17:59 PKT` · pehli baar dekhi `26 Aug 18:12` · fxstreet_news
+
+Gold (XAU/USD) trades around $4,620 on Wednesday at the time of writing, down 0.83% on the day.
+
+**Gold prices see some profit taking as US economy rises 1.5% in Q2, PCE inflation rises 0.2% - KITCO**
+`26 Aug 17:58 PKT` · pehli baar dekhi `26 Aug 18:12` · kitco_general
+
+Gold prices see some profit taking as US economy rises 1.5% in Q2, PCE inflation rises 0.2% KITCO
+
+**Gold price falls to session low $4,612/oz after U.S. durable goods rise 1.1% in July - KITCO**
+`26 Aug 17:44 PKT` · pehli baar dekhi `26 Aug 18:12` · kitco_general
+
+Gold price falls to session low $4,612/oz after U.S. durable goods rise 1.1% in July KITCO
+
+**Silver price today, Wednesday, August 26, 2026: Silver prices hold, notching a 17% monthly gain**
+`26 Aug 17:17 PKT` · pehli baar dekhi `26 Aug 18:12` · yahoo_finance
+
+**Gold price today, Wednesday, August 26, 2026: Gold pulls back from morning's high over $4,700**
+`26 Aug 17:08 PKT` · pehli baar dekhi `26 Aug 18:12` · yahoo_finance
+
 **Hochschild Mining Shares Jump After Earnings Soar on Higher Gold, Silver Prices**
 `26 Aug 16:37 PKT` · pehli baar dekhi `26 Aug 17:03` · wsj_markets
 
@@ -145,6 +181,11 @@ Gold (XAU/USD) edges lower on Wednesday as buyers trim their exposure ahead of t
 
 **Gunvor considers acquiring Silver Hill gas assets for up to $1.5bn**
 `26 Aug 16:02 PKT` · pehli baar dekhi `26 Aug 16:38` · yahoo_finance
+
+**Gold closed lower! Gold prices today, August 26th, fell 150 baht. Ornamental gold is selling at 72,500 baht. Investors are awaiting the Federal Reserve's direction. - วารสารการเงินธนาคาร**
+`26 Aug 15:26 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_fed
+
+Gold closed lower! Gold prices today, August 26th, fell 150 baht. Ornamental gold is selling at 72,500 baht. Investors are awaiting the Federal Reserve's direction. วารสารการเงินธนาคาร
 
 **Gold Price Forecast: XAU/USD corrects to near $4,620 in countdown to US PCE Inflation data**
 `26 Aug 15:12 PKT` · pehli baar dekhi `26 Aug 15:20` · fxstreet_news · **2 feeds mein**
@@ -237,6 +278,190 @@ Gold Fields flags Ghana licence risk as half-year profit surges KITCO
 
 ### USD
 
+**US Futures Inch Down Ahead of Nvidia**
+`26 Aug 18:12 PKT` · instaforex
+
+US equity futures were mostly lower on Wednesday, weighed down by declines in major chipmakers ahead of Nvidia's earnings. S&P 500 futures slipped 0.2%, Nasdaq 100 contracts fell as much as 0.7%, while Dow futures were little changed. Nvidia traded flat in premarket action ahead of its post-close results, which are expected to provide a key signal on capital spending by AI hyperscalers—a major driver of US equity gains in recent years.
+
+**US Real Consumer Spending Stalls in July**
+`26 Aug 18:12 PKT` · instaforex
+
+Inflation-adjusted US personal spending was flat month-on-month in July 2026, after a 0.4% increase in June. Goods spending fell 0.6%, reversing the 0.6% rise in the prior month, as households cut back on gasoline and other energy goods (-0.1% vs 2.5%), motor vehicles and parts (-1.6% vs 1.2%), and recreational goods and vehicles (-2.9% vs 0.1%). In contrast, services spending rose 0.3%, though this marked a slowdown from June's 0.4% gain.
+
+**US Consumer Spending Eases Less Than Expected**
+`26 Aug 18:12 PKT` · instaforex
+
+US personal spending rose by $36.3 billion, or 0.2%, in July 2026 from the prior month. This marked a deceleration from June's 0.3% increase but surpassed market expectations for a 0.1% gain. Stronger spending on services more than offset a broad pullback in goods outlays.
+
+**US PCE Prices Rise More than Expected**
+`26 Aug 18:12 PKT` · instaforex
+
+The US PCE price index rose 0.2% month-over-month in July 2026, exceeding market expectations of a 0.1% gain and reversing a 0.1% decline in June. Services inflation picked up to 0.3% from 0.1% in the prior month, while goods prices fell 0.1%, a smaller drop than June's 0.6% decline. Core PCE inflation, which excludes food and energy, increased 0.2% as anticipated, following a 0.1% rise in June.
+
+**US PCE Price Growth Accelerates to 5.3% in Q2 2026, Signaling Renewed Inflation Pressures**
+`26 Aug 18:12 PKT` · instaforex
+
+Personal Consumption Expenditures (PCE) prices in the United States rose to 5.3% in the second quarter of 2026, according to data updated on 26 August 2026. This marks an acceleration from the previously recorded 4.6% in the same quarter, underscoring a renewed pickup in inflation pressures within the US economy.
+
+**US PCE Inflation Holds Steady at 3.7% in July, Signaling Stalled Disinflation**
+`26 Aug 18:12 PKT` · instaforex
+
+The US Personal Consumption Expenditures (PCE) Price Index, the Federal Reserve's preferred gauge of inflation, rose 3.7% year-over-year in July 2026, unchanged from June's 3.7% annual rate. The data, updated on 26 August 2026, indicate that the pace of disinflation has paused, with price growth stabilizing rather than continuing to ease.
+
+**US Core Inflation Gauge Picks Up in July as PCE Price Index Rises 0.2%**
+`26 Aug 18:12 PKT` · instaforex
+
+The U.S. Personal Consumption Expenditures (PCE) price index, a key gauge of inflation watched closely by the Federal Reserve, rose 0.2% month-over-month in July 2026, reversing a decline seen in the prior month. In June 2026, the PCE index had slipped by 0.1% compared with May, underscoring a brief period of price softness before the latest rebound. The July reading, updated on 26 August 2026, reflects a return to positive monthly price growth after that contraction.
+
+**U.S. GDP Sales Edge Higher to 2.2% in Q2 2026, Signaling Modest Economic Momentum**
+`26 Aug 18:12 PKT` · instaforex
+
+GDP sales in the United States showed a modest improvement in the second quarter of 2026, rising to 2.2% from a previous reading of 1.9%. The data, updated on 26 August 2026, indicate a slight strengthening in underlying demand within the economy during the same quarterly period. The uptick from 1.9% to 2.2% suggests that economic activity tied to final sales has gained some traction, even if the pace remains measured.
+
+**U.S. GDP Price Index Surges to 6.4% in Q2 2026, Marking Sharp Quarter-Over-Quarter Acceleration**
+`26 Aug 18:12 PKT` · instaforex
+
+The U.S. GDP Price Index jumped to 6.4% in the second quarter of 2026 on a quarter-over-quarter basis, according to data updated on 26 August 2026. This marks a sharp acceleration from the previous quarter's 3.6% increase, highlighting a significant pickup in overall price pressures across the economy within just one quarter.
+
+**U.S. GDP Growth Cools to 1.5% in Q2 2026, Down from 2.1% in Prior Quarter**
+`26 Aug 18:12 PKT` · instaforex
+
+U.S. economic growth slowed in the second quarter of 2026, with gross domestic product (GDP) expanding by 1.5% quarter-over-quarter, down from a 2.1% increase in the previous quarter. The latest data, updated on 26 August 2026, show a clear moderation in the pace of expansion compared with the prior period's performance.
+
+**U.S. Core PCE Inflation Cools to 3.6% in Q2 2026, Easing from 4.4%**
+`26 Aug 18:12 PKT` · instaforex
+
+Core Personal Consumption Expenditures (PCE) prices in the United States slowed in the second quarter of 2026, with the annual rate easing to 3.60%, down from 4.40% recorded in the previous reading for the same period. The updated figures, released on 26 August 2026, point to a moderation in underlying inflation pressures. The Core PCE index, which excludes volatile food and energy components, is closely followed as a key gauge of underlying price trends.
+
+**US Core PCE Holds at 3.3% in July, Signaling Stubborn Underlying Inflation**
+`26 Aug 18:12 PKT` · instaforex
+
+The United States Core Personal Consumption Expenditures (PCE) Price Index rose 3.3% year-over-year in July 2026, unchanged from June's revised 3.3% annual rate. The July reading underscores that underlying inflation pressures remain steady rather than easing, even as markets look for clearer signs that price growth is moving closer to the Federal Reserve's 2% target.
+
+**US Core PCE Inflation Picks Up in July, Doubling June's Monthly Pace**
+`26 Aug 18:12 PKT` · instaforex
+
+The United States' core Personal Consumption Expenditures (PCE) Price Index—the Federal Reserve's preferred gauge of underlying inflation—rose 0.2% month-over-month in July 2026, up from a 0.1% increase in June. The July figure, updated on 26 August 2026, indicates a modest firming in price pressures compared with the prior month.
+
+**Urgent| The inflation preferred by the Federal Reserve keeps the markets in anticipation of interest rates - المتداول العربي**
+`26 Aug 18:11 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_fed
+
+Urgent| The inflation preferred by the Federal Reserve keeps the markets in anticipation of interest rates المتداول العربي
+
+**PCE Inflation Stayed at 3.7% in July as Core Prices Came In Hotter Than Expected - NCHStats**
+`26 Aug 18:04 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_fed
+
+PCE Inflation Stayed at 3.7% in July as Core Prices Came In Hotter Than Expected NCHStats
+
+**U.S. 2Q GDP Growth Unchanged at 1.5% in Second Estimate**
+`26 Aug 18:02 PKT` · pehli baar dekhi `26 Aug 18:12` · wsj_economy
+
+The U.S. economy grew at a 1.5% annualized rate in the second quarter of 2026, the Commerce Department said in an updated estimate.
+
+**PCE comes in hot days before Warsh's Jackson Hole test - InvestmentNews**
+`26 Aug 17:57 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_fed
+
+PCE comes in hot days before Warsh's Jackson Hole test InvestmentNews
+
+**July PCE inflation index held at 3.7% annual pace, slightly hotter than expected - CBS News**
+`26 Aug 17:54 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_fed
+
+July PCE inflation index held at 3.7% annual pace, slightly hotter than expected CBS News
+
+**Sticky PCE inflation leaves a divided central bank ahead of Fed's Jackson Hole retreat**
+`26 Aug 17:52 PKT` · pehli baar dekhi `26 Aug 18:12` · yahoo_finance
+
+**Fed's Preferred Inflation Gauge Remains Above Target Range**
+`26 Aug 17:51 PKT` · pehli baar dekhi `26 Aug 18:12` · wsj_economy
+
+The personal-consumption expenditures price index rose by 0.2% in July, from a decrease of 0.1% in June. Excluding the volatile good and energy categories, core PCE rose by 0.2%.
+
+**PCE Inflation Data Sets High Bar For Warsh's Jackson Hole Speech (Live Coverage)**
+`26 Aug 17:50 PKT` · pehli baar dekhi `26 Aug 18:12` · yahoo_finance
+
+**US inflation remains sticky in July; 2nd-quarter GDP unrevised at 1.5%**
+`26 Aug 17:49 PKT` · pehli baar dekhi `26 Aug 18:12` · yahoo_finance
+
+**July 2026 PCE inflation data: headline above forecast, core in line**
+`26 Aug 17:49 PKT` · pehli baar dekhi `26 Aug 18:12` · yahoo_finance
+
+**US July durable goods orders +1.1% vs +0.5% expected**
+`26 Aug 17:45 PKT` · pehli baar dekhi `26 Aug 18:12` · investinglive
+
+Prior was +0.5% Ex transport +0.4% vs +0.8% exp Ex defense +1.3% vs +0.3% prior Non-defense capital goods ex air +0.2% vs +0.9% exp This is a softer report overall and is leading to some USD weakness. This article was written by Adam Button at investinglive.com.
+
+**Stock Market Today: Dow Steady On Inflation Data; Nvidia Earnings Due After Close (Live Coverage)**
+`26 Aug 17:45 PKT` · pehli baar dekhi `26 Aug 18:12` · yahoo_finance
+
+**Treasury yields muted after headline PCE ticks up ahead of Jackson Hole**
+`26 Aug 17:44 PKT` · pehli baar dekhi `26 Aug 18:12` · investing_news
+
+**Fed's preferred inflation index matches prior month on annualized basis in July**
+`26 Aug 17:43 PKT` · pehli baar dekhi `26 Aug 18:12` · investing_news
+
+**US PCE Inflation Holds at 3.7%, Core Stays at 3.3%**
+`26 Aug 17:39 PKT` · pehli baar dekhi `26 Aug 18:12` · actionforex
+
+US inflation stayed sticky in July while household income and spending both came in stronger than expected. Headline PCE Price Index rose 0.2% m/m, up from -0.1% in June and above 0.1% consensus, while annual rate held at 3.7%, slightly above 3.6% expected. Core PCE increased 0.2% m/m, up from 0.1%, while annual core inflation [&#8230;] The post US PCE Inflation Holds at 3.7%, Core Stays at 3.3% appeared first on ActionForex.
+
+**U.S. inflation rises again and stays well above Fed's target. Rate hike might be in play.**
+`26 Aug 17:38 PKT` · pehli baar dekhi `26 Aug 18:12` · mw_topstories
+
+The main inflation gauge used by the Federal Reserve to set U.S. interest rates rose at an elevated rate in July, potentially pushing the Federal Reserve closer to a vote to raise interest rates next month.
+
+**Fed's preferred inflation gauge shows core prices rose 3.3% annually in July - CNBC**
+`26 Aug 17:32 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_fed
+
+Fed's preferred inflation gauge shows core prices rose 3.3% annually in July CNBC
+
+**US GDP 2nd estimate for Q2 1.5% vs 1.5% preliminary.**
+`26 Aug 17:30 PKT` · pehli baar dekhi `26 Aug 18:12` · investinglive · **2 feeds mein**
+
+GDP 1st estimate 1.6% (they were expecting 2.1% before the 1st release). GDP 2nd revision 1.5% vs 1.5% estimate Consumer Spending 3.4% vs 3.2% preliminary estimate GDP Deflator 6.4% vs 6.2% estimate Core PCE YoY 3.6% vs 3.4% estimate PCE Prices YoY 5.3% vs 5.1% estimate PCE ex food energy and housing Q2 3.4% vs 3.2% preliminary PCE Services ex energy and housing Q2 3.7% vs 3.4% preliminary Other details: GDP slowed in Q2: The deceleration reflected lower government spending, slower investment ...
+  - `26 Aug 17:30` *investinglive* — US GDP 2nd estimate for Q2 1.5% vs 1.5% preliminary.
+
+**US July core PCE 3.3% y/y vs 3.3% expected**
+`26 Aug 17:30 PKT` · pehli baar dekhi `26 Aug 18:12` · investinglive
+
+Prior was 3.3% Headline y/y 3.7% vs 3.6% expected (3.7% prior) Headline m/m +0.2% vs +0.1% expected (-0.1% prior) Core PCE (excluding food & energy): Core m/m +0.2% vs +0.2% expected Prior +0.1% PCE services excluding energy and housing% vs +0.1% prior Consumer spending and income for July: Personal income +0.4% vs +0.2% expected. Prior month +0.2% Personal spending +0.2% vs +0.1% expected.
+
+**GDP (Second Estimate) and Corporate Profits, 2nd Quarter 2026**
+`26 Aug 17:30 PKT` · pehli baar dekhi `26 Aug 18:12` · bea_releases
+
+Real gross domestic product (GDP) increased at an annual rate of 1.5 percent in the second quarter of 2026 (April, May, and June), according to the second estimate released today by the U.S. Bureau of Economic Analysis (BEA). In the first quarter, real GDP increased 2.1 percent. The contributors to the increase in real GDP in the second quarter were increases in consumer spending, exports, and investment that were partly offset by a decrease in government spending.
+
+**Personal Income and Outlays, July 2026**
+`26 Aug 17:30 PKT` · pehli baar dekhi `26 Aug 18:12` · bea_releases
+
+Personal income increased $115.1 billion (0.4 percent at a monthly rate) in July, according to estimates released today by the U.S. Bureau of Economic Analysis (BEA). Disposable personal income (DPI)-personal income less personal current taxes-increased $125.9 billion (0.5 percent), and personal consumption expenditures (PCE) increased $36.3 billion (0.2 percent). Personal outlays-the sum of PCE, personal interest payments, and personal current transfer payments-increased $36.6 billion in July.
+
+**'Pick a lane': Hostility mounts as Trump's handpicked Fed chair preps for a major first - rawstory.com**
+`26 Aug 17:30 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_fed
+
+'Pick a lane': Hostility mounts as Trump's handpicked Fed chair preps for a major first rawstory.com
+
+**Dollar nudges higher ahead of US inflation data; Aussie gains on rate bets - KITCO**
+`26 Aug 17:12 PKT` · pehli baar dekhi `26 Aug 18:12` · kitco_general · **3 feeds mein**
+
+Dollar nudges higher ahead of US inflation data; Aussie gains on rate bets KITCO
+  - `26 Aug 14:33` *yahoo_finance* — Dollar inches higher ahead of US inflation data; Aussie gains on rate bets
+  - `26 Aug 14:24` *investing_news* — Dollar inches higher ahead of US inflation data; Aussie gains on rate bets
+
+**Anxious investors hope for clarity on Warsh's Fed plan at Jackson Hole - KITCO**
+`26 Aug 17:08 PKT` · pehli baar dekhi `26 Aug 18:12` · kitco_general · **2 feeds mein**
+
+Anxious investors hope for clarity on Warsh's Fed plan at Jackson Hole KITCO
+  - `26 Aug 15:05` *gnews_fed* — Anxious investors hope for clarity on Warsh's Fed plan at Jackson Hole - Reuters
+
+**As Cook case smolders, Trump has other paths to shape Fed policy team - KITCO**
+`26 Aug 17:08 PKT` · pehli baar dekhi `26 Aug 18:12` · kitco_general · **5 feeds mein**
+
+As Cook case smolders, Trump has other paths to shape Fed policy team KITCO
+  - `26 Aug 15:10` *gnews_fed* — As Cook case smolders, Trump has other paths to shape Fed policy team - Reuters
+  - `26 Aug 15:08` *gnews_fed* — As Cook case smolders, Trump has other paths to shape Fed policy team - Forth.News
+  - `26 Aug 16:38` *yahoo_finance* — As Cook case smolders, Trump has other paths to shape Fed policy team
+  - `26 Aug 15:09` *yahoo_finance* — As Cook case smolders, Trump has other paths to shape Fed policy team
+
 **US Dollar: Softer energy supports carry trades – ING**
 `26 Aug 16:48 PKT` · pehli baar dekhi `26 Aug 17:03` · fxstreet_news
 
@@ -269,6 +494,11 @@ The average contract rate on a 30-year fixed mortgage in the US inched up to 6.7
 **Wall St futures subdued as Nvidia results, inflation take center stage**
 `26 Aug 16:36 PKT` · pehli baar dekhi `26 Aug 17:03` · investing_news
 
+**US rates need to rise soon absent evidence of ongoing drop in inflation, Fed's Collins says - Yahoo Finance**
+`26 Aug 16:30 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_fed
+
+US rates need to rise soon absent evidence of ongoing drop in inflation, Fed's Collins says Yahoo Finance
+
 **US Dollar Index: Range-bound consolidation as PCE looms – BBH**
 `26 Aug 16:17 PKT` · pehli baar dekhi `26 Aug 16:38` · fxstreet_news
 
@@ -292,8 +522,18 @@ The CBI's headline retail sales balance dropped to -48 in August 2026 from -26 i
 
 North Macedonia's unemployment rate was 11.3% in the second quarter of 2026, unchanged from the previous quarter and remaining at its lowest level since at least 1993. The number of unemployed persons fell by 1.5% to 90,020, of whom 63.6% were men and 36.4% were women. At the same time, the number of employed persons inched up by 0.2% to 708,698, with men representing 57.7% and women 42.3% of the total.
 
+**Donald Trump eyes four more chances to reshape Fed; seeks Cook's removal over mortgage document - The Economic Times**
+`26 Aug 15:39 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_fed
+
+Donald Trump eyes four more chances to reshape Fed; seeks Cook's removal over mortgage document The Economic Times
+
 **The Stock Market Faces a Critical Test on Wednesday -- Nvidia Earnings, Inflation, and GDP on the Same Day. Here's What Investors Need to Know.**
 `26 Aug 15:32 PKT` · pehli baar dekhi `26 Aug 15:58` · yahoo_finance
+
+**Investors hope for clarity on Warsh plan at Jackson Hole - RTE.ie**
+`26 Aug 15:27 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_fed
+
+Investors hope for clarity on Warsh plan at Jackson Hole RTE.ie
 
 **Italy's 2-Year CTZ Auction Yield Climbs to 3.02%**
 `26 Aug 15:20 PKT` · instaforex
@@ -305,23 +545,10 @@ The yield on Italy's 2-year zero-coupon Treasury certificates (CTZ) rose at the 
 
 Iceland's producer prices rose by 18.6% year-on-year in July 2026, easing from a four-year high of 19.4% in June. Price growth slowed for metal products (38.9% vs 45.3% in June), food production (3.6% vs 3.9%), products sold domestically (2.0% vs 2.3%), exported products overall (26.9% vs 27.9%), and exported products excluding marine products (29.8% vs 32.0%).
 
-**As Cook case smolders, Trump has other paths to shape Fed policy team - Reuters**
-`26 Aug 15:10 PKT` · pehli baar dekhi `26 Aug 16:38` · gnews_fed · **4 feeds mein**
-
-As Cook case smolders, Trump has other paths to shape Fed policy team Reuters
-  - `26 Aug 15:08` *gnews_fed* — As Cook case smolders, Trump has other paths to shape Fed policy team - Forth.News
-  - `26 Aug 16:38` *yahoo_finance* — As Cook case smolders, Trump has other paths to shape Fed policy team
-  - `26 Aug 15:09` *yahoo_finance* — As Cook case smolders, Trump has other paths to shape Fed policy team
-
 **UK retail sector remains under pressure as CBI survey shows sharp sales decline**
 `26 Aug 15:10 PKT` · pehli baar dekhi `26 Aug 15:20` · investinglive
 
 Full report here The UK retail sector faced worsening trading conditions in August, according to the latest CBI Distributive Trades Survey, as sales volumes fell at their fastest pace in over a year and business sentiment deteriorated further. The CBI's retail sales balance dropped to -48% in August, down sharply from -26% in July. Although sales are still expected to decline in September, firms anticipate the pace of contraction will moderate, with the balance forecast to improve to -22%.
-
-**Anxious investors hope for clarity on Warsh's Fed plan at Jackson Hole - Reuters**
-`26 Aug 15:05 PKT` · pehli baar dekhi `26 Aug 15:20` · gnews_fed
-
-Anxious investors hope for clarity on Warsh's Fed plan at Jackson Hole Reuters
 
 **What Investors Are Watching Before The Fed's Key Inflation Report - tippinsights**
 `26 Aug 14:58 PKT` · pehli baar dekhi `26 Aug 15:20` · gnews_fed
@@ -340,10 +567,6 @@ Kevin Warsh Caught Between Fed's Inflation Fight and Scott Bessent's 'Self-Defea
 `26 Aug 14:38 PKT` · pehli baar dekhi `26 Aug 16:38` · gnews_fed
 
 Market expectations for Jackson Hole: yields under pressure RankiaPro
-
-**Dollar inches higher ahead of US inflation data; Aussie gains on rate bets**
-`26 Aug 14:33 PKT` · pehli baar dekhi `26 Aug 15:20` · yahoo_finance · **2 feeds mein**
-  - `26 Aug 14:24` *investing_news* — Dollar inches higher ahead of US inflation data; Aussie gains on rate bets
 
 **Kevin Warsh faces his biggest audience this week with one question hanging over him: Is inflation high because of one-off shocks such as tariffs and a war, or because the economy is running too hot?**
 `26 Aug 14:30 PKT` · pehli baar dekhi `26 Aug 14:42` · wsj_economy
@@ -691,6 +914,23 @@ The Mexican Peso holds firm near 10-year highs against the US Dollar on Tuesday,
 
 ### EUR
 
+**Euro comes under pressure against US Dollar after mixed US PCE data**
+`26 Aug 17:57 PKT` · pehli baar dekhi `26 Aug 18:12` · fxstreet_news
+
+EUR/USD trades under modest pressure on Wednesday after the US Personal Consumption Expenditures (PCE) Price Index delivered a mixed inflation picture. Headline inflation came in above expectations, supporting the US Dollar (USD), although an in-line core reading limited the market reaction.
+
+**Digital Euro Will Offer 'Maximum Level of Privacy,' ECB Board Member Says**
+`26 Aug 17:51 PKT` · pehli baar dekhi `26 Aug 18:12` · yahoo_finance
+
+**France soft wheat protein levels above average, FranceAgriMer says**
+`26 Aug 17:23 PKT` · pehli baar dekhi `26 Aug 18:12` · investing_commodities
+
+**Euro holds upper hand against British Pound on diverging ECB-BoE expectations**
+`26 Aug 17:05 PKT` · pehli baar dekhi `26 Aug 18:12` · fxstreet_news · **2 feeds mein**
+
+EUR/GBP edges higher on Wednesday, though price action remains confined to the narrow range that has been in place since late July, largely between 0.8540 and 0.8580.
+  - `26 Aug 17:05` *gnews_centralbanks* — Euro holds upper hand against British Pound on diverging ECB-BoE expectations - FXStreet
+
 **Euro: ECB tightening outlook offers support against US Dollar - BNY**
 `26 Aug 16:40 PKT` · pehli baar dekhi `26 Aug 17:03` · fxstreet_news
 
@@ -839,6 +1079,11 @@ European stocks drift higher as crude collapse offsets hawkish ECB rate warnings
 According to sources, the European Central Bank (ECB) is all set to hike its key policy rates at the September policy meeting, RTE reported. Sources also said that the central bank has no appetite to raise interest rates again after a hike next month.
   - `26 Aug 12:01` *gnews_centralbanks* — ECB sets for September rate hike with no appetite to signal more – RTE - FXStreet
 
+**Reports Some ECB Members See Rate Hike At End-2019 As 'Too Late' - Forex Factory**
+`26 Aug 11:23 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_centralbanks
+
+Reports Some ECB Members See Rate Hike At End-2019 As 'Too Late' Forex Factory
+
 **EUR/USD Price Forecast: Sideways Action Ahead of Key US Data - CryptoRank**
 `26 Aug 11:20 PKT` · pehli baar dekhi `26 Aug 13:54` · gnews_fed
 
@@ -932,6 +1177,11 @@ The EUR/USD pair flatlines near 1.1675 during the early Asian trading hours on W
 Traders are bracing for an increasingly hawkish ECB AOL.com
 
 ### GBP
+
+**England footballer Sterling charged with dangerous driving after collision**
+`26 Aug 17:22 PKT` · pehli baar dekhi `26 Aug 18:12` · aljazeera
+
+Raheem Sterling has also been accused of possession ​of nitrous oxide and will appear in court on September 15.
 
 **GBP/USD Price Forecast: Hits fresh intra-week lows after failure at 1.3660 resistance**
 `26 Aug 15:59 PKT` · pehli baar dekhi `26 Aug 16:38` · fxstreet_news
@@ -1044,8 +1294,19 @@ BOJ head to skip US Fed's Jackson Hole gathering due to scheduling 毎日新聞
 
 The Euro (EUR) trades 0.22% lower at around 185.45 against the Japanese Yen (JPY) during the early European trading session on Wednesday.
 
+**"Bank of Japan Governor skips Jackson Hole meeting; markets turn their attention to G20." - วารสารการเงินธนาคาร**
+`26 Aug 10:23 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_centralbanks
+
+"Bank of Japan Governor skips Jackson Hole meeting; markets turn their attention to G20." วารสารการเงินธนาคาร
+
 **Nikkei 225 spikes 1,000 pts but downtrend holds: Live levels**
 `26 Aug 10:05 PKT` · pehli baar dekhi `26 Aug 10:30` · investing_news
+
+**57% of Economists Expect Bank of Japan to Raise Rates in September - HOKANEWS.COM**
+`26 Aug 09:59 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_centralbanks · **2 feeds mein**
+
+57% of Economists Expect Bank of Japan to Raise Rates in September HOKANEWS.COM
+  - `26 Aug 03:35` *gnews_centralbanks* — Economists expect Bank of Japan to raise rate to 1.25% in September - UA.NEWS
 
 **Japan's Kiuchi: CPI expected to gradually rise due to Middle East conditions**
 `26 Aug 09:23 PKT` · pehli baar dekhi `26 Aug 09:52` · fxstreet_news
@@ -1130,11 +1391,6 @@ Japan July 2026 Services PPI +3.6% y/y expected 3.2%, prior 3.2% And +0.4% m/m p
 
 USD/JPY trades just above 159.00 late on Tuesday, August 25, holding a gain of under a tenth of a percent across a session that has covered 44 pips between a floor near 159.00 and a ceiling short of 159.50.
 
-**Economists expect Bank of Japan to raise rate to 1.25% in September - UA.NEWS**
-`26 Aug 03:35 PKT` · pehli baar dekhi `26 Aug 08:08` · gnews_centralbanks
-
-Economists expect Bank of Japan to raise rate to 1.25% in September UA.NEWS
-
 **GBP/JPY Price Forecast: Bulls hold 217.00 after trendline break**
 `26 Aug 03:14 PKT` · pehli baar dekhi `26 Aug 03:47` · fxstreet_news
 
@@ -1151,6 +1407,11 @@ The sharp shift in economist expectations points to a BOJ that is now genuinely 
 BOJ to speed up its tightening campaign, raise key rate to 1.25% in September Reuters
 
 ### CHF
+
+**Swiss Franc: Weakness before renewed strength – Commerzbank**
+`26 Aug 17:13 PKT` · pehli baar dekhi `26 Aug 18:12` · fxstreet_news
+
+Commerzbank FX analyst Michael Pfister argues that the Swiss Franc (CHF) will stay under pressure through 2026 as markets gradually price out expectations of a Swiss National Bank (SNB) rate hike.
 
 **USDCHF Wave Analysis**
 `26 Aug 16:38 PKT` · actionforex
@@ -1188,6 +1449,16 @@ Prior was +10.0 Swiss investor confidence strengthened again in August, with the
 USD/CHF gains ground after posting minor losses, trading around 0.8040 during the Asian hours on Wednesday. The pair appreciates as the US Dollar (USD) gains support ahead of the upcoming US Personal Consumption Expenditures (PCE) release, the Federal Reserve's key inflation metric.
 
 ### CAD
+
+**Canadian Dollar: Trade dispute risks weigh on Canada – BNY**
+`26 Aug 17:47 PKT` · pehli baar dekhi `26 Aug 18:12` · fxstreet_news
+
+BNY's Geoff Yu reports that Washington is considering further trade penalties against Canada after Ottawa's dollar-for-dollar retaliation to new U.S. tariffs. Canada plans to double counter-tariffs on U.S. steel and aluminum and add new duties on a range of goods.
+
+**TSX futures flat as investors weigh National Bank of Canada's results, trade war - KITCO**
+`26 Aug 16:59 PKT` · pehli baar dekhi `26 Aug 18:12` · kitco_general
+
+TSX futures flat as investors weigh National Bank of Canada's results, trade war KITCO
 
 **TSX futures inch lower amid Canada-U.S. trade spat; Nvidia earnings ahead**
 `26 Aug 16:22 PKT` · pehli baar dekhi `26 Aug 16:38` · investing_news
@@ -1239,6 +1510,11 @@ Canada said that it will implement 50% retaliatory tariffs on $20bn worth of US 
 A new economic study and resource update positions it as one of Canada's top undeveloped copper projects by value and capital efficiency.
 
 ### AUD
+
+**Australian Dollar: Hot CPI supports carry and RBA risk – BBH**
+`26 Aug 17:27 PKT` · pehli baar dekhi `26 Aug 18:12` · fxstreet_news
+
+Brown Brothers Harriman's (BBH) Elias Haddad reports the Australian Dollar (AUD) is outperforming after hotter-than-expected July Consumer Price Index (CPI) data lifted Reserve Bank of Australia (RBA) rate hike expectations.
 
 **Australian Dollar: RBA tightening risks rise – TD Securities**
 `26 Aug 16:28 PKT` · pehli baar dekhi `26 Aug 16:38` · fxstreet_news
@@ -1372,6 +1648,37 @@ NZD/USD depreciates after registering modest gains in the previous day, trading 
 New Zealand Dollar Holds Ground Against Firm US Dollar on RBNZ Rate Hike Bets CryptoRank
 
 ### OIL
+
+**Crude Oil Extends Losses for 3rd Session**
+`26 Aug 18:12 PKT` · instaforex
+
+Crude oil prices retreated toward $80 per barrel on Wednesday, extending losses into a third straight session after reports that Iran and Oman had discussed creating a "temporary joint maritime corridor" in the Strait of Hormuz. Technical negotiations between the two countries are set to continue as they work toward establishing a permanent maritime corridor that would govern the future management of the strait, including information-sharing arrangements, traffic management, and the provision ...
+
+**India's Russian Oil Imports Slide From Record High as Supply Tightens**
+`26 Aug 17:30 PKT` · pehli baar dekhi `26 Aug 18:12` · oilprice
+
+India's crude oil imports from Russia have eased so far this month from July's record high, as Ukrainian attacks on Russian export infrastructure and competition from China for Russia's barrels have dented Indian intake of Moscow's oil. India's imports of Russian oil hit a new all-time high in July and accounted for more than half of total Indian crude oil imports.
+
+**CPC Blend oil exports set at 1.5M bpd for September**
+`26 Aug 17:29 PKT` · pehli baar dekhi `26 Aug 18:12` · investing_commodities
+
+**Iran and Oman reach agreements on share of Hormuz and revenues, Revolutionary Guards say**
+`26 Aug 17:18 PKT` · pehli baar dekhi `26 Aug 18:12` · investing_commodities
+
+**Oil drops to more than two-week low on Iran-Oman talks to reopen Strait of Hormuz - KITCO**
+`26 Aug 17:14 PKT` · pehli baar dekhi `26 Aug 18:12` · kitco_general
+
+Oil drops to more than two-week low on Iran-Oman talks to reopen Strait of Hormuz KITCO
+
+**Iran, Oman agree on temporary Hormuz route: What we know**
+`26 Aug 17:05 PKT` · pehli baar dekhi `26 Aug 18:12` · aljazeera
+
+Iran's deputy foreign minister announced a temporary shipping corridor in the Strait of Hormuz.
+
+**How will US 'D-Day' threat against Iranian economy impact China's oil supply? - South China Morning Post**
+`26 Aug 17:00 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_geopolitics
+
+How will US 'D-Day' threat against Iranian economy impact China's oil supply? South China Morning Post
 
 **World stocks inch up as oil drops on Hormuz hopes ahead of data, Nvidia results**
 `26 Aug 16:45 PKT` · pehli baar dekhi `26 Aug 17:03` · yahoo_finance
@@ -1510,6 +1817,11 @@ US-Israel-Iran War Live News: Oil Falls 1.7% as Iran-Oman Talks Raise Hopes of H
 `26 Aug 11:47 PKT` · pehli baar dekhi `26 Aug 12:05` · fxstreet_news
 
 Deutsche Bank notes that Nvidia's earnings have become a major macro catalyst, although the impact of positive surprises has faded in recent quarters.
+
+**Oil falls for third day on Hormuz Strait negotiations - Курс України**
+`26 Aug 11:35 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_geopolitics
+
+Oil falls for third day on Hormuz Strait negotiations Курс України
 
 **Oil Prices Fall as Iran-Oman Talks Fuel Hopes of Strait Reopening**
 `26 Aug 11:30 PKT` · pehli baar dekhi `26 Aug 12:05` · oilprice
@@ -1701,6 +2013,19 @@ Oil Extends Declines as Iran, Oman Push Talks to Reopen Hormuz Bloomberg
 
 ### CRYPTO
 
+**Students want crypto classes but learn on social media: OKX survey**
+`26 Aug 18:00 PKT` · pehli baar dekhi `26 Aug 18:12` · cointelegraph
+
+A separate review found only about 28% of accredited US business schools offered blockchain courses, despite strong demand in the OKX poll.
+
+**Bitcoin and ethereum prices today, Wednesday, August 26, 2026: 'Bitcoin is having a price gusher to close out August'**
+`26 Aug 17:42 PKT` · pehli baar dekhi `26 Aug 18:12` · yahoo_finance
+
+**Bernstein forecasts Bitcoin to reclaim $125K by late 2026 ahead of cycle peak**
+`26 Aug 17:32 PKT` · pehli baar dekhi `26 Aug 18:12` · cointelegraph
+
+Bernstein expects Bitcoin to reclaim $125,000 by late 2026 before reaching $300,000 in 2029 under its base case, with a bull case of $500,000.
+
 **Bitcoin to $100K? BlackRock's $5B ETF Shift Pulls More BTC Into Wall Street**
 `26 Aug 16:32 PKT` · pehli baar dekhi `26 Aug 17:03` · yahoo_finance
 
@@ -1716,6 +2041,11 @@ Bitcoin struggled to establish support at $80,000 as investor cohorts all return
 
 **Tether CEO Paolo Ardoino Says to Avoid Disaster, Hold Bitcoin and Gold. Is He Right?**
 `26 Aug 15:35 PKT` · pehli baar dekhi `26 Aug 15:58` · yahoo_finance
+
+**Bitcoin Near $80K, Stocks Rally as Oil Drops Below $87 on New US-Iran Negotiations - CoinCodex**
+`26 Aug 14:36 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_geopolitics
+
+Bitcoin Near $80K, Stocks Rally as Oil Drops Below $87 on New US-Iran Negotiations CoinCodex
 
 **Fed Chair Warsh under pressure as interest rate hike debated - Crypto Briefing**
 `26 Aug 14:16 PKT` · pehli baar dekhi `26 Aug 14:42` · gnews_fed
@@ -1754,6 +2084,11 @@ The price of Bitcoin has risen in August but is still far below its peak almost 
 
 ### RATES
 
+**Reform proposes £30 tax rebate for HMRC phone delays**
+`26 Aug 17:39 PKT` · pehli baar dekhi `26 Aug 18:12` · bbc_business
+
+People on hold to HMRC for more than 30 minutes would get a tax credit under plans announced by Robert Jenrick.
+
 **Hyundai raises 2030 profit margin target on hybrid shift**
 `26 Aug 15:37 PKT` · pehli baar dekhi `26 Aug 15:58` · investing_news
 
@@ -1763,9 +2098,10 @@ The price of Bitcoin has risen in August but is still far below its peak almost 
 "Division Within the Federal Reserve".. 4 Councils Press for Interest Rate Hike وكالة صدى نيوز
 
 **Four regional Fed banks backed rate hike ahead of July decision, minutes show - The Economic Times**
-`26 Aug 13:08 PKT` · pehli baar dekhi `26 Aug 16:38` · gnews_fed
+`26 Aug 13:08 PKT` · pehli baar dekhi `26 Aug 16:38` · gnews_fed · **2 feeds mein**
 
 Four regional Fed banks backed rate hike ahead of July decision, minutes show The Economic Times
+  - `26 Aug 13:08` *gnews_fed* — Four regional Fed banks backed rate hike ahead of July decision, minutes show - The Economic Times
 
 **Preview: Nvidia reports Q2 results today, guidance implies revenue near $91 billion**
 `26 Aug 05:03 PKT` · pehli baar dekhi `26 Aug 06:54` · investinglive
@@ -1773,6 +2109,11 @@ Four regional Fed banks backed rate hike ahead of July decision, minutes show Th
 With consensus sitting less than one percent above Nvidia's own guidance midpoint, the setup leaves little room for a clean beat to move the stock on its own, the market reaction is more likely to hinge on the Q3 outlook, gross margin trajectory and any colour on Blackwell Ultra execution than on the headline Q2 number.
 
 ### RISK
+
+**Key inflation gauge remains elevated during Iran war and ongoing US trade fights - WRAL**
+`26 Aug 17:47 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_fed
+
+Key inflation gauge remains elevated during Iran war and ongoing US trade fights WRAL
 
 **If Donald Trump's Trade War Triggers a Stock Market Crash, History Says This Is the First Thing Investors Should Do**
 `26 Aug 16:35 PKT` · pehli baar dekhi `26 Aug 17:03` · yahoo_finance
@@ -1859,6 +2200,12 @@ US Iran sanctions threaten to deepen Iraq's power crisis Utilities Middle East
 
 Sudanese army&#039;s battlefield gains rely on an armed coalition it may struggle to control once the common enemy is gone.
 
+**Iran America War: धू-धू कर जला अमेरिका का संसद भवन? 21 July Ki Headlines News Today | Trump | Iran Guido Fawkes (lSmNFLRBEu) - Mshale**
+`26 Aug 12:18 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_geopolitics · **2 feeds mein**
+
+Iran America War: धू-धू कर जला अमेरिका का संसद भवन? 21 July Ki Headlines News Today | Trump | Iran Guido Fawkes (lSmNFLRBEu) Mshale
+  - `26 Aug 11:10` *gnews_geopolitics* — Iran America War: धू-धू कर जला अमेरिका का संसद भवन? 21 July Ki Headlines News Today | Trump | Iran Guido Fawkes (lSmNFLRBEu) - Mshale
+
 **Trump threatens Iran's partners: How do secondary sanctions work?**
 `26 Aug 12:18 PKT` · pehli baar dekhi `26 Aug 12:56` · aljazeera
 
@@ -1882,11 +2229,6 @@ US targets four Indian firms in fresh Iran sanctions push ET Chemicals
 `26 Aug 11:25 PKT` · pehli baar dekhi `26 Aug 12:05` · ing_think
 
 NORTH AMERICA: New investment incentives may support US aluminium smelting over time, but the market is likely to remain reliant on imports, keeping Midwest premiums elevated
-
-**Iran America War: धू-धू कर जला अमेरिका का संसद भवन? 21 July Ki Headlines News Today | Trump | Iran Guido Fawkes (lSmNFLRBEu) - Mshale**
-`26 Aug 11:10 PKT` · pehli baar dekhi `26 Aug 16:38` · gnews_geopolitics
-
-Iran America War: धू-धू कर जला अमेरिका का संसद भवन? 21 July Ki Headlines News Today | Trump | Iran Guido Fawkes (lSmNFLRBEu) Mshale
 
 **Iran bets economic pain will pressure Trump in game of 'chicken'**
 `26 Aug 10:20 PKT` · pehli baar dekhi `26 Aug 11:03` · aljazeera
@@ -2006,10 +2348,52 @@ Oil settles down more than 3%; investors shrug off US sanctions on Iran The Busi
 
 As Russia remains occupied with its war in Ukraine, Iran focuses on defending its territory against U.S. and Israeli attacks, and China maintains its involvement in both conflicts under the bar that would trigger direct conflict with America, Washington is leveraging its position in Iraq. These efforts by the U.S.
 
-### BINA TAG (231)
+### BINA TAG (274)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `26 Aug 18:12` **instaforex** — US Durable Goods Orders Growth Beats Forecasts
+- `26 Aug 18:12` **instaforex** — US Economic Growth Slows to 1.5% in Q2
+- `26 Aug 18:12` **instaforex** — US Personal Income Rises More than Expected
+- `26 Aug 18:12` **instaforex** — U.S. Real Personal Consumption Stalls in July After Solid June Gains
+- `26 Aug 18:12` **instaforex** — US Real Consumer Spending Surges to 3.4% in Q2 2026, Up Sharply from 0.5%
+- `26 Aug 18:12` **instaforex** — U.S. Personal Spending Growth Cools Slightly in July, Signaling Softer Consumer Momentum
+- `26 Aug 18:12` **instaforex** — U.S. Personal Income Growth Doubles in July, Signaling Firmer Consumer Tailwind
+- `26 Aug 18:12` **instaforex** — U.S. Core Capital Goods Orders Slow Sharply in July, Signaling Softer Investment Momentum
+- `26 Aug 18:12` **instaforex** — U.S. Core Durable Goods Orders (Ex-Defense) Accelerate to 1.3% in July 2026
+- `26 Aug 18:12` **instaforex** — US Corporate Profits Surge 8.2% in Q2 2026, Marking Sharp Acceleration
+- `26 Aug 18:12` **instaforex** — U.S. Durable Goods Orders Accelerate in July, Signaling Firmer Manufacturing Momentum
+- `26 Aug 18:12` **eia_energy** — Eight petroleum liquids pipeline projects have been completed since the start of 2025
+- `26 Aug 18:04` **mw_topstories** — S&P 500 is expected to reach fresh highs this year — but Barclays warns of risks
+- `26 Aug 18:01` **actionforex** — US: Growth Slows in Q2, Despite Strength in Domestic Spending
+- `26 Aug 18:00` **ing_think** — National Bank of Hungary review: All eyes on the next staff forecast
+- `26 Aug 17:58` **mw_topstories** — Consumer spending posts smallest increase in seven months. Economy getting weaker?
+- `26 Aug 17:55` **yahoo_finance** — Boston Scientific cyberattack disrupts global operations, shipments
+- `26 Aug 17:53` **yahoo_finance** — QUICK SPARK: Anthropic's Growth Explosion Is Changing How Investors Value Robotics Startups
+- `26 Aug 17:50` **yahoo_finance** — Lucid Unleashes America's Most Powerful 3-Row Crossover. Is It the Answer Investors Need?
+- `26 Aug 17:49` **yahoo_finance** — How Much Do You Need Invested by 55 to Retire on Dividends at 65?
+- `26 Aug 17:49` **wsj_economy** — U.S. Durable-Goods Orders Rose More than Expected in July
+- `26 Aug 17:47` **yahoo_finance** — Think AI Is Expensive? SpaceX Is Spending $100 Billion to Build a New Starbase
+- `26 Aug 17:47` **yahoo_finance** — Does Vanguard or State Street Have the Better S&P 500 ETF?
+- `26 Aug 17:46` **yahoo_finance** — Ripple Continues to Expand Globally, But the Price of XRP Keeps Falling. Is XRP a Buy, Sell, or Hold Right Now?
+- `26 Aug 17:44` **investing_news** — Czech parliament approves looser budget deficit rules
+- `26 Aug 17:44` **investing_news** — US insurance industry headcount rose 0.21% in past year
+- `26 Aug 17:44` **investing_news** — Mint subsidiary signs robot development deal with Yunji Tech
+- `26 Aug 17:44` **investing_news** — Celcuity submits application for breast cancer drug expansion
+- `26 Aug 17:44` **investing_news** — Imunon to host R&D day on phase 3 ovarian cancer trial
+- `26 Aug 17:44` **investing_news** — FibroBiologics regains Nasdaq bid price compliance
+- `26 Aug 17:44` **aljazeera** — Deadly flash floods sweep through northern Nepal
+- `26 Aug 17:36` **aljazeera** — CCTV captures terrifying mudslide engulfing Nepal-China border
+- `26 Aug 17:35` **wsj_world** — Foreign Tourists Among Hundreds Missing After Flash Floods in Nepal and Tibet
+- `26 Aug 17:35` **yahoo_finance** — Jim Cramer names 4 'indispensable' memory stocks he says investors 'can't afford' to skip as AI demand soars
+- `26 Aug 17:30` **mw_topstories** — The renter generation: Young Americans, shut out of homeownership, brace to rent forever
+- `26 Aug 17:24` **aljazeera** — When is the Champions League draw, which teams are in, and what are the dates?
+- `26 Aug 17:22` **aljazeera** — Photos: Avalanche floods kill eight, hundreds missing in Nepal's Himalayas
+- `26 Aug 17:16` **mw_topstories** — Wall Street's biggest optimist says he 'wouldn't jump into the AI trade right now'
+- `26 Aug 17:15` **yahoo_finance** — Warren Buffett is 'still in the game': The Omaha Oracle may be making more Berkshire investment decisions than you think
+- `26 Aug 17:04` **aljazeera** — Dead whale washes ashore on beach in Mexico
+- `26 Aug 17:00` **investing_commodities** — Devastating flash flood on Nepal-Tibet border kills nine, hundreds of tourists missing
+- `26 Aug 17:00` **yahoo_finance** — This Industrial Leader's Sails Catch AI, Energy, Other Tailwinds
 - `26 Aug 17:00` **cointelegraph** — Taurus links digital asset platforms to Swift's blockchain ledger
 - `26 Aug 16:53` **yahoo_finance** — Berries supplier Driscoll's names new CEO
 - `26 Aug 16:50` **yahoo_finance** — Morning Minute: LayerZero Announces ATLAS as New Settlement Engine
@@ -2182,6 +2566,7 @@ As Russia remains occupied with its war in Ukraine, Iran focuses on defending it
 - `26 Aug 09:55` **investing_news** — Indonesia's Destry says she will back growth policies if confirmed as central bank chief
 - `26 Aug 09:54` **investing_news** — Morning Bid: Markets are waiting '9 to 5'
 - `26 Aug 09:54` **investing_news** — Aroundtown reports H1 2026 results, increases GCP stake to 84%
+- `26 Aug 09:38` **gnews_fed** — Former Chair Of Federal Reserve, Alan Greenspan Dies At 100 Jannik Sinner (JxLQhCByB5) - Mshale
 - `26 Aug 09:27` **aljazeera** — At least 15 newborns killed in Pakistan hospital fire
 - `26 Aug 09:23` **investing_news** — JOYY Inc earnings missed by $0.20, revenue topped estimates
 - `26 Aug 09:17` **cointelegraph** — US banking groups plan nationwide blockchain network for 2027
@@ -2244,11 +2629,11 @@ As Russia remains occupied with its war in Ukraine, Iran focuses on defending it
 
 ---
 
-## Shor — 76 khabrein hatai gayin
+## Shor — 77 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (74), yahoo_finance (2)
+investing_news (75), yahoo_finance (2)
 
 ---
 
@@ -2258,46 +2643,42 @@ investing_news (74), yahoo_finance (2)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 5 | 25 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 6 | 24 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.4 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 3 | 17 | 0 | 0.0 |
 | marketpulse | OK | 5 | 2 | 0 | 2 | 3 | 0.3 |
-| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.1 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 6 | 3 | 3 | 30 | 0.0 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 13.3 |
-| kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 100 | 47 | 2 | 45 | 53 | 0.0 |
-| gnews_geopolitics | OK | 100 | 42 | 6 | 36 | 58 | 0.0 |
-| gnews_centralbanks | OK | 44 | 36 | 2 | 34 | 8 | 0.0 |
+| kitco_general | OK | 37 | 13 | 8 | 5 | 24 | 0.0 |
+| gnews_fed | OK | 100 | 59 | 13 | 46 | 41 | 0.0 |
+| gnews_geopolitics | OK | 100 | 46 | 4 | 42 | 54 | 0.1 |
+| gnews_centralbanks | OK | 48 | 41 | 4 | 37 | 7 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 0.8 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.7 |
 | ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.1 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 15.0 |
-| boj_whatsnew | OK | 47 | 1 | 0 | 1 | 46 | 0.5 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.1 |
-| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.5 |
-| oilprice | OK | 15 | 7 | 0 | 7 | 8 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| ing_think | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| bbc_business | OK | 53 | 15 | 0 | 15 | 38 | 0.0 |
-| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
+| boj_whatsnew | OK | 47 | 1 | 0 | 1 | 46 | 0.6 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.2 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.6 |
+| oilprice | OK | 15 | 8 | 1 | 7 | 7 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| ing_think | OK | 10 | 3 | 1 | 2 | 7 | 0.0 |
+| bbc_business | OK | 53 | 16 | 1 | 15 | 37 | 0.0 |
+| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 26.1 |
-| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.9 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 22.0 |
-| wsj_world | OK | 70 | 9 | 0 | 9 | 61 | 0.1 |
-| wsj_markets | OK | 61 | 14 | 2 | 12 | 47 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 48 | 32 | 24 | 8 | 16 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 9 | 1 | 8 | 21 | 0.0 |
-
-**Jo feeds nahi aaye:**
-- instaforex — FAIL, koi item nahi
-- kitco_general — FAIL, koi item nahi
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 26.2 |
+| eia_energy | OK | 20 | 1 | 1 | 0 | 19 | -0.0 |
+| bea_releases | OK | 48 | 2 | 2 | 0 | 46 | 0.0 |
+| wsj_world | OK | 71 | 10 | 1 | 9 | 61 | 0.0 |
+| wsj_markets | OK | 61 | 14 | 0 | 14 | 47 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 33 | 19 | 14 | 17 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 11 | 2 | 9 | 19 | 0.0 |
