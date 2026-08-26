@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "26 Aug 09:02",
+  "updated_pkt": "26 Aug 09:52",
   "feeds": [
     {
       "name": "investinglive",
@@ -7,10 +7,10 @@
       "fetched": 25,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 17,
-      "new": 3,
-      "seen_before": 14,
-      "out_of_window": 8
+      "in_window": 18,
+      "new": 1,
+      "seen_before": 17,
+      "out_of_window": 7
     },
     {
       "name": "fxstreet_news",
@@ -18,20 +18,20 @@
       "fetched": 30,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 21,
-      "new": 3,
-      "seen_before": 18,
-      "out_of_window": 9
+      "in_window": 28,
+      "new": 7,
+      "seen_before": 21,
+      "out_of_window": 2
     },
     {
       "name": "fxstreet_analysis",
       "status": "OK",
       "fetched": 30,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": "",
       "in_window": 1,
-      "new": 1,
-      "seen_before": 0,
+      "new": 0,
+      "seen_before": 1,
       "out_of_window": 29
     },
     {
@@ -49,7 +49,7 @@
       "name": "marketpulse",
       "status": "OK",
       "fetched": 4,
-      "newest_age_days": 0.2,
+      "newest_age_days": 0.3,
       "note": "",
       "in_window": 1,
       "new": 0,
@@ -63,8 +63,8 @@
       "newest_age_days": -0.2,
       "note": "waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya",
       "in_window": 25,
-      "new": 4,
-      "seen_before": 21,
+      "new": 2,
+      "seen_before": 23,
       "out_of_window": 0
     },
     {
@@ -148,51 +148,51 @@
       "name": "kitco_general",
       "status": "OK",
       "fetched": 38,
-      "newest_age_days": 0.2,
+      "newest_age_days": 0.3,
       "note": "",
-      "in_window": 6,
+      "in_window": 7,
       "new": 0,
-      "seen_before": 6,
-      "out_of_window": 32
+      "seen_before": 7,
+      "out_of_window": 31
     },
     {
       "name": "gnews_fed",
       "status": "OK",
-      "fetched": 93,
-      "newest_age_days": 0.1,
+      "fetched": 98,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 22,
-      "new": 6,
-      "seen_before": 16,
-      "out_of_window": 71
+      "in_window": 25,
+      "new": 5,
+      "seen_before": 20,
+      "out_of_window": 73
     },
     {
       "name": "gnews_geopolitics",
       "status": "OK",
       "fetched": 100,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": "",
-      "in_window": 12,
-      "new": 4,
-      "seen_before": 8,
-      "out_of_window": 88
+      "in_window": 18,
+      "new": 3,
+      "seen_before": 15,
+      "out_of_window": 82
     },
     {
       "name": "gnews_centralbanks",
       "status": "OK",
-      "fetched": 25,
+      "fetched": 24,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 9,
-      "new": 4,
-      "seen_before": 5,
-      "out_of_window": 16
+      "in_window": 10,
+      "new": 1,
+      "seen_before": 9,
+      "out_of_window": 14
     },
     {
       "name": "fed_monetary",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 0.4,
+      "newest_age_days": 0.5,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -203,7 +203,7 @@
       "name": "fed_speeches",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 20.3,
+      "newest_age_days": 20.4,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -214,7 +214,7 @@
       "name": "ecb_press",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 1.9,
+      "newest_age_days": 2.0,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -225,7 +225,7 @@
       "name": "boe_news",
       "status": "OK",
       "fetched": 50,
-      "newest_age_days": 14.6,
+      "newest_age_days": 14.7,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -302,11 +302,11 @@
       "name": "bbc_business",
       "status": "OK",
       "fetched": 53,
-      "newest_age_days": 0.0,
+      "newest_age_days": 0.1,
       "note": "",
       "in_window": 8,
-      "new": 1,
-      "seen_before": 7,
+      "new": 0,
+      "seen_before": 8,
       "out_of_window": 45
     },
     {
@@ -315,10 +315,10 @@
       "fetched": 25,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 12,
-      "new": 5,
-      "seen_before": 7,
-      "out_of_window": 13
+      "in_window": 13,
+      "new": 1,
+      "seen_before": 12,
+      "out_of_window": 12
     },
     {
       "name": "snb_press",
@@ -357,7 +357,7 @@
       "name": "bea_releases",
       "status": "OK",
       "fetched": 47,
-      "newest_age_days": 21.6,
+      "newest_age_days": 21.7,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -393,20 +393,20 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 10,
-      "seen_before": 0,
+      "new": 9,
+      "seen_before": 1,
       "out_of_window": 0
     },
     {
       "name": "yahoo_finance",
       "status": "OK",
-      "fetched": 48,
-      "newest_age_days": 0.6,
+      "fetched": 50,
+      "newest_age_days": 0.7,
       "note": "",
       "in_window": 0,
       "new": 0,
       "seen_before": 0,
-      "out_of_window": 48
+      "out_of_window": 50
     },
     {
       "name": "mw_topstories",
@@ -423,12 +423,12 @@
       "name": "cointelegraph",
       "status": "OK",
       "fetched": 30,
-      "newest_age_days": 0.3,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 0,
-      "new": 0,
+      "in_window": 1,
+      "new": 1,
       "seen_before": 0,
-      "out_of_window": 30
+      "out_of_window": 29
     }
   ]
 }

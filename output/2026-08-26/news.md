@@ -1,8 +1,8 @@
 # News Pack — Trading Day 26 Aug 2026
 
 - Trading day: **26 Aug 03:00 -> 27 Aug 02:59 PKT**
-- Aakhri update: **26 Aug 09:02 PKT**
-- Kul khabrein: **225**
+- Aakhri update: **26 Aug 09:52 PKT**
+- Kul khabrein: **255**
 - Feeds: 39/39 OK
 
 ---
@@ -17,6 +17,11 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**What are the main events for today?**
+`26 Aug 09:23 PKT` · pehli baar dekhi `26 Aug 09:52` · investinglive
+
+EUROPEAN SESSION In the European session, we don't have much on the agenda other than a couple of low-tier releases like the Swiss economic sentiment index and UK CBI distributive trades. The data won't change anything for the respective central banks, so the market reaction will be muted. The market is currently focused on US-Iran developments, as expectations for a deal grew stronger yesterday following several positive reports.
 
 **investingLive Asia-Pacific market news: Oil down, AUD 3 month high**
 `26 Aug 08:49 PKT` · pehli baar dekhi `26 Aug 09:02` · investinglive
@@ -54,6 +59,11 @@ Gold's ability to hold its recent gains without giving much back suggests the ma
 New Zealand Dollar Holds Ground Against Firm US Dollar On RBNZ Rate Hike Bets Bitcoin World
 
 ### GOLD
+
+**India Gold price today: Gold falls, according to FXStreet data**
+`26 Aug 09:35 PKT` · pehli baar dekhi `26 Aug 09:52` · fxstreet_news
+
+Gold prices fell in India on Wednesday, according to data compiled by FXStreet.
 
 **$4700 back on Gold buyers' radar as US core PCE inflation data looms**
 `26 Aug 08:32 PKT` · pehli baar dekhi `26 Aug 09:02` · fxstreet_analysis
@@ -95,6 +105,26 @@ Gold Fields flags Ghana licence risk as half-year profit surges KITCO
 
 ### USD
 
+**Corn Hits 3-Year High on US Crop Concerns**
+`26 Aug 09:52 PKT` · instaforex
+
+Corn futures climbed above $5 per bushel, reaching their highest level since July 2023, as growing worries over US crop yields signaled tighter supplies ahead. The Pro Farmer Crop Tour recently pegged the 2026 US corn yield at 173.2 bushels per acre, significantly below the USDA's latest estimate of 180.7 bushels per acre, with total production projected at 15.34 billion bushels.
+
+**Indonesian Rupiah remains subdued amid market caution, external headwinds**
+`26 Aug 09:47 PKT` · pehli baar dekhi `26 Aug 09:52` · fxstreet_news
+
+USD/IDR remains stronger for the second successive day, trading around 17,760 during the Asian hours on Tuesday. The pair continues to hold its ground while the Indonesian Rupiah (IDR) faces ongoing pressure from a cautious market sentiment and persistent external headwinds.
+
+**United States Dollar Index recovers to near 99.00 ahead of US PCE inflation data**
+`26 Aug 09:42 PKT` · pehli baar dekhi `26 Aug 09:52` · fxstreet_news
+
+The US Dollar Index (DXY), an index of the value of the US Dollar (USD) measured against a basket of six world currencies, currently trades near 99.00 in the early European trading hours on Wednesday.
+
+**US Treasury's bond buyback push puts Bessent on a collision course with the Fed - Crypto Briefing**
+`26 Aug 09:24 PKT` · pehli baar dekhi `26 Aug 09:52` · gnews_fed
+
+US Treasury's bond buyback push puts Bessent on a collision course with the Fed Crypto Briefing
+
 **US 10-Year Yield Holds Decline**
 `26 Aug 08:08 PKT` · instaforex
 
@@ -131,6 +161,11 @@ The gains across both Japanese and Korean equities reflect a broadly risk-on ton
 
 U.K.'s Jobless Rate Holds Steady as Labor Market Shows Signs of Softening WSJ
 
+**Week Ahead for FX, Bonds: Warsh Speech at Jackson Hole, U.S. PCE Data in Focus - WSJ**
+`26 Aug 07:51 PKT` · pehli baar dekhi `26 Aug 09:52` · gnews_fed
+
+Week Ahead for FX, Bonds: Warsh Speech at Jackson Hole, U.S. PCE Data in Focus WSJ
+
 **Richmond Fed Manufacturing Index Misses Forecasts in August, Signaling Slower Growth - CryptoRank**
 `26 Aug 07:25 PKT` · pehli baar dekhi `26 Aug 09:02` · gnews_fed
 
@@ -140,6 +175,11 @@ Richmond Fed Manufacturing Index Misses Forecasts in August, Signaling Slower Gr
 `26 Aug 07:03 PKT` · pehli baar dekhi `26 Aug 09:02` · gnews_fed
 
 Ringgit opens higher against US dollar as US Treasury yields ease The Malaysian Reserve
+
+**US Dollar Index Stalls as Market Shrugs Off Hawkish Non-Voters - CryptoRank**
+`26 Aug 06:51 PKT` · pehli baar dekhi `26 Aug 09:52` · gnews_fed
+
+US Dollar Index Stalls as Market Shrugs Off Hawkish Non-Voters CryptoRank
 
 **PBOC sets USD/CNY reference rate at 6.7829 vs. 6.7852 previous**
 `26 Aug 06:15 PKT` · pehli baar dekhi `26 Aug 06:54` · fxstreet_news
@@ -232,6 +272,11 @@ The Mexican Peso holds firm near 10-year highs against the US Dollar on Tuesday,
 
 ### EUR
 
+**EUR/USD Price Forecast: Remains sideways ahead of key US events**
+`26 Aug 09:04 PKT` · pehli baar dekhi `26 Aug 09:52` · fxstreet_news
+
+The Euro (EUR) continues to trade in a tight range at around 1.1660 against the US Dollar (USD) during the Asian trading session on Wednesday.
+
 **ECB Expected To Raise Rate To 2.50% In September, Sources Say - BusinessToday Malaysia**
 `26 Aug 07:04 PKT` · pehli baar dekhi `26 Aug 08:08` · gnews_centralbanks
 
@@ -254,12 +299,33 @@ Traders are bracing for an increasingly hawkish ECB AOL.com
 
 ### GBP
 
+**British Pound edges lower but remains close to multi-month top as USD awaits US PCE**
+`26 Aug 09:07 PKT` · pehli baar dekhi `26 Aug 09:52` · fxstreet_news
+
+The GBP/USD pair trades with a negative bias below mid-1.3600s during the Asian session on Wednesday, eroding a part of the previous day's strong gains.
+
+**Pound Sterling Holds Six-Month High as UK Data Calendar Empties - CryptoRank**
+`26 Aug 07:24 PKT` · pehli baar dekhi `26 Aug 09:52` · gnews_fed
+
+Pound Sterling Holds Six-Month High as UK Data Calendar Empties CryptoRank
+
 **Pound Sterling's six-month high has no British test this week**
 `26 Aug 04:01 PKT` · pehli baar dekhi `26 Aug 04:13` · fxstreet_news
 
 GBP/USD trades near 1.3650 late on Tuesday, August 25, up around a tenth of a percent on a session that has covered barely 33 pips between a floor just above 1.3600 and a ceiling a shade over 1.3650.
 
 ### JPY
+
+**Japan's Kiuchi: CPI expected to gradually rise due to Middle East conditions**
+`26 Aug 09:23 PKT` · pehli baar dekhi `26 Aug 09:52` · fxstreet_news
+
+Japan's Economy Minister Minoru Kiuchi said on Wednesday that he expects consumer prices to gradually rise amid the Middle East situation.
+
+**BOJ chief Ueda to skip Jackson Hole, shifts market focus to G20 - The Business Times**
+`26 Aug 09:13 PKT` · pehli baar dekhi `26 Aug 09:52` · gnews_centralbanks · **2 feeds mein**
+
+BOJ chief Ueda to skip Jackson Hole, shifts market focus to G20 The Business Times
+  - `26 Aug 07:42` *investing_news* — BOJ chief Ueda to skip Jackson Hole, shifts market focus to G20
 
 **Japanese Shares Gain for Second Session**
 `26 Aug 09:02 PKT` · instaforex
@@ -280,9 +346,6 @@ The Nikkei 225 Index fell 0.7% on Wednesday to slip below the 65,500 level, eras
 `26 Aug 08:08 PKT` · instaforex
 
 Japan's Corporate Services Price Index (CSPI) strengthened further, with annual growth edging up to 3.6% year-over-year as of the latest reading updated on 25 August 2026. This compares with a 3.4% increase in the previous period, underscoring continued upward pressure on the cost of services provided between businesses. The CSPI measures how prices charged for a broad range of corporate services change versus the same month a year earlier.
-
-**BOJ chief Ueda to skip Jackson Hole, shifts market focus to G20**
-`26 Aug 07:42 PKT` · pehli baar dekhi `26 Aug 08:08` · investing_news
 
 **Japanese Yen strengthens on US bond buyback, traders brace for US PCE inflation report**
 `26 Aug 07:41 PKT` · pehli baar dekhi `26 Aug 08:08` · fxstreet_news
@@ -383,6 +446,9 @@ A new economic study and resource update positions it as one of Canada's top und
 
 ### AUD
 
+**Australian Indigenous group appeals compensation ruling over Fortescue's mining impact**
+`26 Aug 09:24 PKT` · pehli baar dekhi `26 Aug 09:52` · investing_news
+
 **AUS 10Y Yield Moves Near Multi-Week Highs**
 `26 Aug 08:08 PKT` · instaforex
 
@@ -464,6 +530,11 @@ NZD/USD depreciates after registering modest gains in the previous day, trading 
 New Zealand Dollar Holds Ground Against Firm US Dollar on RBNZ Rate Hike Bets CryptoRank
 
 ### OIL
+
+**WTI Price Forecast: Seems vulnerable below $80.00 as break below 50% Fibo. comes into play**
+`26 Aug 09:48 PKT` · pehli baar dekhi `26 Aug 09:52` · fxstreet_news
+
+West Texas Intermediate (WTI) – the benchmark US Crude Oil price – remains under some selling pressure for the third straight day and drops to a nearly two-week low during the Asian session on Wednesday.
 
 **Palm Oil Retreats to One-Week Low**
 `26 Aug 09:02 PKT` · instaforex
@@ -561,6 +632,11 @@ Crude oil prices fell to around $81 per barrel on Wednesday, extending losses fo
 
 US crude oil inventories increased by 4.2 million barrels in the week ending August 21st, significantly exceeding market expectations for a 1.9 million-barrel build and reversing the prior week's 328,000-barrel draw. Over the past 19 weeks, commercial crude inventories excluding the SPR have fallen by just over 45 million barrels, yet they remain 5.8 million barrels higher on a year-to-date basis.
 
+**Trump Warns Iran on Hormuz Tolls as Energy Crunch Prompts Japan to Release More Oil - EnergyNow.com**
+`26 Aug 04:18 PKT` · pehli baar dekhi `26 Aug 09:52` · gnews_geopolitics
+
+Trump Warns Iran on Hormuz Tolls as Energy Crunch Prompts Japan to Release More Oil EnergyNow.com
+
 **US oil prices extend losses on hopes of Iran-Oman talks on Strait of Hormuz**
 `26 Aug 04:07 PKT` · pehli baar dekhi `26 Aug 04:41` · investing_commodities
 
@@ -587,6 +663,11 @@ The price of Bitcoin has risen in August but is still far below its peak almost 
 With consensus sitting less than one percent above Nvidia's own guidance midpoint, the setup leaves little room for a clean beat to move the stock on its own, the market reaction is more likely to hinge on the Q3 outlook, gross margin trajectory and any colour on Blackwell Ultra execution than on the headline Q2 number.
 
 ### RISK
+
+**Copper Hits Fresh Record High**
+`26 Aug 09:52 PKT` · instaforex
+
+Copper futures rose above $6.70 per pound on Wednesday, setting a new record high as supply risks remained elevated despite a recent easing of the market squeeze. Traders continued to redirect shipments to the United States, drawn by strong premiums and the prospect of new tariffs under a potential Trump administration, although the White House has not yet reached a final decision.
 
 **Wheat Futures Hit 1-Month High**
 `26 Aug 09:02 PKT` · instaforex
@@ -643,6 +724,16 @@ Tehran says the agreement with Oman on routes through Hormuz does not indicate t
 
 An escalation of the US Canada trade dispute adds a fresh source of policy uncertainty at a moment when markets are already digesting a volatile Fed rate outlook and unresolved Middle East risk. Canada remains one of the largest US trading partners, so further tariff action carries meaningful cross border supply chain implications, particularly for steel, aluminium, autos and agricultural sectors already caught up in the current dispute.
 
+**Oil Prices Rise 5% on Fears of US-Iran Ceasefire Collapse - EnergyNow**
+`26 Aug 04:33 PKT` · pehli baar dekhi `26 Aug 09:52` · gnews_geopolitics
+
+Oil Prices Rise 5% on Fears of US-Iran Ceasefire Collapse EnergyNow
+
+**Oil Falls to Lowest Since Start of Iran War After Ceasefire Deal Signed - EnergyNow**
+`26 Aug 04:07 PKT` · pehli baar dekhi `26 Aug 09:52` · gnews_geopolitics
+
+Oil Falls to Lowest Since Start of Iran War After Ceasefire Deal Signed EnergyNow
+
 **NY Crude Tumbles Over 3% to $82 Range as Iran Sanctions Seen Having "Limited Impact" - finance.biggo.com**
 `26 Aug 03:05 PKT` · pehli baar dekhi `26 Aug 09:02` · gnews_geopolitics
 
@@ -658,10 +749,15 @@ Oil settles down more than 3%; investors shrug off US sanctions on Iran The Busi
 
 As Russia remains occupied with its war in Ukraine, Iran focuses on defending its territory against U.S. and Israeli attacks, and China maintains its involvement in both conflicts under the bar that would trigger direct conflict with America, Washington is leveraging its position in Iraq. These efforts by the U.S.
 
-### BINA TAG (46)
+### BINA TAG (52)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `26 Aug 09:27` **aljazeera** — At least 15 newborns killed in Pakistan hospital fire
+- `26 Aug 09:23` **investing_news** — JOYY Inc earnings missed by $0.20, revenue topped estimates
+- `26 Aug 09:17` **cointelegraph** — US banking groups plan nationwide blockchain network for 2027
+- `26 Aug 09:05` **investing_news** — SK Biopharmaceuticals signs epilepsy drug licensing deal with Biohaven
+- `26 Aug 08:59` **investing_news** — Why is Worley stock tumbling today?
 - `26 Aug 08:49` **aljazeera** — Dozens killed in rebel attacks on Sudan's Kordofan, medical group says
 - `26 Aug 08:47` **investing_news** — Alibaba shares rise as Jack Ma buys $76 million stake amid AI push
 - `26 Aug 08:46` **investing_news** — Worley wins three U.S. contracts for data center energy projects
@@ -674,6 +770,7 @@ As Russia remains occupied with its war in Ukraine, Iran focuses on defending it
 - `26 Aug 08:08` **instaforex** — US Natgas Prices Rebound
 - `26 Aug 08:08` **instaforex** — China Stocks Gain on Policy Support Hopes
 - `26 Aug 07:54` **aljazeera** — Israeli soldiers block Knesset member from besieged Palestinian home
+- `26 Aug 07:51` **gnews_fed** — US ADP Employment Change 4-Week Average Rises to 11.750K, Signaling Steady Private Payroll Growth - CryptoRank
 - `26 Aug 07:47` **aljazeera** — Mamdani opposes Hindu nationalist event in New York
 - `26 Aug 07:35` **investing_news** — Woolworths FY2026 slides: profit surges 12.7%, AI drives growth
 - `26 Aug 07:15` **gnews_fed** — Man charged with murder after deadly stabbing in front of Federal Reserve Bank building, police say - FOX13 Memphis
@@ -711,11 +808,11 @@ As Russia remains occupied with its war in Ukraine, Iran focuses on defending it
 
 ---
 
-## Shor — 46 khabrein hatai gayin
+## Shor — 51 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (46)
+investing_news (51)
 
 ---
 
@@ -725,12 +822,12 @@ investing_news (46)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 17 | 3 | 14 | 8 | 0.0 |
-| fxstreet_news | OK | 30 | 21 | 3 | 18 | 9 | 0.0 |
-| fxstreet_analysis | OK | 30 | 1 | 1 | 0 | 29 | 0.0 |
+| investinglive | OK | 25 | 18 | 1 | 17 | 7 | 0.0 |
+| fxstreet_news | OK | 30 | 28 | 7 | 21 | 2 | 0.0 |
+| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
 | actionforex | OK | 20 | 6 | 0 | 6 | 14 | 0.1 |
-| marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.2 |
-| instaforex | OK | 25 | 25 | 4 | 21 | 0 | -0.2 |
+| marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.3 |
+| instaforex | OK | 25 | 25 | 2 | 23 | 0 | -0.2 |
 | wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.1 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
@@ -738,29 +835,29 @@ investing_news (46)
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 13.0 |
-| kitco_general | OK | 38 | 6 | 0 | 6 | 32 | 0.2 |
-| gnews_fed | OK | 93 | 22 | 6 | 16 | 71 | 0.1 |
-| gnews_geopolitics | OK | 100 | 12 | 4 | 8 | 88 | 0.0 |
-| gnews_centralbanks | OK | 25 | 9 | 4 | 5 | 16 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 0.4 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.3 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 14.6 |
+| kitco_general | OK | 38 | 7 | 0 | 7 | 31 | 0.3 |
+| gnews_fed | OK | 98 | 25 | 5 | 20 | 73 | 0.0 |
+| gnews_geopolitics | OK | 100 | 18 | 3 | 15 | 82 | 0.1 |
+| gnews_centralbanks | OK | 24 | 10 | 1 | 9 | 14 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 0.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.4 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.0 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 14.7 |
 | boj_whatsnew | OK | 47 | 1 | 0 | 1 | 46 | 0.2 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.8 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.2 |
 | oilprice | OK | 15 | 2 | 0 | 2 | 13 | 0.2 |
 | investing_commodities | OK | 10 | 8 | 0 | 8 | 2 | 0.1 |
 | ing_think | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| bbc_business | OK | 53 | 8 | 1 | 7 | 45 | 0.0 |
-| aljazeera | OK | 25 | 12 | 5 | 7 | 13 | 0.0 |
+| bbc_business | OK | 53 | 8 | 0 | 8 | 45 | 0.1 |
+| aljazeera | OK | 25 | 13 | 1 | 12 | 12 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 25.8 |
 | eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.6 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 21.6 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 21.7 |
 | wsj_world | OK | 70 | 4 | 0 | 4 | 66 | 0.1 |
 | wsj_markets | OK | 61 | 6 | 0 | 6 | 55 | 0.1 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 48 | 0 | 0 | 0 | 48 | 0.6 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.7 |
 | mw_topstories | OK | 10 | 7 | 0 | 7 | 3 | 0.1 |
-| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.3 |
+| cointelegraph | OK | 30 | 1 | 1 | 0 | 29 | 0.0 |
