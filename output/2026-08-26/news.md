@@ -1,9 +1,16 @@
 # News Pack — Trading Day 26 Aug 2026
 
 - Trading day: **26 Aug 03:00 -> 27 Aug 02:59 PKT**
-- Aakhri update: **26 Aug 04:41 PKT**
-- Kul khabrein: **58**
-- Feeds: 39/39 OK
+- Aakhri update: **26 Aug 05:01 PKT**
+- Kul khabrein: **77**
+- Feeds: 38/39 OK
+
+---
+
+## Sarkari / Exchange
+
+**Services Producer Price Index (July)**
+`26 Aug 04:50 PKT` · pehli baar dekhi `26 Aug 05:01` · boj_whatsnew
 
 ---
 
@@ -29,6 +36,11 @@ Gold Fields flags Ghana licence risk as half-year profit surges KITCO
 The minutes reveal a hawkish contingent one bank larger than the public FOMC vote suggested, since Kansas City Fed President Jeff Schmid does not hold a policy vote this year and his view would not otherwise have been visible. That reinforces the picture from the FOMC minutes themselves, that support for tightening extended well beyond the three officially dissenting presidents, and adds to the case that the Fed's rate path remains genuinely contested rather than settled at a hold.
   - `26 Aug 04:26` *gnews_fed* — Four regional Fed banks sought discount rate hike ahead of July FOMC hold - investingLive
 
+**Four Regional Fed Banks Sought Emergency Loan Rate Hike Ahead of July Decision - finance.biggo.com**
+`26 Aug 04:25 PKT` · pehli baar dekhi `26 Aug 05:01` · gnews_fed
+
+Four Regional Fed Banks Sought Emergency Loan Rate Hike Ahead of July Decision finance.biggo.com
+
 **NZX 50 Edges Lower in Morning Trade**
 `26 Aug 04:13 PKT` · instaforex
 
@@ -40,10 +52,11 @@ New Zealand shares slipped 15 points, or 0.1%, to 13,982 in Wednesday morning tr
 Barkin's comments add a senior Fed voice to a debate that has already unsettled bond markets this month, following the sharp Treasury sell off that forced an extraordinary buyback intervention and pushed long dated yields to multi decade highs. While he stopped short of predicting a near term crisis, his direct warning that investors could eventually stop buying US debt echoes concerns already raised by figures across Wall Street this year.
 
 **Fed Chairman Kevin Warsh Cut the Fed's Post-Meeting Statement From 341 Words to Just 130, Dropping All Mention of Future Rate Cuts. Does That Signal Higher-for-Longer Rates Are Here to Stay? - AOL.com**
-`26 Aug 03:49 PKT` · pehli baar dekhi `26 Aug 04:13` · gnews_fed · **2 feeds mein**
+`26 Aug 03:49 PKT` · pehli baar dekhi `26 Aug 04:13` · gnews_fed · **3 feeds mein**
 
 Fed Chairman Kevin Warsh Cut the Fed's Post-Meeting Statement From 341 Words to Just 130, Dropping All Mention of Future Rate Cuts. Does That Signal Higher-for-Longer Rates Are Here to Stay? AOL.com
   - `26 Aug 03:43` *gnews_fed* — Fed Chairman Kevin Warsh Cut the Fed's Post-Meeting Statement From 341 Words to Just 130, Dropping All Mention of Future Rate Cuts. Does That Signal Higher-for-Longer Rates Are Here to Stay? - The Motley Fool
+  - `26 Aug 03:35` *gnews_fed* — Fed Chairman Kevin Warsh Cut the Fed's Post-Meeting Statement From 341 Words to Just 130, Dropping All Mention of Future Rate Cuts. Does That Signal Higher-for-Longer Rates Are Here to Stay? - The Globe and Mail
 
 **Singapore Dollar: Consolidation risk after recent gains against US Dollar – OCBC**
 `26 Aug 03:37 PKT` · pehli baar dekhi `26 Aug 03:47` · fxstreet_news
@@ -69,6 +82,11 @@ GBP/USD trades near 1.3650 late on Tuesday, August 25, up around a tenth of a pe
 
 ### JPY
 
+**Japan July 2026 Services PPI +3.6% y/y (expected 3.2%, prior 3.2%)**
+`26 Aug 04:53 PKT` · pehli baar dekhi `26 Aug 05:01` · investinglive
+
+Japan July 2026 Services PPI +3.6% y/y expected 3.2%, prior 3.2% And +0.4% m/m prior -0.4% Just the data this post. This article was written by Eamonn Sheridan at investinglive.com.
+
 **Tokyo bought the Japanese Yen a range, not a trend**
 `26 Aug 04:02 PKT` · pehli baar dekhi `26 Aug 04:13` · fxstreet_news
 
@@ -89,6 +107,13 @@ The sharp shift in economist expectations points to a BOJ that is now genuinely 
 
 BOJ to speed up its tightening campaign, raise key rate to 1.25% in September Reuters
 
+### CAD
+
+**FireFly's Green Bay project leads Canada in spending efficiency for copper**
+`26 Aug 04:41 PKT` · pehli baar dekhi `26 Aug 05:01` · mining_com
+
+A new economic study and resource update positions it as one of Canada's top undeveloped copper projects by value and capital efficiency.
+
 ### AUD
 
 **Australian Dollar rises after RBA hawkish minutes, inflation data eyed**
@@ -102,6 +127,16 @@ The Aussie Dollar advanced on Tuesday, gaining over 0.20% as the Greenback edged
 The Australian Bureau of Statistics (ABS) will publish the July Consumer Price Index (CPI) on Wednesday at 01:30 GMT. The report is expected to show that inflation rose 3.2% from a year earlier, easing from the 3.8% posted in June.
 
 ### OIL
+
+**Big Oil Is Betting Billions On Nuclear Fusion**
+`26 Aug 05:00 PKT` · pehli baar dekhi `26 Aug 05:01` · oilprice
+
+After decades confined largely to laboratories, nuclear fusion is beginning to attract the kind of money and industrial planning normally reserved for technologies expected to make it onto the grid. Global private investment in fusion hit a record $4.48 billion in 2025, up 69% from a year earlier, while some of the world's largest energy companies are moving beyond simply backing fusion startups. Italian energy giant Eni S.p.A.
+
+**Iran and Oman push talks for 'interim' reopening of Hormuz — Bloomberg**
+`26 Aug 04:43 PKT` · pehli baar dekhi `26 Aug 05:01` · fxstreet_news
+
+Iranian Foreign Minister Abbas Araghchi and his Omani counterpart Badr Albusaidi discussed an "interim framework" aimed at resuming shipping through the Strait of Hormuz, Bloomberg reported on Tuesday.
 
 **Oil Declines for Third Straight Session**
 `26 Aug 04:41 PKT` · instaforex
@@ -118,6 +153,11 @@ US crude oil inventories increased by 4.2 million barrels in the week ending Aug
 
 **Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on**
 `26 Aug 03:30 PKT` · pehli baar dekhi `26 Aug 03:47` · investing_commodities
+
+**Oil Extends Declines as Iran, Oman Push Talks to Reopen Hormuz - Bloomberg**
+`26 Aug 03:06 PKT` · pehli baar dekhi `26 Aug 05:01` · gnews_geopolitics
+
+Oil Extends Declines as Iran, Oman Push Talks to Reopen Hormuz Bloomberg
 
 ### CRYPTO
 
@@ -138,10 +178,13 @@ Oil settles down more than 3%; investors shrug off US sanctions on Iran The Busi
 
 As Russia remains occupied with its war in Ukraine, Iran focuses on defending its territory against U.S. and Israeli attacks, and China maintains its involvement in both conflicts under the bar that would trigger direct conflict with America, Washington is leveraging its position in Iraq. These efforts by the U.S.
 
-### BINA TAG (15)
+### BINA TAG (18)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `26 Aug 05:00` **actionforex** — Eco Data 8/26/26
+- `26 Aug 04:52` **gnews_geopolitics** — Gas Prices Rise Due To Conflicts - News Radio 1190 KEX
+- `26 Aug 04:44` **investing_news** — Domino's Pizza swings to FY loss on writedowns, underlying profit up 4%
 - `26 Aug 04:30` **investing_commodities** — Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel
 - `26 Aug 04:18` **investing_news** — Deloitte to pay $21.5 million to settle US government probe over DEI
 - `26 Aug 04:18` **investing_news** — Bolivia's Paz taps deputy to lead economy after minister's ousting
@@ -160,11 +203,11 @@ As Russia remains occupied with its war in Ukraine, Iran focuses on defending it
 
 ---
 
-## Shor — 18 khabrein hatai gayin
+## Shor — 26 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (18)
+investing_news (26)
 
 ---
 
@@ -174,12 +217,12 @@ investing_news (18)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 3 | 1 | 2 | 22 | 0.0 |
-| fxstreet_news | OK | 30 | 8 | 1 | 7 | 22 | 0.0 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.1 |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 0.4 |
+| investinglive | OK | 25 | 4 | 1 | 3 | 21 | 0.0 |
+| fxstreet_news | OK | 30 | 9 | 1 | 8 | 21 | 0.0 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.2 |
+| actionforex | OK | 20 | 1 | 1 | 0 | 19 | 0.0 |
 | marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.1 |
-| instaforex | OK | 25 | 11 | 2 | 9 | 14 | -0.2 |
+| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 0.4 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
@@ -187,19 +230,19 @@ investing_news (18)
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.2 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.1 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 12.8 |
-| kitco_general | OK | 39 | 1 | 0 | 1 | 38 | 0.0 |
-| gnews_fed | OK | 87 | 4 | 1 | 3 | 83 | 0.0 |
-| gnews_geopolitics | OK | 100 | 1 | 0 | 1 | 99 | 0.0 |
-| gnews_centralbanks | OK | 27 | 2 | 0 | 2 | 25 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 0.2 |
+| kitco_general | OK | 38 | 1 | 0 | 1 | 37 | 0.1 |
+| gnews_fed | OK | 85 | 6 | 2 | 4 | 79 | 0.0 |
+| gnews_geopolitics | OK | 100 | 4 | 2 | 2 | 96 | 0.0 |
+| gnews_centralbanks | OK | 25 | 2 | 0 | 2 | 23 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 0.3 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.2 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 14.4 |
-| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 0.8 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.8 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 14.5 |
+| boj_whatsnew | OK | 47 | 1 | 1 | 0 | 46 | 0.0 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.6 |
-| mining_com | OK | 36 | 1 | 1 | 0 | 35 | 0.0 |
-| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.1 |
-| investing_commodities | OK | 10 | 5 | 2 | 3 | 5 | 0.0 |
+| mining_com | OK | 36 | 2 | 1 | 1 | 34 | 0.0 |
+| oilprice | OK | 15 | 2 | 1 | 1 | 13 | 0.0 |
+| investing_commodities | OK | 10 | 6 | 0 | 6 | 4 | 0.0 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 0.3 |
 | bbc_business | OK | 53 | 6 | 0 | 6 | 47 | 0.0 |
 | aljazeera | OK | 25 | 2 | 0 | 2 | 23 | 0.1 |
@@ -209,7 +252,10 @@ investing_news (18)
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 21.5 |
 | wsj_world | OK | 70 | 1 | 0 | 1 | 69 | 0.0 |
 | wsj_markets | OK | 61 | 1 | 0 | 1 | 60 | 0.1 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 0 | 0 | 0 | 49 | 0.1 |
-| mw_topstories | OK | 10 | 3 | 0 | 3 | 7 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | OK | 47 | 0 | 0 | 0 | 47 | 0.1 |
+| mw_topstories | OK | 10 | 4 | 0 | 4 | 6 | 0.0 |
 | cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.1 |
+
+**Jo feeds nahi aaye:**
+- instaforex — FAIL, koi item nahi

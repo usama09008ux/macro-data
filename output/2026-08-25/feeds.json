@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "26 Aug 04:41",
+  "updated_pkt": "26 Aug 05:01",
   "feeds": [
     {
       "name": "investinglive",
@@ -7,10 +7,10 @@
       "fetched": 25,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 3,
+      "in_window": 4,
       "new": 1,
-      "seen_before": 2,
-      "out_of_window": 22
+      "seen_before": 3,
+      "out_of_window": 21
     },
     {
       "name": "fxstreet_news",
@@ -18,16 +18,16 @@
       "fetched": 30,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 8,
+      "in_window": 9,
       "new": 1,
-      "seen_before": 7,
-      "out_of_window": 22
+      "seen_before": 8,
+      "out_of_window": 21
     },
     {
       "name": "fxstreet_analysis",
       "status": "OK",
       "fetched": 30,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.2,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -38,12 +38,12 @@
       "name": "actionforex",
       "status": "OK",
       "fetched": 20,
-      "newest_age_days": 0.4,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 0,
-      "new": 0,
+      "in_window": 1,
+      "new": 1,
       "seen_before": 0,
-      "out_of_window": 20
+      "out_of_window": 19
     },
     {
       "name": "marketpulse",
@@ -58,14 +58,14 @@
     },
     {
       "name": "instaforex",
-      "status": "OK",
-      "fetched": 25,
-      "newest_age_days": -0.2,
-      "note": "waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya waqt aage ka tha, theek kiya",
-      "in_window": 11,
-      "new": 2,
-      "seen_before": 9,
-      "out_of_window": 14
+      "status": "FAIL",
+      "fetched": 0,
+      "newest_age_days": null,
+      "note": "koi item nahi",
+      "in_window": 0,
+      "new": 0,
+      "seen_before": 0,
+      "out_of_window": 0
     },
     {
       "name": "wsj_economy",
@@ -147,24 +147,24 @@
     {
       "name": "kitco_general",
       "status": "OK",
-      "fetched": 39,
-      "newest_age_days": 0.0,
+      "fetched": 38,
+      "newest_age_days": 0.1,
       "note": "",
       "in_window": 1,
       "new": 0,
       "seen_before": 1,
-      "out_of_window": 38
+      "out_of_window": 37
     },
     {
       "name": "gnews_fed",
       "status": "OK",
-      "fetched": 87,
+      "fetched": 85,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 4,
-      "new": 1,
-      "seen_before": 3,
-      "out_of_window": 83
+      "in_window": 6,
+      "new": 2,
+      "seen_before": 4,
+      "out_of_window": 79
     },
     {
       "name": "gnews_geopolitics",
@@ -172,27 +172,27 @@
       "fetched": 100,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 1,
-      "new": 0,
-      "seen_before": 1,
-      "out_of_window": 99
+      "in_window": 4,
+      "new": 2,
+      "seen_before": 2,
+      "out_of_window": 96
     },
     {
       "name": "gnews_centralbanks",
       "status": "OK",
-      "fetched": 27,
-      "newest_age_days": 0.0,
+      "fetched": 25,
+      "newest_age_days": 0.1,
       "note": "",
       "in_window": 2,
       "new": 0,
       "seen_before": 2,
-      "out_of_window": 25
+      "out_of_window": 23
     },
     {
       "name": "fed_monetary",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 0.2,
+      "newest_age_days": 0.3,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -214,7 +214,7 @@
       "name": "ecb_press",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 1.7,
+      "newest_age_days": 1.8,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -225,7 +225,7 @@
       "name": "boe_news",
       "status": "OK",
       "fetched": 50,
-      "newest_age_days": 14.4,
+      "newest_age_days": 14.5,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -235,11 +235,11 @@
     {
       "name": "boj_whatsnew",
       "status": "OK",
-      "fetched": 46,
-      "newest_age_days": 0.8,
+      "fetched": 47,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 0,
-      "new": 0,
+      "in_window": 1,
+      "new": 1,
       "seen_before": 0,
       "out_of_window": 46
     },
@@ -260,21 +260,21 @@
       "fetched": 36,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 1,
+      "in_window": 2,
       "new": 1,
-      "seen_before": 0,
-      "out_of_window": 35
+      "seen_before": 1,
+      "out_of_window": 34
     },
     {
       "name": "oilprice",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 1,
-      "new": 0,
+      "in_window": 2,
+      "new": 1,
       "seen_before": 1,
-      "out_of_window": 14
+      "out_of_window": 13
     },
     {
       "name": "investing_commodities",
@@ -282,10 +282,10 @@
       "fetched": 10,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 5,
-      "new": 2,
-      "seen_before": 3,
-      "out_of_window": 5
+      "in_window": 6,
+      "new": 0,
+      "seen_before": 6,
+      "out_of_window": 4
     },
     {
       "name": "ing_think",
@@ -393,20 +393,20 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 8,
-      "seen_before": 2,
+      "new": 9,
+      "seen_before": 1,
       "out_of_window": 0
     },
     {
       "name": "yahoo_finance",
       "status": "OK",
-      "fetched": 49,
+      "fetched": 47,
       "newest_age_days": 0.1,
       "note": "",
       "in_window": 0,
       "new": 0,
       "seen_before": 0,
-      "out_of_window": 49
+      "out_of_window": 47
     },
     {
       "name": "mw_topstories",
@@ -414,10 +414,10 @@
       "fetched": 10,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 3,
+      "in_window": 4,
       "new": 0,
-      "seen_before": 3,
-      "out_of_window": 7
+      "seen_before": 4,
+      "out_of_window": 6
     },
     {
       "name": "cointelegraph",
