@@ -1,6 +1,6 @@
 # Calendar — Trading Day 26 Aug 2026
 
-- Banaya gaya: **26 Aug 2026 03:58 PKT**
+- Banaya gaya: **26 Aug 2026 10:58 PKT**
 - Trading day: **26 Aug 03:00 -> 27 Aug 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,12 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 04:50 | JPY | low | SPPI y/y | 3.2% | 3.2% |
-| 05:30 | AUD | low | MI Leading Index m/m | - | 0.0% |
-| 06:30 | AUD | **HIGH** | CPI m/m | 0.9% | -0.1% |
-| 06:30 | AUD | **HIGH** | CPI y/y | 3.3% | 3.8% |
-| 06:30 | AUD | **HIGH** | Trimmed Mean CPI m/m | 0.4% | 0.3% |
-| 06:30 | AUD | low | Construction Work Done q/q | 0.5% | 3.4% |
 | 13:00 | CHF | low | UBS Economic Expectations | - | 10.0 |
 | 15:00 | GBP | low | CBI Realized Sales | -35 | -26 |
 | 17:30 | USD | **HIGH** | Core PCE Price Index m/m | 0.2% | 0.1% |
@@ -30,12 +24,12 @@
 | 19:30 | USD | low | Crude Oil Inventories | 1.6M | 4.4M |
 | 20:45 | USD | low | FOMC Member Barkin Speaks | - | - |
 | 21:15 | CHF | low | Gov Board Member Martin Speaks | - | - |
+| **27 Aug** 06:30 | AUD | low | Household Spending m/m | 0.3% | 0.8% |
+| **27 Aug** 06:30 | AUD | low | Private Capital Expenditure q/q | 0.8% | 6.5% |
+| **27 Aug** 06:30 | AUD | low | RBA Bulletin | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
-- `26 Aug 06:30` **AUD CPI m/m**
-- `26 Aug 06:30` **AUD CPI y/y**
-- `26 Aug 06:30` **AUD Trimmed Mean CPI m/m**
 - `26 Aug 17:30` **USD Core PCE Price Index m/m**
 - `26 Aug 17:30` **USD Prelim GDP q/q**
 
