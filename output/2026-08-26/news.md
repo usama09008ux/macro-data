@@ -1,8 +1,8 @@
 # News Pack — Trading Day 26 Aug 2026
 
 - Trading day: **26 Aug 03:00 -> 27 Aug 02:59 PKT**
-- Aakhri update: **26 Aug 12:56 PKT**
-- Kul khabrein: **407**
+- Aakhri update: **26 Aug 13:54 PKT**
+- Kul khabrein: **467**
 - Feeds: 39/39 OK
 
 ---
@@ -17,6 +17,31 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**Euro Holds Near Mid-May High as Traders Assess ECB Rate Outlook**
+`26 Aug 13:54 PKT` · instaforex
+
+The euro hovered just above $1.165, near its highest level since mid-May, as investors weighed falling oil prices and the outlook for European Central Bank interest rates. Sentiment improved after Iran said it had resumed talks with Oman on managing the Strait of Hormuz, raising hopes that the key shipping lane could reopen and ease disruptions to energy flows.
+
+**UK Gilt Yields Fall as Hormuz Hopes Ease Inflation Concerns**
+`26 Aug 13:54 PKT` · instaforex
+
+UK 10-year gilt yields fell back below 5%, hovering near their lowest level since August 14, as declining oil prices lifted hopes that the Strait of Hormuz could soon reopen, easing inflation concerns. Iran has held talks with Oman on reopening the waterway, and Oman's foreign ministry indicated that a temporary corridor could be announced shortly. Unverified reports have also suggested that the US and Iran may reach a new ceasefire agreement in the coming days.
+
+**Bund Yields Fall as Oil Prices Drop**
+`26 Aug 13:54 PKT` · instaforex
+
+German 10-year Bund yields slipped to 3.2%, hovering near their lowest level since August 14, as declining oil prices fueled hopes that the Strait of Hormuz could reopen and traders reassessed the outlook for European Central Bank (ECB) interest rates. Iran announced it had resumed talks with Oman on managing traffic through the Strait, rekindling optimism that this crucial shipping route could reopen and alleviate disruptions to energy supplies.
+
+**AUD/JPY Price Forecast: Rally extends further to near 114.30 as hawkish RBA bets accelerate**
+`26 Aug 13:40 PKT` · pehli baar dekhi `26 Aug 13:54` · fxstreet_news
+
+The Australian Dollar (AUD) trades 0.13% higher at around 114.30 against the Japanese Yen (JPY) during the European trading session on Wednesday.
+
+**Euro advances against Canadian Dollar amid falling oil prices**
+`26 Aug 13:28 PKT` · pehli baar dekhi `26 Aug 13:54` · fxstreet_news
+
+EUR/CAD extends its gains for the third successive day, trading around 1.6180 during the European hours on Wednesday. The currency cross gains ground as the commodity-linked Canadian Dollar (CAD) faces headwinds due to falling crude oil prices.
 
 **ASX 200 Turns Early Strength to Close Lower**
 `26 Aug 12:05 PKT` · instaforex
@@ -155,6 +180,36 @@ Gold Fields flags Ghana licence risk as half-year profit surges KITCO
 
 ### USD
 
+**Forex Today: US Dollar extends consolidation ahead of key inflation data, Nvidia earnings**
+`26 Aug 13:15 PKT` · pehli baar dekhi `26 Aug 13:54` · fxstreet_news
+
+Here is what you need to know on Wednesday, August 26:
+
+**Bond market pressures Fed Chair Warsh to address inflation, rate tensions - Crypto Briefing**
+`26 Aug 13:15 PKT` · pehli baar dekhi `26 Aug 13:54` · gnews_fed
+
+Bond market pressures Fed Chair Warsh to address inflation, rate tensions Crypto Briefing
+
+**Dow Jones futures hold flat as traders await US PCE inflation data, Nvidia earnings**
+`26 Aug 13:06 PKT` · pehli baar dekhi `26 Aug 13:54` · fxstreet_news
+
+Dow Jones futures gain steadies around 53,650 during European hours on Wednesday. Meanwhile, S&P 500 futures decline by 0.11%, to trade near 7,680, and Nasdaq 100 futures fall by 0.23% to trade around 29,210.
+
+**US core PCE inflation set to keep pressure on the Federal Reserve to hike interest rates**
+`26 Aug 13:00 PKT` · pehli baar dekhi `26 Aug 13:54` · fxstreet_news
+
+The United States (US) Bureau of Economic Analysis (BEA) is expected to publish the Personal Consumption Expenditures (PCE) Price Index data for July on Wednesday, at 12:30 GMT.
+
+**US core PCE inflation is foreseen well above the Fed's 2% target in July - FXStreet**
+`26 Aug 13:00 PKT` · pehli baar dekhi `26 Aug 13:54` · gnews_fed
+
+US core PCE inflation is foreseen well above the Fed's 2% target in July FXStreet
+
+**US Dollar Index Price Forecast: Bears prevail with the 200-day SMA capping rallies**
+`26 Aug 12:58 PKT` · pehli baar dekhi `26 Aug 13:54` · fxstreet_news
+
+The US Dollar (USD) nurses marginal gains on Wednesday and holds a mild recovery attempt from the three-month highs hit last week, but seems unable to extend gains past the 200-day Simple Moving Average (SMA), just above 99.00, which keeps the broader bearish structure intact.
+
 **Bank of Thailand Leaves Policy Rate Unchanged**
 `26 Aug 12:56 PKT` · instaforex
 
@@ -195,6 +250,11 @@ Sweden's Producer Price Index (PPI) inflation eased in July 2026, underscoring a
 
 The US dollar has resumed its decline following a corrective recovery, as the support behind the currency proved insufficient to sustain the rebound. Selling pressure increased as long-term US Treasury yields fell amid reports that the US Treasury was prepared to expand its bond-buyback operations. Larger buybacks support the government bond market and can contribute [&#8230;] The post Dollar Recovery Loses Momentum: USD/CAD and USD/CHF Resume Their Declines appeared first on ActionForex.
 
+**US Dollar Steadies As Markets Await Core PCE And Warsh Remarks – OCBC - Bitcoin World**
+`26 Aug 11:55 PKT` · pehli baar dekhi `26 Aug 13:54` · gnews_fed
+
+US Dollar Steadies As Markets Await Core PCE And Warsh Remarks – OCBC Bitcoin World
+
 **FX Daily: Lower energy helps Bessent's plans**
 `26 Aug 11:45 PKT` · pehli baar dekhi `26 Aug 12:05` · ing_think
 
@@ -209,6 +269,11 @@ OCBC Bank strategists Sim Moh Siong and Christopher Wong highlight that lower en
 `26 Aug 11:30 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_fed
 
 Gold remains depressed below $4,650 on firmer USD; looks to US PCE for Fed rate outlook FXStreet
+
+**Gold Holds Firm As PCE Inflation Data And Fed Rate Signals Take Center Stage - Bitcoin World**
+`26 Aug 11:25 PKT` · pehli baar dekhi `26 Aug 13:54` · gnews_fed
+
+Gold Holds Firm As PCE Inflation Data And Fed Rate Signals Take Center Stage Bitcoin World
 
 **US-Canada Trade War Escalates**
 `26 Aug 11:14 PKT` · pehli baar dekhi `26 Aug 12:05` · actionforex
@@ -409,10 +474,47 @@ The Mexican Peso holds firm near 10-year highs against the US Dollar on Tuesday,
 
 ### EUR
 
+**EUR/JPY Daily Outlook**
+`26 Aug 13:30 PKT` · pehli baar dekhi `26 Aug 13:54` · actionforex · **4 feeds mein**
+
+EUR/JPY is still extending consolidations below 186.00 and intraday bias stays neutral. Further rally is expected as long as 183.90 support holds. Above 186.00 will extend the rise from 179.34 to retest 187.42, and then 187.93. In the bigger picture, strong rebound from rising 55 W EMA (now at 180.81) keeps the up trend from [&#8230;] The post EUR/JPY Daily Outlook appeared first on ActionForex.
+  - `26 Aug 13:28` *actionforex* — EUR/GBP Daily Outlook
+  - `26 Aug 13:26` *actionforex* — EUR/AUD Daily Outlook
+  - `26 Aug 13:19` *actionforex* — EUR/CHF Daily Outlook
+
+**Euro: Schnabel's upbeat tone supports against US Dollar – ING**
+`26 Aug 13:12 PKT` · pehli baar dekhi `26 Aug 13:54` · fxstreet_news
+
+Chris Turner at ING highlights that Eurozone data continue to surprise positively and ECB's Isabel Schnabel now sees growth risks possibly to the upside.
+
+**ECB's Schnabel Sees Inflation Above 2% for Extended Period, Backs More Tightening**
+`26 Aug 13:11 PKT` · pehli baar dekhi `26 Aug 13:54` · actionforex
+
+ECB Executive Board member Isabel Schnabel said further tightening will be necessary as energy-driven inflation risks persist and euro area economy stays resilient. In an interview with Bloomberg News published Wednesday, Aug. 26, Schnabel said, "At the current policy rate, inflation is unlikely to return to target over the medium term, and therefore further tightening [&#8230;] The post ECB&#8217;s Schnabel Sees Inflation Above 2% for Extended Period, Backs More Tightening appeared first on ...
+
+**Bund Yields Fall as Oil Prices Drop - TradingView**
+`26 Aug 13:00 PKT` · pehli baar dekhi `26 Aug 13:54` · gnews_centralbanks
+
+Bund Yields Fall as Oil Prices Drop TradingView
+
+**ECB Executive Board Member Warns Inflation Not Yet Tamed; Markets Bet on September Hike to 2.5% - finance.biggo.com**
+`26 Aug 12:59 PKT` · pehli baar dekhi `26 Aug 13:54` · gnews_centralbanks
+
+ECB Executive Board Member Warns Inflation Not Yet Tamed; Markets Bet on September Hike to 2.5% finance.biggo.com
+
 **Euro holds above mid-1.1600s vs USD; looks to US PCE data for fresh impetus**
 `26 Aug 12:54 PKT` · pehli baar dekhi `26 Aug 12:56` · fxstreet_news
 
 The EUR/USD pair struggles to capitalize on the previous day's modest bounce from the weekly low, and trades with a negative bias through the early European session on Wednesday.
+
+**Interest rates must rise further, ECB's Schnabel tells Bloomberg - 102.7 WBOW**
+`26 Aug 12:50 PKT` · pehli baar dekhi `26 Aug 13:54` · gnews_centralbanks · **5 feeds mein**
+
+Interest rates must rise further, ECB's Schnabel tells Bloomberg 102.7 WBOW
+  - `26 Aug 12:11` *gnews_centralbanks* — Interest rates must rise further, ECB's Schnabel tells Bloomberg - 104.1 WIKY
+  - `26 Aug 10:59` *gnews_centralbanks* — Interest rates must rise further, ECB's Schnabel tells Bloomberg - AOL.com
+  - `26 Aug 10:44` *gnews_centralbanks* — Interest rates must rise further, ECB's Schnabel tells Bloomberg - Reuters
+  - `26 Aug 10:48` *investing_news* — Interest rates must rise further, ECB's Schnabel tells Bloomberg
 
 **Euro wavers within range against British Pound with markets calm and little data**
 `26 Aug 12:19 PKT` · pehli baar dekhi `26 Aug 12:56` · fxstreet_news
@@ -423,14 +525,6 @@ The Euro (EUR) edges up for the second consecutive day against the British Pound
 `26 Aug 12:19 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_centralbanks
 
 ECB's Schnabel says rates must rise more on resilient economy The Edge Malaysia
-
-**Interest rates must rise further, ECB's Schnabel tells Bloomberg - 104.1 WIKY**
-`26 Aug 12:11 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_centralbanks · **4 feeds mein**
-
-Interest rates must rise further, ECB's Schnabel tells Bloomberg 104.1 WIKY
-  - `26 Aug 10:59` *gnews_centralbanks* — Interest rates must rise further, ECB's Schnabel tells Bloomberg - AOL.com
-  - `26 Aug 10:44` *gnews_centralbanks* — Interest rates must rise further, ECB's Schnabel tells Bloomberg - Reuters
-  - `26 Aug 10:48` *investing_news* — Interest rates must rise further, ECB's Schnabel tells Bloomberg
 
 **Isabel Schnabel sees it as essential that the ECB continues raising interest rates - Demócrata**
 `26 Aug 12:10 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_centralbanks
@@ -452,6 +546,11 @@ European stocks drift higher as crude collapse offsets hawkish ECB rate warnings
 
 According to sources, the European Central Bank (ECB) is all set to hike its key policy rates at the September policy meeting, RTE reported. Sources also said that the central bank has no appetite to raise interest rates again after a hike next month.
   - `26 Aug 12:01` *gnews_centralbanks* — ECB sets for September rate hike with no appetite to signal more – RTE - FXStreet
+
+**EUR/USD Price Forecast: Sideways Action Ahead of Key US Data - CryptoRank**
+`26 Aug 11:20 PKT` · pehli baar dekhi `26 Aug 13:54` · gnews_fed
+
+EUR/USD Price Forecast: Sideways Action Ahead of Key US Data CryptoRank
 
 **Euro: Upside bias toward 1.1725 against US Dollar – UOB**
 `26 Aug 11:12 PKT` · pehli baar dekhi `26 Aug 12:05` · fxstreet_news
@@ -537,6 +636,12 @@ Traders are bracing for an increasingly hawkish ECB AOL.com
 
 ### GBP
 
+**GBP/USD Daily Outlook**
+`26 Aug 13:50 PKT` · pehli baar dekhi `26 Aug 13:54` · actionforex · **2 feeds mein**
+
+GBP/USD is staying in consolidations below 1.3675 and intraday bias remains neutral. Further rally is expected as long as 1.3518 support holds. Firm break of 100% projection of 1.3139 to 1.3557 from 1.3272 at 1.3690 will target a retest on 1.3867 high. In the bigger picture, price actions from 1.3867 are a corrective pattern within [&#8230;] The post GBP/USD Daily Outlook appeared first on ActionForex.
+  - `26 Aug 13:32` *actionforex* — GBP/JPY Daily Outlook
+
 **British Pound edges lower below 1.3650 as traders await US PCE release**
 `26 Aug 11:56 PKT` · pehli baar dekhi `26 Aug 12:05` · fxstreet_news
 
@@ -568,6 +673,16 @@ Pound Sterling Holds Six-Month High as UK Data Calendar Empties CryptoRank
 GBP/USD trades near 1.3650 late on Tuesday, August 25, up around a tenth of a percent on a session that has covered barely 33 pips between a floor just above 1.3600 and a ceiling a shade over 1.3650.
 
 ### JPY
+
+**USD/JPY Daily Outlook**
+`26 Aug 13:52 PKT` · pehli baar dekhi `26 Aug 13:54` · actionforex
+
+No change in USD/JPY&#8217;s outlook and intraday bias remains neutral. In case of further rally, strong resistance could emerge from 159.59 to 160.62 zone (50% and 61.8% retracement of 163.97 to 155.22) to limit upside. On the downside, break of 157.99 will bring retest 155.22 low. In the bigger picture, as long as 155.01 cluster [&#8230;] The post USD/JPY Daily Outlook appeared first on ActionForex.
+
+**Japanese Yen: Range-bound trading outlook against US Dollar – UOB**
+`26 Aug 13:04 PKT` · pehli baar dekhi `26 Aug 13:54` · fxstreet_news
+
+United Overseas Bank (UOB) analysts Quek Ser Leang and Lee Sue Ann describe USD/JPY as remaining in a range-trading phase. For the 24-hour view they see the Dollar fluctuating between 158.95 and 159.50 after recent narrow ranges and little-changed closes.
 
 **British Pound weakens against Japanese Yen amid hawkish BoJ prospects**
 `26 Aug 12:48 PKT` · pehli baar dekhi `26 Aug 12:56` · fxstreet_news
@@ -692,12 +807,42 @@ BOJ to speed up its tightening campaign, raise key rate to 1.25% in September Re
 
 ### CHF
 
+**Swiss Investor Confidence Strengthens**
+`26 Aug 13:54 PKT` · instaforex
+
+The Swiss investor sentiment index rose to 12.1 in August 2026 from 10.0 in July, according to the UBS & CFA Society Switzerland survey. This was the second consecutive month in positive territory since the outbreak of the Middle East conflict and the second-highest reading since January 2025.
+
+**Swiss ZEW Expectations Edge Higher in August, Signalling Brighter Economic Outlook**
+`26 Aug 13:54 PKT` · instaforex
+
+Switzerland's economic sentiment improved in August, with the ZEW Expectations indicator rising to 12.1 from 10.0 in July 2026. The data, updated on 26 August 2026, suggest that financial market experts have become slightly more optimistic about the country's medium-term economic prospects. The move deeper into positive territory indicates that expectations for future economic conditions are increasingly favorable, even if momentum remains moderate.
+
+**USD/CHF Daily Outlook**
+`26 Aug 13:48 PKT` · pehli baar dekhi `26 Aug 13:54` · actionforex
+
+Intraday bias in USD/CHF remains neutral for the moment. On the downside, decisive break of the channel support (now at 0.7928) will solidify the case that rebound from 0.7603 has completed with three waves up to 0.8205. Deeper fall should be seen to 0.7760 support next. On the upside, firm break of 0.8038 will bring [&#8230;] The post USD/CHF Daily Outlook appeared first on ActionForex.
+
+**Swiss Franc ticks up against US Dollar despite bright Swiss ZEW economic expectations**
+`26 Aug 13:48 PKT` · pehli baar dekhi `26 Aug 13:54` · fxstreet_news
+
+The Swiss Franc (CHF) is trading lower against the US Dollar (USD) on Wednesday, but it has managed to trim some losses after the release of an upbeat Swiss ZEW Economic Expectations Index.
+
+**Switzerland August UBS investor sentiment +12.1 vs +10.0 prior**
+`26 Aug 13:00 PKT` · pehli baar dekhi `26 Aug 13:54` · investinglive
+
+Prior was +10.0 Swiss investor confidence strengthened again in August, with the UBS Investor Sentiment Index rising to +12.1 from +10.0 in July, signalling growing optimism about the outlook for the Swiss economy and financial markets. This marks the second consecutive month in positive territory following a sharp recovery from June's negative reading. Investors have turned more positive on Switzerland's economic prospects despite the US-Iran war and elevated oil prices.
+
 **Swiss Franc weakens as US Dollar gains ahead of PCE inflation data**
 `26 Aug 10:28 PKT` · pehli baar dekhi `26 Aug 10:30` · fxstreet_news
 
 USD/CHF gains ground after posting minor losses, trading around 0.8040 during the Asian hours on Wednesday. The pair appreciates as the US Dollar (USD) gains support ahead of the upcoming US Personal Consumption Expenditures (PCE) release, the Federal Reserve's key inflation metric.
 
 ### CAD
+
+**USD/CAD Daily Outlook**
+`26 Aug 13:35 PKT` · pehli baar dekhi `26 Aug 13:54` · actionforex
+
+USD/CAD is extending consolidations above 1.3730 and intraday bias remains neutral. While stronger rebound cannot be ruled out, upside should be limited by 38.2% retracement of 1.4247 to 1.3730 at 1.3972. On the downside, break of 1.3730 will resume the fall from 1.4247 to retest 1.3480 low. In the bigger picture, the pattern from 1.4791 [&#8230;] The post USD/CAD Daily Outlook appeared first on ActionForex.
 
 **Indonesia Stocks Extend Decline**
 `26 Aug 08:08 PKT` · instaforex
@@ -723,6 +868,21 @@ Canada said that it will implement 50% retaliatory tariffs on $20bn worth of US 
 A new economic study and resource update positions it as one of Canada's top undeveloped copper projects by value and capital efficiency.
 
 ### AUD
+
+**Australian Dollar remains stronger as CPI YoY climbs in July**
+`26 Aug 13:47 PKT` · pehli baar dekhi `26 Aug 13:54` · fxstreet_news
+
+AUD/USD extends its gains for the second consecutive day, trading around 0.7180 during the European hours on Wednesday.
+
+**AUD/USD Daily Report**
+`26 Aug 13:40 PKT` · pehli baar dekhi `26 Aug 13:54` · actionforex
+
+Intraday bias in AUD/USD is back on the upside with break of 0.7179 temporary top. rise from 0.6864 is resuming for 200% projection of 0.6864 to 0.7026 from 0.6921 at 0.7245. On the downside, below 0.7136 minor support will turn intraday bias neutral again. In the bigger picture, price action from 0.7277 medium term top [&#8230;] The post AUD/USD Daily Report appeared first on ActionForex.
+
+**Australian Dollar: RBA risks seen underpriced – MUFG**
+`26 Aug 13:36 PKT` · pehli baar dekhi `26 Aug 13:54` · fxstreet_news
+
+Derek Halpenny at MUFG says the August RBA minutes and stronger-than-expected monthly CPI reinforce the risk of an earlier rate hike than markets currently price.
 
 **Australian Dollar: RBA waits as inflation sticks – Commerzbank**
 `26 Aug 11:30 PKT` · pehli baar dekhi `26 Aug 12:05` · fxstreet_news
@@ -831,6 +991,36 @@ NZD/USD depreciates after registering modest gains in the previous day, trading 
 New Zealand Dollar Holds Ground Against Firm US Dollar on RBNZ Rate Hike Bets CryptoRank
 
 ### OIL
+
+**DAX Moves Lower**
+`26 Aug 13:54 PKT` · instaforex
+
+The DAX 40 slipped to around 26,200 on Wednesday, erasing the modest gains recorded in the previous session, as investors adopted a more cautious stance ahead of Nvidia's earnings release and the start of the central bankers' symposium in Jackson Hole on Thursday. At the same time, ongoing talks between Iran and Oman on reopening the Strait of Hormuz helped ease worries over energy supply, pushing both oil prices and bond yields lower.
+
+**FTSE 100 Snaps 6-Day Winning Streak**
+`26 Aug 13:54 PKT` · instaforex
+
+The FTSE 100 edged lower on Wednesday, snapping a six-session winning streak as weaker oil prices dragged on energy shares. BP slipped more than 2%, while Shell lost around 1.4%, with crude extending its decline for a third consecutive day amid hopes that shipping through the Strait of Hormuz will resume. Iran and Oman have discussed an interim framework intended to enable renewed traffic through the key maritime corridor.
+
+**Oil Extends Falls, Nasdaq Futures Lower Before Nvidia Earnings**
+`26 Aug 13:37 PKT` · pehli baar dekhi `26 Aug 13:54` · wsj_markets
+
+Oil prices slid in early European trade on fresh Middle East optimism, while Nasdaq futures fell as investors anticipate Nvidia's narrative-setting earnings and U.S. inflation data.
+
+**Japan to Unveil New Oil Diversification Strategy**
+`26 Aug 13:30 PKT` · pehli baar dekhi `26 Aug 13:54` · oilprice
+
+Japan is today set to announce an energy import diversification plan that will include stipulations about support for pipelines in the Middle East aimed at diverting export oil flows away from the Strait of Hormuz. The plan also features a push to reduce the country's reliance on oil and gas overall, and also reduce its reliance on Middle Eastern oil and gas specifically, Reuters has reported, citing Japanese media.
+
+**Stock Market Today: Brent Crude Retreats to $85, Nvidia Earnings Due**
+`26 Aug 13:11 PKT` · pehli baar dekhi `26 Aug 13:54` · wsj_markets
+
+Investors will also parse PCE inflation data this morning
+
+**Oil Is Being Sold Off on the Back of Sanctions News**
+`26 Aug 13:04 PKT` · pehli baar dekhi `26 Aug 13:54` · actionforex
+
+Investors were more alarmed by the announcement than by the sanctions themselves and began selling Brent. A rise in US inventories is driving pressure on oil. The US dollar is taking a breather against the backdrop of falling Brent prices and the associated decline in Treasury bond yields. Coupled with rising stock indices, this is [&#8230;] The post Oil Is Being Sold Off on the Back of Sanctions News appeared first on ActionForex.
 
 **European Shares Edge Higher as Oil Falls**
 `26 Aug 12:56 PKT` · instaforex
@@ -1069,6 +1259,9 @@ With consensus sitting less than one percent above Nvidia's own guidance midpoin
 
 ### RISK
 
+**European gas Slumps 3% as Middle East ceasefire hopes unwind supply risk premium**
+`26 Aug 13:43 PKT` · pehli baar dekhi `26 Aug 13:54` · investing_commodities
+
 **US Iran sanctions threaten to deepen Iraq's power crisis - Utilities Middle East**
 `26 Aug 12:30 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_geopolitics
 
@@ -1088,9 +1281,10 @@ The US has used threats of secondary sanctions, whereby countries trading with a
 `26 Aug 11:43 PKT` · pehli baar dekhi `26 Aug 12:05` · investing_news
 
 **3 Oil Stocks Retail Investors Are Watching As Iran Sanctions Raise Supply Risks - simplywall.st**
-`26 Aug 11:30 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_geopolitics
+`26 Aug 11:30 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_geopolitics · **2 feeds mein**
 
 3 Oil Stocks Retail Investors Are Watching As Iran Sanctions Raise Supply Risks simplywall.st
+  - `26 Aug 11:30` *gnews_geopolitics* — 3 Oil Stocks Retail Investors Are Watching As Iran Sanctions Raise Supply Risks - simplywall.st
 
 **US aluminium market will remain tight despite latest tariff changes**
 `26 Aug 11:25 PKT` · pehli baar dekhi `26 Aug 12:05` · ing_think
@@ -1210,12 +1404,24 @@ Oil settles down more than 3%; investors shrug off US sanctions on Iran The Busi
 
 As Russia remains occupied with its war in Ukraine, Iran focuses on defending its territory against U.S. and Israeli attacks, and China maintains its involvement in both conflicts under the bar that would trigger direct conflict with America, Washington is leveraging its position in Iraq. These efforts by the U.S.
 
-### BINA TAG (92)
+### BINA TAG (105)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `26 Aug 13:46` **investing_news** — Zoom delivers quarterly results beat and raises guidance, but shares slide
+- `26 Aug 13:44` **investing_news** — Tritax Big Box directors subscribe for 771,195 shares at £1.64
+- `26 Aug 13:43` **investing_news** — UBS raises Box stock price target to $37 on revenue acceleration
+- `26 Aug 13:41` **investing_news** — Magnora Q2 2026 slides: data center growth offsets earnings miss
+- `26 Aug 13:39` **investing_news** — Magnora Q2 2026 slides: data center launch offsets revenue miss
+- `26 Aug 13:38` **investing_news** — VanEck declares dividends for 10 UCITS ETFs
+- `26 Aug 13:36` **mw_topstories** — The S&P 500 has three hurdles to clear before a move to 8,000, says this strategist
+- `26 Aug 13:18` **aljazeera** — Trump's Korean gambit exposes a shifting East Asian order
+- `26 Aug 13:04` **aljazeera** — Brighton & Hove Albion sign Algerian left-back Jaouen Hadjam
 - `26 Aug 12:48` **investing_news** — Wolfe Research reiterates SpaceX stock rating on launch expansion
+- `26 Aug 12:47` **aljazeera** — US Army Black Hawk helicopter crashes in Colorado
 - `26 Aug 12:44` **cointelegraph** — Tornado Cash developer Roman Storm's retrial delayed to April 2027
+- `26 Aug 12:43` **aljazeera** — UN rejects Israel's threat to expel Gaza residents over kite-flying
+- `26 Aug 12:41` **aljazeera** — Palestinian boy shot during Israeli raid on UNRWA centre
 - `26 Aug 12:37` **investing_news** — Hochschild Mining profit surges in H1, raises cost guidance; shares climb
 - `26 Aug 12:36` **investing_news** — Nxera to receive $10m milestone as partner's Alzheimer's drug enters phase 2
 - `26 Aug 12:36` **investing_news** — Santander admits 329.8 million shares to London trading
@@ -1285,6 +1491,7 @@ As Russia remains occupied with its war in Ukraine, Iran focuses on defending it
 - `26 Aug 05:21` **gnews_fed** — US New Home Sales Plunge 10.5% in July, Reversing June Gains - CryptoRank
 - `26 Aug 05:00` **actionforex** — Eco Data 8/26/26
 - `26 Aug 05:00` **wsj_markets** — Mark Walter's Troubles Are Disrupting the Insurance World's Hottest Trade
+- `26 Aug 05:00` **gnews_fed** — Donald Trump targets Lisa Cook (again) - The Economist
 - `26 Aug 04:52` **gnews_geopolitics** — Gas Prices Rise Due To Conflicts - News Radio 1190 KEX
 - `26 Aug 04:52` **gnews_geopolitics** — Gas Prices Rise Due To Conflicts - Z100 Portland
 - `26 Aug 04:52` **gnews_geopolitics** — Gas Prices Rise Due To Conflicts - JAM'N 107.5
@@ -1309,11 +1516,11 @@ As Russia remains occupied with its war in Ukraine, Iran focuses on defending it
 
 ---
 
-## Shor — 62 khabrein hatai gayin
+## Shor — 65 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (62)
+investing_news (65)
 
 ---
 
@@ -1323,42 +1530,42 @@ investing_news (62)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 22 | 1 | 21 | 3 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 9 | 21 | 0 | 0.0 |
+| investinglive | OK | 25 | 23 | 1 | 22 | 2 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 11 | 19 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
-| actionforex | OK | 20 | 13 | 0 | 13 | 7 | 0.0 |
+| actionforex | OK | 20 | 20 | 12 | 8 | 0 | 0.0 |
 | marketpulse | OK | 5 | 2 | 0 | 2 | 3 | 0.1 |
-| instaforex | OK | 25 | 25 | 2 | 23 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 2 | 1 | 1 | 34 | 0.0 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
+| instaforex | OK | 25 | 25 | 7 | 18 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 2 | 0 | 2 | 34 | 0.0 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 13.1 |
-| kitco_general | OK | 36 | 7 | 0 | 7 | 29 | 0.4 |
-| gnews_fed | OK | 100 | 33 | 4 | 29 | 67 | 0.1 |
-| gnews_geopolitics | OK | 100 | 20 | 4 | 16 | 80 | 0.0 |
-| gnews_centralbanks | OK | 32 | 22 | 8 | 14 | 10 | 0.0 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 13.2 |
+| kitco_general | OK | 36 | 8 | 0 | 8 | 28 | 0.4 |
+| gnews_fed | OK | 100 | 38 | 6 | 32 | 62 | 0.0 |
+| gnews_geopolitics | OK | 100 | 23 | 1 | 22 | 77 | 0.1 |
+| gnews_centralbanks | OK | 32 | 23 | 3 | 20 | 9 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 0.6 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.5 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 14.8 |
-| boj_whatsnew | OK | 47 | 1 | 0 | 1 | 46 | 0.3 |
+| boj_whatsnew | OK | 47 | 1 | 0 | 1 | 46 | 0.4 |
 | rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.0 |
-| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.3 |
-| oilprice | OK | 15 | 4 | 1 | 3 | 11 | 0.0 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.4 |
+| oilprice | OK | 15 | 5 | 1 | 4 | 10 | 0.0 |
 | investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| ing_think | OK | 10 | 3 | 0 | 3 | 7 | 0.0 |
-| bbc_business | OK | 53 | 10 | 1 | 9 | 43 | 0.0 |
-| aljazeera | OK | 25 | 22 | 3 | 19 | 3 | 0.0 |
+| ing_think | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
+| bbc_business | OK | 53 | 10 | 0 | 10 | 43 | 0.0 |
+| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 25.9 |
-| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.7 |
-| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 21.8 |
-| wsj_world | OK | 70 | 4 | 0 | 4 | 66 | 0.2 |
-| wsj_markets | OK | 61 | 6 | 0 | 6 | 55 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.4 |
-| mw_topstories | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
-| cointelegraph | OK | 30 | 4 | 2 | 2 | 26 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 26.0 |
+| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.8 |
+| bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 21.9 |
+| wsj_world | OK | 70 | 4 | 0 | 4 | 66 | 0.3 |
+| wsj_markets | OK | 61 | 8 | 2 | 6 | 53 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | OK | 48 | 0 | 0 | 0 | 48 | 0.5 |
+| mw_topstories | OK | 10 | 8 | 1 | 7 | 2 | 0.0 |
+| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.0 |
