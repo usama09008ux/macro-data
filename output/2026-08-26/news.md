@@ -1,8 +1,8 @@
 # News Pack — Trading Day 26 Aug 2026
 
 - Trading day: **26 Aug 03:00 -> 27 Aug 02:59 PKT**
-- Aakhri update: **26 Aug 12:05 PKT**
-- Kul khabrein: **360**
+- Aakhri update: **26 Aug 12:56 PKT**
+- Kul khabrein: **407**
 - Feeds: 39/39 OK
 
 ---
@@ -22,6 +22,11 @@
 `26 Aug 12:05 PKT` · instaforex
 
 The ASX 200 slipped 37 points, or 0.4%, to close at 9,128 on Wednesday, surrendering early gains and breaking a three-session winning streak. Risk sentiment deteriorated as U.S. equity futures traded mostly lower ahead of the key PCE inflation release later today and Fed Chair Warsh's speech at Jackson Hole on Friday.
+
+**Euro Slides Against Yen As Bank Of Japan Rate Hike Bets Firm - Bitcoin World**
+`26 Aug 11:35 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_centralbanks
+
+Euro Slides Against Yen As Bank Of Japan Rate Hike Bets Firm Bitcoin World
 
 **Canadian Dollar gives away gains amid lower oil prices, fresh trade tensions**
 `26 Aug 11:24 PKT` · pehli baar dekhi `26 Aug 12:05` · fxstreet_news
@@ -75,10 +80,20 @@ New Zealand Dollar Holds Ground Against Firm US Dollar On RBNZ Rate Hike Bets Bi
 
 ### GOLD
 
+**Silver Price Forecast: XAG/USD rises to near $69.00 ahead of US PCE inflation data**
+`26 Aug 12:42 PKT` · pehli baar dekhi `26 Aug 12:56` · fxstreet_news
+
+Silver price (XAG/USD) extends its gains for the second successive day, trading around $68.80 per troy ounce during the European hours on Wednesday.
+
 **Two Checkpoints in 48 Hours Could Decide Gold and Silver's Next Move**
 `26 Aug 11:10 PKT` · pehli baar dekhi `26 Aug 12:05` · actionforex
 
 Gold and Silver are pausing after a sharp rally, with Wednesday's US data testing the yield channel and Friday's Warsh Jackson Hole speech testing the deeper fiscal-credibility thesis behind the rally itself. The post Two Checkpoints in 48 Hours Could Decide Gold and Silver&#8217;s Next Move appeared first on ActionForex.
+
+**Gold remains firm as PCE data and Fed signals set the next direction - FXStreet**
+`26 Aug 11:02 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_fed
+
+Gold remains firm as PCE data and Fed signals set the next direction FXStreet
 
 **Silver (XAGUSD) Elliott Wave Perspective: Upside Momentum Builds in Wave (5)**
 `26 Aug 10:56 PKT` · pehli baar dekhi `26 Aug 11:03` · actionforex
@@ -140,6 +155,21 @@ Gold Fields flags Ghana licence risk as half-year profit surges KITCO
 
 ### USD
 
+**Bank of Thailand Leaves Policy Rate Unchanged**
+`26 Aug 12:56 PKT` · instaforex
+
+The Bank of Thailand kept its benchmark interest rate unchanged at 1% at its August 2026 meeting, with the decision passed unanimously as the central bank maintained its accommodative stance to support the economic recovery. The Thai economy is projected to grow broadly in line with previous assessments for 2026 and 2027, underpinned by stronger‑than‑expected merchandise exports and private investment associated with the technology and AI cycle.
+
+**US Dollar: Buyback impact stays marginal – BNY**
+`26 Aug 12:29 PKT` · pehli baar dekhi `26 Aug 12:56` · fxstreet_news
+
+BNY's Geoff Yu notes that U.S. cross‑border exposures have stabilized, with Dollar FX hedges broadly unchanged and U.S. equity holdings recovering as risk sentiment improves.
+
+**Hungarian Forint: MNB caution offers modest HUF support - Commerzbank**
+`26 Aug 12:18 PKT` · pehli baar dekhi `26 Aug 12:56` · fxstreet_news
+
+Commerzbank's Tatha Ghose reports that Hungary's central bank, Magyar Nemzeti Bank (MNB), cut its base rate to 5.50% but avoided pre-committing to further easing, stressing that September's Inflation Report will guide policy. The bank will monitor global rate hikes, could limit the scope.
+
 **Bank of Thailand Holds Policy Rate at 1.00% as Markets Await Clearer Economic Signals**
 `26 Aug 12:05 PKT` · instaforex
 
@@ -174,6 +204,11 @@ Whether lower energy prices were part of Scott Bessent's 'asymmetric information
 `26 Aug 11:39 PKT` · pehli baar dekhi `26 Aug 12:05` · fxstreet_news
 
 OCBC Bank strategists Sim Moh Siong and Christopher Wong highlight that lower energy prices have helped pull US and European yields down, supporting a more benign macro backdrop without stoking USD debasement fears.
+
+**Gold remains depressed below $4,650 on firmer USD; looks to US PCE for Fed rate outlook - FXStreet**
+`26 Aug 11:30 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_fed
+
+Gold remains depressed below $4,650 on firmer USD; looks to US PCE for Fed rate outlook FXStreet
 
 **US-Canada Trade War Escalates**
 `26 Aug 11:14 PKT` · pehli baar dekhi `26 Aug 12:05` · actionforex
@@ -220,6 +255,11 @@ The US Dollar Index (DXY), an index of the value of the US Dollar (USD) measured
 
 US Treasury's bond buyback push puts Bessent on a collision course with the Fed Crypto Briefing
   - `26 Aug 09:24` *gnews_fed* — US Treasury's bond buyback push puts Bessent on a collision course with the Fed - TradingView
+
+**Scott Bessent's bond intervention puts US Treasury on collision course with Fed - Financial Times**
+`26 Aug 09:00 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_fed
+
+Scott Bessent's bond intervention puts US Treasury on collision course with Fed Financial Times
 
 **US 10-Year Yield Holds Decline**
 `26 Aug 08:08 PKT` · instaforex
@@ -369,6 +409,44 @@ The Mexican Peso holds firm near 10-year highs against the US Dollar on Tuesday,
 
 ### EUR
 
+**Euro holds above mid-1.1600s vs USD; looks to US PCE data for fresh impetus**
+`26 Aug 12:54 PKT` · pehli baar dekhi `26 Aug 12:56` · fxstreet_news
+
+The EUR/USD pair struggles to capitalize on the previous day's modest bounce from the weekly low, and trades with a negative bias through the early European session on Wednesday.
+
+**Euro wavers within range against British Pound with markets calm and little data**
+`26 Aug 12:19 PKT` · pehli baar dekhi `26 Aug 12:56` · fxstreet_news
+
+The Euro (EUR) edges up for the second consecutive day against the British Pound (GBP) on Wednesday, trading halfway within the monthly range.
+
+**ECB's Schnabel says rates must rise more on resilient economy - The Edge Malaysia**
+`26 Aug 12:19 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_centralbanks
+
+ECB's Schnabel says rates must rise more on resilient economy The Edge Malaysia
+
+**Interest rates must rise further, ECB's Schnabel tells Bloomberg - 104.1 WIKY**
+`26 Aug 12:11 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_centralbanks · **4 feeds mein**
+
+Interest rates must rise further, ECB's Schnabel tells Bloomberg 104.1 WIKY
+  - `26 Aug 10:59` *gnews_centralbanks* — Interest rates must rise further, ECB's Schnabel tells Bloomberg - AOL.com
+  - `26 Aug 10:44` *gnews_centralbanks* — Interest rates must rise further, ECB's Schnabel tells Bloomberg - Reuters
+  - `26 Aug 10:48` *investing_news* — Interest rates must rise further, ECB's Schnabel tells Bloomberg
+
+**Isabel Schnabel sees it as essential that the ECB continues raising interest rates - Demócrata**
+`26 Aug 12:10 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_centralbanks
+
+Isabel Schnabel sees it as essential that the ECB continues raising interest rates Demócrata
+
+**Euro: Holds near 1.1670 against US Dollar as rate moves offset - Danske Bank**
+`26 Aug 12:09 PKT` · pehli baar dekhi `26 Aug 12:56` · fxstreet_news
+
+Danske Research Team reports that EUR/USD remained little changed around 1.1670, with the chart showing only a modest pullback from overnight highs before a partial recovery.
+
+**European stocks drift higher as crude collapse offsets hawkish ECB rate warnings - Investing.com**
+`26 Aug 12:06 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_centralbanks
+
+European stocks drift higher as crude collapse offsets hawkish ECB rate warnings Investing.com
+
 **ECB sets for September rate hike with no appetite to signal more – RTE**
 `26 Aug 12:01 PKT` · pehli baar dekhi `26 Aug 12:05` · fxstreet_news · **2 feeds mein**
 
@@ -385,25 +463,30 @@ United Overseas Bank's (UOB) Quek Ser Leang and Lee Sue Ann report EUR/USD broke
 
 Interest rates must rise further on inflation risks, ECB's Schnabel tells Bloomberg TradingView
 
-**Interest rates must rise further, ECB's Schnabel tells Bloomberg - AOL.com**
-`26 Aug 10:59 PKT` · pehli baar dekhi `26 Aug 12:05` · gnews_centralbanks · **6 feeds mein**
+**Interest rates must rise further, ECB's Schnabel tells Bloomberg By Reuters - Investing.com**
+`26 Aug 10:52 PKT` · pehli baar dekhi `26 Aug 11:03` · gnews_centralbanks
 
-Interest rates must rise further, ECB's Schnabel tells Bloomberg AOL.com
-  - `26 Aug 10:52` *gnews_centralbanks* — Interest rates must rise further, ECB's Schnabel tells Bloomberg By Reuters - Investing.com
-  - `26 Aug 10:44` *gnews_centralbanks* — Interest rates must rise further, ECB's Schnabel tells Bloomberg - Reuters
-  - `26 Aug 10:43` *gnews_centralbanks* — Interest rates must rise further, ECB's Schnabel tells Bloomberg - Yahoo! Finance Canada
-  - `26 Aug 10:43` *gnews_centralbanks* — Interest rates must rise further, ECB's Schnabel tells Bloomberg - marketscreener.com
-  - `26 Aug 10:48` *investing_news* — Interest rates must rise further, ECB's Schnabel tells Bloomberg
+Interest rates must rise further, ECB's Schnabel tells Bloomberg By Reuters Investing.com
 
 **Interest rates must rise further, ECB's Schnabel tells Bloomberg - Global Banking & Finance Review**
 `26 Aug 10:52 PKT` · pehli baar dekhi `26 Aug 11:03` · gnews_centralbanks
 
 Interest rates must rise further, ECB's Schnabel tells Bloomberg Global Banking & Finance Review
 
+**Interest rates must rise further, ECB's Schnabel tells Bloomberg - Yahoo! Finance Canada**
+`26 Aug 10:43 PKT` · pehli baar dekhi `26 Aug 11:03` · gnews_centralbanks
+
+Interest rates must rise further, ECB's Schnabel tells Bloomberg Yahoo! Finance Canada
+
 **ECB's Schnabel says the central bank must act early to prevent second-round effects**
 `26 Aug 10:43 PKT` · pehli baar dekhi `26 Aug 11:03` · investinglive
 
 ECB Executive Board member Isabel Schnabel reiterated the need to act early to prevent inflation from becoming entrenched, warning that second-round effects remain a key risk as price pressures persist across the Eurozone. She noted that inflation is likely to remain above the ECB's 2% target for an extended period, which could eventually feed through into wages and broader inflation. She stressed the importance of keeping inflation expectations firmly anchored.
+
+**Interest rates must rise further, ECB's Schnabel tells Bloomberg - marketscreener.com**
+`26 Aug 10:43 PKT` · pehli baar dekhi `26 Aug 11:03` · gnews_centralbanks
+
+Interest rates must rise further, ECB's Schnabel tells Bloomberg marketscreener.com
 
 **ECB's Schnabel: Inflation likely to top 2% for extended period**
 `26 Aug 10:41 PKT` · pehli baar dekhi `26 Aug 11:03` · fxstreet_news · **2 feeds mein**
@@ -469,6 +552,11 @@ United Overseas Bank's (UOB) Quek Ser Leang and Lee Sue Ann maintain a positive 
 
 The GBP/USD pair trades with a negative bias below mid-1.3600s during the Asian session on Wednesday, eroding a part of the previous day's strong gains.
 
+**Bank of England to keep rate steady despite oil and gas price rebound - AOL.ca**
+`26 Aug 08:17 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_centralbanks
+
+Bank of England to keep rate steady despite oil and gas price rebound AOL.ca
+
 **Pound Sterling Holds Six-Month High as UK Data Calendar Empties - CryptoRank**
 `26 Aug 07:24 PKT` · pehli baar dekhi `26 Aug 09:52` · gnews_fed
 
@@ -480,6 +568,11 @@ Pound Sterling Holds Six-Month High as UK Data Calendar Empties CryptoRank
 GBP/USD trades near 1.3650 late on Tuesday, August 25, up around a tenth of a percent on a session that has covered barely 33 pips between a floor just above 1.3600 and a ceiling a shade over 1.3650.
 
 ### JPY
+
+**British Pound weakens against Japanese Yen amid hawkish BoJ prospects**
+`26 Aug 12:48 PKT` · pehli baar dekhi `26 Aug 12:56` · fxstreet_news
+
+The British Pound (GBP) is under pressure against the Japanese Yen (JPY) on Wednesday, trading 0.22% lower at around 216.85 during the European trading session.
 
 **USD/JPY Price Forecast: 20-day EMA continues to act as key barrier**
 `26 Aug 11:49 PKT` · pehli baar dekhi `26 Aug 12:05` · fxstreet_news
@@ -717,6 +810,11 @@ The Australian Bureau of Statistics (ABS) will publish the July Consumer Price I
 
 ### NZD
 
+**NZD/USD Price Forecast: Dips below 0.5950, fresh weekly low as USD firms ahead of US PCE**
+`26 Aug 12:09 PKT` · pehli baar dekhi `26 Aug 12:56` · fxstreet_news
+
+The NZD/USD pair comes under some renewed selling pressure on Wednesday and drops to a fresh weekly low, around the 0.5945 region during the early European session.
+
 **Preview of RBNZ September 2026 Monetary Policy Statement: Removing a Little Bit of Stimulus**
 `26 Aug 09:57 PKT` · pehli baar dekhi `26 Aug 10:30` · actionforex
 
@@ -733,6 +831,34 @@ NZD/USD depreciates after registering modest gains in the previous day, trading 
 New Zealand Dollar Holds Ground Against Firm US Dollar on RBNZ Rate Hike Bets CryptoRank
 
 ### OIL
+
+**European Shares Edge Higher as Oil Falls**
+`26 Aug 12:56 PKT` · instaforex
+
+European equities inched higher on Wednesday, with both the STOXX 50 and the broader STOXX 600 up about 0.1%, as a drop in oil prices pulled bond yields lower amid optimism that the Strait of Hormuz may soon reopen. Iran said it has resumed talks with Oman on managing traffic through the strait, under intensifying pressure from US President Donald Trump during a nearly six-month conflict that has unsettled oil markets and stoked worries about global inflation.
+
+**Brent: Prices extend sharp decline – Deutsche Bank**
+`26 Aug 12:44 PKT` · pehli baar dekhi `26 Aug 12:56` · fxstreet_news
+
+Deutsche Bank's Early Morning Reid team, including Peter Sidorov and Jim Reid, note that Brent Oil has reversed more than half of its recent 13% rally as Middle East de-escalation headlines weigh on energy markets.
+
+**Brent slips 2% as Hormuz supply fears ease, Fed hike bets persist - Anadolu Ajansı**
+`26 Aug 12:39 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_geopolitics
+
+Brent slips 2% as Hormuz supply fears ease, Fed hike bets persist Anadolu Ajansı
+
+**Iran's Tanker Blacklist Raises New Risks for Gulf Oil**
+`26 Aug 12:30 PKT` · pehli baar dekhi `26 Aug 12:56` · oilprice
+
+Three Indian refining companies and "a global energy major" will stop using tankers included in a black list that Iran issued earlier on Sunday in response to U.S. sanctions, Reuters has reported, citing unnamed sources. The list includes 45 vessels that, according to Tehran, had violated its rules for traversing the Strait of Hormuz. The statement also warned Iran would take action against any of these vessels if they are used to carry cargo via the waterway.
+
+**London's FTSE 100 flat as sinking crude weighs on oil majors**
+`26 Aug 12:10 PKT` · pehli baar dekhi `26 Aug 12:56` · investing_commodities
+
+**Nasdaq Analysis: Two Critical Levels to Watch Around Nvidia Earnings**
+`26 Aug 12:08 PKT` · pehli baar dekhi `26 Aug 12:56` · investinglive
+
+Nasdaq Futures Await Nvidia Earnings: 29,310 and 29,200 Define the Next Move Nasdaq futures are trading inside a narrow decision zone ahead of Nvidia's earnings. A sustained move above 29,310 would activate the bullish scenario and a possible bull flag breakout. A sustained break below 29,200 would strengthen the bearish case. Until either gateway holds, the market may continue rotating between them. Key takeaways for Nasdaq traders and investors today Bullish threshold: 29,310.
 
 **Equities: Tech-led gains with softer Oil – Deutsche Bank**
 `26 Aug 11:47 PKT` · pehli baar dekhi `26 Aug 12:05` · fxstreet_news
@@ -774,6 +900,11 @@ Indian oil companies to avoid Iran-blacklisted vessels amid security risks Busin
 `26 Aug 10:06 PKT` · pehli baar dekhi `26 Aug 11:03` · gnews_geopolitics
 
 Oil prices plunge as US-Iran tensions ease, supply fears fade Yeni Safak English
+
+**Oil plunges 3% as market shrugs off risk of Iranian supply disruptions - idnfinancials.com**
+`26 Aug 10:00 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_geopolitics
+
+Oil plunges 3% as market shrugs off risk of Iranian supply disruptions idnfinancials.com
 
 **Asian stock markets gain as oil extends downfall, eyes on Jackson Hall Symposium**
 `26 Aug 09:52 PKT` · pehli baar dekhi `26 Aug 10:30` · fxstreet_news
@@ -904,6 +1035,21 @@ Oil Extends Declines as Iran, Oman Push Talks to Reopen Hormuz Bloomberg
 
 ### CRYPTO
 
+**Bitcoin ETFs tear through 2026 outflows in 7-day hot streak**
+`26 Aug 12:30 PKT` · pehli baar dekhi `26 Aug 12:56` · cointelegraph
+
+The funds are $390 million short of October 2025's inflow total after cutting their year-to-date net outflow deficit by more than half.
+
+**ECB Commits To September Rate Hike But Stops Short Of Further Guidance - Bitcoin World**
+`26 Aug 12:25 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_centralbanks
+
+ECB Commits To September Rate Hike But Stops Short Of Further Guidance Bitcoin World
+
+**ECB's Schnabel: Inflation Could Stay Above 2% For An Extended Period - Bitcoin World**
+`26 Aug 11:05 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_centralbanks
+
+ECB's Schnabel: Inflation Could Stay Above 2% For An Extended Period Bitcoin World
+
 **Federal Reserve Study Finds Bitcoin's Past Returns Can Increase Crypto Allocation by 47% - HOKANEWS.COM**
 `26 Aug 09:37 PKT` · pehli baar dekhi `26 Aug 11:03` · gnews_fed
 
@@ -923,8 +1069,28 @@ With consensus sitting less than one percent above Nvidia's own guidance midpoin
 
 ### RISK
 
+**US Iran sanctions threaten to deepen Iraq's power crisis - Utilities Middle East**
+`26 Aug 12:30 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_geopolitics
+
+US Iran sanctions threaten to deepen Iraq's power crisis Utilities Middle East
+
+**The RSF's defeat will not end Sudan's war but merely fragment it**
+`26 Aug 12:26 PKT` · pehli baar dekhi `26 Aug 12:56` · aljazeera
+
+Sudanese army&#039;s battlefield gains rely on an armed coalition it may struggle to control once the common enemy is gone.
+
+**Trump threatens Iran's partners: How do secondary sanctions work?**
+`26 Aug 12:18 PKT` · pehli baar dekhi `26 Aug 12:56` · aljazeera
+
+The US has used threats of secondary sanctions, whereby countries trading with a sanctioned country also face sanctions.
+
 **FleetPartners nets $582 mln offer from Sumitomo Corp as bidding war heats up**
 `26 Aug 11:43 PKT` · pehli baar dekhi `26 Aug 12:05` · investing_news
+
+**3 Oil Stocks Retail Investors Are Watching As Iran Sanctions Raise Supply Risks - simplywall.st**
+`26 Aug 11:30 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_geopolitics
+
+3 Oil Stocks Retail Investors Are Watching As Iran Sanctions Raise Supply Risks simplywall.st
 
 **US aluminium market will remain tight despite latest tariff changes**
 `26 Aug 11:25 PKT` · pehli baar dekhi `26 Aug 12:05` · ing_think
@@ -1044,10 +1210,21 @@ Oil settles down more than 3%; investors shrug off US sanctions on Iran The Busi
 
 As Russia remains occupied with its war in Ukraine, Iran focuses on defending its territory against U.S. and Israeli attacks, and China maintains its involvement in both conflicts under the bar that would trigger direct conflict with America, Washington is leveraging its position in Iraq. These efforts by the U.S.
 
-### BINA TAG (80)
+### BINA TAG (92)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `26 Aug 12:48` **investing_news** — Wolfe Research reiterates SpaceX stock rating on launch expansion
+- `26 Aug 12:44` **cointelegraph** — Tornado Cash developer Roman Storm's retrial delayed to April 2027
+- `26 Aug 12:37` **investing_news** — Hochschild Mining profit surges in H1, raises cost guidance; shares climb
+- `26 Aug 12:36` **investing_news** — Nxera to receive $10m milestone as partner's Alzheimer's drug enters phase 2
+- `26 Aug 12:36` **investing_news** — Santander admits 329.8 million shares to London trading
+- `26 Aug 12:26` **wsj_economy** — Thailand Central Bank Holds Rate Steady
+- `26 Aug 12:25` **investing_news** — Torm A earnings missed by $0.05, revenue topped estimates
+- `26 Aug 12:25` **investing_news** — Some Chinese workers see an ally in Brussels as EU trade tensions mount
+- `26 Aug 12:24` **bbc_business** — What will the energy cap changes mean for my bills?
+- `26 Aug 12:23` **investing_news** — Nordic Aqua Q2 2026 slides: record harvest, China premium pricing
+- `26 Aug 12:20` **aljazeera** — Man United's Fernandes, City's Shaw named PFA Players of the Year
 - `26 Aug 11:49` **investing_news** — Couche-Tard launches $8.6 billion Żabka tender offer in its biggest deal yet
 - `26 Aug 11:49` **investing_news** — MPC Container Ships Q2 2026 slides: $2.2bn backlog, fleet renewal
 - `26 Aug 11:48` **investing_news** — JPMorgan downgrades EPAM Systems stock rating on reorganization
@@ -1100,6 +1277,7 @@ As Russia remains occupied with its war in Ukraine, Iran focuses on defending it
 - `26 Aug 06:32` **bbc_business** — Musk's rocket firm SpaceX to build $100bn launch facility
 - `26 Aug 06:21` **gnews_fed** — US New Home Sales Miss Forecasts in July, Signaling Cooling Housing Market - CryptoRank
 - `26 Aug 06:19` **actionforex** — FTSE 100 Index Wave Analysis
+- `26 Aug 06:19` **gnews_fed** — Trump administration moves ahead with efforts to fire Federal Reserve governor Lisa Cook - AOL.ca
 - `26 Aug 05:57` **kitco_general** — OFF-THE-WIRE News - KITCO
 - `26 Aug 05:29` **aljazeera** — Human rights situation in Myanmar 'plummets to new low', UN says
 - `26 Aug 05:27` **wsj_world** — Chinese Court Sentences Artist Who Lampooned Mao
@@ -1131,11 +1309,11 @@ As Russia remains occupied with its war in Ukraine, Iran focuses on defending it
 
 ---
 
-## Shor — 59 khabrein hatai gayin
+## Shor — 62 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (59)
+investing_news (62)
 
 ---
 
@@ -1145,42 +1323,42 @@ investing_news (59)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 21 | 1 | 20 | 4 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 11 | 19 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.1 |
-| actionforex | OK | 20 | 13 | 4 | 9 | 7 | 0.0 |
+| investinglive | OK | 25 | 22 | 1 | 21 | 3 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 9 | 21 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.2 |
+| actionforex | OK | 20 | 13 | 0 | 13 | 7 | 0.0 |
 | marketpulse | OK | 5 | 2 | 0 | 2 | 3 | 0.1 |
-| instaforex | OK | 25 | 25 | 5 | 20 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
+| instaforex | OK | 25 | 25 | 2 | 23 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 2 | 1 | 1 | 34 | 0.0 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 13.1 |
-| kitco_general | OK | 38 | 8 | 1 | 7 | 30 | 0.3 |
-| gnews_fed | OK | 100 | 28 | 1 | 27 | 72 | 0.1 |
-| gnews_geopolitics | OK | 100 | 17 | 3 | 14 | 83 | 0.1 |
-| gnews_centralbanks | OK | 27 | 17 | 5 | 12 | 10 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 0.5 |
+| kitco_general | OK | 36 | 7 | 0 | 7 | 29 | 0.4 |
+| gnews_fed | OK | 100 | 33 | 4 | 29 | 67 | 0.1 |
+| gnews_geopolitics | OK | 100 | 20 | 4 | 16 | 80 | 0.0 |
+| gnews_centralbanks | OK | 32 | 22 | 8 | 14 | 10 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 0.6 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.5 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.0 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 14.8 |
 | boj_whatsnew | OK | 47 | 1 | 0 | 1 | 46 | 0.3 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.9 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.0 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.3 |
-| oilprice | OK | 15 | 3 | 1 | 2 | 12 | 0.0 |
-| investing_commodities | OK | 10 | 9 | 1 | 8 | 1 | 0.0 |
-| ing_think | OK | 10 | 3 | 2 | 1 | 7 | 0.0 |
-| bbc_business | OK | 53 | 9 | 0 | 9 | 44 | 0.0 |
-| aljazeera | OK | 25 | 19 | 2 | 17 | 6 | 0.0 |
+| oilprice | OK | 15 | 4 | 1 | 3 | 11 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| ing_think | OK | 10 | 3 | 0 | 3 | 7 | 0.0 |
+| bbc_business | OK | 53 | 10 | 1 | 9 | 43 | 0.0 |
+| aljazeera | OK | 25 | 22 | 3 | 19 | 3 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 25.9 |
 | eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.7 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 21.8 |
 | wsj_world | OK | 70 | 4 | 0 | 4 | 66 | 0.2 |
-| wsj_markets | OK | 61 | 6 | 0 | 6 | 55 | 0.2 |
+| wsj_markets | OK | 61 | 6 | 0 | 6 | 55 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 0.4 |
-| mw_topstories | OK | 10 | 7 | 0 | 7 | 3 | 0.2 |
-| cointelegraph | OK | 30 | 2 | 0 | 2 | 28 | 0.0 |
+| mw_topstories | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
+| cointelegraph | OK | 30 | 4 | 2 | 2 | 26 | 0.0 |
