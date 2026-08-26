@@ -1,13 +1,16 @@
 # News Pack — Trading Day 26 Aug 2026
 
 - Trading day: **26 Aug 03:00 -> 27 Aug 02:59 PKT**
-- Aakhri update: **26 Aug 14:42 PKT**
-- Kul khabrein: **522**
+- Aakhri update: **26 Aug 15:20 PKT**
+- Kul khabrein: **582**
 - Feeds: 39/39 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**Piero Cipollone: From vision to delivery: building Europe's tokenised financial market**
+`26 Aug 15:15 PKT` · pehli baar dekhi `26 Aug 15:20` · ecb_press
 
 **Services Producer Price Index (July)**
 `26 Aug 04:50 PKT` · pehli baar dekhi `26 Aug 05:01` · boj_whatsnew
@@ -120,6 +123,11 @@ New Zealand Dollar Holds Ground Against Firm US Dollar On RBNZ Rate Hike Bets Bi
 
 ### GOLD
 
+**Gold Price Forecast: XAU/USD corrects to near $4,620 in countdown to US PCE Inflation data**
+`26 Aug 15:12 PKT` · pehli baar dekhi `26 Aug 15:20` · fxstreet_news
+
+Gold price (XAU/USD) is down 0.75% to near $4,620 during the European trading session on Wednesday.
+
 **Silver price today: Silver falls, according to FXStreet data**
 `26 Aug 14:33 PKT` · pehli baar dekhi `26 Aug 14:42` · fxstreet_news
 
@@ -205,6 +213,44 @@ Gold Fields flags Ghana licence risk as half-year profit surges KITCO
 
 ### USD
 
+**Italy's 2-Year CTZ Auction Yield Climbs to 3.02%**
+`26 Aug 15:20 PKT` · instaforex
+
+The yield on Italy's 2-year zero-coupon Treasury certificates (CTZ) rose at the latest auction, with the current indicator reaching 3.020%, up from the previous level of 2.740%. The data was updated on 26 August 2026. The increase in the CTZ yield signals higher short-term borrowing costs for the Italian government, and may reflect shifting market conditions or investor expectations around interest rates and inflation.
+
+**Iceland Producer Inflation Eases from 4-Year High**
+`26 Aug 15:20 PKT` · instaforex
+
+Iceland's producer prices rose by 18.6% year-on-year in July 2026, easing from a four-year high of 19.4% in June. Price growth slowed for metal products (38.9% vs 45.3% in June), food production (3.6% vs 3.9%), products sold domestically (2.0% vs 2.3%), exported products overall (26.9% vs 27.9%), and exported products excluding marine products (29.8% vs 32.0%).
+
+**UK retail sector remains under pressure as CBI survey shows sharp sales decline**
+`26 Aug 15:10 PKT` · pehli baar dekhi `26 Aug 15:20` · investinglive
+
+Full report here The UK retail sector faced worsening trading conditions in August, according to the latest CBI Distributive Trades Survey, as sales volumes fell at their fastest pace in over a year and business sentiment deteriorated further. The CBI's retail sales balance dropped to -48% in August, down sharply from -26% in July. Although sales are still expected to decline in September, firms anticipate the pace of contraction will moderate, with the balance forecast to improve to -22%.
+
+**As Cook case smolders, Trump has other paths to shape Fed policy team - Forth.News**
+`26 Aug 15:08 PKT` · pehli baar dekhi `26 Aug 15:20` · gnews_fed · **2 feeds mein**
+
+As Cook case smolders, Trump has other paths to shape Fed policy team Forth.News
+  - `26 Aug 15:09` *yahoo_finance* — As Cook case smolders, Trump has other paths to shape Fed policy team
+
+**Anxious investors hope for clarity on Warsh's Fed plan at Jackson Hole - Reuters**
+`26 Aug 15:05 PKT` · pehli baar dekhi `26 Aug 15:20` · gnews_fed
+
+Anxious investors hope for clarity on Warsh's Fed plan at Jackson Hole Reuters
+
+**What Investors Are Watching Before The Fed's Key Inflation Report - tippinsights**
+`26 Aug 14:58 PKT` · pehli baar dekhi `26 Aug 15:20` · gnews_fed
+
+What Investors Are Watching Before The Fed's Key Inflation Report tippinsights
+
+**Why Lower Energy Prices Aren't the Inflation Fix Markets Need**
+`26 Aug 14:52 PKT` · pehli baar dekhi `26 Aug 15:20` · yahoo_finance
+
+**Dollar inches higher ahead of US inflation data; Aussie gains on rate bets**
+`26 Aug 14:33 PKT` · pehli baar dekhi `26 Aug 15:20` · yahoo_finance · **2 feeds mein**
+  - `26 Aug 14:24` *investing_news* — Dollar inches higher ahead of US inflation data; Aussie gains on rate bets
+
 **Kevin Warsh faces his biggest audience this week with one question hanging over him: Is inflation high because of one-off shocks such as tariffs and a war, or because the economy is running too hot?**
 `26 Aug 14:30 PKT` · pehli baar dekhi `26 Aug 14:42` · wsj_economy
 
@@ -218,9 +264,6 @@ DBS Group Research economist Philip Wee notes that the DXY Index's recent recove
 **Dollar treads water ahead of PCE; Aussie gains on hot CPI**
 `26 Aug 14:25 PKT` · pehli baar dekhi `26 Aug 14:42` · investing_news
 
-**Dollar inches higher ahead of US inflation data; Aussie gains on rate bets**
-`26 Aug 14:24 PKT` · pehli baar dekhi `26 Aug 14:42` · investing_news
-
 **'Honeymoon's Over': Warsh Under Pressure as Fed Weighs Raising Rates - The New York Times**
 `26 Aug 14:04 PKT` · pehli baar dekhi `26 Aug 14:42` · gnews_fed
 
@@ -230,6 +273,9 @@ DBS Group Research economist Philip Wee notes that the DXY Index's recent recove
 `26 Aug 13:59 PKT` · pehli baar dekhi `26 Aug 14:42` · fxstreet_news
 
 Commerzbank's Volkmar Baur explains how the US Treasury Secretary's vague secondary sanctions comments and falling US yields have left the Dollar stabilizing but vulnerable.
+
+**Stock market today: Dow, S&P 500, Nasdaq futures hold steady ahead of inflation data, Nvidia earnings**
+`26 Aug 13:18 PKT` · pehli baar dekhi `26 Aug 15:20` · yahoo_finance
 
 **Forex Today: US Dollar extends consolidation ahead of key inflation data, Nvidia earnings**
 `26 Aug 13:15 PKT` · pehli baar dekhi `26 Aug 13:54` · fxstreet_news
@@ -321,6 +367,11 @@ OCBC Bank strategists Sim Moh Siong and Christopher Wong highlight that lower en
 `26 Aug 11:30 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_fed
 
 Gold remains depressed below $4,650 on firmer USD; looks to US PCE for Fed rate outlook FXStreet
+
+**Euro Holds Above 1.1650 as Markets Await US PCE Inflation Data - CryptoRank**
+`26 Aug 11:25 PKT` · pehli baar dekhi `26 Aug 15:20` · gnews_fed
+
+Euro Holds Above 1.1650 as Markets Await US PCE Inflation Data CryptoRank
 
 **Gold Holds Firm As PCE Inflation Data And Fed Rate Signals Take Center Stage - Bitcoin World**
 `26 Aug 11:25 PKT` · pehli baar dekhi `26 Aug 13:54` · gnews_fed
@@ -519,6 +570,11 @@ Fed Chairman Kevin Warsh Cut the Fed's Post-Meeting Statement From 341 Words to 
 
 OCBC's Sim Moh Siong and Christopher Wong expect USD/SGD to consolidate as earlier Singapore Dollar (SGD) gains face a modest US Dollar (USD) rebound and position unwinding ahead of United States (US) core Personal Consumption Expenditures (PCE) Price Index data and Jackson Hole.
 
+**The Fed Has Two Hike Numbers Right Now. Almost Everyone Quotes the Wrong One. - GoldSilver**
+`26 Aug 03:19 PKT` · pehli baar dekhi `26 Aug 15:20` · gnews_fed
+
+The Fed Has Two Hike Numbers Right Now. Almost Everyone Quotes the Wrong One. GoldSilver
+
 **PCE price index preview & EUR/USD technical analysis**
 `26 Aug 03:16 PKT` · pehli baar dekhi `26 Aug 03:47` · marketpulse
 
@@ -530,6 +586,21 @@ The upcoming PCE Price Index report, scheduled for release on Wednesday, August 
 The Mexican Peso holds firm near 10-year highs against the US Dollar on Tuesday, as the USD/MXN pair sits below the 16.95 level while investors digest US economic data and recent developments between the US and Iran. The exotic pair trades at 16.94, virtually unchanged.
 
 ### EUR
+
+**ECB September Rate Hike Expected, But Further Tightening Unlikely | Reuters - News and Statistics - IndexBox**
+`26 Aug 15:00 PKT` · pehli baar dekhi `26 Aug 15:20` · gnews_centralbanks
+
+ECB September Rate Hike Expected, But Further Tightening Unlikely | Reuters - News and Statistics IndexBox
+
+**ECB's Schnabel: More Rate Hikes Needed to Curb Inflation | Reuters - News and Statistics - IndexBox**
+`26 Aug 15:00 PKT` · pehli baar dekhi `26 Aug 15:20` · gnews_centralbanks
+
+ECB's Schnabel: More Rate Hikes Needed to Curb Inflation | Reuters - News and Statistics IndexBox
+
+**Schnabel backs further ECB rate rise as September case strengthens - EU Today**
+`26 Aug 14:40 PKT` · pehli baar dekhi `26 Aug 15:20` · gnews_centralbanks
+
+Schnabel backs further ECB rate rise as September case strengthens EU Today
 
 **Hungarian Forint: Recovery tied to euro entry story – ING**
 `26 Aug 14:40 PKT` · pehli baar dekhi `26 Aug 14:42` · fxstreet_news
@@ -762,6 +833,11 @@ GBP/USD trades near 1.3650 late on Tuesday, August 25, up around a tenth of a pe
 
 ### JPY
 
+**Japanese Yen: BoJ hike expectations support JPY against US Dollar – MUFG**
+`26 Aug 15:04 PKT` · pehli baar dekhi `26 Aug 15:20` · fxstreet_news
+
+MUFG's Derek Halpenny notes the Japanese Yen is firmer versus most G10 currencies as markets increasingly price a Bank of Japan rate hike in September.
+
 **Japan got caught in the tech selloff. Now it's time to buy the dip, says strategist.**
 `26 Aug 14:09 PKT` · pehli baar dekhi `26 Aug 14:42` · mw_topstories
 
@@ -937,6 +1013,14 @@ USD/CHF gains ground after posting minor losses, trading around 0.8040 during th
 
 ### CAD
 
+**The $1.5 Trillion Question Nvidia's Earnings Can't Answer**
+`26 Aug 15:11 PKT` · pehli baar dekhi `26 Aug 15:20` · wsj_markets
+
+Plus, Microsoft's cloudy numbers and the impact of Canadian tariffs.
+
+**U.S. Dollar Jumps Against Canadian Dollar Amid Trade Spat**
+`26 Aug 14:54 PKT` · pehli baar dekhi `26 Aug 15:20` · yahoo_finance
+
 **Detroit Needs Canada More Than the Rest of the U.S. Does**
 `26 Aug 14:30 PKT` · pehli baar dekhi `26 Aug 14:42` · wsj_world
 
@@ -971,6 +1055,11 @@ Canada said that it will implement 50% retaliatory tariffs on $20bn worth of US 
 A new economic study and resource update positions it as one of Canada's top undeveloped copper projects by value and capital efficiency.
 
 ### AUD
+
+**Australian Dollar: Watching 0.7200 resistance against US Dollar – UOB**
+`26 Aug 14:55 PKT` · pehli baar dekhi `26 Aug 15:20` · fxstreet_news
+
+United Overseas Bank's (UOB) Quek Ser Leang and Lee Sue Ann note AUD/USD extended its consolidation slightly higher, closing at 0.7165 as short-term momentum improves.
 
 **Australian Dollar remains stronger as CPI YoY climbs in July**
 `26 Aug 13:47 PKT` · pehli baar dekhi `26 Aug 13:54` · fxstreet_news
@@ -1095,6 +1184,11 @@ New Zealand Dollar Holds Ground Against Firm US Dollar on RBNZ Rate Hike Bets Cr
 
 ### OIL
 
+**WTI Oil drops below $80 amid hopes of Hormuz reopening, US-Iran de-escalation**
+`26 Aug 14:57 PKT` · pehli baar dekhi `26 Aug 15:20` · fxstreet_news
+
+Crude prices extend their reversal on Wednesday, with the US benchmark West Texas Intermediate (WTI) trading at the $79.50 area as of writing, highlighting a 9% decline from last week's highs above $87.00.
+
 **Oil Prices Fall as Oman-Iran Talks Raise Hopes for Hormuz Reopening**
 `26 Aug 14:31 PKT` · pehli baar dekhi `26 Aug 14:42` · wsj_world
 
@@ -1166,9 +1260,10 @@ European equities inched higher on Wednesday, with both the STOXX 50 and the bro
 Deutsche Bank's Early Morning Reid team, including Peter Sidorov and Jim Reid, note that Brent Oil has reversed more than half of its recent 13% rally as Middle East de-escalation headlines weigh on energy markets.
 
 **Brent slips 2% as Hormuz supply fears ease, Fed hike bets persist - Anadolu Ajansı**
-`26 Aug 12:39 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_geopolitics
+`26 Aug 12:39 PKT` · pehli baar dekhi `26 Aug 15:20` · gnews_geopolitics · **2 feeds mein**
 
 Brent slips 2% as Hormuz supply fears ease, Fed hike bets persist Anadolu Ajansı
+  - `26 Aug 12:39` *gnews_geopolitics* — Brent slips 2% as Hormuz supply fears ease, Fed hike bets persist - Anadolu Ajansı
 
 **Oil drops 6% in two sessions as Hormuz diplomacy rewrites the risk premium - Invezz**
 `26 Aug 12:30 PKT` · pehli baar dekhi `26 Aug 14:42` · gnews_geopolitics
@@ -1422,13 +1517,24 @@ With consensus sitting less than one percent above Nvidia's own guidance midpoin
 
 ### RISK
 
+**Global Market: ECB may raise rates in September as Iran war fuels inflation concerns: Reports - India IPO**
+`26 Aug 15:17 PKT` · pehli baar dekhi `26 Aug 15:20` · gnews_centralbanks · **2 feeds mein**
+
+Global Market: ECB may raise rates in September as Iran war fuels inflation concerns: Reports India IPO
+  - `26 Aug 14:10` *gnews_centralbanks* — Global Market: ECB may raise rates in September as Iran war fuels inflation concerns: Reports - The Economic Times
+
+**Opinion | The Path to Zero: How the War in Afghanistan Ended**
+`26 Aug 15:09 PKT` · pehli baar dekhi `26 Aug 15:20` · wsj_world
+
+Five years after Kabul fell, WSJ Opinion's new documentary traces the way one decision produced disaster.
+
+**One US dollar now costs 2 million rials in Iran, and here's what it can buy**
+`26 Aug 15:00 PKT` · pehli baar dekhi `26 Aug 15:20` · aljazeera
+
+Sanctions and the US-Israel war on Iran have left the country&#039;s people unable to keep pace with rising prices.
+
 **BHP faces copper price risk as tariff concerns inflate rally**
 `26 Aug 14:20 PKT` · pehli baar dekhi `26 Aug 14:42` · investing_news
-
-**Global Market: ECB may raise rates in September as Iran war fuels inflation concerns: Reports - The Economic Times**
-`26 Aug 14:10 PKT` · pehli baar dekhi `26 Aug 14:42` · gnews_centralbanks
-
-Global Market: ECB may raise rates in September as Iran war fuels inflation concerns: Reports The Economic Times
 
 **Nations Hit By Iran War Suffers Oil Productivity Losses, Accounting For 43% Global Supply - LEADERSHIP Newspapers**
 `26 Aug 14:04 PKT` · pehli baar dekhi `26 Aug 14:42` · gnews_geopolitics
@@ -1442,6 +1548,11 @@ FUNDAMENTAL OVERVIEW Crude oil sold off hard yesterday following reports that Pa
 
 **European gas Slumps 3% as Middle East ceasefire hopes unwind supply risk premium**
 `26 Aug 13:43 PKT` · pehli baar dekhi `26 Aug 13:54` · investing_commodities
+
+**Trump Declares Hormuz Mine-Free as US Unleashes 'Economic D-Day' Sanctions on Iran - streamlinefeed.co.ke**
+`26 Aug 13:23 PKT` · pehli baar dekhi `26 Aug 15:20` · gnews_geopolitics
+
+Trump Declares Hormuz Mine-Free as US Unleashes 'Economic D-Day' Sanctions on Iran streamlinefeed.co.ke
 
 **US Iran sanctions threaten to deepen Iraq's power crisis - Utilities Middle East**
 `26 Aug 12:30 PKT` · pehli baar dekhi `26 Aug 12:56` · gnews_geopolitics
@@ -1585,12 +1696,39 @@ Oil settles down more than 3%; investors shrug off US sanctions on Iran The Busi
 
 As Russia remains occupied with its war in Ukraine, Iran focuses on defending its territory against U.S. and Israeli attacks, and China maintains its involvement in both conflicts under the bar that would trigger direct conflict with America, Washington is leveraging its position in Iraq. These efforts by the U.S.
 
-### BINA TAG (120)
+### BINA TAG (149)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `26 Aug 15:20` **instaforex** — UK Retail Sentiment Slumps as CBI Distributive Trades Balance Falls to -48 in August
+- `26 Aug 15:16` **mw_topstories** — Does a 2% beneficiary inherit 100% if the 98% beneficiary dies in a car accident? Asking for a friend.
+- `26 Aug 15:10` **bbc_business** — Why we should all get used to high household energy bills
+- `26 Aug 15:03` **wsj_world** — The AI Prodigy Who Won Over Silicon Valley—and Lost $45 Billion
+- `26 Aug 15:03` **wsj_markets** — The AI Prodigy Who Won Over Silicon Valley—and Lost $45 Billion
+- `26 Aug 15:01` **yahoo_finance** — Aroundtown Q2 Earnings Call Highlights
+- `26 Aug 15:00` **yahoo_finance** — Mortgage and refinance interest rates today, Wednesday, August 26, 2026: Rates down across the board
+- `26 Aug 15:00` **yahoo_finance** — Investigation into Dodgers owner is a reminder that 'zombie insurers' walk among us — critics warn 'they will blow up'
+- `26 Aug 15:00` **yahoo_finance** — Nvidia earnings could reveal its fastest-growing business isn't chips: Chart of the Day
+- `26 Aug 15:00` **yahoo_finance** — Best CD rates today, Wednesday, August 26, 2026: Earn up to 4.30% APY
+- `26 Aug 15:00` **yahoo_finance** — From $0 to $100,000: Here's the Investing Strategy That Can Get You There
+- `26 Aug 15:00` **mw_topstories** — Two-thirds of parents don't have this vital document they need in case of emergency
+- `26 Aug 14:55` **yahoo_finance** — Nvidia Stock Gains Ahead of Earnings Report
+- `26 Aug 14:53` **yahoo_finance** — Agentic commerce: How AI is becoming retail's new front door
+- `26 Aug 14:53` **yahoo_finance** — Why 'eco-friendly' packaging claims are becoming harder to make
+- `26 Aug 14:53` **yahoo_finance** — EU packaging rules increase compliance burden for cross-border sellers
+- `26 Aug 14:50` **yahoo_finance** — 3 Overlooked Autonomous Vehicle Stocks Investors Should Jump On
+- `26 Aug 14:50` **mw_topstories** — Customers are fleeing TurboTax over price, and Intuit's stock is sliding
+- `26 Aug 14:48` **aljazeera** — At least eight killed as Nepal flash flood damages roads, energy facilities
+- `26 Aug 14:46` **yahoo_finance** — McKesson to acquire Precision Medicine Group for $2.25bn
+- `26 Aug 14:45` **bbc_business** — Energy prices to rise to three-year high
 - `26 Aug 14:42` **instaforex** — Iceland Unemployment Rate Jumps in July
+- `26 Aug 14:42` **investing_news** — Bidcorp FY2026 slides: margins expand as cash flow surges
+- `26 Aug 14:42` **investing_news** — Stadler Rail H1 2026 slides: record revenue growth, shares fall 22%
+- `26 Aug 14:37` **investing_news** — Taiwan president pushes $6.6 billion military drone bill ahead of crucial vote
 - `26 Aug 14:36` **aljazeera** — Ukrainian drone attacks kill 3 as fire destroys Wildberries warehouse
+- `26 Aug 14:35` **yahoo_finance** — 4 reasons Nvidia stock is lagging
+- `26 Aug 14:34` **investing_news** — Aroundtown H1 2026 slides: rental growth steady as debt costs climb
+- `26 Aug 14:30` **investing_news** — Harry and Meghan's media storm shows the power and peril of their brand
 - `26 Aug 14:30` **wsj_markets** — Microsoft Is Leaving Investors Flying Blind on Its AI Businesses
 - `26 Aug 14:25` **investing_news** — Li Auto tops quarterly revenue estimates but issues weak Q3 guidance; shares dip
 - `26 Aug 14:20` **investing_news** — Thailand central bank holds key rate at 1.00% amid weak growth
@@ -1638,6 +1776,7 @@ As Russia remains occupied with its war in Ukraine, Iran focuses on defending it
 - `26 Aug 11:31` **aljazeera** — Serena Williams, Carlos Alcaraz fall in US Open mixed doubles quarterfinal
 - `26 Aug 11:20` **investing_commodities** — Energy prices to rise 4% for UK households from October
 - `26 Aug 11:03` **instaforex** — Singapore Manufacturing Output Growth at 5-Month Low
+- `26 Aug 11:00` **gnews_fed** — Trump's new attempt to seize control of the Federal Reserve, explained - GNN | Latest News
 - `26 Aug 10:53` **investinglive** — Nvidia Earnings Tonight: NVDA Levels and Trade Plan
 - `26 Aug 10:42` **marketpulse** — NVIDIA earnings preview: AI capex, Blackwell ramp and 216.40 bullish breakout hold the key
 - `26 Aug 10:32` **investing_news** — Hyundai Motor shares climb after tentative union deal reached
@@ -1700,6 +1839,7 @@ As Russia remains occupied with its war in Ukraine, Iran focuses on defending it
 - `26 Aug 04:08` **bbc_business** — Back to school: How to save on uniform costs
 - `26 Aug 04:07` **bbc_business** — Winter energy prices expected to rise to three-year high
 - `26 Aug 03:59` **gnews_fed** — Risk Appetite Improves, but US Consumer Data Signals Caution Ahead of Jackson Hole - CryptoRank
+- `26 Aug 03:53` **gnews_geopolitics** — Dow Jones Today: Goldman Supplied 87% of the Latest Gain - The Eastern Herald
 - `26 Aug 03:44` **investing_news** — Waystar names new product chief, promotes commercial head
 - `26 Aug 03:38` **mining_com** — Atomic Eagle claws back Niger uranium project
 - `26 Aug 03:33` **gnews_fed** — Alan Greenspan, Former Federal Reserve Chairman, Dies At 100 Ketanji Brown Jackson Solo Dissents (4RlbqKIeiV) - Mshale
@@ -1712,11 +1852,11 @@ As Russia remains occupied with its war in Ukraine, Iran focuses on defending it
 
 ---
 
-## Shor — 66 khabrein hatai gayin
+## Shor — 70 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (66)
+investing_news (70)
 
 ---
 
@@ -1726,42 +1866,42 @@ investing_news (66)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 24 | 1 | 23 | 1 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 7 | 23 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 4 | 26 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.1 |
 | marketpulse | OK | 5 | 2 | 0 | 2 | 3 | 0.2 |
-| instaforex | OK | 25 | 25 | 2 | 23 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 3 | 1 | 2 | 33 | 0.0 |
+| instaforex | OK | 25 | 25 | 3 | 22 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.0 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 13.2 |
-| kitco_general | OK | 36 | 8 | 0 | 8 | 28 | 0.5 |
-| gnews_fed | OK | 100 | 40 | 4 | 36 | 60 | 0.0 |
-| gnews_geopolitics | OK | 100 | 29 | 6 | 23 | 71 | 0.0 |
-| gnews_centralbanks | OK | 40 | 31 | 6 | 25 | 9 | 0.0 |
+| kitco_general | OK | 37 | 7 | 0 | 7 | 30 | 0.1 |
+| gnews_fed | OK | 100 | 43 | 6 | 37 | 57 | 0.0 |
+| gnews_geopolitics | OK | 100 | 29 | 3 | 26 | 71 | 0.1 |
+| gnews_centralbanks | OK | 43 | 34 | 4 | 30 | 9 | 0.0 |
 | fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 0.7 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.6 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
+| ecb_press | OK | 15 | 1 | 1 | 0 | 14 | 0.0 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 14.9 |
 | boj_whatsnew | OK | 47 | 1 | 0 | 1 | 46 | 0.4 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.1 |
 | mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.4 |
-| oilprice | OK | 15 | 6 | 1 | 5 | 9 | 0.0 |
+| oilprice | OK | 15 | 6 | 0 | 6 | 9 | 0.0 |
 | investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
 | ing_think | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| bbc_business | OK | 53 | 11 | 1 | 10 | 42 | 0.0 |
-| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
+| bbc_business | OK | 53 | 14 | 2 | 12 | 39 | 0.0 |
+| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 26.0 |
 | eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.8 |
 | bea_releases | OK | 47 | 0 | 0 | 0 | 47 | 21.9 |
-| wsj_world | OK | 70 | 7 | 3 | 4 | 63 | 0.0 |
-| wsj_markets | OK | 61 | 9 | 1 | 8 | 52 | 0.0 |
+| wsj_world | OK | 70 | 9 | 2 | 7 | 61 | 0.0 |
+| wsj_markets | OK | 61 | 11 | 2 | 9 | 50 | 0.0 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 48 | 0 | 0 | 0 | 48 | 0.5 |
-| mw_topstories | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 5 | 1 | 4 | 25 | 0.0 |
+| yahoo_finance | OK | 50 | 18 | 18 | 0 | 32 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 5 | 0 | 5 | 25 | 0.1 |
