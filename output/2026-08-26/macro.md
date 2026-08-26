@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 26 Aug 2026
 
-- Banaya gaya: **26 Aug 2026 11:18 PKT**
+- Banaya gaya: **26 Aug 2026 18:18 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
@@ -11,7 +11,7 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| Fed funds target (upper) <br>`DFEDTARU` | **3.75%** | 0.0 | 0.0 | 0.0 | 0 | 2026-08-25 |
+| Fed funds target (upper) <br>`DFEDTARU` | **3.75%** | 0.0 | 0.0 | 0.0 | 0 | 2026-08-26 |
 | US 2Y yield <br>`DGS2` | **4.24%** | 0.0 | +0.05 | -0.07 | 61 | 2026-08-24 |
 | US 10Y yield <br>`DGS10` | **4.70%** | -0.04 | -0.02 | +0.05 | 96 | 2026-08-24 |
 | US 30Y yield <br>`DGS30` | **5.23%** | -0.04 | -0.08 | +0.11 | 99 | 2026-08-24 |
@@ -48,7 +48,7 @@
 |---|---|---|---|---|---|
 | CPI (headline) <br>`CPIAUCSL` | **332.81idx** | +0.07 | +3.54 | 94 | 2026-07-01 |
 | Core CPI <br>`CPILFESL` | **336.79idx** | +0.22 | +2.79 | 97 | 2026-07-01 |
-| Core PCE (Fed ka hadaf) <br>`PCEPILFE` | **130.27idx** | +0.13 | +3.29 | 97 | 2026-06-01 |
+| Core PCE (Fed ka hadaf) <br>`PCEPILFE` | **130.66idx** | +0.25 | +3.34 | 97 | 2026-07-01 |
 | PPI final demand <br>`PPIFIS` | **156.56idx** | -0.03 | +4.66 | 92 | 2026-07-01 |
 
 ---
@@ -70,7 +70,7 @@
 |---|---|---|---|---|---|---|
 | Retail sales <br>`RSAFS` | **763,602$m** | -0.58 | +5.01 |  | 92 | 2026-07-01 |
 | Industrial production <br>`INDPRO` | **102.99idx** | +0.2 | +1.08 |  | 97 | 2026-07-01 |
-| Real GDP <br>`GDPC1` | **24,271$b** |  | +2.1 | +0.37 | - | 2026-04-01 |
+| Real GDP <br>`GDPC1` | **24,270$b** |  | +2.1 | +0.37 | - | 2026-04-01 |
 
 ---
 

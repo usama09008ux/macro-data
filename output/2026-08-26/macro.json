@@ -1,11 +1,11 @@
 {
-  "generated_pkt": "26 Aug 2026 11:18",
+  "generated_pkt": "26 Aug 2026 18:18",
   "trading_day": "2026-08-26",
   "series": {
     "DFEDTARU": {
       "latest": 3.75,
-      "latest_date": "2026-08-25",
-      "n_obs": 1105,
+      "latest_date": "2026-08-26",
+      "n_obs": 1106,
       "changes": {
         "1d": 0.0,
         "5d": 0.0,
@@ -177,12 +177,12 @@
       "percentile": 97
     },
     "PCEPILFE": {
-      "latest": 130.266,
-      "latest_date": "2026-06-01",
-      "n_obs": 35,
+      "latest": 130.658,
+      "latest_date": "2026-07-01",
+      "n_obs": 36,
       "changes": {
-        "MoM %": 0.13,
-        "YoY %": 3.29
+        "MoM %": 0.25,
+        "YoY %": 3.34
       },
       "percentile": 97
     },
@@ -257,7 +257,7 @@
       "percentile": 97
     },
     "GDPC1": {
-      "latest": 24270.599,
+      "latest": 24269.613,
       "latest_date": "2026-04-01",
       "n_obs": 12,
       "changes": {
