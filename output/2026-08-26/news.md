@@ -1,9 +1,9 @@
 # News Pack — Trading Day 26 Aug 2026
 
 - Trading day: **26 Aug 03:00 -> 27 Aug 02:59 PKT**
-- Aakhri update: **27 Aug 15:38 PKT**
-- Kul khabrein: **1448**
-- Feeds: 39/39 OK
+- Aakhri update: **28 Aug 01:46 PKT**
+- Kul khabrein: **1479**
+- Feeds: 35/39 OK
 
 ---
 
@@ -979,6 +979,9 @@ Personal income increased $115.1 billion (0.4 percent at a monthly rate) in July
 `26 Aug 17:30 PKT` · pehli baar dekhi `26 Aug 18:12` · gnews_fed
 
 'Pick a lane': Hostility mounts as Trump's handpicked Fed chair preps for a major first rawstory.com
+
+**Treasury Yields Topped 4.7%. These 7 Dividend Stocks Pay Even More.**
+`26 Aug 17:20 PKT` · pehli baar dekhi `28 Aug 01:46` · yahoo_finance
 
 **Dollar nudges higher ahead of US inflation data; Aussie gains on rate bets - KITCO**
 `26 Aug 17:12 PKT` · pehli baar dekhi `26 Aug 18:12` · kitco_general · **3 feeds mein**
@@ -2744,9 +2747,10 @@ Crude oil prices retreated toward $80 per barrel on Wednesday, extending losses 
 TD Securities' commodity strategists Ryan McKay and Bart Melek note that heavy deal-related headlines around Iran and Oman are influencing energy markets, but they argue Crude Oil fundamentals remain tight.
 
 **India's Russian Oil Imports Slide From Record High as Supply Tightens**
-`26 Aug 17:30 PKT` · pehli baar dekhi `26 Aug 18:12` · oilprice
+`26 Aug 17:30 PKT` · pehli baar dekhi `26 Aug 18:12` · oilprice · **2 feeds mein**
 
 India's crude oil imports from Russia have eased so far this month from July's record high, as Ukrainian attacks on Russian export infrastructure and competition from China for Russia's barrels have dented Indian intake of Moscow's oil. India's imports of Russian oil hit a new all-time high in July and accounted for more than half of total Indian crude oil imports.
+  - `26 Aug 17:30` *yahoo_finance* — India's Russian Oil Imports Slide From Record High as Supply Tightens
 
 **CPC Blend oil exports set at 1.5M bpd for September**
 `26 Aug 17:29 PKT` · pehli baar dekhi `26 Aug 18:12` · investing_commodities
@@ -3788,7 +3792,7 @@ Oil settles down more than 3%; investors shrug off US sanctions on Iran The Busi
 
 As Russia remains occupied with its war in Ukraine, Iran focuses on defending its territory against U.S. and Israeli attacks, and China maintains its involvement in both conflicts under the bar that would trigger direct conflict with America, Washington is leveraging its position in Iraq. These efforts by the U.S.
 
-### BINA TAG (518)
+### BINA TAG (547)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -3874,6 +3878,7 @@ As Russia remains occupied with its war in Ukraine, Iran focuses on defending it
 - `26 Aug 22:28` **mining_com** — Clean tech startup scores $35M funding for new aluminum-based energy system
 - `26 Aug 22:27` **aljazeera** — Prince Harry and Meghan Markle return to UK after royal rift
 - `26 Aug 22:15` **gnews_fed** — DOJ seizes domains used by Chinese hackers to breach NASA, Federal Reserve - qz.com
+- `26 Aug 22:15` **yahoo_finance** — Cathie Wood bets on 'disrupter' stock with bullish analyst call
 - `26 Aug 22:09` **gnews_fed** — U.S. Government Says Chinese Hackers Hit the Federal Reserve, DOJ, Senate and NASA - TMZ
 - `26 Aug 22:09` **gnews_fed** — US Disrupts Chinese Hacking Operation Targeting Justice Department, NASA and Federal Reserve - Arise News
 - `26 Aug 22:07` **aljazeera** — At least 50 injured as fireworks explode into crowd at Spanish festival
@@ -4039,21 +4044,49 @@ As Russia remains occupied with its war in Ukraine, Iran focuses on defending it
 - `26 Aug 17:44` **investing_news** — Imunon to host R&D day on phase 3 ovarian cancer trial
 - `26 Aug 17:44` **investing_news** — FibroBiologics regains Nasdaq bid price compliance
 - `26 Aug 17:44` **aljazeera** — Deadly flash floods sweep through northern Nepal
+- `26 Aug 17:43` **yahoo_finance** — Is Wall Street Bullish or Bearish on Charles River Laboratories Stock?
 - `26 Aug 17:36` **aljazeera** — CCTV captures terrifying mudslide engulfing Nepal-China border
 - `26 Aug 17:35` **wsj_world** — Foreign Tourists Among Hundreds Missing After Flash Floods in Nepal and Tibet
 - `26 Aug 17:35` **yahoo_finance** — Jim Cramer names 4 'indispensable' memory stocks he says investors 'can't afford' to skip as AI demand soars
+- `26 Aug 17:33` **yahoo_finance** — Do Wall Street Analysts Like Martin Marietta Materials Stock?
+- `26 Aug 17:32` **yahoo_finance** — Soybeans Posting Early Wednesday Strength
+- `26 Aug 17:32` **yahoo_finance** — Corn Closing in on 3-year Highs
+- `26 Aug 17:30` **yahoo_finance** — Gartner Stock: Is Wall Street Bullish or Bearish?
 - `26 Aug 17:30` **mw_topstories** — The renter generation: Young Americans, shut out of homeownership, brace to rent forever
+- `26 Aug 17:30` **yahoo_finance** — Intuit Inc. Q4 2026 Earnings Call Summary
+- `26 Aug 17:30` **yahoo_finance** — Electromed, Inc. Q4 2026 Earnings Call Summary
+- `26 Aug 17:30` **yahoo_finance** — Semtech Corporation Q2 2027 Earnings Call Summary
+- `26 Aug 17:30` **yahoo_finance** — Williams-Sonoma, Inc. Q2 2027 Earnings Call Summary
+- `26 Aug 17:30` **yahoo_finance** — SCHMID Group N.V. Class A Ordinary Shares Q2 2026 Earnings Call Summary
+- `26 Aug 17:30` **yahoo_finance** — Zoom Communications, Inc. Q2 2027 Earnings Call Summary
+- `26 Aug 17:30` **yahoo_finance** — nCino, Inc. Q2 2027 Earnings Call Summary
+- `26 Aug 17:30` **yahoo_finance** — Strattec Security Corporation Q4 2026 Earnings Call Summary
 - `26 Aug 17:24` **aljazeera** — When is the Champions League draw, which teams are in, and what are the dates?
+- `26 Aug 17:23` **yahoo_finance** — What Are Wall Street Analysts' Target Price for Packaging Corporation of America Stock?
 - `26 Aug 17:22` **aljazeera** — Photos: Avalanche floods kill eight, hundreds missing in Nepal's Himalayas
+- `26 Aug 17:22` **yahoo_finance** — Vanguard Buys Wealth Management Platform Altruist in $4 Billion Deal
+- `26 Aug 17:20` **yahoo_finance** — OpenAI head of data centers Chris Malone exits amid departures
+- `26 Aug 17:20` **yahoo_finance** — Billionaire Bill Ackman Just Sold Alphabet and Bought These 2 Beaten-Down Artificial Intelligence (AI) Stocks
+- `26 Aug 17:20` **yahoo_finance** — Main Street Capital Has Paid a $0.30 Supplemental Dividend Every Quarter This Year on Top of a Rising Monthly Dividend
+- `26 Aug 17:17` **yahoo_finance** — Are Wall Street Analysts Bullish on Zebra Technologies Stock?
+- `26 Aug 17:16` **yahoo_finance** — Oracle's historic stock rout could be a buying opportunity
 - `26 Aug 17:16` **mw_topstories** — Wall Street's biggest optimist says he 'wouldn't jump into the AI trade right now'
+- `26 Aug 17:16` **yahoo_finance** — Wall Street's biggest optimist says he 'wouldn't jump into the AI trade right now'
+- `26 Aug 17:16` **yahoo_finance** — Nvidia Q2 Earnings & Jackson Hole Set to Test Stocks: What Investors Need to Know
 - `26 Aug 17:15` **yahoo_finance** — Warren Buffett is 'still in the game': The Omaha Oracle may be making more Berkshire investment decisions than you think
+- `26 Aug 17:13` **yahoo_finance** — Intuit's earnings miss is largely an accounting illusion, but the revenue slowdown is real
 - `26 Aug 17:12` **gnews_geopolitics** — Douglas Cohn and Eleanor Clift: Trump attempts to defy law of supply and demand - NewsBreak: Local News & Alerts
+- `26 Aug 17:09` **yahoo_finance** — Are Wall Street Analysts Predicting IDEXX Laboratories Stock Will Climb or Sink?
 - `26 Aug 17:07` **gnews_centralbanks** — The Delicate Equilibrium Of The £1.7 Trillion Pound Housing Market #bankofengland #timeismoney Real Betis - Elche C. F. (XV86fU2bZE) - Mshale
 - `26 Aug 17:04` **aljazeera** — Dead whale washes ashore on beach in Mexico
+- `26 Aug 17:01` **yahoo_finance** — Regeneron Pharmaceuticals Stock Outlook: Is Wall Street Bullish or Bearish?
 - `26 Aug 17:00` **investing_commodities** — Devastating flash flood on Nepal-Tibet border kills nine, hundreds of tourists missing
+- `26 Aug 17:00` **yahoo_finance** — Quantum Stocks Looked Like Nvidia in 2019. Then They Belly-Flopped 50%.
 - `26 Aug 17:00` **yahoo_finance** — This Industrial Leader's Sails Catch AI, Energy, Other Tailwinds
 - `26 Aug 17:00` **cointelegraph** — Taurus links digital asset platforms to Swift's blockchain ledger
+- `26 Aug 16:56` **yahoo_finance** — Is Wall Street Bullish or Bearish on Ralph Lauren's Stock?
 - `26 Aug 16:53` **yahoo_finance** — Berries supplier Driscoll's names new CEO
+- `26 Aug 16:51` **yahoo_finance** — Do Wall Street Analysts Like Arthur J. Gallagher Stock?
 - `26 Aug 16:50` **yahoo_finance** — Morning Minute: LayerZero Announces ATLAS as New Settlement Engine
 - `26 Aug 16:49` **yahoo_finance** — Why Is Intuit Stock Tumbling After a Strong Quarter?
 - `26 Aug 16:45` **yahoo_finance** — Jim Cramer calls Nvidia earnings a referendum on AI trade
@@ -4329,40 +4362,46 @@ investing_news (86), yahoo_finance (3)
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
 | fxstreet_news | OK | 30 | 30 | 30 | 0 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 3 | 1 | 2 | 27 | 0.3 |
-| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.0 |
-| marketpulse | OK | 5 | 2 | 0 | 2 | 3 | 1.2 |
+| fxstreet_analysis | OK | 30 | 6 | 3 | 3 | 24 | 0.1 |
+| actionforex | OK | 20 | 20 | 11 | 9 | 0 | 0.2 |
+| marketpulse | OK | 5 | 3 | 1 | 2 | 2 | 0.4 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 9 | 6 | 3 | 27 | 0.0 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.7 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.8 |
-| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.6 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 14.2 |
-| kitco_general | OK | 31 | 31 | 1 | 30 | 0 | 0.6 |
-| gnews_fed | OK | 100 | 100 | 52 | 48 | 0 | 0.0 |
-| gnews_geopolitics | OK | 72 | 72 | 36 | 36 | 0 | 0.0 |
-| gnews_centralbanks | OK | 36 | 36 | 25 | 11 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 21.6 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 1.0 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 15.9 |
-| boj_whatsnew | OK | 48 | 2 | 1 | 1 | 46 | 0.4 |
-| rba_media | OK | 1 | 1 | 1 | 0 | 0 | 0.3 |
-| mining_com | OK | 36 | 11 | 0 | 11 | 25 | 0.5 |
-| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| ing_think | OK | 10 | 9 | 3 | 6 | 1 | 0.0 |
-| bbc_business | OK | 53 | 24 | 2 | 22 | 29 | 0.0 |
+| wsj_economy | OK | 36 | 11 | 4 | 7 | 25 | 0.1 |
+| cme_metals_video | OK | 10 | 4 | 2 | 2 | 6 | 0.1 |
+| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
+| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
+| cme_energy_video | OK | 10 | 3 | 1 | 2 | 7 | 0.0 |
+| cme_daily_commentary | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 14.7 |
+| kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_fed | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_geopolitics | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_centralbanks | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 22.0 |
+| ecb_press | OK | 15 | 2 | 1 | 1 | 13 | 0.4 |
+| boe_news | OK | 50 | 1 | 1 | 0 | 49 | 0.3 |
+| boj_whatsnew | OK | 48 | 2 | 0 | 2 | 46 | 0.8 |
+| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 0.7 |
+| mining_com | OK | 36 | 17 | 6 | 11 | 19 | 0.1 |
+| oilprice | OK | 15 | 15 | 15 | 0 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 1 | 9 | 0 | 0.4 |
+| bbc_business | OK | 54 | 29 | 5 | 24 | 25 | 0.0 |
 | aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
 | snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 27.0 |
-| eia_energy | OK | 20 | 1 | 0 | 1 | 19 | 0.9 |
-| bea_releases | OK | 48 | 2 | 0 | 2 | 46 | 0.9 |
-| wsj_world | OK | 73 | 22 | 4 | 18 | 51 | 0.0 |
-| wsj_markets | OK | 61 | 30 | 13 | 17 | 31 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 27.5 |
+| eia_energy | OK | 20 | 1 | 0 | 1 | 19 | 1.3 |
+| bea_releases | OK | 48 | 2 | 0 | 2 | 46 | 1.3 |
+| wsj_world | OK | 73 | 30 | 9 | 21 | 43 | 0.0 |
+| wsj_markets | OK | 61 | 37 | 14 | 23 | 24 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 31 | 24 | 7 | 18 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 25 | 7 | 18 | 5 | 0.0 |
+| yahoo_finance | OK | 50 | 42 | 32 | 10 | 8 | 0.2 |
+| mw_topstories | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 11 | 19 | 0 | 0.0 |
+
+**Jo feeds nahi aaye:**
+- kitco_general — FAIL, HTTP 503
+- gnews_fed — FAIL, HTTP 503
+- gnews_geopolitics — FAIL, HTTP 503
+- gnews_centralbanks — FAIL, HTTP 503
