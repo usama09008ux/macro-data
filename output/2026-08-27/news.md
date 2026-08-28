@@ -1,13 +1,38 @@
 # News Pack — Trading Day 27 Aug 2026
 
 - Trading day: **27 Aug 03:00 -> 28 Aug 02:59 PKT**
-- Aakhri update: **28 Aug 01:46 PKT**
-- Kul khabrein: **572**
-- Feeds: 35/39 OK
+- Aakhri update: **28 Aug 09:55 PKT**
+- Kul khabrein: **771**
+- Feeds: 39/39 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**Live Cattle futures rebound from 2026 lows. 8/27/26**
+`28 Aug 02:14 PKT` · pehli baar dekhi `28 Aug 09:55` · cme_daily_commentary
+
+October Live Cattle futures settled sharply higher on Thursday, recovering from new 2026 lows set during Wednesday's session. The Relative Strength Index moved to 32%, rising out of oversold territory after dipping to 25% earlier in the week. While technical indicators point to a potential correction within the downward-trending channel, market participants continue to evaluate whether the move signals a lasting bottom. In the cash market, cattle prices fell $4 to $7 lower on the week.
+
+**Euro FX futures hold near 1.1650 as CVOL ticks higher.**
+`28 Aug 02:11 PKT` · pehli baar dekhi `28 Aug 09:55` · cme_fx_video
+
+Euro FX futures traded near unchanged on Thursday, hovering around the 1.1650 level after drifting lower from last week's highs above 1.17. The market continues to take its cues from U.S. Dollar strength, even as expectations remain for a 25 bps rate hike from the European Central Bank next month. Volatility steadily edged higher throughout the week, reflected in the CVOL index, as traders position themselves for the Jackson Hole economic symposium.
+
+**Nasdaq-100 futures surge 1.5% as Nvidia earnings lift tech sector.**
+`28 Aug 02:11 PKT` · pehli baar dekhi `28 Aug 09:55` · cme_daily_commentary
+
+Nasdaq-100 futures rallied 1.5% on Thursday, supported by a 9% surge in Nvidia following strong earnings and an optimistic revenue forecast. The bullish sentiment rippled through the semiconductor sector, lifting companies like Broadcom and Intel. Meanwhile, E-mini S&P 500 futures gained 0.5% amid sticky inflation data, as the PCE index ticked up 0.2% month-over-month. Market participants remain focused on Friday's Jackson Hole address from Kevin Warsh for monetary policy cues.
+
+**10-Year T-Note futures drift to middle of range ahead of Powell speech.**
+`28 Aug 02:10 PKT` · pehli baar dekhi `28 Aug 09:55` · cme_rates_video
+
+10-Year T-Note futures traded slightly lower on Thursday, slipping to 108'19 to settle near the middle of the month's 108-to-109 range. The contract is seeing active rolling from September to December as expiration approaches. Markets digested weekly jobless claims that printed slightly above 200,000, aligning with expectations, alongside inline PCE data from earlier in the week. The 10-Year yield ticked up to 4.675%, gaining roughly one basis point on the session.
+
+**Soybean futures rebound as new crop export sales surge.**
+`28 Aug 02:10 PKT` · pehli baar dekhi `28 Aug 09:55` · cme_daily_commentary
+
+November Soybean futures closed slightly higher on Thursday, recovering 17'2 off intraday lows after pulling back early in the session. Technical indicators show the contract approaching overbought territory with the Relative Strength Index at 71%, as prices trade near the upper resistance level of a multi-month trend channel established in January. Fundamentally, market focus remains on trade activity with China and Midwest weather conditions. Total U.S.
 
 **Natural Gas futures clear 50-day moving average amid heat wave.**
 `28 Aug 00:58 PKT` · pehli baar dekhi `28 Aug 01:46` · cme_energy_video
@@ -81,6 +106,11 @@ Headlines: Gold bulls on edge ahead of Fed Chair Warsh speech at Jackson Hole US
 
 Inflation expectations currently remained well anchored for the medium-term But high short-term inflation expectations had continued to persist since the outbreak of the war Against this background, members concluded that the risks to the inflation outlook were to the upside The longer energy prices stayed high, the more likely they were to drive up broader inflation through indirect and second-round effects Members widely agreed that the incoming information had been broadly consistent with ...
 
+**Bank of Japan deputy chief calls for timely rate hike to address inflation risk - Crypto Briefing**
+`27 Aug 16:09 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+Bank of Japan deputy chief calls for timely rate hike to address inflation risk Crypto Briefing
+
 **Euro Slips From Three-Month Highs**
 `27 Aug 15:38 PKT` · instaforex
 
@@ -153,6 +183,21 @@ UBS is treating dollar weakness as a structural theme rather than a short-term w
 
 ### GOLD
 
+**NY Crude Rebounds After 4-Day Slide as U.S.-Iran Talks Stall, Reigniting Supply Concerns; Gold Also Higher - finance.biggo.com**
+`28 Aug 01:55 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+NY Crude Rebounds After 4-Day Slide as U.S.-Iran Talks Stall, Reigniting Supply Concerns; Gold Also Higher finance.biggo.com
+
+**Forget $10,000 gold, the trend is higher until governments fix their debt – John LaForge - KITCO**
+`28 Aug 01:22 PKT` · pehli baar dekhi `28 Aug 09:55` · kitco_general
+
+Forget $10,000 gold, the trend is higher until governments fix their debt – John LaForge KITCO
+
+**Gold bulls still in control as market holds well above key support - Forex.com's Razaqzada - KITCO**
+`28 Aug 00:07 PKT` · pehli baar dekhi `28 Aug 09:55` · kitco_general
+
+Gold bulls still in control as market holds well above key support - Forex.com's Razaqzada KITCO
+
 **Cabral Gold hits new zone in Brazil before output starts**
 `28 Aug 00:01 PKT` · pehli baar dekhi `28 Aug 01:46` · mining_com
 
@@ -168,6 +213,11 @@ Spot Gold changed course mid-Thursday, trading around $4,610 during the American
 
 Gold (XAU/USD) drifts higher on Thursday, up 0.25% after US jobs data was solid, while the trade deficit widened the most since US President Donald Trump's "Liberation Day." Also, falling US Treasury yields and muted price action as investors eye Federal Reserve (Fed) Chair Kevin Warsh's speech keep
 
+**'The math is on gold's side': Larry Lepard sees rising debt forcing currency debasement - KITCO**
+`27 Aug 22:23 PKT` · pehli baar dekhi `28 Aug 09:55` · kitco_general
+
+'The math is on gold's side': Larry Lepard sees rising debt forcing currency debasement KITCO
+
 **Silver charges toward $70, but Warsh could cool rally**
 `27 Aug 22:07 PKT` · pehli baar dekhi `28 Aug 01:46` · fxstreet_news
 
@@ -178,15 +228,41 @@ Silver (XAG/USD) accelerates on Thursday and trades around $69.50 at the time of
 
 Find insight on gold futures, South32, Mineral Resources and more in the latest Market Talks covering Basic Materials.
 
+**Gold steady as investors await speech by Fed's Warsh for policy outlook - KITCO**
+`27 Aug 21:49 PKT` · pehli baar dekhi `28 Aug 09:55` · kitco_general
+
+Gold steady as investors await speech by Fed's Warsh for policy outlook KITCO
+
 **Finnvera to finance up to $132M in Troilus gold-copper project**
 `27 Aug 21:43 PKT` · pehli baar dekhi `28 Aug 01:46` · mining_com
 
 The export credit agency sent a letter of interest to Troilus to support equipment acquisition for the project.
 
+**'Gold is a clear beneficiary of de-dollarization… and we think it can continue to climb' – UBS - KITCO**
+`27 Aug 21:12 PKT` · pehli baar dekhi `28 Aug 09:55` · kitco_general
+
+'Gold is a clear beneficiary of de-dollarization… and we think it can continue to climb' – UBS KITCO
+
 **Boliden's $1.3B Nexa buy adds South American zinc, silver**
 `27 Aug 19:31 PKT` · pehli baar dekhi `28 Aug 01:46` · mining_com
 
 Boliden will acquire approximately 65% of Nexa Resources, and give Votorantim 7% of Boliden.
+
+**Gold steadies near $4,590 as claims dip, Fed hike risk stays live - Kitco AM Report - KITCO**
+`27 Aug 18:22 PKT` · pehli baar dekhi `28 Aug 09:55` · kitco_general
+
+Gold steadies near $4,590 as claims dip, Fed hike risk stays live - Kitco AM Report KITCO
+
+**Gold approaches $4,600/oz after U.S. weekly jobless claims fall to 203k - KITCO**
+`27 Aug 17:39 PKT` · pehli baar dekhi `28 Aug 09:55` · kitco_general
+
+Gold approaches $4,600/oz after U.S. weekly jobless claims fall to 203k KITCO
+
+**Silver prices today, Thursday, August 27, 2026: Silver prices steady following inflation report**
+`27 Aug 17:30 PKT` · pehli baar dekhi `28 Aug 09:55` · yahoo_finance
+
+**Gold prices today, Thursday, August 27, 2026: Prices pull back after PCE report, ahead of Warsh speech**
+`27 Aug 17:13 PKT` · pehli baar dekhi `28 Aug 09:55` · yahoo_finance
 
 **Gold eases as traders await clearer signals on the Fed interest rate path**
 `27 Aug 16:15 PKT` · pehli baar dekhi `28 Aug 01:46` · fxstreet_news
@@ -253,6 +329,36 @@ Gold price (XAU/USD) falls to near $4,610 during the early Asian session on Thur
 
 ### USD
 
+**Mexican Peso edges lower as solid US jobs boost the USD**
+`28 Aug 02:23 PKT` · pehli baar dekhi `28 Aug 09:55` · fxstreet_news
+
+The Mexican Peso (MXN) loses ground modestly against the US Dollar (USD) on Thursday after economic data in the United States showed that the jobs market is solid, while inflation remains above the Federal Reserve's (Fed) 2% goal.
+
+**Recap: Fed officials flag inflation risks in run-up to Warsh's Jackson Hole debut**
+`28 Aug 02:19 PKT` · pehli baar dekhi `28 Aug 09:55` · investinglive
+
+Thursday's remarks did little to resolve the market's core uncertainty heading into Friday, namely whether the Fed leans toward a September hike or continues to hold. Hammack's (and more here) explicit call to act sits at odds with Schmid's reluctance to commit and Goolsbee's more balanced, watchful tone, while Collins added a note of relative reassurance by attributing part of the hot headline print to technical factors rather than genuine demand pressure.
+
+**Federal Reserve Warsh - TelegraphHerald.com**
+`28 Aug 02:11 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Federal Reserve Warsh TelegraphHerald.com
+
+**Trading Day: Tech on a tear, attention Fed chair - The Lufkin Daily News**
+`28 Aug 02:04 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Trading Day: Tech on a tear, attention Fed chair The Lufkin Daily News
+
+**Fed Chair Warsh Speaks at the Federal Reserve Bank of Kansas City - C-SPAN**
+`28 Aug 01:47 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Fed Chair Warsh Speaks at the Federal Reserve Bank of Kansas City C-SPAN
+
+**South Korean Won: Rate hikes and undervaluation support KRW – BNY**
+`28 Aug 01:47 PKT` · pehli baar dekhi `28 Aug 09:55` · fxstreet_news
+
+BNY's Geoff Yu highlights that the Bank of Korea's 25bp hike to 3.00% and upgraded growth and inflation forecasts underline ongoing tightening risks. Robust exports and investment are supporting the economy, though stronger demand could fuel inflation and household debt.
+
 **Fed Balance Sheet Edges Lower to $6.731 Trillion, Signaling Ongoing Quantitative Tightening**
 `28 Aug 01:46 PKT` · instaforex
 
@@ -283,6 +389,16 @@ US equity indices advanced on Thursday, driven by strong results from Nvidia tha
 
 The yield on the U.S. 7-year Treasury note in the latest auction rose to 4.512%, edging up from the previous auction's 4.473%. The updated figure was recorded on August 27, 2026. This increase signals a modest rise in the government's borrowing cost for 7-year debt compared with the prior sale. While the move is incremental, shifts in auction yields are closely watched by investors as a gauge of prevailing market appetite for U.S.
 
+**Warsh Faces Crucial Test With Wall Street at Jackson Hole Gathering - Bloomberg**
+`28 Aug 01:37 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Warsh Faces Crucial Test With Wall Street at Jackson Hole Gathering Bloomberg
+
+**Fed's Collins: Latest PCE Data Doesn't Change Restrictive Policy View - CryptoRank**
+`28 Aug 01:34 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Fed's Collins: Latest PCE Data Doesn't Change Restrictive Policy View CryptoRank
+
 **U.S. 8-Week Bill Auction Yield Edges Higher to 3.670%**
 `28 Aug 01:30 PKT` · pehli baar dekhi `28 Aug 01:46` · instaforex
 
@@ -297,6 +413,21 @@ The yield on the U.S. 4-week Treasury bill inched higher to 3.650%, up from the 
 `28 Aug 01:28 PKT` · pehli baar dekhi `28 Aug 01:46` · fxstreet_news
 
 OCBC Bank strategists Sim Moh Siong and Christopher Wong note that USD/SGD traded slightly firmer as resilient US data halted US Dollar downside pressure, though the pair remains subdued and rangebound ahead of Chair Warsh's Jackson Hole speech.
+
+**Fed's Warsh under pressure to clarify message in highly anticipated Jackson Hole speech - Axios**
+`28 Aug 01:26 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Fed's Warsh under pressure to clarify message in highly anticipated Jackson Hole speech Axios
+
+**TAG: long-term bond yields - KITCO**
+`28 Aug 01:24 PKT` · pehli baar dekhi `28 Aug 09:55` · kitco_general
+
+TAG: long-term bond yields KITCO
+
+**Fed's Hammack tells Fox Business inflation likely to ease slowly - KITCO**
+`28 Aug 01:14 PKT` · pehli baar dekhi `28 Aug 09:55` · kitco_general
+
+Fed's Hammack tells Fox Business inflation likely to ease slowly KITCO
 
 **Kansas Fed Manufacturing Activity Stays Strong**
 `28 Aug 01:14 PKT` · pehli baar dekhi `28 Aug 01:46` · instaforex
@@ -313,35 +444,76 @@ The Kansas City Federal Reserve's Manufacturing Index for the United States rema
 
 The Kansas City Federal Reserve's Composite Index for the United States inched up in August 2026, pointing to a modest improvement in regional economic activity. The indicator rose to 10 in August from 9 in July 2026, according to data updated on 27 August 2026. While the one-point gain is small, the move suggests that conditions in the district continued to strengthen over the late summer period.
 
+**Lisa Cook's lawyers say Trump has no legal grounds to remove her from Fed board - The American Bazaar**
+`28 Aug 00:47 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Lisa Cook's lawyers say Trump has no legal grounds to remove her from Fed board The American Bazaar
+
 **Thai Baht: Consolidation expected in defined range against US Dollar – Commerzbank**
 `28 Aug 00:19 PKT` · pehli baar dekhi `28 Aug 01:46` · fxstreet_news
 
 Commerzbank FX Analyst Charlie Lay reports USD/THB has eased from around 33.90 in late July to about 32.70, helped by a softer Dollar.
+
+**Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect - CNBC**
+`28 Aug 00:00 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect CNBC
 
 **South Korean Won: Undervalued currency backed by BoK hikes – BBH**
 `27 Aug 23:58 PKT` · pehli baar dekhi `28 Aug 01:46` · fxstreet_news
 
 Brown Brothers Harriman's (BBH) Elias Haddad highlights USD/KRW near a one‑year low after the Bank of Korea (BoK) delivered a back‑to‑back 25bps hike to 3.00%.
 
+**K.C. Fed's Schmid Favors and Has Been Favoring Rate Hike, Data to Determine Policy Now - Kathleen Hays Presents: Central Bank Central**
+`27 Aug 23:56 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+K.C. Fed's Schmid Favors and Has Been Favoring Rate Hike, Data to Determine Policy Now Kathleen Hays Presents: Central Bank Central
+
+**Federal Reserve Watch for Aug. 27: FOMC Should Act Now to Lower Inflation, Hammack Says - marketscreener.com**
+`27 Aug 23:55 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Federal Reserve Watch for Aug. 27: FOMC Should Act Now to Lower Inflation, Hammack Says marketscreener.com
+
+**As Jackson Hole conference kicks off, three Fed officials issue inflation warnings - Reuters**
+`27 Aug 23:54 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+As Jackson Hole conference kicks off, three Fed officials issue inflation warnings Reuters
+
+**Fed governor's lawyer rejects Trump's second attempt to oust her over mortgage fraud - qz.com**
+`27 Aug 23:52 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Fed governor's lawyer rejects Trump's second attempt to oust her over mortgage fraud qz.com
+
 **Chinese Yuan: Measured RMB appreciation with two-way risks – OCBC**
 `27 Aug 23:37 PKT` · pehli baar dekhi `28 Aug 01:46` · fxstreet_news
 
 OCBC Bank strategists Sim Moh Siong and Christopher Wong highlight that USD/CNH has edged higher alongside a broader US Dollar (USD) rebound and firmer US Treasury yields, while the People's Bank of China (PBoC) continues to prefer a gradual appreciation path.
+
+**Jackson Hole Day One: Hawks Warn Fed Rate Not Restricting Economy Before Warsh Speaks - Tech Times**
+`27 Aug 23:34 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Jackson Hole Day One: Hawks Warn Fed Rate Not Restricting Economy Before Warsh Speaks Tech Times
 
 **Fed's Collins says PCE does not change restrictive policy view**
 `27 Aug 23:33 PKT` · pehli baar dekhi `28 Aug 01:46` · fxstreet_news
 
 Boston Federal Reserve (Fed) President Susan Collins crossed the wires on Thursday as the Jackson Hole Symposium began. She said that the recent PCE inflation report does not change the view that policy is restrictive and will lead to gradual disinflation.
 
-**How will stocks perform when the Fed chair speaks at Jackson Hole? Here's what history tells us.**
-`27 Aug 23:31 PKT` · pehli baar dekhi `28 Aug 01:46` · mw_topstories
+**How will stocks perform when the Fed chair speaks at Jackson Hole? Here's what history tells us. - MarketWatch**
+`27 Aug 23:31 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed · **2 feeds mein**
 
-Kevin Warsh is due to deliver his first Jackson Hole speech since taking the helm at the Federal Reserve. Here's what to expect from markets.
+How will stocks perform when the Fed chair speaks at Jackson Hole? Here's what history tells us. MarketWatch
+  - `27 Aug 23:31` *mw_topstories* — How will stocks perform when the Fed chair speaks at Jackson Hole? Here's what history tells us.
 
 **Yields on Seven-Year U.S. Treasurys Sold at Auction Near Two-Year High**
 `27 Aug 23:28 PKT` · pehli baar dekhi `28 Aug 01:46` · wsj_markets
 
 The Treasury auctioned $44 billion in seven-year notes at a yield of 4.512%, the highest since December 2024.
+
+**What Warsh will say and how the market will react, according to prediction markets - CNBC**
+`27 Aug 23:04 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+What Warsh will say and how the market will react, according to prediction markets CNBC
 
 **Fed's Collins Says Rate Increase Warranted If Inflation Disappoints**
 `27 Aug 23:04 PKT` · pehli baar dekhi `28 Aug 01:46` · wsj_economy
@@ -353,6 +525,11 @@ The Boston Fed president, who has been part the central bank's more cautious cen
 
 Recent PCE report didn't change modal outlook that mon pol is restrictive and will lead to gradual disinflation Portfolio management had an outsized influence on headline inflation, with market-based prices more in line with Fed's target Recent inflation data mixed with headline figure stronger but promising signs in the details Recent increase in bond yields not a sign inflation expectations are increasing This is what she's been saying for awhile.
 
+**Fed's Collins Says Interest Rates Are Still Mildly Restrictive - Bloomberg**
+`27 Aug 23:00 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Fed's Collins Says Interest Rates Are Still Mildly Restrictive Bloomberg
+
 **Fed's Hammack says policy restrictiveness still needed**
 `27 Aug 22:49 PKT` · pehli baar dekhi `28 Aug 01:46` · fxstreet_news
 
@@ -362,6 +539,27 @@ Cleveland Federal Reserve (Fed) President Beth Hammack said on Thursday on Fox B
 `27 Aug 22:43 PKT` · pehli baar dekhi `28 Aug 01:46` · fxstreet_news
 
 The US Dollar Index trades just above 99.00 on Thursday, unchanged on the session across a range of less than a fifth of a point. That sits roughly 2.6% beneath the June peak just under 102.00 and beneath a rolling 50-day Exponential Moving Average (EMA) near 100.00 and a flat 200-day near 99.75.
+
+**Fed's Hammack Says Rates Not Restrictive, Time to Act Is Now - Bloomberg**
+`27 Aug 22:39 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Fed's Hammack Says Rates Not Restrictive, Time to Act Is Now Bloomberg
+
+**Fed's Warsh Has Little Room to Falter at Jackson Hole - Barron's**
+`27 Aug 22:28 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed · **2 feeds mein**
+
+Fed's Warsh Has Little Room to Falter at Jackson Hole Barron's
+  - `27 Aug 11:30` *gnews_fed* — Fed's Warsh Has Little Room to Falter at Jackson Hole - Barron's
+
+**Kevin Warsh Faces Fed Inflation Divide At Jackson Hole: Stephen Miran Says A Rate Hike Now Would Be 'Really Strange - TradingView**
+`27 Aug 22:26 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Kevin Warsh Faces Fed Inflation Divide At Jackson Hole: Stephen Miran Says A Rate Hike Now Would Be 'Really Strange TradingView
+
+**Fed officials warn on inflation at Jackson Hole 2026 - qz.com**
+`27 Aug 22:19 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Fed officials warn on inflation at Jackson Hole 2026 qz.com
 
 **Fed's Hammack: Next year inflation might ease to around 2.5% at best**
 `27 Aug 22:17 PKT` · pehli baar dekhi `28 Aug 01:46` · investinglive
@@ -378,25 +576,92 @@ The US Dollar (USD) has navigated an inconclusive range on Thursday, struggling 
 
 The U.S. Treasury sold $44 billion of 7 year note set a high yield of WI level at the time of the auction 4.512%. Tail 0.0 bps vs average of 0.2 basis points. Bid to cover 2.50X versus 6 month average of 2.49X Directs 27.0% vs average of 23.1%. Indirects 60.8% vs. average of 65.1% Dealers 12.3 vs average of 11.8% Auction Grade: C No tail. Bid to cover near the average. The domestic buyers were more aggressive vs the international buyers. The Dealers own slightly higher than the average.
 
+**The stakes are high as Kevin Warsh is set to give his first major speech as Fed Chair - NPR**
+`27 Aug 22:01 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+The stakes are high as Kevin Warsh is set to give his first major speech as Fed Chair NPR
+
+**Bessent's Moves Test Boundaries Between Treasury and Fed - WSJ**
+`27 Aug 21:45 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Bessent's Moves Test Boundaries Between Treasury and Fed WSJ
+
 **Fed Chairman Kevin Warsh takes the stage in Jackson Hole on Friday with an unusual presence looming over him: a Treasury secretary stepping closer to terrain long treated as the Fed's**
 `27 Aug 21:45 PKT` · pehli baar dekhi `28 Aug 01:46` · wsj_economy
 
 The Treasury secretary's plan to buy back long-dated debt is the latest in a string of moves raising questions about his ambitions.
+
+**Cleveland Fed's Hammack says rates not restrictive, time to act is now - Crain's Cleveland Business**
+`27 Aug 21:01 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Cleveland Fed's Hammack says rates not restrictive, time to act is now Crain's Cleveland Business
+
+**Fed governor Lisa Cook hits back at Trump over mortgage fraud claims - The Real Deal**
+`27 Aug 21:00 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Fed governor Lisa Cook hits back at Trump over mortgage fraud claims The Real Deal
+
+**Mortgage Rates Nudge Up to 6.66% Ahead of Fed's Jackson Hole Summit - Realtor.com**
+`27 Aug 21:00 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Mortgage Rates Nudge Up to 6.66% Ahead of Fed's Jackson Hole Summit Realtor.com
+
+**Rates Spark: Hawkish ECB not helping French government bonds**
+`27 Aug 20:57 PKT` · pehli baar dekhi `28 Aug 09:55` · ing_think
+
+French government bond (OAT) spreads face more widening pressure as political uncertainty adds to the precarious fiscal situation. But spillovers to other markets remain limited. Elsewhere, for thoughts on Friday's Jackson Hole Symposium and the US Treasury buyback story see here and here
 
 **Hammack Wants a Hike Now. Schmid Wants More Data. What Will Warsh Say?**
 `27 Aug 20:55 PKT` · pehli baar dekhi `28 Aug 01:46` · actionforex
 
 Fed officials delivered a broadly hawkish inflation message from Jackson Hole on Thursday, but differed on how quickly policy needs to respond. Cleveland Fed President Beth Hammack was most forceful, telling CNBC "I believe now is the time to act" and arguing current rates do not look restrictive. Hammack, who dissented in favor of a [&#8230;] The post Hammack Wants a Hike Now. Schmid Wants More Data. What Will Warsh Say? appeared first on ActionForex.
 
+**Fed's Lisa Cook pushes back on Trump firing threat, says she "never committed mortgage fraud" - CBS News**
+`27 Aug 20:40 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Fed's Lisa Cook pushes back on Trump firing threat, says she "never committed mortgage fraud" CBS News
+
+**Fed rate policy may not be restrictive enough, Schmid warns - mpamag.com**
+`27 Aug 20:18 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Fed rate policy may not be restrictive enough, Schmid warns mpamag.com
+
+**Fed's Collins says latest US inflation readings are 'mixed' - KITCO**
+`27 Aug 20:17 PKT` · pehli baar dekhi `28 Aug 09:55` · kitco_general · **2 feeds mein**
+
+Fed's Collins says latest US inflation readings are 'mixed' KITCO
+  - `27 Aug 23:05` *gnews_fed* — Fed's Collins says latest US inflation readings are 'mixed' - Reuters
+
+**At Jackson Hole, the Fed Is Speaking to a Market That Never Sleeps - observer.com**
+`27 Aug 20:15 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+At Jackson Hole, the Fed Is Speaking to a Market That Never Sleeps observer.com
+
 **Thailand: Stable policy anchors short-end yields – DBS**
 `27 Aug 20:03 PKT` · pehli baar dekhi `28 Aug 01:46` · fxstreet_news
 
 DBS Group Research economist Chua Han Teng expects the Bank of Thailand (BoT) to keep its policy rate at 1.00% through 2026, following the unanimous decision on August 26 to stay on hold.
 
+**NEWSLETTER: Kevin Warsh saddles up for Jackson Hole - Reuters**
+`27 Aug 19:45 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+NEWSLETTER: Kevin Warsh saddles up for Jackson Hole Reuters
+
+**As Jackson Hole conference kicks off, two Fed officials warn about inflation - KITCO**
+`27 Aug 19:37 PKT` · pehli baar dekhi `28 Aug 09:55` · kitco_general · **2 feeds mein**
+
+As Jackson Hole conference kicks off, two Fed officials warn about inflation KITCO
+  - `27 Aug 22:36` *gnews_fed* — As Jackson Hole conference kicks off, two Fed officials warn about inflation - Idaho Business Review
+
 **Fed's Hammack says "now" is the time to tackle inflation**
 `27 Aug 19:35 PKT` · pehli baar dekhi `28 Aug 01:46` · fxstreet_news
 
 Cleveland Federal Reserve (Fed) President Beth Hammack crossed the wires on CNBC on Thursday as the Jackson Hole Symposium begins.
+
+**Fed's Hammack says 'now is the time to act' on raising interest rates - CNBC**
+`27 Aug 19:27 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Fed's Hammack says 'now is the time to act' on raising interest rates CNBC
 
 **Fed's Hammack: It's appropriate to put some restraint into rates**
 `27 Aug 19:25 PKT` · pehli baar dekhi `28 Aug 01:46` · investinglive
@@ -408,6 +673,11 @@ I'm seeing more persistence in inflation The problem with us missing on inflatio
 
 Markets Markets also today held a wait-and see modus ahead of Fed Chair Kevin Warsh&#8217;s speech at the Jackson Hole Fed symposium tomorrow. Eco data (wider than expected US trade deficit in July, ongoing mild weekly jobless claims at 203k, slightly better than expected German consumer confidence) evidently were no good enough reason for interest [&#8230;] The post Sunset Market Commentary appeared first on ActionForex.
   - `27 Aug 12:03` *actionforex* — Sunrise Market Commentary
+
+**Fed Governor Lisa Cook responds to Trump administration's letter stating that it is "considering" her removal - SCOTUSblog**
+`27 Aug 19:15 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Fed Governor Lisa Cook responds to Trump administration's letter stating that it is "considering" her removal SCOTUSblog
 
 **US Dollar Rises on Sticky Inflation, Markets Focus on Fed Warsh's Speech in Jackson Hole**
 `27 Aug 19:01 PKT` · pehli baar dekhi `28 Aug 01:46` · actionforex
@@ -424,6 +694,11 @@ Why Dollar&#8217;s steadying looks like positioning ahead of Friday&#8217;s Wars
 
 Nordea's Jan von Gerich argues that the European Central Bank remains focused on upside inflation risks and is likely to continue tightening policy.
 
+**Cantor: While Long Islanders struggle with inflation, the Federal Reserve fiddles - Long Island Business News**
+`27 Aug 18:45 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Cantor: While Long Islanders struggle with inflation, the Federal Reserve fiddles Long Island Business News
+
 **Fed's Schmid warns energy shock is leaking into the economy**
 `27 Aug 18:42 PKT` · pehli baar dekhi `28 Aug 01:46` · fxstreet_news
 
@@ -434,6 +709,23 @@ Kansas City Fed President Jeffrey Schmid warned on Thursday that inflation remai
 
 Brown Brothers Harriman's (BBH Elias Haddad notes the US Dollar (USD) is consolidating gains, with the US Dollar Index (DXY) testing its 200‑day moving average resistance and United States (US) data showing Personal Consumption Expenditures (PCE) Price Index inflation stuck above the Fed's 2% target
 
+**New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates - Big Rapids Pioneer**
+`27 Aug 18:25 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed · **8 feeds mein**
+
+New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates Big Rapids Pioneer
+  - `27 Aug 18:00` *gnews_fed* — New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates - KSAT
+  - `27 Aug 17:45` *gnews_fed* — New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates - TelegraphHerald.com
+  - `27 Aug 16:50` *gnews_fed* — New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates - Vallejo Times Herald
+  - `27 Aug 15:22` *gnews_fed* — New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates - Houston Chronicle
+  - `27 Aug 15:09` *gnews_fed* — New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates - Stamford Advocate
+  - `27 Aug 15:00` *gnews_fed* — New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates - Oskaloosa Herald
+  - `27 Aug 15:00` *gnews_fed* — New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates - Ottumwa Courier
+
+**New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates | National News | 2news.com - KTVN**
+`27 Aug 17:58 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates | National News | 2news.com KTVN
+
 **U.S. Jobless Claims Pull Back Again**
 `27 Aug 17:57 PKT` · pehli baar dekhi `28 Aug 01:46` · wsj_economy
 
@@ -443,6 +735,17 @@ The number of people who filed for unemployment benefits was 203,000 in the week
 `27 Aug 17:50 PKT` · pehli baar dekhi `28 Aug 01:46` · actionforex
 
 US initial jobless claims fell from a revised 207K to 203K in week ending Aug. 22, beating consensus of 209K. The latest reading keeps claims near historically low levels and suggests employers remain reluctant to shed workers despite broader signs of cooling in labor demand. Continuing claims also improved, falling from a revised 1.796M to [&#8230;] The post US Jobless Claims Fall to 203K as Layoffs Stay Contained appeared first on ActionForex.
+
+**Fed's Warsh faces challenge whether inflation is a problem or not - KITCO**
+`27 Aug 17:49 PKT` · pehli baar dekhi `28 Aug 09:55` · kitco_general · **2 feeds mein**
+
+Fed's Warsh faces challenge whether inflation is a problem or not KITCO
+  - `27 Aug 16:02` *gnews_fed* — Fed's Warsh faces challenge whether inflation is a problem or not - Reuters
+
+**Dollar recoups some losses as focus shifts to Fed remarks at Jackson Hole - KITCO**
+`27 Aug 17:37 PKT` · pehli baar dekhi `28 Aug 09:55` · kitco_general
+
+Dollar recoups some losses as focus shifts to Fed remarks at Jackson Hole KITCO
 
 **US July advance trade balance -118.8B vs -100.5B expected**
 `27 Aug 17:31 PKT` · pehli baar dekhi `28 Aug 01:46` · investinglive
@@ -465,10 +768,30 @@ Politlcal pressure on the Fed 'puts me on edge' Current low hire, low fire econo
 Gold's upward momentum has weakened as investors take profits ahead of Fed Chair Kevin Warsh's speech at Jackson Hole. Lower Treasury yields and a weaker US dollar have supported gold by reducing the opportunity cost of holding the non-yielding metal. A neutral or dovish message from Warsh could reduce expectations of a September rate hike [&#8230;] The post Gold Awaits Warsh's Jackson Hole Speech appeared first on ActionForex.
   - `27 Aug 16:05` *marketpulse* — Gold awaits Warsh's Jackson Hole speech
 
+**Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive - CNBC**
+`27 Aug 17:20 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive CNBC
+
 **Fed's Schmid says current interest rates are not restraining the economy, credibility intact**
 `27 Aug 17:04 PKT` · pehli baar dekhi `28 Aug 01:46` · investinglive
 
 Interest rates are not restraining the US economy Midterms won't affect Fed's October decision I don't see Fed's credibility as damaged in recent weeks I would probably have supported rate hike at July meeting Unclear what policy setting is restricting right now Energy shock is leaking into economy The Fed needs to get to 2% inflation There may be room to have fewer FOMC meetings Kansas City Fed President Jeffrey Schmid maintained his hawkish stance arguing that current interest rates are not ...
+
+**Fed's September interest rate decision isn't a 'no-brainer': Fmr. Fed official - Yahoo Finance UK**
+`27 Aug 17:00 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Fed's September interest rate decision isn't a 'no-brainer': Fmr. Fed official Yahoo Finance UK
+
+**Fed's Schmid Says Policy Isn't in Restrictive Territory - Bloomberg**
+`27 Aug 16:30 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Fed's Schmid Says Policy Isn't in Restrictive Territory Bloomberg
+
+**Warsh steps into spotlight after Bessent's bond move - The Hill**
+`27 Aug 16:20 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Warsh steps into spotlight after Bessent's bond move The Hill
 
 **Is Gold Set to Rebound to $5,000?**
 `27 Aug 16:15 PKT` · pehli baar dekhi `28 Aug 01:46` · actionforex
@@ -479,6 +802,17 @@ Gold is benefiting from the weakness of the US dollar, despite rising Treasury y
 `27 Aug 16:09 PKT` · pehli baar dekhi `28 Aug 01:46` · wsj_economy
 
 Plus: Fed's preferred inflation gauge rises; a visit to the family farm behind a famous fragrance.
+
+**Jackson Hole is Warsh's chance to win over his Fed colleagues — and investors - MarketWatch**
+`27 Aug 16:00 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Jackson Hole is Warsh's chance to win over his Fed colleagues — and investors MarketWatch
+
+**FILE PHOTO: U.S. Federal Reserve Chairman Kevin Warsh holds a press conference, in Washington - The Lufkin Daily News**
+`27 Aug 15:38 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed · **2 feeds mein**
+
+FILE PHOTO: U.S. Federal Reserve Chairman Kevin Warsh holds a press conference, in Washington The Lufkin Daily News
+  - `27 Aug 15:04` *gnews_fed* — FILE PHOTO: U.S. Federal Reserve Chairman Kevin Warsh holds a press conference, in Washington - The Lufkin Daily News
 
 **Macedonia Producer Inflation at 17-Month High**
 `27 Aug 15:38 PKT` · instaforex
@@ -545,22 +879,21 @@ Iceland's consumer price inflation ticked higher in August 2026, with the year-o
 
 Iceland's consumer price momentum softened in August 2026, with the month‑over‑month Consumer Price Index (CPI) rising by 0.2%, down from a 0.4% increase in July 2026. The latest data, updated on 27 August 2026, indicate a moderation in short‑term inflationary pressure as price growth decelerated compared with the prior month.
 
-**New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates - Stamford Advocate**
-`27 Aug 15:09 PKT` · pehli baar dekhi `27 Aug 15:38` · gnews_fed · **3 feeds mein**
+**US inflation remains elevated as GDP growth outlook brightens - Hawaii Tribune-Herald**
+`27 Aug 15:05 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
 
-New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates Stamford Advocate
-  - `27 Aug 15:00` *gnews_fed* — New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates - Oskaloosa Herald
-  - `27 Aug 15:00` *gnews_fed* — New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates - Ottumwa Courier
+US inflation remains elevated as GDP growth outlook brightens Hawaii Tribune-Herald
 
-**FILE PHOTO: U.S. Federal Reserve Chairman Kevin Warsh holds a press conference, in Washington - The Lufkin Daily News**
-`27 Aug 15:04 PKT` · pehli baar dekhi `27 Aug 15:38` · gnews_fed
+**Warsh Owes Investors a Jackson Hole Reset - Bloomberg**
+`27 Aug 15:00 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
 
-FILE PHOTO: U.S. Federal Reserve Chairman Kevin Warsh holds a press conference, in Washington The Lufkin Daily News
+Warsh Owes Investors a Jackson Hole Reset Bloomberg
 
 **Fed Chair Warsh faces Jackson Hole spotlight with inflation, rate path in focus - Fox Business**
-`27 Aug 15:00 PKT` · pehli baar dekhi `27 Aug 15:38` · gnews_fed
+`27 Aug 15:00 PKT` · pehli baar dekhi `27 Aug 15:38` · gnews_fed · **2 feeds mein**
 
 Fed Chair Warsh faces Jackson Hole spotlight with inflation, rate path in focus Fox Business
+  - `27 Aug 15:00` *gnews_fed* — Fed Chair Warsh faces Jackson Hole spotlight with inflation, rate path in focus - Fox Business
 
 **US Dollar: Policy reality supports resilience – OCBC**
 `27 Aug 14:49 PKT` · pehli baar dekhi `27 Aug 15:38` · fxstreet_news
@@ -588,6 +921,11 @@ The US Dollar Index (DXY), which measures the value of the US Dollar (USD) again
 `27 Aug 14:14 PKT` · pehli baar dekhi `27 Aug 15:38` · fxstreet_news
 
 DBS Group Research strategist Sherilyn Chew says hawkish Reserve Bank of India (RBI) minutes and volatility at the long end of the US Treasury market have pushed India rates higher.
+
+**Kevin Warsh has a plan for the Fed. Scott Bessent is getting in the way - CNN**
+`27 Aug 14:00 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Kevin Warsh has a plan for the Fed. Scott Bessent is getting in the way CNN
 
 **Will Kevin Warsh Squander a Huge Opportunity? - Politico**
 `27 Aug 13:59 PKT` · pehli baar dekhi `27 Aug 15:38` · gnews_fed
@@ -654,11 +992,6 @@ Fed Chair Warsh set to give first speech at Jackson Hole nhk.or.jp
 `27 Aug 11:39 PKT` · pehli baar dekhi `27 Aug 15:38` · cointelegraph
 
 Dallas Fed economists said faster, programmable deposits could make bank funding less stable, potentially pushing lenders toward more expensive funding.
-
-**Fed's Warsh Has Little Room to Falter at Jackson Hole - Barron's**
-`27 Aug 11:30 PKT` · pehli baar dekhi `27 Aug 15:38` · gnews_fed
-
-Fed's Warsh Has Little Room to Falter at Jackson Hole Barron's
 
 **What are the main events for today?**
 `27 Aug 11:19 PKT` · pehli baar dekhi `27 Aug 15:38` · investinglive
@@ -825,15 +1158,102 @@ Jackson Hole opens as Fed Chair Warsh faces first major policy test 헤럴드경
 
 European equities closed sharply lower on Thursday, pressured by broad-based declines in banking and industrial heavyweights. The Euro STOXX 50 shed 0.75% to finish at 6,422, while the STOXX Europe 600 lost 0.7% to close at 651.7. The banking sector led the downturn, erasing much of the week's earlier gains as worries over tighter financial conditions resurfaced.
 
+**Euro zone faces inflation slowdown, but energy risks cloud rate hike outlook - The Brussels Times**
+`28 Aug 00:46 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+Euro zone faces inflation slowdown, but energy risks cloud rate hike outlook The Brussels Times
+
+**ECB Accounts: Hawks Were Ready to Hike July, Credit Surge Proves Them Right - Tech Times**
+`27 Aug 23:27 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+ECB Accounts: Hawks Were Ready to Hike July, Credit Surge Proves Them Right Tech Times
+
+**Euro Trims Intraday Losses As Markets Weigh Fed-ECB Interest Rate Outlooks - Bitcoin World**
+`27 Aug 21:55 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+Euro Trims Intraday Losses As Markets Weigh Fed-ECB Interest Rate Outlooks Bitcoin World
+
 **EUR/USD Price Forecast: Buyers remain in charge above the 200-day SMA**
 `27 Aug 21:49 PKT` · pehli baar dekhi `28 Aug 01:46` · fxstreet_news
 
 EUR/USD is virtually unchanged on Thursday, with price action settling into consolidation after the pair climbed to a three-month high of 1.1711 earlier this week.
 
+**EUR/USD Price Forecast — EUR/USD (1.1650) ECB Accounts Confirm September Hike Plan — 1.1790 Upside - TradingNEWS**
+`27 Aug 21:22 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+EUR/USD Price Forecast — EUR/USD (1.1650) ECB Accounts Confirm September Hike Plan — 1.1790 Upside TradingNEWS
+
+**The direction of the world interest rate is divided, the Fed is predicted to hold on, the ECB and BoJ are predicted to rise. - VOI.ID**
+`27 Aug 20:17 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+The direction of the world interest rate is divided, the Fed is predicted to hold on, the ECB and BoJ are predicted to rise. VOI.ID
+
+**ECB Account Shows Some Members Would Have Backed a Second July Rate Hike - Securities.io**
+`27 Aug 20:14 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+ECB Account Shows Some Members Would Have Backed a Second July Rate Hike Securities.io
+
+**ECB officials discussed need for 'mildly restrictive' policy - The Business Times**
+`27 Aug 19:20 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+ECB officials discussed need for 'mildly restrictive' policy The Business Times
+
+**Radev Warns ECB Could Need Another Rate Hike - Novinite.com**
+`27 Aug 19:02 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+Radev Warns ECB Could Need Another Rate Hike Novinite.com
+
+**Minutes from ECB's July meeting more positive on inflation outlook - Financial Times**
+`27 Aug 18:44 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+Minutes from ECB's July meeting more positive on inflation outlook Financial Times
+
 **Euro trims intraday losses as traders weigh Fed-ECB interest rate outlooks**
-`27 Aug 18:37 PKT` · pehli baar dekhi `28 Aug 01:46` · fxstreet_news
+`27 Aug 18:37 PKT` · pehli baar dekhi `28 Aug 01:46` · fxstreet_news · **3 feeds mein**
 
 EUR/USD holds firm on Thursday after coming under pressure on the previous day as the latest US inflation figures helped the US Dollar (USD) regain some lost ground.
+  - `28 Aug 00:08` *gnews_centralbanks* — Euro trims intraday losses as markets weigh Fed-ECB interest rate outlooks - CryptoRank
+  - `27 Aug 18:37` *gnews_centralbanks* — Euro trims intraday losses as traders weigh Fed-ECB interest rate outlooks - FXStreet
+
+**September ECB rate hike: Is the case getting stronger? By Investing.com - Investing.com Australia**
+`27 Aug 18:24 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+September ECB rate hike: Is the case getting stronger? By Investing.com Investing.com Australia
+
+**Hormuz and the drought: the ECB will be keeping an eye on food inflation when setting interest rates in September - Eunews**
+`27 Aug 18:13 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+Hormuz and the drought: the ECB will be keeping an eye on food inflation when setting interest rates in September Eunews
+
+**ECB will return to data dependence after a September rate rise - Financial Times**
+`27 Aug 18:00 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+ECB will return to data dependence after a September rate rise Financial Times
+
+**ECB Watch: More support for a September hike - Nordea Corporate**
+`27 Aug 17:47 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+ECB Watch: More support for a September hike Nordea Corporate
+
+**ECB saw another rate hike as likely after July meeting - Investing.com**
+`27 Aug 17:33 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+ECB saw another rate hike as likely after July meeting Investing.com
+
+**ECB saw another rate hike as likely after July meeting By Investing.com - Investing.com Australia**
+`27 Aug 17:25 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+ECB saw another rate hike as likely after July meeting By Investing.com Investing.com Australia
+
+**ECB July Meeting Account: Another Rate Hike Likely in September | Analysis - News and Statistics - IndexBox**
+`27 Aug 17:25 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+ECB July Meeting Account: Another Rate Hike Likely in September | Analysis - News and Statistics IndexBox
+
+**ECB keeps policy options open as July account points to steady rates - Traders Union**
+`27 Aug 17:22 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+ECB keeps policy options open as July account points to steady rates Traders Union
 
 **ECB Minutes: Hawks Push for More Tightening as July Pause Leaves Door Open**
 `27 Aug 17:21 PKT` · pehli baar dekhi `28 Aug 01:46` · actionforex
@@ -845,10 +1265,56 @@ ECB's unanimous decision to hold rates in July concealed a distinctly hawkish de
 
 Account of the monetary policy meeting of the Governing Council of the European Central Bank held in Frankfurt am Main on Wednesday and Thursday, 22-23 July 2026 27 August 2026 1. Review of financial, economic and monetary developments and policy options Financial market developments Ms Schnabel started her presentation with the observation that since the Governing [&#8230;] The post (ECB) Monetary policy accounts appeared first on ActionForex.
 
+**ECB saw a further hike as likely at July meeting - Reuters**
+`27 Aug 17:14 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+ECB saw a further hike as likely at July meeting Reuters
+
+**ECB Accounts: Rate hike pause may prove short-lived - FXStreet**
+`27 Aug 17:08 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+ECB Accounts: Rate hike pause may prove short-lived FXStreet
+
+**Policymakers concluded that risks to the inflation outlook are tilted to the upside - ECB accounts - investingLive**
+`27 Aug 17:02 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+Policymakers concluded that risks to the inflation outlook are tilted to the upside - ECB accounts investingLive
+
 **ECB is gradually shifting towards a September rate hike**
 `27 Aug 17:00 PKT` · pehli baar dekhi `28 Aug 01:46` · ing_think
 
 The minutes of the ECB's July meeting suggest that the ECB is still struggling with how to react to a textbook supply-side shock. However, the number of ECB members supportive of a September rate hike seems to be high
+
+**ECB tipped for September rate rise to 2.50%, then on hold through 2027 - VT Markets**
+`27 Aug 16:59 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+ECB tipped for September rate rise to 2.50%, then on hold through 2027 VT Markets
+
+**ECB Sees Future Hike as Likely as Inflation Risks Persist - TradingView**
+`27 Aug 16:52 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+ECB Sees Future Hike as Likely as Inflation Risks Persist TradingView
+
+**ECB saw a future hike as likely at July meeting - Yahoo! Finance Canada**
+`27 Aug 16:47 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+ECB saw a future hike as likely at July meeting Yahoo! Finance Canada
+
+**Danske Bank Sees The ECB Holding Rates Through 2027 - Finimize**
+`27 Aug 16:20 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+Danske Bank Sees The ECB Holding Rates Through 2027 Finimize
+
+**Bulgarian Central Bank Governor Radev Does Not Rule Out Another Eurozone Rate Hike - BGNES**
+`27 Aug 15:54 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+Bulgarian Central Bank Governor Radev Does Not Rule Out Another Eurozone Rate Hike BGNES
+
+**Eurozone Bank Lending Growth Accelerates in July, ECB Data Shows - CryptoRank**
+`27 Aug 15:49 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks · **2 feeds mein**
+
+Eurozone Bank Lending Growth Accelerates in July, ECB Data Shows CryptoRank
+  - `27 Aug 14:55` *gnews_centralbanks* — Eurozone Bank Lending Growth Accelerates In July, ECB Data Shows - Bitcoin World
 
 **France Jobseekers Rises to Highest Level in Over a Year**
 `27 Aug 15:38 PKT` · instaforex
@@ -865,20 +1331,25 @@ France saw a modest rise in the number of registered jobseekers in July 2026, wi
 
 Bank lending to Eurozone households increased by 3.1% year-on-year to €7.24 trillion in July 2026, up from 3.0% in April and above market expectations of 2.9%. Household credit demand expanded at its fastest pace since February 2023. Corporate lending also strengthened, rising by 4.4% in July, the quickest rate in three years.
 
+**European bank lending accelerates despite ECB rate rise - TheBanker.com**
+`27 Aug 15:17 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+European bank lending accelerates despite ECB rate rise TheBanker.com
+
 **Euro retreats below 1.1650 as inflation data buoys US Dollar ahead of Jackson Hole**
 `27 Aug 15:16 PKT` · pehli baar dekhi `27 Aug 15:38` · fxstreet_news
 
 The Euro (EUR) heads lower for the second consecutive day on Thursday, with the US Dollar (USD) supported by strong US inflation data released on Wednesday.
 
+**Euro Slips From Three-Month Highs - TradingView**
+`27 Aug 15:10 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+Euro Slips From Three-Month Highs TradingView
+
 **ECB's Radev urges readiness for further rate hikes - Breakingthenews.net**
 `27 Aug 15:00 PKT` · pehli baar dekhi `27 Aug 15:38` · gnews_centralbanks
 
 ECB's Radev urges readiness for further rate hikes Breakingthenews.net
-
-**Eurozone Bank Lending Growth Accelerates In July, ECB Data Shows - Bitcoin World**
-`27 Aug 14:55 PKT` · pehli baar dekhi `27 Aug 15:38` · gnews_centralbanks
-
-Eurozone Bank Lending Growth Accelerates In July, ECB Data Shows Bitcoin World
 
 **Euro steadies against Japanese Yen as German sentiment beats expectations**
 `27 Aug 14:51 PKT` · pehli baar dekhi `27 Aug 15:38` · fxstreet_news
@@ -975,10 +1446,20 @@ BNY's Geoff Yu notes that stronger Oil prices have improved Norway's terms of tr
 
 Eurozone government bond yields opened slightly higher as focus switched to elevated gas prices rather than falling oil prices.
 
+**Euro Holds Above 1.1650 as ECB's Hawkish Stance Supports Currency - CryptoRank**
+`27 Aug 12:22 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+Euro Holds Above 1.1650 as ECB's Hawkish Stance Supports Currency CryptoRank
+
 **Germany GfK Consumer Confidence Improves to -26.6 as Income Expectations Rebound Sharply**
 `27 Aug 12:11 PKT` · pehli baar dekhi `27 Aug 15:38` · actionforex
 
 Germany's GfK/NIM Consumer Climate improved from a revised -29.4 to -26.6 for September, comfortably beating consensus of -29.2. Improvement was driven by a sharp recovery in income expectations, which surged from -14.5 to +1.7, while economic expectations also strengthened from -6.3 to -3.9.
+
+**ECB Set For September Rate Hike With No Appetite To Signal More, Sources Say - Mena FN**
+`27 Aug 11:40 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+ECB Set For September Rate Hike With No Appetite To Signal More, Sources Say Mena FN
 
 **German Consumer Confidence Rises on Economic Resilience**
 `27 Aug 11:21 PKT` · pehli baar dekhi `27 Aug 15:38` · wsj_economy
@@ -1037,10 +1518,20 @@ ECB provides official euro exchange rates limit euro to Indonesian rupiah exchan
 
 ### GBP
 
+**British Pound Sterling borrows a month it did not earn**
+`28 Aug 02:32 PKT` · pehli baar dekhi `28 Aug 09:55` · fxstreet_news
+
+GBP/USD holds near 1.3600 on Thursday, effectively unchanged at minus 0.05% across a range of barely thirty pips, a third session of drift beneath the high just short of 1.3700 posted earlier this week.
+
 **British Pound slips on solid US jobless claims as Fed hawks lift USD**
 `27 Aug 20:54 PKT` · pehli baar dekhi `28 Aug 01:46` · fxstreet_news
 
 The Pound Sterling (GBP) registers back-to-back bearish days on Thursday, down about 0.05% against the US Dollar (USD) after economic data showed the labor market remains solid, while investors eye Federal Reserve (Fed) speakers at the Jackson Hole Symposium.
+
+**​​​​​​​Markets push back next Bank of England rate hike to 2027 - mpamag.com**
+`27 Aug 19:56 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+​​​​​​​Markets push back next Bank of England rate hike to 2027 mpamag.com
 
 **Bank of England set for new innovation mandate covering stablecoins**
 `27 Aug 17:51 PKT` · pehli baar dekhi `28 Aug 01:46` · cointelegraph
@@ -1081,6 +1572,11 @@ Sterling holds just beneath 1.3600 late on Wednesday, roughly 0.4% lower and som
 
 ### JPY
 
+**The Japanese Yen gets its hike whatever Tokyo CPI prints**
+`28 Aug 02:54 PKT` · pehli baar dekhi `28 Aug 09:55` · fxstreet_news
+
+USD/JPY holds just beneath 159.50 on Thursday, ahead 0.05% across a range of forty-two pips, a fifth consecutive session of grinding higher without getting anywhere.
+
 **Economic and event calendar in Asia 28 August 2026 - Japan inflation data (Tokyo)**
 `28 Aug 01:25 PKT` · pehli baar dekhi `28 Aug 01:46` · investinglive
 
@@ -1091,10 +1587,36 @@ Tokyo area inflation the focus today. Meanwhile, expectations of a Bank of Japan
 
 USD/JPY trades in a narrow range below 160 on Thursday, with neither side able to build strong momentum. The US Dollar (USD) is struggling to extend Wednesday's recovery, while persistent weakness in the Japanese Yen (JPY) continues to keep the pair supported.
 
+**What's Next After The Bank Of Japan's Historic Rate Pivot? Santé (rKnNDGJBcj) - Mshale**
+`27 Aug 19:48 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+What's Next After The Bank Of Japan's Historic Rate Pivot? Santé (rKnNDGJBcj) Mshale
+
+**Live Analysis: Bank Of Japan Hikes Rates To 1% | 16th June Ny Local Police Ice Restrictions (CftFvwUJ4u) - Mshale**
+`27 Aug 17:00 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+Live Analysis: Bank Of Japan Hikes Rates To 1% | 16th June Ny Local Police Ice Restrictions (CftFvwUJ4u) Mshale
+
+**Bank of Japan's Himino: Policy to Balance Economic Data, Inflation Risks - CryptoRank**
+`27 Aug 16:15 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks · **2 feeds mein**
+
+Bank of Japan's Himino: Policy to Balance Economic Data, Inflation Risks CryptoRank
+  - `27 Aug 11:25` *gnews_centralbanks* — Bank Of Japan's Himino: Policy To Balance Economic Data, Inflation Risks - Bitcoin World
+
 **USD/JPY Remains Range-Bound: Markets Await Fresh Signals**
 `27 Aug 16:14 PKT` · pehli baar dekhi `28 Aug 01:46` · actionforex
 
 USD/JPY steadied around 159.31 on Thursday, remaining in a narrow range. Investors continue to assess the outlook for Bank of Japan monetary policy. Markets are now pricing in approximately an 87% probability of a 25-basis-point BoJ rate hike in September, which would bring the rate to 1.25%. Before the July meeting, this probability stood at [&#8230;] The post USD/JPY Remains Range-Bound: Markets Await Fresh Signals appeared first on ActionForex.
+
+**Bank of Japan Signals Imminent Rate Hike as Yen Weakness Stokes Inflation Fears - streamlinefeed.co.ke**
+`27 Aug 15:45 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+Bank of Japan Signals Imminent Rate Hike as Yen Weakness Stokes Inflation Fears streamlinefeed.co.ke
+
+**Bank of Japan signals fastest-ever rate hike pace with back-to-back increases - 헤럴드경제**
+`27 Aug 15:00 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+Bank of Japan signals fastest-ever rate hike pace with back-to-back increases 헤럴드경제
 
 **USD/JPY Daily Outlook**
 `27 Aug 14:25 PKT` · pehli baar dekhi `27 Aug 15:38` · actionforex
@@ -1126,6 +1648,11 @@ BOJ deputy chief calls for more rate hikes on inflation risks 毎日新聞
 `27 Aug 11:52 PKT` · pehli baar dekhi `27 Aug 15:38` · wsj_economy
 
 The overnight index swaps market is pricing in nearly a 90% chance of a rate increase at the coming Bank of Japan meeting.
+
+**BOJ deputy chief calls for timely rate hike, focus on inflation risk - The Standard (HK)**
+`27 Aug 11:40 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+BOJ deputy chief calls for timely rate hike, focus on inflation risk The Standard (HK)
 
 **BOJ policymaker Himino says won't comment on market expectations on rate hike**
 `27 Aug 10:12 PKT` · pehli baar dekhi `27 Aug 15:38` · investinglive
@@ -1190,6 +1717,21 @@ The Swiss Franc (CHF) has failed to find support on the upbeat Swiss employment 
 Duo secure first Grand Slam trophy as a team after defeating Switzerland's Belinda Bencic and Flavio Cobolli of Italy.
 
 ### CAD
+
+**Canada welcomes US shift on French language discoverability in trade talks**
+`28 Aug 02:15 PKT` · pehli baar dekhi `28 Aug 09:55` · aljazeera
+
+US trade officials downplay French language dispute, calling claims fabricated.
+
+**Financial Services Roundup: Market Talk**
+`28 Aug 02:09 PKT` · pehli baar dekhi `28 Aug 09:55` · wsj_markets
+
+Find insight on the Royal Bank of Canada, Toronto-Dominion Bank, Monte dei Paschi and more in the latest Market Talks covering Financial Services.
+
+**Canadian dollar edges higher as current account balance swings to surprise surplus - KITCO**
+`28 Aug 01:57 PKT` · pehli baar dekhi `28 Aug 09:55` · kitco_general
+
+Canadian dollar edges higher as current account balance swings to surprise surplus KITCO
 
 **Belugas and dolphins rescued from Canada's Marineland arrive in Spain**
 `28 Aug 01:23 PKT` · pehli baar dekhi `28 Aug 01:46` · aljazeera
@@ -1270,6 +1812,11 @@ Few are seeing an offramp as Trump faces political pressures in advance of the m
 
 ### AUD
 
+**Federal Reserve chief faces pivotal moment in Jackson Hole - Yahoo Finance Australia**
+`28 Aug 02:34 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Federal Reserve chief faces pivotal moment in Jackson Hole Yahoo Finance Australia
+
 **Australian Dollar gains on hawkish RBA outlook, Warsh speech in focus**
 `27 Aug 23:02 PKT` · pehli baar dekhi `28 Aug 01:46` · fxstreet_news
 
@@ -1307,6 +1854,11 @@ The Aussie Dollar advances for the third straight day, up more than 0.17%, even 
 
 ### NZD
 
+**New Zealand's Kiwi prices a hike it has already delivered**
+`28 Aug 02:08 PKT` · pehli baar dekhi `28 Aug 09:55` · fxstreet_news
+
+NZD/USD holds just beneath 0.5950 on Thursday, unchanged on the session across a range of twenty-two pips and some forty-five pips under the window high just short of 0.6000 set in early June.
+
 **Are you paying attention to the price action in the NZDUSD. You should.**
 `27 Aug 20:35 PKT` · pehli baar dekhi `28 Aug 01:46` · investinglive
 
@@ -1319,15 +1871,51 @@ The NZD/USD pair slips back below mid-0.5900s during the early European session 
 
 ### OIL
 
+**Iran says it is preparing list of conditions for reopening Strait of Hormuz**
+`28 Aug 02:41 PKT` · pehli baar dekhi `28 Aug 09:55` · investinglive
+
+The comments add a layer of specificity to the Iran-Oman track without resolving the broader uncertainty markets have been pricing around Hormuz. Confirmation that Iran and Oman have settled on a shipping corridor, split between each country's territorial waters, supports the narrative of incremental progress that has weighed on crude this week.
+
+**Oil Rises as Iran Deal Hopes Fade - Rigzone**
+`28 Aug 02:04 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Oil Rises as Iran Deal Hopes Fade Rigzone
+
+**Europe Heads Into Winter With Gas Storage at a Two-Decade Low**
+`28 Aug 02:00 PKT` · pehli baar dekhi `28 Aug 09:55` · oilprice
+
+Europe is heading for the winter with one of the lowest levels of gas in storage in the past two decades as the war in the Middle East crippled LNG supply from Qatar, sent gas and LNG prices in Europe and Asia skyrocketing, and intensified competition for the shrunk pool of readily available global LNG cargoes.
+
+**Iran sets conditions for reopening Strait of Hormuz, top security official Rezaei says**
+`28 Aug 01:54 PKT` · pehli baar dekhi `28 Aug 09:55` · investing_commodities
+
+**Oil catch up post: Snaps losing streak as Trump rules out reviving Iran ceasefire terms**
+`28 Aug 01:54 PKT` · pehli baar dekhi `28 Aug 09:55` · investinglive
+
+Brent and WTI both broke a three-session losing run, with traders scaling back bets on an imminent diplomatic breakthrough that would ease flows out of the Gulf. The move came after reporting that the Trump administration has repeatedly told mediators it has no interest in reverting to the terms of the June memorandum with Iran, pushing the market to price in a longer stretch of restricted Hormuz traffic rather than a near-term resolution.
+
+**US in talks to acquire major stake in Venezuelan oil fields, Bloomberg reports**
+`28 Aug 01:50 PKT` · pehli baar dekhi `28 Aug 09:55` · investing_commodities
+
 **FTSE 100 Falls for 2nd Day**
 `28 Aug 01:46 PKT` · instaforex
 
 The FTSE 100 fell more than 0.5% on Thursday, extending its decline for a second straight session as broad-based weakness in banking, healthcare, and commodity-linked stocks dragged the index lower. Mining companies came under pressure amid falling metals prices, while banks and consumer-oriented firms also lost ground. Prudential slipped roughly 2.5% despite reporting stronger first-half new business profit, supported by robust performances in Hong Kong and Malaysia.
 
+**Expert says Iran losing Hormuz leverage as defenses and oil role decline - The Jerusalem Post**
+`28 Aug 01:03 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Expert says Iran losing Hormuz leverage as defenses and oil role decline The Jerusalem Post
+
 **U.S. In Talks To Take Direct Ownership Of Venezuelan Oil Fields**
 `28 Aug 00:51 PKT` · pehli baar dekhi `28 Aug 01:46` · oilprice
 
 The Trump administration is reportedly in active discussions with Venezuela's interim government to acquire a direct U.S. ownership stake in key Venezuelan oil fields. According to senior U.S. officials cited by Axios, the talks involve equity stakes in a select group of high-yield fields containing approximately 90 billion barrels of proven crude—a transaction that would significantly alter Washington's foreign energy policy framework and expand U.S.-controlled global reserves.
+
+**Crude Oil Settles Higher on Diplomacy Doubts to End US-Iran War - TradingView**
+`28 Aug 00:16 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Crude Oil Settles Higher on Diplomacy Doubts to End US-Iran War TradingView
 
 **Trump's War on Offshore Wind Leaves U.S. Workers in Limbo**
 `28 Aug 00:00 PKT` · pehli baar dekhi `28 Aug 01:46` · oilprice
@@ -1364,6 +1952,11 @@ Kazakhstan and Uzbekistan are tossing figurative darts at a US trial balloon con
 
 Energean is in exclusive talks to buy a package of BP's Egyptian oil and gas assets in a deal that could raise about $1 billion for the British energy major, Reuters reported Thursday exclusively, citing two people involved in the negotiations. The proposed deal includes BP's interests in the producing West Nile Delta gas assets, which it owns with Harbour Energy, as well as its 50% contractor working interest in the Temsah concession in the eastern Mediterranean.
 
+**Oil prices swing Alberta's $9.4B deficit to $2B surplus, but finance minister urges caution - CBC**
+`27 Aug 22:13 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Oil prices swing Alberta's $9.4B deficit to $2B surplus, but finance minister urges caution CBC
+
 **Venezuela's Oil Revival Gains Momentum**
 `27 Aug 22:00 PKT` · pehli baar dekhi `28 Aug 01:46` · oilprice
 
@@ -1389,6 +1982,11 @@ Global data-center electricity demand is growing at a remarkable pace, and no co
 
 Commodity vessel traffic at the Strait of Hormuz rose slightly over the past 24 hours amid diplomatic efforts to discuss temporary corridors or tentative reopening of the Middle East's most vital oil and gas chokepoint. Ten commodity vessels made the Strait of Hormuz transit on Wednesday, up from 8 on Tuesday, according to Kpler data as of Thursday morning, cited by Reuters.
 
+**China Squeezes India Out of Russian Oil Market as Tehran Supply Collapse Forces Beijing To Reach West - foreignpolicyjournal.com**
+`27 Aug 19:44 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+China Squeezes India Out of Russian Oil Market as Tehran Supply Collapse Forces Beijing To Reach West foreignpolicyjournal.com
+
 **Fortum Seeks State Aid for Major New Nuclear Project in Sweden**
 `27 Aug 19:30 PKT` · pehli baar dekhi `28 Aug 01:46` · oilprice
 
@@ -1404,10 +2002,25 @@ MUFG's Derek Halpenny examines how uncertainty over Strait of Hormuz oil flows a
 
 A letter seen by RFE/RL reveals growing concern about Russian aggression in the Baltic States, speaking of a "deteriorating security environment" amid an "increased frequency of airspace violations and drone incursions." The letter was sent to European Commission President Ursula von der Leyen and signed by the three Baltic European commissioners, Kaja Kallas, Andrius Kubilius, and Valdis Dombrovskis, as well as the Polish and Finnish commissioners.
 
+**Oil Prices Extend Losses As Iran Talks Raise Hopes For Hormuz Reopening - Arise News**
+`27 Aug 18:39 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Oil Prices Extend Losses As Iran Talks Raise Hopes For Hormuz Reopening Arise News
+
 **TotalEnergies Exits Russia's Sanctioned Arctic LNG 2 Project**
 `27 Aug 18:30 PKT` · pehli baar dekhi `28 Aug 01:46` · oilprice
 
 French oil and gas supermajor TotalEnergies has completed the transfer of its 10% stake in the Arctic LNG 2 to operator Novatek, ending its participation in the sanctioned Russian export project. TotalEnergies on Thursday confirmed that the transfer of its 10% interest in Arctic LNG 2 to NordLine, a subsidiary of the project's operator, Novatek, has been completed.
+
+**Oil: Hormuz Supply Recovery Eases Risk Premium, Says BNY - CryptoRank**
+`27 Aug 18:11 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Oil: Hormuz Supply Recovery Eases Risk Premium, Says BNY CryptoRank
+
+**Oil prices fall as Hormuz talks ease supply concerns - grafa.com**
+`27 Aug 17:53 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Oil prices fall as Hormuz talks ease supply concerns grafa.com
 
 **Diesel's record $100 warning: The oil shock hiding in plain sight**
 `27 Aug 17:26 PKT` · pehli baar dekhi `28 Aug 01:46` · fxstreet_analysis
@@ -1418,6 +2031,11 @@ The Oil market may look calmer than it did a few months ago, but diesel is sendi
 `27 Aug 17:15 PKT` · pehli baar dekhi `28 Aug 01:46` · oilprice
 
 Asia is expected to welcome roughly the same volumes of crude oil this month as it did in July, with these still weak imports not signaling a surge in tanker crossings at the Strait of Hormuz as the U.S. Administration claims. Asia, the biggest and most prized oil market for oil exporters, is set to import 23.12 million barrels per day (bpd) of crude oil this month, slightly down from 23.36 million bpd in July, per data compiled by commodity analysts Kpler and cited by Reuters columnist Clyde ...
+
+**Iran, Qatar hold Hormuz talks as US blockade squeezes Iran oil exports - France 24**
+`27 Aug 17:01 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Iran, Qatar hold Hormuz talks as US blockade squeezes Iran oil exports France 24
 
 **Qatar and Kuwait Restore 70% of Pre-War Oil Exports Through Hormuz**
 `27 Aug 16:00 PKT` · pehli baar dekhi `28 Aug 01:46` · oilprice
@@ -1477,6 +2095,11 @@ OPEC+ loses grip on oil market as Iran war shifts influence to China Profit by P
 
 Iraq Offers Oil Outside Hormuz for First Time Since War Began Bloomberg.com
 
+**Oil up as traders weigh prospects of easing disruptions - RTE.ie**
+`27 Aug 13:45 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Oil up as traders weigh prospects of easing disruptions RTE.ie
+
 **European gas steady off one-week lows on Hormuz talks**
 `27 Aug 13:37 PKT` · pehli baar dekhi `27 Aug 15:38` · investing_commodities
 
@@ -1496,18 +2119,31 @@ Oil Prices Fall Amid Expectations of Talks Between Iran and Qatar — Reuters UA
 Oil extends losses on hopes for Middle East talks to ease supply woes mediaselangor.com
 
 **Oil extends losses amid easing supply concerns, hawkish Fed outlook - Anadolu Ajansı**
-`27 Aug 12:41 PKT` · pehli baar dekhi `27 Aug 15:38` · gnews_geopolitics
+`27 Aug 12:41 PKT` · pehli baar dekhi `27 Aug 15:38` · gnews_geopolitics · **2 feeds mein**
 
 Oil extends losses amid easing supply concerns, hawkish Fed outlook Anadolu Ajansı
+  - `27 Aug 12:41` *gnews_geopolitics* — Oil extends losses amid easing supply concerns, hawkish Fed outlook - Anadolu Ajansı
+
+**Oil prices extend decline as Middle East talks ease supply concerns - thestar.ng**
+`27 Aug 12:39 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Oil prices extend decline as Middle East talks ease supply concerns thestar.ng
 
 **Oil Prices Fall as Qatar Pushes New Hormuz Talks**
 `27 Aug 12:30 PKT` · pehli baar dekhi `27 Aug 15:38` · oilprice
 
 Crude oil prices extended their decline for the fourth day today on news that Qatar's Prime Minister will visit Tehran today to discuss the possibility of reopening the Strait of Hormuz. At the time of writing, Brent crude was trading at $87.46 per barrel, with West Texas Intermediate at $81.83 per barrel, despite a new report about a strike on a tanker in Hormuz.
 
+**Oil prices extend decline toward $80/bbl as Iran supply fears ease - CryptoRank**
+`27 Aug 12:22 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Oil prices extend decline toward $80/bbl as Iran supply fears ease CryptoRank
+
 **OPEC+ loses oil market sway in Iran war as China gains influence**
-`27 Aug 12:18 PKT` · pehli baar dekhi `27 Aug 15:38` · investing_commodities · **4 feeds mein**
+`27 Aug 12:18 PKT` · pehli baar dekhi `27 Aug 15:38` · investing_commodities · **6 feeds mein**
+  - `27 Aug 18:05` *gnews_geopolitics* — OPEC+ loses oil market sway in Iran war as China gains influence - BOE Report
   - `27 Aug 12:36` *gnews_geopolitics* — OPEC+ loses oil market sway in Iran war as China gains influence - The Mighty 790 KFGO
+  - `27 Aug 12:28` *gnews_geopolitics* — OPEC+ loses oil market sway in Iran war as China gains influence - Business Recorder
   - `27 Aug 12:14` *gnews_geopolitics* — OPEC+ loses oil market sway in Iran war as China gains influence - Reuters
   - `27 Aug 12:03` *gnews_geopolitics* — GRAPHIC-OPEC+ loses oil market sway in Iran war as China gains influence - Devdiscourse
 
@@ -1517,9 +2153,15 @@ Crude oil prices extended their decline for the fourth day today on news that Qa
 Yet another tanker has been struck by a projectile in the Strait of Hormuz, the UK Maritime Trade Operations said today, as quoted by DPA. The report follows earlier attacks that continue despite efforts on the part of Pakistan and other interested parties in the region to bring Iran and the United States to the negotiating table and end the shipping disruption in the chokepoint.
 
 **India bonds decline as debt supply caution overpowers oil moves - Business Recorder**
-`27 Aug 10:54 PKT` · pehli baar dekhi `27 Aug 15:38` · gnews_geopolitics
+`27 Aug 10:54 PKT` · pehli baar dekhi `27 Aug 15:38` · gnews_geopolitics · **2 feeds mein**
 
 India bonds decline as debt supply caution overpowers oil moves Business Recorder
+  - `27 Aug 10:54` *gnews_geopolitics* — India bonds decline as debt supply caution overpowers oil moves - Business Recorder
+
+**Oil prices fall further on M.East diplomacy hopes By Investing.com - Investing.com India**
+`27 Aug 10:50 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Oil prices fall further on M.East diplomacy hopes By Investing.com Investing.com India
 
 **Oil and Gas Sector Update: Crude Compass: Supply Disruptions Shift Downstream Choice Institutional Equities - Investment Guru India**
 `27 Aug 10:17 PKT` · pehli baar dekhi `27 Aug 15:38` · gnews_geopolitics
@@ -1623,6 +2265,16 @@ Alongside boosting exploration and production offshore its home market Norway, E
 
 ### CRYPTO
 
+**Trump Family Crypto Bank Backed by Abu Dhabi Royal**
+`28 Aug 02:23 PKT` · pehli baar dekhi `28 Aug 09:55` · wsj_markets
+
+Plus, the newly coined "Lake America" and the blurring lines between fiscal strategy and Fed independence ahead of Jackson Hole.
+
+**Bitcoin Again Flirts With $81,000 Ahead of Fed's Jackson Hole Meeting - CryptoRank**
+`28 Aug 01:39 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Bitcoin Again Flirts With $81,000 Ahead of Fed's Jackson Hole Meeting CryptoRank
+
 **Trump cost investors $4.7B through crypto 'schemes': Public Citizen**
 `28 Aug 00:22 PKT` · pehli baar dekhi `28 Aug 01:46` · cointelegraph
 
@@ -1668,6 +2320,24 @@ About 17,600 people in the UK reported a combined $1.9 billion in gains tied to 
 
 BTCUSD attacks the 80K psychological barrier again after Tuesday's strong upside rejection at this zone left red daily candle with long upper shadow – initial negative signal, which was partially offset by subsequent bounce, but fresh positive developments still look for confirmation (on firm break through 80K resistance).
 
+**ECB September Rate Hike Prospects Firm, Nordea Says - Bitcoin World**
+`27 Aug 19:35 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+ECB September Rate Hike Prospects Firm, Nordea Says Bitcoin World
+
+**Bitcoin (BTC) holds near $80,000 as traders brace for Warsh's Jackson Hole Fed speech - CoinDesk**
+`27 Aug 19:01 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
+
+Bitcoin (BTC) holds near $80,000 as traders brace for Warsh's Jackson Hole Fed speech CoinDesk
+
+**Bitcoin and ethereum prices today, Thursday, August 27, 2026: Down from highs, but prices holding strong**
+`27 Aug 18:11 PKT` · pehli baar dekhi `28 Aug 09:55` · yahoo_finance
+
+**ECB holds rates steady after June hike, flags cautious path to September - Crypto Briefing**
+`27 Aug 16:50 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+ECB holds rates steady after June hike, flags cautious path to September Crypto Briefing
+
 **Bitcoin faces true demand test above $83K as liquidity thickens: Glassnode**
 `27 Aug 15:34 PKT` · pehli baar dekhi `28 Aug 01:46` · cointelegraph
 
@@ -1677,6 +2347,11 @@ Bitcoin price analysis reveals convergence of multiple trend lines and liquidity
 `27 Aug 14:26 PKT` · pehli baar dekhi `27 Aug 15:38` · cointelegraph
 
 Bithumb reportedly won first-instance rulings in two suits seeking proceeds from users who sold Bitcoin credited in its $40 billion error.
+
+**Pound Holds Near Weekly Low As UK Fiscal Woes And Rate Expectations Weigh - Bitcoin World**
+`27 Aug 13:45 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+Pound Holds Near Weekly Low As UK Fiscal Woes And Rate Expectations Weigh Bitcoin World
 
 **Bitcoin ETF inflows slow to $232M as BTC holds under $80K**
 `27 Aug 12:01 PKT` · pehli baar dekhi `27 Aug 15:38` · cointelegraph
@@ -1742,6 +2417,11 @@ What Nvidia's earnings can teach investors about growth, margins and valuation N
 
 ### RISK
 
+**China: Beijing balances tariff pushback and dialogue – BNY**
+`28 Aug 02:39 PKT` · pehli baar dekhi `28 Aug 09:55` · fxstreet_news
+
+Geoff Yu at BNY reports that China is opposing potential new U.S. Section 301 tariffs while keeping communication channels open. Beijing has threatened "necessary measures" in response to additional duties but continues high-level engagement ahead of a possible Trump–Xi summit.
+
 **Aluminum Holds Pullback**
 `28 Aug 01:39 PKT` · pehli baar dekhi `28 Aug 01:46` · instaforex
 
@@ -1751,6 +2431,11 @@ Aluminum futures in the UK hovered around $3,230 per tonne, moving within a narr
 `28 Aug 01:06 PKT` · pehli baar dekhi `28 Aug 01:46` · aljazeera
 
 The rebrand comes as the US and Canada engage in a cross-border trade war after Trump increased tariffs last week.
+
+**Oil settles up 2% after Trump rejects return to Iran ceasefire deal terms - Yahoo Finance**
+`28 Aug 00:43 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Oil settles up 2% after Trump rejects return to Iran ceasefire deal terms Yahoo Finance
 
 **Wheat Soars to Highest Level in Three Years as Black Sea Crisis Deepens**
 `28 Aug 00:43 PKT` · pehli baar dekhi `28 Aug 01:46` · wsj_world · **2 feeds mein**
@@ -1765,6 +2450,11 @@ Iranian business activity and banking continues openly despite warnings by the U
 
 **Trump to meet refiners, fuel retailers as Iran war boosts gas prices ahead of midterms, sources say**
 `27 Aug 23:54 PKT` · pehli baar dekhi `28 Aug 01:46` · investing_commodities
+
+**Oil jumps over $2 after Trump rejects return to Iran ceasefire deal terms - London South East**
+`27 Aug 23:52 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Oil jumps over $2 after Trump rejects return to Iran ceasefire deal terms London South East
 
 **Opinion | Discontented Iowans Consider the Democrats**
 `27 Aug 23:36 PKT` · pehli baar dekhi `28 Aug 01:46` · wsj_world
@@ -1796,6 +2486,11 @@ The US Treasury Secretary Scott Bessent said on Thursday that he will ask financ
 
 Chinese industrial profit growth slowed to its weakest pace this year, a reminder that beneath the tariff-driven scramble for metal, demand is patchy.
 
+**Iran faces petrol shortage as US blockade disrupts fuel imports - National Daily Newspaper**
+`27 Aug 22:02 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Iran faces petrol shortage as US blockade disrupts fuel imports National Daily Newspaper
+
 **Obituary: Ratko Mladic, war criminal convicted of Srebrenica genocide, dies**
 `27 Aug 21:56 PKT` · pehli baar dekhi `28 Aug 01:46` · aljazeera
 
@@ -1805,6 +2500,11 @@ Ratko Mladic a Bosnian Serb war criminal, has died in prison aged 84.
 `27 Aug 21:04 PKT` · pehli baar dekhi `28 Aug 01:46` · aljazeera
 
 Violence has eased since the US-Iran MoU and Israel-Lebanon framework, but Beirut still reports strikes and demolitions.
+
+**Iran scrambles to sustain trade as US threatens to sanction countries that refuse to break ties - breitbart.com**
+`27 Aug 20:19 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Iran scrambles to sustain trade as US threatens to sanction countries that refuse to break ties breitbart.com
 
 **Trump Complained About Big Oil Profits, But Dumped Exxon Stock on Ceasefire Day**
 `27 Aug 19:50 PKT` · pehli baar dekhi `28 Aug 01:46` · oilprice
@@ -1816,10 +2516,40 @@ President Donald Trump's investment accounts sold between $500,000 and $1 millio
 
 Chicago Federal Reserve (Fed) President Austan Goolsbee said on Thursday that the economy remains broadly stable but warned that tariffs and war-related price increases are complicating the inflation outlook.
 
+**China and Iran sanctions: Beijing's red lines and retaliation options - South China Morning Post**
+`27 Aug 18:30 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+China and Iran sanctions: Beijing's red lines and retaliation options South China Morning Post
+
+**TSX futures slip as investors digest bank earnings, geopolitical tensions - KITCO**
+`27 Aug 17:52 PKT` · pehli baar dekhi `28 Aug 09:55` · kitco_general
+
+TSX futures slip as investors digest bank earnings, geopolitical tensions KITCO
+
+**European Central Bank Set for September Rate Increase as Geopolitical Tensions Sustain Price Pressures - Blockonomi**
+`27 Aug 17:47 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
+
+European Central Bank Set for September Rate Increase as Geopolitical Tensions Sustain Price Pressures Blockonomi
+
+**US offers to lift Iran sanctions in return for reopening Hormuz: Report - The Business Standard**
+`27 Aug 17:07 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+US offers to lift Iran sanctions in return for reopening Hormuz: Report The Business Standard
+
+**Why Is China Standing With Iran? - WANA News Agency**
+`27 Aug 16:18 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Why Is China Standing With Iran? WANA News Agency
+
 **Montenegro Tourist Arrivals Rise 4.4% in July**
 `27 Aug 15:38 PKT` · instaforex
 
 The number of tourist arrivals in Montenegro increased by 4.4% year-on-year in July 2026, reaching an eleven-month high of 244,754, after a 5.8% rise in June. Foreign tourists remained the dominant group, making up 92.3% of total arrivals, or 225,824 visitors, while domestic tourists accounted for 7.7%, or 18,930 arrivals. Among foreign visitors, Europe continued to be the main source region, contributing 81.3% of all arrivals.
+
+**Iran war reaches costly stalemate after six months as oil markets and global trade absorb the fallout - Crypto Briefing**
+`27 Aug 15:09 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Iran war reaches costly stalemate after six months as oil markets and global trade absorb the fallout Crypto Briefing
 
 **Analysis-After six months, the Iran war has reached its endgame - a costly stalemate**
 `27 Aug 15:00 PKT` · pehli baar dekhi `27 Aug 15:38` · investing_commodities
@@ -1829,6 +2559,11 @@ The number of tourist arrivals in Montenegro increased by 4.4% year-on-year in J
 
 Plus, the CIA chief made a surprise trip to Moscow to deliver a warning, and bond markets overseas look even worse than U.S. Treasurys.
   - `27 Aug 14:56` *wsj_markets* — The Russia-Ukraine War Gets More Ruthless and Destructive—but No Closer to Ending
+
+**Bloomberg: Iraq Offers Oil Outside Persian Gulf for First Time Since Iran War Began - LIGA.net**
+`27 Aug 14:55 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+
+Bloomberg: Iraq Offers Oil Outside Persian Gulf for First Time Since Iran War Began LIGA.net
 
 **US administration reportedly mulling over fresh round of tariffs on semiconductors**
 `27 Aug 14:29 PKT` · pehli baar dekhi `27 Aug 15:38` · investinglive
@@ -1880,15 +2615,30 @@ Qatar&#039;s PM will meet Iranian officials to discuss ways to de-escalate tensi
 
 The warning comes after new U.S. intelligence assessments indicated the Russian president could launch a limited assault.
 
-### BINA TAG (163)
+### BINA TAG (197)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `28 Aug 02:55` **aljazeera** — Raphinha scores again as Barcelona ease past Athletic Club in La Liga
+- `28 Aug 02:48` **wsj_world** — Opinion | Would Putin Really Tangle With NATO?
+- `28 Aug 02:44` **bbc_business** — 'Cowboy builders' targeted in new government clampdown
+- `28 Aug 02:43` **mining_com** — Cyclic Materials lands $75M to expand US rare earth recycling
+- `28 Aug 02:42` **aljazeera** — Crystal Palace vs Man City: Premier League – prediction, teams, lineups
+- `28 Aug 02:33` **wsj_world** — Opinion | The Man Who Stared Into Oblivion
+- `28 Aug 02:24` **kitco_general** — Tharisa's Zimbabwe platinum unit signs offtake deal with Valterra - KITCO
+- `28 Aug 02:14` **wsj_markets** — Auto & Transport Roundup: Market Talk
+- `28 Aug 02:07` **kitco_general** — Argentina, Chile revive cross-border mining framework for investment - KITCO
+- `28 Aug 02:07` **kitco_general** — South Africa's Harmony raises dividend after profit surge - KITCO
+- `28 Aug 02:02` **kitco_general** — Alrosa posts H1 loss due to weak diamond market, strong rouble - KITCO
+- `28 Aug 01:58` **wsj_markets** — Nvidia Breaks Its Post-Earnings Curse With $442 Billion Day
+- `28 Aug 01:52` **aljazeera** — Video: Trump signs order to re-name Lake Ontario as Lake America
+- `28 Aug 01:48` **mw_topstories** — 20 stocks likely to lose money even if the bull market continues
 - `28 Aug 01:46` **instaforex** — U.S. Bank Reserves Edge Lower to $2.916 Trillion, Signaling Steady Liquidity Conditions
 - `28 Aug 01:46` **instaforex** — Uruguay Unemployment Holds at 7%
 - `28 Aug 01:46` **instaforex** — US Natgas Prices Rise to 5-Week High
 - `28 Aug 01:46` **instaforex** — US Natural Gas Stocks Rise Less Than Expected
 - `28 Aug 01:46` **instaforex** — US Mortgage Rates Edge Higher
+- `28 Aug 01:40` **mining_com** — Zinc price jumps to 4-year high as LME stocks plunge 64%
 - `28 Aug 01:40` **wsj_world** — Opinion | The Path to Zero: The Tragic Withdrawal From Afghanistan
 - `28 Aug 01:38` **aljazeera** — US Postal Service says mail-in ballot restrictions now in effect
 - `28 Aug 01:37` **investing_news** — Marvell issues better-than-expected revenue guidance, shares slip after big run-up
@@ -1915,9 +2665,11 @@ The warning comes after new U.S. intelligence assessments indicated the Russian 
 - `28 Aug 00:57` **aljazeera** — Nigeria's football federation chief resigns amid corruption allegations
 - `28 Aug 00:55` **mw_topstories** — Good Good Golf ad fallout deepens as Callaway ends partnership, retailers pull gear and Golf Channel delays show
 - `28 Aug 00:51` **wsj_markets** — U.S. Natural Gas Gains as September Contract Expires
+- `28 Aug 00:44` **bbc_business** — Time is running out for cyber security, warn top tech firms
 - `28 Aug 00:43` **aljazeera** — How a glacial collapse caused Nepal's catastrophic floods
 - `28 Aug 00:43` **fxstreet_news** — Indonesian Rupiah: Policy synergy focus supports IDR – DBS
 - `28 Aug 00:38` **aljazeera** — People in Bosnia react to the death of Ratko Mladic, 'butcher of Bosnia'
+- `28 Aug 00:36` **gnews_fed** — Tenth District Manufacturing Activity Increased Further in August - Federal Reserve Bank of Kansas City
 - `28 Aug 00:30` **instaforex** — U.S. Natural Gas Storage Build Slows as Weekly Injection Dips to 15B
 - `28 Aug 00:20` **aljazeera** — Why are kidnappings recurrent in Nigeria?
 - `28 Aug 00:15` **aljazeera** — Parents who lost children to social media harms question Meta settlement
@@ -1925,10 +2677,12 @@ The warning comes after new U.S. intelligence assessments indicated the Russian 
 - `28 Aug 00:05` **aljazeera** — Abbas gives Pakistan edge with four wickets against England in second Test
 - `28 Aug 00:05` **mw_topstories** — This new Social Security math could lead us down a dangerous road
 - `28 Aug 00:00` **mw_topstories** — 'She looked into COBRA': My friend was laid off and lost her health insurance. How can she find affordable coverage?
+- `28 Aug 00:00` **kitco_general** — Videos - KITCO
 - `27 Aug 23:56` **aljazeera** — Three killed in strikes on Gaza as Israel renews threats over kite-flying
 - `27 Aug 23:39` **instaforex** — Baltic Dry Index Hits Near 3-Month Peak
 - `27 Aug 23:34` **wsj_world** — Opinion | Beware the Coming Consumption-Tax Storm in America
 - `27 Aug 23:10` **aljazeera** — PSG to face Barcelona, Man City and Villa in Champions League as draw made
+- `27 Aug 23:04` **gnews_fed** — Chinese Hacking Operation Targeted U.S. Senate, NASA, Federal Reserve - Security Boulevard
 - `27 Aug 23:00` **mw_topstories** — 'The estrangement isn't about politics': My daughter hasn't spoken to me for 4 years. Do I leave her a monthly annuity?
 - `27 Aug 22:49` **mining_com** — Lithium price: BMI raises forecast, warns rally has outrun fundamentals
 - `27 Aug 22:43` **mw_topstories** — SpaceX's $100 billion spaceport plan has investors asking where all the money is coming from
@@ -1937,20 +2691,34 @@ The warning comes after new U.S. intelligence assessments indicated the Russian 
 - `27 Aug 21:34` **aljazeera** — Ex-ICE agent charged over shooting is freed by Texas authorities
 - `27 Aug 21:25` **wsj_markets** — Tech, Media & Telecom Roundup: Market Talk
 - `27 Aug 21:23` **aljazeera** — Besieged Qusra residents fear permanent Israeli presence
+- `27 Aug 21:21` **gnews_fed** — Former Mpls. Federal Reserve president Bruce MacLaury dies at 95 - The Business Journals
 - `27 Aug 21:07` **bbc_business** — Hackers steal data from millions of airport customers
 - `27 Aug 21:07` **fxstreet_news** — Twenty-eight names eat the Dow Jones Industrial Average's two blowouts
 - `27 Aug 20:59` **wsj_world** — See How the Deadly Flooding in Nepal and China Unfolded
 - `27 Aug 20:51` **aljazeera** — LIVE: Barcelona vs Athletic Club – La Liga
 - `27 Aug 20:33` **bbc_business** — One in eight young people still out of work or education ahead of major review
 - `27 Aug 20:30` **yahoo_finance** — Bank of America doubles down on Nvidia stock
+- `27 Aug 20:19` **gnews_fed** — Lisa Cook pushes back against Trump's attempt to fire her - upi.com
+- `27 Aug 20:17` **gnews_fed** — Lisa Cook Turns Mortgage Fraud Accusations Back on Trump and Bessent - News of the United States - NOTUS
+- `27 Aug 20:15` **gnews_fed** — Lisa Cook denies wrongdoing, fights removal from Federal Reserve bank - USA Today
+- `27 Aug 20:13` **gnews_fed** — Trump's bid to remove Lisa Cook over mortgage claims challenged - HousingWire
 - `27 Aug 20:02` **investinglive** — Incredibly, tropical storm Dolly could be the first major storm of the year
 - `27 Aug 19:41` **fxstreet_news** — Chinese Yuan: Structural export drivers outweigh CNY – Commerzbank
 - `27 Aug 19:16` **wsj_world** — Taiwan Lines Up $7 Billion Boost for Drone Builders to Counter China
+- `27 Aug 19:10` **gnews_fed** — China Hacked NASA, Federal Reserve: FBI Seizes Platforms Behind Eight-Year Breach - InsuranceNewsNet
 - `27 Aug 19:03` **investinglive** — Salesforce is soaring after its earnings beat yesterday. What are the technicals telling traders for it?
 - `27 Aug 18:24` **bbc_business** — What the Meta settlement means for the UK, and other questions after the deal
+- `27 Aug 18:09` **kitco_general** — Nasdaq leads Wall St higher as Nvidia eases AI growth concerns - KITCO
+- `27 Aug 17:49` **kitco_general** — Wall St banks turn on each other as capital fight nears endgame - KITCO
+- `27 Aug 17:42` **kitco_general** — World stocks steady as Nvidia outlook lifts tech shares - KITCO
+- `27 Aug 17:37` **gnews_centralbanks** — European Central Bank saw a further hike as likely at July meeting - The Standard (HK)
+- `27 Aug 17:35` **gnews_fed** — Cook argues Trump administration has no legal basis to remove her from Federal Reserve board - The Hill
 - `27 Aug 17:32` **investinglive** — US Wholesale inventories (advanced) for July 1.3% vs 0.2% estimate
+- `27 Aug 17:07` **gnews_centralbanks** — Pound Holds Near Weekly Low as UK Fiscal Woes and Rate Expectations Weigh - CryptoRank
+- `27 Aug 17:00` **gnews_fed** — What to know about the Federal Reserve's big Jackson Hole conference - Axios
 - `27 Aug 16:16` **bbc_business** — Much-loved ice cream shop to close after 106 years
 - `27 Aug 16:00` **wsj_markets** — Kalshi and the Weather Co. Join Forces on Climate Trades
+- `27 Aug 15:56` **gnews_fed** — U.S. Says Chinese Hackers Targeted Senate, NASA, Hospitals, and More - Time Magazine
 - `27 Aug 15:38` **instaforex** — Israel's Industrial Slump Eases in June as Output Nears Stability
 - `27 Aug 15:38` **instaforex** — Mozambique Economy Gains Traction in Q2
 - `27 Aug 15:32` **investing_news** — Guggenheim raises Okta stock price target on strong results
@@ -1973,6 +2741,7 @@ The warning comes after new U.S. intelligence assessments indicated the Russian 
 - `27 Aug 14:33` **wsj_markets** — Aker Shares Climb After Nscale Gets $45 Billion Contract
 - `27 Aug 14:30` **wsj_markets** — The $2 Billion Brawl Over a Ruinous Wood-Pellet Trade
 - `27 Aug 14:30` **wsj_markets** — Nvidia's $279 Billion Supply-Chain Gamble
+- `27 Aug 14:27` **gnews_centralbanks** — Global central banks to announce monetary policy decisions in September - usmuslims.com
 - `27 Aug 14:26` **aljazeera** — Photos: More than 1,300 missing in Nepal and Tibet after deadly floods
 - `27 Aug 14:21` **gnews_fed** — US Justice Department and FBI seize domains claimed to be used by China-linked hacking group targeting NA - The Times of India
 - `27 Aug 14:15` **mw_topstories** — My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?
@@ -2064,48 +2833,42 @@ investing_news (12)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 30 | 0 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 6 | 3 | 3 | 24 | 0.1 |
-| actionforex | OK | 20 | 20 | 11 | 9 | 0 | 0.2 |
-| marketpulse | OK | 5 | 3 | 1 | 2 | 2 | 0.4 |
+| investinglive | OK | 25 | 25 | 21 | 4 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 21 | 9 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 5 | 1 | 4 | 25 | 0.0 |
+| actionforex | OK | 20 | 20 | 7 | 13 | 0 | 0.1 |
+| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.7 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 11 | 4 | 7 | 25 | 0.1 |
-| cme_metals_video | OK | 10 | 4 | 2 | 2 | 6 | 0.1 |
-| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
-| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
-| cme_energy_video | OK | 10 | 3 | 1 | 2 | 7 | 0.0 |
-| cme_daily_commentary | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 14.7 |
-| kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_geopolitics | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_centralbanks | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 22.0 |
-| ecb_press | OK | 15 | 2 | 1 | 1 | 13 | 0.4 |
-| boe_news | OK | 50 | 1 | 1 | 0 | 49 | 0.3 |
-| boj_whatsnew | OK | 48 | 2 | 0 | 2 | 46 | 0.8 |
-| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 0.7 |
-| mining_com | OK | 36 | 17 | 6 | 11 | 19 | 0.1 |
-| oilprice | OK | 15 | 15 | 15 | 0 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 1 | 9 | 0 | 0.4 |
-| bbc_business | OK | 54 | 29 | 5 | 24 | 25 | 0.0 |
+| wsj_economy | OK | 36 | 11 | 2 | 9 | 25 | 0.1 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.3 |
+| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.3 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.3 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 15.0 |
+| kitco_general | OK | 26 | 26 | 24 | 2 | 0 | 0.2 |
+| gnews_fed | OK | 100 | 100 | 92 | 8 | 0 | 0.0 |
+| gnews_geopolitics | OK | 46 | 46 | 33 | 13 | 0 | 0.1 |
+| gnews_centralbanks | OK | 73 | 73 | 55 | 18 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 22.4 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.7 |
+| boj_whatsnew | OK | 47 | 1 | 0 | 1 | 46 | 1.1 |
+| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 1.0 |
+| mining_com | OK | 36 | 11 | 3 | 8 | 25 | 0.2 |
+| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.2 |
+| investing_commodities | OK | 10 | 10 | 6 | 4 | 0 | 0.1 |
+| ing_think | OK | 10 | 6 | 2 | 4 | 4 | 0.1 |
+| bbc_business | OK | 55 | 23 | 7 | 16 | 32 | 0.1 |
 | aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 27.5 |
-| eia_energy | OK | 20 | 1 | 0 | 1 | 19 | 1.3 |
-| bea_releases | OK | 48 | 2 | 0 | 2 | 46 | 1.3 |
-| wsj_world | OK | 73 | 30 | 9 | 21 | 43 | 0.0 |
-| wsj_markets | OK | 61 | 37 | 14 | 23 | 24 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 27.8 |
+| eia_energy | OK | 20 | 0 | 0 | 0 | 20 | 1.6 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 1.7 |
+| wsj_world | OK | 72 | 23 | 6 | 17 | 49 | 0.1 |
+| wsj_markets | OK | 61 | 34 | 11 | 23 | 27 | 0.1 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 42 | 32 | 10 | 8 | 0.2 |
-| mw_topstories | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 30 | 11 | 19 | 0 | 0.0 |
-
-**Jo feeds nahi aaye:**
-- kitco_general — FAIL, HTTP 503
-- gnews_fed — FAIL, HTTP 503
-- gnews_geopolitics — FAIL, HTTP 503
-- gnews_centralbanks — FAIL, HTTP 503
+| yahoo_finance | OK | 48 | 5 | 3 | 2 | 43 | 0.6 |
+| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 20 | 1 | 19 | 10 | 0.0 |
