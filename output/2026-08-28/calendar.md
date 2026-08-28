@@ -1,6 +1,6 @@
 # Calendar — Trading Day 28 Aug 2026
 
-- Banaya gaya: **28 Aug 2026 22:34 PKT**
+- Banaya gaya: **29 Aug 2026 02:36 PKT**
 - Trading day: **28 Aug 03:00 -> 29 Aug 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,8 +12,8 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **29 Aug** 20:15 | All | low | G20 Meetings | - | - |
-| **29 Aug** 21:15 | All | MED | Jackson Hole Symposium | - | - |
+| 20:15 | All | low | G20 Meetings | - | - |
+| 21:15 | All | MED | Jackson Hole Symposium | - | - |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
