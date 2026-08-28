@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "28 Aug 2026 11:16",
+  "generated_pkt": "28 Aug 2026 22:34",
   "trading_day": "2026-08-28",
   "feed_sources": {
     "thisweek": "live"
@@ -793,9 +793,9 @@
       "previous": "4.00|1.7",
       "url": "https://www.forexfactory.com/calendar/524-it-10-y-bond-auction",
       "all_day": false,
-      "utc": "2026-08-28T09:33Z",
-      "pkt": "28 Aug 14:33",
-      "pkt_iso": "2026-08-28T14:33:00+05:00",
+      "utc": "2026-08-28T09:09Z",
+      "pkt": "28 Aug 14:09",
+      "pkt_iso": "2026-08-28T14:09:00+05:00",
       "trading_day": "2026-08-28"
     },
     {
@@ -942,5 +942,36 @@
       "trading_day": "2026-08-29"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "Univ of Michigan final sentiment index for August 51.7 vs 51.0 estimate",
+      "actual_raw": "51.7",
+      "forecast_raw": "51.0",
+      "beat": true,
+      "raw_diff": "+0.70",
+      "sign_flip": false,
+      "diff_pct": 1.4,
+      "when_pkt": "28 Aug 19:00",
+      "source": "investinglive",
+      "tags": [
+        "risk",
+        "usd"
+      ]
+    },
+    {
+      "title": "Canada GDP Q2 annualized 3.3% vs 3.4% estimate",
+      "actual_raw": "3.3%",
+      "forecast_raw": "3.4%",
+      "beat": false,
+      "raw_diff": "-0.10pp",
+      "sign_flip": false,
+      "diff_pct": -2.9,
+      "when_pkt": "28 Aug 17:35",
+      "source": "investinglive",
+      "tags": [
+        "cad",
+        "usd"
+      ]
+    }
+  ]
 }
