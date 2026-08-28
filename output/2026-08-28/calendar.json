@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "28 Aug 2026 06:13",
+  "generated_pkt": "28 Aug 2026 11:16",
   "trading_day": "2026-08-28",
   "feed_sources": {
     "thisweek": "live"
@@ -887,6 +887,19 @@
       "utc": "2026-08-28T14:00Z",
       "pkt": "28 Aug 19:00",
       "pkt_iso": "2026-08-28T19:00:00+05:00",
+      "trading_day": "2026-08-28"
+    },
+    {
+      "title": "MPC Member Mann Speaks",
+      "ccy": "GBP",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/848-uk-mpc-member-mann-speaks",
+      "all_day": false,
+      "utc": "2026-08-28T14:30Z",
+      "pkt": "28 Aug 19:30",
+      "pkt_iso": "2026-08-28T19:30:00+05:00",
       "trading_day": "2026-08-28"
     },
     {

@@ -1,6 +1,6 @@
 # Calendar — Trading Day 28 Aug 2026
 
-- Banaya gaya: **28 Aug 2026 06:13 PKT**
+- Banaya gaya: **28 Aug 2026 11:16 PKT**
 - Trading day: **28 Aug 03:00 -> 29 Aug 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,7 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 11:00 | EUR | low | German Import Prices m/m | 0.3% | -0.7% |
 | 11:45 | EUR | low | French Consumer Spending m/m | 0.1% | 0.4% |
 | 11:45 | EUR | low | French Final Private Payrolls q/q | -0.1% | -0.1% |
 | 11:45 | EUR | low | French Prelim CPI m/m | 0.7% | 0.6% |
@@ -28,6 +27,7 @@
 | 19:00 | USD | **HIGH** | Prelim Benchmark Payrolls Revision | - | -911K |
 | 19:00 | USD | MED | Revised UoM Consumer Sentiment | 51.0 | 51.0 |
 | 19:00 | USD | MED | Revised UoM Inflation Expectations | - | 4.3% |
+| 19:30 | GBP | low | MPC Member Mann Speaks | - | - |
 | 21:15 | All | **HIGH** | Jackson Hole Symposium | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
