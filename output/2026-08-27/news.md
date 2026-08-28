@@ -1,9 +1,9 @@
 # News Pack — Trading Day 27 Aug 2026
 
 - Trading day: **27 Aug 03:00 -> 28 Aug 02:59 PKT**
-- Aakhri update: **28 Aug 09:55 PKT**
-- Kul khabrein: **771**
-- Feeds: 39/39 OK
+- Aakhri update: **28 Aug 22:13 PKT**
+- Kul khabrein: **786**
+- Feeds: 38/39 OK
 
 ---
 
@@ -509,6 +509,9 @@ How will stocks perform when the Fed chair speaks at Jackson Hole? Here's what h
 `27 Aug 23:28 PKT` · pehli baar dekhi `28 Aug 01:46` · wsj_markets
 
 The Treasury auctioned $44 billion in seven-year notes at a yield of 4.512%, the highest since December 2024.
+
+**Jackson Hole Fed summit live: Kevin Warsh's keynote speech comes at a pivotal moment for the Federal Reserve**
+`27 Aug 23:04 PKT` · pehli baar dekhi `28 Aug 22:13` · yahoo_finance
 
 **What Warsh will say and how the market will react, according to prediction markets - CNBC**
 `27 Aug 23:04 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_fed
@@ -1158,10 +1161,36 @@ Jackson Hole opens as Fed Chair Warsh faces first major policy test 헤럴드경
 
 European equities closed sharply lower on Thursday, pressured by broad-based declines in banking and industrial heavyweights. The Euro STOXX 50 shed 0.75% to finish at 6,422, while the STOXX Europe 600 lost 0.7% to close at 651.7. The banking sector led the downturn, erasing much of the week's earlier gains as worries over tighter financial conditions resurfaced.
 
+**ECB saw a further hike as likely at July meeting - Y100 WNCY**
+`28 Aug 01:34 PKT` · pehli baar dekhi `28 Aug 22:13` · gnews_centralbanks · **2 feeds mein**
+
+ECB saw a further hike as likely at July meeting Y100 WNCY
+  - `27 Aug 17:14` *gnews_centralbanks* — ECB saw a further hike as likely at July meeting - Reuters
+
+**Euro Outlook: Rabobank Sees Choppy Range Trading Ahead - CryptoRank**
+`28 Aug 00:46 PKT` · pehli baar dekhi `28 Aug 22:13` · gnews_centralbanks
+
+Euro Outlook: Rabobank Sees Choppy Range Trading Ahead CryptoRank
+
 **Euro zone faces inflation slowdown, but energy risks cloud rate hike outlook - The Brussels Times**
 `28 Aug 00:46 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
 
 Euro zone faces inflation slowdown, but energy risks cloud rate hike outlook The Brussels Times
+
+**Pound-to-Euro Flat as BoE Rate Hike Expectations Fade - CurrencyNews.co.uk**
+`28 Aug 00:31 PKT` · pehli baar dekhi `28 Aug 22:13` · gnews_centralbanks
+
+Pound-to-Euro Flat as BoE Rate Hike Expectations Fade CurrencyNews.co.uk
+
+**Euro Zone Lending Accelerates in July as ECB Signals More Hikes Ahead - finance.biggo.com**
+`28 Aug 00:09 PKT` · pehli baar dekhi `28 Aug 22:13` · gnews_centralbanks
+
+Euro Zone Lending Accelerates in July as ECB Signals More Hikes Ahead finance.biggo.com
+
+**EUR/USD Holds Bullish Structure Despite Rejection Near 1.1700 - Investing.com**
+`27 Aug 23:42 PKT` · pehli baar dekhi `28 Aug 22:13` · gnews_centralbanks
+
+EUR/USD Holds Bullish Structure Despite Rejection Near 1.1700 Investing.com
 
 **ECB Accounts: Hawks Were Ready to Hike July, Credit Surge Proves Them Right - Tech Times**
 `27 Aug 23:27 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
@@ -1264,11 +1293,6 @@ ECB's unanimous decision to hold rates in July concealed a distinctly hawkish de
 `27 Aug 17:16 PKT` · pehli baar dekhi `28 Aug 01:46` · actionforex
 
 Account of the monetary policy meeting of the Governing Council of the European Central Bank held in Frankfurt am Main on Wednesday and Thursday, 22-23 July 2026 27 August 2026 1. Review of financial, economic and monetary developments and policy options Financial market developments Ms Schnabel started her presentation with the observation that since the Governing [&#8230;] The post (ECB) Monetary policy accounts appeared first on ActionForex.
-
-**ECB saw a further hike as likely at July meeting - Reuters**
-`27 Aug 17:14 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
-
-ECB saw a further hike as likely at July meeting Reuters
 
 **ECB Accounts: Rate hike pause may prove short-lived - FXStreet**
 `27 Aug 17:08 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_centralbanks
@@ -1871,10 +1895,25 @@ The NZD/USD pair slips back below mid-0.5900s during the early European session 
 
 ### OIL
 
+**Oil Falls After US-Iran Talks Signal Easing Supply Risks - EnergyNow.com**
+`28 Aug 02:52 PKT` · pehli baar dekhi `28 Aug 22:13` · gnews_geopolitics
+
+Oil Falls After US-Iran Talks Signal Easing Supply Risks EnergyNow.com
+
 **Iran says it is preparing list of conditions for reopening Strait of Hormuz**
 `28 Aug 02:41 PKT` · pehli baar dekhi `28 Aug 09:55` · investinglive
 
 The comments add a layer of specificity to the Iran-Oman track without resolving the broader uncertainty markets have been pricing around Hormuz. Confirmation that Iran and Oman have settled on a shipping corridor, split between each country's territorial waters, supports the narrative of incremental progress that has weighed on crude this week.
+
+**Oil Rises on Intensifying US-Iran Hostilities, Threat of Red Sea Closure - EnergyNow**
+`28 Aug 02:35 PKT` · pehli baar dekhi `28 Aug 22:13` · gnews_geopolitics
+
+Oil Rises on Intensifying US-Iran Hostilities, Threat of Red Sea Closure EnergyNow
+
+**US Oil Executives Expect Crude Output to Rise as Iran War Continues, Survey Shows - EnergyNow**
+`28 Aug 02:34 PKT` · pehli baar dekhi `28 Aug 22:13` · gnews_geopolitics
+
+US Oil Executives Expect Crude Output to Rise as Iran War Continues, Survey Shows EnergyNow
 
 **Oil Rises as Iran Deal Hopes Fade - Rigzone**
 `28 Aug 02:04 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
@@ -1913,9 +1952,10 @@ Expert says Iran losing Hormuz leverage as defenses and oil role decline The Jer
 The Trump administration is reportedly in active discussions with Venezuela's interim government to acquire a direct U.S. ownership stake in key Venezuelan oil fields. According to senior U.S. officials cited by Axios, the talks involve equity stakes in a select group of high-yield fields containing approximately 90 billion barrels of proven crude—a transaction that would significantly alter Washington's foreign energy policy framework and expand U.S.-controlled global reserves.
 
 **Crude Oil Settles Higher on Diplomacy Doubts to End US-Iran War - TradingView**
-`28 Aug 00:16 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics
+`28 Aug 00:16 PKT` · pehli baar dekhi `28 Aug 09:55` · gnews_geopolitics · **2 feeds mein**
 
 Crude Oil Settles Higher on Diplomacy Doubts to End US-Iran War TradingView
+  - `28 Aug 00:16` *gnews_geopolitics* — Crude Oil Settles Higher on Diplomacy Doubts to End US-Iran War - Barchart.com
 
 **Trump's War on Offshore Wind Leaves U.S. Workers in Limbo**
 `28 Aug 00:00 PKT` · pehli baar dekhi `28 Aug 01:46` · oilprice
@@ -2417,6 +2457,16 @@ What Nvidia's earnings can teach investors about growth, margins and valuation N
 
 ### RISK
 
+**Oil Falls to Lowest Since Start of Iran War After Ceasefire Deal Signed - EnergyNow.com**
+`28 Aug 02:53 PKT` · pehli baar dekhi `28 Aug 22:13` · gnews_geopolitics
+
+Oil Falls to Lowest Since Start of Iran War After Ceasefire Deal Signed EnergyNow.com
+
+**Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says - EnergyNow.com**
+`28 Aug 02:42 PKT` · pehli baar dekhi `28 Aug 22:13` · gnews_geopolitics
+
+Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says EnergyNow.com
+
 **China: Beijing balances tariff pushback and dialogue – BNY**
 `28 Aug 02:39 PKT` · pehli baar dekhi `28 Aug 09:55` · fxstreet_news
 
@@ -2426,6 +2476,11 @@ Geoff Yu at BNY reports that China is opposing potential new U.S. Section 301 ta
 `28 Aug 01:39 PKT` · pehli baar dekhi `28 Aug 01:46` · instaforex
 
 Aluminum futures in the UK hovered around $3,230 per tonne, moving within a narrow range after retreating from an eight-week high of $3,360 reached on August 11th, amid a brief easing of supply tightness. Chinese aluminum exports, from the world's largest producer, jumped 18.7% year-on-year in July.
+
+**US, Gulf allies threaten Iran with sanctions in UN proposal if it doesn't release Hormuz chokehold - News On AIR**
+`28 Aug 01:16 PKT` · pehli baar dekhi `28 Aug 22:13` · gnews_geopolitics
+
+US, Gulf allies threaten Iran with sanctions in UN proposal if it doesn't release Hormuz chokehold News On AIR
 
 **US President Trump signs order renaming Lake Ontario to 'Lake America'**
 `28 Aug 01:06 PKT` · pehli baar dekhi `28 Aug 01:46` · aljazeera
@@ -2615,7 +2670,7 @@ Qatar&#039;s PM will meet Iranian officials to discuss ways to de-escalate tensi
 
 The warning comes after new U.S. intelligence assessments indicated the Russian president could launch a limited assault.
 
-### BINA TAG (197)
+### BINA TAG (199)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2678,6 +2733,7 @@ The warning comes after new U.S. intelligence assessments indicated the Russian 
 - `28 Aug 00:05` **mw_topstories** — This new Social Security math could lead us down a dangerous road
 - `28 Aug 00:00` **mw_topstories** — 'She looked into COBRA': My friend was laid off and lost her health insurance. How can she find affordable coverage?
 - `28 Aug 00:00` **kitco_general** — Videos - KITCO
+- `27 Aug 23:58` **yahoo_finance** — Generali Global Assistance travel insurance review: 4.4 out of 5 stars
 - `27 Aug 23:56` **aljazeera** — Three killed in strikes on Gaza as Israel renews threats over kite-flying
 - `27 Aug 23:39` **instaforex** — Baltic Dry Index Hits Near 3-Month Peak
 - `27 Aug 23:34` **wsj_world** — Opinion | Beware the Coming Consumption-Tax Storm in America
@@ -2745,6 +2801,7 @@ The warning comes after new U.S. intelligence assessments indicated the Russian 
 - `27 Aug 14:26` **aljazeera** — Photos: More than 1,300 missing in Nepal and Tibet after deadly floods
 - `27 Aug 14:21` **gnews_fed** — US Justice Department and FBI seize domains claimed to be used by China-linked hacking group targeting NA - The Times of India
 - `27 Aug 14:15` **mw_topstories** — My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?
+- `27 Aug 14:00` **bbc_business** — The Global Story
 - `27 Aug 13:59` **bbc_business** — 'End of an era' for ice cream shop open 106 years
 - `27 Aug 13:58` **aljazeera** — Malaysia's former PM Ismail Sabri charged with concealing assets
 - `27 Aug 13:57` **aljazeera** — Chaos mars Fenerbahce's Champions League qualifying win over Lyon
@@ -2833,42 +2890,42 @@ investing_news (12)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 21 | 4 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 21 | 9 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 5 | 1 | 4 | 25 | 0.0 |
-| actionforex | OK | 20 | 20 | 7 | 13 | 0 | 0.1 |
-| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 0.7 |
+| investinglive | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 29 | 29 | 0 | 1 | 0.0 |
+| fxstreet_analysis | OK | 30 | 9 | 4 | 5 | 21 | 0.0 |
+| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.1 |
+| marketpulse | OK | 5 | 1 | 0 | 1 | 4 | 1.3 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 11 | 2 | 9 | 25 | 0.1 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.3 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.3 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.3 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 15.0 |
-| kitco_general | OK | 26 | 26 | 24 | 2 | 0 | 0.2 |
-| gnews_fed | OK | 100 | 100 | 92 | 8 | 0 | 0.0 |
-| gnews_geopolitics | OK | 46 | 46 | 33 | 13 | 0 | 0.1 |
-| gnews_centralbanks | OK | 73 | 73 | 55 | 18 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 22.4 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.7 |
-| boj_whatsnew | OK | 47 | 1 | 0 | 1 | 46 | 1.1 |
-| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 1.0 |
-| mining_com | OK | 36 | 11 | 3 | 8 | 25 | 0.2 |
-| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.2 |
-| investing_commodities | OK | 10 | 10 | 6 | 4 | 0 | 0.1 |
-| ing_think | OK | 10 | 6 | 2 | 4 | 4 | 0.1 |
-| bbc_business | OK | 55 | 23 | 7 | 16 | 32 | 0.1 |
+| wsj_economy | OK | 36 | 15 | 6 | 9 | 21 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.9 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.8 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.8 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.9 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.8 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 15.5 |
+| kitco_general | OK | 37 | 37 | 21 | 16 | 0 | 0.0 |
+| gnews_fed | OK | 100 | 100 | 99 | 1 | 0 | 0.0 |
+| gnews_geopolitics | OK | 72 | 72 | 51 | 21 | 0 | 0.0 |
+| gnews_centralbanks | OK | 46 | 46 | 36 | 10 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.0 |
+| fed_speeches | OK | 15 | 1 | 1 | 0 | 14 | 0.1 |
+| ecb_press | OK | 15 | 2 | 1 | 1 | 13 | 0.1 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 1.2 |
+| boj_whatsnew | OK | 47 | 2 | 1 | 1 | 45 | 0.5 |
+| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 1.5 |
+| mining_com | OK | 36 | 13 | 2 | 11 | 23 | 0.0 |
+| oilprice | OK | 15 | 15 | 15 | 0 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 10 | 0 | 0 | 0.1 |
+| bbc_business | OK | 33 | 23 | 10 | 13 | 10 | 0.0 |
 | aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 27.8 |
-| eia_energy | OK | 20 | 0 | 0 | 0 | 20 | 1.6 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 1.7 |
-| wsj_world | OK | 72 | 23 | 6 | 17 | 49 | 0.1 |
-| wsj_markets | OK | 61 | 34 | 11 | 23 | 27 | 0.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 28.3 |
+| eia_energy | OK | 21 | 1 | 1 | 0 | 20 | 0.1 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 2.2 |
+| wsj_world | OK | 72 | 31 | 8 | 23 | 41 | 0.1 |
+| wsj_markets | OK | 61 | 39 | 16 | 23 | 22 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 48 | 5 | 3 | 2 | 43 | 0.6 |
-| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 20 | 1 | 19 | 10 | 0.0 |
+| yahoo_finance | OK | 50 | 47 | 46 | 1 | 3 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 13 | 17 | 0 | 0.0 |
