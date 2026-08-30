@@ -1,9 +1,9 @@
 # News Pack — Trading Day 29 Aug 2026
 
 - Trading day: **29 Aug 03:00 -> 30 Aug 02:59 PKT**
-- Aakhri update: **30 Aug 05:21 PKT**
-- Kul khabrein: **544**
-- Feeds: 38/39 OK
+- Aakhri update: **30 Aug 10:36 PKT**
+- Kul khabrein: **589**
+- Feeds: 37/39 OK
 
 ---
 
@@ -70,11 +70,26 @@ Gold Plunges Over $147 as Fed's Inflation Stance Revives Rate-Hike Bets finance.
 **He Never Sold His Silver Futures. The IRS Pretended He Did and Taxed More of His Social Security.**
 `29 Aug 23:02 PKT` · pehli baar dekhi `30 Aug 00:51` · yahoo_finance
 
+**Silver Price Prediction: Bull Trap Could Send Prices Back to… - CaptainAltcoin**
+`29 Aug 22:02 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_fed
+
+Silver Price Prediction: Bull Trap Could Send Prices Back to… CaptainAltcoin
+
+**Gold, Silver Futures Slip on Fed Rate Hike Signals - Whalesbook**
+`29 Aug 21:18 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_fed
+
+Gold, Silver Futures Slip on Fed Rate Hike Signals Whalesbook
+
 **Gold posts nearly 1.86 pc weekly dip over hawkish stance of US Fed Reserve - IBTimes India**
 `29 Aug 18:52 PKT` · pehli baar dekhi `30 Aug 05:21` · gnews_fed · **2 feeds mein**
 
 Gold posts nearly 1.86 pc weekly dip over hawkish stance of US Fed Reserve IBTimes India
   - `29 Aug 13:14` *gnews_fed* — Gold posts nearly 1.86 pc weekly dip over hawkish stance of US Fed Reserve - Social News XYZ
+
+**Gold prices slide as US inflation, Fed signals weigh on markets - Daijiworld**
+`29 Aug 16:13 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_fed
+
+Gold prices slide as US inflation, Fed signals weigh on markets Daijiworld
 
 **Trump-promoted brand touts GOLD before token collapse**
 `29 Aug 15:53 PKT` · pehli baar dekhi `29 Aug 18:25` · cointelegraph
@@ -118,6 +133,11 @@ President Muhammadu Buhari unveils 60th Independence logo, Gold prices surge hig
 
 ### USD
 
+**Warsh, After Talking Tough on Inflation, Faces a 'No-Win Situation' on Rates - The New York Times**
+`30 Aug 02:47 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_fed
+
+Warsh, After Talking Tough on Inflation, Faces a 'No-Win Situation' on Rates The New York Times
+
 **America In Focus: key inflation gauge remains high; Fed's Warsh signals rate hikes may be needed - The Edwardsville Intelligencer**
 `30 Aug 02:41 PKT` · pehli baar dekhi `30 Aug 05:21` · gnews_centralbanks · **3 feeds mein**
 
@@ -148,10 +168,20 @@ Federal Reserve signals possible rate rise as Warsh sharpens inflation stance be
 Key takeaways from the Fed's annual Jackson Hole conference Fortune
   - `29 Aug 23:27` *gnews_fed* — Key Takeaways From the Fed's Annual Jackson Hole Conference - Bloomberg.com
 
+**US Jobs Report Seen Backing Warsh View of Labor Market - Bloomberg.com**
+`30 Aug 01:00 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_fed
+
+US Jobs Report Seen Backing Warsh View of Labor Market Bloomberg.com
+
 **XRP Price Drops Sharply After Fed Chair's Comments - Bitget**
 `30 Aug 00:53 PKT` · pehli baar dekhi `30 Aug 03:09` · gnews_fed
 
 XRP Price Drops Sharply After Fed Chair's Comments Bitget
+
+**'There are reasons to be concerned': Kevin Warsh's full Jackson Hole speech on Fed, inflation & more - The Economic Times**
+`30 Aug 00:53 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_fed
+
+'There are reasons to be concerned': Kevin Warsh's full Jackson Hole speech on Fed, inflation & more The Economic Times
 
 **Warsh Signals Rate Hike Clash With Trump Ahead of Midterms - 조선일보**
 `30 Aug 00:52 PKT` · pehli baar dekhi `30 Aug 03:09` · gnews_fed
@@ -182,9 +212,10 @@ The Fed Chair Says AI Is Moving Faster Than Even Its Believers Predicted 24/7 Wa
 The Fed Quietly Changed A 47-Year-Old Bank Rule — Here's What It Means Leicester Tigers (7P3tgjVMRR) Mshale
 
 **Dow Jones Futures Prediction: Index Hovers Near 53,560 as Investors Weigh 3.7% Inflation & Fed Rate-Hike Bets Ahead of Wall Street Opening; Check Monday Market Outlook, Key Things To Watch - The Sunday Guardian**
-`29 Aug 21:38 PKT` · pehli baar dekhi `30 Aug 05:21` · gnews_fed
+`29 Aug 21:38 PKT` · pehli baar dekhi `30 Aug 05:21` · gnews_fed · **2 feeds mein**
 
 Dow Jones Futures Prediction: Index Hovers Near 53,560 as Investors Weigh 3.7% Inflation & Fed Rate-Hike Bets Ahead of Wall Street Opening; Check Monday Market Outlook, Key Things To Watch The Sunday Guardian
+  - `29 Aug 21:38` *gnews_fed* — Dow Jones Futures Prediction: Index Hovers Near 53,560 as Investors Weigh 3.7% Inflation & Fed Rate-Hike Bets Ahead of Wall Street Opening; Check Monday Market Outlook, Key Things To Watch - The Sunday Guardian
 
 **Fed's Warsh: Inflation not slowing, 2% target by 2026 remains priority - Crypto Briefing**
 `29 Aug 21:33 PKT` · pehli baar dekhi `30 Aug 05:21` · gnews_fed
@@ -202,9 +233,10 @@ Warsh charts a forward-looking path for the Fed at Jackson Hole Financial Times
 Fed rate hike odds spike after Warsh's Jackson Hole speech Kalshi News
 
 **Fed chair Warsh signals 'work to do' on high inflation - Kuwait Times**
-`29 Aug 20:52 PKT` · pehli baar dekhi `30 Aug 03:09` · gnews_fed
+`29 Aug 20:52 PKT` · pehli baar dekhi `30 Aug 03:09` · gnews_fed · **2 feeds mein**
 
 Fed chair Warsh signals 'work to do' on high inflation Kuwait Times
+  - `29 Aug 20:40` *gnews_fed* — Fed chair Warsh signals 'work to do' on high inflation - Kuwait Times
 
 **Federal reserve chair says 'We have work to do' on inflation - Modern Ghana**
 `29 Aug 20:44 PKT` · pehli baar dekhi `30 Aug 00:51` · gnews_fed · **3 feeds mein**
@@ -217,6 +249,11 @@ Federal reserve chair says 'We have work to do' on inflation Modern Ghana
 `29 Aug 20:07 PKT` · pehli baar dekhi `29 Aug 22:20` · gnews_fed
 
 Wall Street Review: Stocks End Week Mixed Amid Strong Nvidia Earnings, Fed Clarity mb.ntd.com
+
+**America In Focus: Key inflation gauge remains high; Fed's Warsh signals rate hikes may be needed - The Economic Times**
+`29 Aug 19:59 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_fed
+
+America In Focus: Key inflation gauge remains high; Fed's Warsh signals rate hikes may be needed The Economic Times
 
 **Infrastructure Summit and Fed reports: D-FW Business Datebook - Dallas News**
 `29 Aug 19:45 PKT` · pehli baar dekhi `29 Aug 22:20` · gnews_fed
@@ -233,6 +270,11 @@ Fed Chair Warsh signals rate hikes may be needed with US inflation stubbornly el
   - `29 Aug 11:00` *gnews_fed* — Fed Chair Warsh signals rate hikes may be needed with US inflation stubbornly elevated - JHNewsAndGuide.com
   - `29 Aug 10:00` *gnews_fed* — Fed Chair Warsh signals rate hikes may be needed with US inflation stubbornly elevated - Decatur Daily
   - `29 Aug 04:03` *gnews_fed* — Fed Chair Warsh signals rate hikes may be needed with US inflation stubbornly elevated - PinalCentral.com
+
+**Warsh signals rate hikes may be needed at Jackson Hole speech - eciks.org**
+`29 Aug 18:54 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_fed
+
+Warsh signals rate hikes may be needed at Jackson Hole speech eciks.org
 
 **The Fed Just Changed the September Trade — Here's What Moved Markets - CryptoRank**
 `29 Aug 18:29 PKT` · pehli baar dekhi `30 Aug 03:09` · gnews_fed
@@ -292,6 +334,21 @@ Fed chair delivers tough interest rate love as Nvidia shares soar Detroit Free P
 
 Plus, Kevin Warsh is putting a September rate hike in play, and the strongest El Niño in a generation is wreaking havoc on the global economy.
 
+**Warsh guides forward without forward guidance - ING Think**
+`29 Aug 15:42 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_centralbanks
+
+Warsh guides forward without forward guidance ING Think
+
+**Hike, Pause, or Cut? Laying Down Warsh's Fed Policy Path - Liberty Nation News**
+`29 Aug 15:34 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_fed
+
+Hike, Pause, or Cut? Laying Down Warsh's Fed Policy Path Liberty Nation News
+
+**Trump dismisses inflation concerns as Fed Chair Warsh warns prices remain too high - Business Upturn**
+`29 Aug 14:55 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_fed
+
+Trump dismisses inflation concerns as Fed Chair Warsh warns prices remain too high Business Upturn
+
 **Spain's August Inflation Eases to 4.5% as Core Pressures Persist - CryptoRank**
 `29 Aug 14:47 PKT` · pehli baar dekhi `30 Aug 00:51` · gnews_centralbanks
 
@@ -311,6 +368,11 @@ Federal Reserve chair Kevin Warsh reshapes policy communication and data strateg
 `29 Aug 14:08 PKT` · pehli baar dekhi `30 Aug 03:09` · gnews_fed
 
 US Inflation Still 3.7 Percent, Fed Boss Says Too High VOI.ID
+
+**Trump says prices are falling as Fed Chair Warsh warns inflation remains too high - Business Upturn**
+`29 Aug 14:08 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_fed
+
+Trump says prices are falling as Fed Chair Warsh warns inflation remains too high Business Upturn
 
 **Why the Fed is often slow, late … and wrong in reading inflation - Fortune**
 `29 Aug 14:06 PKT` · pehli baar dekhi `29 Aug 18:25` · gnews_fed
@@ -337,6 +399,11 @@ Federal Reserve Chairman Kevin Warsh delivers keynote speech InsuranceNewsNet
 
 Federal Reserve News: Kevin Warsh Keeps September Rate Hike on Table Coin Gabbar
 
+**Markets Tumble as Fed Chair Warsh Signals Potential Rate Increase at Jackson Hole - Blockonomi**
+`29 Aug 12:12 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_fed
+
+Markets Tumble as Fed Chair Warsh Signals Potential Rate Increase at Jackson Hole Blockonomi
+
 **Warsh Signals Rate Hike as Inflation Tops Fed Target - Seoul Economic Daily**
 `29 Aug 12:12 PKT` · pehli baar dekhi `30 Aug 03:09` · gnews_fed
 
@@ -356,6 +423,12 @@ Inflation still high, rate hikes possible, Fed's Warsh warns The Arkansas Democr
 `29 Aug 11:40 PKT` · pehli baar dekhi `29 Aug 12:48` · gnews_fed
 
 Jackson Hole 2026: Markets eye Warsh's hawkish signals news.cgtn.com
+
+**Asia FX, Dollar Steady Ahead of Warsh Speech; Won Hits 13-Month High After BOK Hike - CryptoRank**
+`29 Aug 11:33 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_fed · **2 feeds mein**
+
+Asia FX, Dollar Steady Ahead of Warsh Speech; Won Hits 13-Month High After BOK Hike CryptoRank
+  - `29 Aug 06:36` *gnews_fed* — Asia FX, Dollar Steady Ahead of Warsh Speech; Won Hits 13-Month High After BOK Hike - CryptoRank
 
 **Why Mortgage Rates Higher Even After Fed Rate Cut? | FinTips Dave Filoni (Sqn37bGDdh) - Mshale**
 `29 Aug 11:14 PKT` · pehli baar dekhi `30 Aug 00:51` · gnews_fed
@@ -456,11 +529,6 @@ Dollar Holds Steady as Markets Look to Jackson Hole for Fed Clues CryptoRank
 `29 Aug 07:09 PKT` · pehli baar dekhi `29 Aug 22:20` · gnews_centralbanks
 
 France Inflation Edges Higher: EU-Harmonized CPI Rises to 0.8% in August CryptoRank
-
-**Asia FX, Dollar Steady Ahead of Warsh Speech; Won Hits 13-Month High After BOK Hike - CryptoRank**
-`29 Aug 06:36 PKT` · pehli baar dekhi `30 Aug 00:51` · gnews_fed
-
-Asia FX, Dollar Steady Ahead of Warsh Speech; Won Hits 13-Month High After BOK Hike CryptoRank
 
 **Kevin Warsh's 'quieter Fed' now includes a smidgen of guidance - The Economic Times**
 `29 Aug 06:32 PKT` · pehli baar dekhi `30 Aug 03:09` · gnews_fed
@@ -568,6 +636,9 @@ Fed Chair Warsh not ruling out interest rate hike amid inflation concerns PBS
 Investors heartened by Warsh inflation talk, still uncertain about Fed action KITCO
   - `29 Aug 09:21` *gnews_fed* — Investors heartened by Warsh inflation talk, still uncertain about Fed action - The Economic Times
 
+**Warsh Says Fed Has 'Work to Do' to Fight Inflation**
+`29 Aug 03:34 PKT` · pehli baar dekhi `30 Aug 10:36` · yahoo_finance
+
 **South Korean Won: BoK front-loading hikes as KRW consolidates – Commerzbank**
 `29 Aug 03:33 PKT` · pehli baar dekhi `29 Aug 05:59` · fxstreet_news
 
@@ -597,6 +668,9 @@ Kevin Warsh bolsters Fed's credibility in face of Donald Trump at Jackson Hole L
 `29 Aug 03:02 PKT` · pehli baar dekhi `29 Aug 05:59` · gnews_fed
 
 Warsh signals Fed may need to hike rates if above-target inflation persists UnionLeader.com
+
+**2-Year Treasury Yield Surges in Biggest Jackson Hole Reaction Since Greenspan Era**
+`29 Aug 03:01 PKT` · pehli baar dekhi `30 Aug 10:36` · yahoo_finance
 
 ### EUR
 
@@ -751,6 +825,11 @@ Bank of England Internal Divisions Deepen Ahead of September Decision; Governor 
 
 ### JPY
 
+**Japan spent record $96 billion in yen interventions: Ministry - Qatar Tribune**
+`30 Aug 02:00 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_centralbanks
+
+Japan spent record $96 billion in yen interventions: Ministry Qatar Tribune
+
 **US Treasury's Bessent warns yen volatility risks spillover to global markets**
 `29 Aug 22:23 PKT` · pehli baar dekhi `30 Aug 00:51` · investing_news
 
@@ -883,6 +962,11 @@ Oil extends losses on hopes for Middle East talks to ease supply woes The Daily 
 
 Oil falls on Fed signals, prospects for restoring Hormuz shipping سانا
 
+**Asia declares emergency. Maldives says it won't run out of oil. - Maldives Independent**
+`29 Aug 19:00 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_geopolitics
+
+Asia declares emergency. Maldives says it won't run out of oil. Maldives Independent
+
 **Oil prices post a 5 per cent weekly drop on easing supply fears - The Eastleigh Voice**
 `29 Aug 18:35 PKT` · pehli baar dekhi `29 Aug 22:20` · gnews_geopolitics
 
@@ -905,20 +989,50 @@ IRAN'S "CROWN JEWEL" – Kharg Island, Struck by US, is Key Hub for Iran Oil Exp
 Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say EnergyNow.com
   - `29 Aug 07:17` *gnews_geopolitics* — Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say - EnergyNow
 
+**Oil Market Set for Tumultuous Week as Kharg Attack Raises Stakes - EnergyNow.com**
+`29 Aug 17:59 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_geopolitics
+
+Oil Market Set for Tumultuous Week as Kharg Attack Raises Stakes EnergyNow.com
+
 **Kuwait Oil CEO Says Iran is 'Holding the World's Economy Hostage' - EnergyNow**
 `29 Aug 17:50 PKT` · pehli baar dekhi `30 Aug 05:21` · gnews_geopolitics
 
 Kuwait Oil CEO Says Iran is 'Holding the World's Economy Hostage' EnergyNow
+
+**Gulf Oil Output Likely to Rebound Within Months after Hormuz Reopening - EnergyNow**
+`29 Aug 17:46 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_geopolitics
+
+Gulf Oil Output Likely to Rebound Within Months after Hormuz Reopening EnergyNow
+
+**TACO CONFIRMED: Oil Markets Bet Trump Would Chicken Out on Iran. They Won: Bousso - EnergyNow**
+`29 Aug 17:44 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_geopolitics
+
+TACO CONFIRMED: Oil Markets Bet Trump Would Chicken Out on Iran. They Won: Bousso EnergyNow
 
 **Oil hits 3-week high on supply concerns - The Daily Star**
 `29 Aug 17:32 PKT` · pehli baar dekhi `29 Aug 22:20` · gnews_geopolitics
 
 Oil hits 3-week high on supply concerns The Daily Star
 
+**Oil Prices Rise on Doubts US-Iran Peace Talks Will Ease Hormuz Disruption - EnergyNow**
+`29 Aug 17:31 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_geopolitics
+
+Oil Prices Rise on Doubts US-Iran Peace Talks Will Ease Hormuz Disruption EnergyNow
+
 **WHAT IT MEANS FOR OIL – What Does a US Naval Blockade of Iran Mean for Oil Flows? - EnergyNow.com**
 `29 Aug 17:29 PKT` · pehli baar dekhi `30 Aug 03:09` · gnews_geopolitics
 
 WHAT IT MEANS FOR OIL – What Does a US Naval Blockade of Iran Mean for Oil Flows? EnergyNow.com
+
+**World Faces Largest-Ever Oil Supply Disruption on Middle East War, IEA Says - EnergyNow.com**
+`29 Aug 17:28 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_geopolitics
+
+World Faces Largest-Ever Oil Supply Disruption on Middle East War, IEA Says EnergyNow.com
+
+**Oil Prices Fall as Supply Concerns Ease on Hopes for US-Iran Talks - EnergyNow**
+`29 Aug 17:27 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_geopolitics
+
+Oil Prices Fall as Supply Concerns Ease on Hopes for US-Iran Talks EnergyNow
 
 **US Allows 30-Day Sale of Iran Oil at Sea in Bid to Tame Prices - EnergyNow**
 `29 Aug 17:27 PKT` · pehli baar dekhi `30 Aug 05:21` · gnews_geopolitics
@@ -939,6 +1053,11 @@ Oil Prices Extend Gains on Escalating Middle East Hostilities EnergyNow
 `29 Aug 17:18 PKT` · pehli baar dekhi `30 Aug 05:21` · gnews_geopolitics
 
 Oil Rebounds as Fragile Ceasefire, Hormuz Concerns Keep Supply Risks Elevated EnergyNow.com
+
+**Oil Jumps 5% as Iran Escalates Attacks on Gulf Shipping - EnergyNow**
+`29 Aug 17:12 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_geopolitics
+
+Oil Jumps 5% as Iran Escalates Attacks on Gulf Shipping EnergyNow
 
 **Economics 101: Oil, inflation and the Federal Reserve - Medicine Hat News**
 `29 Aug 15:27 PKT` · pehli baar dekhi `29 Aug 18:25` · gnews_fed
@@ -964,6 +1083,11 @@ Trump touts 'biggest oil deal in world history' with Venezuela as US seeks acces
 `29 Aug 13:53 PKT` · pehli baar dekhi `29 Aug 22:20` · gnews_geopolitics
 
 Oil Falls After US-Iran Talks Signal Easing Supply Risks EnergyNow
+
+**Crude Oil Markets Plunge Over 4% as Fed Tightening and Hormuz Negotiations Intensify - Blockonomi**
+`29 Aug 11:53 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_fed
+
+Crude Oil Markets Plunge Over 4% as Fed Tightening and Hormuz Negotiations Intensify Blockonomi
 
 **Iran says oil exports, refinery supplies continued without interruption - Iran International**
 `29 Aug 11:47 PKT` · pehli baar dekhi `30 Aug 05:21` · gnews_geopolitics
@@ -1173,6 +1297,11 @@ Bitcoin Price Dives Despite Record ETF Inflows Amid Fed Rate Hints KuCoin
 
 US spot Bitcoin ETFs posted $201.8 million in net outflows Friday, led by ARK 21Shares, as total fund assets slipped back below $100 billion.
 
+**Fed's Warsh Sounds Alarm on Persistent Inflation as Bitcoin (BTC) Tumbles - Blockonomi**
+`29 Aug 11:39 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_fed
+
+Fed's Warsh Sounds Alarm on Persistent Inflation as Bitcoin (BTC) Tumbles Blockonomi
+
 **Bitcoin Falls Below $78K as Fed Hike Odds Jump to 56%: What Experts Say - The Crypto Times**
 `29 Aug 11:38 PKT` · pehli baar dekhi `30 Aug 05:21` · gnews_fed
 
@@ -1192,6 +1321,11 @@ Spain's August Inflation Beats Forecasts As CPI Rises 0.7% Month-on-Month Bitcoi
 `29 Aug 03:05 PKT` · pehli baar dekhi `29 Aug 18:25` · gnews_centralbanks
 
 BoJ Seen Moving Closer To September Rate Hike, Commerzbank Says Bitcoin World
+
+### RATES
+
+**Could DraftKings (DKNG) Stock Turn Margin Pressure Into a Bigger Growth Opportunity?**
+`29 Aug 03:31 PKT` · pehli baar dekhi `30 Aug 10:36` · yahoo_finance
 
 ### RISK
 
@@ -1231,6 +1365,12 @@ Six months into Iran war, almost half of global oil flows from war zones The Dai
 
 After nearly three years of war, a farmer returns to Sheikh Ijlin's renowned grape fields.
 
+**Oil Execs Warn of Long-Term Damage From Iran War as US Downplays Crisis - EnergyNow.com**
+`29 Aug 17:51 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_geopolitics · **2 feeds mein**
+
+Oil Execs Warn of Long-Term Damage From Iran War as US Downplays Crisis EnergyNow.com
+  - `29 Aug 07:31` *gnews_geopolitics* — Oil Execs Warn of Long-Term Damage From Iran War as US Downplays Crisis - EnergyNow
+
 **Oil Prices Rise 5% on Fears of US-Iran Ceasefire Collapse - EnergyNow.com**
 `29 Aug 17:42 PKT` · pehli baar dekhi `30 Aug 05:21` · gnews_geopolitics
 
@@ -1240,6 +1380,11 @@ Oil Prices Rise 5% on Fears of US-Iran Ceasefire Collapse EnergyNow.com
 `29 Aug 17:39 PKT` · pehli baar dekhi `30 Aug 03:09` · gnews_geopolitics
 
 Iran War Spurs a Surge in Stock Sales From US Shale Companies EnergyNow.com
+
+**COMMENTARY: Iran War May Crush Oil Demand Today, but Send it Soaring Long Term: Bousso - EnergyNow**
+`29 Aug 17:37 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_geopolitics
+
+COMMENTARY: Iran War May Crush Oil Demand Today, but Send it Soaring Long Term: Bousso EnergyNow
 
 **World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks - EnergyNow.com**
 `29 Aug 17:37 PKT` · pehli baar dekhi `30 Aug 03:09` · gnews_geopolitics · **2 feeds mein**
@@ -1342,11 +1487,6 @@ Oil Prices Fall After US and Iran Receive Framework Ceasefire Proposal EnergyNow
 
 Iran Attack Wipes Out 17% of Qatar's LNG Capacity for Up to Five Years, QatarEnergy CEO Says EnergyNow.com
 
-**Oil Execs Warn of Long-Term Damage From Iran War as US Downplays Crisis - EnergyNow**
-`29 Aug 07:31 PKT` · pehli baar dekhi `29 Aug 12:48` · gnews_geopolitics
-
-Oil Execs Warn of Long-Term Damage From Iran War as US Downplays Crisis EnergyNow
-
 **Iran War Ceasefire Pushes Energy Markets Into Twilight Zone: Bousso - EnergyNow.com**
 `29 Aug 07:29 PKT` · pehli baar dekhi `29 Aug 18:25` · gnews_geopolitics
 
@@ -1413,7 +1553,7 @@ Iran's war reshapes global energy economics after six months Crypto Briefing
 Six months after Iran war, America's oil reserves drop to lowest levels since 1982 WBAL News Radio
   - `29 Aug 03:10` *gnews_geopolitics* — Six months after Iran war, America's oil reserves drop to lowest levels since 1982 - KCRA
 
-### BINA TAG (217)
+### BINA TAG (230)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -1572,6 +1712,7 @@ Six months after Iran war, America's oil reserves drop to lowest levels since 19
 - `29 Aug 13:01` **cointelegraph** — Stablecoins not credible for payments at scale, BIS chief says
 - `29 Aug 12:58` **gnews_centralbanks** — Take Five: Summer's over, buckle up! - 102.7 WBOW
 - `29 Aug 12:52` **gnews_fed** — Wall Street is stuck in a holding pattern ahead of a big speech by the head of the Federal Reserve - Dunya News
+- `29 Aug 12:40` **gnews_fed** — US Revises China Hacking Claims: Senate, Federal Reserve Were Targeted, Not Hacked - Dainik Jagran MP CG
 - `29 Aug 12:33` **aljazeera** — Aston Villa sign Chelsea striker Nicolas Jackson for reported club record
 - `29 Aug 12:08` **aljazeera** — India and Pakistan are united in spending citizen lives like pocket change
 - `29 Aug 12:06` **investing_news** — OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk
@@ -1623,17 +1764,29 @@ Six months after Iran war, America's oil reserves drop to lowest levels since 19
 - `29 Aug 04:11` **wsj_markets** — The 2026 Races That Could Determine House Control
 - `29 Aug 04:07` **fxstreet_news** — Vietnam: Exports and consumption stay robust – DBS
 - `29 Aug 04:04` **aljazeera** — Far-right UK provocateur Milo Yiannopoulos detained by ICE in US
+- `29 Aug 04:00` **yahoo_finance** — Forget Nvidia. Johnson & Johnson and 2 Other AI Stocks Are Beating the Market by 29 Points.
 - `29 Aug 04:00` **wsj_world** — Singapore Found a Way to Beat Gridlock, but Some Cars Cost as Much as Real Estate
 - `29 Aug 03:59` **aljazeera** — Walmart settles US government's opioid lawsuit
 - `29 Aug 03:59` **aljazeera** — Thousands take part in March on Washington to promote voting rights
 - `29 Aug 03:49` **mining_com** — Anfield Energy starts blasting at historic Velvet-Wood uranium mine in Utah
 - `29 Aug 03:43` **gnews_fed** — Trump orders dismissal of Federal Reserve Governor Lisa Cook - The Guardian Nigeria News
 - `29 Aug 03:35` **kitco_general** — TAG: The University of Michigan - KITCO
+- `29 Aug 03:31` **yahoo_finance** — Is Pinterest (PINS) Stock a Hidden Winner in the AI-Powered Advertising Boom?
 - `29 Aug 03:30` **gnews_centralbanks** — FTSE 250 Today — August 28, 2026 - The Eastern Herald
+- `29 Aug 03:28` **yahoo_finance** — Could BJ's Wholesale Club (BJ) Be the Next Big Winner in Membership Retail?
+- `29 Aug 03:26` **yahoo_finance** — Could Arrowhead Pharmaceuticals (ARWR)'s Plozasiran Become the Catalyst for a Major Stock Re-rating?
 - `29 Aug 03:22` **gnews_centralbanks** — FTSE Today — August 28, 2026 - The Eastern Herald
 - `29 Aug 03:22` **kitco_general** — TAG: Jim Bullard - KITCO
+- `29 Aug 03:20` **yahoo_finance** — Could Pinnacle West Capital (PNW) Stock Be a Hidden Way to Bet on Arizona's Explosive Growth?
+- `29 Aug 03:14` **yahoo_finance** — Could Virtu Financial (VIRT) Stock Surge if a $4 Billion Asset Sale Supercharges its Trading Engine?
+- `29 Aug 03:13` **yahoo_finance** — Could Kratos Defense & Security Solutions (KTOS) Stock Outperform GE Aerospace (GE) as Next-Generation Defense Spending Accelerates?
 - `29 Aug 03:11` **aljazeera** — Israeli strike kills three Palestinians in Jenin
+- `29 Aug 03:05` **yahoo_finance** — Could Ionis Pharmaceuticals (IONS) Stock Become a Biotech Powerhouse as its Commercial Pipeline Takes Off?
+- `29 Aug 03:01` **yahoo_finance** — UFP Technologies Targets 12%-18% Growth as Medical Device M&A Pipeline Builds
+- `29 Aug 03:00` **yahoo_finance** — Gaotu (GOTU) Narrows Its Losses While A New Growth Question Emerges
 - `29 Aug 03:00` **wsj_world** — Claudia Sheinbaum Is Taking More Control as U.S. Pressures Mexico
+- `29 Aug 03:00` **yahoo_finance** — Could Brinker International (EAT) Stock Be the Restaurant Turnaround Story Investors Have Been Waiting For?
+- `29 Aug 03:00` **yahoo_finance** — Suze Orman says Trump Accounts' free $1,000 is worth grabbing — but parent contributions can backfire
 
 ---
 
@@ -1651,42 +1804,42 @@ investing_news (11), yahoo_finance (4)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 1.2 |
-| fxstreet_news | OK | 30 | 3 | 0 | 3 | 27 | 1.0 |
-| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.6 |
-| actionforex | OK | 20 | 15 | 0 | 15 | 5 | 0.7 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.6 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.9 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.6 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 1.0 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 1.0 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 1.0 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 1.0 |
-| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 1.0 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 16.8 |
-| kitco_general | OK | 12 | 12 | 0 | 12 | 0 | 0.5 |
-| gnews_fed | OK | 100 | 100 | 22 | 78 | 0 | 0.0 |
-| gnews_geopolitics | OK | 82 | 82 | 10 | 72 | 0 | 0.2 |
-| gnews_centralbanks | OK | 32 | 32 | 7 | 25 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.5 |
-| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.8 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.8 |
-| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 1.1 |
-| oilprice | OK | 15 | 6 | 2 | 4 | 9 | 0.1 |
-| investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
+| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 1.4 |
+| fxstreet_news | OK | 30 | 3 | 0 | 3 | 27 | 1.2 |
+| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.8 |
+| actionforex | OK | 20 | 15 | 0 | 15 | 5 | 0.9 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.8 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 1.2 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.8 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 1.2 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 1.2 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 1.2 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 1.2 |
+| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 1.2 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 17.0 |
+| kitco_general | OK | 6 | 6 | 0 | 6 | 0 | 0.7 |
+| gnews_fed | OK | 91 | 91 | 26 | 65 | 0 | 0.0 |
+| gnews_geopolitics | OK | 74 | 74 | 14 | 60 | 0 | 0.0 |
+| gnews_centralbanks | OK | 28 | 28 | 4 | 24 | 0 | 0.2 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.7 |
+| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 2.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.0 |
+| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 1.3 |
+| oilprice | OK | 15 | 6 | 0 | 6 | 9 | 0.3 |
+| investing_commodities | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
 | bbc_business | OK | 35 | 3 | 0 | 3 | 32 | 0.1 |
-| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
+| aljazeera | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 29.6 |
-| eia_energy | OK | 21 | 0 | 0 | 0 | 21 | 1.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.5 |
-| wsj_world | OK | 70 | 9 | 1 | 8 | 61 | 0.0 |
-| wsj_markets | OK | 61 | 7 | 2 | 5 | 54 | 0.0 |
-| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 1 | 0 | 1 | 49 | 0.6 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
-| cointelegraph | OK | 30 | 7 | 0 | 7 | 23 | 0.2 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 29.8 |
+| eia_energy | OK | 21 | 0 | 0 | 0 | 21 | 1.7 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.7 |
+| wsj_world | OK | 70 | 11 | 2 | 9 | 59 | 0.1 |
+| wsj_markets | OK | 61 | 7 | 0 | 7 | 54 | 0.2 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 16 | 15 | 1 | 34 | 0.8 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
+| cointelegraph | OK | 30 | 7 | 0 | 7 | 23 | 0.4 |
