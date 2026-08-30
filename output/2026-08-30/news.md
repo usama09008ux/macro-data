@@ -1,8 +1,8 @@
 # News Pack — Trading Day 30 Aug 2026
 
 - Trading day: **30 Aug 03:00 -> 31 Aug 02:59 PKT**
-- Aakhri update: **30 Aug 23:35 PKT**
-- Kul khabrein: **312**
+- Aakhri update: **31 Aug 02:32 PKT**
+- Kul khabrein: **407**
 - Feeds: 27/39 OK
 
 ---
@@ -10,6 +10,11 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**Monday open indicative forex prices, 31 August 2026**
+`31 Aug 00:54 PKT` · pehli baar dekhi `31 Aug 02:32` · investinglive
+
+Monday has started already... U.S. forces have struck two Iranian launchers near Strait of Hormuz Early FX indications: EUR/USD 1.1582 USD/JPY 160.11 GBP/USD 1.3534 USD/CHF 0.8080 USD/CAD 1.3909 AUD/USD 0.7160 NZD/USD 0.5916 This article was written by Eamonn Sheridan at investinglive.com.
 
 **Hawkish Fed signals hit precious metals, Hormuz hopes weigh on oil - Türkiye Today**
 `30 Aug 18:54 PKT` · pehli baar dekhi `30 Aug 20:02` · gnews_fed
@@ -22,6 +27,11 @@ Hawkish Fed signals hit precious metals, Hormuz hopes weigh on oil Türkiye Toda
 Week Ahead: G20 Ministers Gathering; BoC and RBNZ Meetings; Fed Beige Book; U.S. and Canada Employment Reports; Eurozone, Switzerland and South Korea CPIs christophe-barraud.com
 
 ### GOLD
+
+**Gold, silver brace for volatile September after sharp correction - The Hans India**
+`31 Aug 01:26 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_fed
+
+Gold, silver brace for volatile September after sharp correction The Hans India
 
 **Gold prices set for another shock? US jobs data, Iran tensions in focus - Dailyhunt**
 `30 Aug 20:13 PKT` · pehli baar dekhi `30 Aug 23:35` · gnews_fed · **2 feeds mein**
@@ -45,9 +55,10 @@ Bullion braces for swings as US jobs data, Iran tensions take centrestage Busine
 Bullion Volatility: US Jobs, Iran Tensions Drive Gold Swings Rediff MoneyWiz
 
 **Silver Drops 4% as Warsh's Jackson Hole Speech Erases Two-Month High - The Eastern Herald**
-`30 Aug 14:09 PKT` · pehli baar dekhi `30 Aug 15:41` · gnews_fed
+`30 Aug 14:09 PKT` · pehli baar dekhi `30 Aug 15:41` · gnews_fed · **2 feeds mein**
 
 Silver Drops 4% as Warsh's Jackson Hole Speech Erases Two-Month High The Eastern Herald
+  - `30 Aug 14:09` *gnews_fed* — Silver Drops 4% as Warsh's Jackson Hole Speech Erases Two-Month High - The Eastern Herald
 
 **Real Trump Coins denies launching GOLD token, blames 'bad actors'**
 `30 Aug 13:04 PKT` · pehli baar dekhi `30 Aug 15:41` · cointelegraph
@@ -71,6 +82,41 @@ Gold Prices Crash In India: Biggest Drop Since July (Find Out Why?) Trak.in
 
 ### USD
 
+**New week, catch up time! Warsh's hawkish Jackson Hole remarks lift rate hike odds, pressure stocks**
+`31 Aug 02:08 PKT` · pehli baar dekhi `31 Aug 02:32` · investinglive
+
+Kevin Warsh's Jackson Hole remark s pushed the implied probability of a September rate rise to around 58 percent from 35 percent a day earlier, a sharp repricing for such a short window. Short-term Treasury yields rose more than longer-dated ones, reflecting the direct link between near-term Fed expectations and the front end of the curve.
+
+**Fed Interest Rate Forecast: Jobs and CPI to Drive US Dollar and EUR/USD - FXEmpire**
+`31 Aug 01:27 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_centralbanks
+
+Fed Interest Rate Forecast: Jobs and CPI to Drive US Dollar and EUR/USD FXEmpire
+
+**Economic and event calendar in Asia 31 August 2026 - China official PMIs**
+`31 Aug 01:12 PKT` · pehli baar dekhi `31 Aug 02:32` · investinglive
+
+It's a packed data agenda ahead with the priority item Chinese PMI data. Setting the stage for the session ahead is this renewed hostility: U.S. forces have struck two Iranian launchers near Strait of Hormuz China's National Bureau of Statistics releases its official August Purchasing Managers' Indices on Monday at 9:30am Beijing time (01:30 GMT/2130 US Eastern time Sunday), with the manufacturing print due to show whether a contraction that deepened sharply in July has begun to ease.
+
+**Fed Chair Commits To Nothing, Dow Jones Industrial Average (DJIA) Reprices September Anyway - foreignpolicyjournal.com**
+`31 Aug 01:12 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_fed
+
+Fed Chair Commits To Nothing, Dow Jones Industrial Average (DJIA) Reprices September Anyway foreignpolicyjournal.com
+
+**Opinion | The Dollar's Global Dominance Keeps America First**
+`31 Aug 00:38 PKT` · pehli baar dekhi `31 Aug 02:32` · wsj_markets
+
+The loss of its status as the global reserve currency would hurt the U.S. economy and national security.
+
+**Ex-Reserve Bank of India Chief Raghuram Rajan Says US Federal Reserve Should Raise Rates to Curb Inflation - News India Times**
+`31 Aug 00:22 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_fed
+
+Ex-Reserve Bank of India Chief Raghuram Rajan Says US Federal Reserve Should Raise Rates to Curb Inflation News India Times
+
+**Baht faces pressure near 33 per US dollar as markets eye Fed signals - Pattaya Mail**
+`31 Aug 00:00 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_fed
+
+Baht faces pressure near 33 per US dollar as markets eye Fed signals Pattaya Mail
+
 **Federal Reserve's chairman Kevin Warsh faces a 'no-win' situation on rates - Business Standard**
 `30 Aug 22:23 PKT` · pehli baar dekhi `30 Aug 23:35` · gnews_fed
 
@@ -78,6 +124,11 @@ Federal Reserve's chairman Kevin Warsh faces a 'no-win' situation on rates Busin
 
 **Dollar Tree Says Higher Fuel Prices Are Becoming a 'Very, Very Meaningful' Headwind**
 `30 Aug 22:01 PKT` · pehli baar dekhi `30 Aug 23:35` · yahoo_finance
+
+**US Stock Market Prediction: Dow Jones Futures Rise, S&P 500 Futures Gain & Nasdaq Futures Edge Higher Ahead of Wall Street Opening as Fed Rate Hike; Check Monday Market Outlook, Key Things To Watch - The Sunday Guardian**
+`30 Aug 21:58 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_fed
+
+US Stock Market Prediction: Dow Jones Futures Rise, S&P 500 Futures Gain & Nasdaq Futures Edge Higher Ahead of Wall Street Opening as Fed Rate Hike; Check Monday Market Outlook, Key Things To Watch The Sunday Guardian
 
 **CHCS ANNUAL EMPLOYMENT CONFERENCE THE ATLANTA FED'S CENTER FOR HUMAN CAPITAL STUDIES WILL HOST ITS 15TH ANNUAL EMPLOYMENT CONFERENCE ON OCTOBER 1 AND 2 AT THE FEDERAL RESERVE BANK OF ATLANTA. IC - InsuranceNewsNet**
 `30 Aug 21:57 PKT` · pehli baar dekhi `30 Aug 23:35` · gnews_fed
@@ -109,6 +160,11 @@ Fed Chair Signals Possible September Rate Hike Briefs Finance
 
 Markets Brace for August Jobs Data, Fed Signals, and Major Tech Earnings Blockonomi
 
+**Pound-to-Dollar Forecast: Hawkish Warsh Boosts USD, GBP Retreats to 1.3530 - CurrencyNews.co.uk**
+`30 Aug 19:01 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_centralbanks
+
+Pound-to-Dollar Forecast: Hawkish Warsh Boosts USD, GBP Retreats to 1.3530 CurrencyNews.co.uk
+
 **Kevin Warsh tries being a normal central banker - Livemint**
 `30 Aug 18:02 PKT` · pehli baar dekhi `30 Aug 23:35` · gnews_fed
 
@@ -124,10 +180,11 @@ Fed Hold Chances at 54% on Polymarket Live Odds Winners & Whiners
 
 Fed chair Warsh's hawkish Jackson Hole turn favours soaring banks over struggling S-Reits The Business Times
 
-**Inflation continues to rise above the Federal Reserve's 2% target - Utah Public Radio**
-`30 Aug 17:02 PKT` · pehli baar dekhi `30 Aug 20:02` · gnews_fed
+**Inflation continues to rise above the Federal Reserve's 2% target - VPM**
+`30 Aug 17:02 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_fed · **2 feeds mein**
 
-Inflation continues to rise above the Federal Reserve's 2% target Utah Public Radio
+Inflation continues to rise above the Federal Reserve's 2% target VPM
+  - `30 Aug 17:02` *gnews_fed* — Inflation continues to rise above the Federal Reserve's 2% target - Utah Public Radio
 
 **Fed Chair Warsh signals rate hikes might be needed with inflation worry - Rocky Mount Telegram**
 `30 Aug 16:40 PKT` · pehli baar dekhi `30 Aug 20:02` · gnews_fed
@@ -215,6 +272,12 @@ Nu Shares Drop 3.9%, Wiping Out $2.8 Billion as Fed Uncertainty Clouds Record Ea
 
 Trump tariff costs now reaching consumers, AI factors equally driving up inflation: What Fed analysis reveals Livemint
 
+**Key takeaways from the Fed's annual Jackson Hole conference - Moneycontrol.com**
+`30 Aug 07:25 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_centralbanks · **2 feeds mein**
+
+Key takeaways from the Fed's annual Jackson Hole conference Moneycontrol.com
+  - `30 Aug 03:29` *gnews_fed* — Key takeaways from the Fed's annual Jackson Hole conference - AFR
+
 **ASX to retreat as Fed Reserve's Warsh forces pivot on interest rates - AFR**
 `30 Aug 07:16 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_fed
 
@@ -259,6 +322,11 @@ NASDAQ Index Today – August 28, 2026: Index Slides 2.3% on Warsh Rate Shock Th
 
 ### EUR
 
+**ECB warning of AI bubble: Contagion and concentration risk spreads - Asia Asset Management**
+`30 Aug 21:40 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_centralbanks
+
+ECB warning of AI bubble: Contagion and concentration risk spreads Asia Asset Management
+
 **Euro outsiders not making much accession progress, ECB says - The Business Standard**
 `30 Aug 19:25 PKT` · pehli baar dekhi `30 Aug 20:02` · gnews_centralbanks
 
@@ -294,6 +362,11 @@ Bank Lending to Eurozone Businesses Fell Again in July WSJ
 
 Cyprus inflation remains high as euro area expectations ease Cyprus Mail
 
+**AI Footprint: ECB's observed AI job wedge, EIA's ERCOT stress test, and live Article 50 rules - Buttondown**
+`30 Aug 11:12 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_centralbanks
+
+AI Footprint: ECB's observed AI job wedge, EIA's ERCOT stress test, and live Article 50 rules Buttondown
+
 **ECB Rate Hikes Could Lift BBVA Stock And Other Spanish Bank Shares - simplywall.st**
 `30 Aug 05:57 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_centralbanks
 
@@ -317,6 +390,11 @@ British Pound Forecast: BoE To Hold Despite Rising November Hike Risk Exchange R
 Bailey Flags Muted Second-Round Inflation as BoE Keeps September Rate Decision Open VT Markets
 
 ### JPY
+
+**Is Japan Real Estate a Bubble? What the Data Actually Says - YouTube**
+`31 Aug 00:00 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_centralbanks
+
+Is Japan Real Estate a Bubble? What the Data Actually Says YouTube
 
 **Japan's Yen Crisis: Why The BOJ Can't Save It I Morti Non Muoiono (H9iRBGA4xS) - Mshale**
 `30 Aug 15:00 PKT` · pehli baar dekhi `30 Aug 23:35` · gnews_centralbanks
@@ -348,15 +426,21 @@ Police said a manhunt is under way following the incident at the annual techno p
 
 ### CAD
 
+**Opinion | Trump's Great White Whale: Canada**
+`31 Aug 00:43 PKT` · pehli baar dekhi `31 Aug 02:32` · wsj_world
+
+His trade war is self-defeating and helps Prime Minister Mark Carney politically.
+
 **Many small and medium-sized Canadian business owners expect to bear the brunt of the Trump administration's tariffs**
 `30 Aug 23:00 PKT` · pehli baar dekhi `30 Aug 23:35` · wsj_economy
 
 Honey, cosmetic and other exporters now face 50% levies.
 
 **Canadian Small Businesses to Bear Brunt of New U.S. Tariffs**
-`30 Aug 23:00 PKT` · pehli baar dekhi `30 Aug 23:35` · wsj_world
+`30 Aug 23:00 PKT` · pehli baar dekhi `30 Aug 23:35` · wsj_world · **2 feeds mein**
 
 Honey, cosmetic and other exporters now face 50% levies.
+  - `30 Aug 23:00` *yahoo_finance* — Canadian Small Businesses to Bear Brunt of New U.S. Tariffs
 
 **Google Maps renames Lake Ontario after Trump's decree on 'Lake America'**
 `30 Aug 21:57 PKT` · pehli baar dekhi `30 Aug 23:35` · aljazeera
@@ -390,6 +474,42 @@ The Australian government is under pressure to explain why it allowed dozens of 
 
 ### OIL
 
+**U.S. Strikes Two Iranian Rocket Launchers in First Attack in Weeks**
+`31 Aug 02:31 PKT` · pehli baar dekhi `31 Aug 02:32` · wsj_world
+
+U.S. Central Command said the launchers were preparing to fire rockets filled with sea mines into the Strait of Hormuz.
+
+**'Soap Cocktails' Help U.S. Shale Boost Oil Production**
+`31 Aug 02:00 PKT` · pehli baar dekhi `31 Aug 02:32` · oilprice
+
+U.S. shale innovation is not limited to drilling techniques and engineering breakthroughs. Producers are testing and already getting more oil out of existing wells in the shale formations with the use of advanced chemicals. The mixture of cocktails of various chemicals, the so-called surfactants, helps release oil from the tight and shale formations.
+
+**Opinion | Trump Takes the Oil in Venezuela**
+`31 Aug 01:05 PKT` · pehli baar dekhi `31 Aug 02:32` · wsj_world
+
+The deal recalls the famous Cuba scene in 'The Godfather Part II.'
+
+**Brent Crude Ends August Below $90 as Hormuz Corridor Reshapes Oil Risk - The Eastern Herald**
+`31 Aug 00:52 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_geopolitics · **2 feeds mein**
+
+Brent Crude Ends August Below $90 as Hormuz Corridor Reshapes Oil Risk The Eastern Herald
+  - `30 Aug 14:29` *gnews_geopolitics* — Brent Crude Ends August Below $90 as Hormuz Corridor Reshapes Oil Risk - The Eastern Herald
+
+**U.S. forces have struck two Iranian launchers near Strait of Hormuz**
+`31 Aug 00:40 PKT` · pehli baar dekhi `31 Aug 02:32` · investinglive
+
+Axios with the report that U.S. forces have struck two Iranian launchers on Larak Island. Islamic Revolutionary Guard Corps forces were observed preparing to launch rockets with sea mines into Strait of Hormuz. Axios cited a US official statement. Earlier over the weekend, UKMTO reported an incident 12NM north of Khasab, Oman, that s tanker had been struck by an unknown projectile whilst transiting inbound in the Strait of Hormuz.
+
+**UBS Says a Major Commodity Upcycle Is Taking Shape**
+`31 Aug 00:00 PKT` · pehli baar dekhi `31 Aug 02:32` · oilprice
+
+One day after veteran commodities strategist Jeff Currie told investors to "get long and buckle up" for the next leg of the commodities rally, UBS strategist Sagar Khandelwal issued a similarly bullish call, urging clients to "position for a commodity upcycle." Khandelwal said electrification, surging power demand, artificial-intelligence infrastructure spending, persistent supply constraints, and years of underinvestment are converging to create a perfect storm for a sustained upcycle in hard ...
+
+**Trump says Venezuelan oil will be used to refill US Strategic Petroleum Reserve - IBTimes India**
+`30 Aug 23:28 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_geopolitics
+
+Trump says Venezuelan oil will be used to refill US Strategic Petroleum Reserve IBTimes India
+
 **These Tanks Can Hold 90 Million Barrels of Oil. They Have Just 22 Million. - The New York Times**
 `30 Aug 23:03 PKT` · pehli baar dekhi `30 Aug 23:35` · gnews_geopolitics
 
@@ -410,6 +530,11 @@ The expansion of data centers to power the artificial intelligence boom is causi
 `30 Aug 20:50 PKT` · pehli baar dekhi `30 Aug 23:35` · aljazeera
 
 President Donald Trump says in a post that the &#039;topping out&#039; process will ‌begin shortly.
+
+**Venezuela Instead of Hormuz: Trump's Oil Card for Calming the Market - نورنیوز**
+`30 Aug 20:47 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_geopolitics
+
+Venezuela Instead of Hormuz: Trump's Oil Card for Calming the Market نورنیوز
 
 **Trump: Venezuelan oil to be used to fill up 'virtually emptied' U.S. reserves**
 `30 Aug 20:24 PKT` · pehli baar dekhi `30 Aug 23:35` · investing_commodities
@@ -444,11 +569,6 @@ Khamenei urges Gulf rulers to confront their &#039;real enemy&#039; as Iran keep
 
 Venezuela's interim President has given a televised address to defend a deal of Venezuelan oil for the United States.
 
-**Brent Crude Ends August Below $90 as Hormuz Corridor Reshapes Oil Risk - The Eastern Herald**
-`30 Aug 14:29 PKT` · pehli baar dekhi `30 Aug 20:02` · gnews_geopolitics
-
-Brent Crude Ends August Below $90 as Hormuz Corridor Reshapes Oil Risk The Eastern Herald
-
 **Trump Warns Iran Over Hormuz Oil Route; IRGC Says Tehran Will Decide War's End - News On AIR**
 `30 Aug 12:57 PKT` · pehli baar dekhi `30 Aug 20:02` · gnews_geopolitics
 
@@ -461,6 +581,11 @@ Trump Warns Iran Over Hormuz Oil Route; IRGC Says Tehran Will Decide War's End N
 `30 Aug 11:45 PKT` · pehli baar dekhi `30 Aug 15:41` · gnews_fed
 
 Oil settles lower on clues about fed policy, rumours of Hormuz deal The Peninsula Qatar
+
+**India Hails Positive Iran Talks On Opening Strait Of Hormuz Maritime Route - scanx.trade**
+`30 Aug 11:30 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_geopolitics
+
+India Hails Positive Iran Talks On Opening Strait Of Hormuz Maritime Route scanx.trade
 
 **Global Oil Prices Fall 6% After Trump Signals Progress in US–Iran Talks - TechJuice**
 `30 Aug 09:22 PKT` · pehli baar dekhi `30 Aug 20:02` · gnews_geopolitics
@@ -485,6 +610,11 @@ Trump's 'biggest oil deal in history' with Venezuela — How will it impact glob
 
 Crude oil prices fall up to 3 pc as US-Iran talks ease supply concerns DD News
 
+**US-Venezuela oil partnership offers potential model for Iran's energy future - Iran International**
+`30 Aug 06:36 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_geopolitics
+
+US-Venezuela oil partnership offers potential model for Iran's energy future Iran International
+
 **What the US-Venezuela oil model could mean for Iran's energy future - Iran International**
 `30 Aug 06:05 PKT` · pehli baar dekhi `30 Aug 10:36` · gnews_geopolitics
 
@@ -503,6 +633,15 @@ Few details have emerged about deal between Washington and Caracas, criticised a
 
 ### CRYPTO
 
+**Strategy's Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?**
+`31 Aug 00:39 PKT` · pehli baar dekhi `31 Aug 02:32` · yahoo_finance
+
+**Russia's Largest Bank Wants Bitcoin and Ethereum as Collateral**
+`30 Aug 23:59 PKT` · pehli baar dekhi `31 Aug 02:32` · yahoo_finance
+
+**Michael Saylor Says 'We're Back': 3 Reasons MicroStrategy May Resume Buying Bitcoin**
+`30 Aug 23:17 PKT` · pehli baar dekhi `31 Aug 02:32` · yahoo_finance
+
 **Federal Reserve sees economy near full employment as jobless rate dips to 4% - Crypto Briefing**
 `30 Aug 23:15 PKT` · pehli baar dekhi `30 Aug 23:35` · gnews_fed
 
@@ -512,6 +651,11 @@ Federal Reserve sees economy near full employment as jobless rate dips to 4% Cry
 `30 Aug 22:59 PKT` · pehli baar dekhi `30 Aug 23:35` · cointelegraph
 
 Michael Saylor's "We're Back" post hints Strategy may resume Bitcoin buying after a two-month pause to strengthen its balance sheet.
+
+**Bitcoin, Ethereum and XRP Prices Brace For Jobs Report Week as Fed Decision Looms - TradingView**
+`30 Aug 20:51 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_fed
+
+Bitcoin, Ethereum and XRP Prices Brace For Jobs Report Week as Fed Decision Looms TradingView
 
 **Fed awaits key inflation data before September rate decision - Crypto Briefing**
 `30 Aug 15:35 PKT` · pehli baar dekhi `30 Aug 15:41` · gnews_fed
@@ -537,6 +681,14 @@ BIS Chief: Stablecoins Still Aren't Credible Money at Scale Bitcoin News
 Bitcoin holds steady as Federal Reserve warns of persistent inflation Traders Union
 
 ### RISK
+
+**US strikes Iran's Larak Island in first attack in weeks**
+`31 Aug 01:15 PKT` · pehli baar dekhi `31 Aug 02:32` · aljazeera
+
+IRGC says attack in southern Iran killed and injured several soldiers.
+
+**Ukraine seeks U.S. investment for defence technology fund - FT**
+`30 Aug 23:57 PKT` · pehli baar dekhi `31 Aug 02:32` · investing_news
 
 **Opinion | Trump's New Iran Sanctions Put China on Notice**
 `30 Aug 21:31 PKT` · pehli baar dekhi `30 Aug 23:35` · wsj_world · **2 feeds mein**
@@ -625,6 +777,11 @@ Six months into the US-Israel war on Iran, the governments in the three countrie
 
 Iran war at 6 months: Who gained, who lost the most economically The Times of India
 
+**Money is running out and will they lay hands on Europeans' 10 trillion in deposits (221 billion in Greece) for the war? - Bankingnews**
+`30 Aug 14:17 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_centralbanks
+
+Money is running out and will they lay hands on Europeans' 10 trillion in deposits (221 billion in Greece) for the war? Bankingnews
+
 **Long Lines for Gas in Iran Show War and U.S. Blockade Squeezing Supply - The New York Times**
 `30 Aug 14:07 PKT` · pehli baar dekhi `30 Aug 20:02` · gnews_geopolitics
 
@@ -659,6 +816,11 @@ The Israeli government cannot insulate its citizens from the impact of the ecoci
 `30 Aug 11:50 PKT` · pehli baar dekhi `30 Aug 20:02` · gnews_geopolitics
 
 US-Israel-Iran War Live News: Donald Trump's Investment Accounts Continued to Purchase & Sell Holdings in Oil and Natural Gas Stock During US-Iran War The Sunday Guardian
+
+**No major decision is made without leader's approval, Iranian MP says - Iran International**
+`30 Aug 11:48 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_geopolitics
+
+No major decision is made without leader's approval, Iranian MP says Iran International
 
 **US Sanctions Are Draining Iran's Economy But Struggling to Shift Its Regional Strategy - jordannews.jo**
 `30 Aug 11:41 PKT` · pehli baar dekhi `30 Aug 15:41` · gnews_geopolitics
@@ -703,13 +865,19 @@ US energy companies have reaped billions from rising oil price, but their assets
 **Iran insists Strait of Hormuz remains closed as war enters seventh month**
 `30 Aug 09:54 PKT` · pehli baar dekhi `30 Aug 10:36` · investing_news
 
+**Iran sanctions reach education: Duolingo blocked, TOEFL and GRE in doubt - Iran International**
+`30 Aug 09:11 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_geopolitics · **2 feeds mein**
+
+Iran sanctions reach education: Duolingo blocked, TOEFL and GRE in doubt Iran International
+  - `30 Aug 08:31` *gnews_geopolitics* — Iran sanctions reach education: Duolingo blocked, TOEFL and GRE in doubt - Iran International
+
 **Russia steps up 'gray zone' attacks across Europe as NATO tensions rise**
 `30 Aug 09:04 PKT` · pehli baar dekhi `30 Aug 10:36` · investing_news
 
-**Iran sanctions reach education: Duolingo blocked, TOEFL and GRE in doubt - Iran International**
-`30 Aug 08:31 PKT` · pehli baar dekhi `30 Aug 23:35` · gnews_geopolitics
+**Russia nears €1 billion financing deal for Iran rail project, official says - Iran International**
+`30 Aug 08:27 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_geopolitics
 
-Iran sanctions reach education: Duolingo blocked, TOEFL and GRE in doubt Iran International
+Russia nears €1 billion financing deal for Iran rail project, official says Iran International
 
 **US deports relative of Afghans who aided military to Africa**
 `30 Aug 08:10 PKT` · pehli baar dekhi `30 Aug 10:36` · aljazeera
@@ -761,19 +929,64 @@ This is the 27th time since Russia invaded Ukraine that Zaporizhzhia plant has h
 
 The war between the United States, Israel, and Iran has caused the oil and gas import bill of the world to swell by as much as $330 billion over the six months between March and August. That's despite a smaller-than-feared oil price climb and equally smaller-than-feared rise in gas prices. However, the war is not over yet. The bill could swell further.
 
-### BINA TAG (155)
+### BINA TAG (209)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `31 Aug 02:15` **yahoo_finance** — CrowdStrike Just Lit a Fire Under Cybersecurity Stocks. Is Palo Alto Networks Next?
+- `31 Aug 02:09` **investing_news** — Faraday Future expands robotics push in Middle East, set to launch new products
+- `31 Aug 02:02` **aljazeera** — Israeli strike kills 3-year-old child in Gaza
+- `31 Aug 01:50` **aljazeera** — Jose Andres renews call for investigation into WCK Gaza staff killings
+- `31 Aug 01:45` **yahoo_finance** — Jim Cramer Says Marvell Is Expensive Unless Everything Works, and Then It Is Cheap
+- `31 Aug 01:44` **investing_news** — ONEOK to acquire Permian Basin assets for $4.43 billion
+- `31 Aug 01:38` **aljazeera** — 'Opening a new chapter': Syria reopens embassy in Libya after talks
+- `31 Aug 01:33` **yahoo_finance** — Taco Bell returns to unexpected market after 14 years
+- `31 Aug 01:31` **aljazeera** — Video: Raging floodwaters sweep away lorry in the Philippines
+- `31 Aug 01:25` **yahoo_finance** — This Newly Public Nuclear IPO Is Already Using AI to Speed Up Reactor Design. Is It a Buy?
+- `31 Aug 01:12` **aljazeera** — Butcher of Bosnia Ratko Mladic still hailed as a hero by some Serbs
+- `31 Aug 01:03` **yahoo_finance** — Leaving Medicare Advantage Takes One Phone Call. Getting the Medigap Policy That Makes Leaving Affordable Can Require Medical Underwriting.
+- `31 Aug 01:00` **yahoo_finance** — Woman, 36, Inherited $340,000—Her Boyfriend Wants Her To Put It In His Brokerage Account
+- `31 Aug 00:52` **yahoo_finance** — The Roth Conversion That Cost a 62-Year-Old His $9,600 Health Insurance Subsidy
+- `31 Aug 00:50` **aljazeera** — Real Madrid cruise past Malaga 4-0 to maintain Mourinho's perfect start
+- `31 Aug 00:47` **yahoo_finance** — PayPal just lost its $53 billion safety net
+- `31 Aug 00:35` **yahoo_finance** — Energy Transfer Is Quietly Becoming One of the Biggest Natural Gas Suppliers to AI Data Centers
+- `31 Aug 00:34` **yahoo_finance** — The Biggest Risk Facing Tesla Stock Right Now
+- `31 Aug 00:33` **aljazeera** — Israeli settler rabbi says Palestinians should leave the occupied West Bank
+- `31 Aug 00:31` **yahoo_finance** — The Insanely Obvious Secret Behind This $69K/Month SaaS
+- `31 Aug 00:31` **yahoo_finance** — Congressman Sold Alphabet Stock Three Months After Buying It, and He Might Have Lost Money
+- `31 Aug 00:29` **yahoo_finance** — Retirees Who Convert to a Roth in a Down-Market Year Move the Same Shares for Less Tax. Almost Nobody Times It.
+- `31 Aug 00:24` **gnews_fed** — Everyday Economics: Strong on average, carried by a few - The Center Square
+- `31 Aug 00:20` **yahoo_finance** — What Happens When You Invest in the Stock Market at the Worst Possible Time? History Has Reassuring News for Investors.
+- `31 Aug 00:13` **yahoo_finance** — Abercrombie may be back. Will its shoppers stay?
+- `31 Aug 00:11` **yahoo_finance** — The 1 Metric I Check Before Buying Any Dividend Stock
+- `31 Aug 00:07` **gnews_centralbanks** — GLOBAL MARKETS CALL: Bull Market In Stocks Despite Bear Market In Bonds - Yardeni QuickTakes
+- `31 Aug 00:06` **aljazeera** — Former Israeli soldiers pose as Pro-Palestinian supporters in the US
+- `31 Aug 00:01` **yahoo_finance** — Will Having Roommates in Your 60s and Beyond Become the New Normal? Some Already 'Highly Recommend the Golden Girl Lifestyle'
+- `31 Aug 00:00` **yahoo_finance** — Is It Too Late to Buy CrowdStrike Stock After Its 20% Surge?
+- `30 Aug 23:51` **aljazeera** — 'Do you miss Mogadishu?' Inside Sweden's far-right campaign
+- `30 Aug 23:50` **yahoo_finance** — If You'd Invested $1,000 in VOO 10 Years Ago, Here's How Much You'd Have Today
+- `30 Aug 23:49` **yahoo_finance** — Miniso (MNSO) Booming Membership Growth Collides With A Struggling Global Expansion
+- `30 Aug 23:41` **yahoo_finance** — Frontline (FRO) Just Delivered Its Best Quarter Yet, But Can It Last?
 - `30 Aug 23:35` **instaforex** — Saudi Arabia's Private Sector Loan Growth Cools to 5.6% in July YoY
 - `30 Aug 23:35` **instaforex** — Saudi Arabia's M3 Money Supply Growth Eases Slightly to 8.2% in July 2026
+- `30 Aug 23:35` **yahoo_finance** — She Pulled Cash From His $900,000 401(k) at 51 With No 10% Penalty. The One Divorce Rule That Waives the Under-59½ Tax the IRS Enforces on Everyone Else.
+- `30 Aug 23:35` **yahoo_finance** — The Retirement Risk Most Investors Overlook Could Leave You With Too Much
+- `30 Aug 23:34` **aljazeera** — Devastation from the Nepal-China Floods in 30 photos
+- `30 Aug 23:33` **aljazeera** — Fernandes hat-trick fires Man Utd in seven-goal thriller with Ipswich
+- `30 Aug 23:29` **yahoo_finance** — Every Year a Retiree Skips a Roth Conversion Before 73 Costs About $3,500 in Extra Tax Later. Here's the Math on the Average $167,970 Balance.
 - `30 Aug 23:29` **wsj_world** — Opinion | America's Systemic Munitions Shortfall
+- `30 Aug 23:28` **aljazeera** — First images of Maduro in US custody released since his abduction
+- `30 Aug 23:27` **yahoo_finance** — Boeing Is Building 737s Faster Than It Has in Years. But Its Engineers Just Authorized an October Strike.
+- `30 Aug 23:21` **yahoo_finance** — Pinterest's (PINS) CFO Exit Tests Whether The Growth Story Holds
+- `30 Aug 23:21` **yahoo_finance** — The Second Tax Window: What You Do at 63 and 64 Sets Your Medicare Premium at 65
 - `30 Aug 23:19` **aljazeera** — Top officials from Turkiye, Saudi Arabia, Pakistan to meet in Istanbul
 - `30 Aug 23:15` **yahoo_finance** — 3 Simple ETFs Worth Buying and Holding for Decades
 - `30 Aug 23:09` **yahoo_finance** — Honda (HMC), Nissan Edge Toward a Software Alliance
 - `30 Aug 23:05` **yahoo_finance** — Prediction: Broadcom Stock Will Go Parabolic After Sept. 2
 - `30 Aug 23:02` **yahoo_finance** — At 63 She Took a Job Paying Over $150,000. The Catch-Up Rule Checked a Paycheck That Didn't Exist.
+- `30 Aug 23:00` **yahoo_finance** — Woman, 33, Got A $60,000 Bonus And Wants Real Estate Exposure Without Buying A House — Her Parents Are Furious She Won't 'Just Buy Something Already'
 - `30 Aug 23:00` **yahoo_finance** — 2 'Perfect 10' Stocks Wall Street Is Betting On
+- `30 Aug 23:00` **yahoo_finance** — Jobs, Broadcom, Dell, Hewlett, Planet Labs, and More to Watch This Week
 - `30 Aug 22:58` **yahoo_finance** — What Affirm's (AFRM) Blowout Quarter and Cautious CEO Say About the Consumer
 - `30 Aug 22:57` **aljazeera** — Nepal's flood survivors search for missing loved ones
 - `30 Aug 22:45` **yahoo_finance** — The Hidden Costs of Retiring to Puerto Rico Nobody Mentions Until You Move There
@@ -826,7 +1039,10 @@ The war between the United States, Israel, and Iran has caused the oil and gas i
 - `30 Aug 20:19` **aljazeera** — Chelsea beat Brighton 4-3 to extend perfect start under Xabi Alonso
 - `30 Aug 20:19` **aljazeera** — At least seven dead and 23 missing after boat capsizes off northern Cyprus
 - `30 Aug 20:04` **gnews_fed** — Jobs report, Broadcom results pose next hurdles for Wall Street rally - Gulf Times
+- `30 Aug 20:00` **yahoo_finance** — A $3.13 Billion Reason to Buy Zoom Communications Stock Now
 - `30 Aug 19:56` **wsj_world** — Young Women Bear the Brunt of India's Anti-Protester Vitriol
+- `30 Aug 19:45` **yahoo_finance** — Marvell Wins Wall Street. Google Bets $12 Billion. Amazon Fears Fade.
+- `30 Aug 19:30` **yahoo_finance** — Despite Impressive Results, Nvidia Stock May Be Stuck in a Range - What's the Best Play?
 - `30 Aug 19:27` **investing_news** — FINAL HOURS: THIS IS YOUR LAST CHANCE to secure up to 55% off InvestingPro
 - `30 Aug 19:20` **yahoo_finance** — Man posed as a 49ers player and convinced 26 women to hand over $1.3 million in romance scam scheme
 - `30 Aug 19:14` **aljazeera** — How does your name taste? The strange science of synaesthesia
@@ -879,25 +1095,30 @@ The war between the United States, Israel, and Iran has caused the oil and gas i
 - `30 Aug 14:24` **aljazeera** — Nepal-China flood disaster: What's the latest toll, how many are missing?
 - `30 Aug 14:06` **investing_news** — Malaysia PM unveils measures to tackle living costs, support local businesses
 - `30 Aug 14:02` **aljazeera** — Syria sandstorm blankets Homs in eerie orange haze
+- `30 Aug 13:46` **gnews_centralbanks** — Piraeus Bank Plans to Double Dividend by 2030 - tovima.com
 - `30 Aug 13:41` **aljazeera** — Aerial video shows devastation in flood-hit Nepal
 - `30 Aug 13:34` **gnews_fed** — Federal Reserve - HuffPost
+- `30 Aug 13:31` **gnews_centralbanks** — Greg Stafford MP: What kind of Britain do we want? - Farnham Herald
 - `30 Aug 13:19` **aljazeera** — Pogacar to have surgery on broken collarbone after horrific Vuelta crash
 - `30 Aug 12:57` **aljazeera** — Iceland rejects EU accession talks in referendum
 - `30 Aug 12:37` **aljazeera** — Nepal rescuers drill into tunnels in bid to reach trapped workers
 - `30 Aug 12:15` **aljazeera** — Ethiopia's Gobena, Kenya's Olympic champion Jepchirchir win Sydney Marathon
 - `30 Aug 12:14` **aljazeera** — Messi scores four goals, inspires Inter Miami to 7-1 win over Montreal
+- `30 Aug 12:11` **gnews_geopolitics** — Pakistan faces power cuts due to delay in LNG cargoes amid Gulf disruptions - Arab News
 - `30 Aug 12:01` **gnews_centralbanks** — Higher interest rates: what changes for Mapfre, Bankinter, and the Ibex 35 - Demócrata
 - `30 Aug 10:58` **aljazeera** — Hrgovic wins IBF world heavyweight boxing title as Itauma hospitalised
 - `30 Aug 10:25` **investing_news** — 5 big analyst AI moves: Downgrades for SAP and Intuit; AMD lifted to Strong Buy
 - `30 Aug 10:19` **investing_news** — European midcaps: Where Jefferies sees upside into H2
 - `30 Aug 10:12` **investing_news** — Europe's central bankers fear more turbulence in testy U.S. relations
 - `30 Aug 10:06` **gnews_fed** — Europe's central bankers fear more turbulence in testy U.S. relations - Reuters
+- `30 Aug 10:01` **gnews_centralbanks** — Savers are still pouring millions into risky unregulated 'loan note' schemes despite watchdog's warning - This is Money
 - `30 Aug 09:50` **aljazeera** — US police officer pulls hair, throws punches during arrest in Arkansas
 - `30 Aug 09:43` **investing_news** — LESS THAN 24 HOURS REMAINING: Unlock InvestingPro for 55% off BEFORE IT'S TOO LATE
 - `30 Aug 09:31` **aljazeera** — Protests as India's Hindu nationalists take centre stage in New York
 - `30 Aug 09:28` **aljazeera** — Air raids, conscripts and China: How Myanmar's military is regaining ground
 - `30 Aug 09:12` **investing_news** — Nordic American Tankers earnings beat by $0.08, revenue fell short of estimates
 - `30 Aug 09:05` **aljazeera** — Sudanese repair roads by hand in Darfur to improve emergency access
+- `30 Aug 09:05` **gnews_centralbanks** — September 2026 Monthly - Seeking Alpha
 - `30 Aug 09:00` **gnews_geopolitics** — S&P 500 Forecast: SPX rises modestly lower ahead of key catalyst week - FOREX.com
 - `30 Aug 08:40` **gnews_centralbanks** — You may have too much cash in the bank | Sunday Express - newspaper - Magzter
 - `30 Aug 07:45` **investing_news** — Where's the long-term money in softlines?
@@ -905,6 +1126,7 @@ The war between the United States, Israel, and Iran has caused the oil and gas i
 - `30 Aug 07:30` **investing_commodities** — Venezuela's interim president says US energy deal will last 25 years
 - `30 Aug 06:43` **aljazeera** — Bullet-riddled car on display in Berlin to remember Hind Rajab
 - `30 Aug 06:35` **aljazeera** — Isolated by raging floodwaters, Nepal's miracle home amid the devastation
+- `30 Aug 06:25` **gnews_centralbanks** — Glencore took US$480 mil provision on Radiant World exposure — Bloomberg - The Edge Singapore
 - `30 Aug 06:09` **gnews_geopolitics** — Hundreds Of Ships Still Stranded In Gulf Waters, UN Agency Says - Radio Free Europe/Radio Liberty
 - `30 Aug 06:06` **gnews_centralbanks** — Online banks pivot on low-rate mortgages as funding costs rise - 朝日新聞
 - `30 Aug 06:03` **yahoo_finance** — Major fruit grower lays off nearly 1,000 workers
@@ -923,11 +1145,11 @@ The war between the United States, Israel, and Iran has caused the oil and gas i
 
 ---
 
-## Shor — 1 khabrein hatai gayin
+## Shor — 2 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-yahoo_finance (1)
+yahoo_finance (2)
 
 ---
 
@@ -937,45 +1159,45 @@ yahoo_finance (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | WARN | 25 | 0 | 0 | 0 | 25 | 1.9 |
-| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.8 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.4 |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.4 |
-| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 3.3 |
-| instaforex | OK | 25 | 2 | 2 | 0 | 23 | -0.1 |
-| wsj_economy | OK | 36 | 2 | 1 | 1 | 34 | 0.0 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 17.6 |
+| investinglive | OK | 25 | 4 | 4 | 0 | 21 | 0.0 |
+| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.9 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.5 |
+| actionforex | WARN | 20 | 0 | 0 | 0 | 20 | 1.5 |
+| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 3.4 |
+| instaforex | OK | 25 | 2 | 0 | 2 | 23 | 0.0 |
+| wsj_economy | OK | 36 | 2 | 0 | 2 | 34 | 0.1 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 17.7 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 63 | 50 | 17 | 33 | 13 | 0.0 |
-| gnews_geopolitics | OK | 42 | 38 | 8 | 30 | 4 | 0.0 |
-| gnews_centralbanks | OK | 39 | 30 | 13 | 17 | 9 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.0 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.2 |
-| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 2.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.6 |
-| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.8 |
-| oilprice | OK | 15 | 3 | 1 | 2 | 12 | 0.1 |
-| investing_commodities | OK | 10 | 5 | 2 | 3 | 5 | 0.1 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| bbc_business | OK | 35 | 2 | 1 | 1 | 33 | 0.1 |
-| aljazeera | OK | 25 | 25 | 16 | 9 | 0 | 0.0 |
+| gnews_fed | OK | 59 | 58 | 10 | 48 | 1 | 0.0 |
+| gnews_geopolitics | OK | 43 | 43 | 9 | 34 | 0 | 0.0 |
+| gnews_centralbanks | OK | 45 | 43 | 13 | 30 | 2 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.1 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.3 |
+| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 2.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.7 |
+| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.9 |
+| oilprice | OK | 15 | 5 | 2 | 3 | 10 | 0.0 |
+| investing_commodities | OK | 10 | 5 | 0 | 5 | 5 | 0.2 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
+| bbc_business | OK | 35 | 2 | 0 | 2 | 33 | 0.2 |
+| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 30.4 |
-| eia_energy | OK | 21 | 0 | 0 | 0 | 21 | 2.2 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 4.3 |
-| wsj_world | OK | 70 | 13 | 3 | 10 | 57 | 0.0 |
-| wsj_markets | OK | 61 | 8 | 2 | 6 | 53 | 0.1 |
-| investing_news | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
-| yahoo_finance | OK | 49 | 45 | 41 | 4 | 4 | 0.0 |
-| mw_topstories | OK | 10 | 8 | 0 | 8 | 2 | 0.1 |
-| cointelegraph | OK | 30 | 4 | 1 | 3 | 26 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 30.5 |
+| eia_energy | OK | 21 | 0 | 0 | 0 | 21 | 2.3 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 4.4 |
+| wsj_world | OK | 70 | 16 | 3 | 13 | 54 | 0.0 |
+| wsj_markets | OK | 61 | 9 | 1 | 8 | 52 | 0.1 |
+| investing_news | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 48 | 37 | 11 | 2 | 0.0 |
+| mw_topstories | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
+| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi
