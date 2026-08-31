@@ -1,9 +1,9 @@
 # News Pack — Trading Day 30 Aug 2026
 
 - Trading day: **30 Aug 03:00 -> 31 Aug 02:59 PKT**
-- Aakhri update: **31 Aug 04:49 PKT**
-- Kul khabrein: **435**
-- Feeds: 27/39 OK
+- Aakhri update: **31 Aug 06:54 PKT**
+- Kul khabrein: **442**
+- Feeds: 29/39 OK
 
 ---
 
@@ -92,6 +92,11 @@ Gold Prices Crash In India: Biggest Drop Since July (Find Out Why?) Trak.in
 
 Kevin Warsh's Jackson Hole remark s pushed the implied probability of a September rate rise to around 58 percent from 35 percent a day earlier, a sharp repricing for such a short window. Short-term Treasury yields rose more than longer-dated ones, reflecting the direct link between near-term Fed expectations and the front end of the curve.
 
+**Markets weigh inflation against surprisingly resilient growth - Qatar Tribune**
+`31 Aug 02:00 PKT` · pehli baar dekhi `31 Aug 06:54` · gnews_centralbanks
+
+Markets weigh inflation against surprisingly resilient growth Qatar Tribune
+
 **Fed Interest Rate Forecast: Jobs and CPI to Drive US Dollar and EUR/USD - FXEmpire**
 `31 Aug 01:27 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_centralbanks
 
@@ -121,6 +126,11 @@ Ex-Reserve Bank of India Chief Raghuram Rajan Says US Federal Reserve Should Rai
 `31 Aug 00:00 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_fed
 
 Baht faces pressure near 33 per US dollar as markets eye Fed signals Pattaya Mail
+
+**Bond Investors Wary After Warsh Fans Wager Fed Poised to Hike - Bloomberg.com**
+`31 Aug 00:00 PKT` · pehli baar dekhi `31 Aug 06:54` · gnews_fed
+
+Bond Investors Wary After Warsh Fans Wager Fed Poised to Hike Bloomberg.com
 
 **Federal Reserve's chairman Kevin Warsh faces a 'no-win' situation on rates - Business Standard**
 `30 Aug 22:23 PKT` · pehli baar dekhi `30 Aug 23:35` · gnews_fed
@@ -170,6 +180,11 @@ Markets Brace for August Jobs Data, Fed Signals, and Major Tech Earnings Blockon
 `30 Aug 19:01 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_centralbanks
 
 Pound-to-Dollar Forecast: Hawkish Warsh Boosts USD, GBP Retreats to 1.3530 CurrencyNews.co.uk
+
+**Gulf stocks fall as Fed rate-hike bets rise after Warsh remarks - Reuters**
+`30 Aug 18:15 PKT` · pehli baar dekhi `31 Aug 06:54` · gnews_fed
+
+Gulf stocks fall as Fed rate-hike bets rise after Warsh remarks Reuters
 
 **Kevin Warsh tries being a normal central banker - Livemint**
 `30 Aug 18:02 PKT` · pehli baar dekhi `30 Aug 23:35` · gnews_fed
@@ -519,6 +534,11 @@ U.S. shale innovation is not limited to drilling techniques and engineering brea
 
 The deal recalls the famous Cuba scene in 'The Godfather Part II.'
 
+**Iran losing leverage in Hormuz as US blockade bites - CNN - Iran International**
+`31 Aug 00:52 PKT` · pehli baar dekhi `31 Aug 06:54` · gnews_geopolitics
+
+Iran losing leverage in Hormuz as US blockade bites - CNN Iran International
+
 **Brent Crude Ends August Below $90 as Hormuz Corridor Reshapes Oil Risk - The Eastern Herald**
 `31 Aug 00:52 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_geopolitics · **2 feeds mein**
 
@@ -574,6 +594,11 @@ Venezuela Instead of Hormuz: Trump's Oil Card for Calming the Market نورنی�
 **Trump: Venezuelan oil to be used to fill up 'virtually emptied' U.S. reserves**
 `30 Aug 20:24 PKT` · pehli baar dekhi `30 Aug 23:35` · investing_commodities
 
+**Iran oil imports: Pakistan considers cheaper supply after US 60-day waiver - Goodreturns**
+`30 Aug 20:05 PKT` · pehli baar dekhi `31 Aug 06:54` · gnews_geopolitics
+
+Iran oil imports: Pakistan considers cheaper supply after US 60-day waiver Goodreturns
+
 **Saudi Arabia Backs Turkey's Rapid Renewable Energy Buildout**
 `30 Aug 20:00 PKT` · pehli baar dekhi `30 Aug 20:02` · oilprice
 
@@ -616,6 +641,11 @@ Trump Warns Iran Over Hormuz Oil Route; IRGC Says Tehran Will Decide War's End N
 `30 Aug 11:45 PKT` · pehli baar dekhi `30 Aug 15:41` · gnews_fed
 
 Oil settles lower on clues about fed policy, rumours of Hormuz deal The Peninsula Qatar
+
+**Markets Eye GDP, Crude Oil, US Jobs Data This Week - Rediff MoneyWiz**
+`30 Aug 11:44 PKT` · pehli baar dekhi `31 Aug 06:54` · gnews_fed
+
+Markets Eye GDP, Crude Oil, US Jobs Data This Week Rediff MoneyWiz
 
 **India Hails Positive Iran Talks On Opening Strait Of Hormuz Maritime Route - scanx.trade**
 `30 Aug 11:30 PKT` · pehli baar dekhi `31 Aug 02:32` · gnews_geopolitics
@@ -777,6 +807,11 @@ US-Canada trade war escalates with new tariffs on steel, aluminum, copper Crypto
 `30 Aug 17:57 PKT` · pehli baar dekhi `30 Aug 20:02` · gnews_geopolitics
 
 Scott Bessent faces challenges at G20 over Iran sanctions and US debt Crypto Briefing
+
+**Bessent faces G20 diplomacy test amid tariffs, Iran war and bond turmoil - Reuters - Iran International**
+`30 Aug 17:43 PKT` · pehli baar dekhi `31 Aug 06:54` · gnews_geopolitics
+
+Bessent faces G20 diplomacy test amid tariffs, Iran war and bond turmoil - Reuters Iran International
 
 **Party balloons could become a 'luxury' as the Iran war spurs a helium shortage**
 `30 Aug 17:30 PKT` · pehli baar dekhi `30 Aug 20:02` · mw_topstories
@@ -1235,45 +1270,45 @@ yahoo_finance (2)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 10 | 6 | 4 | 15 | 0.0 |
-| fxstreet_news | OK | 30 | 3 | 3 | 0 | 27 | 0.0 |
-| fxstreet_analysis | WARN | 30 | 0 | 0 | 0 | 30 | 1.6 |
-| actionforex | WARN | 20 | 0 | 0 | 0 | 20 | 1.6 |
-| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 3.5 |
-| instaforex | OK | 25 | 10 | 8 | 2 | 15 | -0.2 |
-| wsj_economy | OK | 36 | 2 | 0 | 2 | 34 | 0.2 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 17.8 |
+| investinglive | OK | 25 | 17 | 7 | 10 | 8 | 0.0 |
+| fxstreet_news | OK | 30 | 10 | 7 | 3 | 20 | 0.0 |
+| fxstreet_analysis | WARN | 30 | 0 | 0 | 0 | 30 | 1.7 |
+| actionforex | OK | 20 | 1 | 1 | 0 | 19 | 0.1 |
+| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 3.6 |
+| instaforex | OK | 25 | 25 | 22 | 3 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 3 | 1 | 2 | 33 | 0.1 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 17.9 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 59 | 59 | 6 | 53 | 0 | 0.1 |
-| gnews_geopolitics | OK | 44 | 44 | 9 | 35 | 0 | 0.0 |
-| gnews_centralbanks | OK | 46 | 46 | 10 | 36 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.4 |
-| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 2.8 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.8 |
-| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 2.0 |
-| oilprice | OK | 15 | 6 | 1 | 5 | 9 | 0.0 |
-| investing_commodities | OK | 10 | 6 | 1 | 5 | 4 | 0.1 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
-| bbc_business | OK | 36 | 4 | 1 | 3 | 32 | 0.0 |
-| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 1 | 0 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 30.6 |
-| eia_energy | OK | 21 | 0 | 0 | 0 | 21 | 2.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 4.5 |
-| wsj_world | OK | 70 | 16 | 0 | 16 | 54 | 0.0 |
-| wsj_markets | OK | 61 | 10 | 1 | 9 | 51 | 0.0 |
-| investing_news | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 48 | 24 | 24 | 2 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 5 | 1 | 4 | 25 | 0.0 |
+| gnews_fed | OK | 68 | 68 | 15 | 53 | 0 | 0.0 |
+| gnews_geopolitics | OK | 53 | 53 | 15 | 38 | 0 | 0.0 |
+| gnews_centralbanks | OK | 39 | 39 | 11 | 28 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.5 |
+| boj_whatsnew | OK | 48 | 2 | 2 | 0 | 46 | 0.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.9 |
+| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 2.1 |
+| oilprice | OK | 15 | 6 | 0 | 6 | 9 | 0.1 |
+| investing_commodities | OK | 10 | 8 | 2 | 6 | 2 | 0.0 |
+| ing_think | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
+| bbc_business | OK | 37 | 5 | 1 | 4 | 32 | 0.1 |
+| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.1 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 30.7 |
+| eia_energy | OK | 21 | 0 | 0 | 0 | 21 | 2.5 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 4.6 |
+| wsj_world | OK | 70 | 17 | 1 | 16 | 53 | 0.0 |
+| wsj_markets | OK | 61 | 14 | 4 | 10 | 47 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 3 | 0 | 3 | 47 | 0.7 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 5 | 0 | 5 | 25 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi
