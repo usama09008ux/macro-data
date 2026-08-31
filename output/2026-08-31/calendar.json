@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "31 Aug 2026 16:43",
+  "generated_pkt": "31 Aug 2026 23:29",
   "trading_day": "2026-08-31",
   "feed_sources": {
     "thisweek": "live"
@@ -243,7 +243,7 @@
       "title": "RatingDog Manufacturing PMI",
       "ccy": "CNY",
       "impact": "Low",
-      "forecast": "51.5",
+      "forecast": "51.1",
       "previous": "50.9",
       "url": "https://www.forexfactory.com/calendar/448-ch-ratingdog-manufacturing-pmi",
       "all_day": false,
@@ -1426,7 +1426,7 @@
       "title": "Non-Farm Employment Change",
       "ccy": "USD",
       "impact": "High",
-      "forecast": "58K",
+      "forecast": "55K",
       "previous": "-23K",
       "url": "https://www.forexfactory.com/calendar/66-us-non-farm-employment-change",
       "all_day": false,

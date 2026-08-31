@@ -1,6 +1,6 @@
 # Calendar — Trading Day 31 Aug 2026
 
-- Banaya gaya: **31 Aug 2026 16:43 PKT**
+- Banaya gaya: **31 Aug 2026 23:29 PKT**
 - Trading day: **31 Aug 03:00 -> 01 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,13 +12,12 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 20:15 | All | low | G20 Meetings | - | - |
 | **01 Sep** 04:01 | GBP | low | BRC Shop Price Index y/y | 0.9% | 0.9% |
 | **01 Sep** 04:50 | JPY | low | Capital Spending q/y | -0.2% | 0.0% |
 | **01 Sep** 05:30 | JPY | low | Final Manufacturing PMI | 55.1 | 55.1 |
 | **01 Sep** 06:30 | AUD | low | Building Approvals m/m | -4.8% | 7.2% |
 | **01 Sep** 06:30 | AUD | low | Current Account | -29.7B | -27.1B |
-| **01 Sep** 06:45 | CNY | low | RatingDog Manufacturing PMI | 51.5 | 50.9 |
+| **01 Sep** 06:45 | CNY | low | RatingDog Manufacturing PMI | 51.1 | 50.9 |
 | **01 Sep** 08:35 | JPY | low | 10-y Bond Auction | - | 2.84|2.6 |
 | **01 Sep** 10:00 | JPY | low | Consumer Confidence | 35.3 | 34.9 |
 | **01 Sep** 11:00 | EUR | low | German Retail Sales m/m | 0.4% | -1.1% |
@@ -40,8 +39,21 @@
 | **01 Sep** 14:00 | EUR | MED | CPI Flash Estimate y/y | 3.3% | 2.9% |
 | **01 Sep** 14:00 | EUR | low | Italian Prelim CPI m/m | 0.4% | 0.2% |
 | **01 Sep** 14:00 | EUR | low | Unemployment Rate | 6.3% | 6.3% |
+| **01 Sep** 18:05 | USD | low | FOMC Member Barr Speaks | - | - |
+| **01 Sep** 18:30 | CAD | low | Manufacturing PMI | - | 53.5 |
+| **01 Sep** 18:45 | USD | low | Final Manufacturing PMI | 53.3 | 53.2 |
+| **01 Sep** 19:00 | USD | **HIGH** | ISM Manufacturing PMI | 55.2 | 55.6 |
+| **01 Sep** 19:00 | USD | MED | ISM Manufacturing Prices | 71.2 | 71.1 |
+| **01 Sep** 19:00 | USD | MED | JOLTS Job Openings | 7.33M | 7.36M |
+| **01 Sep** 19:00 | USD | low | Construction Spending m/m | 0.0% | -0.1% |
+| **01 Sep** 19:10 | USD | low | RCM/TIPP Economic Optimism | 46.2 | 45.1 |
+| **01 Sep** 19:15 | USD | low | Omdia Total Vehicle Sales | 16.3M | 16.3M |
+| **01 Sep** 19:50 | NZD | low | GDT Price Index | - | 2.3% |
+| **01 Sep** 20:15 | All | low | G20 Meetings | - | - |
 
-*Agle 24 ghante mein koi HIGH impact event nahi.*
+**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
+
+- `01 Sep 19:00` **USD ISM Manufacturing PMI**
 
 ---
 
@@ -49,9 +61,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **01 Sep** 19:00 | USD | **HIGH** | ISM Manufacturing PMI | 55.2 | 55.6 |
-| **01 Sep** 19:00 | USD | MED | ISM Manufacturing Prices | 71.2 | 71.1 |
-| **01 Sep** 19:00 | USD | MED | JOLTS Job Openings | 7.33M | 7.36M |
 | **02 Sep** 06:30 | AUD | **HIGH** | GDP q/q | 0.3% | 0.3% |
 | **02 Sep** 07:00 | NZD | **HIGH** | Official Cash Rate | 2.75% | 2.50% |
 | **02 Sep** 07:00 | NZD | **HIGH** | RBNZ Monetary Policy Statement | - | - |
@@ -68,7 +77,7 @@
 | **04 Sep** 17:30 | CAD | **HIGH** | Employment Change | 15.8K | 75.1K |
 | **04 Sep** 17:30 | CAD | **HIGH** | Unemployment Rate | 6.4% | 6.4% |
 | **04 Sep** 17:30 | USD | **HIGH** | Average Hourly Earnings m/m | 0.3% | 0.1% |
-| **04 Sep** 17:30 | USD | **HIGH** | Non-Farm Employment Change | 58K | -23K |
+| **04 Sep** 17:30 | USD | **HIGH** | Non-Farm Employment Change | 55K | -23K |
 | **04 Sep** 17:30 | USD | **HIGH** | Unemployment Rate | 4.1% | 4.1% |
 | **04 Sep** 19:00 | CAD | MED | Ivey PMI | 56.2 | 55.1 |
 
