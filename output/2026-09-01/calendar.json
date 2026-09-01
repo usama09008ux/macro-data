@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "01 Sep 2026 20:48",
+  "generated_pkt": "02 Sep 2026 00:41",
   "trading_day": "2026-09-01",
   "feed_sources": {
     "thisweek": "live"
@@ -526,6 +526,19 @@
       "trading_day": "2026-09-01"
     },
     {
+      "title": "German Buba President Nagel Speaks",
+      "ccy": "EUR",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/851-ge-buba-president-nagel-speaks",
+      "all_day": false,
+      "utc": "2026-09-01T12:30Z",
+      "pkt": "01 Sep 17:30",
+      "pkt_iso": "2026-09-01T17:30:00+05:00",
+      "trading_day": "2026-09-01"
+    },
+    {
       "title": "FOMC Member Barr Speaks",
       "ccy": "USD",
       "impact": "Low",
@@ -708,19 +721,6 @@
       "trading_day": "2026-09-02"
     },
     {
-      "title": "German Buba President Nagel Speaks",
-      "ccy": "EUR",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "",
-      "url": "https://www.forexfactory.com/calendar/851-ge-buba-president-nagel-speaks",
-      "all_day": false,
-      "utc": "2026-09-02T00:30Z",
-      "pkt": "02 Sep 05:30",
-      "pkt_iso": "2026-09-02T05:30:00+05:00",
-      "trading_day": "2026-09-02"
-    },
-    {
       "title": "GDP q/q",
       "ccy": "AUD",
       "impact": "High",
@@ -815,7 +815,7 @@
       "title": "ADP Non-Farm Employment Change",
       "ccy": "USD",
       "impact": "Medium",
-      "forecast": "48K",
+      "forecast": "47K",
       "previous": "44K",
       "url": "https://www.forexfactory.com/calendar/75-us-adp-non-farm-employment-change",
       "all_day": false,
@@ -880,7 +880,7 @@
       "title": "Crude Oil Inventories",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "0.0M",
+      "forecast": "-0.4M",
       "previous": "0.1M",
       "url": "https://www.forexfactory.com/calendar/10-us-crude-oil-inventories",
       "all_day": false,
@@ -1283,7 +1283,7 @@
       "title": "Natural Gas Storage",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "30B",
       "previous": "15B",
       "url": "https://www.forexfactory.com/calendar/26-us-natural-gas-storage",
       "all_day": false,

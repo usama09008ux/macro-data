@@ -401,6 +401,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/59-ez-unemployment-rate]]></url>
 	</event>
 	<event>
+		<title>German Buba President Nagel Speaks</title>
+		<country>EUR</country>
+		<date><![CDATA[09-01-2026]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/851-ge-buba-president-nagel-speaks]]></url>
+	</event>
+	<event>
 		<title>FOMC Member Barr Speaks</title>
 		<country>USD</country>
 		<date><![CDATA[09-01-2026]]></date>
@@ -541,16 +551,6 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/377-jn-monetary-base-yy]]></url>
 	</event>
 	<event>
-		<title>German Buba President Nagel Speaks</title>
-		<country>EUR</country>
-		<date><![CDATA[09-02-2026]]></date>
-		<time><![CDATA[12:30am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast />
-		<previous />
-		<url><![CDATA[https://www.forexfactory.com/calendar/851-ge-buba-president-nagel-speaks]]></url>
-	</event>
-	<event>
 		<title>GDP q/q</title>
 		<country>AUD</country>
 		<date><![CDATA[09-02-2026]]></date>
@@ -626,7 +626,7 @@
 		<date><![CDATA[09-02-2026]]></date>
 		<time><![CDATA[12:15pm]]></time>
 		<impact><![CDATA[Medium]]></impact>
-		<forecast><![CDATA[48K]]></forecast>
+		<forecast><![CDATA[47K]]></forecast>
 		<previous><![CDATA[44K]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/75-us-adp-non-farm-employment-change]]></url>
 	</event>
@@ -676,7 +676,7 @@
 		<date><![CDATA[09-02-2026]]></date>
 		<time><![CDATA[2:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[0.0M]]></forecast>
+		<forecast><![CDATA[-0.4M]]></forecast>
 		<previous><![CDATA[0.1M]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/10-us-crude-oil-inventories]]></url>
 	</event>
@@ -986,7 +986,7 @@
 		<date><![CDATA[09-03-2026]]></date>
 		<time><![CDATA[2:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast />
+		<forecast><![CDATA[30B]]></forecast>
 		<previous><![CDATA[15B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/26-us-natural-gas-storage]]></url>
 	</event>

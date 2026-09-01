@@ -1,6 +1,6 @@
 # Calendar — Trading Day 01 Sep 2026
 
-- Banaya gaya: **01 Sep 2026 20:48 PKT**
+- Banaya gaya: **02 Sep 2026 00:41 PKT**
 - Trading day: **01 Sep 03:00 -> 02 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,23 +12,23 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **02 Sep** 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
-| **02 Sep** 03:45 | NZD | low | Building Consents m/m | - | -3.6% |
-| **02 Sep** 04:50 | JPY | low | Monetary Base y/y | -13.5% | -13.8% |
-| **02 Sep** 05:30 | EUR | low | German Buba President Nagel Speaks | - | - |
-| **02 Sep** 06:30 | AUD | **HIGH** | GDP q/q | 0.3% | 0.3% |
-| **02 Sep** 07:00 | NZD | **HIGH** | Official Cash Rate | 2.75% | 2.50% |
-| **02 Sep** 07:00 | NZD | **HIGH** | RBNZ Monetary Policy Statement | - | - |
-| **02 Sep** 07:00 | NZD | **HIGH** | RBNZ Rate Statement | - | - |
-| **02 Sep** 08:00 | NZD | **HIGH** | RBNZ Press Conference | - | - |
-| **02 Sep** 11:45 | EUR | low | French Gov Budget Balance | - | -106.8B |
-| **02 Sep** 12:00 | EUR | low | Spanish Unemployment Change | 15.4K | 19.5K |
-| **02 Sep** 17:15 | USD | MED | ADP Non-Farm Employment Change | 48K | 44K |
-| **02 Sep** 18:45 | CAD | **HIGH** | BOC Rate Statement | - | - |
-| **02 Sep** 18:45 | CAD | **HIGH** | Overnight Rate | 2.25% | 2.25% |
-| **02 Sep** 19:00 | USD | low | Factory Orders m/m | 0.7% | -0.3% |
-| **02 Sep** 19:30 | CAD | **HIGH** | BOC Press Conference | - | - |
-| **02 Sep** 19:30 | USD | low | Crude Oil Inventories | 0.0M | 0.1M |
+| 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
+| 03:45 | NZD | low | Building Consents m/m | - | -3.6% |
+| 04:50 | JPY | low | Monetary Base y/y | -13.5% | -13.8% |
+| 06:30 | AUD | **HIGH** | GDP q/q | 0.3% | 0.3% |
+| 07:00 | NZD | **HIGH** | Official Cash Rate | 2.75% | 2.50% |
+| 07:00 | NZD | **HIGH** | RBNZ Monetary Policy Statement | - | - |
+| 07:00 | NZD | **HIGH** | RBNZ Rate Statement | - | - |
+| 08:00 | NZD | **HIGH** | RBNZ Press Conference | - | - |
+| 11:45 | EUR | low | French Gov Budget Balance | - | -106.8B |
+| 12:00 | EUR | low | Spanish Unemployment Change | 15.4K | 19.5K |
+| 17:15 | USD | MED | ADP Non-Farm Employment Change | 47K | 44K |
+| 18:45 | CAD | **HIGH** | BOC Rate Statement | - | - |
+| 18:45 | CAD | **HIGH** | Overnight Rate | 2.25% | 2.25% |
+| 19:00 | USD | low | Factory Orders m/m | 0.7% | -0.3% |
+| 19:30 | CAD | **HIGH** | BOC Press Conference | - | - |
+| 19:30 | USD | low | Crude Oil Inventories | -0.4M | 0.1M |
+| 23:00 | USD | low | Beige Book | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
