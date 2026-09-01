@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "01 Sep 2026 15:19",
+  "generated_pkt": "01 Sep 2026 20:48",
   "trading_day": "2026-09-01",
   "feed_sources": {
     "thisweek": "live"
@@ -624,9 +624,9 @@
       "previous": "45.1",
       "url": "https://www.forexfactory.com/calendar/237-us-rcmtipp-economic-optimism",
       "all_day": false,
-      "utc": "2026-09-01T14:10Z",
-      "pkt": "01 Sep 19:10",
-      "pkt_iso": "2026-09-01T19:10:00+05:00",
+      "utc": "2026-09-01T14:04Z",
+      "pkt": "01 Sep 19:04",
+      "pkt_iso": "2026-09-01T19:04:00+05:00",
       "trading_day": "2026-09-01"
     },
     {
@@ -643,19 +643,6 @@
       "trading_day": "2026-09-01"
     },
     {
-      "title": "GDT Price Index",
-      "ccy": "NZD",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "2.3%",
-      "url": "https://www.forexfactory.com/calendar/602-nz-gdt-price-index",
-      "all_day": false,
-      "utc": "2026-09-01T14:50Z",
-      "pkt": "01 Sep 19:50",
-      "pkt_iso": "2026-09-01T19:50:00+05:00",
-      "trading_day": "2026-09-01"
-    },
-    {
       "title": "G20 Meetings",
       "ccy": "All",
       "impact": "Low",
@@ -666,6 +653,19 @@
       "utc": "2026-09-01T15:15Z",
       "pkt": "01 Sep 20:15",
       "pkt_iso": "2026-09-01T20:15:00+05:00",
+      "trading_day": "2026-09-01"
+    },
+    {
+      "title": "GDT Price Index",
+      "ccy": "NZD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "2.3%",
+      "url": "https://www.forexfactory.com/calendar/602-nz-gdt-price-index",
+      "all_day": false,
+      "utc": "2026-09-01T15:25Z",
+      "pkt": "01 Sep 20:25",
+      "pkt_iso": "2026-09-01T20:25:00+05:00",
       "trading_day": "2026-09-01"
     },
     {
@@ -880,7 +880,7 @@
       "title": "Crude Oil Inventories",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "0.0M",
       "previous": "0.1M",
       "url": "https://www.forexfactory.com/calendar/10-us-crude-oil-inventories",
       "all_day": false,
@@ -1475,5 +1475,32 @@
       "trading_day": "2026-09-04"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "Italy August manufacturing PMI 49.6 vs 51.3 expected",
+      "actual_raw": "49.6",
+      "forecast_raw": "51.3",
+      "beat": false,
+      "raw_diff": "-1.70",
+      "sign_flip": false,
+      "diff_pct": -3.3,
+      "when_pkt": "01 Sep 12:45",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "JOLTs job openings 7.271M vs 7.300M estimate",
+      "actual_raw": "7.271M",
+      "forecast_raw": "7.300M",
+      "beat": false,
+      "raw_diff": "-0.0M",
+      "sign_flip": false,
+      "diff_pct": -0.4,
+      "when_pkt": "01 Sep 19:04",
+      "source": "investinglive",
+      "tags": []
+    }
+  ]
 }

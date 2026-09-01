@@ -474,7 +474,7 @@
 		<title>RCM/TIPP Economic Optimism</title>
 		<country>USD</country>
 		<date><![CDATA[09-01-2026]]></date>
-		<time><![CDATA[2:10pm]]></time>
+		<time><![CDATA[2:04pm]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast><![CDATA[46.2]]></forecast>
 		<previous><![CDATA[45.1]]></previous>
@@ -491,16 +491,6 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/828-us-omdia-total-vehicle-sales]]></url>
 	</event>
 	<event>
-		<title>GDT Price Index</title>
-		<country>NZD</country>
-		<date><![CDATA[09-01-2026]]></date>
-		<time><![CDATA[2:50pm]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast />
-		<previous><![CDATA[2.3%]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/602-nz-gdt-price-index]]></url>
-	</event>
-	<event>
 		<title>G20 Meetings</title>
 		<country>All</country>
 		<date><![CDATA[09-01-2026]]></date>
@@ -509,6 +499,16 @@
 		<forecast />
 		<previous />
 		<url><![CDATA[https://www.forexfactory.com/calendar/435-g20-meetings]]></url>
+	</event>
+	<event>
+		<title>GDT Price Index</title>
+		<country>NZD</country>
+		<date><![CDATA[09-01-2026]]></date>
+		<time><![CDATA[3:25pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[2.3%]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/602-nz-gdt-price-index]]></url>
 	</event>
 	<event>
 		<title>API Weekly Statistical Bulletin</title>
@@ -676,7 +676,7 @@
 		<date><![CDATA[09-02-2026]]></date>
 		<time><![CDATA[2:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast />
+		<forecast><![CDATA[0.0M]]></forecast>
 		<previous><![CDATA[0.1M]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/10-us-crude-oil-inventories]]></url>
 	</event>
