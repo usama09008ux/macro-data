@@ -217,7 +217,7 @@
 		<time><![CDATA[6:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast><![CDATA[0.4%]]></forecast>
-		<previous><![CDATA[-1.1%]]></previous>
+		<previous><![CDATA[-0.7%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/107-ge-retail-sales-mm]]></url>
 	</event>
 	<event>
@@ -244,7 +244,7 @@
 		<title>Retail Sales y/y</title>
 		<country>CHF</country>
 		<date><![CDATA[09-01-2026]]></date>
-		<time><![CDATA[6:30am]]></time>
+		<time><![CDATA[6:33am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast><![CDATA[1.6%]]></forecast>
 		<previous><![CDATA[1.5%]]></previous>
@@ -689,6 +689,16 @@
 		<forecast />
 		<previous />
 		<url><![CDATA[https://www.forexfactory.com/calendar/241-us-beige-book]]></url>
+	</event>
+	<event>
+		<title>RBNZ Gov Breman Speaks</title>
+		<country>NZD</country>
+		<date><![CDATA[09-02-2026]]></date>
+		<time><![CDATA[8:10pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/927-nz-rbnz-gov-breman-speaks]]></url>
 	</event>
 	<event>
 		<title>Overseas Trade Index q/q</title>
