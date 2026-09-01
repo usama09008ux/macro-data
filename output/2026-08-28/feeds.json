@@ -1,5 +1,5 @@
 {
-  "updated_pkt": "01 Sep 15:32",
+  "updated_pkt": "01 Sep 20:09",
   "feeds": [
     {
       "name": "investinglive",
@@ -8,8 +8,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 25,
-      "new": 19,
-      "seen_before": 6,
+      "new": 11,
+      "seen_before": 14,
       "out_of_window": 0
     },
     {
@@ -19,37 +19,37 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 30,
-      "new": 28,
-      "seen_before": 2,
+      "new": 27,
+      "seen_before": 3,
       "out_of_window": 0
     },
     {
       "name": "fxstreet_analysis",
       "status": "OK",
       "fetched": 30,
-      "newest_age_days": 0.3,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 4,
-      "new": 0,
-      "seen_before": 4,
-      "out_of_window": 26
+      "in_window": 2,
+      "new": 1,
+      "seen_before": 1,
+      "out_of_window": 28
     },
     {
       "name": "actionforex",
       "status": "OK",
       "fetched": 20,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.0,
       "note": "",
       "in_window": 20,
-      "new": 9,
-      "seen_before": 11,
+      "new": 19,
+      "seen_before": 1,
       "out_of_window": 0
     },
     {
       "name": "marketpulse",
       "status": "WARN",
       "fetched": 3,
-      "newest_age_days": 5.0,
+      "newest_age_days": 5.2,
       "note": "thora sust",
       "in_window": 0,
       "new": 0,
@@ -73,71 +73,71 @@
       "fetched": 36,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 7,
-      "new": 2,
-      "seen_before": 5,
-      "out_of_window": 29
+      "in_window": 6,
+      "new": 3,
+      "seen_before": 3,
+      "out_of_window": 30
     },
     {
       "name": "cme_metals_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.6,
+      "newest_age_days": 0.8,
       "note": "",
-      "in_window": 2,
+      "in_window": 0,
       "new": 0,
-      "seen_before": 2,
-      "out_of_window": 8
+      "seen_before": 0,
+      "out_of_window": 10
     },
     {
       "name": "cme_fx_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.6,
+      "newest_age_days": 0.8,
       "note": "",
-      "in_window": 2,
+      "in_window": 0,
       "new": 0,
-      "seen_before": 2,
-      "out_of_window": 8
+      "seen_before": 0,
+      "out_of_window": 10
     },
     {
       "name": "cme_rates_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.6,
+      "newest_age_days": 0.8,
       "note": "",
-      "in_window": 2,
+      "in_window": 0,
       "new": 0,
-      "seen_before": 2,
-      "out_of_window": 8
+      "seen_before": 0,
+      "out_of_window": 10
     },
     {
       "name": "cme_energy_video",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.6,
+      "newest_age_days": 0.8,
       "note": "",
-      "in_window": 2,
+      "in_window": 0,
       "new": 0,
-      "seen_before": 2,
-      "out_of_window": 8
+      "seen_before": 0,
+      "out_of_window": 10
     },
     {
       "name": "cme_daily_commentary",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 0.6,
+      "newest_age_days": 0.8,
       "note": "",
-      "in_window": 8,
+      "in_window": 0,
       "new": 0,
-      "seen_before": 8,
-      "out_of_window": 2
+      "seen_before": 0,
+      "out_of_window": 10
     },
     {
       "name": "cme_risk_management",
       "status": "WARN",
       "fetched": 20,
-      "newest_age_days": 19.2,
+      "newest_age_days": 19.4,
       "note": "thora sust",
       "in_window": 0,
       "new": 0,
@@ -147,13 +147,13 @@
     {
       "name": "kitco_general",
       "status": "OK",
-      "fetched": 29,
-      "newest_age_days": 0.3,
+      "fetched": 31,
+      "newest_age_days": 0.0,
       "note": "",
-      "in_window": 28,
-      "new": 0,
-      "seen_before": 28,
-      "out_of_window": 1
+      "in_window": 17,
+      "new": 13,
+      "seen_before": 4,
+      "out_of_window": 14
     },
     {
       "name": "gnews_fed",
@@ -161,10 +161,10 @@
       "fetched": 100,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 100,
-      "new": 26,
-      "seen_before": 74,
-      "out_of_window": 0
+      "in_window": 67,
+      "new": 41,
+      "seen_before": 26,
+      "out_of_window": 33
     },
     {
       "name": "gnews_geopolitics",
@@ -172,27 +172,27 @@
       "fetched": 100,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 100,
-      "new": 30,
-      "seen_before": 70,
-      "out_of_window": 0
+      "in_window": 77,
+      "new": 24,
+      "seen_before": 53,
+      "out_of_window": 23
     },
     {
       "name": "gnews_centralbanks",
       "status": "OK",
-      "fetched": 32,
+      "fetched": 44,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 32,
-      "new": 17,
-      "seen_before": 15,
-      "out_of_window": 0
+      "in_window": 38,
+      "new": 24,
+      "seen_before": 14,
+      "out_of_window": 6
     },
     {
       "name": "fed_monetary",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 6.7,
+      "newest_age_days": 6.9,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -203,18 +203,18 @@
       "name": "fed_speeches",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 3.9,
+      "newest_age_days": 0.1,
       "note": "",
-      "in_window": 0,
-      "new": 0,
+      "in_window": 1,
+      "new": 1,
       "seen_before": 0,
-      "out_of_window": 15
+      "out_of_window": 14
     },
     {
       "name": "ecb_press",
       "status": "OK",
       "fetched": 15,
-      "newest_age_days": 3.8,
+      "newest_age_days": 4.0,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -225,7 +225,7 @@
       "name": "boe_news",
       "status": "OK",
       "fetched": 50,
-      "newest_age_days": 4.9,
+      "newest_age_days": 5.1,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -236,18 +236,18 @@
       "name": "boj_whatsnew",
       "status": "OK",
       "fetched": 46,
-      "newest_age_days": 0.1,
+      "newest_age_days": 0.3,
       "note": "",
-      "in_window": 6,
-      "new": 1,
-      "seen_before": 5,
-      "out_of_window": 40
+      "in_window": 2,
+      "new": 0,
+      "seen_before": 2,
+      "out_of_window": 44
     },
     {
       "name": "rba_media",
       "status": "OK",
       "fetched": 1,
-      "newest_age_days": 5.3,
+      "newest_age_days": 5.4,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -258,12 +258,12 @@
       "name": "mining_com",
       "status": "OK",
       "fetched": 36,
-      "newest_age_days": 0.5,
+      "newest_age_days": 0.1,
       "note": "",
-      "in_window": 9,
-      "new": 0,
-      "seen_before": 9,
-      "out_of_window": 27
+      "in_window": 6,
+      "new": 4,
+      "seen_before": 2,
+      "out_of_window": 30
     },
     {
       "name": "oilprice",
@@ -271,10 +271,10 @@
       "fetched": 15,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 15,
-      "new": 3,
-      "seen_before": 12,
-      "out_of_window": 0
+      "in_window": 12,
+      "new": 6,
+      "seen_before": 6,
+      "out_of_window": 3
     },
     {
       "name": "investing_commodities",
@@ -283,31 +283,31 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 0,
-      "seen_before": 10,
+      "new": 5,
+      "seen_before": 5,
       "out_of_window": 0
     },
     {
       "name": "ing_think",
-      "status": "FAIL",
-      "fetched": 0,
-      "newest_age_days": null,
-      "note": "ConnectTimeout",
-      "in_window": 0,
-      "new": 0,
+      "status": "OK",
+      "fetched": 10,
+      "newest_age_days": 0.0,
+      "note": "",
+      "in_window": 8,
+      "new": 8,
       "seen_before": 0,
-      "out_of_window": 0
+      "out_of_window": 2
     },
     {
       "name": "bbc_business",
       "status": "OK",
-      "fetched": 38,
+      "fetched": 42,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 16,
-      "new": 1,
-      "seen_before": 15,
-      "out_of_window": 22
+      "in_window": 15,
+      "new": 5,
+      "seen_before": 10,
+      "out_of_window": 27
     },
     {
       "name": "aljazeera",
@@ -324,18 +324,18 @@
       "name": "snb_press",
       "status": "OK",
       "fetched": 20,
-      "newest_age_days": 0.0,
+      "newest_age_days": -0.0,
       "note": "",
-      "in_window": 5,
-      "new": 0,
-      "seen_before": 5,
-      "out_of_window": 15
+      "in_window": 2,
+      "new": 1,
+      "seen_before": 1,
+      "out_of_window": 18
     },
     {
       "name": "boc_press",
       "status": "OK",
       "fetched": 10,
-      "newest_age_days": 32.0,
+      "newest_age_days": 32.2,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -344,20 +344,20 @@
     },
     {
       "name": "eia_energy",
-      "status": "WARN",
-      "fetched": 21,
-      "newest_age_days": 3.9,
-      "note": "thora sust",
-      "in_window": 0,
-      "new": 0,
+      "status": "OK",
+      "fetched": 11,
+      "newest_age_days": 0.0,
+      "note": "",
+      "in_window": 1,
+      "new": 1,
       "seen_before": 0,
-      "out_of_window": 21
+      "out_of_window": 10
     },
     {
       "name": "bea_releases",
       "status": "OK",
       "fetched": 48,
-      "newest_age_days": 5.9,
+      "newest_age_days": 6.1,
       "note": "",
       "in_window": 0,
       "new": 0,
@@ -367,13 +367,13 @@
     {
       "name": "wsj_world",
       "status": "OK",
-      "fetched": 72,
+      "fetched": 71,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 27,
-      "new": 4,
-      "seen_before": 23,
-      "out_of_window": 45
+      "in_window": 11,
+      "new": 3,
+      "seen_before": 8,
+      "out_of_window": 60
     },
     {
       "name": "wsj_markets",
@@ -381,10 +381,10 @@
       "fetched": 61,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 37,
-      "new": 7,
-      "seen_before": 30,
-      "out_of_window": 24
+      "in_window": 19,
+      "new": 6,
+      "seen_before": 13,
+      "out_of_window": 42
     },
     {
       "name": "investing_news",
@@ -403,10 +403,10 @@
       "fetched": 50,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 34,
-      "new": 26,
-      "seen_before": 8,
-      "out_of_window": 16
+      "in_window": 32,
+      "new": 29,
+      "seen_before": 3,
+      "out_of_window": 18
     },
     {
       "name": "mw_topstories",
@@ -415,8 +415,8 @@
       "newest_age_days": 0.0,
       "note": "",
       "in_window": 10,
-      "new": 7,
-      "seen_before": 3,
+      "new": 2,
+      "seen_before": 8,
       "out_of_window": 0
     },
     {
@@ -425,10 +425,10 @@
       "fetched": 30,
       "newest_age_days": 0.0,
       "note": "",
-      "in_window": 21,
-      "new": 3,
-      "seen_before": 18,
-      "out_of_window": 9
+      "in_window": 12,
+      "new": 6,
+      "seen_before": 6,
+      "out_of_window": 18
     }
   ]
 }
