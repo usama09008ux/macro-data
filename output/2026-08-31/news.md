@@ -1,9 +1,9 @@
 # News Pack — Trading Day 31 Aug 2026
 
 - Trading day: **31 Aug 03:00 -> 01 Sep 02:59 PKT**
-- Aakhri update: **01 Sep 10:45 PKT**
-- Kul khabrein: **1094**
-- Feeds: 36/39 OK
+- Aakhri update: **01 Sep 15:32 PKT**
+- Kul khabrein: **1102**
+- Feeds: 35/39 OK
 
 ---
 
@@ -296,6 +296,11 @@ Goldman Targets $4,900 Gold as Central Bank Buying Reshapes Reserve Landscape fi
 
 Silver (XAG/USD) is little changed on Monday, caught between a weaker US Dollar (USD) and lingering hawkish Federal Reserve (Fed) expectations, leaving the metal without clear direction after tumbling 4.11% on Friday in the wake of Fed Chair Kevin Warsh's hawkish Jackson Hole comments.
 
+**Silver Rebounds, but Fed Rate-Hike Threat Caps Upside - CryptoRank**
+`31 Aug 21:18 PKT` · pehli baar dekhi `01 Sep 15:32` · gnews_fed
+
+Silver Rebounds, but Fed Rate-Hike Threat Caps Upside CryptoRank
+
 **Gold, silver price corrections may create buying opportunities despite hawkish Fed, says analyst - KITCO**
 `31 Aug 20:51 PKT` · pehli baar dekhi `01 Sep 02:30` · kitco_general
 
@@ -533,6 +538,11 @@ Fed Chair Kevin Warsh lays out 3 variables the central bank will use to gauge AI
 With Warsh running the Fed, should bond investors be worried? MarketWatch
   - `01 Sep 01:55` *mw_topstories* — With Warsh running the Fed, should bond investors be worried?
 
+**Trump Says Rates Are "Too High" While Emphasizing Confidence in Fed Chair Warsh - finance.biggo.com**
+`01 Sep 01:55 PKT` · pehli baar dekhi `01 Sep 15:32` · gnews_fed
+
+Trump Says Rates Are "Too High" While Emphasizing Confidence in Fed Chair Warsh finance.biggo.com
+
 **Trump on Warsh: He'll do what he has to do - Reuters**
 `01 Sep 01:16 PKT` · pehli baar dekhi `01 Sep 02:30` · gnews_fed
 
@@ -708,6 +718,12 @@ BNY's Wee Khoon Chong highlights that China's factory slump is easing, with manu
 `31 Aug 19:45 PKT` · pehli baar dekhi `31 Aug 21:15` · fxstreet_news
 
 Standard Chartered's Tommy Wu raises Taiwan's GDP growth forecasts, projecting 11.5% in 2026 and 6.5% in 2027, both slightly above government estimates. The upgrade is driven by AI-related export strength and recovering domestic demand.
+
+**U.S. Macro Week Ahead: Jobs Report, Fed Beige Book, and Key Labor Data in Focus - CryptoRank**
+`31 Aug 19:18 PKT` · pehli baar dekhi `01 Sep 15:32` · gnews_fed · **2 feeds mein**
+
+U.S. Macro Week Ahead: Jobs Report, Fed Beige Book, and Key Labor Data in Focus CryptoRank
+  - `31 Aug 08:37` *gnews_fed* — U.S. Macro Week Ahead: Jobs Report, Fed Beige Book, and Key Labor Data in Focus - Bitget
 
 **Sunset Market Commentary**
 `31 Aug 19:12 PKT` · pehli baar dekhi `31 Aug 21:15` · actionforex · **2 feeds mein**
@@ -1115,11 +1131,6 @@ Rupee opens 11 paise lower to Rs 95.49 per dollar, US Fed strikes hawkish tone T
 `31 Aug 08:44 PKT` · pehli baar dekhi `31 Aug 13:20` · gnews_fed
 
 Dollar holds near two-week high as bets rise on September Fed rate hike Business Standard
-
-**U.S. Macro Week Ahead: Jobs Report, Fed Beige Book, and Key Labor Data in Focus - Bitget**
-`31 Aug 08:37 PKT` · pehli baar dekhi `31 Aug 13:20` · gnews_fed
-
-U.S. Macro Week Ahead: Jobs Report, Fed Beige Book, and Key Labor Data in Focus Bitget
 
 **China NBS PMI Manufacturing Nears Recovery at 49.8, but Services Keep Economy Below 50**
 `31 Aug 07:59 PKT` · pehli baar dekhi `31 Aug 13:20` · actionforex
@@ -2505,6 +2516,12 @@ WTI Oil Rises Above $85.50 as Iran Tensions Fuel Supply Concerns CryptoRank
 
 Asia's diesel exports to Africa are surging to nearly five-year highs, as Middle East's sales to Africa crashed to nine-year lows amid threats to shipping and refinery outages, a Reuters analysis of ship-tracking data and volumes showed on Monday. The Middle East conflict has made shipping of fuels, including diesel, to east Africa challenging, with ongoing security threats to tankers in both the Strait of Hormuz and the Bab el-Mandeb Strait.
 
+**Iran says US strikes on Kharg Island did not stop oil production - Middle East Monitor**
+`31 Aug 18:13 PKT` · pehli baar dekhi `01 Sep 15:32` · gnews_geopolitics · **2 feeds mein**
+
+Iran says US strikes on Kharg Island did not stop oil production Middle East Monitor
+  - `31 Aug 12:49` *gnews_geopolitics* — Iran says US strikes on Kharg Island did not stop oil production - Anadolu Ajansı
+
 **US Pain at the Pump Worsens After More US-Iran Fighting Lifts Oil Prices - EnergyNow.com**
 `31 Aug 18:07 PKT` · pehli baar dekhi `31 Aug 21:15` · gnews_geopolitics
 
@@ -2529,6 +2546,13 @@ Modi meets Iran's Pezeshkian as renewed fighting threatens oil supplies, shippin
 `31 Aug 17:37 PKT` · pehli baar dekhi `31 Aug 21:15` · kitco_general
 
 TSX futures edge higher as US-Iran tensions lift oil KITCO
+
+**Oil jumps 3% as U.S. strikes on Iran revive Hormuz supply disruption concerns - Investing.com Nigeria**
+`31 Aug 17:33 PKT` · pehli baar dekhi `01 Sep 15:32` · gnews_geopolitics · **3 feeds mein**
+
+Oil jumps 3% as U.S. strikes on Iran revive Hormuz supply disruption concerns Investing.com Nigeria
+  - `31 Aug 15:17` *gnews_geopolitics* — Oil jumps 3% as U.S. strikes on Iran revive Hormuz supply disruption concerns - Investing.com India
+  - `31 Aug 14:14` *gnews_geopolitics* — Oil jumps 3% as U.S. strikes on Iran revive Hormuz supply disruption concerns - Investing.com
 
 **China's LNG Imports Set to Drop 18% in August as Prices Soar**
 `31 Aug 17:30 PKT` · pehli baar dekhi `31 Aug 21:15` · oilprice
@@ -2642,12 +2666,6 @@ Oil prices surge after US, Iran resume strikes Free Press Kashmir
 `31 Aug 15:23 PKT` · pehli baar dekhi `31 Aug 21:15` · gnews_geopolitics
 
 Crude Oil Prices Surge as Brent Tops $90 on Iran-Hormuz Escalation Coinpaper
-
-**Oil jumps 3% as U.S. strikes on Iran revive Hormuz supply disruption concerns - Investing.com India**
-`31 Aug 15:17 PKT` · pehli baar dekhi `01 Sep 05:45` · gnews_geopolitics · **2 feeds mein**
-
-Oil jumps 3% as U.S. strikes on Iran revive Hormuz supply disruption concerns Investing.com India
-  - `31 Aug 14:14` *gnews_geopolitics* — Oil jumps 3% as U.S. strikes on Iran revive Hormuz supply disruption concerns - Investing.com
 
 **Crude Oil Futures Rise For Fourth Straight Day, Fresh US-Iran Strikes Renew Strait Of Hormuz Supply Fears - Free Press Journal**
 `31 Aug 15:10 PKT` · pehli baar dekhi `31 Aug 21:15` · gnews_geopolitics
@@ -2807,11 +2825,6 @@ Iran says oil production continues despite US strikes Yeni Safak English
 `31 Aug 12:49 PKT` · pehli baar dekhi `31 Aug 21:15` · gnews_geopolitics
 
 Oil Prices Jump 2%: Fresh US-Iran Strikes Renew Supply Fears analyticsinsight.net
-
-**Iran says US strikes on Kharg Island did not stop oil production - Anadolu Ajansı**
-`31 Aug 12:49 PKT` · pehli baar dekhi `31 Aug 13:20` · gnews_geopolitics
-
-Iran says US strikes on Kharg Island did not stop oil production Anadolu Ajansı
 
 **Asia Stocks Slide as US-Iran Clashes Lift Oil and Fed Rate Bets Intensify - finance.biggo.com**
 `31 Aug 12:35 PKT` · pehli baar dekhi `31 Aug 13:20` · gnews_centralbanks
@@ -3788,7 +3801,7 @@ Bessent framing China's trade surplus as unacceptable at a G20 gathering he is p
 
 Iran urges other nations not to join new US sanctions, mediators focus on reopening strait The Business Standard
 
-### BINA TAG (265)
+### BINA TAG (268)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -3940,6 +3953,7 @@ Iran urges other nations not to join new US sanctions, mediators focus on reopen
 - `31 Aug 18:03` **aljazeera** — Manchester City sign Brazilian winger Allan Elias from Palmeiras
 - `31 Aug 17:55` **wsj_markets** — U.S. Natural Gas Futures Start Week Lower
 - `31 Aug 17:43` **gnews_fed** — U.S. Farmers Are Under Pressure Yet in a Far Stronger Position Than in the 1980s - Substack
+- `31 Aug 17:43` **gnews_fed** — U.S. Farmers Are Under Pressure Yet in a Far Stronger Position Than in the 1980s - Substack
 - `31 Aug 17:39` **investinglive** — Platinum Long trade idea with 12x reward-vs-risk ratio
 - `31 Aug 17:17` **wsj_markets** — GameStop Sees Higher Profit as eBay Investment Offsets Lower Sales
 - `31 Aug 17:07` **mining_com** — Op-Ed: Cameroon's mining moment has arrived
@@ -3965,6 +3979,8 @@ Iran urges other nations not to join new US sanctions, mediators focus on reopen
 - `31 Aug 15:00` **yahoo_finance** — Best high-yield savings interest rates today, Monday, August 31, 2026: Earn up to 4.15% APY
 - `31 Aug 15:00` **yahoo_finance** — Mortgage and refinance interest rates today, Monday, August 31, 2026: Purchase rates currently higher than refinance rates
 - `31 Aug 15:00` **yahoo_finance** — HELOC and home equity loan rates today, Monday, August 31, 2026: A 19-basis-point differential
+- `31 Aug 15:00` **yahoo_finance** — Best high-yield savings interest rates today, Tuesday, September 1, 2026: Earn up to 4.10% APY
+- `31 Aug 15:00` **yahoo_finance** — HELOC and home equity loan rates today, Tuesday, September 1, 2026: Besides rates, how to choose between a HELOC or home equity loan
 - `31 Aug 14:57` **wsj_world** — Nepal Focuses on Dangerous Tunnel Rescues as Flood Toll Tops 900
 - `31 Aug 14:51` **investinglive** — iFX EXPO Asia 2026: Hong Kong Set to Welcome 5,000+ Global Trading and Fintech Professionals This October
 - `31 Aug 14:51` **gnews_fed** — From 35% to nearly 60%: Why did the Federal Reserve suddenly undergo a sharp reassessment of its September projections? - news.futunn.com
@@ -4074,42 +4090,45 @@ investing_news (5), yahoo_finance (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 22 | 8 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 4 | 1 | 3 | 26 | 0.1 |
-| actionforex | OK | 20 | 20 | 7 | 13 | 0 | 0.0 |
-| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 4.8 |
+| investinglive | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 28 | 2 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 4 | 0 | 4 | 26 | 0.3 |
+| actionforex | OK | 20 | 20 | 9 | 11 | 0 | 0.1 |
+| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 5.0 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 6 | 1 | 5 | 30 | 0.2 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 19.0 |
+| wsj_economy | OK | 36 | 7 | 2 | 5 | 29 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.6 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 19.2 |
 | kitco_general | OK | 29 | 28 | 0 | 28 | 1 | 0.3 |
-| gnews_fed | OK | 100 | 100 | 27 | 73 | 0 | 0.0 |
-| gnews_geopolitics | OK | 100 | 100 | 34 | 66 | 0 | 0.0 |
-| gnews_centralbanks | OK | 43 | 43 | 10 | 33 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 6.5 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.7 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.7 |
-| boj_whatsnew | OK | 47 | 5 | 1 | 4 | 42 | 0.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.1 |
-| mining_com | OK | 36 | 9 | 0 | 9 | 27 | 0.3 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.5 |
-| bbc_business | OK | 38 | 15 | 8 | 7 | 23 | 0.0 |
-| aljazeera | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
+| gnews_fed | OK | 100 | 100 | 26 | 74 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 30 | 70 | 0 | 0.0 |
+| gnews_centralbanks | OK | 32 | 32 | 17 | 15 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 6.7 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.9 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.8 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.9 |
+| boj_whatsnew | OK | 46 | 6 | 1 | 5 | 40 | 0.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.3 |
+| mining_com | OK | 36 | 9 | 0 | 9 | 27 | 0.5 |
+| oilprice | OK | 15 | 15 | 3 | 12 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| bbc_business | OK | 38 | 16 | 1 | 15 | 22 | 0.0 |
+| aljazeera | OK | 25 | 25 | 22 | 3 | 0 | 0.0 |
 | snb_press | OK | 20 | 5 | 0 | 5 | 15 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 31.8 |
-| eia_energy | WARN | 21 | 0 | 0 | 0 | 21 | 3.7 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 5.7 |
-| wsj_world | OK | 71 | 24 | 4 | 20 | 47 | 0.1 |
-| wsj_markets | OK | 61 | 35 | 2 | 33 | 26 | 0.1 |
-| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 12 | 4 | 8 | 38 | 0.5 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
-| cointelegraph | OK | 30 | 18 | 2 | 16 | 12 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 32.0 |
+| eia_energy | WARN | 21 | 0 | 0 | 0 | 21 | 3.9 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 5.9 |
+| wsj_world | OK | 72 | 27 | 4 | 23 | 45 | 0.0 |
+| wsj_markets | OK | 61 | 37 | 7 | 30 | 24 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 34 | 26 | 8 | 16 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 21 | 3 | 18 | 9 | 0.0 |
+
+**Jo feeds nahi aaye:**
+- ing_think — FAIL, ConnectTimeout
