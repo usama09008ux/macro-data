@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "02 Sep 2026 20:40",
+  "generated_pkt": "03 Sep 2026 00:33",
   "trading_day": "2026-09-02",
   "feed_sources": {
     "thisweek": "live"
@@ -919,7 +919,7 @@
       "title": "Overseas Trade Index q/q",
       "ccy": "NZD",
       "impact": "Low",
-      "forecast": "-2.2%",
+      "forecast": "-2.1%",
       "previous": "-2.0%",
       "url": "https://www.forexfactory.com/calendar/158-nz-overseas-trade-index-qq",
       "all_day": false,
@@ -958,7 +958,7 @@
       "title": "Goods Trade Balance",
       "ccy": "AUD",
       "impact": "Low",
-      "forecast": "1.50B",
+      "forecast": "1.52B",
       "previous": "1.93B",
       "url": "https://www.forexfactory.com/calendar/122-au-goods-trade-balance",
       "all_day": false,
@@ -1023,7 +1023,7 @@
       "title": "GDP q/q",
       "ccy": "CHF",
       "impact": "Low",
-      "forecast": "1.5%",
+      "forecast": "1.7%",
       "previous": "0.7%",
       "url": "https://www.forexfactory.com/calendar/32-sz-gdp-qq",
       "all_day": false,
