@@ -1,6 +1,6 @@
 # Calendar — Trading Day 02 Sep 2026
 
-- Banaya gaya: **02 Sep 2026 14:48 PKT**
+- Banaya gaya: **02 Sep 2026 20:40 PKT**
 - Trading day: **02 Sep 03:00 -> 03 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,12 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 17:15 | USD | MED | ADP Non-Farm Employment Change | 47K | 44K |
-| 18:45 | CAD | **HIGH** | BOC Rate Statement | - | - |
-| 18:45 | CAD | **HIGH** | Overnight Rate | 2.25% | 2.25% |
-| 19:00 | USD | low | Factory Orders m/m | 0.7% | -0.3% |
-| 19:30 | CAD | **HIGH** | BOC Press Conference | - | - |
-| 19:30 | USD | low | Crude Oil Inventories | -0.4M | 0.1M |
 | 23:00 | USD | low | Beige Book | - | - |
 | **03 Sep** 01:10 | NZD | MED | RBNZ Gov Breman Speaks | - | - |
 | **03 Sep** 03:45 | NZD | low | Overseas Trade Index q/q | -2.2% | -2.0% |
@@ -39,12 +33,18 @@
 | **03 Sep** 14:03 | EUR | low | Spanish 10-y Bond Auction | - | 3.54|2.4 |
 | **03 Sep** 14:18 | EUR | low | French 10-y Bond Auction | - | 3.86|3.7 |
 | **03 Sep** 14:30 | USD | low | Challenger Job Cuts y/y | - | -46.1% |
+| **03 Sep** 17:30 | CAD | low | Labor Productivity q/q | 0.7% | -0.5% |
+| **03 Sep** 17:30 | CAD | low | Trade Balance | 3.2B | 3.9B |
+| **03 Sep** 17:30 | USD | MED | Unemployment Claims | 205K | 203K |
+| **03 Sep** 17:30 | USD | low | FOMC Member Waller Speaks | - | - |
+| **03 Sep** 17:30 | USD | low | Revised Nonfarm Productivity q/q | 1.4% | 1.4% |
+| **03 Sep** 17:30 | USD | low | Revised Unit Labor Costs q/q | 1.3% | 1.3% |
+| **03 Sep** 17:30 | USD | low | Trade Balance | -89.4B | -73.3B |
+| **03 Sep** 18:45 | USD | low | Final Services PMI | 56.8 | 56.8 |
+| **03 Sep** 19:00 | USD | MED | ISM Services PMI | 54.2 | 54.1 |
+| **03 Sep** 19:30 | USD | low | Natural Gas Storage | 30B | 15B |
 
-**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
-
-- `02 Sep 18:45` **CAD BOC Rate Statement**
-- `02 Sep 18:45` **CAD Overnight Rate**
-- `02 Sep 19:30` **CAD BOC Press Conference**
+*Agle 24 ghante mein koi HIGH impact event nahi.*
 
 ---
 
@@ -52,8 +52,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **03 Sep** 17:30 | USD | MED | Unemployment Claims | 205K | 203K |
-| **03 Sep** 19:00 | USD | MED | ISM Services PMI | 54.2 | 54.1 |
 | **04 Sep** 13:50 | GBP | **HIGH** | BOE Gov Bailey Speaks | - | - |
 | **04 Sep** 17:30 | CAD | **HIGH** | Employment Change | 15.1K | 75.1K |
 | **04 Sep** 17:30 | CAD | **HIGH** | Unemployment Rate | 6.4% | 6.4% |
