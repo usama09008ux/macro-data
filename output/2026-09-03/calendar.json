@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "03 Sep 2026 05:34",
+  "generated_pkt": "03 Sep 2026 14:59",
   "trading_day": "2026-09-03",
   "feed_sources": {
     "thisweek": "live"
@@ -1111,19 +1111,6 @@
       "trading_day": "2026-09-03"
     },
     {
-      "title": "PPI m/m",
-      "ccy": "EUR",
-      "impact": "Low",
-      "forecast": "1.2%",
-      "previous": "-0.3%",
-      "url": "https://www.forexfactory.com/calendar/89-ez-ppi-mm",
-      "all_day": false,
-      "utc": "2026-09-03T09:00Z",
-      "pkt": "03 Sep 14:00",
-      "pkt_iso": "2026-09-03T14:00:00+05:00",
-      "trading_day": "2026-09-03"
-    },
-    {
       "title": "Spanish 10-y Bond Auction",
       "ccy": "EUR",
       "impact": "Low",
@@ -1131,9 +1118,9 @@
       "previous": "3.54|2.4",
       "url": "https://www.forexfactory.com/calendar/525-sp-10-y-bond-auction",
       "all_day": false,
-      "utc": "2026-09-03T09:03Z",
-      "pkt": "03 Sep 14:03",
-      "pkt_iso": "2026-09-03T14:03:00+05:00",
+      "utc": "2026-09-03T08:43Z",
+      "pkt": "03 Sep 13:43",
+      "pkt_iso": "2026-09-03T13:43:00+05:00",
       "trading_day": "2026-09-03"
     },
     {
@@ -1144,9 +1131,22 @@
       "previous": "3.86|3.7",
       "url": "https://www.forexfactory.com/calendar/523-fr-10-y-bond-auction",
       "all_day": false,
-      "utc": "2026-09-03T09:18Z",
-      "pkt": "03 Sep 14:18",
-      "pkt_iso": "2026-09-03T14:18:00+05:00",
+      "utc": "2026-09-03T08:57Z",
+      "pkt": "03 Sep 13:57",
+      "pkt_iso": "2026-09-03T13:57:00+05:00",
+      "trading_day": "2026-09-03"
+    },
+    {
+      "title": "PPI m/m",
+      "ccy": "EUR",
+      "impact": "Low",
+      "forecast": "1.2%",
+      "previous": "-0.3%",
+      "url": "https://www.forexfactory.com/calendar/89-ez-ppi-mm",
+      "all_day": false,
+      "utc": "2026-09-03T09:00Z",
+      "pkt": "03 Sep 14:00",
+      "pkt_iso": "2026-09-03T14:00:00+05:00",
       "trading_day": "2026-09-03"
     },
     {
