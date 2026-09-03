@@ -1,6 +1,6 @@
 # Calendar — Trading Day 03 Sep 2026
 
-- Banaya gaya: **03 Sep 2026 20:31 PKT**
+- Banaya gaya: **04 Sep 2026 00:31 PKT**
 - Trading day: **03 Sep 03:00 -> 04 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,20 +12,19 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **04 Sep** 00:00 | USD | low | FOMC Member Hammack Speaks | - | - |
-| **04 Sep** 00:55 | USD | low | FOMC Member Goolsbee Speaks | - | - |
-| **04 Sep** 04:30 | JPY | low | Household Spending y/y | -1.6% | -3.3% |
-| **04 Sep** 11:00 | EUR | low | German Factory Orders m/m | 0.3% | 3.1% |
-| **04 Sep** 13:00 | EUR | low | Italian Retail Sales m/m | 0.2% | -0.1% |
-| **04 Sep** 13:30 | GBP | low | Construction PMI | 45.8 | 44.7 |
-| **04 Sep** 13:50 | GBP | **HIGH** | BOE Gov Bailey Speaks | - | - |
-| **04 Sep** 14:00 | EUR | low | Retail Sales m/m | 0.3% | -0.3% |
-| **04 Sep** 17:30 | CAD | **HIGH** | Employment Change | 15.1K | 75.1K |
-| **04 Sep** 17:30 | CAD | **HIGH** | Unemployment Rate | 6.4% | 6.4% |
-| **04 Sep** 17:30 | USD | **HIGH** | Average Hourly Earnings m/m | 0.3% | 0.1% |
-| **04 Sep** 17:30 | USD | **HIGH** | Non-Farm Employment Change | 55K | -23K |
-| **04 Sep** 17:30 | USD | **HIGH** | Unemployment Rate | 4.1% | 4.1% |
-| **04 Sep** 19:00 | CAD | MED | Ivey PMI | 56.2 | 55.1 |
+| 00:55 | USD | low | FOMC Member Goolsbee Speaks | - | - |
+| 04:30 | JPY | low | Household Spending y/y | -1.6% | -3.3% |
+| 11:00 | EUR | low | German Factory Orders m/m | 0.3% | 3.1% |
+| 13:00 | EUR | low | Italian Retail Sales m/m | 0.2% | -0.1% |
+| 13:30 | GBP | low | Construction PMI | 45.8 | 44.7 |
+| 13:50 | GBP | **HIGH** | BOE Gov Bailey Speaks | - | - |
+| 14:00 | EUR | low | Retail Sales m/m | 0.3% | -0.3% |
+| 17:30 | CAD | **HIGH** | Employment Change | 15.1K | 75.1K |
+| 17:30 | CAD | **HIGH** | Unemployment Rate | 6.4% | 6.4% |
+| 17:30 | USD | **HIGH** | Average Hourly Earnings m/m | 0.3% | 0.1% |
+| 17:30 | USD | **HIGH** | Non-Farm Employment Change | 55K | -23K |
+| 17:30 | USD | **HIGH** | Unemployment Rate | 4.1% | 4.1% |
+| 19:00 | CAD | MED | Ivey PMI | 56.2 | 55.1 |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 

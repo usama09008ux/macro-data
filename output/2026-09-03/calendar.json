@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "03 Sep 2026 20:31",
+  "generated_pkt": "04 Sep 2026 00:31",
   "trading_day": "2026-09-03",
   "feed_sources": {
     "thisweek": "live"
@@ -1290,6 +1290,19 @@
       "utc": "2026-09-03T14:30Z",
       "pkt": "03 Sep 19:30",
       "pkt_iso": "2026-09-03T19:30:00+05:00",
+      "trading_day": "2026-09-03"
+    },
+    {
+      "title": "MPC Member Pill Speaks",
+      "ccy": "GBP",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/850-uk-mpc-member-pill-speaks",
+      "all_day": false,
+      "utc": "2026-09-03T15:00Z",
+      "pkt": "03 Sep 20:00",
+      "pkt_iso": "2026-09-03T20:00:00+05:00",
       "trading_day": "2026-09-03"
     },
     {
