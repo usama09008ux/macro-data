@@ -1,8 +1,8 @@
 # News Pack — Trading Day 02 Sep 2026
 
 - Trading day: **02 Sep 03:00 -> 03 Sep 02:59 PKT**
-- Aakhri update: **03 Sep 06:17 PKT**
-- Kul khabrein: **1115**
+- Aakhri update: **03 Sep 10:55 PKT**
+- Kul khabrein: **1163**
 - Feeds: 37/39 OK
 
 ---
@@ -592,10 +592,20 @@ Fed to address conflicts of interest for reserve bank officials American Banker
 
 Trump Wants Lower Rates. That Won't Stop a Fed Rate Hike. Barron's
 
+**Economy grows 'modestly,' with consumers wary of rising prices: Fed - CFO Dive**
+`03 Sep 01:37 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_fed
+
+Economy grows 'modestly,' with consumers wary of rising prices: Fed CFO Dive
+
 **Economic and event calendar in Asia Thursday, September 3, 2026 - another China PMI**
 `03 Sep 01:28 PKT` · pehli baar dekhi `03 Sep 02:17` · investinglive
 
 The data release of note due today, Thursday, September 3, 2026, from the Asian timezone is the private sector services PMI survey from Rating Dog / S&P. Look back recap: this week's China PMI data Monday brought the official NBS releases for August. The Manufacturing PMI rose to 49.8, up from 49.2 in July and slightly ahead of the 49.7 consensus.
+
+**Bond yields are climbing — but Fed's Williams calls it good news - mpamag.com**
+`03 Sep 01:21 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_fed
+
+Bond yields are climbing — but Fed's Williams calls it good news mpamag.com
 
 **'Without data centers, construction would be in a recession,' Fed survey finds - costar.com**
 `03 Sep 01:15 PKT` · pehli baar dekhi `03 Sep 04:23` · gnews_fed
@@ -628,6 +638,11 @@ Dollar to hold gains, but stuck on sparse Fed rate guidance: Reuters poll KITCO
 
 Rising yields are a threat to the "Magnificent Seven." Here's why that could hurt U.S. consumers.
 
+**Fed's Beige Book: 10 of 12 Districts Report Expansion Since July, Heightened Price Sensitivity Becomes Evident - finance.biggo.com**
+`03 Sep 00:04 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_fed
+
+Fed's Beige Book: 10 of 12 Districts Report Expansion Since July, Heightened Price Sensitivity Becomes Evident finance.biggo.com
+
 **US Fed Beige Book Shows Data Center Builds Driving Regional Expansion, But Warns Of Rising Cost Pressures - TradingView**
 `02 Sep 23:57 PKT` · pehli baar dekhi `03 Sep 02:17` · gnews_fed
 
@@ -637,6 +652,11 @@ US Fed Beige Book Shows Data Center Builds Driving Regional Expansion, But Warns
 `02 Sep 23:49 PKT` · pehli baar dekhi `03 Sep 06:17` · gnews_fed
 
 Every Fed Hike Hits Startup Venture Debt Within 90 Days; Hyperscalers Are Immune Tech Times
+
+**What rising global bond yields mean for your wallet - ABC News - Breaking News, Latest News and Videos**
+`02 Sep 23:48 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_fed
+
+What rising global bond yields mean for your wallet ABC News - Breaking News, Latest News and Videos
 
 **Paraguay Annual Inflation Eases in August**
 `02 Sep 23:37 PKT` · instaforex
@@ -708,6 +728,11 @@ OCBC's Sim Moh Siong and Christopher Wong note that USD/SGD is rebounding alongs
 
 Fed's Williams not swayed that a rate hike is the answer yet American Banker
 
+**Wall Street Rallies as Fed's Williams Downplays September Rate Increase - blockonomi.com**
+`02 Sep 22:20 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_fed
+
+Wall Street Rallies as Fed's Williams Downplays September Rate Increase blockonomi.com
+
 **NY Fed's John Williams signals openness to September rate hike - qz.com**
 `02 Sep 22:18 PKT` · pehli baar dekhi `03 Sep 02:17` · gnews_fed
 
@@ -754,6 +779,11 @@ The Fed's independence faces a 75-year reckoning Korea JoongAng Daily
 `02 Sep 19:58 PKT` · pehli baar dekhi `02 Sep 23:37` · gnews_fed
 
 RBI Governor Sanjay Malhotra Meets Fed Chairman Kevin Warsh at G20 Finance Meeting INDIA New England News
+
+**New York Fed President: "Surge in U.S. Treasury Yields Not Due to Market Instability" - 아시아경제**
+`02 Sep 19:55 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_fed
+
+New York Fed President: "Surge in U.S. Treasury Yields Not Due to Market Instability" 아시아경제
 
 **Warsh's Jackson Hole encore may put Trump's inflation record under a microscope - KITCO**
 `02 Sep 19:44 PKT` · pehli baar dekhi `02 Sep 20:03` · kitco_general · **5 feeds mein**
@@ -863,9 +893,10 @@ Global bond yields are surging to multi-decade highs as inflation fears mount qz
 Brown Brothers Harriman's (BBH) Elias Haddad notes the US Dollar (USD) is supported by widening US-G6 yield spreads and resilient US data, which keep Federal Reserve (Fed) rate hike expectations alive in the near term.
 
 **Fed's Williams ties rising bond yields to strong economy, CNBC reports - KITCO**
-`02 Sep 16:38 PKT` · pehli baar dekhi `02 Sep 20:03` · kitco_general · **5 feeds mein**
+`02 Sep 16:38 PKT` · pehli baar dekhi `02 Sep 20:03` · kitco_general · **6 feeds mein**
 
 Fed's Williams ties rising bond yields to strong economy, CNBC reports KITCO
+  - `02 Sep 19:42` *gnews_fed* — Fed's Williams ties rising bond yields to strong economy, CNBC reports - wtvbam.com
   - `02 Sep 19:25` *gnews_fed* — Fed's Williams ties rising bond yields to strong economy, CNBC reports - WTAQ
   - `02 Sep 19:24` *gnews_fed* — Fed's Williams ties rising bond yields to strong economy, CNBC reports - The Mighty 790 KFGO
   - `02 Sep 18:58` *gnews_fed* — Fed's Williams ties rising bond yields to strong economy, CNBC reports - The Lufkin Daily News
@@ -1186,6 +1217,11 @@ Why bond yields are rising and why everyone should care ABC News - Breaking News
 
 Unifil peacekeepers were worse than useless. But France isn't giving up.
 
+**EUR/USD Decline Shows Safe-Haven Flows Are Overpowering Rate Differentials - Investing.com UK**
+`03 Sep 00:54 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_centralbanks
+
+EUR/USD Decline Shows Safe-Haven Flows Are Overpowering Rate Differentials Investing.com UK
+
 **EURUSD Technicals: Traders have done their ABCs in trading the EURUSD today. What do I mean?**
 `02 Sep 23:59 PKT` · pehli baar dekhi `03 Sep 02:17` · investinglive
 
@@ -1250,6 +1286,14 @@ EUR/USD&#8217;s fall from 1.1710 is in progress and intraday bias stays on the d
 
 BNY's Geoff Yu reports that European Central Bank (ECB) Governing Council member Joachim Nagel has strongly signaled a September rate hike as Eurozone inflation stays above target and activity proves resilient.
 
+**Euro area bank interest rate statistics: July 2026 - European Central Bank**
+`02 Sep 16:28 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_centralbanks · **4 feeds mein**
+
+Euro area bank interest rate statistics: July 2026 European Central Bank
+  - `02 Sep 13:41` *gnews_centralbanks* — Euro area bank interest rate statistics: July 2026 - European Central Bank
+  - `02 Sep 13:02` *gnews_centralbanks* — Euro area bank interest rate statistics: July 2026 - European Central Bank
+  - `02 Sep 13:00` *gnews_centralbanks* — Euro area bank interest rate statistics: July 2026 - ecb.europa.eu
+
 **France Budget Deficit Widens in January-July**
 `02 Sep 15:59 PKT` · instaforex
 
@@ -1303,24 +1347,30 @@ Can the ECB hike rates without triggering more market turmoil? Investing.com
 
 The Euro (EUR) is trading lower against the US Dollar (USD) for the second consecutive day on Wednesday, weighed by risk aversion amid growing tensions in the Middle East, while rising bets of Federal Reserve (Fed) interest rate hikes support speculative demand for the US Dollar.
 
-**Euro area bank interest rate statistics: July 2026 - European Central Bank**
-`02 Sep 13:41 PKT` · pehli baar dekhi `02 Sep 20:03` · gnews_centralbanks · **3 feeds mein**
+**German inflation edges up to 2.9% in August as higher energy prices weigh - Interior Daily**
+`02 Sep 14:12 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_centralbanks
 
-Euro area bank interest rate statistics: July 2026 European Central Bank
-  - `02 Sep 13:02` *gnews_centralbanks* — Euro area bank interest rate statistics: July 2026 - European Central Bank
-  - `02 Sep 13:00` *gnews_centralbanks* — Euro area bank interest rate statistics: July 2026 - ecb.europa.eu
+German inflation edges up to 2.9% in August as higher energy prices weigh Interior Daily
 
 **ECB preview: How to hike rates without creating more market turmoil**
-`02 Sep 13:38 PKT` · pehli baar dekhi `02 Sep 20:03` · ing_think · **2 feeds mein**
+`02 Sep 13:38 PKT` · pehli baar dekhi `02 Sep 20:03` · ing_think · **3 feeds mein**
 
 EUROPE: We expect the ECB to hike interest rates by 25bp next week. As long as inflation remains mainly energy-driven, hiking rates further beyond next week would not make a lot of sense and could harm the eurozone economy
+  - `03 Sep 02:47` *gnews_centralbanks* — ECB preview: How to hike rates without creating more market turmoil - Forex Factory
   - `02 Sep 13:48` *gnews_centralbanks* — ECB preview: How to hike rates without creating more market turmoil - ING Think
 
 **Nagel signals ECB will hike next week, cautious beyond that - The Edge Malaysia**
-`02 Sep 13:35 PKT` · pehli baar dekhi `02 Sep 23:37` · gnews_centralbanks · **2 feeds mein**
+`02 Sep 13:35 PKT` · pehli baar dekhi `02 Sep 23:37` · gnews_centralbanks · **4 feeds mein**
 
 Nagel signals ECB will hike next week, cautious beyond that The Edge Malaysia
+  - `02 Sep 13:35` *gnews_centralbanks* — Nagel signals ECB will hike next week, cautious beyond that - The Edge Malaysia
   - `02 Sep 13:24` *gnews_centralbanks* — Nagel signals ECB will hike next week, cautious beyond that - The Edge Singapore
+  - `02 Sep 13:24` *gnews_centralbanks* — Nagel signals ECB will hike next week, cautious beyond that - The Edge Singapore
+
+**EUR/USD Dips Below 1.1600: Consolidation Likely as Dollar Holds Firm - CryptoRank**
+`02 Sep 13:30 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_centralbanks
+
+EUR/USD Dips Below 1.1600: Consolidation Likely as Dollar Holds Firm CryptoRank
 
 **ECB September rate hike all but guaranteed as Gas prices and inflation climb - FXStreet**
 `02 Sep 13:29 PKT` · pehli baar dekhi `03 Sep 06:17` · gnews_centralbanks
@@ -1368,6 +1418,16 @@ ECB must be prepared to lift interest rates further, top policymaker tells FT Bu
 `02 Sep 11:15 PKT` · pehli baar dekhi `02 Sep 15:59` · gnews_centralbanks
 
 ECB must be prepared to lift rates further - Makhlouf RTE.ie
+
+**Nagel Signals ECB Will Hike Next Week, Cautious Beyond That - Bloomberg.com**
+`02 Sep 11:10 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_centralbanks
+
+Nagel Signals ECB Will Hike Next Week, Cautious Beyond That Bloomberg.com
+
+**ECB rate hike in September is a "no-brainer," but December holds the real drama? - Moomoo**
+`02 Sep 11:09 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_centralbanks
+
+ECB rate hike in September is a "no-brainer," but December holds the real drama? Moomoo
 
 **ECB's Nagel: Markets see over 95% probability of a September rate hike - FXStreet**
 `02 Sep 11:08 PKT` · pehli baar dekhi `02 Sep 15:59` · gnews_centralbanks
@@ -1496,6 +1556,11 @@ The USD/CHF pair advances some 0.13% on Wednesday as the Greenback holds within 
 
 Aluminium producers offer Japanese buyers lower Q4 premiums, sources say kitco.com
 
+**USD/JPY Forecast: Can BOJ Expectations Continue to Support the Yen? - FOREX.com**
+`02 Sep 21:52 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_centralbanks
+
+USD/JPY Forecast: Can BOJ Expectations Continue to Support the Yen? FOREX.com
+
 **The Fed vs. BOJ: Who Raises Rates First? - FXTM**
 `02 Sep 21:06 PKT` · pehli baar dekhi `02 Sep 23:37` · gnews_centralbanks
 
@@ -1506,10 +1571,25 @@ The Fed vs. BOJ: Who Raises Rates First? FXTM
 
 The US Dollar Index (DXY) trades on the back foot on Wednesday as a sharp rise in the Japanese Yen (JPY) forces the Greenback to reverse its earlier intraday gains. At the time of writing, DXY trades around 99.55, down 0.11% on the day, after reaching 99.86, its highest level since August 14.
 
+**FOREX-Yen gains sharply, dollar eases from two-week high - Devdiscourse**
+`02 Sep 20:57 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_centralbanks
+
+FOREX-Yen gains sharply, dollar eases from two-week high Devdiscourse
+
+**Japan should end reflation push: US - Social News XYZ**
+`02 Sep 20:35 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_centralbanks
+
+Japan should end reflation push: US Social News XYZ
+
 **Euro tumbles against the Yen as intervention fears hit crosses**
 `02 Sep 20:18 PKT` · pehli baar dekhi `02 Sep 23:37` · fxstreet_news
 
 The Euro (EUR) tumbles against the Japanese Yen (JPY) on Wednesday amid growing speculation that Japanese authorities may have intervened in the FX markets, as most Yen pairs collapsed to fresh two-week lows, with EUR/JPY bottoming at around 183.64 from a daily high of 185.75.
+
+**Yen surges with traders on high alert for further intervention - The Business Times**
+`02 Sep 20:07 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_centralbanks
+
+Yen surges with traders on high alert for further intervention The Business Times
 
 **British Pound slides against Japanese Yen as suspected intervention rattles markets**
 `02 Sep 20:04 PKT` · pehli baar dekhi `02 Sep 23:37` · fxstreet_news
@@ -1564,6 +1644,11 @@ No change in USD/JPY&#8217;s outlook. While rebound from 155.22 could extend hig
 
 USD/JPY retreats on Wednesday and trades around 159.65 at the time of writing, down 0.33% on the day.
 
+**BOJ's Takata Wants Rate Hikes To Move Faster - Finimize**
+`02 Sep 16:46 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_centralbanks
+
+BOJ's Takata Wants Rate Hikes To Move Faster Finimize
+
 **USD/JPY at Highest Level Since July: Carry Trade Weighs on the Yen**
 `02 Sep 15:43 PKT` · pehli baar dekhi `02 Sep 15:59` · actionforex
 
@@ -1584,6 +1669,11 @@ The Bank of Japan governor hints at further interest rate hikes with September o
 
 Hawkish BOJ member calls for 'nimble' approach to interest rate hikes 毎日新聞
 
+**Dollar Plunges to Mid-159 Yen Range as BOJ's Takata Signals Possible Consecutive Rate Hikes, Accelerating Yen Buying - finance.biggo.com**
+`02 Sep 13:58 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_centralbanks
+
+Dollar Plunges to Mid-159 Yen Range as BOJ's Takata Signals Possible Consecutive Rate Hikes, Accelerating Yen Buying finance.biggo.com
+
 **Japanese Yen: Yen supported by BoJ hike pricing – MUFG**
 `02 Sep 13:35 PKT` · pehli baar dekhi `02 Sep 15:59` · fxstreet_news
 
@@ -1598,6 +1688,12 @@ BoJ's Takata Signals Nimble Rate Hikes, Citing Financial Conditions CryptoRank
 `02 Sep 13:17 PKT` · pehli baar dekhi `02 Sep 15:59` · aljazeera
 
 Cricket is a minor sport in Japan, but it will provide the best accommodation to participating teams, the official says.
+
+**BOJ's Takata urges nimble rate hikes, says 2026 marks a turning point - The Lufkin Daily News**
+`02 Sep 12:46 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_centralbanks · **2 feeds mein**
+
+BOJ's Takata urges nimble rate hikes, says 2026 marks a turning point The Lufkin Daily News
+  - `02 Sep 06:58` *gnews_centralbanks* — BOJ's Takata urges nimble rate hikes, says 2026 marks a turning point - Reuters
 
 **Euro tumbles against Japanese Yen amid fears of another US-Japan joint intervention**
 `02 Sep 12:20 PKT` · pehli baar dekhi `02 Sep 15:59` · fxstreet_news
@@ -1620,10 +1716,24 @@ BOJ Policymaker Calls for "Nimble" Rate Hikes JIJI PRESS
 
 Bank of Japan's Ueda Signals Potential Rate Hike Amid Economic E GuruFocus
 
+**Global Market: Japanese bond yields rise as BOJ hawkish signals fuel rate-hike bets - The Economic Times**
+`02 Sep 11:52 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_centralbanks
+
+Global Market: Japanese bond yields rise as BOJ hawkish signals fuel rate-hike bets The Economic Times
+
 **BoJ's Takata Calls for Rate-Hike "Regime Change," Rejects Fixed Six-Month Pace**
 `02 Sep 11:31 PKT` · pehli baar dekhi `02 Sep 15:59` · actionforex
 
 BoJ board member Hajime Takata called for a more flexible and potentially faster pace of tightening on Wednesday in a speech to local business leaders in Sapporo, arguing that Japan has entered a new monetary-policy phase. Takata said "2026 represents a regime change" in which rate hikes should no longer occur at a fixed pace, [&#8230;] The post BoJ's Takata Calls for Rate-Hike "Regime Change," Rejects Fixed Six-Month Pace appeared first on ActionForex.
+
+**Bank of Japan's Ueda vows to keep raising interest rates, discuss inflation - Investing.com Canada**
+`02 Sep 11:24 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_centralbanks · **5 feeds mein**
+
+Bank of Japan's Ueda vows to keep raising interest rates, discuss inflation Investing.com Canada
+  - `02 Sep 07:45` *gnews_centralbanks* — Bank of Japan's Ueda vows to keep raising interest rates, discuss inflation - Investing.com Nigeria
+  - `02 Sep 07:33` *gnews_centralbanks* — Bank of Japan's Ueda vows to keep raising interest rates, discuss inflation By Investing.com - Investing.com South Africa
+  - `02 Sep 07:31` *gnews_centralbanks* — Bank of Japan's Ueda vows to keep raising interest rates, discuss inflation - Investing.com
+  - `02 Sep 07:30` *gnews_centralbanks* — Bank of Japan's Ueda vows to keep raising interest rates, discuss inflation - Investing.com UK
 
 **USD/JPY stumbles lower after brief trip to near five-week highs earlier in the day**
 `02 Sep 11:10 PKT` · pehli baar dekhi `02 Sep 15:59` · investinglive
@@ -1714,23 +1824,10 @@ Bank of Japan governor Ueda hints at September rate hike as bets on move mount C
 
 BOJ's Takata Calls for Flexible Rate Hikes Citing Overseas Inflation Risks, September Meeting in Focus finance.biggo.com
 
-**Bank of Japan's Ueda vows to keep raising interest rates, discuss inflation - Investing.com Nigeria**
-`02 Sep 07:45 PKT` · pehli baar dekhi `02 Sep 15:59` · gnews_centralbanks · **4 feeds mein**
-
-Bank of Japan's Ueda vows to keep raising interest rates, discuss inflation Investing.com Nigeria
-  - `02 Sep 07:33` *gnews_centralbanks* — Bank of Japan's Ueda vows to keep raising interest rates, discuss inflation By Investing.com - Investing.com South Africa
-  - `02 Sep 07:31` *gnews_centralbanks* — Bank of Japan's Ueda vows to keep raising interest rates, discuss inflation - Investing.com
-  - `02 Sep 07:30` *gnews_centralbanks* — Bank of Japan's Ueda vows to keep raising interest rates, discuss inflation - Investing.com UK
-
 **BOJ chief says rate hikes on table at every meeting, including this month's - asia.nikkei.com**
 `02 Sep 07:44 PKT` · pehli baar dekhi `02 Sep 20:03` · gnews_centralbanks
 
 BOJ chief says rate hikes on table at every meeting, including this month's asia.nikkei.com
-
-**BOJ's Takata urges nimble rate hikes, says 2026 marks a turning point - Reuters**
-`02 Sep 06:58 PKT` · pehli baar dekhi `02 Sep 23:37` · gnews_centralbanks
-
-BOJ's Takata urges nimble rate hikes, says 2026 marks a turning point Reuters
 
 **BOJ's Ueda to decide on interest rate hike with upside price risks in mind - The Business Times**
 `02 Sep 06:48 PKT` · pehli baar dekhi `03 Sep 02:17` · gnews_centralbanks
@@ -1901,6 +1998,11 @@ Heading into a key event, traders look to both the fundamental story and the tec
 `02 Sep 17:53 PKT` · pehli baar dekhi `02 Sep 20:03` · fxstreet_news
 
 BNY's Geoff Yu notes that Canadian Dollar (CAD) positioning remains weak ahead of the Bank of Canada (BoC) decision, with USD/CAD dominating flows and cross-currency activity surprisingly limited.
+
+**USD/CAD, Gold Forecast: Two trades to watch - FOREX.com**
+`02 Sep 17:26 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_fed
+
+USD/CAD, Gold Forecast: Two trades to watch FOREX.com
 
 **Canadian Dollar: US tensions overshadow BoC stance – Commerzbank**
 `02 Sep 17:15 PKT` · pehli baar dekhi `02 Sep 20:03` · fxstreet_news
@@ -2247,6 +2349,12 @@ As the artificial intelligence boom drives major energy demand growth and cataly
 
 Find insight on oil prices, Chevron, BP and more in the latest Market Talks covering energy and utilities.
 
+**Crude Oil Climbs as U.S. Iran Strikes Restart Supply Fear - FOREX.com**
+`03 Sep 01:25 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_geopolitics · **2 feeds mein**
+
+Crude Oil Climbs as U.S. Iran Strikes Restart Supply Fear FOREX.com
+  - `02 Sep 20:37` *gnews_geopolitics* — Crude Oil Climbs as U.S. Iran Strikes Restart Supply Fear - FOREX.com
+
 **Stocks Rise As Middle East Tensions Fray**
 `03 Sep 01:10 PKT` · pehli baar dekhi `03 Sep 02:17` · wsj_markets
 
@@ -2346,6 +2454,11 @@ US-Iran tensions escalate, pushing oil prices higher cryptobriefing.com
 
 Two sailors have died from Monday's attack on a Saudi oil tanker in the Strait of Hormuz, with Riyadh now formally accusing Iran of targeting the Bahri-owned Sidr as Tehran launches a new wave of missile and drone strikes against U.S. bases across the region. Bahri confirmed Wednesday that the two Filipino crew members were killed in the attack.
 
+**FTSE 100 Slips As Hormuz Tensions Lift Oil Prices - Finimize**
+`02 Sep 21:01 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_centralbanks
+
+FTSE 100 Slips As Hormuz Tensions Lift Oil Prices Finimize
+
 **US Envoy Courts Central Asia on Sidelines of SCO Summit**
 `02 Sep 21:00 PKT` · pehli baar dekhi `02 Sep 23:37` · oilprice
 
@@ -2356,10 +2469,10 @@ Two high-level US Trump administration emissaries crashed the Shanghai Cooperati
 
 Commercial crude oil stocks were down by 4.5 million barrels last week. Analysts had expected crude stocks to fall by 300,000 barrels.
 
-**Crude Oil Climbs as U.S. Iran Strikes Restart Supply Fear - FOREX.com**
-`02 Sep 20:37 PKT` · pehli baar dekhi `02 Sep 23:37` · gnews_geopolitics
+**Fears of an Extended US-Iran Conflict Boost Crude Oil Prices - Barchart.com**
+`02 Sep 20:39 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_geopolitics
 
-Crude Oil Climbs as U.S. Iran Strikes Restart Supply Fear FOREX.com
+Fears of an Extended US-Iran Conflict Boost Crude Oil Prices Barchart.com
 
 **Trump: Maybe the Strait of Hormuz should be renamed the Trump Strait?**
 `02 Sep 20:30 PKT` · pehli baar dekhi `02 Sep 23:37` · investinglive
@@ -2370,6 +2483,16 @@ Just a little satire....;) Trump on Truth Social is now posting: Now that we hav
 `02 Sep 20:30 PKT` · pehli baar dekhi `02 Sep 23:37` · oilprice
 
 The rise in global temperature is on track to soon exceed 1.5 degrees Celsius, likely within the next few years, a new UN Environment Programme (UNEP) report showed on Wednesday. In the best-case scenario, peak temperature rise will reach 1.8 C, the Limiting Overshoot report found.
+
+**Saudi Arabia's January Crude Exports Rose, Output Highest Since 2023, JODI Says - EnergyNow.com**
+`02 Sep 20:26 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_geopolitics
+
+Saudi Arabia's January Crude Exports Rose, Output Highest Since 2023, JODI Says EnergyNow.com
+
+**Trump-Iran Standoff Threatens Chronic Gulf Oil Instability: Bousso - EnergyNow.com**
+`02 Sep 20:21 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_geopolitics
+
+Trump-Iran Standoff Threatens Chronic Gulf Oil Instability: Bousso EnergyNow.com
 
 **OPEC+ likely to keep oil output policy unchanged on Sunday, sources say - kitco.com**
 `02 Sep 20:21 PKT` · pehli baar dekhi `02 Sep 23:37` · kitco_general · **3 feeds mein**
@@ -2431,6 +2554,11 @@ The Ibovespa climbed nearly 1.5% on Wednesday, approaching the 182,000 level aft
 
 The weekly inventory data from the EIA showed: Crude oil inventories fell -4.450 million barrels versus -1.085 million estimate. Gasoline inventories fell -1.173 million versus -1.850 million estimate Distillates rose 0.796 million versus estimates of a drawdown of -1.275 million. The private data released late yesterday showed: crude oil inventories -2.6 million Gasoline inventories +300,000 Distillates -300,000.
 
+**Iran Creates Oil Bonanza for the Americas - Brazil Energy Insight**
+`02 Sep 19:38 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_geopolitics
+
+Iran Creates Oil Bonanza for the Americas Brazil Energy Insight
+
 **U.S. Oil Stocks Drop as Fuel Demand Weakens**
 `02 Sep 19:38 PKT` · pehli baar dekhi `02 Sep 20:03` · oilprice
 
@@ -2462,6 +2590,11 @@ India raised its purchases of Russia's Far East crude blend ESPO in the first se
 `02 Sep 18:24 PKT` · pehli baar dekhi `02 Sep 23:37` · gnews_geopolitics
 
 Oil retreats from one-month high as traders weigh supply risks London South East
+
+**Oil Prices Steady After Hitting One-Month High as Supply Risks Persist - News Mobile**
+`02 Sep 18:18 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_geopolitics
+
+Oil Prices Steady After Hitting One-Month High as Supply Risks Persist News Mobile
 
 **Oil Jumps 5% as Iran Escalates Attacks on Gulf Shipping - EnergyNow**
 `02 Sep 18:17 PKT` · pehli baar dekhi `03 Sep 04:23` · gnews_geopolitics
@@ -2580,6 +2713,11 @@ Bessent Says Hormuz Ships Insurance Program to Start Soon EnergyNow.com
 
 Oil Market Clock is Ticking as Supply Crunch Looms: Bousso EnergyNow.com
 
+**Oil Prices Break Higher, Putting Risk Sentiment Under Pressure - CryptoRank**
+`02 Sep 15:15 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_geopolitics
+
+Oil Prices Break Higher, Putting Risk Sentiment Under Pressure CryptoRank
+
 **Oil Prices Surge Above $95 as US-Iran Tensions Stoke Supply Fears - Real Broadcasting Network**
 `02 Sep 15:10 PKT` · pehli baar dekhi `02 Sep 20:03` · gnews_geopolitics
 
@@ -2630,6 +2768,11 @@ US diesel hits highest since April as wars strain global supply theedgesingapore
 `02 Sep 14:28 PKT` · pehli baar dekhi `02 Sep 15:59` · gnews_geopolitics
 
 Oil Prices Rise for Third Session as U.S.-Iran Tensions Keep Supply Risks in Focus Yahoo Finance
+
+**Oil prices hold near one-month highs as US-Iran strikes stoke supply fears - Profit by Pakistan Today**
+`02 Sep 14:20 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_geopolitics
+
+Oil prices hold near one-month highs as US-Iran strikes stoke supply fears Profit by Pakistan Today
 
 **Crude Oil Futures Climb Amid US-Iran Tensions, Supply Fears - Rediff MoneyWiz**
 `02 Sep 14:10 PKT` · pehli baar dekhi `02 Sep 23:37` · gnews_geopolitics · **2 feeds mein**
@@ -2740,6 +2883,11 @@ Oil Prices Rise as Hormuz Shipping Falls After US-Iran Strikes The Media Line
 `02 Sep 12:15 PKT` · pehli baar dekhi `02 Sep 15:59` · oilprice
 
 The number of tankers traversing the Strait of Hormuz remains below the ten-day average, according to ship-trackers, with Kpler reporting only four tanker crossings for Tuesday. That is below a ten-day average of 13 tankers, Reuters reported earlier today. Windward, meanwhile, reported four tankers entering the strait, two of them in dark mode, and three exiting on Tuesday, one of them in dark mode. Earlier this week, U.S.
+
+**Oil prices have risen again amid escalating tensions between the U.S. and Iran - UA.NEWS**
+`02 Sep 11:46 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_geopolitics
+
+Oil prices have risen again amid escalating tensions between the U.S. and Iran UA.NEWS
 
 **Oil pushes toward $100 as US-Iran strikes flare: what could drive it higher? - Invezz**
 `02 Sep 11:42 PKT` · pehli baar dekhi `03 Sep 02:17` · gnews_geopolitics · **3 feeds mein**
@@ -3205,6 +3353,12 @@ Investors see 70% chance of Federal Reserve rate hike this month Capital Brief
 
 ### RISK
 
+**US oil reserve hits 44-year-low amid Iran war, global energy shortage - My Clallam County**
+`03 Sep 02:41 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_geopolitics · **2 feeds mein**
+
+US oil reserve hits 44-year-low amid Iran war, global energy shortage My Clallam County
+  - `03 Sep 01:23` *gnews_geopolitics* — US oil reserve hits 44-year-low amid Iran war, global energy shortage - MyCentralOregon.com
+
 **Republican senator calls on Trump to fire Secretary of Defence Hegseth**
 `03 Sep 02:37 PKT` · pehli baar dekhi `03 Sep 04:23` · aljazeera
 
@@ -3224,12 +3378,6 @@ Trump might have taken an easy exit and called it a victory. He didn't do that. 
 `03 Sep 01:50 PKT` · pehli baar dekhi `03 Sep 02:17` · wsj_markets
 
 Stocks rose as a rally in Treasury yields stalled but equity and bond moves were muted as oil prices continued climbing due to clashes between Iran and the U.S.
-
-**US oil reserve hits 44-year-low amid Iran war, global energy shortage - MyCentralOregon.com**
-`03 Sep 01:23 PKT` · pehli baar dekhi `03 Sep 06:17` · gnews_geopolitics · **2 feeds mein**
-
-US oil reserve hits 44-year-low amid Iran war, global energy shortage MyCentralOregon.com
-  - `02 Sep 21:44` *gnews_geopolitics* — US oil reserve hits 44-year-low amid Iran war, global energy shortage - southernillinoisnow.com
 
 **Evening digest: Iran war lifts oil, Waymo eyes $3B debt deal - Invezz**
 `03 Sep 01:13 PKT` · pehli baar dekhi `03 Sep 02:17` · gnews_geopolitics
@@ -3290,6 +3438,22 @@ Three soldiers were wounded after an armed standoff in the Ukrainian capital.
 
 EU ministers in Ireland have announced a mission to support Lebanon's army but remain divided on sanctions on Israel.
 
+**Iran war is testing how long the Fed can look past higher energy prices - wtvcfox**
+`02 Sep 22:46 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_fed · **12 feeds mein**
+
+Iran war is testing how long the Fed can look past higher energy prices wtvcfox
+  - `02 Sep 21:52` *gnews_fed* — Iran war is testing how long the Fed can look past higher energy prices - fox23maine.com
+  - `02 Sep 21:48` *gnews_fed* — Iran war is testing how long the Fed can look past higher energy prices - WGME
+  - `02 Sep 21:48` *gnews_fed* — Iran war is testing how long the Fed can look past higher energy prices - WSBT
+  - `02 Sep 21:47` *gnews_fed* — Iran war is testing how long the Fed can look past higher energy prices - KATU
+  - `02 Sep 21:47` *gnews_fed* — Iran war is testing how long the Fed can look past higher energy prices - okcfox.com
+  - `02 Sep 21:45` *gnews_fed* — Iran war is testing how long the Fed can look past higher energy prices - KEYE
+  - `02 Sep 21:45` *gnews_fed* — Iran war is testing how long the Fed can look past higher energy prices - KTUL
+  - `02 Sep 21:45` *gnews_fed* — Iran war is testing how long the Fed can look past higher energy prices - WCTI
+  - `02 Sep 21:43` *gnews_fed* — Iran war is testing how long the Fed can look past higher energy prices - National Desk
+  - `02 Sep 21:43` *gnews_fed* — Iran war is testing how long the Fed can look past higher energy prices - National Desk
+  - `02 Sep 21:46` *gnews_geopolitics* — Iran war is testing how long the Fed can look past higher energy prices - WSMH
+
 **US-Israel-Iran War Latest Live News: Marco Rubio Warns Iran Will 'Continue To Feel The Squeeze' as Hostilities Resume; US Vows Pressure Over Nuclear Ambitions & Strait Of Hormuz Threats - The Sunday Guardian**
 `02 Sep 22:32 PKT` · pehli baar dekhi `03 Sep 02:17` · gnews_geopolitics
 
@@ -3300,17 +3464,10 @@ US-Israel-Iran War Latest Live News: Marco Rubio Warns Iran Will 'Continue To Fe
 
 OPEC+ is likely to leave its oil production policy unchanged for October when seven of its core members meet on Sunday, Reuters reported Wednesday, citing three sources close to the matter. Saudi Arabia, Russia, Iraq, Kuwait, Algeria, Kazakhstan and Oman are due to meet online at 11:00 GMT Sunday.
 
-**Iran war is testing how long the Fed can look past higher energy prices - WGME**
-`02 Sep 21:48 PKT` · pehli baar dekhi `02 Sep 23:37` · gnews_fed · **8 feeds mein**
+**US oil reserve hits 44-year-low amid Iran war, global energy shortage - southernillinoisnow.com**
+`02 Sep 21:44 PKT` · pehli baar dekhi `03 Sep 04:23` · gnews_geopolitics
 
-Iran war is testing how long the Fed can look past higher energy prices WGME
-  - `02 Sep 21:48` *gnews_fed* — Iran war is testing how long the Fed can look past higher energy prices - WSBT
-  - `02 Sep 21:47` *gnews_fed* — Iran war is testing how long the Fed can look past higher energy prices - KATU
-  - `02 Sep 21:47` *gnews_fed* — Iran war is testing how long the Fed can look past higher energy prices - okcfox.com
-  - `02 Sep 21:45` *gnews_fed* — Iran war is testing how long the Fed can look past higher energy prices - KEYE
-  - `02 Sep 21:45` *gnews_fed* — Iran war is testing how long the Fed can look past higher energy prices - KTUL
-  - `02 Sep 21:43` *gnews_fed* — Iran war is testing how long the Fed can look past higher energy prices - National Desk
-  - `02 Sep 21:43` *gnews_fed* — Iran war is testing how long the Fed can look past higher energy prices - National Desk
+US oil reserve hits 44-year-low amid Iran war, global energy shortage southernillinoisnow.com
 
 **US oil reserve hits 44-year-low amid Iran war, global energy shortage - Moody on the Market**
 `02 Sep 21:35 PKT` · pehli baar dekhi `03 Sep 02:17` · gnews_geopolitics
@@ -3392,9 +3549,10 @@ Kheibar Shekan, Iran&#039;s medium-range missile, is said to play a pivotal role
 In an interview with CNBC on Wednesday, New York Federal Reserve (Fed) Bank President John Williams said that tariffs and the Middle East war are big drivers of inflation over target, per Reuters.
 
 **Bessent to Newsmax: US, China Share Key Goals on Iran - Newsmax**
-`02 Sep 17:27 PKT` · pehli baar dekhi `03 Sep 02:17` · gnews_geopolitics
+`02 Sep 17:27 PKT` · pehli baar dekhi `03 Sep 02:17` · gnews_geopolitics · **2 feeds mein**
 
 Bessent to Newsmax: US, China Share Key Goals on Iran Newsmax
+  - `02 Sep 16:47` *gnews_geopolitics* — Bessent to Newsmax: US, China Share Key Goals on Iran - Newsmax
 
 **Killing at Sea**
 `02 Sep 17:00 PKT` · pehli baar dekhi `02 Sep 20:03` · aljazeera
@@ -3411,10 +3569,20 @@ US, Gulf allies threaten Iran with sanctions in UN proposal if it doesn't releas
 
 A beach resort town in eastern Thailand welcomed crew members who will enjoy their first R&R after months deployed in a war zone.
 
+**Top Economist Says Trump Has Awakened the 'Bond Vigilantes' With Tariffs and Iran War as 10-Year Treasury Yield Surges to 19-Month High - TradingView**
+`02 Sep 16:14 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_geopolitics
+
+Top Economist Says Trump Has Awakened the 'Bond Vigilantes' With Tariffs and Iran War as 10-Year Treasury Yield Surges to 19-Month High TradingView
+
 **Iran promises US response if deal terms are met - indiagazette.com**
 `02 Sep 15:51 PKT` · pehli baar dekhi `02 Sep 23:37` · gnews_geopolitics
 
 Iran promises US response if deal terms are met indiagazette.com
+
+**TBI Director: 85% of cash supply outside banking system; Iran transactions subject to procedures » Iraqi News Agency - وكالة الانباء العراقية (واع)**
+`02 Sep 15:24 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_geopolitics
+
+TBI Director: 85% of cash supply outside banking system; Iran transactions subject to procedures » Iraqi News Agency وكالة الانباء العراقية (واع)
 
 **S&P 500 breaks through a major support as hawkish Fed expectations and US-Iran war weigh**
 `02 Sep 15:16 PKT` · pehli baar dekhi `02 Sep 15:59` · investinglive
@@ -3444,6 +3612,11 @@ Iran War Triggers Global Race to Build Oil Reserves: Bousso EnergyNow
 `02 Sep 14:05 PKT` · pehli baar dekhi `02 Sep 20:03` · gnews_geopolitics
 
 Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says EnergyNow
+
+**KSE-100 sheds 1,250 points amid fresh US-Iran escalation - The Express Tribune**
+`02 Sep 14:02 PKT` · pehli baar dekhi `03 Sep 10:55` · gnews_geopolitics
+
+KSE-100 sheds 1,250 points amid fresh US-Iran escalation The Express Tribune
 
 **The dollar faces a dual test between the Iran war and the Federal Reserve's decision - arabictrader.com**
 `02 Sep 13:47 PKT` · pehli baar dekhi `02 Sep 15:59` · gnews_fed
@@ -3636,7 +3809,7 @@ WRAPUP 6-US launches new assault on Iran, which fires on US base in Jordan devdi
 
 How a Houthi Blockade in the Red Sea Tightens Iran's Grip on Global Energy Supplies EnergyNow.com
 
-### BINA TAG (288)
+### BINA TAG (291)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -3804,7 +3977,9 @@ How a Houthi Blockade in the Red Sea Tightens Iran's Grip on Global Energy Suppl
 - `02 Sep 17:48` **bbc_business** — Former boxer to host annual school uniform giveaway
 - `02 Sep 17:48` **gnews_geopolitics** — Energy Prices Surge as Politicians Sound Alarm Ahead of Winter - Bloomberg.com
 - `02 Sep 17:45` **wsj_economy** — Private-Sector Hiring Slowed in August
+- `02 Sep 17:39` **gnews_centralbanks** — Won Rebounds Short-Term, Year-End Decline to 1,340 - 조선일보
 - `02 Sep 17:25` **actionforex** — US ADP Employment Growth Slows to 38K as Hiring Becomes Increasingly Narrow
+- `02 Sep 17:16` **gnews_centralbanks** — News & Analysis - HFM (HF Markets)
 - `02 Sep 17:14` **aljazeera** — Palestinian landowners confront bulldozers using their hands
 - `02 Sep 17:05` **gnews_fed** — Federal Reserve: Election-year hikes and long-end rates risks – TD Securities - FXStreet
 - `02 Sep 17:04` **kitco_general** — Bull or bear market? AI spurs rethink of traditional market measures - KITCO
@@ -3877,6 +4052,7 @@ How a Houthi Blockade in the Red Sea Tightens Iran's Grip on Global Energy Suppl
 - `02 Sep 12:40` **aljazeera** — Worshippers in West Bank tear-gassed as Israeli attacks on mosques surge
 - `02 Sep 12:31` **fxstreet_news** — Forex Today: Risk aversion grips markets as tensions in Mideast escalate further
 - `02 Sep 12:16` **aljazeera** — Nepal floods: Father borrows $13, walks for days to search for missing son
+- `02 Sep 12:01` **gnews_centralbanks** — CITIC Securities: Rising risk-free rates weigh on long-duration assets, while Hong Kong dividend stocks show relative outperformance - 富途牛牛
 - `02 Sep 11:58` **aljazeera** — Cargo ship sinks after collision off Turkiye's Istanbul, 10 crew missing
 - `02 Sep 11:36` **mw_topstories** — AI capital expenditure forecast to exceed the cost of building railways in both the U.S. and the U.K. — with the internet added on top
 - `02 Sep 11:35` **aljazeera** — As US seeks Gaza donor's extradition, wife warns of 'terrifying precedent'
@@ -3945,45 +4121,45 @@ investing_news (14)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 6 | 24 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 2 | 0 | 2 | 28 | 0.3 |
-| actionforex | OK | 20 | 20 | 3 | 17 | 0 | 0.0 |
-| marketpulse | STALE | 1 | 0 | 0 | 0 | 1 | 6.6 |
-| instaforex | OK | 25 | 25 | 19 | 6 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 6 | 0 | 6 | 30 | 0.4 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 20.8 |
-| kitco_general | OK | 46 | 46 | 1 | 45 | 0 | 0.2 |
-| gnews_fed | OK | 57 | 57 | 18 | 39 | 0 | 0.0 |
-| gnews_geopolitics | OK | 62 | 62 | 10 | 52 | 0 | 0.0 |
-| gnews_centralbanks | OK | 43 | 43 | 4 | 39 | 0 | 0.4 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 8.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 6.5 |
-| boj_whatsnew | OK | 51 | 6 | 1 | 5 | 45 | 0.1 |
-| rba_media | OK | 1 | 1 | 1 | 0 | 0 | 0.0 |
-| mining_com | OK | 36 | 13 | 1 | 12 | 23 | 0.1 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| ing_think | OK | 10 | 5 | 0 | 5 | 5 | 0.3 |
-| bbc_business | OK | 48 | 26 | 6 | 20 | 22 | 0.1 |
-| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 19 | 11 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 3 | 1 | 2 | 27 | 0.1 |
+| actionforex | OK | 20 | 20 | 7 | 13 | 0 | 0.0 |
+| marketpulse | STALE | 1 | 0 | 0 | 0 | 1 | 6.8 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 6 | 0 | 6 | 30 | 0.6 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 21.0 |
+| kitco_general | OK | 37 | 37 | 0 | 37 | 0 | 0.3 |
+| gnews_fed | OK | 55 | 55 | 19 | 36 | 0 | 0.0 |
+| gnews_geopolitics | OK | 51 | 51 | 23 | 28 | 0 | 0.1 |
+| gnews_centralbanks | OK | 49 | 49 | 28 | 21 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 8.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 6.7 |
+| boj_whatsnew | OK | 52 | 7 | 1 | 6 | 45 | 0.2 |
+| rba_media | OK | 1 | 1 | 1 | 0 | 0 | 0.1 |
+| mining_com | OK | 36 | 13 | 0 | 13 | 23 | 0.3 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.2 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| ing_think | OK | 10 | 5 | 0 | 5 | 5 | 0.5 |
+| bbc_business | OK | 37 | 24 | 2 | 22 | 13 | 0.0 |
+| aljazeera | OK | 25 | 25 | 16 | 9 | 0 | 0.0 |
 | snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.0 |
-| boc_press | OK | 10 | 1 | 0 | 1 | 9 | 0.6 |
-| eia_energy | OK | 11 | 0 | 0 | 0 | 11 | 1.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 7.5 |
-| wsj_world | OK | 73 | 29 | 2 | 27 | 44 | 0.0 |
-| wsj_markets | OK | 61 | 27 | 4 | 23 | 34 | 0.0 |
+| boc_press | OK | 10 | 1 | 0 | 1 | 9 | 0.8 |
+| eia_energy | OK | 11 | 0 | 0 | 0 | 11 | 1.7 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 7.7 |
+| wsj_world | OK | 73 | 30 | 0 | 30 | 43 | 0.1 |
+| wsj_markets | OK | 61 | 27 | 2 | 25 | 34 | 0.1 |
 | investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 1 | 0 | 1 | 49 | 1.0 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 18 | 0 | 18 | 12 | 0.2 |
+| yahoo_finance | OK | 50 | 1 | 0 | 1 | 49 | 1.2 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 19 | 1 | 18 | 11 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - marketpulse — STALE, cadence 2d, magar 7d purana
