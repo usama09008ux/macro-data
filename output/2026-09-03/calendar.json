@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "03 Sep 2026 14:59",
+  "generated_pkt": "03 Sep 2026 20:31",
   "trading_day": "2026-09-03",
   "feed_sources": {
     "thisweek": "live"
@@ -1475,5 +1475,20 @@
       "trading_day": "2026-09-04"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US Initial Jobless claims 206K vs 205K estimate",
+      "actual_raw": "206K",
+      "forecast_raw": "205K",
+      "beat": true,
+      "raw_diff": "+1.0K",
+      "sign_flip": false,
+      "diff_pct": 0.5,
+      "when_pkt": "03 Sep 17:33",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }
