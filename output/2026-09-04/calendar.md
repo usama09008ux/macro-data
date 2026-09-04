@@ -1,6 +1,6 @@
 # Calendar — Trading Day 04 Sep 2026
 
-- Banaya gaya: **04 Sep 2026 20:29 PKT**
+- Banaya gaya: **05 Sep 2026 00:13 PKT**
 - Trading day: **04 Sep 03:00 -> 05 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -10,11 +10,7 @@
 
 ## Aane wale 24 ghante
 
-| Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
-|---|---|---|---|---|---|
-| **05 Sep** 03:00 | USD | low | FOMC Member Goolsbee Speaks | - | - |
-
-*Agle 24 ghante mein koi HIGH impact event nahi.*
+*Agle 24 ghante mein kuch nahi.*
 
 ---
 

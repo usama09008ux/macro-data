@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "04 Sep 2026 20:29",
+  "generated_pkt": "05 Sep 2026 00:13",
   "trading_day": "2026-09-04",
   "feed_sources": {
     "thisweek": "live"
@@ -1486,19 +1486,6 @@
       "pkt": "04 Sep 19:00",
       "pkt_iso": "2026-09-04T19:00:00+05:00",
       "trading_day": "2026-09-04"
-    },
-    {
-      "title": "FOMC Member Goolsbee Speaks",
-      "ccy": "USD",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "",
-      "url": "https://www.forexfactory.com/calendar/889-us-fomc-member-goolsbee-speaks",
-      "all_day": false,
-      "utc": "2026-09-04T22:00Z",
-      "pkt": "05 Sep 03:00",
-      "pkt_iso": "2026-09-05T03:00:00+05:00",
-      "trading_day": "2026-09-05"
     }
   ],
   "surprises": [
