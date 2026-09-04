@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 04 Sep 2026
 
-- Banaya gaya: **04 Sep 2026 14:57 PKT**
+- Banaya gaya: **04 Sep 2026 21:23 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
@@ -11,7 +11,7 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| Fed funds target (upper) <br>`DFEDTARU` | **3.75%** | 0.0 | 0.0 | 0.0 | 0 | 2026-09-03 |
+| Fed funds target (upper) <br>`DFEDTARU` | **3.75%** | 0.0 | 0.0 | 0.0 | 0 | 2026-09-04 |
 | US 2Y yield <br>`DGS2` | **4.39%** | 0.0 | +0.2 | +0.21 | 73 | 2026-09-02 |
 | US 10Y yield <br>`DGS10` | **4.79%** | 0.0 | +0.13 | +0.16 | 98 | 2026-09-02 |
 | US 30Y yield <br>`DGS30` | **5.27%** | 0.0 | +0.09 | +0.1 | 99 | 2026-09-02 |
@@ -36,8 +36,8 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| VIX <br>`VIXCLS` | **15.20** | -1.14 | -0.01 | -0.61 | 33 | 2026-09-02 |
-| High-yield credit spread <br>`BAMLH0A0HYM2` | **2.66%** | +0.01 | -0.01 | -0.09 | 4 | 2026-09-02 |
+| VIX <br>`VIXCLS` | **14.32** | -0.88 | -0.19 | -0.83 | 22 | 2026-09-03 |
+| High-yield credit spread <br>`BAMLH0A0HYM2` | **2.65%** | -0.01 | +0.02 | -0.06 | 3 | 2026-09-03 |
 | Financial stress index <br>`STLFSI4` | **-0.85** | -0.0425 | -0.0281 | -0.2137 | 8 | 2026-08-28 |
 
 ---
@@ -57,9 +57,9 @@
 
 | Series | Aaj | MoM % | YoY % | 1w | 4w | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|---|
-| Nonfarm payrolls <br>`PAYEMS` | **158,858k** | -0.01 | +0.2 |  |  | 92 | 2026-07-01 |
-| Unemployment rate <br>`UNRATE` | **4.10%** | -2.38 | 0.0 |  |  | 31 | 2026-07-01 |
-| Average hourly earnings <br>`CES0500000003` | **37.62$** | +0.05 | +3.15 |  |  | 97 | 2026-07-01 |
+| Nonfarm payrolls <br>`PAYEMS` | **159,075k** | +0.1 | +0.38 |  |  | 97 | 2026-08-01 |
+| Unemployment rate <br>`UNRATE` | **4.10%** | 0.0 | -4.65 |  |  | 31 | 2026-08-01 |
+| Average hourly earnings <br>`CES0500000003` | **37.75$** | +0.27 | +3.09 |  |  | 97 | 2026-08-01 |
 | Initial jobless claims <br>`ICSA` | **206,000** |  |  | +2000.0 | +6000.0 | 10 | 2026-08-29 |
 
 ---
