@@ -1,6 +1,6 @@
 # Calendar — Trading Day 04 Sep 2026
 
-- Banaya gaya: **04 Sep 2026 05:19 PKT**
+- Banaya gaya: **04 Sep 2026 14:49 PKT**
 - Trading day: **04 Sep 03:00 -> 05 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,11 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 11:00 | EUR | low | German Factory Orders m/m | 0.3% | 3.1% |
-| 13:00 | EUR | low | Italian Retail Sales m/m | 0.2% | -0.1% |
-| 13:30 | GBP | low | Construction PMI | 45.8 | 44.7 |
-| 13:50 | GBP | **HIGH** | BOE Gov Bailey Speaks | - | - |
-| 14:00 | EUR | low | Retail Sales m/m | 0.3% | -0.3% |
 | 17:30 | CAD | **HIGH** | Employment Change | 15.1K | 75.1K |
 | 17:30 | CAD | **HIGH** | Unemployment Rate | 6.4% | 6.4% |
 | 17:30 | USD | **HIGH** | Average Hourly Earnings m/m | 0.3% | 0.1% |
@@ -26,7 +21,6 @@
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
-- `04 Sep 13:50` **GBP BOE Gov Bailey Speaks**
 - `04 Sep 17:30` **CAD Employment Change**
 - `04 Sep 17:30` **CAD Unemployment Rate**
 - `04 Sep 17:30` **USD Average Hourly Earnings m/m**
