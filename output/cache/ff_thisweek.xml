@@ -1140,4 +1140,14 @@
 		<previous><![CDATA[55.1]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/254-ca-ivey-pmi]]></url>
 	</event>
+	<event>
+		<title>FOMC Member Goolsbee Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[09-04-2026]]></date>
+		<time><![CDATA[10:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/889-us-fomc-member-goolsbee-speaks]]></url>
+	</event>
 </weeklyevents>

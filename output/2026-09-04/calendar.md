@@ -1,6 +1,6 @@
 # Calendar — Trading Day 04 Sep 2026
 
-- Banaya gaya: **04 Sep 2026 14:49 PKT**
+- Banaya gaya: **04 Sep 2026 20:29 PKT**
 - Trading day: **04 Sep 03:00 -> 05 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,20 +12,9 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 17:30 | CAD | **HIGH** | Employment Change | 15.1K | 75.1K |
-| 17:30 | CAD | **HIGH** | Unemployment Rate | 6.4% | 6.4% |
-| 17:30 | USD | **HIGH** | Average Hourly Earnings m/m | 0.3% | 0.1% |
-| 17:30 | USD | **HIGH** | Non-Farm Employment Change | 55K | -23K |
-| 17:30 | USD | **HIGH** | Unemployment Rate | 4.1% | 4.1% |
-| 19:00 | CAD | MED | Ivey PMI | 56.2 | 55.1 |
+| **05 Sep** 03:00 | USD | low | FOMC Member Goolsbee Speaks | - | - |
 
-**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
-
-- `04 Sep 17:30` **CAD Employment Change**
-- `04 Sep 17:30` **CAD Unemployment Rate**
-- `04 Sep 17:30` **USD Average Hourly Earnings m/m**
-- `04 Sep 17:30` **USD Non-Farm Employment Change**
-- `04 Sep 17:30` **USD Unemployment Rate**
+*Agle 24 ghante mein koi HIGH impact event nahi.*
 
 ---
 
@@ -39,5 +28,10 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 04 Sep 17:30 | Canada Employment change for August | -41,7K | 15.0K | -432.0K | **RUKH PALAT GAYA** |
+| 04 Sep 17:30 | US August non-farm payrolls | +162K | +56K | +106.0K (+189%) | upar |
 

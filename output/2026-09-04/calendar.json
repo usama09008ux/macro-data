@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "04 Sep 2026 14:49",
+  "generated_pkt": "04 Sep 2026 20:29",
   "trading_day": "2026-09-04",
   "feed_sources": {
     "thisweek": "live"
@@ -1486,7 +1486,53 @@
       "pkt": "04 Sep 19:00",
       "pkt_iso": "2026-09-04T19:00:00+05:00",
       "trading_day": "2026-09-04"
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "ccy": "USD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/889-us-fomc-member-goolsbee-speaks",
+      "all_day": false,
+      "utc": "2026-09-04T22:00Z",
+      "pkt": "05 Sep 03:00",
+      "pkt_iso": "2026-09-05T03:00:00+05:00",
+      "trading_day": "2026-09-05"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "Canada Employment change for August -41,7K vs 15.0K estimate",
+      "actual_raw": "-41,7K",
+      "forecast_raw": "15.0K",
+      "beat": false,
+      "raw_diff": "-432.0K",
+      "sign_flip": true,
+      "diff_pct": null,
+      "when_pkt": "04 Sep 17:30",
+      "source": "investinglive",
+      "tags": [
+        "cad",
+        "usd"
+      ]
+    },
+    {
+      "title": "US August non-farm payrolls +162K vs +56K expected",
+      "actual_raw": "+162K",
+      "forecast_raw": "+56K",
+      "beat": true,
+      "raw_diff": "+106.0K",
+      "sign_flip": false,
+      "diff_pct": 189.3,
+      "when_pkt": "04 Sep 17:30",
+      "source": "investinglive",
+      "tags": [
+        "usd",
+        "eur",
+        "jpy",
+        "rates"
+      ]
+    }
+  ]
 }
