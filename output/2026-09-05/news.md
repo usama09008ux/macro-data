@@ -1,9 +1,9 @@
 # News Pack — Trading Day 05 Sep 2026
 
 - Trading day: **05 Sep 03:00 -> 06 Sep 02:59 PKT**
-- Aakhri update: **06 Sep 02:17 PKT**
-- Kul khabrein: **459**
-- Feeds: 38/39 OK
+- Aakhri update: **06 Sep 04:00 PKT**
+- Kul khabrein: **483**
+- Feeds: 37/39 OK
 
 ---
 
@@ -57,6 +57,11 @@ Gold prices fall 3% weekly as hopes of US Fed rate hike rise The Assam Tribune
 
 Gold Rate in UK Today, September 5, 2026: 24ct at £106.31/g, 22ct at £97.45/g The Eastern Herald
 
+**Gold slides after robust US payrolls boosts rate hike bets - The Economic Times**
+`05 Sep 09:00 PKT` · pehli baar dekhi `06 Sep 04:00` · gnews_fed
+
+Gold slides after robust US payrolls boosts rate hike bets The Economic Times
+
 **Gold Faces Fresh Pressure as Payroll Surge Boosts September Hike Odds - Investing.com Australia**
 `05 Sep 05:43 PKT` · pehli baar dekhi `06 Sep 00:11` · gnews_fed
 
@@ -89,10 +94,20 @@ In just 3.1 months into late January's peak, silver catapulted an incredible 149
 
 ### USD
 
+**US rate path and buybacks steer Korea stocks amid inflation signals - CHOSUNBIZ - Chosunbiz**
+`06 Sep 02:00 PKT` · pehli baar dekhi `06 Sep 04:00` · gnews_fed
+
+US rate path and buybacks steer Korea stocks amid inflation signals - CHOSUNBIZ Chosunbiz
+
 **Trump turns up the heat on Warsh as Fed rate hike looms - CNBC**
 `05 Sep 23:10 PKT` · pehli baar dekhi `06 Sep 00:11` · gnews_fed
 
 Trump turns up the heat on Warsh as Fed rate hike looms CNBC
+
+**Public debt dances to the sound of the CPI and interest rates - Diari ARA**
+`05 Sep 22:02 PKT` · pehli baar dekhi `06 Sep 04:00` · gnews_fed
+
+Public debt dances to the sound of the CPI and interest rates Diari ARA
 
 **Trump threatens to halt trade unless Fed cuts rates - eciks.org**
 `05 Sep 21:49 PKT` · pehli baar dekhi `06 Sep 02:17` · gnews_fed
@@ -115,6 +130,11 @@ Trump wants rate cuts to unleash 15% growth, but economists warn cash influx cou
 `05 Sep 20:54 PKT` · pehli baar dekhi `06 Sep 00:11` · gnews_fed
 
 Fed Chairman Kevin Warsh focused on headline PCE inflation at 3.7% in his Jackson Hole speech Crypto Briefing
+
+**Jim Cramer Warns Kevin Warsh Could Clash With Trump Over Fed Policy - Hokanews**
+`05 Sep 20:48 PKT` · pehli baar dekhi `06 Sep 04:00` · gnews_fed
+
+Jim Cramer Warns Kevin Warsh Could Clash With Trump Over Fed Policy Hokanews
 
 **Trump wants Kevin Warsh to cut rates, markets bet on a hike: Fed chief faces first big test | Explained - Livemint**
 `05 Sep 20:05 PKT` · pehli baar dekhi `05 Sep 22:20` · gnews_fed · **2 feeds mein**
@@ -192,6 +212,11 @@ Rising energy prices fuel inflation pressure in Europe Macau Business
 
 Trump demands Fed lower rates, reviving pressure campaign chinadailyasia.com
   - `05 Sep 05:47` *gnews_fed* — Trump demands Fed lower rates, reviving pressure campaign - The Straits Times
+
+**The US dollar fell by 0.7% this week as stronger-than-expected non-farm payrolls boosted expectations of a Federal Reserve rate hike. - Bitget**
+`05 Sep 14:33 PKT` · pehli baar dekhi `06 Sep 04:00` · gnews_fed
+
+The US dollar fell by 0.7% this week as stronger-than-expected non-farm payrolls boosted expectations of a Federal Reserve rate hike. Bitget
 
 **Farsnews | Rising Energy Prices Fuel Inflation Pressure in Europe - FarsNews.ir**
 `05 Sep 13:37 PKT` · pehli baar dekhi `05 Sep 20:06` · gnews_centralbanks
@@ -335,6 +360,11 @@ ECB Doubles Down as G7's Hawk With Another Rate Hike Due This Week Bloomberg.com
 
 Niger&#039;s government has widened its blame to unnamed neighbours a week after the assault on a military base.
 
+**Euro-Area Inflation Hits 3.3% as Energy Prices Surge 14.3%, Putting ECB Rate Cuts Under Pressure - Tekedia**
+`05 Sep 23:20 PKT` · pehli baar dekhi `06 Sep 04:00` · gnews_centralbanks
+
+Euro-Area Inflation Hits 3.3% as Energy Prices Surge 14.3%, Putting ECB Rate Cuts Under Pressure Tekedia
+
 **Germany's far-right AfD eyes historic first in state election**
 `05 Sep 23:07 PKT` · pehli baar dekhi `06 Sep 00:11` · aljazeera
 
@@ -385,6 +415,12 @@ Germany's GDP Recovery Strengthens Outlook, Says Deutsche Bank CryptoRank
 Week Ahead: ECB Rate Decision, US CPI, PPI and BOJ Could Drive Markets Next Week equiti.com
   - `05 Sep 05:00` *gnews_centralbanks* — Week Ahead: ECB Rate Decision, US CPI, PPI and BOJ Could Drive Markets Next Week - equiti.com
 
+**Euro Technical Forecast: EUR/USD Holds the Line as September Battle Takes Shape - FOREX.com**
+`05 Sep 07:09 PKT` · pehli baar dekhi `06 Sep 04:00` · gnews_centralbanks · **2 feeds mein**
+
+Euro Technical Forecast: EUR/USD Holds the Line as September Battle Takes Shape FOREX.com
+  - `05 Sep 04:24` *gnews_centralbanks* — Euro Technical Forecast: EUR/USD Holds the Line as September Battle Takes Shape - FOREX.com
+
 **US data to show higher headline inflation; ECB tipped to hike as UK growth cools, LatAm diverges - VT Markets**
 `05 Sep 07:08 PKT` · pehli baar dekhi `05 Sep 09:33` · gnews_centralbanks
 
@@ -395,17 +431,17 @@ US data to show higher headline inflation; ECB tipped to hike as UK growth cools
 
 Next week, we expect U.S. inflation to show a modest pickup in headline prices due to higher energy costs, while underlying inflation pressures remain relatively contained. Existing home sales likely weakened further as elevated mortgage rates continue to weigh on affordability and demand. Abroad, the ECB is expected to deliver a 25 bps rate hike [&#8230;] The post Economics Week Ahead appeared first on ActionForex.
 
-**Euro Technical Forecast: EUR/USD Holds the Line as September Battle Takes Shape - FOREX.com**
-`05 Sep 04:24 PKT` · pehli baar dekhi `06 Sep 02:17` · gnews_centralbanks
-
-Euro Technical Forecast: EUR/USD Holds the Line as September Battle Takes Shape FOREX.com
-
 **TAG: ECB rate decision - kitco.com**
 `05 Sep 03:52 PKT` · pehli baar dekhi `05 Sep 05:10` · kitco_general
 
 TAG: ECB rate decision kitco.com
 
 ### GBP
+
+**Farsnews | Bank of England Warns Defence Spending Fears Fuelling Bond Turmoil - خبرگزاری فارس**
+`05 Sep 20:12 PKT` · pehli baar dekhi `06 Sep 04:00` · gnews_centralbanks
+
+Farsnews | Bank of England Warns Defence Spending Fears Fuelling Bond Turmoil خبرگزاری فارس
 
 **Central banks face 'serious challenge' from populism, says Bank of England boss - Ardrossan and Saltcoats Herald**
 `05 Sep 12:17 PKT` · pehli baar dekhi `05 Sep 22:20` · gnews_centralbanks
@@ -424,6 +460,11 @@ GBP/USD&#8217;s pullback from 1.3675 extended lower last week but recovered afte
 Bank Of England's Bailey Warns Structural Pressures Could Push Up Government Debt Arise News
 
 ### JPY
+
+**Japan services growth hits five-month high - Business Recorder**
+`06 Sep 02:30 PKT` · pehli baar dekhi `06 Sep 04:00` · gnews_centralbanks
+
+Japan services growth hits five-month high Business Recorder
 
 **Japanese stocks face continued risk aversion despite record profits, Nomura says**
 `05 Sep 20:35 PKT` · pehli baar dekhi `05 Sep 22:20` · investing_news
@@ -527,10 +568,18 @@ US strikes three Iranian oil tankers after two of its warships targeted with mis
 
 ### OIL
 
+**Is TTF gas fairly priced as Hormuz, winter risks keep prices elevated?**
+`06 Sep 02:06 PKT` · pehli baar dekhi `06 Sep 04:00` · investing_news
+
 **Japan, South Korea and the U.S. Forge a New Nuclear Alliance**
 `06 Sep 02:00 PKT` · pehli baar dekhi `06 Sep 02:17` · oilprice
 
 Northeast Asia is experiencing a rapid nuclear energy revival as Japan and South Korea move to prioritize the baseload clean energy source into their energy security strategies. Not only are the two major economies ramping up nuclear energy expansion, they are also changing the geopolitics of how and with whom they plan these expansions.
+
+**US, Iranian Forces Exchange Fire Near Iran Amid Oil Market Tensions - Global Banking & Finance Review**
+`06 Sep 01:35 PKT` · pehli baar dekhi `06 Sep 04:00` · gnews_geopolitics
+
+US, Iranian Forces Exchange Fire Near Iran Amid Oil Market Tensions Global Banking & Finance Review
 
 **Magnolia Oil & Gas (MGY) Doubles Profits While Betting Big On Growth**
 `06 Sep 00:20 PKT` · pehli baar dekhi `06 Sep 02:17` · yahoo_finance
@@ -584,10 +633,11 @@ US Strikes Iranian Tankers Following Warship Attack: Oil Markets Brace For Volat
 US Central Command says its forces struck three Iranian crude oil carriers on Saturday.
 
 **US strikes three Iranian oil tankers, Central Command says - Lee News Central**
-`05 Sep 20:45 PKT` · pehli baar dekhi `05 Sep 22:20` · gnews_geopolitics · **2 feeds mein**
+`05 Sep 20:45 PKT` · pehli baar dekhi `05 Sep 22:20` · gnews_geopolitics · **3 feeds mein**
 
 US strikes three Iranian oil tankers, Central Command says Lee News Central
   - `05 Sep 20:45` *gnews_geopolitics* — US strikes three Iranian oil tankers, Central Command says - wbkb11.com
+  - `05 Sep 20:45` *gnews_geopolitics* — US strikes three Iranian oil tankers, Central Command says - applevalleynewsnow.com
 
 **US strikes three Iranian oil tankers, Central Command says - stltoday.com**
 `05 Sep 20:45 PKT` · pehli baar dekhi `06 Sep 02:17` · gnews_geopolitics
@@ -696,6 +746,11 @@ US Forces Hit Iranian Tanker Near Kharg Island, Key Oil Export Hub: Report NDTV 
 
 World Faces Largest-Ever Oil Supply Disruption on Middle East War, IEA Says EnergyNow.com
 
+**Oil Prices Extend Gains on Concern Over Potential US-Iran Conflict - EnergyNow.com**
+`05 Sep 16:56 PKT` · pehli baar dekhi `06 Sep 04:00` · gnews_geopolitics
+
+Oil Prices Extend Gains on Concern Over Potential US-Iran Conflict EnergyNow.com
+
 **The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal**
 `05 Sep 15:06 PKT` · pehli baar dekhi `05 Sep 17:02` · investing_commodities
 
@@ -748,6 +803,11 @@ Unconfirmed Explosions Reported Near Iran's Kharg Oil Terminal Whalesbook
 `05 Sep 12:33 PKT` · pehli baar dekhi `05 Sep 17:02` · gnews_geopolitics
 
 Crude oil could crash to $40 after Iran war ends, says US Treasury Secretary Scott Bessent Business Today
+
+**Oil Prices Extend Gains on Escalating Middle East Hostilities - EnergyNow.com**
+`05 Sep 12:23 PKT` · pehli baar dekhi `06 Sep 04:00` · gnews_geopolitics
+
+Oil Prices Extend Gains on Escalating Middle East Hostilities EnergyNow.com
 
 **Oil Rises on Intensifying US-Iran Hostilities, Threat of Red Sea Closure - energynow.ca**
 `05 Sep 11:39 PKT` · pehli baar dekhi `05 Sep 22:20` · gnews_geopolitics
@@ -895,6 +955,11 @@ We Asked AI: What Happens to Bitcoin's Price if the Fed Hikes Rates in 11 Days? 
 
 Bitcoin and Ethereum Price Prediction Ahead of US CPI and ECB Rate Decision CoinGape
 
+**Here's what happened in crypto today**
+`05 Sep 16:16 PKT` · pehli baar dekhi `06 Sep 04:00` · cointelegraph
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
 **Bitcoin Sheds $3,000 in Hours as Warsh's Jackson Hole Speech Puts September Rate Hike on the Table - The Eastern Herald**
 `05 Sep 15:52 PKT` · pehli baar dekhi `05 Sep 20:06` · gnews_fed
 
@@ -942,6 +1007,14 @@ US stocks fall on rising expectations of rate hike by Federal Reserve Dailyhunt
 
 ### RISK
 
+**US envoys Witkoff, Kushner meet Putin for talks on Ukraine war**
+`06 Sep 02:23 PKT` · pehli baar dekhi `06 Sep 04:00` · aljazeera
+
+US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin on Saturday.
+
+**Russia stocks lower at close of trade; MOEX Russia Index unchanged**
+`06 Sep 02:20 PKT` · pehli baar dekhi `06 Sep 04:00` · investing_news
+
 **US pressure on Iran starting to tell, as sanctions and blockade bite - KSL.com**
 `06 Sep 01:25 PKT` · pehli baar dekhi `06 Sep 02:17` · gnews_geopolitics
 
@@ -962,6 +1035,11 @@ Both Russia and Ukraine vow not to strike each other&#039;s capitals for three d
 `05 Sep 22:01 PKT` · pehli baar dekhi `05 Sep 22:20` · investinglive
 
 Tesla stock forecast: Sellers remain in control after Friday's selloff Prepared September 5, 2026. Based on trading activity through September 4, including extended hours. Outlook: the next one to three regular trading sessions. Tesla's short-term outlook remains bearish after Friday's selloff. investingLive's analysis finds repeated seller control, while late buying has not established a turnaround. Further downside remains the main risk over the next one to three sessions.
+
+**Is California at risk of a gasoline shortage amid the Iran war? Experts explain - ABC News - Breaking News, Latest News and Videos**
+`05 Sep 22:00 PKT` · pehli baar dekhi `06 Sep 04:00` · gnews_geopolitics
+
+Is California at risk of a gasoline shortage amid the Iran war? Experts explain ABC News - Breaking News, Latest News and Videos
 
 **US-Iran Trade New Blows, Tungsten Supply Threatens US, 400k CA Voters Provided No Documentation - peakprosperity.com**
 `05 Sep 21:47 PKT` · pehli baar dekhi `06 Sep 00:11` · gnews_geopolitics
@@ -985,6 +1063,11 @@ The Russian leader promised a suspension of attacks on Kyiv as Steve Witkoff and
 `05 Sep 18:49 PKT` · pehli baar dekhi `05 Sep 20:06` · wsj_world
 
 In interviews, sailors said they felt the strain of extended deployment in a war zone, but were also proud to complete their mission.
+
+**From Flare Gas to Export Resilience: Iran's Oil Sector Overcomes Sanctions and War - Financial Tribune**
+`05 Sep 18:38 PKT` · pehli baar dekhi `06 Sep 04:00` · gnews_geopolitics
+
+From Flare Gas to Export Resilience: Iran's Oil Sector Overcomes Sanctions and War Financial Tribune
 
 **US-Israel-Iran War Latest Live News: US Faces Record-High Petrol Prices to Top $4 Per Gallon as War on Iran Continues to Raise Energy Costs - The Sunday Guardian**
 `05 Sep 18:22 PKT` · pehli baar dekhi `05 Sep 20:06` · gnews_geopolitics
@@ -1078,10 +1161,15 @@ Oil soars for the week, hits three-month high on U.S.-Iran military escalation I
 
 Diesel prices hit record high amid Ukraine and Iran conflicts Crypto Briefing
 
-### BINA TAG (210)
+### BINA TAG (215)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `06 Sep 02:58` **yahoo_finance** — DA Davidson Assigns Buy Rating to Everus Construction (ECG) Based on Accretive M&A and Bookings Strength
+- `06 Sep 02:50` **yahoo_finance** — AI-Enabled Equipment Agent Bodes Well for United Rentals (URI)
+- `06 Sep 02:50` **yahoo_finance** — QuantumScape Stock Is Worth a Closer Look Right Now
+- `06 Sep 02:47` **yahoo_finance** — Vanguard's $122 billion fund has warning most holders miss
+- `06 Sep 02:11` **aljazeera** — Building collapses after heavy rain in northern India
 - `06 Sep 01:43` **yahoo_finance** — 3 Nuclear Stocks to Buy With $2,000 After One Fell 83%
 - `06 Sep 01:15` **yahoo_finance** — A Chunk of the $400,000 Retirement-Community Entrance Fee Is Legally a Medical Bill. It's Deductible the Year You Write the Check, Before You've Spent a Single Night in the Health Wing
 - `06 Sep 01:14` **aljazeera** — Why is Argentina reigniting the Falklands dispute?
@@ -1310,41 +1398,44 @@ investing_news (12), yahoo_finance (2)
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.2 |
-| fxstreet_news | OK | 30 | 1 | 0 | 1 | 29 | 0.9 |
+| fxstreet_news | OK | 30 | 1 | 0 | 1 | 29 | 1.0 |
 | fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.1 |
-| actionforex | OK | 20 | 16 | 0 | 16 | 4 | 0.5 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.3 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.8 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.8 |
+| actionforex | OK | 20 | 16 | 0 | 16 | 4 | 0.6 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.4 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.9 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.9 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 2.7 |
-| kitco_general | OK | 7 | 7 | 0 | 7 | 0 | 0.1 |
-| gnews_fed | OK | 82 | 75 | 13 | 62 | 7 | 0.1 |
-| gnews_geopolitics | OK | 74 | 74 | 9 | 65 | 0 | 0.0 |
-| gnews_centralbanks | OK | 41 | 38 | 10 | 28 | 3 | 0.1 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 11.1 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 2.8 |
+| kitco_general | OK | 4 | 4 | 0 | 4 | 0 | 0.2 |
+| gnews_fed | OK | 72 | 72 | 7 | 65 | 0 | 0.0 |
+| gnews_geopolitics | OK | 68 | 68 | 6 | 62 | 0 | 0.1 |
+| gnews_centralbanks | OK | 40 | 40 | 5 | 35 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 11.2 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 9.3 |
-| boj_whatsnew | OK | 43 | 0 | 0 | 0 | 43 | 1.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.7 |
-| mining_com | OK | 36 | 3 | 0 | 3 | 33 | 0.9 |
-| oilprice | OK | 15 | 5 | 1 | 4 | 10 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
-| bbc_business | OK | 47 | 3 | 0 | 3 | 44 | 0.6 |
-| aljazeera | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 9.4 |
+| boj_whatsnew | OK | 43 | 0 | 0 | 0 | 43 | 1.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.8 |
+| mining_com | OK | 36 | 3 | 0 | 3 | 33 | 1.0 |
+| oilprice | OK | 15 | 6 | 1 | 5 | 9 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
+| bbc_business | OK | 47 | 3 | 0 | 3 | 44 | 0.7 |
+| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.1 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 2.3 |
-| eia_energy | OK | 13 | 0 | 0 | 0 | 13 | 1.3 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| eia_energy | OK | 13 | 0 | 0 | 0 | 13 | 1.4 |
 | bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 2.4 |
-| wsj_world | OK | 71 | 7 | 0 | 7 | 64 | 0.2 |
+| wsj_world | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | wsj_markets | OK | 61 | 3 | 0 | 3 | 58 | 0.2 |
-| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 39 | 19 | 20 | 11 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 3 | 0 | 3 | 27 | 0.4 |
+| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.1 |
+| yahoo_finance | OK | 50 | 38 | 14 | 24 | 12 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 3 | 1 | 2 | 27 | 0.5 |
+
+**Jo feeds nahi aaye:**
+- wsj_world — FAIL, ConnectionError
