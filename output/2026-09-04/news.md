@@ -1,9 +1,9 @@
 # News Pack — Trading Day 04 Sep 2026
 
 - Trading day: **04 Sep 03:00 -> 05 Sep 02:59 PKT**
-- Aakhri update: **05 Sep 03:14 PKT**
-- Kul khabrein: **1019**
-- Feeds: 39/39 OK
+- Aakhri update: **05 Sep 05:10 PKT**
+- Kul khabrein: **1038**
+- Feeds: 38/39 OK
 
 ---
 
@@ -249,8 +249,23 @@ Speculative positioning in U.S. gold futures eased in the latest reporting perio
 
 The week in one sentence: Speculative positioning became more defensive in the week ending September 1. Yen short positioning recorded the largest deterioration, while Gold length also retreated.
 
+**Gold crosses a historic milestone, Fed says 'Yeah, but...' - kitco.com**
+`05 Sep 00:24 PKT` · pehli baar dekhi `05 Sep 05:10` · kitco_general
+
+Gold crosses a historic milestone, Fed says 'Yeah, but...' kitco.com
+
 **Silver stuck in $65.30-$67.50 range: Hourly levels**
 `05 Sep 00:18 PKT` · pehli baar dekhi `05 Sep 03:14` · investing_commodities
+
+**Wall Street indecisive after gold price rollercoaster ride, Main Street clings to bullish majority as CPI takes center stage - kitco.com**
+`04 Sep 23:59 PKT` · pehli baar dekhi `05 Sep 05:10` · kitco_general
+
+Wall Street indecisive after gold price rollercoaster ride, Main Street clings to bullish majority as CPI takes center stage kitco.com
+
+**Gold Faces Fresh Pressure as Payroll Surge Boosts September Hike Odds - Investing.com**
+`04 Sep 23:46 PKT` · pehli baar dekhi `05 Sep 05:10` · gnews_fed
+
+Gold Faces Fresh Pressure as Payroll Surge Boosts September Hike Odds Investing.com
 
 **Gold slides after robust US payrolls boosts rate hike bets - KITCO**
 `04 Sep 23:08 PKT` · pehli baar dekhi `05 Sep 00:55` · kitco_general · **3 feeds mein**
@@ -455,19 +470,23 @@ The Mexican Peso appreciates against the US Dollar, testing two-year highs near 
 
 Trump threatens trade action over Fed interest rates WWNY
 
+**Following strong jobs report, Trump threatens to cut trade if Fed doesn't lower rates - KSNV**
+`05 Sep 02:54 PKT` · pehli baar dekhi `05 Sep 05:10` · gnews_fed · **9 feeds mein**
+
+Following strong jobs report, Trump threatens to cut trade if Fed doesn't lower rates KSNV
+  - `05 Sep 02:15` *gnews_fed* — Following strong jobs report, Trump threatens to cut trade if Fed doesn't lower rates - local21news.com
+  - `05 Sep 01:57` *gnews_fed* — Following strong jobs report, Trump threatens to cut trade if Fed doesn't lower rates - KABB
+  - `05 Sep 01:55` *gnews_fed* — Following strong jobs report, Trump threatens to cut trade if Fed doesn't lower rates - WBFF
+  - `05 Sep 01:51` *gnews_fed* — Following strong jobs report, Trump threatens to cut trade if Fed doesn't lower rates - WSET
+  - `05 Sep 01:50` *gnews_fed* — Following strong jobs report, Trump threatens to cut trade if Fed doesn't lower rates - kcby.com
+  - `05 Sep 01:49` *gnews_fed* — Following strong jobs report, Trump threatens to cut trade if Fed doesn't lower rates - WCHS
+  - `05 Sep 01:49` *gnews_fed* — Following strong jobs report, Trump threatens to cut trade if Fed doesn't lower rates - WGXA
+  - `05 Sep 01:48` *gnews_fed* — Following strong jobs report, Trump threatens to cut trade if Fed doesn't lower rates - WSMH
+
 **U.S. Stocks Fall as Robust August Jobs Data Spurs Yields, Rate-Hike Bets**
 `05 Sep 02:18 PKT` · pehli baar dekhi `05 Sep 03:14` · wsj_markets
 
 U.S. stocks fell after surprisingly strong jobs data muddied the outlook for Federal Reserve policy.
-
-**Following strong jobs report, Trump threatens to cut trade if Fed doesn't lower rates - KABB**
-`05 Sep 01:57 PKT` · pehli baar dekhi `05 Sep 03:14` · gnews_fed · **5 feeds mein**
-
-Following strong jobs report, Trump threatens to cut trade if Fed doesn't lower rates KABB
-  - `05 Sep 01:55` *gnews_fed* — Following strong jobs report, Trump threatens to cut trade if Fed doesn't lower rates - WBFF
-  - `05 Sep 01:51` *gnews_fed* — Following strong jobs report, Trump threatens to cut trade if Fed doesn't lower rates - WSET
-  - `05 Sep 01:49` *gnews_fed* — Following strong jobs report, Trump threatens to cut trade if Fed doesn't lower rates - WCHS
-  - `05 Sep 01:49` *gnews_fed* — Following strong jobs report, Trump threatens to cut trade if Fed doesn't lower rates - WGXA
 
 **Indonesian Rupiah: Two-way risks around support levels – OCBC**
 `05 Sep 01:43 PKT` · pehli baar dekhi `05 Sep 03:14` · fxstreet_news
@@ -478,6 +497,12 @@ OCBC's Christopher Wong notes that USD/IDR has pulled back as a softer Dollar an
 `05 Sep 01:36 PKT` · pehli baar dekhi `05 Sep 03:14` · gnews_fed
 
 Trump Threatens to Halt Trade Unless Fed Cuts Rates tovima.com
+
+**Trump says he will cease trading with top partners unless Fed lowers rates - Houston Style Magazine**
+`05 Sep 01:36 PKT` · pehli baar dekhi `05 Sep 05:10` · gnews_fed · **2 feeds mein**
+
+Trump says he will cease trading with top partners unless Fed lowers rates Houston Style Magazine
+  - `04 Sep 19:22` *gnews_fed* — Trump says he will cease trading with top partners unless Fed lowers rates - CNN
 
 **Trump threatens trade halt if Fed does not cut rates - HousingWire**
 `05 Sep 01:18 PKT` · pehli baar dekhi `05 Sep 03:14` · gnews_fed
@@ -506,6 +531,11 @@ Trump threatens to stop trading with countries that have a trade deficit unless 
 `05 Sep 00:32 PKT` · pehli baar dekhi `05 Sep 00:55` · fxstreet_news
 
 OCBC's Christopher Wong notes that strong foreign-currency inflows linked to the RBI's special measures have bolstered the Indian Rupee (INR) and strengthened the central bank's FX buffer.
+
+**A Fed Rate Hike Depends on Hot Inflation. Don't Count on Either.Economy Column - Barron's**
+`05 Sep 00:28 PKT` · pehli baar dekhi `05 Sep 05:10` · gnews_fed
+
+A Fed Rate Hike Depends on Hot Inflation. Don't Count on Either.Economy Column Barron's
 
 **Trump threatens to halt trade with certain countries if Fed doesn't cut rates - Scotsman Guide**
 `05 Sep 00:12 PKT` · pehli baar dekhi `05 Sep 00:55` · gnews_fed
@@ -574,6 +604,11 @@ Trump threatens to cut trade with some countries if Fed doesn't lower rates Sout
 
 The Dow Jones Industrial Average trades just short of 53,400, roughly 325 points or 0.6% lower on Friday, after August Nonfarm Payrolls (NFP) printed 162K against a 56K forecast at 12:30 GMT and pushed the probability of a September hike above 60%.
 
+**Trump to Fed: Cut interest rates or I'll stop trading with deficit nations - TRT World**
+`04 Sep 22:35 PKT` · pehli baar dekhi `05 Sep 05:10` · gnews_fed
+
+Trump to Fed: Cut interest rates or I'll stop trading with deficit nations TRT World
+
 **US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1%**
 `04 Sep 22:19 PKT` · pehli baar dekhi `04 Sep 22:46` · investing_news
 
@@ -588,6 +623,11 @@ Citigroup delays Fed rate-cut forecast to 2027 after strong U.S. jobs report kit
 
 Strong job gains signal Fed hike as Trump levels new rate-cut demand kitco.com
   - `04 Sep 21:44` *gnews_fed* — Strong job gains signal Fed hike as Trump levels new rate-cut demand - Reuters
+
+**Trump urges Fed to 'get smart,' cut interest rates - Anadolu Ajansı**
+`04 Sep 21:58 PKT` · pehli baar dekhi `05 Sep 05:10` · gnews_fed
+
+Trump urges Fed to 'get smart,' cut interest rates Anadolu Ajansı
 
 **Strong August jobs report puts Fed rate hike back in focus - The Journal Record**
 `04 Sep 21:50 PKT` · pehli baar dekhi `04 Sep 22:46` · gnews_fed
@@ -749,11 +789,6 @@ Strong Jobs Report May Tilt Fed Toward Rate Hike; Trump Freaks Out Investor's Bu
 
 Trump threatens to 'stop trading' with some partners unless Fed lowers rates A News
 
-**Trump says he will cease trading with top partners unless Fed lowers rates - CNN**
-`04 Sep 19:22 PKT` · pehli baar dekhi `04 Sep 22:46` · gnews_fed
-
-Trump says he will cease trading with top partners unless Fed lowers rates CNN
-
 **Trump threatens trade cutoff if Fed won't cut interest rates - qz.com**
 `04 Sep 19:15 PKT` · pehli baar dekhi `04 Sep 19:34` · gnews_fed
 
@@ -866,6 +901,11 @@ COMMONWEALTH OF INDEPENDENT STATES: The National Bank of Kazakhstan cut rates to
 `04 Sep 16:47 PKT` · pehli baar dekhi `04 Sep 19:34` · fxstreet_news
 
 The US Dollar (USD) is marginally up on Friday ahead of the United States (US) Nonfarm Payrolls (NFP) data for August, which will be published at 12:30 GMT.
+
+**Inflation report could nudge Fed to hike up interest rates — or not - Rocky Mount Telegram**
+`04 Sep 16:40 PKT` · pehli baar dekhi `05 Sep 05:10` · gnews_fed
+
+Inflation report could nudge Fed to hike up interest rates — or not Rocky Mount Telegram
 
 **Wall St Week Ahead Investors to pore over inflation data for signals on rate trajectory - KITCO**
 `04 Sep 16:32 PKT` · pehli baar dekhi `04 Sep 19:34` · kitco_general
@@ -1524,9 +1564,10 @@ The Euro (EUR) posts moderate gains against the Japanese Yen (JPY) on Friday, wi
 Today, 4 September, the market's main focus is the August US employment report. According to CNBC, the consensus forecast calls for just 53,000 nonfarm jobs to be added following July's decline, highlighting the continued weakness of the labour market. At the same time, the Federal Reserve's focus is shifting towards inflation risks. In the eurozone, [&#8230;] The post EUR/USD Analysis: Downtrend Breakout Still Lacks Confirmation appeared first on ActionForex.
 
 **US Market: J.P. Morgan, BNP Paribas expect ECB rate hike in December as inflation risks persist - The Economic Times**
-`04 Sep 12:46 PKT` · pehli baar dekhi `04 Sep 15:42` · gnews_centralbanks
+`04 Sep 12:46 PKT` · pehli baar dekhi `05 Sep 05:10` · gnews_centralbanks · **2 feeds mein**
 
 US Market: J.P. Morgan, BNP Paribas expect ECB rate hike in December as inflation risks persist The Economic Times
+  - `04 Sep 12:46` *gnews_centralbanks* — US Market: J.P. Morgan, BNP Paribas expect ECB rate hike in December as inflation risks persist - The Economic Times
 
 **Euro steadies against Canadian Dollar following Germany's Factory Orders data**
 `04 Sep 12:32 PKT` · pehli baar dekhi `04 Sep 15:42` · fxstreet_news
@@ -1747,9 +1788,10 @@ Japan Has Not Done This Since 1990. If It Happens, the Cheap Money Propping Up U
 USD/JPY trades around 155.85 on Friday at the time of writing, virtually unchanged on the day.
 
 **Yen's Appreciation Potential May Be Running Out**
-`04 Sep 17:15 PKT` · pehli baar dekhi `04 Sep 19:34` · actionforex
+`04 Sep 17:15 PKT` · pehli baar dekhi `04 Sep 19:34` · actionforex · **2 feeds mein**
 
 Markets price in around 45 basis points of BoJ tightening by year-end. The policy rate is expected to approach the neutral level of 2% within twelve months. A 50-basis-point September hike and back-to-back increases remain unlikely. Potential changes to GPIF's asset allocation have also supported the yen. The 155 area may act as key support [&#8230;] The post Yen's Appreciation Potential May Be Running Out appeared first on ActionForex.
+  - `04 Sep 18:29` *marketpulse* — Yen's Appreciation Potential May Be Running Out
 
 **Japanese Yen: Sharp rebound and Fed repricing – MUFG**
 `04 Sep 16:52 PKT` · pehli baar dekhi `04 Sep 19:34` · fxstreet_news
@@ -2455,7 +2497,8 @@ West Texas Intermediate (WTI), futures on NYMEX, drops to near $88.65 while stru
 Oil Holds Near Six-Week Highs as U.S.-Iran Conflict Keeps Supply Risk Elevated EnergyNow.com
 
 **Oil prices set for weekly gain as US-Iran hostilities intensify**
-`04 Sep 13:43 PKT` · pehli baar dekhi `04 Sep 15:42` · investing_commodities · **4 feeds mein**
+`04 Sep 13:43 PKT` · pehli baar dekhi `04 Sep 15:42` · investing_commodities · **5 feeds mein**
+  - `04 Sep 22:36` *gnews_geopolitics* — Oil prices set for weekly gain as US-Iran hostilities intensify - The Express Tribune
   - `04 Sep 12:26` *gnews_geopolitics* — Oil prices set for weekly gain as US-Iran hostilities intensify - The Star
   - `04 Sep 08:02` *gnews_geopolitics* — Oil prices set for weekly gain as US-Iran hostilities intensify - CNBC
   - `04 Sep 06:28` *gnews_geopolitics* — Oil prices set for weekly gain as US-Iran hostilities intensify - Reuters
@@ -3270,10 +3313,11 @@ Vance Denies U.S. and Iran Are at War, Pressures Fed to Cut Rates to Boost Home 
 
 Oil Execs Warn of Long-Term Damage From Iran War as US Downplays Crisis EnergyNow
 
-### BINA TAG (291)
+### BINA TAG (295)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `05 Sep 02:58` **aljazeera** — Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra
 - `05 Sep 02:45` **aljazeera** — Costa Rican president signals openness to domestic US military operations
 - `05 Sep 02:41` **gnews_fed** — 'Fast Money' traders react to President's trade threat aimed at the Federal Reserve - CNBC
 - `05 Sep 02:37` **aljazeera** — Betis beat Real Madrid as Mbappe misses penalty in first La Liga defeat
@@ -3320,6 +3364,7 @@ Oil Execs Warn of Long-Term Damage From Iran War as US Downplays Crisis EnergyNo
 - `05 Sep 00:25` **aljazeera** — UN votes to adopt new world map that reflects Africa's true size
 - `05 Sep 00:22` **investing_commodities** — Colombia coffee output drops 12% in August on weather delays
 - `05 Sep 00:19` **investing_commodities** — Natural Gas stuck between $2.874 and $3.026: Hourly levels
+- `04 Sep 23:53` **gnews_fed** — 'I'll stop trading': Trump's wild new threat - News.com.au
 - `04 Sep 23:50` **gnews_fed** — 'I'll stop trading': Trump's wild new threat - News.com.au
 - `04 Sep 23:46` **aljazeera** — Brazilian Supreme Court roiled by dispute between justices
 - `04 Sep 23:36` **mw_topstories** — Why the jobs report will actually be good for bonds
@@ -3389,6 +3434,7 @@ Oil Execs Warn of Long-Term Damage From Iran War as US Downplays Crisis EnergyNo
 - `04 Sep 20:16` **aljazeera** — Israel releases five detainees to Lebanon after US-mediated negotiations
 - `04 Sep 20:07` **gnews_fed** — Trump Reacts to Jobs Data: 'Lower The Rate or I'll Stop Trading With Countries' - tradingview.com
 - `04 Sep 20:05` **mw_topstories** — Rising interest rates pose a major threat to stock prices and other assets
+- `04 Sep 20:00` **gnews_fed** — Job growth rebounded in August with solid gains - Fox Business
 - `04 Sep 19:56` **gnews_fed** — 'Cut rates or I'll halt trade with countries US has deficit with': Donald Trump threatens Federal Reserve - The Times of India
 - `04 Sep 19:54` **gnews_fed** — US job market rebounds with 162,000 new jobs, far surpassing expectations - South China Morning Post
 - `04 Sep 19:53` **wsj_world** — U.K.'s Reform Party Hit With Fresh Funding Allegations
@@ -3486,6 +3532,7 @@ Oil Execs Warn of Long-Term Damage From Iran War as US Downplays Crisis EnergyNo
 - `04 Sep 15:08` **gnews_geopolitics** — US EIA Concedes Middle East Supply Disruptions are Far Worse Than Prior Estimates - energynow.com
 - `04 Sep 15:03` **wsj_markets** — Fetterman Could Be a Swing Vote. He's Showing Little Interest in the Job.
 - `04 Sep 15:00` **bbc_business** — Firmus Energy customers face price increase
+- `04 Sep 15:00` **yahoo_finance** — Best CD rates today, Friday, September 4, 2026: Up to 4.35% APY return available with 18-month CD
 - `04 Sep 14:56` **cointelegraph** — AMC chief criticizes Robinhood's tokenized stock plan
 - `04 Sep 14:50` **aljazeera** — Meloni sets a record, leading Italy's longest-serving government since WWII
 - `04 Sep 14:46` **gnews_fed** — What's Open, Closed on Labor Day 2026 - mb.ntd.com
@@ -3582,42 +3629,45 @@ investing_news (22), yahoo_finance (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 2 | 23 | 0 | 0.1 |
-| fxstreet_news | OK | 30 | 30 | 5 | 25 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 8 | 0 | 8 | 22 | 0.1 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | OK | 1 | 0 | 0 | 0 | 1 | 1.5 |
-| instaforex | OK | 25 | 25 | 4 | 21 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 6 | 0 | 6 | 30 | 0.2 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.1 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 1.7 |
-| kitco_general | OK | 38 | 38 | 7 | 31 | 0 | 0.0 |
-| gnews_fed | OK | 100 | 100 | 28 | 72 | 0 | 0.0 |
-| gnews_geopolitics | OK | 83 | 83 | 11 | 72 | 0 | 0.1 |
-| gnews_centralbanks | OK | 40 | 40 | 2 | 38 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 10.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 8.4 |
-| boj_whatsnew | OK | 47 | 1 | 0 | 1 | 46 | 0.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 1.8 |
-| mining_com | OK | 36 | 6 | 0 | 6 | 30 | 0.1 |
-| oilprice | OK | 15 | 15 | 3 | 12 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 5 | 5 | 0 | 0.1 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
-| bbc_business | OK | 47 | 19 | 0 | 19 | 28 | 0.2 |
-| aljazeera | OK | 25 | 25 | 14 | 11 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 1 | 0 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
-| eia_energy | OK | 13 | 1 | 0 | 1 | 12 | 0.3 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 1.4 |
-| wsj_world | OK | 73 | 13 | 3 | 10 | 60 | 0.1 |
-| wsj_markets | OK | 61 | 23 | 5 | 18 | 38 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 1.2 |
-| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 17 | 1 | 16 | 13 | 0.1 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
+| fxstreet_news | OK | 30 | 30 | 1 | 29 | 0 | 0.1 |
+| fxstreet_analysis | OK | 30 | 8 | 0 | 8 | 22 | 0.2 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
+| marketpulse | OK | 2 | 1 | 1 | 0 | 1 | 0.4 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.1 |
+| wsj_economy | OK | 36 | 6 | 0 | 6 | 30 | 0.3 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 1.8 |
+| kitco_general | OK | 41 | 39 | 4 | 35 | 2 | 0.1 |
+| gnews_fed | OK | 100 | 100 | 15 | 85 | 0 | 0.0 |
+| gnews_geopolitics | OK | 87 | 87 | 2 | 85 | 0 | 0.1 |
+| gnews_centralbanks | OK | 39 | 39 | 2 | 37 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 10.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 8.5 |
+| boj_whatsnew | OK | 47 | 1 | 0 | 1 | 46 | 0.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 1.9 |
+| mining_com | OK | 36 | 9 | 3 | 6 | 27 | 0.0 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| bbc_business | OK | 47 | 19 | 0 | 19 | 28 | 0.3 |
+| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| eia_energy | OK | 13 | 1 | 0 | 1 | 12 | 0.4 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 1.5 |
+| wsj_world | OK | 73 | 14 | 1 | 13 | 59 | 0.0 |
+| wsj_markets | OK | 61 | 23 | 0 | 23 | 38 | 0.1 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 1 | 1 | 0 | 48 | 0.6 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 17 | 0 | 17 | 13 | 0.2 |
+
+**Jo feeds nahi aaye:**
+- ing_think — FAIL, ConnectTimeout
