@@ -1,8 +1,8 @@
 # News Pack — Trading Day 05 Sep 2026
 
 - Trading day: **05 Sep 03:00 -> 06 Sep 02:59 PKT**
-- Aakhri update: **05 Sep 09:33 PKT**
-- Kul khabrein: **93**
+- Aakhri update: **05 Sep 13:33 PKT**
+- Kul khabrein: **129**
 - Feeds: 38/39 OK
 
 ---
@@ -23,6 +23,11 @@ The S&P/TSX Composite Index slipped 0.3% to close at 36,514 on Friday after the 
 
 The biggest monthly gain on record took the ranking back above $2.5 trillion for the first time since February when gold was trading some $1,000 per ounce above today's levels.
 
+**TAG: gold, sovereign debt crisis - KITCO**
+`05 Sep 04:45 PKT` · pehli baar dekhi `05 Sep 13:33` · kitco_general
+
+TAG: gold, sovereign debt crisis KITCO
+
 **The top 50 biggest mining companies in the world**
 `05 Sep 04:42 PKT` · pehli baar dekhi `05 Sep 05:10` · mining_com
 
@@ -39,6 +44,16 @@ TAG: gold market analysis KITCO
 In just 3.1 months into late January's peak, silver catapulted an incredible 149.0% higher.
 
 ### USD
+
+**Trump threatens to halt trade with deficit countries if Fed does not cut rates - Free Press Kashmir**
+`05 Sep 13:14 PKT` · pehli baar dekhi `05 Sep 13:33` · gnews_fed
+
+Trump threatens to halt trade with deficit countries if Fed does not cut rates Free Press Kashmir
+
+**The Fed Will Make Policy Mistake By Hiking Rates, Some on Wall Street Say - Barron's**
+`05 Sep 10:00 PKT` · pehli baar dekhi `05 Sep 13:33` · gnews_fed
+
+The Fed Will Make Policy Mistake By Hiking Rates, Some on Wall Street Say Barron's
 
 **Cleveland Fed's Hammack Says Policy Not Restrictive, Flags Higher Rates as Inflation Stays Above 3% - VT Markets**
 `05 Sep 08:29 PKT` · pehli baar dekhi `05 Sep 09:33` · gnews_fed
@@ -105,6 +120,31 @@ Fed Governor Concedes Next Rate Move Is a Coin Flip as Inflation Stays Well Abov
 
 ### EUR
 
+**Niger accuses France of orchestrating failed military mutiny**
+`05 Sep 12:42 PKT` · pehli baar dekhi `05 Sep 13:33` · aljazeera
+
+Niger has blamed France for inciting an attack on a key military airbase by mutinous soldiers last week.
+
+**Nordea Sees Eurozone Inflation Above ECB Target Until 2027, Keeping Rate Rises in Focus - VT Markets**
+`05 Sep 12:30 PKT` · pehli baar dekhi `05 Sep 13:33` · gnews_centralbanks
+
+Nordea Sees Eurozone Inflation Above ECB Target Until 2027, Keeping Rate Rises in Focus VT Markets
+
+**Dollar index slips below 100 as traders brace for ECB decision and key US data deluge - VT Markets**
+`05 Sep 12:30 PKT` · pehli baar dekhi `05 Sep 13:33` · gnews_centralbanks
+
+Dollar index slips below 100 as traders brace for ECB decision and key US data deluge VT Markets
+
+**ECB expected to raise rates in September for final time - Cyprus Mail**
+`05 Sep 11:30 PKT` · pehli baar dekhi `05 Sep 13:33` · gnews_centralbanks
+
+ECB expected to raise rates in September for final time Cyprus Mail
+
+**Smart Look At The Week Ahead: Apple, Oracle, ECB And US Treasuries - The Smart Investor**
+`05 Sep 08:56 PKT` · pehli baar dekhi `05 Sep 13:33` · gnews_centralbanks
+
+Smart Look At The Week Ahead: Apple, Oracle, ECB And US Treasuries The Smart Investor
+
 **EUR/USD Weekly Outlook**
 `05 Sep 08:34 PKT` · pehli baar dekhi `05 Sep 09:33` · actionforex · **5 feeds mein**
 
@@ -113,6 +153,12 @@ EUR/USD dipped to 1.1565 last week but recovered. Initial bias remains neutral t
   - `05 Sep 07:47` *actionforex* — EUR/GBP Weekly Outlook
   - `05 Sep 07:22` *actionforex* — EUR/AUD Weekly Outlook
   - `05 Sep 07:17` *actionforex* — EUR/CHF Weekly Outlook
+
+**Week Ahead: ECB Rate Decision, US CPI, PPI and BOJ Could Drive Markets Next Week - equiti.com**
+`05 Sep 07:48 PKT` · pehli baar dekhi `05 Sep 13:33` · gnews_centralbanks · **2 feeds mein**
+
+Week Ahead: ECB Rate Decision, US CPI, PPI and BOJ Could Drive Markets Next Week equiti.com
+  - `05 Sep 05:00` *gnews_centralbanks* — Week Ahead: ECB Rate Decision, US CPI, PPI and BOJ Could Drive Markets Next Week - equiti.com
 
 **US data to show higher headline inflation; ECB tipped to hike as UK growth cools, LatAm diverges - VT Markets**
 `05 Sep 07:08 PKT` · pehli baar dekhi `05 Sep 09:33` · gnews_centralbanks
@@ -123,11 +169,6 @@ US data to show higher headline inflation; ECB tipped to hike as UK growth cools
 `05 Sep 06:49 PKT` · pehli baar dekhi `05 Sep 09:33` · actionforex
 
 Next week, we expect U.S. inflation to show a modest pickup in headline prices due to higher energy costs, while underlying inflation pressures remain relatively contained. Existing home sales likely weakened further as elevated mortgage rates continue to weigh on affordability and demand. Abroad, the ECB is expected to deliver a 25 bps rate hike [&#8230;] The post Economics Week Ahead appeared first on ActionForex.
-
-**Week Ahead: ECB Rate Decision, US CPI, PPI and BOJ Could Drive Markets Next Week - equiti.com**
-`05 Sep 05:00 PKT` · pehli baar dekhi `05 Sep 05:10` · gnews_centralbanks
-
-Week Ahead: ECB Rate Decision, US CPI, PPI and BOJ Could Drive Markets Next Week equiti.com
 
 **TAG: ECB rate decision - kitco.com**
 `05 Sep 03:52 PKT` · pehli baar dekhi `05 Sep 05:10` · kitco_general
@@ -190,10 +231,30 @@ AUD/USD&#8217;s rally from 0.6864 resumed by breaking through 0.7207 last week. 
 
 ### OIL
 
+**US Diesel Smashes Record as Iran War Chokes Oil Supply - streamlinefeed.co.ke**
+`05 Sep 12:55 PKT` · pehli baar dekhi `05 Sep 13:33` · gnews_geopolitics
+
+US Diesel Smashes Record as Iran War Chokes Oil Supply streamlinefeed.co.ke
+
+**Oil Prices Could Fall To $40 After Iran Conflict Ends: US Treasury Secretary Scott Bessent - Free Press Journal**
+`05 Sep 11:09 PKT` · pehli baar dekhi `05 Sep 13:33` · gnews_geopolitics
+
+Oil Prices Could Fall To $40 After Iran Conflict Ends: US Treasury Secretary Scott Bessent Free Press Journal
+
+**Brent Nears $95 as US-Iran Conflict Raises Pakistan Fuel Price Risks - Bloom Pakistan**
+`05 Sep 09:46 PKT` · pehli baar dekhi `05 Sep 13:33` · gnews_geopolitics
+
+Brent Nears $95 as US-Iran Conflict Raises Pakistan Fuel Price Risks Bloom Pakistan
+
 **Oil's Two Clocks: Iran Now, Venezuela Later - The Dark Side Of The Boom**
 `05 Sep 08:31 PKT` · pehli baar dekhi `05 Sep 09:33` · gnews_geopolitics
 
 Oil's Two Clocks: Iran Now, Venezuela Later The Dark Side Of The Boom
+
+**Oil ends week higher on renewed US-Iran strikes, diesel hits record - ET EnergyWorld**
+`05 Sep 08:20 PKT` · pehli baar dekhi `05 Sep 13:33` · gnews_geopolitics
+
+Oil ends week higher on renewed US-Iran strikes, diesel hits record ET EnergyWorld
 
 **US embassy issues health alert for Cuba amid oil blockade, sanctions**
 `05 Sep 07:30 PKT` · pehli baar dekhi `05 Sep 09:33` · investing_commodities
@@ -229,6 +290,11 @@ U.S. Oil Reserve Hits 43-Year Low as Trump Aims to Tame Prices EnergyNow.com
 
 U.S. TOPS THE LIST – Half the World's Oil Comes From Just Five Countries – Visual Capitalist EnergyNow.com
 
+**Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say - EnergyNow**
+`05 Sep 03:18 PKT` · pehli baar dekhi `05 Sep 13:33` · gnews_geopolitics
+
+Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say EnergyNow
+
 **Crude Oil Posts Strongest Weekly Gain Since July**
 `05 Sep 03:14 PKT` · instaforex
 
@@ -241,12 +307,25 @@ The United States is the largest producer of nuclear power in the world, solely 
 
 ### CRYPTO
 
+**Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026**
+`05 Sep 13:03 PKT` · pehli baar dekhi `05 Sep 13:33` · cointelegraph
+
+US spot Bitcoin ETFs drew nearly $1 billion in the latest week as Friday inflows stayed positive despite Bitcoin briefly falling below $79,000.
+
+**Bitcoin stuck in $4K range with Doji signal: Live levels**
+`05 Sep 12:02 PKT` · pehli baar dekhi `05 Sep 13:33` · investing_news
+
 **For Many Individual Traders, Prediction Markets Are Hot—and Crypto Is Not**
 `05 Sep 07:00 PKT` · pehli baar dekhi `05 Sep 09:33` · wsj_markets
 
 As bitcoin loses its cool, traders are spending more time and money betting on sports, elections and Fed rate decisions.
 
 ### RISK
+
+**US imposes sanctions on Turkish bank, prompting legal threat**
+`05 Sep 10:19 PKT` · pehli baar dekhi `05 Sep 13:33` · aljazeera
+
+US sanctions Turkish bank over alleged IRGC ties, accusing it of facilitating millions in transactions for Iran.
 
 **Trump sends envoys to Russia, Ukraine with new peace plan**
 `05 Sep 08:25 PKT` · pehli baar dekhi `05 Sep 09:33` · aljazeera
@@ -283,10 +362,23 @@ Diesel prices hit record high amid Ukraine and Iran conflicts Crypto Briefing
 
 Oil soars for the week, hits three-month high on U.S.-Iran military escalation Investing.com Australia
 
-### BINA TAG (29)
+### BINA TAG (44)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `05 Sep 13:07` **aljazeera** — UK art show explores Muslim life, Europe's Islamic history and Islamophobia
+- `05 Sep 12:58` **investing_news** — Barclays sees a $3.6 trillion annual investment opportunity in this sector
+- `05 Sep 12:17` **investing_news** — Another false dawn? China's luxury spending revival seems to be fading: Bernstein
+- `05 Sep 12:15` **aljazeera** — Alcaraz, Sabalenka into US Open last 16 as Williams sisters lose on return
+- `05 Sep 12:13` **aljazeera** — Have scientists discovered a dark matter particle?
+- `05 Sep 11:51` **aljazeera** — At least five killed in Sudan's South Kordofan in attack by rebel group
+- `05 Sep 11:49` **gnews_fed** — Federal Reserve chief set for rate clash with Donald Trump - This is Money
+- `05 Sep 11:48` **investing_news** — South Korea exports surpass full-year record, hit $709.4 billion YTD
+- `05 Sep 11:46` **investing_news** — Dream Finders Homes director Len Sturm purchases $20,205 in stock
+- `05 Sep 11:38` **investing_news** — Farage turmoil gives UK PM Burnham breathing room ahead of budget
+- `05 Sep 11:11` **aljazeera** — Bolivian military barracks explosion kills at least 10
+- `05 Sep 11:03` **bbc_business** — Live music to raise cash for Christmas dinners
+- `05 Sep 10:08` **aljazeera** — Families of missing Ecuadorian fishermen allege US involvement
 - `05 Sep 09:29` **aljazeera** — 'I could not save the rest': Hero nurse remembers Pakistan's nursery fire
 - `05 Sep 09:13` **aljazeera** — UN approves new map showing Africa's true size
 - `05 Sep 09:00` **investing_news** — Hong Kong targets bigger offshore yuan role, mainland links, in first 5-year plan
@@ -303,12 +395,14 @@ Oil soars for the week, hits three-month high on U.S.-Iran military escalation I
 - `05 Sep 05:19` **aljazeera** — EU official Marta Kos cancels Serbia trip over planned Mladic tribute
 - `05 Sep 05:09` **gnews_fed** — Daily discussion thread for September 4, 2026 - equiti.com
 - `05 Sep 05:00` **actionforex** — Summary 9/7 – 9/11
+- `05 Sep 04:45` **kitco_general** — TAG: Adam Schickling - KITCO
 - `05 Sep 04:30` **investing_news** — Kymera Therapeutics chief legal officer Adams disposes of $744k in KYMR stock
 - `05 Sep 04:30` **gnews_fed** — Top Stock Market Highlights of the Week: Frasers Property, Singtel, Keppel DC REIT, OUE Healthcare and the US Federal Reserve - Yahoo Finance Singapore
 - `05 Sep 04:21` **investing_news** — Anthropic delays IPO launch to mid-October at earliest, Reuters reports
 - `05 Sep 04:19` **aljazeera** — Tunisia arrests journalist amid crackdown on government critics
 - `05 Sep 04:16` **investing_news** — Director Clint Hurt offloads $398,736 in PrimeEnergy Resources Corp shares
 - `05 Sep 04:08` **investing_news** — Royalty Pharma expects modest return despite pelacarsen trial failure
+- `05 Sep 04:06` **gnews_fed** — The U.S. economy added 162,000 jobs in August, beating expectations - The Washington Post
 - `05 Sep 04:00` **wsj_world** — U.S. Used Promise of Nvidia Chips to Broker Armenia-Azerbaijan Peace Deal
 - `05 Sep 03:52` **kitco_general** — TAG: GivTrade - KITCO
 - `05 Sep 03:52` **kitco_general** — TAG: US employment data - kitco.com
@@ -319,11 +413,11 @@ Oil soars for the week, hits three-month high on U.S.-Iran military escalation I
 
 ---
 
-## Shor — 8 khabrein hatai gayin
+## Shor — 12 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (8)
+investing_news (12)
 
 ---
 
@@ -333,45 +427,42 @@ investing_news (8)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.3 |
-| fxstreet_news | OK | 30 | 30 | 0 | 30 | 0 | 0.2 |
-| fxstreet_analysis | OK | 30 | 8 | 0 | 8 | 22 | 0.4 |
-| actionforex | OK | 20 | 20 | 14 | 6 | 0 | 0.0 |
-| marketpulse | OK | 2 | 1 | 0 | 1 | 1 | 0.6 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
-| wsj_economy | OK | 36 | 7 | 1 | 6 | 29 | 0.1 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 2.0 |
-| kitco_general | OK | 42 | 40 | 4 | 36 | 2 | 0.2 |
-| gnews_fed | OK | 100 | 100 | 21 | 79 | 0 | 0.0 |
-| gnews_geopolitics | OK | 98 | 98 | 22 | 76 | 0 | 0.0 |
-| gnews_centralbanks | OK | 35 | 35 | 2 | 33 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 10.4 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.8 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 8.6 |
-| boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 0.9 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.0 |
-| mining_com | OK | 36 | 9 | 0 | 9 | 27 | 0.2 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.3 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| bbc_business | OK | 47 | 20 | 2 | 18 | 27 | 0.1 |
-| aljazeera | OK | 25 | 25 | 14 | 11 | 0 | 0.0 |
+| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 0.5 |
+| fxstreet_news | OK | 30 | 1 | 0 | 1 | 29 | 0.4 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.5 |
+| actionforex | OK | 20 | 15 | 0 | 15 | 5 | 0.2 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 0.8 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.3 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 2.1 |
+| kitco_general | OK | 40 | 5 | 2 | 3 | 35 | 0.2 |
+| gnews_fed | OK | 100 | 17 | 4 | 13 | 83 | 0.0 |
+| gnews_geopolitics | OK | 96 | 22 | 5 | 17 | 74 | 0.0 |
+| gnews_centralbanks | OK | 37 | 6 | 5 | 1 | 31 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 10.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.8 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.0 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 8.8 |
+| boj_whatsnew | OK | 43 | 0 | 0 | 0 | 43 | 1.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.2 |
+| mining_com | OK | 36 | 3 | 0 | 3 | 33 | 0.4 |
+| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
+| investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.3 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
+| bbc_business | OK | 47 | 3 | 1 | 2 | 44 | 0.1 |
+| aljazeera | OK | 25 | 24 | 8 | 16 | 1 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 1.6 |
-| eia_energy | OK | 13 | 1 | 0 | 1 | 12 | 0.6 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 1.7 |
-| wsj_world | OK | 72 | 16 | 2 | 14 | 56 | 0.1 |
-| wsj_markets | OK | 61 | 24 | 1 | 23 | 37 | 0.1 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 6 | 5 | 1 | 44 | 0.7 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
-| cointelegraph | OK | 30 | 17 | 0 | 17 | 13 | 0.3 |
-
-**Jo feeds nahi aaye:**
-- ing_think — FAIL, ConnectTimeout
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 1.8 |
+| eia_energy | OK | 13 | 0 | 0 | 0 | 13 | 0.8 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 1.8 |
+| wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.3 |
+| wsj_markets | OK | 61 | 1 | 0 | 1 | 60 | 0.3 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | OK | 48 | 0 | 0 | 0 | 48 | 0.9 |
+| mw_topstories | OK | 10 | 0 | 0 | 0 | 10 | 0.4 |
+| cointelegraph | OK | 30 | 1 | 1 | 0 | 29 | 0.0 |
