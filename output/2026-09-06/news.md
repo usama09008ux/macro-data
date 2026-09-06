@@ -1,8 +1,8 @@
 # News Pack — Trading Day 06 Sep 2026
 
 - Trading day: **06 Sep 03:00 -> 07 Sep 02:59 PKT**
-- Aakhri update: **07 Sep 01:40 PKT**
-- Kul khabrein: **391**
+- Aakhri update: **07 Sep 03:23 PKT**
+- Kul khabrein: **446**
 - Feeds: 28/39 OK
 
 ---
@@ -38,6 +38,11 @@ Week Ahead: German State Election Results; Canadian Tariffs on U.S. Goods; BRICS
 
 ### GOLD
 
+**Why are European countries moving their gold out of North America? - MyJoyOnline**
+`07 Sep 02:38 PKT` · pehli baar dekhi `07 Sep 03:23` · gnews_centralbanks
+
+Why are European countries moving their gold out of North America? MyJoyOnline
+
 **He Sold the Gold Coins His Father Left Him at $4,700 an Ounce. The Inheritance Was Tax-Free. The Gain Since the Funeral Could Double His Medicare Premium.**
 `06 Sep 20:23 PKT` · pehli baar dekhi `06 Sep 21:14` · yahoo_finance
 
@@ -68,10 +73,23 @@ Gold dips 3 per cent on weekly basis over hopes of US Fed rate hike The Shillong
 
 ### USD
 
+**XRP Trades at $1.41 With a $1.43 Wall Overhead. Can It Break $1.50 Before the Fed Decides on September 16?**
+`07 Sep 02:56 PKT` · pehli baar dekhi `07 Sep 03:23` · yahoo_finance
+
 **Stablecoins could enter M1 or M2, Fed study says - Cryptonews.net**
 `07 Sep 01:14 PKT` · pehli baar dekhi `07 Sep 01:40` · gnews_fed
 
 Stablecoins could enter M1 or M2, Fed study says Cryptonews.net
+
+**Trump Threatens to Halt Trade if Fed Doesn't Cut Rates: What's at Stake? - MundoNOW**
+`07 Sep 00:09 PKT` · pehli baar dekhi `07 Sep 03:23` · gnews_fed
+
+Trump Threatens to Halt Trade if Fed Doesn't Cut Rates: What's at Stake? MundoNOW
+
+**Fed warns S&P 500 equity risk premium near dot-com bubble lows - eciks.org**
+`06 Sep 23:47 PKT` · pehli baar dekhi `07 Sep 03:23` · gnews_fed
+
+Fed warns S&P 500 equity risk premium near dot-com bubble lows eciks.org
 
 **He's Swapped One Rental for Another Three Times Since 1994 and Never Paid a Dollar of Capital-Gains Tax. If He Still Owns the Last One the Day He Dies, Nobody Ever Will**
 `06 Sep 23:33 PKT` · pehli baar dekhi `07 Sep 01:40` · yahoo_finance
@@ -109,9 +127,10 @@ Fed Chair Kevin Warsh Warned a Rate Hike Could Be Coming. Some Dividend Stocks W
   - `06 Sep 20:01` *gnews_fed* — Fed Chair Kevin Warsh Warned a Rate Hike Could Be Coming. Some Dividend Stocks Would Get Hurt -- Others Could Actually Win. - The Globe and Mail
 
 **A Fed Rate Hike May Be in the Cards on Sept. 16, and 36 Years of History Says the Stock Market Won't Be Happy (at Least Initially) - The Globe and Mail**
-`06 Sep 20:28 PKT` · pehli baar dekhi `06 Sep 23:24` · gnews_fed · **3 feeds mein**
+`06 Sep 20:28 PKT` · pehli baar dekhi `06 Sep 23:24` · gnews_fed · **4 feeds mein**
 
 A Fed Rate Hike May Be in the Cards on Sept. 16, and 36 Years of History Says the Stock Market Won't Be Happy (at Least Initially) The Globe and Mail
+  - `06 Sep 20:26` *gnews_fed* — A Fed Rate Hike May Be in the Cards on Sept. 16, and 36 Years of History Says the Stock Market Won't Be Happy (at Least Initially) - Currently.com
   - `06 Sep 20:19` *gnews_fed* — A Fed Rate Hike May Be in the Cards on Sept. 16, and 36 Years of History Says the Stock Market Won't Be Happy (at Least Initially) - The Motley Fool
   - `06 Sep 20:26` *yahoo_finance* — A Fed Rate Hike May Be in the Cards on Sept. 16, and 36 Years of History Says the Stock Market Won't Be Happy (at Least Initially)
 
@@ -150,6 +169,11 @@ The Week Ahead: US August CPI, PPI on Tap as Oracle, Adobe Report Earnings tradi
 `06 Sep 16:05 PKT` · pehli baar dekhi `06 Sep 18:06` · gnews_centralbanks
 
 Week Ahead: Yen In Play, ECB Hikes, And U.S. CPI To Impact FOMC Seeking Alpha
+
+**What to Expect in Markets This Week: Fresh Inflation Data; Apple's Fall Launch Event and Oracle Earnings - Investopedia**
+`06 Sep 16:00 PKT` · pehli baar dekhi `07 Sep 03:23` · gnews_fed
+
+What to Expect in Markets This Week: Fresh Inflation Data; Apple's Fall Launch Event and Oracle Earnings Investopedia
 
 **US labour market resilience may keep Fed cautious on September rate decision - indiagazette.com**
 `06 Sep 15:28 PKT` · pehli baar dekhi `06 Sep 23:24` · gnews_fed
@@ -243,6 +267,24 @@ Federal Reserve Chair Warsh's Rate Hike Dilemma Under Trump Pressure 조선일�
 Korea's Q2 GDP Revision, U.S. August CPI in Focus This Week Seoul Economic Daily
 
 ### EUR
+
+**EUR/USD pulls back as hawkish Fed bets stabilise; traders await the key US CPI report - investingLive**
+`07 Sep 02:33 PKT` · pehli baar dekhi `07 Sep 03:23` · gnews_centralbanks
+
+EUR/USD pulls back as hawkish Fed bets stabilise; traders await the key US CPI report investingLive
+
+**How to position as France is entering a new political cycle?**
+`07 Sep 02:31 PKT` · pehli baar dekhi `07 Sep 03:23` · investing_news
+
+**France's Debt Emerges as Euro Zone's Next Flashpoint - Seoul Economic Daily**
+`07 Sep 02:00 PKT` · pehli baar dekhi `07 Sep 03:23` · gnews_centralbanks
+
+France's Debt Emerges as Euro Zone's Next Flashpoint Seoul Economic Daily
+
+**Can AfD form Germany's first far-right state government since World War II?**
+`07 Sep 01:52 PKT` · pehli baar dekhi `07 Sep 03:23` · aljazeera
+
+Germany's far-right Alternative for Germany (AfD) is projected to win a regional election in Saxony-Anhalt.
 
 **AfD wins elections in Saxony-Anhalt**
 `06 Sep 23:06 PKT` · pehli baar dekhi `07 Sep 01:40` · ing_think
@@ -394,6 +436,11 @@ Yen nears 155 against dollar on BOJ rate hike speculation 朝日新聞
 
 Bank of Japan is set to keep interest rates unchanged at the July meeting, maintain tightening guidance investingLive
 
+**Bank of Japan Governor Ueda says no comment on markets pricing a September rate hike - investingLive**
+`06 Sep 07:27 PKT` · pehli baar dekhi `07 Sep 03:23` · gnews_centralbanks
+
+Bank of Japan Governor Ueda says no comment on markets pricing a September rate hike investingLive
+
 **Global Bond Market Under Pressure; Yen and Inflation in Focus - IDNFinancials**
 `06 Sep 06:00 PKT` · pehli baar dekhi `06 Sep 10:21` · gnews_centralbanks
 
@@ -407,6 +454,13 @@ Dollar-Yen to Seek Direction in 155-159 Range Next Week as U.S. Inflation Data a
 **Is the latest rebound in the Japanese yen real?**
 `06 Sep 04:02 PKT` · pehli baar dekhi `06 Sep 05:50` · investing_news
 
+### AUD
+
+**China injects $54 billion into state banks and insurers to shore up capital**
+`07 Sep 02:40 PKT` · pehli baar dekhi `07 Sep 03:23` · investinglive
+
+The move signals Beijing's continued willingness to use direct state capital to backstop its financial system rather than rely solely on monetary easing, which is broadly supportive for confidence in Chinese equities and the yuan. For Australia, a more stable Chinese banking and insurance sector underpins the credit conditions that support demand for Australian resources exports, keeping the story mildly AUD-supportive at the margin.
+
 ### NZD
 
 **Flames burst from Qantas plane engine after New Zealand takeoff**
@@ -415,6 +469,22 @@ Dollar-Yen to Seek Direction in 155-159 Range Next Week as U.S. Inflation Data a
 A terrifying moment unfolded aboard a Qantas flight from Queenstown to Sydney when flames erupted from its left engine.
 
 ### OIL
+
+**OPEC+ sticks to flat oil quotas for October despite Hormuz war disruption**
+`07 Sep 02:18 PKT` · pehli baar dekhi `07 Sep 03:23` · investinglive
+
+The decision itself carries little fresh price signal, since it confirms a roadmap the market had already priced in. The more relevant read for oil is how limited OPEC+'s real-world leverage has become while the Strait of Hormuz remains disrupted, meaning announced quotas are increasingly disconnected from actual barrels reaching the market.
+
+**Oil Majors Seek Bigger Bargaining Power in Labor Disputes**
+`07 Sep 02:00 PKT` · pehli baar dekhi `07 Sep 03:23` · oilprice · **2 feeds mein**
+
+The biggest oil companies in the United States are playing hardball in unionized labor negotiations in a bid to get more concessions from workers' unions in the new contracts. Over the past few years, some of the top U.S. refining companies have resorted to lockouts to ensure most of the company management's proposals in new labor contracts are accepted. The trend began earlier this decade with Exxon locking out in 2021 as many as 650 workers out of the Beaumont refinery for 10 months.
+  - `07 Sep 02:00` *yahoo_finance* — Oil Majors Seek Bigger Bargaining Power in Labor Disputes
+
+**Trump highlights falling Iran oil exports, rebound in Hormuz flows - Iran International**
+`07 Sep 00:15 PKT` · pehli baar dekhi `07 Sep 03:23` · gnews_geopolitics
+
+Trump highlights falling Iran oil exports, rebound in Hormuz flows Iran International
 
 **Trump administration focuses on boosting oil output, Wright says**
 `07 Sep 00:04 PKT` · pehli baar dekhi `07 Sep 01:40` · investing_news
@@ -438,6 +508,11 @@ Why OPEC+ kept oil output unchanged as Iran war pushes Brent toward $100 | Busin
 `06 Sep 22:00 PKT` · pehli baar dekhi `06 Sep 23:24` · oilprice
 
 A regime change in Colombia's federal government is poised to usher in an oil and gas renaissance in the South American nation. After a four-year ban on oil and gas exploration under the previous leftist president Gustavo Petro, a new right-wing administration is eager to open the country's oil and gas reserves up to foreign investors. But while mining and oil companies are ready to pour billions of dollars into the sector, Colombia's political systems might not actually be ready for the flood.
+
+**Oil Market Could be Underpricing Risks, Vitol's Bahrain Chief Says - EnergyNow.com**
+`06 Sep 21:54 PKT` · pehli baar dekhi `07 Sep 03:23` · gnews_geopolitics
+
+Oil Market Could be Underpricing Risks, Vitol's Bahrain Chief Says EnergyNow.com
 
 **OPEC+ holds October oil output steady as focus shifts to 2027 quotas - Profit by Pakistan Today**
 `06 Sep 21:24 PKT` · pehli baar dekhi `06 Sep 23:24` · gnews_geopolitics
@@ -535,9 +610,10 @@ Crude prices, Fed bets and more: What's in store for markets this week The Times
 US CENTCOM: 1,600 merchant ships, 800 million barrels of oil cleared through Hormuz amid Iran tension Business Upturn
 
 **US strikes 3 Iranian oil tankers, one near Kharg Island - malaysiasun.com**
-`06 Sep 15:10 PKT` · pehli baar dekhi `06 Sep 21:14` · gnews_geopolitics
+`06 Sep 15:10 PKT` · pehli baar dekhi `06 Sep 21:14` · gnews_geopolitics · **2 feeds mein**
 
 US strikes 3 Iranian oil tankers, one near Kharg Island malaysiasun.com
+  - `06 Sep 15:10` *gnews_geopolitics* — US strikes 3 Iranian oil tankers, one near Kharg Island - malaysiasun.com
 
 **Iran Claims Attack on US Ship in Strait of Hormuz Amid Rising Tensions - Ratopati**
 `06 Sep 14:59 PKT` · pehli baar dekhi `06 Sep 18:06` · gnews_geopolitics
@@ -569,6 +645,11 @@ Iran has only 30 million barrels of oil left for China, Bessent says iranintl.co
 `06 Sep 14:10 PKT` · pehli baar dekhi `06 Sep 18:06` · gnews_geopolitics
 
 Hormuz Reopening to Release Wave of Oil Supply, Depress Prices EnergyNow.com
+
+**US strikes three Iranian oil tankers after IRGC attack on American naval ships - fultonsun.com**
+`06 Sep 14:00 PKT` · pehli baar dekhi `07 Sep 03:23` · gnews_geopolitics
+
+US strikes three Iranian oil tankers after IRGC attack on American naval ships fultonsun.com
 
 **OPEC+ set to hold oil output policy steady for October - Reuters**
 `06 Sep 13:17 PKT` · pehli baar dekhi `06 Sep 14:34` · investing_news
@@ -681,6 +762,9 @@ Billionaire Alejandro Betancourt's Controversial Role in U.S.-Venezuela Oil Dipl
 
 ### CRYPTO
 
+**How BlackRock (BLK) is Quietly Turning Bitcoin Whales Into Wall Street Clients**
+`07 Sep 01:32 PKT` · pehli baar dekhi `07 Sep 03:23` · yahoo_finance
+
 **If You'd Invested $1,000 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today**
 `07 Sep 01:08 PKT` · pehli baar dekhi `07 Sep 01:40` · yahoo_finance
 
@@ -703,6 +787,11 @@ The US Dollar Has Lost 97% of Its Value Since 1913: Is Bitcoin the Way Out? BeIn
 `06 Sep 20:12 PKT` · pehli baar dekhi `06 Sep 21:14` · gnews_fed
 
 Federal Reserve Chair Kevin Warsh warns of potential rate hike as inflation refuses to cooperate Crypto Briefing
+
+**$BITCOIN FUNDAMENTAL ANALYSIS | SEPTEMBER 2026 - Binance**
+`06 Sep 19:46 PKT` · pehli baar dekhi `07 Sep 03:23` · gnews_fed
+
+$BITCOIN FUNDAMENTAL ANALYSIS | SEPTEMBER 2026 Binance
 
 **Bitcoin down but holds near $80,000 as corporate buying, U.S. crypto vote in focus**
 `06 Sep 19:35 PKT` · pehli baar dekhi `06 Sep 21:14` · investing_news
@@ -769,6 +858,9 @@ Bitcoin Gains Strength Despite Split Fed, Strategy Sale, and Mixed ETF Flows Coi
 
 ### RISK
 
+**Russia stocks lower at close of trade; MOEX Russia Index unchanged**
+`07 Sep 02:20 PKT` · pehli baar dekhi `07 Sep 03:23` · investing_news
+
 **Iran to declare Hormuz restricted zone, warns of 'more painful' attack response**
 `07 Sep 01:28 PKT` · pehli baar dekhi `07 Sep 01:40` · investinglive
 
@@ -780,9 +872,10 @@ The planned restricted zone adds a fresh layer of shipping risk to the Strait of
 Ukraine and Russia held off on strikes on each other's capitals as the U.S. envoys, Jared Kushner and Steve Witkoff, visited first Moscow then Kyiv this weekend.
 
 **Iran says it will declare restricted zone beyond Strait of Hormuz; ships entering face sanctions - businessupturn.com**
-`07 Sep 00:08 PKT` · pehli baar dekhi `07 Sep 01:40` · gnews_geopolitics
+`07 Sep 00:08 PKT` · pehli baar dekhi `07 Sep 01:40` · gnews_geopolitics · **2 feeds mein**
 
 Iran says it will declare restricted zone beyond Strait of Hormuz; ships entering face sanctions businessupturn.com
+  - `07 Sep 00:08` *gnews_geopolitics* — Iran says it will declare restricted zone beyond Strait of Hormuz; ships entering face sanctions - Business Upturn
 
 **Why is Argentina reviving the Falklands dispute?**
 `06 Sep 23:36 PKT` · pehli baar dekhi `07 Sep 01:40` · aljazeera
@@ -912,12 +1005,39 @@ At least six other people were injured in the tanker blast on Iran&#039;s Hameda
 
 Live - Iran threatens harsher strikes on US warships as Hegseth vows to sink tankers Iran International
 
-### BINA TAG (193)
+### BINA TAG (225)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `07 Sep 02:47` **yahoo_finance** — VW's CEO just survived the fight that sank his predecessors
+- `07 Sep 02:46` **aljazeera** — Alcaraz breezes into last eight at US Open
+- `07 Sep 02:43` **yahoo_finance** — Anthropic Has Committed More Than $100 Billion to AWS, and Its Prospectus Could Reveal More Details About This Contract
+- `07 Sep 02:35` **yahoo_finance** — This Bank Stock's Dividend Has Been Compounding for 190 Years. Could It Make You Rich?
+- `07 Sep 02:32` **yahoo_finance** — The House They Bought for $62,000 in 1984 Sold for $890,000. The Tax Exclusion Stopped at $500,000. Medicare's Bill Started There.
+- `07 Sep 02:30` **mw_topstories** — 'I currently give him $1,000 a month': My grandson has severe mental illness. How do I protect him after I'm gone?
+- `07 Sep 02:24` **yahoo_finance** — 'Rich Dad Poor Dad' author touts 10-year-old investment amid '$1.2 billion' debt
+- `07 Sep 02:19` **investing_news** — Eli Lilly's $100B incretin opportunity: Is more upside coming?
+- `07 Sep 02:16` **investing_news** — Goldman sees Cybercab giving Tesla a cost advantage in robotaxis
+- `07 Sep 02:11` **aljazeera** — Amazon cargo plane crashes in US while landing at Miami airport
+- `07 Sep 02:08` **aljazeera** — At least 10 killed in central Mexico fireworks blast during festival
+- `07 Sep 02:08` **aljazeera** — Amazon Prime plane overruns runway at Miami Airport
+- `07 Sep 02:06` **yahoo_finance** — Analyzing Applied Digital vs. IREN: Accelerating Upward Trajectories vs. Sequential Contractions in Quarterly Revenue Generation
+- `07 Sep 02:03` **yahoo_finance** — Jim Cramer sends strong 5-word message on surging biotech stock
+- `07 Sep 02:02` **yahoo_finance** — He Lost His CDL Medical Card at 61. Social Security Did Not Automatically Call Him Disabled.
+- `07 Sep 02:00` **mw_topstories** — 'It's not fair': My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?
+- `07 Sep 01:56` **yahoo_finance** — Salesforce (CRM)'s AI Numbers Just Gave Benioff His Swagger Back
+- `07 Sep 01:46` **yahoo_finance** — H.B. Fuller (FUL) Tells Ancora its $1.2 Billion Offer isn't Enough
+- `07 Sep 01:43` **yahoo_finance** — McKesson Bets $2.25 Billion More on Oncology With Precision Medicine Buy
+- `07 Sep 01:43` **investinglive** — Why Globex still opens on the night before a US market holiday
+- `07 Sep 01:41` **yahoo_finance** — Musk Moves Up SpaceX (SPCX)'s Orbital Data Center Timeline, Again
+- `07 Sep 01:40` **aljazeera** — Susan Sarandon says she still loses film roles over support for Palestine
+- `07 Sep 01:35` **yahoo_finance** — Forget AI Stocks: This Clean-Power Play Is the Real Winner
+- `07 Sep 01:35` **yahoo_finance** — Is Ultra-High-Yield Energy Transfer a Buy Now?
+- `07 Sep 01:30` **yahoo_finance** — Tether-backed exchange suddenly halts withdrawals ahead of shutdown
 - `07 Sep 01:25` **yahoo_finance** — Meet the Dirt Cheap 6.4%-Yielding Dividend Stock That's Beating the Market in 2026
 - `07 Sep 01:23` **yahoo_finance** — Netflix Raised U.K. Prices Again. History Says a Netflix Price Increase Has Never Cost It a Year of Revenue Growth.
+- `07 Sep 01:21` **yahoo_finance** — Can Nvidia (NVDA) Prove it Doesn't Live or Die by a Handful of Hyperscalers?
+- `07 Sep 01:20` **aljazeera** — Will Israelis re-elect Benjamin Netanyahu?
 - `07 Sep 01:16` **yahoo_finance** — Apple (AAPL)'s New Mac Mini and Studio Bet Big on On-Device AI
 - `07 Sep 01:07` **yahoo_finance** — Where You Hold SPYI and STAG Matters More Than You Think: The Taxable vs. IRA Math
 - `07 Sep 01:05` **yahoo_finance** — Paramount (PSKY)'s CEO Has Cleared 68 Countries for His Warner Bros (WBD) Deal. California Still Won't Budge
@@ -932,6 +1052,7 @@ Live - Iran threatens harsher strikes on US warships as Hegseth vows to sink tan
 - `07 Sep 00:35` **yahoo_finance** — Chevron Stayed in Venezuela for 20 Years While Rivals Left. Here's Why Its CEO Says Patience Pays Off.
 - `07 Sep 00:33` **yahoo_finance** — Being Forced Out of a Medicare Advantage Plan Was a 1% Event for Years. In 2026 It Hit 10%. The 2027 Letters Must Arrive by October 2.
 - `07 Sep 00:32` **yahoo_finance** — Arista Networks vs. IBM: Comparing Quarterly Revenue Trends Between These Artificial Intelligence Giants
+- `07 Sep 00:30` **yahoo_finance** — Three Of Credit's Biggest Names Are In Talks On Waymo's $3 Billion Debt Raise
 - `07 Sep 00:29` **yahoo_finance** — Goodyear (GT)'s Turnaround is Still Burning Through Cash, Not Just Rubber
 - `07 Sep 00:26` **yahoo_finance** — Big Institutions are Quietly Buying Into Blackstone (BX) and KKR's Wealth Funds
 - `07 Sep 00:20` **yahoo_finance** — The U.S. National Debt Just Surpassed $40 Trillion. Here's What This Means for Your Portfolio in 2026 and Beyond.
@@ -947,6 +1068,7 @@ Live - Iran threatens harsher strikes on US warships as Hegseth vows to sink tan
 - `06 Sep 23:49` **yahoo_finance** — AppLovin vs. Reddit: What Quarterly Revenue Growth Patterns Tell Investors About These Media Companies
 - `06 Sep 23:47` **aljazeera** — Trump administration appeals again to US Supreme Court over mail-in voting
 - `06 Sep 23:35` **yahoo_finance** — BDC and Mortgage REIT Income Is Taxed Differently Than a Bank Dividend. Here's Where to Hold Each.
+- `06 Sep 23:16` **gnews_fed** — Raghuram Rajan to Headline Ripple Swell 2026 as Conference Merges With Developer Event - finance.biggo.com
 - `06 Sep 23:12` **aljazeera** — Sabalenka through to US Open quarterfinals
 - `06 Sep 23:10` **aljazeera** — Algerian boy found dead after four days trapped in a well
 - `06 Sep 23:05` **yahoo_finance** — He Spent Montana's Fire Season on Overtime. Social Security Counted Pay His Federal Pension Left Out.
@@ -997,6 +1119,7 @@ Live - Iran threatens harsher strikes on US warships as Hegseth vows to sink tan
 - `06 Sep 20:35` **yahoo_finance** — Coca-Cola: Buy, Sell, or Hold After Its Recent Run?
 - `06 Sep 20:32` **investing_news** — HSBC cuts Carlsberg stock price target on execution concerns
 - `06 Sep 20:32` **aljazeera** — US envoys hold 'substantive' talks with Zelenskyy in first visit to Kyiv
+- `06 Sep 20:30` **yahoo_finance** — South Korea Just Bet $20 Billion on SK hynix Stock
 - `06 Sep 20:30` **yahoo_finance** — Mohamed El-Erian says an influx of hyperscaler bonds is competing with U.S. Treasuries — and pushing rates higher
 - `06 Sep 20:26` **investing_news** — BNP Paribas Exane raises Samsara stock price target on growth
 - `06 Sep 20:19` **aljazeera** — Khalid Abdalla: 'It's important for me to be in service of justice'
@@ -1031,6 +1154,7 @@ Live - Iran threatens harsher strikes on US warships as Hegseth vows to sink tan
 - `06 Sep 18:06` **instaforex** — Oman's M2 Money Supply Growth Eases to 14.9% in July 2026
 - `06 Sep 17:55` **yahoo_finance** — Protagonist (PTGX) Swings To A Profit As Two Drugs Near Blockbuster Status
 - `06 Sep 17:55` **aljazeera** — Algeria civil defence recovers body of 10-year-old boy from well
+- `06 Sep 17:55` **mw_topstories** — We're in our 60s. We earn $345,000 and have $1 million in 403(b)s. Is it too late for Roth conversions?
 - `06 Sep 17:49` **yahoo_finance** — Voya Financial's (VOYA) Earnings Fell While Its Retirement Business Boomed
 - `06 Sep 17:45` **aljazeera** — Bangladesh protesters demand action over rising costs
 - `06 Sep 17:45` **investing_news** — Saudi Arabia stocks higher at close of trade; Tadawul All Share up 0.32%
@@ -1091,6 +1215,7 @@ Live - Iran threatens harsher strikes on US warships as Hegseth vows to sink tan
 - `06 Sep 08:00` **wsj_world** — At Taiwan's Temples, a Glimpse of What China Could Have Been
 - `06 Sep 07:56` **aljazeera** — Nearly 9,000 killed in Israeli attacks on Lebanon since 2023
 - `06 Sep 07:42` **gnews_geopolitics** — | Kyabram Free Press - Kyabram Free Press
+- `06 Sep 07:33` **yahoo_finance** — 39-year-old ammunition manufacturer files Chapter 11 bankruptcy
 - `06 Sep 06:38` **aljazeera** — 'People laughed at me': Indian youth cleans up a trash-filled river
 - `06 Sep 06:38` **wsj_world** — The Violent Israeli Nomads Who Defy Law and Order in the Name of God
 - `06 Sep 06:26` **gnews_fed** — Ringgit, regional currencies seen under pressure next week as strong US jobs data bolsters greenback - KLSE Screener
@@ -1126,45 +1251,45 @@ yahoo_finance (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 3 | 2 | 1 | 22 | 0.0 |
-| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.9 |
-| fxstreet_analysis | WARN | 30 | 0 | 0 | 0 | 30 | 2.0 |
-| actionforex | OK | 20 | 2 | 0 | 2 | 18 | 0.2 |
-| marketpulse | OK | 3 | 1 | 1 | 0 | 2 | 0.0 |
-| instaforex | OK | 25 | 2 | 0 | 2 | 23 | 0.2 |
-| wsj_economy | WARN | 36 | 0 | 0 | 0 | 36 | 1.8 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| investinglive | OK | 25 | 7 | 4 | 3 | 18 | 0.0 |
+| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 2.0 |
+| fxstreet_analysis | WARN | 30 | 0 | 0 | 0 | 30 | 2.1 |
+| actionforex | OK | 20 | 2 | 0 | 2 | 18 | 0.3 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.1 |
+| instaforex | OK | 25 | 2 | 0 | 2 | 23 | 0.3 |
+| wsj_economy | WARN | 36 | 0 | 0 | 0 | 36 | 1.9 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 3.7 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 44 | 43 | 2 | 41 | 1 | 0.0 |
-| gnews_geopolitics | OK | 63 | 59 | 5 | 54 | 4 | 0.1 |
-| gnews_centralbanks | OK | 45 | 43 | 3 | 40 | 2 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 12.1 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.3 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.3 |
+| gnews_fed | OK | 48 | 48 | 7 | 41 | 0 | 0.0 |
+| gnews_geopolitics | OK | 63 | 63 | 5 | 58 | 0 | 0.1 |
+| gnews_centralbanks | OK | 43 | 43 | 5 | 38 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 12.2 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.4 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.4 |
 | boj_whatsnew | OK | 41 | 0 | 0 | 0 | 41 | 2.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.8 |
 | mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.9 |
-| oilprice | OK | 15 | 4 | 1 | 3 | 11 | 0.1 |
+| oilprice | OK | 15 | 6 | 2 | 4 | 9 | 0.0 |
 | investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
-| ing_think | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
+| ing_think | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
 | bbc_business | OK | 50 | 5 | 0 | 5 | 45 | 0.2 |
 | aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.3 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.4 |
 | eia_energy | OK | 13 | 0 | 0 | 0 | 13 | 2.3 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.3 |
-| wsj_world | OK | 71 | 6 | 1 | 5 | 65 | 0.1 |
-| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.8 |
-| investing_news | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 46 | 33 | 13 | 4 | 0.0 |
-| mw_topstories | OK | 10 | 6 | 0 | 6 | 4 | 0.0 |
-| cointelegraph | OK | 30 | 3 | 0 | 3 | 27 | 0.3 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.4 |
+| wsj_world | OK | 71 | 6 | 0 | 6 | 65 | 0.1 |
+| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.9 |
+| investing_news | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 47 | 22 | 25 | 3 | 0.0 |
+| mw_topstories | OK | 10 | 8 | 3 | 5 | 2 | 0.0 |
+| cointelegraph | OK | 30 | 3 | 0 | 3 | 27 | 0.4 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi
