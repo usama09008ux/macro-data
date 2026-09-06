@@ -1,7 +1,7 @@
 # News Pack — Trading Day 02 Sep 2026
 
 - Trading day: **02 Sep 03:00 -> 03 Sep 02:59 PKT**
-- Aakhri update: **06 Sep 21:14 PKT**
+- Aakhri update: **06 Sep 23:24 PKT**
 - Kul khabrein: **1163**
 - Feeds: 27/39 OK
 
@@ -4121,46 +4121,45 @@ investing_news (14)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.1 |
-| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.7 |
-| fxstreet_analysis | WARN | 30 | 0 | 0 | 0 | 30 | 1.8 |
-| actionforex | OK | 20 | 2 | 2 | 0 | 18 | 0.1 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.1 |
+| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.2 |
+| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.8 |
+| fxstreet_analysis | WARN | 30 | 0 | 0 | 0 | 30 | 1.9 |
+| actionforex | OK | 20 | 2 | 0 | 2 | 18 | 0.1 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.2 |
 | instaforex | OK | 25 | 2 | 0 | 2 | 23 | 0.1 |
-| wsj_economy | WARN | 36 | 0 | 0 | 0 | 36 | 1.6 |
+| wsj_economy | WARN | 36 | 0 | 0 | 0 | 36 | 1.7 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 3.5 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 3.6 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 49 | 33 | 14 | 19 | 16 | 0.0 |
-| gnews_geopolitics | OK | 62 | 54 | 19 | 35 | 8 | 0.0 |
-| gnews_centralbanks | OK | 42 | 34 | 5 | 29 | 8 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 11.9 |
+| gnews_fed | OK | 48 | 43 | 8 | 35 | 5 | 0.0 |
+| gnews_geopolitics | OK | 61 | 56 | 4 | 52 | 5 | 0.0 |
+| gnews_centralbanks | OK | 45 | 39 | 3 | 36 | 6 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 12.0 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.2 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.1 |
-| boj_whatsnew | OK | 41 | 0 | 0 | 0 | 41 | 2.4 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.5 |
-| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.7 |
-| oilprice | OK | 15 | 2 | 1 | 1 | 13 | 0.1 |
-| investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| bbc_business | OK | 50 | 5 | 0 | 5 | 45 | 0.2 |
-| aljazeera | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.2 |
+| boj_whatsnew | OK | 41 | 0 | 0 | 0 | 41 | 2.5 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.6 |
+| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.8 |
+| oilprice | OK | 15 | 3 | 1 | 2 | 12 | 0.1 |
+| investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.3 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| bbc_business | OK | 50 | 5 | 0 | 5 | 45 | 0.1 |
+| aljazeera | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.1 |
-| eia_energy | OK | 13 | 0 | 0 | 0 | 13 | 2.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.2 |
+| eia_energy | OK | 13 | 0 | 0 | 0 | 13 | 2.2 |
 | bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.2 |
-| wsj_world | OK | 71 | 3 | 0 | 3 | 68 | 0.6 |
-| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.6 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 23 | 20 | 3 | 26 | 0.0 |
-| mw_topstories | OK | 10 | 5 | 1 | 4 | 5 | 0.1 |
-| cointelegraph | OK | 30 | 3 | 1 | 2 | 27 | 0.1 |
+| wsj_world | OK | 71 | 5 | 2 | 3 | 66 | 0.0 |
+| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.7 |
+| investing_news | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
+| yahoo_finance | OK | 50 | 44 | 30 | 14 | 6 | 0.0 |
+| mw_topstories | OK | 10 | 5 | 0 | 5 | 5 | 0.2 |
+| cointelegraph | OK | 30 | 3 | 0 | 3 | 27 | 0.2 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi
-- ing_think — FAIL, ConnectTimeout
