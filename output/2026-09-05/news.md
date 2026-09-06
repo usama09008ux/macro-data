@@ -1,9 +1,9 @@
 # News Pack — Trading Day 05 Sep 2026
 
 - Trading day: **05 Sep 03:00 -> 06 Sep 02:59 PKT**
-- Aakhri update: **06 Sep 04:00 PKT**
-- Kul khabrein: **483**
-- Feeds: 37/39 OK
+- Aakhri update: **06 Sep 05:50 PKT**
+- Kul khabrein: **493**
+- Feeds: 38/39 OK
 
 ---
 
@@ -95,9 +95,15 @@ In just 3.1 months into late January's peak, silver catapulted an incredible 149
 ### USD
 
 **US rate path and buybacks steer Korea stocks amid inflation signals - CHOSUNBIZ - Chosunbiz**
-`06 Sep 02:00 PKT` · pehli baar dekhi `06 Sep 04:00` · gnews_fed
+`06 Sep 02:00 PKT` · pehli baar dekhi `06 Sep 04:00` · gnews_fed · **2 feeds mein**
 
 US rate path and buybacks steer Korea stocks amid inflation signals - CHOSUNBIZ Chosunbiz
+  - `06 Sep 02:00` *gnews_fed* — US rate path and buybacks steer Korea stocks amid inflation signals - CHOSUNBIZ - Chosunbiz
+
+**Polymarket and Kalshi Traders Boost Fed Rate Hike Odds as US Inflation Report Looms - Benzinga**
+`06 Sep 00:10 PKT` · pehli baar dekhi `06 Sep 05:50` · gnews_fed
+
+Polymarket and Kalshi Traders Boost Fed Rate Hike Odds as US Inflation Report Looms Benzinga
 
 **Trump turns up the heat on Warsh as Fed rate hike looms - CNBC**
 `05 Sep 23:10 PKT` · pehli baar dekhi `06 Sep 00:11` · gnews_fed
@@ -466,6 +472,11 @@ Bank Of England's Bailey Warns Structural Pressures Could Push Up Government Deb
 
 Japan services growth hits five-month high Business Recorder
 
+**Japan FX chief Mimura says on alert over yen moves - Business Recorder**
+`06 Sep 02:30 PKT` · pehli baar dekhi `06 Sep 05:50` · gnews_centralbanks
+
+Japan FX chief Mimura says on alert over yen moves Business Recorder
+
 **Japanese stocks face continued risk aversion despite record profits, Nomura says**
 `05 Sep 20:35 PKT` · pehli baar dekhi `05 Sep 22:20` · investing_news
 
@@ -568,6 +579,11 @@ US strikes three Iranian oil tankers after two of its warships targeted with mis
 
 ### OIL
 
+**Strait Showdown: Escalating Tensions in the Oil-Rich Waters - Devdiscourse**
+`06 Sep 02:32 PKT` · pehli baar dekhi `06 Sep 05:50` · gnews_geopolitics
+
+Strait Showdown: Escalating Tensions in the Oil-Rich Waters Devdiscourse
+
 **Is TTF gas fairly priced as Hormuz, winter risks keep prices elevated?**
 `06 Sep 02:06 PKT` · pehli baar dekhi `06 Sep 04:00` · investing_news
 
@@ -654,10 +670,11 @@ US military says it struck three Iranian oil tankers aapnews.aap.com.au
 
 US Missiles Strike 3 Iranian Oil Tankers Near Kharg Island IDNFinancials
 
-**US strikes three Iranian oil tankers after two of its warships targeted with missiles - The Independent**
-`05 Sep 20:28 PKT` · pehli baar dekhi `05 Sep 22:20` · gnews_geopolitics
+**US strikes three Iranian oil tankers after two of its warships targeted with missiles - Newswav**
+`05 Sep 20:28 PKT` · pehli baar dekhi `06 Sep 05:50` · gnews_geopolitics · **2 feeds mein**
 
-US strikes three Iranian oil tankers after two of its warships targeted with missiles The Independent
+US strikes three Iranian oil tankers after two of its warships targeted with missiles Newswav
+  - `05 Sep 20:28` *gnews_geopolitics* — US strikes three Iranian oil tankers after two of its warships targeted with missiles - The Independent
 
 **US says it destroyed 3 Iranian oil tankers after IRGC missile attacks on navy ships - Indiablooms**
 `05 Sep 20:25 PKT` · pehli baar dekhi `05 Sep 22:20` · gnews_geopolitics
@@ -695,7 +712,8 @@ US strikes hit Iranian oil tankers in the Gulf of Oman and near Iran's Kharg Isl
 The latest bout of fighting marks an intensifying effort by both sides to assert control over the Strait of Hormuz.
 
 **US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says**
-`05 Sep 19:42 PKT` · pehli baar dekhi `05 Sep 20:06` · investing_commodities · **4 feeds mein**
+`05 Sep 19:42 PKT` · pehli baar dekhi `05 Sep 20:06` · investing_commodities · **5 feeds mein**
+  - `06 Sep 01:06` *gnews_geopolitics* — US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says - Al-Monitor
   - `05 Sep 19:42` *gnews_geopolitics* — US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says - Reuters
   - `05 Sep 14:54` *gnews_geopolitics* — US strikes three Iranian oil tankers after IRGC attack on American naval ships: Central Command - CNA
   - `05 Sep 13:31` *gnews_geopolitics* — US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says - Internazionale
@@ -988,6 +1006,11 @@ Bitcoin and Ethereum Face Key Test as CPI, ECB Decisions Loom tokenpost.com
 
 Bitcoin's $3K Drop Comes as Fed Rate Hike Bets Surge, but Analyst Remains Bullish CryptoRank
 
+**Bitcoin Bottom In? Coinbase CEO Armstrong Turns Bullish Ahead Of BOJ Decision - Stocktwits**
+`05 Sep 10:26 PKT` · pehli baar dekhi `06 Sep 05:50` · gnews_centralbanks
+
+Bitcoin Bottom In? Coinbase CEO Armstrong Turns Bullish Ahead Of BOJ Decision Stocktwits
+
 **Fed's Hammack: Current policy not tight enough amid high inflation - Crypto Briefing**
 `05 Sep 08:16 PKT` · pehli baar dekhi `05 Sep 20:06` · gnews_fed
 
@@ -1161,7 +1184,7 @@ Oil soars for the week, hits three-month high on U.S.-Iran military escalation I
 
 Diesel prices hit record high amid Ukraine and Iran conflicts Crypto Briefing
 
-### BINA TAG (215)
+### BINA TAG (218)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -1323,6 +1346,7 @@ Diesel prices hit record high amid Ukraine and Iran conflicts Crypto Briefing
 - `05 Sep 14:30` **wsj_markets** — Young People See a Different America Than Older People. Where Do You Fit In?
 - `05 Sep 14:25` **gnews_geopolitics** — Iranian tanker hit by U.S. forces near Kharg Island, Tasnim says - Philenews
 - `05 Sep 14:20` **gnews_fed** — 'I will stop trading': Donald Trump warns Federal Reserve; Why is US President threatening his own central bank - news24online.com
+- `05 Sep 14:17` **gnews_centralbanks** — £119bn in savings set to mature as savers risk losing interest - Wharfedale Observer
 - `05 Sep 13:44` **aljazeera** — Orangutan mother and infant rescued from wildfire-hit forest in Indonesia
 - `05 Sep 13:40` **aljazeera** — Mansour Abbas is betting on a Zionist to make Palestinian votes count
 - `05 Sep 13:37` **aljazeera** — Pentagon polygraphs dozens of US military staff over media leaks
@@ -1346,12 +1370,14 @@ Diesel prices hit record high amid Ukraine and Iran conflicts Crypto Briefing
 - `05 Sep 09:29` **aljazeera** — 'I could not save the rest': Hero nurse remembers Pakistan's nursery fire
 - `05 Sep 09:13` **aljazeera** — UN approves new map showing Africa's true size
 - `05 Sep 09:00` **investing_news** — Hong Kong targets bigger offshore yuan role, mainland links, in first 5-year plan
+- `05 Sep 09:00` **gnews_centralbanks** — Money is becoming increasingly scarce and expensive for SMEs, says Confartigianato. - Il Foglio
 - `05 Sep 08:56` **aljazeera** — Blasts at Bolivian military base kill at least 10, injure dozens
 - `05 Sep 08:48` **aljazeera** — Malaysia declares emergency in Sarawak as haze from Indonesia worsens
 - `05 Sep 08:46` **aljazeera** — Did Israel's destruction of Gaza worsen its water crisis?
 - `05 Sep 08:18` **investing_news** — Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement
 - `05 Sep 08:01` **investing_news** — Howmet's SpaceX threat looks more like a buying opportunity: Bernstein
 - `05 Sep 07:43` **aljazeera** — 'To challenge deadly blockade': New flotilla mission sets sail for Gaza
+- `05 Sep 07:35` **gnews_fed** — Daily discussion thread for September 4, 2026 - equiti.com
 - `05 Sep 07:15` **gnews_fed** — Ringgit, regional currencies seen under pressure next week as strong US jobs data bolsters greenback - The Malaysian Reserve
 - `05 Sep 06:49` **gnews_centralbanks** — Economics Week Ahead - Action Forex
 - `05 Sep 06:46` **aljazeera** — Ecuador defends US sinking of vessels as joint anti-drug operation
@@ -1397,45 +1423,42 @@ investing_news (12), yahoo_finance (2)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.2 |
-| fxstreet_news | OK | 30 | 1 | 0 | 1 | 29 | 1.0 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.1 |
+| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.3 |
+| fxstreet_news | OK | 30 | 1 | 0 | 1 | 29 | 1.1 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.2 |
 | actionforex | OK | 20 | 16 | 0 | 16 | 4 | 0.6 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.4 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.5 |
 | instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.9 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.9 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 1.0 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 2.8 |
-| kitco_general | OK | 4 | 4 | 0 | 4 | 0 | 0.2 |
-| gnews_fed | OK | 72 | 72 | 7 | 65 | 0 | 0.0 |
-| gnews_geopolitics | OK | 68 | 68 | 6 | 62 | 0 | 0.1 |
-| gnews_centralbanks | OK | 40 | 40 | 5 | 35 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 11.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 9.4 |
-| boj_whatsnew | OK | 43 | 0 | 0 | 0 | 43 | 1.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.8 |
+| kitco_general | OK | 2 | 2 | 0 | 2 | 0 | 0.3 |
+| gnews_fed | OK | 62 | 62 | 3 | 59 | 0 | 0.1 |
+| gnews_geopolitics | OK | 73 | 73 | 6 | 67 | 0 | 0.0 |
+| gnews_centralbanks | OK | 44 | 44 | 7 | 37 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 11.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 9.5 |
+| boj_whatsnew | OK | 41 | 0 | 0 | 0 | 41 | 1.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.9 |
 | mining_com | OK | 36 | 3 | 0 | 3 | 33 | 1.0 |
-| oilprice | OK | 15 | 6 | 1 | 5 | 9 | 0.0 |
+| oilprice | OK | 15 | 6 | 0 | 6 | 9 | 0.1 |
 | investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
-| bbc_business | OK | 47 | 3 | 0 | 3 | 44 | 0.7 |
-| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.1 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| bbc_business | OK | 47 | 4 | 1 | 3 | 43 | 0.1 |
+| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 2.4 |
-| eia_energy | OK | 13 | 0 | 0 | 0 | 13 | 1.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 2.4 |
-| wsj_world | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| wsj_markets | OK | 61 | 3 | 0 | 3 | 58 | 0.2 |
-| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.1 |
-| yahoo_finance | OK | 50 | 38 | 14 | 24 | 12 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
-| cointelegraph | OK | 30 | 3 | 1 | 2 | 27 | 0.5 |
-
-**Jo feeds nahi aaye:**
-- wsj_world — FAIL, ConnectionError
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 2.5 |
+| eia_energy | OK | 13 | 0 | 0 | 0 | 13 | 1.5 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 2.5 |
+| wsj_world | OK | 71 | 7 | 0 | 7 | 64 | 0.3 |
+| wsj_markets | OK | 61 | 4 | 1 | 3 | 57 | 0.0 |
+| investing_news | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 2 | 0 | 2 | 48 | 0.6 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 3 | 0 | 3 | 27 | 0.6 |
