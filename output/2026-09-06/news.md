@@ -1,9 +1,9 @@
 # News Pack — Trading Day 06 Sep 2026
 
 - Trading day: **06 Sep 03:00 -> 07 Sep 02:59 PKT**
-- Aakhri update: **07 Sep 03:23 PKT**
-- Kul khabrein: **446**
-- Feeds: 28/39 OK
+- Aakhri update: **07 Sep 05:10 PKT**
+- Kul khabrein: **454**
+- Feeds: 29/39 OK
 
 ---
 
@@ -76,6 +76,11 @@ Gold dips 3 per cent on weekly basis over hopes of US Fed rate hike The Shillong
 **XRP Trades at $1.41 With a $1.43 Wall Overhead. Can It Break $1.50 Before the Fed Decides on September 16?**
 `07 Sep 02:56 PKT` · pehli baar dekhi `07 Sep 03:23` · yahoo_finance
 
+**Fed report finds rising gas prices have lasting effect on inflation expectations - Scripps News**
+`07 Sep 01:19 PKT` · pehli baar dekhi `07 Sep 05:10` · gnews_fed
+
+Fed report finds rising gas prices have lasting effect on inflation expectations Scripps News
+
 **Stablecoins could enter M1 or M2, Fed study says - Cryptonews.net**
 `07 Sep 01:14 PKT` · pehli baar dekhi `07 Sep 01:40` · gnews_fed
 
@@ -91,6 +96,11 @@ Trump Threatens to Halt Trade if Fed Doesn't Cut Rates: What's at Stake? MundoNO
 
 Fed warns S&P 500 equity risk premium near dot-com bubble lows eciks.org
 
+**Fed rate hike bets rise as US job gains beat expectations - malaysiasun.com**
+`06 Sep 23:47 PKT` · pehli baar dekhi `07 Sep 05:10` · gnews_fed
+
+Fed rate hike bets rise as US job gains beat expectations malaysiasun.com
+
 **He's Swapped One Rental for Another Three Times Since 1994 and Never Paid a Dollar of Capital-Gains Tax. If He Still Owns the Last One the Day He Dies, Nobody Ever Will**
 `06 Sep 23:33 PKT` · pehli baar dekhi `07 Sep 01:40` · yahoo_finance
 
@@ -101,6 +111,9 @@ Fed warns S&P 500 equity risk premium near dot-com bubble lows eciks.org
 `06 Sep 22:47 PKT` · pehli baar dekhi `06 Sep 23:24` · gnews_fed
 
 U.S. Dollar Has Lost 97% of Its Purchasing Power Since 1913, Whale Insider Says Hokanews
+
+**Short Trading Week, CPI and Other Key Things to Watch this Week**
+`06 Sep 22:00 PKT` · pehli baar dekhi `07 Sep 05:10` · yahoo_finance
 
 **Nvidia's Profits Could Rival a Country's GDP by 2029**
 `06 Sep 21:30 PKT` · pehli baar dekhi `06 Sep 23:24` · yahoo_finance
@@ -169,6 +182,11 @@ The Week Ahead: US August CPI, PPI on Tap as Oracle, Adobe Report Earnings tradi
 `06 Sep 16:05 PKT` · pehli baar dekhi `06 Sep 18:06` · gnews_centralbanks
 
 Week Ahead: Yen In Play, ECB Hikes, And U.S. CPI To Impact FOMC Seeking Alpha
+
+**Will US inflation data persuade the Fed to raise rates this month? - Financial Times**
+`06 Sep 16:00 PKT` · pehli baar dekhi `07 Sep 05:10` · gnews_fed
+
+Will US inflation data persuade the Fed to raise rates this month? Financial Times
 
 **What to Expect in Markets This Week: Fresh Inflation Data; Apple's Fall Launch Event and Oracle Earnings - Investopedia**
 `06 Sep 16:00 PKT` · pehli baar dekhi `07 Sep 03:23` · gnews_fed
@@ -285,6 +303,11 @@ France's Debt Emerges as Euro Zone's Next Flashpoint Seoul Economic Daily
 `07 Sep 01:52 PKT` · pehli baar dekhi `07 Sep 03:23` · aljazeera
 
 Germany's far-right Alternative for Germany (AfD) is projected to win a regional election in Saxony-Anhalt.
+
+**Week Ahead: US CPI, ECB, China Data, and More | Sep. 6-12 - Forex Factory**
+`07 Sep 01:03 PKT` · pehli baar dekhi `07 Sep 05:10` · gnews_centralbanks
+
+Week Ahead: US CPI, ECB, China Data, and More | Sep. 6-12 Forex Factory
 
 **AfD wins elections in Saxony-Anhalt**
 `06 Sep 23:06 PKT` · pehli baar dekhi `07 Sep 01:40` · ing_think
@@ -482,9 +505,10 @@ The biggest oil companies in the United States are playing hardball in unionized
   - `07 Sep 02:00` *yahoo_finance* — Oil Majors Seek Bigger Bargaining Power in Labor Disputes
 
 **Trump highlights falling Iran oil exports, rebound in Hormuz flows - Iran International**
-`07 Sep 00:15 PKT` · pehli baar dekhi `07 Sep 03:23` · gnews_geopolitics
+`07 Sep 00:15 PKT` · pehli baar dekhi `07 Sep 03:23` · gnews_geopolitics · **2 feeds mein**
 
 Trump highlights falling Iran oil exports, rebound in Hormuz flows Iran International
+  - `07 Sep 00:15` *gnews_geopolitics* — Trump highlights falling Iran oil exports, rebound in Hormuz flows - Iran International
 
 **Trump administration focuses on boosting oil output, Wright says**
 `07 Sep 00:04 PKT` · pehli baar dekhi `07 Sep 01:40` · investing_news
@@ -1005,7 +1029,7 @@ At least six other people were injured in the tanker blast on Iran&#039;s Hameda
 
 Live - Iran threatens harsher strikes on US warships as Hegseth vows to sink tankers Iran International
 
-### BINA TAG (225)
+### BINA TAG (227)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -1086,6 +1110,7 @@ Live - Iran threatens harsher strikes on US warships as Hegseth vows to sink tan
 - `06 Sep 22:34` **yahoo_finance** — Nvidia Is Near Its High While Its Biggest Chip Peers Sit 18% to 32% Below Theirs. These Are the Chip Stocks to Buy.
 - `06 Sep 22:33` **yahoo_finance** — Scott Galloway issues grim SpaceX stock price forecast
 - `06 Sep 22:31` **yahoo_finance** — I make $25K/month from one simple website
+- `06 Sep 22:30` **yahoo_finance** — Dell Stock Exploded Over 300% — Its 150% EPS Growth Could Send It Even Higher
 - `06 Sep 22:29` **yahoo_finance** — Why SoundHound AI Stock Rocketed 16.8% Higher in August
 - `06 Sep 22:20` **yahoo_finance** — 2 Superior Growth Stocks to Buy and Hold for 10 Years
 - `06 Sep 22:17` **yahoo_finance** — Overlooked EV stock surges despite buyers abandoning zero-emission cars
@@ -1097,6 +1122,7 @@ Live - Iran threatens harsher strikes on US warships as Hegseth vows to sink tan
 - `06 Sep 22:00` **yahoo_finance** — Should You Move Your Money? What 1,006 Investors Are Doing Now
 - `06 Sep 22:00` **yahoo_finance** — Gen Z Caregivers Are Struggling Most in 2026 -- Here's a Checklist To Make Sure Your Own Finances Don't Suffer
 - `06 Sep 22:00` **yahoo_finance** — I'm a Tax Pro: 3 Overlooked Filing Mistakes That May Raise Audit Risk
+- `06 Sep 22:00` **yahoo_finance** — Robinhood's CEO Says States Are Fighting Prediction Markets to Protect Their Own Gambling Tax Money, 'There's a Huge Financial Incentive'
 - `06 Sep 21:55` **aljazeera** — Lamine Yamal and Fermin Lopez star as Barcelona run riot at Valencia
 - `06 Sep 21:43` **yahoo_finance** — Where Will SCHD Stock Be in 5 Years?
 - `06 Sep 21:37` **yahoo_finance** — Hermeus and Anduril Are Racing to Build Autonomous High-Speed Aircraft
@@ -1251,45 +1277,45 @@ yahoo_finance (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 7 | 4 | 3 | 18 | 0.0 |
-| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 2.0 |
-| fxstreet_analysis | WARN | 30 | 0 | 0 | 0 | 30 | 2.1 |
-| actionforex | OK | 20 | 2 | 0 | 2 | 18 | 0.3 |
-| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.1 |
-| instaforex | OK | 25 | 2 | 0 | 2 | 23 | 0.3 |
-| wsj_economy | WARN | 36 | 0 | 0 | 0 | 36 | 1.9 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 3.7 |
+| investinglive | OK | 25 | 11 | 4 | 7 | 14 | 0.0 |
+| fxstreet_news | OK | 30 | 4 | 4 | 0 | 26 | 0.0 |
+| fxstreet_analysis | WARN | 30 | 0 | 0 | 0 | 30 | 2.2 |
+| actionforex | OK | 20 | 3 | 1 | 2 | 17 | 0.0 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.2 |
+| instaforex | OK | 25 | 6 | 4 | 2 | 19 | -0.2 |
+| wsj_economy | WARN | 36 | 0 | 0 | 0 | 36 | 2.0 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 3.8 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 48 | 48 | 7 | 41 | 0 | 0.0 |
-| gnews_geopolitics | OK | 63 | 63 | 5 | 58 | 0 | 0.1 |
-| gnews_centralbanks | OK | 43 | 43 | 5 | 38 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 12.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.4 |
+| gnews_fed | OK | 50 | 50 | 4 | 46 | 0 | 0.1 |
+| gnews_geopolitics | OK | 60 | 60 | 4 | 56 | 0 | 0.0 |
+| gnews_centralbanks | OK | 45 | 45 | 3 | 42 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 12.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.5 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.4 |
-| boj_whatsnew | OK | 41 | 0 | 0 | 0 | 41 | 2.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.8 |
-| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.9 |
-| oilprice | OK | 15 | 6 | 2 | 4 | 9 | 0.0 |
-| investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
-| ing_think | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| bbc_business | OK | 50 | 5 | 0 | 5 | 45 | 0.2 |
-| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.5 |
+| boj_whatsnew | OK | 44 | 3 | 3 | 0 | 41 | 0.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.9 |
+| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 2.0 |
+| oilprice | OK | 15 | 7 | 1 | 6 | 8 | 0.0 |
+| investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| ing_think | OK | 10 | 1 | 0 | 1 | 9 | 0.3 |
+| bbc_business | OK | 51 | 8 | 2 | 6 | 43 | 0.0 |
+| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.4 |
-| eia_energy | OK | 13 | 0 | 0 | 0 | 13 | 2.3 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.4 |
-| wsj_world | OK | 71 | 6 | 0 | 6 | 65 | 0.1 |
-| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.9 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.5 |
+| eia_energy | OK | 13 | 0 | 0 | 0 | 13 | 2.4 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.5 |
+| wsj_world | OK | 71 | 7 | 1 | 6 | 64 | 0.1 |
+| wsj_markets | OK | 61 | 3 | 1 | 2 | 58 | 0.0 |
 | investing_news | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 47 | 22 | 25 | 3 | 0.0 |
-| mw_topstories | OK | 10 | 8 | 3 | 5 | 2 | 0.0 |
-| cointelegraph | OK | 30 | 3 | 0 | 3 | 27 | 0.4 |
+| yahoo_finance | OK | 50 | 47 | 24 | 23 | 3 | 0.0 |
+| mw_topstories | OK | 10 | 8 | 0 | 8 | 2 | 0.1 |
+| cointelegraph | OK | 30 | 4 | 1 | 3 | 26 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi
