@@ -1,9 +1,9 @@
 # News Pack — Trading Day 07 Sep 2026
 
 - Trading day: **07 Sep 03:00 -> 08 Sep 02:59 PKT**
-- Aakhri update: **07 Sep 20:19 PKT**
-- Kul khabrein: **764**
-- Feeds: 30/39 OK
+- Aakhri update: **08 Sep 00:17 PKT**
+- Kul khabrein: **891**
+- Feeds: 31/39 OK
 
 ---
 
@@ -29,6 +29,16 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**United States Dollar Index trades under pressure as Yen buying accelerates**
+`07 Sep 23:03 PKT` · pehli baar dekhi `08 Sep 00:17` · fxstreet_news
+
+The US Dollar Index (DXY), which tracks the Greenback's value against a basket of six major currencies, extends its decline on Monday as a sharp rally in the Japanese Yen (JPY) outweighs support from elevated geopolitical tensions and Federal Reserve (Fed) interest rate hike expectations.
+
+**British Pound climbs as USD fades, Hormuz risk keeps Fed in play**
+`07 Sep 21:51 PKT` · pehli baar dekhi `08 Sep 00:17` · fxstreet_news
+
+The Pound Sterling (GBP) rises over 0.23% amid thin trading, as US markets remain closed for the Labor Day weekend, while the US-Iran conflict escalated, with both countries exchanging strikes around the Strait of Hormuz. The GBP/USD trades at 1.3541.
 
 **Gold Slips as Fed Rate-Hike Bets Strengthen**
 `07 Sep 20:19 PKT` · instaforex
@@ -188,6 +198,16 @@ While crude positioning has grabbed headlines, the sharper move is in refined pr
 
 ### GOLD
 
+**ACG Metals to acquire Keşkek gold project**
+`07 Sep 21:43 PKT` · pehli baar dekhi `08 Sep 00:17` · mining_com
+
+The copper-focused company aims to use production from Keşkek to extend Gediktepe's operating life.
+
+**Gold Price Reacts in Advance to September Interest Rate Hike; Short-term Bearish Factors Unlikely to Break Long-term Logic - Bitget**
+`07 Sep 19:34 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_fed
+
+Gold Price Reacts in Advance to September Interest Rate Hike; Short-term Bearish Factors Unlikely to Break Long-term Logic Bitget
+
 **Gold Under Pressure With This Week's Inflation Data in Focus**
 `07 Sep 19:21 PKT` · pehli baar dekhi `07 Sep 20:19` · yahoo_finance
 
@@ -197,9 +217,10 @@ While crude positioning has grabbed headlines, the sharper move is in refined pr
 Societe Generale analysts Michael Haigh and Jeremy Sellem describe a broad-based Gold bull market in 2026, driven by ETFs, futures and options positioning. They highlight strong physical ETF inflows, near-record futures exposure by money managers and a structurally bullish options skew.
 
 **Gold, Silver Prices To Correct As Fed Rate Hike Expectations Become Strong - Deccan Chronicle**
-`07 Sep 18:34 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_fed
+`07 Sep 18:34 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_fed · **2 feeds mein**
 
 Gold, Silver Prices To Correct As Fed Rate Hike Expectations Become Strong Deccan Chronicle
+  - `07 Sep 18:34` *gnews_fed* — Gold, Silver Prices To Correct As Fed Rate Hike Expectations Become Strong - Deccan Chronicle
 
 **Today's gold trade idea (Long)**
 `07 Sep 18:06 PKT` · pehli baar dekhi `07 Sep 20:19` · investinglive
@@ -324,6 +345,26 @@ Japan's foreign exchange reserves declined by USD 79.58 billion in August 2026 t
 
 ### USD
 
+**Costa Rica Holds Deflationary Trend**
+`08 Sep 00:17 PKT` · instaforex
+
+Consumer prices in Costa Rica fell 0.17% year-on-year in August 2026, the mildest deflation rate since the start of the current deflationary spell in May 2025, when inflation stood at -0.12%. This easing in the pace of price declines occurred even as the CPI posted a second consecutive monthly drop (-0.11% vs. -0.47% in July). Transport prices decreased by 1.06%, bucking the global pattern, as Costa Rica remains less immediately exposed than other Latin American economies to surging fuel costs.
+
+**Forex Today: Japanese GDP figures and China's trade results in the limelight**
+`07 Sep 22:50 PKT` · pehli baar dekhi `08 Sep 00:17` · fxstreet_news
+
+The US Dollar (USD) has started the week on the back foot, rapidly leaving behind Friday's uptick and refocusing on the downside.
+
+**From Jobless claims to Inflation; What will drive Federal Reserve's next rate decision? explained - Upstox**
+`07 Sep 22:15 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_fed
+
+From Jobless claims to Inflation; What will drive Federal Reserve's next rate decision? explained Upstox
+
+**Dow Jones Futures Prediction: Index Hits 54,036 As Investors Await 3.5% Inflation Data Ahead of Tuesday's Wall Street Opening; Check Market Outlook & Key Things to Watch - The Sunday Guardian**
+`07 Sep 20:47 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_fed
+
+Dow Jones Futures Prediction: Index Hits 54,036 As Investors Await 3.5% Inflation Data Ahead of Tuesday's Wall Street Opening; Check Market Outlook & Key Things to Watch The Sunday Guardian
+
 **Israel's FX Reserves Edge Higher in August, Topping $241 Billion**
 `07 Sep 20:30 PKT` · pehli baar dekhi `07 Sep 20:19` · instaforex
 
@@ -433,14 +474,35 @@ FUNDAMENTAL OVERVIEW The S&P 500 erased some of its Thursday's gains as the US N
 OCBC's Christopher Wong notes that stronger US payrolls initially lifted the US Dollar (USD) and US Dollar Index (DXY), but softer wage growth and only modest Fed repricing capped gains.
 
 **Global reserves shift from dollar overstated, NY Fed study says - The Edge Singapore**
-`07 Sep 16:06 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_fed
+`07 Sep 16:06 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_fed · **2 feeds mein**
 
 Global reserves shift from dollar overstated, NY Fed study says The Edge Singapore
+  - `07 Sep 16:06` *gnews_fed* — Global reserves shift from dollar overstated, NY Fed study says - The Edge Singapore
 
 **US Jobs Data Keeps Getting Rewritten. Are Traders Flying Blind on the Fed? - CryptoRank**
 `07 Sep 15:24 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_fed
 
 US Jobs Data Keeps Getting Rewritten. Are Traders Flying Blind on the Fed? CryptoRank
+
+**FX Talking: Don't call it a dollar comeback**
+`07 Sep 15:05 PKT` · pehli baar dekhi `08 Sep 00:17` · ing_think
+
+A Fed hike later this month could support the dollar for now, but we still expect longer-term dollar weakness
+
+**G10 FX Talking: Dollar downtrend delayed**
+`07 Sep 15:03 PKT` · pehli baar dekhi `08 Sep 00:17` · ing_think
+
+What we're expecting to be a 25bp Fed rate hike on 16 September should provide some temporary support for the dollar – particularly against the low-yielding currencies. We are now dropping our year-end 2026 EUR/USD forecast to 1.16 from 1.18, and delaying expectations for a clear rally until next spring, when US inflation is much closer to 2%
+
+**Latam FX Talking: Polls tighten in the Brazilian election**
+`07 Sep 15:00 PKT` · pehli baar dekhi `08 Sep 00:17` · ing_think
+
+LATIN AMERICA: The first round of the Brazilian presidential election takes place in early October. President Lula's lead over Flavio Bolsonaro is crumbling and any further swing towards Bolsonaro could see the real favoured on the prospect of deregulation and fiscal consolidation. Elsewhere, we doubt Mexican peso gains sub-17/USD are sustainable
+
+**Asia FX Talking: North Asian currencies continue to perform well**
+`07 Sep 14:59 PKT` · pehli baar dekhi `08 Sep 00:17` · ing_think
+
+ASIA/PACIFIC: It has been another strong month for the North Asian currencies, with the Korean won leading the pack. However, a 13% drop in a couple of months is exceptional for USD/KRW and a move below 1350 may be difficult to sustain this month. Elsewhere, the renminbi continues its steady appreciation, while the Indonesian rupiah and Philippine peso look more fragile
 
 **UBS Reverses Course: Predicts Fed Will Hike Rates Twice in 2026 - blockonomi.com**
 `07 Sep 14:48 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_fed
@@ -544,6 +606,11 @@ Rare Meeting Between Bowman and Powell During Fed's Quiet Period Sparks Schedule
 
 No, Friday's jobs report hasn't materially boosted Fed rate hike odds CoinDesk
 
+**Why Romania is running as a one-engine economy**
+`07 Sep 13:37 PKT` · pehli baar dekhi `08 Sep 00:17` · ing_think
+
+CENTRAL AND EASTERN EUROPE: Flat 2Q26 GDP confirms that investment is keeping the Romanian economy afloat, while the rest of the economy remains under pressure. We maintain our forecast for a 0.5% contraction in 2026, with risks still skewed to the downside
+
 **The Gravity of the Greenback: Ringgit Slides as Jackson Hole Echoes Signal Looming Fed Tightening - Vocal**
 `07 Sep 13:28 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_fed
 
@@ -583,6 +650,11 @@ Week Ahead: US CPI, ECB Rate Decision, Japan GDP tmgm.com
 `07 Sep 11:41 PKT` · pehli baar dekhi `07 Sep 14:46` · actionforex
 
 Markets August US payrolls showed broad-based gains in the consensus-smashing 162k net increase in employment. June and July figures were upwardly revised by 55k. The market only expected 55k jobs gains. The unemployment rate stayed level at 4.1% even if the participation rate increased from 61.4% (lowest since 2021) to 61.6%. Wage growth (0.3% M/M [&#8230;] The post Sunrise Market Commentary appeared first on ActionForex.
+
+**Infosys, HCLTech, TCS, other IT stocks drop up to 3% as Fed rate hike worries return. Here's why - The Economic Times**
+`07 Sep 11:02 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_fed
+
+Infosys, HCLTech, TCS, other IT stocks drop up to 3% as Fed rate hike worries return. Here's why The Economic Times
 
 **Indian Rupee remains higher as FX inflows optimism keeps outweiging oil strain**
 `07 Sep 10:33 PKT` · pehli baar dekhi `07 Sep 14:46` · fxstreet_news
@@ -671,6 +743,11 @@ Nifty IT falls over 1%; Infosys, Tech Mahindra, HCL Tech lead losses as Fed rate
 
 Mohamed El-Erian Says Dollar's Reserve Shift Is Worth Watching Benzinga
 
+**Rupee opens 10 paise higher at 94.39 against US dollar - Livemint**
+`07 Sep 08:42 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_fed
+
+Rupee opens 10 paise higher at 94.39 against US dollar Livemint
+
 **United States Dollar Index strengthens above 99.00 as robust US jobs data boosts Fed rate hike bets**
 `07 Sep 07:25 PKT` · pehli baar dekhi `07 Sep 09:46` · fxstreet_news
 
@@ -712,10 +789,11 @@ Earlier: China injects $54 billion into state banks and insurers to shore up cap
 Latam equities slip as US jobs data revives Fed rate-hike bets Business Recorder
 
 **US Fed Reserve may raise rates after stronger-than-expected jobs report - news24.com.au**
-`07 Sep 04:37 PKT` · pehli baar dekhi `07 Sep 09:46` · gnews_fed · **2 feeds mein**
+`07 Sep 04:37 PKT` · pehli baar dekhi `07 Sep 09:46` · gnews_fed · **3 feeds mein**
 
 US Fed Reserve may raise rates after stronger-than-expected jobs report news24.com.au
   - `07 Sep 04:37` *gnews_fed* — US Fed Reserve may raise rates after stronger-than-expected jobs report - Adelaide Now
+  - `07 Sep 04:37` *gnews_fed* — US Fed Reserve may raise rates after stronger-than-expected jobs report - NT News
 
 **Goldman says inflation data, not jobs, will decide Fed's September call**
 `07 Sep 04:29 PKT` · pehli baar dekhi `07 Sep 05:10` · investinglive
@@ -731,6 +809,59 @@ Hammack's comments add another hawkish voice to a Fed that already looks more sp
 `07 Sep 03:30 PKT` · pehli baar dekhi `07 Sep 05:10` · yahoo_finance
 
 ### EUR
+
+**DAX 40 Finishes In The Red**
+`08 Sep 00:17 PKT` · instaforex
+
+The DAX 40 slipped 0.2% to close at 26,006.5 on Monday, ending a three-session winning streak and underperforming other major European indices. Market sentiment was pressured by rising oil prices, expectations of further interest rate increases, ongoing political uncertainty in Europe, and weak German industrial data.
+
+**European Stocks Close Muted**
+`08 Sep 00:17 PKT` · instaforex
+
+European stock indices ended Monday's session little changed, as investors weighed how corporates will cope with higher interest rates, while rising concerns over widening fiscal deficits and political uncertainty pushed sovereign yields higher. The Euro STOXX 50 edged up 0.1% to 6,399, and the STOXX Europe 600 finished flat at 649.8.
+
+**Russia shutters German consulate as diplomatic freeze deepens**
+`07 Sep 23:27 PKT` · pehli baar dekhi `08 Sep 00:17` · aljazeera
+
+Moscow retaliates after similar move from Berlin last week citing failed drone attack on airport.
+
+**Germany: Cautious growth outlook – ABN AMRO**
+`07 Sep 23:13 PKT` · pehli baar dekhi `08 Sep 00:17` · fxstreet_news
+
+ABN AMRO's Chief Economist Germany, Alexander Krüger, notes that German economic output is rising and the bank has raised its Gross Domestic Product (GDP) growth forecast for 2026 to 1.3% and for 2027 to 1.1%.
+
+**The Euro waits for the sentence after the rate hike**
+`07 Sep 22:41 PKT` · pehli baar dekhi `08 Sep 00:17` · fxstreet_news
+
+EUR/USD holds above 1.1600 after a Monday that covered 28 pips. The Eurozone revised second-quarter growth up to 0.6% against a 0.4% consensus, the Sentix investor survey jumped to 5.1 from 0.9, and the pair added a tenth of a percent.
+
+**After Far-Right Triumph, Merz Faces Narrow Path to Save His Government**
+`07 Sep 22:13 PKT` · pehli baar dekhi `08 Sep 00:17` · wsj_world
+
+The state election result could lead to a debate over the future of the firewall that has kept the Alternative for Germany out of power.
+
+**European shares subdued as surging crude sharpens focus on ECB rate path - The Economic Times**
+`07 Sep 21:41 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_centralbanks · **3 feeds mein**
+
+European shares subdued as surging crude sharpens focus on ECB rate path The Economic Times
+  - `07 Sep 21:33` *gnews_centralbanks* — European shares subdued as surging crude sharpens focus on ECB rate path - TradingView
+  - `07 Sep 21:33` *gnews_centralbanks* — European shares subdued as surging crude sharpens focus on ECB rate path - London South East
+
+**Mélenchon Fumes at ECB Rate Hikes After Calling for Debt Wipeout - Bloomberg.com**
+`07 Sep 20:45 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_centralbanks
+
+Mélenchon Fumes at ECB Rate Hikes After Calling for Debt Wipeout Bloomberg.com
+
+**AfD is rising, but it can still be stopped**
+`07 Sep 20:42 PKT` · pehli baar dekhi `08 Sep 00:17` · aljazeera
+
+The German mainstream still has a window of opportunity to act and reverse a dangerous trend to the far right.
+
+**ECB rate call kicks off a week of potential hikes for Fed and BoJ - ThinkMarkets**
+`07 Sep 20:23 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_centralbanks · **2 feeds mein**
+
+ECB rate call kicks off a week of potential hikes for Fed and BoJ ThinkMarkets
+  - `07 Sep 16:14` *gnews_centralbanks* — ECB rate call kicks off a week of potential hikes for Fed and BoJ - thinkmarkets.com
 
 **French 12-Month BTF Yield Edges Higher to 2.94% in Latest Auction**
 `07 Sep 20:19 PKT` · instaforex
@@ -755,6 +886,11 @@ The AfD, classified as &#039;far-right extremist&#039; by Germany&#039;s intelli
 
 ABN AMRO economists Bill Diviney and Jan-Paul van de Kerke expect Eurozone growth to remain resilient despite a renewed energy shock, supported by German fiscal spending and solid underlying activity.
 
+**Why do interest rates move markets? for SKILLING:EURUSD by Skilling - TradingView**
+`07 Sep 19:14 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_centralbanks
+
+Why do interest rates move markets? for SKILLING:EURUSD by Skilling TradingView
+
 **Why has Nicaragua taken Germany to the ICJ over Gaza genocide?**
 `07 Sep 18:26 PKT` · pehli baar dekhi `07 Sep 20:19` · aljazeera
 
@@ -770,6 +906,11 @@ ECB Preview: Moving to the next phase MUFG Research
 
 Societe Generale economists Anatoli Annenkov, Michel Martinez and colleagues expect Euro area inflation to stay above target beyond 2027, with headline inflation projected to peak near 3.7-3.8% and core around 2.7-2.8%.
   - `07 Sep 18:16` *gnews_centralbanks* — Euro area: Inflation overshoot extends ECB hiking path – Societe Generale - FXStreet
+
+**Weekly Market Update: CPI, ECB & Global Growth - Davy**
+`07 Sep 18:14 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_centralbanks
+
+Weekly Market Update: CPI, ECB & Global Growth Davy
 
 **Euro benefits from weaker US Dollar as ECB decision looms**
 `07 Sep 17:53 PKT` · pehli baar dekhi `07 Sep 20:19` · fxstreet_news · **2 feeds mein**
@@ -801,11 +942,6 @@ European Shares Edge Lower as Markets Assess Hormuz Developments and ECB Rate Ou
 `07 Sep 16:17 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_centralbanks
 
 Excessive pricing for ECB terminal rate FXStreet
-
-**ECB rate call kicks off a week of potential hikes for Fed and BoJ - thinkmarkets.com**
-`07 Sep 16:14 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_centralbanks
-
-ECB rate call kicks off a week of potential hikes for Fed and BoJ thinkmarkets.com
 
 **EUR/USD Price Forecast: Remains sticky to 20-day EMA**
 `07 Sep 16:09 PKT` · pehli baar dekhi `07 Sep 20:19` · fxstreet_news
@@ -841,6 +977,11 @@ French minister calls AfD&#039;s victory a grave moment, warning of growing nati
 `07 Sep 15:05 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_centralbanks
 
 ECB rate decision: Five key questions for markets as energy prices fuel inflation fears The Economic Times
+
+**EMEA FX Talking: High yield and CEE remain in demand**
+`07 Sep 15:01 PKT` · pehli baar dekhi `08 Sep 00:17` · ing_think
+
+CENTRAL AND EASTERN EUROPE: A modest adjustment in US interest rates looks unlikely to unnerve the carry trade environment, and investors look likely to keep positions in the Turkish lira. Amongst the CEE currencies, the forint should come back bid after a recent correction. Medium-term fiscal plans should be presented in October which will keep the euro entry in the spotlight
 
 **Eurozone Growth Revised Higher to 0.6% in Q2**
 `07 Sep 14:46 PKT` · instaforex
@@ -1003,6 +1144,19 @@ DBS strategist Philip Wee argues that downside risk in EUR/JPY is less straightf
 
 Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates marketscreener.com
 
+**EUR/USD Forecast: ECB and US Inflation Set to Test the Range - Investing.com UK**
+`07 Sep 12:10 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_centralbanks · **4 feeds mein**
+
+EUR/USD Forecast: ECB and US Inflation Set to Test the Range Investing.com UK
+  - `07 Sep 10:15` *gnews_centralbanks* — EUR/USD Forecast: ECB and US Inflation Set to Test the Range - Investing.com
+  - `07 Sep 08:12` *gnews_centralbanks* — EUR/USD Forecast: ECB and US inflation set to test the range - FOREX.com
+  - `07 Sep 07:55` *gnews_centralbanks* — EUR/USD Forecast: ECB and US inflation set to test the range - FOREX.com
+
+**German industrial output unexpectedly declines; can the ECB's rate hike support the euro? - Moomoo**
+`07 Sep 12:02 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_centralbanks
+
+German industrial output unexpectedly declines; can the ECB's rate hike support the euro? Moomoo
+
 **Euro holds losses against British Pound as German Industrial Production unexpectedly drops in July**
 `07 Sep 11:57 PKT` · pehli baar dekhi `07 Sep 14:46` · fxstreet_news
 
@@ -1081,12 +1235,6 @@ The Euro (EUR) trades marginally lower at around 1.1610 against the US Dollar (U
 
 On its own, the Dutch move (shift of Dutch gold reserves out of North America) is modest relative to global reserves, but the pattern matters more than any single transfer. Three developments now sit alongside each other: the Netherlands' gold shift, France's earlier repatriation, and reported plans from Norway's wealth fund to cut Treasury exposure from 70% to 50% of its bond holdings.
 
-**EUR/USD Forecast: ECB and US inflation set to test the range - FOREX.com**
-`07 Sep 08:12 PKT` · pehli baar dekhi `07 Sep 09:46` · gnews_centralbanks · **2 feeds mein**
-
-EUR/USD Forecast: ECB and US inflation set to test the range FOREX.com
-  - `07 Sep 07:55` *gnews_centralbanks* — EUR/USD Forecast: ECB and US inflation set to test the range - FOREX.com
-
 **The Week Ahead: Oracle earnings, ECB rate decision, US CPI - CMC Markets**
 `07 Sep 07:03 PKT` · pehli baar dekhi `07 Sep 09:46` · gnews_centralbanks
 
@@ -1131,6 +1279,11 @@ Pound to Euro Rate Tests Key Support as Gilt Yields Stay High currencynews.co.uk
 
 ### GBP
 
+**United Kingdom: BoE holds but risks later cuts – Societe Generale**
+`07 Sep 20:52 PKT` · pehli baar dekhi `08 Sep 00:17` · fxstreet_news
+
+Societe Generale's UK team notes weakening housing demand as mortgage approvals fall to late-2023 lows, while business lending remains firm and wage expectations show limited second-round effects.
+
 **Ithaca Energy sets sterling dividend payment at 11.4146 pence**
 `07 Sep 19:18 PKT` · pehli baar dekhi `07 Sep 20:19` · investing_news
 
@@ -1161,6 +1314,16 @@ GBP/USD inches higher after posting minor losses in the previous day, trading ar
 Bank of England's Pill says rise in rates will not lead to long hiking cycle The Star
 
 ### JPY
+
+**The Japanese Yen has stopped trading the Federal Reserve**
+`07 Sep 22:01 PKT` · pehli baar dekhi `08 Sep 00:17` · fxstreet_news
+
+USD/JPY trades just above 154.00 after giving up close to two Yen on Monday, its weakest in six months. Nothing confirms an intervention, and Tokyo has no level left to defend at six-month Yen highs.
+
+**USD/CHF Price Forecast: Pair consolidates around the 50-day SMA**
+`07 Sep 21:02 PKT` · pehli baar dekhi `08 Sep 00:17` · fxstreet_news
+
+USD/CHF trades with a downside bias on Monday as the US Dollar (USD) stays on the defensive, largely due to broad Japanese Yen (JPY) strength. At the time of writing, the pair trades around 0.8091 after retreating from an intraday high of 0.8110.
 
 **Japanese Yen: September BoJ decision shapes path – HSBC**
 `07 Sep 20:03 PKT` · pehli baar dekhi `07 Sep 20:19` · fxstreet_news
@@ -1197,10 +1360,11 @@ The British Pound (GBP) has resumed its bearish trend against a stronger Japanes
 
 USD/JPY fall continues today and intraday bias stays on the downside. Sustained break of 154.76/155.01 key support zone will complete a head and shoulder top (ls: 160.71; h: 163.97; rs: 160.38). That would also indicate that it&#8217;s in a larger scale correction and target 149.07 fibonacci level next. On the upside, though,m above 156.74 minor [&#8230;] The post USD/JPY Daily Outlook appeared first on ActionForex.
 
-**Yen intervention meets US inflation data: Five things to know in Bitcoin this week**
-`07 Sep 17:10 PKT` · pehli baar dekhi `07 Sep 20:19` · cointelegraph
+**Yen intervention meets US inflation data: Five things to know in Bitcoin this week - TradingView**
+`07 Sep 17:10 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_fed · **2 feeds mein**
 
-This week's CPI and PPI prints, along with the Fed's Sept. 16 rate decision, could determine whether Bitcoin can secure $80,000 as a support level.
+Yen intervention meets US inflation data: Five things to know in Bitcoin this week TradingView
+  - `07 Sep 17:10` *cointelegraph* — Yen intervention meets US inflation data: Five things to know in Bitcoin this week
 
 **USD/JPY: BoJ Momentum Meets a Fed Still Undecided**
 `07 Sep 16:06 PKT` · pehli baar dekhi `07 Sep 20:19` · actionforex
@@ -1380,6 +1544,14 @@ USD/CHF gains ground for the second successive day, trading around 0.8110 during
 
 ### CAD
 
+**Trump threatens to block Canada's Bombardier sales unless planes made in US**
+`08 Sep 00:01 PKT` · pehli baar dekhi `08 Sep 00:17` · aljazeera
+
+Trump targets aeroplane maker again, accusing Canada of unfair practices and threatening to block sales in the US.
+
+**Trump says Canada's Bombardier cannot sell in US unless it builds there**
+`07 Sep 23:54 PKT` · pehli baar dekhi `08 Sep 00:17` · investing_news
+
 **USDCAD Technicals: What do you do when the fundamental news does not support the price action?**
 `07 Sep 19:59 PKT` · pehli baar dekhi `07 Sep 20:19` · investinglive
 
@@ -1411,6 +1583,16 @@ The USD/CAD pair extends its sideways consolidative price move through the early
 USD/CAD remains steady after registering modest gains in the previous day, trading around 1.3830 during Asian hours on Monday.
 
 ### AUD
+
+**Australian Dollar Price Forecast: Next stop comes at 0.7280**
+`07 Sep 22:46 PKT` · pehli baar dekhi `08 Sep 00:17` · fxstreet_analysis
+
+Base case: while above the 200-day SMA near 0.6990, spot should maintain the constructive stance. Of note is that the pair is navigating close to the overbought zone (daily RSI flirting with 69), which has the potential to trigger a "technical" correction.
+
+**AUDUSD Technicals: AUDUSD pushes to a four-month high as copper reaches a new record**
+`07 Sep 21:49 PKT` · pehli baar dekhi `08 Sep 00:17` · investinglive
+
+The AUDUSD is extending higher, helped by rising commodity prices and renewed strength in copper, which reached another record high today. Australia is a major commodity exporter, particularly of iron ore, coal and liquefied natural gas. It is also one of the world's leading copper producers. As a result, the Australian dollar is often viewed as a "commodity currency." When commodity prices rise, Australia's export revenues and terms of trade can improve.
 
 **Lithium Drops to Near 1-Month Low**
 `07 Sep 20:19 PKT` · instaforex
@@ -1480,6 +1662,11 @@ Australian shares to open flat as strong US jobs raise Fed hike odds Capital Bri
 
 ### NZD
 
+**New Zealand Dollar struggles to gain traction as cautious RBNZ outlook weighs**
+`07 Sep 21:09 PKT` · pehli baar dekhi `08 Sep 00:17` · fxstreet_news
+
+NZD/USD trades around 0.5880 on Monday at the time of writing, posting a modest 0.06% decline on the day after two consecutive days of gains.
+
 **New Zealand Dollar struggles due to cautious RBNZ policy outlook**
 `07 Sep 12:57 PKT` · pehli baar dekhi `07 Sep 14:46` · fxstreet_news
 
@@ -1491,6 +1678,97 @@ NZD/USD depreciates after two days of gains, trading around 0.5880 during Europe
 The New Zealand dollar slipped to $0.586 on Monday, extending last week's 0.6% decline, as the Reserve Bank of New Zealand's cautious stance on further monetary tightening weighed on the currency. The RBNZ raised its official cash rate for a second straight meeting last week, but signaled that any additional increases are likely to be gradual amid mounting risks to the economic outlook.
 
 ### OIL
+
+**FTSE 100 Falls on Monday**
+`08 Sep 00:17 PKT` · instaforex
+
+The FTSE 100 slipped on Monday, pressured by declines in major consumer stocks, with Unilever and BAT falling 1.4% and 1% respectively. Those losses were partly offset by strength in the energy sector, as Shell and BP gained 1.1% and 1.3% in tandem with rising crude prices. Market attention remained fixed on the escalating US–Iran dispute, after reports that the United States had targeted three Iranian oil tankers in response to attacks on US warships.
+
+**Sudan Could Become the Red Sea's Next Energy Security Flashpoint**
+`08 Sep 00:00 PKT` · pehli baar dekhi `08 Sep 00:17` · oilprice
+
+The investigations published by The New York Times and The Washington Post should not be dismissed as another collection of allegations emerging from Sudan's opaque civil war. Taken together, they present the most substantial publicly available evidence yet that elements of the Sudanese Armed Forces developed, stockpiled, and apparently used improvised chlorine weapons.
+
+**The world has enough Crude Oil and not enough diesel**
+`07 Sep 23:13 PKT` · pehli baar dekhi `08 Sep 00:17` · fxstreet_news
+
+Crude Oil trades just under $91.00 after adding 1.6% on Monday. The grind has run roughly $10 from the $81.00 area in nine sessions, and not a barrel has stopped being produced in any of them.
+
+**Modern Warfare Is Burning Through the Metals Needed for a High-Tech Future**
+`07 Sep 23:00 PKT` · pehli baar dekhi `08 Sep 00:17` · oilprice
+
+I've been writing for more than a decade and a half about a broad category of metals often nowadays dubbed "strategic" because they are crucial to high-tech applications such as solar photovoltaic panels, wind turbines, electric vehicles, flat screens, semiconductors, batteries, optics, aerospace and a wide array of military applications including night vision, radar systems, communications satellites, radiation shielding, vehicle armor, submarine hulls, precision weaponry, and on and on.
+
+**Crude oil technicals: Buyers test key resistance near $93.50**
+`07 Sep 22:51 PKT` · pehli baar dekhi `08 Sep 00:17` · investinglive
+
+Crude oil futures are trading higher, with the current price up $1.27, or 1.39%, at $92.75. The high price reached $93.29, while the low was at $90.87. Technically, the price moved lower earlier today, but the decline stalled near the rising 100-hour moving average, currently at $91.04. Holding that moving average gave buyers the go-ahead to push the price back to the upside. The rally extended above the 50% midpoint of the move down from the April 2026 high to the July low.
+
+**United States: Sideways growth and oil shock risks – TD Securities**
+`07 Sep 22:37 PKT` · pehli baar dekhi `08 Sep 00:17` · fxstreet_news
+
+TD Securities expects US output growth to move sideways in 2026 as the prior Oil shock lingers and the Iran conflict poses stagflationary risks. GDP is forecast to end 2026 at 2.1% Q4/Q4, with unemployment around 4.2%. The bank assigns a 25% probability to a US recession over the next year.
+
+**Iran's Oil Dollars Are Drying Up—and Plunging It Deeper Into Crisis**
+`07 Sep 22:25 PKT` · pehli baar dekhi `08 Sep 00:17` · wsj_world · **2 feeds mein**
+
+The U.S. blockade and dwindling supplies already on the water are squeezing Tehran's most important export earner.
+  - `07 Sep 22:26` *gnews_geopolitics* — Iran's Oil Dollars Are Drying Up—and Plunging It Deeper Into Crisis - WSJ
+
+**European major indices close mixed on the day**
+`07 Sep 22:23 PKT` · pehli baar dekhi `08 Sep 00:17` · investinglive
+
+European shares are ending the day mixed in relatively quiet trading, with the U.S. markets closed for the Labor Day holiday. Higher oil prices provided support for energy shares, but there is another side to that story. Rising energy costs can keep inflation elevated and increase the pressure on central banks to raise interest rates. That concern helped push European yields higher and limited the enthusiasm in the broader equity markets.
+
+**Oil Prices Rise After U.S. and Iran Trade Strikes - The New York Times**
+`07 Sep 22:16 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics
+
+Oil Prices Rise After U.S. and Iran Trade Strikes The New York Times
+
+**Copper's Longest Rally Since 1994 Collides With a Shrinking Supply Chain**
+`07 Sep 22:00 PKT` · pehli baar dekhi `08 Sep 00:17` · oilprice
+
+Copper is riding its longest weekly winning streak since 1994, and the physical market underneath the rally keeps getting thinner. Benchmark prices on the London Metal Exchange notched a 10th straight weekly gain through last Friday, trading near $14,300 a ton and within reach of the record $14,527.50 set in January. On Comex, prices topped $6.70 a pound in August, a fresh all-time high.
+
+**Iran oil workers protest pay conditions at offshore platforms, Assaluyeh - Iran International**
+`07 Sep 21:35 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics
+
+Iran oil workers protest pay conditions at offshore platforms, Assaluyeh Iran International
+
+**China Halts New Battery Storage Plant Approvals**
+`07 Sep 21:30 PKT` · pehli baar dekhi `08 Sep 00:17` · oilprice
+
+China has paused approvals for new battery storage factories amid a review of existing and planned capacity, Chinese financial news outlet Cailianshe reported this weekend, citing industry sources. The temporary suspension of approvals of plants that have not started construction yet comes amid growing concerns about overcapacity in the sector in the world's biggest manufacturer of batteries for energy storage.
+
+**Iran Strikes Back: Gulf Tensions Escalate Amid Oil Crisis - Devdiscourse**
+`07 Sep 21:23 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics
+
+Iran Strikes Back: Gulf Tensions Escalate Amid Oil Crisis Devdiscourse
+
+**Brent crude oil price nears $100 as attacks on tankers threaten to worsen supply shock - The Economic Times**
+`07 Sep 21:03 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics
+
+Brent crude oil price nears $100 as attacks on tankers threaten to worsen supply shock The Economic Times
+
+**Uzbekistan Scales Back Nuclear Cooperation With Russia**
+`07 Sep 21:00 PKT` · pehli baar dekhi `08 Sep 00:17` · oilprice
+
+Back on June 4, Uzbek President Shavkat Mirziyoyev and Russian leader Vladimir Putin were all smiles amid the ceremonial groundbreaking for the construction of Uzbekistan's first cluster of nuclear reactors, to be built by Russia's nuclear entity Rosatom. "I am confident that you have chosen the best option for Uzbekistan out of all those offered," Putin told Mirziyoyev at the time. Just three months later, it is clear that Mirziyoyev is having second thoughts about his selection of Rosatom.
+
+**Indian crude basket tops $100/bbl as Iran-US tensions fuel supply concerns - Business Standard**
+`07 Sep 20:40 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics
+
+Indian crude basket tops $100/bbl as Iran-US tensions fuel supply concerns Business Standard
+
+**Iran, Kyrgyzstan Discuss Joint Oil Refinery Project - caspiannews.com**
+`07 Sep 20:34 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics
+
+Iran, Kyrgyzstan Discuss Joint Oil Refinery Project caspiannews.com
+
+**India Ramps Up Rail Coal Deliveries as Power Plant Stockpiles Dwindle**
+`07 Sep 20:30 PKT` · pehli baar dekhi `08 Sep 00:17` · oilprice
+
+Indian coal companies are ramping up supply to the coal-fired power plants as coal stocks at dozens of the plants dropped to critically low levels, India's Ministry of Coal said on Monday. More than 50 coal-fired power plants in India, where coal is still the single largest electricity generator, saw their coal stocks fall below the critically low level of 25% as electricity demand rises amid the strong El Niño, but supply has been disrupted by monsoon rains.
 
 **Chile Trade Surplus Widens in August**
 `07 Sep 20:19 PKT` · instaforex
@@ -1513,9 +1791,10 @@ India's BSE Sensex fell around 0.5% to close at 76,132.8 on Monday, its lowest l
 Palm oil futures rose above 4,970 ringgit per tonne, approaching their highest level since December 2024, as traders evaluated the fallout from severe forest fires in Indonesia, the world's largest producer. Thick haze has spread across parts of Southeast Asia, disrupting harvesting as plantation workers are reassigned to firefighting, while prolonged smoke and reduced sunlight may further impede palm fruit development.
 
 **WTI Oil climbs as Middle East supply risks remain evelated**
-`07 Sep 20:12 PKT` · pehli baar dekhi `07 Sep 20:19` · fxstreet_news
+`07 Sep 20:12 PKT` · pehli baar dekhi `07 Sep 20:19` · fxstreet_news · **2 feeds mein**
 
 West Texas Intermediate (WTI) Oil edges higher on Monday as fresh attacks by the United States and Iran over the weekend add to already elevated supply concerns from the months-long war in the Middle East. At the time of writing, WTI trades around $91.15 per barrel, its highest level since July 24.
+  - `07 Sep 20:12` *gnews_geopolitics* — WTI Oil climbs as Middle East supply risks remain evelated - FXStreet
 
 **Can Iraq Really Replace Saudi Arabia As The Middle East's Top Oil Producer?**
 `07 Sep 20:00 PKT` · pehli baar dekhi `07 Sep 20:19` · oilprice
@@ -1532,10 +1811,20 @@ Iran is losing its grip on Hormuz as US pressure restores Gulf flows The Jerusal
 
 Argentina&#039;s sovereignty claim is enshrined in its constitution, but oil production raises the economic stakes.
 
+**China ramps up oil purchases from Africa and the Americas — OilPrice - UA.NEWS**
+`07 Sep 19:56 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics
+
+China ramps up oil purchases from Africa and the Americas — OilPrice UA.NEWS
+
 **Oil prices jump as US-Iran tensions fuel supply fears - milliyet.com.tr**
 `07 Sep 19:51 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_geopolitics
 
 Oil prices jump as US-Iran tensions fuel supply fears milliyet.com.tr
+
+**Global Uncertainty: Market Turmoil Amid Rising Oil Prices and Political Shifts - Devdiscourse**
+`07 Sep 19:46 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_centralbanks
+
+Global Uncertainty: Market Turmoil Amid Rising Oil Prices and Political Shifts Devdiscourse
 
 **American and African Crudes Soar as China's Oil Imports Rebound**
 `07 Sep 19:30 PKT` · pehli baar dekhi `07 Sep 20:19` · oilprice
@@ -1546,6 +1835,11 @@ The prices of crudes from Canada, South America, and Africa have jumped in recen
 `07 Sep 19:00 PKT` · pehli baar dekhi `07 Sep 20:19` · oilprice
 
 The Trump administration has revived its diplomatic drive to end Russia's war in Ukraine, as US envoys Steve Witkoff and Jared Kushner traveled from Moscow to Kyiv in a high-profile effort to lay the groundwork for another round of negotiations. But after separate meetings with Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy, the central question remains unanswered: Has Moscow changed its position enough to make a settlement possible?
+
+**Brent crude surpasses $97 amid supply concerns - ارقام: اخبار ومعلومات سوق الأسهم السعودي - تاسي**
+`07 Sep 18:47 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics
+
+Brent crude surpasses $97 amid supply concerns ارقام: اخبار ومعلومات سوق الأسهم السعودي - تاسي
 
 **High Crude and LNG Prices Weigh on India's Oil and Gas Sector**
 `07 Sep 18:30 PKT` · pehli baar dekhi `07 Sep 20:19` · oilprice
@@ -1723,6 +2017,11 @@ Oil nears $100 a barrel as US, Iran strike tankers in Hormuz The New Voice of Uk
 
 The West Texas Intermediate and Brent crude contracts for October and November delivery, respectively, are steady after rising earlier in the session.
 
+**Oil prices jump to Sh12,559 per barrel as US-Iran conflict escalates, threatening Strait of Hormuz trade route - The Eastleigh Voice**
+`07 Sep 13:46 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics
+
+Oil prices jump to Sh12,559 per barrel as US-Iran conflict escalates, threatening Strait of Hormuz trade route The Eastleigh Voice
+
 **Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks - WSJ**
 `07 Sep 13:44 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_geopolitics
 
@@ -1770,6 +2069,12 @@ OPEC+ Holds October Oil Policy Steady as Iran War Limits Its Market Power Tekedi
 
 US-Israel-Iran War Live News: Oil Prices Surge Toward $100 as Iran Moves to Restrict Strait of Hormuz Shipping Amid Falling Tanker Traffic The Sunday Guardian
 
+**Goldman Sees Oil Hitting $120 if Middle East Tanker Attacks Escalate - Investors King**
+`07 Sep 12:50 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics · **2 feeds mein**
+
+Goldman Sees Oil Hitting $120 if Middle East Tanker Attacks Escalate Investors King
+  - `07 Sep 12:42` *gnews_geopolitics* — Goldman Sees Oil Hitting $120 if Middle East Tanker Attacks Escalate - Investors King
+
 **Iran plans 'exclusion zone' near Strait of Hormuz as tensions with US flare again - The Times of India**
 `07 Sep 12:50 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_geopolitics
 
@@ -1784,11 +2089,6 @@ Oil Prices Rise: US-Iran Strikes & Mideast Supply Fears Bol News
 `07 Sep 12:46 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_geopolitics
 
 Oil Hits $97 As U.S.-Iran Ship Strikes Raise Hormuz Supply Shock Fears International Business Times, Singapore Edition
-
-**Goldman Sees Oil Hitting $120 if Middle East Tanker Attacks Escalate - Investors King**
-`07 Sep 12:42 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_geopolitics
-
-Goldman Sees Oil Hitting $120 if Middle East Tanker Attacks Escalate Investors King
 
 **Oil extends gains after US and Iran exchange attacks on ships - KLSE Screener**
 `07 Sep 12:42 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_geopolitics
@@ -1875,6 +2175,11 @@ Oil nears $97 as US-Iran attacks intensify fears of prolonged supply disruption 
 
 Supply of fuel oil for the shipping industry is getting squeezed by the war-driven tightness in diesel fuel, as refiners prioritize the latter over the former, Reuters has reported, with Asia set to suffer the most severe blow. The shortage is seen at 218,000 barrels daily in the current quarter, according to Energy Aspects, as quoted by Reuters, which would be the first quarter of a shipping fuel shortage since 2025. At that time, the shortage was much smaller, at just 6,000 barrels daily.
   - `07 Sep 10:50` *yahoo_finance* — Shipping Fuel Shortage Looms as Refiners Prioritize Diesel
+
+**Oil Rises as Escalating U.S.-Iran Conflict Stokes Supply Disruption Fears -- Update - marketscreener.com**
+`07 Sep 10:39 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics
+
+Oil Rises as Escalating U.S.-Iran Conflict Stokes Supply Disruption Fears -- Update marketscreener.com
 
 **Iran kept oil exports flowing during US-Israeli aggression despite 550 strikes on Kharg: Minister - PressTV**
 `07 Sep 10:39 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_geopolitics
@@ -1983,9 +2288,10 @@ Oil Prices Extend Gains As US-Iran Strikes Deepen Hormuz Fears BW Businessworld
 The gamble behind US attacks on Iran's oil tankers Iran International
 
 **Oil prices hold near six-week highs on US-Iran attacks - Business Recorder**
-`07 Sep 07:50 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_geopolitics
+`07 Sep 07:50 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_geopolitics · **2 feeds mein**
 
 Oil prices hold near six-week highs on US-Iran attacks Business Recorder
+  - `07 Sep 07:50` *gnews_geopolitics* — Oil prices hold near six-week highs on US-Iran attacks - Business Recorder
 
 **Oil prices hold near six-week highs as U.S.-Iran strikes heighten supply disruption concerns - The Standard (HK)**
 `07 Sep 07:48 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_geopolitics
@@ -2038,9 +2344,10 @@ Crude Prices, Federal Reserve Speculations, and Upcoming Market Events: What to 
 OPEC+ kept October production quotas unchanged at Sunday's meeting, but the decision carries less weight than usual while the Iran war continues to disrupt exports through the Strait of Hormuz. The seven-member subgroup led by Saudi Arabia and Russia has now completed the phased rollback of the 1.65m-barrel-per-day cut first agreed in 2023, yet actual [&#8230;] The post OPEC+ Steps Aside as Hormuz, Not Quotas, Controls the Oil Market appeared first on ActionForex.
 
 **Oil extends gains after US and Iran strike ships**
-`07 Sep 07:00 PKT` · pehli baar dekhi `07 Sep 09:46` · investing_commodities · **8 feeds mein**
+`07 Sep 07:00 PKT` · pehli baar dekhi `07 Sep 09:46` · investing_commodities · **9 feeds mein**
   - `07 Sep 12:12` *gnews_geopolitics* — Oil extends gains after US and Iran strike ships - Channel Africa
   - `07 Sep 12:05` *gnews_geopolitics* — Oil extends gains after US and Iran strike ships - Arab News
+  - `07 Sep 12:05` *gnews_geopolitics* — Oil extends gains after US and Iran strike ships - Arab News PK
   - `07 Sep 08:49` *gnews_geopolitics* — Oil extends gains after US and Iran strike ships - DZRH
   - `07 Sep 06:27` *gnews_geopolitics* — Oil extends gains after US and Iran strike ships - Deccan Herald
   - `07 Sep 05:28` *gnews_geopolitics* — Oil extends gains after US and Iran strike ships - Bitget
@@ -2048,9 +2355,10 @@ OPEC+ kept October production quotas unchanged at Sunday's meeting, but the deci
   - `07 Sep 05:15` *gnews_geopolitics* — Oil extends gains after US and Iran strike ships - Yahoo Finance
 
 **Crude oil prices rise as US-Iran strikes raise fears of prolonged Hormuz supply disruption - BusinessLine**
-`07 Sep 06:36 PKT` · pehli baar dekhi `07 Sep 09:46` · gnews_geopolitics
+`07 Sep 06:36 PKT` · pehli baar dekhi `07 Sep 09:46` · gnews_geopolitics · **2 feeds mein**
 
 Crude oil prices rise as US-Iran strikes raise fears of prolonged Hormuz supply disruption BusinessLine
+  - `07 Sep 06:36` *gnews_geopolitics* — Crude oil prices rise as US-Iran strikes raise fears of prolonged Hormuz supply disruption - BusinessLine
 
 **Oil prices rise as US-Iran tanker strikes deepen Hormuz fears; Brent nears $97 - Moneycontrol.com**
 `07 Sep 06:36 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_geopolitics
@@ -2173,6 +2481,32 @@ An Oakland Institute analysis challenges claims that a large increase in mining 
 
 ### CRYPTO
 
+**Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares - TradingView**
+`07 Sep 22:29 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_fed · **2 feeds mein**
+
+Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares TradingView
+  - `07 Sep 22:29` *cointelegraph* — Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares
+
+**Bitcoin stalls below $80K amid Fed hike fears, Tether security concerns, and hacker activity. - Pluang**
+`07 Sep 22:24 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_fed
+
+Bitcoin stalls below $80K amid Fed hike fears, Tether security concerns, and hacker activity. Pluang
+
+**Crypto markets react to strong US jobs data and Fed rate cut odds, with Robinhood Chain and Zcash surging. - Pluang**
+`07 Sep 22:06 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_fed
+
+Crypto markets react to strong US jobs data and Fed rate cut odds, with Robinhood Chain and Zcash surging. Pluang
+
+**Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC**
+`07 Sep 21:42 PKT` · pehli baar dekhi `08 Sep 00:17` · cointelegraph
+
+Capital B's latest Bitcoin purchase was its largest in nearly a year, pushing the French company ahead of H100 Group among publicly traded BTC holders.
+
+**Bitcoin chips away at weekend upside as $80K hangs in the balance**
+`07 Sep 20:57 PKT` · pehli baar dekhi `08 Sep 00:17` · cointelegraph
+
+Bitcoin price fell 2% in low-liquidity conditions as the US Labor Day holiday saw $80,000 once again slip from bulls' grasp.
+
 **Bitcoin and ethereum prices today, Monday, September 7, 2026: Crypto investors on rate watch**
 `07 Sep 19:02 PKT` · pehli baar dekhi `07 Sep 20:19` · yahoo_finance
 
@@ -2230,6 +2564,11 @@ Bitcoin: Will the Fed and ECB Raise Their Rates in September? Cointribune
 `07 Sep 14:36 PKT` · pehli baar dekhi `07 Sep 14:46` · cointelegraph
 
 Galaxy said 82% of Bitcoin stolen across all Coldcard attacks remains in the original addresses, with 18% moved in apparent laundering.
+
+**Jobs report fails to boost Fed rate hike odds, analysts say - Crypto Briefing**
+`07 Sep 13:45 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_fed
+
+Jobs report fails to boost Fed rate hike odds, analysts say Crypto Briefing
 
 **September Fed Rate Decision: Five Days That Could Shake Crypto - coingabbar.com**
 `07 Sep 11:49 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_fed
@@ -2304,10 +2643,60 @@ The Hang Seng Index opened Monday down about 0.9%, or 226 points, at 25,428, pul
 
 ### RISK
 
+**Uranium Holds Near 6-Month High**
+`08 Sep 00:17 PKT` · instaforex
+
+Uranium futures in the US traded around $90 per pound, hovering near the more than six‑month high of $90.60 reached on August 26, amid mounting supply risks and robust demand. The supply outlook for yellowcake from Kazatomprom, the world's largest uranium producer, has become increasingly uncertain as delays at its TQZ sulphuric acid plant constrain its leaching capacity.
+
+**Ukraine's Foreign Reserves Slip to $48.7B in August, Easing From Record Levels**
+`08 Sep 00:17 PKT` · instaforex
+
+Ukraine's foreign exchange reserves declined in August 2026, easing to $48.70 billion from $51.20 billion recorded in July 2026, according to data updated on 7 September 2026. The latest figure marks a month-on-month decrease of $2.50 billion. The adjustment in reserves follows a period of elevated levels earlier in the summer, when the July reading reached $51.20 billion.
+
+**The strait of silence: How US naval blockade and sanctions are choking Iran to death - Zee News**
+`07 Sep 23:32 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics
+
+The strait of silence: How US naval blockade and sanctions are choking Iran to death Zee News
+
+**Gasoline prices hit record $4.15 on Labor Day as Iran war keeps oil costs high | Business News - Hindustan Times**
+`07 Sep 23:24 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics
+
+Gasoline prices hit record $4.15 on Labor Day as Iran war keeps oil costs high | Business News Hindustan Times
+
+**Thousands attend funeral of war criminal Ratko Mladic in Serbia**
+`07 Sep 22:52 PKT` · pehli baar dekhi `08 Sep 00:17` · aljazeera
+
+Thousands attend funeral of war criminal Ratko Mladic in Serbia
+
+**Russia Vows to Keep Selling Oil to India Despite U.S. Tariff Threat**
+`07 Sep 22:30 PKT` · pehli baar dekhi `08 Sep 00:17` · oilprice
+
+Russia will remain a key crude oil supplier to India, Russia's Ambassador to India, Denis Alipov, said in an interview with Asian News International, in which he also criticized the planned U.S. legislation to slap tariffs on countries importing Russian oil. Russia has become India's single-biggest oil supplier in recent years, after the U.S., the UK, and the EU banned Russian oil imports and moved to increase sanction pressure on Russia following the invasion of Ukraine. U.S.
+
+**LME Copper Prices Hit Record on Supply Issues, U.S. Tariff Concerns**
+`07 Sep 21:42 PKT` · pehli baar dekhi `08 Sep 00:17` · wsj_markets
+
+Copper prices surged to a fresh record on the London Metal Exchange, as mounting concerns over mine supply and the prospect of potential U.S. tariffs sent buyers scrambling for the metal.
+
+**Russia and North Korea deepen relations with symbolic road bridge**
+`07 Sep 21:22 PKT` · pehli baar dekhi `08 Sep 00:17` · aljazeera
+
+Ties between Moscow and Pyongyang have grown extensively amid Russia&#039;s invasion of Ukraine.
+
+**Convicted war criminal Ratko Mladic gets hero's burial in Serbia**
+`07 Sep 20:34 PKT` · pehli baar dekhi `08 Sep 00:17` · aljazeera
+
+Thousands attend Belgrade funeral of former Bosnian Serb army general convicted of orchestrating Srebrenica genocide.
+
 **Wheat Eases Further from 3-1/2-Year High**
 `07 Sep 20:27 PKT` · pehli baar dekhi `07 Sep 20:19` · instaforex
 
 Wheat futures fell below $7.20 per bushel, extending their pullback from the 3-1/2-year high of $7.67 reached on August 28, as markets weighed renewed diplomatic efforts to end the Russia–Ukraine war. Over the weekend, US envoys held talks in both Russia and Ukraine, including meetings with Ukrainian President Volodymyr Zelenskyy and senior European officials.
+
+**India ensured oil, gas supplies and protected interests of 10 million Gulf Indians amid Iran war:... - Moneycontrol.com**
+`07 Sep 20:21 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics
+
+India ensured oil, gas supplies and protected interests of 10 million Gulf Indians amid Iran war:... Moneycontrol.com
 
 **US Gasoline Rises to Two-Week High**
 `07 Sep 20:19 PKT` · instaforex
@@ -2367,10 +2756,21 @@ The funeral of convicted war criminal Ratko Mladic has been held in Serbia's cap
 
 Iran and Ukraine wars: Why ship fuel is running short, and why it matters Al Jazeera
 
+**Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed' - yahoo.com**
+`07 Sep 17:12 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics · **2 feeds mein**
+
+Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed' yahoo.com
+  - `07 Sep 11:57` *gnews_geopolitics* — Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed' - Reuters
+
 **Could Trump's Iran trade war threaten Spain's saffron-infused paella?**
 `07 Sep 17:00 PKT` · pehli baar dekhi `07 Sep 20:19` · aljazeera
 
 US threats to punish Iran's trade partners could disrupt Spain's saffron supply, pressuring paella chefs and exporters.
+
+**'Lost decade of US economy coming': Iran's big warning as tensions flare - The Times of India**
+`07 Sep 15:21 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics
+
+'Lost decade of US economy coming': Iran's big warning as tensions flare The Times of India
 
 **"Strike our assets and you get struck": Iran issues stark warning to US, highlights thriving energy production chain - ANI News**
 `07 Sep 14:42 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_geopolitics
@@ -2421,11 +2821,6 @@ Farsnews | ECB Set to Hike Interest Rates as War on Iran Flares Anew Fars
 `07 Sep 12:43 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_geopolitics
 
 UAE's Stance on Energy Exports and Iran Relations Devdiscourse
-
-**Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed' - Reuters**
-`07 Sep 11:57 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_geopolitics
-
-Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed' Reuters
 
 **FX Daily: Staring at the geopolitical headlights**
 `07 Sep 11:40 PKT` · pehli baar dekhi `07 Sep 14:46` · ing_think
@@ -2479,10 +2874,41 @@ Iran doubles gasoline price amid fears of renewed unrest Iran International
 **Retailers are Handling Tariff Refunds in Very Different Ways: Walmart and Home Depot**
 `07 Sep 03:56 PKT` · pehli baar dekhi `07 Sep 05:10` · yahoo_finance
 
-### BINA TAG (216)
+### BINA TAG (250)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `08 Sep 00:03` **aljazeera** — Syria detains Assad-era general accused of bloody crackdown on protests
+- `07 Sep 23:57` **fxstreet_news** — Equities: AI-led upside and income focus – HSBC
+- `07 Sep 23:53` **cointelegraph** — Joe Biden's son to launch memecoin, will send to TRUMP holders: WSJ
+- `07 Sep 23:40` **investing_news** — Trump demands Bombardier quit US market unless it builds planes there
+- `07 Sep 23:36` **investing_news** — Tech companies look to Argentina's windswept Patagonia to build massive data centers
+- `07 Sep 23:11` **aljazeera** — Israel's plan to split the West Bank
+- `07 Sep 23:01` **investing_news** — 10 Seconds of Video in 4 Seconds: Yoroll Launches H3 Superfast and YoLive
+- `07 Sep 23:01` **investing_news** — GoldmannCoLimited Expands Multi-Asset Access for Modern Market Participants
+- `07 Sep 23:00` **investing_news** — ADP employment data and consumer credit among releases due Tuesday
+- `07 Sep 22:58` **cointelegraph** — Polish prosecutors charge suspect in Zondacrypto probe, seek pretrial detention
+- `07 Sep 22:54` **investing_news** — Airbus aircraft deliveries to end-August rose 9%
+- `07 Sep 22:50` **aljazeera** — Board of Peace touts progress as Palestinians' situation worsens
+- `07 Sep 22:41` **aljazeera** — Egyptian wrestlers keep vanishing abroad amid a sport in crisis
+- `07 Sep 22:36` **aljazeera** — Nauru opens embassy in Jerusalem
+- `07 Sep 22:31` **aljazeera** — Bolivian blast death toll rises to 7, rescuers search for missing soldiers
+- `07 Sep 22:23` **aljazeera** — Gaza: Genocide in Real Time?
+- `07 Sep 22:09` **aljazeera** — Serbian government sets up snap vote with call to dissolve parliament
+- `07 Sep 22:08` **wsj_world** — Belgium's Arrest of Chinese Alleged Chip-Tech Thief Fuels European Fear of Beijing
+- `07 Sep 22:06` **investing_commodities** — Haiti gangs shift operations into countryside, report says
+- `07 Sep 22:01` **investing_news** — NTSB to give updates on deadly Amazon Prime Air cargo plane crash in Miami
+- `07 Sep 21:53` **aljazeera** — When does a family meal become a luxury in Nigeria?
+- `07 Sep 21:52` **aljazeera** — Kosovo signs up to US-led Gaza stabilisation force
+- `07 Sep 21:46` **gnews_fed** — US Stock Market Prediction: Wall Street Eyes Tuesday Opening Bell As Dow Jones, S&P 500 & Nasdaq Futures Signal Cautious Start; Check Market Outlook & Key Things To Watch - The Sunday Guardian
+- `07 Sep 21:42` **aljazeera** — Claimed Israeli capture of Lebanese ridge reshapes negotiation dynamics
+- `07 Sep 21:38` **aljazeera** — 'Rhetoric differs': How the UK's relationship with Israel took a downturn
+- `07 Sep 21:25` **bbc_business** — Next wins key appeal to overturn £30m equal pay ruling
+- `07 Sep 21:11` **aljazeera** — Israel deports British activist who protected Palestinian children
+- `07 Sep 21:00` **mw_topstories** — Chip stock investors beware — these charts could warn of further weakness ahead
+- `07 Sep 20:48` **aljazeera** — Lights, camera, action: Irksome influencers at the US Open are here to stay
+- `07 Sep 20:41` **bbc_business** — Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises
+- `07 Sep 20:39` **investinglive** — Copper reaches a new record high on the LME
 - `07 Sep 20:19` **instaforex** — Baltic Dry Index Breaks 3-Day Advance
 - `07 Sep 20:19` **instaforex** — Chile's Trade Surplus Narrows to $1.69B in August 2026
 - `07 Sep 20:19` **instaforex** — Philippines' FX Reserves Edge Up to $104.8 Billion in August 2026
@@ -2568,6 +2994,7 @@ Iran doubles gasoline price amid fears of renewed unrest Iran International
 - `07 Sep 15:00` **yahoo_finance** — Best high-yield savings interest rates today, Monday, September 7, 2026: Earn up to 4.10% APY
 - `07 Sep 15:00` **yahoo_finance** — Mortgage and refinance interest rates today, Monday, September 7, 2026: Fixed purchase rates lower than refi rates
 - `07 Sep 15:00` **yahoo_finance** — HELOC and home equity loan rates today, Monday, September 7, 2026: A 19-basis-point differential
+- `07 Sep 15:00` **ing_think** — FX Talking: Forecast table
 - `07 Sep 14:54` **fxstreet_news** — EM FX: Policy holds shape CLP, PLN, PEN, TRY – BBH
 - `07 Sep 14:51` **cointelegraph** — Philippines eyes payment operator registration freeze, tighter VASP checks
 - `07 Sep 14:46` **instaforex** — UK Mortgage Rates Edge Down to 6.58% in August, Easing Slight Pressure on Borrowers
@@ -2578,8 +3005,10 @@ Iran doubles gasoline price amid fears of renewed unrest Iran International
 - `07 Sep 14:30` **wsj_world** — There's a Legal Fight Brewing at Oktoberfest
 - `07 Sep 14:30` **wsj_markets** — Hermès Has Big Watchmaking Ambitions. The Cult of the Birkin Is Getting in the Way.
 - `07 Sep 14:30` **yahoo_finance** — Walt Disney mortgaged his house and sold his car to fund Snow White — his wife said she 'never felt secure'
+- `07 Sep 14:30` **wsj_markets** — Young People Are Obsessed With This Simple Retirement-Savings Formula
 - `07 Sep 14:28` **yahoo_finance** — Mondelēz shifts European biscuit packaging from plastic trays to paper
 - `07 Sep 14:25` **yahoo_finance** — A Once-in-a-Decade Opportunity: 1 Magnificent S&P 500 Stock Down 41% to Buy Right Now
+- `07 Sep 14:21` **ing_think** — Hungarian industry regains ground despite strong headwinds
 - `07 Sep 14:19` **investing_news** — SigmaRoc shares jump 12% on profit rise and acquisition deal
 - `07 Sep 14:18` **investing_news** — Huawei launches new foldable smartphone; Xiaomi and Apple set to follow
 - `07 Sep 14:18` **fxstreet_news** — UK Chancellor Healey: I will build on Reeves' move to recover fiscal discipline
@@ -2716,46 +3145,48 @@ yahoo_finance (1), investing_news (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 28 | 2 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.5 |
-| actionforex | OK | 20 | 20 | 18 | 2 | 0 | 0.0 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 0.8 |
-| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 4 | 1 | 3 | 32 | 0.2 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.8 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.9 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.9 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.9 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.8 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 4.4 |
+| investinglive | OK | 25 | 25 | 4 | 21 | 0 | 0.1 |
+| fxstreet_news | OK | 30 | 30 | 12 | 18 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 2 | 1 | 1 | 28 | 0.1 |
+| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.2 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.0 |
+| instaforex | OK | 25 | 25 | 6 | 19 | 0 | -0.1 |
+| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.4 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 3.0 |
+| cme_fx_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.1 |
+| cme_rates_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.1 |
+| cme_energy_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.1 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 3.0 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 4.6 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 87 | 70 | 36 | 34 | 17 | 0.1 |
-| gnews_geopolitics | OK | 100 | 94 | 30 | 64 | 6 | 0.0 |
-| gnews_centralbanks | OK | 69 | 67 | 33 | 34 | 2 | 0.1 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 12.9 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.1 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.3 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.1 |
-| boj_whatsnew | OK | 44 | 5 | 0 | 5 | 39 | 0.4 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.5 |
-| mining_com | OK | 36 | 1 | 1 | 0 | 35 | 0.2 |
-| oilprice | OK | 15 | 14 | 7 | 7 | 1 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.1 |
-| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| bbc_business | OK | 50 | 12 | 1 | 11 | 38 | 0.0 |
-| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| gnews_fed | OK | 80 | 79 | 14 | 65 | 1 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 21 | 79 | 0 | 0.0 |
+| gnews_centralbanks | OK | 77 | 76 | 11 | 65 | 1 | 0.1 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.1 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.3 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.4 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.3 |
+| boj_whatsnew | OK | 44 | 5 | 0 | 5 | 39 | 0.6 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.7 |
+| mining_com | OK | 36 | 2 | 1 | 1 | 34 | 0.1 |
+| oilprice | OK | 15 | 15 | 7 | 8 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
+| ing_think | OK | 10 | 10 | 8 | 2 | 0 | 0.4 |
+| bbc_business | OK | 52 | 14 | 2 | 12 | 38 | 0.1 |
+| aljazeera | OK | 25 | 25 | 20 | 5 | 0 | 0.0 |
 | snb_press | OK | 20 | 4 | 0 | 4 | 16 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 4.1 |
-| eia_energy | WARN | 13 | 0 | 0 | 0 | 13 | 3.1 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 4.1 |
-| wsj_world | OK | 70 | 12 | 3 | 9 | 58 | 0.0 |
-| wsj_markets | OK | 60 | 18 | 8 | 10 | 42 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 43 | 42 | 1 | 7 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 10 | 4 | 6 | 20 | 0.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 4.2 |
+| eia_energy | WARN | 13 | 0 | 0 | 0 | 13 | 3.2 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 4.3 |
+| wsj_world | OK | 71 | 15 | 3 | 12 | 56 | 0.1 |
+| wsj_markets | OK | 60 | 20 | 2 | 18 | 40 | 0.1 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 6 | 0 | 6 | 44 | 0.2 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 15 | 5 | 10 | 15 | 0.0 |
 
 **Jo feeds nahi aaye:**
+- cme_fx_video — STALE, cadence 1d, magar 3d purana
+- cme_rates_video — STALE, cadence 1d, magar 3d purana
+- cme_energy_video — STALE, cadence 1d, magar 3d purana
 - kitco_general — FAIL, koi item nahi
-- ing_think — FAIL, ConnectTimeout
