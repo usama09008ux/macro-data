@@ -281,6 +281,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/570-us-nfib-small-business-index]]></url>
 	</event>
 	<event>
+		<title>Monetary Policy Report Hearings</title>
+		<country>GBP</country>
+		<date><![CDATA[09-08-2026]]></date>
+		<time><![CDATA[1:15pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/439-uk-monetary-policy-report-hearings]]></url>
+	</event>
+	<event>
 		<title>Consumer Credit m/m</title>
 		<country>USD</country>
 		<date><![CDATA[09-08-2026]]></date>
@@ -306,7 +316,7 @@
 		<date><![CDATA[09-09-2026]]></date>
 		<time><![CDATA[1:30am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[0.9%]]></forecast>
+		<forecast><![CDATA[0.8%]]></forecast>
 		<previous><![CDATA[0.5%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/454-ch-cpi-yy]]></url>
 	</event>
@@ -369,6 +379,16 @@
 		<forecast />
 		<previous><![CDATA[11.8K]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/929-us-adp-weekly-employment-change]]></url>
+	</event>
+	<event>
+		<title>ECB President Lagarde Speaks</title>
+		<country>EUR</country>
+		<date><![CDATA[09-09-2026]]></date>
+		<time><![CDATA[5:00pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks]]></url>
 	</event>
 	<event>
 		<title>German Buba President Nagel Speaks</title>
@@ -719,6 +739,16 @@
 		<forecast><![CDATA[3.4%]]></forecast>
 		<previous><![CDATA[3.4%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/884-us-cpi-yy]]></url>
+	</event>
+	<event>
+		<title>ECB President Lagarde Speaks</title>
+		<country>EUR</country>
+		<date><![CDATA[09-11-2026]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks]]></url>
 	</event>
 	<event>
 		<title>Prelim UoM Consumer Sentiment</title>

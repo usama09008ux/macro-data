@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "07 Sep 2026 05:17",
+  "generated_pkt": "07 Sep 2026 15:35",
   "trading_day": "2026-09-07",
   "feed_sources": {
     "thisweek": "live"
@@ -370,6 +370,19 @@
       "trading_day": "2026-09-08"
     },
     {
+      "title": "Monetary Policy Report Hearings",
+      "ccy": "GBP",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/439-uk-monetary-policy-report-hearings",
+      "all_day": false,
+      "utc": "2026-09-08T13:15Z",
+      "pkt": "08 Sep 18:15",
+      "pkt_iso": "2026-09-08T18:15:00+05:00",
+      "trading_day": "2026-09-08"
+    },
+    {
       "title": "Consumer Credit m/m",
       "ccy": "USD",
       "impact": "Low",
@@ -399,7 +412,7 @@
       "title": "CPI y/y",
       "ccy": "CNY",
       "impact": "Low",
-      "forecast": "0.9%",
+      "forecast": "0.8%",
       "previous": "0.5%",
       "url": "https://www.forexfactory.com/calendar/454-ch-cpi-yy",
       "all_day": false,
@@ -484,6 +497,19 @@
       "utc": "2026-09-09T12:16Z",
       "pkt": "09 Sep 17:16",
       "pkt_iso": "2026-09-09T17:16:00+05:00",
+      "trading_day": "2026-09-09"
+    },
+    {
+      "title": "ECB President Lagarde Speaks",
+      "ccy": "EUR",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks",
+      "all_day": false,
+      "utc": "2026-09-09T17:00Z",
+      "pkt": "09 Sep 22:00",
+      "pkt_iso": "2026-09-09T22:00:00+05:00",
       "trading_day": "2026-09-09"
     },
     {
@@ -939,6 +965,19 @@
       "utc": "2026-09-11T12:30Z",
       "pkt": "11 Sep 17:30",
       "pkt_iso": "2026-09-11T17:30:00+05:00",
+      "trading_day": "2026-09-11"
+    },
+    {
+      "title": "ECB President Lagarde Speaks",
+      "ccy": "EUR",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks",
+      "all_day": false,
+      "utc": "2026-09-11T14:00Z",
+      "pkt": "11 Sep 19:00",
+      "pkt_iso": "2026-09-11T19:00:00+05:00",
       "trading_day": "2026-09-11"
     },
     {
