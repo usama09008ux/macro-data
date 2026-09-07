@@ -1,9 +1,9 @@
 # News Pack — Trading Day 06 Sep 2026
 
 - Trading day: **06 Sep 03:00 -> 07 Sep 02:59 PKT**
-- Aakhri update: **07 Sep 05:10 PKT**
-- Kul khabrein: **454**
-- Feeds: 29/39 OK
+- Aakhri update: **07 Sep 09:46 PKT**
+- Kul khabrein: **465**
+- Feeds: 30/39 OK
 
 ---
 
@@ -97,9 +97,10 @@ Trump Threatens to Halt Trade if Fed Doesn't Cut Rates: What's at Stake? MundoNO
 Fed warns S&P 500 equity risk premium near dot-com bubble lows eciks.org
 
 **Fed rate hike bets rise as US job gains beat expectations - malaysiasun.com**
-`06 Sep 23:47 PKT` · pehli baar dekhi `07 Sep 05:10` · gnews_fed
+`06 Sep 23:47 PKT` · pehli baar dekhi `07 Sep 05:10` · gnews_fed · **2 feeds mein**
 
 Fed rate hike bets rise as US job gains beat expectations malaysiasun.com
+  - `06 Sep 23:47` *gnews_fed* — Fed rate hike bets rise as US job gains beat expectations - malaysiasun.com
 
 **He's Swapped One Rental for Another Three Times Since 1994 and Never Paid a Dollar of Capital-Gains Tax. If He Still Owns the Last One the Day He Dies, Nobody Ever Will**
 `06 Sep 23:33 PKT` · pehli baar dekhi `07 Sep 01:40` · yahoo_finance
@@ -202,6 +203,11 @@ US labour market resilience may keep Fed cautious on September rate decision ind
 `06 Sep 14:42 PKT` · pehli baar dekhi `06 Sep 21:14` · gnews_fed
 
 Trump, Aides Clamor To Sway Fed's Policy. Is Kevin Warsh In A Fix? International Business Times
+
+**Trump, Aides Clamor To Sway Fed's Policy. Is Kevin Warsh In A Fix? - inkl**
+`06 Sep 14:42 PKT` · pehli baar dekhi `07 Sep 09:46` · gnews_fed
+
+Trump, Aides Clamor To Sway Fed's Policy. Is Kevin Warsh In A Fix? inkl
 
 **The European Central Bank is poised to raise interest rates again amid accelerating inflation - صوت الإمارات**
 `06 Sep 14:14 PKT` · pehli baar dekhi `06 Sep 14:34` · gnews_centralbanks
@@ -504,6 +510,11 @@ The decision itself carries little fresh price signal, since it confirms a roadm
 The biggest oil companies in the United States are playing hardball in unionized labor negotiations in a bid to get more concessions from workers' unions in the new contracts. Over the past few years, some of the top U.S. refining companies have resorted to lockouts to ensure most of the company management's proposals in new labor contracts are accepted. The trend began earlier this decade with Exxon locking out in 2021 as many as 650 workers out of the Beaumont refinery for 10 months.
   - `07 Sep 02:00` *yahoo_finance* — Oil Majors Seek Bigger Bargaining Power in Labor Disputes
 
+**Standard Chartered: Oil Could Stay Near $90 as Diplomatic Breakthrough Remains Elusive - Sada Elbalad english**
+`07 Sep 00:41 PKT` · pehli baar dekhi `07 Sep 09:46` · gnews_geopolitics
+
+Standard Chartered: Oil Could Stay Near $90 as Diplomatic Breakthrough Remains Elusive Sada Elbalad english
+
 **Trump highlights falling Iran oil exports, rebound in Hormuz flows - Iran International**
 `07 Sep 00:15 PKT` · pehli baar dekhi `07 Sep 03:23` · gnews_geopolitics · **2 feeds mein**
 
@@ -597,6 +608,11 @@ Former Trump Economic Adviser: Iran's Oil Exports Have Fallen to Zero. Here's Wh
 
 OPEC Plus to Keep Oil Production Steady The New York Times
 
+**US Strikes Three Iranian Oil Tankers After IRGC Attack on American Naval Ships, Central Command Says - ASHARQ AL-AWSAT English**
+`06 Sep 18:08 PKT` · pehli baar dekhi `07 Sep 09:46` · gnews_geopolitics
+
+US Strikes Three Iranian Oil Tankers After IRGC Attack on American Naval Ships, Central Command Says ASHARQ AL-AWSAT English
+
 **U.S., Iranian forces exchange fire around Strait of Hormuz - CitiNewsroom.com**
 `06 Sep 17:45 PKT` · pehli baar dekhi `06 Sep 18:06` · gnews_geopolitics
 
@@ -612,6 +628,11 @@ OPEC+ keeps oil output policy unchanged for October The Economic Times
 `06 Sep 16:55 PKT` · pehli baar dekhi `06 Sep 18:06` · gnews_geopolitics
 
 Opec+ keeps oil output policy unchanged for October amid Iran war uncertainty thenationalnews.com
+
+**OPEC+ maintains oil production quotas amid Middle East tensions - cryptobriefing.com**
+`06 Sep 16:33 PKT` · pehli baar dekhi `07 Sep 09:46` · gnews_geopolitics
+
+OPEC+ maintains oil production quotas amid Middle East tensions cryptobriefing.com
 
 **OPEC+ Sticks With Plan to Keep Oil Output Quotas Unchanged - Bloomberg.com**
 `06 Sep 16:25 PKT` · pehli baar dekhi `07 Sep 01:40` · gnews_geopolitics
@@ -634,10 +655,11 @@ Crude prices, Fed bets and more: What's in store for markets this week The Times
 US CENTCOM: 1,600 merchant ships, 800 million barrels of oil cleared through Hormuz amid Iran tension Business Upturn
 
 **US strikes 3 Iranian oil tankers, one near Kharg Island - malaysiasun.com**
-`06 Sep 15:10 PKT` · pehli baar dekhi `06 Sep 21:14` · gnews_geopolitics · **2 feeds mein**
+`06 Sep 15:10 PKT` · pehli baar dekhi `06 Sep 21:14` · gnews_geopolitics · **3 feeds mein**
 
 US strikes 3 Iranian oil tankers, one near Kharg Island malaysiasun.com
   - `06 Sep 15:10` *gnews_geopolitics* — US strikes 3 Iranian oil tankers, one near Kharg Island - malaysiasun.com
+  - `06 Sep 15:10` *gnews_geopolitics* — US strikes 3 Iranian oil tankers, one near Kharg Island - indiagazette.com
 
 **Iran Claims Attack on US Ship in Strait of Hormuz Amid Rising Tensions - Ratopati**
 `06 Sep 14:59 PKT` · pehli baar dekhi `06 Sep 18:06` · gnews_geopolitics
@@ -885,6 +907,11 @@ Bitcoin Gains Strength Despite Split Fed, Strategy Sale, and Mixed ETF Flows Coi
 **Russia stocks lower at close of trade; MOEX Russia Index unchanged**
 `07 Sep 02:20 PKT` · pehli baar dekhi `07 Sep 03:23` · investing_news
 
+**Iran announces non-quota fuel price hike amid tightening sanctions - Rudaw**
+`07 Sep 01:32 PKT` · pehli baar dekhi `07 Sep 09:46` · gnews_geopolitics
+
+Iran announces non-quota fuel price hike amid tightening sanctions Rudaw
+
 **Iran to declare Hormuz restricted zone, warns of 'more painful' attack response**
 `07 Sep 01:28 PKT` · pehli baar dekhi `07 Sep 01:40` · investinglive
 
@@ -900,6 +927,11 @@ Ukraine and Russia held off on strikes on each other's capitals as the U.S. envo
 
 Iran says it will declare restricted zone beyond Strait of Hormuz; ships entering face sanctions businessupturn.com
   - `07 Sep 00:08` *gnews_geopolitics* — Iran says it will declare restricted zone beyond Strait of Hormuz; ships entering face sanctions - Business Upturn
+
+**Iran to declare restricted zone outside Strait of Hormuz, threatening sanctions on non-compliant vessels - cryptobriefing.com**
+`06 Sep 23:59 PKT` · pehli baar dekhi `07 Sep 09:46` · gnews_geopolitics
+
+Iran to declare restricted zone outside Strait of Hormuz, threatening sanctions on non-compliant vessels cryptobriefing.com
 
 **Why is Argentina reviving the Falklands dispute?**
 `06 Sep 23:36 PKT` · pehli baar dekhi `07 Sep 01:40` · aljazeera
@@ -995,10 +1027,20 @@ US, Iranian forces fire at vessels in waters near Iran Cyprus Mail
 **U.S.-Iran tanker war escalates as Hormuz disruption deepens**
 `06 Sep 11:25 PKT` · pehli baar dekhi `06 Sep 14:34` · investing_news
 
+**U.S. and Iranian Forces Fire on Vessels in Waters Near Iran - pukmedia.com**
+`06 Sep 11:08 PKT` · pehli baar dekhi `07 Sep 09:46` · gnews_geopolitics
+
+U.S. and Iranian Forces Fire on Vessels in Waters Near Iran pukmedia.com
+
 **US and Iran trade retaliatory attacks on ships as conflict flares - People Daily**
 `06 Sep 10:26 PKT` · pehli baar dekhi `06 Sep 14:34` · gnews_geopolitics
 
 US and Iran trade retaliatory attacks on ships as conflict flares People Daily
+
+**US, Iranian forces fire at vessels in waters near Iran - Al Arabiya English**
+`06 Sep 10:11 PKT` · pehli baar dekhi `07 Sep 09:46` · gnews_geopolitics
+
+US, Iranian forces fire at vessels in waters near Iran Al Arabiya English
 
 **Ukraine weighs new tax revenue source to help fund war effort - WSJ**
 `06 Sep 07:40 PKT` · pehli baar dekhi `06 Sep 10:21` · investing_news
@@ -1029,7 +1071,7 @@ At least six other people were injured in the tanker blast on Iran&#039;s Hameda
 
 Live - Iran threatens harsher strikes on US warships as Hegseth vows to sink tankers Iran International
 
-### BINA TAG (227)
+### BINA TAG (228)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -1252,6 +1294,7 @@ Live - Iran threatens harsher strikes on US warships as Hegseth vows to sink tan
 - `06 Sep 04:20` **bbc_business** — Aviation faces hotter, stormier skies – and passengers might have to accept more disruption
 - `06 Sep 03:58` **aljazeera** — Trump-backed group announces $10m ad spend for midterm Senate race in Texas
 - `06 Sep 03:49` **yahoo_finance** — This eVTOL Stock Could Set Early Investors Up for Life
+- `06 Sep 03:45` **yahoo_finance** — Michael Burry Says He Sold Alibaba, Calling It Pricey Before $10.2 Billion Share Sale
 - `06 Sep 03:40` **yahoo_finance** — Why Intel Stock Climbed This Week
 - `06 Sep 03:38` **yahoo_finance** — Man turns Robinhood-AMC feud into $2 million gain in 12 hours
 - `06 Sep 03:20` **yahoo_finance** — Prediction: Here's What a $10,000 Investment in Rocket Lab Will Be Worth in 5 Years
@@ -1277,45 +1320,45 @@ yahoo_finance (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 11 | 4 | 7 | 14 | 0.0 |
-| fxstreet_news | OK | 30 | 4 | 4 | 0 | 26 | 0.0 |
-| fxstreet_analysis | WARN | 30 | 0 | 0 | 0 | 30 | 2.2 |
-| actionforex | OK | 20 | 3 | 1 | 2 | 17 | 0.0 |
-| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.2 |
-| instaforex | OK | 25 | 6 | 4 | 2 | 19 | -0.2 |
-| wsj_economy | WARN | 36 | 0 | 0 | 0 | 36 | 2.0 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 3.8 |
+| investinglive | OK | 25 | 20 | 9 | 11 | 5 | 0.0 |
+| fxstreet_news | OK | 30 | 21 | 17 | 4 | 9 | 0.0 |
+| fxstreet_analysis | OK | 30 | 1 | 1 | 0 | 29 | 0.0 |
+| actionforex | OK | 20 | 8 | 5 | 3 | 12 | 0.0 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.3 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | WARN | 36 | 0 | 0 | 0 | 36 | 2.2 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 4.0 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 50 | 50 | 4 | 46 | 0 | 0.1 |
-| gnews_geopolitics | OK | 60 | 60 | 4 | 56 | 0 | 0.0 |
-| gnews_centralbanks | OK | 45 | 45 | 3 | 42 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 12.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.5 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.5 |
-| boj_whatsnew | OK | 44 | 3 | 3 | 0 | 41 | 0.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.9 |
-| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 2.0 |
-| oilprice | OK | 15 | 7 | 1 | 6 | 8 | 0.0 |
-| investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
-| ing_think | OK | 10 | 1 | 0 | 1 | 9 | 0.3 |
-| bbc_business | OK | 51 | 8 | 2 | 6 | 43 | 0.0 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| gnews_fed | OK | 57 | 57 | 21 | 36 | 0 | 0.0 |
+| gnews_geopolitics | OK | 84 | 84 | 34 | 50 | 0 | 0.0 |
+| gnews_centralbanks | OK | 24 | 24 | 12 | 12 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 12.4 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.7 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.8 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 10.6 |
+| boj_whatsnew | OK | 44 | 3 | 0 | 3 | 41 | 0.2 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.1 |
+| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 2.2 |
+| oilprice | OK | 15 | 8 | 1 | 7 | 7 | 0.0 |
+| investing_commodities | OK | 10 | 5 | 4 | 1 | 5 | 0.1 |
+| ing_think | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
+| bbc_business | OK | 51 | 10 | 2 | 8 | 41 | 0.1 |
+| aljazeera | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.5 |
-| eia_energy | OK | 13 | 0 | 0 | 0 | 13 | 2.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.5 |
-| wsj_world | OK | 71 | 7 | 1 | 6 | 64 | 0.1 |
-| wsj_markets | OK | 61 | 3 | 1 | 2 | 58 | 0.0 |
-| investing_news | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 47 | 24 | 23 | 3 | 0.0 |
-| mw_topstories | OK | 10 | 8 | 0 | 8 | 2 | 0.1 |
-| cointelegraph | OK | 30 | 4 | 1 | 3 | 26 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.6 |
+| eia_energy | OK | 13 | 0 | 0 | 0 | 13 | 2.6 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.7 |
+| wsj_world | OK | 71 | 10 | 3 | 7 | 61 | 0.1 |
+| wsj_markets | OK | 61 | 8 | 4 | 4 | 53 | 0.0 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 5 | 1 | 4 | 45 | 0.8 |
+| mw_topstories | OK | 10 | 8 | 0 | 8 | 2 | 0.3 |
+| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.2 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi
