@@ -1,11 +1,11 @@
 {
-  "generated_pkt": "07 Sep 2026 15:44",
+  "generated_pkt": "07 Sep 2026 22:45",
   "trading_day": "2026-09-07",
   "series": {
     "DFEDTARU": {
       "latest": 3.75,
-      "latest_date": "2026-09-06",
-      "n_obs": 1105,
+      "latest_date": "2026-09-07",
+      "n_obs": 1106,
       "changes": {
         "1d": 0.0,
         "5d": 0.0,
