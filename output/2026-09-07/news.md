@@ -1,9 +1,9 @@
 # News Pack — Trading Day 07 Sep 2026
 
 - Trading day: **07 Sep 03:00 -> 08 Sep 02:59 PKT**
-- Aakhri update: **08 Sep 03:06 PKT**
-- Kul khabrein: **959**
-- Feeds: 30/39 OK
+- Aakhri update: **08 Sep 05:24 PKT**
+- Kul khabrein: **972**
+- Feeds: 31/39 OK
 
 ---
 
@@ -220,6 +220,11 @@ Gold (XAU/USD) price dives over 0.40% on Monday following last Friday's US jobs 
 
 **Gold head & shoulders at $4,452 in tight range: Live levels**
 `08 Sep 00:11 PKT` · pehli baar dekhi `08 Sep 03:06` · investing_commodities
+
+**Gold price eases as strong US jobs data boosts Fed rate-hike bets - Mining.com**
+`07 Sep 23:04 PKT` · pehli baar dekhi `08 Sep 05:24` · gnews_fed
+
+Gold price eases as strong US jobs data boosts Fed rate-hike bets Mining.com
 
 **ACG Metals to acquire Keşkek gold project**
 `07 Sep 21:43 PKT` · pehli baar dekhi `08 Sep 00:17` · mining_com
@@ -525,6 +530,11 @@ ING's Chris Turner notes that resilient global equities and an above-consensus U
 `07 Sep 17:29 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_fed
 
 Fed Interest Rate, Meaning, Importance, Impact on Economy Vajiram & Ravi
+
+**A Fed rate hike is coming into view. Here's what UBS says to own — and avoid - CNBC**
+`07 Sep 17:00 PKT` · pehli baar dekhi `08 Sep 05:24` · gnews_fed
+
+A Fed rate hike is coming into view. Here's what UBS says to own — and avoid CNBC
 
 **Analyzing the Final Strategies of the Federal Reserve and Treasury Department from the Nonfarm Payrolls and Market Reactions - Bitget**
 `07 Sep 16:40 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_fed
@@ -939,9 +949,10 @@ EUR/USD holds above 1.1600 after a Monday that covered 28 pips. The Eurozone rev
 The state election result could lead to a debate over the future of the firewall that has kept the Alternative for Germany out of power.
 
 **European shares subdued as surging crude sharpens focus on ECB rate path - The Economic Times**
-`07 Sep 21:41 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_centralbanks · **4 feeds mein**
+`07 Sep 21:41 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_centralbanks · **5 feeds mein**
 
 European shares subdued as surging crude sharpens focus on ECB rate path The Economic Times
+  - `07 Sep 21:41` *gnews_centralbanks* — European shares subdued as surging crude sharpens focus on ECB rate path - The Economic Times
   - `07 Sep 21:35` *gnews_centralbanks* — European shares subdued as surging crude sharpens focus on ECB rate path - marketscreener.com
   - `07 Sep 21:33` *gnews_centralbanks* — European shares subdued as surging crude sharpens focus on ECB rate path - TradingView
   - `07 Sep 21:33` *gnews_centralbanks* — European shares subdued as surging crude sharpens focus on ECB rate path - London South East
@@ -1019,9 +1030,10 @@ EUR/USD holds modest gains at the start of North American trading hours on Monda
   - `07 Sep 17:53` *gnews_centralbanks* — Euro benefits from weaker US Dollar as ECB decision looms - FXStreet
 
 **Euro: ECB tightening supports currency – BBH**
-`07 Sep 17:45 PKT` · pehli baar dekhi `07 Sep 20:19` · fxstreet_news · **2 feeds mein**
+`07 Sep 17:45 PKT` · pehli baar dekhi `07 Sep 20:19` · fxstreet_news · **3 feeds mein**
 
 Brown Brothers Harriman's (BBH) Elias Haddad expects the European Central Bank (ECB) to deliver another 25 bps hike this week, taking the policy rate to 2.50%, supported by above-target Eurozone inflation and a firmer growth outlook.
+  - `08 Sep 01:19` *gnews_centralbanks* — Euro: ECB tightening supports currency – BBH - Bitget
   - `07 Sep 17:45` *gnews_centralbanks* — Euro: ECB tightening supports currency – BBH - FXStreet
 
 **EUR/USD Daily Outlook**
@@ -1807,6 +1819,11 @@ The New Zealand dollar slipped to $0.586 on Monday, extending last week's 0.6% d
 
 ### OIL
 
+**WTI Oil Back At $90 as U.S. Launches More Strikes Against Iran - WSJ**
+`08 Sep 02:53 PKT` · pehli baar dekhi `08 Sep 05:24` · gnews_geopolitics
+
+WTI Oil Back At $90 as U.S. Launches More Strikes Against Iran WSJ
+
 **Crude oil hits six-week high amid US-Iran tensi... - Pluang**
 `08 Sep 02:33 PKT` · pehli baar dekhi `08 Sep 03:06` · gnews_geopolitics
 
@@ -1900,10 +1917,11 @@ China has paused approvals for new battery storage factories amid a review of ex
 
 Iran Strikes Back: Gulf Tensions Escalate Amid Oil Crisis Devdiscourse
 
-**Brent crude oil price nears $100 as attacks on tankers threaten to worsen supply shock - The Economic Times**
-`07 Sep 21:03 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics
+**Brent crude oil price nears $100 as attacks on tankers threaten to worsen supply shock - economictimes.com**
+`07 Sep 21:03 PKT` · pehli baar dekhi `08 Sep 05:24` · gnews_geopolitics · **2 feeds mein**
 
-Brent crude oil price nears $100 as attacks on tankers threaten to worsen supply shock The Economic Times
+Brent crude oil price nears $100 as attacks on tankers threaten to worsen supply shock economictimes.com
+  - `07 Sep 21:03` *gnews_geopolitics* — Brent crude oil price nears $100 as attacks on tankers threaten to worsen supply shock - The Economic Times
 
 **Uzbekistan Scales Back Nuclear Cooperation With Russia**
 `07 Sep 21:00 PKT` · pehli baar dekhi `08 Sep 00:17` · oilprice
@@ -1995,6 +2013,11 @@ The prices of crudes from Canada, South America, and Africa have jumped in recen
 `07 Sep 19:00 PKT` · pehli baar dekhi `07 Sep 20:19` · oilprice
 
 The Trump administration has revived its diplomatic drive to end Russia's war in Ukraine, as US envoys Steve Witkoff and Jared Kushner traveled from Moscow to Kyiv in a high-profile effort to lay the groundwork for another round of negotiations. But after separate meetings with Russian President Vladimir Putin and Ukrainian President Volodymyr Zelenskyy, the central question remains unanswered: Has Moscow changed its position enough to make a settlement possible?
+
+**Oil prices rise to six-week highs on worsening Middle East conflict - BNN Bloomberg**
+`07 Sep 18:47 PKT` · pehli baar dekhi `08 Sep 05:24` · gnews_geopolitics
+
+Oil prices rise to six-week highs on worsening Middle East conflict BNN Bloomberg
 
 **Brent crude surpasses $97 amid supply concerns - ارقام: اخبار ومعلومات سوق الأسهم السعودي - تاسي**
 `07 Sep 18:47 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics
@@ -2146,6 +2169,11 @@ European Markets Slide Amid Rising Oil and Inflation Concerns Devdiscourse
 `07 Sep 14:19 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_geopolitics
 
 Oil Rises as U.S.-Iran Attacks Heighten Hormuz Supply Risks Moomoo
+
+**Brent Tops US$97 After US Hits Iranian Tankers - News Ghana**
+`07 Sep 14:19 PKT` · pehli baar dekhi `08 Sep 05:24` · gnews_geopolitics
+
+Brent Tops US$97 After US Hits Iranian Tankers News Ghana
 
 **Brent: Supply risks support prices – Danske Bank**
 `07 Sep 14:10 PKT` · pehli baar dekhi `07 Sep 14:46` · fxstreet_news
@@ -2505,12 +2533,13 @@ Crude Prices, Federal Reserve Speculations, and Upcoming Market Events: What to 
 OPEC+ kept October production quotas unchanged at Sunday's meeting, but the decision carries less weight than usual while the Iran war continues to disrupt exports through the Strait of Hormuz. The seven-member subgroup led by Saudi Arabia and Russia has now completed the phased rollback of the 1.65m-barrel-per-day cut first agreed in 2023, yet actual [&#8230;] The post OPEC+ Steps Aside as Hormuz, Not Quotas, Controls the Oil Market appeared first on ActionForex.
 
 **Oil extends gains after US and Iran strike ships**
-`07 Sep 07:00 PKT` · pehli baar dekhi `07 Sep 09:46` · investing_commodities · **9 feeds mein**
+`07 Sep 07:00 PKT` · pehli baar dekhi `07 Sep 09:46` · investing_commodities · **10 feeds mein**
   - `07 Sep 12:12` *gnews_geopolitics* — Oil extends gains after US and Iran strike ships - Channel Africa
   - `07 Sep 12:05` *gnews_geopolitics* — Oil extends gains after US and Iran strike ships - Arab News
   - `07 Sep 12:05` *gnews_geopolitics* — Oil extends gains after US and Iran strike ships - Arab News PK
   - `07 Sep 08:49` *gnews_geopolitics* — Oil extends gains after US and Iran strike ships - DZRH
   - `07 Sep 06:27` *gnews_geopolitics* — Oil extends gains after US and Iran strike ships - Deccan Herald
+  - `07 Sep 06:19` *gnews_geopolitics* — Oil extends gains after U.S. and Iran strike ships - CNBC
   - `07 Sep 05:28` *gnews_geopolitics* — Oil extends gains after US and Iran strike ships - Bitget
   - `07 Sep 05:15` *gnews_geopolitics* — Oil extends gains after US and Iran strike ships - Reuters
   - `07 Sep 05:15` *gnews_geopolitics* — Oil extends gains after US and Iran strike ships - Yahoo Finance
@@ -2861,10 +2890,20 @@ Gasoline prices hit record $4.15 on Labor Day as Iran war keeps oil costs high |
 
 Thousands attend funeral of war criminal Ratko Mladic in Serbia
 
+**Qatar says sanctions cannot resolve Iran conflict, crisis must be phased out - Iran International**
+`07 Sep 22:49 PKT` · pehli baar dekhi `08 Sep 05:24` · gnews_geopolitics
+
+Qatar says sanctions cannot resolve Iran conflict, crisis must be phased out Iran International
+
 **Russia Vows to Keep Selling Oil to India Despite U.S. Tariff Threat**
 `07 Sep 22:30 PKT` · pehli baar dekhi `08 Sep 00:17` · oilprice
 
 Russia will remain a key crude oil supplier to India, Russia's Ambassador to India, Denis Alipov, said in an interview with Asian News International, in which he also criticized the planned U.S. legislation to slap tariffs on countries importing Russian oil. Russia has become India's single-biggest oil supplier in recent years, after the U.S., the UK, and the EU banned Russian oil imports and moved to increase sanction pressure on Russia following the invasion of Ukraine. U.S.
+
+**Iran threatens sanctions on ships entering new exclusion zone - IDNFinancials**
+`07 Sep 22:00 PKT` · pehli baar dekhi `08 Sep 05:24` · gnews_geopolitics
+
+Iran threatens sanctions on ships entering new exclusion zone IDNFinancials
 
 **LME Copper Prices Hit Record on Supply Issues, U.S. Tariff Concerns**
 `07 Sep 21:42 PKT` · pehli baar dekhi `08 Sep 00:17` · wsj_markets
@@ -3067,11 +3106,12 @@ Iran doubles gasoline price amid fears of renewed unrest Iran International
 **Retailers are Handling Tariff Refunds in Very Different Ways: Walmart and Home Depot**
 `07 Sep 03:56 PKT` · pehli baar dekhi `07 Sep 05:10` · yahoo_finance
 
-### BINA TAG (271)
+### BINA TAG (273)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
 - `08 Sep 02:54` **gnews_fed** — Solana targets $120 as ETF inflows and network activity rise - Cryptonews.net
+- `08 Sep 02:54` **investing_news** — EverBank to combine with WaFd in $3.9 billion reverse merger
 - `08 Sep 02:34` **wsj_world** — Opinion | Mamdani Denounces an Indian Nonprofit
 - `08 Sep 02:30` **investing_news** — Mexico stocks lower at close of trade; S&P/BMV IPC down 0.21%
 - `08 Sep 02:25` **investing_news** — Colombia stocks higher at close of trade; COLCAP up 0.82%
@@ -3168,6 +3208,7 @@ Iran doubles gasoline price amid fears of renewed unrest Iran International
 - `07 Sep 18:55` **yahoo_finance** — Here's Why SGA U.S. LCG Liquidated Its Position in Aon plc (AON)
 - `07 Sep 18:52` **aljazeera** — Israeli attacks on Gaza kill five Palestinians, including two children
 - `07 Sep 18:46` **aljazeera** — 'Breaks my heart': Yemen jab shortages spark fears for millions of children
+- `07 Sep 18:43` **gnews_fed** — Rupiah Strengthens to Rp17,640: What Drove the Gain? - Tempo.co English
 - `07 Sep 18:42` **yahoo_finance** — Do You Believe West Pharmaceutical Services (WST) Represents a Tremendous Opportunity?
 - `07 Sep 18:34` **yahoo_finance** — Do You Think Micron Technology's (MU) Return Drivers May Falter Ahead
 - `07 Sep 18:30` **aljazeera** — Iraq faces sovereignty test as US-led military coalition exit nears
@@ -3359,45 +3400,45 @@ yahoo_finance (1), investing_news (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 8 | 22 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 2 | 0 | 2 | 28 | 0.2 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.1 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
-| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.5 |
-| cme_metals_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.1 |
-| cme_fx_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.2 |
-| cme_rates_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.2 |
-| cme_energy_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.2 |
-| cme_daily_commentary | STALE | 10 | 0 | 0 | 0 | 10 | 3.1 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 4.7 |
+| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 6 | 24 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 2 | 0 | 2 | 28 | 0.3 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.2 |
+| instaforex | OK | 25 | 25 | 24 | 1 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.6 |
+| cme_metals_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.2 |
+| cme_fx_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.3 |
+| cme_rates_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.3 |
+| cme_energy_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.3 |
+| cme_daily_commentary | STALE | 10 | 0 | 0 | 0 | 10 | 3.2 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 4.8 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 87 | 87 | 11 | 76 | 0 | 0.0 |
-| gnews_geopolitics | OK | 100 | 100 | 6 | 94 | 0 | 0.0 |
-| gnews_centralbanks | OK | 77 | 77 | 6 | 71 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.4 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.5 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.4 |
-| boj_whatsnew | OK | 44 | 5 | 0 | 5 | 39 | 0.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.8 |
-| mining_com | OK | 36 | 3 | 1 | 2 | 33 | 0.1 |
-| oilprice | OK | 15 | 15 | 3 | 12 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| bbc_business | OK | 52 | 14 | 0 | 14 | 38 | 0.2 |
-| aljazeera | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
-| snb_press | OK | 20 | 4 | 0 | 4 | 16 | -0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 4.4 |
-| eia_energy | WARN | 13 | 0 | 0 | 0 | 13 | 3.3 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 4.4 |
-| wsj_world | OK | 71 | 18 | 3 | 15 | 53 | 0.0 |
-| wsj_markets | OK | 60 | 22 | 2 | 20 | 38 | 0.1 |
-| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 7 | 1 | 6 | 43 | 0.3 |
-| mw_topstories | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 17 | 2 | 15 | 13 | 0.0 |
+| gnews_fed | OK | 84 | 84 | 5 | 79 | 0 | 0.1 |
+| gnews_geopolitics | OK | 100 | 100 | 10 | 90 | 0 | 0.1 |
+| gnews_centralbanks | OK | 79 | 79 | 2 | 77 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.5 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.5 |
+| boj_whatsnew | OK | 42 | 6 | 1 | 5 | 36 | 0.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.9 |
+| mining_com | OK | 36 | 3 | 0 | 3 | 33 | 0.2 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.6 |
+| bbc_business | OK | 52 | 18 | 4 | 14 | 34 | 0.0 |
+| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
+| snb_press | OK | 20 | 4 | 0 | 4 | 16 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 4.5 |
+| eia_energy | WARN | 13 | 0 | 0 | 0 | 13 | 3.4 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 4.5 |
+| wsj_world | OK | 72 | 19 | 1 | 18 | 53 | 0.1 |
+| wsj_markets | OK | 60 | 23 | 1 | 22 | 37 | 0.0 |
+| investing_news | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| yahoo_finance | OK | 49 | 6 | 0 | 6 | 43 | 0.4 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 17 | 0 | 17 | 13 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - cme_metals_video — STALE, cadence 1d, magar 3d purana
@@ -3406,4 +3447,3 @@ yahoo_finance (1), investing_news (1)
 - cme_energy_video — STALE, cadence 1d, magar 3d purana
 - cme_daily_commentary — STALE, cadence 1d, magar 3d purana
 - kitco_general — FAIL, koi item nahi
-- ing_think — FAIL, ConnectTimeout
