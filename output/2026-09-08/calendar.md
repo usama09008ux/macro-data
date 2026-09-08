@@ -1,6 +1,6 @@
 # Calendar — Trading Day 08 Sep 2026
 
-- Banaya gaya: **08 Sep 2026 05:38 PKT**
+- Banaya gaya: **08 Sep 2026 14:55 PKT**
 - Trading day: **08 Sep 03:00 -> 09 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,18 +12,15 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 06:30 | AUD | low | NAB Business Confidence | - | -6 |
-| 07:03 | CNY | low | Trade Balance | 805B | 767B |
-| 07:04 | CNY | low | USD-Denominated Trade Balance | 118.6B | 112.5B |
-| 08:20 | AUD | low | RBA Assist Gov Hunter Speaks | - | - |
-| 10:00 | JPY | low | Economy Watchers Sentiment | 46.3 | 45.7 |
-| 11:00 | EUR | low | German Trade Balance | 16.0B | 15.4B |
-| 11:45 | EUR | low | French Trade Balance | -6.0B | -5.8B |
-| 14:30 | AUD | low | RBA Deputy Gov Hauser Speaks | - | - |
 | 15:00 | USD | low | NFIB Small Business Index | 99.4 | 99.8 |
 | 18:15 | GBP | MED | Monetary Policy Report Hearings | - | - |
 | **09 Sep** 00:00 | USD | low | Consumer Credit m/m | 11.9B | 14.2B |
 | **09 Sep** 04:50 | JPY | low | M2 Money Stock y/y | 2.2% | 2.2% |
+| **09 Sep** 06:30 | CNY | low | CPI y/y | 0.8% | 0.5% |
+| **09 Sep** 06:30 | CNY | low | PPI y/y | 3.6% | 3.5% |
+| **09 Sep** 11:00 | JPY | low | Prelim Machine Tool Orders y/y | - | 50.4% |
+| **09 Sep** 11:45 | EUR | low | French Industrial Production m/m | 0.2% | 0.1% |
+| **09 Sep** 14:42 | EUR | low | German 10-y Bond Auction | - | 3.26|1.1 |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
