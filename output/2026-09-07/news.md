@@ -1,8 +1,8 @@
 # News Pack — Trading Day 07 Sep 2026
 
 - Trading day: **07 Sep 03:00 -> 08 Sep 02:59 PKT**
-- Aakhri update: **08 Sep 05:24 PKT**
-- Kul khabrein: **972**
+- Aakhri update: **08 Sep 10:01 PKT**
+- Kul khabrein: **992**
 - Feeds: 31/39 OK
 
 ---
@@ -226,6 +226,11 @@ Gold (XAU/USD) price dives over 0.40% on Monday following last Friday's US jobs 
 
 Gold price eases as strong US jobs data boosts Fed rate-hike bets Mining.com
 
+**Silver tests consolidation range ahead of Federal Reserve interest rate decision - moomoo.com**
+`07 Sep 22:37 PKT` · pehli baar dekhi `08 Sep 10:01` · gnews_fed
+
+Silver tests consolidation range ahead of Federal Reserve interest rate decision moomoo.com
+
 **ACG Metals to acquire Keşkek gold project**
 `07 Sep 21:43 PKT` · pehli baar dekhi `08 Sep 00:17` · mining_com
 
@@ -387,6 +392,11 @@ ING's Chris Turner reports that USD/KRW rebounded from 1335 after news that Kore
 `08 Sep 02:01 PKT` · pehli baar dekhi `08 Sep 03:06` · fxstreet_news
 
 MUFG's Lloyd Chan warns that upcoming US inflation data could test the recent Rupiah recovery, as firmer US inflation may reinforce elevated US yields and challenge USD/IDR's break below 17,700.
+
+**ECB Interest Rate Hike: Rising Inflation and Bond Yields Put Europe on Alert - Tekedia**
+`08 Sep 01:30 PKT` · pehli baar dekhi `08 Sep 10:01` · gnews_centralbanks
+
+ECB Interest Rate Hike: Rising Inflation and Bond Yields Put Europe on Alert Tekedia
 
 **Vietnam: Inflation and trade trends shape VND – Commerzbank**
 `08 Sep 01:18 PKT` · pehli baar dekhi `08 Sep 03:06` · fxstreet_news
@@ -671,8 +681,11 @@ UBS forecasts two US Fed rate hikes in 2026 after strong jobs report Reuters
   - `07 Sep 14:06` *gnews_fed* — UBS forecasts two US Fed rate hikes in 2026 after strong jobs report - The Lufkin Daily News
   - `07 Sep 14:13` *investing_news* — UBS forecasts two US Fed rate hikes in 2026 after strong jobs report
 
-**If the Fed Hikes Interest Rates This Month, History Says This Is the Smartest ETF to Buy Right Now**
-`07 Sep 14:03 PKT` · pehli baar dekhi `07 Sep 14:46` · yahoo_finance
+**If the Fed Hikes Interest Rates This Month, History Says This Is the Smartest ETF to Buy Right Now - Yahoo Finance**
+`07 Sep 14:03 PKT` · pehli baar dekhi `08 Sep 10:01` · gnews_fed · **2 feeds mein**
+
+If the Fed Hikes Interest Rates This Month, History Says This Is the Smartest ETF to Buy Right Now Yahoo Finance
+  - `07 Sep 14:03` *yahoo_finance* — If the Fed Hikes Interest Rates This Month, History Says This Is the Smartest ETF to Buy Right Now
 
 **US Dollar: Inflation data guide blackout repricing – BNY**
 `07 Sep 13:58 PKT` · pehli baar dekhi `07 Sep 14:46` · fxstreet_news
@@ -903,6 +916,17 @@ Hammack's comments add another hawkish voice to a Fed that already looks more sp
 
 ### EUR
 
+**European shares subdued as surging crude sharpens focus on ECB rate path - The Business Times**
+`08 Sep 02:45 PKT` · pehli baar dekhi `08 Sep 10:01` · gnews_centralbanks · **7 feeds mein**
+
+European shares subdued as surging crude sharpens focus on ECB rate path The Business Times
+  - `07 Sep 21:41` *gnews_centralbanks* — European shares subdued as surging crude sharpens focus on ECB rate path - The Economic Times
+  - `07 Sep 21:41` *gnews_centralbanks* — European shares subdued as surging crude sharpens focus on ECB rate path - The Economic Times
+  - `07 Sep 21:35` *gnews_centralbanks* — European shares subdued as surging crude sharpens focus on ECB rate path - marketscreener.com
+  - `07 Sep 21:35` *gnews_centralbanks* — European shares subdued as surging crude sharpens focus on ECB rate path - Reuters
+  - `07 Sep 21:33` *gnews_centralbanks* — European shares subdued as surging crude sharpens focus on ECB rate path - TradingView
+  - `07 Sep 21:33` *gnews_centralbanks* — European shares subdued as surging crude sharpens focus on ECB rate path - London South East
+
 **Opinion | Europe Hits the Snooze Button**
 `08 Sep 02:27 PKT` · pehli baar dekhi `08 Sep 03:06` · wsj_world
 
@@ -947,15 +971,6 @@ EUR/USD holds above 1.1600 after a Monday that covered 28 pips. The Eurozone rev
 `07 Sep 22:13 PKT` · pehli baar dekhi `08 Sep 00:17` · wsj_world
 
 The state election result could lead to a debate over the future of the firewall that has kept the Alternative for Germany out of power.
-
-**European shares subdued as surging crude sharpens focus on ECB rate path - The Economic Times**
-`07 Sep 21:41 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_centralbanks · **5 feeds mein**
-
-European shares subdued as surging crude sharpens focus on ECB rate path The Economic Times
-  - `07 Sep 21:41` *gnews_centralbanks* — European shares subdued as surging crude sharpens focus on ECB rate path - The Economic Times
-  - `07 Sep 21:35` *gnews_centralbanks* — European shares subdued as surging crude sharpens focus on ECB rate path - marketscreener.com
-  - `07 Sep 21:33` *gnews_centralbanks* — European shares subdued as surging crude sharpens focus on ECB rate path - TradingView
-  - `07 Sep 21:33` *gnews_centralbanks* — European shares subdued as surging crude sharpens focus on ECB rate path - London South East
 
 **Mélenchon Fumes at ECB Rate Hikes After Calling for Debt Wipeout - Bloomberg.com**
 `07 Sep 20:45 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_centralbanks
@@ -1086,9 +1101,10 @@ ECB Poised for a September Hike, But the Path Beyond Divides Opinion RankiaPro
 French minister calls AfD&#039;s victory a grave moment, warning of growing nationalism and its impact on European unity.
 
 **ECB rate decision: Five key questions for markets as energy prices fuel inflation fears - The Economic Times**
-`07 Sep 15:05 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_centralbanks
+`07 Sep 15:05 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_centralbanks · **2 feeds mein**
 
 ECB rate decision: Five key questions for markets as energy prices fuel inflation fears The Economic Times
+  - `07 Sep 15:05` *gnews_centralbanks* — ECB rate decision: Five key questions for markets as energy prices fuel inflation fears - The Economic Times
 
 **EMEA FX Talking: High yield and CEE remain in demand**
 `07 Sep 15:01 PKT` · pehli baar dekhi `08 Sep 00:17` · ing_think
@@ -1297,6 +1313,12 @@ Deutsche Bank expects ECB to extend rate hikes through December The Edge Malaysi
 
 EUROPE: German industry disappointed in July and shows how fragile the cyclical rebound still is
 
+**Another rate hike - for insurance: 5 questions for ECB - RTE.ie**
+`07 Sep 11:03 PKT` · pehli baar dekhi `08 Sep 10:01` · gnews_centralbanks · **2 feeds mein**
+
+Another rate hike - for insurance: 5 questions for ECB RTE.ie
+  - `07 Sep 09:03` *gnews_centralbanks* — Another rate hike, just for insurance: Five questions for the ECB - Reuters
+
 **Germany factory output slumps in July as autos hit the brakes**
 `07 Sep 11:02 PKT` · pehli baar dekhi `07 Sep 14:46` · investinglive
 
@@ -1323,11 +1345,10 @@ Deutsche Bank expects ECB to extend rate hikes through December TradingView
 ECB poised for rate hike as Middle East fighting pushes eurozone inflation to three‑year high Malay Mail
 
 **Another rate hike, just for insurance: Five questions for the ECB - The Lufkin Daily News**
-`07 Sep 09:19 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_centralbanks · **4 feeds mein**
+`07 Sep 09:19 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_centralbanks · **3 feeds mein**
 
 Another rate hike, just for insurance: Five questions for the ECB The Lufkin Daily News
   - `07 Sep 09:03` *gnews_centralbanks* — Another rate hike, just for insurance: Five questions for the ECB - Yahoo Finance
-  - `07 Sep 09:03` *gnews_centralbanks* — Another rate hike, just for insurance: Five questions for the ECB - Reuters
   - `07 Sep 09:03` *gnews_centralbanks* — Another rate hike, just for insurance: Five questions for the ECB - AOL.ca
 
 **EUR/GBP at 0.8610: ECB Projections, Not the Hike, Hold the Key**
@@ -1479,6 +1500,15 @@ USDJPY accelerated lower at the start of the week (down over 1% in Asian / Europ
 
 Yen surged roughly 1% against every major currency on Monday, with USD/JPY breaking through 155, a level that had repeatedly marked the floor after Japan's earlier intervention episodes this year, extending Yen's cumulative gain against Dollar to around 3.3% over the first five trading sessions of September. The post Yen's Broad Surge: Why the BoJ Rate Path, Not Intervention, Is the Real Story appeared first on ActionForex.
 
+**Takaichi's reflationist aide projects Bank of Japan rate hike in September - Malaya Business Insight**
+`07 Sep 18:20 PKT` · pehli baar dekhi `08 Sep 10:01` · gnews_centralbanks · **5 feeds mein**
+
+Takaichi's reflationist aide projects Bank of Japan rate hike in September Malaya Business Insight
+  - `07 Sep 13:21` *gnews_centralbanks* — Takaichi's reflationist aide projects Bank of Japan rate hike in September - Hiru News
+  - `07 Sep 05:29` *gnews_centralbanks* — Takaichi's reflationist aide projects Bank of Japan rate hike in September - AOL.ca
+  - `07 Sep 05:26` *gnews_centralbanks* — Takaichi's reflationist aide projects Bank of Japan rate hike in September - Reuters
+  - `07 Sep 05:23` *gnews_centralbanks* — Takaichi's reflationist aide projects Bank of Japan rate hike in September - TradingView
+
 **Yen's Resurgence: Traders Eye Bullish Signals Amid Global Financial Shifts - Devdiscourse**
 `07 Sep 17:30 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_fed
 
@@ -1544,17 +1574,6 @@ It's a new week but the key focus in the FX market is still on the Japanese yen.
 
 DBS Group Research strategist Philip Wee highlights growing downside risks in CHF/JPY after the cross failed to re-enter its February–July 198–204 range and slipped to 193.
 
-**Takaichi's reflationist aide projects Bank of Japan rate hike in September - Hiru News**
-`07 Sep 13:21 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_centralbanks · **7 feeds mein**
-
-Takaichi's reflationist aide projects Bank of Japan rate hike in September Hiru News
-  - `07 Sep 09:35` *gnews_centralbanks* — Japan PM Takaichi's reflationist aide projects Bank of Japan rate hike in September - The Straits Times
-  - `07 Sep 05:30` *gnews_centralbanks* — Takaichi's reflationist aide projects Bank of Japan rate hike in September By Reuters - Investing.com
-  - `07 Sep 05:29` *gnews_centralbanks* — Takaichi's reflationist aide projects Bank of Japan rate hike in September - AOL.ca
-  - `07 Sep 05:26` *gnews_centralbanks* — Takaichi's reflationist aide projects Bank of Japan rate hike in September - The Lufkin Daily News
-  - `07 Sep 05:26` *gnews_centralbanks* — Takaichi's reflationist aide projects Bank of Japan rate hike in September - Reuters
-  - `07 Sep 05:23` *gnews_centralbanks* — Takaichi's reflationist aide projects Bank of Japan rate hike in September - TradingView
-
 **Bessent Signals End of Abenomics, Pressures BOJ on Rates - streamlinefeed.co.ke**
 `07 Sep 13:02 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_centralbanks
 
@@ -1594,6 +1613,11 @@ Asia-Pacific technology stocks surged on Monday, buoyed by optimism that a new m
 `07 Sep 09:46 PKT` · instaforex
 
 The Japanese yen hovered around 156 per dollar on Monday after gaining more than 2% last week, supported by growing expectations that the Bank of Japan will raise interest rates this month. Takuji Aida, an economic adviser to Prime Minister Sanae Takaichi, said the central bank is likely to hike rates in September and implement another increase by January next year.
+
+**Japan PM Takaichi's reflationist aide projects Bank of Japan rate hike in September - The Straits Times**
+`07 Sep 09:35 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_centralbanks
+
+Japan PM Takaichi's reflationist aide projects Bank of Japan rate hike in September The Straits Times
 
 **Japan reports largest monthly reserve decline amid yen intervention - nationthailand.com**
 `07 Sep 09:25 PKT` · pehli baar dekhi `07 Sep 09:46` · gnews_fed
@@ -1644,6 +1668,16 @@ The Japanese yen was the biggest mover last week. The yen strengthened as market
 `07 Sep 06:04 PKT` · pehli baar dekhi `07 Sep 09:46` · fxstreet_news
 
 The USD/JPY pair struggles to capitalize on Friday's modest bounce from the vicinity of early August lows and kicks off the new week on a softer note. Spot prices currently trade just below the 156.00 mark, though the downside remains cushioned amid mixed fundamental cues.
+
+**Takaichi's reflationist aide projects Bank of Japan rate hike in September By Reuters - Investing.com**
+`07 Sep 05:30 PKT` · pehli baar dekhi `07 Sep 09:46` · gnews_centralbanks
+
+Takaichi's reflationist aide projects Bank of Japan rate hike in September By Reuters Investing.com
+
+**Takaichi's reflationist aide projects Bank of Japan rate hike in September - The Lufkin Daily News**
+`07 Sep 05:26 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_centralbanks
+
+Takaichi's reflationist aide projects Bank of Japan rate hike in September The Lufkin Daily News
 
 **Japan's Foreign Reserves Drop to $1.21 Trillion in August, Marking Notable Monthly Decline**
 `07 Sep 05:10 PKT` · instaforex
@@ -1833,6 +1867,11 @@ Crude oil hits six-week high amid US-Iran tensi... Pluang
 `08 Sep 02:21 PKT` · pehli baar dekhi `08 Sep 03:06` · gnews_geopolitics
 
 Oil prices hit six-week high amid US-Iran conflict -- but drivers could soon get relief at the pump nypost.com
+
+**Iran Official Warns US Oil and Gas Companies After Flare-Up in Conflict - NTD News**
+`08 Sep 02:17 PKT` · pehli baar dekhi `08 Sep 10:01` · gnews_geopolitics
+
+Iran Official Warns US Oil and Gas Companies After Flare-Up in Conflict NTD News
 
 **Oil prices surge as US-Iran strikes intensify in Strait of Hormuz**
 `08 Sep 02:17 PKT` · pehli baar dekhi `08 Sep 03:06` · aljazeera · **2 feeds mein**
@@ -2279,9 +2318,10 @@ Oil Prices Rise: US-Iran Strikes & Mideast Supply Fears Bol News
 Oil Hits $97 As U.S.-Iran Ship Strikes Raise Hormuz Supply Shock Fears International Business Times, Singapore Edition
 
 **Oil extends gains after US and Iran exchange attacks on ships - KLSE Screener**
-`07 Sep 12:42 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_geopolitics
+`07 Sep 12:42 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_geopolitics · **2 feeds mein**
 
 Oil extends gains after US and Iran exchange attacks on ships KLSE Screener
+  - `07 Sep 12:31` *gnews_geopolitics* — Oil extends gains after US and Iran exchange attacks on ships - The Star
 
 **Oil Jumps Above $97 as US-Iran Tanker Attacks Deepen Supply Fears - Investors King**
 `07 Sep 12:38 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_geopolitics
@@ -2379,6 +2419,11 @@ Iran kept oil exports flowing during US-Israeli aggression despite 550 strikes o
 
 Market Outlook: Crude Prices and Fed Predictions This Week India News Network
 
+**Oil Prices Rise as US-Iran Strikes Disrupt Shipping Through Strait of Hormuz - ABNA English**
+`07 Sep 10:26 PKT` · pehli baar dekhi `08 Sep 10:01` · gnews_geopolitics
+
+Oil Prices Rise as US-Iran Strikes Disrupt Shipping Through Strait of Hormuz ABNA English
+
 **Oil prices approach $97 as renewed US-Iran attacks reduce Strait of Hormuz traffic - Daily Times**
 `07 Sep 10:06 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_geopolitics
 
@@ -2388,6 +2433,11 @@ Oil prices approach $97 as renewed US-Iran attacks reduce Strait of Hormuz traff
 `07 Sep 10:05 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_geopolitics
 
 OPEC+ holds October oil quotas amid Hormuz disruption Nation Thailand
+
+**Iran war exposes limits of OPEC+ power over physical oil supply - middle-east-online.com**
+`07 Sep 10:03 PKT` · pehli baar dekhi `08 Sep 10:01` · gnews_geopolitics
+
+Iran war exposes limits of OPEC+ power over physical oil supply middle-east-online.com
 
 **Palm Oil Holds Gains Ahead of Monthly Data**
 `07 Sep 09:46 PKT` · instaforex
@@ -2895,6 +2945,11 @@ Thousands attend funeral of war criminal Ratko Mladic in Serbia
 
 Qatar says sanctions cannot resolve Iran conflict, crisis must be phased out Iran International
 
+**Trump shares WSJ report on Iranian leaders urging end to war - Iran International**
+`07 Sep 22:40 PKT` · pehli baar dekhi `08 Sep 10:01` · gnews_geopolitics
+
+Trump shares WSJ report on Iranian leaders urging end to war Iran International
+
 **Russia Vows to Keep Selling Oil to India Despite U.S. Tariff Threat**
 `07 Sep 22:30 PKT` · pehli baar dekhi `08 Sep 00:17` · oilprice
 
@@ -2914,6 +2969,14 @@ Copper prices surged to a fresh record on the London Metal Exchange, as mounting
 `07 Sep 21:22 PKT` · pehli baar dekhi `08 Sep 00:17` · aljazeera
 
 Ties between Moscow and Pyongyang have grown extensively amid Russia&#039;s invasion of Ukraine.
+
+**ECB set to hike interest rates as Iran war flares anew - The Manila Times**
+`07 Sep 21:04 PKT` · pehli baar dekhi `08 Sep 10:01` · gnews_centralbanks · **4 feeds mein**
+
+ECB set to hike interest rates as Iran war flares anew The Manila Times
+  - `07 Sep 21:04` *gnews_centralbanks* — ECB set to hike interest rates as Iran war flares anew - Newswav
+  - `07 Sep 10:04` *gnews_centralbanks* — ECB set to hike interest rates as Iran war flares anew - Macau Business
+  - `07 Sep 08:20` *gnews_centralbanks* — ECB set to hike interest rates as Iran war flares anew - Hürriyet Daily News
 
 **Convicted war criminal Ratko Mladic gets hero's burial in Serbia**
 `07 Sep 20:34 PKT` · pehli baar dekhi `08 Sep 00:17` · aljazeera
@@ -2978,6 +3041,14 @@ Global Markets React to Geopolitical Tensions and Central Bank Moves Devdiscours
 **UAE says its energy exports will not be 'held hostage' by Iran war**
 `07 Sep 18:12 PKT` · pehli baar dekhi `07 Sep 20:19` · investing_commodities
 
+**Iran vows to respond to strikes, says US energy companies' facilities 'exposed' - Geo News**
+`07 Sep 18:11 PKT` · pehli baar dekhi `08 Sep 10:01` · gnews_geopolitics · **4 feeds mein**
+
+Iran vows to respond to strikes, says US energy companies' facilities 'exposed' Geo News
+  - `07 Sep 17:12` *gnews_geopolitics* — Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed' - yahoo.com
+  - `07 Sep 13:50` *gnews_geopolitics* — Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed' - The Business Standard
+  - `07 Sep 11:57` *gnews_geopolitics* — Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed' - Reuters
+
 **Serbia holds funeral for convicted war criminal Ratko Mladic**
 `07 Sep 17:55 PKT` · pehli baar dekhi `07 Sep 20:19` · aljazeera
 
@@ -2987,12 +3058,6 @@ The funeral of convicted war criminal Ratko Mladic has been held in Serbia's cap
 `07 Sep 17:49 PKT` · pehli baar dekhi `07 Sep 20:19` · gnews_geopolitics
 
 Iran and Ukraine wars: Why ship fuel is running short, and why it matters Al Jazeera
-
-**Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed' - yahoo.com**
-`07 Sep 17:12 PKT` · pehli baar dekhi `08 Sep 00:17` · gnews_geopolitics · **2 feeds mein**
-
-Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed' yahoo.com
-  - `07 Sep 11:57` *gnews_geopolitics* — Iran vows to respond to US strikes, says US energy companies' facilities are 'exposed' - Reuters
 
 **Could Trump's Iran trade war threaten Spain's saffron-infused paella?**
 `07 Sep 17:00 PKT` · pehli baar dekhi `07 Sep 20:19` · aljazeera
@@ -3059,20 +3124,10 @@ UAE's Stance on Energy Exports and Iran Relations Devdiscourse
 
 FX markets are steady as they absorb the latest geopolitical developments. These include renewed escalation in the Gulf, possible Russia-Ukraine peace talks and far-right success in regional German elections. Resilient growth and high energy prices mean 60-90bp tightening cycles remain priced across major economies. The dollar can stay supported
 
-**ECB set to hike interest rates as Iran war flares anew - Macau Business**
-`07 Sep 10:04 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_centralbanks
-
-ECB set to hike interest rates as Iran war flares anew Macau Business
-
 **Iran strengthens economy, prepares tough response to U.S. attacks - IDNFinancials**
 `07 Sep 08:40 PKT` · pehli baar dekhi `07 Sep 09:46` · gnews_geopolitics
 
 Iran strengthens economy, prepares tough response to U.S. attacks IDNFinancials
-
-**ECB set to hike interest rates as Iran war flares anew - Hürriyet Daily News**
-`07 Sep 08:20 PKT` · pehli baar dekhi `07 Sep 14:46` · gnews_centralbanks
-
-ECB set to hike interest rates as Iran war flares anew Hürriyet Daily News
 
 **Analysis-Ship fuel shortage looms as refiners strained by war favour other products**
 `07 Sep 08:18 PKT` · pehli baar dekhi `07 Sep 09:46` · investing_commodities · **2 feeds mein**
@@ -3106,7 +3161,7 @@ Iran doubles gasoline price amid fears of renewed unrest Iran International
 **Retailers are Handling Tariff Refunds in Very Different Ways: Walmart and Home Depot**
 `07 Sep 03:56 PKT` · pehli baar dekhi `07 Sep 05:10` · yahoo_finance
 
-### BINA TAG (273)
+### BINA TAG (276)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -3131,6 +3186,7 @@ Iran doubles gasoline price amid fears of renewed unrest Iran International
 - `08 Sep 00:03` **aljazeera** — Syria detains Assad-era general accused of bloody crackdown on protests
 - `07 Sep 23:57` **fxstreet_news** — Equities: AI-led upside and income focus – HSBC
 - `07 Sep 23:53` **cointelegraph** — Joe Biden's son to launch memecoin, will send to TRUMP holders: WSJ
+- `07 Sep 23:46` **gnews_fed** — Trump keeps heralding an economic boom, but even a solid jobs report is causing problems for him - PBS
 - `07 Sep 23:40` **investing_news** — Trump demands Bombardier quit US market unless it builds planes there
 - `07 Sep 23:36` **investing_news** — Tech companies look to Argentina's windswept Patagonia to build massive data centers
 - `07 Sep 23:11` **aljazeera** — Israel's plan to split the West Bank
@@ -3208,6 +3264,7 @@ Iran doubles gasoline price amid fears of renewed unrest Iran International
 - `07 Sep 18:55` **yahoo_finance** — Here's Why SGA U.S. LCG Liquidated Its Position in Aon plc (AON)
 - `07 Sep 18:52` **aljazeera** — Israeli attacks on Gaza kill five Palestinians, including two children
 - `07 Sep 18:46` **aljazeera** — 'Breaks my heart': Yemen jab shortages spark fears for millions of children
+- `07 Sep 18:45` **gnews_fed** — Solana targets $120 as ETF inflows and network activity rise - TradingView
 - `07 Sep 18:43` **gnews_fed** — Rupiah Strengthens to Rp17,640: What Drove the Gain? - Tempo.co English
 - `07 Sep 18:42` **yahoo_finance** — Do You Believe West Pharmaceutical Services (WST) Represents a Tremendous Opportunity?
 - `07 Sep 18:34` **yahoo_finance** — Do You Think Micron Technology's (MU) Return Drivers May Falter Ahead
@@ -3375,6 +3432,7 @@ Iran doubles gasoline price amid fears of renewed unrest Iran International
 - `07 Sep 03:51` **yahoo_finance** — Prediction: Taiwan Semiconductor's Market Value Passes $3 Trillion Before 2029
 - `07 Sep 03:48` **yahoo_finance** — Apple (AAPL) Raises Apple TV and Apple One Prices Again in the U.S.
 - `07 Sep 03:47` **gnews_fed** — Federal Reserve sends alarming warning to stock market investors - Rolling Out
+- `07 Sep 03:47` **yahoo_finance** — Solana (SOL) Eyes Rally to $120 as ETFs Book 10-Week Streak of Positive Inflows
 - `07 Sep 03:41` **yahoo_finance** — Goldman Sachs (GS) Partner: AI Risks Leaving the Next Generation of Bankers Unable to Think for Themselves
 - `07 Sep 03:35` **yahoo_finance** — OpenAI Cuts Cursor Off from its Models Now That Musk's SpaceX (SPCX) Owns It
 - `07 Sep 03:31` **yahoo_finance** — Nvidia (NVDA)'s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet
@@ -3400,45 +3458,45 @@ yahoo_finance (1), investing_news (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 6 | 24 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 2 | 0 | 2 | 28 | 0.3 |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.2 |
-| instaforex | OK | 25 | 25 | 24 | 1 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.6 |
-| cme_metals_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.2 |
-| cme_fx_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.3 |
-| cme_rates_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.3 |
-| cme_energy_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.3 |
-| cme_daily_commentary | STALE | 10 | 0 | 0 | 0 | 10 | 3.2 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 4.8 |
+| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 17 | 13 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 3 | 1 | 2 | 27 | 0.1 |
+| actionforex | OK | 20 | 20 | 7 | 13 | 0 | 0.1 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.4 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.8 |
+| cme_metals_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.4 |
+| cme_fx_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.5 |
+| cme_rates_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.5 |
+| cme_energy_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.5 |
+| cme_daily_commentary | STALE | 10 | 0 | 0 | 0 | 10 | 3.4 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 5.0 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 84 | 84 | 5 | 79 | 0 | 0.1 |
-| gnews_geopolitics | OK | 100 | 100 | 10 | 90 | 0 | 0.1 |
-| gnews_centralbanks | OK | 79 | 79 | 2 | 77 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.5 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.5 |
-| boj_whatsnew | OK | 42 | 6 | 1 | 5 | 36 | 0.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.9 |
-| mining_com | OK | 36 | 3 | 0 | 3 | 33 | 0.2 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.6 |
-| bbc_business | OK | 52 | 18 | 4 | 14 | 34 | 0.0 |
-| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
+| gnews_fed | OK | 69 | 69 | 11 | 58 | 0 | 0.1 |
+| gnews_geopolitics | OK | 100 | 100 | 33 | 67 | 0 | 0.0 |
+| gnews_centralbanks | OK | 73 | 73 | 16 | 57 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.7 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.8 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 11.7 |
+| boj_whatsnew | OK | 42 | 6 | 0 | 6 | 36 | 0.2 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.1 |
+| mining_com | OK | 36 | 3 | 0 | 3 | 33 | 0.4 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.2 |
+| investing_commodities | OK | 10 | 10 | 5 | 5 | 0 | 0.1 |
+| ing_think | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| bbc_business | OK | 52 | 20 | 2 | 18 | 32 | 0.0 |
+| aljazeera | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
 | snb_press | OK | 20 | 4 | 0 | 4 | 16 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 4.5 |
-| eia_energy | WARN | 13 | 0 | 0 | 0 | 13 | 3.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 4.5 |
-| wsj_world | OK | 72 | 19 | 1 | 18 | 53 | 0.1 |
-| wsj_markets | OK | 60 | 23 | 1 | 22 | 37 | 0.0 |
-| investing_news | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 6 | 0 | 6 | 43 | 0.4 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 17 | 0 | 17 | 13 | 0.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 4.7 |
+| eia_energy | WARN | 13 | 0 | 0 | 0 | 13 | 3.6 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 4.7 |
+| wsj_world | OK | 72 | 21 | 2 | 19 | 51 | 0.1 |
+| wsj_markets | OK | 60 | 27 | 6 | 21 | 33 | 0.0 |
+| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 19 | 1 | 18 | 31 | 0.6 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 18 | 1 | 17 | 12 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - cme_metals_video — STALE, cadence 1d, magar 3d purana
