@@ -1,6 +1,6 @@
 # Calendar — Trading Day 08 Sep 2026
 
-- Banaya gaya: **08 Sep 2026 14:55 PKT**
+- Banaya gaya: **08 Sep 2026 20:42 PKT**
 - Trading day: **08 Sep 03:00 -> 09 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,8 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 15:00 | USD | low | NFIB Small Business Index | 99.4 | 99.8 |
-| 18:15 | GBP | MED | Monetary Policy Report Hearings | - | - |
 | **09 Sep** 00:00 | USD | low | Consumer Credit m/m | 11.9B | 14.2B |
 | **09 Sep** 04:50 | JPY | low | M2 Money Stock y/y | 2.2% | 2.2% |
 | **09 Sep** 06:30 | CNY | low | CPI y/y | 0.8% | 0.5% |
@@ -21,6 +19,8 @@
 | **09 Sep** 11:00 | JPY | low | Prelim Machine Tool Orders y/y | - | 50.4% |
 | **09 Sep** 11:45 | EUR | low | French Industrial Production m/m | 0.2% | 0.1% |
 | **09 Sep** 14:42 | EUR | low | German 10-y Bond Auction | - | 3.26|1.1 |
+| **09 Sep** 17:15 | USD | low | ADP Weekly Employment Change | - | - |
+| **09 Sep** 17:16 | USD | low | ADP Weekly Employment Change | - | 11.8K |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
@@ -30,7 +30,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **09 Sep** 22:00 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | **10 Sep** 17:15 | EUR | **HIGH** | Main Refinancing Rate | 2.65% | 2.40% |
 | **10 Sep** 17:15 | EUR | **HIGH** | Monetary Policy Statement | - | - |
 | **10 Sep** 17:30 | USD | **HIGH** | Core PPI m/m | 0.3% | 0.2% |

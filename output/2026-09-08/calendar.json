@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "08 Sep 2026 14:55",
+  "generated_pkt": "08 Sep 2026 20:42",
   "trading_day": "2026-09-08",
   "feed_sources": {
     "thisweek": "live"
@@ -500,12 +500,12 @@
       "trading_day": "2026-09-09"
     },
     {
-      "title": "ECB President Lagarde Speaks",
+      "title": "German Buba President Nagel Speaks",
       "ccy": "EUR",
-      "impact": "Medium",
+      "impact": "Low",
       "forecast": "",
       "previous": "",
-      "url": "https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks",
+      "url": "https://www.forexfactory.com/calendar/851-ge-buba-president-nagel-speaks",
       "all_day": false,
       "utc": "2026-09-09T17:00Z",
       "pkt": "09 Sep 22:00",
@@ -513,12 +513,12 @@
       "trading_day": "2026-09-09"
     },
     {
-      "title": "German Buba President Nagel Speaks",
+      "title": "ECB President Lagarde Speaks",
       "ccy": "EUR",
       "impact": "Low",
       "forecast": "",
       "previous": "",
-      "url": "https://www.forexfactory.com/calendar/851-ge-buba-president-nagel-speaks",
+      "url": "https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks",
       "all_day": false,
       "utc": "2026-09-09T17:00Z",
       "pkt": "09 Sep 22:00",
