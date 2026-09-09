@@ -1,8 +1,8 @@
 # News Pack — Trading Day 08 Sep 2026
 
 - Trading day: **08 Sep 03:00 -> 09 Sep 02:59 PKT**
-- Aakhri update: **09 Sep 03:47 PKT**
-- Kul khabrein: **1050**
+- Aakhri update: **09 Sep 05:44 PKT**
+- Kul khabrein: **1063**
 - Feeds: 37/39 OK
 
 ---
@@ -230,6 +230,11 @@ Gold price slides below $4,370 as Brent nears $100 - Kitco PM Report KITCO
 `08 Sep 22:11 PKT` · pehli baar dekhi `09 Sep 03:47` · kitco_general
 
 'The bull trend will resume' and 'you want to scale into a long position' as gold price nears $4,000 pre-FOMC – Goldman Sachs' Kim KITCO
+
+**Gold majors are out of debt and will have to start buying, Lundin says - KITCO**
+`08 Sep 22:09 PKT` · pehli baar dekhi `09 Sep 05:44` · kitco_general
+
+Gold majors are out of debt and will have to start buying, Lundin says KITCO
 
 **Spain faces dilemma of what to do with its gold deposited at the US Federal Reserve - EL PAÍS English**
 `08 Sep 21:23 PKT` · pehli baar dekhi `08 Sep 22:42` · gnews_fed
@@ -882,6 +887,11 @@ The Singapore dollar strengthened slightly against its U.S. counterpart in the A
 **Yen extends rally to new seven-month high; dollar subdued ahead of CPI**
 `08 Sep 08:37 PKT` · pehli baar dekhi `08 Sep 10:01` · investing_news
 
+**Dollar's declining reserve share reflects few countries' choices, not global shift, NY Fed says - 헤럴드경제**
+`08 Sep 08:24 PKT` · pehli baar dekhi `09 Sep 05:44` · gnews_fed
+
+Dollar's declining reserve share reflects few countries' choices, not global shift, NY Fed says 헤럴드경제
+
 **China's August Trade Balance: Surplus widens to $119.09 billion as expected**
 `08 Sep 07:42 PKT` · pehli baar dekhi `08 Sep 10:01` · fxstreet_news
 
@@ -1285,6 +1295,11 @@ The EUR/USD pair trades on a flat note around 1.1625 during the early European t
 `08 Sep 06:46 PKT` · pehli baar dekhi `08 Sep 22:42` · gnews_centralbanks
 
 European shares subdued as surging crude sharpens focus on ECB rate path By Reuters Investing.com Australia
+
+**ECB rate hike is a certainty! But can Lagarde meet market expectations for a 75-basis-point tightening? - Moomoo**
+`08 Sep 06:00 PKT` · pehli baar dekhi `09 Sep 05:44` · gnews_centralbanks
+
+ECB rate hike is a certainty! But can Lagarde meet market expectations for a 75-basis-point tightening? Moomoo
 
 **Deutsche Bank Predicts ECB Rate Hike in December - IDNFinancials**
 `08 Sep 06:00 PKT` · pehli baar dekhi `08 Sep 10:01` · gnews_centralbanks
@@ -2309,6 +2324,11 @@ CENTRAL AND EASTERN EUROPE: We expect the Polish central bank to keep policy rat
 
 US Stock Market Today: Dow Futures Fall 0.75%, S&P 500 Futures Slip 0.31% & Nasdaq Futures Edge Lower As Oil Nears $100; Check Wall Street Outlook & What Investors Should Know The Sunday Guardian
 
+**Oil prices hit 6-week high as conflict with Iran threatens world's energy supply - KHOU**
+`08 Sep 17:12 PKT` · pehli baar dekhi `09 Sep 05:44` · gnews_geopolitics
+
+Oil prices hit 6-week high as conflict with Iran threatens world's energy supply KHOU
+
 **Energy stocks rise premarket as oil prices climb on Middle East supply fears - StreetInsider**
 `08 Sep 17:07 PKT` · pehli baar dekhi `08 Sep 18:51` · gnews_geopolitics
 
@@ -2435,6 +2455,11 @@ Brent pushed through $99 on a confirmed Houthi attack on Saudi Arabia and a more
 **Brent crude hits six-week high near $97 as Houthi strike targets Saudi Aramco**
 `08 Sep 14:22 PKT` · pehli baar dekhi `08 Sep 14:34` · investing_news
 
+**Brent Nears $100 as Iran Warnings Put Gulf Energy Supplies in Focus - uk.finance.yahoo.com**
+`08 Sep 14:14 PKT` · pehli baar dekhi `09 Sep 05:44` · gnews_geopolitics
+
+Brent Nears $100 as Iran Warnings Put Gulf Energy Supplies in Focus uk.finance.yahoo.com
+
 **Petrol prices hit a new high as top US bank predicts fresh crude oil rates - Legit News**
 `08 Sep 14:12 PKT` · pehli baar dekhi `08 Sep 14:34` · gnews_geopolitics
 
@@ -2478,6 +2503,11 @@ U.S. markets wobbled as higher oil prices dragged sentiment before investors ret
 `08 Sep 13:24 PKT` · pehli baar dekhi `08 Sep 14:34` · gnews_geopolitics
 
 Oil Price Forecast: Brent Nears $100 as US-Iran Conflict Escalates FXEmpire
+
+**European Stocks Fall as Oil Prices Extend Gains on Iranian Threats: DAX, CAC, FTSE100 - uk.finance.yahoo.com**
+`08 Sep 13:22 PKT` · pehli baar dekhi `09 Sep 05:44` · gnews_geopolitics
+
+European Stocks Fall as Oil Prices Extend Gains on Iranian Threats: DAX, CAC, FTSE100 uk.finance.yahoo.com
 
 **Oil prices hit multi-week highs on Iran tensions - grafa.com**
 `08 Sep 13:17 PKT` · pehli baar dekhi `08 Sep 18:51` · gnews_geopolitics
@@ -2786,6 +2816,11 @@ Oil prices rise as Iran nears Hormuz shipping deal with Oman Crypto Briefing
   - `08 Sep 06:17` *gnews_geopolitics* — Oil rises as risks of prolonged Mideast conflict heighten supply worries - The Star
   - `08 Sep 05:50` *gnews_geopolitics* — Oil rises as risks of prolonged Mideast conflict fan supply worries - Reuters
   - `08 Sep 05:50` *gnews_geopolitics* — Oil rises as risks of prolonged Mideast conflict heighten supply worries - ca.finance.yahoo.com
+
+**Crude oil tests the path to $100 as Iran-US escalation threatens Gulf supplies - The News Pakistan**
+`08 Sep 05:48 PKT` · pehli baar dekhi `09 Sep 05:44` · gnews_geopolitics
+
+Crude oil tests the path to $100 as Iran-US escalation threatens Gulf supplies The News Pakistan
 
 **Oil prices near $100 a barrel as US-Iran conflict escalates - Herald Sun**
 `08 Sep 05:40 PKT` · pehli baar dekhi `08 Sep 10:01` · gnews_geopolitics
@@ -3363,7 +3398,7 @@ Oil Surges Toward $100 as Iran War Threatens Global Supplies Newsmax
   - `08 Sep 03:46` *gnews_geopolitics* — Oil Surges Toward $100 as Iran War Threatens Global Supplies - Newsmax
   - `08 Sep 03:46` *gnews_geopolitics* — Oil Surges Toward $100 as Iran War Threatens Global Supplies - Yahoo Finance
 
-### BINA TAG (315)
+### BINA TAG (321)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -3387,6 +3422,8 @@ Oil Surges Toward $100 as Iran War Threatens Global Supplies Newsmax
 - `09 Sep 01:56` **wsj_markets** — Opinion | How to Make Life Hard for Small Banks
 - `09 Sep 01:44` **gnews_fed** — Merger of two area banks moves toward closing Oct. 1 - Times Record News
 - `09 Sep 01:43` **aljazeera** — Brazil Supreme Court rift deepens as justice suspends federal police chief
+- `09 Sep 01:37` **kitco_general** — Indian steel prices set to rise further on coking coal costs, demand revival - KITCO
+- `09 Sep 01:35` **kitco_general** — BHP, union talks for Port Hedland iron ore workers to stretch into next week - KITCO
 - `09 Sep 01:32` **aljazeera** — Head of Smithsonian museums announces he will be stepping down
 - `09 Sep 01:24` **aljazeera** — Hundreds of UK flights disrupted by air traffic control glitch
 - `09 Sep 01:20` **aljazeera** — Mamdani says 9/11 illnesses killed more than attacks did
@@ -3409,6 +3446,8 @@ Oil Surges Toward $100 as Iran War Threatens Global Supplies Newsmax
 - `09 Sep 00:28` **aljazeera** — Philippine defence chief calls out China over note handed to him mid-panel
 - `09 Sep 00:18` **investinglive** — Intel shares are soaring by 10% in trading today.
 - `09 Sep 00:13` **wsj_markets** — What to Know About Anthropic's Planned IPO
+- `09 Sep 00:12` **kitco_general** — China August iron ore imports beat expectations as typhoons delay July customs clearance - KITCO
+- `09 Sep 00:05` **kitco_general** — Videos - KITCO
 - `09 Sep 00:01` **aljazeera** — Does the UK have a legal obligation to redress the harms of slavery?
 - `08 Sep 23:52` **mw_topstories** — How these Gen Z workers managed to buy homes in their early 20s
 - `08 Sep 23:48` **fxstreet_news** — United Kingdom: Backloaded consolidation risks – Deutsche Bank
@@ -3455,6 +3494,7 @@ Oil Surges Toward $100 as Iran War Threatens Global Supplies Newsmax
 - `08 Sep 21:53` **yahoo_finance** — CNH Industrial (CNH) Looks Undervalued: Why Moerus Is Betting on a Farm Equipment Recovery
 - `08 Sep 21:52` **investinglive** — Bloom Energy Technical view: The price of Bloom Energy is up about 20% since last week's video. What now?
 - `08 Sep 21:39` **mw_topstories** — SpaceX's stock could jump 43% — if the company is able to accomplish this engineering feat
+- `08 Sep 21:35` **kitco_general** — S&P 500 falls as AI worries hit software makers - KITCO
 - `08 Sep 21:30` **investing_commodities** — Factbox-Venezuela's mining sector: more data needed on geological potential
 - `08 Sep 21:30` **yahoo_finance** — How To Take Advantage Of This Rising Stock With Reduced Risk
 - `08 Sep 21:30` **yahoo_finance** — T-Pain buys private jet — just a few years after borrowing cash to get Burger King. Break your bad spending habits now
@@ -3483,6 +3523,7 @@ Oil Surges Toward $100 as Iran War Threatens Global Supplies Newsmax
 - `08 Sep 20:43` **aljazeera** — Maldives asks UK to reopen sovereignty talks over Chagos Islands
 - `08 Sep 20:21` **aljazeera** — What is BAPS, the Hindu group whose demands led to Eiffel Tower closure?
 - `08 Sep 20:20` **aljazeera** — The shift in British policy on Israel is palpable
+- `08 Sep 20:13` **gnews_fed** — OCC onboards Middleton - Securities Finance Times
 - `08 Sep 20:02` **gnews_fed** — A man walks by the Federal Reserve Bank of New York Building in New York City - The Lufkin Daily News
 - `08 Sep 20:00` **aljazeera** — UK imposes ban on goods from Israeli settlements in occupied West Bank
 - `08 Sep 19:58` **wsj_world** — Unpaid Ebola Workers Let Families Touch the Dead
@@ -3699,42 +3740,42 @@ investing_news (2), yahoo_finance (2), gnews_fed (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 3 | 27 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 2 | 0 | 2 | 28 | 0.3 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.1 |
-| instaforex | OK | 25 | 25 | 7 | 18 | 0 | -0.1 |
-| wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.3 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.3 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.3 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.3 |
-| cme_daily_commentary | OK | 10 | 4 | 2 | 2 | 6 | 0.0 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 5.7 |
-| kitco_general | OK | 18 | 18 | 3 | 15 | 0 | 0.0 |
-| gnews_fed | OK | 78 | 78 | 14 | 64 | 0 | 0.0 |
-| gnews_geopolitics | OK | 92 | 92 | 13 | 79 | 0 | 0.1 |
-| gnews_centralbanks | OK | 60 | 60 | 5 | 55 | 0 | 0.1 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 14.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 5.4 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.3 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.4 |
-| boj_whatsnew | OK | 42 | 1 | 0 | 1 | 41 | 1.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.8 |
+| investinglive | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 4 | 26 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 2 | 0 | 2 | 28 | 0.4 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.2 |
+| instaforex | OK | 25 | 25 | 11 | 14 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 7 | 2 | 5 | 29 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
+| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
+| cme_daily_commentary | OK | 10 | 6 | 0 | 6 | 4 | 0.1 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 5.8 |
+| kitco_general | OK | 25 | 24 | 6 | 18 | 1 | 0.1 |
+| gnews_fed | OK | 76 | 76 | 4 | 72 | 0 | 0.0 |
+| gnews_geopolitics | OK | 94 | 94 | 7 | 87 | 0 | 0.0 |
+| gnews_centralbanks | OK | 62 | 62 | 1 | 61 | 0 | 0.1 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 14.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 5.5 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.5 |
+| boj_whatsnew | OK | 43 | 2 | 1 | 1 | 41 | 0.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.9 |
 | mining_com | OK | 36 | 6 | 0 | 6 | 30 | 0.2 |
 | oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
-| bbc_business | OK | 51 | 17 | 1 | 16 | 34 | 0.0 |
-| aljazeera | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
+| bbc_business | OK | 53 | 21 | 3 | 18 | 32 | 0.0 |
+| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 5.4 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 5.5 |
 | eia_energy | WARN | 13 | 0 | 0 | 0 | 13 | 4.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 5.4 |
-| wsj_world | OK | 70 | 26 | 3 | 23 | 44 | 0.0 |
-| wsj_markets | OK | 61 | 30 | 5 | 25 | 31 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 5.5 |
+| wsj_world | OK | 70 | 28 | 3 | 25 | 42 | 0.0 |
+| wsj_markets | OK | 61 | 32 | 4 | 28 | 29 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.1 |
 | yahoo_finance | OK | 50 | 6 | 0 | 6 | 44 | 0.5 |
-| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 20 | 2 | 18 | 10 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 20 | 0 | 20 | 10 | 0.1 |
