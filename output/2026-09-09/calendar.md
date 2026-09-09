@@ -1,6 +1,6 @@
 # Calendar — Trading Day 09 Sep 2026
 
-- Banaya gaya: **09 Sep 2026 05:30 PKT**
+- Banaya gaya: **09 Sep 2026 14:57 PKT**
 - Trading day: **09 Sep 03:00 -> 10 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,11 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 06:30 | CNY | low | CPI y/y | 0.8% | 0.5% |
-| 06:30 | CNY | low | PPI y/y | 3.6% | 3.5% |
-| 11:00 | JPY | low | Prelim Machine Tool Orders y/y | - | 50.4% |
-| 11:45 | EUR | low | French Industrial Production m/m | 0.2% | 0.1% |
-| 14:42 | EUR | low | German 10-y Bond Auction | - | 3.26|1.1 |
 | 17:15 | USD | low | ADP Weekly Employment Change | - | - |
 | 17:16 | USD | low | ADP Weekly Employment Change | - | 11.8K |
 | 22:00 | EUR | low | German Buba President Nagel Speaks | - | - |
@@ -24,6 +19,9 @@
 | 22:01 | USD | low | 10-y Bond Auction | - | 4.68|2.5 |
 | **10 Sep** 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
 | **10 Sep** 04:01 | GBP | low | RICS House Price Balance | -30% | -30% |
+| **10 Sep** 06:00 | AUD | low | MI Inflation Expectations | - | 4.9% |
+| **10 Sep** 11:00 | EUR | low | German Final CPI m/m | 0.2% | 0.2% |
+| **10 Sep** 13:00 | EUR | low | Italian Industrial Production m/m | 0.3% | -1.0% |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
