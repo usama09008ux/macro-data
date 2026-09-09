@@ -1,8 +1,8 @@
 # News Pack — Trading Day 08 Sep 2026
 
 - Trading day: **08 Sep 03:00 -> 09 Sep 02:59 PKT**
-- Aakhri update: **09 Sep 05:44 PKT**
-- Kul khabrein: **1063**
+- Aakhri update: **09 Sep 10:23 PKT**
+- Kul khabrein: **1078**
 - Feeds: 37/39 OK
 
 ---
@@ -236,6 +236,11 @@ Gold price slides below $4,370 as Brent nears $100 - Kitco PM Report KITCO
 
 Gold majors are out of debt and will have to start buying, Lundin says KITCO
 
+**Goldman Sachs Describes Gold Pullback as Pause, Flags $4,000 Buy Zone Ahead of FOMC Meeting - The Daily Hodl**
+`08 Sep 21:58 PKT` · pehli baar dekhi `09 Sep 10:23` · gnews_fed
+
+Goldman Sachs Describes Gold Pullback as Pause, Flags $4,000 Buy Zone Ahead of FOMC Meeting The Daily Hodl
+
 **Spain faces dilemma of what to do with its gold deposited at the US Federal Reserve - EL PAÍS English**
 `08 Sep 21:23 PKT` · pehli baar dekhi `08 Sep 22:42` · gnews_fed
 
@@ -376,6 +381,11 @@ Gold down as US jobs data lifts Fed hike bets The Express Tribune
 
 Could You Have More Debt Than Your Credit Report Shows? The Fed Says BNPL Creates a Blind Spot savingadvice.com
 
+**DoubleLine's Gundlach says long-dated yields set for fresh selloff if Fed stays on hold - theglobeandmail.com**
+`09 Sep 02:40 PKT` · pehli baar dekhi `09 Sep 10:23` · gnews_fed
+
+DoubleLine's Gundlach says long-dated yields set for fresh selloff if Fed stays on hold theglobeandmail.com
+
 **Anti-CBDC Surveillance State Act Explained: Is the US Banning a Digital Dollar? - Gizmo Times**
 `09 Sep 01:50 PKT` · pehli baar dekhi `09 Sep 03:47` · gnews_fed
 
@@ -438,6 +448,11 @@ Handicapping the Fed Cayman Compass
 `08 Sep 23:54 PKT` · pehli baar dekhi `09 Sep 03:47` · gnews_fed
 
 Federal Reserve rate decision hinges on inflation data ahead of Sept. 16 meeting Traders Union
+
+**Rate Hike Coming in September? Prediction Markets for Next Fed Decision - Federal News Network**
+`08 Sep 23:46 PKT` · pehli baar dekhi `09 Sep 10:23` · gnews_fed
+
+Rate Hike Coming in September? Prediction Markets for Next Fed Decision Federal News Network
 
 **Why the Fed's interest rate call could come down to a few hundredths of a percentage point - CNBC**
 `08 Sep 23:35 PKT` · pehli baar dekhi `09 Sep 01:19` · gnews_fed
@@ -2079,6 +2094,11 @@ Saudi oil sites hit as Houthi attacks intensify amid US-Iran Fighting SBS
 
 Brent crude spiked above $99 a barrel before paring gains.
 
+**Why isn't oil above $100 despite supply disruptions? - Finance & Commerce**
+`09 Sep 02:08 PKT` · pehli baar dekhi `09 Sep 10:23` · gnews_geopolitics
+
+Why isn't oil above $100 despite supply disruptions? Finance & Commerce
+
 **Oil Futures Post Weekly Gains on Middle East Escalation - WSJ**
 `09 Sep 02:00 PKT` · pehli baar dekhi `09 Sep 03:47` · gnews_geopolitics
 
@@ -2215,6 +2235,11 @@ Oil prices surge toward $100 as Houthi attacks, U.S. strikes on Iranian tankers 
 `08 Sep 19:56 PKT` · pehli baar dekhi `09 Sep 03:47` · gnews_fed
 
 Oil nears $100 a barrel as Middle East tensions fuel inflation fears ahead of interest-rate decision New York Post
+
+**Oil prices could hit $120, analysis finds, as Americans absorb $100 billion fuel hit - CBS News**
+`08 Sep 19:49 PKT` · pehli baar dekhi `09 Sep 10:23` · gnews_geopolitics
+
+Oil prices could hit $120, analysis finds, as Americans absorb $100 billion fuel hit CBS News
 
 **Iran's Gulf threats push oil above $91, boostin... - Pluang**
 `08 Sep 19:36 PKT` · pehli baar dekhi `08 Sep 22:42` · gnews_geopolitics
@@ -2479,6 +2504,11 @@ In the span of just three months, Goldman Sachs analysts have gone from lowering
 **Oil Nears $100 as Markets Assess Fed Rate Expectations and Iran Tensions: Dow Jones, S&P, Nasdaq, Wall Street Futures**
 `08 Sep 13:59 PKT` · pehli baar dekhi `08 Sep 14:34` · yahoo_finance
 
+**Oil Prices Increase As Shipments Decline, Brent Tops $98 - MarketForces Africa**
+`08 Sep 13:42 PKT` · pehli baar dekhi `09 Sep 10:23` · gnews_geopolitics
+
+Oil Prices Increase As Shipments Decline, Brent Tops $98 MarketForces Africa
+
 **Stock Market Today: Oil Nears $100, Stock Futures Sink**
 `08 Sep 13:42 PKT` · pehli baar dekhi `08 Sep 14:34` · wsj_markets
 
@@ -2498,6 +2528,11 @@ Oil Price Surge Iran Drives Crude Near $100 Amid Gulf Tensions The Cryptonomist
 `08 Sep 13:39 PKT` · pehli baar dekhi `08 Sep 14:34` · wsj_markets
 
 U.S. markets wobbled as higher oil prices dragged sentiment before investors return from the Labor Day weekend.
+
+**Oil Nears $100 As US-Iran Hostilities Deepen Global Supply Crunch Fears - Arise News**
+`08 Sep 13:34 PKT` · pehli baar dekhi `09 Sep 10:23` · gnews_geopolitics
+
+Oil Nears $100 As US-Iran Hostilities Deepen Global Supply Crunch Fears Arise News
 
 **Oil Price Forecast: Brent Nears $100 as US-Iran Conflict Escalates - FXEmpire**
 `08 Sep 13:24 PKT` · pehli baar dekhi `08 Sep 14:34` · gnews_geopolitics
@@ -2579,15 +2614,27 @@ Oil Rises as Risks of Prolonged Mideast Conflict Fan Supply Worries ASHARQ AL-AW
 Global Crude Surges Past USD 97 a Barrel as US-Iran Clashes Threaten Strait of Hormuz streamlinefeed.co.ke
 
 **Oil Prices Rise as Middle East Conflict Fuels Supply Concerns - PUKmedia یەکێتیی نیشتمانیی کوردستان**
-`08 Sep 11:49 PKT` · pehli baar dekhi `08 Sep 22:42` · gnews_geopolitics
+`08 Sep 11:49 PKT` · pehli baar dekhi `08 Sep 22:42` · gnews_geopolitics · **2 feeds mein**
 
 Oil Prices Rise as Middle East Conflict Fuels Supply Concerns PUKmedia یەکێتیی نیشتمانیی کوردستان
+  - `08 Sep 11:21` *gnews_geopolitics* — Oil Prices Rise as Middle East Conflict Fuels Supply Concerns - PUKmedia یەکێتیی نیشتمانیی کوردستان
+
+**Why isn't oil above $100 despite supply disruptions? - Classic Rock 103.5 WIMZ**
+`08 Sep 11:48 PKT` · pehli baar dekhi `09 Sep 10:23` · gnews_geopolitics
+
+Why isn't oil above $100 despite supply disruptions? Classic Rock 103.5 WIMZ
 
 **Oil rises as risks of prolonged Mideast conflict fan supply worries - The Business Standard**
-`08 Sep 11:45 PKT` · pehli baar dekhi `08 Sep 18:51` · gnews_geopolitics · **2 feeds mein**
+`08 Sep 11:45 PKT` · pehli baar dekhi `08 Sep 18:51` · gnews_geopolitics · **3 feeds mein**
 
 Oil rises as risks of prolonged Mideast conflict fan supply worries The Business Standard
   - `08 Sep 11:43` *gnews_geopolitics* — Oil rises as risks of prolonged Mideast conflict fan supply worries - Yahoo Finance
+  - `08 Sep 11:06` *gnews_geopolitics* — Oil rises as risks of prolonged Mideast conflict fan supply worries - The Express Tribune
+
+**Oil Approaches $100 Amid New Escalation Around Hormuz - Курс України**
+`08 Sep 11:45 PKT` · pehli baar dekhi `09 Sep 10:23` · gnews_geopolitics
+
+Oil Approaches $100 Amid New Escalation Around Hormuz Курс України
 
 **Brent nears $100 as US-Iran tensions revive supply fears - Business News Nigeria**
 `08 Sep 11:44 PKT` · pehli baar dekhi `08 Sep 14:34` · gnews_geopolitics
@@ -2690,7 +2737,8 @@ Crude Oil Hits $97 As Iran Threatens Energy Infrastructure Whalesbook
 Oil prices near six-week high as US-Iran conflict disrupts Strait of Hormuz nationalheraldindia.com
 
 **Why isn't oil above $100 despite supply disruptions?**
-`08 Sep 08:36 PKT` · pehli baar dekhi `08 Sep 10:01` · investing_commodities · **2 feeds mein**
+`08 Sep 08:36 PKT` · pehli baar dekhi `08 Sep 10:01` · investing_commodities · **3 feeds mein**
+  - `08 Sep 13:49` *gnews_geopolitics* — Why isn't oil above $100 despite supply disruptions? - RTE.ie
   - `08 Sep 07:00` *gnews_geopolitics* — Why isn't oil above $100 despite supply disruptions? - reuters.com
 
 **Oil extends gains after US and Iran strike ships - arabnews.jp**
@@ -2806,7 +2854,8 @@ Oil Prices On September 8: Brent Crude Nears $100 Again As Iran-Oman Hormuz Deal
 Oil prices rise as Iran nears Hormuz shipping deal with Oman Crypto Briefing
 
 **Oil rises as risks of prolonged Mideast conflict heighten supply worries**
-`08 Sep 05:54 PKT` · pehli baar dekhi `08 Sep 10:01` · investing_commodities · **10 feeds mein**
+`08 Sep 05:54 PKT` · pehli baar dekhi `08 Sep 10:01` · investing_commodities · **11 feeds mein**
+  - `08 Sep 17:35` *gnews_geopolitics* — Oil rises as risks of prolonged Mideast conflict heighten supply worries - The Morning
   - `08 Sep 12:37` *gnews_geopolitics* — Oil rises as risks of prolonged Mideast conflict fan supply worries - arynews.tv
   - `08 Sep 07:23` *gnews_geopolitics* — Oil rises as risks of prolonged Mideast conflict heighten supply worries - KLSE Screener
   - `08 Sep 07:00` *gnews_geopolitics* — Oil rises as risks of prolonged Mideast conflict heighten supply worries - The Economic Times
@@ -2904,6 +2953,11 @@ The practical takeaway for traders is that a sharp Bitcoin move over a weekend s
 `09 Sep 02:33 PKT` · pehli baar dekhi `09 Sep 03:47` · cointelegraph
 
 One of the first towns in the US to ban Bitcoin mining for 18 months is considering another temporary moratorium extending to data centers and other crypto mining operations.
+
+**Bitcoin Flows Now Hinge on Fed Rate Bets, Not Crypto News, CoinShares Says - finance.biggo.com**
+`08 Sep 23:56 PKT` · pehli baar dekhi `09 Sep 10:23` · gnews_fed
+
+Bitcoin Flows Now Hinge on Fed Rate Bets, Not Crypto News, CoinShares Says finance.biggo.com
 
 **Federal Reserve faces critical interest rate decision ahead of September meeting - Crypto Briefing**
 `08 Sep 23:42 PKT` · pehli baar dekhi `09 Sep 01:19` · gnews_fed
@@ -3398,7 +3452,7 @@ Oil Surges Toward $100 as Iran War Threatens Global Supplies Newsmax
   - `08 Sep 03:46` *gnews_geopolitics* — Oil Surges Toward $100 as Iran War Threatens Global Supplies - Newsmax
   - `08 Sep 03:46` *gnews_geopolitics* — Oil Surges Toward $100 as Iran War Threatens Global Supplies - Yahoo Finance
 
-### BINA TAG (321)
+### BINA TAG (322)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -3415,6 +3469,7 @@ Oil Surges Toward $100 as Iran War Threatens Global Supplies Newsmax
 - `09 Sep 02:10` **aljazeera** — Real Madrid beat Inter Milan as Mbappe goal sets Mourinho's men on way
 - `09 Sep 02:07` **aljazeera** — Hundreds of flights delayed, cancelled after UK air traffic control glitch
 - `09 Sep 02:06` **aljazeera** — US forces sink vessel 'linked to Ecuador criminal gang'
+- `09 Sep 02:03` **gnews_centralbanks** — Bank has no 'secret plan' for unconditional interest rate hikes, says Bailey - London Evening Standard
 - `09 Sep 02:01` **mw_topstories** — I have two sons. Should I allow one son to build a $400,000 house on my property? I'm not permitted to subdivide the land.
 - `09 Sep 02:00` **aljazeera** — Dembele, Mbappe, Kane and Yamal top Ballon d'Or shortlist
 - `09 Sep 01:59` **cointelegraph** — Franklin Templeton digital asset veteran takes helm at StablecoinX
@@ -3740,42 +3795,42 @@ investing_news (2), yahoo_finance (2), gnews_fed (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 4 | 26 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 2 | 0 | 2 | 28 | 0.4 |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.2 |
-| instaforex | OK | 25 | 25 | 11 | 14 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 7 | 2 | 5 | 29 | 0.0 |
-| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 6 | 0 | 6 | 4 | 0.1 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 5.8 |
-| kitco_general | OK | 25 | 24 | 6 | 18 | 1 | 0.1 |
-| gnews_fed | OK | 76 | 76 | 4 | 72 | 0 | 0.0 |
-| gnews_geopolitics | OK | 94 | 94 | 7 | 87 | 0 | 0.0 |
-| gnews_centralbanks | OK | 62 | 62 | 1 | 61 | 0 | 0.1 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 14.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 5.5 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.5 |
-| boj_whatsnew | OK | 43 | 2 | 1 | 1 | 41 | 0.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.9 |
-| mining_com | OK | 36 | 6 | 0 | 6 | 30 | 0.2 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
-| bbc_business | OK | 53 | 21 | 3 | 18 | 32 | 0.0 |
-| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 10 | 15 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 19 | 11 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 3 | 1 | 2 | 27 | 0.1 |
+| actionforex | OK | 20 | 20 | 6 | 14 | 0 | 0.0 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.4 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 8 | 2 | 6 | 28 | 0.1 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.6 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_daily_commentary | OK | 10 | 6 | 0 | 6 | 4 | 0.3 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 6.0 |
+| kitco_general | OK | 25 | 24 | 0 | 24 | 1 | 0.2 |
+| gnews_fed | OK | 82 | 82 | 15 | 67 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 40 | 60 | 0 | 0.0 |
+| gnews_centralbanks | OK | 60 | 60 | 11 | 49 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 14.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 5.7 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 12.7 |
+| boj_whatsnew | OK | 44 | 3 | 1 | 2 | 41 | 0.2 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.1 |
+| mining_com | OK | 36 | 6 | 0 | 6 | 30 | 0.4 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
+| ing_think | OK | 10 | 10 | 2 | 8 | 0 | 0.1 |
+| bbc_business | OK | 53 | 24 | 3 | 21 | 29 | 0.0 |
+| aljazeera | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 5.5 |
-| eia_energy | WARN | 13 | 0 | 0 | 0 | 13 | 4.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 5.5 |
-| wsj_world | OK | 70 | 28 | 3 | 25 | 42 | 0.0 |
-| wsj_markets | OK | 61 | 32 | 4 | 28 | 29 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.1 |
-| yahoo_finance | OK | 50 | 6 | 0 | 6 | 44 | 0.5 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 20 | 0 | 20 | 10 | 0.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 5.7 |
+| eia_energy | WARN | 13 | 0 | 0 | 0 | 13 | 4.6 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 5.7 |
+| wsj_world | OK | 70 | 30 | 1 | 29 | 40 | 0.1 |
+| wsj_markets | OK | 61 | 32 | 0 | 32 | 29 | 0.1 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 2 | 0 | 2 | 48 | 1.2 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 21 | 1 | 20 | 9 | 0.1 |
