@@ -556,7 +556,7 @@
 		<date><![CDATA[09-10-2026]]></date>
 		<time><![CDATA[2:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast />
+		<forecast><![CDATA[35B]]></forecast>
 		<previous><![CDATA[30B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/26-us-natural-gas-storage]]></url>
 	</event>
@@ -566,7 +566,7 @@
 		<date><![CDATA[09-10-2026]]></date>
 		<time><![CDATA[4:00pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast />
+		<forecast><![CDATA[-1.4M]]></forecast>
 		<previous><![CDATA[-4.5M]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/10-us-crude-oil-inventories]]></url>
 	</event>
