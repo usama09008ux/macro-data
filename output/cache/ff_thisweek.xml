@@ -354,7 +354,7 @@
 		<title>German 10-y Bond Auction</title>
 		<country>EUR</country>
 		<date><![CDATA[09-09-2026]]></date>
-		<time><![CDATA[9:42am]]></time>
+		<time><![CDATA[9:33am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous><![CDATA[3.26|1.1]]></previous>
@@ -364,20 +364,20 @@
 		<title>ADP Weekly Employment Change</title>
 		<country>USD</country>
 		<date><![CDATA[09-09-2026]]></date>
-		<time><![CDATA[12:15pm]]></time>
+		<time><![CDATA[12:14pm]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
-		<previous />
+		<previous><![CDATA[11.8K]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/929-us-adp-weekly-employment-change]]></url>
 	</event>
 	<event>
 		<title>ADP Weekly Employment Change</title>
 		<country>USD</country>
 		<date><![CDATA[09-09-2026]]></date>
-		<time><![CDATA[12:16pm]]></time>
+		<time><![CDATA[12:15pm]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
-		<previous><![CDATA[11.8K]]></previous>
+		<previous><![CDATA[10.0K]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/929-us-adp-weekly-employment-change]]></url>
 	</event>
 	<event>
@@ -439,6 +439,16 @@
 		<forecast />
 		<previous><![CDATA[4.9%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/293-au-mi-inflation-expectations]]></url>
+	</event>
+	<event>
+		<title>President Trump Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[09-10-2026]]></date>
+		<time><![CDATA[1:15am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/645-us-president-trump-speaks]]></url>
 	</event>
 	<event>
 		<title>German Final CPI m/m</title>

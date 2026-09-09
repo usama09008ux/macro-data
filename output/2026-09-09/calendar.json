@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "09 Sep 2026 14:57",
+  "generated_pkt": "09 Sep 2026 20:37",
   "trading_day": "2026-09-09",
   "feed_sources": {
     "thisweek": "live"
@@ -468,22 +468,9 @@
       "previous": "3.26|1.1",
       "url": "https://www.forexfactory.com/calendar/522-ge-10-y-bond-auction",
       "all_day": false,
-      "utc": "2026-09-09T09:42Z",
-      "pkt": "09 Sep 14:42",
-      "pkt_iso": "2026-09-09T14:42:00+05:00",
-      "trading_day": "2026-09-09"
-    },
-    {
-      "title": "ADP Weekly Employment Change",
-      "ccy": "USD",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "",
-      "url": "https://www.forexfactory.com/calendar/929-us-adp-weekly-employment-change",
-      "all_day": false,
-      "utc": "2026-09-09T12:15Z",
-      "pkt": "09 Sep 17:15",
-      "pkt_iso": "2026-09-09T17:15:00+05:00",
+      "utc": "2026-09-09T09:33Z",
+      "pkt": "09 Sep 14:33",
+      "pkt_iso": "2026-09-09T14:33:00+05:00",
       "trading_day": "2026-09-09"
     },
     {
@@ -494,9 +481,22 @@
       "previous": "11.8K",
       "url": "https://www.forexfactory.com/calendar/929-us-adp-weekly-employment-change",
       "all_day": false,
-      "utc": "2026-09-09T12:16Z",
-      "pkt": "09 Sep 17:16",
-      "pkt_iso": "2026-09-09T17:16:00+05:00",
+      "utc": "2026-09-09T12:14Z",
+      "pkt": "09 Sep 17:14",
+      "pkt_iso": "2026-09-09T17:14:00+05:00",
+      "trading_day": "2026-09-09"
+    },
+    {
+      "title": "ADP Weekly Employment Change",
+      "ccy": "USD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "10.0K",
+      "url": "https://www.forexfactory.com/calendar/929-us-adp-weekly-employment-change",
+      "all_day": false,
+      "utc": "2026-09-09T12:15Z",
+      "pkt": "09 Sep 17:15",
+      "pkt_iso": "2026-09-09T17:15:00+05:00",
       "trading_day": "2026-09-09"
     },
     {
@@ -575,6 +575,19 @@
       "utc": "2026-09-10T01:00Z",
       "pkt": "10 Sep 06:00",
       "pkt_iso": "2026-09-10T06:00:00+05:00",
+      "trading_day": "2026-09-10"
+    },
+    {
+      "title": "President Trump Speaks",
+      "ccy": "USD",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/645-us-president-trump-speaks",
+      "all_day": false,
+      "utc": "2026-09-10T01:15Z",
+      "pkt": "10 Sep 06:15",
+      "pkt_iso": "2026-09-10T06:15:00+05:00",
       "trading_day": "2026-09-10"
     },
     {

@@ -1,6 +1,6 @@
 # Calendar — Trading Day 09 Sep 2026
 
-- Banaya gaya: **09 Sep 2026 14:57 PKT**
+- Banaya gaya: **09 Sep 2026 20:37 PKT**
 - Trading day: **09 Sep 03:00 -> 10 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,18 +12,32 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 17:15 | USD | low | ADP Weekly Employment Change | - | - |
-| 17:16 | USD | low | ADP Weekly Employment Change | - | 11.8K |
 | 22:00 | EUR | low | German Buba President Nagel Speaks | - | - |
 | 22:00 | EUR | low | ECB President Lagarde Speaks | - | - |
 | 22:01 | USD | low | 10-y Bond Auction | - | 4.68|2.5 |
 | **10 Sep** 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
 | **10 Sep** 04:01 | GBP | low | RICS House Price Balance | -30% | -30% |
 | **10 Sep** 06:00 | AUD | low | MI Inflation Expectations | - | 4.9% |
+| **10 Sep** 06:15 | USD | MED | President Trump Speaks | - | - |
 | **10 Sep** 11:00 | EUR | low | German Final CPI m/m | 0.2% | 0.2% |
 | **10 Sep** 13:00 | EUR | low | Italian Industrial Production m/m | 0.3% | -1.0% |
+| **10 Sep** 17:15 | EUR | **HIGH** | Main Refinancing Rate | 2.65% | 2.40% |
+| **10 Sep** 17:15 | EUR | **HIGH** | Monetary Policy Statement | - | - |
+| **10 Sep** 17:30 | USD | **HIGH** | Core PPI m/m | 0.3% | 0.2% |
+| **10 Sep** 17:30 | USD | **HIGH** | PPI m/m | 0.4% | 0.0% |
+| **10 Sep** 17:30 | USD | MED | Unemployment Claims | 205K | 206K |
+| **10 Sep** 17:45 | EUR | **HIGH** | ECB Press Conference | - | - |
+| **10 Sep** 19:00 | USD | low | Existing Home Sales | 3.98M | 4.06M |
+| **10 Sep** 19:00 | USD | low | Final Wholesale Inventories m/m | 1.2% | 1.3% |
+| **10 Sep** 19:30 | USD | low | Natural Gas Storage | - | 30B |
 
-*Agle 24 ghante mein koi HIGH impact event nahi.*
+**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
+
+- `10 Sep 17:15` **EUR Main Refinancing Rate**
+- `10 Sep 17:15` **EUR Monetary Policy Statement**
+- `10 Sep 17:30` **USD Core PPI m/m**
+- `10 Sep 17:30` **USD PPI m/m**
+- `10 Sep 17:45` **EUR ECB Press Conference**
 
 ---
 
@@ -31,12 +45,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **10 Sep** 17:15 | EUR | **HIGH** | Main Refinancing Rate | 2.65% | 2.40% |
-| **10 Sep** 17:15 | EUR | **HIGH** | Monetary Policy Statement | - | - |
-| **10 Sep** 17:30 | USD | **HIGH** | Core PPI m/m | 0.3% | 0.2% |
-| **10 Sep** 17:30 | USD | **HIGH** | PPI m/m | 0.4% | 0.0% |
-| **10 Sep** 17:30 | USD | MED | Unemployment Claims | 205K | 206K |
-| **10 Sep** 17:45 | EUR | **HIGH** | ECB Press Conference | - | - |
 | **11 Sep** 11:00 | GBP | **HIGH** | GDP m/m | 0.0% | 0.3% |
 | **11 Sep** 14:15 | CHF | MED | SNB Chairman Schlegel Speaks | - | - |
 | **11 Sep** 17:30 | USD | **HIGH** | Core CPI m/m | 0.2% | 0.2% |
