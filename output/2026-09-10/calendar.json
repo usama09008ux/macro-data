@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "10 Sep 2026 20:33",
+  "generated_pkt": "11 Sep 2026 00:22",
   "trading_day": "2026-09-10",
   "feed_sources": {
     "thisweek": "live"
@@ -1100,6 +1100,20 @@
       "source": "investinglive",
       "tags": [
         "usd",
+        "oil"
+      ]
+    },
+    {
+      "title": "EIA weekly US crude oil inventories -391K vs -1554K expected",
+      "actual_raw": "-391K",
+      "forecast_raw": "-1554K",
+      "beat": true,
+      "raw_diff": "+1,163.0K",
+      "sign_flip": false,
+      "diff_pct": 74.8,
+      "when_pkt": "10 Sep 21:01",
+      "source": "investinglive",
+      "tags": [
         "oil"
       ]
     }
