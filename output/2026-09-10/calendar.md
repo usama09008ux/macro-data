@@ -1,6 +1,6 @@
 # Calendar — Trading Day 10 Sep 2026
 
-- Banaya gaya: **10 Sep 2026 05:32 PKT**
+- Banaya gaya: **10 Sep 2026 14:56 PKT**
 - Trading day: **10 Sep 03:00 -> 11 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,10 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 06:00 | AUD | low | MI Inflation Expectations | - | 4.9% |
-| 06:15 | USD | MED | President Trump Speaks | - | - |
-| 11:00 | EUR | low | German Final CPI m/m | 0.2% | 0.2% |
-| 13:00 | EUR | low | Italian Industrial Production m/m | 0.3% | -1.0% |
 | 17:15 | EUR | **HIGH** | Main Refinancing Rate | 2.65% | 2.40% |
 | 17:15 | EUR | **HIGH** | Monetary Policy Statement | - | - |
 | 17:30 | USD | **HIGH** | Core PPI m/m | 0.3% | 0.2% |
@@ -30,6 +26,16 @@
 | **11 Sep** 03:30 | NZD | low | BusinessNZ Manufacturing Index | - | 54.3 |
 | **11 Sep** 04:50 | JPY | low | BSI Manufacturing Index | 2.5 | -1.8 |
 | **11 Sep** 04:50 | JPY | low | PPI y/y | 7.4% | 7.2% |
+| **11 Sep** 11:00 | GBP | **HIGH** | GDP m/m | 0.0% | 0.3% |
+| **11 Sep** 11:00 | GBP | low | Construction Output m/m | 0.1% | -0.1% |
+| **11 Sep** 11:00 | GBP | low | Goods Trade Balance | -22.6B | -23.0B |
+| **11 Sep** 11:00 | GBP | low | Index of Services 3m/3m | 0.5% | 0.5% |
+| **11 Sep** 11:00 | GBP | low | Industrial Production m/m | -0.2% | -0.2% |
+| **11 Sep** 11:00 | GBP | low | Manufacturing Production m/m | 0.2% | -0.5% |
+| **11 Sep** 12:00 | CHF | low | SECO Consumer Climate | -33 | -35 |
+| **11 Sep** 13:00 | EUR | low | Italian Quarterly Unemployment Rate | 5.4% | 5.3% |
+| **11 Sep** 13:30 | GBP | low | Consumer Inflation Expectations | - | 4.0% |
+| **11 Sep** 14:15 | CHF | MED | SNB Chairman Schlegel Speaks | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
@@ -38,6 +44,7 @@
 - `10 Sep 17:30` **USD Core PPI m/m**
 - `10 Sep 17:30` **USD PPI m/m**
 - `10 Sep 17:45` **EUR ECB Press Conference**
+- `11 Sep 11:00` **GBP GDP m/m**
 
 ---
 
@@ -45,8 +52,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **11 Sep** 11:00 | GBP | **HIGH** | GDP m/m | 0.0% | 0.3% |
-| **11 Sep** 14:15 | CHF | MED | SNB Chairman Schlegel Speaks | - | - |
 | **11 Sep** 17:30 | USD | **HIGH** | Core CPI m/m | 0.2% | 0.2% |
 | **11 Sep** 17:30 | USD | **HIGH** | Core CPI y/y | 2.4% | 2.5% |
 | **11 Sep** 17:30 | USD | **HIGH** | CPI m/m | 0.4% | 0.1% |
