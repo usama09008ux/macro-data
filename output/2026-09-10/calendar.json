@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "10 Sep 2026 14:56",
+  "generated_pkt": "10 Sep 2026 20:33",
   "trading_day": "2026-09-10",
   "feed_sources": {
     "thisweek": "live"
@@ -1059,5 +1059,49 @@
       "trading_day": "2026-09-12"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US August existing home sales 3.98m vs 3.98m expected",
+      "actual_raw": "3.98m",
+      "forecast_raw": "3.98m",
+      "beat": false,
+      "raw_diff": "+0.0M",
+      "sign_flip": false,
+      "diff_pct": 0.0,
+      "when_pkt": "10 Sep 19:00",
+      "source": "investinglive",
+      "tags": []
+    },
+    {
+      "title": "Jobless claims show steady US employment picture. Initial claims 206K vs 205k estimate",
+      "actual_raw": "206K",
+      "forecast_raw": "205k",
+      "beat": true,
+      "raw_diff": "+1.0K",
+      "sign_flip": false,
+      "diff_pct": 0.5,
+      "when_pkt": "10 Sep 17:30",
+      "source": "investinglive",
+      "tags": [
+        "eur",
+        "usd",
+        "rates"
+      ]
+    },
+    {
+      "title": "US August PPI 5.4% vs 5.3% expected",
+      "actual_raw": "5.4%",
+      "forecast_raw": "5.3%",
+      "beat": true,
+      "raw_diff": "+0.10pp",
+      "sign_flip": false,
+      "diff_pct": 1.9,
+      "when_pkt": "10 Sep 17:30",
+      "source": "investinglive",
+      "tags": [
+        "usd",
+        "oil"
+      ]
+    }
+  ]
 }
