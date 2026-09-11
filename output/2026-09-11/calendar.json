@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "11 Sep 2026 14:54",
+  "generated_pkt": "11 Sep 2026 20:34",
   "trading_day": "2026-09-11",
   "feed_sources": {
     "thisweek": "live"
@@ -1059,5 +1059,22 @@
       "trading_day": "2026-09-12"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US August CPI 3.4% vs 3.4% expected",
+      "actual_raw": "3.4%",
+      "forecast_raw": "3.4%",
+      "beat": false,
+      "raw_diff": "+0.00pp",
+      "sign_flip": false,
+      "diff_pct": 0.0,
+      "when_pkt": "11 Sep 17:30",
+      "source": "investinglive",
+      "tags": [
+        "jpy",
+        "usd",
+        "rates"
+      ]
+    }
+  ]
 }
