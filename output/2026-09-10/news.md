@@ -1,8 +1,8 @@
 # News Pack — Trading Day 10 Sep 2026
 
 - Trading day: **10 Sep 03:00 -> 11 Sep 02:59 PKT**
-- Aakhri update: **11 Sep 05:30 PKT**
-- Kul khabrein: **1243**
+- Aakhri update: **11 Sep 10:09 PKT**
+- Kul khabrein: **1263**
 - Feeds: 38/39 OK
 
 ---
@@ -77,9 +77,10 @@ Statement from the Bank of England
 The US Treasury bought $5.187 billion in 10-20 year notes US treasury sells $22 billion of 30 year bonds at a high yield of 5.308% EIA weekly US crude oil inventories -391K vs -1554K expected US wholesale inventories +1.3% in line with expectations US August existing home sales 3.98m vs 3.98m expected ECB's Lagarde: The economy is proving resilient US August PPI 5.4% vs 5.3% expected Jobless claims show steady US employment picture.
 
 **Gold, silver prices retreat as US inflation, ECB rate hike pressure markets - Anadolu Ajansı**
-`11 Sep 00:29 PKT` · pehli baar dekhi `11 Sep 01:05` · gnews_centralbanks
+`11 Sep 00:29 PKT` · pehli baar dekhi `11 Sep 01:05` · gnews_centralbanks · **2 feeds mein**
 
 Gold, silver prices retreat as US inflation, ECB rate hike pressure markets Anadolu Ajansı
+  - `11 Sep 00:28` *gnews_centralbanks* — Gold, silver prices retreat as US inflation, ECB rate hike pressure markets - Anadolu Ajansı
 
 **TSX Falls to Five-Week Low**
 `10 Sep 22:43 PKT` · instaforex
@@ -331,6 +332,11 @@ Silver (XAG/USD) price erases Wednesday's gains and forms a bearish head-and-sho
 `11 Sep 00:02 PKT` · pehli baar dekhi `11 Sep 01:05` · kitco_general
 
 TAG: gold affordability KITCO
+
+**TAG: gold jewelry demand - KITCO**
+`11 Sep 00:02 PKT` · pehli baar dekhi `11 Sep 10:09` · kitco_general
+
+TAG: gold jewelry demand KITCO
 
 **If these key gold price levels fail, expect accelerated near-term selling – TD Securities - KITCO**
 `10 Sep 23:51 PKT` · pehli baar dekhi `11 Sep 01:05` · kitco_general
@@ -606,6 +612,11 @@ Rising oil prices and bond yields add inflation pressure to markets WISH-TV
 
 The US Dollar Index (DXY) reclaimed the 99.00 barrier and then some, rebounding firmly as the hot Producer Price Index (PPI) rose 5.4% over the year to August, hardening expectations for a Fed rate hike at next week's meeting.
 
+**European Central Bank raises interest rates to cool inflation - European Interest**
+`11 Sep 00:36 PKT` · pehli baar dekhi `11 Sep 10:09` · gnews_centralbanks
+
+European Central Bank raises interest rates to cool inflation European Interest
+
 **Friday's CPI inflation report is even more important than usual. Here's what to expect - CNBC**
 `11 Sep 00:18 PKT` · pehli baar dekhi `11 Sep 03:32` · gnews_fed
 
@@ -637,6 +648,11 @@ What To Expect From Friday's Inflation Report Investopedia
 
 Commerzbank notes USD/MYR has risen to 4.07, marking a fourth consecutive session of Ringgit weakness, weighed by foreign portfolio outflows from Malaysian equities.
 
+**US August CPI Due Thursday Night; Core Inflation of 0.2% Seen as Key Threshold for Fed Rate Hike Next Week - finance.biggo.com**
+`10 Sep 23:35 PKT` · pehli baar dekhi `11 Sep 10:09` · gnews_fed
+
+US August CPI Due Thursday Night; Core Inflation of 0.2% Seen as Key Threshold for Fed Rate Hike Next Week finance.biggo.com
+
 **Investors price in hot August CPI reading; big surprise could sway upcoming FOMC decision - Seeking Alpha**
 `10 Sep 23:31 PKT` · pehli baar dekhi `11 Sep 01:05` · gnews_fed
 
@@ -651,6 +667,11 @@ US Inflation Data Raise Traders' Bets on a Federal Reserve Rate Hike Межа. �
 `10 Sep 23:19 PKT` · pehli baar dekhi `11 Sep 01:05` · gnews_fed
 
 Oil Prices Keep Soaring And Treasury Yields Remain High. Chances Of a Fed Hike Are Greater. International Business Times
+
+**Fed Rate Hike Odds Jump Past 60% as Markets Brace for Sept. 16 Decision - finance.biggo.com**
+`10 Sep 23:19 PKT` · pehli baar dekhi `11 Sep 10:09` · gnews_fed
+
+Fed Rate Hike Odds Jump Past 60% as Markets Brace for Sept. 16 Decision finance.biggo.com
 
 **The US Treasury bought $5.187 billion in 10-20 year notes**
 `10 Sep 23:13 PKT` · pehli baar dekhi `11 Sep 01:05` · investinglive
@@ -801,9 +822,10 @@ Tomorrow's CPI Report Could Send Rate-Hike Odds Even Higher 24/7 Wall St.
 TAG: U.S. wholesale inflation KITCO
 
 **ECB Hikes Rates. It's Telling Markets What Fed's Warsh Won't. -- Barrons.com - Moomoo**
-`10 Sep 19:35 PKT` · pehli baar dekhi `11 Sep 03:32` · gnews_centralbanks · **2 feeds mein**
+`10 Sep 19:35 PKT` · pehli baar dekhi `11 Sep 03:32` · gnews_centralbanks · **3 feeds mein**
 
 ECB Hikes Rates. It's Telling Markets What Fed's Warsh Won't. -- Barrons.com Moomoo
+  - `10 Sep 17:20` *gnews_centralbanks* — ECB Hikes Rates. It's Telling Markets What Fed's Warsh Won't. - Barron's
   - `10 Sep 17:20` *gnews_centralbanks* — ECB Hikes Rates. It's Telling Markets What Fed's Warsh Won't. - Barron's
 
 **The likelihood of a Fed interest rate hike next week just got a lot higher - cnbc.com**
@@ -1218,9 +1240,10 @@ Push to Cut Fed's Rate-Setting Meetings From Eight to Six a Year Gains Traction,
 ### EUR
 
 **ECB Hikes Rates and Raises Both Inflation and Growth Forecasts - Forex Factory**
-`11 Sep 02:59 PKT` · pehli baar dekhi `11 Sep 05:30` · gnews_centralbanks · **2 feeds mein**
+`11 Sep 02:59 PKT` · pehli baar dekhi `11 Sep 05:30` · gnews_centralbanks · **3 feeds mein**
 
 ECB Hikes Rates and Raises Both Inflation and Growth Forecasts Forex Factory
+  - `11 Sep 02:59` *gnews_centralbanks* — ECB Hikes Rates and Raises Both Inflation and Growth Forecasts - Forex Factory
   - `10 Sep 21:25` *gnews_centralbanks* — ECB Hikes Rates and Raises Both Inflation and Growth Forecasts - Morningstar
 
 **Dollar rises, euro slips after ECB rate increase - marketscreener.com**
@@ -1360,10 +1383,16 @@ Euro slips as dollar rises after ECB rate hike TradingView
 
 CAC 40 Falls Following ECB Rate Hike TradingView
 
+**ECB raises interest rates, bolstering bets for further moves - The Lufkin Daily News**
+`10 Sep 21:30 PKT` · pehli baar dekhi `11 Sep 10:09` · gnews_centralbanks
+
+ECB raises interest rates, bolstering bets for further moves The Lufkin Daily News
+
 **Bond yields hit multi-year highs as traders brace for new ECB rate-hike cycle - KITCO**
-`10 Sep 21:20 PKT` · pehli baar dekhi `10 Sep 22:43` · kitco_general · **2 feeds mein**
+`10 Sep 21:20 PKT` · pehli baar dekhi `10 Sep 22:43` · kitco_general · **3 feeds mein**
 
 Bond yields hit multi-year highs as traders brace for new ECB rate-hike cycle KITCO
+  - `10 Sep 23:26` *gnews_centralbanks* — Bond yields hit multi-year highs as traders brace for new ECB rate-hike cycle - Classic Rock 103.5 WIMZ
   - `10 Sep 20:54` *gnews_centralbanks* — Bond yields hit multi-year highs as traders brace for new ECB rate-hike cycle - Reuters
 
 **ECB raises interest rates due to inflation caused by Middle East war - voz.us**
@@ -2644,6 +2673,12 @@ The Middle East conflict overshadows outages in Russia and a 'massive impact' on
 
 Oil surges 6% after new tanker attacks in Middle East Honolulu Star-Advertiser
 
+**Crude Prices Sharply Higher on Global Supply Worries - tradingview.com**
+`11 Sep 00:15 PKT` · pehli baar dekhi `11 Sep 10:09` · gnews_geopolitics · **2 feeds mein**
+
+Crude Prices Sharply Higher on Global Supply Worries tradingview.com
+  - `11 Sep 00:15` *gnews_geopolitics* — Crude Prices Sharply Higher on Global Supply Worries - inkl
+
 **Oil Prices Surge Amid Rising Geopolitical Tensions - Devdiscourse**
 `11 Sep 00:09 PKT` · pehli baar dekhi `11 Sep 03:32` · gnews_geopolitics
 
@@ -2769,14 +2804,16 @@ A new update by the IEA puts coal demand back on the rise following the ongoing 
 Crude oil futures continue to search the upside with the October contract currently trading just short of $102 at $101.92. That's up 6.07%. Brent crude oil is also sharply higher by $6.03 or 5.96% at $107.23. The gain today is the largest since August 10. It is a large gain since August 10. The fundamental storyline behind the surge in crude oil remains centered on growing supply concerns from the Middle East.
 
 **Crude Oil Prices Soar on Fears US-Iran War to Persist - barchart.com**
-`10 Sep 21:33 PKT` · pehli baar dekhi `10 Sep 22:43` · gnews_geopolitics
+`10 Sep 21:33 PKT` · pehli baar dekhi `10 Sep 22:43` · gnews_geopolitics · **2 feeds mein**
 
 Crude Oil Prices Soar on Fears US-Iran War to Persist barchart.com
+  - `10 Sep 21:33` *gnews_geopolitics* — Crude Oil Prices Soar on Fears US-Iran War to Persist - inkl
 
 **Oil surges 5%, Brent and US crude both over $100 on more tanker attacks - KITCO**
-`10 Sep 21:30 PKT` · pehli baar dekhi `10 Sep 22:43` · kitco_general · **2 feeds mein**
+`10 Sep 21:30 PKT` · pehli baar dekhi `10 Sep 22:43` · kitco_general · **3 feeds mein**
 
 Oil surges 5%, Brent and US crude both over $100 on more tanker attacks KITCO
+  - `10 Sep 22:47` *gnews_geopolitics* — Oil surges 5%, Brent and US crude both over $100 on more tanker attacks - The Economic Times
   - `10 Sep 21:25` *gnews_geopolitics* — Oil surges 5%, Brent and US crude both over $100 on more tanker attacks - koreatimes.co.kr
 
 **Oil jumps to $105, pushing up chances of a US interest rate increase - Al Jazeera**
@@ -2915,6 +2952,11 @@ Peter Zeihan claims the US will lose its strategic oil reserve no matter what ha
 
 WTI tops $100 as US-Iran conflict fuels supply fears Invezz
   - `10 Sep 18:41` *gnews_geopolitics* — WTI tops $100 as US-Iran conflict fuels supply fears - Invezz
+
+**Brent crude tops $105 as US-Iran conflict fuels supply concerns - Anadolu Ajansı**
+`10 Sep 18:38 PKT` · pehli baar dekhi `11 Sep 10:09` · gnews_geopolitics
+
+Brent crude tops $105 as US-Iran conflict fuels supply concerns Anadolu Ajansı
 
 **HSBC Raises 2026 Brent Forecast to $90 as Hormuz Crisis Drags On**
 `10 Sep 18:30 PKT` · pehli baar dekhi `10 Sep 19:10` · oilprice
@@ -3113,6 +3155,11 @@ Oil prices surpass 100 dollars a barrel after US strikes on Iranian tankers News
 
 Trump Is Getting Anxious, Acting With Words And Actions! "Once The Election Ends, The War Ends Immediately." Trump Promised Gasoline Would Fall Below $2, But In The Same Week He Bombed 10 Iranian Oil Tankers tmgm.com
 
+**Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - Hot Springs Sentinel Record**
+`10 Sep 14:00 PKT` · pehli baar dekhi `11 Sep 10:09` · gnews_geopolitics
+
+Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump Hot Springs Sentinel Record
+
 **Global oil prices hit $101 per barrel as US-Iran tensions escalate in Middle East - Ada Derana**
 `10 Sep 13:46 PKT` · pehli baar dekhi `10 Sep 14:55` · gnews_geopolitics
 
@@ -3191,6 +3238,11 @@ Asian Markets Fall As Oil Tops USD 100 Amid US-Iran Tensions News Mobile
 
 What happens when Iran's oil has nowhere to go? EnterpriseAM
 
+**Oil price forecasts turn bullish as supply risks mount; $120 back in focus - CNBC TV18**
+`10 Sep 11:38 PKT` · pehli baar dekhi `11 Sep 10:09` · gnews_geopolitics
+
+Oil price forecasts turn bullish as supply risks mount; $120 back in focus CNBC TV18
+
 **Brent crude tops $100 as tanker attacks threaten global oil flows - Caliber.Az**
 `10 Sep 11:27 PKT` · pehli baar dekhi `10 Sep 19:10` · gnews_geopolitics
 
@@ -3258,7 +3310,8 @@ The price of heating oil has almost doubled in 12 months following the conflict 
 India looks to boost biofuel use amid rising crude supply risks ET EnergyWorld
 
 **Brent holds above $100 as tanker attacks deepen supply fear**
-`10 Sep 09:19 PKT` · pehli baar dekhi `10 Sep 10:21` · investing_commodities · **5 feeds mein**
+`10 Sep 09:19 PKT` · pehli baar dekhi `10 Sep 10:21` · investing_commodities · **6 feeds mein**
+  - `10 Sep 11:54` *gnews_geopolitics* — Brent holds above $100 as tanker attacks deepen supply fears - StreetInsider
   - `10 Sep 07:57` *gnews_geopolitics* — Brent holds above $100 as tanker attacks deepen supply fears - WTVB
   - `10 Sep 07:42` *gnews_geopolitics* — Brent holds above $100 as tanker attacks deepen supply fear - Business Recorder
   - `10 Sep 07:14` *gnews_geopolitics* — Brent holds above $100 as tanker attacks deepen supply fear - The Economic Times
@@ -3813,6 +3866,11 @@ ECB raises interest rates again amid Iran war inflation pressure qz.com
 
 Watch ECB Hikes Interest Rates for Second Time Since Iran War Bloomberg.com
 
+**ECB Hikes Interest Rates for Second Time Since Iran War - Yahoo Finance**
+`10 Sep 17:34 PKT` · pehli baar dekhi `11 Sep 10:09` · gnews_centralbanks
+
+ECB Hikes Interest Rates for Second Time Since Iran War Yahoo Finance
+
 **White House copper tariff plan stalls amid affordability concerns, sources say - KITCO**
 `10 Sep 16:36 PKT` · pehli baar dekhi `10 Sep 19:10` · kitco_general
 
@@ -4067,7 +4125,7 @@ The president still says he expects the war will end "immediately" after midterm
 
 Crude oil climbed to about $96.70 a barrel on Wednesday—its highest level since May—driven by escalating tensions between the United States and Iran. US officials said Iran attempted to attack Navy vessels on Monday, following a weekend barrage in which Iranian forces targeted an aircraft carrier with ballistic missiles in a previously undisclosed wave of assaults.
 
-### BINA TAG (327)
+### BINA TAG (329)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -4112,6 +4170,7 @@ Crude oil climbed to about $96.70 a barrel on Wednesday—its highest level sinc
 - `11 Sep 00:34` **investing_news** — Google eases password manager switching on Android
 - `11 Sep 00:34` **investing_news** — Immuneering at cantor healthcare conference: pancreatic cancer bet gains focus
 - `11 Sep 00:32` **investing_news** — Box integrates content management with ChatGPT
+- `11 Sep 00:30` **gnews_fed** — Mortgage rates climb: Average rate on a 30-year home loan hits the highest level in over 14 months - timesfreepress.com
 - `11 Sep 00:07` **mw_topstories** — Would you buy stock in a company whose own scientists think the product might kill you?
 - `11 Sep 00:03` **aljazeera** — Jimmy Kimmel moves Senate interview to YouTube in latest collision with FCC
 - `11 Sep 00:00` **wsj_world** — Opinion | Hold China Accountable for Its Trade Practices
@@ -4164,6 +4223,7 @@ Crude oil climbed to about $96.70 a barrel on Wednesday—its highest level sinc
 - `10 Sep 22:00` **gnews_fed** — Better Markets' Lawsuit Against the Federal Reserve and Vice Chair Bowman for Corruption - Better Markets
 - `10 Sep 22:00` **aljazeera** — Israel arrests 100 Palestinians in a week as West Bank pogroms continue
 - `10 Sep 22:00` **yahoo_finance** — Comstock (CRK) Signs a $1.65B SOCAR Letter of Intent and a $450M Drilling Venture. Does Deleveraging Outweigh the Economics It Gives Up?
+- `10 Sep 21:59` **gnews_fed** — An organization can have seemingly everything covered, and still miss the whole risk picture - Federal News Network
 - `10 Sep 21:57` **yahoo_finance** — 1-800-FLOWERS.COM, Inc. Q4 2026 Earnings Call Summary
 - `10 Sep 21:55` **yahoo_finance** — Designer Brands Inc. Q2 2026 Earnings Call Summary
 - `10 Sep 21:54` **gnews_fed** — Better Markets sues Federal Reserve over capital rule overhaul - Traders Union
@@ -4415,42 +4475,42 @@ investing_news (11), gnews_fed (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 3 | 27 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.9 |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
-| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.6 |
-| instaforex | OK | 25 | 25 | 20 | 5 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 8 | 0 | 8 | 28 | 0.1 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 6 | 0 | 6 | 4 | 0.1 |
-| cme_risk_management | OK | 20 | 1 | 0 | 1 | 19 | 0.2 |
-| kitco_general | OK | 40 | 38 | 2 | 36 | 2 | 0.0 |
-| gnews_fed | OK | 100 | 100 | 11 | 89 | 0 | 0.0 |
-| gnews_geopolitics | OK | 100 | 100 | 16 | 84 | 0 | 0.0 |
-| gnews_centralbanks | OK | 100 | 100 | 10 | 90 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 16.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 7.5 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.5 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.6 |
-| boj_whatsnew | OK | 45 | 4 | 1 | 3 | 41 | 0.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.9 |
-| mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.2 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
-| bbc_business | OK | 55 | 20 | 4 | 16 | 35 | 0.1 |
-| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.1 |
-| boc_press | OK | 10 | 1 | 0 | 1 | 9 | 0.6 |
-| eia_energy | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 7.5 |
-| wsj_world | OK | 72 | 19 | 0 | 19 | 53 | 0.1 |
-| wsj_markets | OK | 61 | 28 | 0 | 28 | 33 | 0.1 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 1.4 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 20 | 1 | 19 | 10 | 0.0 |
+| investinglive | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 19 | 11 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 2 | 1 | 1 | 28 | 0.1 |
+| actionforex | OK | 20 | 20 | 8 | 12 | 0 | 0.1 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.8 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 9 | 1 | 8 | 27 | 0.1 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_daily_commentary | OK | 10 | 6 | 0 | 6 | 4 | 0.3 |
+| cme_risk_management | OK | 20 | 1 | 0 | 1 | 19 | 0.4 |
+| kitco_general | OK | 39 | 35 | 1 | 34 | 4 | 0.2 |
+| gnews_fed | OK | 100 | 100 | 17 | 83 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 25 | 75 | 0 | 0.0 |
+| gnews_centralbanks | OK | 100 | 100 | 27 | 73 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 16.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 7.7 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.7 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.8 |
+| boj_whatsnew | OK | 47 | 6 | 2 | 4 | 41 | 0.2 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 8.1 |
+| mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.4 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.2 |
+| investing_commodities | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 2 | 8 | 0 | 0.1 |
+| bbc_business | OK | 55 | 20 | 0 | 20 | 35 | 0.3 |
+| aljazeera | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.3 |
+| boc_press | OK | 10 | 1 | 0 | 1 | 9 | 0.8 |
+| eia_energy | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 7.7 |
+| wsj_world | OK | 72 | 21 | 2 | 19 | 51 | 0.1 |
+| wsj_markets | OK | 61 | 31 | 6 | 25 | 30 | 0.1 |
+| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.2 |
+| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 1.5 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 21 | 1 | 20 | 9 | 0.0 |
