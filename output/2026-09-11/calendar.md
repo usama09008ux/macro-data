@@ -1,6 +1,6 @@
 # Calendar — Trading Day 11 Sep 2026
 
-- Banaya gaya: **11 Sep 2026 20:34 PKT**
+- Banaya gaya: **12 Sep 2026 00:21 PKT**
 - Trading day: **11 Sep 03:00 -> 12 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,9 +12,8 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 23:00 | USD | low | Federal Budget Balance | -221.1B | -432.3B |
-| **12 Sep** 13:00 | EUR | MED | ECB President Lagarde Speaks | - | - |
-| **12 Sep** 13:15 | All | low | BRICS Summit | - | - |
+| 13:00 | EUR | MED | ECB President Lagarde Speaks | - | - |
+| 13:15 | All | low | BRICS Summit | - | - |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
@@ -34,5 +33,6 @@
 
 | Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
 |---|---|---|---|---|---|
+| 11 Sep 19:12 | UMich September consumer sentiment | 47.8 | 51.0 | -3.20 (-6%) | neeche |
 | 11 Sep 17:30 | US August CPI | 3.4% | 3.4% | +0.00pp (+0%) | neeche |
 

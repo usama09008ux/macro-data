@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "11 Sep 2026 20:34",
+  "generated_pkt": "12 Sep 2026 00:21",
   "trading_day": "2026-09-11",
   "feed_sources": {
     "thisweek": "live"
@@ -1027,9 +1027,9 @@
       "previous": "-432.3B",
       "url": "https://www.forexfactory.com/calendar/322-us-federal-budget-balance",
       "all_day": false,
-      "utc": "2026-09-11T18:00Z",
-      "pkt": "11 Sep 23:00",
-      "pkt_iso": "2026-09-11T23:00:00+05:00",
+      "utc": "2026-09-11T17:58Z",
+      "pkt": "11 Sep 22:58",
+      "pkt_iso": "2026-09-11T22:58:00+05:00",
       "trading_day": "2026-09-11"
     },
     {
@@ -1074,6 +1074,20 @@
         "jpy",
         "usd",
         "rates"
+      ]
+    },
+    {
+      "title": "UMich September consumer sentiment 47.8 vs 51.0 expected",
+      "actual_raw": "47.8",
+      "forecast_raw": "51.0",
+      "beat": false,
+      "raw_diff": "-3.20",
+      "sign_flip": false,
+      "diff_pct": -6.3,
+      "when_pkt": "11 Sep 19:12",
+      "source": "investinglive",
+      "tags": [
+        "usd"
       ]
     }
   ]
