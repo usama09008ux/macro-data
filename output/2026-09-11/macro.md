@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 11 Sep 2026
 
-- Banaya gaya: **11 Sep 2026 15:00 PKT**
+- Banaya gaya: **11 Sep 2026 21:30 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
@@ -11,7 +11,7 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| Fed funds target (upper) <br>`DFEDTARU` | **3.75%** | 0.0 | 0.0 | 0.0 | 0 | 2026-09-10 |
+| Fed funds target (upper) <br>`DFEDTARU` | **3.75%** | 0.0 | 0.0 | 0.0 | 0 | 2026-09-11 |
 | US 2Y yield <br>`DGS2` | **4.43%** | +0.04 | +0.04 | +0.21 | 75 | 2026-09-09 |
 | US 10Y yield <br>`DGS10` | **4.83%** | +0.03 | +0.04 | +0.13 | 98 | 2026-09-09 |
 | US 30Y yield <br>`DGS30` | **5.28%** | +0.03 | +0.01 | +0.04 | 100 | 2026-09-09 |
@@ -36,8 +36,8 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| VIX <br>`VIXCLS` | **16.46** | +0.74 | +1.26 | +1.91 | 51 | 2026-09-09 |
-| High-yield credit spread <br>`BAMLH0A0HYM2` | **2.71%** | +0.04 | +0.05 | 0.0 | 11 | 2026-09-09 |
+| VIX <br>`VIXCLS` | **17.84** | +1.38 | +3.52 | +3.21 | 67 | 2026-09-10 |
+| High-yield credit spread <br>`BAMLH0A0HYM2` | **2.70%** | -0.01 | +0.05 | -0.01 | 10 | 2026-09-10 |
 | Financial stress index <br>`STLFSI4` | **-0.79** | +0.0634 | -0.2839 | -0.0399 | 23 | 2026-09-04 |
 
 ---
@@ -46,8 +46,8 @@
 
 | Series | Aaj | MoM % | YoY % | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|
-| CPI (headline) <br>`CPIAUCSL` | **332.81idx** | +0.07 | +3.54 | 94 | 2026-07-01 |
-| Core CPI <br>`CPILFESL` | **336.79idx** | +0.22 | +2.79 | 97 | 2026-07-01 |
+| CPI (headline) <br>`CPIAUCSL` | **334.13idx** | +0.4 | +3.71 | 97 | 2026-08-01 |
+| Core CPI <br>`CPILFESL` | **337.76idx** | +0.29 | +2.76 | 97 | 2026-08-01 |
 | Core PCE (Fed ka hadaf) <br>`PCEPILFE` | **130.66idx** | +0.25 | +3.34 | 97 | 2026-07-01 |
 | PPI final demand <br>`PPIFIS` | **157.41idx** | +0.4 | +5.41 | 97 | 2026-08-01 |
 
