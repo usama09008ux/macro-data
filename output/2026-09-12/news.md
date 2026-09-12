@@ -1,15 +1,25 @@
 # News Pack — Trading Day 12 Sep 2026
 
 - Trading day: **12 Sep 03:00 -> 13 Sep 02:59 PKT**
-- Aakhri update: **12 Sep 09:59 PKT**
-- Kul khabrein: **93**
-- Feeds: 37/39 OK
+- Aakhri update: **12 Sep 14:12 PKT**
+- Kul khabrein: **144**
+- Feeds: 38/39 OK
 
 ---
 
 ## Khabrein
 
 ### GOLD
+
+**Europe's Gold Exodus: Why Central Banks Are Pulling Billions Out of U.S. Vaults - Latin Times**
+`12 Sep 06:57 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_fed
+
+Europe's Gold Exodus: Why Central Banks Are Pulling Billions Out of U.S. Vaults Latin Times
+
+**TAG: gold price forecast 2026 - KITCO**
+`12 Sep 03:40 PKT` · pehli baar dekhi `12 Sep 14:12` · kitco_general
+
+TAG: gold price forecast 2026 KITCO
 
 **Wall Street turns bullish on gold price ahead of the Fed, Main Street clings to slim bullish majority despite weekly slide - KITCO**
 `12 Sep 03:17 PKT` · pehli baar dekhi `12 Sep 03:28` · kitco_general
@@ -18,10 +28,40 @@ Wall Street turns bullish on gold price ahead of the Fed, Main Street clings to 
 
 ### USD
 
+**Wall Street week ahead: Federal Reserve decision on interest rates, retail sales update - Newsday**
+`12 Sep 13:04 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_fed · **6 feeds mein**
+
+Wall Street week ahead: Federal Reserve decision on interest rates, retail sales update Newsday
+  - `12 Sep 13:00` *gnews_fed* — Wall Street week ahead: Federal Reserve decision on interest rates, retail sales update - Toronto Star
+  - `12 Sep 13:00` *gnews_fed* — Wall Street week ahead: Federal Reserve decision on interest rates, retail sales update - The Killeen Daily Herald
+  - `12 Sep 13:00` *gnews_fed* — Wall Street week ahead: Federal Reserve decision on interest rates, retail sales update - tdtnews.com
+  - `12 Sep 13:00` *gnews_fed* — Wall Street week ahead: Federal Reserve decision on interest rates, retail sales update - Richmond Register
+  - `12 Sep 13:00` *gnews_fed* — Wall Street week ahead: Federal Reserve decision on interest rates, retail sales update - Goshen News
+
+**Federal Reserve to Decide on Rate Hike on 15th-16th; Market Prices in 90% Odds Amid Stock Rally and Easing Yields - finance.biggo.com**
+`12 Sep 12:25 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_fed
+
+Federal Reserve to Decide on Rate Hike on 15th-16th; Market Prices in 90% Odds Amid Stock Rally and Easing Yields finance.biggo.com
+
+**Fed Rate Hike Odds Jump to 87% as FOMC Meeting Nears - Coinpedia**
+`12 Sep 12:18 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_fed
+
+Fed Rate Hike Odds Jump to 87% as FOMC Meeting Nears Coinpedia
+
+**Trump's baffling Fed threat could be gift to Warsh - Awani International**
+`12 Sep 09:37 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_fed
+
+Trump's baffling Fed threat could be gift to Warsh Awani International
+
 **Other editors: Trump's inflation plan is to extort the Fed - Portsmouth Daily Times**
 `12 Sep 09:00 PKT` · pehli baar dekhi `12 Sep 09:59` · gnews_fed
 
 Other editors: Trump's inflation plan is to extort the Fed Portsmouth Daily Times
+
+**Fed Rate Hike Nears Certainty After Hotter Inflation Report - DeFi Rate**
+`12 Sep 07:17 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_fed
+
+Fed Rate Hike Nears Certainty After Hotter Inflation Report DeFi Rate
 
 **Fed Is Moving Closer to a September Rate Hike**
 `12 Sep 05:21 PKT` · pehli baar dekhi `12 Sep 05:33` · actionforex
@@ -53,6 +93,21 @@ Watch Core CPI Hikes Ahead of FOMC Meeting Bloomberg.com
 
 Evening Report | Pressure builds for Fed rate hike Pro Farmer
 
+**TAG: Fed interest rate decision - KITCO**
+`12 Sep 03:40 PKT` · pehli baar dekhi `12 Sep 14:12` · kitco_general
+
+TAG: Fed interest rate decision KITCO
+
+**TAG: 10 year Treasury yield - KITCO**
+`12 Sep 03:40 PKT` · pehli baar dekhi `12 Sep 14:12` · kitco_general
+
+TAG: 10 year Treasury yield KITCO
+
+**TAG: September Fed meeting - KITCO**
+`12 Sep 03:40 PKT` · pehli baar dekhi `12 Sep 14:12` · kitco_general
+
+TAG: September Fed meeting KITCO
+
 **Wall Street Ends Four-Day Losing Streak**
 `12 Sep 03:28 PKT` · instaforex
 
@@ -68,15 +123,52 @@ Federal Reserve Chair Warsh Holds News Conference on Interest Rates c-span.org
 
 ### EUR
 
+**Lagarde enters French election debate as ECB exit speculation grows**
+`12 Sep 12:58 PKT` · pehli baar dekhi `12 Sep 14:12` · investing_news
+
+**Meloni sees Italy 2026 growth at 1%, matching euro zone**
+`12 Sep 12:30 PKT` · pehli baar dekhi `12 Sep 14:12` · investing_news
+
+**ECB raises rates as energy-driven inflation pressures mount - Big News Network.com**
+`12 Sep 12:30 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_centralbanks
+
+ECB raises rates as energy-driven inflation pressures mount Big News Network.com
+
+**How much will the installments for loans linked to the euro rise? - vreme.com**
+`12 Sep 12:19 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_centralbanks
+
+How much will the installments for loans linked to the euro rise? vreme.com
+
+**Markets see more ECB rate hikes ahead as inflation pressures persist - Philenews**
+`12 Sep 11:39 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_centralbanks
+
+Markets see more ECB rate hikes ahead as inflation pressures persist Philenews
+
+**Chart Analysis EUR/JPY - 2026-09-11 08:17 - tmgm.com**
+`12 Sep 11:19 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_centralbanks
+
+Chart Analysis EUR/JPY - 2026-09-11 08:17 tmgm.com
+
+**ECB's Kaasik Says Understandable Why Markets See More Rate Hikes - Livemint**
+`12 Sep 10:55 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_centralbanks
+
+ECB's Kaasik Says Understandable Why Markets See More Rate Hikes Livemint
+
+**How the ECB rate hike will affect mortgage borrowers - Euronews.com**
+`12 Sep 10:00 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_centralbanks
+
+How the ECB rate hike will affect mortgage borrowers Euronews.com
+
 **High oil prices could force ECB to raise rates further, policymaker tells FT - marketscreener.com**
 `12 Sep 09:27 PKT` · pehli baar dekhi `12 Sep 09:59` · gnews_centralbanks
 
 High oil prices could force ECB to raise rates further, policymaker tells FT marketscreener.com
 
 **September ECB Meeting: A Unanimous Hawkish Tilt - Seeking Alpha**
-`12 Sep 09:25 PKT` · pehli baar dekhi `12 Sep 09:59` · gnews_centralbanks
+`12 Sep 09:25 PKT` · pehli baar dekhi `12 Sep 09:59` · gnews_centralbanks · **2 feeds mein**
 
 September ECB Meeting: A Unanimous Hawkish Tilt Seeking Alpha
+  - `12 Sep 09:25` *gnews_centralbanks* — September ECB Meeting: A Unanimous Hawkish Tilt - Seeking Alpha
 
 **Bad news for Irish homeowners as ECB raises interest rates – here's what it means for your mortgage - Irish Mirror**
 `12 Sep 09:07 PKT` · pehli baar dekhi `12 Sep 09:59` · gnews_centralbanks
@@ -110,6 +202,11 @@ GBP/JPY fell further to 207.06 last week but recovered since then. Initial bias 
 
 ### JPY
 
+**ING sees Bank of Japan hiking to 1.25%, guiding rates towards neutral as yen strengthens - VT Markets**
+`12 Sep 09:09 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_centralbanks
+
+ING sees Bank of Japan hiking to 1.25%, guiding rates towards neutral as yen strengthens VT Markets
+
 **North Korea fires ballistic missiles off eastern coast, Seoul says**
 `12 Sep 07:25 PKT` · pehli baar dekhi `12 Sep 09:59` · aljazeera
 
@@ -126,6 +223,11 @@ Bank of Japan plans to raise rate to 1.25% — The Japan Times UA.NEWS
 [Key Events to Watch Next Week] FOMC and Bank of England expected to hold rates steady; Bank of Japan anticipated to raise rates; US retail sales, Japanese and UK CPI, etc. Moomoo
 
 ### CAD
+
+**Cyprus Business Now: interest rates, Eurobank, Keve, BoC, technology ecosystem - cyprus-mail.com**
+`12 Sep 11:00 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_centralbanks
+
+Cyprus Business Now: interest rates, Eurobank, Keve, BoC, technology ecosystem cyprus-mail.com
 
 **The Weekly Bottom Line: All Eyes Turn to the Fed After Inflation Pressures Firmed in August**
 `12 Sep 05:19 PKT` · pehli baar dekhi `12 Sep 05:33` · actionforex
@@ -155,6 +257,29 @@ We're Forecasting Fewer Rate Hikes Than Markets: Could We Be Wrong? Investing.co
 The AUD/USD ended the day in the green but finished the week 0.45% lower amid growing bets that the Fed will raise rates next week, boosting the US Dollar. Nevertheless, on Friday, the pair traded at 0.7171, up a decent 0.38%.
 
 ### OIL
+
+**Houthis seize Red Sea coast as Saudi pipeline shutdown deepens oil risks**
+`12 Sep 11:39 PKT` · pehli baar dekhi `12 Sep 14:12` · investing_news
+
+**Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq - BBC**
+`12 Sep 09:43 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_geopolitics
+
+Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq BBC
+
+**Houthi Fighters Reach Strategic Island, Saudi Oil Pipeline Shuts Down - RTV News**
+`12 Sep 09:36 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_geopolitics
+
+Houthi Fighters Reach Strategic Island, Saudi Oil Pipeline Shuts Down RTV News
+
+**Saudi Arabia Shuts Key Oil Pipeline After Iran Drone Attack - GujaratSamachar English**
+`12 Sep 09:25 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_geopolitics
+
+Saudi Arabia Shuts Key Oil Pipeline After Iran Drone Attack GujaratSamachar English
+
+**Gulf oil threatened anew as Houthis reach key island and pipeline is shut down - cfo.economictimes.indiatimes.com**
+`12 Sep 07:50 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_geopolitics
+
+Gulf oil threatened anew as Houthis reach key island and pipeline is shut down cfo.economictimes.indiatimes.com
 
 **Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping**
 `12 Sep 07:48 PKT` · pehli baar dekhi `12 Sep 09:59` · investing_commodities
@@ -234,7 +359,32 @@ The S&P/TSX Composite Index rose 0.5% to close at 35,697 on Friday, as oil price
 
 Brent is sitting a touch above $104 this morning, down slightly from yesterday's surge. The Strait of Hormuz, which used to move something like a fifth of the world's oil and LNG before the war, has been effectively shut since March. Saudi output dropped around 1.9 million barrels a day in August, tanker rates are breaking records, and the EIA doesn't see Middle East production back near pre-conflict levels until the second quarter of 2027.
 
+### CRYPTO
+
+**Bitcoin consolidates above $76,500 support: Live levels**
+`12 Sep 12:02 PKT` · pehli baar dekhi `12 Sep 14:12` · investing_news
+
 ### RISK
+
+**Russia strikes cargo vessels, steel plants across Ukraine**
+`12 Sep 13:38 PKT` · pehli baar dekhi `12 Sep 14:12` · aljazeera
+
+Russia&#039;s Defence Ministry says its forces have struck several industrial facilities across Ukraine
+
+**BRICS summit opens in New Delhi amid wars, global tensions, tariffs**
+`12 Sep 12:40 PKT` · pehli baar dekhi `12 Sep 14:12` · aljazeera
+
+Tariffs and geopolitical rifts dominate discussions at a critical BRICS summit in India&#039;s capital.
+
+**'War on terror': How 9/11 changed the language of conflict**
+`12 Sep 10:26 PKT` · pehli baar dekhi `12 Sep 14:12` · aljazeera
+
+The events of September 11, 2001 spawned a new lexicon which effectively sanitised the erosion of human rights.
+
+**BRICS meets in India: What's on the agenda, why it matters**
+`12 Sep 10:22 PKT` · pehli baar dekhi `12 Sep 14:12` · aljazeera
+
+This year&#039;s summit comes amid the US-Israel war on Iran, Russia&#039;s war on Ukraine and global economic challenges.
 
 **China's Xi heads to India for BRICS summit overshadowed by wars**
 `12 Sep 09:27 PKT` · pehli baar dekhi `12 Sep 09:59` · aljazeera
@@ -261,10 +411,21 @@ Canada's buy-local movement remains strong, but new tariffs could test how much 
 
 Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.
 
-### BINA TAG (31)
+### BINA TAG (44)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `12 Sep 13:47` **aljazeera** — Guatemalan judge clears deputy minister, three leaders of terrorism charges
+- `12 Sep 13:42` **aljazeera** — Sweden heads to the polls: What's at stake in the knife-edge election?
+- `12 Sep 13:00` **investing_news** — Ford to recall about 223,500 US vehicles over fuel tank issues
+- `12 Sep 12:44` **aljazeera** — Trump may be BRICS's best recruitment agent
+- `12 Sep 12:33` **aljazeera** — How to plan a wedding when you don't know what tomorrow will bring
+- `12 Sep 12:17` **aljazeera** — Man waving Palestinian flag tackled on Yankee Stadium field
+- `12 Sep 12:17` **aljazeera** — Duplantis, Ingebrigtsen shine at World Athletics Ultimate Championship
+- `12 Sep 11:40` **aljazeera** — Shelton advances to US Open 2026 men's final for Zverev showdown
+- `12 Sep 11:01` **investing_news** — Burnham faces UK economic test as budget day approaches
+- `12 Sep 10:22` **aljazeera** — Chileans clash over 9/11 military coup legacy
+- `12 Sep 10:17` **investing_news** — Global funds retreat from Indian stocks as some cut exposure to zero - Bloomberg
 - `12 Sep 09:46` **aljazeera** — 'The family paid the price': India's deadly online gambling crisis
 - `12 Sep 09:12` **investing_news** — AnaptysBio earnings missed by $0.34, revenue fell short of estimates
 - `12 Sep 09:00` **aljazeera** — A stable Afghanistan post 9/11 is in US interests says former US diplomat
@@ -291,6 +452,8 @@ Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends cruci
 - `12 Sep 04:46` **mining_com** — US Department of Energy grants $73M to advance domestic mining technology
 - `12 Sep 04:08` **aljazeera** — UN extends partial Sudan arms embargo for a month
 - `12 Sep 03:57` **aljazeera** — Flavio Bolsonaro faces corruption probe weeks before Brazil election
+- `12 Sep 03:40` **kitco_general** — TAG: sovereign debt risk - KITCO
+- `12 Sep 03:40` **kitco_general** — TAG: Central Bank Symposium - KITCO
 - `12 Sep 03:28` **instaforex** — Ibovespa Falls as Political Risks Persist
 - `12 Sep 03:21` **gnews_fed** — US regulators propose bank third-party risk guidelines - Cryptonews.net
 - `12 Sep 03:08` **investing_news** — SharonAI Holdings updates executive agreement, Andrew Leece named head of strategic partnerships
@@ -299,11 +462,11 @@ Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends cruci
 
 ---
 
-## Shor — 12 khabrein hatai gayin
+## Shor — 14 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (12)
+investing_news (14)
 
 ---
 
@@ -313,45 +476,42 @@ investing_news (12)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.3 |
-| fxstreet_news | OK | 30 | 30 | 0 | 30 | 0 | 0.3 |
-| fxstreet_analysis | OK | 30 | 6 | 0 | 6 | 24 | 0.4 |
-| actionforex | OK | 20 | 20 | 5 | 15 | 0 | 0.2 |
-| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.4 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
-| wsj_economy | OK | 36 | 7 | 0 | 7 | 29 | 0.2 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.3 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 1.4 |
-| kitco_general | OK | 33 | 33 | 0 | 33 | 0 | 0.2 |
-| gnews_fed | OK | 100 | 100 | 13 | 87 | 0 | 0.0 |
-| gnews_geopolitics | OK | 89 | 89 | 12 | 77 | 0 | 0.1 |
-| gnews_centralbanks | OK | 100 | 100 | 16 | 84 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 17.5 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 8.7 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.8 |
-| boj_whatsnew | OK | 47 | 3 | 0 | 3 | 44 | 1.2 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.1 |
-| mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.2 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.3 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| bbc_business | OK | 55 | 12 | 0 | 12 | 43 | 0.6 |
-| aljazeera | OK | 25 | 25 | 10 | 15 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.8 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 1.7 |
-| eia_energy | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 8.7 |
-| wsj_world | OK | 72 | 19 | 2 | 17 | 53 | 0.1 |
-| wsj_markets | OK | 61 | 28 | 0 | 28 | 33 | 0.2 |
+| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 0.5 |
+| fxstreet_news | OK | 30 | 1 | 0 | 1 | 29 | 0.5 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.6 |
+| actionforex | OK | 20 | 12 | 0 | 12 | 8 | 0.3 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 0.5 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.3 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.5 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 1.6 |
+| kitco_general | OK | 39 | 10 | 6 | 4 | 29 | 0.4 |
+| gnews_fed | OK | 100 | 24 | 11 | 13 | 76 | 0.0 |
+| gnews_geopolitics | OK | 66 | 12 | 4 | 8 | 54 | 0.2 |
+| gnews_centralbanks | OK | 89 | 15 | 9 | 6 | 74 | 0.1 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 17.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 8.9 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 0.7 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.0 |
+| boj_whatsnew | OK | 47 | 0 | 0 | 0 | 47 | 1.3 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.2 |
+| mining_com | OK | 36 | 3 | 0 | 3 | 33 | 0.4 |
+| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
+| investing_commodities | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
+| bbc_business | OK | 55 | 0 | 0 | 0 | 55 | 0.7 |
+| aljazeera | OK | 25 | 25 | 12 | 13 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| eia_energy | OK | 15 | 0 | 0 | 0 | 15 | 1.8 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 8.9 |
+| wsj_world | OK | 72 | 3 | 0 | 3 | 69 | 0.3 |
+| wsj_markets | OK | 60 | 1 | 0 | 1 | 59 | 0.4 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 25 | 16 | 9 | 25 | 0.5 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
-| cointelegraph | OK | 30 | 20 | 0 | 20 | 10 | 0.3 |
-
-**Jo feeds nahi aaye:**
-- ing_think — FAIL, ConnectTimeout
+| yahoo_finance | OK | 48 | 0 | 0 | 0 | 48 | 0.6 |
+| mw_topstories | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.5 |
