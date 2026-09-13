@@ -1,15 +1,27 @@
 # News Pack — Trading Day 13 Sep 2026
 
 - Trading day: **13 Sep 03:00 -> 14 Sep 02:59 PKT**
-- Aakhri update: **13 Sep 19:27 PKT**
-- Kul khabrein: **190**
-- Feeds: 26/39 OK
+- Aakhri update: **13 Sep 22:35 PKT**
+- Kul khabrein: **273**
+- Feeds: 27/39 OK
 
 ---
 
 ## Khabrein
 
+### MARKET WRAP
+
+**Fed, crude, dollar and Iran war: 4 factors that could move gold next week - The Times of India**
+`13 Sep 21:28 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
+
+Fed, crude, dollar and Iran war: 4 factors that could move gold next week The Times of India
+
 ### GOLD
+
+**Gold, Silver Volatility: Fed, Oil, West Asia Key Drivers - Rediff MoneyWiz**
+`13 Sep 18:22 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
+
+Gold, Silver Volatility: Fed, Oil, West Asia Key Drivers Rediff MoneyWiz
 
 **Gold and Silver Price Prediction for This Week: Fed Decision Could Change Everything - CaptainAltcoin**
 `13 Sep 15:05 PKT` · pehli baar dekhi `13 Sep 19:27` · gnews_fed
@@ -27,6 +39,62 @@ Gold Rate USA, September 13, 2026: 24K at $139.80/g as Fed Decision Nears The Ea
 Gold Rate UK, September 12, 2026: 24ct at £103.36/g as Sterling Holds Six-Week High The Eastern Herald
 
 ### USD
+
+**Trump says US should have world's lowest interest rates ahead of Fed meeting: 'I know more about formulas' - Livemint**
+`13 Sep 22:17 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
+
+Trump says US should have world's lowest interest rates ahead of Fed meeting: 'I know more about formulas' Livemint
+
+**Veteran fund manager's Fed interest rate hike prediction will frustrate consumers - thestreet.com**
+`13 Sep 21:33 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
+
+Veteran fund manager's Fed interest rate hike prediction will frustrate consumers thestreet.com
+
+**Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike**
+`13 Sep 21:11 PKT` · pehli baar dekhi `13 Sep 22:35` · yahoo_finance
+
+**Ahead of Fed meeting, Trump says US should have world's lowest interest rate - WTVB**
+`13 Sep 21:05 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
+
+Ahead of Fed meeting, Trump says US should have world's lowest interest rate WTVB
+
+**All eyes on US Fed to tackle high inflation - Taipei Times**
+`13 Sep 21:00 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
+
+All eyes on US Fed to tackle high inflation Taipei Times
+
+**Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown**
+`13 Sep 20:52 PKT` · pehli baar dekhi `13 Sep 22:35` · yahoo_finance
+
+**Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike - Investor's Business Daily**
+`13 Sep 20:32 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
+
+Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike Investor's Business Daily
+
+**GT Voice: As inflation rate spikes, Europe needs to value cooperation with China - Global Times**
+`13 Sep 20:08 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_centralbanks
+
+GT Voice: As inflation rate spikes, Europe needs to value cooperation with China Global Times
+
+**Asked about Fed decision, Trump says US should have the lowest rate in the world - The Economic Times**
+`13 Sep 20:02 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
+
+Asked about Fed decision, Trump says US should have the lowest rate in the world The Economic Times
+
+**U.S. Inflation Sends Mixed Signal Ahead of Federal Reserve - Hokanews**
+`13 Sep 19:49 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
+
+U.S. Inflation Sends Mixed Signal Ahead of Federal Reserve Hokanews
+
+**Trump Calls for World's Lowest Interest Rate Ahead of Fed Meeting - devdiscourse.com**
+`13 Sep 19:31 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
+
+Trump Calls for World's Lowest Interest Rate Ahead of Fed Meeting devdiscourse.com
+
+**Mike Dolan | Trump's baffling Fed threat could be a gift to Warsh - news24.com**
+`13 Sep 19:00 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
+
+Mike Dolan | Trump's baffling Fed threat could be a gift to Warsh news24.com
 
 **Circle Faces Back-To-Back Catalysts As Senate Votes On CLARITY Act, And Fed Weighs Rate Hike - TradingView**
 `13 Sep 18:59 PKT` · pehli baar dekhi `13 Sep 19:27` · gnews_fed
@@ -55,6 +123,11 @@ The Week Ahead: September FOMC Rate Decision and Dot Plot Ahead, Trip.com and Le
 `13 Sep 16:10 PKT` · pehli baar dekhi `13 Sep 19:27` · gnews_fed
 
 Rate hikes are back? Kevin Warsh and G7 central banks face inflation test this week Livemint
+
+**Why The Fed Is Likely To Raise Rates This Week - Forbes**
+`13 Sep 16:00 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
+
+Why The Fed Is Likely To Raise Rates This Week Forbes
 
 **Stock Markets This Week: US Fed Decision, Inflation Data, Oil To Be Key Drivers, Say Analysts - NDTV Profit**
 `13 Sep 15:41 PKT` · pehli baar dekhi `13 Sep 19:27` · gnews_fed
@@ -133,6 +206,11 @@ Super Central Bank Week Arrives: Fed Rate Hike Odds Near 90% as Global Monetary 
 Ringgit expected to trade in tight range against US dollar next week NST Online
   - `13 Sep 10:43` *gnews_fed* — Ringgit expected to trade in tight range against US dollar next week - klsescreener.com
 
+**Former St. Louis Fed Chief Bullard Supports A September Rate Hike – 'Good Time To Re-Establish Credibility On Inflation Fighting' - Stocktwits**
+`13 Sep 09:54 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
+
+Former St. Louis Fed Chief Bullard Supports A September Rate Hike – 'Good Time To Re-Establish Credibility On Inflation Fighting' Stocktwits
+
 **Futures Traders Just Dramatically Repriced the Chances of a Fed Hike Next Week - The Motley Fool**
 `13 Sep 08:00 PKT` · pehli baar dekhi `13 Sep 19:27` · gnews_fed
 
@@ -154,12 +232,22 @@ ASX to rise as investors pin hopes on Fed's Warsh cooling bond markets AFR
 
 'This is the test': All eyes on US Fed to tackle high inflation RTL Today
 
+**Wall Street week ahead: Federal Reserve decision on interest rates, retail sales update - Newser**
+`13 Sep 03:26 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
+
+Wall Street week ahead: Federal Reserve decision on interest rates, retail sales update Newser
+
 **Rate-Hike Tensions Mount Ahead of FOMC Decision — South Korean Authorities Prepare F4 Meeting Response - finance.biggo.com**
 `13 Sep 03:05 PKT` · pehli baar dekhi `13 Sep 03:36` · gnews_fed
 
 Rate-Hike Tensions Mount Ahead of FOMC Decision — South Korean Authorities Prepare F4 Meeting Response finance.biggo.com
 
 ### EUR
+
+**French TV programme pulled after actress speaks out on Gaza**
+`13 Sep 22:15 PKT` · pehli baar dekhi `13 Sep 22:35` · aljazeera
+
+France Televisions has removed the replay of a programme after actress Adèle Haenel denounced the Gaza genocide.
 
 **US Inflation Surge Outpaces ECB Hike, Pressuring Euro and Raising Dollar's Global Clout - InteractiveCrypto**
 `13 Sep 17:10 PKT` · pehli baar dekhi `13 Sep 19:27` · gnews_centralbanks
@@ -264,6 +352,11 @@ Bank of England boss urged to pause bond sales costing UK taxpayers £100bn This
 
 ### JPY
 
+**Japan's Fiscal Expansion vs. Bank of Japan Rate Hikes - 조선일보**
+`13 Sep 20:42 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_centralbanks
+
+Japan's Fiscal Expansion vs. Bank of Japan Rate Hikes 조선일보
+
 **Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK - The Guardian**
 `13 Sep 18:56 PKT` · pehli baar dekhi `13 Sep 19:27` · gnews_fed
 
@@ -294,6 +387,11 @@ Oil at $110, U.S. Yields Near 5%—Yet the Yen Rallied Anyway finance.biggo.com
 
 ### CAD
 
+**Investment in Canada's mining sector to grow with global demand, BMO**
+`13 Sep 20:08 PKT` · pehli baar dekhi `13 Sep 22:35` · mining_com
+
+A new BMO Global markets study highlighted Canada's mining sector potential for investors as the industry continues to grow.
+
 **Mark Carney's Audacious Bid to Make Canada an 'Associate Member' of the EU**
 `13 Sep 06:00 PKT` · pehli baar dekhi `13 Sep 10:05` · wsj_world
 
@@ -306,13 +404,68 @@ As trade talks with the U.S. collapse, prime minister pursues a major—and risk
 
 ### OIL
 
+**Trump's Caucasus Trade Corridor Delayed Until 2027**
+`13 Sep 22:00 PKT` · pehli baar dekhi `13 Sep 22:35` · oilprice
+
+Construction on a trade corridor seen as the lynchpin of the Armenian-Azerbaijani peace deal is facing a delay, according to a top Azerbaijani official. The provisional peace agreement was signed in Washington in August 2025. At that time, the Trump Route for International Peace and Prosperity (TRIPP) had been expected to begin construction by the end of 2026.
+
+**Trump floats keeping Iranian oil as conflict rattles energy markets - Seeking Alpha**
+`13 Sep 21:21 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_geopolitics
+
+Trump floats keeping Iranian oil as conflict rattles energy markets Seeking Alpha
+
+**Ukrainian drone evades Russian helicopter fire to strike oil tanker**
+`13 Sep 21:11 PKT` · pehli baar dekhi `13 Sep 22:35` · aljazeera
+
+Ukraine has released footage showing a drone evading fire from a Russian helicopter before striking a Russian oil tanker
+
+**Saudi pipeline outage risks disrupting 4 percent of global oil supply - Roya News**
+`13 Sep 20:45 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_geopolitics
+
+Saudi pipeline outage risks disrupting 4 percent of global oil supply Roya News
+
+**Iran to Announce Temporary Strait of Hormuz Shipping Lane Agreement - egyptoil-gas.com**
+`13 Sep 20:00 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_geopolitics
+
+Iran to Announce Temporary Strait of Hormuz Shipping Lane Agreement egyptoil-gas.com
+
+**UK Wind Power Hits Record High as Energy Security Risks Mount**
+`13 Sep 20:00 PKT` · pehli baar dekhi `13 Sep 22:35` · oilprice
+
+The United Kingdom has dramatically increased its wind energy capacity over the last decade, producing record levels of wind power in 2025. With several more projects in the pipeline, wind power is expected to contribute a significant share of the U.K. energy mix by the end of the decade, supporting diversification aims and boosting energy security. In the U.K., in 2025, wind was the largest single renewable electricity source, according to data from the National Energy System Operator (Neso).
+
 **Saudi East-West Pipeline Attack Exposes Oil Supply Vulnerabilities - Egypt Oil & Gas**
 `13 Sep 18:41 PKT` · pehli baar dekhi `13 Sep 19:27` · gnews_geopolitics
 
 Saudi East-West Pipeline Attack Exposes Oil Supply Vulnerabilities Egypt Oil & Gas
 
+**Middle East Tensions Surge as Oil Supplies at Risk - devdiscourse.com**
+`13 Sep 18:27 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_geopolitics
+
+Middle East Tensions Surge as Oil Supplies at Risk devdiscourse.com
+
+**US Oil Executives Expect Crude Output to Rise as Iran War Continues, Survey Shows - EnergyNow**
+`13 Sep 18:23 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_geopolitics
+
+US Oil Executives Expect Crude Output to Rise as Iran War Continues, Survey Shows EnergyNow
+
+**Kuwait Oil CEO Says Iran is 'Holding the World's Economy Hostage' - EnergyNow.com**
+`13 Sep 18:20 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_geopolitics
+
+Kuwait Oil CEO Says Iran is 'Holding the World's Economy Hostage' EnergyNow.com
+
+**Hormuz ship attack deepens oil supply fears after Saudi pipeline closure (CO1:COM:Commodity) - Seeking Alpha**
+`13 Sep 18:00 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_geopolitics
+
+Hormuz ship attack deepens oil supply fears after Saudi pipeline closure (CO1:COM:Commodity) Seeking Alpha
+
 **Saudi pipeline outage threatens loss of 4% of global oil supply**
 `13 Sep 17:30 PKT` · pehli baar dekhi `13 Sep 19:27` · investing_commodities
+
+**New attack reported in Strait of Hormuz, fanning fears over oil supplies - bdnews24.com**
+`13 Sep 17:03 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_geopolitics
+
+New attack reported in Strait of Hormuz, fanning fears over oil supplies bdnews24.com
 
 **Oil Prices Surge On Supply Risk, Brent Crude Rises 8% In 5 Days - MarketForces Africa**
 `13 Sep 16:48 PKT` · pehli baar dekhi `13 Sep 19:27` · gnews_geopolitics
@@ -394,6 +547,14 @@ The warning comes after the US-Iran conflict drives up heating oil and fuel cost
 
 Strait Of Hormuz Ship Hit By Projectile, Global Oil Supply Fears Rise After Saudi Pipeline Attack Free Press Journal
 
+**Fed decision, crude oil and global cues likely to drive stock market next week - The Hans India**
+`13 Sep 10:50 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed · **4 feeds mein**
+
+Fed decision, crude oil and global cues likely to drive stock market next week The Hans India
+  - `13 Sep 10:35` *gnews_fed* — Fed decision, crude oil and global cues likely to drive stock market next week - DT Next
+  - `13 Sep 10:35` *gnews_fed* — Fed decision, crude oil and global cues likely to drive stock market next week - DT Next
+  - `13 Sep 09:14` *gnews_fed* — Fed decision, crude oil and global cues likely to drive stock market next week - Social News XYZ
+
 **Global oil market highlights in JAugust 2026 as reported by OPEC (Report) - IranOilGas**
 `13 Sep 10:48 PKT` · pehli baar dekhi `13 Sep 15:13` · gnews_geopolitics
 
@@ -406,13 +567,6 @@ Global oil market highlights in JAugust 2026 as reported by OPEC (Report) IranOi
   - `13 Sep 09:42` *gnews_geopolitics* — New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies - hirunews.lk
   - `13 Sep 08:17` *gnews_geopolitics* — New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies - GMA Network
   - `13 Sep 07:22` *gnews_geopolitics* — New report of attack on Strait of Hormuz shipping fans fears of threats to oil supplies - reuters.com
-
-**Fed decision, crude oil and global cues likely to drive stock market next week - DT Next**
-`13 Sep 10:35 PKT` · pehli baar dekhi `13 Sep 15:13` · gnews_fed · **3 feeds mein**
-
-Fed decision, crude oil and global cues likely to drive stock market next week DT Next
-  - `13 Sep 10:35` *gnews_fed* — Fed decision, crude oil and global cues likely to drive stock market next week - DT Next
-  - `13 Sep 09:14` *gnews_fed* — Fed decision, crude oil and global cues likely to drive stock market next week - Social News XYZ
 
 **Brent crude surges above $105 as US-Iran war escalation stokes global oil supply fears - IBTimes India**
 `13 Sep 10:18 PKT` · pehli baar dekhi `13 Sep 15:13` · gnews_geopolitics
@@ -431,6 +585,11 @@ New Strait of Hormuz ship attack raises oil supply fears as Iran war widens Inve
 `13 Sep 08:00 PKT` · pehli baar dekhi `13 Sep 10:05` · gnews_geopolitics
 
 Trump Blames Iran for Drone Attack on Saudi Oil Pipeline RTV News
+
+**Attack on Strait of Hormuz shipping raises fears for oil supplies - Crypto Briefing**
+`13 Sep 07:44 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_geopolitics
+
+Attack on Strait of Hormuz shipping raises fears for oil supplies Crypto Briefing
 
 **Iraq seizes drone-launching platform used for targeting Saudi oil pipeline**
 `13 Sep 07:32 PKT` · pehli baar dekhi `13 Sep 10:05` · aljazeera
@@ -464,6 +623,16 @@ Oil Industry Braces for Years-Long Iran War Crude Oil Prices Today | OilPrice.co
 
 ### CRYPTO
 
+**Fed reaffirms 2% inflation target amid speculation of rate hikes - Crypto Briefing**
+`13 Sep 21:07 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
+
+Fed reaffirms 2% inflation target amid speculation of rate hikes Crypto Briefing
+
+**CLARITY Act Vote and Fed Decision Put Crypto Markets in Focus - Hokanews**
+`13 Sep 18:51 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
+
+CLARITY Act Vote and Fed Decision Put Crypto Markets in Focus Hokanews
+
 **Bitcoin's Uncertain Future as the Federal Reserve Approaches - OneSafe.io**
 `13 Sep 12:54 PKT` · pehli baar dekhi `13 Sep 15:13` · gnews_fed
 
@@ -474,10 +643,35 @@ Bitcoin's Uncertain Future as the Federal Reserve Approaches OneSafe.io
 
 ### RISK
 
+**World leaders gather in New Delhi for final day of BRICS summit**
+`13 Sep 20:40 PKT` · pehli baar dekhi `13 Sep 22:35` · aljazeera
+
+BRICS leaders gathered in New Delhi for the final day of the summit amid divisions over the wars in Iran and Ukraine.
+
+**US-Israel-Iran War Latest Live News: Saudi Oil Pipeline Outage Risks Disrupting 4% of Global Oil Supply If Pumping Isn't Resumed Within Days - The Sunday Guardian**
+`13 Sep 19:31 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_geopolitics
+
+US-Israel-Iran War Latest Live News: Saudi Oil Pipeline Outage Risks Disrupting 4% of Global Oil Supply If Pumping Isn't Resumed Within Days The Sunday Guardian
+
 **Iran-GCC summit: What's behind the meeting, why is Bahrain not attending?**
 `13 Sep 18:59 PKT` · pehli baar dekhi `13 Sep 19:27` · aljazeera
 
 Iran says it plans to hold talks with Iraq and Gulf nations in Oman to help strengthen shared regional security.
+
+**Will US and International Sanctions on Iran be Lifted? - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com**
+`13 Sep 18:39 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_geopolitics
+
+Will US and International Sanctions on Iran be Lifted? - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com
+
+**China Imports the Most Energy, But is Best Placed on Iran: Russell - EnergyNow.com**
+`13 Sep 18:20 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_geopolitics
+
+China Imports the Most Energy, But is Best Placed on Iran: Russell EnergyNow.com
+
+**Iran War Hands OPEC's Swing Producer Crown to America: Bousso - EnergyNow.com**
+`13 Sep 18:20 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_geopolitics
+
+Iran War Hands OPEC's Swing Producer Crown to America: Bousso EnergyNow.com
 
 **Ukraine drone strikes kill four as Russia attacks close to Poland border**
 `13 Sep 18:05 PKT` · pehli baar dekhi `13 Sep 19:27` · aljazeera
@@ -552,21 +746,63 @@ Houthis accuse Saudi Arabia of launching 129 strikes in 48 hours as fears grow o
 
 Oil producers, traders, and refiners are bracing for a prolonged war between the United States and Iran in the Persian Gulf with little to no hope of a quick resolution. By extension, they are also preparing for higher prices for longer, a theme present at this year's edition of the Asia Pacific Petroleum Conference.
 
-### BINA TAG (69)
+### BINA TAG (112)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `13 Sep 22:20` **yahoo_finance** — What Will XRP Be Worth by 2028?
+- `13 Sep 22:10` **yahoo_finance** — Navan (NAVN) Rides Enterprise Momentum Into Events and Meetings Through BoomPop Deal
+- `13 Sep 22:07` **yahoo_finance** — Suze Orman flags the Medicare gap retirees are missing
+- `13 Sep 22:07` **yahoo_finance** — Forget Screeners and Hot Tips: Here's How I Actually Research a Stock Using Fundamentals That Matter
+- `13 Sep 22:06` **yahoo_finance** — Korn Ferry (KFY) Expands Global Standing With AMS Acquisition
+- `13 Sep 22:05` **yahoo_finance** — Jim Cramer Called This Stock "Terrific" and Said "No Thank You" to APLD Stock. Here's Why
+- `13 Sep 22:02` **yahoo_finance** — Cognizant CFO: AI Pressures IT Spending, but BFSI Growth Stays Strong
+- `13 Sep 22:01` **yahoo_finance** — Two Telecom Giants, Two Big Dividends. Which One Can Investors Actually Count On?
+- `13 Sep 22:01` **yahoo_finance** — Where Does XRP Bottom?
+- `13 Sep 21:59` **yahoo_finance** — AMD and Intel's Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both Stocks?
+- `13 Sep 21:55` **yahoo_finance** — Jim Cramer Suggests Waiting for a Lower Entry on Howmet Aerospace (HWM)
+- `13 Sep 21:54` **yahoo_finance** — Dave Ramsey Warns About a $10 Million Family Financial Disaster: "He Dumped His Kids on the Railroad Track"
+- `13 Sep 21:50` **yahoo_finance** — Billionaire Bill Ackman Trimmed This Big Tech Position to Back These 2 AI Contenders
+- `13 Sep 21:45` **yahoo_finance** — Being a millionaire isn't enough to join America's top 10% — here's the net worth it actually takes to be in the top
+- `13 Sep 21:11` **aljazeera** — Kosovo approves new government after months of political deadlock
+- `13 Sep 21:05` **aljazeera** — F1 leader Antonelli wins Spanish Grand Prix as unlucky Norris misses out
+- `13 Sep 20:51` **gnews_fed** — Trump's Interest Rate Battle: U.S. Against the World - devdiscourse.com
+- `13 Sep 20:50` **aljazeera** — Six killed, 130 missing after Indonesian passenger ship capsizes
+- `13 Sep 20:45` **yahoo_finance** — Pay is back on the rise for job switchers, even in low-hire job market
+- `13 Sep 20:45` **wsj_world** — Opinion | The ICJ's Pernicious Plan to Redefine Genocide
+- `13 Sep 20:40` **yahoo_finance** — Bank exits squeeze truck financing for mid-size fleets
+- `13 Sep 20:33` **yahoo_finance** — 49-year-old clothing chain closing stores as its shoppers shrink
+- `13 Sep 20:22` **aljazeera** — As Chavez and Maduro images disappear, is Venezuela entering a new chapter?
+- `13 Sep 20:03` **aljazeera** — What are the five pros and cons of artificial intelligence?
+- `13 Sep 20:00` **aljazeera** — Red Sea nations watch as Houthis seize Bab al-Mandeb strait
+- `13 Sep 20:00` **mw_topstories** — I'm a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?
+- `13 Sep 19:39` **wsj_world** — Pfizer Makes an Unusual Enemy in $2 Billion Fight Over Unwanted Covid-19 Vaccines
+- `13 Sep 19:38` **aljazeera** — More than 2,000 Yemenis flee to Djibouti amid Houthi advances
+- `13 Sep 19:35` **aljazeera** — US Open men's final live: Alexander Zverev vs Ben Shelton
+- `13 Sep 19:29` **yahoo_finance** — Amgen (AMGN) Fell 5% on a Drug That Isn't Even Its Own. Here's the Lp(a) Bet Now in Question.
 - `13 Sep 19:08` **yahoo_finance** — Alibaba and Amazon Face the Same AI Spending Question: How Quickly Does Capacity Become Cash?
 - `13 Sep 19:02` **yahoo_finance** — NVIDIA's Older GPUs Still Earn Rent. What That Does and Doesn't Prove for CoreWeave
 - `13 Sep 19:00` **mw_topstories** — Corporate profit forecasts are topping expectations to an unusual degree. AI is a big reason why.
+- `13 Sep 18:49` **yahoo_finance** — Willis Lease Finance (WLFC) Grows Fast While Its Bottom Line Shrinks
+- `13 Sep 18:46` **yahoo_finance** — The RealReal (REAL) Posts Record Sales, But The Losses Keep Growing
+- `13 Sep 18:45` **gnews_fed** — Trump Advocates for Lowest Interest Rates Globally - devdiscourse.com
+- `13 Sep 18:38` **yahoo_finance** — Snowflake's Blowout Quarter Adds to a Software Sector Already Rallying on AI
+- `13 Sep 18:36` **yahoo_finance** — Red Violet (RDVT) Turns Record Growth Into Real Profit Gains
 - `13 Sep 18:34` **aljazeera** — Villagers in India tie technician to cell tower over 5G failure
+- `13 Sep 18:33` **yahoo_finance** — PureCycle (PCT) Turns Lab Promises Into Detergent Cap Reality
+- `13 Sep 18:27` **yahoo_finance** — Stark warnings from Anthropic and OpenAI CEOs are set to disrupt the AI stock trade they built up
 - `13 Sep 18:26` **aljazeera** — Renewed fighting worsens Yemen's humanitarian crisis
+- `13 Sep 18:26` **yahoo_finance** — Clear Channel Outdoor (CCO) Grows Fastest Right Before Going Private
+- `13 Sep 18:22` **yahoo_finance** — Adobe's (ADBE) AI Bet Is Finally Showing Up In Revenue
+- `13 Sep 18:14` **yahoo_finance** — LightPath's (LPTH) Defense Pivot Just Showed Up In The Numbers
 - `13 Sep 18:09` **aljazeera** — How Israel's destruction of south Lebanon is making displacement permanent
+- `13 Sep 18:08` **yahoo_finance** — Copart (CPRT) Bets On Digital Dealers As Core Volumes Shrink
 - `13 Sep 18:05` **gnews_fed** — Mohamed A. El-Erian: Federal Reserve faces challenging policy meeting as yield surge shapes outlook - Traders Union
 - `13 Sep 17:45` **investing_news** — Saudi Arabia stocks lower at close of trade; Tadawul All Share down 1.30%
 - `13 Sep 17:31` **aljazeera** — LIVE: Manchester United vs Manchester City – Premier League
 - `13 Sep 17:06` **aljazeera** — India vs Sri Lanka live: Asia Cup final
 - `13 Sep 16:35` **aljazeera** — Philippines set for historic vote in Bangsamoro after decades of conflict
+- `13 Sep 16:15` **gnews_geopolitics** — | Kyabram Free Press - Kyabram Free Press
 - `13 Sep 16:09` **cointelegraph** — Anthropic chief urges slowdown in AI development to safer pace
 - `13 Sep 16:09` **investing_news** — InvestingPro's Fair Value spotted 65% gain in Inspire Medical stock
 - `13 Sep 16:01` **investing_news** — InvestingPro Fair Value predicted 57% drop in Rackspace Technology
@@ -596,6 +832,7 @@ Oil producers, traders, and refiners are bracing for a prolonged war between the
 - `13 Sep 11:09` **bbc_business** — 'It's cost upon cost for working families - they get no help'
 - `13 Sep 10:45` **investing_news** — How vulnerable are European stocks to natural gas price shocks?
 - `13 Sep 10:32` **investing_news** — South Korea expands espionage law to protect chip technology
+- `13 Sep 10:23` **gnews_fed** — Why Federal Reserve Rate Hikes Are Back On The Table For September 2026 - ИФЗ РАН
 - `13 Sep 10:14` **bbc_business** — Ending rough sleeping is 'not just a housing issue'
 - `13 Sep 09:40` **aljazeera** — About 1,400 Yemenis flee to Djibouti within 24 hours
 - `13 Sep 09:22` **aljazeera** — Wildfire rages on Croatia's Dalmatian Coast island of Brac
@@ -634,45 +871,46 @@ Oil producers, traders, and refiners are bracing for a prolonged war between the
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | WARN | 25 | 0 | 0 | 0 | 25 | 1.7 |
-| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.7 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.2 |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.2 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.7 |
-| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.5 |
-| wsj_economy | OK | 36 | 2 | 1 | 1 | 34 | 0.1 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.7 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 2.8 |
+| investinglive | WARN | 25 | 0 | 0 | 0 | 25 | 1.8 |
+| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.8 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.3 |
+| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.3 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.9 |
+| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.6 |
+| wsj_economy | OK | 36 | 2 | 0 | 2 | 34 | 0.3 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 3.0 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 67 | 46 | 20 | 26 | 21 | 0.0 |
-| gnews_geopolitics | OK | 68 | 28 | 9 | 19 | 40 | 0.0 |
-| gnews_centralbanks | OK | 31 | 28 | 7 | 21 | 3 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 18.9 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 10.1 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 0.8 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.2 |
-| boj_whatsnew | OK | 43 | 0 | 0 | 0 | 43 | 2.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 10.5 |
-| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.6 |
-| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
-| investing_commodities | OK | 10 | 4 | 3 | 1 | 6 | 0.1 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| gnews_fed | OK | 72 | 63 | 20 | 43 | 9 | 0.0 |
+| gnews_geopolitics | OK | 79 | 43 | 14 | 29 | 36 | 0.1 |
+| gnews_centralbanks | OK | 33 | 30 | 2 | 28 | 3 | 0.1 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 19.0 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 10.2 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 0.9 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.4 |
+| boj_whatsnew | OK | 43 | 0 | 0 | 0 | 43 | 2.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 10.6 |
+| mining_com | OK | 36 | 1 | 1 | 0 | 35 | 0.1 |
+| oilprice | OK | 15 | 3 | 2 | 1 | 12 | 0.0 |
+| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.2 |
+| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | bbc_business | OK | 57 | 5 | 0 | 5 | 52 | 0.1 |
-| aljazeera | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.2 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.1 |
-| eia_energy | WARN | 15 | 0 | 0 | 0 | 15 | 3.0 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 10.1 |
-| wsj_world | OK | 71 | 5 | 0 | 5 | 66 | 0.2 |
-| wsj_markets | OK | 60 | 2 | 1 | 1 | 58 | 0.6 |
-| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.1 |
-| yahoo_finance | OK | 50 | 4 | 4 | 0 | 46 | 0.0 |
-| mw_topstories | OK | 10 | 5 | 2 | 3 | 5 | 0.0 |
-| cointelegraph | OK | 30 | 2 | 1 | 1 | 28 | 0.1 |
+| aljazeera | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.3 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.3 |
+| eia_energy | WARN | 15 | 0 | 0 | 0 | 15 | 3.1 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 10.2 |
+| wsj_world | OK | 71 | 7 | 2 | 5 | 64 | 0.1 |
+| wsj_markets | OK | 60 | 2 | 0 | 2 | 58 | 0.7 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| yahoo_finance | OK | 50 | 34 | 30 | 4 | 16 | 0.0 |
+| mw_topstories | OK | 10 | 7 | 1 | 6 | 3 | 0.0 |
+| cointelegraph | OK | 30 | 3 | 0 | 3 | 27 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi
+- ing_think — FAIL, ConnectTimeout
