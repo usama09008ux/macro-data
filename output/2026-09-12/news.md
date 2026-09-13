@@ -1,9 +1,9 @@
 # News Pack — Trading Day 12 Sep 2026
 
 - Trading day: **12 Sep 03:00 -> 13 Sep 02:59 PKT**
-- Aakhri update: **13 Sep 03:36 PKT**
-- Kul khabrein: **482**
-- Feeds: 37/39 OK
+- Aakhri update: **13 Sep 05:21 PKT**
+- Kul khabrein: **495**
+- Feeds: 38/39 OK
 
 ---
 
@@ -79,6 +79,11 @@ FOMC, oil surge, and rising yields test South Korea stocks - CHOSUNBIZ Chosunbiz
 
 Dollar Gains Against Euro, Franc as US Inflation Fuels Fed Rate-Hike Bets see.news
 
+**All Eyes on Warsh as Rate-Hike Fever Spreads Across G7 Central Banks - Bloomberg.com**
+`13 Sep 01:00 PKT` · pehli baar dekhi `13 Sep 05:21` · gnews_fed
+
+All Eyes on Warsh as Rate-Hike Fever Spreads Across G7 Central Banks Bloomberg.com
+
 **Markets Are Telling the Fed It Is Time to Hike - Mott Capital Management**
 `12 Sep 23:52 PKT` · pehli baar dekhi `13 Sep 01:41` · gnews_centralbanks
 
@@ -129,6 +134,11 @@ US Stock Market Prediction: Dow, S&P 500 & Nasdaq Futures Rise Ahead Of Monday W
 
 **Teva's (TEVA) $125 Million BioXcel Bid Offers Upside, but FDA and Auction Risks Remain**
 `12 Sep 21:57 PKT` · pehli baar dekhi `12 Sep 23:18` · yahoo_finance
+
+**US Inflation Stays High as Diesel Costs Surge; Fed Hike Likely - Whalesbook**
+`12 Sep 21:36 PKT` · pehli baar dekhi `13 Sep 05:21` · gnews_fed
+
+US Inflation Stays High as Diesel Costs Surge; Fed Hike Likely Whalesbook
 
 **Dow Jones Futures Prediction: What To Expect At Monday's Wall Street Opening After Dow Closes At 52,573; 3.4% Inflation, Fed Rate Hike Bets, Oil Prices & Treasury Yields In Focus; Check Market Outlook - The Sunday Guardian**
 `12 Sep 21:32 PKT` · pehli baar dekhi `13 Sep 01:41` · gnews_fed
@@ -195,6 +205,11 @@ Market Defies Hot CPI Data: Stocks Surge 1% Despite Inflation Fears blockonomi.c
 
 Fed Chair Kevin Warsh breaks with tradition of telegraphing policy streamlinefeed.co.ke
 
+**Oil prices, US inflation stoke Fed hike worries - NT News**
+`12 Sep 16:29 PKT` · pehli baar dekhi `13 Sep 05:21` · gnews_fed
+
+Oil prices, US inflation stoke Fed hike worries NT News
+
 **Dallas Fed economist highlights Texas-Mexico trade dynamism and AI manufacturing expansion - riograndeguardian.com**
 `12 Sep 15:47 PKT` · pehli baar dekhi `12 Sep 17:53` · gnews_fed
 
@@ -205,6 +220,11 @@ Dallas Fed economist highlights Texas-Mexico trade dynamism and AI manufacturing
 
 No relief from inflation as Middle East clashes lifts fuel prices to painful levels ET Auto
 
+**Stock market: Oil prices, US inflation stoke Fed hike worries - RTL Today**
+`12 Sep 14:57 PKT` · pehli baar dekhi `13 Sep 05:21` · gnews_fed
+
+Stock market: Oil prices, US inflation stoke Fed hike worries RTL Today
+
 **US Inflation Stays Sticky as Homebuyers Face Continued Pressure From Higher Borrowing Costs - grihik.com**
 `12 Sep 14:38 PKT` · pehli baar dekhi `12 Sep 21:00` · gnews_fed
 
@@ -214,6 +234,16 @@ US Inflation Stays Sticky as Homebuyers Face Continued Pressure From Higher Borr
 `12 Sep 14:28 PKT` · pehli baar dekhi `12 Sep 23:18` · gnews_fed
 
 The Fed is poised for a rate hike. It rarely stops at one. livemint.com
+
+**Core inflation posts largest gain in four months, reinforcing bets on a rate rise - The Financial Express**
+`12 Sep 13:23 PKT` · pehli baar dekhi `13 Sep 05:21` · gnews_fed
+
+Core inflation posts largest gain in four months, reinforcing bets on a rate rise The Financial Express
+
+**Mortgage Rates and Inflation Shape Financial Markets - Intellectia AI**
+`12 Sep 13:13 PKT` · pehli baar dekhi `13 Sep 05:21` · gnews_fed
+
+Mortgage Rates and Inflation Shape Financial Markets Intellectia AI
 
 **Federal Reserve to Decide on Rate Hike on 15th-16th; Market Prices in 90% Odds Amid Stock Rally and Easing Yields - finance.biggo.com**
 `12 Sep 12:25 PKT` · pehli baar dekhi `12 Sep 14:12` · gnews_fed
@@ -264,6 +294,11 @@ US Markets Rise as Investors Price in Fed Rate Hike Whalesbook
 `12 Sep 07:57 PKT` · pehli baar dekhi `13 Sep 01:41` · gnews_centralbanks
 
 Ringgit Could Rebound To 4.04 If Fed Holds Rates BusinessToday Malaysia
+
+**What a Fed Rate Hike Could Mean for US Stocks - Goldman Sachs**
+`12 Sep 07:52 PKT` · pehli baar dekhi `13 Sep 05:21` · gnews_fed
+
+What a Fed Rate Hike Could Mean for US Stocks Goldman Sachs
 
 **US Inflation Signals Upcoming Federal Reserve Interest Rate Hike - SuaraGarut.ID**
 `12 Sep 07:52 PKT` · pehli baar dekhi `12 Sep 23:18` · gnews_fed
@@ -360,15 +395,21 @@ Stock Market Today: Dow and Nasdaq Rally as U.S. Inflation Report Lifts Fed Rate
 
 ### EUR
 
+**Christine Lagarde wades into French poll politics - inkl**
+`12 Sep 23:00 PKT` · pehli baar dekhi `13 Sep 05:21` · gnews_centralbanks
+
+Christine Lagarde wades into French poll politics inkl
+
+**ECB Monetary policy decisions - Forex Factory**
+`12 Sep 21:46 PKT` · pehli baar dekhi `13 Sep 05:21` · gnews_centralbanks · **2 feeds mein**
+
+ECB Monetary policy decisions Forex Factory
+  - `12 Sep 21:02` *gnews_centralbanks* — ECB Monetary policy decisions - Forex Factory
+
 **Lagarde Wades Into French Election Politics at Normandy Rally - Bloomberg.com**
 `12 Sep 21:14 PKT` · pehli baar dekhi `13 Sep 01:41` · gnews_centralbanks
 
 Lagarde Wades Into French Election Politics at Normandy Rally Bloomberg.com
-
-**ECB Monetary policy decisions - Forex Factory**
-`12 Sep 21:02 PKT` · pehli baar dekhi `13 Sep 03:36` · gnews_centralbanks
-
-ECB Monetary policy decisions Forex Factory
 
 **ECB rate hike could push loan payments higher next spring - news.err.ee**
 `12 Sep 18:15 PKT` · pehli baar dekhi `12 Sep 21:00` · gnews_centralbanks
@@ -514,6 +555,11 @@ GBP/USD stayed in range trading above 1.3473 last week and outlook is unchanged.
 `12 Sep 14:31 PKT` · pehli baar dekhi `12 Sep 17:53` · gnews_centralbanks
 
 Markets Price Four Bank of England Rate Rises as UK Economy Grows 0.4% Share Talk
+
+**British Pound Forecast: Why ING Still Sees GBP/EUR Falling Towards 1.15 - Exchange Rates UK**
+`12 Sep 13:21 PKT` · pehli baar dekhi `13 Sep 05:21` · gnews_centralbanks
+
+British Pound Forecast: Why ING Still Sees GBP/EUR Falling Towards 1.15 Exchange Rates UK
 
 ### JPY
 
@@ -1024,12 +1070,22 @@ Bitcoin Outlook Darkens as US Inflation Dims Hopes for Fed Rate Cuts CryptoRank
 
 ### RATES
 
+**Super Central Bank Week Arrives! Will the Federal Reserve Push the Button on Its First Rate Hike in Three Years? - 富途牛牛**
+`12 Sep 19:30 PKT` · pehli baar dekhi `13 Sep 05:21` · gnews_fed
+
+Super Central Bank Week Arrives! Will the Federal Reserve Push the Button on Its First Rate Hike in Three Years? 富途牛牛
+
 **Federal Reserve Prepares 25 Basis Point Rate Hike - SuaraGarut.ID**
 `12 Sep 07:47 PKT` · pehli baar dekhi `12 Sep 21:00` · gnews_fed
 
 Federal Reserve Prepares 25 Basis Point Rate Hike SuaraGarut.ID
 
 ### RISK
+
+**How a Houthi Blockade in the Red Sea Tightens Iran's Grip on Global Energy Supplies - EnergyNow.com**
+`13 Sep 01:40 PKT` · pehli baar dekhi `13 Sep 05:21` · gnews_geopolitics
+
+How a Houthi Blockade in the Red Sea Tightens Iran's Grip on Global Energy Supplies EnergyNow.com
 
 **How the Iran War Oil and Gas Supply Shock Compares with Past Disruptions - EnergyNow**
 `13 Sep 01:39 PKT` · pehli baar dekhi `13 Sep 03:36` · gnews_geopolitics
@@ -1073,6 +1129,11 @@ From Iraq to Yemen: How Iran-linked groups are putting Saudi energy routes under
 `12 Sep 21:06 PKT` · pehli baar dekhi `12 Sep 23:18` · aljazeera
 
 If there is a Saudi request, Pakistan and Turkiye will intervene, but direct involvement in the Yemen war is unlikely.
+
+**Iran Ties Strait of Hormuz Reopening to US Sanctions Relief - Whalesbook**
+`12 Sep 20:17 PKT` · pehli baar dekhi `13 Sep 05:21` · gnews_geopolitics
+
+Iran Ties Strait of Hormuz Reopening to US Sanctions Relief Whalesbook
 
 **Iran-backed Houthis seize strategic Mayun Island: Can they hold it?**
 `12 Sep 18:45 PKT` · pehli baar dekhi `12 Sep 21:00` · aljazeera
@@ -1458,44 +1519,41 @@ investing_news (17), yahoo_finance (2)
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
 | investinglive | OK | 25 | 0 | 0 | 0 | 25 | 1.1 |
-| fxstreet_news | OK | 30 | 1 | 0 | 1 | 29 | 1.0 |
-| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.5 |
-| actionforex | OK | 20 | 18 | 0 | 18 | 2 | 0.5 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.1 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.8 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.9 |
+| fxstreet_news | OK | 30 | 1 | 0 | 1 | 29 | 1.1 |
+| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.6 |
+| actionforex | OK | 20 | 18 | 0 | 18 | 2 | 0.6 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.2 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.9 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 1.0 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
 | cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
 | cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
 | cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
 | cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 2.2 |
-| kitco_general | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
-| gnews_fed | OK | 67 | 67 | 6 | 61 | 0 | 0.0 |
-| gnews_geopolitics | OK | 74 | 74 | 15 | 59 | 0 | 0.1 |
-| gnews_centralbanks | OK | 45 | 45 | 6 | 39 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 18.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 9.4 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.1 |
+| kitco_general | OK | 3 | 3 | 0 | 3 | 0 | 0.4 |
+| gnews_fed | OK | 65 | 65 | 8 | 57 | 0 | 0.1 |
+| gnews_geopolitics | OK | 65 | 65 | 3 | 62 | 0 | 0.1 |
+| gnews_centralbanks | OK | 44 | 44 | 6 | 38 | 0 | 0.1 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 18.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 9.5 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.2 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.6 |
-| boj_whatsnew | OK | 47 | 0 | 0 | 0 | 47 | 1.9 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.8 |
+| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 2.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.9 |
 | mining_com | OK | 36 | 3 | 0 | 3 | 33 | 1.0 |
-| oilprice | OK | 15 | 5 | 1 | 4 | 10 | 0.1 |
-| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.2 |
-| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| bbc_business | OK | 56 | 1 | 0 | 1 | 55 | 0.1 |
-| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
+| oilprice | OK | 15 | 6 | 1 | 5 | 9 | 0.1 |
+| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.3 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
+| bbc_business | OK | 56 | 1 | 0 | 1 | 55 | 0.2 |
+| aljazeera | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
 | snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 2.5 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 2.6 |
 | eia_energy | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 9.4 |
-| wsj_world | OK | 72 | 7 | 0 | 7 | 65 | 0.2 |
-| wsj_markets | OK | 60 | 3 | 0 | 3 | 57 | 0.2 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
-| yahoo_finance | OK | 50 | 31 | 21 | 10 | 19 | 0.0 |
-| mw_topstories | OK | 10 | 8 | 1 | 7 | 2 | 0.0 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 9.5 |
+| wsj_world | OK | 72 | 7 | 0 | 7 | 65 | 0.3 |
+| wsj_markets | OK | 60 | 4 | 1 | 3 | 56 | 0.1 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
+| yahoo_finance | OK | 50 | 2 | 0 | 2 | 48 | 0.6 |
+| mw_topstories | OK | 10 | 8 | 0 | 8 | 2 | 0.1 |
 | cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.3 |
-
-**Jo feeds nahi aaye:**
-- ing_think — FAIL, ConnectTimeout
