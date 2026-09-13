@@ -1,9 +1,9 @@
 # News Pack — Trading Day 12 Sep 2026
 
 - Trading day: **12 Sep 03:00 -> 13 Sep 02:59 PKT**
-- Aakhri update: **13 Sep 05:21 PKT**
-- Kul khabrein: **495**
-- Feeds: 38/39 OK
+- Aakhri update: **13 Sep 10:05 PKT**
+- Kul khabrein: **521**
+- Feeds: 37/39 OK
 
 ---
 
@@ -38,6 +38,11 @@ Why are European banks moving gold out of United States? DW.com
 
 Gold prices fall nearly 2 per cent this week over US Federal Reserve rate hike concerns Mid-Day
 
+**Gold dips 2 pc on weekly basis over US Fed rate hike concerns - Social News XYZ**
+`12 Sep 12:03 PKT` · pehli baar dekhi `13 Sep 10:05` · gnews_fed
+
+Gold dips 2 pc on weekly basis over US Fed rate hike concerns Social News XYZ
+
 **Europe's Gold Exodus: Why Central Banks Are Pulling Billions Out of U.S. Vaults - inkl**
 `12 Sep 07:03 PKT` · pehli baar dekhi `12 Sep 23:18` · gnews_fed · **2 feeds mein**
 
@@ -68,6 +73,11 @@ Wall Street turns bullish on gold price ahead of the Fed, Main Street clings to 
 `13 Sep 02:07 PKT` · pehli baar dekhi `13 Sep 03:36` · gnews_fed
 
 SA Asks: How divided will the FOMC vote be next week on raising rates? TradingView
+
+**SA Asks: How divided will the FOMC vote be next week on raising rates? (SPY:NYSEARCA) - Seeking Alpha**
+`13 Sep 02:07 PKT` · pehli baar dekhi `13 Sep 10:05` · gnews_fed
+
+SA Asks: How divided will the FOMC vote be next week on raising rates? (SPY:NYSEARCA) Seeking Alpha
 
 **FOMC, oil surge, and rising yields test South Korea stocks - CHOSUNBIZ - Chosunbiz**
 `13 Sep 02:00 PKT` · pehli baar dekhi `13 Sep 03:36` · gnews_fed
@@ -395,16 +405,22 @@ Stock Market Today: Dow and Nasdaq Rally as U.S. Inflation Report Lifts Fed Rate
 
 ### EUR
 
+**Oil Tops $100 as ECB Officials Signal Forced Rate Hikes May Continue - finance.biggo.com**
+`12 Sep 23:15 PKT` · pehli baar dekhi `13 Sep 10:05` · gnews_centralbanks
+
+Oil Tops $100 as ECB Officials Signal Forced Rate Hikes May Continue finance.biggo.com
+
 **Christine Lagarde wades into French poll politics - inkl**
 `12 Sep 23:00 PKT` · pehli baar dekhi `13 Sep 05:21` · gnews_centralbanks
 
 Christine Lagarde wades into French poll politics inkl
 
 **ECB Monetary policy decisions - Forex Factory**
-`12 Sep 21:46 PKT` · pehli baar dekhi `13 Sep 05:21` · gnews_centralbanks · **2 feeds mein**
+`12 Sep 21:46 PKT` · pehli baar dekhi `13 Sep 05:21` · gnews_centralbanks · **3 feeds mein**
 
 ECB Monetary policy decisions Forex Factory
   - `12 Sep 21:02` *gnews_centralbanks* — ECB Monetary policy decisions - Forex Factory
+  - `12 Sep 18:56` *gnews_centralbanks* — ECB Monetary policy decisions - Forex Factory
 
 **Lagarde Wades Into French Election Politics at Normandy Rally - Bloomberg.com**
 `12 Sep 21:14 PKT` · pehli baar dekhi `13 Sep 01:41` · gnews_centralbanks
@@ -429,6 +445,11 @@ EUR/USD stayed in sideway trading above 1.1565 last week and outlook is unchange
 `12 Sep 14:28 PKT` · pehli baar dekhi `12 Sep 17:53` · gnews_centralbanks
 
 ECB Hikes Rates to 2.5% as Energy Prices Surge, Could the Fed Follow? InsuranceNewsNet
+
+**Webcast of the ECB press conference 10 March 2016 - Forex Factory**
+`12 Sep 13:41 PKT` · pehli baar dekhi `13 Sep 10:05` · gnews_centralbanks
+
+Webcast of the ECB press conference 10 March 2016 Forex Factory
 
 **ECB lifts borrowing costs amid energy shock - The Daily Star**
 `12 Sep 13:09 PKT` · pehli baar dekhi `12 Sep 23:18` · gnews_centralbanks
@@ -618,6 +639,11 @@ USD/CHF&#8217;s rebound form 0.7948 resumed late last week by breaking through 0
 
 ### CAD
 
+**CANADA IS ONE OF THEM - Half the World's Oil Comes From Just Five Countries - Visual Capitalist - EnergyNow**
+`13 Sep 02:03 PKT` · pehli baar dekhi `13 Sep 10:05` · gnews_geopolitics
+
+CANADA IS ONE OF THEM - Half the World's Oil Comes From Just Five Countries - Visual Capitalist EnergyNow
+
 **Canadian boycott of US products pushes grocers to adapt, explore new supply sources**
 `12 Sep 21:06 PKT` · pehli baar dekhi `12 Sep 23:18` · investing_news
 
@@ -675,6 +701,21 @@ The AUD/USD ended the day in the green but finished the week 0.45% lower amid gr
 
 Electricity theft is a global problem, and it's getting more dire all the time. While the problem is most common in developing countries, where grid infrastructure is limited and utilities and state authorities have lower oversight capacities, developed countries are not immune either.
 
+**Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption - EnergyNow.com**
+`13 Sep 01:54 PKT` · pehli baar dekhi `13 Sep 10:05` · gnews_geopolitics
+
+Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption EnergyNow.com
+
+**Oil Touches Pre-War Levels on Rising Middle East Supply - EnergyNow**
+`13 Sep 01:44 PKT` · pehli baar dekhi `13 Sep 10:05` · gnews_geopolitics
+
+Oil Touches Pre-War Levels on Rising Middle East Supply EnergyNow
+
+**What to know about 'black rain' that fell in Iran after strikes on oil reserves - ABC News - Breaking News, Latest News and Videos**
+`13 Sep 01:03 PKT` · pehli baar dekhi `13 Sep 10:05` · gnews_geopolitics
+
+What to know about 'black rain' that fell in Iran after strikes on oil reserves ABC News - Breaking News, Latest News and Videos
+
 **Bahrain says it will not participate in Iran's proposed Hormuz meeting**
 `13 Sep 00:34 PKT` · pehli baar dekhi `13 Sep 01:41` · aljazeera
 
@@ -689,6 +730,11 @@ Government clarifies that India is importing crude oil from 40 countries includi
 `13 Sep 00:00 PKT` · pehli baar dekhi `13 Sep 01:41` · oilprice
 
 Nuclear power is growing in popularity once again as governments worldwide look to diversify their energy mix and reduce reliance on fossil fuels. Several countries are now looking to develop or expand their nuclear energy capacity over the coming decades. However, one challenge remains – nuclear waste. Disposing of waste materials from nuclear energy operations remains a complex task with no perfect solution.
+
+**Why unrest in the Strait of Hormuz is leading to rising oil and gasoline prices - ABC News - Breaking News, Latest News and Videos**
+`12 Sep 22:58 PKT` · pehli baar dekhi `13 Sep 10:05` · gnews_geopolitics
+
+Why unrest in the Strait of Hormuz is leading to rising oil and gasoline prices ABC News - Breaking News, Latest News and Videos
 
 **U.S. redirects 100 ships as Iran tensions grip key oil route - Newsweek**
 `12 Sep 22:58 PKT` · pehli baar dekhi `13 Sep 01:41` · gnews_geopolitics
@@ -1092,6 +1138,11 @@ How a Houthi Blockade in the Red Sea Tightens Iran's Grip on Global Energy Suppl
 
 How the Iran War Oil and Gas Supply Shock Compares with Past Disruptions EnergyNow
 
+**Here's a List of Gulf Energy Infrastructure Damaged in Iran War - EnergyNow.com**
+`13 Sep 01:11 PKT` · pehli baar dekhi `13 Sep 10:05` · gnews_geopolitics
+
+Here's a List of Gulf Energy Infrastructure Damaged in Iran War EnergyNow.com
+
 **Will Houthi advances in Yemen give Iran leverage in its war with the US?**
 `13 Sep 00:17 PKT` · pehli baar dekhi `13 Sep 01:41` · aljazeera
 
@@ -1106,6 +1157,11 @@ PM Ali al-Zaidi dismisses commander, orders investigation into operations comman
 `12 Sep 23:36 PKT` · pehli baar dekhi `13 Sep 01:41` · aljazeera
 
 Iran's President has met Abu Dhabi's Crown Prince at the BRICS summit for their highest-level talks since the war began.
+
+**Gas prices top $4 a gallon as Iran war escalates - ABC News - Breaking News, Latest News and Videos**
+`12 Sep 23:25 PKT` · pehli baar dekhi `13 Sep 10:05` · gnews_geopolitics
+
+Gas prices top $4 a gallon as Iran war escalates ABC News - Breaking News, Latest News and Videos
 
 **Selling the war: Purges, polygraphs and propaganda**
 `12 Sep 22:31 PKT` · pehli baar dekhi `12 Sep 23:18` · aljazeera
@@ -1308,7 +1364,7 @@ Saudi oil output plunges to lowest since 1990 amid fallout from US-Iran war The 
 
 Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends crucial oil pipeline following drone attack.
 
-### BINA TAG (189)
+### BINA TAG (203)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -1328,6 +1384,7 @@ Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends cruci
 - `13 Sep 02:35` **yahoo_finance** — Adobe: After Lifting Guidance, Is the Beaten-Down Stock Ready to Break Out?
 - `13 Sep 02:31` **yahoo_finance** — J.P. Morgan Closes $1.1B US Industrial Net Lease Fund
 - `13 Sep 02:20` **yahoo_finance** — Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call
+- `13 Sep 02:07` **gnews_centralbanks** — Why Uk Mortgage Borrowers Are Suddenly Facing Another Brutal Rate Spike - ИФЗ РАН
 - `13 Sep 01:44` **aljazeera** — Ebola spreads to seventh DRC province as gov't insists cases are declining
 - `13 Sep 01:42` **aljazeera** — Fire at nursing home in Chile kills 16 elderly residents
 - `13 Sep 01:37` **bbc_business** — 'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves
@@ -1368,6 +1425,7 @@ Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends cruci
 - `12 Sep 21:46` **yahoo_finance** — Ciena's (CIEN) Backlog Just Hit $8.5B and Keeps Climbing
 - `12 Sep 21:37` **yahoo_finance** — eGain's (EGAN) Bold AI Pivot Just Won A Big Believer
 - `12 Sep 21:32` **yahoo_finance** — BRP (DOO) Posts A Quarterly Loss And Raises Its Outlook Anyway
+- `12 Sep 21:26` **gnews_centralbanks** — TMGM Daily Market Breakfast: 12 September 2026 - tmgm.com
 - `12 Sep 21:25` **yahoo_finance** — Mama's Creations (MAMA) Just Proved Its Growth Spurt Wasn't A Fluke
 - `12 Sep 21:22` **gnews_fed** — Average rate on a 30-year home loan hits the highest level in months - Hays Post
 - `12 Sep 21:22` **yahoo_finance** — Apple, Taiwan Semi Lead Five Stocks Near Buy Points
@@ -1493,12 +1551,24 @@ Houthi forces seize Yemen&#039;s Red Sea coast while Saudi Arabia suspends cruci
 - `12 Sep 04:04` **gnews_centralbanks** — FTSE 100 Rose As UK Growth Beat Forecasts - Finimize
 - `12 Sep 03:57` **aljazeera** — Flavio Bolsonaro faces corruption probe weeks before Brazil election
 - `12 Sep 03:52` **gnews_centralbanks** — Prices palooza - UBS
+- `12 Sep 03:41` **yahoo_finance** — $131.23 Billion on Paper: What The Boeing Company (BA)'s F-15 Ceiling Contract Really Means for Investors
+- `12 Sep 03:41` **yahoo_finance** — Teledyne (TDY) Lands $15.4 Million European Drone Contract as Shares Pull Back
 - `12 Sep 03:40` **kitco_general** — TAG: sovereign debt risk - KITCO
 - `12 Sep 03:40` **kitco_general** — TAG: Central Bank Symposium - KITCO
 - `12 Sep 03:35` **gnews_fed** — Dow jumps 509 points, rebounds after 5 sessions as rate-hike uncertainty eases - finance.biggo.com
+- `12 Sep 03:34` **yahoo_finance** — Bernstein Backs Shopify (SHOP) Despite Stock Drop, Is It Time to Buy?
+- `12 Sep 03:31` **yahoo_finance** — Walmart and Target's Shelves are Becoming a Battleground for Budget-Conscious Shoppers
+- `12 Sep 03:29` **yahoo_finance** — Q2 Outperformance Masks Regional Headwinds for PVH Corp. (PVH)
 - `12 Sep 03:28` **instaforex** — Ibovespa Falls as Political Risks Persist
+- `12 Sep 03:26` **yahoo_finance** — Benchmark Assigns Buy Rating to SiTime (SITM) Amid Timing Technology Market Expansion
+- `12 Sep 03:25` **yahoo_finance** — Corn Fades Lower into Fridays Close Despite USDA Yield Cut
+- `12 Sep 03:25` **yahoo_finance** — Soybeans Face Friday Pressure as USDA Increases Production
 - `12 Sep 03:21` **gnews_fed** — US regulators propose bank third-party risk guidelines - Cryptonews.net
+- `12 Sep 03:21` **yahoo_finance** — Delta Air Lines (DAL) Premium Demand and Pricing Power Support Growth Despite Fuel Risks
+- `12 Sep 03:16` **yahoo_finance** — Will Max Traction and TrussPoint Partnership Lead to Sustained Momentum for ServiceTitan (TTAN)
+- `12 Sep 03:11` **yahoo_finance** — What the Numbers Tell About FedEx Freight (FDXF) Following Spin-Off
 - `12 Sep 03:08` **investing_news** — SharonAI Holdings updates executive agreement, Andrew Leece named head of strategic partnerships
+- `12 Sep 03:05` **yahoo_finance** — Workforce Solutions and Search Fuel Growth for Korn Ferry (KFY)
 - `12 Sep 03:04` **mining_com** — Site visit: Cyclic Materials opens commercial-scale rare earth recycling plant in Arizona
 - `12 Sep 03:04` **investing_news** — Fly-E Group appoints Qiang Chen as CEO following Lisa Fan's resignation
 
@@ -1518,42 +1588,42 @@ investing_news (17), yahoo_finance (2)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 1.1 |
-| fxstreet_news | OK | 30 | 1 | 0 | 1 | 29 | 1.1 |
-| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.6 |
-| actionforex | OK | 20 | 18 | 0 | 18 | 2 | 0.6 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.2 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.9 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 1.0 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 2.2 |
-| kitco_general | OK | 3 | 3 | 0 | 3 | 0 | 0.4 |
-| gnews_fed | OK | 65 | 65 | 8 | 57 | 0 | 0.1 |
-| gnews_geopolitics | OK | 65 | 65 | 3 | 62 | 0 | 0.1 |
-| gnews_centralbanks | OK | 44 | 44 | 6 | 38 | 0 | 0.1 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 18.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 9.5 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.2 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.6 |
-| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 2.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.9 |
-| mining_com | OK | 36 | 3 | 0 | 3 | 33 | 1.0 |
-| oilprice | OK | 15 | 6 | 1 | 5 | 9 | 0.1 |
-| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.3 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
-| bbc_business | OK | 56 | 1 | 0 | 1 | 55 | 0.2 |
-| aljazeera | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 2.6 |
-| eia_energy | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 9.5 |
-| wsj_world | OK | 72 | 7 | 0 | 7 | 65 | 0.3 |
-| wsj_markets | OK | 60 | 4 | 1 | 3 | 56 | 0.1 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
-| yahoo_finance | OK | 50 | 2 | 0 | 2 | 48 | 0.6 |
-| mw_topstories | OK | 10 | 8 | 0 | 8 | 2 | 0.1 |
-| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.3 |
+| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 1.3 |
+| fxstreet_news | OK | 30 | 1 | 0 | 1 | 29 | 1.3 |
+| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.8 |
+| actionforex | OK | 20 | 18 | 0 | 18 | 2 | 0.8 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.4 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 1.1 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 1.2 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 2.4 |
+| kitco_general | OK | 3 | 3 | 0 | 3 | 0 | 0.6 |
+| gnews_fed | OK | 52 | 52 | 10 | 42 | 0 | 0.1 |
+| gnews_geopolitics | OK | 75 | 75 | 14 | 61 | 0 | 0.0 |
+| gnews_centralbanks | OK | 44 | 44 | 11 | 33 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 18.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 9.7 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.4 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.8 |
+| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 2.2 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 10.1 |
+| mining_com | OK | 36 | 3 | 0 | 3 | 33 | 1.2 |
+| oilprice | OK | 15 | 6 | 0 | 6 | 9 | 0.3 |
+| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.5 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
+| bbc_business | OK | 56 | 1 | 0 | 1 | 55 | 0.4 |
+| aljazeera | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.8 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 2.8 |
+| eia_energy | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 9.7 |
+| wsj_world | OK | 71 | 9 | 2 | 7 | 62 | 0.1 |
+| wsj_markets | OK | 60 | 4 | 0 | 4 | 56 | 0.3 |
+| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
+| yahoo_finance | OK | 50 | 14 | 12 | 2 | 36 | 0.8 |
+| mw_topstories | OK | 10 | 8 | 0 | 8 | 2 | 0.3 |
+| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.5 |
