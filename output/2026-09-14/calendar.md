@@ -1,6 +1,6 @@
 # Calendar — Trading Day 14 Sep 2026
 
-- Banaya gaya: **14 Sep 2026 15:52 PKT**
+- Banaya gaya: **14 Sep 2026 22:17 PKT**
 - Trading day: **14 Sep 03:00 -> 15 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,14 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 17:30 | CAD | **HIGH** | CPI m/m | -0.1% | 0.5% |
-| 17:30 | CAD | **HIGH** | Median CPI y/y | 2.0% | 2.0% |
-| 17:30 | CAD | **HIGH** | Trimmed CPI y/y | 1.9% | 1.9% |
-| 17:30 | CAD | MED | Common CPI y/y | 2.7% | 2.7% |
-| 17:30 | CAD | low | Core CPI m/m | 0.2% | 0.2% |
-| 17:30 | CAD | low | Manufacturing Sales m/m | -0.2% | 0.1% |
-| 18:30 | GBP | low | CB Leading Index m/m | - | -0.4% |
-| 20:15 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | **15 Sep** 06:30 | CNY | low | New Home Prices m/m | - | -0.18% |
 | **15 Sep** 07:00 | CNY | low | Fixed Asset Investment ytd/y | -7.0% | -6.7% |
 | **15 Sep** 07:00 | CNY | low | Industrial Production y/y | 4.8% | 4.5% |
@@ -37,12 +29,13 @@
 | **15 Sep** 14:00 | EUR | low | Trade Balance | 3.7B | 1.8B |
 | **15 Sep** 14:00 | EUR | low | German ZEW Economic Sentiment | 42.7 | 34.2 |
 | **15 Sep** 14:00 | EUR | low | ZEW Economic Sentiment | 39.9 | 31.4 |
+| **15 Sep** 17:15 | USD | low | ADP Weekly Employment Change | - | 12.0K |
+| **15 Sep** 17:30 | CAD | low | Wholesale Sales m/m | -0.5% | 2.8% |
+| **15 Sep** 17:30 | USD | low | Empire State Manufacturing Index | 14.1 | 20.6 |
+| **15 Sep** 19:50 | NZD | low | GDT Price Index | - | 0.9% |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
-- `14 Sep 17:30` **CAD CPI m/m**
-- `14 Sep 17:30` **CAD Median CPI y/y**
-- `14 Sep 17:30` **CAD Trimmed CPI y/y**
 - `15 Sep 11:00` **GBP Claimant Count Change**
 
 ---
