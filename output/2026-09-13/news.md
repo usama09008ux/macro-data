@@ -1,9 +1,9 @@
 # News Pack — Trading Day 13 Sep 2026
 
 - Trading day: **13 Sep 03:00 -> 14 Sep 02:59 PKT**
-- Aakhri update: **14 Sep 04:40 PKT**
-- Kul khabrein: **442**
-- Feeds: 28/39 OK
+- Aakhri update: **14 Sep 06:43 PKT**
+- Kul khabrein: **451**
+- Feeds: 29/39 OK
 
 ---
 
@@ -30,6 +30,11 @@ Not too much change from late Friday: EUR/USD 1.1598 USD/JPY 153.62 GBP/USD 1.35
 `13 Sep 21:28 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
 
 Fed, crude, dollar and Iran war: 4 factors that could move gold next week The Times of India
+
+**US, UK, and Japan face pivotal rate decisions as oil prices and bond yields surge - Crypto Briefing**
+`13 Sep 17:40 PKT` · pehli baar dekhi `14 Sep 06:43` · gnews_geopolitics
+
+US, UK, and Japan face pivotal rate decisions as oil prices and bond yields surge Crypto Briefing
 
 ### GOLD
 
@@ -66,12 +71,13 @@ Gold Rate UK, September 12, 2026: 24ct at £103.36/g as Sterling Holds Six-Week 
 ### USD
 
 **Ahead of Fed meeting, Trump says US should have world's lowest interest rate - Yahoo**
-`14 Sep 02:32 PKT` · pehli baar dekhi `14 Sep 02:48` · gnews_fed · **5 feeds mein**
+`14 Sep 02:32 PKT` · pehli baar dekhi `14 Sep 02:48` · gnews_fed · **6 feeds mein**
 
 Ahead of Fed meeting, Trump says US should have world's lowest interest rate Yahoo
   - `13 Sep 23:14` *gnews_fed* — Ahead of Fed meeting, Trump says US should have world's lowest interest rate - Reuters
   - `13 Sep 22:55` *gnews_fed* — Ahead of Fed meeting, Trump says US should have world's lowest interest rate - South China Morning Post
   - `13 Sep 21:05` *gnews_fed* — Ahead of Fed meeting, Trump says US should have world's lowest interest rate - WTVB
+  - `13 Sep 21:01` *gnews_fed* — Ahead of Fed meeting, Trump says US should have world's lowest interest rate - straitstimes.com
   - `13 Sep 20:57` *gnews_fed* — Ahead of Fed meeting, Trump says US should have world's lowest interest rate - Reuters
 
 **Nasdaq futures set to open lower as Altman rules out 2026 OpenAI IPO**
@@ -127,6 +133,11 @@ Wall Street week ahead: Federal Reserve decision on interest rates, retail sales
 **McDonald's Yields 3%, the Highest in Over 6 Years. Is the Dow Dividend Stock a Value Trap or Too Cheap to Ignore?**
 `13 Sep 23:03 PKT` · pehli baar dekhi `14 Sep 00:46` · yahoo_finance
 
+**Trump Renews Push for Lowest US Rates as Fed Weighs Hike - finance.biggo.com**
+`13 Sep 22:35 PKT` · pehli baar dekhi `14 Sep 06:43` · gnews_fed
+
+Trump Renews Push for Lowest US Rates as Fed Weighs Hike finance.biggo.com
+
 **Trump says US should have world's lowest interest rates ahead of Fed meeting: 'I know more about formulas' - Livemint**
 `13 Sep 22:17 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed · **2 feeds mein**
 
@@ -171,6 +182,12 @@ All eyes on US Fed to tackle high inflation Taipei Times
 `13 Sep 20:32 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
 
 Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike Investor's Business Daily
+
+**'This is the test': All eyes on US Fed to tackle high inflation - Kuwait Times**
+`13 Sep 20:32 PKT` · pehli baar dekhi `14 Sep 06:43` · gnews_fed · **2 feeds mein**
+
+'This is the test': All eyes on US Fed to tackle high inflation Kuwait Times
+  - `13 Sep 06:57` *gnews_fed* — 'This is the test': All eyes on US Fed to tackle high inflation - RTL Today
 
 **GT Voice: As inflation rate spikes, Europe needs to value cooperation with China - Global Times**
 `13 Sep 20:08 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_centralbanks
@@ -244,9 +261,10 @@ Rate hikes are back? Kevin Warsh and G7 central banks face inflation test this w
 Why The Fed Is Likely To Raise Rates This Week Forbes
 
 **Stock Markets This Week: US Fed Decision, Inflation Data, Oil To Be Key Drivers, Say Analysts - NDTV Profit**
-`13 Sep 15:41 PKT` · pehli baar dekhi `13 Sep 19:27` · gnews_fed
+`13 Sep 15:41 PKT` · pehli baar dekhi `13 Sep 19:27` · gnews_fed · **2 feeds mein**
 
 Stock Markets This Week: US Fed Decision, Inflation Data, Oil To Be Key Drivers, Say Analysts NDTV Profit
+  - `13 Sep 15:41` *gnews_fed* — Stock Markets This Week: US Fed Decision, Inflation Data, Oil To Be Key Drivers, Say Analysts - NDTV Profit
 
 **Federal Reserve Chair Warsh Holds News Conference on Interest Rates - C-SPAN**
 `13 Sep 15:38 PKT` · pehli baar dekhi `13 Sep 19:27` · gnews_fed
@@ -326,10 +344,9 @@ Ringgit expected to trade in tight range against US dollar next week NST Online
   - `13 Sep 10:43` *gnews_fed* — Ringgit expected to trade in tight range against US dollar next week - klsescreener.com
 
 **'This is the test': All eyes on US Fed to tackle high inflation - hurriyetdailynews.com**
-`13 Sep 10:27 PKT` · pehli baar dekhi `14 Sep 02:48` · gnews_fed · **2 feeds mein**
+`13 Sep 10:27 PKT` · pehli baar dekhi `14 Sep 02:48` · gnews_fed
 
 'This is the test': All eyes on US Fed to tackle high inflation hurriyetdailynews.com
-  - `13 Sep 06:57` *gnews_fed* — 'This is the test': All eyes on US Fed to tackle high inflation - RTL Today
 
 **Former St. Louis Fed Chief Bullard Supports A September Rate Hike – 'Good Time To Re-Establish Credibility On Inflation Fighting' - Stocktwits**
 `13 Sep 09:54 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_fed
@@ -541,6 +558,11 @@ Oil at $110, U.S. Yields Near 5%—Yet the Yen Rallied Anyway finance.biggo.com
 
 A new BMO Global markets study highlighted Canada's mining sector potential for investors as the industry continues to grow.
 
+**Canada's oil windfall may yet wipe out its losses from tariffs - CBC**
+`13 Sep 13:00 PKT` · pehli baar dekhi `14 Sep 06:43` · gnews_geopolitics
+
+Canada's oil windfall may yet wipe out its losses from tariffs CBC
+
 **Mark Carney's Audacious Bid to Make Canada an 'Associate Member' of the EU**
 `13 Sep 06:00 PKT` · pehli baar dekhi `13 Sep 10:05` · wsj_world
 
@@ -716,6 +738,11 @@ Hormuz ship attack deepens oil supply fears after Saudi pipeline closure (CO1:CO
 `13 Sep 17:30 PKT` · pehli baar dekhi `13 Sep 19:27` · investing_commodities · **3 feeds mein**
   - `13 Sep 18:16` *gnews_geopolitics* — Saudi pipeline outage threatens loss of 4% of global oil supply - Aaj News
   - `13 Sep 17:51` *gnews_geopolitics* — Saudi pipeline outage threatens loss of 4% of global oil supply - The New Arab
+
+**Saudi pipeline outage threatens 4% of global oil supply - Reuters - iranintl.com**
+`13 Sep 17:12 PKT` · pehli baar dekhi `14 Sep 06:43` · gnews_geopolitics
+
+Saudi pipeline outage threatens 4% of global oil supply - Reuters iranintl.com
 
 **New attack reported in Strait of Hormuz, fanning fears over oil supplies - bdnews24.com**
 `13 Sep 17:03 PKT` · pehli baar dekhi `13 Sep 22:35` · gnews_geopolitics
@@ -914,6 +941,11 @@ Fed reaffirms 2% inflation target amid speculation of rate hikes Crypto Briefing
 
 CLARITY Act Vote and Fed Decision Put Crypto Markets in Focus Hokanews
 
+**Shock Leak Reveals An 'Extraordinary' Fed Earthquake Could Be About To Hit The Bitcoin Price - Forbes**
+`13 Sep 16:30 PKT` · pehli baar dekhi `14 Sep 06:43` · gnews_fed
+
+Shock Leak Reveals An 'Extraordinary' Fed Earthquake Could Be About To Hit The Bitcoin Price Forbes
+
 **Bitcoin's Uncertain Future as the Federal Reserve Approaches - OneSafe.io**
 `13 Sep 12:54 PKT` · pehli baar dekhi `13 Sep 15:13` · gnews_fed
 
@@ -1109,7 +1141,7 @@ Houthis accuse Saudi Arabia of launching 129 strikes in 48 hours as fears grow o
 
 Oil producers, traders, and refiners are bracing for a prolonged war between the United States and Iran in the Persian Gulf with little to no hope of a quick resolution. By extension, they are also preparing for higher prices for longer, a theme present at this year's edition of the Asia Pacific Petroleum Conference.
 
-### BINA TAG (193)
+### BINA TAG (194)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -1169,6 +1201,7 @@ Oil producers, traders, and refiners are bracing for a prolonged war between the
 - `14 Sep 00:05` **yahoo_finance** — Meet the Magnificent Momentum-Driven ETF Obliterating the S&P 500 in 2026
 - `14 Sep 00:02` **yahoo_finance** — T-Mobile US CEO Maps 5G, Broadband and AI Growth Strategy at Goldman Sachs Conference
 - `13 Sep 23:58` **yahoo_finance** — Prediction: Applied Materials Books Its First $10 Billion Quarter This Fall
+- `13 Sep 23:49` **bbc_business** — Trump downplays warnings of AI risks, citing rivalry with China
 - `13 Sep 23:47` **yahoo_finance** — Vanguard, Fidelity name the smarter alternative to selling stock
 - `13 Sep 23:39` **yahoo_finance** — The Dividend Streak Lives, But Target's Raise Size Tells the Real Story
 - `13 Sep 23:39` **aljazeera** — ​Bangsamoro's parliamentary election is a turning point
@@ -1323,45 +1356,46 @@ yahoo_finance (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 11 | 6 | 5 | 14 | 0.0 |
-| fxstreet_news | OK | 30 | 3 | 3 | 0 | 27 | 0.0 |
-| fxstreet_analysis | WARN | 30 | 0 | 0 | 0 | 30 | 1.6 |
-| actionforex | WARN | 20 | 0 | 0 | 0 | 20 | 1.6 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.1 |
-| instaforex | OK | 25 | 9 | 9 | 0 | 16 | -0.2 |
-| wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.1 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 3.2 |
+| investinglive | OK | 25 | 16 | 5 | 11 | 9 | 0.0 |
+| fxstreet_news | OK | 30 | 7 | 4 | 3 | 23 | 0.0 |
+| fxstreet_analysis | WARN | 30 | 0 | 0 | 0 | 30 | 1.7 |
+| actionforex | OK | 20 | 1 | 1 | 0 | 19 | 0.1 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.2 |
+| instaforex | OK | 25 | 18 | 9 | 9 | 7 | -0.2 |
+| wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.2 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 3.3 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 84 | 84 | 4 | 80 | 0 | 0.0 |
-| gnews_geopolitics | OK | 58 | 58 | 7 | 51 | 0 | 0.0 |
-| gnews_centralbanks | OK | 29 | 29 | 3 | 26 | 0 | 0.1 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 19.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 10.5 |
+| gnews_fed | OK | 99 | 99 | 21 | 78 | 0 | 0.0 |
+| gnews_geopolitics | OK | 59 | 59 | 14 | 45 | 0 | 0.0 |
+| gnews_centralbanks | OK | 31 | 31 | 2 | 29 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 19.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 10.6 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.2 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.6 |
-| boj_whatsnew | OK | 43 | 0 | 0 | 0 | 43 | 2.9 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 10.8 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.7 |
+| boj_whatsnew | OK | 42 | 1 | 1 | 0 | 41 | 0.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 10.9 |
 | mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
-| oilprice | OK | 15 | 6 | 1 | 5 | 9 | 0.0 |
-| investing_commodities | OK | 10 | 6 | 2 | 4 | 4 | 0.0 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
-| bbc_business | OK | 57 | 10 | 3 | 7 | 47 | 0.0 |
-| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.5 |
-| eia_energy | WARN | 15 | 0 | 0 | 0 | 15 | 3.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 10.5 |
-| wsj_world | OK | 72 | 12 | 0 | 12 | 60 | 0.1 |
-| wsj_markets | OK | 60 | 2 | 0 | 2 | 58 | 1.0 |
-| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 44 | 20 | 24 | 6 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 3 | 1 | 2 | 27 | 0.3 |
+| oilprice | OK | 15 | 6 | 0 | 6 | 9 | 0.1 |
+| investing_commodities | OK | 10 | 7 | 1 | 6 | 3 | 0.0 |
+| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| bbc_business | OK | 57 | 12 | 1 | 11 | 45 | 0.1 |
+| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.7 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.6 |
+| eia_energy | WARN | 15 | 0 | 0 | 0 | 15 | 3.5 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 10.6 |
+| wsj_world | OK | 72 | 13 | 1 | 12 | 59 | 0.1 |
+| wsj_markets | OK | 60 | 5 | 3 | 2 | 55 | 0.1 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 2 | 0 | 2 | 48 | 0.7 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 5 | 2 | 3 | 25 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi
+- ing_think — FAIL, ConnectTimeout
