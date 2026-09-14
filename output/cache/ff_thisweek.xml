@@ -176,7 +176,7 @@
 		<date><![CDATA[09-15-2026]]></date>
 		<time><![CDATA[2:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[-7.0%]]></forecast>
+		<forecast><![CDATA[-7.1%]]></forecast>
 		<previous><![CDATA[-6.7%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/458-ch-fixed-asset-investment-ytdy]]></url>
 	</event>
@@ -206,7 +206,7 @@
 		<date><![CDATA[09-15-2026]]></date>
 		<time><![CDATA[2:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[0.8%]]></forecast>
+		<forecast><![CDATA[0.7%]]></forecast>
 		<previous><![CDATA[0.6%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/470-ch-retail-sales-yy]]></url>
 	</event>
@@ -266,7 +266,7 @@
 		<date><![CDATA[09-15-2026]]></date>
 		<time><![CDATA[6:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[4.9%]]></forecast>
+		<forecast><![CDATA[5.0%]]></forecast>
 		<previous><![CDATA[4.9%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/58-uk-unemployment-rate]]></url>
 	</event>
@@ -316,7 +316,7 @@
 		<date><![CDATA[09-15-2026]]></date>
 		<time><![CDATA[9:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[42.7]]></forecast>
+		<forecast><![CDATA[39.8]]></forecast>
 		<previous><![CDATA[34.2]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/313-ge-zew-economic-sentiment]]></url>
 	</event>
@@ -326,7 +326,7 @@
 		<date><![CDATA[09-15-2026]]></date>
 		<time><![CDATA[9:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[39.9]]></forecast>
+		<forecast><![CDATA[39.2]]></forecast>
 		<previous><![CDATA[31.4]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/314-ez-zew-economic-sentiment]]></url>
 	</event>
@@ -589,6 +589,16 @@
 		<forecast />
 		<previous><![CDATA[-0.4M]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/10-us-crude-oil-inventories]]></url>
+	</event>
+	<event>
+		<title>German Buba President Nagel Speaks</title>
+		<country>EUR</country>
+		<date><![CDATA[09-16-2026]]></date>
+		<time><![CDATA[4:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/851-ge-buba-president-nagel-speaks]]></url>
 	</event>
 	<event>
 		<title>BOC Summary of Deliberations</title>

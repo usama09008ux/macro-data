@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "14 Sep 2026 22:17",
+  "generated_pkt": "15 Sep 2026 01:41",
   "trading_day": "2026-09-14",
   "feed_sources": {
     "thisweek": "live"
@@ -230,7 +230,7 @@
       "title": "Fixed Asset Investment ytd/y",
       "ccy": "CNY",
       "impact": "Low",
-      "forecast": "-7.0%",
+      "forecast": "-7.1%",
       "previous": "-6.7%",
       "url": "https://www.forexfactory.com/calendar/458-ch-fixed-asset-investment-ytdy",
       "all_day": false,
@@ -269,7 +269,7 @@
       "title": "Retail Sales y/y",
       "ccy": "CNY",
       "impact": "Low",
-      "forecast": "0.8%",
+      "forecast": "0.7%",
       "previous": "0.6%",
       "url": "https://www.forexfactory.com/calendar/470-ch-retail-sales-yy",
       "all_day": false,
@@ -347,7 +347,7 @@
       "title": "Unemployment Rate",
       "ccy": "GBP",
       "impact": "Low",
-      "forecast": "4.9%",
+      "forecast": "5.0%",
       "previous": "4.9%",
       "url": "https://www.forexfactory.com/calendar/58-uk-unemployment-rate",
       "all_day": false,
@@ -412,7 +412,7 @@
       "title": "German ZEW Economic Sentiment",
       "ccy": "EUR",
       "impact": "Low",
-      "forecast": "42.7",
+      "forecast": "39.8",
       "previous": "34.2",
       "url": "https://www.forexfactory.com/calendar/313-ge-zew-economic-sentiment",
       "all_day": false,
@@ -425,7 +425,7 @@
       "title": "ZEW Economic Sentiment",
       "ccy": "EUR",
       "impact": "Low",
-      "forecast": "39.9",
+      "forecast": "39.2",
       "previous": "31.4",
       "url": "https://www.forexfactory.com/calendar/314-ez-zew-economic-sentiment",
       "all_day": false,
@@ -770,6 +770,19 @@
       "utc": "2026-09-16T14:30Z",
       "pkt": "16 Sep 19:30",
       "pkt_iso": "2026-09-16T19:30:00+05:00",
+      "trading_day": "2026-09-16"
+    },
+    {
+      "title": "German Buba President Nagel Speaks",
+      "ccy": "EUR",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/851-ge-buba-president-nagel-speaks",
+      "all_day": false,
+      "utc": "2026-09-16T16:00Z",
+      "pkt": "16 Sep 21:00",
+      "pkt_iso": "2026-09-16T21:00:00+05:00",
       "trading_day": "2026-09-16"
     },
     {
