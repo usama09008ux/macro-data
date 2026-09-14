@@ -1,6 +1,6 @@
 # Calendar — Trading Day 14 Sep 2026
 
-- Banaya gaya: **14 Sep 2026 05:22 PKT**
+- Banaya gaya: **14 Sep 2026 15:52 PKT**
 - Trading day: **14 Sep 03:00 -> 15 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,11 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 07:30 | AUD | low | RBA Assist Gov Hunter Speaks | - | - |
-| 09:30 | JPY | low | Revised Industrial Production m/m | 0.1% | 0.1% |
-| 11:30 | CHF | low | PPI m/m | 0.0% | -0.1% |
-| 13:03 | CNY | low | M2 Money Supply y/y | 7.6% | 7.7% |
-| 13:03 | CNY | low | New Loans | 480B | -340B |
 | 17:30 | CAD | **HIGH** | CPI m/m | -0.1% | 0.5% |
 | 17:30 | CAD | **HIGH** | Median CPI y/y | 2.0% | 2.0% |
 | 17:30 | CAD | **HIGH** | Trimmed CPI y/y | 1.9% | 1.9% |
@@ -25,12 +20,30 @@
 | 17:30 | CAD | low | Manufacturing Sales m/m | -0.2% | 0.1% |
 | 18:30 | GBP | low | CB Leading Index m/m | - | -0.4% |
 | 20:15 | EUR | MED | ECB President Lagarde Speaks | - | - |
+| **15 Sep** 06:30 | CNY | low | New Home Prices m/m | - | -0.18% |
+| **15 Sep** 07:00 | CNY | low | Fixed Asset Investment ytd/y | -7.0% | -6.7% |
+| **15 Sep** 07:00 | CNY | low | Industrial Production y/y | 4.8% | 4.5% |
+| **15 Sep** 07:00 | CNY | low | NBS Press Conference | - | - |
+| **15 Sep** 07:00 | CNY | low | Retail Sales y/y | 0.8% | 0.6% |
+| **15 Sep** 07:00 | CNY | low | Unemployment Rate | 5.2% | 5.2% |
+| **15 Sep** 09:30 | JPY | low | Tertiary Industry Activity m/m | 0.3% | -0.2% |
+| **15 Sep** 11:00 | EUR | low | German WPI m/m | 0.1% | 0.2% |
+| **15 Sep** 11:00 | GBP | **HIGH** | Claimant Count Change | 8.3K | -11.0K |
+| **15 Sep** 11:00 | GBP | MED | Average Earnings Index 3m/y | 3.9% | 4.1% |
+| **15 Sep** 11:00 | GBP | low | Unemployment Rate | 4.9% | 4.9% |
+| **15 Sep** 11:02 | CNY | low | Foreign Direct Investment ytd/y | - | -6.2% |
+| **15 Sep** 11:45 | EUR | low | French Final CPI m/m | 0.7% | 0.7% |
+| **15 Sep** 13:00 | EUR | low | Italian Trade Balance | 4.77B | 4.23B |
+| **15 Sep** 14:00 | EUR | low | Trade Balance | 3.7B | 1.8B |
+| **15 Sep** 14:00 | EUR | low | German ZEW Economic Sentiment | 42.7 | 34.2 |
+| **15 Sep** 14:00 | EUR | low | ZEW Economic Sentiment | 39.9 | 31.4 |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
 - `14 Sep 17:30` **CAD CPI m/m**
 - `14 Sep 17:30` **CAD Median CPI y/y**
 - `14 Sep 17:30` **CAD Trimmed CPI y/y**
+- `15 Sep 11:00` **GBP Claimant Count Change**
 
 ---
 
@@ -38,8 +51,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **15 Sep** 11:00 | GBP | **HIGH** | Claimant Count Change | 8.3K | -11.0K |
-| **15 Sep** 11:00 | GBP | MED | Average Earnings Index 3m/y | 3.9% | 4.1% |
 | **16 Sep** 11:00 | GBP | **HIGH** | CPI y/y | 3.1% | 2.9% |
 | **16 Sep** 17:30 | USD | MED | Core Retail Sales m/m | 0.5% | -0.3% |
 | **16 Sep** 17:30 | USD | MED | Retail Sales m/m | 0.8% | -0.6% |
