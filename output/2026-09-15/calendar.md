@@ -1,6 +1,6 @@
 # Calendar — Trading Day 15 Sep 2026
 
-- Banaya gaya: **15 Sep 2026 05:51 PKT**
+- Banaya gaya: **15 Sep 2026 15:16 PKT**
 - Trading day: **15 Sep 03:00 -> 16 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,23 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 06:30 | CNY | low | New Home Prices m/m | - | -0.18% |
-| 07:00 | CNY | low | Fixed Asset Investment ytd/y | -7.1% | -6.7% |
-| 07:00 | CNY | low | Industrial Production y/y | 4.8% | 4.5% |
-| 07:00 | CNY | low | NBS Press Conference | - | - |
-| 07:00 | CNY | low | Retail Sales y/y | 0.7% | 0.6% |
-| 07:00 | CNY | low | Unemployment Rate | 5.2% | 5.2% |
-| 09:30 | JPY | low | Tertiary Industry Activity m/m | 0.3% | -0.2% |
-| 11:00 | EUR | low | German WPI m/m | 0.1% | 0.2% |
-| 11:00 | GBP | **HIGH** | Claimant Count Change | 8.3K | -11.0K |
-| 11:00 | GBP | MED | Average Earnings Index 3m/y | 3.9% | 4.1% |
-| 11:00 | GBP | low | Unemployment Rate | 5.0% | 4.9% |
-| 11:02 | CNY | low | Foreign Direct Investment ytd/y | - | -6.2% |
-| 11:45 | EUR | low | French Final CPI m/m | 0.7% | 0.7% |
-| 13:00 | EUR | low | Italian Trade Balance | 4.77B | 4.23B |
-| 14:00 | EUR | low | Trade Balance | 3.7B | 1.8B |
-| 14:00 | EUR | low | German ZEW Economic Sentiment | 39.8 | 34.2 |
-| 14:00 | EUR | low | ZEW Economic Sentiment | 39.2 | 31.4 |
 | 17:15 | USD | low | ADP Weekly Employment Change | - | 12.0K |
 | 17:30 | CAD | low | Wholesale Sales m/m | -0.5% | 2.8% |
 | 17:30 | USD | low | Empire State Manufacturing Index | 14.8 | 20.6 |
@@ -39,10 +22,18 @@
 | **16 Sep** 04:50 | JPY | low | Core Machinery Orders m/m | -1.2% | 9.7% |
 | **16 Sep** 04:50 | JPY | low | Trade Balance | -1.00T | -0.69T |
 | **16 Sep** 05:30 | AUD | low | MI Leading Index m/m | - | 0.0% |
+| **16 Sep** 11:00 | GBP | **HIGH** | CPI y/y | 3.1% | 2.9% |
+| **16 Sep** 11:00 | GBP | low | Core CPI y/y | 2.6% | 2.6% |
+| **16 Sep** 11:00 | GBP | low | PPI Input m/m | 0.6% | -1.7% |
+| **16 Sep** 11:00 | GBP | low | PPI Output m/m | 0.5% | 0.2% |
+| **16 Sep** 11:00 | GBP | low | RPI y/y | 3.5% | 3.2% |
+| **16 Sep** 13:30 | GBP | low | HPI y/y | 2.1% | 2.0% |
+| **16 Sep** 14:00 | EUR | low | Industrial Production m/m | -0.2% | 0.0% |
+| **16 Sep** 14:34 | EUR | low | German 30-y Bond Auction | - | 3.65|1.3 |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
-- `15 Sep 11:00` **GBP Claimant Count Change**
+- `16 Sep 11:00` **GBP CPI y/y**
 
 ---
 
@@ -50,7 +41,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **16 Sep** 11:00 | GBP | **HIGH** | CPI y/y | 3.1% | 2.9% |
 | **16 Sep** 17:30 | USD | MED | Core Retail Sales m/m | 0.5% | -0.3% |
 | **16 Sep** 17:30 | USD | MED | Retail Sales m/m | 0.8% | -0.6% |
 | **16 Sep** 23:00 | USD | **HIGH** | Federal Funds Rate | 4.00% | 3.75% |
