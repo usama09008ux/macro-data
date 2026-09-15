@@ -1,6 +1,6 @@
 # Calendar — Trading Day 15 Sep 2026
 
-- Banaya gaya: **15 Sep 2026 15:16 PKT**
+- Banaya gaya: **15 Sep 2026 20:56 PKT**
 - Trading day: **15 Sep 03:00 -> 16 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,10 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 17:15 | USD | low | ADP Weekly Employment Change | - | 12.0K |
-| 17:30 | CAD | low | Wholesale Sales m/m | -0.5% | 2.8% |
-| 17:30 | USD | low | Empire State Manufacturing Index | 14.8 | 20.6 |
-| 19:50 | NZD | low | GDT Price Index | - | 0.9% |
 | **16 Sep** 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
 | **16 Sep** 02:00 | NZD | low | Westpac Consumer Sentiment | - | 80.4 |
 | **16 Sep** 03:45 | NZD | low | Current Account | -2.57B | -1.01B |
@@ -30,6 +26,14 @@
 | **16 Sep** 13:30 | GBP | low | HPI y/y | 2.1% | 2.0% |
 | **16 Sep** 14:00 | EUR | low | Industrial Production m/m | -0.2% | 0.0% |
 | **16 Sep** 14:34 | EUR | low | German 30-y Bond Auction | - | 3.65|1.3 |
+| **16 Sep** 17:15 | CAD | low | Housing Starts | 243K | 229K |
+| **16 Sep** 17:30 | CAD | low | Building Permits m/m | -4.7% | 18.5% |
+| **16 Sep** 17:30 | USD | MED | Core Retail Sales m/m | 0.5% | -0.3% |
+| **16 Sep** 17:30 | USD | MED | Retail Sales m/m | 0.8% | -0.6% |
+| **16 Sep** 17:30 | USD | low | Import Prices m/m | 0.4% | -0.4% |
+| **16 Sep** 19:00 | USD | low | Business Inventories m/m | 0.6% | 0.0% |
+| **16 Sep** 19:00 | USD | low | NAHB Housing Market Index | 34 | 35 |
+| **16 Sep** 19:30 | USD | low | Crude Oil Inventories | - | -0.4M |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
@@ -41,8 +45,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **16 Sep** 17:30 | USD | MED | Core Retail Sales m/m | 0.5% | -0.3% |
-| **16 Sep** 17:30 | USD | MED | Retail Sales m/m | 0.8% | -0.6% |
 | **16 Sep** 23:00 | USD | **HIGH** | Federal Funds Rate | 4.00% | 3.75% |
 | **16 Sep** 23:00 | USD | **HIGH** | FOMC Economic Projections | - | - |
 | **16 Sep** 23:00 | USD | **HIGH** | FOMC Statement | - | - |
@@ -64,5 +66,10 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 15 Sep 17:31 | September US Empire Fed manufacturing | +7.6 | +15.0 | -7.40 (-49%) | neeche |
+| 15 Sep 17:28 | US ADP weekly employment estimate rises to | 16,250 | 12,000 | +4,250.00 (+35%) | upar |
 

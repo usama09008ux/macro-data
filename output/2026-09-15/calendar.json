@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "15 Sep 2026 15:16",
+  "generated_pkt": "15 Sep 2026 20:56",
   "trading_day": "2026-09-15",
   "feed_sources": {
     "thisweek": "live"
@@ -461,6 +461,19 @@
       "trading_day": "2026-09-15"
     },
     {
+      "title": "Treasury Sec Bessent Speaks",
+      "ccy": "USD",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/917-us-treasury-sec-bessent-speaks",
+      "all_day": false,
+      "utc": "2026-09-15T14:00Z",
+      "pkt": "15 Sep 19:00",
+      "pkt_iso": "2026-09-15T19:00:00+05:00",
+      "trading_day": "2026-09-15"
+    },
+    {
       "title": "GDT Price Index",
       "ccy": "NZD",
       "impact": "Low",
@@ -468,9 +481,9 @@
       "previous": "0.9%",
       "url": "https://www.forexfactory.com/calendar/602-nz-gdt-price-index",
       "all_day": false,
-      "utc": "2026-09-15T14:50Z",
-      "pkt": "15 Sep 19:50",
-      "pkt_iso": "2026-09-15T19:50:00+05:00",
+      "utc": "2026-09-15T15:39Z",
+      "pkt": "15 Sep 20:39",
+      "pkt_iso": "2026-09-15T20:39:00+05:00",
       "trading_day": "2026-09-15"
     },
     {
@@ -672,7 +685,7 @@
       "title": "Building Permits m/m",
       "ccy": "CAD",
       "impact": "Low",
-      "forecast": "-4.5%",
+      "forecast": "-4.7%",
       "previous": "18.5%",
       "url": "https://www.forexfactory.com/calendar/200-ca-building-permits-mm",
       "all_day": false,
@@ -1358,5 +1371,35 @@
       "trading_day": "2026-09-19"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "September US Empire Fed manufacturing +7.6 vs +15.0 expected",
+      "actual_raw": "+7.6",
+      "forecast_raw": "+15.0",
+      "beat": false,
+      "raw_diff": "-7.40",
+      "sign_flip": false,
+      "diff_pct": -49.3,
+      "when_pkt": "15 Sep 17:31",
+      "source": "investinglive",
+      "tags": [
+        "usd",
+        "rates"
+      ]
+    },
+    {
+      "title": "US ADP weekly employment estimate rises to 16,250 vs 12,000 expected",
+      "actual_raw": "16,250",
+      "forecast_raw": "12,000",
+      "beat": true,
+      "raw_diff": "+4,250.00",
+      "sign_flip": false,
+      "diff_pct": 35.4,
+      "when_pkt": "15 Sep 17:28",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }

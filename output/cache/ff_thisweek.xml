@@ -351,10 +351,20 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/207-us-empire-state-manufacturing-index]]></url>
 	</event>
 	<event>
+		<title>Treasury Sec Bessent Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[09-15-2026]]></date>
+		<time><![CDATA[2:00pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/917-us-treasury-sec-bessent-speaks]]></url>
+	</event>
+	<event>
 		<title>GDT Price Index</title>
 		<country>NZD</country>
 		<date><![CDATA[09-15-2026]]></date>
-		<time><![CDATA[2:50pm]]></time>
+		<time><![CDATA[3:39pm]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous><![CDATA[0.9%]]></previous>
@@ -516,7 +526,7 @@
 		<date><![CDATA[09-16-2026]]></date>
 		<time><![CDATA[12:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[-4.5%]]></forecast>
+		<forecast><![CDATA[-4.7%]]></forecast>
 		<previous><![CDATA[18.5%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/200-ca-building-permits-mm]]></url>
 	</event>
