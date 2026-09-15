@@ -1,8 +1,8 @@
 # News Pack — Trading Day 14 Sep 2026
 
 - Trading day: **14 Sep 03:00 -> 15 Sep 02:59 PKT**
-- Aakhri update: **15 Sep 05:54 PKT**
-- Kul khabrein: **1085**
+- Aakhri update: **15 Sep 10:56 PKT**
+- Kul khabrein: **1103**
 - Feeds: 36/39 OK
 
 ---
@@ -297,6 +297,9 @@ US President Donald Trump posted the following comments on artificial intelligen
 
 What a Fed rate hike could mean for gold and silver prices CBS News
 
+**How gold IRAs fit into a diversified retirement portfolio**
+`14 Sep 21:28 PKT` · pehli baar dekhi `15 Sep 10:56` · yahoo_finance
+
 **North Korea thrash Bangladesh 10-0 in Asian Games women's football**
 `14 Sep 21:05 PKT` · pehli baar dekhi `15 Sep 00:21` · aljazeera
 
@@ -474,6 +477,11 @@ Fed Extends Pause on Reserve Management Treasury Purchases - News and Statistics
 
 The Fed is Expected to Hike Interest Rates This Week. Here's Why It May Not Help Bring Down Inflation Investopedia
 
+**Goldman Sachs Expects Fed Chair Kevin Warsh to Raise Rates This Week — But Not Because of Oil Prices. - Barchart.com**
+`15 Sep 02:17 PKT` · pehli baar dekhi `15 Sep 10:56` · gnews_fed
+
+Goldman Sachs Expects Fed Chair Kevin Warsh to Raise Rates This Week — But Not Because of Oil Prices. Barchart.com
+
 **Opinion | Raising interest rates will curb inflation and maintain Fed credibility - The Washington Post**
 `15 Sep 02:15 PKT` · pehli baar dekhi `15 Sep 03:36` · gnews_fed
 
@@ -513,6 +521,11 @@ Fed rate hike to add more pressure on consumers WTMJ
 `15 Sep 01:19 PKT` · pehli baar dekhi `15 Sep 03:36` · investinglive
 
 China's National Bureau of Statistics is due to release August industrial production, retail sales and fixed asset investment data at 0200 GMT on Tuesday, September 15, offering the next read on whether Beijing's economy is stabilising or losing further ground. Economists polled ahead of the release expect industrial output to rise 4.8% year on year, a rebound from July's 4.5% print, which itself undershot the same 4.8% forecast and slowed from June's 5.3% pace.
+
+**How a Fed rate hike would affect your bank accounts, loans, credit cards, and investments - Yahoo Finance**
+`15 Sep 01:14 PKT` · pehli baar dekhi `15 Sep 10:56` · gnews_fed
+
+How a Fed rate hike would affect your bank accounts, loans, credit cards, and investments Yahoo Finance
 
 **Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting - Chase Bank**
 `15 Sep 01:12 PKT` · pehli baar dekhi `15 Sep 03:36` · gnews_fed
@@ -591,6 +604,24 @@ The Fed may be on the verge of a serious mistake, prominent economists warn Mark
 
 10-year Treasury yields briefly hit 5% mark upi.com
 
+**Federal Reserve faces no easy choices with stubborn inflation and economic strains - WXLV**
+`14 Sep 23:28 PKT` · pehli baar dekhi `15 Sep 10:56` · gnews_fed · **14 feeds mein**
+
+Federal Reserve faces no easy choices with stubborn inflation and economic strains WXLV
+  - `14 Sep 23:07` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - nbcmontana.com
+  - `14 Sep 22:22` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - KRCR
+  - `14 Sep 22:20` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - WPEC
+  - `14 Sep 22:19` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - myfox28columbus.com
+  - `14 Sep 22:17` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - WJAR
+  - `14 Sep 22:16` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - KFDM
+  - `14 Sep 22:15` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - KSNV
+  - `14 Sep 22:15` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - KTUL
+  - `14 Sep 22:14` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - news4sanantonio.com
+  - `14 Sep 22:14` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - KEYE
+  - `14 Sep 22:13` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - WBFF
+  - `14 Sep 22:12` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - KBOI
+  - `14 Sep 22:11` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - National News Desk
+
 **The next Social Security 'COLA' could be the biggest in five years. It's no cause for celebration.**
 `14 Sep 23:27 PKT` · pehli baar dekhi `15 Sep 00:21` · mw_topstories
 
@@ -625,21 +656,6 @@ Kevin Warsh's Time for Choosing National Review
 `14 Sep 22:26 PKT` · pehli baar dekhi `15 Sep 00:21` · gnews_fed
 
 Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike CNBC
-
-**Federal Reserve faces no easy choices with stubborn inflation and economic strains - KRCR**
-`14 Sep 22:22 PKT` · pehli baar dekhi `15 Sep 00:21` · gnews_fed · **11 feeds mein**
-
-Federal Reserve faces no easy choices with stubborn inflation and economic strains KRCR
-  - `14 Sep 22:20` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - WPEC
-  - `14 Sep 22:19` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - myfox28columbus.com
-  - `14 Sep 22:16` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - KFDM
-  - `14 Sep 22:15` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - KSNV
-  - `14 Sep 22:15` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - KTUL
-  - `14 Sep 22:14` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - news4sanantonio.com
-  - `14 Sep 22:14` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - KEYE
-  - `14 Sep 22:13` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - WBFF
-  - `14 Sep 22:12` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - KBOI
-  - `14 Sep 22:11` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - National News Desk
 
 **The stock market could do something strange this week after the Fed decision - CNBC**
 `14 Sep 22:16 PKT` · pehli baar dekhi `15 Sep 00:21` · gnews_fed
@@ -695,6 +711,11 @@ The Dollar Index trades near 99.50, up 0.4% on the day, and it made the whole of
 `14 Sep 21:17 PKT` · pehli baar dekhi `15 Sep 00:21` · gnews_fed
 
 The Fed is likely to raise interest rates as inflation persists. What that means for consumers CNBC
+
+**There Is Now An 83% to 90% Chance the Fed Raises Interest Rates on Sept. 16. Here's What History Says Would Happen to the S&P 500 Index Next. - Yahoo Finance**
+`14 Sep 21:01 PKT` · pehli baar dekhi `15 Sep 10:56` · gnews_fed
+
+There Is Now An 83% to 90% Chance the Fed Raises Interest Rates on Sept. 16. Here's What History Says Would Happen to the S&P 500 Index Next. Yahoo Finance
 
 **Dow Jones Industrial Average loses another round to rising bond yields**
 `14 Sep 20:57 PKT` · pehli baar dekhi `15 Sep 00:21` · fxstreet_news
@@ -1315,6 +1336,11 @@ Wall Street Eyes Fed's Move Amid Rate Hike Concerns news.sbs.co.kr
 
 Without democracy for the Palestinians, we won't have peace in the Middle East.
 
+**ECB's Schnabel Warns on Energy Risks to Inflation - Briefs Finance**
+`15 Sep 02:10 PKT` · pehli baar dekhi `15 Sep 10:56` · gnews_centralbanks
+
+ECB's Schnabel Warns on Energy Risks to Inflation Briefs Finance
+
 **U.S. 10-Year Yield Cools After Topping 5%, German Bund Yield Hits 15-Year High**
 `15 Sep 00:45 PKT` · pehli baar dekhi `15 Sep 03:36` · wsj_markets
 
@@ -1787,6 +1813,11 @@ Oil price surge revives prospect of Bank of England rate rise this year Financia
 The GBP/USD pair struggles to capitalize on Friday's bounce from the vicinity of the monthly swing low and consolidates above the 1.3500 psychological mark at the start of a new week.
 
 ### JPY
+
+**Preview: Goldman Sachs sees yen and Nikkei risk building on faster BoJ rate path - investingLive**
+`15 Sep 02:27 PKT` · pehli baar dekhi `15 Sep 10:56` · gnews_centralbanks
+
+Preview: Goldman Sachs sees yen and Nikkei risk building on faster BoJ rate path investingLive
 
 **Japanese Yen recedes as Fed and BoJ decisions loom**
 `15 Sep 02:00 PKT` · pehli baar dekhi `15 Sep 03:36` · fxstreet_news
@@ -2321,6 +2352,11 @@ The dispute adds fresh uncertainty to an already fragile Strait of Hormuz transi
 
 Tensions in the Gulf: Oil Supply at Risk Amid Rising Conflict Devdiscourse
 
+**Oil tanker rates top $1 million a day as Iran war disrupts Hormuz shipping - Crypto Briefing**
+`15 Sep 01:19 PKT` · pehli baar dekhi `15 Sep 10:56` · gnews_geopolitics
+
+Oil tanker rates top $1 million a day as Iran war disrupts Hormuz shipping Crypto Briefing
+
 **Crude Oil spikes on a shut Saudi pipeline and unwinds on Trump's posts**
 `15 Sep 01:14 PKT` · pehli baar dekhi `15 Sep 03:36` · fxstreet_news
 
@@ -2520,6 +2556,11 @@ Attack on Saudi Arabian pipeline may cut four percent of world's oil supply Midd
 
 Uniper announced on Monday an agreement to sell its 20% stake in the OPAL gas pipeline as part of the EU's conditions on state aid that allowed Germany to bail out the German energy giant in 2022. Back then, the German government stepped in to nationalize Uniper to avoid its collapse amid soaring gas prices, with the total bill for the nationalization at about $53 billion.
 
+**Oil prices soar over four per cent to 16-week high after Saudi strikes - Baird Maritime**
+`14 Sep 20:17 PKT` · pehli baar dekhi `15 Sep 10:56` · gnews_geopolitics
+
+Oil prices soar over four per cent to 16-week high after Saudi strikes Baird Maritime
+
 **Trump: Ukraine and Russia have agreed not to hit energy targets**
 `14 Sep 20:08 PKT` · pehli baar dekhi `15 Sep 00:21` · investinglive
 
@@ -2534,6 +2575,11 @@ TD Securities strategists Ryan McKay and Bart Melek note that CTAs remain maxima
 `14 Sep 20:00 PKT` · pehli baar dekhi `15 Sep 00:21` · oilprice
 
 Heightened shipping threats from Ukrainian attacks and a shortage of tankers have pushed the freight costs for Russia's crude oil exports from the Black Sea to record highs. In the week to September 6, the key tanker rate for shipping crude oil on an Aframax from the Black Sea port of Novorossiysk to West India and North China rose for the seventh straight week, by 2.7% and 3.1% from the week prior, respectively, Russian daily Kommersant reported on Monday, citing local pricing indexes.
+
+**Oil prices soar over 4% to 16-week high after Saudi strikes - Yahoo Finance**
+`14 Sep 19:56 PKT` · pehli baar dekhi `15 Sep 10:56` · gnews_geopolitics
+
+Oil prices soar over 4% to 16-week high after Saudi strikes Yahoo Finance
 
 **Brent Crude Surges 4% to $109 Amid Triple Supply Shock; Bernstein Warns Oil Could Rise to $150 - TradingKey**
 `14 Sep 19:37 PKT` · pehli baar dekhi `15 Sep 00:21` · gnews_geopolitics
@@ -2671,6 +2717,11 @@ Marib is home to Yemen&#039;s oil sector. Whoever controls it secures economic g
 `14 Sep 16:59 PKT` · pehli baar dekhi `14 Sep 19:07` · mw_topstories
 
 Brent crude and West Texas Intermediate's front-month contracts rose on Monday after Saudi Arabia closed its East-West pipeline, citing damage cause by drone attacks.
+
+**IEA updates global oil supply forecasts - trend.az**
+`14 Sep 16:54 PKT` · pehli baar dekhi `15 Sep 10:56` · gnews_geopolitics
+
+IEA updates global oil supply forecasts trend.az
 
 **Temporary Hormuz solution deferred as Iran-Arab summit falls through**
 `14 Sep 16:50 PKT` · pehli baar dekhi `14 Sep 19:07` · aljazeera
@@ -2885,6 +2936,11 @@ Sweden's consumer prices increased by 0.3% year-on-year in August 2026, in line 
 `14 Sep 12:08 PKT` · pehli baar dekhi `14 Sep 19:07` · gnews_geopolitics
 
 Oman-hosted Gulf meeting postponed as attacks heighten oil supply concerns Cyprus Inform
+
+**Oil prices up over 2% following new strikes on Saudi, Strait of Hormuz - Profit by Pakistan Today**
+`14 Sep 12:01 PKT` · pehli baar dekhi `15 Sep 10:56` · gnews_geopolitics
+
+Oil prices up over 2% following new strikes on Saudi, Strait of Hormuz Profit by Pakistan Today
 
 **New attacks in Hormuz and Saudi Arabia deepen oil supply threat - tradersunion.com**
 `14 Sep 11:51 PKT` · pehli baar dekhi `14 Sep 19:07` · gnews_geopolitics
@@ -3175,9 +3231,10 @@ Iranian state media claimed an Iranian commercial vessel was struck in the Strai
 Middle East Oil Tensions Surge Amid Diplomatic Setbacks Devdiscourse
 
 **StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes**
-`14 Sep 04:00 PKT` · pehli baar dekhi `14 Sep 04:40` · oilprice
+`14 Sep 04:00 PKT` · pehli baar dekhi `14 Sep 04:40` · oilprice · **2 feeds mein**
 
 Oil prices hit nearly $110 per barrel on Thursday for the first time since July, with no end in sight for the Middle East conflict. The IRGC announced on Wednesday that it had attacked and heavily damaged eight oil tankers and two U.S. Navy destroyers in the Strait of Hormuz, in retaliation after the U.S. military destroyed five IRGC-linked oil tankers in the Gulf of Oman on Tuesday night. CENTCOM has, however, denied the IRGC claims.
+  - `14 Sep 04:00` *yahoo_finance* — StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes
 
 **Oil jumps as Saudi pipeline shutdown worsens global supply crunch - The Business Times**
 `14 Sep 03:51 PKT` · pehli baar dekhi `14 Sep 04:40` · gnews_geopolitics
@@ -3576,6 +3633,11 @@ Zelensky writes: Ukraine has proposed that its partners secure an agreement with
 Persian Gulf states call off meeting with Iran as Houthis launch new attack on Saudi Arabia cbc.ca
   - `14 Sep 16:41` *gnews_geopolitics* — Gulf States Cancel Meeting with Iran as Houthis Launch New Attack On Saudi Arabia - PUKmedia یەکێتیی نیشتمانیی کوردستان
 
+**Oil markets survived the Iran war sprint. Now comes the marathon - Malaya Business Insight**
+`14 Sep 20:12 PKT` · pehli baar dekhi `15 Sep 10:56` · gnews_geopolitics
+
+Oil markets survived the Iran war sprint. Now comes the marathon Malaya Business Insight
+
 **How Iran's regional allies' attacks in Yemen are compounding the war's impact on oil prices - CBS News**
 `14 Sep 20:12 PKT` · pehli baar dekhi `15 Sep 00:21` · gnews_geopolitics
 
@@ -3745,7 +3807,7 @@ Oman says Hormuz talks with Iran and Gulf states are postponed &#039;in the inte
 
 US-Iran war chokes off 20% of global LNG supply, hitting Asia with $7 billion cost surge Crypto Briefing
 
-### BINA TAG (255)
+### BINA TAG (257)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -3797,6 +3859,7 @@ US-Iran war chokes off 20% of global LNG supply, hitting Asia with $7 billion co
 - `14 Sep 23:20` **mw_topstories** — AI doomsday fears are arriving at the worst possible time for the stock market
 - `14 Sep 23:08` **mw_topstories** — As AI companies call for a slowdown, here's how Washington could pump the brakes
 - `14 Sep 23:02` **aljazeera** — Jerusalem Daily: A new report on the erosion of Palestinian life
+- `14 Sep 22:56` **yahoo_finance** — Debt settlement vs. bankruptcy: How to choose
 - `14 Sep 22:52` **aljazeera** — India to supply Nepal electricity after floods wrecked hydropower projects
 - `14 Sep 22:48` **gnews_fed** — The U.S. economy faces mounting headwinds. Here are the biggest risks. - CBS News
 - `14 Sep 22:33` **kitco_general** — UK government seeks to acquire insolvent specialist steelmaker - kitco.com
@@ -3807,6 +3870,7 @@ US-Iran war chokes off 20% of global LNG supply, hitting Asia with $7 billion co
 - `14 Sep 22:18` **kitco_general** — Videos - kitco.com
 - `14 Sep 22:16` **aljazeera** — JD Vance insists US is 'on top of' Houthi advance in Red Sea
 - `14 Sep 22:14` **investing_commodities** — Northwest European gasoline margins climb $3 to $52 per barrel
+- `14 Sep 22:06` **gnews_fed** — Federal Reserve: 1 Thing All Investors Need to Know Before Sept. 16 - The Motley Fool
 - `14 Sep 22:01` **kitco_general** — Videos - kitco.com
 - `14 Sep 21:53` **aljazeera** — How Israel systematically dismantles Palestinian life in occupied West Bank
 - `14 Sep 21:38` **mining_com** — Pentagon backs $150M Blue Moon tungsten restart
@@ -4021,42 +4085,42 @@ investing_news (1), yahoo_finance (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 5 | 25 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 2 | 0 | 2 | 28 | 0.3 |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
-| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 3.2 |
-| instaforex | OK | 25 | 25 | 10 | 15 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 2 | 0 | 2 | 34 | 0.2 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.3 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.2 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 4.3 |
-| kitco_general | OK | 34 | 34 | 0 | 34 | 0 | 0.1 |
-| gnews_fed | OK | 100 | 100 | 18 | 82 | 0 | 0.0 |
-| gnews_geopolitics | OK | 81 | 81 | 18 | 63 | 0 | 0.1 |
-| gnews_centralbanks | OK | 99 | 99 | 7 | 92 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 20.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 11.5 |
-| ecb_press | OK | 15 | 3 | 0 | 3 | 12 | 0.4 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.7 |
-| boj_whatsnew | OK | 42 | 3 | 0 | 3 | 39 | 0.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 11.9 |
-| mining_com | OK | 36 | 8 | 1 | 7 | 28 | 0.0 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| ing_think | OK | 10 | 4 | 0 | 4 | 6 | 0.3 |
-| bbc_business | OK | 57 | 17 | 2 | 15 | 40 | 0.0 |
-| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
-| snb_press | OK | 20 | 4 | 0 | 4 | 16 | 0.4 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 4.6 |
-| eia_energy | WARN | 15 | 0 | 0 | 0 | 15 | 4.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 11.5 |
-| wsj_world | OK | 73 | 15 | 1 | 14 | 58 | 0.1 |
-| wsj_markets | OK | 61 | 29 | 3 | 26 | 32 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 12 | 0 | 12 | 38 | 0.4 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 20 | 0 | 20 | 10 | 0.2 |
+| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 20 | 10 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 3 | 1 | 2 | 27 | 0.1 |
+| actionforex | OK | 20 | 20 | 10 | 10 | 0 | 0.1 |
+| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 3.4 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 5 | 3 | 2 | 31 | 0.1 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.6 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.4 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 4.5 |
+| kitco_general | OK | 34 | 34 | 0 | 34 | 0 | 0.2 |
+| gnews_fed | OK | 100 | 100 | 24 | 76 | 0 | 0.0 |
+| gnews_geopolitics | OK | 92 | 92 | 31 | 61 | 0 | 0.0 |
+| gnews_centralbanks | OK | 92 | 92 | 9 | 83 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 20.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 11.7 |
+| ecb_press | OK | 15 | 3 | 0 | 3 | 12 | 0.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.9 |
+| boj_whatsnew | OK | 42 | 3 | 0 | 3 | 39 | 0.9 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 12.1 |
+| mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.3 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.2 |
+| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
+| ing_think | OK | 10 | 6 | 2 | 4 | 4 | 0.1 |
+| bbc_business | OK | 57 | 19 | 3 | 16 | 38 | 0.0 |
+| aljazeera | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
+| snb_press | OK | 20 | 4 | 0 | 4 | 16 | 0.6 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 4.8 |
+| eia_energy | WARN | 15 | 0 | 0 | 0 | 15 | 4.7 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 11.7 |
+| wsj_world | OK | 73 | 18 | 3 | 15 | 55 | 0.1 |
+| wsj_markets | OK | 61 | 31 | 3 | 28 | 30 | 0.1 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 17 | 3 | 14 | 33 | 0.5 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 24 | 4 | 20 | 6 | 0.0 |
