@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "16 Sep 2026 20:49",
+  "generated_pkt": "17 Sep 2026 00:48",
   "trading_day": "2026-09-16",
   "feed_sources": {
     "thisweek": "live"
@@ -877,19 +877,6 @@
       "trading_day": "2026-09-17"
     },
     {
-      "title": "Foreign Direct Investment ytd/y",
-      "ccy": "CNY",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-6.2%",
-      "url": "https://www.forexfactory.com/calendar/457-ch-foreign-direct-investment-ytdy",
-      "all_day": false,
-      "utc": "2026-09-17T06:02Z",
-      "pkt": "17 Sep 11:02",
-      "pkt_iso": "2026-09-17T11:02:00+05:00",
-      "trading_day": "2026-09-17"
-    },
-    {
       "title": "SECO Economic Forecasts",
       "ccy": "CHF",
       "impact": "Low",
@@ -1238,6 +1225,19 @@
       "utc": "2026-09-18T06:00Z",
       "pkt": "18 Sep 11:00",
       "pkt_iso": "2026-09-18T11:00:00+05:00",
+      "trading_day": "2026-09-18"
+    },
+    {
+      "title": "Foreign Direct Investment ytd/y",
+      "ccy": "CNY",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-6.2%",
+      "url": "https://www.forexfactory.com/calendar/457-ch-foreign-direct-investment-ytdy",
+      "all_day": false,
+      "utc": "2026-09-18T06:02Z",
+      "pkt": "18 Sep 11:02",
+      "pkt_iso": "2026-09-18T11:02:00+05:00",
       "trading_day": "2026-09-18"
     },
     {

@@ -671,16 +671,6 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/30-nz-gdp-qq]]></url>
 	</event>
 	<event>
-		<title>Foreign Direct Investment ytd/y</title>
-		<country>CNY</country>
-		<date><![CDATA[09-17-2026]]></date>
-		<time><![CDATA[6:02am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast />
-		<previous><![CDATA[-6.2%]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/457-ch-foreign-direct-investment-ytdy]]></url>
-	</event>
-	<event>
 		<title>SECO Economic Forecasts</title>
 		<country>CHF</country>
 		<date><![CDATA[09-17-2026]]></date>
@@ -949,6 +939,16 @@
 		<forecast><![CDATA[-0.2%]]></forecast>
 		<previous><![CDATA[-0.5%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/105-uk-retail-sales-mm]]></url>
+	</event>
+	<event>
+		<title>Foreign Direct Investment ytd/y</title>
+		<country>CNY</country>
+		<date><![CDATA[09-18-2026]]></date>
+		<time><![CDATA[6:02am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[-6.2%]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/457-ch-foreign-direct-investment-ytdy]]></url>
 	</event>
 	<event>
 		<title>Current Account</title>

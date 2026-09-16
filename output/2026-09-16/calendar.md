@@ -1,6 +1,6 @@
 # Calendar — Trading Day 16 Sep 2026
 
-- Banaya gaya: **16 Sep 2026 20:49 PKT**
+- Banaya gaya: **17 Sep 2026 00:48 PKT**
 - Trading day: **16 Sep 03:00 -> 17 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,39 +12,28 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 21:00 | EUR | low | German Buba President Nagel Speaks | - | - |
-| 22:30 | CAD | low | BOC Summary of Deliberations | - | - |
-| 23:00 | USD | **HIGH** | Federal Funds Rate | 4.00% | 3.75% |
-| 23:00 | USD | **HIGH** | FOMC Economic Projections | - | - |
-| 23:00 | USD | **HIGH** | FOMC Statement | - | - |
-| 23:30 | USD | **HIGH** | FOMC Press Conference | - | - |
-| **17 Sep** 01:00 | USD | low | TIC Long-Term Purchases | 146.3B | 172.7B |
-| **17 Sep** 03:45 | NZD | **HIGH** | GDP q/q | 0.1% | 0.8% |
-| **17 Sep** 11:02 | CNY | low | Foreign Direct Investment ytd/y | - | -6.2% |
-| **17 Sep** 12:00 | CHF | low | SECO Economic Forecasts | - | - |
-| **17 Sep** 14:00 | EUR | low | Final Core CPI y/y | 2.4% | 2.4% |
-| **17 Sep** 14:00 | EUR | low | Final CPI y/y | 3.3% | 3.3% |
-| **17 Sep** 14:03 | EUR | low | Spanish 10-y Bond Auction | - | 3.74|2.3 |
-| **17 Sep** 16:00 | GBP | **HIGH** | Monetary Policy Summary | - | - |
-| **17 Sep** 16:00 | GBP | **HIGH** | MPC Official Bank Rate Votes | 3-0-6 | 3-0-6 |
-| **17 Sep** 16:00 | GBP | **HIGH** | Official Bank Rate | 3.75% | 3.75% |
-| **17 Sep** 17:30 | CAD | low | Foreign Securities Purchases | 28.64B | 40.83B |
-| **17 Sep** 17:30 | CAD | low | IPPI m/m | 0.0% | 0.6% |
-| **17 Sep** 17:30 | CAD | low | RMPI m/m | 0.7% | -2.2% |
-| **17 Sep** 17:30 | USD | MED | Philly Fed Manufacturing Index | 31.3 | 47.4 |
-| **17 Sep** 17:30 | USD | MED | Unemployment Claims | 207K | 206K |
-| **17 Sep** 17:30 | USD | low | Building Permits | 1.40M | 1.44M |
-| **17 Sep** 17:30 | USD | low | Housing Starts | 1.32M | 1.24M |
-| **17 Sep** 19:00 | USD | low | Pending Home Sales m/m | -0.2% | -2.3% |
-| **17 Sep** 19:30 | AUD | low | CB Leading Index m/m | - | 0.3% |
-| **17 Sep** 19:30 | USD | low | Natural Gas Storage | 49B | 40B |
+| 01:00 | USD | low | TIC Long-Term Purchases | 146.3B | 172.7B |
+| 03:45 | NZD | **HIGH** | GDP q/q | 0.1% | 0.8% |
+| 12:00 | CHF | low | SECO Economic Forecasts | - | - |
+| 14:00 | EUR | low | Final Core CPI y/y | 2.4% | 2.4% |
+| 14:00 | EUR | low | Final CPI y/y | 3.3% | 3.3% |
+| 14:03 | EUR | low | Spanish 10-y Bond Auction | - | 3.74|2.3 |
+| 16:00 | GBP | **HIGH** | Monetary Policy Summary | - | - |
+| 16:00 | GBP | **HIGH** | MPC Official Bank Rate Votes | 3-0-6 | 3-0-6 |
+| 16:00 | GBP | **HIGH** | Official Bank Rate | 3.75% | 3.75% |
+| 17:30 | CAD | low | Foreign Securities Purchases | 28.64B | 40.83B |
+| 17:30 | CAD | low | IPPI m/m | 0.0% | 0.6% |
+| 17:30 | CAD | low | RMPI m/m | 0.7% | -2.2% |
+| 17:30 | USD | MED | Philly Fed Manufacturing Index | 31.3 | 47.4 |
+| 17:30 | USD | MED | Unemployment Claims | 207K | 206K |
+| 17:30 | USD | low | Building Permits | 1.40M | 1.44M |
+| 17:30 | USD | low | Housing Starts | 1.32M | 1.24M |
+| 19:00 | USD | low | Pending Home Sales m/m | -0.2% | -2.3% |
+| 19:30 | AUD | low | CB Leading Index m/m | - | 0.3% |
+| 19:30 | USD | low | Natural Gas Storage | 49B | 40B |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
-- `16 Sep 23:00` **USD Federal Funds Rate**
-- `16 Sep 23:00` **USD FOMC Economic Projections**
-- `16 Sep 23:00` **USD FOMC Statement**
-- `16 Sep 23:30` **USD FOMC Press Conference**
 - `17 Sep 03:45` **NZD GDP q/q**
 - `17 Sep 16:00` **GBP Monetary Policy Summary**
 - `17 Sep 16:00` **GBP MPC Official Bank Rate Votes**
