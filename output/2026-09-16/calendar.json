@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "16 Sep 2026 15:09",
+  "generated_pkt": "16 Sep 2026 20:49",
   "trading_day": "2026-09-16",
   "feed_sources": {
     "thisweek": "live"
@@ -663,9 +663,9 @@
       "previous": "3.65|1.3",
       "url": "https://www.forexfactory.com/calendar/541-ge-30-y-bond-auction",
       "all_day": false,
-      "utc": "2026-09-16T09:34Z",
-      "pkt": "16 Sep 14:34",
-      "pkt_iso": "2026-09-16T14:34:00+05:00",
+      "utc": "2026-09-16T09:35Z",
+      "pkt": "16 Sep 14:35",
+      "pkt_iso": "2026-09-16T14:35:00+05:00",
       "trading_day": "2026-09-16"
     },
     {
@@ -1371,5 +1371,75 @@
       "trading_day": "2026-09-19"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US July business inventories +0.8% vs +0.3% expected",
+      "actual_raw": "+0.8%",
+      "forecast_raw": "+0.3%",
+      "beat": true,
+      "raw_diff": "+0.50pp",
+      "sign_flip": false,
+      "diff_pct": 166.7,
+      "when_pkt": "16 Sep 19:00",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "NAHB Housing market index for September 32 vs 34 estimate",
+      "actual_raw": "32",
+      "forecast_raw": "34",
+      "beat": false,
+      "raw_diff": "-2.00",
+      "sign_flip": false,
+      "diff_pct": -5.9,
+      "when_pkt": "16 Sep 19:00",
+      "source": "investinglive",
+      "tags": []
+    },
+    {
+      "title": "US import and export prices are August 0.7% vs 0.4%. Export prices 0.6% vs 0.5% est.",
+      "actual_raw": "0.6%",
+      "forecast_raw": "0.5%",
+      "beat": true,
+      "raw_diff": "+0.10pp",
+      "sign_flip": false,
+      "diff_pct": 20.0,
+      "when_pkt": "16 Sep 17:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "Canada Building permits for the month of July -17.3 vs -6.4% estimate",
+      "actual_raw": "-17.3",
+      "forecast_raw": "-6.4%",
+      "beat": false,
+      "raw_diff": "-10.90pp",
+      "sign_flip": false,
+      "diff_pct": -170.3,
+      "when_pkt": "16 Sep 17:30",
+      "source": "investinglive",
+      "tags": [
+        "cad",
+        "usd"
+      ]
+    },
+    {
+      "title": "US August advance retail sales +1.2% vs +0.8% expected",
+      "actual_raw": "+1.2%",
+      "forecast_raw": "+0.8%",
+      "beat": true,
+      "raw_diff": "+0.40pp",
+      "sign_flip": false,
+      "diff_pct": 50.0,
+      "when_pkt": "16 Sep 17:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }
