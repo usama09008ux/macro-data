@@ -1,9 +1,9 @@
 # News Pack — Trading Day 15 Sep 2026
 
 - Trading day: **15 Sep 03:00 -> 16 Sep 02:59 PKT**
-- Aakhri update: **16 Sep 05:33 PKT**
-- Kul khabrein: **1086**
-- Feeds: 36/39 OK
+- Aakhri update: **16 Sep 10:13 PKT**
+- Kul khabrein: **1099**
+- Feeds: 37/39 OK
 
 ---
 
@@ -240,6 +240,11 @@ Gold, silver prices settle lower as Fed hike looks locked in - Kitco PM Report K
 
 Gold could do well as Trump admin and Fed face a reckoning over interest rates - Commerzbank KITCO
 
+**Gold finds support near one-month lows ahead of the Federal Reserve's interest rate decision. - Moomoo**
+`15 Sep 22:35 PKT` · pehli baar dekhi `16 Sep 10:13` · gnews_fed
+
+Gold finds support near one-month lows ahead of the Federal Reserve's interest rate decision. Moomoo
+
 **Silver attempts cautious rebound ahead of closely watched Fed decision**
 `15 Sep 21:59 PKT` · pehli baar dekhi `16 Sep 00:14` · fxstreet_news
 
@@ -419,6 +424,12 @@ Quek Ser Leang at UOB notes USD/CNH remains directionless, trading narrowly arou
 
 If the Fed hikes rates, here's how the stock market might respond marketplace.org
 
+**The Fed meeting is a pivotal moment for the bond market - KCRA**
+`16 Sep 02:10 PKT` · pehli baar dekhi `16 Sep 10:13` · gnews_fed · **2 feeds mein**
+
+The Fed meeting is a pivotal moment for the bond market KCRA
+  - `15 Sep 21:54` *gnews_fed* — The Fed meeting is a pivotal moment for the bond market - KDRV
+
 **What Comes Next, Now that the 10-Year Treasury Yield Has Crossed 5%?**
 `16 Sep 02:01 PKT` · pehli baar dekhi `16 Sep 03:19` · wsj_markets
 
@@ -596,6 +607,11 @@ Warsh's push to pare back Fed communications has real limits American Banker
 
 As the Federal Reserve (Fed) monetary policy announcement approaches and the Middle East war intensifies, the US Dollar (USD) resumes its advance.
 
+**What history says about how stocks will react to the Fed's long-awaited rate hike - businessinsider.com**
+`15 Sep 22:18 PKT` · pehli baar dekhi `16 Sep 10:13` · gnews_fed
+
+What history says about how stocks will react to the Fed's long-awaited rate hike businessinsider.com
+
 **Opinion: Is the two-decade era of low interest rates over? The Fed has to decide. - MarketWatch**
 `15 Sep 22:08 PKT` · pehli baar dekhi `16 Sep 03:19` · gnews_fed · **2 feeds mein**
 
@@ -606,11 +622,6 @@ Opinion: Is the two-decade era of low interest rates over? The Fed has to decide
 `15 Sep 21:59 PKT` · pehli baar dekhi `16 Sep 05:33` · gnews_fed
 
 Wednesday preview: Fed policy announcement in the spotlight sharecast.com
-
-**The Fed meeting is a pivotal moment for the bond market - KDRV**
-`15 Sep 21:54 PKT` · pehli baar dekhi `16 Sep 00:14` · gnews_fed
-
-The Fed meeting is a pivotal moment for the bond market KDRV
 
 **Fed Rate Hike Expected Wednesday: What It Could Mean for US Stocks - Stocks Down Under**
 `15 Sep 21:47 PKT` · pehli baar dekhi `16 Sep 03:19` · gnews_fed
@@ -636,6 +647,11 @@ TSX falls as inflation worries weigh ahead of Fed decision KITCO
 `15 Sep 21:24 PKT` · pehli baar dekhi `16 Sep 00:14` · fxstreet_news
 
 The Dow Jones Industrial Average trades just under 52,000, down around 450 points, a day before the Fed's first expected hike since July 2023. Bets in the futures market put the odds of a quarter-point at 92.5%, so Wednesday's vote is not the news.
+
+**Rates Spark: How about a 50bp hike? Now that would be quite the statement**
+`15 Sep 21:24 PKT` · pehli baar dekhi `16 Sep 10:13` · ing_think
+
+Close your ears Mr President, but 50bp might be the right move, as it could be more fitting with how Chair Warsh might like to pursue policy. We're not calling for it, as we go for 25bp. But, is Chair Warsh just going to deliver the market discount? Really? After all that 'we'll do things differently' talk? This is why this meeting is so intriguing
 
 **'We're going to respect the process': Top White House official softens on Fed rate hike - Politico**
 `15 Sep 21:24 PKT` · pehli baar dekhi `16 Sep 00:14` · gnews_fed
@@ -1479,10 +1495,11 @@ Morgan Stanley turns more hawkish, forecasts two Fed hikes and ECB move KITCO
   - `15 Sep 13:21` *gnews_centralbanks* — Morgan Stanley Turns More Hawkish, Forecasts Two Fed Hikes and ECB Move - شبكة تواصل الإخبارية
   - `15 Sep 12:41` *gnews_fed* — Morgan Stanley turns more hawkish, forecasts two Fed hikes and ECB move - Reuters
 
-**Morgan Stanley now sees ECB delivering a rate hike in December - Investing.com**
-`15 Sep 16:47 PKT` · pehli baar dekhi `15 Sep 20:40` · gnews_centralbanks
+**Morgan Stanley now sees ECB delivering a rate hike in December - Investing.com UK**
+`15 Sep 16:48 PKT` · pehli baar dekhi `16 Sep 10:13` · gnews_centralbanks · **2 feeds mein**
 
-Morgan Stanley now sees ECB delivering a rate hike in December Investing.com
+Morgan Stanley now sees ECB delivering a rate hike in December Investing.com UK
+  - `15 Sep 16:47` *gnews_centralbanks* — Morgan Stanley now sees ECB delivering a rate hike in December - Investing.com
 
 **Euro Zone Reserve Assets Climb to €1.86 Trillion in August 2026**
 `15 Sep 16:35 PKT` · instaforex
@@ -2449,6 +2466,11 @@ Federal regulators handed utilities a deadline this summer that has nothing to d
 
 The Republicans are getting desperate with midterm polls for Trump cratering, in large part due to inflation from the Iran war. The atomic bomb in the world economy would be the US restricting diesel exports. That would break the free-market system and sew generational mistrust of US industry, leading to future stockpiling and global redundancies. It's a move that would ultimately weaken US refining as others build capacity or look to reliable partners.
 
+**Dollar Climbs as Markets Brace for Rate Decisions and Oil Surges Past $100 - وكالة الأنباء العمانية (العمانية)**
+`15 Sep 19:23 PKT` · pehli baar dekhi `16 Sep 10:13` · gnews_centralbanks
+
+Dollar Climbs as Markets Brace for Rate Decisions and Oil Surges Past $100 وكالة الأنباء العمانية (العمانية)
+
 **Saudi Arabia: Satellite image reveals major damage that shut crucial oil pipeline - BBC**
 `15 Sep 19:21 PKT` · pehli baar dekhi `16 Sep 00:14` · gnews_geopolitics
 
@@ -2734,6 +2756,11 @@ Crude Oil Gains: Middle East Attacks Threaten Supply Bol News
 
 Oil Price Today: Oil Surges Above $106 as Saudi Pipeline Hit, Hormuz Traffic Plunges & Iran-Gulf Talks Delayed – Brent at $106.93, WTI Crosses $102 The Sunday Guardian
 
+**Oil jumps nearly $3 as Saudi export halt - RTE.ie**
+`15 Sep 11:17 PKT` · pehli baar dekhi `16 Sep 10:13` · gnews_geopolitics
+
+Oil jumps nearly $3 as Saudi export halt RTE.ie
+
 **Oil Prices Rise on Saudi Pipeline Outage and Rising Red Sea Risks**
 `15 Sep 11:10 PKT` · pehli baar dekhi `15 Sep 16:35` · oilprice
 
@@ -2880,9 +2907,10 @@ Crude oil inched up to around $102 per barrel on Tuesday after a turbulent start
 Oil gains about 1% on September 14 after Saudi strikes fuel supply fears Nation Thailand
 
 **Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns**
-`15 Sep 05:42 PKT` · pehli baar dekhi `15 Sep 05:54` · investing_commodities · **6 feeds mein**
+`15 Sep 05:42 PKT` · pehli baar dekhi `15 Sep 05:54` · investing_commodities · **7 feeds mein**
   - `15 Sep 13:11` *gnews_geopolitics* — Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns - 95 KQDS
   - `15 Sep 12:38` *gnews_geopolitics* — Oil Prices Rise as Saudi Pipeline Outage and Fresh Attacks Fuel Supply Concerns - PUKmedia یەکێتیی نیشتمانیی کوردستان
+  - `15 Sep 12:16` *gnews_geopolitics* — Oil Prices Rise as Saudi Pipeline Outage, Fresh Attacks Fuel Supply Concerns - Energy Update
   - `15 Sep 11:16` *gnews_geopolitics* — Oil Prices Rise as Saudi Pipeline Outage and Fresh Attacks Fuel Supply Concerns - PUKmedia یەکێتیی نیشتمانیی کوردستان
   - `15 Sep 08:55` *gnews_geopolitics* — Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns - The Business Standard
   - `15 Sep 07:50` *gnews_geopolitics* — Oil prices rise as Saudi pipeline outage, fresh attacks raise supply concerns, Money News - AsiaOne
@@ -3347,6 +3375,11 @@ US-Israel-Iran War Latest Live News: Saudi Arabia East-West Oil Pipeline to Resu
 
 Tehran and Beijing explore diplomatic paths amid escalating tensions between Iran and the United States.
 
+**How a billion-dollar sanctions dodge kept Chinese goods flowing to Iran - The Business Standard**
+`15 Sep 20:50 PKT` · pehli baar dekhi `16 Sep 10:13` · gnews_geopolitics
+
+How a billion-dollar sanctions dodge kept Chinese goods flowing to Iran The Business Standard
+
 **Will Russia and Ukraine halt attacks on energy infrastructure?**
 `15 Sep 20:50 PKT` · pehli baar dekhi `16 Sep 00:14` · aljazeera
 
@@ -3435,6 +3468,11 @@ The Pentagon watchdog&#039;s report paints a picture of significant losses to US
 `15 Sep 15:14 PKT` · pehli baar dekhi `15 Sep 16:35` · wsj_economy
 
 The WTO said that economic activity would shrink significantly if world trade were to splinter into geopolitical blocs or regional groupings.
+
+**IEA slashes global oil demand and supply forecast again as Iran war intensifies - Yahoo Finance UK**
+`15 Sep 14:32 PKT` · pehli baar dekhi `16 Sep 10:13` · gnews_geopolitics
+
+IEA slashes global oil demand and supply forecast again as Iran war intensifies Yahoo Finance UK
 
 **US Israel Iran War Latest News: Saudi East-West Oil Pipeline Could Remain Mostly Shut For 3–5 Weeks After Drone Attack, Supply Risks Grow - The Sunday Guardian**
 `15 Sep 13:47 PKT` · pehli baar dekhi `15 Sep 16:35` · gnews_geopolitics · **2 feeds mein**
@@ -3528,7 +3566,7 @@ Amazon data centers in the U.A.E. and Bahrain are still offline months after bei
 
 Trump-Iran war: Costco nearly doubles motor oil price and imposes purchase caps investingLive
 
-### BINA TAG (315)
+### BINA TAG (318)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -3598,6 +3636,7 @@ Trump-Iran war: Costco nearly doubles motor oil price and imposes purchase caps 
 - `15 Sep 20:58` **aljazeera** — Lucy Letby inquiry blames UK hospital for failure to protect babies
 - `15 Sep 20:53` **gnews_centralbanks** — Will UK interest rates fall in 2026? - Yahoo Finance
 - `15 Sep 20:52` **aljazeera** — US democratic decline threatens global rule of law, report warns
+- `15 Sep 20:50` **gnews_fed** — Federal Reserve is expected to raise its benchmark rate, defying Trump's demands - The Morning Call
 - `15 Sep 20:40` **gnews_fed** — Is the Federal Reserve locked in at high rates? - WGN Radio 720
 - `15 Sep 20:40` **instaforex** — Peru's Unemployment Rate Ticks Up to 4.8% in August 2026
 - `15 Sep 20:40` **instaforex** — US Natgas Prices Rise for 2nd Session
@@ -3668,6 +3707,7 @@ Trump-Iran war: Costco nearly doubles motor oil price and imposes purchase caps 
 - `15 Sep 18:47` **gnews_fed** — AI stocks hold steadier as Wall Street drifts lower ahead of the Federal Reserve's meeting - couriernews.com
 - `15 Sep 18:47` **gnews_fed** — AI stocks hold steadier as Wall Street drifts lower ahead of the Federal Reserve's meeting - guardonline.com
 - `15 Sep 18:47` **gnews_fed** — AI stocks hold steadier as Wall Street drifts lower ahead of the Federal Reserve's meeting - hngnews.com
+- `15 Sep 18:47` **gnews_fed** — AI stocks hold steadier as Wall Street drifts lower ahead of the Federal Reserve's meeting - Washington Times
 - `15 Sep 18:40` **aljazeera** — Bangladesh hands death sentences to 7 aides of ousted Prime Minister Hasina
 - `15 Sep 18:33` **yahoo_finance** — How a Costco partner's bankruptcy could benefit its biggest rival
 - `15 Sep 18:30` **kitco_general** — Videos - KITCO
@@ -3690,6 +3730,7 @@ Trump-Iran war: Costco nearly doubles motor oil price and imposes purchase caps 
 - `15 Sep 17:03` **mining_com** — Radiant World axes more jobs as legal pressure mounts
 - `15 Sep 16:55` **aljazeera** — Athletes share 'what women in sport look like' to rebut Sydney Sweeney ad
 - `15 Sep 16:53` **aljazeera** — US repeals pollution limits for fossil fuel power plants
+- `15 Sep 16:46` **gnews_centralbanks** — New wave of mortgage rate rises as five high street banks make chunky home loan hikes on the same day - This is Money
 - `15 Sep 16:46` **wsj_markets** — Truist to Sell $5.5 Billion of Loans as It Exits Near-Prime Auto Lending
 - `15 Sep 16:41` **gnews_fed** — Federal Reserve rate decision: Art Laffer urges shrinking balance sheet instead of raising rates - Fox Business
 - `15 Sep 16:35` **instaforex** — Moody's Revises Bangladesh Credit Outlook to Stable
@@ -3864,46 +3905,45 @@ investing_news (18)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 6 | 24 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.3 |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
-| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 4.2 |
-| instaforex | OK | 25 | 25 | 20 | 5 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 11 | 1 | 10 | 25 | 0.0 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.1 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 5.2 |
-| kitco_general | OK | 36 | 31 | 1 | 30 | 5 | 0.2 |
-| gnews_fed | OK | 100 | 100 | 12 | 88 | 0 | 0.0 |
-| gnews_geopolitics | OK | 64 | 64 | 12 | 52 | 0 | 0.0 |
-| gnews_centralbanks | OK | 52 | 52 | 3 | 49 | 0 | 0.0 |
-| fed_monetary | STALE | 15 | 0 | 0 | 0 | 15 | 21.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 12.5 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
-| boe_news | OK | 50 | 2 | 0 | 2 | 48 | 0.6 |
-| boj_whatsnew | OK | 42 | 1 | 0 | 1 | 41 | 0.8 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 12.9 |
-| mining_com | OK | 36 | 13 | 1 | 12 | 23 | 0.0 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| bbc_business | OK | 43 | 19 | 6 | 13 | 24 | 0.0 |
-| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.3 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 5.6 |
-| eia_energy | OK | 16 | 1 | 0 | 1 | 15 | 0.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 12.5 |
-| wsj_world | OK | 74 | 23 | 3 | 20 | 51 | 0.0 |
-| wsj_markets | OK | 61 | 28 | 0 | 28 | 33 | 0.1 |
+| investinglive | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 19 | 11 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 6 | 1 | 5 | 24 | 0.1 |
+| actionforex | OK | 20 | 20 | 6 | 14 | 0 | 0.1 |
+| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 4.4 |
+| instaforex | OK | 25 | 25 | 21 | 4 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 11 | 0 | 11 | 25 | 0.2 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.3 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 5.4 |
+| kitco_general | OK | 36 | 31 | 0 | 31 | 5 | 0.3 |
+| gnews_fed | OK | 100 | 100 | 34 | 66 | 0 | 0.0 |
+| gnews_geopolitics | OK | 67 | 67 | 14 | 53 | 0 | 0.0 |
+| gnews_centralbanks | OK | 50 | 50 | 11 | 39 | 0 | 0.0 |
+| fed_monetary | STALE | 15 | 0 | 0 | 0 | 15 | 21.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 12.7 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
+| boe_news | OK | 50 | 2 | 0 | 2 | 48 | 0.8 |
+| boj_whatsnew | OK | 42 | 1 | 0 | 1 | 41 | 1.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 13.1 |
+| mining_com | OK | 36 | 13 | 0 | 13 | 23 | 0.2 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.2 |
+| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.1 |
+| ing_think | OK | 10 | 8 | 2 | 6 | 2 | 0.1 |
+| bbc_business | OK | 45 | 23 | 4 | 19 | 22 | 0.0 |
+| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.5 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 5.8 |
+| eia_energy | OK | 16 | 1 | 0 | 1 | 15 | 0.6 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 12.7 |
+| wsj_world | OK | 75 | 26 | 3 | 23 | 49 | 0.2 |
+| wsj_markets | OK | 61 | 30 | 5 | 25 | 31 | 0.1 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 5 | 0 | 5 | 45 | 0.5 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 19 | 0 | 19 | 11 | 0.1 |
+| yahoo_finance | OK | 48 | 5 | 0 | 5 | 43 | 0.7 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
+| cointelegraph | OK | 30 | 22 | 3 | 19 | 8 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fed_monetary — STALE, cadence 7d, magar 21d purana
-- ing_think — FAIL, ConnectTimeout
