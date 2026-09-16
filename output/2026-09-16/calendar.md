@@ -1,6 +1,6 @@
 # Calendar — Trading Day 16 Sep 2026
 
-- Banaya gaya: **16 Sep 2026 05:44 PKT**
+- Banaya gaya: **16 Sep 2026 15:09 PKT**
 - Trading day: **16 Sep 03:00 -> 17 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,14 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 11:00 | GBP | **HIGH** | CPI y/y | 3.1% | 2.9% |
-| 11:00 | GBP | low | Core CPI y/y | 2.6% | 2.6% |
-| 11:00 | GBP | low | PPI Input m/m | 0.6% | -1.7% |
-| 11:00 | GBP | low | PPI Output m/m | 0.5% | 0.2% |
-| 11:00 | GBP | low | RPI y/y | 3.5% | 3.2% |
-| 13:30 | GBP | low | HPI y/y | 2.1% | 2.0% |
-| 14:00 | EUR | low | Industrial Production m/m | -0.2% | 0.0% |
-| 14:34 | EUR | low | German 30-y Bond Auction | - | 3.65|1.3 |
 | 17:15 | CAD | low | Housing Starts | 243K | 229K |
 | 17:30 | CAD | low | Building Permits m/m | -4.7% | 18.5% |
 | 17:30 | USD | MED | Core Retail Sales m/m | 0.6% | -0.3% |
@@ -36,10 +28,14 @@
 | 23:30 | USD | **HIGH** | FOMC Press Conference | - | - |
 | **17 Sep** 01:00 | USD | low | TIC Long-Term Purchases | 146.3B | 172.7B |
 | **17 Sep** 03:45 | NZD | **HIGH** | GDP q/q | 0.1% | 0.8% |
+| **17 Sep** 11:02 | CNY | low | Foreign Direct Investment ytd/y | - | -6.2% |
+| **17 Sep** 12:00 | CHF | low | SECO Economic Forecasts | - | - |
+| **17 Sep** 14:00 | EUR | low | Final Core CPI y/y | 2.4% | 2.4% |
+| **17 Sep** 14:00 | EUR | low | Final CPI y/y | 3.3% | 3.3% |
+| **17 Sep** 14:03 | EUR | low | Spanish 10-y Bond Auction | - | 3.74|2.3 |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
-- `16 Sep 11:00` **GBP CPI y/y**
 - `16 Sep 23:00` **USD Federal Funds Rate**
 - `16 Sep 23:00` **USD FOMC Economic Projections**
 - `16 Sep 23:00` **USD FOMC Statement**
