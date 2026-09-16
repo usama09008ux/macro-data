@@ -384,7 +384,7 @@
 		<title>Westpac Consumer Sentiment</title>
 		<country>NZD</country>
 		<date><![CDATA[09-15-2026]]></date>
-		<time><![CDATA[9:00pm]]></time>
+		<time><![CDATA[9:04pm]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous><![CDATA[80.4]]></previous>
@@ -536,7 +536,7 @@
 		<date><![CDATA[09-16-2026]]></date>
 		<time><![CDATA[12:30pm]]></time>
 		<impact><![CDATA[Medium]]></impact>
-		<forecast><![CDATA[0.5%]]></forecast>
+		<forecast><![CDATA[0.6%]]></forecast>
 		<previous><![CDATA[-0.3%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/112-us-core-retail-sales-mm]]></url>
 	</event>
@@ -586,7 +586,7 @@
 		<date><![CDATA[09-16-2026]]></date>
 		<time><![CDATA[2:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast />
+		<forecast><![CDATA[-1.6M]]></forecast>
 		<previous><![CDATA[-0.4M]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/10-us-crude-oil-inventories]]></url>
 	</event>
@@ -796,7 +796,7 @@
 		<date><![CDATA[09-17-2026]]></date>
 		<time><![CDATA[12:30pm]]></time>
 		<impact><![CDATA[Medium]]></impact>
-		<forecast><![CDATA[208K]]></forecast>
+		<forecast><![CDATA[207K]]></forecast>
 		<previous><![CDATA[206K]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/11-us-unemployment-claims]]></url>
 	</event>
@@ -816,7 +816,7 @@
 		<date><![CDATA[09-17-2026]]></date>
 		<time><![CDATA[12:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[1.31M]]></forecast>
+		<forecast><![CDATA[1.32M]]></forecast>
 		<previous><![CDATA[1.24M]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/199-us-housing-starts]]></url>
 	</event>
@@ -846,7 +846,7 @@
 		<date><![CDATA[09-17-2026]]></date>
 		<time><![CDATA[2:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast />
+		<forecast><![CDATA[49B]]></forecast>
 		<previous><![CDATA[40B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/26-us-natural-gas-storage]]></url>
 	</event>
@@ -961,16 +961,6 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/218-ez-current-account]]></url>
 	</event>
 	<event>
-		<title>Eurogroup Meetings</title>
-		<country>EUR</country>
-		<date><![CDATA[09-18-2026]]></date>
-		<time><![CDATA[10:15am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast />
-		<previous />
-		<url><![CDATA[https://www.forexfactory.com/calendar/562-ez-eurogroup-meetings]]></url>
-	</event>
-	<event>
 		<title>ECOFIN Meetings</title>
 		<country>EUR</country>
 		<date><![CDATA[09-18-2026]]></date>
@@ -979,6 +969,16 @@
 		<forecast />
 		<previous />
 		<url><![CDATA[https://www.forexfactory.com/calendar/504-ez-ecofin-meetings]]></url>
+	</event>
+	<event>
+		<title>Eurogroup Meetings</title>
+		<country>EUR</country>
+		<date><![CDATA[09-18-2026]]></date>
+		<time><![CDATA[10:15am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/562-ez-eurogroup-meetings]]></url>
 	</event>
 	<event>
 		<title>ECB President Lagarde Speaks</title>
