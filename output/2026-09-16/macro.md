@@ -1,7 +1,7 @@
 # Macro Pack — Trading Day 16 Sep 2026
 
-- Banaya gaya: **16 Sep 2026 15:18 PKT**
-- Series: 25/25 mili
+- Banaya gaya: **16 Sep 2026 21:59 PKT**
+- Series: 24/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
 
@@ -11,8 +11,7 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| Fed funds target (upper) <br>`DFEDTARU` | **3.75%** | 0.0 | 0.0 | 0.0 | 0 | 2026-09-15 |
-| US 2Y yield <br>`DGS2` | **4.65%** | +0.02 | +0.28 | +0.48 | 82 | 2026-09-14 |
+| Fed funds target (upper) <br>`DFEDTARU` | **3.75%** | 0.0 | 0.0 | 0.0 | 0 | 2026-09-16 |
 | US 10Y yield <br>`DGS10` | **4.97%** | +0.01 | +0.19 | +0.29 | 100 | 2026-09-14 |
 | US 30Y yield <br>`DGS30` | **5.34%** | -0.01 | +0.1 | +0.09 | 100 | 2026-09-14 |
 | 10Y-2Y spread <br>`T10Y2Y` | **0.33%** | +0.01 | -0.08 | -0.2 | 50 | 2026-09-15 |
@@ -36,8 +35,8 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| VIX <br>`VIXCLS` | **17.10** | +1.26 | +1.8 | +1.91 | 59 | 2026-09-14 |
-| High-yield credit spread <br>`BAMLH0A0HYM2` | **2.71%** | +0.06 | +0.03 | +0.01 | 11 | 2026-09-14 |
+| VIX <br>`VIXCLS` | **17.20** | +0.1 | +1.48 | +1.36 | 60 | 2026-09-15 |
+| High-yield credit spread <br>`BAMLH0A0HYM2` | **2.76%** | +0.05 | +0.09 | +0.01 | 19 | 2026-09-15 |
 | Financial stress index <br>`STLFSI4` | **-0.79** | +0.0634 | -0.2839 | -0.0399 | 23 | 2026-09-04 |
 
 ---
@@ -68,9 +67,15 @@
 
 | Series | Aaj | MoM % | YoY % | QoQ % | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| Retail sales <br>`RSAFS` | **763,602$m** | -0.58 | +5.01 |  | 91 | 2026-07-01 |
+| Retail sales <br>`RSAFS` | **773,947$m** | +1.24 | +6.01 |  | 97 | 2026-08-01 |
 | Industrial production <br>`INDPRO` | **102.99idx** | +0.2 | +1.08 |  | 97 | 2026-07-01 |
 | Real GDP <br>`GDPC1` | **24,270$b** |  | +2.1 | +0.37 | - | 2026-04-01 |
+
+---
+
+## Jo nahi mili
+
+- `DGS2` — HTTP 500
 
 ---
 
@@ -81,7 +86,7 @@
 | Kya | Treasury | Tareekh | FRED | FRED ki tareekh |
 |---|---|---|---|---|
 | 10Y | **5.00** | 2026-09-15 **←nayi** | 4.97 | 2026-09-14 |
-| 2Y | **4.67** | 2026-09-15 **←nayi** | 4.65 | 2026-09-14 |
+| 2Y | **4.67** | 2026-09-15 | - | - |
 | 30Y | **5.36** | 2026-09-15 **←nayi** | 5.34 | 2026-09-14 |
 | 10Y real | **2.62** | 2026-09-15 **←nayi** | 2.60 | 2026-09-14 |
 | 5Y real | **2.42** | 2026-09-15 **←nayi** | 2.40 | 2026-09-14 |

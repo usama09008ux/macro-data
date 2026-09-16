@@ -1,28 +1,17 @@
 {
-  "generated_pkt": "16 Sep 2026 15:18",
+  "generated_pkt": "16 Sep 2026 21:59",
   "trading_day": "2026-09-16",
   "series": {
     "DFEDTARU": {
       "latest": 3.75,
-      "latest_date": "2026-09-15",
-      "n_obs": 1105,
+      "latest_date": "2026-09-16",
+      "n_obs": 1106,
       "changes": {
         "1d": 0.0,
         "5d": 0.0,
         "20d": 0.0
       },
       "percentile": 0
-    },
-    "DGS2": {
-      "latest": 4.65,
-      "latest_date": "2026-09-14",
-      "n_obs": 754,
-      "changes": {
-        "1d": 0.02,
-        "5d": 0.28,
-        "20d": 0.48
-      },
-      "percentile": 82
     },
     "DGS10": {
       "latest": 4.97,
@@ -124,26 +113,26 @@
       "percentile": 4
     },
     "VIXCLS": {
-      "latest": 17.1,
-      "latest_date": "2026-09-14",
-      "n_obs": 779,
+      "latest": 17.2,
+      "latest_date": "2026-09-15",
+      "n_obs": 780,
       "changes": {
-        "1d": 1.26,
-        "5d": 1.8,
-        "20d": 1.91
+        "1d": 0.1,
+        "5d": 1.48,
+        "20d": 1.36
       },
-      "percentile": 59
+      "percentile": 60
     },
     "BAMLH0A0HYM2": {
-      "latest": 2.71,
-      "latest_date": "2026-09-14",
-      "n_obs": 785,
+      "latest": 2.76,
+      "latest_date": "2026-09-15",
+      "n_obs": 786,
       "changes": {
-        "1d": 0.06,
-        "5d": 0.03,
+        "1d": 0.05,
+        "5d": 0.09,
         "20d": 0.01
       },
-      "percentile": 11
+      "percentile": 19
     },
     "STLFSI4": {
       "latest": -0.7884,
@@ -237,14 +226,14 @@
       "percentile": 10
     },
     "RSAFS": {
-      "latest": 763602.0,
-      "latest_date": "2026-07-01",
-      "n_obs": 35,
+      "latest": 773947.0,
+      "latest_date": "2026-08-01",
+      "n_obs": 36,
       "changes": {
-        "MoM %": -0.58,
-        "YoY %": 5.01
+        "MoM %": 1.24,
+        "YoY %": 6.01
       },
-      "percentile": 91
+      "percentile": 97
     },
     "INDPRO": {
       "latest": 102.9939,
@@ -326,5 +315,7 @@
       ]
     }
   },
-  "failures": {}
+  "failures": {
+    "DGS2": "HTTP 500"
+  }
 }
