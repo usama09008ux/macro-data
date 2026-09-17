@@ -1,8 +1,8 @@
 # News Pack — Trading Day 16 Sep 2026
 
 - Trading day: **16 Sep 03:00 -> 17 Sep 02:59 PKT**
-- Aakhri update: **17 Sep 04:53 PKT**
-- Kul khabrein: **1238**
+- Aakhri update: **17 Sep 08:41 PKT**
+- Kul khabrein: **1245**
 - Feeds: 39/39 OK
 
 ---
@@ -559,6 +559,11 @@ In a brisk Q&A, the new Fed chairman painted a sanguine picture of the economy a
 
 Warsh says Fed cares 'very much' about AI developments The Hill
   - `17 Sep 02:36` *gnews_fed* — Warsh says Fed cares 'very much' about AI developments - The Hill
+
+**U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - pbs.org**
+`17 Sep 02:32 PKT` · pehli baar dekhi `17 Sep 08:41` · gnews_fed
+
+U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way pbs.org
 
 **Federal Reserve Raises Federal Funds Rate By 25 Basis Points To 3.75%-4% Range As Warsh Says Inflation Remains Too High - Pulse 2.0**
 `17 Sep 02:28 PKT` · pehli baar dekhi `17 Sep 02:43` · gnews_fed
@@ -2156,9 +2161,10 @@ Bank of England under pressure to raise interest after US central bank hikes rat
 The Fed has raised its rate to 3.75-4.00%, its first increase since 2023 and its first move since the cut in December 2025. Bank Rate, the Bank of England's own rate, has been 3.75% since December 2025.
 
 **UK inflation rises to 5-month high, further pressuring Bank of England to raise rates this year - The Seattle Times**
-`16 Sep 23:08 PKT` · pehli baar dekhi `16 Sep 23:38` · gnews_centralbanks · **4 feeds mein**
+`16 Sep 23:08 PKT` · pehli baar dekhi `16 Sep 23:38` · gnews_centralbanks · **5 feeds mein**
 
 UK inflation rises to 5-month high, further pressuring Bank of England to raise rates this year The Seattle Times
+  - `16 Sep 22:20` *gnews_centralbanks* — UK inflation rises to 5-month high, further pressuring Bank of England to raise rates - naharnet.com
   - `16 Sep 16:37` *gnews_centralbanks* — UK inflation rises to 5-month high, further pressuring Bank of England to raise rates this year - Goshen News
   - `16 Sep 16:28` *gnews_centralbanks* — UK inflation rises to 5-month high, further pressuring Bank of England to raise rates this year - Ottumwa Courier
   - `16 Sep 15:30` *gnews_centralbanks* — UK inflation rises to 5-month high, further pressuring Bank of England to raise rates this year - economictimes.com
@@ -2169,6 +2175,13 @@ UK inflation rises to 5-month high, further pressuring Bank of England to raise 
 Trade union boss among Chancellor's appointments to Bank of England board London Evening Standard
   - `16 Sep 21:15` *gnews_centralbanks* — Trade union boss among Chancellor's appointments to Bank of England board - Yahoo Finance Singapore
   - `16 Sep 21:15` *gnews_centralbanks* — Trade union boss among Chancellor's appointments to Bank of England board - Newswav
+
+**Bank of England Vote Count Carries More Weight Than the Rate Hold - stonex.com**
+`16 Sep 21:15 PKT` · pehli baar dekhi `17 Sep 08:41` · gnews_centralbanks · **3 feeds mein**
+
+Bank of England Vote Count Carries More Weight Than the Rate Hold stonex.com
+  - `16 Sep 13:10` *gnews_centralbanks* — Bank of England Vote Count Carries More Weight Than the Rate Hold - stonex.com
+  - `16 Sep 10:53` *gnews_centralbanks* — Bank of England Vote Count Carries More Weight Than the Rate Hold - stonex.com
 
 **UK inflation rises to five-month high, putting pressure on Bank of England - Tribune Online**
 `16 Sep 20:42 PKT` · pehli baar dekhi `16 Sep 23:38` · gnews_centralbanks · **2 feeds mein**
@@ -2338,12 +2351,6 @@ What the latest inflation rise means for the Bank of England's rate call mpamag.
 `16 Sep 13:21 PKT` · pehli baar dekhi `16 Sep 15:01` · gnews_centralbanks
 
 UK Inflation Rises To 3.1% In August, BoE Seen Holding Rates BusinessToday Malaysia
-
-**Bank of England Vote Count Carries More Weight Than the Rate Hold - stonex.com**
-`16 Sep 13:10 PKT` · pehli baar dekhi `16 Sep 15:01` · gnews_centralbanks · **2 feeds mein**
-
-Bank of England Vote Count Carries More Weight Than the Rate Hold stonex.com
-  - `16 Sep 10:53` *gnews_centralbanks* — Bank of England Vote Count Carries More Weight Than the Rate Hold - stonex.com
 
 **UK inflation lands awkwardly for Bank of England ahead of rate decision - Proactive Investors**
 `16 Sep 12:45 PKT` · pehli baar dekhi `16 Sep 15:01` · gnews_centralbanks
@@ -3123,6 +3130,11 @@ China charges back into the oil market as Hormuz chaos sends crude toward $110 H
 
 U.S. crude oil inventories fell for a third consecutive week while gasoline and distillate stocks saw increases.
 
+**Fuel Oil and Diesel Prices Are at Record Highs as Iran Conflict Continues - The Institute for Energy Research**
+`16 Sep 20:13 PKT` · pehli baar dekhi `17 Sep 08:41` · gnews_geopolitics
+
+Fuel Oil and Diesel Prices Are at Record Highs as Iran Conflict Continues The Institute for Energy Research
+
 **U.S. Heating Oil Stockpiles Jump to 0.684M Barrels, Signaling Strong Inventory Build**
 `16 Sep 19:53 PKT` · instaforex
 
@@ -3340,6 +3352,11 @@ Danske Bank's Danske Research Team observes that global equities closed lower on
 `16 Sep 12:00 PKT` · pehli baar dekhi `16 Sep 15:01` · oilprice
 
 Tanker traffic in the Strait of Hormuz remains a fraction of pre-war levels, with four vessels traversing the waterway on Tuesday, down from seven the previous day, Reuters has reported, citing ship-tracking data. The data does not include tankers that have turned off their geolocation devices, the publication noted. Meanwhile, Windward reported just one tanker entering the Strait of Hormuz on September 15th—an oil product carrier.
+
+**Oil jumps amid US-Iran conflict, disrupts shipping - The Canberra Times**
+`16 Sep 11:39 PKT` · pehli baar dekhi `17 Sep 08:41` · gnews_geopolitics
+
+Oil jumps amid US-Iran conflict, disrupts shipping The Canberra Times
 
 **China Could Curb Fuel Exports as Diesel and Gasoline Stocks Sink**
 `16 Sep 10:45 PKT` · pehli baar dekhi `16 Sep 15:01` · oilprice
@@ -3802,6 +3819,11 @@ Federal Reserve begins two-day meeting as rate hike expected WQAD
 
 ### RISK
 
+**Iran War Hands OPEC's Swing Producer Crown to America: Bousso - EnergyNow**
+`17 Sep 02:42 PKT` · pehli baar dekhi `17 Sep 08:41` · gnews_geopolitics
+
+Iran War Hands OPEC's Swing Producer Crown to America: Bousso EnergyNow
+
 **Iran Vows to Respond to US Strikes, Says US Energy Companies' Facilities are 'Exposed' - EnergyNow.com**
 `17 Sep 02:38 PKT` · pehli baar dekhi `17 Sep 04:53` · gnews_geopolitics
 
@@ -4091,7 +4113,7 @@ Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies EnergyN
 
 Oil Ends Lower Ahead of U.S.-Iran Ceasefire Talks, Posts Steepest Weekly Loss Since 2022 EnergyNow.com
 
-### BINA TAG (340)
+### BINA TAG (341)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -4152,6 +4174,7 @@ Oil Ends Lower Ahead of U.S.-Iran Ceasefire Talks, Posts Steepest Weekly Loss Si
 - `17 Sep 00:17` **gnews_fed** — Smucker Statement on Federal Reserve's Decision to Raise Interest Rates - Congressman Lloyd Smucker (.gov)
 - `17 Sep 00:14` **gnews_fed** — Federal Reserve hikes key rate for 1st time in 3 years, defying Trump demands for a cut - Orlando Sentinel
 - `17 Sep 00:14` **aljazeera** — Jerusalem Daily: US to send $2.8BN worth of weapons to Israel
+- `17 Sep 00:01` **gnews_fed** — Federal Reserve raises interest rates for first time since 2023 - Yahoo Finance
 - `17 Sep 00:00` **gnews_fed** — Federal Reserve raises interest rates for first time since 2023 - Lehighvalleylive.com
 - `17 Sep 00:00` **gnews_fed** — Federal Reserve votes to raise interest rates for first time in 3 years: See how much they will go up - NJ.com
 - `16 Sep 23:57` **mw_topstories** — Google is playing a different AI game than everyone else, and Wall Street may be missing the point
@@ -4452,42 +4475,42 @@ investing_news (8)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 4 | 26 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 2 | 0 | 2 | 28 | 0.2 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.2 |
-| marketpulse | OK | 3 | 1 | 1 | 0 | 2 | 0.4 |
-| instaforex | OK | 25 | 25 | 10 | 15 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 7 | 2 | 5 | 29 | 0.0 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.3 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.1 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 6.2 |
+| investinglive | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 15 | 15 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 3 | 1 | 2 | 27 | 0.0 |
+| actionforex | OK | 20 | 20 | 7 | 13 | 0 | 0.0 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.6 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 8 | 1 | 7 | 28 | 0.0 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 6.4 |
 | kitco_general | OK | 30 | 29 | 0 | 29 | 1 | 0.1 |
-| gnews_fed | OK | 100 | 100 | 42 | 58 | 0 | 0.0 |
-| gnews_geopolitics | OK | 65 | 65 | 21 | 44 | 0 | 0.0 |
-| gnews_centralbanks | OK | 82 | 82 | 10 | 72 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 2 | 0 | 2 | 13 | 0.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 13.5 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.4 |
-| boj_whatsnew | OK | 43 | 2 | 1 | 1 | 41 | 0.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 13.8 |
-| mining_com | OK | 36 | 13 | 0 | 13 | 23 | 0.1 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| ing_think | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
-| bbc_business | OK | 52 | 26 | 6 | 20 | 26 | 0.0 |
-| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.3 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.5 |
-| eia_energy | OK | 16 | 0 | 0 | 0 | 16 | 1.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 13.5 |
-| wsj_world | OK | 73 | 17 | 0 | 17 | 56 | 0.1 |
-| wsj_markets | OK | 61 | 24 | 0 | 24 | 37 | 0.1 |
+| gnews_fed | OK | 100 | 100 | 28 | 72 | 0 | 0.0 |
+| gnews_geopolitics | OK | 64 | 64 | 8 | 56 | 0 | 0.0 |
+| gnews_centralbanks | OK | 82 | 82 | 11 | 71 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 2 | 0 | 2 | 13 | 0.4 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 13.6 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.8 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.6 |
+| boj_whatsnew | OK | 43 | 2 | 0 | 2 | 41 | 0.2 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 14.0 |
+| mining_com | OK | 36 | 14 | 1 | 13 | 22 | 0.2 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.2 |
+| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
+| ing_think | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
+| bbc_business | OK | 54 | 29 | 3 | 26 | 25 | 0.0 |
+| aljazeera | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.5 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.7 |
+| eia_energy | OK | 16 | 0 | 0 | 0 | 16 | 1.6 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 13.6 |
+| wsj_world | OK | 73 | 20 | 3 | 17 | 53 | 0.0 |
+| wsj_markets | OK | 61 | 26 | 4 | 22 | 35 | 0.1 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 7 | 1 | 6 | 42 | 0.3 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 20 | 0 | 20 | 10 | 0.1 |
+| yahoo_finance | OK | 48 | 6 | 0 | 6 | 42 | 0.5 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 22 | 2 | 20 | 8 | 0.0 |
