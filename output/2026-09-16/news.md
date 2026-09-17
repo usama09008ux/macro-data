@@ -1,8 +1,8 @@
 # News Pack — Trading Day 16 Sep 2026
 
 - Trading day: **16 Sep 03:00 -> 17 Sep 02:59 PKT**
-- Aakhri update: **17 Sep 08:41 PKT**
-- Kul khabrein: **1245**
+- Aakhri update: **17 Sep 13:55 PKT**
+- Kul khabrein: **1263**
 - Feeds: 39/39 OK
 
 ---
@@ -629,6 +629,11 @@ Fed raises interest rates for the first time in over 3 years CNN
 `17 Sep 01:45 PKT` · pehli baar dekhi `17 Sep 04:53` · gnews_fed
 
 Trump says he still has confidence in Fed Chair Warsh, demands 1% or lower interest rates CNBC
+
+**How will the Fed's interest rate hike affect costs, the midterms? - NPR**
+`17 Sep 01:45 PKT` · pehli baar dekhi `17 Sep 13:55` · gnews_fed
+
+How will the Fed's interest rate hike affect costs, the midterms? NPR
 
 **Here are five key takeaways from Wednesday's Fed rate hike - CNBC**
 `17 Sep 01:43 PKT` · pehli baar dekhi `17 Sep 02:43` · gnews_fed
@@ -2199,6 +2204,11 @@ The British Pound (GBP) trades just above 1.3450 on Wednesday, down 23 pips, aft
 
 Brown Brothers Harriman's (BBH) Elias Haddad notes GBP/USD is trading heavy near its 200-day moving average as United Kingdom (UK) gilts stabilize. August Consumer Price Index (CPI) slightly exceeded the Bank of England's (BoE) projections, but he still expects the BoE to hold rates at 3.75%.
 
+**UK inflation rises to 5-month high, further pressuring Bank of England to raise rates - livingstonenterprise.net**
+`16 Sep 19:44 PKT` · pehli baar dekhi `17 Sep 13:55` · gnews_centralbanks
+
+UK inflation rises to 5-month high, further pressuring Bank of England to raise rates livingstonenterprise.net
+
 **Bank of England set to keep interest rates on hold despite rising inflation - East Renfrewshire News**
 `16 Sep 19:35 PKT` · pehli baar dekhi `16 Sep 19:53` · gnews_centralbanks · **10 feeds mein**
 
@@ -2332,6 +2342,11 @@ UK Inflation Rises to 3.1% as Bank of England Rate Decision Looms Morningstar
 
 UK inflation rose in August, pushed up by higher petrol and diesel prices.
 
+**UK inflation: What is the rate and why are prices still rising? - BBC**
+`16 Sep 14:12 PKT` · pehli baar dekhi `17 Sep 13:55` · gnews_centralbanks
+
+UK inflation: What is the rate and why are prices still rising? BBC
+
 **GBP/USD Price Forecast: Fails near 1.3500 as bears eye 200-SMA ahead of Fed decision**
 `16 Sep 14:02 PKT` · pehli baar dekhi `16 Sep 15:01` · fxstreet_news
 
@@ -2451,16 +2466,24 @@ GBP/USD closed Tuesday near 1.3470, down 0.2%. Wednesday's Asian and London hour
 
 ### JPY
 
+**Bank of Japan set to raise rates under pressure from inflation, U.S. - Japan Today**
+`17 Sep 02:36 PKT` · pehli baar dekhi `17 Sep 13:55` · gnews_centralbanks · **5 feeds mein**
+
+Bank of Japan set to raise rates under pressure from inflation, U.S. Japan Today
+  - `16 Sep 14:49` *gnews_centralbanks* — Bank of Japan set to raise rates under pressure from inflation, US - TheReport.live
+  - `16 Sep 12:55` *gnews_centralbanks* — Bank of Japan set to raise rates under pressure from inflation, US - The Straits Times
+  - `16 Sep 11:22` *gnews_centralbanks* — Bank of Japan set to raise rates under pressure from inflation, US - NST Online
+  - `16 Sep 11:22` *gnews_centralbanks* — Bank of Japan set to raise rates under pressure from inflation, US - KLSE Screener
+
 **The Japanese Yen gives back more of its rally as the Fed raises rates**
 `17 Sep 02:18 PKT` · pehli baar dekhi `17 Sep 02:43` · fxstreet_news
 
 The Bank of Japan meets on Friday, and the market has a quarter-point hike to 1.25% priced at 100%. The Yen has been falling anyway. USD/JPY is up three sessions in a row, Wednesday's gain was the biggest of the three, and the pair is trading just under 156.50 after the Fed's hike to 3.75-4.00%.
 
 **Bank of Japan set to raise rates under pressure from inflation - Borneo Bulletin**
-`17 Sep 02:10 PKT` · pehli baar dekhi `17 Sep 02:43` · gnews_centralbanks · **2 feeds mein**
+`17 Sep 02:10 PKT` · pehli baar dekhi `17 Sep 02:43` · gnews_centralbanks
 
 Bank of Japan set to raise rates under pressure from inflation Borneo Bulletin
-  - `16 Sep 11:22` *gnews_centralbanks* — Bank of Japan set to raise rates under pressure from inflation, US - NST Online
 
 **USD/JPY Hits Seven-Month High as Bank of Japan Rate Hike - Coinfomania**
 `17 Sep 01:41 PKT` · pehli baar dekhi `17 Sep 02:43` · gnews_centralbanks
@@ -2494,13 +2517,6 @@ Bank of Japan gears to hike policy rate to highest level in 31 years Anadolu Aja
 `16 Sep 15:34 PKT` · pehli baar dekhi `16 Sep 19:53` · actionforex
 
 Intraday bias in USD/JPY remains mildly on the upside for the moment. Rebound from 152.87 short term bottom should continue to 38.2% retracement of 163.97 to 152.87 at 157.11. On the downside, break of 152.87 will extend the fall from 163.87 to 149.07 fibonacci level next. In the bigger picture, the break of 155.01 cluster [&#8230;] The post USD/JPY Daily Outlook appeared first on ActionForex.
-
-**Bank of Japan set to raise rates under pressure from inflation, US - TheReport.live**
-`16 Sep 14:49 PKT` · pehli baar dekhi `16 Sep 15:01` · gnews_centralbanks · **3 feeds mein**
-
-Bank of Japan set to raise rates under pressure from inflation, US TheReport.live
-  - `16 Sep 12:55` *gnews_centralbanks* — Bank of Japan set to raise rates under pressure from inflation, US - The Straits Times
-  - `16 Sep 11:22` *gnews_centralbanks* — Bank of Japan set to raise rates under pressure from inflation, US - KLSE Screener
 
 **Starbucks considers selling majority stake in its Japan business, sources say**
 `16 Sep 14:37 PKT` · pehli baar dekhi `16 Sep 15:01` · investing_news
@@ -3003,6 +3019,11 @@ Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days Li
 `17 Sep 01:00 PKT` · pehli baar dekhi `17 Sep 02:43` · oilprice
 
 The artificial intelligence boom is sending Southeast Asia's natural gas demand projections through the roof – but prolonged price hikes triggered by the war in Iran could turn the region toward renewable energies instead. What is more, these competing market forces are taking place against the backdrop of competing political forces as Southeast Asian leaders try to walk a tightrope between developing their economies through the increased growth of the tech sector as well as achieving their ...
+
+**Dollar Climbs as Markets Brace for Rate Decisions and Oil Surges Past $100 - وكالة الأنباء العمانية (العمانية)**
+`17 Sep 00:39 PKT` · pehli baar dekhi `17 Sep 13:55` · gnews_centralbanks
+
+Dollar Climbs as Markets Brace for Rate Decisions and Oil Surges Past $100 وكالة الأنباء العمانية (العمانية)
 
 **Beyond oil: How the Iran conflict exposes hidden vulnerabilities in the U.S. defense supply chain - Military Embedded Systems**
 `17 Sep 00:20 PKT` · pehli baar dekhi `17 Sep 02:43` · gnews_geopolitics
@@ -3599,9 +3620,10 @@ Houthis are the world's biggest new threat to global oil supply — and US ally 
 Oil Prices Rise as Hormuz Stays Shut Ahead of Trump Deadline, Strikes on Iran Intensify EnergyNow.com
 
 **Hormuz Risk Opens $40-Plus Price Gap Between Crude Grades**
-`16 Sep 03:00 PKT` · pehli baar dekhi `16 Sep 03:19` · oilprice
+`16 Sep 03:00 PKT` · pehli baar dekhi `16 Sep 03:19` · oilprice · **2 feeds mein**
 
 Back in late June, after the United States and Iran agreed to cease hostilities in the Persian Gulf for 60 days, oil prices took a dive. Two months later, Brent is trading at over $107 per barrel, and WTI is moving closer to $103, as a deep chasm opens up between the price for oil stuck in the Gulf and oil that can be moved with no threat of a drone or missile attack.
+  - `16 Sep 03:00` *yahoo_finance* — Hormuz Risk Opens $40-Plus Price Gap Between Crude Grades
 
 ### CRYPTO
 
@@ -3819,6 +3841,16 @@ Federal Reserve begins two-day meeting as rate hike expected WQAD
 
 ### RISK
 
+**Exxon, Chevron Warn of Continued High Fuel Prices From Iran War - EnergyNow.com**
+`17 Sep 02:46 PKT` · pehli baar dekhi `17 Sep 13:55` · gnews_geopolitics
+
+Exxon, Chevron Warn of Continued High Fuel Prices From Iran War EnergyNow.com
+
+**Market Analysts React to US-Israel Strikes on Iran - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com**
+`17 Sep 02:45 PKT` · pehli baar dekhi `17 Sep 13:55` · gnews_geopolitics
+
+Market Analysts React to US-Israel Strikes on Iran - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com
+
 **Iran War Hands OPEC's Swing Producer Crown to America: Bousso - EnergyNow**
 `17 Sep 02:42 PKT` · pehli baar dekhi `17 Sep 08:41` · gnews_geopolitics
 
@@ -3829,18 +3861,34 @@ Iran War Hands OPEC's Swing Producer Crown to America: Bousso EnergyNow
 
 Iran Vows to Respond to US Strikes, Says US Energy Companies' Facilities are 'Exposed' EnergyNow.com
 
+**How the Iran War Oil and Gas Supply Shock Compares with Past Disruptions - EnergyNow**
+`17 Sep 02:37 PKT` · pehli baar dekhi `17 Sep 13:55` · gnews_geopolitics
+
+How the Iran War Oil and Gas Supply Shock Compares with Past Disruptions EnergyNow
+
 **US DFC approves €85 million loan to Ukraine's DTEK**
 `17 Sep 02:30 PKT` · pehli baar dekhi `17 Sep 02:43` · investing_news
+
+**Global Oil Price Retreats After Hitting 4-Year High on Concern of US-Iran War Escalation - EnergyNow**
+`17 Sep 02:22 PKT` · pehli baar dekhi `17 Sep 13:55` · gnews_geopolitics · **2 feeds mein**
+
+Global Oil Price Retreats After Hitting 4-Year High on Concern of US-Iran War Escalation EnergyNow
+  - `17 Sep 02:15` *gnews_geopolitics* — Global Oil Price Retreats After Hitting 4-Year High on Concern of US-Iran War Escalation - EnergyNow.com
+
+**Oil Prices Fall After US and Iran Receive Framework Ceasefire Proposal - EnergyNow.com**
+`17 Sep 02:21 PKT` · pehli baar dekhi `17 Sep 13:55` · gnews_geopolitics
+
+Oil Prices Fall After US and Iran Receive Framework Ceasefire Proposal EnergyNow.com
+
+**Oil Prices Rise 3% as Iran War Stand-off Persists - EnergyNow**
+`17 Sep 02:15 PKT` · pehli baar dekhi `17 Sep 13:55` · gnews_geopolitics
+
+Oil Prices Rise 3% as Iran War Stand-off Persists EnergyNow
 
 **World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks - EnergyNow.com**
 `17 Sep 02:15 PKT` · pehli baar dekhi `17 Sep 04:53` · gnews_geopolitics
 
 World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks EnergyNow.com
-
-**Global Oil Price Retreats After Hitting 4-Year High on Concern of US-Iran War Escalation - EnergyNow.com**
-`17 Sep 02:15 PKT` · pehli baar dekhi `17 Sep 04:53` · gnews_geopolitics
-
-Global Oil Price Retreats After Hitting 4-Year High on Concern of US-Iran War Escalation EnergyNow.com
 
 **Inside Putin's $135 Billion Arctic Gamble That Could Save His Ukraine War**
 `17 Sep 02:00 PKT` · pehli baar dekhi `17 Sep 02:43` · oilprice
@@ -4113,7 +4161,7 @@ Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies EnergyN
 
 Oil Ends Lower Ahead of U.S.-Iran Ceasefire Talks, Posts Steepest Weekly Loss Since 2022 EnergyNow.com
 
-### BINA TAG (341)
+### BINA TAG (347)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -4169,6 +4217,7 @@ Oil Ends Lower Ahead of U.S.-Iran Ceasefire Talks, Posts Steepest Weekly Loss Si
 - `17 Sep 00:37` **investing_commodities** — Northwest European gasoline margins climb on Wednesday
 - `17 Sep 00:36` **gnews_fed** — Expert offers debt advice after Federal Reserve raises interest rates - WJLA
 - `17 Sep 00:32` **gnews_fed** — Federal Reserve hikes interest rates 0.25% - MS NOW
+- `17 Sep 00:31` **gnews_fed** — Federal Reserve hikes key rate for 1st time in 3 years, defying Trump demands for a cut - wtop.com
 - `17 Sep 00:30` **gnews_fed** — Federal Reserve hikes key rate for 1st time in 3 years, defying Trump demands for a cut - Charleston Gazette-Mail
 - `17 Sep 00:18` **gnews_fed** — U.S. Federal Reserve raises interest rates for 1st time in 3 years - CBC
 - `17 Sep 00:17` **gnews_fed** — Smucker Statement on Federal Reserve's Decision to Raise Interest Rates - Congressman Lloyd Smucker (.gov)
@@ -4233,6 +4282,7 @@ Oil Ends Lower Ahead of U.S.-Iran Ceasefire Talks, Posts Steepest Weekly Loss Si
 - `16 Sep 22:11` **gnews_fed** — Census: Median household income hits record $87k in 2025 as poverty rate falls to 10.2% - KATU
 - `16 Sep 22:10` **gnews_fed** — Census: Median household income hits record $87k in 2025 as poverty rate falls to 10.2% - KOMO
 - `16 Sep 22:00` **aljazeera** — Neturei Karta: Opposing Zionism
+- `16 Sep 21:58` **gnews_centralbanks** — Maltese banks signal no immediate rise in borrowing costs - TVMnews.mt
 - `16 Sep 21:57` **aljazeera** — Can the US government punish a university for boycotting Israel?
 - `16 Sep 21:52` **mining_com** — EU objects to MMG's Anglo American nickel deal
 - `16 Sep 21:51` **gnews_centralbanks** — Rates Spark: US 10yr likely gets above and stays above 5% ahead - think.ing.com
@@ -4447,16 +4497,20 @@ Oil Ends Lower Ahead of U.S.-Iran Ceasefire Talks, Posts Steepest Weekly Loss Si
 - `16 Sep 05:00` **gnews_fed** — Watch Federal Reserve Expected to Raise Interest Rates - bloomberg.com
 - `16 Sep 04:40` **bbc_business** — Do you feel guilty when calling in sick at work? This might be why...
 - `16 Sep 04:39` **bbc_business** — Why doomsday warnings are not the only threat to the AI juggernaut
+- `16 Sep 04:30` **yahoo_finance** — This High-Yield Construction Stock Just Raised Its Dividend by 40%
 - `16 Sep 04:30` **wsj_economy** — American business owners are grappling with a thorny question: are high energy costs a temporary nuisance to wait out, or a long-term economic reality that calls for price hikes?
 - `16 Sep 04:27` **bbc_business** — AI app ads promoting 'objectification of women' banned by watchdog
 - `16 Sep 04:19` **bbc_business** — The extreme engineering of aircraft windows
 - `16 Sep 04:14` **bbc_business** — We are all new job starters - here's how we got through the first few days
 - `16 Sep 04:14` **bbc_business** — Complaints to watchdog about water firms jump 84%
 - `16 Sep 04:09` **mw_topstories** — Medicare is using AI to approve claims. The result has been 'alarmingly high denial rates.'
+- `16 Sep 04:02` **yahoo_finance** — The Grid's Wasted-Power Problem Has a Sector-Coupling Fix
 - `16 Sep 04:00` **gnews_fed** — CCTV Script 15/09/26 - CNBC
+- `16 Sep 03:46` **yahoo_finance** — Americans' Median Household Income Hit a Record High in 2025
 - `16 Sep 03:39` **wsj_world** — Ed Sheeran's Opening Acts Quit in Solidarity With Pro-Palestinian Performer
 - `16 Sep 03:21` **aljazeera** — Ed Sheeran blames US tour promoter for dropping Macklemore
 - `16 Sep 03:13` **bbc_business** — Nvidia boss says AI 'doesn't need new laws' as safety concerns grow
+- `16 Sep 03:09` **yahoo_finance** — Jim Cramer Defends Intuit (INTU) Against AI Skeptics Ahead of Investor Day
 - `16 Sep 03:01` **aljazeera** — Algeria faces calls to drop death penalty plans after wildfires
 
 ---
@@ -4475,42 +4529,42 @@ investing_news (8)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 15 | 15 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 3 | 1 | 2 | 27 | 0.0 |
-| actionforex | OK | 20 | 20 | 7 | 13 | 0 | 0.0 |
-| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.6 |
+| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 30 | 0 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 3 | 0 | 3 | 27 | 0.2 |
+| actionforex | OK | 20 | 20 | 8 | 12 | 0 | 0.0 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.8 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 8 | 1 | 7 | 28 | 0.0 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 6.4 |
-| kitco_general | OK | 30 | 29 | 0 | 29 | 1 | 0.1 |
-| gnews_fed | OK | 100 | 100 | 28 | 72 | 0 | 0.0 |
-| gnews_geopolitics | OK | 64 | 64 | 8 | 56 | 0 | 0.0 |
-| gnews_centralbanks | OK | 82 | 82 | 11 | 71 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 2 | 0 | 2 | 13 | 0.4 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 13.6 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.8 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.6 |
-| boj_whatsnew | OK | 43 | 2 | 0 | 2 | 41 | 0.2 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 14.0 |
-| mining_com | OK | 36 | 14 | 1 | 13 | 22 | 0.2 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.2 |
-| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
-| ing_think | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
-| bbc_business | OK | 54 | 29 | 3 | 26 | 25 | 0.0 |
-| aljazeera | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.5 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.7 |
-| eia_energy | OK | 16 | 0 | 0 | 0 | 16 | 1.6 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 13.6 |
-| wsj_world | OK | 73 | 20 | 3 | 17 | 53 | 0.0 |
-| wsj_markets | OK | 61 | 26 | 4 | 22 | 35 | 0.1 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 48 | 6 | 0 | 6 | 42 | 0.5 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
-| cointelegraph | OK | 30 | 22 | 2 | 20 | 8 | 0.0 |
+| wsj_economy | OK | 36 | 9 | 1 | 8 | 27 | 0.0 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.7 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.5 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 6.6 |
+| kitco_general | OK | 28 | 28 | 0 | 28 | 0 | 0.4 |
+| gnews_fed | OK | 100 | 100 | 27 | 73 | 0 | 0.0 |
+| gnews_geopolitics | OK | 58 | 58 | 16 | 42 | 0 | 0.0 |
+| gnews_centralbanks | OK | 100 | 100 | 49 | 51 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 2 | 0 | 2 | 13 | 0.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 13.9 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 1.0 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.8 |
+| boj_whatsnew | OK | 43 | 3 | 1 | 2 | 40 | 0.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 14.2 |
+| mining_com | OK | 36 | 14 | 0 | 14 | 22 | 0.4 |
+| oilprice | OK | 15 | 15 | 3 | 12 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| ing_think | OK | 10 | 9 | 1 | 8 | 1 | 0.1 |
+| bbc_business | OK | 48 | 31 | 3 | 28 | 17 | 0.0 |
+| aljazeera | OK | 25 | 25 | 14 | 11 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.7 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.9 |
+| eia_energy | OK | 16 | 0 | 0 | 0 | 16 | 1.8 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 13.9 |
+| wsj_world | OK | 73 | 20 | 1 | 19 | 53 | 0.0 |
+| wsj_markets | OK | 61 | 28 | 6 | 22 | 33 | 0.0 |
+| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 12 | 5 | 7 | 38 | 0.7 |
+| mw_topstories | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 24 | 2 | 22 | 6 | 0.1 |
