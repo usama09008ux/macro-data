@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "17 Sep 2026 05:51",
+  "generated_pkt": "17 Sep 2026 15:14",
   "trading_day": "2026-09-17",
   "feed_sources": {
     "thisweek": "live"
@@ -890,6 +890,19 @@
       "trading_day": "2026-09-17"
     },
     {
+      "title": "Spanish 10-y Bond Auction",
+      "ccy": "EUR",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "3.74|2.3",
+      "url": "https://www.forexfactory.com/calendar/525-sp-10-y-bond-auction",
+      "all_day": false,
+      "utc": "2026-09-17T08:37Z",
+      "pkt": "17 Sep 13:37",
+      "pkt_iso": "2026-09-17T13:37:00+05:00",
+      "trading_day": "2026-09-17"
+    },
+    {
       "title": "Final Core CPI y/y",
       "ccy": "EUR",
       "impact": "Low",
@@ -913,19 +926,6 @@
       "utc": "2026-09-17T09:00Z",
       "pkt": "17 Sep 14:00",
       "pkt_iso": "2026-09-17T14:00:00+05:00",
-      "trading_day": "2026-09-17"
-    },
-    {
-      "title": "Spanish 10-y Bond Auction",
-      "ccy": "EUR",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "3.74|2.3",
-      "url": "https://www.forexfactory.com/calendar/525-sp-10-y-bond-auction",
-      "all_day": false,
-      "utc": "2026-09-17T09:03Z",
-      "pkt": "17 Sep 14:03",
-      "pkt_iso": "2026-09-17T14:03:00+05:00",
       "trading_day": "2026-09-17"
     },
     {
