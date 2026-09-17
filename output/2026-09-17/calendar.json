@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "17 Sep 2026 15:14",
+  "generated_pkt": "17 Sep 2026 20:55",
   "trading_day": "2026-09-17",
   "feed_sources": {
     "thisweek": "live"
@@ -1371,5 +1371,61 @@
       "trading_day": "2026-09-19"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US August pending home sales +0.3% vs -0.6% expected",
+      "actual_raw": "+0.3%",
+      "forecast_raw": "-0.6%",
+      "beat": true,
+      "raw_diff": "+0.90pp",
+      "sign_flip": true,
+      "diff_pct": null,
+      "when_pkt": "17 Sep 19:01",
+      "source": "investinglive",
+      "tags": []
+    },
+    {
+      "title": "US initial jobless claims come in at 196K vs 208K estimate",
+      "actual_raw": "196K",
+      "forecast_raw": "208K",
+      "beat": false,
+      "raw_diff": "-12.0K",
+      "sign_flip": false,
+      "diff_pct": -5.8,
+      "when_pkt": "17 Sep 17:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US August housing starts 1.275m vs 1.309m expected",
+      "actual_raw": "1.275m",
+      "forecast_raw": "1.309m",
+      "beat": false,
+      "raw_diff": "-0.0M",
+      "sign_flip": false,
+      "diff_pct": -2.6,
+      "when_pkt": "17 Sep 17:30",
+      "source": "investinglive",
+      "tags": [
+        "risk",
+        "usd"
+      ]
+    },
+    {
+      "title": "US September Philly Fed business index +37.8 vs +30.5 expected",
+      "actual_raw": "+37.8",
+      "forecast_raw": "+30.5",
+      "beat": true,
+      "raw_diff": "+7.30",
+      "sign_flip": false,
+      "diff_pct": 23.9,
+      "when_pkt": "17 Sep 17:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }
