@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "18 Sep 2026 05:44",
+  "generated_pkt": "18 Sep 2026 14:57",
   "trading_day": "2026-09-18",
   "feed_sources": {
     "thisweek": "live"
@@ -994,6 +994,19 @@
       "trading_day": "2026-09-17"
     },
     {
+      "title": "NHPI m/m",
+      "ccy": "CAD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-0.1%",
+      "url": "https://www.forexfactory.com/calendar/259-ca-nhpi-mm",
+      "all_day": false,
+      "utc": "2026-09-17T12:30Z",
+      "pkt": "17 Sep 17:30",
+      "pkt_iso": "2026-09-17T17:30:00+05:00",
+      "trading_day": "2026-09-17"
+    },
+    {
       "title": "RMPI m/m",
       "ccy": "CAD",
       "impact": "Low",
@@ -1157,9 +1170,9 @@
       "previous": "<1.00%",
       "url": "https://www.forexfactory.com/calendar/641-jn-boj-policy-rate",
       "all_day": false,
-      "utc": "2026-09-18T02:30Z",
-      "pkt": "18 Sep 07:30",
-      "pkt_iso": "2026-09-18T07:30:00+05:00",
+      "utc": "2026-09-18T02:54Z",
+      "pkt": "18 Sep 07:54",
+      "pkt_iso": "2026-09-18T07:54:00+05:00",
       "trading_day": "2026-09-18"
     },
     {
@@ -1170,22 +1183,9 @@
       "previous": "",
       "url": "https://www.forexfactory.com/calendar/371-jn-monetary-policy-statement",
       "all_day": false,
-      "utc": "2026-09-18T02:30Z",
-      "pkt": "18 Sep 07:30",
-      "pkt_iso": "2026-09-18T07:30:00+05:00",
-      "trading_day": "2026-09-18"
-    },
-    {
-      "title": "BOJ Press Conference",
-      "ccy": "JPY",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
-      "url": "https://www.forexfactory.com/calendar/20-jn-boj-press-conference",
-      "all_day": false,
-      "utc": "2026-09-18T05:30Z",
-      "pkt": "18 Sep 10:30",
-      "pkt_iso": "2026-09-18T10:30:00+05:00",
+      "utc": "2026-09-18T02:54Z",
+      "pkt": "18 Sep 07:54",
+      "pkt_iso": "2026-09-18T07:54:00+05:00",
       "trading_day": "2026-09-18"
     },
     {
@@ -1215,16 +1215,16 @@
       "trading_day": "2026-09-18"
     },
     {
-      "title": "Foreign Direct Investment ytd/y",
-      "ccy": "CNY",
-      "impact": "Low",
+      "title": "BOJ Press Conference",
+      "ccy": "JPY",
+      "impact": "High",
       "forecast": "",
-      "previous": "-6.2%",
-      "url": "https://www.forexfactory.com/calendar/457-ch-foreign-direct-investment-ytdy",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/20-jn-boj-press-conference",
       "all_day": false,
-      "utc": "2026-09-18T06:02Z",
-      "pkt": "18 Sep 11:02",
-      "pkt_iso": "2026-09-18T11:02:00+05:00",
+      "utc": "2026-09-18T06:30Z",
+      "pkt": "18 Sep 11:30",
+      "pkt_iso": "2026-09-18T11:30:00+05:00",
       "trading_day": "2026-09-18"
     },
     {

@@ -761,6 +761,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/90-ca-ippi-mm]]></url>
 	</event>
 	<event>
+		<title>NHPI m/m</title>
+		<country>CAD</country>
+		<date><![CDATA[09-17-2026]]></date>
+		<time><![CDATA[12:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[-0.1%]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/259-ca-nhpi-mm]]></url>
+	</event>
+	<event>
 		<title>RMPI m/m</title>
 		<country>CAD</country>
 		<date><![CDATA[09-17-2026]]></date>
@@ -884,7 +894,7 @@
 		<title>BOJ Policy Rate</title>
 		<country>JPY</country>
 		<date><![CDATA[09-18-2026]]></date>
-		<time><![CDATA[2:30am]]></time>
+		<time><![CDATA[2:54am]]></time>
 		<impact><![CDATA[High]]></impact>
 		<forecast><![CDATA[<1.25%]]></forecast>
 		<previous><![CDATA[<1.00%]]></previous>
@@ -894,21 +904,11 @@
 		<title>Monetary Policy Statement</title>
 		<country>JPY</country>
 		<date><![CDATA[09-18-2026]]></date>
-		<time><![CDATA[2:30am]]></time>
+		<time><![CDATA[2:54am]]></time>
 		<impact><![CDATA[High]]></impact>
 		<forecast />
 		<previous />
 		<url><![CDATA[https://www.forexfactory.com/calendar/371-jn-monetary-policy-statement]]></url>
-	</event>
-	<event>
-		<title>BOJ Press Conference</title>
-		<country>JPY</country>
-		<date><![CDATA[09-18-2026]]></date>
-		<time><![CDATA[5:30am]]></time>
-		<impact><![CDATA[High]]></impact>
-		<forecast />
-		<previous />
-		<url><![CDATA[https://www.forexfactory.com/calendar/20-jn-boj-press-conference]]></url>
 	</event>
 	<event>
 		<title>German PPI m/m</title>
@@ -931,14 +931,14 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/105-uk-retail-sales-mm]]></url>
 	</event>
 	<event>
-		<title>Foreign Direct Investment ytd/y</title>
-		<country>CNY</country>
+		<title>BOJ Press Conference</title>
+		<country>JPY</country>
 		<date><![CDATA[09-18-2026]]></date>
-		<time><![CDATA[6:02am]]></time>
-		<impact><![CDATA[Low]]></impact>
+		<time><![CDATA[6:30am]]></time>
+		<impact><![CDATA[High]]></impact>
 		<forecast />
-		<previous><![CDATA[-6.2%]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/457-ch-foreign-direct-investment-ytdy]]></url>
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/20-jn-boj-press-conference]]></url>
 	</event>
 	<event>
 		<title>Current Account</title>
