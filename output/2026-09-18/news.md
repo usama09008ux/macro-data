@@ -1,22 +1,92 @@
 # News Pack — Trading Day 18 Sep 2026
 
 - Trading day: **18 Sep 03:00 -> 19 Sep 02:59 PKT**
-- Aakhri update: **18 Sep 11:36 PKT**
-- Kul khabrein: **310**
-- Feeds: 38/39 OK
+- Aakhri update: **18 Sep 16:48 PKT**
+- Kul khabrein: **472**
+- Feeds: 34/39 OK
 
 ---
 
 ## Sarkari / Exchange
 
+**Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026**
+`18 Sep 16:00 PKT` · pehli baar dekhi `18 Sep 16:48` · boe_news
+
+The Transaction and Post-trade Reporting Harmonisation Taskforce, through its three working groups, will help inform the design of the Bank and FCA's long-term approach to harmonising UK MiFIR, UK EMIR and UK SFTR reporting requirements
+
+**ECB Consumer Expectations Survey results – August 2026**
+`18 Sep 13:00 PKT` · pehli baar dekhi `18 Sep 16:48` · ecb_press
+
 **Boris Vujčić: Interview with Reuters**
 `18 Sep 11:00 PKT` · pehli baar dekhi `18 Sep 11:36` · ecb_press
+
+**Change in the Guideline for Money Market Operations**
+`18 Sep 08:40 PKT` · pehli baar dekhi `18 Sep 16:48` · boj_whatsnew
+
+**Amendment to "Principal Terms and Conditions of Complementary Deposit Facility"**
+`18 Sep 08:30 PKT` · pehli baar dekhi `18 Sep 16:48` · boj_whatsnew
+
+**Amendment to "Principal Terms and Conditions of the Funds-Supplying Operations to Support Financing for Climate Change Responses"**
+`18 Sep 08:15 PKT` · pehli baar dekhi `18 Sep 16:48` · boj_whatsnew
+
+**(Reference) Change in the Guideline for Money Market Operations (September 2026 MPM)**
+`18 Sep 07:54 PKT` · pehli baar dekhi `18 Sep 16:48` · boj_whatsnew
 
 ---
 
 ## Khabrein
 
 ### MARKET WRAP
+
+**Euro Nears July Low as Markets Scale Back ECB Rate-Hike Bets**
+`18 Sep 16:48 PKT` · instaforex
+
+The euro slipped to just below $1.15, hovering near its weakest level since late July, and was down nearly 1% against the US dollar as traders pared back expectations for additional ECB interest rate hikes. This retreat in rate bets came even as the Federal Reserve adopted a more hawkish stance, raising rates this week and indicating room for further tightening, following a similar move by the ECB last week.
+
+**UK Gilt Yields Rebound on Strong Retail Sales**
+`18 Sep 16:48 PKT` · instaforex
+
+UK 10-year gilt yields climbed to 5.25% on Friday, reversing part of the more than 10 bps decline seen in the previous session, as markets absorbed stronger-than-expected retail data and a week of major central bank decisions. August retail sales rose 0.5%, confounding forecasts for a 0.2% drop and rebounding from July's decline.
+
+**Gold (XAU/USD) extends gains as focus shifts to Trump meeting with Gulf leaders to discuss Iran war**
+`18 Sep 16:26 PKT` · pehli baar dekhi `18 Sep 16:48` · investinglive
+
+FUNDAMENTAL OVERVIEW Gold extended the gains after the market faded the hawkish overreaction to the FOMC decision. The most important thing was the projection of just one more rate hike. In my opinion, this reflects a low appetite for tightening. Looking ahead, I would carefully watch the situation in the Middle East as $100 oil, rate hikes and elevated bond yields might put more pressure on Trump to end the war.
+
+**Fx Punishes Indecision**
+`18 Sep 15:50 PKT` · pehli baar dekhi `18 Sep 16:48` · actionforex
+
+Decisions by the BoJ and the BoE have weighed on their respective currencies. A resurgence of interest in US assets is supporting the dollar. Following a brief pullback on Thursday, the US dollar resumed its upward trend on the back of the Fed's hawkish stance. Rival central banks have so far failed to adopt a [&#8230;] The post Fx Punishes Indecision appeared first on ActionForex.
+
+**Ethereum is approaching the key $2,560 resistance again: Will it finally break out of the range?**
+`18 Sep 15:29 PKT` · pehli baar dekhi `18 Sep 16:48` · investinglive
+
+FUNDAMENTAL OVERVIEW Ethereum's Glamsterdam upgrade cleared an important private rehearsal this week ahead of the October 6 Sepolia testnet launch. The test successfully ran under the new block-building rules, while Nethermind completed 2,302 performance tests. Developers also tested a 200 million gas block limit versus roughly 60 million currently in the test environment.
+
+**Australian Dollar soars against Japanese Yen as BoJ rate hike disappoints hawks**
+`18 Sep 14:55 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+AUD/JPY jumps on Friday and trades around 112.60 at the time of writing, up 1.54% on the day. The Australian Dollar (AUD) benefits from a sharp decline in the Japanese Yen (JPY), despite the Bank of Japan (BoJ) raising its policy rate to the highest level since 1995.
+
+**Silver soars by more than 7% as the Fed's dot plot shows low appetite for rate hikes**
+`18 Sep 14:38 PKT` · pehli baar dekhi `18 Sep 16:48` · investinglive
+
+FUNDAMENTAL OVERVIEW Silver briefly slipped below the key $63.00 support on the FOMC decision, but the move was quickly reversed. The Fed delivered the widely expected 25 bps rate hike and projected one additional hike in 2026. The central bank then sees rates remaining unchanged throughout 2027 before resuming cuts in 2028. Interestingly, the initial market reaction was hawkish despite the Fed's projections being less aggressive than what markets had priced.
+
+**Zcash surges by more than 45% this week as the $12 billion firm Paradigm discloses ZEC stake**
+`18 Sep 13:46 PKT` · pehli baar dekhi `18 Sep 16:48` · investinglive
+
+FUNDAMENTAL OVERVIEW Zcash rallied by more than 45% this week on a couple of key idiosyncratic catalysts. The community's NU7 governance vote overwhelmingly supported keeping Bitcoin-style halvings while reducing block times to 25 seconds. That provided additional clarity around Zcash's monetary policy and upcoming network upgrade. But the most significant news was Paradigm disclosing that it owns ZEC, with co-founder Matt Huang describing Zcash as a privacy-focused complement to Bitcoin.
+
+**European stock market open: Stocks slip as investors take a breather after post-Fed rebound**
+`18 Sep 12:21 PKT` · pehli baar dekhi `18 Sep 16:48` · investinglive
+
+European equities are opening modestly lower on Friday, giving back a small part of yesterday's post-Fed rebound. The moves are relatively contained across the board: Eurostoxx -0.2% Germany DAX -0.4% France CAC 40 -0.4% UK FTSE -0.3% Spain IBEX -0.4% Italy FTSE MIB -0.3% This looks more like some light profit-taking and consolidation rather than any fresh risk-off sentiment in the market to start the day.
+
+**BOJ governor Ueda says spring wage talks key to judging inflation trend**
+`18 Sep 12:11 PKT` · pehli baar dekhi `18 Sep 16:48` · investinglive
+
+The added comments from BOJ governor in his press conference today: We are paying attention to FY2027 wage talks Spring wage negotiations in FY2027 will be key in determining whether trend inflation stabilises Need to avoid negative effects caused by any drastic rate hike Need to also avoid negative impact on financial conditions from excessively fast tightening Today's vote count as a result of constructive discussion among board members Will not conduct monetary policy with any concern in ...
 
 **German Producer Inflation Hits Over 3-Year High**
 `18 Sep 11:36 PKT` · instaforex
@@ -27,6 +97,11 @@ Germany's producer prices rose by 4.6% year-on-year in August 2026, the fifth co
 `18 Sep 11:36 PKT` · instaforex
 
 The Indian rupee firmed to around 95.7 per US dollar, rebounding from seven‑week lows, supported by softer crude oil prices, expectations of foreign portfolio inflows linked to the National Stock Exchange's $2.3 billion IPO, and likely intervention by the Reserve Bank of India (RBI). Brent crude declined for a third consecutive session to about $104.1 per barrel, as optimism over alternative routes for Middle Eastern oil deliveries helped offset supply concerns.
+
+**What are the main events for today?**
+`18 Sep 11:33 PKT` · pehli baar dekhi `18 Sep 16:48` · investinglive
+
+EUROPEAN SESSION In the European session, we don't have much on the agenda other than a couple of low-tier releases like the Eurozone current account and Italian construction output. The data won't change anything for the ECB, so the market reaction will likely be muted. AMERICAN SESSION In the American session, we get the US industrial production data but it's not going to change anything for the Fed, so the market reaction is going to be muted.
 
 **Bank of Japan Hikes and Bank of England on Hold**
 `18 Sep 11:23 PKT` · pehli baar dekhi `18 Sep 11:36` · actionforex
@@ -95,6 +170,35 @@ The Australian Dollar recovered some ground versus the US Dollar on Thursday, fo
 
 ### GOLD
 
+**Gold eyes weekly gain, but hawkish Fed outlook limits upside**
+`18 Sep 16:32 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+Gold (XAU/USD) struggles to move above the $4,400 level on Friday as the Federal Reserve's (Fed) hawkish policy outlook keeps the US Dollar (USD) firmly bid.
+
+**Silver price today, Friday, September 18, 2026: Silver prices recover quickly, hitting weekly high today**
+`18 Sep 16:08 PKT` · pehli baar dekhi `18 Sep 16:48` · yahoo_finance
+
+**Gold price today, Friday, September 18, 2026: Gold hits weekly high as inflation concerns fade**
+`18 Sep 15:48 PKT` · pehli baar dekhi `18 Sep 16:48` · yahoo_finance
+
+**What Fed rate hikes mean for gold prices in 2027, according to Goldman**
+`18 Sep 15:34 PKT` · pehli baar dekhi `18 Sep 16:48` · investing_commodities
+
+**Silver price today: Silver rises, according to FXStreet data**
+`18 Sep 14:45 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+Silver prices (XAG/USD) rose on Friday, according to FXStreet data. Silver trades at $67.18 per troy ounce, up 3.03% from the $65.21 it cost on Thursday.
+
+**Gold Price Forecast: XAU/USD appreciates to $4,400 as yields retreat**
+`18 Sep 14:41 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+Gold (XAU/USD) extends gains for the second consecutive day on Friday as the pullback in US Treasury yields has offset the negative impact of the hawkish hike delivered by the Federal Reserve (Fed) earlier this week.
+
+**Silver Correction Ends at 62.27—Can 68.32 Unlock the Path to 80.32?**
+`18 Sep 13:47 PKT` · pehli baar dekhi `18 Sep 16:48` · actionforex
+
+Silver's correction from 71.16 completed as a three-wave decline to 62.27, well above the $60 danger zone, with a firm break of 68.32 now the near-term test for whether the broader advance from 54.77 is resuming toward 80.32. The post Silver Correction Ends at 62.27—Can 68.32 Unlock the Path to 80.32? appeared first on ActionForex.
+
 **Venezuela nears deal to move $4 billion gold reserve to New York, FT says**
 `18 Sep 10:42 PKT` · pehli baar dekhi `18 Sep 11:36` · investing_commodities · **2 feeds mein**
   - `18 Sep 09:00` *gnews_fed* — Venezuela nears deal to move $4bn gold reserve to New York - ft.com
@@ -138,6 +242,79 @@ Gold Holds Gain as Lower Oil and Fed Hike Temper Inflation Fears Bloomberg.com
 UBS's view that further hikes remain likely this year points to continued support for the US dollar and real yields, a combination that raises the opportunity cost of holding gold and could see some of August's ETF inflows unwind in the near term. Longer term, the bank argues gold's investment case remains intact, underpinned by rising global debt, an expected weaker dollar and the prospect of rate cuts next year.
 
 ### USD
+
+**US 10-Year Treasury Yield Below Recent Highs**
+`18 Sep 16:48 PKT` · instaforex
+
+The yield on the US 10-year Treasury note rose 2 bps to 4.95% on Friday, partially retracing an 8 bps decline in the previous session, as investors continued to digest the Federal Reserve's latest policy decision and its implications. As expected, the Fed raised the federal funds rate target range by 25 bps to 3.75%–4.00%, and signaled that at least one additional rate increase is likely this year.
+
+**Poland Producer Inflation Highest Since 2023**
+`18 Sep 16:48 PKT` · instaforex
+
+Poland's annual producer inflation accelerated to 4.2% in August 2026, up from an upwardly revised 3.1% in July and above market expectations of 3.6%. This was the sixth consecutive month of producer price increases and the highest rate since April 2023. The rise was driven by faster price growth in mining and quarrying (6.4% vs 4% in July), manufacturing (4.6% vs 3.5%), and electricity, gas, steam and hot water supply (1.4% vs 0.3%).
+
+**US Dollar: Oil drives Dollar upside risks – ING**
+`18 Sep 16:42 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+ING strategist Francesco Pesole notes that moderating Oil prices have slightly cooled the Dollar's post-FOMC momentum, but still sees upside risks for the Dollar after the Federal Reserve's hawkish message.
+
+**U.K. Retail Sales Climbed Despite Inflation Pickup**
+`18 Sep 15:13 PKT` · pehli baar dekhi `18 Sep 16:48` · wsj_economy
+
+Retail sales rebounded in August, helped by online sales, as consumers shrugged off recently rising inflation.
+
+**The Fed's never been so confident on economic growth. What investors should do now, according to KKR.**
+`18 Sep 15:08 PKT` · pehli baar dekhi `18 Sep 16:48` · mw_topstories
+
+Members of the Federal Open Market Committee showed their lowest level of worry about gross domestic product growth since it first started releasing its outlook.
+
+**The Fed hasn't been this terse since 2007. What a 130-word statement signals for market stability.**
+`18 Sep 15:08 PKT` · pehli baar dekhi `18 Sep 16:48` · mw_topstories
+
+Bank of America calculates this week's Federal Open Market Committee statement explaining the decision to lift interest rates by a quarter-point as its most terse, at just 130 words, since 2007.
+
+**Mortgage and refinance interest rates today, Friday, September 18, 2026: Rates mostly higher following the Fed**
+`18 Sep 15:00 PKT` · pehli baar dekhi `18 Sep 16:48` · yahoo_finance
+
+**Gold price claws back toward $4,400 after dodging a deeper technical breakdown - what's next?**
+`18 Sep 14:28 PKT` · pehli baar dekhi `18 Sep 16:48` · investinglive
+
+Gold is stitching together a decent recovery over the last two days, with prices now closing back in on the $4,400 mark. I would say part of that is coming from a calmer backdrop in broader markets. Oil prices have eased and 10-year Treasury yields have slipped back below 5%, taking some of the pressure off gold after the volatility surrounding the Fed earlier this week. And in the other part, I think the charts also tell a bit more as to what's happening with gold since the Fed decision.
+
+**US Dollar: Post-FOMC consolidation and data focus – OCBC**
+`18 Sep 14:23 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+OCBC strategist Christopher Wong observes that the US Dollar (USD) has eased modestly as UST yields and Oil retraced from their post-FOMC spikes. He sees the move as consolidation, with further USD gains likely needing another leg higher in UST yields.
+
+**Stock Futures Rise as Oil Extends Losses, Treasury Yields Rise**
+`18 Sep 14:01 PKT` · pehli baar dekhi `18 Sep 16:48` · wsj_markets
+
+All major U.S. indexes were in the green after the S&P 500 and Nasdaq posted their best trading days in six weeks during the prior session.
+
+**United States Dollar Index tests late July high, near 100.35 on hawkish Fed stance**
+`18 Sep 13:54 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+The US Dollar Index (DXY), which tracks the Greenback against a basket of currencies, regains positive traction on Friday and maintains its bid tone through the first half of the European session.
+
+**Stock Market Today: Nasdaq Heads for Weekly Gain as AI Stocks Surge**
+`18 Sep 13:48 PKT` · pehli baar dekhi `18 Sep 16:48` · wsj_markets
+
+Oil prices and Treasury yields are falling back
+
+**Czech Koruna: CNB pause before potential November hike – ING**
+`18 Sep 12:56 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+ING's Frantisek Taborsky notes that the Czech National Bank (CNB) kept its policy rate at 3.75% with a dovish tone versus market pricing, but ING economists now expect a hike in November due to higher inflation forecasts and elevated global energy prices.
+
+**Eurozone Government Bond Yields Edge Higher But Stay Below Recent Highs**
+`18 Sep 12:23 PKT` · pehli baar dekhi `18 Sep 16:48` · wsj_markets
+
+Yields on eurozone government bonds edged higher but stayed comfortably below recent multiyear highs, helped by falling oil prices and lower Treasury yields.
+
+**Gold Prices Rise as Falling Oil Prices Provide Support**
+`18 Sep 11:57 PKT` · pehli baar dekhi `18 Sep 16:48` · actionforex
+
+Gold is trading near 4,360 USD per ounce on Friday after gaining almost 2% in the previous session. The precious metal has found support from falling oil prices, which have helped ease inflation concerns and pushed bond yields lower. Oil prices have declined for a third consecutive session as Saudi Arabia works to restore supplies [&#8230;] The post Gold Prices Rise as Falling Oil Prices Provide Support appeared first on ActionForex.
 
 **UK Retail Sales Unexpectedly Rise in August**
 `18 Sep 11:36 PKT` · instaforex
@@ -187,9 +364,10 @@ Malaysia's month‑on‑month inflation picked up modestly in August 2026, with 
 Malaysia's consumer price inflation picked up slightly in August 2026, with the Consumer Price Index (CPI) rising 1.9% year-on-year, up from 1.8% in July. The latest data, updated on 18 September 2026, indicate a modest acceleration in price growth while still pointing to a relatively contained inflation environment. Both the July and August readings are measured against the same months a year earlier, highlighting a gradual firming of inflation pressures rather than a sharp shift.
 
 **UK Retail Sales Rise 0.5% as Non-Food Stores Recover**
-`18 Sep 11:18 PKT` · pehli baar dekhi `18 Sep 11:36` · actionforex
+`18 Sep 11:18 PKT` · pehli baar dekhi `18 Sep 11:36` · actionforex · **2 feeds mein**
 
 UK retail sales volumes rose 0.5% mom in August, reversing July's unrevised 0.5% decline and beating expectations for a 0.3% contraction. Annual growth accelerated from a downwardly revised 1.2% to 2.4%, above the 1.9% consensus. The less volatile three-month measure was also positive, with volumes rising 0.9% from the three months to May and 2.4% [&#8230;] The post UK Retail Sales Rise 0.5% as Non-Food Stores Recover appeared first on ActionForex.
+  - `18 Sep 11:18` *actionforex* — UK Retail Sales Rise 0.5% as Non-Food Stores Recover
 
 **UK retail sales unexpectedly rise in August, backed by recovery in department stores, non-store retailers**
 `18 Sep 11:00 PKT` · pehli baar dekhi `18 Sep 11:36` · investinglive
@@ -302,6 +480,85 @@ What the Fed's first rate hike since 2023 means for Nashville's housing market W
 
 ### EUR
 
+**Eurozone Construction Output Falls the Most in 5 Months**
+`18 Sep 16:48 PKT` · instaforex
+
+Eurozone construction output fell by 2% year-on-year in July 2026, the sharpest decline since February, following an upwardly revised 1.4% drop in June. Building construction remained in contraction (-6.4% vs -7.4% in June), and specialised construction activities also stayed under pressure (-1.6% vs -0.4%). In contrast, civil engineering rose by 0.6% after being flat a month earlier.
+
+**Bulgaria Current Account Deficit Narrows in July**
+`18 Sep 16:48 PKT` · instaforex
+
+Bulgaria's current account deficit narrowed to EUR 269.0 million in July 2026, from EUR 303.7 million in July 2025. This improvement occurred despite a larger goods deficit of EUR 853.1 million, compared with EUR 752.4 million a year earlier. The overall balance was supported by a smaller primary income deficit, which declined to EUR 532.0 million from EUR 617.4 million, and by a higher secondary income surplus, which rose to EUR 240.8 million from EUR 149.9 million.
+
+**Euro Zone Construction Output Stabilizes in July After June Slump**
+`18 Sep 16:48 PKT` · instaforex
+
+Euro zone construction activity leveled off in July 2026, with output registering 0.00% month-over-month, according to data updated on 18 September 2026. The flat reading marks a notable improvement from June 2026, when construction output fell by 1.34% compared with May. The latest figures indicate that the sector has at least paused its recent downturn. While July's zero growth does not signal a rebound, it suggests that the sharp contraction seen in June has not continued into the new month.
+
+**Eurozone Current Account Surplus Widens in July**
+`18 Sep 16:48 PKT` · instaforex
+
+The eurozone's current account surplus expanded to €36.5 billion in July 2026, up from €29.7 billion a year earlier, largely reflecting stronger performances in both goods and services. The goods surplus increased to €39.8 billion from €31.8 billion, while the services surplus rose to €19.3 billion from €15.1 billion. These improvements were partly offset by wider deficits in income accounts.
+
+**Euro Area Consumer Inflation Expectations Edge Up**
+`18 Sep 16:48 PKT` · instaforex
+
+Median expectations for price growth in the euro area over the next 12 months rose to 3% in August 2026, up from 2.9%. Inflation expectations three years ahead also increased, to 2.9% from 2.7%, while the five-year outlook edged up to 2.5% from 2.4%. Uncertainty surrounding 12‑month inflation expectations declined, but remained above the levels observed before the start of the conflict in the Middle East.
+
+**Italy Current Account Surplus Narrows in July**
+`18 Sep 16:48 PKT` · instaforex
+
+Italy's current account surplus narrowed to EUR 7,384.1 million in July 2026, down from EUR 7,846.8 million in the same month a year earlier. The services surplus declined to EUR 1,102.9 million from EUR 1,313.2 million, while the primary income balance shifted from a surplus of EUR 412.1 million to a deficit of EUR 116.0 million. At the same time, the secondary income deficit widened to EUR 1,791.3 million from EUR 1,697.7 million.
+
+**Euro Zone Current Account Surplus Narrows to €36.5B in July 2026**
+`18 Sep 16:48 PKT` · instaforex · **2 feeds mein**
+
+The Euro Zone's current account surplus (n.s.a.) declined in July 2026, easing to €36.5 billion from €46.9 billion in June 2026. The latest figures, updated on 18 September 2026, point to a moderation in the bloc's external surplus over the month. The €10.4 billion month-on-month contraction suggests a cooling in net trade or income flows compared with early summer levels.
+  - `18 Sep 16:48` *instaforex* — Euro Zone Current Account Surplus Narrows to €27.6B in July 2026
+
+**EUR/JPY Daily Outlook**
+`18 Sep 16:29 PKT` · pehli baar dekhi `18 Sep 16:48` · actionforex · **4 feeds mein**
+
+EUR/JPY&#8217;s rebound from 177.82 accelerated higher today. The development confirms short term bottoming at 177.82, on bullish divergence condition in 4H MACD. Intraday bias is back on the upside for 55 D EMA (now at 182.89). On the downside, below 179.73 minor support will turn intraday bias neutral again. In the bigger picture, price actions [&#8230;] The post EUR/JPY Daily Outlook appeared first on ActionForex.
+  - `18 Sep 16:25` *actionforex* — EUR/GBP Daily Outlook
+  - `18 Sep 16:23` *actionforex* — EUR/AUD Daily Outlook
+  - `18 Sep 16:18` *actionforex* — EUR/CHF Daily Outlook
+
+**ECB president Lagarde pushes back on automatic rate hikes as energy prices cloud outlook**
+`18 Sep 16:12 PKT` · pehli baar dekhi `18 Sep 16:48` · investinglive
+
+ECB president, Christine Lagarde, is pushing back against the idea that higher energy prices automatically mean higher interest rates. Her latest comments: Rates do not move in lockstep with price of energy Other factors such as growth and consumption also play a role We are taking a measured response to the current situation It is clear that energy is a significant variable We are well positioned to respond, will address the situation meeting by meeting Urges market monitoring, no chaotic ...
+
+**ECB president Lagarde fuels early exit speculation with 'we'll see' response**
+`18 Sep 15:01 PKT` · pehli baar dekhi `18 Sep 16:48` · investinglive
+
+ECB president, Christine Lagarde, continues to give markets a reason to keep an eye on the succession story at the central bank. Her potential early departure has been a hot topic that started in 2025, amid speculation of her cutting short her stint at the ECB to leave for the WEF. And earlier this year, that whisper has only grown louder as the political powers that be also want to have a say in who might replace Lagarde next.
+
+**Euro: Hawkish ECB offers limited support against US Dollar - ING**
+`18 Sep 14:07 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+ING's Francesco Pesole highlights that recent European Central Bank commentary remains broadly hawkish, with limited pushback from the dovish camp.
+
+**Binance brushes off Lagarde MiCA speculation, reaffirms Europe commitment**
+`18 Sep 13:50 PKT` · pehli baar dekhi `18 Sep 16:48` · cointelegraph
+
+Binance declined to address reports of ECB intervention in its Greek MiCA bid, saying it remains committed to securing authorization in Europe.
+
+**ECB's Lagarde: We'll decide on rates meeting by meeting**
+`18 Sep 13:21 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+European Central Bank (ECB) President Christine Lagarde said during the European trading session on Friday that the decision on interest rates by the central bank will be meeting by meeting.
+
+**Euro flattens against US Dollar as traders look beyond ECB-Fed hawkish decisions**
+`18 Sep 13:12 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+The Euro (EUR) trades in a tight range at around 1.1485 against the US Dollar (USD) during the European trading session on Friday.
+
+**Euro: Dollar weakness delayed as Fed stays hawkish – Commerzbank**
+`18 Sep 12:26 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+Commerzbank's Volkmar Baur notes that EUR/USD stabilized after the Federal Reserve's hawkish surprise, with markets now fully pricing another Fed rate hike in December and no cuts until late next year.
+
 **German Producer Prices Accelerate in August, Yearly Growth Climbs to 4.6%**
 `18 Sep 11:36 PKT` · instaforex
 
@@ -360,6 +617,34 @@ The ECB chief intervened to keep crypto's biggest player, which pleaded guilty t
 
 ### GBP
 
+**Pound Holds Near July Low**
+`18 Sep 16:48 PKT` · instaforex
+
+The British pound was little changed at $1.337 on Friday, hovering near its weakest level since late July, as investors digested stronger-than-expected retail sales data alongside this week's central bank decisions. UK retail sales rose 0.5% in August, beating forecasts of a 0.2% decline and rebounding from July's drop.
+
+**GBP/JPY Daily Outlook**
+`18 Sep 16:34 PKT` · pehli baar dekhi `18 Sep 16:48` · actionforex
+
+The strong break of 209.47 suggests that corrective fall from 219.56 has completed with three waves to 207.06. Intraday bias in GBP/JPY is back on the upside for 38.2% retracement of 219.56 to 207.06 at 211.83. Break there will target 61.8% retracement at 214.78. On the downside, below 209.47 will turn intraday bias neutral again. [&#8230;] The post GBP/JPY Daily Outlook appeared first on ActionForex.
+
+**Barclays, UBS back BoE hikes as inflation risks mount**
+`18 Sep 16:30 PKT` · pehli baar dekhi `18 Sep 16:48` · investing_news
+
+**British Pound: BoE holds but inflation risks linger – OCBC**
+`18 Sep 16:25 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+OCBC strategist Christopher Wong notes that the Bank of England (BoE) kept Bank Rate at 3.75% in a 6–3 vote while highlighting a more challenging inflation backdrop, with Consumer Price Index (CPI) seen near 3.75% in Q4 and above 4% in early 2027.
+
+**British Pound: BoE on hold sparks Sterling softness – Danske Bank**
+`18 Sep 13:57 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+Danske Bank's Danske Research Team highlights that the Bank of England left Bank Rate at 3.75% with a 6-3 vote, disappointing hawkish market expectations and triggering GBP weakness and lower rates.
+
+**GBP/USD Price Forecast: Attracts slight bids below trendline near 1.3360**
+`18 Sep 13:52 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+The British Pound (GBP) is up 0.1% at around 1.3372 against the US Dollar (USD) during the European trading session on Friday. The GBP/USD pair gains as the British currency rises, following the release of the surprisingly upbeat United Kingdom (UK) Retail Sales data for August.
+
 **United Kingdom Retail Sales unexpectedly rise 0.5% MoM in August vs. -0.2% estimates**
 `18 Sep 11:02 PKT` · pehli baar dekhi `18 Sep 11:36` · fxstreet_news
 
@@ -391,6 +676,61 @@ No hold in November?: Bank of England Comment Forex Factory
 Bank of England Holds Rate at 3.75% as Three Back Increase findarticles.com
 
 ### JPY
+
+**India's FX Reserves Dip to $780.78 Billion, Marking Modest Weekly Decline**
+`18 Sep 16:48 PKT` · instaforex
+
+India's foreign exchange reserves eased to USD 780.78 billion, down from a previous level of USD 785.71 billion, according to the latest data updated on 18 September 2026. The move represents a modest decline in the country's FX buffer. The reduction in reserves suggests a net drawdown of around USD 4.93 billion over the latest period, which could reflect factors such as central bank intervention in the currency market, valuation changes in reserve assets, or external payments.
+
+**USD/JPY Price Forecast: Yen plummets after BoJ's policy outcome**
+`18 Sep 16:00 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+The Japanese Yen (JPY) underperforms its major currency peers on Friday after the Bank of Japan's (BoJ) monetary policy announcement. In the European trade, the USD/JPY pair trades 1.3% higher to near 158.00.
+
+**North Korea anthem played at South's Bangladesh hockey match at Asian Games**
+`18 Sep 15:59 PKT` · pehli baar dekhi `18 Sep 16:48` · aljazeera
+
+Asian Games organisers in Japan accidently play North Korea&#039;s anthem ahead of South&#039;s hockey match with Bangladesh.
+
+**How to Tell Whether a Plunging Stock Will Keep Plunging**
+`18 Sep 15:26 PKT` · pehli baar dekhi `18 Sep 16:48` · wsj_markets
+
+Plus, the yen slides again
+
+**Bank of Japan: Hawkish path with FX doubts – TD Securities**
+`18 Sep 15:02 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+TD Securities' Prashant Newnaha notes the Bank of Japan raised its cash rate by 25bps to 1.25%, in line with market expectations, and kept a hawkish framework that points to further hikes, with the next move seen in December.
+
+**Japanese Yen: Yen vulnerable after BoJ communication – MUFG**
+`18 Sep 13:41 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+MUFG's Derek Halpenny notes that the Bank of Japan's 25bp hike to 1.25% fell short of hawkish market pricing, triggering an initial Yen sell-off as expectations for larger moves proved overdone.
+
+**Euro extends gains, nearing 181.00 against Japanese Yen despite Ueda's hawkish comments**
+`18 Sep 12:51 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+The Euro (EUR) extends gains against the Japanese Yen (JPY) on Friday, after some hesitation, amid the Bank of Japan (BoJ) Governor Ueda's hawkish rhetoric at the post-meeting press conference.
+
+**GBP/JPY Price Forecast: Rallies to two-week top, above 210.50 amid post-BoJ JPY selloff**
+`18 Sep 12:44 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+The GBP/JPY cross builds on its strong intraday rally and climbs to a nearly two-week top, above mid-210.00s during the early European session on Friday. Spot prices now seem poised to register gains for the first time in three weeks.
+
+**Equities: Global rally extends with tech leadership – Deutsche Bank**
+`18 Sep 12:42 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+Deutsche Bank highlights a broad-based rebound in global equities following a drop in Oil prices and supportive US data. The S&P 500 and NASDAQ led gains in US stocks, while the STOXX 600 advanced in Europe and major Asian indices, including the Nikkei and KOSPI, moved higher.
+
+**BOJ governor Ueda says will continue to tighten policy in response to economic, price developments**
+`18 Sep 11:51 PKT` · pehli baar dekhi `18 Sep 16:48` · investinglive
+
+The most notable comments from Ueda's press conference, following the BOJ policy decision earlier in the day: Japan's economy is likely to continue growing moderately Underlying inflation is approaching 2% level There is risk of underlying inflation overshooting 2% price target Japan's financial conditions have been accommodative Will continue to raise policy rate and adjust degree of monetary easing in response to economic activity, prices Will consider adjustment timing, pace while looking at ...
+
+**Sunrise Market Commentary**
+`18 Sep 11:41 PKT` · pehli baar dekhi `18 Sep 16:48` · actionforex
+
+Markets USD/JPY surges to 157.1 this morning. The pair has now recouped about half of the impressive JPY gains earlier this month. The Bank of Japan as expected lifted the policy rate by 25 bps to 1.25%, the highest since 1997. The decision was a 7-2 split vote and that came as a dovish surprise. [&#8230;] The post Sunrise Market Commentary appeared first on ActionForex.
 
 **Yen Weakens as BOJ Hikes Rates**
 `18 Sep 11:36 PKT` · instaforex
@@ -776,12 +1116,27 @@ BoJ is set to hike rates and point to further monetary tightening in the near-te
 
 ### CHF
 
+**Swiss Franc consolidates losses weighed by adverse monetary policy divergence**
+`18 Sep 15:23 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+The Swiss Franc (CHF) holds losses against the US Dollar (USD) on Friday, after dropping nearly 1% this week and about 2% over the last two weeks.
+
+**Swiss Franc: Consolidation holds below 0.8300 against US Dollar – UOB**
+`18 Sep 13:26 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+United Overseas Bank's (UOB) Quek Ser Leang notes USD/CHF remains in a consolidation phase after a sharp rally, with intraday trading expected between 0.8225 and 0.8265.
+
 **Swiss Franc gains ground as easing US Yields pressures Greenback**
 `18 Sep 09:59 PKT` · pehli baar dekhi `18 Sep 11:36` · fxstreet_news
 
 USD/CHF extends its losses for the second successive day, trading around 0.8230 during Asian hours on Friday. The pair depreciates as the US Dollar (USD) faced challenges from falling oil prices, which helped ease broader inflation concerns.
 
 ### CAD
+
+**USD/CAD Daily Outlook**
+`18 Sep 16:37 PKT` · pehli baar dekhi `18 Sep 16:48` · actionforex
+
+Intraday bias in USD/CAD stays on the upside at this point. Rise from 1.3730 should target 61.8% retracement of 1.4247 to 1.3730 at 1.4050. Firm break there till pave the way to retest 1.4247. On the downside, below 1.3972 minor support will turn intraday bias neutral first. In the bigger picture, current rebound suggests that [&#8230;] The post USD/CAD Daily Outlook appeared first on ActionForex.
 
 **Canadian Dollar bears retain control near August 7 low amid US-Canada rate gap/trade war**
 `18 Sep 06:45 PKT` · pehli baar dekhi `18 Sep 11:36` · fxstreet_news
@@ -799,6 +1154,31 @@ A sustained shift into more sophisticated exports could add as much as $70 billi
 Uranium project investment could mark a turning point in US-Niger and US-Canada relations.
 
 ### AUD
+
+**Lithium Falls to 8-Month Low**
+`18 Sep 16:48 PKT` · instaforex
+
+Lithium carbonate prices in China fell below CNY 135,000 per tonne in September, marking a year-to-date low, after an upward revision to inventory estimates led markets to factor in a more comfortable supply outlook. Industry group SMM altered its methodology for compiling stockpile data, prompting a 175,000-ton increase in reported Chinese inventories—around twice previous estimates. The softer prices were further underpinned by a robust production outlook from Australian miners.
+
+**AUD/USD Daily Report**
+`18 Sep 16:39 PKT` · pehli baar dekhi `18 Sep 16:48` · actionforex
+
+AUD/USD rebounded after dipping to 0.7074 and intraday bias is turned neutral first. On the downside, sustained trading below 38.2% retracement of 0.6864 to 0.7237 at 0.7095 will target 61.8% retracement at 0.7006. Nevertheless, firm break of 0.7139 will turn bias back to the upside for stronger rebound. In the bigger picture, price action from [&#8230;] The post AUD/USD Daily Report appeared first on ActionForex.
+
+**Australian Dollar strengthens as RBA maintains hawkish stance**
+`18 Sep 16:07 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+AUD/USD rises 0.20% on Friday to trade around 0.7125 at the time of writing. The Australian Dollar (AUD) benefits from hawkish comments by Reserve Bank of Australia (RBA) officials, who keep the door open to further monetary tightening to bring inflation sustainably back toward the target.
+
+**Australian Dollar: Short-term range but path still lower against US Dollar – UOB**
+`18 Sep 14:38 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+United Overseas Bank's (UOB) Quek Ser Leang notes that AUD/USD has rebounded after an oversold slide, with intraday price action now expected between 0.7095 and 0.7130.
+
+**RBA Rate Call: Tactical Timing Change to September**
+`18 Sep 11:43 PKT` · pehli baar dekhi `18 Sep 16:48` · actionforex
+
+Expected rate hike brought forward to September, as hawkish rhetoric outweighs the tactical risks We shift the timing of the next rate hike to September from November. When we last updated our rate forecasts, we highlighted that "the probability of the September scenario is not zero." We also said we would watch RBA communication closely [&#8230;] The post RBA Rate Call: Tactical Timing Change to September appeared first on ActionForex.
 
 **AUD/USD Price Forecast: Recovers further as RBA reiterates commitment to bring inflation down**
 `18 Sep 10:57 PKT` · pehli baar dekhi `18 Sep 11:36` · fxstreet_news
@@ -844,6 +1224,11 @@ Bullock said inflation is likely to remain elevated for some time due to capacit
 Reserve Bank of Australia (RBA) Governor Michele Bullock said on Friday that risks to outlook were skewed to the upside at August board meeting.
 
 ### NZD
+
+**New Zealand Dollar declines as US Dollar gains on hawkish Fed outlook**
+`18 Sep 12:30 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+NZD/USD depreciates after posting gains the previous day, trading around 0.5720 during the early European hours on Friday. The pair loses ground as the US Dollar (USD) recovers its daily losses due to hawkish comments from Federal Reserve Chair Kevin Warsh.
 
 **New Zealand Dollar steadies as softer US bond yields keep USD on the defensive**
 `18 Sep 09:02 PKT` · pehli baar dekhi `18 Sep 11:36` · fxstreet_news
@@ -901,6 +1286,56 @@ New Zealand's Food Price Index (FPI) picked up pace in August 2026, with prices 
 New Zealand August data. Trade Balance -1349mn Expected -1775mn, Prior -2118mn Annual Trade Balance -5.44bn Imports 8bn Prior 9.33bn Exports 6.66bn Prior 7.22bn --- Food Prices (y/y) 1.9% Prior 1.9% for the m/m +0.3% This article was written by Eamonn Sheridan at investinglive.com.
 
 ### OIL
+
+**Crude Oil Eases Toward $100**
+`18 Sep 16:48 PKT` · instaforex
+
+Crude oil prices retreated toward the $100-per-barrel mark on Friday, pulling back from Tuesday's four-month high of $106, as markets weighed the prospect of increased supply from the Middle East. US President Trump signaled that Washington could resume military strikes against Iran after recent dialogue attempts among Tehran, the US, and GCC states failed to restore maritime oil exports.
+
+**Portugal Producer Inflation Accelerates Again**
+`18 Sep 16:48 PKT` · instaforex
+
+Portugal's industrial producer price inflation accelerated to 7.2% year-on-year in August 2026, the highest rate since February 2023. This marked the second consecutive monthly increase and a sharp rise from a downwardly revised 5.7% in July. The main driver was energy, where inflation jumped to 22.8% from 15.8% in the previous month, reflecting renewed upward pressure on global oil prices.
+
+**DAX Falls on Friday**
+`18 Sep 16:48 PKT` · instaforex
+
+Frankfurt's DAX 40 slipped about 0.4% to around 25,600 on Friday, pulling back after two consecutive sessions of gains and largely mirroring weakness across other European benchmarks. Caution resurfaced in regional markets after a week dense with central-bank decisions, as investors also monitored diplomatic efforts related to the conflict in the Middle East.
+
+**India's Clean Energy Boom Halts Coal Power Growth**
+`18 Sep 15:30 PKT` · pehli baar dekhi `18 Sep 16:48` · oilprice
+
+India's coal power generation did not grow between the first half of 2024 and the first half of 2026, for the first such two-year period in over 50 years in which coal power has remained flat in the world's second-largest coal consumer, a new analysis by the Centre for Research on Energy and Clean Air (CREA) for Carbon Brief showed.
+
+**Hormuz Tanker Traffic Slumps as Saudi Arabia Scrambles for New Oil Routes**
+`18 Sep 14:30 PKT` · pehli baar dekhi `18 Sep 16:48` · oilprice
+
+Only four commodity vessels were detected to have moved inbound or out of the Strait of Hormuz on Thursday, shipping data showed early on Friday, while oil shipping options out of the Middle East became fewer with the closure of the Saudi pipeline to the Red Sea port of Yanbu.
+
+**WTI Oil eases to levels near $95 on hopes of higher supply of Saudi Crude**
+`18 Sep 13:43 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
+
+The US benchmark West Texas Intermediate (WTI) Oil is heading for its first weekly decline in the last three weeks, as prices near the $95 level after hitting fresh four-month highs at 102.07 last Tuesday.
+
+**Oil Prices Fall for Third Day as WTI Slips Below $100**
+`18 Sep 13:39 PKT` · pehli baar dekhi `18 Sep 16:48` · wsj_world
+
+Oil prices fell for a third day Friday, with WTI crude slipping below $100 a barrel as expectations of restored Saudi pipeline flows eased immediate supply concerns.
+
+**China's Fuel Exports Surge as Global Diesel Shortage Deepens**
+`18 Sep 13:30 PKT` · pehli baar dekhi `18 Sep 16:48` · oilprice
+
+China exported 6.01 million tons of refined fuels in August, an annual increase of 12.7%, according to Chinese customs data cited by Reuters today. The total volume exceeded pre-war levels, with jet fuel exports at an all-time high. The total for the first eight months of the year, however, was down by 9.6% on the same period of 2025, due to the fuel export curbs the government in Beijing imposed earlier in the year in response to the crude oil crunch resulting from the war in the Middle East.
+
+**Why WTI oil suddenly gapped by $5? Understanding futures contract rollover**
+`18 Sep 12:30 PKT` · pehli baar dekhi `18 Sep 16:48` · investinglive
+
+WTI crude oil fell from around $101 per barrel to roughly $96 overnight. At first glance, it looks like a $5 selloff in oil prices due to some fundamental reason, but in reality it was just something called futures rollover. The $5 gap is just the difference between two futures contracts rather than a sudden collapse in the value of crude oil. When traders refer to the price of WTI, they are usually looking at a futures contract traded on the NYMEX.
+
+**China Pushes Coal Miners to Lift Supply as Prices Climb**
+`18 Sep 12:15 PKT` · pehli baar dekhi `18 Sep 16:48` · oilprice
+
+China's government has called on local coal miners to maintain a stable production rate after a jump in spot prices for thermal coal earlier this month. Thermal coal prices on the spot market recently climbed to the highest in three years, Bloomberg said in a report today, putting pressure on the government in Beijing to act. China has been reducing the share of coal in its energy mix, but the fuel remains vital, with a share of 49.7% in power generation over the first half of the year.
 
 **Palm Oil Retreats on Profit Taking But Heads for weekly gain**
 `18 Sep 11:36 PKT` · instaforex
@@ -1074,6 +1509,44 @@ Turkey plans to spend $108 billion over the next ten years to develop its altern
 
 ### CRYPTO
 
+**Bitcoin and ethereum prices today, Friday, September 18, 2026: Crypto prices rise as investors move past CLARITY's failure**
+`18 Sep 16:40 PKT` · pehli baar dekhi `18 Sep 16:48` · yahoo_finance
+
+**This simple ETH technical analysis today shows bulls are still good**
+`18 Sep 16:28 PKT` · pehli baar dekhi `18 Sep 16:48` · investinglive
+
+Ethereum price outlook: Potential bull flag faces $2,550-$2,580 resistance Ethereum futures have rebounded from lower support and are holding much of August's sharp advance, keeping a potential bull flag in play. But with price near $2,505, the recovery remains inside its consolidation range. A sustained move above $2,550-$2,580 would strengthen the bullish case; another rejection would leave the range intact.
+
+**The Altcoin Market Is Thawing**
+`18 Sep 15:49 PKT` · pehli baar dekhi `18 Sep 16:48` · actionforex
+
+Market Overview The crypto market capitalisation has risen by over 2.2% in the past 24 hours to $2.66T, bringing it closer to the midpoint of the range seen over the past month. This time, the positive momentum was underpinned by rising stock indices and a general appetite for risk. The media noted that the start [&#8230;] The post The Altcoin Market Is Thawing appeared first on ActionForex.
+
+**Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross**
+`18 Sep 15:46 PKT` · pehli baar dekhi `18 Sep 16:48` · cointelegraph
+
+The Fisher Transform indicator produced a rare crossover for only the fourth time in Bitcoin's history.
+
+**Failure of Clarity Act Turns Crypto Industry Focus to Federal Regulators**
+`18 Sep 14:33 PKT` · pehli baar dekhi `18 Sep 16:48` · wsj_markets
+
+EXCLUSIVE: The act's failure to progress leaves regulation of the cryptocurrency industry in the hands of government agencies and vulnerable to interpretation as administrations change, analysts said.
+
+**Stablecoin payments firm dtcpay closes $25M round with SBI backing**
+`18 Sep 14:14 PKT` · pehli baar dekhi `18 Sep 16:48` · cointelegraph
+
+Dtcpay plans to expand its merchant network and payment products after completing a $25 million Series A backed by Japan's SBI Group.
+
+**Bitcoin cycle bottom may already be in at $58K, says analyst James Check**
+`18 Sep 13:47 PKT` · pehli baar dekhi `18 Sep 16:48` · cointelegraph
+
+Onchain analyst James Check says Bitcoin may have bottomed near $58,000 after two capitulations and warns against anchoring to an October low.
+
+**The next phase for Bitcoin miners may have less to do with Bitcoin and more to do with power**
+`18 Sep 13:33 PKT` · pehli baar dekhi `18 Sep 16:48` · investinglive
+
+For the longest of time, the Bitcoin mining business has been relatively easy to understand. That is to get access to cheap electricity, buy mining machines, produce Bitcoin, and hope that the price of the cryptocurrency rises faster than your costs. But as it turns out, some Bitcoin miners may be sitting on something potentially more valuable than the very Bitcoin they produce. And that is power.
+
 **World launches self-custodial 'super app' World Money**
 `18 Sep 08:40 PKT` · pehli baar dekhi `18 Sep 11:36` · cointelegraph
 
@@ -1118,6 +1591,56 @@ Federal Reserve rate hike could impact Anchorage housing market Your Alaska Link
 What to know about the Federal Reserve rate hike kaaltv.com
 
 ### RISK
+
+**Sensex Closes Marginally Down**
+`18 Sep 16:48 PKT` · instaforex
+
+India's BSE Sensex slipped nearly 20 points to close at 74,295 on Friday, mirroring cautious global sentiment after the US Federal Reserve delivered its first interest-rate hike in more than three years and signalled further increases later this year. The move stoked concerns over potential foreign institutional investor (FII) outflows, while geopolitical tensions remained elevated. At the same time, robust ongoing IPO activity continued to exert pressure on the broader market.
+
+**United Nations says US may have committed war crimes in Iran: What it means**
+`18 Sep 15:43 PKT` · pehli baar dekhi `18 Sep 16:48` · aljazeera
+
+UN probe finds US unlawfully struck an Iranian school and sports centre, killing children; White House rejects findings.
+
+**'My children did not attack Iran': 2bn South Asians suffer from distant war**
+`18 Sep 15:33 PKT` · pehli baar dekhi `18 Sep 16:48` · aljazeera
+
+A quarter of the world's population faces a surging cost of living crisis because of the wars in the Middle East.
+
+**Israel is killing the people who could end its wars**
+`18 Sep 15:29 PKT` · pehli baar dekhi `18 Sep 16:48` · aljazeera
+
+From Iran to Gaza and Lebanon, assassinations have repeatedly removed figures capable of negotiating an end to conflict.
+
+**Ukraine fires drone barrage as Russia launches elections**
+`18 Sep 15:28 PKT` · pehli baar dekhi `18 Sep 16:48` · aljazeera
+
+Russia&#039;s first parliamentary election since the invasion opens with no antiwar party on the ballot.
+
+**Russia Seizes Control of Nestlé's Local Operations**
+`18 Sep 15:15 PKT` · pehli baar dekhi `18 Sep 16:48` · wsj_world
+
+Russia also placed the local businesses of French retailers Auchan and Leroy Merlin under temporary external administration, according to a presidential decree.
+
+**'This is a war': South Africa battles femicide as women's bodies pile up**
+`18 Sep 14:43 PKT` · pehli baar dekhi `18 Sep 16:48` · aljazeera
+
+Bodies of nine women have been found in a Johannesburg neighbourhood in two months, as worries grow over women&#039;s safety.
+
+**Why the Kremlin fears even the 'managed opposition' in Russia**
+`18 Sep 14:10 PKT` · pehli baar dekhi `18 Sep 16:48` · aljazeera
+
+The risk of a protest vote was too high at the Duma elections so a pre-election crackdown was carried out.
+
+**'Outrageous lies': How Israeli voters are shrugging off Western sanctions**
+`18 Sep 11:48 PKT` · pehli baar dekhi `18 Sep 16:48` · aljazeera
+
+New sanctions highlight Israel&#039;s isolation, yet analysts say they won&#039;t sway voters before October&#039;s elections.
+
+**In Yemen, war at home and in the region drives up prices**
+`18 Sep 11:45 PKT` · pehli baar dekhi `18 Sep 16:48` · aljazeera
+
+Families in Sanaa brace for higher food and transport costs after first fuel price increase in four years.
 
 **Copper Holds Gains on Stronger China Demand**
 `18 Sep 11:36 PKT` · instaforex
@@ -1199,10 +1722,58 @@ Oil Falls as Traders Digest Escalation in US-Iran Strikes EnergyNow.com
 
 Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?
 
-### BINA TAG (48)
+### BINA TAG (97)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `18 Sep 16:49` **bbc_business** — Brewdog's unpaid workers to receive nothing after takeover deal
+- `18 Sep 16:48` **instaforex** — Portugal's Current Account Deficit Narrows Sharply in July 2026
+- `18 Sep 16:48` **instaforex** — China's FDI Decline Eases in August as Outflows Moderate
+- `18 Sep 16:48` **instaforex** — Macau Tourist Arrivals Climb to Record High
+- `18 Sep 16:48` **instaforex** — BIST 100 Plunges on Fund Liquidations
+- `18 Sep 16:48` **instaforex** — Italy Construction Output Falls to Over 1-Year Low
+- `18 Sep 16:48` **instaforex** — Poland Industrial Output Growth at 4-Month Low
+- `18 Sep 16:45` **wsj_markets** — Tech, Media & Telecom Roundup: Market Talk
+- `18 Sep 16:34` **mw_topstories** — A sideways market and rising earnings are presenting a buying opportunity for this crucial sector
+- `18 Sep 16:32` **investing_news** — Guggenheim raises Eli Lilly stock price target to $1,284 on drug growth
+- `18 Sep 16:32` **investing_news** — Canaccord reiterates Inter Parfums stock Buy rating on license deal
+- `18 Sep 16:32` **investing_news** — Canaccord reiterates Planet Fitness stock rating on growth outlook
+- `18 Sep 16:32` **investing_news** — Guggenheim raises Trade Desk stock price target on cost cuts
+- `18 Sep 16:32` **investing_news** — Guggenheim raises Restaurant Brands stock price target on turnaround
+- `18 Sep 16:32` **investing_news** — Canaccord raises Ultragenyx stock price target on gene therapy approval
+- `18 Sep 16:32` **investing_news** — H.C. Wainwright reiterates Xenon Pharmaceuticals stock rating on study pause
+- `18 Sep 16:32` **investing_news** — Nage stock rating reiterated at Buy by Canaccord on pharma strategy
+- `18 Sep 16:26` **investing_news** — Wells Fargo downgrades Netflix stock rating on weak content slate
+- `18 Sep 16:22` **cointelegraph** — Dragonfly's Qureshi calls for end to Zcash dev fund after 2028
+- `18 Sep 16:15` **aljazeera** — Deadly blast hits mosque at Pakistan police complex
+- `18 Sep 16:09` **wsj_markets** — Warren Buffett Steps Down as Berkshire Hathaway Chairman
+- `18 Sep 16:04` **aljazeera** — Who gets to decide how quickly AI moves?
+- `18 Sep 15:55` **wsj_markets** — Daily Briefing: Higher Rates Deepen Private Equity's Zombie-Fund Problem
+- `18 Sep 15:55` **mw_topstories** — Warren Buffett exits Berkshire Hathaway as his son Howard becomes chairman
+- `18 Sep 15:51` **actionforex** — Dax Elliott Wave: Buyers Step in After Zig Zag Correction
+- `18 Sep 15:49` **aljazeera** — Palmer and Alexander-Arnold recalled after England World Cup snub
+- `18 Sep 15:44` **investing_commodities** — Morning Bid: Apocalypse later
+- `18 Sep 15:18` **aljazeera** — Bomb attack at Pakistan mosque kills at least 16 people, injures 56
+- `18 Sep 15:10` **bbc_business** — Former shoplifter ran 'steal-to-order' Whatsapp group
+- `18 Sep 15:00` **yahoo_finance** — Best CD rates today, Friday, September 18, 2026: Up to 4.40% APY return available with a 2-year CD
+- `18 Sep 14:34` **aljazeera** — India star Sooryavanshi urged to be patient by coach Gambhir
+- `18 Sep 14:30` **wsj_markets** — Meta's AI Agent Has a Trust Problem
+- `18 Sep 14:15` **mw_topstories** — I'm in my 50s. My mother died from Alzheimer's. Do I need long-term insurance?
+- `18 Sep 14:12` **investinglive** — Alpari Invites Traders and Partners to Connect at Forex Expo Dubai
+- `18 Sep 14:12` **aljazeera** — Bayern and England's Kane not focused on Ballon d'Or despite 73-goal season
+- `18 Sep 13:58` **aljazeera** — Video: Influencers accused of exploiting Nepal flood survivors
+- `18 Sep 13:49` **aljazeera** — Israel would rather not watch NAZA
+- `18 Sep 13:39` **aljazeera** — 'Just ask Grok': How ISIL is using Big Tech's AI to build bombs
+- `18 Sep 13:33` **investing_commodities** — European natural gas set to snap five-week winning streak
+- `18 Sep 13:18` **investing_commodities** — Factbox-Texas power plant, nuclear projects under discussion in South Korea's US investment package
+- `18 Sep 13:03` **actionforex** — FTSE Elliott Wave: Mapping the Path Ahead
+- `18 Sep 12:54` **aljazeera** — Indonesia acquires first aircraft carrier amid military upgrade
+- `18 Sep 12:47` **aljazeera** — Philippines school shooting leaves at least three dead, including gunman
+- `18 Sep 12:43` **fxstreet_news** — Dow Jones futures rise as 10-year US yield slides, tech rally resumes
+- `18 Sep 12:22` **wsj_markets** — Ant International-Backed Fintech Unicorn Gets Nod for Philippines's Largest-Ever IPO
+- `18 Sep 11:57` **wsj_world** — Malaysia's Former Prime Minister Can Serve Rest of 1MDB Sentence Under House Arrest
+- `18 Sep 11:45` **aljazeera** — Nigerian police probe death in custody of 37 illegal mining suspects
+- `18 Sep 11:39` **investinglive** — RaiseMyFunds Scraps Every Prop Trading Rule But One: Instant Funding Up to $400,000
 - `18 Sep 11:36` **instaforex** — Malaysia Trade Surplus Beats Forecasts
 - `18 Sep 11:36` **instaforex** — Malaysia's Import Growth Accelerates to 41.1% YoY in August 2026
 - `18 Sep 11:36` **instaforex** — Malaysia's Export Growth Accelerates to 45.5% YoY in August 2026
@@ -1219,6 +1790,7 @@ Russians vote for the first time since 2022. Can opposition parties challenge Pu
 - `18 Sep 11:01` **gnews_fed** — The Federal Reserve begins raising interest rates, exacerbating challenges for private credit. - Moomoo
 - `18 Sep 10:58` **investing_news** — Why is Dr Reddy's Laboratories stock gaining today?
 - `18 Sep 10:26` **aljazeera** — UN mission alleges crimes against humanity in Iranian protest crackdown
+- `18 Sep 10:16` **bbc_business** — Thames Water rescue deal should be rejected - MPs
 - `18 Sep 10:13` **bbc_business** — 'I would tip up to 30% at a restaurant'
 - `18 Sep 09:51` **cointelegraph** — Zcash targets November for NU7 mainnet upgrade with 25-second blocks
 - `18 Sep 09:27` **aljazeera** — Could this economic squeeze sway US voters?
@@ -1268,45 +1840,49 @@ investing_news (10)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 22 | 8 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 4 | 1 | 3 | 26 | 0.2 |
-| actionforex | OK | 20 | 20 | 10 | 10 | 0 | 0.0 |
-| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.9 |
+| investinglive | OK | 25 | 25 | 16 | 9 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 28 | 2 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.4 |
+| actionforex | OK | 20 | 20 | 16 | 4 | 0 | 0.0 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.1 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 13 | 2 | 11 | 23 | 0.1 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 7.5 |
-| kitco_general | OK | 35 | 34 | 0 | 34 | 1 | 0.2 |
-| gnews_fed | OK | 100 | 100 | 25 | 75 | 0 | 0.0 |
-| gnews_geopolitics | OK | 80 | 80 | 19 | 61 | 0 | 0.0 |
-| gnews_centralbanks | OK | 100 | 100 | 61 | 39 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 14.8 |
-| ecb_press | OK | 15 | 1 | 1 | 0 | 14 | 0.0 |
-| boe_news | OK | 50 | 6 | 0 | 6 | 44 | 0.7 |
-| boj_whatsnew | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 15.1 |
-| mining_com | OK | 36 | 10 | 0 | 10 | 26 | 0.3 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
+| wsj_economy | OK | 36 | 5 | 1 | 4 | 31 | 0.1 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 7.7 |
+| kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_fed | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_geopolitics | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_centralbanks | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.0 |
+| ecb_press | OK | 15 | 2 | 1 | 1 | 13 | 0.2 |
+| boe_news | OK | 50 | 1 | 1 | 0 | 49 | 0.0 |
+| boj_whatsnew | OK | 44 | 4 | 4 | 0 | 40 | 0.3 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 15.3 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.5 |
+| oilprice | OK | 15 | 8 | 4 | 4 | 7 | 0.1 |
 | investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| ing_think | OK | 10 | 6 | 1 | 5 | 4 | 0.2 |
-| bbc_business | OK | 53 | 25 | 2 | 23 | 28 | 0.1 |
-| aljazeera | OK | 25 | 25 | 16 | 9 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 3.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 7.8 |
-| eia_energy | OK | 16 | 0 | 0 | 0 | 16 | 2.7 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 14.8 |
-| wsj_world | OK | 71 | 19 | 3 | 16 | 52 | 0.1 |
-| wsj_markets | OK | 61 | 34 | 2 | 32 | 27 | 0.1 |
+| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| bbc_business | OK | 52 | 11 | 3 | 8 | 41 | -0.0 |
+| aljazeera | OK | 25 | 25 | 21 | 4 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 3.8 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 8.0 |
+| eia_energy | OK | 16 | 0 | 0 | 0 | 16 | 2.9 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 15.0 |
+| wsj_world | OK | 73 | 6 | 3 | 3 | 67 | 0.1 |
+| wsj_markets | OK | 61 | 16 | 10 | 6 | 45 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 5 | 0 | 5 | 44 | 0.8 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
-| cointelegraph | OK | 30 | 25 | 4 | 21 | 5 | 0.0 |
+| yahoo_finance | OK | 50 | 5 | 5 | 0 | 45 | 0.0 |
+| mw_topstories | OK | 10 | 6 | 5 | 1 | 4 | 0.0 |
+| cointelegraph | OK | 30 | 11 | 5 | 6 | 19 | 0.0 |
 
 **Jo feeds nahi aaye:**
-- boj_whatsnew — FAIL, koi item nahi
+- kitco_general — FAIL, HTTP 503
+- gnews_fed — FAIL, HTTP 503
+- gnews_geopolitics — FAIL, HTTP 503
+- gnews_centralbanks — FAIL, HTTP 503
+- ing_think — FAIL, ConnectTimeout
