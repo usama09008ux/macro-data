@@ -1,9 +1,9 @@
 # News Pack — Trading Day 17 Sep 2026
 
 - Trading day: **17 Sep 03:00 -> 18 Sep 02:59 PKT**
-- Aakhri update: **18 Sep 04:38 PKT**
-- Kul khabrein: **1188**
-- Feeds: 39/39 OK
+- Aakhri update: **18 Sep 06:32 PKT**
+- Kul khabrein: **1219**
+- Feeds: 38/39 OK
 
 ---
 
@@ -480,6 +480,11 @@ What the Fed's interest rate hike means for insurance Insurance Business
 
 The Fed's Inflation Target Keeps Slipping Farther Into The Future investopedia.com
 
+**Fed raises interest rates for first time in 3 years: Why Americans could feel the impact - The American Bazaar**
+`18 Sep 02:40 PKT` · pehli baar dekhi `18 Sep 06:32` · gnews_fed
+
+Fed raises interest rates for first time in 3 years: Why Americans could feel the impact The American Bazaar
+
 **The S&P 500 and Nasdaq Post Biggest Gains in Six Weeks**
 `18 Sep 02:34 PKT` · pehli baar dekhi `18 Sep 04:38` · wsj_markets
 
@@ -550,6 +555,11 @@ Tech leads Wall St to higher close as oil eases, Treasury yields dip kitco.com
 
 Plus, chip shares soar on Intel comments and SEC clears path for trading tokenized stocks
 
+**Contributor: The Fed is doing its part to fight inflation. Now Congress needs to act - Los Angeles Times**
+`18 Sep 01:30 PKT` · pehli baar dekhi `18 Sep 06:32` · gnews_fed
+
+Contributor: The Fed is doing its part to fight inflation. Now Congress needs to act Los Angeles Times
+
 **Homebuyers urged to watch market closely as borrowing costs rise after Fed interest rate hike - Action News Jax**
 `18 Sep 01:16 PKT` · pehli baar dekhi `18 Sep 04:38` · gnews_fed
 
@@ -586,11 +596,12 @@ The US Dollar (USD) is ending Thursday softer. The US Dollar Index (DXY) hovers 
 Kevin Warsh just defied Donald Trump. Now what? CNN
 
 **Fed's inflation fight shifts to how far rates will have to rise - WCIV**
-`18 Sep 00:02 PKT` · pehli baar dekhi `18 Sep 04:38` · gnews_fed · **5 feeds mein**
+`18 Sep 00:02 PKT` · pehli baar dekhi `18 Sep 04:38` · gnews_fed · **6 feeds mein**
 
 Fed's inflation fight shifts to how far rates will have to rise WCIV
   - `17 Sep 23:47` *gnews_fed* — Fed's inflation fight shifts to how far rates will have to rise - KRCR
   - `17 Sep 23:37` *gnews_fed* — Fed's inflation fight shifts to how far rates will have to rise - KOKH
+  - `17 Sep 23:36` *gnews_fed* — Fed's inflation fight shifts to how far rates will have to rise - 13wham.com
   - `17 Sep 23:34` *gnews_fed* — Fed's inflation fight shifts to how far rates will have to rise - KRXI2
   - `17 Sep 23:32` *gnews_fed* — Fed's inflation fight shifts to how far rates will have to rise - WLOS
 
@@ -620,9 +631,10 @@ The latest U.S. 4-week Treasury bill auction showed a modest uptick in short-ter
 The Brazilian real traded around R$5.15 per US dollar in September, showing little reaction after the Central Bank of Brazil (BCB) cut the Selic rate by 25 basis points to 13.75%. The BCB refrained from signaling a clear path for future moves, emphasizing that heightened uncertainty requires prudence and caution in the conduct of monetary policy. This was the final policy meeting before the October presidential election.
 
 **How the Fed rate hike impacts your mortgage, car loan, credit card and student debt - NBC 5 Dallas-Fort Worth**
-`17 Sep 23:13 PKT` · pehli baar dekhi `18 Sep 04:38` · gnews_fed
+`17 Sep 23:13 PKT` · pehli baar dekhi `18 Sep 04:38` · gnews_fed · **2 feeds mein**
 
 How the Fed rate hike impacts your mortgage, car loan, credit card and student debt NBC 5 Dallas-Fort Worth
+  - `17 Sep 23:13` *gnews_fed* — How the Fed rate hike impacts your mortgage, car loan, credit card and student debt - NBC Connecticut
 
 **World stocks rebound, Treasury yields retreat after Fed, BoE decisions - kitco.com**
 `17 Sep 23:13 PKT` · pehli baar dekhi `18 Sep 02:31` · kitco_general · **2 feeds mein**
@@ -661,6 +673,11 @@ Societe Generale's technical team notes USD/BRL's decline stalled near 4.88 in M
 Americans Are Right: Inflation Is Not Just the Fed's Problem Myrtle Beach Sun News
   - `17 Sep 23:00` *gnews_fed* — Americans Are Right: Inflation Is Not Just the Fed's Problem - Sacramento Bee
   - `17 Sep 23:00` *gnews_fed* — Americans Are Right: Inflation Is Not Just the Fed's Problem - Modesto Bee
+
+**Americans Are Right: Inflation Is Not Just the Fed's Problem - Miami Herald**
+`17 Sep 22:57 PKT` · pehli baar dekhi `18 Sep 06:32` · gnews_fed
+
+Americans Are Right: Inflation Is Not Just the Fed's Problem Miami Herald
 
 **Trump spares Kevin Warsh from criticism despite Fed rate hike - denvergazette.com**
 `17 Sep 22:43 PKT` · pehli baar dekhi `17 Sep 23:18` · gnews_fed
@@ -743,9 +760,10 @@ Historically supply shocks hit and resolve quickly but they're lingering longer 
 Welcome to the new rate-hike cycle. The FOMC delivered on the market's expectation for a rate hike yesterday and moved the Fed funds range to 3.75-4.00% from 3.50-3.75%. A hawkish Q&A from Fed Chairman Kevin Warsh left the market thinking there's an even chance of a second hike in October but there are still plenty of doves out there, who think inflation is transitory and will be quickly defeated.
 
 **Two Things a Higher Fed Rate Does to Your Money, and What to Do About It - Bloomberg.com**
-`17 Sep 20:01 PKT` · pehli baar dekhi `17 Sep 23:18` · gnews_fed · **2 feeds mein**
+`17 Sep 20:01 PKT` · pehli baar dekhi `17 Sep 23:18` · gnews_fed · **3 feeds mein**
 
 Two Things a Higher Fed Rate Does to Your Money, and What to Do About It Bloomberg.com
+  - `17 Sep 20:01` *gnews_fed* — Two Things a Higher Fed Rate Does to Your Money, and What to Do About It - Bloomberg.com
   - `17 Sep 20:01` *gnews_fed* — Two Things a Higher Fed Rate Does to Your Money, and What to Do About It - Bloomberg.com
 
 **USDCAD breaks higher after the Fed. Can buyers hold the breakout? Or will sellers take back control?**
@@ -797,6 +815,11 @@ The Philadelphia Fed Manufacturing Index eased to 37.8 in September 2026 from 47
 `17 Sep 19:12 PKT` · instaforex
 
 The number of people claiming unemployment benefits fell by 10,000 to 196,000 in the second week of September, the lowest level since July's 60-year trough of 189,000 and well below market expectations of 208,000. Continuing claims, a measure of ongoing unemployment in the US, declined by 39,000 to 1,730,000 in the first week of the month, the lowest reading since January 2024.
+
+**What to know about the Fed's decision. - The New York Times**
+`17 Sep 19:05 PKT` · pehli baar dekhi `18 Sep 06:32` · gnews_fed
+
+What to know about the Fed's decision. The New York Times
 
 **DA Davidson sees August retail sales data positive for Best Buy, AutoZone**
 `17 Sep 19:04 PKT` · pehli baar dekhi `17 Sep 19:12` · investing_news
@@ -1210,9 +1233,10 @@ Rabobank's RaboResearch Global Economics & Markets team reviews the latest FOMC 
 What does the Fed's first rate increase in more than three years mean for AR farm loans? KATV
 
 **Hawkish Fed lifts dollar to seven-week high as focus turn to BOJ - klsescreener.com**
-`17 Sep 08:08 PKT` · pehli baar dekhi `17 Sep 08:41` · gnews_centralbanks
+`17 Sep 08:08 PKT` · pehli baar dekhi `17 Sep 08:41` · gnews_centralbanks · **2 feeds mein**
 
 Hawkish Fed lifts dollar to seven-week high as focus turn to BOJ klsescreener.com
+  - `17 Sep 07:35` *gnews_centralbanks* — Hawkish Fed lifts dollar to seven-week high as focus turn to BOJ - CNBC
 
 **Fed Review: First Hike from Fed and Two More to Come**
 `17 Sep 07:56 PKT` · pehli baar dekhi `17 Sep 08:41` · actionforex
@@ -1555,6 +1579,11 @@ The European Central Bank (ECB) raised its deposit rate to 2.50% on September 10
 GBP/USD trades near 1.3350 on Thursday after a session low at 1.3336, its weakest since the end of July, and it has been under its 200-day average since Wednesday.
   - `18 Sep 01:56` *gnews_centralbanks* — British Pound Sterling slides after the Bank of England stays put - FXStreet
 
+**European Stocks Extend Gains as Bank of England Halts Bond Sales, Sending Yields Lower—Bank Shares Rally - finance.biggo.com**
+`18 Sep 00:35 PKT` · pehli baar dekhi `18 Sep 06:32` · gnews_centralbanks
+
+European Stocks Extend Gains as Bank of England Halts Bond Sales, Sending Yields Lower—Bank Shares Rally finance.biggo.com
+
 **Rates Spark: Global long-end gets some relief from the BoE**
 `18 Sep 00:09 PKT` · pehli baar dekhi `18 Sep 02:31` · ing_think · **2 feeds mein**
 
@@ -1582,9 +1611,10 @@ Bank of England Holds Rates Steady but Warns of Higher Inflation The Daily Gazet
 The Bank of England should have raised interest rates The Telegraph
 
 **Bank of England shifts tone toward rate hikes as inflation set to top 4% - Forex Factory**
-`17 Sep 22:23 PKT` · pehli baar dekhi `17 Sep 23:18` · gnews_centralbanks
+`17 Sep 22:23 PKT` · pehli baar dekhi `17 Sep 23:18` · gnews_centralbanks · **2 feeds mein**
 
 Bank of England shifts tone toward rate hikes as inflation set to top 4% Forex Factory
+  - `17 Sep 16:53` *gnews_centralbanks* — Bank of England shifts tone toward rate hikes as inflation set to top 4% - TradingView
 
 **The Bank Of England Held Rates Steady – And Hinted The Next Move Is Up - Finimize**
 `17 Sep 22:12 PKT` · pehli baar dekhi `17 Sep 23:18` · gnews_centralbanks
@@ -1637,7 +1667,7 @@ Pound Faces Pressure as Fed Hikes Rates and Bank of England Confronts Rising UK 
 Bank of England halts long-dated gilt sales, rewrites plan to unwind QE Reuters
 
 **Bank of England holds rates but appears ready to hike soon - Herald Bulletin**
-`17 Sep 20:01 PKT` · pehli baar dekhi `18 Sep 04:38` · gnews_centralbanks · **6 feeds mein**
+`17 Sep 20:01 PKT` · pehli baar dekhi `18 Sep 04:38` · gnews_centralbanks · **7 feeds mein**
 
 Bank of England holds rates but appears ready to hike soon Herald Bulletin
   - `17 Sep 17:15` *gnews_centralbanks* — Bank of England holds rates but appears ready to hike soon - Naharnet
@@ -1645,6 +1675,7 @@ Bank of England holds rates but appears ready to hike soon Herald Bulletin
   - `17 Sep 16:41` *gnews_centralbanks* — Bank of England holds rates but appears ready to hike soon - Eagle-Tribune
   - `17 Sep 16:41` *gnews_centralbanks* — Bank of England holds rates but appears ready to hike soon - Goshen News
   - `17 Sep 16:41` *gnews_centralbanks* — Bank of England holds rates but appears ready to hike soon - bdtonline.com
+  - `17 Sep 16:41` *gnews_centralbanks* — Bank of England holds rates but appears ready to hike soon - jonesborosun.com
 
 **Investors cheer BoE move to pause gilt sales, driving bond rally - Reuters**
 `17 Sep 19:49 PKT` · pehli baar dekhi `17 Sep 23:18` · gnews_centralbanks
@@ -1939,9 +1970,10 @@ Bank of England leaves rates on hold, inflation risks tilted to upside marketscr
 Bank of England issues stark warning on energy price hike ahead after interest rate decision news.sky.com
 
 **Bank of England is keeping its main interest rate at 3.75% despite higher inflation - The Globe and Mail**
-`17 Sep 16:13 PKT` · pehli baar dekhi `18 Sep 04:38` · gnews_centralbanks · **3 feeds mein**
+`17 Sep 16:13 PKT` · pehli baar dekhi `18 Sep 04:38` · gnews_centralbanks · **4 feeds mein**
 
 Bank of England is keeping its main interest rate at 3.75% despite higher inflation The Globe and Mail
+  - `17 Sep 16:11` *gnews_centralbanks* — Bank of England is keeping its main interest rate at 3.75% despite higher inflation - The Globe and Mail
   - `17 Sep 16:06` *gnews_centralbanks* — Bank of England is keeping its main interest rate at 3.75% despite higher inflation - The Batesville Daily Guard
   - `17 Sep 10:04` *gnews_centralbanks* — Bank of England is keeping its main interest rate at 3.75% despite higher inflation - WPLG Local 10
 
@@ -2046,7 +2078,7 @@ Bank Of England Expected To Hold Interest Rates At 3.75% Yahoo
 Bank of England holds interest rates at 3.75%, but governor says high energy costs may lead to increase ca.finance.yahoo.com
 
 **Bank of England expected to keep interest rates unchanged despite rising inflation - The Globe and Mail**
-`17 Sep 15:03 PKT` · pehli baar dekhi `18 Sep 02:31` · gnews_centralbanks · **18 feeds mein**
+`17 Sep 15:03 PKT` · pehli baar dekhi `18 Sep 02:31` · gnews_centralbanks · **19 feeds mein**
 
 Bank of England expected to keep interest rates unchanged despite rising inflation The Globe and Mail
   - `17 Sep 14:18` *gnews_centralbanks* — Bank of England expected to keep interest rates unchanged despite rising inflation - Eagle-Tribune
@@ -2062,6 +2094,7 @@ Bank of England expected to keep interest rates unchanged despite rising inflati
   - `17 Sep 10:04` *gnews_centralbanks* — Bank of England expected to keep interest rates unchanged despite rising inflation - The Daily Gazette
   - `17 Sep 10:04` *gnews_centralbanks* — Bank of England expected to keep interest rates unchanged despite rising inflation - Herald Bulletin
   - `17 Sep 10:04` *gnews_centralbanks* — Bank of England expected to keep interest rates unchanged despite rising inflation - The Batesville Daily Guard
+  - `17 Sep 10:04` *gnews_centralbanks* — Bank of England expected to keep interest rates unchanged despite rising inflation - Yakima Herald-Republic
   - `17 Sep 10:04` *gnews_centralbanks* — Bank of England expected to keep interest rates unchanged despite rising inflation - Audacy
   - `17 Sep 10:04` *gnews_centralbanks* — Bank of England expected to keep interest rates unchanged despite rising inflation - Yahoo Finance
   - `17 Sep 06:04` *gnews_centralbanks* — Bank of England expected to keep interest rates unchanged despite rising inflation - NEWS10 ABC
@@ -2848,6 +2881,11 @@ Middle East Unrest: Yemen Crisis Fuels Oil Supply Fears devdiscourse.com
 
 Why have China&#039;s oil prices reached a record high?
 
+**No relief in sight for U.S. drivers as gas and diesel prices surge - CBS News**
+`18 Sep 01:25 PKT` · pehli baar dekhi `18 Sep 06:32` · gnews_geopolitics
+
+No relief in sight for U.S. drivers as gas and diesel prices surge CBS News
+
 **Houthis are advancing near the Red Sea and threatening oil supplies — Reuters - UA.NEWS**
 `18 Sep 01:07 PKT` · pehli baar dekhi `18 Sep 02:31` · gnews_geopolitics
 
@@ -2891,6 +2929,11 @@ Taiwan is moving toward a nuclear comeback barely a year after shutting its last
 
 Brazil's 10-year government bond yield eased to 14.25% from a two-week high of 14.5% reached on September 15th, reflecting a retreat in energy prices and a rate cut by the Central Bank of Brazil. The BCB lowered its benchmark interest rate by 25 bps to 13.75% and kept its forward guidance deliberately open, stating that the current environment of uncertainty requires prudence and caution in the conduct of monetary policy.
 
+**Can Trump stop the surge in oil prices? Experts weigh in - ABC News - Breaking News, Latest News and Videos**
+`17 Sep 23:17 PKT` · pehli baar dekhi `18 Sep 06:32` · gnews_geopolitics
+
+Can Trump stop the surge in oil prices? Experts weigh in ABC News - Breaking News, Latest News and Videos
+
 **Crude Oil sells off and takes it all back on Saudi cargoes through Oman**
 `17 Sep 23:13 PKT` · pehli baar dekhi `17 Sep 23:18` · fxstreet_news
 
@@ -2908,6 +2951,12 @@ Imagine flying from South Africa to Antarctica, one of the most remote places on
 `17 Sep 22:42 PKT` · pehli baar dekhi `18 Sep 04:38` · gnews_geopolitics
 
 OIL IN 2026 – Analysts Hike Oil Outlook on Geopolitical Risks, Oversupply Concerns Limit Upside EnergyNow.com
+
+**Oil Jumps 5% as Iran Escalates Attacks on Gulf Shipping - energynow.ca**
+`17 Sep 22:34 PKT` · pehli baar dekhi `18 Sep 06:32` · gnews_geopolitics · **2 feeds mein**
+
+Oil Jumps 5% as Iran Escalates Attacks on Gulf Shipping energynow.ca
+  - `17 Sep 03:10` *gnews_geopolitics* — Oil Jumps 5% as Iran Escalates Attacks on Gulf Shipping - EnergyNow.com
 
 **Houthi attacks, fueled by Iran, pose unprecedented existential threat to Saudi oil production and global s... - Mix Vale**
 `17 Sep 22:31 PKT` · pehli baar dekhi `17 Sep 23:18` · gnews_geopolitics
@@ -3354,11 +3403,6 @@ The daily rate for commissioning a tanker topped $1 million for the first time i
 
 Oil Hits $100: U.S. And Houthi Strikes Raise Global Supply Fears BBN Times
 
-**Oil Jumps 5% as Iran Escalates Attacks on Gulf Shipping - EnergyNow.com**
-`17 Sep 03:10 PKT` · pehli baar dekhi `17 Sep 13:55` · gnews_geopolitics
-
-Oil Jumps 5% as Iran Escalates Attacks on Gulf Shipping EnergyNow.com
-
 **World Faces Largest-Ever Oil Supply Disruption on Middle East War, IEA Says - EnergyNow.com**
 `17 Sep 03:05 PKT` · pehli baar dekhi `17 Sep 13:55` · gnews_geopolitics
 
@@ -3489,10 +3533,20 @@ Trump hopeful US-Iran conflict nearing end despite unresolved issues Crypto Brie
 
 Federal Reserve rate hike could add pressure to Montana homebuyers NBC Montana
 
+**Banks shrug off impact of first rate hike in three years - American Banker**
+`18 Sep 02:33 PKT` · pehli baar dekhi `18 Sep 06:32` · gnews_fed
+
+Banks shrug off impact of first rate hike in three years American Banker
+
 **Trump blasts Federal Reserve over interest rate hike - KTVU**
 `18 Sep 01:48 PKT` · pehli baar dekhi `18 Sep 02:31` · gnews_fed
 
 Trump blasts Federal Reserve over interest rate hike KTVU
+
+**Bailey: Economic Outlook Too Unpredictable to Judge Rate Hike Bets - IndexBox**
+`18 Sep 00:10 PKT` · pehli baar dekhi `18 Sep 06:32` · gnews_centralbanks
+
+Bailey: Economic Outlook Too Unpredictable to Judge Rate Hike Bets IndexBox
 
 **Federal interest rate hike's potential impact on Texas real estate market - spectrumlocalnews.com**
 `18 Sep 00:00 PKT` · pehli baar dekhi `18 Sep 02:31` · gnews_fed · **2 feeds mein**
@@ -3501,9 +3555,10 @@ Federal interest rate hike's potential impact on Texas real estate market spectr
   - `18 Sep 00:00` *gnews_fed* — Federal interest rate hike's potential impact on Texas real estate market - spectrumlocalnews.com
 
 **President Trump criticizes Federal Reserve after interest rate hike | Videos | 2news.com - KTVN**
-`17 Sep 23:38 PKT` · pehli baar dekhi `18 Sep 02:31` · gnews_fed
+`17 Sep 23:38 PKT` · pehli baar dekhi `18 Sep 02:31` · gnews_fed · **2 feeds mein**
 
 President Trump criticizes Federal Reserve after interest rate hike | Videos | 2news.com KTVN
+  - `17 Sep 23:38` *gnews_fed* — President Trump criticizes Federal Reserve after interest rate hike | Videos | 2news.com - KTVN
 
 **President Trump criticizes the Federal Reserve following interest rate hike - cbs8.com**
 `17 Sep 23:38 PKT` · pehli baar dekhi `18 Sep 02:31` · gnews_fed
@@ -3575,6 +3630,13 @@ The Justice Department says it thwarted a Moscow-backed plot to assassinate a di
 
 Will he use this sanctions tool against Russia's benefactors?
 
+**"Energy security paramount": Ex-diplomat Ashok Sajjanhar on US Russia-Iran sanctions bill, says India will continue to diversify supplies - indiasnews.net**
+`18 Sep 02:39 PKT` · pehli baar dekhi `18 Sep 06:32` · gnews_geopolitics · **3 feeds mein**
+
+"Energy security paramount": Ex-diplomat Ashok Sajjanhar on US Russia-Iran sanctions bill, says India will continue to diversify supplies indiasnews.net
+  - `18 Sep 01:31` *gnews_geopolitics* — "Energy security paramount": Ex-diplomat Ashok Sajjanhar on US Russia-Iran sanctions bill, says India will continue to diversify supplies - ANI News
+  - `17 Sep 22:00` *gnews_geopolitics* — "Energy security paramount": Ex-diplomat Ashok Sajjanhar on US Russia-Iran sanctions bill, says India will continue to diversify supplies - indiagazette.com
+
 **Trump administration approves sale of F-35 jets to Saudi Arabia**
 `18 Sep 02:38 PKT` · pehli baar dekhi `18 Sep 04:38` · aljazeera
 
@@ -3603,16 +3665,15 @@ Move ends the Security Council's watchdog panel on Iran sanctions.
 
 Bank of England signals interest rate rises as Iran war fuels inflation The Times
 
-**"Energy security paramount": Ex-diplomat Ashok Sajjanhar on US Russia-Iran sanctions bill, says India will continue to diversify supplies - ANI News**
-`18 Sep 01:31 PKT` · pehli baar dekhi `18 Sep 02:31` · gnews_geopolitics · **2 feeds mein**
-
-"Energy security paramount": Ex-diplomat Ashok Sajjanhar on US Russia-Iran sanctions bill, says India will continue to diversify supplies ANI News
-  - `17 Sep 22:00` *gnews_geopolitics* — "Energy security paramount": Ex-diplomat Ashok Sajjanhar on US Russia-Iran sanctions bill, says India will continue to diversify supplies - indiagazette.com
-
 **U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens**
 `18 Sep 01:00 PKT` · pehli baar dekhi `18 Sep 02:31` · oilprice
 
 With assorted economic and military crises boiling all across the Middle East in the wake of his disastrous decision to launch a war on Iran, President Trump will meet with Persian Gulf leaders in New York next week, on the margins of the United Nations General Assembly. This diplomacy news came on the same day we learned US officials met over the weekend with representatives of Yemen's Ansar Allah.
+
+**JPMorgan Abandons Oil Market Baseline as Iran War Enters Seventh Month - finance.biggo.com**
+`18 Sep 00:55 PKT` · pehli baar dekhi `18 Sep 06:32` · gnews_geopolitics
+
+JPMorgan Abandons Oil Market Baseline as Iran War Enters Seventh Month finance.biggo.com
 
 **Russia's plans may include strikes against Ukraine's allies, Poland says**
 `18 Sep 00:54 PKT` · pehli baar dekhi `18 Sep 02:31` · aljazeera
@@ -3634,6 +3695,11 @@ WSJ's Shelby Holliday explains how the Houthis pulled off a swift offensive that
 
 Gianni Infantino&#039;s World Cup selloff plan has faced global backlash with English FA latest to seek document release.
 
+**Is California at risk of a gasoline shortage amid the Iran war? Experts explain - ABC News - Breaking News, Latest News and Videos**
+`17 Sep 23:13 PKT` · pehli baar dekhi `18 Sep 06:32` · gnews_geopolitics
+
+Is California at risk of a gasoline shortage amid the Iran war? Experts explain ABC News - Breaking News, Latest News and Videos
+
 **US delays tariff announcement until after Xi-Trump summit - Bloomberg**
 `17 Sep 23:10 PKT` · pehli baar dekhi `17 Sep 23:18` · investing_news
 
@@ -3641,6 +3707,16 @@ Gianni Infantino&#039;s World Cup selloff plan has faced global backlash with En
 `17 Sep 23:02 PKT` · pehli baar dekhi `18 Sep 02:31` · aljazeera
 
 Washington Capitals captain under fire for appearing in an election campaign video for Putin&#039;s United Russia party.
+
+**Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says - EnergyNow.com**
+`17 Sep 23:00 PKT` · pehli baar dekhi `18 Sep 06:32` · gnews_geopolitics
+
+Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says EnergyNow.com
+
+**Gas prices top $4 a gallon as Iran war escalates - ABC News - Breaking News, Latest News and Videos**
+`17 Sep 22:47 PKT` · pehli baar dekhi `18 Sep 06:32` · gnews_geopolitics
+
+Gas prices top $4 a gallon as Iran war escalates ABC News - Breaking News, Latest News and Videos
 
 **US Oil Prices Soar in Early Trading on Supply Fears Amid Expanding U.S.-Israeli War With Iran - EnergyNow**
 `17 Sep 22:39 PKT` · pehli baar dekhi `18 Sep 04:38` · gnews_geopolitics
@@ -3906,7 +3982,7 @@ The fresh low, alongside back to back price target cuts from Telsey and Baird th
 
 US Treasury Secretary Bessent Says Oil Market Well Supplied Amid Iran War EnergyNow.com
 
-### BINA TAG (296)
+### BINA TAG (303)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -3935,6 +4011,7 @@ US Treasury Secretary Bessent Says Oil Market Well Supplied Amid Iran War Energy
 - `18 Sep 01:47` **aljazeera** — At least 26 killed in clashes along Sudan-South Sudan border region
 - `18 Sep 01:46` **aljazeera** — Why does Brazil get to speak first at UNGA?
 - `18 Sep 01:34` **gnews_fed** — Federal Reserve raises interest rates - News Channel 5 Nashville
+- `18 Sep 01:28` **gnews_fed** — Watch Big Take: Why The Federal Reserve Raised Interest Rates - Bloomberg.com
 - `18 Sep 01:23` **mw_topstories** — Tesla's upcoming product frenzy could leave investors disappointed
 - `18 Sep 01:13` **mw_topstories** — Pokémon has turned 30, and Target is set to cash in on the anniversary craze
 - `18 Sep 00:42` **aljazeera** — Ilhan Omar attacker sentenced to more than a year in prison
@@ -3944,6 +4021,7 @@ US Treasury Secretary Bessent Says Oil Market Well Supplied Amid Iran War Energy
 - `18 Sep 00:25` **wsj_markets** — Opinion | Bring Back State-Led Corporate Governance
 - `18 Sep 00:23` **wsj_world** — Opinion | American AI Regulation Is Exactly What China Wants
 - `18 Sep 00:20` **gnews_fed** — US mortgage rates brush 7%, weighing on buyers, sellers and further straining a bleak housing market - AP News
+- `18 Sep 00:12` **gnews_fed** — Why the Federal Reserve is lifting rates now, and what it means - AP News
 - `18 Sep 00:07` **mw_topstories** — My brother-in-law expects my husband and me to pay for his food every time we go out. How can I tell my husband I don't want to do this anymore?
 - `17 Sep 23:54` **aljazeera** — Serbia opens factory to assemble Israeli-made drones
 - `17 Sep 23:46` **fxstreet_news** — Chinese Yuan: PBoC accepts slower credit as summit nears – Commerzbank
@@ -3958,9 +4036,13 @@ US Treasury Secretary Bessent Says Oil Market Well Supplied Amid Iran War Energy
 - `17 Sep 23:30` **gnews_fed** — Why the Federal Reserve is lifting rates now, and what it means - The Killeen Daily Herald
 - `17 Sep 23:30` **gnews_fed** — Why the Federal Reserve is lifting rates now, and what it means - morning-times.com
 - `17 Sep 23:30` **gnews_fed** — Why the Federal Reserve is lifting rates now, and what it means - khon2.com
+- `17 Sep 23:30` **gnews_fed** — Why the Federal Reserve is lifting rates now, and what it means - Action News Jax
 - `17 Sep 23:30` **gnews_fed** — Why the Federal Reserve is lifting rates now, and what it means - Ottumwa Courier
 - `17 Sep 23:30` **gnews_fed** — Why the Federal Reserve is lifting rates now, and what it means - The Independent
 - `17 Sep 23:30` **gnews_fed** — Why the Federal Reserve is lifting rates now, and what it means - The Globe and Mail
+- `17 Sep 23:30` **gnews_fed** — Why the Federal Reserve is lifting rates now, and what it means - The Globe and Mail
+- `17 Sep 23:27` **gnews_fed** — AP: Federal Reserve Hikes Key Rate for First Time in 3 Years - RV PRO
+- `17 Sep 23:24` **gnews_fed** — Federal Reserve hikes interest rate as mortgage rates reach 16-month high - wishtv.com
 - `17 Sep 23:18` **instaforex** — US 30-Year Mortgage Rate Rises Further
 - `17 Sep 23:18` **instaforex** — US Natgas Prices Rise After EIA Data
 - `17 Sep 23:18` **instaforex** — US Natural Gas Stocks Rise Less Than Expected
@@ -4012,6 +4094,7 @@ US Treasury Secretary Bessent Says Oil Market Well Supplied Amid Iran War Energy
 - `17 Sep 20:22` **mw_topstories** — Micron, Intel and other chip stocks are furthering their strong comebacks
 - `17 Sep 20:20` **mw_topstories** — More Americans are about to get scammed by the coming peptide rush
 - `17 Sep 20:10` **aljazeera** — 'Kosovo's moves towards Israel are the price of aligning with US policy'
+- `17 Sep 20:04` **gnews_fed** — Federal Reserve hikes key rate for 1st time in 3 years - KWXX - Hawaii
 - `17 Sep 19:48` **kitco_general** — US seals big uranium investment in Niger, two years after troops left - KITCO
 - `17 Sep 19:47` **gnews_centralbanks** — Why have interest rates stayed the same and what could happen next? - The Independent
 - `17 Sep 19:45` **kitco_general** — Zimbabwe seeks $115 million Afreximbank loan for state rail operator - KITCO
@@ -4223,42 +4306,45 @@ investing_news (17)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 5 | 25 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 6 | 24 | 0 | 0.0 |
 | fxstreet_analysis | OK | 30 | 3 | 0 | 3 | 27 | 0.3 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.4 |
-| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.6 |
-| instaforex | OK | 25 | 25 | 12 | 13 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 10 | 0 | 10 | 26 | 0.3 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.1 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 7.2 |
-| kitco_general | OK | 42 | 41 | 3 | 38 | 1 | 0.1 |
-| gnews_fed | OK | 100 | 100 | 29 | 71 | 0 | 0.0 |
-| gnews_geopolitics | OK | 64 | 64 | 22 | 42 | 0 | 0.0 |
-| gnews_centralbanks | OK | 100 | 100 | 15 | 85 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.2 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.1 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.7 |
+| instaforex | OK | 25 | 25 | 13 | 12 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 12 | 2 | 10 | 24 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 7.3 |
+| kitco_general | OK | 39 | 38 | 0 | 38 | 1 | 0.2 |
+| gnews_fed | OK | 100 | 100 | 20 | 80 | 0 | 0.0 |
+| gnews_geopolitics | OK | 74 | 74 | 12 | 62 | 0 | 0.0 |
+| gnews_centralbanks | OK | 100 | 100 | 10 | 90 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
 | fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 14.5 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
-| boe_news | OK | 50 | 6 | 0 | 6 | 44 | 0.4 |
-| boj_whatsnew | OK | 43 | 2 | 0 | 2 | 41 | 0.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 14.8 |
-| mining_com | OK | 36 | 10 | 2 | 8 | 26 | 0.0 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| ing_think | OK | 10 | 5 | 0 | 5 | 5 | 0.2 |
-| bbc_business | OK | 53 | 23 | 5 | 18 | 30 | 0.0 |
-| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.1 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 3.3 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 7.5 |
-| eia_energy | OK | 16 | 0 | 0 | 0 | 16 | 2.4 |
+| boe_news | OK | 50 | 6 | 0 | 6 | 44 | 0.5 |
+| boj_whatsnew | OK | 42 | 2 | 0 | 2 | 40 | 0.8 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 14.9 |
+| mining_com | OK | 36 | 10 | 0 | 10 | 26 | 0.1 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| bbc_business | OK | 53 | 23 | 0 | 23 | 30 | 0.1 |
+| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 3.4 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 7.6 |
+| eia_energy | OK | 16 | 0 | 0 | 0 | 16 | 2.5 |
 | bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 14.5 |
-| wsj_world | OK | 73 | 16 | 3 | 13 | 57 | 0.1 |
-| wsj_markets | OK | 61 | 31 | 3 | 28 | 30 | 0.1 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 4 | 0 | 4 | 46 | 0.5 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 20 | 1 | 19 | 10 | 0.1 |
+| wsj_world | OK | 73 | 16 | 0 | 16 | 57 | 0.2 |
+| wsj_markets | OK | 61 | 33 | 4 | 29 | 28 | 0.0 |
+| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 0 | 0 | 0 | 50 | 1.4 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 21 | 1 | 20 | 9 | 0.1 |
+
+**Jo feeds nahi aaye:**
+- ing_think — FAIL, ConnectTimeout
