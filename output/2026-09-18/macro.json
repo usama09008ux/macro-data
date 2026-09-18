@@ -1,13 +1,13 @@
 {
-  "generated_pkt": "18 Sep 2026 15:03",
+  "generated_pkt": "18 Sep 2026 21:26",
   "trading_day": "2026-09-18",
   "series": {
     "DFEDTARU": {
       "latest": 4.0,
-      "latest_date": "2026-09-17",
-      "n_obs": 1105,
+      "latest_date": "2026-09-18",
+      "n_obs": 1106,
       "changes": {
-        "1d": 0.25,
+        "1d": 0.0,
         "5d": 0.25,
         "20d": 0.25
       },
@@ -124,24 +124,24 @@
       "percentile": 4
     },
     "VIXCLS": {
-      "latest": 17.71,
-      "latest_date": "2026-09-16",
-      "n_obs": 779,
+      "latest": 15.44,
+      "latest_date": "2026-09-17",
+      "n_obs": 780,
       "changes": {
-        "1d": 0.51,
-        "5d": 1.25,
-        "20d": 2.82
+        "1d": -2.27,
+        "5d": -2.4,
+        "20d": -0.57
       },
-      "percentile": 66
+      "percentile": 36
     },
     "BAMLH0A0HYM2": {
       "latest": 2.7,
-      "latest_date": "2026-09-16",
+      "latest_date": "2026-09-17",
       "n_obs": 787,
       "changes": {
-        "1d": -0.06,
-        "5d": -0.01,
-        "20d": -0.03
+        "1d": 0.0,
+        "5d": 0.0,
+        "20d": -0.05
       },
       "percentile": 10
     },
@@ -247,12 +247,12 @@
       "percentile": 97
     },
     "INDPRO": {
-      "latest": 102.9939,
-      "latest_date": "2026-07-01",
-      "n_obs": 35,
+      "latest": 103.0682,
+      "latest_date": "2026-08-01",
+      "n_obs": 36,
       "changes": {
-        "MoM %": 0.2,
-        "YoY %": 1.08
+        "MoM %": 0.02,
+        "YoY %": 1.42
       },
       "percentile": 97
     },
