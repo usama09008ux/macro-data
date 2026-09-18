@@ -1,6 +1,6 @@
 # Calendar — Trading Day 18 Sep 2026
 
-- Banaya gaya: **18 Sep 2026 20:29 PKT**
+- Banaya gaya: **19 Sep 2026 00:20 PKT**
 - Trading day: **18 Sep 03:00 -> 19 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,8 +12,7 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 20:45 | USD | low | FOMC Member Schmid Speaks | - | - |
-| **19 Sep** 15:15 | EUR | low | ECOFIN Meetings | - | - |
+| 15:15 | EUR | low | ECOFIN Meetings | - | - |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
