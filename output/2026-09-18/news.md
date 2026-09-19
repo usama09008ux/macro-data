@@ -1,8 +1,8 @@
 # News Pack — Trading Day 18 Sep 2026
 
 - Trading day: **18 Sep 03:00 -> 19 Sep 02:59 PKT**
-- Aakhri update: **19 Sep 04:20 PKT**
-- Kul khabrein: **1130**
+- Aakhri update: **19 Sep 06:21 PKT**
+- Kul khabrein: **1143**
 - Feeds: 39/39 OK
 
 ---
@@ -702,6 +702,11 @@ Stocks and bonds dip as central banks jack up rates to tame inflation KITCO
 BofA Warns of Warsh's Fed Hiking Rate Above 5% in 2022 Redux Bloomberg.com
   - `18 Sep 20:21` *gnews_fed* — BofA Warns of Warsh's Fed Raising Rates Above 5% in 2022 Redux - Bloomberg.com
 
+**Report faults Fed staff for epic failure of Silicon Valley Bank - CNN**
+`18 Sep 20:18 PKT` · pehli baar dekhi `19 Sep 06:21` · gnews_fed
+
+Report faults Fed staff for epic failure of Silicon Valley Bank CNN
+
 **US Dollar Index Price Forecast: Technical setup favours further gains above 100**
 `18 Sep 20:16 PKT` · pehli baar dekhi `18 Sep 23:33` · fxstreet_news
 
@@ -1394,6 +1399,11 @@ Binance declined to address reports of ECB intervention in its Greek MiCA bid, s
 
 Christine Lagarde Says She'll Leave ECB in 2027, Won't Give Exact Date bloomberg.com
 
+**ECB's Kazaks says September hike unlike to be the last, "unless we find ourselves in a very difference scenario than the baseline", Econostream reports - Newsquawk**
+`18 Sep 13:27 PKT` · pehli baar dekhi `19 Sep 06:21` · gnews_centralbanks
+
+ECB's Kazaks says September hike unlike to be the last, "unless we find ourselves in a very difference scenario than the baseline", Econostream reports Newsquawk
+
 **ECB Consumer Expectations Survey (Aug): 1-year 3.0% (prev. 2.9%), 3-year 2.9% (prev. 2.7%), 5-year 2.5% (prev. 2.4%) - Newsquawk**
 `18 Sep 13:22 PKT` · pehli baar dekhi `19 Sep 04:20` · gnews_centralbanks
 
@@ -1702,6 +1712,11 @@ Bank of Japan Hikes Key Rate to 1.25%, Highest Since 1995 finance.biggo.com
 
 Bank of Japan raises policy rate to 1.25%, stoking repayment concerns among variable-rate mortgage holders in Japan finance.biggo.com
 
+**Reports emerged that the Bank of Japan conducted "exchange rate inquiries," but this move was deemed "too late and largely ineffective." - Moomoo**
+`18 Sep 22:54 PKT` · pehli baar dekhi `19 Sep 06:21` · gnews_centralbanks
+
+Reports emerged that the Bank of Japan conducted "exchange rate inquiries," but this move was deemed "too late and largely ineffective." Moomoo
+
 **Japan conducted an FX rate check earlier - report**
 `18 Sep 22:52 PKT` · pehli baar dekhi `18 Sep 23:33` · investinglive
 
@@ -1820,6 +1835,11 @@ Bank of Japan raises rates to 1.25%, highest since 1995 qz.com
   - `18 Sep 10:59` *gnews_centralbanks* — Bank of Japan raises rates to highest since 1995 - ft.com
   - `18 Sep 09:41` *gnews_centralbanks* — Bank of Japan Raises Rate to 1.25%, Highest Since 1995 - Businesskorea
 
+**Japan's weak currency has a three-body problem - Breakingviews**
+`18 Sep 17:34 PKT` · pehli baar dekhi `19 Sep 06:21` · gnews_centralbanks
+
+Japan's weak currency has a three-body problem Breakingviews
+
 **BoJ Recap: Not as hawkish as expected**
 `18 Sep 17:33 PKT` · pehli baar dekhi `18 Sep 20:15` · fxstreet_analysis
 
@@ -1902,6 +1922,11 @@ Bank of Japan Rate Boost Stokes Yen Slump and Raises New Bessent Headache Barron
 `18 Sep 15:35 PKT` · pehli baar dekhi `18 Sep 20:15` · gnews_centralbanks
 
 Bank of Japan Raises Rate to 1.25% as Yen Weakens After 31-Year High CryptoRank
+
+**Bank of Japan raises interest rate to highest level in 31 years - سانا**
+`18 Sep 15:31 PKT` · pehli baar dekhi `19 Sep 06:21` · gnews_centralbanks
+
+Bank of Japan raises interest rate to highest level in 31 years سانا
 
 **How to Tell Whether a Plunging Stock Will Keep Plunging**
 `18 Sep 15:26 PKT` · pehli baar dekhi `18 Sep 16:48` · wsj_markets
@@ -2753,6 +2778,11 @@ The artificial intelligence energy crisis is catalyzing the development pipeline
 
 French President Emmanuel Macron is calling the G7 back to the table to discuss another release of emergency oil stocks as Europe loses Saudi crude deliveries and diesel prices push deeper into record territory. Macron said Friday that he will convene G7 countries in the coming weeks to coordinate stock levels, exports and production capacity and consider tapping strategic reserves. France is also working to secure diesel, jet fuel and natural gas supplies for the coming months.
 
+**Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns - EnergyNow.com**
+`19 Sep 01:20 PKT` · pehli baar dekhi `19 Sep 06:21` · gnews_geopolitics
+
+Oil Prices Settle Slightly Higher as Optimism Around US Inflation Data Outweighs OPEC Supply Concerns EnergyNow.com
+
 **Oil finishes lower as the market sniffs out a TACO**
 `19 Sep 00:05 PKT` · pehli baar dekhi `19 Sep 02:13` · investinglive
 
@@ -3436,6 +3466,11 @@ U.S. stocks ended mixed as inflation and Middle East war trepidation offset opti
 The blockade proves the success of sanctions. If the U.S. keeps its chokehold, Tehran will likely break.
   - `19 Sep 01:26` *wsj_markets* — Opinion | You Probably Have the Iran War Backward
 
+**Iran War Upends IEA's Oil Market Outlook as Global Supply and Demand to Contract in 2026 - EnergyNow.com**
+`19 Sep 01:20 PKT` · pehli baar dekhi `19 Sep 06:21` · gnews_geopolitics
+
+Iran War Upends IEA's Oil Market Outlook as Global Supply and Demand to Contract in 2026 EnergyNow.com
+
 **A Look at Iran's Kharg Island and Energy Sector - EnergyNow.com**
 `19 Sep 00:51 PKT` · pehli baar dekhi `19 Sep 04:20` · gnews_geopolitics
 
@@ -3475,6 +3510,11 @@ The election is meant to jump-start flagging support for President Vladimir Puti
 `18 Sep 23:19 PKT` · pehli baar dekhi `18 Sep 23:33` · aljazeera
 
 Russia strikes Ukraine's border crossings with Poland and Moldova as its offensives peter out in Ukraine's east.
+
+**Trump's 4-Week War With Iran Approaches Month 7 - Yahoo**
+`18 Sep 23:14 PKT` · pehli baar dekhi `19 Sep 06:21` · gnews_geopolitics
+
+Trump's 4-Week War With Iran Approaches Month 7 Yahoo
 
 **'We simply don't know' - JP Morgan struggling to forecast oil prices due to US-Iran war**
 `18 Sep 22:57 PKT` · pehli baar dekhi `18 Sep 23:33` · bbc_business · **2 feeds mein**
@@ -3531,6 +3571,11 @@ For the Kremlin, the giant Vostok Oil project in the frigid Far North is crucial
 `18 Sep 20:52 PKT` · pehli baar dekhi `19 Sep 04:20` · gnews_geopolitics
 
 Iran War Hands OPEC's Swing Producer Crown to America: Bousso EnergyNow.com
+
+**Americans Are Paying More at the Pump as Trump's War With Iran Expands - Center for American Progress**
+`18 Sep 20:25 PKT` · pehli baar dekhi `19 Sep 06:21` · gnews_geopolitics
+
+Americans Are Paying More at the Pump as Trump's War With Iran Expands Center for American Progress
 
 **Federal Reserve Plans Final Vote on More Transparent Bank Stress Tests | Ukraine news - #Mezha - Межа. Новини України.**
 `18 Sep 20:12 PKT` · pehli baar dekhi `18 Sep 20:15` · gnews_fed
@@ -3761,7 +3806,7 @@ Oil Falls as Traders Digest Escalation in US-Iran Strikes EnergyNow.com
 
 Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?
 
-### BINA TAG (289)
+### BINA TAG (293)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -3812,6 +3857,7 @@ Russians vote for the first time since 2022. Can opposition parties challenge Pu
 - `18 Sep 23:54` **aljazeera** — Pentagon resumes mandatory testosterone testing for US troops over 30
 - `18 Sep 23:33` **instaforex** — Colombia Economic Index Gains in July
 - `18 Sep 23:32` **aljazeera** — Warren Buffett steps down as Berkshire Hathaway chairman
+- `18 Sep 23:25` **gnews_fed** — Federal Reserve hikes rates, sees more tightening ahead - InsuranceNewsNet
 - `18 Sep 23:16` **aljazeera** — Police clear Ceuta migrants off beaches in Spanish enclave
 - `18 Sep 23:15` **aljazeera** — Early in-person voting begins in the 2026 US midterm elections in Virginia
 - `18 Sep 23:15` **investing_news** — Wendy's shares slip after US franchisee files for bankruptcy
@@ -3826,6 +3872,7 @@ Russians vote for the first time since 2022. Can opposition parties challenge Pu
 - `18 Sep 22:56` **kitco_general** — What's next for Trump's aluminum smelter project in Oklahoma? - KITCO
 - `18 Sep 22:55` **aljazeera** — Sweden's left-wing opposition leader begins efforts to form government
 - `18 Sep 22:42` **investing_commodities** — Euronext wheat drops as traders weigh Black Sea export disruption
+- `18 Sep 22:41` **yahoo_finance** — Visa, Mastercard $167.5 million settlement could mean money for ATM users. Who qualifies.
 - `18 Sep 22:41` **mw_topstories** — As Warren Buffett's reign ends, fans should sell Berkshire — and buy these stocks instead
 - `18 Sep 22:15` **bbc_business** — Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'
 - `18 Sep 22:10` **bbc_business** — Ryanair boss Michael O'Leary apologises over 'high-fare rapists' remarks
@@ -3981,6 +4028,7 @@ Russians vote for the first time since 2022. Can opposition parties challenge Pu
 - `18 Sep 15:01` **gnews_fed** — Top CD rates on Sept. 18, 2026: Lock in up to up to 4.75% - Fortune
 - `18 Sep 15:00` **yahoo_finance** — Best CD rates today, Friday, September 18, 2026: Up to 4.40% APY return available with a 2-year CD
 - `18 Sep 15:00` **gnews_fed** — Senate Republicans rebuff Trump's attacks on Supreme Court, Federal Reserve - The Hill
+- `18 Sep 15:00` **yahoo_finance** — Mortgage and refinance interest rates today, Friday, September 18, 2026: Rates climb above 7%
 - `18 Sep 14:53` **gnews_fed** — Investors buy US stocks at fastest pace in three months, BofA says - Reuters
 - `18 Sep 14:34` **aljazeera** — India star Sooryavanshi urged to be patient by coach Gambhir
 - `18 Sep 14:30` **wsj_markets** — Meta's AI Agent Has a Trust Problem
@@ -4035,6 +4083,7 @@ Russians vote for the first time since 2022. Can opposition parties challenge Pu
 - `18 Sep 07:44` **aljazeera** — US Veteran told he is 'embarrassing' uniform over Israeli bonds stance
 - `18 Sep 07:00` **wsj_world** — The U.S. and China Want AI Guardrails. But Their Ideas Couldn't Be More Different.
 - `18 Sep 06:58` **aljazeera** — Syria warns Israel poses 'the greatest threat' to Middle East stability
+- `18 Sep 06:30` **gnews_fed** — Why the Federal Reserve is lifting rates now, and what it means - The Washington Post
 - `18 Sep 06:23` **aljazeera** — White House withdraws Lance Schroyer's nomination to lead ICE
 - `18 Sep 06:15` **aljazeera** — Former Assad officer sentenced to 60 years in US for torture
 - `18 Sep 05:49` **aljazeera** — Tunisia floods disrupt capital as heavy rain traps motorists and residents
@@ -4071,42 +4120,42 @@ investing_news (13)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
-| fxstreet_news | OK | 30 | 30 | 3 | 27 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.2 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.4 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.6 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.1 |
-| wsj_economy | OK | 36 | 9 | 1 | 8 | 27 | 0.1 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.1 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.2 |
-| kitco_general | OK | 25 | 24 | 3 | 21 | 1 | 0.0 |
-| gnews_fed | OK | 100 | 100 | 13 | 87 | 0 | 0.0 |
-| gnews_geopolitics | OK | 77 | 77 | 14 | 63 | 0 | 0.1 |
-| gnews_centralbanks | OK | 100 | 100 | 10 | 90 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
-| fed_speeches | OK | 15 | 2 | 0 | 2 | 13 | 0.4 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.6 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.5 |
-| boj_whatsnew | OK | 44 | 4 | 0 | 4 | 40 | 0.8 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 15.8 |
-| mining_com | OK | 36 | 10 | 3 | 7 | 26 | 0.0 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| ing_think | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
-| bbc_business | OK | 53 | 18 | 0 | 18 | 35 | 0.2 |
-| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.1 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 4.3 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 8.5 |
-| eia_energy | OK | 17 | 1 | 0 | 1 | 16 | 0.4 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
+| fxstreet_news | OK | 30 | 30 | 3 | 27 | 0 | 0.1 |
+| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.3 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.1 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.7 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.0 |
+| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 0.2 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.3 |
+| kitco_general | OK | 23 | 23 | 0 | 23 | 0 | 0.1 |
+| gnews_fed | OK | 100 | 100 | 8 | 92 | 0 | 0.0 |
+| gnews_geopolitics | OK | 71 | 71 | 5 | 66 | 0 | 0.0 |
+| gnews_centralbanks | OK | 100 | 100 | 9 | 91 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
+| fed_speeches | OK | 15 | 2 | 0 | 2 | 13 | 0.5 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.7 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.6 |
+| boj_whatsnew | OK | 44 | 4 | 0 | 4 | 40 | 0.9 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 15.9 |
+| mining_com | OK | 36 | 11 | 1 | 10 | 25 | 0.1 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.2 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| ing_think | OK | 10 | 8 | 0 | 8 | 2 | 0.5 |
+| bbc_business | OK | 53 | 18 | 0 | 18 | 35 | 0.3 |
+| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 4.4 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 8.6 |
+| eia_energy | OK | 17 | 1 | 0 | 1 | 16 | 0.5 |
 | bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 15.5 |
-| wsj_world | OK | 74 | 20 | 7 | 13 | 54 | 0.0 |
-| wsj_markets | OK | 61 | 29 | 3 | 26 | 32 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 4 | 0 | 4 | 46 | 0.5 |
-| mw_topstories | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 19 | 0 | 19 | 11 | 0.1 |
+| wsj_world | OK | 73 | 21 | 1 | 20 | 52 | 0.0 |
+| wsj_markets | OK | 61 | 31 | 2 | 29 | 30 | 0.0 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 6 | 2 | 4 | 44 | 0.3 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 19 | 0 | 19 | 11 | 0.2 |
