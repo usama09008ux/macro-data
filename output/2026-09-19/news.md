@@ -1,8 +1,8 @@
 # News Pack — Trading Day 19 Sep 2026
 
 - Trading day: **19 Sep 03:00 -> 20 Sep 02:59 PKT**
-- Aakhri update: **19 Sep 16:02 PKT**
-- Kul khabrein: **179**
+- Aakhri update: **19 Sep 19:21 PKT**
+- Kul khabrein: **272**
 - Feeds: 38/39 OK
 
 ---
@@ -41,6 +41,48 @@ The Fed raised rates and gold didn't break: Here's why kitco.com
 
 ### USD
 
+**America In Focus: affordability concerns rise as Fed hikes key rate, mortgage rate reaches nearly 7% - WRAL**
+`19 Sep 19:16 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_fed
+
+America In Focus: affordability concerns rise as Fed hikes key rate, mortgage rate reaches nearly 7% WRAL
+
+**IBM Has Raised Its Dividend for 31 Years. Inflation Is Still Winning**
+`19 Sep 19:02 PKT` · pehli baar dekhi `19 Sep 19:21` · yahoo_finance
+
+**Schwab Treasury ETF vs SPDR Corporate Bond ETF. Which Bond Fund Is the Better Insurance Policy for Your Portfolio?**
+`19 Sep 18:57 PKT` · pehli baar dekhi `19 Sep 19:21` · yahoo_finance
+
+**Fed Chair Kevin Warsh and the FOMC Just Hiked Interest Rates, and 36 Years of History Make Clear What Comes Next for Stocks - Yahoo Finance**
+`19 Sep 18:26 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_fed
+
+Fed Chair Kevin Warsh and the FOMC Just Hiked Interest Rates, and 36 Years of History Make Clear What Comes Next for Stocks Yahoo Finance
+
+**Warsh's Fed shows it's serious about taming inflation. Why Wall Street now believes it. - MarketWatch**
+`19 Sep 18:00 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_fed · **2 feeds mein**
+
+Warsh's Fed shows it's serious about taming inflation. Why Wall Street now believes it. MarketWatch
+  - `19 Sep 18:00` *mw_topstories* — Warsh's Fed shows it's serious about taming inflation. Why Wall Street now believes it.
+
+**Wednesday's Fed Funds Rate Hike Is No Panacea - Seeking Alpha**
+`19 Sep 17:00 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_fed
+
+Wednesday's Fed Funds Rate Hike Is No Panacea Seeking Alpha
+
+**Fed's rate hike likely means more expensive credit cards, mortgages - Rocky Mount Telegram**
+`19 Sep 16:45 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_fed
+
+Fed's rate hike likely means more expensive credit cards, mortgages Rocky Mount Telegram
+
+**Can Kevin Warsh Change the Federal Reserve? - time.com**
+`19 Sep 16:00 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_fed
+
+Can Kevin Warsh Change the Federal Reserve? time.com
+
+**Kevin Warsh may be the adult in the room. But can he calm the US economy? - The Guardian**
+`19 Sep 16:00 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_fed
+
+Kevin Warsh may be the adult in the room. But can he calm the US economy? The Guardian
+
 **Warsh's "Dose of Accommodation" Overread? 2-Year Yield Runs Ahead of Fed Futures**
 `19 Sep 15:13 PKT` · pehli baar dekhi `19 Sep 16:02` · actionforex
 
@@ -70,6 +112,11 @@ Federal Reserve raises interest rates 25 basis points amid persistent inflation 
 `19 Sep 09:44 PKT` · pehli baar dekhi `19 Sep 16:02` · gnews_fed
 
 The Fed's Misguided Rate Hike Will Harm Consumers Independent Women's Forum
+
+**Fed hike, RBI moves hand India bonds a fifth weekly loss - bfsi.economictimes.indiatimes.com**
+`19 Sep 07:27 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_fed
+
+Fed hike, RBI moves hand India bonds a fifth weekly loss bfsi.economictimes.indiatimes.com
 
 **Fed Ends Enforcement Action Against Bank of Eufaula - stl.news**
 `19 Sep 07:07 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_fed
@@ -157,12 +204,35 @@ The country's fast-paced rearmament is rekindling a century-old debate about how
 
 ECB's Kazāks: "If Our Baseline Materializes, Moving into Restrictive Territory Will Be Necessary" Forex Factory
 
+**Lagarde says ECB rates don't track energy prices directly By Investing.com - Investing.com Australia**
+`19 Sep 04:02 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_centralbanks
+
+Lagarde says ECB rates don't track energy prices directly By Investing.com Investing.com Australia
+
 **ECB's Lagarde: Rates Won't Move "in Lockstep" With Energy Prices - Forex Factory**
 `19 Sep 03:19 PKT` · pehli baar dekhi `19 Sep 06:21` · gnews_centralbanks
 
 ECB's Lagarde: Rates Won't Move "in Lockstep" With Energy Prices Forex Factory
 
 ### GBP
+
+**InvestingPro Fair Value predicted Sterling Infrastructure 40% decline**
+`19 Sep 16:01 PKT` · pehli baar dekhi `19 Sep 19:21` · investing_news
+
+**Brummer presses Bank of England on rate rise timing - streamlinefeed.co.ke**
+`19 Sep 14:05 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_centralbanks
+
+Brummer presses Bank of England on rate rise timing streamlinefeed.co.ke
+
+**Pound slides as Bank of England holds interest rates - MSN**
+`19 Sep 12:28 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_centralbanks
+
+Pound slides as Bank of England holds interest rates MSN
+
+**U.K. Labor Market Remains Soft as BOE Rate Decision Looms - WSJ**
+`19 Sep 12:06 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_centralbanks
+
+U.K. Labor Market Remains Soft as BOE Rate Decision Looms WSJ
 
 **GBP/USD Weekly Outlook**
 `19 Sep 11:57 PKT` · pehli baar dekhi `19 Sep 16:02` · actionforex · **2 feeds mein**
@@ -186,12 +256,32 @@ Bank of England holds rate at 3.75% amid energy-driven inflation concerns Cyprus
 
 UK rate rise bets grow as Bank of England warns on energy prices Cyprus Mail
 
+**Bank of England Holds Rates at 3.75% and Pauses Government Debt Auctions - SSBCrack**
+`19 Sep 08:29 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_centralbanks
+
+Bank of England Holds Rates at 3.75% and Pauses Government Debt Auctions SSBCrack
+
 **Update 1 - Barclays supports Bank of England's rate hike in November and warns that the Middle East conflict may trigger further increases - Bitget**
 `19 Sep 08:03 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_centralbanks
 
 Update 1 - Barclays supports Bank of England's rate hike in November and warns that the Middle East conflict may trigger further increases Bitget
 
+**Global Market: Bank of England seen holding rates as UK inflation climbs - The Economic Times**
+`19 Sep 03:45 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_centralbanks
+
+Global Market: Bank of England seen holding rates as UK inflation climbs The Economic Times
+
 ### JPY
+
+**Bank of Japan Raises Interest Rate to 31-Year High of 1.25%: What It Means for Global Markets and Indian Stocks - Dalal Street Investment Journal**
+`19 Sep 16:00 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_centralbanks
+
+Bank of Japan Raises Interest Rate to 31-Year High of 1.25%: What It Means for Global Markets and Indian Stocks Dalal Street Investment Journal
+
+**Bank of Japan Raises Rate in Shortest Period of Time Amid Rising Oil Prices, Weakening Yen - The Japan News**
+`19 Sep 16:00 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_centralbanks
+
+Bank of Japan Raises Rate in Shortest Period of Time Amid Rising Oil Prices, Weakening Yen The Japan News
 
 **Dtcpay welcomes SBI Group as strategic investor extending Series A to $25M**
 `19 Sep 14:56 PKT` · pehli baar dekhi `19 Sep 16:02` · cointelegraph
@@ -202,6 +292,11 @@ Singapore-based payments company completes Series A funding round with Japanese 
 `19 Sep 12:12 PKT` · pehli baar dekhi `19 Sep 16:02` · actionforex
 
 USD/JPY&#8217;s extended rebound last week confirms short term bottoming at 152.87. Though, with a temporary top formed at 158.04, initial bias is turned neutral this week first. On the upside, above 158.04 will target 61.8% retracement of 163.97 to 152.87 at 159.72. However, break of 155.32 will turn bias back to the downside for retesting [&#8230;] The post USD/JPY Weekly Outlook appeared first on ActionForex.
+
+**Bank of Japan has room to speed up rate hikes: ICICI Bank Research - newsable.asianetnews.com**
+`19 Sep 11:30 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_centralbanks
+
+Bank of Japan has room to speed up rate hikes: ICICI Bank Research newsable.asianetnews.com
 
 **Japan has record 100,000 people aged over 100: How societies are ageing**
 `19 Sep 09:31 PKT` · pehli baar dekhi `19 Sep 11:10` · aljazeera
@@ -277,6 +372,14 @@ Federal Reserve Board announces termination of enforcement action with SNB Bancs
 
 ### CAD
 
+**Carney proposes a Canada-EU alliance, his investment summit and U.S. Federal Reserve raises interest rates: Must-read business and investing stories - The Globe and Mail**
+`19 Sep 18:00 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_fed
+
+Carney proposes a Canada-EU alliance, his investment summit and U.S. Federal Reserve raises interest rates: Must-read business and investing stories The Globe and Mail
+
+**Canada optimistic about concluding trade talks with India by year-end, minister says**
+`19 Sep 16:30 PKT` · pehli baar dekhi `19 Sep 19:21` · investing_commodities
+
 **USD/CAD Weekly Outlook**
 `19 Sep 11:36 PKT` · pehli baar dekhi `19 Sep 16:02` · actionforex
 
@@ -295,6 +398,11 @@ Our summary of recent economic events and what to expect in the weeks ahead. Can
 AUD/USD&#8217;s extended decline last week confirmed short term topping at 0.7237. But with recovery from 0.7074, initial bias remains neutral this week first. On the downside, sustained trading below 38.2% retracement of 0.6864 to 0.7237 at 0.7095 will target 61.8% retracement at 0.7006. Nevertheless, firm break of 0.7139 will turn bias back to the upside [&#8230;] The post AUD/USD Weekly Report appeared first on ActionForex.
 
 ### OIL
+
+**Dar speaks to Araghchi, stresses uninterrupted oil supply, safe shipping routes - Aaj English TV**
+`19 Sep 17:30 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_geopolitics
+
+Dar speaks to Araghchi, stresses uninterrupted oil supply, safe shipping routes Aaj English TV
 
 **Saudi alerts sound as Yemen fighting puts key oil shipping routes under pressure**
 `19 Sep 10:41 PKT` · pehli baar dekhi `19 Sep 11:10` · investing_news
@@ -361,6 +469,24 @@ Oil Prices Jump Over 7% After Trump Says Attacks on Iran Will Continue EnergyNow
 
 ### CRYPTO
 
+**Iran conflict drives global fuel prices higher amid supply disruptions - Crypto Briefing**
+`19 Sep 18:02 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_geopolitics
+
+Iran conflict drives global fuel prices higher amid supply disruptions Crypto Briefing
+
+**Bitcoin is back at $80,000 as rest of crypto joins the rally: Chart of the Day**
+`19 Sep 16:59 PKT` · pehli baar dekhi `19 Sep 19:21` · yahoo_finance
+
+**Bastion wins conditional OCC approval for national trust bank charter**
+`19 Sep 16:47 PKT` · pehli baar dekhi `19 Sep 19:21` · cointelegraph
+
+Bastion Platforms National Trust Company will offer stablecoin custody and wallets, payment infrastructure and white-label issuance from a single federally regulated entity.
+
+**Arthur Hayes Says Crypto Didn't Need 'Nonsense' CLARITY Act - Just A Rate Hike, Bitcoin Tops $81K - TradingView**
+`19 Sep 16:29 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_fed
+
+Arthur Hayes Says Crypto Didn't Need 'Nonsense' CLARITY Act - Just A Rate Hike, Bitcoin Tops $81K TradingView
+
 **Top Crypto Watchlist for Fed Week: VOIDTRACE AI Stands Out Among Emerging Projects as Bitcoin, Ethereum, Solana and XRP Face Macro Volatility - StreetInsider**
 `19 Sep 13:52 PKT` · pehli baar dekhi `19 Sep 16:02` · gnews_fed
 
@@ -411,6 +537,41 @@ Hawkish voices remain loud within the Federal Reserve, as another official hints
 
 ### RISK
 
+**The Twin Sisters Facing the Wrath of Iran's Crackdown**
+`19 Sep 19:00 PKT` · pehli baar dekhi `19 Sep 19:21` · wsj_world
+
+Romina and Taraneh Rahimi were detained in January after a wave of protests. One was sentenced to decades behind bars; the other was condemned to death.
+
+**An unaffordable car market highlights Iran's cost-of-living crisis**
+`19 Sep 18:21 PKT` · pehli baar dekhi `19 Sep 19:21` · aljazeera
+
+Some officials and state media have long openly described the industry as a 'mafia' system.
+
+**US lifts sanctions on Eritrea 'to advance US regional interests' in Red Sea**
+`19 Sep 17:34 PKT` · pehli baar dekhi `19 Sep 19:21` · aljazeera
+
+The sanctions, introduced during the Biden administration, targeted Eritrea&#039;s governing party and the military.
+
+**In Gaza, actors perform a war they are still living**
+`19 Sep 17:18 PKT` · pehli baar dekhi `19 Sep 19:21` · aljazeera
+
+In Gaza, Palestinian actors turn stories of siege and loss into theatre, while confronting the same fears and hardships.
+
+**A sudden end to the Iran war would strike a blow against oil prices and energy stocks. Yet company insiders are buying.**
+`19 Sep 17:00 PKT` · pehli baar dekhi `19 Sep 19:21` · mw_topstories
+
+The implication is a belief among insiders that the stocks are going higher from here, not lower.
+
+**Iran stages show of force during mobilisation campaign in Tehran**
+`19 Sep 15:56 PKT` · pehli baar dekhi `19 Sep 19:21` · aljazeera
+
+Armed women, anti-aircraft guns and Shaheed drones were seen in Tehran as hundreds of thousands marched in the capital.
+
+**Russia kills eight people in Ukraine, attacks two vessels in Black Sea**
+`19 Sep 15:51 PKT` · pehli baar dekhi `19 Sep 19:21` · aljazeera
+
+Ukraine&#039;s Air Force says Russia hit the country with dozens of drones and two antiship missiles overnight.
+
 **Turkiye revokes operating licence of Iran's Bank Mellat in Istanbul**
 `19 Sep 13:18 PKT` · pehli baar dekhi `19 Sep 16:02` · aljazeera
 
@@ -433,6 +594,16 @@ Iran's NDC wins IOOC onshore drilling tender IranOilGas
 `19 Sep 08:02 PKT` · pehli baar dekhi `19 Sep 11:10` · aljazeera
 
 The Pentagon publicly lists 18 US military deaths since the Iran war began.
+
+**Trump says Iran seeking deal as US considers next move - The Express Tribune**
+`19 Sep 07:43 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_geopolitics
+
+Trump says Iran seeking deal as US considers next move The Express Tribune
+
+**London homeowners face £2,600 rise in mortgage bills as Trump Iran war hits economy - London Evening Standard**
+`19 Sep 06:32 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_centralbanks
+
+London homeowners face £2,600 rise in mortgage bills as Trump Iran war hits economy London Evening Standard
 
 **Iran war drives motor oil price fears as Minnesota gas hits $4.47 - kstp.com**
 `19 Sep 05:55 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_geopolitics
@@ -477,19 +648,74 @@ Discount on Western Canada Select Narrows Again as Iran War Restricts Middle Eas
 
 Iran War Threatens a Prolonged Hit to Global Energy Markets EnergyNow
 
-### BINA TAG (66)
+### BINA TAG (122)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `19 Sep 19:18` **wsj_world** — Air Attack Sets Fuel Depot Ablaze at Airport in Saudi Capital
+- `19 Sep 19:14` **mw_topstories** — Most workers would take a pay cut for job security right now: 'I can't deal with this stress anymore'
+- `19 Sep 19:05` **yahoo_finance** — Anthropic's IPO Is Coming. Here's What That Means for S&P 500 Investors.
+- `19 Sep 19:02` **yahoo_finance** — Keysight Technologies Sees AI Data-Center Boom, Targets 6G and Defense Growth
+- `19 Sep 19:01` **yahoo_finance** — Texas Data Centers 'Dug Their Own Grave,' Gov Says. At 63, a Rancher Can Lease His Land and Give Social Security More Time to Grow.
+- `19 Sep 18:58` **aljazeera** — Atletico Madrid vs Real Madrid: La Liga – preview, team news, prediction
+- `19 Sep 18:55` **aljazeera** — Fear and anger in South Africa as bodies of nine women found: What we know
+- `19 Sep 18:50` **yahoo_finance** — Has AGNC's Monthly Dividend Made Up for What Its Share Price Did?
+- `19 Sep 18:42` **yahoo_finance** — Bank of America Sets 12-Month S&P 500 Target at 7,800, Sees 2% Upside
+- `19 Sep 18:37` **yahoo_finance** — Is Arm Holdings Still a Hidden Winner of the AI Chip Race?
+- `19 Sep 18:35` **yahoo_finance** — MarsCoin Trader Turns $2.4K Into $680K Without Selling a Single Token: Here's How
+- `19 Sep 18:35` **yahoo_finance** — I Wouldn't Touch This 6.3%-Yielding Dividend Stock Right Now, Even Though Everyone Else Is Buying It.
+- `19 Sep 18:30` **yahoo_finance** — Lawyers say your $5,000 debt doesn't disappear when the company you owe goes out of business — here's why
+- `19 Sep 18:16` **yahoo_finance** — Dow Jones Futures: Will The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas
+- `19 Sep 18:13` **aljazeera** — Taiwan flexes military capabilities ahead of Trump-Xi talks
+- `19 Sep 17:59` **aljazeera** — Child among three Palestinians killed in Israeli attacks across Gaza
+- `19 Sep 17:51` **aljazeera** — What's behind reports that the Israeli army is low on troops, equipment?
+- `19 Sep 17:45` **yahoo_finance** — Aflac's (AFL) Net Earnings Jumped 37.7%, Yet Adjusted Earnings Actually Fell
+- `19 Sep 17:38` **aljazeera** — Asian Games 2026: Top athletes and storylines to look out for
+- `19 Sep 17:38` **yahoo_finance** — Cencora (COR) Raised Guidance and Bought Back $1B. What's the Catch?
+- `19 Sep 17:36` **investing_commodities** — Flames, smoke seen near Riyadh airport after Saudi warning of aerial attack threat
+- `19 Sep 17:35` **yahoo_finance** — Coherent (COHR) Squeezes Key Optical Network Gear Into a Plug-In Module
+- `19 Sep 17:30` **yahoo_finance** — Gallagher's (AJG) Colorado Deal Is Another Brick in a Very Big Wall
+- `19 Sep 17:30` **investing_news** — French draft budget caps spending growth to satisfy EU despite rising debt burden
+- `19 Sep 17:30` **mw_topstories** — The old new thing: Cisco and retro tech are back and forming the AI buildout's backbone
+- `19 Sep 17:29` **aljazeera** — Funerals held after deadly mosque attack in Pakistan's Kohat
+- `19 Sep 17:29` **yahoo_finance** — Stock Market Week Ahead: Keeping An Eye Out For Change
+- `19 Sep 17:25` **yahoo_finance** — Mitt Romney warned a billionaire tax triggers demand for 2 assets — now California decides. Get in before the super-rich
+- `19 Sep 17:21` **aljazeera** — Saudi-led naval coalition prepares to secure Red Sea waterways
+- `19 Sep 17:10` **aljazeera** — Doomsday AI: panic, regulation and the China fear
+- `19 Sep 17:05` **yahoo_finance** — 'You're gonna get there': Dave Ramsey tells divorced mom, 51, with no savings she can retire a millionaire. Here's how
+- `19 Sep 17:00` **yahoo_finance** — Bill Ackman's Pershing Square IPO Breaks Out
+- `19 Sep 17:00` **yahoo_finance** — Robinhood Soars, SpaceX Orbits Entry: Five Stocks Near Buy Points
+- `19 Sep 17:00` **yahoo_finance** — YardFlow lands over 200-site yard automation deal
+- `19 Sep 17:00` **yahoo_finance** — Mark Cuban spent $125,000 on a lifetime American Airlines pass after a drunk dial — here's why the math worked
+- `19 Sep 17:00` **mw_topstories** — Starbucks's Snoopy cups and McDonald's SpongeBob toys are commanding huge markups on eBay
+- `19 Sep 17:00` **mw_topstories** — I just started dating someone I really like, but he's moving to Mexico for six months. Should I spend the money to visit him?
+- `19 Sep 16:55` **yahoo_finance** — Nestlé Loses the Keys to Its Russian Business
+- `19 Sep 16:48` **investing_news** — Porsche could face another 4,000 job cuts, Handelsblatt reports
+- `19 Sep 16:45` **yahoo_finance** — 5 smart things wealthy baby boomers do with their money that guarantees them a comfy lifestyle. How to copy them
+- `19 Sep 16:45` **yahoo_finance** — 'I screwed up': Larry Fink lost $100M in a single quarter, got pushed out, and built BlackRock on top of the wreckage
+- `19 Sep 16:30` **aljazeera** — East Asia: How AI is changing the way we bid farewell to loved ones
+- `19 Sep 16:30` **yahoo_finance** — Mom plans to give brother early inheritance for his 3 kids' college — childfree sibling says it's not fair
+- `19 Sep 16:30` **mw_topstories** — Stocks face a growing list of threats — so why are investors staying so calm?
+- `19 Sep 16:25` **yahoo_finance** — At 60 I have nothing for retirement and no plan except Social Security. Now that I've been laid off, how can I survive?
+- `19 Sep 16:13` **yahoo_finance** — Air Products (APD) Is Doubling Down on the Gases Inside Chip Fabs
+- `19 Sep 16:09` **investing_news** — GeoPark delivers 67% return after InvestingPro Fair Value call
+- `19 Sep 16:05` **yahoo_finance** — This new bill could save Social Security in America — and boost your monthly check. Is it time to kick your heels back?
+- `19 Sep 16:04` **yahoo_finance** — Targa Resources (TRGP) Set a Record Quarter and Then Raised the Bar
+- `19 Sep 16:01` **yahoo_finance** — Ferrari (RACE) Signs Rakuten While 2027 Is Already Spoken For
+- `19 Sep 16:00` **aljazeera** — LIVE: Brighton vs Arsenal – Premier League
 - `19 Sep 16:00` **mw_topstories** — AI leaders want to 'pace the frontier' as part of a safety slowdown. But how?
+- `19 Sep 15:53` **yahoo_finance** — Simon Property (SPG) Group Raised Its Outlook Again
+- `19 Sep 15:47` **yahoo_finance** — Royal Caribbean's (RCL) $1.25B Debt Deal Hides A Bigger Story
 - `19 Sep 15:42` **aljazeera** — Nigerian forces fire at protesters rallying over deaths of detained miners
 - `19 Sep 15:40` **aljazeera** — NFL star Azeez Al-Shaair speaks out after fine over Hind Rajab message
+- `19 Sep 15:37` **gnews_centralbanks** — Two major banks predict interest-rate rises - here's what it could mean for your mortgage - LADbible
 - `19 Sep 15:06` **investing_news** — Ten days that changed the course of AI
 - `19 Sep 15:05` **gnews_fed** — Column | What to do about your credit card debt as interest rates climb - The Washington Post
 - `19 Sep 15:00` **yahoo_finance** — Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend
 - `19 Sep 15:00` **yahoo_finance** — Best CD rates today, Saturday, September 19, 2026: Lock in up to 4.40% APY with a 2-year CD
 - `19 Sep 14:56` **investing_news** — Europe's winter power prices jump as gas supply concerns grow - Bloomberg
 - `19 Sep 14:50` **aljazeera** — Trump says US has 'permanent control' of Greenland security: Does it?
+- `19 Sep 14:45` **gnews_fed** — Why BofA is going against the herd and calling for 2 more rate hikes in 2026 - businessinsider.com
 - `19 Sep 14:36` **aljazeera** — Africa's Green Revolution threatens traditional foods
 - `19 Sep 14:31` **investing_news** — Launch Vector Portfolio Company Surpasses $1 Million in Profit Within 4.5 Months of Acquisition aur Satya
 - `19 Sep 14:08` **investing_news** — Anduril says Trump's Taiwan arms sales delay is hurting its business
@@ -530,6 +756,7 @@ Iran War Threatens a Prolonged Hit to Global Energy Markets EnergyNow
 - `19 Sep 05:00` **actionforex** — Summary 9/21 – 9/25
 - `19 Sep 04:56` **aljazeera** — Trump says Denmark deal gives US security 'control' over Greenland
 - `19 Sep 04:30` **gnews_fed** — Top Stock Market Highlights of the Week: Grab, StarHub, the US Federal Reserve and Alphabet - Yahoo Finance Singapore
+- `19 Sep 04:30` **gnews_fed** — Top Stock Market Highlights of the Week: Grab, StarHub, the US Federal Reserve and Alphabet - The Smart Investor
 - `19 Sep 04:27` **gnews_fed** — Federal Reserve raises interest rates despite Trump's calls for cuts - TheGrio
 - `19 Sep 04:19` **gnews_geopolitics** — Global Energy Crisis Deepens – Efforts to Plug Supply Gap Fall Short, Industry Executives Warn - EnergyNow.com
 - `19 Sep 04:17` **aljazeera** — Super Macklemore 64: Video game mocks Sheeran concert controversy
@@ -564,45 +791,45 @@ investing_news (17)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 0.6 |
-| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.5 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |
-| actionforex | OK | 20 | 15 | 7 | 8 | 5 | 0.0 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.1 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.4 |
-| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 0.6 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.7 |
-| kitco_general | OK | 27 | 3 | 2 | 1 | 24 | 0.2 |
-| gnews_fed | OK | 100 | 33 | 13 | 20 | 67 | 0.0 |
-| gnews_geopolitics | OK | 80 | 35 | 5 | 30 | 45 | 0.1 |
-| gnews_centralbanks | OK | 100 | 19 | 11 | 8 | 81 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.7 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 0.9 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.1 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.0 |
-| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 1.3 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 16.3 |
-| mining_com | OK | 36 | 3 | 0 | 3 | 33 | 0.5 |
-| oilprice | OK | 15 | 0 | 0 | 0 | 15 | 0.6 |
-| investing_commodities | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 0.7 |
+| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 0.6 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.8 |
+| actionforex | OK | 20 | 15 | 0 | 15 | 5 | 0.2 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.2 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.5 |
+| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 0.7 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.8 |
+| kitco_general | OK | 21 | 4 | 0 | 4 | 17 | 0.3 |
+| gnews_fed | OK | 100 | 42 | 12 | 30 | 58 | 0.0 |
+| gnews_geopolitics | OK | 66 | 36 | 3 | 33 | 30 | 0.1 |
+| gnews_centralbanks | OK | 83 | 29 | 11 | 18 | 54 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.8 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.0 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.1 |
+| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 1.4 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 16.5 |
+| mining_com | OK | 36 | 3 | 0 | 3 | 33 | 0.6 |
+| oilprice | OK | 15 | 0 | 0 | 0 | 15 | 0.7 |
+| investing_commodities | OK | 10 | 4 | 2 | 2 | 6 | 0.1 |
 | ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| bbc_business | OK | 53 | 0 | 0 | 0 | 53 | 0.7 |
-| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 4.8 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 9.0 |
-| eia_energy | OK | 17 | 0 | 0 | 0 | 17 | 0.9 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 15.9 |
-| wsj_world | OK | 73 | 4 | 0 | 4 | 69 | 0.4 |
-| wsj_markets | OK | 61 | 5 | 1 | 4 | 56 | 0.1 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 2 | 2 | 0 | 47 | 0.0 |
-| mw_topstories | OK | 10 | 5 | 1 | 4 | 5 | 0.0 |
-| cointelegraph | OK | 30 | 2 | 2 | 0 | 28 | 0.0 |
+| bbc_business | OK | 53 | 0 | 0 | 0 | 53 | 0.8 |
+| aljazeera | OK | 25 | 25 | 16 | 9 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 4.9 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 9.1 |
+| eia_energy | OK | 17 | 0 | 0 | 0 | 17 | 1.0 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 16.1 |
+| wsj_world | OK | 73 | 6 | 2 | 4 | 67 | 0.0 |
+| wsj_markets | OK | 61 | 5 | 0 | 5 | 56 | 0.2 |
+| investing_news | OK | 10 | 10 | 4 | 6 | 0 | 0.1 |
+| yahoo_finance | OK | 50 | 35 | 35 | 0 | 15 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 2 | 1 | 1 | 28 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - ing_think — FAIL, ConnectTimeout
