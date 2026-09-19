@@ -1,8 +1,8 @@
 # News Pack — Trading Day 19 Sep 2026
 
 - Trading day: **19 Sep 03:00 -> 20 Sep 02:59 PKT**
-- Aakhri update: **19 Sep 06:21 PKT**
-- Kul khabrein: **54**
+- Aakhri update: **19 Sep 11:10 PKT**
+- Kul khabrein: **112**
 - Feeds: 39/39 OK
 
 ---
@@ -10,6 +10,11 @@
 ## Khabrein
 
 ### GOLD
+
+**The logic of the gold bull market remains unchanged! Undaunted by the Fed's "hawkish rate hike," Goldman Sachs and UBS maintain their bullish stance - Bitget**
+`19 Sep 07:59 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_fed
+
+The logic of the gold bull market remains unchanged! Undaunted by the Fed's "hawkish rate hike," Goldman Sachs and UBS maintain their bullish stance Bitget
 
 **Ximen Mining seeks funding for Kenville gold mine development**
 `19 Sep 06:08 PKT` · pehli baar dekhi `19 Sep 06:21` · investing_news
@@ -30,6 +35,21 @@ Aura operates four gold mines in Brazil, the Minosa gold mine in Honduras and th
 The Fed raised rates and gold didn't break: Here's why kitco.com
 
 ### USD
+
+**Fed Ends Enforcement Action Against Bank of Eufaula - stl.news**
+`19 Sep 07:07 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_fed
+
+Fed Ends Enforcement Action Against Bank of Eufaula stl.news
+
+**The Weekly Spread: What Shaped Yields And The Dollar This Week - tradingview.com**
+`19 Sep 06:33 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_fed
+
+The Weekly Spread: What Shaped Yields And The Dollar This Week tradingview.com
+
+**Weighing the Wages: Investigating Community College Enrollment Declines - Kansas City Fed**
+`19 Sep 06:03 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_fed
+
+Weighing the Wages: Investigating Community College Enrollment Declines Kansas City Fed
 
 **Fed Reserve 'followed markets' by hiking rates, economist argues - Fox Business**
 `19 Sep 04:59 PKT` · pehli baar dekhi `19 Sep 06:21` · gnews_fed
@@ -56,14 +76,59 @@ OCBC strategist Christopher Wong notes that the Korean Won remains under pressur
 
 The Fed makes a move marketplace.org
 
+**Peso slides toward 17.3 to the dollar after US Fed's first rate hike since 2023 - Mexico News Daily**
+`19 Sep 03:18 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_fed
+
+Peso slides toward 17.3 to the dollar after US Fed's first rate hike since 2023 Mexico News Daily
+
+**SDSU economics professor: fed rate hike no surprise - KELOLAND.com**
+`19 Sep 03:05 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_fed
+
+SDSU economics professor: fed rate hike no surprise KELOLAND.com
+
 ### EUR
+
+**EUR/JPY Weekly Outlook**
+`19 Sep 08:21 PKT` · pehli baar dekhi `19 Sep 11:10` · actionforex · **4 feeds mein**
+
+EUR/JPY&#8217;s strong rebound last week confirmed short term bottoming at 177.82. However, subsequent rebound stalled at 181.53 and retreated. Initial bias stays neutral this week first. Risk of another rise remains as long as 177.82 holds. Firm break of 38.2% retracement of 187.93 to 181.68 will target 61.8% retracement at 184.06 next. In the bigger [&#8230;] The post EUR/JPY Weekly Outlook appeared first on ActionForex.
+  - `19 Sep 08:13` *actionforex* — EUR/GBP Weekly Outlook
+  - `19 Sep 08:09` *actionforex* — EUR/AUD Weekly Outlook
+  - `19 Sep 08:05` *actionforex* — EUR/CHF Weekly Outlook
+
+**Germany's Military Rebuild Is Making Its Neighbors Nervous**
+`19 Sep 07:00 PKT` · pehli baar dekhi `19 Sep 11:10` · wsj_world
+
+The country's fast-paced rearmament is rekindling a century-old debate about how much hard power Berlin should have.
+
+**ECB's Kazāks: "If Our Baseline Materializes, Moving into Restrictive Territory Will Be Necessary" - Forex Factory**
+`19 Sep 05:08 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_centralbanks
+
+ECB's Kazāks: "If Our Baseline Materializes, Moving into Restrictive Territory Will Be Necessary" Forex Factory
 
 **ECB's Lagarde: Rates Won't Move "in Lockstep" With Energy Prices - Forex Factory**
 `19 Sep 03:19 PKT` · pehli baar dekhi `19 Sep 06:21` · gnews_centralbanks
 
 ECB's Lagarde: Rates Won't Move "in Lockstep" With Energy Prices Forex Factory
 
+### GBP
+
+**GBP/JPY Weekly Outlook**
+`19 Sep 08:27 PKT` · pehli baar dekhi `19 Sep 11:10` · actionforex
+
+GBP/JPY&#8217;s strong rebound last week confirms short term bottoming at 207.06. However, it stalled at 211.25 and retreated. Initial bias is turned neutral this week first. Still, risk will stay on the upside as long as 207.06 holds. Above 211.25 will target 38.2% retracement of 219.56 to 207.06 at 211.83. Break there will target 61.8% [&#8230;] The post GBP/JPY Weekly Outlook appeared first on ActionForex.
+
+**Update 1 - Barclays supports Bank of England's rate hike in November and warns that the Middle East conflict may trigger further increases - Bitget**
+`19 Sep 08:03 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_centralbanks
+
+Update 1 - Barclays supports Bank of England's rate hike in November and warns that the Middle East conflict may trigger further increases Bitget
+
 ### JPY
+
+**Japan has record 100,000 people aged over 100: How societies are ageing**
+`19 Sep 09:31 PKT` · pehli baar dekhi `19 Sep 11:10` · aljazeera
+
+Fewer births and worsening labour shortages are placing mounting pressure on Japan's social care system.
 
 **Bank of Japan Raises Rate to 1.25%, Highest Since 1995, in 7-2 Vote - findarticles.com**
 `19 Sep 05:49 PKT` · pehli baar dekhi `19 Sep 06:21` · gnews_centralbanks
@@ -90,6 +155,65 @@ Bank of Japan raises rate to 1.25%, highest in 31 years upi.com
 
 Scotiabank strategists Shaun Osborne and Eric Theoret note the Japanese Yen (JPY) is down sharply versus the US Dollar (USD) after a dovishly delivered 25 bps Bank of Japan (BoJ) hike and Governor Ueda's cautious guidance.
 
+### CHF
+
+**Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula - InsuranceNewsNet**
+`19 Sep 03:35 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_fed
+
+Federal Reserve Board announces termination of enforcement action with SNB Bancshares and Bank of Eufaula InsuranceNewsNet
+
+### CAD
+
+**The Weekly Bottom Line: Inflation, Investment, and International Relations**
+`19 Sep 07:15 PKT` · pehli baar dekhi `19 Sep 11:10` · actionforex
+
+Our summary of recent economic events and what to expect in the weeks ahead. Canadian Highlights WTI&#8217;s rise above $100 per barrel has revived global inflation concerns and pushed bond yields higher, although prospects for restored Saudi pipeline flows have eased some immediate supply fears. Canadian core inflation remains well behaved, with the BoC&#8217;s preferred [&#8230;] The post The Weekly Bottom Line: Inflation, Investment, and International Relations appeared first on ActionForex.
+
+### OIL
+
+**Saudi alerts sound as Yemen fighting puts key oil shipping routes under pressure**
+`19 Sep 10:41 PKT` · pehli baar dekhi `19 Sep 11:10` · investing_news
+
+**ABC13 breaks down the impact of diesel prices hitting record high yet again in Houston area - ABC13 Houston**
+`19 Sep 05:11 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_fed
+
+ABC13 breaks down the impact of diesel prices hitting record high yet again in Houston area ABC13 Houston
+
+**US Naval Blockade Squeezes Iran's Oil Exports, Forces Crude Onto Floating Storage - EnergyNow.com**
+`19 Sep 04:27 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_geopolitics
+
+US Naval Blockade Squeezes Iran's Oil Exports, Forces Crude Onto Floating Storage EnergyNow.com
+
+**Oil Rebounds as Fragile Ceasefire, Hormuz Concerns Keep Supply Risks Elevated - EnergyNow.com**
+`19 Sep 04:26 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_geopolitics
+
+Oil Rebounds as Fragile Ceasefire, Hormuz Concerns Keep Supply Risks Elevated EnergyNow.com
+
+**Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com**
+`19 Sep 04:23 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_geopolitics
+
+Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com
+
+**WHAT IT MEANS FOR OIL – What Does a US Naval Blockade of Iran Mean for Oil Flows? - EnergyNow.com**
+`19 Sep 04:13 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_geopolitics
+
+WHAT IT MEANS FOR OIL – What Does a US Naval Blockade of Iran Mean for Oil Flows? EnergyNow.com
+
+**Oil Touches Pre-War Levels on Rising Middle East Supply - EnergyNow.com**
+`19 Sep 04:13 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_geopolitics
+
+Oil Touches Pre-War Levels on Rising Middle East Supply EnergyNow.com
+
+**IRAN'S "CROWN JEWEL" – Kharg Island, Struck by US, is Key Hub for Iran Oil Exports - EnergyNow.com**
+`19 Sep 04:13 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_geopolitics
+
+IRAN'S "CROWN JEWEL" – Kharg Island, Struck by US, is Key Hub for Iran Oil Exports EnergyNow.com
+
+**Oil Prices Jump Over 7% After Trump Says Attacks on Iran Will Continue - EnergyNow.com**
+`19 Sep 03:47 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_geopolitics
+
+Oil Prices Jump Over 7% After Trump Says Attacks on Iran Will Continue EnergyNow.com
+
 ### CRYPTO
 
 **What Is a Stablecoin Reward, and Why Did the CLARITY Act's Failure Keep It Alive? - 24/7 Wall St.**
@@ -97,10 +221,11 @@ Scotiabank strategists Shaun Osborne and Eric Theoret note the Japanese Yen (JPY
 
 What Is a Stablecoin Reward, and Why Did the CLARITY Act's Failure Keep It Alive? 24/7 Wall St.
 
-**Fed's $15.6B Treasury Bill Buys Spark Crypto Trader Optimism - cryptonews.net**
-`19 Sep 03:07 PKT` · pehli baar dekhi `19 Sep 04:20` · gnews_fed
+**Fed's $15.6B Treasury Bill Buys Spark Crypto Trader Optimism - CryptoRank**
+`19 Sep 03:33 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_fed · **2 feeds mein**
 
-Fed's $15.6B Treasury Bill Buys Spark Crypto Trader Optimism cryptonews.net
+Fed's $15.6B Treasury Bill Buys Spark Crypto Trader Optimism CryptoRank
+  - `19 Sep 03:07` *gnews_fed* — Fed's $15.6B Treasury Bill Buys Spark Crypto Trader Optimism - cryptonews.net
 
 ### RATES
 
@@ -110,6 +235,24 @@ Fed's $15.6B Treasury Bill Buys Spark Crypto Trader Optimism cryptonews.net
 Hawkish voices remain loud within the Federal Reserve, as another official hints at further interest rate hikes! 富途牛牛
 
 ### RISK
+
+**Iran's NDC wins IOOC onshore drilling tender - IranOilGas**
+`19 Sep 09:45 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_geopolitics
+
+Iran's NDC wins IOOC onshore drilling tender IranOilGas
+
+**U.S. approves potential $2.7 billion air defense sale to Ukraine**
+`19 Sep 08:33 PKT` · pehli baar dekhi `19 Sep 11:10` · investing_news
+
+**Report: More US troops have died in Iran war than Pentagon says**
+`19 Sep 08:02 PKT` · pehli baar dekhi `19 Sep 11:10` · aljazeera
+
+The Pentagon publicly lists 18 US military deaths since the Iran war began.
+
+**Iran war drives motor oil price fears as Minnesota gas hits $4.47 - kstp.com**
+`19 Sep 05:55 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_geopolitics
+
+Iran war drives motor oil price fears as Minnesota gas hits $4.47 kstp.com
 
 **Trump signs sweeping Russia sanctions over Ukraine war**
 `19 Sep 05:46 PKT` · pehli baar dekhi `19 Sep 06:21` · aljazeera
@@ -134,10 +277,38 @@ The war in Yemen intensifies with mounting clashes and reciprocal attacks betwee
 
 Trump signs Russia-Iran sanctions bill into law Iran International
 
-### BINA TAG (22)
+**World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks - EnergyNow**
+`19 Sep 03:08 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_geopolitics
+
+World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks EnergyNow
+
+**Iran War Threatens a Prolonged Hit to Global Energy Markets - EnergyNow**
+`19 Sep 03:05 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_geopolitics
+
+Iran War Threatens a Prolonged Hit to Global Energy Markets EnergyNow
+
+### BINA TAG (44)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `19 Sep 10:41` **aljazeera** — Trump's threats to demolish Kennedy Center sparks protest
+- `19 Sep 10:28` **aljazeera** — Brazilian police capture suspected serial killer disguised as a woman
+- `19 Sep 10:24` **aljazeera** — Indonesia ferry search: Divers retrieve three bodies, 126 people missing
+- `19 Sep 09:57` **aljazeera** — UK jails teen asylum seeker for steering overcrowded Channel migrant boat
+- `19 Sep 09:53` **investing_news** — China opens probes into four online travel booking platforms
+- `19 Sep 09:28` **aljazeera** — Trump bans CNN, MS NOW, Politico from the White House
+- `19 Sep 09:25` **aljazeera** — The Nepal floods question: When the Himalayas collapse, who gets warned?
+- `19 Sep 09:22` **aljazeera** — Bolivia's Congress approves $1.9bn IMF loan amid protest threats
+- `19 Sep 09:15` **investing_news** — UBS now expects AI capex to reach nearly $1tn this year and around $1.4tn by 2027
+- `19 Sep 09:12` **investing_news** — VinFast earnings beat by $0.05, revenue topped estimates
+- `19 Sep 08:42` **investing_news** — US fashion council CEO Kolb resigns after clash with runway show protesters
+- `19 Sep 08:38` **investing_news** — EOS Climbs 10% In Rally
+- `19 Sep 08:29` **aljazeera** — North Korea dismisses UN nuclear watchdog resolution
+- `19 Sep 07:41` **aljazeera** — South Africans voice their anger as hundreds hold femicide vigil
+- `19 Sep 07:16` **aljazeera** — US court blocks Trump plan to deport migrants to third countries
+- `19 Sep 07:10` **actionforex** — Economics Week Ahead
+- `19 Sep 06:45` **aljazeera** — Iranian women defy law and run Tehran race without hijab
+- `19 Sep 06:38` **aljazeera** — Google's Gemini AI hacks 3 companies in security test, then stops
 - `19 Sep 06:06` **investing_news** — How to position for the next wave of AI-led scientific breakthroughs
 - `19 Sep 06:00` **wsj_markets** — Law Firms Have a Big Problem: Senior Partners Aren't Retiring
 - `19 Sep 05:43` **investing_news** — Morgan Stanley caps private credit fund withdrawals again as 11% seek exits
@@ -148,7 +319,9 @@ Trump signs Russia-Iran sanctions bill into law Iran International
 - `19 Sep 04:56` **aljazeera** — Trump says Denmark deal gives US security 'control' over Greenland
 - `19 Sep 04:30` **gnews_fed** — Top Stock Market Highlights of the Week: Grab, StarHub, the US Federal Reserve and Alphabet - Yahoo Finance Singapore
 - `19 Sep 04:27` **gnews_fed** — Federal Reserve raises interest rates despite Trump's calls for cuts - TheGrio
+- `19 Sep 04:19` **gnews_geopolitics** — Global Energy Crisis Deepens – Efforts to Plug Supply Gap Fall Short, Industry Executives Warn - EnergyNow.com
 - `19 Sep 04:17` **aljazeera** — Super Macklemore 64: Video game mocks Sheeran concert controversy
+- `19 Sep 04:15` **gnews_fed** — Editorial | Global monetary tightening tests China's 2-speed economy - South China Morning Post
 - `19 Sep 04:12` **investing_news** — S&P 500, Nasdaq advance, turning the page on a tumultuous week
 - `19 Sep 04:07` **investing_news** — Paramount, states discuss CNN monitoring and film release commitment, sources say
 - `19 Sep 04:03` **investing_news** — Paramount in advanced talks to settle Warner Bros. Discovery deal lawsuit - WSJ
@@ -159,15 +332,17 @@ Trump signs Russia-Iran sanctions bill into law Iran International
 - `19 Sep 03:41` **mw_topstories** — Why investors shouldn't be spooked by fears of an October stock-market crash
 - `19 Sep 03:37` **wsj_world** — Trump Says U.S. Has Reached Greenland Security Agreement
 - `19 Sep 03:35` **gnews_fed** — Federal Reserve Board issues enforcement actions with former employee of Northstar Bank, former employee of American Express Travel Related Services Company, Inc., and former employee of Regions Bank - InsuranceNewsNet
+- `19 Sep 03:29` **gnews_fed** — With the U.S. Federal Reserve raising interest rates this week, the possibility of a hike in South K.. - 매일경제
+- `19 Sep 03:18` **gnews_fed** — Brokers say Wyoming housing won't be hurt by federal interest rise - Your Wyoming Link
 - `19 Sep 03:01` **aljazeera** — Trump claims deal with Denmark gives US 'permanent control' over Greenland
 
 ---
 
-## Shor — 9 khabrein hatai gayin
+## Shor — 12 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (9)
+investing_news (12)
 
 ---
 
@@ -177,42 +352,42 @@ investing_news (9)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
-| fxstreet_news | OK | 30 | 30 | 3 | 27 | 0 | 0.1 |
-| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.3 |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.1 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.7 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.0 |
-| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 0.2 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.3 |
-| kitco_general | OK | 23 | 23 | 0 | 23 | 0 | 0.1 |
-| gnews_fed | OK | 100 | 100 | 8 | 92 | 0 | 0.0 |
-| gnews_geopolitics | OK | 71 | 71 | 5 | 66 | 0 | 0.0 |
-| gnews_centralbanks | OK | 100 | 100 | 9 | 91 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
-| fed_speeches | OK | 15 | 2 | 0 | 2 | 13 | 0.5 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.7 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.6 |
-| boj_whatsnew | OK | 44 | 4 | 0 | 4 | 40 | 0.9 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 15.9 |
-| mining_com | OK | 36 | 11 | 1 | 10 | 25 | 0.1 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.2 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| ing_think | OK | 10 | 8 | 0 | 8 | 2 | 0.5 |
-| bbc_business | OK | 53 | 18 | 0 | 18 | 35 | 0.3 |
-| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 4.4 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 8.6 |
-| eia_energy | OK | 17 | 1 | 0 | 1 | 16 | 0.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 15.5 |
-| wsj_world | OK | 73 | 21 | 1 | 20 | 52 | 0.0 |
-| wsj_markets | OK | 61 | 31 | 2 | 29 | 30 | 0.0 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 6 | 2 | 4 | 44 | 0.3 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 19 | 0 | 19 | 11 | 0.2 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.4 |
+| fxstreet_news | OK | 30 | 30 | 0 | 30 | 0 | 0.3 |
+| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.5 |
+| actionforex | OK | 20 | 20 | 7 | 13 | 0 | 0.1 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.9 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
+| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 0.4 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.5 |
+| kitco_general | OK | 22 | 22 | 0 | 22 | 0 | 0.3 |
+| gnews_fed | OK | 100 | 100 | 17 | 83 | 0 | 0.1 |
+| gnews_geopolitics | OK | 82 | 82 | 17 | 65 | 0 | 0.1 |
+| gnews_centralbanks | OK | 100 | 100 | 7 | 93 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
+| fed_speeches | OK | 15 | 2 | 0 | 2 | 13 | 0.7 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.9 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.8 |
+| boj_whatsnew | OK | 44 | 4 | 0 | 4 | 40 | 1.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 16.1 |
+| mining_com | OK | 36 | 11 | 0 | 11 | 25 | 0.3 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.4 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| ing_think | OK | 10 | 8 | 0 | 8 | 2 | 0.7 |
+| bbc_business | OK | 53 | 18 | 0 | 18 | 35 | 0.5 |
+| aljazeera | OK | 25 | 25 | 14 | 11 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 4.6 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 8.8 |
+| eia_energy | OK | 17 | 1 | 0 | 1 | 16 | 0.7 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 15.7 |
+| wsj_world | OK | 73 | 22 | 1 | 21 | 51 | 0.2 |
+| wsj_markets | OK | 61 | 31 | 0 | 31 | 30 | 0.2 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 34 | 28 | 6 | 16 | 0.5 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
+| cointelegraph | OK | 30 | 19 | 0 | 19 | 11 | 0.4 |

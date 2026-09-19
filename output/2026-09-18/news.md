@@ -1,8 +1,8 @@
 # News Pack — Trading Day 18 Sep 2026
 
 - Trading day: **18 Sep 03:00 -> 19 Sep 02:59 PKT**
-- Aakhri update: **19 Sep 06:21 PKT**
-- Kul khabrein: **1143**
+- Aakhri update: **19 Sep 11:10 PKT**
+- Kul khabrein: **1186**
 - Feeds: 39/39 OK
 
 ---
@@ -581,9 +581,10 @@ Silicon Valley Bank failure review finds Fed staff 'should have known' about ris
 Car Affordability Is Crumbling, And The Fed Just Piled On More Cost CarBuzz
 
 **Kevin Warsh Talks About Inflation the Right Way - National Review**
-`18 Sep 23:23 PKT` · pehli baar dekhi `18 Sep 23:33` · gnews_fed
+`18 Sep 23:23 PKT` · pehli baar dekhi `18 Sep 23:33` · gnews_fed · **2 feeds mein**
 
 Kevin Warsh Talks About Inflation the Right Way National Review
+  - `18 Sep 23:23` *gnews_fed* — Kevin Warsh Talks About Inflation the Right Way - National Review
 
 **Economic data releases and Fed speech highlight Monday's calendar**
 `18 Sep 23:00 PKT` · pehli baar dekhi `18 Sep 23:33` · investing_news
@@ -607,6 +608,16 @@ Fed's Bowman Challenges Social Media Story Behind SVB Collapse PYMNTS.com
 `18 Sep 22:20 PKT` · pehli baar dekhi `18 Sep 23:33` · gnews_fed
 
 Fed supervisors knew SVB was vulnerable — and failed to act mpamag.com
+
+**The Fed Just Raised Rates for the First Time in Three Years. History Says This Is What Comes Next. - The Globe and Mail**
+`18 Sep 22:15 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_fed
+
+The Fed Just Raised Rates for the First Time in Three Years. History Says This Is What Comes Next. The Globe and Mail
+
+**Fed's rate hike another hit to affordability; AI models show pedestrian bias - Automotive News**
+`18 Sep 22:09 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_fed
+
+Fed's rate hike another hit to affordability; AI models show pedestrian bias Automotive News
 
 **B2B Payments: A Gradual Shift from Checks to Electronic Payment Methods - Kansas City Fed**
 `18 Sep 22:04 PKT` · pehli baar dekhi `18 Sep 23:33` · gnews_fed
@@ -774,6 +785,11 @@ Fed's Bowman says changes to bank stress test coming soon KITCO
 `18 Sep 19:06 PKT` · pehli baar dekhi `18 Sep 20:15` · gnews_fed
 
 Fed's outside review found its SVB supervisors knew about the bank's risks before its 2023 failure qz.com
+
+**Fed review found SVB supervisors knew of risks before 2023 failure - finance.yahoo.com**
+`18 Sep 19:00 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_fed
+
+Fed review found SVB supervisors knew of risks before 2023 failure finance.yahoo.com
 
 **The Fed is sacrificing the American dream to fix a problem it can't solve - washingtonexaminer.com**
 `18 Sep 19:00 PKT` · pehli baar dekhi `18 Sep 23:33` · gnews_fed
@@ -1254,6 +1270,11 @@ Readers take issue with the French foreign minister's vision for Palestine and I
 
 ECB Foreign Exchange Reference Rates - Sep 18 Moomoo
 
+**ECB's Sleijpen says central banks must be ready to act - Newsquawk**
+`18 Sep 18:52 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_centralbanks
+
+ECB's Sleijpen says central banks must be ready to act Newsquawk
+
 **Lagarde and Deputy Push Back: ECB Refuses to Let Rate Path Be Held Hostage by Energy Prices - finance.biggo.com**
 `18 Sep 18:25 PKT` · pehli baar dekhi `18 Sep 20:15` · gnews_centralbanks
 
@@ -1464,6 +1485,13 @@ Germany's producer price inflation gathered pace in August 2026, signaling renew
 
 Germany's producer price index (PPI) showed no additional upward or downward momentum in August 2026, with the month‑over‑month indicator holding steady at 1.1%. According to data updated on 18 September 2026, the PPI reading matched July's 1.1% change, indicating that factory‑gate prices remained on the same trajectory over the late summer period.
 
+**Exclusive-ECB's Vujcic cools oil-fuelled bets on rate hikes - 101 WIXX**
+`18 Sep 11:28 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_centralbanks · **3 feeds mein**
+
+Exclusive-ECB's Vujcic cools oil-fuelled bets on rate hikes 101 WIXX
+  - `18 Sep 10:34` *gnews_centralbanks* — Exclusive-ECB's Vujcic cools oil-fuelled bets on rate hikes - StreetInsider
+  - `18 Sep 10:31` *gnews_centralbanks* — EXCLUSIVE: ECB's Vujcic cools oil-fuelled bets on rate hikes - Reuters
+
 **Euro: Downtrend extends toward 1.1400 against US Dollar – UOB**
 `18 Sep 11:11 PKT` · pehli baar dekhi `18 Sep 11:36` · fxstreet_news
 
@@ -1473,12 +1501,6 @@ United Overseas Bank's (UOB) Quek Ser Leang maintains a bearish stance on EUR/US
 `18 Sep 10:51 PKT` · pehli baar dekhi `18 Sep 20:15` · gnews_centralbanks
 
 ECB's Vujcic says market bets on further ECB rate hikes are being largely driven by higher energy prices, will look at a wider set of economic indicators when deciding the next policy move Newsquawk
-
-**Exclusive-ECB's Vujcic cools oil-fuelled bets on rate hikes - StreetInsider**
-`18 Sep 10:34 PKT` · pehli baar dekhi `18 Sep 11:36` · gnews_centralbanks · **2 feeds mein**
-
-Exclusive-ECB's Vujcic cools oil-fuelled bets on rate hikes StreetInsider
-  - `18 Sep 10:31` *gnews_centralbanks* — EXCLUSIVE: ECB's Vujcic cools oil-fuelled bets on rate hikes - Reuters
 
 **ECB's Vujcic cools oil-fuelled bets on rate hikes - TradingView**
 `18 Sep 10:30 PKT` · pehli baar dekhi `18 Sep 11:36` · gnews_centralbanks
@@ -1846,10 +1868,11 @@ Japan's weak currency has a three-body problem Breakingviews
 The Bank of Japan (BoJ) raised its short-term interest-rate target to 1.25% from 1.00% in a 7-2 vote, marking another step in the normalisation of monetary policy and widely matching what everyone has been expecting for weeks.
 
 **Japan's central bank raises benchmark interest rate to 1.25% - Naharnet**
-`18 Sep 17:27 PKT` · pehli baar dekhi `18 Sep 20:15` · gnews_centralbanks · **3 feeds mein**
+`18 Sep 17:27 PKT` · pehli baar dekhi `18 Sep 20:15` · gnews_centralbanks · **4 feeds mein**
 
 Japan's central bank raises benchmark interest rate to 1.25% Naharnet
   - `18 Sep 17:27` *gnews_centralbanks* — Japan's central bank raises benchmark interest rate to 1.25% - Naharnet
+  - `18 Sep 11:59` *gnews_centralbanks* — Japan's central bank raises benchmark interest rate to 1.25% - The Washington Post
   - `18 Sep 10:14` *gnews_centralbanks* — Japan's central bank raises benchmark interest rate to 1.25% - Euronews.com
 
 **Dollar eases from seven-week high as investors await Bank of Japan rate decision - The American Bazaar**
@@ -1975,6 +1998,12 @@ Bank of Japan Hikes Rates to 31-Year High Fana News -
 Japan's central bank raises benchmark interest rate to 1.25%, the highest in 31 years AP News
   - `18 Sep 12:30` *gnews_centralbanks* — Japan's central bank raises benchmark interest rate to 1.25%, the highest in 31 years - Action News Jax
 
+**Bank of Japan Raises Key Rate to 1.25%, Crypto Market Reacts Positively - Coinpedia**
+`18 Sep 13:49 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_centralbanks · **2 feeds mein**
+
+Bank of Japan Raises Key Rate to 1.25%, Crypto Market Reacts Positively Coinpedia
+  - `18 Sep 11:48` *gnews_centralbanks* — Bank of Japan Raises Key Rate to 1.25%, Crypto Market Reacts Positively - Coinpedia
+
 **Japanese Yen: Yen vulnerable after BoJ communication – MUFG**
 `18 Sep 13:41 PKT` · pehli baar dekhi `18 Sep 16:48` · fxstreet_news
 
@@ -2059,11 +2088,6 @@ Why the Yen fell after the Bank of Japan raised interest rates fxstreet.com
 `18 Sep 11:49 PKT` · pehli baar dekhi `18 Sep 20:15` · gnews_centralbanks
 
 BOJ Governor Ueda's comments at news conference Reuters
-
-**Bank of Japan Raises Key Rate to 1.25%, Crypto Market Reacts Positively - Coinpedia**
-`18 Sep 11:48 PKT` · pehli baar dekhi `18 Sep 20:15` · gnews_centralbanks
-
-Bank of Japan Raises Key Rate to 1.25%, Crypto Market Reacts Positively Coinpedia
 
 **Bank of Japan increases interest rates to a 31-year high of 1.25% - TradingView**
 `18 Sep 11:45 PKT` · pehli baar dekhi `18 Sep 20:15` · gnews_centralbanks
@@ -2747,6 +2771,11 @@ New Zealand August data. Trade Balance -1349mn Expected -1775mn, Prior -2118mn A
 
 ### OIL
 
+**Oil prices snap two-week winning streak on easing Middle East supply fears - Investing.com India**
+`19 Sep 02:19 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_geopolitics
+
+Oil prices snap two-week winning streak on easing Middle East supply fears Investing.com India
+
 **Oil Falls Below $100 as Supply Fears Ease**
 `19 Sep 02:13 PKT` · instaforex
 
@@ -2822,9 +2851,10 @@ Kazakhstan intends to increase natural gas imports from Russia. The purchase pri
 `18 Sep 22:42 PKT` · pehli baar dekhi `18 Sep 23:33` · investing_commodities
 
 **Oil slides following outreach to Iran to limit Houthis actions in Red Sea - Yahoo Finance**
-`18 Sep 22:34 PKT` · pehli baar dekhi `19 Sep 02:13` · gnews_geopolitics
+`18 Sep 22:34 PKT` · pehli baar dekhi `19 Sep 02:13` · gnews_geopolitics · **2 feeds mein**
 
 Oil slides following outreach to Iran to limit Houthis actions in Red Sea Yahoo Finance
+  - `18 Sep 14:00` *gnews_geopolitics* — Oil slides following outreach to Iran to limit Houthis actions in Red Sea - The Globe and Mail
 
 **Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge**
 `18 Sep 22:30 PKT` · pehli baar dekhi `18 Sep 23:33` · oilprice
@@ -2864,6 +2894,13 @@ An INEOS-led carbon capture and storage project in Denmark was launched on Frida
 
 Crude oil prices pared earlier losses on Friday, trading near $102.20 a barrel as markets assessed the impact of supply disruptions in Saudi Arabia. Satellite imagery and industry sources indicated that three pumping stations serving the kingdom's critical East–West Pipeline were damaged in last week's attack—one more than initially reported—while the timeframe for repairs remains unclear.
 
+**Oil trims losses as investors assess outlook for Mideast crude supply flows By Investing.com - Investing.com South Africa**
+`18 Sep 19:41 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_geopolitics · **3 feeds mein**
+
+Oil trims losses as investors assess outlook for Mideast crude supply flows By Investing.com Investing.com South Africa
+  - `18 Sep 07:42` *gnews_geopolitics* — Oil trims losses as investors assess outlook for Mideast crude supply flows By Investing.com - Investing.com Canada
+  - `18 Sep 07:39` *gnews_geopolitics* — Oil trims losses as investors assess outlook for Mideast crude supply flows By Investing.com - Investing.com
+
 **Saudi Aramco halts European crude supplies amid disruption to key oil route - PressTV**
 `18 Sep 19:33 PKT` · pehli baar dekhi `18 Sep 23:33` · gnews_geopolitics
 
@@ -2875,9 +2912,10 @@ Saudi Aramco halts European crude supplies amid disruption to key oil route Pres
 At least two LNG carriers have transited the Strait of Hormuz so far this week, while two others were detected to have engaged in ship-to-ship transfers outside the Strait offshore Oman, tanker-tracking and satellite data compiled by Bloomberg showed on Friday.
 
 **Fuel protests spread worldwide as the Iran conflict sends oil pain from pumps to streets - The Cool Down**
-`18 Sep 19:02 PKT` · pehli baar dekhi `18 Sep 20:15` · gnews_geopolitics
+`18 Sep 19:02 PKT` · pehli baar dekhi `18 Sep 20:15` · gnews_geopolitics · **2 feeds mein**
 
 Fuel protests spread worldwide as the Iran conflict sends oil pain from pumps to streets The Cool Down
+  - `18 Sep 19:02` *gnews_geopolitics* — Fuel protests spread worldwide as the Iran conflict sends oil pain from pumps to streets - Yahoo
 
 **The Oil Market's Backup Plan Is Breaking Down**
 `18 Sep 19:00 PKT` · pehli baar dekhi `18 Sep 20:15` · oilprice
@@ -3072,6 +3110,11 @@ Malaysia's exports jumped 45.5% year-on-year to MYR 191.1 billion in August 2026
 
 Malaysia's imports surged 41.1% year-on-year to MYR 163 billion in August 2026, beating market expectations of 33.3% and accelerating from July's 36.4%. This was the twelfth straight month of annual growth, highlighting the continued strength of domestic demand. The expansion was driven mainly by the manufacturing sector, where imports climbed 43.2%.
 
+**Oil Prices Fall 1%, Stay Above $100 As Supply Concerns Ease - Deccan Chronicle**
+`18 Sep 11:19 PKT` · pehli baar dekhi `19 Sep 11:10` · gnews_geopolitics
+
+Oil Prices Fall 1%, Stay Above $100 As Supply Concerns Ease Deccan Chronicle
+
 **Oman oil escape route: How ship-to-ship transfers work — despite big risks**
 `18 Sep 11:02 PKT` · pehli baar dekhi `18 Sep 11:36` · aljazeera
 
@@ -3111,12 +3154,6 @@ Global oil prices slip 1% for third day on hopes of limited supply disruptions T
 `18 Sep 08:19 PKT` · pehli baar dekhi `18 Sep 11:36` · gnews_geopolitics
 
 Oil falls 1% as investors eye Middle East supply disruption Profit by Pakistan Today
-
-**Oil trims losses as investors assess outlook for Mideast crude supply flows By Investing.com - Investing.com Canada**
-`18 Sep 07:42 PKT` · pehli baar dekhi `19 Sep 04:20` · gnews_geopolitics · **2 feeds mein**
-
-Oil trims losses as investors assess outlook for Mideast crude supply flows By Investing.com Investing.com Canada
-  - `18 Sep 07:39` *gnews_geopolitics* — Oil trims losses as investors assess outlook for Mideast crude supply flows By Investing.com - Investing.com
 
 **Oil prices fall for 3rd day as supply concerns ease, diplomacy in focus**
 `18 Sep 07:37 PKT` · pehli baar dekhi `18 Sep 11:36` · investing_commodities
@@ -3806,7 +3843,7 @@ Oil Falls as Traders Digest Escalation in US-Iran Strikes EnergyNow.com
 
 Russians vote for the first time since 2022. Can opposition parties challenge Putin-backed United Russia in this vote?
 
-### BINA TAG (293)
+### BINA TAG (323)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -3819,6 +3856,7 @@ Russians vote for the first time since 2022. Can opposition parties challenge Pu
 - `19 Sep 02:36` **wsj_markets** — Wall Street Ends Volatile Week with Quiet Finish
 - `19 Sep 02:21` **mining_com** — Copper mine supply risks first decline since 2017: Sprott
 - `19 Sep 02:14` **mw_topstories** — Amazon, Palantir and 12 more top tech stock picks from UBS analysts
+- `19 Sep 02:13` **gnews_fed** — GOP senators defend Federal Reserve's decision - AOL.com
 - `19 Sep 02:13` **instaforex** — Speculators Trim Bullish Bets on Brazil's Real as Net Long Positions Slip
 - `19 Sep 02:13` **instaforex** — Speculators Trim Bullish Bets on Mexican Peso as CFTC Net Longs Ease to 87.8K
 - `19 Sep 02:13` **instaforex** — Speculators Slash Bullish Bets on U.S. Wheat as Net Longs Collapse to 1.2K Contracts
@@ -3885,6 +3923,7 @@ Russians vote for the first time since 2022. Can opposition parties challenge Pu
 - `18 Sep 21:23` **mw_topstories** — Netflix is too focused on podcasts and not enough on good shows, analysts say
 - `18 Sep 21:12` **aljazeera** — More than 112,000 displaced by Yemen fighting; thousands flee to Djibouti
 - `18 Sep 21:05` **gnews_centralbanks** — Stock markets retreat after central bank rate hikes - Yahoo Finance Singapore
+- `18 Sep 21:05` **gnews_centralbanks** — Stock markets retreat after central bank rate hikes - finance.yahoo.com
 - `18 Sep 20:55` **gnews_fed** — Why the Federal Reserve Is Lifting Rates Now, and What It Means - Industrial Distribution
 - `18 Sep 20:45` **aljazeera** — Nigerian forces fire at protesters rallying over deaths of detained miners
 - `18 Sep 20:43` **mining_com** — US backs Global Atomic's Niger uranium mine with $414M loan
@@ -4087,22 +4126,50 @@ Russians vote for the first time since 2022. Can opposition parties challenge Pu
 - `18 Sep 06:23` **aljazeera** — White House withdraws Lance Schroyer's nomination to lead ICE
 - `18 Sep 06:15` **aljazeera** — Former Assad officer sentenced to 60 years in US for torture
 - `18 Sep 05:49` **aljazeera** — Tunisia floods disrupt capital as heavy rain traps motorists and residents
+- `18 Sep 05:39` **yahoo_finance** — JPMorgan Chase (JPM) Commits $750 Billion to Rebuilding America's Housing Supply
+- `18 Sep 05:28` **yahoo_finance** — Uber (UBER)'s $15 Billion Delivery Hero Buyout Clears a Key Hurdle
+- `18 Sep 05:22` **yahoo_finance** — GameStop (GME)'s Collectibles Business is Quietly Rewriting its Profit Story
+- `18 Sep 05:20` **yahoo_finance** — AstraZeneca (AZN)'s Lung Drug Delivers the Good News its Pipeline Needed
+- `18 Sep 05:09` **yahoo_finance** — United Natural Foods (UNFI) Calls the Bottom and Guides for Growth Again
+- `18 Sep 05:07` **yahoo_finance** — Novartis (NVS) Suffers its Third Drug Trial Setback in a Week, and its Worst Trading Day in Years
 - `18 Sep 05:00` **investing_commodities** — Screwworm infests US horse before port reopens to Mexican livestock
 - `18 Sep 05:00` **actionforex** — Eco Data 9/18/26
+- `18 Sep 04:57` **yahoo_finance** — A Failed Cholesterol Drug Raises the Stakes for Amgen (AMGN) and Eli Lilly (LLY) Too
 - `18 Sep 04:42` **aljazeera** — Migrant sea crossings to Europe drop sharply as deaths rise: IOM
+- `18 Sep 04:40` **yahoo_finance** — Meta (META) Hands its New AI Agent the Keys to Your Inbox and Wallet
 - `18 Sep 04:39` **gnews_fed** — Federal Reserve Raises Rates to 3.75–4.00% After 3-Year Pause - 조선일보
 - `18 Sep 04:38` **instaforex** — Costa Rica Unemployment Rate Falls to 7.0% in Q2
+- `18 Sep 04:37` **yahoo_finance** — Novo Nordisk (NVO) Pulls the Plug on Two More Heart Drug Trials
+- `18 Sep 04:35` **yahoo_finance** — Washington Tells Ford (F) its Chinese Partnerships are a National Security Problem
+- `18 Sep 04:30` **yahoo_finance** — Ford Hasn't Raised Its Dividend in Years. Don't Count on a Hike in 2026.
+- `18 Sep 04:16` **yahoo_finance** — Estes bets $56M on cross-border, offshore freight expansion
 - `18 Sep 04:10` **mining_com** — IperionX validates technology to scale US titanium production
+- `18 Sep 04:08` **yahoo_finance** — FCC approves foreign owners for a merged Paramount-Warner Bros.
+- `18 Sep 04:02` **yahoo_finance** — Upexi Q4 Earnings Call Highlights
+- `18 Sep 04:02` **yahoo_finance** — TD Bank Targets 100 U.S. Branches as AML Remediation Continues
+- `18 Sep 04:02` **yahoo_finance** — Inside L3Harris Technologies (LHX)'s C-HOBS Contract: What the $60M Air Force Award Means for Investors
 - `18 Sep 04:01` **bbc_business** — Early Bowie music available to stream for first time
 - `18 Sep 04:00` **investing_news** — US FCC approves foreign investment in Paramount Warner merger
 - `18 Sep 04:00` **bbc_business** — Why we bought our first home with a 100% mortgage - despite the risks
 - `18 Sep 04:00` **bbc_business** — The virtual worlds where robots are trained
 - `18 Sep 04:00` **gnews_fed** — Jim Cramer explains how investors should prepare for the next 'big bad event' - CNBC
 - `18 Sep 04:00` **investing_news** — US judge strikes down Education Department's anti-DEI grant policy
+- `18 Sep 04:00` **yahoo_finance** — A 19-Year-Old Learns They're the Sole Heir to $8.2M — One Person's Warning: 'I Hope That The Financial Advisor Is Not Paid A% Of The Investment'
+- `18 Sep 04:00` **yahoo_finance** — Why Was Micron Technology Stock Up Today?
+- `18 Sep 04:00` **yahoo_finance** — China's Homegrown AI Chip Push Just Got Faster. Is This a Real Threat to Nvidia?
+- `18 Sep 04:00` **yahoo_finance** — Saudi Pipeline Outage Could Deepen the Global Fuel Crunch
+- `18 Sep 04:00` **yahoo_finance** — Jana Partners Pushes Contact-Lens Maker Cooper to Replace Its CEO
+- `18 Sep 04:00` **yahoo_finance** — How much to invest in Ford stock to earn $500 in annual dividends
+- `18 Sep 03:59` **yahoo_finance** — Tesla Posted Negative $1.1 Billion in Free Cash Flow Last Quarter as Elon Musk Ramps Up Spending on Robotaxis and Optimus. Here's Why the Company's $43.5 Billion Cash Cushion Still Matters.
 - `18 Sep 03:55` **gnews_fed** — Why the Federal Reserve is lifting rates now, and what it means - Plainview Herald
+- `18 Sep 03:50` **yahoo_finance** — Ross Gerber's defensive plan for inflationary markets
 - `18 Sep 03:44` **gnews_fed** — Why the Federal Reserve is lifting rates now, and what it means - Beaumont Enterprise
+- `18 Sep 03:44` **yahoo_finance** — Teledyne Technologies (TDY) Price Target Hiked to $760 as Needham Bets on Defense and Short-Cycle Recovery
 - `18 Sep 03:12` **aljazeera** — Trinidad and Tobago ends state of emergency amid pushback over mass arrests
 - `18 Sep 03:07` **bbc_business** — Healey to ask EU finance ministers to let UK into industry scheme
+- `18 Sep 03:03` **yahoo_finance** — Jim Cramer Prefers Palo Alto (PANW) Over SentinelOne (S)
+- `18 Sep 03:03` **yahoo_finance** — Corn Faces Pressure on Thursday
+- `18 Sep 03:02` **yahoo_finance** — Nike (NKE) Shareholders Side with the Board Over Norway's Wealth Fund on Climate Disclosure
 
 ---
 
@@ -4120,42 +4187,42 @@ investing_news (13)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
-| fxstreet_news | OK | 30 | 30 | 3 | 27 | 0 | 0.1 |
-| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.3 |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.1 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.7 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.0 |
-| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 0.2 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.3 |
-| kitco_general | OK | 23 | 23 | 0 | 23 | 0 | 0.1 |
-| gnews_fed | OK | 100 | 100 | 8 | 92 | 0 | 0.0 |
-| gnews_geopolitics | OK | 71 | 71 | 5 | 66 | 0 | 0.0 |
-| gnews_centralbanks | OK | 100 | 100 | 9 | 91 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
-| fed_speeches | OK | 15 | 2 | 0 | 2 | 13 | 0.5 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.7 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.6 |
-| boj_whatsnew | OK | 44 | 4 | 0 | 4 | 40 | 0.9 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 15.9 |
-| mining_com | OK | 36 | 11 | 1 | 10 | 25 | 0.1 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.2 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| ing_think | OK | 10 | 8 | 0 | 8 | 2 | 0.5 |
-| bbc_business | OK | 53 | 18 | 0 | 18 | 35 | 0.3 |
-| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 4.4 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 8.6 |
-| eia_energy | OK | 17 | 1 | 0 | 1 | 16 | 0.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 15.5 |
-| wsj_world | OK | 73 | 21 | 1 | 20 | 52 | 0.0 |
-| wsj_markets | OK | 61 | 31 | 2 | 29 | 30 | 0.0 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 6 | 2 | 4 | 44 | 0.3 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 19 | 0 | 19 | 11 | 0.2 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.4 |
+| fxstreet_news | OK | 30 | 30 | 0 | 30 | 0 | 0.3 |
+| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.5 |
+| actionforex | OK | 20 | 20 | 7 | 13 | 0 | 0.1 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.9 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
+| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 0.4 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 8.5 |
+| kitco_general | OK | 22 | 22 | 0 | 22 | 0 | 0.3 |
+| gnews_fed | OK | 100 | 100 | 17 | 83 | 0 | 0.1 |
+| gnews_geopolitics | OK | 82 | 82 | 17 | 65 | 0 | 0.1 |
+| gnews_centralbanks | OK | 100 | 100 | 7 | 93 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
+| fed_speeches | OK | 15 | 2 | 0 | 2 | 13 | 0.7 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.9 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.8 |
+| boj_whatsnew | OK | 44 | 4 | 0 | 4 | 40 | 1.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 16.1 |
+| mining_com | OK | 36 | 11 | 0 | 11 | 25 | 0.3 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.4 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| ing_think | OK | 10 | 8 | 0 | 8 | 2 | 0.7 |
+| bbc_business | OK | 53 | 18 | 0 | 18 | 35 | 0.5 |
+| aljazeera | OK | 25 | 25 | 14 | 11 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 4.6 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 8.8 |
+| eia_energy | OK | 17 | 1 | 0 | 1 | 16 | 0.7 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 15.7 |
+| wsj_world | OK | 73 | 22 | 1 | 21 | 51 | 0.2 |
+| wsj_markets | OK | 61 | 31 | 0 | 31 | 30 | 0.2 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 34 | 28 | 6 | 16 | 0.5 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
+| cointelegraph | OK | 30 | 19 | 0 | 19 | 11 | 0.4 |
