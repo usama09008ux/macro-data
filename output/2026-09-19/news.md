@@ -1,9 +1,9 @@
 # News Pack — Trading Day 19 Sep 2026
 
 - Trading day: **19 Sep 03:00 -> 20 Sep 02:59 PKT**
-- Aakhri update: **20 Sep 04:35 PKT**
-- Kul khabrein: **520**
-- Feeds: 39/39 OK
+- Aakhri update: **20 Sep 06:37 PKT**
+- Kul khabrein: **536**
+- Feeds: 38/39 OK
 
 ---
 
@@ -11,10 +11,25 @@
 
 ### GOLD
 
+**Venezuela nears deal to move USD4bn gold reserve to New York, FT says - Business Recorder**
+`20 Sep 02:22 PKT` · pehli baar dekhi `20 Sep 06:37` · gnews_fed
+
+Venezuela nears deal to move USD4bn gold reserve to New York, FT says Business Recorder
+
+**Dollar's 2.6% Rise Offsets Gold's 1.7% Global Decline and Lifts Local Prices in September - Sada Elbalad english**
+`19 Sep 22:24 PKT` · pehli baar dekhi `20 Sep 06:37` · gnews_fed
+
+Dollar's 2.6% Rise Offsets Gold's 1.7% Global Decline and Lifts Local Prices in September Sada Elbalad english
+
 **'There might be a silver lining': My friend's wife died at 60 after a high-earning career. Can he claim her Social Security?**
 `19 Sep 21:15 PKT` · pehli baar dekhi `20 Sep 04:35` · mw_topstories
 
 "They had been married for over 30 years when she passed."
+
+**Gold Shrugs Off Rate Hikes, Holds $4,300 as Dollar Softens - Discovery Alert**
+`19 Sep 14:02 PKT` · pehli baar dekhi `20 Sep 06:37` · gnews_centralbanks
+
+Gold Shrugs Off Rate Hikes, Holds $4,300 as Dollar Softens Discovery Alert
 
 **Gold Holds Above $4,300 Despite Fed & BOJ Rate Hikes - cruxinvestor.com**
 `19 Sep 13:46 PKT` · pehli baar dekhi `20 Sep 04:35` · gnews_centralbanks
@@ -61,6 +76,11 @@ The Fed raised rates and gold didn't break: Here's why kitco.com
 
 ### USD
 
+**U.S. Treasury Yields Fall as Fed Regains Trust, BOE Leaves Rates Unchanged - WSJ**
+`20 Sep 02:14 PKT` · pehli baar dekhi `20 Sep 06:37` · gnews_fed
+
+U.S. Treasury Yields Fall as Fed Regains Trust, BOE Leaves Rates Unchanged WSJ
+
 **The S&P 500 Yields Just 1.1% While 10-Year Treasury Yields Have Surged to 5%. This Dividend Stock Provides a Middle Ground for Long-Term Investors.**
 `20 Sep 01:30 PKT` · pehli baar dekhi `20 Sep 02:39` · yahoo_finance
 
@@ -90,9 +110,10 @@ Thinking of the Impact Fed Rate Hikes Will Have on Your Portfolio? It's Time to 
   - `19 Sep 22:43` *gnews_fed* — Thinking of the Impact Fed Rate Hikes Will Have on Your Portfolio? It's Time to Consider Buying This Perennial Winner That Turned $10,000 Into $86,000 in 10 Years. - The Globe and Mail
 
 **RBI may face higher pressure to hike rates in October as hawkish Fed narrows rate gap: Report - Big News Network.com**
-`19 Sep 22:31 PKT` · pehli baar dekhi `20 Sep 00:26` · gnews_fed
+`19 Sep 22:31 PKT` · pehli baar dekhi `20 Sep 00:26` · gnews_fed · **2 feeds mein**
 
 RBI may face higher pressure to hike rates in October as hawkish Fed narrows rate gap: Report Big News Network.com
+  - `19 Sep 19:01` *gnews_fed* — RBI may face higher pressure to hike rates in October as hawkish Fed narrows rate gap: Report - indiagazette.com
 
 **The Month Before He Went Into Care, She Paid Off the Mortgage, Put a New Roof on the House, and Bought a Car. Medicaid Never Counted a Dollar of It, Because Not One Purchase Was a Gift**
 `19 Sep 22:07 PKT` · pehli baar dekhi `19 Sep 22:21` · yahoo_finance
@@ -292,6 +313,11 @@ Elon Musk says AI could double US GDP growth rate to 4% in 2027 Moneycontrol.com
 `19 Sep 09:44 PKT` · pehli baar dekhi `19 Sep 16:02` · gnews_fed
 
 The Fed's Misguided Rate Hike Will Harm Consumers Independent Women's Forum
+
+**Treasury yields near 5% as Fed and Bank of Japan tighten amid oil-driven inflation worries - VT Markets**
+`19 Sep 08:53 PKT` · pehli baar dekhi `20 Sep 06:37` · gnews_centralbanks
+
+Treasury yields near 5% as Fed and Bank of Japan tighten amid oil-driven inflation worries VT Markets
 
 **Fed hike, RBI moves hand India bonds a fifth weekly loss - bfsi.economictimes.indiatimes.com**
 `19 Sep 07:27 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_fed
@@ -548,9 +574,10 @@ Yen slides as Bank of Japan hike is tempered by dovish guidance; USD/JPY eyes 16
 Japan's BOJ Rate Hike Pushes Ordinary Deposit Rates to 0.5%; Younger Borrowers Face Over ¥20,000 in Annual Burden finance.biggo.com
 
 **Global stocks mixed as yen falls despite Bank of Japan rate hike - New Age BD**
-`19 Sep 22:08 PKT` · pehli baar dekhi `20 Sep 02:39` · gnews_centralbanks
+`19 Sep 22:08 PKT` · pehli baar dekhi `20 Sep 02:39` · gnews_centralbanks · **2 feeds mein**
 
 Global stocks mixed as yen falls despite Bank of Japan rate hike New Age BD
+  - `19 Sep 10:53` *gnews_centralbanks* — Global stocks mixed as yen falls despite Bank of Japan rate hike - en.bd-pratidin.com
 
 **Bank of Japan Raises Interest Rate to 31-Year High of 1.25%: What It Means for Global Markets and Indian Stocks - Dalal Street Investment Journal**
 `19 Sep 16:00 PKT` · pehli baar dekhi `19 Sep 19:21` · gnews_centralbanks
@@ -577,6 +604,11 @@ SMFG stock gains as Japan rates reach a 31-year high AD HOC NEWS
 
 BOJ leans toward September rate hike as yen weakness keeps inflation risk high equiti.com
 
+**U.S. and Japan Hike Rates in Tandem; Taiwan's Central Bank Holds for Tenth Straight Meeting — Yang Chin-long: "We're Walking Our Own Path" - finance.biggo.com**
+`19 Sep 12:25 PKT` · pehli baar dekhi `20 Sep 06:37` · gnews_centralbanks
+
+U.S. and Japan Hike Rates in Tandem; Taiwan's Central Bank Holds for Tenth Straight Meeting — Yang Chin-long: "We're Walking Our Own Path" finance.biggo.com
+
 **USD/JPY Weekly Outlook**
 `19 Sep 12:12 PKT` · pehli baar dekhi `19 Sep 16:02` · actionforex
 
@@ -602,6 +634,11 @@ Fewer births and worsening labour shortages are placing mounting pressure on Jap
 
 Dollar advances vs yen as BOJ dissent clouds rate-hike outlook The Economic Times
 
+**Japan's Rates Are Going On A Hike - Finimize**
+`19 Sep 09:04 PKT` · pehli baar dekhi `20 Sep 06:37` · gnews_centralbanks
+
+Japan's Rates Are Going On A Hike Finimize
+
 **Dollar Index pares gains after Bank of Japan hike as markets weigh further Federal Reserve tightening - VT Markets**
 `19 Sep 08:53 PKT` · pehli baar dekhi `19 Sep 16:02` · gnews_fed
 
@@ -611,6 +648,16 @@ Dollar Index pares gains after Bank of Japan hike as markets weigh further Feder
 `19 Sep 08:21 PKT` · pehli baar dekhi `19 Sep 16:02` · gnews_centralbanks
 
 Bank of Japan raises interest rates to 31-year high; here's how this impacts Indian investors Upstox
+
+**BOJ raises rates to 31-year high as weak yen keeps inflation risks alive - equiti.com**
+`19 Sep 06:41 PKT` · pehli baar dekhi `20 Sep 06:37` · gnews_centralbanks
+
+BOJ raises rates to 31-year high as weak yen keeps inflation risks alive equiti.com
+
+**BoJ tightens; UK retail sales strengthen; US diesel prices hit record high - equiti.com**
+`19 Sep 06:41 PKT` · pehli baar dekhi `20 Sep 06:37` · gnews_centralbanks
+
+BoJ tightens; UK retail sales strengthen; US diesel prices hit record high equiti.com
 
 **Bank of Japan Raises Rate to 1.25%, Highest Since 1995, in 7-2 Vote - findarticles.com**
 `19 Sep 05:49 PKT` · pehli baar dekhi `19 Sep 06:21` · gnews_centralbanks
@@ -783,6 +830,11 @@ Taliban administration and Iran discuss Afghanistan's oil and gas supply خبر�
 `19 Sep 13:40 PKT` · pehli baar dekhi `20 Sep 04:35` · gnews_geopolitics
 
 Gulf Oil Output Likely to Rebound Within Months after Hormuz Reopening EnergyNow.com
+
+**Bessent Says Hormuz Ships Insurance Program to Start Soon - energynow.com**
+`19 Sep 13:30 PKT` · pehli baar dekhi `20 Sep 06:37` · gnews_geopolitics
+
+Bessent Says Hormuz Ships Insurance Program to Start Soon energynow.com
 
 **Oil Market Could be Underpricing Risks, Vitol's Bahrain Chief Says - EnergyNow.com**
 `19 Sep 12:24 PKT` · pehli baar dekhi `20 Sep 04:35` · gnews_geopolitics
@@ -1013,10 +1065,11 @@ Fed's $15.6B Treasury Bill Buys Spark Crypto Trader Optimism CryptoRank
 US Federal Reserve defies Trump with interest rate hike The Guardian Nigeria News
 
 **The Federal Reserve Has Approved an Interest Rate Hike, What Does That Mean for Buyers? - AOL.com**
-`19 Sep 15:00 PKT` · pehli baar dekhi `19 Sep 22:21` · gnews_fed · **2 feeds mein**
+`19 Sep 15:00 PKT` · pehli baar dekhi `19 Sep 22:21` · gnews_fed · **3 feeds mein**
 
 The Federal Reserve Has Approved an Interest Rate Hike, What Does That Mean for Buyers? AOL.com
   - `19 Sep 15:00` *gnews_fed* — The Federal Reserve Has Approved an Interest Rate Hike, What Does That Mean for Buyers? - Yahoo Finance
+  - `19 Sep 15:00` *gnews_fed* — The Federal Reserve Has Approved an Interest Rate Hike, What Does That Mean for Buyers? - AOL.ca
 
 **Federal Reserve Rate Hike: One And Done? - Seeking Alpha**
 `19 Sep 13:00 PKT` · pehli baar dekhi `19 Sep 16:02` · gnews_fed
@@ -1229,13 +1282,14 @@ Discount on Western Canada Select Narrows Again as Iran War Restricts Middle Eas
 
 Iran War Threatens a Prolonged Hit to Global Energy Markets EnergyNow
 
-### BINA TAG (229)
+### BINA TAG (232)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
 - `20 Sep 02:52` **gnews_fed** — The Case for Federal Reserve Discretion - American Enterprise Institute - AEI
 - `20 Sep 02:29` **investing_news** — AI safety efforts will require more compute, not less: experts
 - `20 Sep 02:02` **yahoo_finance** — BNY Sees Cross-Selling and AI Investments Fueling Its Next Growth Phase
+- `20 Sep 01:53` **gnews_geopolitics** — Refineries Are Now the Main Chokepoint for Global Energy Supplies - WSJ
 - `20 Sep 01:50` **yahoo_finance** — How to Earn $600 a Month From the Pipeline Stocks Powering AI Data Centers
 - `20 Sep 01:47` **aljazeera** — Fulham vs Manchester United: Premier League – prediction, teams, lineups
 - `20 Sep 01:40` **aljazeera** — Israel's president pardons soldier who killed wounded Palestinian in 2016
@@ -1371,6 +1425,7 @@ Iran War Threatens a Prolonged Hit to Global Energy Markets EnergyNow
 - `19 Sep 17:00` **yahoo_finance** — Mark Cuban spent $125,000 on a lifetime American Airlines pass after a drunk dial — here's why the math worked
 - `19 Sep 17:00` **mw_topstories** — Starbucks's Snoopy cups and McDonald's SpongeBob toys are commanding huge markups on eBay
 - `19 Sep 17:00` **mw_topstories** — I just started dating someone I really like, but he's moving to Mexico for six months. Should I spend the money to visit him?
+- `19 Sep 17:00` **gnews_centralbanks** — Buyers brace for £1,000 mortgage hit from interest rate rises - The Telegraph
 - `19 Sep 16:55` **yahoo_finance** — Nestlé Loses the Keys to Its Russian Business
 - `19 Sep 16:48` **investing_news** — Porsche could face another 4,000 job cuts, Handelsblatt reports
 - `19 Sep 16:45` **yahoo_finance** — 5 smart things wealthy baby boomers do with their money that guarantees them a comfy lifestyle. How to copy them
@@ -1392,6 +1447,7 @@ Iran War Threatens a Prolonged Hit to Global Energy Markets EnergyNow
 - `19 Sep 15:42` **aljazeera** — Nigerian forces fire at protesters rallying over deaths of detained miners
 - `19 Sep 15:40` **aljazeera** — NFL star Azeez Al-Shaair speaks out after fine over Hind Rajab message
 - `19 Sep 15:37` **gnews_centralbanks** — Two major banks predict interest-rate rises - here's what it could mean for your mortgage - LADbible
+- `19 Sep 15:25` **gnews_geopolitics** — How High Are Gas Prices Where You Live? - The New York Times
 - `19 Sep 15:06` **investing_news** — Ten days that changed the course of AI
 - `19 Sep 15:05` **gnews_fed** — Column | What to do about your credit card debt as interest rates climb - The Washington Post
 - `19 Sep 15:00` **yahoo_finance** — Mortgage and refinance interest rates today, Saturday, September 19, 2026: Mortgage rates move lower to start the weekend
@@ -1479,42 +1535,42 @@ investing_news (17)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 1.1 |
-| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 1.0 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.2 |
+| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 1.2 |
+| fxstreet_news | OK | 30 | 4 | 0 | 4 | 26 | 1.1 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.3 |
 | actionforex | OK | 20 | 15 | 0 | 15 | 5 | 0.6 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.6 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.9 |
-| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 1.1 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.2 |
-| kitco_general | OK | 1 | 1 | 0 | 1 | 0 | 0.8 |
-| gnews_fed | OK | 79 | 79 | 8 | 71 | 0 | 0.0 |
-| gnews_geopolitics | OK | 58 | 58 | 15 | 43 | 0 | 0.0 |
-| gnews_centralbanks | OK | 50 | 50 | 11 | 39 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.5 |
-| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 1.8 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 16.8 |
-| mining_com | OK | 36 | 3 | 0 | 3 | 33 | 1.0 |
-| oilprice | OK | 15 | 5 | 2 | 3 | 10 | 0.0 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.7 |
+| instaforex | OK | 25 | 25 | 1 | 24 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 1 | 1 | 0 | 35 | 0.1 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 9.3 |
+| kitco_general | OK | 1 | 1 | 0 | 1 | 0 | 0.9 |
+| gnews_fed | OK | 74 | 74 | 6 | 68 | 0 | 0.0 |
+| gnews_geopolitics | OK | 56 | 56 | 4 | 52 | 0 | 0.0 |
+| gnews_centralbanks | OK | 51 | 51 | 9 | 42 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.6 |
+| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 1.9 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 16.9 |
+| mining_com | OK | 36 | 3 | 0 | 3 | 33 | 1.1 |
+| oilprice | OK | 15 | 5 | 0 | 5 | 10 | 0.1 |
 | investing_commodities | OK | 10 | 5 | 0 | 5 | 5 | 0.1 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
-| bbc_business | OK | 53 | 0 | 0 | 0 | 53 | 1.2 |
-| aljazeera | OK | 25 | 25 | 1 | 24 | 0 | 0.1 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 5.3 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 9.5 |
-| eia_energy | OK | 17 | 0 | 0 | 0 | 17 | 1.4 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| bbc_business | OK | 53 | 0 | 0 | 0 | 53 | 1.3 |
+| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 5.4 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 9.6 |
+| eia_energy | OK | 17 | 0 | 0 | 0 | 17 | 1.5 |
 | bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 16.5 |
-| wsj_world | OK | 72 | 8 | 0 | 8 | 64 | 0.1 |
-| wsj_markets | OK | 61 | 6 | 0 | 6 | 55 | 0.1 |
+| wsj_world | OK | 72 | 8 | 0 | 8 | 64 | 0.2 |
+| wsj_markets | OK | 61 | 8 | 2 | 6 | 53 | 0.0 |
 | investing_news | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 45 | 8 | 37 | 5 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 2 | 8 | 0 | 0.2 |
-| cointelegraph | OK | 30 | 5 | 0 | 5 | 25 | 0.2 |
+| yahoo_finance | OK | 49 | 4 | 0 | 4 | 45 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 5 | 0 | 5 | 25 | 0.3 |
