@@ -1,15 +1,25 @@
 # News Pack — Trading Day 20 Sep 2026
 
 - Trading day: **20 Sep 03:00 -> 21 Sep 02:59 PKT**
-- Aakhri update: **20 Sep 23:53 PKT**
-- Kul khabrein: **314**
-- Feeds: 30/39 OK
+- Aakhri update: **21 Sep 02:10 PKT**
+- Kul khabrein: **398**
+- Feeds: 31/39 OK
 
 ---
 
 ## Khabrein
 
 ### MARKET WRAP
+
+**Japan market holidays this week raise speculation of intervention to prop up the yen**
+`21 Sep 01:26 PKT` · pehli baar dekhi `21 Sep 02:10` · investinglive
+
+USD/JPY faces two-way risk in thin Asian trading duirng the first half of this week. An intervention-style drop would be amplified by the lack of Tokyo interest, while a quiet session leaves the pair free to drift on the wide rate gap between Japan and the US. Yen crosses would be likely to move in step. Yen strength would typically weigh on exporters, while renewed weakness would support them.
+
+**Monday open indicative forex prices, September 21, 2026**
+`21 Sep 00:57 PKT` · pehli baar dekhi `21 Sep 02:10` · investinglive
+
+Not too much change from late Friday: EUR/USD 1.1487 USD/JPY 156.83 GBP/USD 1.3384 AUD/USD 0.7114 USD/CAD 1.3991 USD/CHF 0.8225 NZD/USD 0.5723 I'll be back with weekend news soon. This article was written by Eamonn Sheridan at investinglive.com.
 
 **CFTC Report: Positioning turns more defensive as Yen longs build**
 `20 Sep 14:37 PKT` · pehli baar dekhi `20 Sep 17:15` · fxstreet_analysis
@@ -27,6 +37,31 @@ The week in one sentence: Yen positioning surged into a sizeable net long in the
 Goldman Holds $5,400 Gold Target, Trims Near-Term View After Fed Hike finance.biggo.com
 
 ### USD
+
+**Fed's Kashkari: U.S. inflation remains broad-based across economy - سانا**
+`21 Sep 01:04 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_fed
+
+Fed's Kashkari: U.S. inflation remains broad-based across economy سانا
+
+**Morgan Stanley questions Federal Reserve's approach to price stability under Warsh - cryptobriefing.com**
+`20 Sep 23:35 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_fed
+
+Morgan Stanley questions Federal Reserve's approach to price stability under Warsh cryptobriefing.com
+
+**Kashkari Says Inflation Pressures Extend Far Beyond Energy Costs - finance.biggo.com**
+`20 Sep 23:05 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_fed
+
+Kashkari Says Inflation Pressures Extend Far Beyond Energy Costs finance.biggo.com
+
+**How does Fed rate hike threaten domestic firms? - The Financial Express**
+`20 Sep 23:00 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_fed
+
+How does Fed rate hike threaten domestic firms? The Financial Express
+
+**Global ratehike cycle in view as central banks take on inflation - The Financial Express**
+`20 Sep 23:00 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_centralbanks
+
+Global ratehike cycle in view as central banks take on inflation The Financial Express
 
 **Can Your Retirement Plan Stand Up to Inflation? These 2 Tweaks Might Help.**
 `20 Sep 22:38 PKT` · pehli baar dekhi `20 Sep 23:53` · yahoo_finance
@@ -48,10 +83,11 @@ UPDATE 1-Fed's Kashkari Says Inflation Is Still Too High across US Economy, in F
   - `20 Sep 20:36` *investing_news* — Fed's Kashkari says inflation is still too high across US economy, in Fox News interview
 
 **Federal Reserve rate hike reflects new world of sticky inflation and faster growth - Mankato Free Press**
-`20 Sep 20:39 PKT` · pehli baar dekhi `20 Sep 23:53` · gnews_fed · **7 feeds mein**
+`20 Sep 20:39 PKT` · pehli baar dekhi `20 Sep 23:53` · gnews_fed · **8 feeds mein**
 
 Federal Reserve rate hike reflects new world of sticky inflation and faster growth Mankato Free Press
   - `20 Sep 18:45` *gnews_fed* — Federal Reserve rate hike reflects new world of sticky inflation and faster growth - McAlester News-Capital
+  - `20 Sep 18:45` *gnews_fed* — Federal Reserve rate hike reflects new world of sticky inflation and faster growth - AP News
   - `20 Sep 17:00` *gnews_fed* — Federal Reserve rate hike reflects new world of sticky inflation and faster growth - The Spec
   - `20 Sep 16:59` *gnews_fed* — Federal Reserve rate hike reflects new world of sticky inflation and faster growth - MyNorthwest.com
   - `20 Sep 16:59` *gnews_fed* — Federal Reserve rate hike reflects new world of sticky inflation and faster growth | National News | 2news.com - KTVN
@@ -78,6 +114,11 @@ Economies around the world are showing surprising resilience to higher central b
 `20 Sep 20:07 PKT` · pehli baar dekhi `20 Sep 21:16` · gnews_fed
 
 Fed's Kashkari says inflation goes beyond oil prices, according to Fox News interview The State
+
+**Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview - Sacramento Bee**
+`20 Sep 20:07 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_fed
+
+Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview Sacramento Bee
 
 **Who's who in Fed's September 2026 dot plot?**
 `20 Sep 19:17 PKT` · pehli baar dekhi `20 Sep 21:16` · investing_news
@@ -108,6 +149,11 @@ Oman's consumer price index (CPI) fell by 0.2% month‑on‑month in August 2026
 America in Focus: Affordability Concerns Rise as Fed Hikes Key Rate, Mortgage Rate Reaches Nearly 7% The National Herald
   - `20 Sep 16:00` *gnews_fed* — America In Focus: Affordability concerns rise as Fed hikes key rate, mortgage rate reaches nearly 7% - Herald-Banner
   - `20 Sep 07:22` *gnews_fed* — America In Focus: Affordability concerns rise as Fed hikes key rate, mortgage rate reaches nearly 7% - Jacksonville Journal-Courier
+
+**Dealers caught between inflation and affordability as Fed raises interest rate - Automotive News**
+`20 Sep 16:00 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_fed
+
+Dealers caught between inflation and affordability as Fed raises interest rate Automotive News
 
 **UAE loan rates to stay high after Fed hike: What it means for mortgages, auto loans and savings - Khaleej Times**
 `20 Sep 15:22 PKT` · pehli baar dekhi `20 Sep 21:16` · gnews_fed
@@ -178,10 +224,11 @@ Ringgit expected to trade in narrow range against US dollar NST Online
 Fed Raises Interest Rates Quarter Point to Four Percent SuaraGarut.ID
 
 **Fed Chair Kevin Warsh defied President Donald Trump, and 17 words from his post-FOMC meeting press conference suggest he may do so again - MSN**
-`20 Sep 06:41 PKT` · pehli baar dekhi `20 Sep 12:02` · gnews_fed · **4 feeds mein**
+`20 Sep 06:41 PKT` · pehli baar dekhi `20 Sep 12:02` · gnews_fed · **5 feeds mein**
 
 Fed Chair Kevin Warsh defied President Donald Trump, and 17 words from his post-FOMC meeting press conference suggest he may do so again MSN
   - `20 Sep 06:30` *gnews_fed* — Fed Chair Kevin Warsh Defied President Donald Trump, and 17 Words From His Post-FOMC Meeting Press Conference Suggest He May Do So Again - The Motley Fool
+  - `20 Sep 06:07` *gnews_fed* — Fed Chair Kevin Warsh Defied President Donald Trump, and 17 Words From His Post-FOMC Meeting Press Conference Suggest He May Do So Again - The Globe and Mail
   - `20 Sep 05:50` *gnews_fed* — Fed Chair Kevin Warsh Defied President Donald Trump, and 17 Words From His Post-FOMC Meeting Press Conference Suggest He May Do So Again - AOL.com
   - `20 Sep 05:50` *gnews_fed* — Fed Chair Kevin Warsh Defied President Donald Trump, and 17 Words From His Post-FOMC Meeting Press Conference Suggest He May Do So Again - Yahoo Finance
 
@@ -221,6 +268,11 @@ Fed Chair Kevin Warsh and the FOMC Raise Interest Rates, Sparking Concerns on Wa
 Hormuz Trade Shock, BoJ Rate Jump, Fed Hike and 5% Yields: Weekend Outlook for New York, London, and Tokyo BBN Times
 
 ### EUR
+
+**France's Macron and Canada's Carney announce plans to build stronger ties**
+`21 Sep 00:28 PKT` · pehli baar dekhi `21 Sep 02:10` · aljazeera
+
+Announcement comes as Canada seeks a closer relationship with the EU amid a trade war with the US.
 
 **German state elections: Two states, two extremes**
 `20 Sep 22:42 PKT` · pehli baar dekhi `20 Sep 23:53` · ing_think
@@ -268,6 +320,11 @@ ECB: Energy price hikes may not necessarily trigger interest rate hikes IDNFinan
 
 ### GBP
 
+**Bank of England sets out long-term plan to unwind QE, halts long-dated gilt sales - The Edge Malaysia**
+`21 Sep 00:04 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_centralbanks
+
+Bank of England sets out long-term plan to unwind QE, halts long-dated gilt sales The Edge Malaysia
+
 **Scott Bessent helped George Soros net $1 billion breaking the Bank of England — now he's fighting a U.S. bond selloff**
 `20 Sep 18:00 PKT` · pehli baar dekhi `20 Sep 21:16` · yahoo_finance
 
@@ -293,10 +350,16 @@ UK inflation rises to 3.1% ahead of Bank of England decision equiti.com
 
 ### JPY
 
+**Japan market holidays this week raise speculation of intervention to prop up the yen - investingLive**
+`21 Sep 01:22 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_centralbanks
+
+Japan market holidays this week raise speculation of intervention to prop up the yen investingLive
+
 **Fed, BoJ hike as energy shock keeps central banks on guard - Kuwait Times**
-`20 Sep 22:30 PKT` · pehli baar dekhi `20 Sep 23:53` · gnews_centralbanks
+`20 Sep 22:30 PKT` · pehli baar dekhi `20 Sep 23:53` · gnews_centralbanks · **2 feeds mein**
 
 Fed, BoJ hike as energy shock keeps central banks on guard Kuwait Times
+  - `20 Sep 22:26` *gnews_centralbanks* — Fed, BoJ hike as energy shock keeps central banks on guard - Kuwait Times
 
 **Bank of Japan raises main policy rate to highest level since 1995 - londondaily.news**
 `20 Sep 18:19 PKT` · pehli baar dekhi `20 Sep 21:16` · gnews_centralbanks
@@ -376,6 +439,12 @@ A 50 percent tariff has disrupted dairy exports, leaving Canadian farmers with m
 
 ### AUD
 
+**RB Global (RBA) Doubles its Buyback Authorization. Can Cash Generation Support it?**
+`21 Sep 01:42 PKT` · pehli baar dekhi `21 Sep 02:10` · yahoo_finance
+
+**Specialised Therapeutics expands Incyte partnership to Australia**
+`21 Sep 01:04 PKT` · pehli baar dekhi `21 Sep 02:10` · investing_news
+
 **Opinion | Where's the Beef? Down Under**
 `20 Sep 22:32 PKT` · pehli baar dekhi `20 Sep 23:53` · wsj_world
 
@@ -391,13 +460,47 @@ PM Anthony Albanese asks Apple boss Tim Cook to back Canberra&#039;s online safe
 
 ### OIL
 
+**Weekend - Ukraine hits Moscow oil refinery in largest drone attack on the region, diesel in focus**
+`21 Sep 01:54 PKT` · pehli baar dekhi `21 Sep 02:10` · investinglive
+
+Refined products are the likeliest first reaction, with diesel the focus and refining margins a cleaner signal than flat crude, since a refinery outage removes product supply while trimming crude demand. The bid may fade quickly if repairs look short, but a longer outage, or a follow-up strike on other Russian refining assets, would extend it. Traders will watch how the diesel curve and margins open when trading resumes, and whether the move stays in diesel or spreads to other fuels.
+
+**US military says Hormuz oil and LNG shipments hit six-month high, cite mine clearance**
+`21 Sep 01:40 PKT` · pehli baar dekhi `21 Sep 02:10` · investinglive
+
+The six-month high (NOTE: claims that are unverified) in Hormuz shipments is (if true!) a supply-side positive that should temper the more extreme upside scenarios for crude, but the risk premium is unlikely to fade while Iran maintains the closure and talks on agreed shipping routes stay stalled. The clearer price signal may sit in refined products, where a reported strike on jet fuel facilities at a major Saudi airport would add to a squeeze that has been building since the summer.
+
+**Trump weighs possible massive strike amid rebel military pressure on Gulf region oil - Washington Times**
+`21 Sep 01:34 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_geopolitics
+
+Trump weighs possible massive strike amid rebel military pressure on Gulf region oil Washington Times
+
+**Hormuz Crisis to Push Global Coal Demand to Record High**
+`21 Sep 00:00 PKT` · pehli baar dekhi `21 Sep 02:10` · oilprice · **2 feeds mein**
+
+The International Energy Agency expects coal demand to increase this year in response to ongoing oil and gas trade constraints stemming from the closure of the Strait of Hormuz. Several countries have been forced to turn back to coal to fill the gap, as oil inventories are depleted and countries gradually expand their renewable energy capacity. In its mid-year update, the IEA predicted that coal use would likely increase in some regions of the world owing to higher natural gas prices in 2026.
+  - `21 Sep 00:00` *yahoo_finance* — Hormuz Crisis to Push Global Coal Demand to Record High
+
+**Diesel at $6.48 per gallon pushes truck drivers to spend $3,500 a week on fuel, forcing some to quit**
+`21 Sep 00:00 PKT` · pehli baar dekhi `21 Sep 02:10` · yahoo_finance
+
 **China Will Dominate Global Nuclear Energy Through 2035, Analyst Says**
 `20 Sep 22:00 PKT` · pehli baar dekhi `20 Sep 23:53` · oilprice
 
 The future of nuclear energy is in China's hands. While the United States remains the world's largest producer of nuclear energy, China's sector is growing at such a rapid clip that it is expected to overtake France as well as the United States to become the world's leading nuclear power producer within the next decade.
 
+**Chevron CEO warns of rising oil prices amid supply disruptions - cryptobriefing.com**
+`20 Sep 21:59 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_geopolitics
+
+Chevron CEO warns of rising oil prices amid supply disruptions cryptobriefing.com
+
 **Chevron CEO sends a strong message on oil price and the economy**
 `20 Sep 21:47 PKT` · pehli baar dekhi `20 Sep 23:53` · yahoo_finance
+
+**Hawk Kashkari warns US inflation runs hot beyond oil, backs rate hikes - CHOSUNBIZ - Chosunbiz**
+`20 Sep 21:43 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_fed
+
+Hawk Kashkari warns US inflation runs hot beyond oil, backs rate hikes - CHOSUNBIZ Chosunbiz
 
 **Kashkari warns inflation has spread beyond oil shock - TradingView**
 `20 Sep 21:14 PKT` · pehli baar dekhi `20 Sep 23:53` · gnews_fed
@@ -416,6 +519,11 @@ US Stock Market Prediction: Dow Jones, S&P 500 & Nasdaq Outlook For Monday, Sept
 `20 Sep 20:00 PKT` · pehli baar dekhi `20 Sep 21:16` · oilprice
 
 In 2024, New York Governor Kathy Hochul signed a law requiring large fossil fuel polluters to pay up to $75 billion in damages. However, after two years, a federal judge has ruled that the law conflicts with federal law and cannot proceed. The law that Hochul signed in December 2024 would have required companies that contribute heavily to fossil fuel pollution to pay to repair damage caused by extreme weather events, which have become increasingly common as global warming intensifies.
+
+**A week after Houthis seize Red Sea city, rebels eye Yemen's oil-rich east - The Business Standard**
+`20 Sep 18:50 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_geopolitics
+
+A week after Houthis seize Red Sea city, rebels eye Yemen's oil-rich east The Business Standard
 
 **U.S. Stocks Down as Oil, Yield Shock Continues - WSJ**
 `20 Sep 18:17 PKT` · pehli baar dekhi `20 Sep 21:16` · gnews_fed
@@ -437,10 +545,25 @@ Iran signs contract to increase oil production at Azadegan Field trend.az
 
 Oil Prices Set for Another Weekly Decline as Iran Risks Recede EnergyNow.com
 
+**OPEC Lowers Second-Quarter Global Oil Demand Forecast on Iran War - EnergyNow.com**
+`20 Sep 15:39 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_geopolitics
+
+OPEC Lowers Second-Quarter Global Oil Demand Forecast on Iran War EnergyNow.com
+
 **Iran War: The Strait of Hormuz Oil Shock Is Now Heading West - EnergyNow**
 `20 Sep 15:22 PKT` · pehli baar dekhi `20 Sep 21:16` · gnews_geopolitics
 
 Iran War: The Strait of Hormuz Oil Shock Is Now Heading West EnergyNow
+
+**Iran says Strait of Hormuz to remain closed until US fulfills commitments - Anadolu Ajansı**
+`20 Sep 15:20 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_geopolitics
+
+Iran says Strait of Hormuz to remain closed until US fulfills commitments Anadolu Ajansı
+
+**Oil Falls After Lebanon and Israel Agree to Ceasefire - EnergyNow**
+`20 Sep 15:13 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_geopolitics
+
+Oil Falls After Lebanon and Israel Agree to Ceasefire EnergyNow
 
 **Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say - EnergyNow**
 `20 Sep 15:09 PKT` · pehli baar dekhi `20 Sep 23:53` · gnews_geopolitics
@@ -451,6 +574,16 @@ Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts
 `20 Sep 15:00 PKT` · pehli baar dekhi `20 Sep 17:15` · gnews_geopolitics
 
 US retailer rations motor oil as prices quadruple and supplies run dry Financial Times
+
+**US Seeks International Help to Reopen Strait of Hormuz as Crude Prices Surge - EnergyNow**
+`20 Sep 14:58 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_geopolitics
+
+US Seeks International Help to Reopen Strait of Hormuz as Crude Prices Surge EnergyNow
+
+**OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens - EnergyNow**
+`20 Sep 14:41 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_geopolitics
+
+OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens EnergyNow
 
 **Petrol Price Pakistan | Ali Pervaiz | Global Oil Market | Fuel Supply | 02 PM Headlines - english.aaj.tv**
 `20 Sep 14:35 PKT` · pehli baar dekhi `20 Sep 17:15` · gnews_geopolitics
@@ -467,10 +600,20 @@ Oil Futures Pull Back After Major Gains WSJ
 
 Chinese shipbuilders are enjoying reflective profits as crude oil supply lines are diversified in th.. 매일경제
 
+**Iran says it struck an oil tanker in the Strait of Hormuz, AP reports - eciks.org**
+`20 Sep 09:24 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_geopolitics
+
+Iran says it struck an oil tanker in the Strait of Hormuz, AP reports eciks.org
+
 **WTI Crude Oil Price Forecast: Oil Prices Could Plunge as Iran Sets 7 Negotiation Conditions for US - tradingkey.com**
 `20 Sep 08:00 PKT` · pehli baar dekhi `20 Sep 12:02` · gnews_geopolitics
 
 WTI Crude Oil Price Forecast: Oil Prices Could Plunge as Iran Sets 7 Negotiation Conditions for US tradingkey.com
+
+**Trump Thanks Xi as China's Reserves Curb Oil Surge - 조선일보**
+`20 Sep 07:29 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_geopolitics
+
+Trump Thanks Xi as China's Reserves Curb Oil Surge 조선일보
 
 **Middle East tensions drive Brent crude above $100 amid supply fears - Crypto Briefing**
 `20 Sep 07:00 PKT` · pehli baar dekhi `20 Sep 12:02` · gnews_geopolitics
@@ -481,6 +624,11 @@ Middle East tensions drive Brent crude above $100 amid supply fears Crypto Brief
 `20 Sep 05:58 PKT` · pehli baar dekhi `20 Sep 06:37` · gnews_geopolitics
 
 Strait of Hormuz Oil Shipments Reach Six-Month High as U.S.-Iran War Continues USA Herald
+
+**Oil slides after China asks Iran to limit Houthi attacks on Saudi oil facilities - Qatar Tribune**
+`20 Sep 04:33 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_geopolitics
+
+Oil slides after China asks Iran to limit Houthi attacks on Saudi oil facilities Qatar Tribune
 
 **Venezuela leader Rodriguez signs agreement with French Oil Company Total Energies**
 `20 Sep 04:24 PKT` · pehli baar dekhi `20 Sep 04:35` · investing_news
@@ -500,7 +648,15 @@ Liquefied natural gas prices on the spot market are moving higher as demand pick
 
 DAX, Crude oil forecast: Rising energy prices, yields threaten risk assets FOREX.com
 
+**Hormuz Oil Shipments Hit Six-Month High, States US Commander - Energy News Beat**
+`20 Sep 03:13 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_geopolitics
+
+Hormuz Oil Shipments Hit Six-Month High, States US Commander Energy News Beat
+
 ### CRYPTO
+
+**Investors Can Now Invest in the Surging Tron Cryptocurrency Via an ETF. Here's What Crypto Investors Need to Know.**
+`21 Sep 00:47 PKT` · pehli baar dekhi `21 Sep 02:10` · yahoo_finance
 
 **Iran warns of action in Strait of Hormuz amid US tensions - Crypto Briefing**
 `20 Sep 23:03 PKT` · pehli baar dekhi `20 Sep 23:53` · gnews_geopolitics
@@ -555,7 +711,30 @@ The probability of a Federal Reserve rate hike this October kucoin.com
 
 SoFi Technologies (NASDAQ: SOFI) Shares Climb Overnight As Retail Sentiment Shifts Following Federal Reserve Rate Hike foreignpolicyjournal.com
 
+**RBI Interest Rate Hike: Could Your EMI Increase in October? Know Here - Times Bull**
+`20 Sep 11:21 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_fed
+
+RBI Interest Rate Hike: Could Your EMI Increase in October? Know Here Times Bull
+
 ### RISK
+
+**Qatar PM describes fallout of US-Israel war on Iran as 'earthquake'**
+`21 Sep 01:13 PKT` · pehli baar dekhi `21 Sep 02:10` · aljazeera
+
+Speaking before the UN General Assembly, Sheikh Mohammed also announces a key shift in Qatar&#039;s investment strategy.
+
+**Qatar says it is working to revive Iran-US talks**
+`21 Sep 00:36 PKT` · pehli baar dekhi `21 Sep 02:10` · aljazeera
+
+Qatar's Foreign Ministry spokesperson tells Bloomberg that mediators are shuttling between Iran and US to revive talks.
+
+**Vera Bradley (VRA) Returns to Operating Profit. Can the Recovery Outlast Tariff Refunds?**
+`20 Sep 23:51 PKT` · pehli baar dekhi `21 Sep 02:10` · yahoo_finance
+
+**Gulf states call off meeting with Iran, Houthis launch new attack on Saudi - The Business Standard**
+`20 Sep 22:55 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_geopolitics
+
+Gulf states call off meeting with Iran, Houthis launch new attack on Saudi The Business Standard
 
 **Opinion | What Is Saudi Arabia's Plan for the Houthis?**
 `20 Sep 22:43 PKT` · pehli baar dekhi `20 Sep 23:53` · wsj_world
@@ -571,6 +750,11 @@ Iran factories face deepening raw material shortages Iran International
 `20 Sep 22:33 PKT` · pehli baar dekhi `20 Sep 23:53` · wsj_markets
 
 The smart fix for the Treasury secretary is to dump tariffs and encourage free trade.
+
+**Roger Carstens discusses US-Iran hostage diplomacy on new podcast - cryptobriefing.com**
+`20 Sep 22:05 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_geopolitics
+
+Roger Carstens discusses US-Iran hostage diplomacy on new podcast cryptobriefing.com
 
 **Why have US prosecutors labelled China's Huawei a criminal enterprise?**
 `20 Sep 20:57 PKT` · pehli baar dekhi `20 Sep 23:53` · aljazeera
@@ -601,6 +785,11 @@ Players celebrate podium finish that brings exemption from conscription, saying 
 
 Iran&#039;s cost of living crisis is affecting the dreams and everyday life choices of young Iranians.
 
+**Governor Gavin Newsom Says, "As Donald Trump's Costly And Reckless Iran War Continues To Disrupt Global Oil Markets And Drive Up Costs For Families At The Pump, California Is Taking Action" to Lower Fuel Prices - Sierra Sun Times**
+`20 Sep 17:04 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_geopolitics
+
+Governor Gavin Newsom Says, "As Donald Trump's Costly And Reckless Iran War Continues To Disrupt Global Oil Markets And Drive Up Costs For Families At The Pump, California Is Taking Action" to Lower Fuel Prices Sierra Sun Times
+
 **From Oil to Weapons; How Does War Against Iran Erode America's Markets and Capacities? - ABNA English**
 `20 Sep 17:02 PKT` · pehli baar dekhi `20 Sep 23:53` · gnews_geopolitics
 
@@ -621,10 +810,20 @@ Iran&#039;s latest set of conditions come as growing regional escalation causes 
 
 Trump's Iran war makes next month's budget harder, says Phillipson streamlinefeed.co.ke
 
+**The Iran War May Be Permanently Rewiring Global Energy Security - EnergyNow**
+`20 Sep 15:21 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_geopolitics
+
+The Iran War May Be Permanently Rewiring Global Energy Security EnergyNow
+
 **Ed Davey calls for immediate 10p cut to fuel duty**
 `20 Sep 14:32 PKT` · pehli baar dekhi `20 Sep 17:15` · bbc_business
 
 Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.
+
+**US-Israel-Iran War Latest Live News: Iran War Energy Shock Spreads Across Global Economy, Fuel Prices & Inflation Rise; Check Latest Updates - The Sunday Guardian**
+`20 Sep 14:08 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_geopolitics
+
+US-Israel-Iran War Latest Live News: Iran War Energy Shock Spreads Across Global Economy, Fuel Prices & Inflation Rise; Check Latest Updates The Sunday Guardian
 
 **Are oil companies profiting from the Iran war? Experts explain - ABC News - Breaking News, Latest News and Videos**
 `20 Sep 14:02 PKT` · pehli baar dekhi `20 Sep 23:53` · gnews_geopolitics
@@ -677,11 +876,45 @@ Iran security chief says Tehran&#039;s demands include an end to war on all fron
 
 This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis.
 
-### BINA TAG (166)
+### BINA TAG (205)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `21 Sep 02:00` **wsj_world** — Trump's Greenland Deal Eases Way for U.S. Business on Arctic Island
+- `21 Sep 01:55` **wsj_world** — Opinion | Donald Trump, Xi Jinping and Jimmy Lai
+- `21 Sep 01:54` **yahoo_finance** — Semtech's (SMTC) LoRa Plus Expansion Is Bigger Than Two New Chips
+- `21 Sep 01:54` **yahoo_finance** — Chord Energy (CHRD) Signs $550 Million Marcellus Sale. Is Greater Focus Worth it?
+- `21 Sep 01:54` **wsj_world** — Opinion | In the End, a Good Greenland Deal
+- `21 Sep 01:50` **yahoo_finance** — LuxExperience (LUXE) Reports NET-A-PORTER and MR PORTER Growth. Are Customers Returning?
+- `21 Sep 01:45` **yahoo_finance** — Lennar (LEN) Cuts Delivery Forecast. Can Construction Savings Offset Heavy Incentives?
+- `21 Sep 01:35` **yahoo_finance** — Halliburton (HAL) Wins Integrated Cyprus Contract. Can Broader Services Improve Returns?
+- `21 Sep 01:33` **yahoo_finance** — HCA Healthcare (HCA) Acquires a Healthcare College. Can Training Capacity Improve Staffing?
+- `21 Sep 01:32` **yahoo_finance** — Navan's (NAVN) Collaboration with Engine Offers New Lever for Platform Stickiness
+- `21 Sep 01:31` **aljazeera** — Eighteen suspects extradited to US over Haitian president's 2021 killing
+- `21 Sep 01:29` **yahoo_finance** — Red Violet (RDVT) Expands FOREWARN Reach Through This Latest Partnership
+- `21 Sep 01:28` **yahoo_finance** — 2 Monster Stocks to Buy and Hold for at Least the Next 5 Years
+- `21 Sep 01:26` **yahoo_finance** — GE Aerospace Goes Vertical (Integration)
+- `21 Sep 01:23` **yahoo_finance** — A weekend deal could rewrite Paramount's Warner Bros. timeline
+- `21 Sep 01:21` **yahoo_finance** — Streaming's Biggest Rivals Just Became Allies in Washington
+- `21 Sep 01:20` **yahoo_finance** — If the AI Bubble Bursts as the Dot-Com Did, History Says the QQQ Might Not Recover Until 2042
+- `21 Sep 01:19` **gnews_fed** — Federal Reserve raises rates for first time since 2023, putting corporate treasurers back to work - cryptobriefing.com
+- `21 Sep 01:16` **yahoo_finance** — My parents didn't plan for retirement, but I've got millions: what's the best way to help them?
+- `21 Sep 01:07` **yahoo_finance** — Amazon has some good news for its employees on minimum wage
+- `21 Sep 01:03` **yahoo_finance** — He Converted $40,000 a Year for Ten Years. His Brother Left the Same $450,000 Alone and Watched It Grow to $730,000. Only One of Them Owns What the Statement Says
+- `21 Sep 01:00` **gnews_fed** — Corporate Treasurers Reverse Course as Rates Rise (WK, TOBA) - Bloomberg.com
+- `21 Sep 00:51` **yahoo_finance** — Orion Energy (OESX) Raises Guidance. How Firm is the Retailer Opportunity?
+- `21 Sep 00:47` **yahoo_finance** — Axon Enterprise (AXON) Prices $1B of Zero-Coupon Notes. What is the Real Cost?
+- `21 Sep 00:42` **aljazeera** — US, China open high-level talks ahead of Trump-Xi summit
+- `21 Sep 00:42` **yahoo_finance** — Sabre (SABR) Prices $1.35B of Secured Notes. Is the Breathing Room Worth the Cost?
+- `21 Sep 00:40` **yahoo_finance** — Brookfield Business (BBUC) Joins Reliance Deal. What Returns Can it Capture?
+- `21 Sep 00:00` **gnews_centralbanks** — The Policy Muddle Snaring the World's Big Central Banks - Bloomberg.com
+- `20 Sep 23:57` **mining_com** — Attacks on mining operations on the rise in Pakistan: report
+- `20 Sep 23:56` **yahoo_finance** — Lindblad Expeditions (LIND) Buys White Desert Control. Can Antarctic Land Travel Lift Returns?
+- `20 Sep 23:45` **yahoo_finance** — SPX Technologies (SPXC) Buys FIS Water for $410M. Can Water Management Lift Cooling Returns?
+- `20 Sep 23:43` **yahoo_finance** — LifeMD (LFMD) Secures AT&T Partnership. Can Free Memberships Produce Paying Patients?
+- `20 Sep 23:34` **aljazeera** — How will Saudi Arabia deal with the Houthis?
 - `20 Sep 23:33` **yahoo_finance** — After nearly 50 years, convenience store chain sells every location
+- `20 Sep 23:32` **aljazeera** — Man Utd salvage Fulham draw as pressure mounts on Carrick
 - `20 Sep 23:31` **yahoo_finance** — Trip.com (TCOM) Books RMB5.2 Billion Penalty. Can Overseas Growth Offset Domestic Pressure?
 - `20 Sep 23:30` **yahoo_finance** — Forgent Power (FPS) Reports $3B Backlog. Can Manufacturing Keep Up?
 - `20 Sep 23:30` **wsj_world** — Trump Administration Prepares to Sanction the International Criminal Court
@@ -752,6 +985,7 @@ This was the first time an alert was sounded in Riyadh since an escalation betwe
 - `20 Sep 19:00` **gnews_centralbanks** — Global Central Banks Compactly Raise Key Interest Rates - IDNFinancials
 - `20 Sep 18:53` **aljazeera** — Jews and Muslims lived together for centuries. Did Zionism tear them apart?
 - `20 Sep 18:31` **aljazeera** — Netanyahu tours tunnels underneath Al-Aqsa Mosque compound
+- `20 Sep 18:30` **gnews_geopolitics** — West Asia Crisis: 'India Has Very Little Leverage' - StratNews Global
 - `20 Sep 18:10` **aljazeera** — Moscow attacked by more than 1,000 Ukrainian drones
 - `20 Sep 18:05` **yahoo_finance** — Are you 'secretly broke'? Here are the 7 worst habits keeping Americans in the red
 - `20 Sep 18:00` **investing_news** — Saudi, Gulf stocks fall after Houthis claim Riyadh attacks
@@ -788,21 +1022,25 @@ This was the first time an alert was sounded in Riyadh since an escalation betwe
 - `20 Sep 15:00` **yahoo_finance** — Best CD rates today, Sunday, September 20, 2026: Lock in up to 4.40% APY
 - `20 Sep 15:00` **yahoo_finance** — Mortgage and refinance interest rates today, Sunday, September 20, 2026: Mortgage rates moved higher again compared to last week
 - `20 Sep 14:52` **aljazeera** — Salah scores hat-trick as Trabzonspor beat Galatasaray in Turkish league
+- `20 Sep 14:48` **gnews_fed** — Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. - The Motley Fool
 - `20 Sep 14:37` **gnews_centralbanks** — Hachijuni stock holds steady as latest results highlight solid earnings - ad-hoc-news.de
 - `20 Sep 14:36` **aljazeera** — Asian Games: Smriti Mandhana breaks T20 record as India beat Bangladesh
 - `20 Sep 14:30` **aljazeera** — 'There will be a very sizeable Saudi response' to Houthi attacks
 - `20 Sep 14:25` **bbc_business** — Family shares hidden cost of cancer care
+- `20 Sep 14:17` **gnews_fed** — Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. - The Globe and Mail
 - `20 Sep 14:14` **cointelegraph** — Grayscale's Zcash ETF files for 3-for-1 forward share split
 - `20 Sep 14:10` **gnews_fed** — New Document: This XRP Utility Matches What FedNow Requires - Bitget
 - `20 Sep 14:08` **gnews_fed** — Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. - Yahoo Finance
 - `20 Sep 14:08` **gnews_fed** — Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. - AOL.com
 - `20 Sep 13:47` **gnews_fed** — The double-whammy that's about to hit the US economy — and put a big squeeze on your wallet - Business Insider
+- `20 Sep 13:42` **gnews_geopolitics** — Fighting in Yemen intensifies, and Houthis launch more attacks on Saudi Arabia - ABC News - Breaking News, Latest News and Videos
 - `20 Sep 13:32` **aljazeera** — Echoicide: Who decides which truths survive in Gaza?
 - `20 Sep 12:55` **aljazeera** — Former England and Tottenham star Andros Townsend run over by pitch roller
 - `20 Sep 12:51` **cointelegraph** — Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal
 - `20 Sep 11:26` **gnews_fed** — Weekly Outlook | Focusing on China-U.S. economic and trade consultations! The Iranian president addressed the United Nations General Assembly, while Trump held talks with leaders of Persian Gulf countries; Federal Reserve officials have been speaking o - 富途牛牛
 - `20 Sep 11:12` **bbc_business** — Families missing out on NHS money for healthy food
 - `20 Sep 11:03` **aljazeera** — Myanmar's Van defeats Pantoja to retain flyweight title in UFC 331
+- `20 Sep 11:00` **instaforex** — PBoC Holds Loan Prime Rate at 3.00% as China Balances Growth and Stability
 - `20 Sep 10:43` **aljazeera** — Journalists locked out of the White House after Trump ban
 - `20 Sep 10:34` **gnews_fed** — The Dinar and Interest Rates: Are We Paying More Than Necessary? - Ammon News
 - `20 Sep 10:31` **investing_news** — Why Greek banks deserve your attention
@@ -856,45 +1094,45 @@ This was the first time an alert was sounded in Riyadh since an escalation betwe
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.3 |
-| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.8 |
-| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.4 |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.4 |
-| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 3.4 |
-| instaforex | OK | 25 | 2 | 0 | 2 | 23 | 0.1 |
-| wsj_economy | OK | 36 | 2 | 0 | 2 | 34 | 0.1 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.0 |
+| investinglive | OK | 25 | 5 | 4 | 1 | 20 | 0.0 |
+| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 1.9 |
+| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.5 |
+| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.5 |
+| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 3.5 |
+| instaforex | OK | 25 | 3 | 1 | 2 | 22 | 0.2 |
+| wsj_economy | OK | 36 | 2 | 0 | 2 | 34 | 0.2 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.1 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 51 | 48 | 10 | 38 | 3 | 0.1 |
-| gnews_geopolitics | OK | 61 | 37 | 7 | 30 | 24 | 0.0 |
-| gnews_centralbanks | OK | 50 | 45 | 4 | 41 | 5 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.0 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
+| gnews_fed | OK | 55 | 54 | 14 | 40 | 1 | 0.0 |
+| gnews_geopolitics | OK | 59 | 56 | 19 | 37 | 3 | 0.0 |
+| gnews_centralbanks | OK | 46 | 43 | 5 | 38 | 3 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.1 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
 | ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.3 |
-| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 2.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 17.6 |
-| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.8 |
-| oilprice | OK | 15 | 4 | 1 | 3 | 11 | 0.1 |
-| investing_commodities | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| ing_think | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
-| bbc_business | OK | 54 | 7 | 0 | 7 | 47 | 0.2 |
-| aljazeera | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 6.1 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 10.3 |
-| eia_energy | OK | 17 | 0 | 0 | 0 | 17 | 2.2 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 17.3 |
-| wsj_world | OK | 71 | 9 | 8 | 1 | 62 | 0.0 |
-| wsj_markets | OK | 61 | 5 | 1 | 4 | 56 | 0.1 |
-| investing_news | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| yahoo_finance | OK | 50 | 43 | 25 | 18 | 7 | 0.0 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 3 | 0 | 3 | 27 | 0.3 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.4 |
+| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 2.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 17.7 |
+| mining_com | OK | 36 | 1 | 1 | 0 | 35 | 0.1 |
+| oilprice | OK | 15 | 5 | 1 | 4 | 10 | 0.1 |
+| investing_commodities | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| ing_think | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
+| bbc_business | OK | 54 | 7 | 0 | 7 | 47 | 0.3 |
+| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 6.2 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 10.4 |
+| eia_energy | OK | 17 | 0 | 0 | 0 | 17 | 2.3 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 17.4 |
+| wsj_world | OK | 71 | 10 | 3 | 7 | 61 | 0.0 |
+| wsj_markets | OK | 61 | 5 | 0 | 5 | 56 | 0.2 |
+| investing_news | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 47 | 28 | 19 | 3 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 3 | 0 | 3 | 27 | 0.4 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi
