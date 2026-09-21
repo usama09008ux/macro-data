@@ -1,8 +1,8 @@
 # News Pack — Trading Day 20 Sep 2026
 
 - Trading day: **20 Sep 03:00 -> 21 Sep 02:59 PKT**
-- Aakhri update: **21 Sep 06:14 PKT**
-- Kul khabrein: **463**
+- Aakhri update: **21 Sep 11:30 PKT**
+- Kul khabrein: **477**
 - Feeds: 32/39 OK
 
 ---
@@ -62,6 +62,11 @@ Morgan Stanley: Warsh Has Hiked, but the Real Question Is How He Plans to Delive
 `21 Sep 01:50 PKT` · pehli baar dekhi `21 Sep 04:16` · gnews_fed
 
 Fed Hikes Rates to 4% on Energy Inflation: Davis Analysis - News and Statistics indexbox.io
+
+**Federal Reserve Warsh - Decatur Daily**
+`21 Sep 01:36 PKT` · pehli baar dekhi `21 Sep 11:30` · gnews_fed
+
+Federal Reserve Warsh Decatur Daily
 
 **Global markets weekly: Fed, inflation and rate decisions drive market moves - TradingView**
 `21 Sep 01:18 PKT` · pehli baar dekhi `21 Sep 04:16` · gnews_centralbanks
@@ -196,6 +201,11 @@ Oman's consumer price index (CPI) fell by 0.2% month‑on‑month in August 2026
 America in Focus: Affordability Concerns Rise as Fed Hikes Key Rate, Mortgage Rate Reaches Nearly 7% The National Herald
   - `20 Sep 16:00` *gnews_fed* — America In Focus: Affordability concerns rise as Fed hikes key rate, mortgage rate reaches nearly 7% - Herald-Banner
   - `20 Sep 07:22` *gnews_fed* — America In Focus: Affordability concerns rise as Fed hikes key rate, mortgage rate reaches nearly 7% - Jacksonville Journal-Courier
+
+**Federal Reserve rate hike reflects new world of sticky inflation and faster growth | Associated Press | syndication news - Enidnews.com**
+`20 Sep 16:59 PKT` · pehli baar dekhi `21 Sep 11:30` · gnews_fed
+
+Federal Reserve rate hike reflects new world of sticky inflation and faster growth | Associated Press | syndication news Enidnews.com
 
 **Dealers caught between inflation and affordability as Fed raises interest rate - Automotive News**
 `20 Sep 16:00 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_fed
@@ -575,6 +585,11 @@ Why $100 Oil is No Longer Spooking Equity Markets EnergyNow
 
 Rate futures suggest markets still see a tightening Fed, with roughly a two-in-three chance that the policy rate ends 2026 at 4.00% to 4.25% and a strong likelihood of at least another quarter point by mid-2027. That should keep the US dollar supported and leaves rate-sensitive assets exposed, since traders are unlikely to expect the Fed to look through the oil spike.
 
+**Oil Slides After Pakistani Source Says US and Iran are Close to Framework Peace Deal - EnergyNow.com**
+`21 Sep 02:04 PKT` · pehli baar dekhi `21 Sep 11:30` · gnews_geopolitics
+
+Oil Slides After Pakistani Source Says US and Iran are Close to Framework Peace Deal EnergyNow.com
+
 **Weekend - Ukraine hits Moscow oil refinery in largest drone attack on the region, diesel in focus**
 `21 Sep 01:54 PKT` · pehli baar dekhi `21 Sep 02:10` · investinglive
 
@@ -584,6 +599,11 @@ Refined products are the likeliest first reaction, with diesel the focus and ref
 `21 Sep 01:52 PKT` · pehli baar dekhi `21 Sep 06:14` · gnews_geopolitics
 
 Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March EnergyNow.com
+
+**Iran Cut Back Oil Production by 400,000 bpd, US Energy Secretary Says - EnergyNow**
+`21 Sep 01:49 PKT` · pehli baar dekhi `21 Sep 11:30` · gnews_geopolitics
+
+Iran Cut Back Oil Production by 400,000 bpd, US Energy Secretary Says EnergyNow
 
 **US military says Hormuz oil and LNG shipments hit six-month high, cite mine clearance**
 `21 Sep 01:40 PKT` · pehli baar dekhi `21 Sep 02:10` · investinglive
@@ -599,6 +619,11 @@ IRAN IN CONTROL: Iran Says Strait of Hormuz Will Remain Closed Until Conditions 
 `21 Sep 01:34 PKT` · pehli baar dekhi `21 Sep 02:10` · gnews_geopolitics
 
 Trump weighs possible massive strike amid rebel military pressure on Gulf region oil Washington Times
+
+**U.S. TOPS THE LIST – Half the World's Oil Comes From Just Five Countries – Visual Capitalist - EnergyNow.com**
+`21 Sep 01:33 PKT` · pehli baar dekhi `21 Sep 11:30` · gnews_geopolitics
+
+U.S. TOPS THE LIST – Half the World's Oil Comes From Just Five Countries – Visual Capitalist EnergyNow.com
 
 **Why Europe Losing Saudi Oil Could Become America's Problem - dailycaller.com**
 `21 Sep 01:11 PKT` · pehli baar dekhi `21 Sep 04:16` · gnews_geopolitics
@@ -721,6 +746,11 @@ US Seeks International Help to Reopen Strait of Hormuz as Crude Prices Surge Ene
 
 OPEC+ Agrees to Boost Oil Output When Strait of Hormuz Reopens EnergyNow
 
+**Morgan Stanley Lowers Oil Price Forecasts After US-Iran Peace Deal - EnergyNow.com**
+`20 Sep 14:38 PKT` · pehli baar dekhi `21 Sep 11:30` · gnews_geopolitics
+
+Morgan Stanley Lowers Oil Price Forecasts After US-Iran Peace Deal EnergyNow.com
+
 **Petrol Price Pakistan | Ali Pervaiz | Global Oil Market | Fuel Supply | 02 PM Headlines - english.aaj.tv**
 `20 Sep 14:35 PKT` · pehli baar dekhi `20 Sep 17:15` · gnews_geopolitics
 
@@ -730,6 +760,16 @@ Petrol Price Pakistan | Ali Pervaiz | Global Oil Market | Fuel Supply | 02 PM He
 `20 Sep 14:30 PKT` · pehli baar dekhi `21 Sep 04:16` · gnews_geopolitics
 
 US Crude Exports Hit Record High in May as Iran War Tightens Global Oil Supplies EnergyNow
+
+**Oil Prices Little Changed for Week as US-Iran Peace Efforts Hold - EnergyNow.com**
+`20 Sep 14:16 PKT` · pehli baar dekhi `21 Sep 11:30` · gnews_geopolitics
+
+Oil Prices Little Changed for Week as US-Iran Peace Efforts Hold EnergyNow.com
+
+**Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz - EnergyNow.com**
+`20 Sep 14:12 PKT` · pehli baar dekhi `21 Sep 11:30` · gnews_geopolitics
+
+Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz EnergyNow.com
 
 **Oil Futures Pull Back After Major Gains - WSJ**
 `20 Sep 11:26 PKT` · pehli baar dekhi `20 Sep 17:15` · gnews_geopolitics
@@ -780,9 +820,10 @@ Oil slides after China asks Iran to limit Houthi attacks on Saudi oil facilities
 `20 Sep 04:24 PKT` · pehli baar dekhi `20 Sep 04:35` · investing_news
 
 **Energy Giants Are Betting Billions on a World of Longer Oil Routes**
-`20 Sep 04:00 PKT` · pehli baar dekhi `20 Sep 04:35` · oilprice
+`20 Sep 04:00 PKT` · pehli baar dekhi `20 Sep 04:35` · oilprice · **2 feeds mein**
 
 Global maritime and energy markets are currently showing two significant developments. Both indicate they should not be treated as separate market stories, but as an intertwined sector. Abu Dhabi's ADNOC investment arm, XRG, is reportedly considering acquiring up to 50% of Energos Infrastructure, a floating-LNG company valued at around $3 billion. At the same time, shipowners have ordered more VLCCs in 2026 than in any comparable period for at least the last 25 years.
+  - `20 Sep 04:00` *yahoo_finance* — Energy Giants Are Betting Billions on a World of Longer Oil Routes
 
 **Europe Outbids Asia for LNG as Prices Surge 150%**
 `20 Sep 04:00 PKT` · pehli baar dekhi `20 Sep 04:35` · oilprice
@@ -877,6 +918,16 @@ RBI Interest Rate Hike: Could Your EMI Increase in October? Know Here Times Bull
 **Russia stocks lower at close of trade; MOEX Russia Index unchanged**
 `21 Sep 02:20 PKT` · pehli baar dekhi `21 Sep 04:16` · investing_news
 
+**Iran War Upends IEA's Oil Market Outlook as Global Supply and Demand to Contract in 2026 - EnergyNow**
+`21 Sep 02:02 PKT` · pehli baar dekhi `21 Sep 11:30` · gnews_geopolitics
+
+Iran War Upends IEA's Oil Market Outlook as Global Supply and Demand to Contract in 2026 EnergyNow
+
+**Global Oil Price Retreats After Hitting 4-Year High on Concern of US-Iran War Escalation - EnergyNow**
+`21 Sep 02:01 PKT` · pehli baar dekhi `21 Sep 11:30` · gnews_geopolitics
+
+Global Oil Price Retreats After Hitting 4-Year High on Concern of US-Iran War Escalation EnergyNow
+
 **Qatar PM urges Gulf security framework with Iran**
 `21 Sep 02:00 PKT` · pehli baar dekhi `21 Sep 04:16` · aljazeera
 
@@ -887,10 +938,25 @@ Qatar's PM says, the Gulf won&#039;t be the same unless there&#039;s a framework
 
 NOT OUT OF THE WOODS YET: Iran Ceasefire Provides Hope, But Physical Oil Markets to Remain Stressed: Russell EnergyNow
 
+**Oil Falls as Traders Digest Escalation in US-Iran Strikes - EnergyNow**
+`21 Sep 01:50 PKT` · pehli baar dekhi `21 Sep 11:30` · gnews_geopolitics
+
+Oil Falls as Traders Digest Escalation in US-Iran Strikes EnergyNow
+
 **Oil Ends Lower Ahead of U.S.-Iran Ceasefire Talks, Posts Steepest Weekly Loss Since 2022 - energynow.com**
 `21 Sep 01:46 PKT` · pehli baar dekhi `21 Sep 04:16` · gnews_geopolitics
 
 Oil Ends Lower Ahead of U.S.-Iran Ceasefire Talks, Posts Steepest Weekly Loss Since 2022 energynow.com
+
+**Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says - EnergyNow.com**
+`21 Sep 01:37 PKT` · pehli baar dekhi `21 Sep 11:30` · gnews_geopolitics
+
+Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says EnergyNow.com
+
+**Market Analysts React to US-Israel Strikes on Iran - EnergyNow**
+`21 Sep 01:29 PKT` · pehli baar dekhi `21 Sep 11:30` · gnews_geopolitics
+
+Market Analysts React to US-Israel Strikes on Iran EnergyNow
 
 **Qatar PM describes fallout of US-Israel war on Iran as 'earthquake'**
 `21 Sep 01:13 PKT` · pehli baar dekhi `21 Sep 02:10` · aljazeera
@@ -1303,45 +1369,45 @@ This was the first time an alert was sounded in Riyadh since an escalation betwe
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 18 | 6 | 12 | 7 | 0.0 |
-| fxstreet_news | OK | 30 | 9 | 8 | 1 | 21 | 0.0 |
-| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.7 |
-| actionforex | OK | 20 | 1 | 1 | 0 | 19 | 0.1 |
-| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 3.7 |
-| instaforex | OK | 25 | 12 | 8 | 4 | 13 | -0.2 |
-| wsj_economy | OK | 36 | 2 | 0 | 2 | 34 | 0.4 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.3 |
+| investinglive | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 22 | 8 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 2 | 1 | 1 | 28 | 0.1 |
+| actionforex | OK | 20 | 10 | 9 | 1 | 10 | 0.0 |
+| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 3.9 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 2 | 0 | 2 | 34 | 0.6 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 10.5 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 49 | 49 | 11 | 38 | 0 | 0.0 |
-| gnews_geopolitics | OK | 62 | 62 | 10 | 52 | 0 | 0.0 |
-| gnews_centralbanks | OK | 46 | 46 | 8 | 38 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.7 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.6 |
-| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 2.9 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 17.9 |
-| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
-| oilprice | OK | 15 | 6 | 0 | 6 | 9 | 0.1 |
-| investing_commodities | OK | 10 | 5 | 2 | 3 | 5 | 0.0 |
-| ing_think | OK | 10 | 1 | 0 | 1 | 9 | 0.3 |
-| bbc_business | OK | 54 | 11 | 1 | 10 | 43 | 0.0 |
-| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 6.4 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 10.6 |
-| eia_energy | OK | 17 | 0 | 0 | 0 | 17 | 2.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 17.5 |
-| wsj_world | OK | 71 | 12 | 2 | 10 | 59 | 0.0 |
-| wsj_markets | OK | 61 | 6 | 1 | 5 | 55 | 0.0 |
-| investing_news | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| yahoo_finance | OK | 49 | 5 | 0 | 5 | 44 | 0.4 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
-| cointelegraph | OK | 30 | 4 | 1 | 3 | 26 | 0.1 |
+| gnews_fed | OK | 58 | 58 | 25 | 33 | 0 | 0.0 |
+| gnews_geopolitics | OK | 74 | 74 | 24 | 50 | 0 | 0.0 |
+| gnews_centralbanks | OK | 45 | 45 | 16 | 29 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.7 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.9 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.8 |
+| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 3.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 18.1 |
+| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.5 |
+| oilprice | OK | 15 | 7 | 1 | 6 | 8 | 0.0 |
+| investing_commodities | OK | 10 | 9 | 4 | 5 | 1 | 0.0 |
+| ing_think | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| bbc_business | OK | 54 | 13 | 3 | 10 | 41 | 0.0 |
+| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 6.6 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 10.8 |
+| eia_energy | OK | 17 | 0 | 0 | 0 | 17 | 2.7 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 17.8 |
+| wsj_world | OK | 71 | 12 | 0 | 12 | 59 | 0.2 |
+| wsj_markets | OK | 61 | 12 | 5 | 7 | 49 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 8 | 1 | 7 | 42 | 0.5 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 8 | 3 | 5 | 22 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi
