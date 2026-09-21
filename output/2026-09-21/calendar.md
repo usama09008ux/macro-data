@@ -1,6 +1,6 @@
 # Calendar — Trading Day 21 Sep 2026
 
-- Banaya gaya: **21 Sep 2026 15:56 PKT**
+- Banaya gaya: **21 Sep 2026 22:29 PKT**
 - Trading day: **21 Sep 03:00 -> 22 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,14 +12,19 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 20:00 | EUR | MED | ECB President Lagarde Speaks | - | - |
-| 20:05 | CAD | MED | BOC Gov Macklem Speaks | - | - |
 | **22 Sep** 00:00 | AUD | low | RBA Assist Gov Hunter Speaks | - | - |
 | **22 Sep** 04:00 | JPY | chhutti | Bank Holiday | - | - |
 | **22 Sep** 08:10 | AUD | **HIGH** | RBA Gov Bullock Speaks | - | - |
 | **22 Sep** 11:00 | GBP | low | Public Sector Net Borrowing | 15.4B | 1.8B |
 | **22 Sep** 13:30 | EUR | low | German Buba President Nagel Speaks | - | - |
 | **22 Sep** 15:00 | GBP | low | CBI Industrial Order Expectations | -34 | -25 |
+| **22 Sep** 16:00 | EUR | MED | ECB President Lagarde Speaks | - | - |
+| **22 Sep** 17:15 | USD | low | ADP Weekly Employment Change | - | 16.3K |
+| **22 Sep** 19:00 | EUR | low | Consumer Confidence | -16 | -16 |
+| **22 Sep** 19:00 | USD | low | Richmond Manufacturing Index | 5 | 4 |
+| **22 Sep** 19:05 | USD | low | FOMC Member Williams Speaks | - | - |
+| **22 Sep** 19:20 | USD | low | FOMC Member Jefferson Speaks | - | - |
+| **22 Sep** 22:00 | USD | low | FOMC Member Barkin Speaks | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
@@ -31,7 +36,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **22 Sep** 16:00 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | **23 Sep** 12:15 | EUR | MED | French Flash Manufacturing PMI | 50.9 | 51.5 |
 | **23 Sep** 12:15 | EUR | MED | French Flash Services PMI | 48.4 | 48.4 |
 | **23 Sep** 12:30 | EUR | MED | German Flash Manufacturing PMI | 54.0 | 54.1 |

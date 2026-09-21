@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "21 Sep 2026 15:56",
+  "generated_pkt": "21 Sep 2026 22:29",
   "trading_day": "2026-09-21",
   "feed_sources": {
     "thisweek": "live"
@@ -835,6 +835,19 @@
       "utc": "2026-09-24T23:01Z",
       "pkt": "25 Sep 04:01",
       "pkt_iso": "2026-09-25T04:01:00+05:00",
+      "trading_day": "2026-09-25"
+    },
+    {
+      "title": "BOJ Core CPI y/y",
+      "ccy": "JPY",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "1.6%",
+      "url": "https://www.forexfactory.com/calendar/631-jn-boj-core-cpi-yy",
+      "all_day": false,
+      "utc": "2026-09-25T05:00Z",
+      "pkt": "25 Sep 10:00",
+      "pkt_iso": "2026-09-25T10:00:00+05:00",
       "trading_day": "2026-09-25"
     },
     {

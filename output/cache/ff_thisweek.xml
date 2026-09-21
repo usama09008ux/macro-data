@@ -641,6 +641,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/468-ch-bank-holiday]]></url>
 	</event>
 	<event>
+		<title>BOJ Core CPI y/y</title>
+		<country>JPY</country>
+		<date><![CDATA[09-25-2026]]></date>
+		<time><![CDATA[5:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[1.6%]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/631-jn-boj-core-cpi-yy]]></url>
+	</event>
+	<event>
 		<title>German GfK Consumer Climate</title>
 		<country>EUR</country>
 		<date><![CDATA[09-25-2026]]></date>
