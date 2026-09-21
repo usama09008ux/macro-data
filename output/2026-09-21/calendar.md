@@ -1,6 +1,6 @@
 # Calendar — Trading Day 21 Sep 2026
 
-- Banaya gaya: **21 Sep 2026 05:27 PKT**
+- Banaya gaya: **21 Sep 2026 15:56 PKT**
 - Trading day: **21 Sep 03:00 -> 22 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,15 +12,18 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 08:00 | NZD | low | Credit Card Spending y/y | - | 5.3% |
-| 15:00 | EUR | low | German Buba Monthly Report | - | - |
-| 15:30 | USD | low | FOMC Member Goolsbee Speaks | - | - |
 | 20:00 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | 20:05 | CAD | MED | BOC Gov Macklem Speaks | - | - |
 | **22 Sep** 00:00 | AUD | low | RBA Assist Gov Hunter Speaks | - | - |
 | **22 Sep** 04:00 | JPY | chhutti | Bank Holiday | - | - |
+| **22 Sep** 08:10 | AUD | **HIGH** | RBA Gov Bullock Speaks | - | - |
+| **22 Sep** 11:00 | GBP | low | Public Sector Net Borrowing | 15.4B | 1.8B |
+| **22 Sep** 13:30 | EUR | low | German Buba President Nagel Speaks | - | - |
+| **22 Sep** 15:00 | GBP | low | CBI Industrial Order Expectations | -34 | -25 |
 
-*Agle 24 ghante mein koi HIGH impact event nahi.*
+**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
+
+- `22 Sep 08:10` **AUD RBA Gov Bullock Speaks**
 
 ---
 
@@ -28,7 +31,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **22 Sep** 08:10 | AUD | **HIGH** | RBA Gov Bullock Speaks | - | - |
 | **22 Sep** 16:00 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | **23 Sep** 12:15 | EUR | MED | French Flash Manufacturing PMI | 50.9 | 51.5 |
 | **23 Sep** 12:15 | EUR | MED | French Flash Services PMI | 48.4 | 48.4 |
