@@ -1,8 +1,8 @@
 # News Pack — Trading Day 21 Sep 2026
 
 - Trading day: **21 Sep 03:00 -> 22 Sep 02:59 PKT**
-- Aakhri update: **22 Sep 05:57 PKT**
-- Kul khabrein: **900**
+- Aakhri update: **22 Sep 11:02 PKT**
+- Kul khabrein: **914**
 - Feeds: 36/39 OK
 
 ---
@@ -90,6 +90,11 @@ Ether is popping above resistance and some technical analysts see the current ap
 `22 Sep 01:05 PKT` · pehli baar dekhi `22 Sep 03:20` · investinglive
 
 It's a sparse session ahead for data and events. Note that Japanese markets are closed again today for a holiday. Japan was closed on Monday and will be closed again on Wednesday. Reserve Bank of Australia Governor Michele Bullock takes part in a fireside chat hosted by CEDA in Sydney at 1:00pm AEST today, 0300 GMT 2300 US Eastern time with a Q&A open to the media.
+
+**Week Ahead: Fed, BOJ, UK Inflation and Oil Could Drive Global Markets Next Week - equiti.com**
+`21 Sep 23:47 PKT` · pehli baar dekhi `22 Sep 11:02` · gnews_centralbanks
+
+Week Ahead: Fed, BOJ, UK Inflation and Oil Could Drive Global Markets Next Week equiti.com
 
 **TSX Edges Higher as Banks Rise**
 `21 Sep 23:47 PKT` · instaforex
@@ -274,6 +279,11 @@ Gold, silver ease as stocks rally, Hormuz risk premium fades - Kitco PM Report K
 `21 Sep 23:47 PKT` · instaforex
 
 Colombia recorded a trade deficit of $3.28 billion in July 2026, widening from a $2.05 billion shortfall in the same month a year earlier and reaching the largest deficit since records began in 1980. Imports rose 22.9% year on year to $7.97 billion. Manufacturing imports increased 16.1%, driven by a 24% rise in purchases of machinery and transport equipment and an 11% increase in chemicals and related products.
+
+**Gold falls on rising odds of Fed rate hike, stronger dollar - reuters.com**
+`21 Sep 23:45 PKT` · pehli baar dekhi `22 Sep 11:02` · gnews_fed
+
+Gold falls on rising odds of Fed rate hike, stronger dollar reuters.com
 
 **Don't give up your gold: disciplined monetary policy can't fix fiscal risk - Axel Merk - KITCO**
 `21 Sep 20:45 PKT` · pehli baar dekhi `21 Sep 23:47` · kitco_general
@@ -477,13 +487,14 @@ Federal Reserve official says inflation persistence led her to support interest 
   - `21 Sep 22:57` *gnews_fed* — Federal Reserve official says inflation persistence led her to support interest rate hike - WIVT - News 34
 
 **Federal Reserve official says inflation persistence led her to support interest rate hike - Ottumwa Courier**
-`22 Sep 02:57 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed · **5 feeds mein**
+`22 Sep 02:57 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed · **6 feeds mein**
 
 Federal Reserve official says inflation persistence led her to support interest rate hike Ottumwa Courier
   - `22 Sep 02:57` *gnews_fed* — Federal Reserve official says inflation persistence led her to support interest rate hike - Traverse City Record-Eagle
   - `22 Sep 02:57` *gnews_fed* — Federal Reserve official says inflation persistence led her to support interest rate hike - The Batesville Daily Guard
   - `22 Sep 02:57` *gnews_fed* — Federal Reserve official says inflation persistence led her to support interest rate hike - Oskaloosa Herald
   - `22 Sep 02:57` *gnews_fed* — Federal Reserve official says inflation persistence led her to support interest rate hike - Weatherford Democrat
+  - `22 Sep 02:57` *gnews_fed* — Federal Reserve official says inflation persistence led her to support interest rate hike - The Joplin Globe
 
 **Federal Reserve May Need More Rate Hikes as US Inflation Stays High - Межа. Новини України.**
 `22 Sep 02:13 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed
@@ -502,11 +513,12 @@ The Federal Reserve is shadowboxing inflation FXStreet
 On Monday, Boston Federal Reserve (Fed) President Susan Collins said the resumption of hostilities in the Middle East was a key reason for supporting the increase in the Fed funds rate last week.
 
 **Federal Reserve official says fighting inflation likely to be 'painful' - livingstonenterprise.net**
-`22 Sep 01:44 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed · **10 feeds mein**
+`22 Sep 01:44 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed · **11 feeds mein**
 
 Federal Reserve official says fighting inflation likely to be 'painful' livingstonenterprise.net
   - `22 Sep 01:44` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - livingstonenterprise.net
   - `22 Sep 00:36` *gnews_fed* — Federal Reserve Official Says Fighting Inflation Likely To Be 'Painful' - washingtonsun.com
+  - `21 Sep 23:17` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - hngnews.com
   - `21 Sep 20:28` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - WSAZ
   - `21 Sep 20:15` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - Mainline Media News
   - `21 Sep 20:15` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - Sentinel and Enterprise
@@ -556,6 +568,11 @@ Bessent says he has 'great confidence' in Warsh after Fed raises rates The Hill
 
 Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview KITCO
 
+**Fed's Musalem Says More Rate Hikes Likely Needed to Cool Prices - Bloomberg.com**
+`22 Sep 00:02 PKT` · pehli baar dekhi `22 Sep 11:02` · gnews_fed
+
+Fed's Musalem Says More Rate Hikes Likely Needed to Cool Prices Bloomberg.com
+
 **Singapore Dollar: Inflation keeps MAS tightening risk alive - Commerzbank**
 `21 Sep 23:51 PKT` · pehli baar dekhi `22 Sep 03:20` · fxstreet_news
 
@@ -602,6 +619,21 @@ Comments from St. Louis Fed's Musalem cross the wires: Without further policy re
 `21 Sep 23:17 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed
 
 Federal Reserve official says fighting inflation likely to be 'painful' | Associated Press | syndication news Enidnews.com
+
+**Federal Reserve official says fighting inflation likely to be 'painful' - 104.5 WOKV**
+`21 Sep 23:17 PKT` · pehli baar dekhi `22 Sep 11:02` · gnews_fed · **11 feeds mein**
+
+Federal Reserve official says fighting inflation likely to be 'painful' 104.5 WOKV
+  - `21 Sep 20:15` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - Capital Gazette
+  - `21 Sep 20:14` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - The Citizens' Voice
+  - `21 Sep 20:14` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - Daily Bulletin
+  - `21 Sep 20:14` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - Daily Local
+  - `21 Sep 20:13` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - Morning Journal
+  - `21 Sep 20:08` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - The Globe and Mail
+  - `21 Sep 20:02` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - Toronto Star
+  - `21 Sep 20:01` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - Ottumwa Courier
+  - `21 Sep 20:01` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - morning-times.com
+  - `21 Sep 20:01` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - The Tribune-Democrat
 
 **Moderna stock hits 52-week high at 176.75 USD**
 `21 Sep 23:16 PKT` · pehli baar dekhi `21 Sep 23:47` · investing_news
@@ -653,18 +685,6 @@ Federal Reserve may need more aggressive rate response as inflation risks broade
 
 Treasury Secretary says airports and companies servicing Iranian carriers risk being cut off from the US dollar system.
 
-**Federal Reserve official says fighting inflation likely to be 'painful' - Capital Gazette**
-`21 Sep 20:15 PKT` · pehli baar dekhi `21 Sep 23:47` · gnews_fed · **8 feeds mein**
-
-Federal Reserve official says fighting inflation likely to be 'painful' Capital Gazette
-  - `21 Sep 20:14` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - The Citizens' Voice
-  - `21 Sep 20:14` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - Daily Bulletin
-  - `21 Sep 20:14` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - Daily Local
-  - `21 Sep 20:13` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - Morning Journal
-  - `21 Sep 20:08` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - The Globe and Mail
-  - `21 Sep 20:02` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - Toronto Star
-  - `21 Sep 20:01` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - Ottumwa Courier
-
 **Federal Reserve will need to be 'aggressive' on inflation, says top official - Financial Times**
 `21 Sep 20:10 PKT` · pehli baar dekhi `21 Sep 23:47` · gnews_fed
 
@@ -676,20 +696,14 @@ Federal Reserve will need to be 'aggressive' on inflation, says top official Fin
 Trump wanted 1% rates, Fed hiked rates anyway. Who's right? moneywise.com
 
 **Federal Reserve official says fighting inflation likely to be 'painful' - Gloucester Daily Times**
-`21 Sep 20:01 PKT` · pehli baar dekhi `21 Sep 23:47` · gnews_fed · **2 feeds mein**
+`21 Sep 20:01 PKT` · pehli baar dekhi `21 Sep 23:47` · gnews_fed
 
 Federal Reserve official says fighting inflation likely to be 'painful' Gloucester Daily Times
-  - `21 Sep 20:01` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - morning-times.com
 
 **Federal Reserve official says fighting inflation likely to be 'painful' - ABC News - Breaking News, Latest News and Videos**
 `21 Sep 20:01 PKT` · pehli baar dekhi `21 Sep 23:47` · gnews_fed
 
 Federal Reserve official says fighting inflation likely to be 'painful' ABC News - Breaking News, Latest News and Videos
-
-**Federal Reserve official says fighting inflation likely to be 'painful' - The Tribune-Democrat**
-`21 Sep 20:01 PKT` · pehli baar dekhi `21 Sep 23:47` · gnews_fed
-
-Federal Reserve official says fighting inflation likely to be 'painful' The Tribune-Democrat
 
 **Goolsbee rejects idea of Fed cutting rates to help US finance its debt - KITCO**
 `21 Sep 19:47 PKT` · pehli baar dekhi `21 Sep 23:47` · kitco_general · **2 feeds mein**
@@ -1230,6 +1244,11 @@ EUR/USD Forex Signal 21/09: Bearish Outlook After Fed, ECB DailyForex
 
 EUROPE: France's fiscal position is worse than expected, and the government has not yet presented a fully documented response. Debt will keep rising, while political fragmentation means that a credible long-term solution is unlikely to emerge soon
 
+**FX Daily: New central bank calls, unchanged EUR/USD view - ing think**
+`21 Sep 12:29 PKT` · pehli baar dekhi `22 Sep 11:02` · gnews_centralbanks
+
+FX Daily: New central bank calls, unchanged EUR/USD view ing think
+
 **ECB: a preemptive rate hike amid energy uncertainty - marketscreener.com**
 `21 Sep 12:26 PKT` · pehli baar dekhi `21 Sep 18:16` · gnews_centralbanks
 
@@ -1455,9 +1474,10 @@ Intraday bias in USD/JPY remains neutral for consolidations below 158.04 tempora
 GBP/JPY Forecast 21/09: Pound Tests ¥210 After BoJ Decision DailyForex
 
 **Japan's central bank raises interest rate to 1.25%, the highest in 31 years - Jamaica Gleaner**
-`21 Sep 14:54 PKT` · pehli baar dekhi `21 Sep 18:16` · gnews_centralbanks
+`21 Sep 14:54 PKT` · pehli baar dekhi `21 Sep 18:16` · gnews_centralbanks · **2 feeds mein**
 
 Japan's central bank raises interest rate to 1.25%, the highest in 31 years Jamaica Gleaner
+  - `21 Sep 14:54` *gnews_centralbanks* — Japan's central bank raises interest rate to 1.25%, the highest in 31 years - Jamaica Gleaner
 
 **Japanese Yen: BoJ rate check limits yen downside – MUFG**
 `21 Sep 14:53 PKT` · pehli baar dekhi `21 Sep 18:16` · fxstreet_news
@@ -1901,6 +1921,11 @@ Oil's sea lanes get tougher to navigate; India must press Iran to ease Hormuz bl
 
 The Czech government will reinstate price caps on gasoline and diesel from October 1 and tax refiners on 50% of any margin increase over 2025 levels, Reuters reported Monday, as Saudi Arabia's cut of October crude allocations to Europe compounds pressure from the closed Strait of Hormuz.
 
+**Vance says US will protect oil and gas flows through Strait of Hormuz - Iran International**
+`21 Sep 22:11 PKT` · pehli baar dekhi `22 Sep 11:02` · gnews_geopolitics
+
+Vance says US will protect oil and gas flows through Strait of Hormuz Iran International
+
 **Dow Jones Industrial Average edges up as Trump floats a meeting with Iran**
 `21 Sep 21:44 PKT` · pehli baar dekhi `21 Sep 23:47` · fxstreet_news
 
@@ -2012,10 +2037,11 @@ India's BSE Sensex closed about 0.8% higher at 74,894.9 on Monday, snapping a tw
 Crude hits 11-day low: Why are oil prices falling despite West Asia tensions? Firstpost
 
 **Oil Prices Fall for Fourth Day as Supply Concerns Ease**
-`21 Sep 17:40 PKT` · pehli baar dekhi `21 Sep 18:16` · wsj_world · **2 feeds mein**
+`21 Sep 17:40 PKT` · pehli baar dekhi `21 Sep 18:16` · wsj_world · **3 feeds mein**
 
 Improving flows through the Strait of Hormuz and prospects for renewed diplomacy over the Iran conflict eased immediate supply concerns.
   - `22 Sep 01:01` *wsj_markets* — Oil Prices Fall for Fourth Day as Supply Concerns Ease
+  - `22 Sep 01:01` *gnews_geopolitics* — Oil Prices Fall for Fourth Day as Supply Concerns Ease - WSJ
 
 **Stocks rise on AI optimism; lower oil helps bonds - KITCO**
 `21 Sep 17:38 PKT` · pehli baar dekhi `21 Sep 18:16` · kitco_general
@@ -2046,6 +2072,11 @@ TSX futures rise as easing oil prices lift sentiment KITCO
 `21 Sep 16:53 PKT` · pehli baar dekhi `21 Sep 23:47` · gnews_geopolitics
 
 Oil extends gains after US and Iran strike ships The Daily Star
+
+**Brent briefly falls under $100 amid Mideast diplomacy hopes, easing supply fears - Investing.com India**
+`21 Sep 16:41 PKT` · pehli baar dekhi `22 Sep 11:02` · gnews_geopolitics
+
+Brent briefly falls under $100 amid Mideast diplomacy hopes, easing supply fears Investing.com India
 
 **Oil prices hit 11-day low: How US-Iran talks, Saudi shipments drive crude lower | Hindustan Times - Hindustan Times**
 `21 Sep 16:31 PKT` · pehli baar dekhi `21 Sep 18:16` · gnews_geopolitics
@@ -2627,10 +2658,11 @@ Start with no more help for Iran to target and kill Americans.
 Flying to or from Iran? What to know as US pressure squeezes air links Iran International
 
 **Federal Reserve official says Iran war pushed her toward supporting rate hike - The Joplin Globe**
-`22 Sep 01:26 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed · **3 feeds mein**
+`22 Sep 01:26 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed · **4 feeds mein**
 
 Federal Reserve official says Iran war pushed her toward supporting rate hike The Joplin Globe
   - `22 Sep 01:26` *gnews_fed* — Federal Reserve official says Iran war pushed her toward supporting rate hike - Eagle-Tribune
+  - `21 Sep 20:26` *gnews_fed* — Federal Reserve official says Iran war pushed her toward supporting rate hike - WREG.com
   - `21 Sep 18:26` *gnews_fed* — Federal Reserve official says Iran war pushed her toward supporting rate hike - KRON4
 
 **Federal Reserve official says Iran war pushed her toward supporting rate hike | Associated Press | syndication news - Enidnews.com**
@@ -2662,6 +2694,9 @@ Republican support for Trump dips to 73 percent, down from 82 percent, as war an
 `22 Sep 00:10 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_geopolitics
 
 US-Iran War Puts Oil, Inflation and Wall Street on a Collision Course finchannel
+
+**Global diesel shortage from Iran, Ukraine wars to last into 2027**
+`21 Sep 23:17 PKT` · pehli baar dekhi `22 Sep 11:02` · yahoo_finance
 
 **Diesel prices smash records as Iran and Ukraine wars choke supply - news24.com**
 `21 Sep 22:58 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_geopolitics
@@ -2879,7 +2914,7 @@ Russian President Vladimir Putin has cast the vote as a test of support for his 
 
 Qatar's prime minister, Sheikh Mohammed bin Abdulrahman Al-Thani, said Gulf states must work together to restore stability in the Middle East and help find a settlement between the United States (US) and Iran, Bloomberg reported on Sunday.
 
-### BINA TAG (260)
+### BINA TAG (261)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2964,6 +2999,7 @@ Qatar's prime minister, Sheikh Mohammed bin Abdulrahman Al-Thani, said Gulf stat
 - `21 Sep 19:34` **gnews_fed** — Federal Reserve Pain - Bedford Gazette
 - `21 Sep 19:34` **gnews_fed** — Federal Reserve Pain - The Herald Journal
 - `21 Sep 19:34` **gnews_centralbanks** — Will UK interest rates fall in 2026? - Yahoo Finance
+- `21 Sep 19:26` **gnews_centralbanks** — Pound dips as focus stays on interest rates - Bilyonaryo Business
 - `21 Sep 19:26` **yahoo_finance** — Work from home? Here are 5 ways to save money on remote work expenses.
 - `21 Sep 19:00` **investing_commodities** — Trump, in call with Yemen president, did not pledge military support against Houthis, say sources
 - `21 Sep 18:59` **aljazeera** — Egypt's Amina Orfi becomes youngest women's squash world number one at 19
@@ -3160,45 +3196,45 @@ investing_news (8), yahoo_finance (2)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 12 | 18 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 2 | 0 | 2 | 28 | 0.3 |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
-| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 4.6 |
-| instaforex | OK | 25 | 25 | 4 | 21 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.3 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.3 |
-| kitco_general | OK | 24 | 24 | 1 | 23 | 0 | 0.1 |
-| gnews_fed | OK | 49 | 49 | 12 | 37 | 0 | 0.1 |
-| gnews_geopolitics | OK | 70 | 70 | 11 | 59 | 0 | 0.0 |
-| gnews_centralbanks | OK | 38 | 38 | 7 | 31 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.5 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.6 |
-| boe_news | OK | 50 | 2 | 0 | 2 | 48 | 0.5 |
-| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 3.9 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 18.9 |
-| mining_com | OK | 36 | 12 | 1 | 11 | 24 | 0.0 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 12 | 13 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 22 | 8 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 3 | 1 | 2 | 27 | 0.1 |
+| actionforex | OK | 20 | 20 | 12 | 8 | 0 | 0.0 |
+| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 4.9 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.5 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.5 |
+| kitco_general | OK | 25 | 25 | 1 | 24 | 0 | 0.3 |
+| gnews_fed | OK | 58 | 58 | 19 | 39 | 0 | 0.0 |
+| gnews_geopolitics | OK | 74 | 74 | 16 | 58 | 0 | 0.0 |
+| gnews_centralbanks | OK | 41 | 41 | 6 | 35 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.7 |
+| ecb_press | OK | 15 | 3 | 1 | 2 | 12 | 0.0 |
+| boe_news | OK | 50 | 2 | 0 | 2 | 48 | 0.8 |
+| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 4.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 19.1 |
+| mining_com | OK | 36 | 12 | 0 | 12 | 24 | 0.3 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
 | ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| bbc_business | OK | 54 | 17 | 3 | 14 | 37 | 0.1 |
-| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
-| snb_press | OK | 20 | 4 | 0 | 4 | 16 | 0.7 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 11.6 |
-| eia_energy | WARN | 17 | 0 | 0 | 0 | 17 | 3.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 18.5 |
-| wsj_world | OK | 73 | 18 | 2 | 16 | 55 | 0.0 |
-| wsj_markets | OK | 61 | 30 | 4 | 26 | 31 | 0.0 |
+| bbc_business | OK | 54 | 17 | 4 | 13 | 37 | 0.0 |
+| aljazeera | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
+| snb_press | OK | 20 | 4 | 0 | 4 | 16 | 0.9 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 11.8 |
+| eia_energy | WARN | 17 | 0 | 0 | 0 | 17 | 3.7 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 18.7 |
+| wsj_world | OK | 73 | 20 | 2 | 18 | 53 | 0.2 |
+| wsj_markets | OK | 61 | 30 | 2 | 28 | 31 | 0.0 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 10 | 0 | 10 | 40 | 0.4 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 19 | 0 | 19 | 11 | 0.2 |
+| yahoo_finance | OK | 50 | 3 | 1 | 2 | 47 | 0.5 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 23 | 4 | 19 | 7 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - ing_think — FAIL, ConnectTimeout
