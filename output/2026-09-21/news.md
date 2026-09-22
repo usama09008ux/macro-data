@@ -1,9 +1,9 @@
 # News Pack — Trading Day 21 Sep 2026
 
 - Trading day: **21 Sep 03:00 -> 22 Sep 02:59 PKT**
-- Aakhri update: **22 Sep 03:20 PKT**
-- Kul khabrein: **878**
-- Feeds: 37/39 OK
+- Aakhri update: **22 Sep 05:57 PKT**
+- Kul khabrein: **900**
+- Feeds: 36/39 OK
 
 ---
 
@@ -265,6 +265,11 @@ Silver price advance stalled at the 100-day Simple Moving Average (SMA) of $66.3
 
 The century-old Rand Refinery, long the go-to destination for Africa's commercially mined gold, is trying to integrate often-problematic artisanal gold into its supply.
 
+**Gold, silver ease as stocks rally, Hormuz risk premium fades - Kitco PM Report - KITCO**
+`22 Sep 00:30 PKT` · pehli baar dekhi `22 Sep 05:57` · kitco_general
+
+Gold, silver ease as stocks rally, Hormuz risk premium fades - Kitco PM Report KITCO
+
 **Colombia Trade Deficit Hits Historical Series High**
 `21 Sep 23:47 PKT` · instaforex
 
@@ -465,21 +470,31 @@ Gold Edges Higher as Lower Oil, Fed Hike Temper Inflation Fears Livemint
 ### USD
 
 **Federal Reserve official says inflation persistence led her to support interest rate hike | National News | 2news.com - KTVN**
-`22 Sep 02:57 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed
+`22 Sep 02:57 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed · **3 feeds mein**
 
 Federal Reserve official says inflation persistence led her to support interest rate hike | National News | 2news.com KTVN
+  - `22 Sep 02:57` *gnews_fed* — Federal Reserve official says inflation persistence led her to support interest rate hike - apnews.com
+  - `21 Sep 22:57` *gnews_fed* — Federal Reserve official says inflation persistence led her to support interest rate hike - WIVT - News 34
 
 **Federal Reserve official says inflation persistence led her to support interest rate hike - Ottumwa Courier**
-`22 Sep 02:57 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed · **3 feeds mein**
+`22 Sep 02:57 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed · **5 feeds mein**
 
 Federal Reserve official says inflation persistence led her to support interest rate hike Ottumwa Courier
   - `22 Sep 02:57` *gnews_fed* — Federal Reserve official says inflation persistence led her to support interest rate hike - Traverse City Record-Eagle
   - `22 Sep 02:57` *gnews_fed* — Federal Reserve official says inflation persistence led her to support interest rate hike - The Batesville Daily Guard
+  - `22 Sep 02:57` *gnews_fed* — Federal Reserve official says inflation persistence led her to support interest rate hike - Oskaloosa Herald
+  - `22 Sep 02:57` *gnews_fed* — Federal Reserve official says inflation persistence led her to support interest rate hike - Weatherford Democrat
 
 **Federal Reserve May Need More Rate Hikes as US Inflation Stays High - Межа. Новини України.**
 `22 Sep 02:13 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed
 
 Federal Reserve May Need More Rate Hikes as US Inflation Stays High Межа. Новини України.
+
+**The Federal Reserve is shadowboxing inflation - FXStreet**
+`22 Sep 01:46 PKT` · pehli baar dekhi `22 Sep 05:57` · gnews_fed · **2 feeds mein**
+
+The Federal Reserve is shadowboxing inflation FXStreet
+  - `22 Sep 00:48` *gnews_fed* — The Federal Reserve Is Shadowboxing Inflation - LinkedIn
 
 **Fed's Collins eyes another hike as energy risks linger**
 `22 Sep 01:44 PKT` · pehli baar dekhi `22 Sep 03:20` · fxstreet_news
@@ -487,9 +502,10 @@ Federal Reserve May Need More Rate Hikes as US Inflation Stays High Межа. Н
 On Monday, Boston Federal Reserve (Fed) President Susan Collins said the resumption of hostilities in the Middle East was a key reason for supporting the increase in the Fed funds rate last week.
 
 **Federal Reserve official says fighting inflation likely to be 'painful' - livingstonenterprise.net**
-`22 Sep 01:44 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed · **9 feeds mein**
+`22 Sep 01:44 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed · **10 feeds mein**
 
 Federal Reserve official says fighting inflation likely to be 'painful' livingstonenterprise.net
+  - `22 Sep 01:44` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - livingstonenterprise.net
   - `22 Sep 00:36` *gnews_fed* — Federal Reserve Official Says Fighting Inflation Likely To Be 'Painful' - washingtonsun.com
   - `21 Sep 20:28` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - WSAZ
   - `21 Sep 20:15` *gnews_fed* — Federal Reserve official says fighting inflation likely to be 'painful' - Mainline Media News
@@ -530,14 +546,10 @@ The Fed Moved. The Borrowing Math Changed for Businesses. observer.com
 Gold price retreats on Monday, down over 0.6% following last week's Federal Reserve (Fed) interest rate hike. That 25 bps hike initially pushed US bond yields higher, but the US Dollar Index (DXY) has recovered some ground on Monday despite Treasury yields falling in the back half.
 
 **Bessent says he has 'great confidence' in Warsh after Fed raises rates - The Hill**
-`22 Sep 00:56 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed
+`22 Sep 00:56 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed · **2 feeds mein**
 
 Bessent says he has 'great confidence' in Warsh after Fed raises rates The Hill
-
-**The Federal Reserve Is Shadowboxing Inflation - LinkedIn**
-`22 Sep 00:48 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed
-
-The Federal Reserve Is Shadowboxing Inflation LinkedIn
+  - `22 Sep 00:56` *gnews_fed* — Bessent says he has 'great confidence' in Warsh after Fed raises rates - The Hill
 
 **Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview - KITCO**
 `22 Sep 00:04 PKT` · pehli baar dekhi `22 Sep 03:20` · kitco_general
@@ -1073,6 +1085,11 @@ Federal Reserve's Kashkari: Inflation remains excessively high and is spreading 
 
 A victory in Berlin highlights antisemitism and housing socialism.
 
+**Global Market: Eurozone bond yields set for weekly decline as ECB hike bets ease - The Economic Times**
+`22 Sep 01:34 PKT` · pehli baar dekhi `22 Sep 05:57` · gnews_centralbanks
+
+Global Market: Eurozone bond yields set for weekly decline as ECB hike bets ease The Economic Times
+
 **European Stocks Advance on Monday**
 `21 Sep 23:47 PKT` · instaforex
 
@@ -1371,6 +1388,11 @@ Sterling ticks up after UK retail data Business Recorder
 
 USDJPY is back at an important technical decision point after a volatile end to last week. Recall that during Friday's trading, USDJPY moved sharply higher following what the market interpreted as a dovish Bank of Japan interest-rate hike. The rally extended to 158.05, just above the key swing area between 157.90 and 158.04. Sellers leaned against that resistance zone and pushed the price modestly lower.
 
+**Yen Slides Despite Bank of Japan Rate Hike as Markets Brace for Tokyo Intervention - finance.biggo.com**
+`21 Sep 23:21 PKT` · pehli baar dekhi `22 Sep 05:57` · gnews_centralbanks
+
+Yen Slides Despite Bank of Japan Rate Hike as Markets Brace for Tokyo Intervention finance.biggo.com
+
 **Airplane makes 'miracle' landing as Typhoon Dujuan hits Japan**
 `21 Sep 22:32 PKT` · pehli baar dekhi `21 Sep 23:47` · aljazeera
 
@@ -1485,9 +1507,10 @@ Ringgit Opens Mixed Against Major, Asean Currencies as Bank of Japan Rate Hike W
   - `21 Sep 06:34` *gnews_centralbanks* — Ringgit opens mixed against major, Asean currencies as Bank of Japan rate hike weighs - Malay Mail
 
 **Euro flatlines against Japanese Yen as intervention risks rise**
-`21 Sep 09:28 PKT` · pehli baar dekhi `21 Sep 11:30` · fxstreet_news · **3 feeds mein**
+`21 Sep 09:28 PKT` · pehli baar dekhi `21 Sep 11:30` · fxstreet_news · **4 feeds mein**
 
 The EUR/JPY cross holds steady around 180.25 during the early European trading hours on Monday. Japan markets are closed for a three-day holiday, leading to low liquidity. Traders remain on high alert for currency intervention from Japanese authorities to prop up the volatile currency.
+  - `21 Sep 10:34` *gnews_centralbanks* — Euro flatlines against Japanese Yen as intervention risks rise - tmgm.com
   - `21 Sep 10:31` *gnews_centralbanks* — Euro flatlines against Japanese Yen as intervention risks rise - tmgm.com
   - `21 Sep 09:28` *gnews_centralbanks* — Euro flatlines against Japanese Yen as intervention risks rise - FXStreet
 
@@ -2291,6 +2314,11 @@ The message is that the supply hit from the pipeline outage has been smaller tha
 
 Ukraine carried out a large-scale overnight drone and missile attack targeting Moscow and the surrounding region on Sunday, BBC reported.
 
+**Oil stays above $100 as Iran-US conflict, Houthi attacks weigh on markets - Iran International**
+`21 Sep 07:25 PKT` · pehli baar dekhi `22 Sep 05:57` · gnews_geopolitics
+
+Oil stays above $100 as Iran-US conflict, Houthi attacks weigh on markets Iran International
+
 **Oil falls as crude flows remain 'surprisingly strong' - CNBC**
 `21 Sep 07:14 PKT` · pehli baar dekhi `21 Sep 11:30` · gnews_geopolitics
 
@@ -2411,6 +2439,11 @@ The lack of clarity around crypto's regulatory framework hasn't stopped bitcoin 
 `22 Sep 02:25 PKT` · pehli baar dekhi `22 Sep 03:20` · investinglive
 
 Glassnode has identified a dense supply zone between $83,000 and $86,000, with the largest concentration of holder cost basis near $85,000, so the rally has run into an area where some holders may be tempted to sell. Open interest, a measure of outstanding derivatives positions, climbed about 7.6% to roughly $156 billion even as shorts were being closed, according to CoinDesk, which suggests traders are adding leverage into the move rather than stepping back.
+
+**Crypto Price Prediction After BOJ and Fed Both Hike: Why Remittix, Bitcoin and XRP Could Still Climb - TechBullion**
+`22 Sep 01:48 PKT` · pehli baar dekhi `22 Sep 05:57` · gnews_fed
+
+Crypto Price Prediction After BOJ and Fed Both Hike: Why Remittix, Bitcoin and XRP Could Still Climb TechBullion
 
 **Here's what happened in crypto today**
 `22 Sep 00:53 PKT` · pehli baar dekhi `22 Sep 03:20` · cointelegraph
@@ -2588,10 +2621,17 @@ US Home Sellers Face Price Cuts After Federal Reserve Rate Hike SuaraGarut.ID
 
 Start with no more help for Iran to target and kill Americans.
 
+**Flying to or from Iran? What to know as US pressure squeezes air links - Iran International**
+`22 Sep 02:24 PKT` · pehli baar dekhi `22 Sep 05:57` · gnews_geopolitics
+
+Flying to or from Iran? What to know as US pressure squeezes air links Iran International
+
 **Federal Reserve official says Iran war pushed her toward supporting rate hike - The Joplin Globe**
-`22 Sep 01:26 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed
+`22 Sep 01:26 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed · **3 feeds mein**
 
 Federal Reserve official says Iran war pushed her toward supporting rate hike The Joplin Globe
+  - `22 Sep 01:26` *gnews_fed* — Federal Reserve official says Iran war pushed her toward supporting rate hike - Eagle-Tribune
+  - `21 Sep 18:26` *gnews_fed* — Federal Reserve official says Iran war pushed her toward supporting rate hike - KRON4
 
 **Federal Reserve official says Iran war pushed her toward supporting rate hike | Associated Press | syndication news - Enidnews.com**
 `22 Sep 01:26 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_fed
@@ -2653,6 +2693,11 @@ Turkish Airlines says all Iran flights suspended until March 2027 Iran Internati
 
 Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies EnergyNow
 
+**BEYOND THE BARREL: The Other Supply Shocks Brought on by the Iran War – ATB - EnergyNow**
+`21 Sep 21:19 PKT` · pehli baar dekhi `22 Sep 05:57` · gnews_geopolitics
+
+BEYOND THE BARREL: The Other Supply Shocks Brought on by the Iran War – ATB EnergyNow
+
 **Expect the News Headlines from Trump and the administration to be fast and furious going into the elections**
 `21 Sep 20:40 PKT` · pehli baar dekhi `21 Sep 23:47` · investinglive
 
@@ -2668,6 +2713,11 @@ Hungary is asking U.S. officials not to levy tariffs on the central European cou
 
 Repeated blasts at military sites expose the risks facing Syria as it rebuilds its army after years of war.
 
+**Global Oil Price Retreats After Hitting 4-Year High on Concern of US-Iran War Escalation - energynow.com**
+`21 Sep 19:56 PKT` · pehli baar dekhi `22 Sep 05:57` · gnews_geopolitics
+
+Global Oil Price Retreats After Hitting 4-Year High on Concern of US-Iran War Escalation energynow.com
+
 **World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks - EnergyNow.com**
 `21 Sep 19:54 PKT` · pehli baar dekhi `22 Sep 03:20` · gnews_geopolitics
 
@@ -2677,6 +2727,11 @@ World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks
 `21 Sep 19:50 PKT` · pehli baar dekhi `21 Sep 23:47` · aljazeera
 
 Iran's government is trying to change some work patterns to help save on fuel and energy amid struggles and shortages.
+
+**Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says - energynow.com**
+`21 Sep 19:48 PKT` · pehli baar dekhi `22 Sep 05:57` · gnews_geopolitics
+
+Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says energynow.com
 
 **Is it a missile? Is it a drone? What's the Pelican used by Ukraine?**
 `21 Sep 19:19 PKT` · pehli baar dekhi `21 Sep 23:47` · aljazeera
@@ -2824,7 +2879,7 @@ Russian President Vladimir Putin has cast the vote as a test of support for his 
 
 Qatar's prime minister, Sheikh Mohammed bin Abdulrahman Al-Thani, said Gulf states must work together to restore stability in the Middle East and help find a settlement between the United States (US) and Iran, Bloomberg reported on Sunday.
 
-### BINA TAG (257)
+### BINA TAG (260)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2842,9 +2897,11 @@ Qatar's prime minister, Sheikh Mohammed bin Abdulrahman Al-Thani, said Gulf stat
 - `22 Sep 02:11` **wsj_world** — Opinion | Mamdani Won't Intimidate Israel
 - `22 Sep 02:07` **wsj_markets** — The Magnificent Seven Is Roaring Back, Fueled by Meta's Rally
 - `22 Sep 02:06` **mw_topstories** — These beaten-down stocks could bounce back in January, if history is any guide
+- `22 Sep 02:05` **gnews_geopolitics** — How Europe's ships entered the shadows - Daily Sabah
 - `22 Sep 02:04` **aljazeera** — How thousands of migrants stranded in Ceuta are surviving
 - `22 Sep 01:57` **aljazeera** — Former 'death squad' leader appears in military trial in The Gambia
 - `22 Sep 01:57` **investinglive** — British Columbia sues OpenAI and Altman over alleged role in mass killing
+- `22 Sep 01:47` **gnews_centralbanks** — Market Watch — Sept. 18, 2026 - rdnewsnow.com
 - `22 Sep 01:38` **aljazeera** — Trump speech inaudible as US networks boycott White House event
 - `22 Sep 01:37` **cointelegraph** — Saudi Arabia exits China-backed mBridge CBDC project: FT
 - `22 Sep 01:22` **mw_topstories** — Amazon and Shopify make starkly different moves in the brewing battle over AI shopping
@@ -2911,6 +2968,7 @@ Qatar's prime minister, Sheikh Mohammed bin Abdulrahman Al-Thani, said Gulf stat
 - `21 Sep 19:00` **investing_commodities** — Trump, in call with Yemen president, did not pledge military support against Houthis, say sources
 - `21 Sep 18:59` **aljazeera** — Egypt's Amina Orfi becomes youngest women's squash world number one at 19
 - `21 Sep 18:53` **kitco_general** — Glencore can bring $236 million UK lawsuit against refinery, court rules - KITCO
+- `21 Sep 18:43` **gnews_fed** — Venezuela's Golden Opportunity - National Review
 - `21 Sep 18:43` **wsj_markets** — U.S. Natural Gas Futures Pull Back on Cooling Weather
 - `21 Sep 18:38` **ing_think** — Moody's downgrades Poland's rating amid lack of fiscal consolidation
 - `21 Sep 18:32` **aljazeera** — What's the US–China AI 'hotline' that Trump plans to pitch to Xi Jinping?
@@ -3102,42 +3160,45 @@ investing_news (8), yahoo_finance (2)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 10 | 15 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 7 | 23 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 2 | 0 | 2 | 28 | 0.2 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 4.5 |
-| instaforex | OK | 25 | 25 | 5 | 20 | 0 | -0.1 |
-| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.2 |
-| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.0 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.2 |
-| kitco_general | OK | 23 | 23 | 7 | 16 | 0 | 0.0 |
-| gnews_fed | OK | 47 | 47 | 21 | 26 | 0 | 0.0 |
-| gnews_geopolitics | OK | 63 | 63 | 16 | 47 | 0 | 0.1 |
-| gnews_centralbanks | OK | 36 | 36 | 3 | 33 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.4 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.5 |
-| boe_news | OK | 50 | 2 | 0 | 2 | 48 | 0.4 |
-| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 3.8 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 18.8 |
-| mining_com | OK | 36 | 11 | 2 | 9 | 25 | 0.0 |
-| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| ing_think | OK | 10 | 9 | 1 | 8 | 1 | 0.3 |
-| bbc_business | OK | 53 | 14 | 1 | 13 | 39 | 0.0 |
-| aljazeera | OK | 25 | 25 | 12 | 13 | 0 | 0.1 |
-| snb_press | OK | 20 | 4 | 0 | 4 | 16 | 0.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 11.5 |
-| eia_energy | WARN | 17 | 0 | 0 | 0 | 17 | 3.3 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 18.4 |
-| wsj_world | OK | 73 | 16 | 9 | 7 | 57 | 0.0 |
-| wsj_markets | OK | 61 | 28 | 5 | 23 | 33 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 10 | 0 | 10 | 40 | 0.3 |
-| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 19 | 2 | 17 | 11 | 0.1 |
+| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 12 | 18 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 2 | 0 | 2 | 28 | 0.3 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
+| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 4.6 |
+| instaforex | OK | 25 | 25 | 4 | 21 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.3 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 11.3 |
+| kitco_general | OK | 24 | 24 | 1 | 23 | 0 | 0.1 |
+| gnews_fed | OK | 49 | 49 | 12 | 37 | 0 | 0.1 |
+| gnews_geopolitics | OK | 70 | 70 | 11 | 59 | 0 | 0.0 |
+| gnews_centralbanks | OK | 38 | 38 | 7 | 31 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.5 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.6 |
+| boe_news | OK | 50 | 2 | 0 | 2 | 48 | 0.5 |
+| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 3.9 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 18.9 |
+| mining_com | OK | 36 | 12 | 1 | 11 | 24 | 0.0 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| bbc_business | OK | 54 | 17 | 3 | 14 | 37 | 0.1 |
+| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
+| snb_press | OK | 20 | 4 | 0 | 4 | 16 | 0.7 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 11.6 |
+| eia_energy | WARN | 17 | 0 | 0 | 0 | 17 | 3.5 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 18.5 |
+| wsj_world | OK | 73 | 18 | 2 | 16 | 55 | 0.0 |
+| wsj_markets | OK | 61 | 30 | 4 | 26 | 31 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 10 | 0 | 10 | 40 | 0.4 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 19 | 0 | 19 | 11 | 0.2 |
+
+**Jo feeds nahi aaye:**
+- ing_think — FAIL, ConnectTimeout
