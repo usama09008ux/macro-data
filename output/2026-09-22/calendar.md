@@ -1,6 +1,6 @@
 # Calendar — Trading Day 22 Sep 2026
 
-- Banaya gaya: **22 Sep 2026 15:10 PKT**
+- Banaya gaya: **22 Sep 2026 20:59 PKT**
 - Trading day: **22 Sep 03:00 -> 23 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,12 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 16:00 | EUR | MED | ECB President Lagarde Speaks | - | - |
-| 17:15 | USD | low | ADP Weekly Employment Change | - | 16.3K |
-| 19:00 | EUR | low | Consumer Confidence | -16 | -16 |
-| 19:00 | USD | low | Richmond Manufacturing Index | 2 | 4 |
-| 19:05 | USD | low | FOMC Member Williams Speaks | - | - |
-| 19:20 | USD | low | FOMC Member Jefferson Speaks | - | - |
 | 22:00 | USD | low | FOMC Member Barkin Speaks | - | - |
 | **23 Sep** 00:30 | EUR | low | German Buba President Nagel Speaks | - | - |
 | **23 Sep** 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
@@ -33,6 +27,10 @@
 | **23 Sep** 13:30 | GBP | MED | Flash Manufacturing PMI | 51.5 | 51.5 |
 | **23 Sep** 13:30 | GBP | MED | Flash Services PMI | 52.0 | 52.8 |
 | **23 Sep** 14:34 | EUR | low | German 30-y Bond Auction | - | 3.90|2.4 |
+| **23 Sep** 18:45 | USD | low | Flash Manufacturing PMI | 53.6 | 53.2 |
+| **23 Sep** 18:45 | USD | low | Flash Services PMI | 55.8 | 56.8 |
+| **23 Sep** 19:05 | USD | low | FOMC Member Barr Speaks | - | - |
+| **23 Sep** 19:30 | USD | low | Crude Oil Inventories | -0.6M | -0.6M |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
@@ -58,5 +56,9 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 22 Sep 19:00 | EU Consumer Confidence (flash) for September | -16.5 | -16.0 | -0.50 (-3%) | neeche |
 

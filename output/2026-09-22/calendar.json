@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "22 Sep 2026 15:10",
+  "generated_pkt": "22 Sep 2026 20:59",
   "trading_day": "2026-09-22",
   "feed_sources": {
     "thisweek": "live"
@@ -198,6 +198,19 @@
       "utc": "2026-09-22T12:15Z",
       "pkt": "22 Sep 17:15",
       "pkt_iso": "2026-09-22T17:15:00+05:00",
+      "trading_day": "2026-09-22"
+    },
+    {
+      "title": "President Trump Speaks",
+      "ccy": "USD",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/645-us-president-trump-speaks",
+      "all_day": false,
+      "utc": "2026-09-22T13:55Z",
+      "pkt": "22 Sep 18:55",
+      "pkt_iso": "2026-09-22T18:55:00+05:00",
       "trading_day": "2026-09-22"
     },
     {
@@ -1007,5 +1020,21 @@
       "trading_day": "2026-09-26"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "EU Consumer Confidence (flash) for September -16.5 vs -16.0 estimate",
+      "actual_raw": "-16.5",
+      "forecast_raw": "-16.0",
+      "beat": false,
+      "raw_diff": "-0.50",
+      "sign_flip": false,
+      "diff_pct": -3.1,
+      "when_pkt": "22 Sep 19:00",
+      "source": "investinglive",
+      "tags": [
+        "eur",
+        "usd"
+      ]
+    }
+  ]
 }
