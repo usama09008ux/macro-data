@@ -1,6 +1,6 @@
 # Calendar — Trading Day 22 Sep 2026
 
-- Banaya gaya: **22 Sep 2026 06:06 PKT**
+- Banaya gaya: **22 Sep 2026 15:10 PKT**
 - Trading day: **22 Sep 03:00 -> 23 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,10 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 08:10 | AUD | **HIGH** | RBA Gov Bullock Speaks | - | - |
-| 11:00 | GBP | low | Public Sector Net Borrowing | 15.2B | 1.8B |
-| 13:30 | EUR | low | German Buba President Nagel Speaks | - | - |
-| 15:00 | GBP | low | CBI Industrial Order Expectations | -33 | -25 |
 | 16:00 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | 17:15 | USD | low | ADP Weekly Employment Change | - | 16.3K |
 | 19:00 | EUR | low | Consumer Confidence | -16 | -16 |
@@ -28,10 +24,17 @@
 | **23 Sep** 04:00 | AUD | low | Flash Manufacturing PMI | - | 52.0 |
 | **23 Sep** 04:00 | AUD | low | Flash Services PMI | - | 52.9 |
 | **23 Sep** 04:00 | JPY | chhutti | Bank Holiday | - | - |
+| **23 Sep** 12:15 | EUR | MED | French Flash Manufacturing PMI | 50.9 | 51.5 |
+| **23 Sep** 12:15 | EUR | MED | French Flash Services PMI | 48.3 | 48.4 |
+| **23 Sep** 12:30 | EUR | MED | German Flash Manufacturing PMI | 54.1 | 54.1 |
+| **23 Sep** 12:30 | EUR | MED | German Flash Services PMI | 49.9 | 48.5 |
+| **23 Sep** 13:00 | EUR | low | Flash Manufacturing PMI | 52.6 | 52.8 |
+| **23 Sep** 13:00 | EUR | low | Flash Services PMI | 51.4 | 51.7 |
+| **23 Sep** 13:30 | GBP | MED | Flash Manufacturing PMI | 51.5 | 51.5 |
+| **23 Sep** 13:30 | GBP | MED | Flash Services PMI | 52.0 | 52.8 |
+| **23 Sep** 14:34 | EUR | low | German 30-y Bond Auction | - | 3.90|2.4 |
 
-**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
-
-- `22 Sep 08:10` **AUD RBA Gov Bullock Speaks**
+*Agle 24 ghante mein koi HIGH impact event nahi.*
 
 ---
 
@@ -39,12 +42,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **23 Sep** 12:15 | EUR | MED | French Flash Manufacturing PMI | 50.9 | 51.5 |
-| **23 Sep** 12:15 | EUR | MED | French Flash Services PMI | 48.3 | 48.4 |
-| **23 Sep** 12:30 | EUR | MED | German Flash Manufacturing PMI | 54.1 | 54.1 |
-| **23 Sep** 12:30 | EUR | MED | German Flash Services PMI | 49.9 | 48.5 |
-| **23 Sep** 13:30 | GBP | MED | Flash Manufacturing PMI | 51.5 | 51.5 |
-| **23 Sep** 13:30 | GBP | MED | Flash Services PMI | 52.0 | 52.8 |
 | **24 Sep** 06:30 | AUD | **HIGH** | Employment Change | 22.5K | -15.8K |
 | **24 Sep** 06:30 | AUD | **HIGH** | Unemployment Rate | 4.5% | 4.5% |
 | **24 Sep** 12:30 | CHF | **HIGH** | SNB Monetary Policy Assessment | - | - |
