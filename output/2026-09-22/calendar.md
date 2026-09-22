@@ -1,6 +1,6 @@
 # Calendar — Trading Day 22 Sep 2026
 
-- Banaya gaya: **22 Sep 2026 20:59 PKT**
+- Banaya gaya: **23 Sep 2026 00:58 PKT**
 - Trading day: **22 Sep 03:00 -> 23 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,25 +12,23 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 22:00 | USD | low | FOMC Member Barkin Speaks | - | - |
-| **23 Sep** 00:30 | EUR | low | German Buba President Nagel Speaks | - | - |
-| **23 Sep** 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
-| **23 Sep** 04:00 | AUD | low | Flash Manufacturing PMI | - | 52.0 |
-| **23 Sep** 04:00 | AUD | low | Flash Services PMI | - | 52.9 |
-| **23 Sep** 04:00 | JPY | chhutti | Bank Holiday | - | - |
-| **23 Sep** 12:15 | EUR | MED | French Flash Manufacturing PMI | 50.9 | 51.5 |
-| **23 Sep** 12:15 | EUR | MED | French Flash Services PMI | 48.3 | 48.4 |
-| **23 Sep** 12:30 | EUR | MED | German Flash Manufacturing PMI | 54.1 | 54.1 |
-| **23 Sep** 12:30 | EUR | MED | German Flash Services PMI | 49.9 | 48.5 |
-| **23 Sep** 13:00 | EUR | low | Flash Manufacturing PMI | 52.6 | 52.8 |
-| **23 Sep** 13:00 | EUR | low | Flash Services PMI | 51.4 | 51.7 |
-| **23 Sep** 13:30 | GBP | MED | Flash Manufacturing PMI | 51.5 | 51.5 |
-| **23 Sep** 13:30 | GBP | MED | Flash Services PMI | 52.0 | 52.8 |
-| **23 Sep** 14:34 | EUR | low | German 30-y Bond Auction | - | 3.90|2.4 |
-| **23 Sep** 18:45 | USD | low | Flash Manufacturing PMI | 53.6 | 53.2 |
-| **23 Sep** 18:45 | USD | low | Flash Services PMI | 55.8 | 56.8 |
-| **23 Sep** 19:05 | USD | low | FOMC Member Barr Speaks | - | - |
-| **23 Sep** 19:30 | USD | low | Crude Oil Inventories | -0.6M | -0.6M |
+| 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
+| 04:00 | AUD | low | Flash Manufacturing PMI | - | 52.0 |
+| 04:00 | AUD | low | Flash Services PMI | - | 52.9 |
+| 04:00 | JPY | chhutti | Bank Holiday | - | - |
+| 12:15 | EUR | MED | French Flash Manufacturing PMI | 50.9 | 51.5 |
+| 12:15 | EUR | MED | French Flash Services PMI | 48.3 | 48.4 |
+| 12:30 | EUR | MED | German Flash Manufacturing PMI | 54.1 | 54.1 |
+| 12:30 | EUR | MED | German Flash Services PMI | 49.9 | 48.5 |
+| 13:00 | EUR | low | Flash Manufacturing PMI | 52.6 | 52.8 |
+| 13:00 | EUR | low | Flash Services PMI | 51.4 | 51.7 |
+| 13:30 | GBP | MED | Flash Manufacturing PMI | 51.5 | 51.5 |
+| 13:30 | GBP | MED | Flash Services PMI | 52.0 | 52.8 |
+| 14:34 | EUR | low | German 30-y Bond Auction | - | 3.90|2.4 |
+| 18:45 | USD | low | Flash Manufacturing PMI | 53.6 | 53.2 |
+| 18:45 | USD | low | Flash Services PMI | 55.8 | 56.8 |
+| 19:05 | USD | low | FOMC Member Barr Speaks | - | - |
+| 19:30 | USD | low | Crude Oil Inventories | -0.6M | -0.6M |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
