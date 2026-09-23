@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "23 Sep 2026 05:53",
+  "generated_pkt": "23 Sep 2026 15:11",
   "trading_day": "2026-09-23",
   "feed_sources": {
     "thisweek": "live"
@@ -455,9 +455,9 @@
       "previous": "3.90|2.4",
       "url": "https://www.forexfactory.com/calendar/541-ge-30-y-bond-auction",
       "all_day": false,
-      "utc": "2026-09-23T09:34Z",
-      "pkt": "23 Sep 14:34",
-      "pkt_iso": "2026-09-23T14:34:00+05:00",
+      "utc": "2026-09-23T09:35Z",
+      "pkt": "23 Sep 14:35",
+      "pkt_iso": "2026-09-23T14:35:00+05:00",
       "trading_day": "2026-09-23"
     },
     {
@@ -503,13 +503,26 @@
       "title": "Crude Oil Inventories",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "-0.6M",
+      "forecast": "-0.7M",
       "previous": "-0.6M",
       "url": "https://www.forexfactory.com/calendar/10-us-crude-oil-inventories",
       "all_day": false,
       "utc": "2026-09-23T14:30Z",
       "pkt": "23 Sep 19:30",
       "pkt_iso": "2026-09-23T19:30:00+05:00",
+      "trading_day": "2026-09-23"
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "ccy": "USD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/889-us-fomc-member-goolsbee-speaks",
+      "all_day": false,
+      "utc": "2026-09-23T16:00Z",
+      "pkt": "23 Sep 21:00",
+      "pkt_iso": "2026-09-23T21:00:00+05:00",
       "trading_day": "2026-09-23"
     },
     {
@@ -828,7 +841,7 @@
       "title": "Natural Gas Storage",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "52B",
+      "forecast": "50B",
       "previous": "44B",
       "url": "https://www.forexfactory.com/calendar/26-us-natural-gas-storage",
       "all_day": false,
@@ -968,6 +981,19 @@
       "trading_day": "2026-09-25"
     },
     {
+      "title": "FOMC Member Schmid Speaks",
+      "ccy": "USD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/912-us-fomc-member-schmid-speaks",
+      "all_day": false,
+      "utc": "2026-09-25T13:20Z",
+      "pkt": "25 Sep 18:20",
+      "pkt_iso": "2026-09-25T18:20:00+05:00",
+      "trading_day": "2026-09-25"
+    },
+    {
       "title": "Revised UoM Consumer Sentiment",
       "ccy": "USD",
       "impact": "Medium",
@@ -1020,5 +1046,39 @@
       "trading_day": "2026-09-26"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "UK September flash services PMI 51.7 vs 52.0 expected",
+      "actual_raw": "51.7",
+      "forecast_raw": "52.0",
+      "beat": false,
+      "raw_diff": "-0.30",
+      "sign_flip": false,
+      "diff_pct": -0.6,
+      "when_pkt": "23 Sep 13:30",
+      "source": "investinglive",
+      "tags": [
+        "risk",
+        "gbp",
+        "usd",
+        "rates"
+      ]
+    },
+    {
+      "title": "Germany September flash manufacturing PMI 53.8 vs 54.0 expected",
+      "actual_raw": "53.8",
+      "forecast_raw": "54.0",
+      "beat": false,
+      "raw_diff": "-0.20",
+      "sign_flip": false,
+      "diff_pct": -0.4,
+      "when_pkt": "23 Sep 12:30",
+      "source": "investinglive",
+      "tags": [
+        "eur",
+        "usd",
+        "risk"
+      ]
+    }
+  ]
 }

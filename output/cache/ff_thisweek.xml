@@ -344,7 +344,7 @@
 		<title>German 30-y Bond Auction</title>
 		<country>EUR</country>
 		<date><![CDATA[09-23-2026]]></date>
-		<time><![CDATA[9:34am]]></time>
+		<time><![CDATA[9:35am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous><![CDATA[3.90|2.4]]></previous>
@@ -386,9 +386,19 @@
 		<date><![CDATA[09-23-2026]]></date>
 		<time><![CDATA[2:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[-0.6M]]></forecast>
+		<forecast><![CDATA[-0.7M]]></forecast>
 		<previous><![CDATA[-0.6M]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/10-us-crude-oil-inventories]]></url>
+	</event>
+	<event>
+		<title>FOMC Member Goolsbee Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[09-23-2026]]></date>
+		<time><![CDATA[4:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/889-us-fomc-member-goolsbee-speaks]]></url>
 	</event>
 	<event>
 		<title>Flash Manufacturing PMI</title>
@@ -636,7 +646,7 @@
 		<date><![CDATA[09-24-2026]]></date>
 		<time><![CDATA[2:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[52B]]></forecast>
+		<forecast><![CDATA[50B]]></forecast>
 		<previous><![CDATA[44B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/26-us-natural-gas-storage]]></url>
 	</event>
@@ -739,6 +749,16 @@
 		<forecast><![CDATA[-0.3%]]></forecast>
 		<previous><![CDATA[1.1%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/349-us-durable-goods-orders-mm]]></url>
+	</event>
+	<event>
+		<title>FOMC Member Schmid Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[09-25-2026]]></date>
+		<time><![CDATA[1:20pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/912-us-fomc-member-schmid-speaks]]></url>
 	</event>
 	<event>
 		<title>Revised UoM Consumer Sentiment</title>

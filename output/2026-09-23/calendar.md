@@ -1,6 +1,6 @@
 # Calendar — Trading Day 23 Sep 2026
 
-- Banaya gaya: **23 Sep 2026 05:53 PKT**
+- Banaya gaya: **23 Sep 2026 15:11 PKT**
 - Trading day: **23 Sep 03:00 -> 24 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,23 +12,31 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 12:15 | EUR | MED | French Flash Manufacturing PMI | 50.9 | 51.5 |
-| 12:15 | EUR | MED | French Flash Services PMI | 48.3 | 48.4 |
-| 12:30 | EUR | MED | German Flash Manufacturing PMI | 54.1 | 54.1 |
-| 12:30 | EUR | MED | German Flash Services PMI | 49.9 | 48.5 |
-| 13:00 | EUR | low | Flash Manufacturing PMI | 52.6 | 52.8 |
-| 13:00 | EUR | low | Flash Services PMI | 51.4 | 51.7 |
-| 13:30 | GBP | MED | Flash Manufacturing PMI | 51.5 | 51.5 |
-| 13:30 | GBP | MED | Flash Services PMI | 52.0 | 52.8 |
-| 14:34 | EUR | low | German 30-y Bond Auction | - | 3.90|2.4 |
 | 18:45 | USD | low | Flash Manufacturing PMI | 53.6 | 53.2 |
 | 18:45 | USD | low | Flash Services PMI | 55.8 | 56.8 |
 | 19:05 | USD | low | FOMC Member Barr Speaks | - | - |
-| 19:30 | USD | low | Crude Oil Inventories | -0.6M | -0.6M |
+| 19:30 | USD | low | Crude Oil Inventories | -0.7M | -0.6M |
+| 21:00 | USD | low | FOMC Member Goolsbee Speaks | - | - |
 | **24 Sep** 05:30 | JPY | low | Flash Manufacturing PMI | 55.0 | 55.1 |
 | **24 Sep** 05:35 | AUD | low | NAB Quarterly Business Confidence | - | -19 |
+| **24 Sep** 06:30 | AUD | **HIGH** | Employment Change | 22.5K | -15.8K |
+| **24 Sep** 06:30 | AUD | **HIGH** | Unemployment Rate | 4.5% | 4.5% |
+| **24 Sep** 12:30 | CHF | **HIGH** | SNB Monetary Policy Assessment | - | - |
+| **24 Sep** 12:30 | CHF | **HIGH** | SNB Policy Rate | 0.00% | 0.00% |
+| **24 Sep** 13:00 | CHF | **HIGH** | SNB Press Conference | - | - |
+| **24 Sep** 13:00 | EUR | low | ECB Economic Bulletin | - | - |
+| **24 Sep** 13:00 | EUR | low | German ifo Business Climate | 89.1 | 88.8 |
+| **24 Sep** 13:10 | USD | low | FOMC Member Williams Speaks | - | - |
+| **24 Sep** 14:30 | GBP | low | MPC Member Dhingra Speaks | - | - |
+| **24 Sep** 15:00 | GBP | low | CBI Realized Sales | -42 | -48 |
 
-*Agle 24 ghante mein koi HIGH impact event nahi.*
+**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
+
+- `24 Sep 06:30` **AUD Employment Change**
+- `24 Sep 06:30` **AUD Unemployment Rate**
+- `24 Sep 12:30` **CHF SNB Monetary Policy Assessment**
+- `24 Sep 12:30` **CHF SNB Policy Rate**
+- `24 Sep 13:00` **CHF SNB Press Conference**
 
 ---
 
@@ -36,11 +44,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **24 Sep** 06:30 | AUD | **HIGH** | Employment Change | 22.5K | -15.8K |
-| **24 Sep** 06:30 | AUD | **HIGH** | Unemployment Rate | 4.5% | 4.5% |
-| **24 Sep** 12:30 | CHF | **HIGH** | SNB Monetary Policy Assessment | - | - |
-| **24 Sep** 12:30 | CHF | **HIGH** | SNB Policy Rate | 0.00% | 0.00% |
-| **24 Sep** 13:00 | CHF | **HIGH** | SNB Press Conference | - | - |
 | **24 Sep** 17:30 | CAD | MED | Core Retail Sales m/m | -0.5% | 0.5% |
 | **24 Sep** 17:30 | CAD | MED | Retail Sales m/m | -0.8% | 0.6% |
 | **24 Sep** 17:30 | USD | MED | Unemployment Claims | 201K | 196K |
@@ -52,5 +55,10 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 23 Sep 13:30 | UK September flash services PMI | 51.7 | 52.0 | -0.30 (-1%) | neeche |
+| 23 Sep 12:30 | Germany September flash manufacturing PMI | 53.8 | 54.0 | -0.20 (-0%) | neeche |
 
