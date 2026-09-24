@@ -1,6 +1,6 @@
 # Calendar — Trading Day 24 Sep 2026
 
-- Banaya gaya: **24 Sep 2026 21:11 PKT**
+- Banaya gaya: **25 Sep 2026 01:13 PKT**
 - Trading day: **24 Sep 03:00 -> 25 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,19 +12,20 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **25 Sep** 04:01 | GBP | low | GfK Consumer Confidence | -16 | -14 |
-| **25 Sep** 04:01 | CNY | chhutti | Bank Holiday | - | - |
-| **25 Sep** 10:00 | JPY | low | BOJ Core CPI y/y | 1.5% | 1.6% |
-| **25 Sep** 11:00 | EUR | low | German GfK Consumer Climate | -27.1 | -26.6 |
-| **25 Sep** 13:00 | EUR | low | M3 Money Supply y/y | 3.5% | 3.4% |
-| **25 Sep** 13:00 | EUR | low | Private Loans y/y | 3.2% | 3.1% |
-| **25 Sep** 14:15 | GBP | **HIGH** | BOE Gov Bailey Speaks | - | - |
-| **25 Sep** 14:15 | USD | low | FOMC Member Williams Speaks | - | - |
-| **25 Sep** 17:30 | USD | low | Core Durable Goods Orders m/m | 0.6% | 0.4% |
-| **25 Sep** 17:30 | USD | low | Durable Goods Orders m/m | -0.3% | 1.1% |
-| **25 Sep** 18:20 | USD | low | FOMC Member Schmid Speaks | - | - |
-| **25 Sep** 19:00 | USD | MED | Revised UoM Consumer Sentiment | 47.4 | 47.8 |
-| **25 Sep** 19:00 | USD | MED | Revised UoM Inflation Expectations | - | 4.6% |
+| 04:01 | GBP | low | GfK Consumer Confidence | -16 | -14 |
+| 04:01 | CNY | chhutti | Bank Holiday | - | - |
+| 10:00 | JPY | low | BOJ Core CPI y/y | 1.5% | 1.6% |
+| 11:00 | EUR | low | German GfK Consumer Climate | -27.1 | -26.6 |
+| 13:00 | EUR | low | M3 Money Supply y/y | 3.5% | 3.4% |
+| 13:00 | EUR | low | Private Loans y/y | 3.2% | 3.1% |
+| 14:15 | GBP | **HIGH** | BOE Gov Bailey Speaks | - | - |
+| 14:15 | USD | low | FOMC Member Williams Speaks | - | - |
+| 17:30 | USD | low | Core Durable Goods Orders m/m | 0.6% | 0.4% |
+| 17:30 | USD | low | Durable Goods Orders m/m | -0.3% | 1.1% |
+| 18:20 | USD | low | FOMC Member Schmid Speaks | - | - |
+| 19:00 | USD | MED | Revised UoM Consumer Sentiment | 47.4 | 47.8 |
+| 19:00 | USD | MED | Revised UoM Inflation Expectations | - | 4.6% |
+| 23:00 | USD | low | FOMC Member Hammack Speaks | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
