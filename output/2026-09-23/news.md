@@ -1,9 +1,9 @@
 # News Pack — Trading Day 23 Sep 2026
 
 - Trading day: **23 Sep 03:00 -> 24 Sep 02:59 PKT**
-- Aakhri update: **24 Sep 03:12 PKT**
-- Kul khabrein: **963**
-- Feeds: 38/39 OK
+- Aakhri update: **24 Sep 05:32 PKT**
+- Kul khabrein: **978**
+- Feeds: 39/39 OK
 
 ---
 
@@ -485,6 +485,11 @@ Fallout from these decisions pushed prices higher and pressured worker pay
 
 With high yields and stock prices, consider rebalancing your portfolio.
 
+**Tories would prevent long-term jobless spending benefits on alcohol and cigarettes**
+`24 Sep 02:01 PKT` · pehli baar dekhi `24 Sep 05:32` · bbc_business
+
+The proposals would also see benefits cut for people who are able to work but have failed to hold down a job.
+
 **Mexican Peso selloff deepens as Fed hawks drive USD/MXN toward 17.50**
 `24 Sep 01:57 PKT` · pehli baar dekhi `24 Sep 03:12` · fxstreet_news
 
@@ -577,6 +582,11 @@ There was no respite for the US Dollar's (USD) march north on Wednesday. In fact
 `23 Sep 22:52 PKT` · pehli baar dekhi `23 Sep 23:58` · mw_topstories
 
 Stocks fall, with the Nasdaq and S&P 500 retreating from record territory as bond yields suddenly jump.
+
+**Richmond Fed's Barkin Concedes Five Years of Inflation Failure - SchiffGold.com**
+`23 Sep 22:45 PKT` · pehli baar dekhi `24 Sep 05:32` · gnews_fed
+
+Richmond Fed's Barkin Concedes Five Years of Inflation Failure SchiffGold.com
 
 **US markets put probability of Fed rate hike in October at 71% — CNBC - UA.NEWS**
 `23 Sep 22:42 PKT` · pehli baar dekhi `24 Sep 03:12` · gnews_fed
@@ -671,6 +681,11 @@ Fed rate hike: what retirees need to know now - sponsored by Alloy Wealth Manage
 `23 Sep 21:19 PKT` · pehli baar dekhi `23 Sep 23:58` · fxstreet_news
 
 Federal Reserve (Fed) Governor Michael Barr made on Wednesday the case for more rate increases, saying the risks to getting inflation back to 2% have grown while the risks to jobs have eased.
+
+**Aikenomics: Maybe the Fed Hike Was Exactly What the Doctor Ordered… - Appen Media**
+`23 Sep 21:17 PKT` · pehli baar dekhi `24 Sep 05:32` · gnews_fed
+
+Aikenomics: Maybe the Fed Hike Was Exactly What the Doctor Ordered… Appen Media
 
 **Dow Jones Industrial Average keeps sliding as yields climb on a strong PMI**
 `23 Sep 21:06 PKT` · pehli baar dekhi `23 Sep 23:58` · fxstreet_news
@@ -880,9 +895,10 @@ The dollar index continues to trend higher and trading near the highest in two m
 The US Dollar trades higher as financial markets embrace hawkish Federal Reserve (Fed) view. As of writing, the US Dollar Index (DXY), which tracks the Greenback's value against six major currencies, trades 0.35% higher to near 100.90, the highest level seen in over seven weeks.
 
 **Corporate finance chiefs lift inflation outlook, cite rates as concern - Fed survey - Reuters**
-`23 Sep 16:21 PKT` · pehli baar dekhi `23 Sep 19:59` · gnews_fed
+`23 Sep 16:21 PKT` · pehli baar dekhi `23 Sep 19:59` · gnews_fed · **2 feeds mein**
 
 Corporate finance chiefs lift inflation outlook, cite rates as concern - Fed survey Reuters
+  - `23 Sep 16:18` *gnews_fed* — Corporate finance chiefs lift inflation outlook, cite rates as concern - Fed survey - Kansas City Star
 
 **Ringgit ends higher against major currencies, weakens versus US dollar - NST Online**
 `23 Sep 16:06 PKT` · pehli baar dekhi `23 Sep 19:59` · gnews_fed
@@ -2058,6 +2074,11 @@ Homes in the Northeast and Alaska are especially dependent on heating oil in win
 
 US Energy Secretary Chris Wright has publicly opposed calls for a ban on US diesel exports, arguing on Wednesday that the measure would backfire by increasing gasoline and jet fuel prices. "The blunt tool of banning diesel exports definitely doesn't ‌work," Wright said at an event in New York, as reported by Reuters. Wright said restricting exports would leave refiners with excess diesel inventories, forcing them to cut refinery output.
 
+**Oil Price Forecast — WTI ($91.92) and Brent ($101.61) Snap 5-Day Slide on Libya Outage — EIA 2.97M Build Caps $95 - TradingNEWS**
+`23 Sep 21:46 PKT` · pehli baar dekhi `24 Sep 05:32` · gnews_geopolitics
+
+Oil Price Forecast — WTI ($91.92) and Brent ($101.61) Snap 5-Day Slide on Libya Outage — EIA 2.97M Build Caps $95 TradingNEWS
+
 **US crude inventories rise while fuel stocks decline, EIA says**
 `23 Sep 21:30 PKT` · pehli baar dekhi `23 Sep 23:58` · investing_commodities
 
@@ -2065,6 +2086,11 @@ US Energy Secretary Chris Wright has publicly opposed calls for a ban on US dies
 `23 Sep 21:30 PKT` · pehli baar dekhi `23 Sep 23:58` · oilprice
 
 Kenya breaks ground September 30 on the Dangote-backed East Africa Oil Refinery in Lamu, a project priced at $17 billion by Kenyan officials and $20 billion by Aliko Dangote himself, and designed to process 700,000 barrels of crude oil a day at Lamu's deep-water port. It would serve Kenya, Uganda, South Sudan, Rwanda, Burundi and the Democratic Republic of Congo. Disclosed financing for the project totals $1.6 billion against a price tag of $17 billion to $20 billion.
+
+**Crude Prices Jump as US-Iran Peace Talks Elusive - tradingview.com**
+`23 Sep 20:52 PKT` · pehli baar dekhi `24 Sep 05:32` · gnews_geopolitics
+
+Crude Prices Jump as US-Iran Peace Talks Elusive tradingview.com
 
 **WTI snaps five-day losing streak as US-Iran talks fall short of breakthrough**
 `23 Sep 20:51 PKT` · pehli baar dekhi `23 Sep 23:58` · fxstreet_news
@@ -2176,6 +2202,11 @@ Cuts to U.S. federal incentives for carbon capture projects and an uncertain reg
 `23 Sep 19:23 PKT` · pehli baar dekhi `23 Sep 19:59` · gnews_fed
 
 Wall St falls as oil ticks up, yields rise ahead of US-China summit Reuters
+
+**+2.43% for Brent crude oil as Iran UN address raises supply risk - Traders Union**
+`23 Sep 19:09 PKT` · pehli baar dekhi `24 Sep 05:32` · gnews_geopolitics
+
++2.43% for Brent crude oil as Iran UN address raises supply risk Traders Union
 
 **India: Russian dependence and security focus – Standard Chartered**
 `23 Sep 19:09 PKT` · pehli baar dekhi `23 Sep 19:59` · fxstreet_news
@@ -2351,9 +2382,10 @@ A district judge in Grand Rapids has dismissed a lawsuit brought against several
 Oil prices maintain their negative trend on Wednesday, with the price of the US benchmark West Texas Intermediate (WTI) barrel flatlining at the $89.00 area, its lowest level in nearly three weeks and 13% below last week's highs.
 
 **Oil prices fall as US-Iran diplomacy, Saudi flows ease supply concerns - Anadolu Ajansı**
-`23 Sep 12:45 PKT` · pehli baar dekhi `23 Sep 15:05` · gnews_geopolitics
+`23 Sep 12:45 PKT` · pehli baar dekhi `23 Sep 15:05` · gnews_geopolitics · **2 feeds mein**
 
 Oil prices fall as US-Iran diplomacy, Saudi flows ease supply concerns Anadolu Ajansı
+  - `23 Sep 12:44` *gnews_geopolitics* — Oil prices fall as US-Iran diplomacy, Saudi flows ease supply concerns - aa.com.tr
 
 **US-Israel-Iran War Latest Live News: Brent Drops Below $100 As Saudi Arabia Reopens Major Oil Route After Drone Attacks, While Trump Talks Up Possible Breakthrough With Iran - sundayguardianlive.com**
 `23 Sep 12:45 PKT` · pehli baar dekhi `23 Sep 15:05` · gnews_geopolitics
@@ -2516,6 +2548,11 @@ Indian rupee hooked to oil prices as markets gauge Iran diplomacy hopes Business
 `23 Sep 07:58 PKT` · pehli baar dekhi `23 Sep 10:14` · fxstreet_news
 
 Asian equities trade mixed on Wednesday. Oil prices and Treasury yields dropped as crude flows through the Middle East improved, adding to risk appetite.
+
+**Oil up almost 2% as Iran's president vows to never surrender - Business Recorder**
+`23 Sep 07:49 PKT` · pehli baar dekhi `24 Sep 05:32` · gnews_geopolitics
+
+Oil up almost 2% as Iran's president vows to never surrender Business Recorder
 
 **Oil Price Today (September 23): Crude oil below $100 on hopes of US-Iran talks. What did Trump say? - The Economic Times**
 `23 Sep 07:18 PKT` · pehli baar dekhi `23 Sep 15:05` · gnews_geopolitics
@@ -2790,6 +2827,11 @@ Following the Federal Reserve's interest rate hike, QDII funds continue to exper
 Reserve Bank interest rate hike on the cards Daily Investor
 
 ### RISK
+
+**Iran won't bow to military action or sanctions and will retain nuclear program, country's president tells UNGA - Jewish Telegraphic Agency**
+`24 Sep 02:37 PKT` · pehli baar dekhi `24 Sep 05:32` · gnews_geopolitics
+
+Iran won't bow to military action or sanctions and will retain nuclear program, country's president tells UNGA Jewish Telegraphic Agency
 
 **Chicago wheat futures fall on hopes for Black Sea ceasefire**
 `24 Sep 02:16 PKT` · pehli baar dekhi `24 Sep 03:12` · investing_commodities
@@ -3071,6 +3113,11 @@ Iran war oil shock accelerates global electric vehicle market Cyprus Mail
 
 Investors shrug off AI safety concerns and Iran war, sending market to a new peak.
 
+**Dollar holds near 2-month high as markets weigh rate hikes, Iran diplomacy - cnbc.com**
+`23 Sep 07:37 PKT` · pehli baar dekhi `24 Sep 05:32` · gnews_fed
+
+Dollar holds near 2-month high as markets weigh rate hikes, Iran diplomacy cnbc.com
+
 **UK Prime Minister vows not to 'stand by' as Palestinians suffer**
 `23 Sep 07:24 PKT` · pehli baar dekhi `23 Sep 10:14` · aljazeera
 
@@ -3136,7 +3183,7 @@ The US and Iran hold talks on UNGA's first day, despite Trump threatening to 'an
 
 Trump Warns of Major Decision on Iran as War Threatens Global Oil Supplies Modern Ghana
 
-### BINA TAG (286)
+### BINA TAG (290)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -3150,7 +3197,9 @@ Trump Warns of Major Decision on Iran as War Threatens Global Oil Supplies Moder
 - `24 Sep 02:44` **mw_topstories** — Is gridlock in Washington actually good for stocks? Here's what historical market data says.
 - `24 Sep 02:29` **wsj_world** — Opinion | How the U.N. Forges Anti-Israel Bias
 - `24 Sep 02:27` **mw_topstories** — OpenAI and Anthropic's CEOs just delivered this message to the U.N. as AI fears swirl
+- `24 Sep 02:25` **gnews_fed** — US economy runs hot, and everything shoots up, including the price of petrol in NZ - thepost.co.nz
 - `24 Sep 02:25` **bbc_business** — Lidl banned from selling copycat Birkenstock sandals, Dutch court rules
+- `24 Sep 02:20` **gnews_fed** — Five-year Treasuries jump above 5 per cent - Il Sole 24 ORE
 - `24 Sep 02:18` **aljazeera** — FBI says investigating breach of 'very sensitive' data by hackers
 - `24 Sep 02:12` **investing_commodities** — Soybean futures fall as traders await US-China summit
 - `24 Sep 02:10` **mining_com** — High TREO concentrations boost Rare Earths Americas' Homer project
@@ -3215,6 +3264,7 @@ Trump Warns of Major Decision on Iran as War Threatens Global Oil Supplies Moder
 - `23 Sep 21:22` **mining_com** — Glencore halts Cerrejón coal railway after attack
 - `23 Sep 21:21` **aljazeera** — Yemeni government in military and diplomatic push to reverse Houthi gains
 - `23 Sep 21:12` **aljazeera** — Argentina to UN: Falkland Islands are a 'national cause'
+- `23 Sep 21:08` **ing_think** — Rates Spark: The overshoot commences
 - `23 Sep 21:07` **investing_commodities** — US will either reform IEA on climate issues or leave the group, energy secretary says
 - `23 Sep 21:04` **mining_com** — Higher Santa Cruz capital costs weigh on Ivanhoe Electric
 - `23 Sep 20:52` **aljazeera** — KPMG manager says she was fired after facing harassment over her keffiyeh
@@ -3334,6 +3384,7 @@ Trump Warns of Major Decision on Iran as War Threatens Global Oil Supplies Moder
 - `23 Sep 15:05` **instaforex** — Taiwan M2 Money Supply Rises 6.8% in August
 - `23 Sep 15:05` **instaforex** — Taiwan's M2 Growth Cools in August, Signaling Gradual Liquidity Tightening
 - `23 Sep 15:05` **instaforex** — Taiwan Industrial Output at 3-Month Low
+- `23 Sep 15:05` **gnews_centralbanks** — Promotion: City watch - Why higher interest rates may be here for longer - Edp24
 - `23 Sep 15:04` **aljazeera** — World leaders say UN Security Council failing to function
 - `23 Sep 15:02` **aljazeera** — Europe's centrists are finally paying the price of their extremism
 - `23 Sep 15:01` **gnews_centralbanks** — Promotion: Why commercial property investors should prepare for rate rises now - Edp24
@@ -3443,45 +3494,42 @@ investing_news (11), yahoo_finance (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 4 | 26 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.2 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.5 |
-| instaforex | OK | 25 | 25 | 8 | 17 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 6 | 0 | 6 | 30 | 0.3 |
-| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.0 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 13.1 |
-| kitco_general | OK | 28 | 28 | 10 | 18 | 0 | 0.0 |
-| gnews_fed | OK | 100 | 100 | 22 | 78 | 0 | 0.1 |
-| gnews_geopolitics | OK | 58 | 58 | 4 | 54 | 0 | 0.0 |
-| gnews_centralbanks | OK | 37 | 37 | 4 | 33 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 7.2 |
-| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.3 |
-| ecb_press | OK | 15 | 3 | 0 | 3 | 12 | 0.2 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.3 |
-| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 5.8 |
-| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 0.9 |
-| mining_com | OK | 36 | 12 | 2 | 10 | 24 | 0.0 |
-| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| bbc_business | OK | 53 | 17 | 3 | 14 | 36 | 0.0 |
-| aljazeera | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 13.5 |
-| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 1.3 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 20.4 |
-| wsj_world | OK | 73 | 25 | 5 | 20 | 48 | 0.0 |
-| wsj_markets | OK | 61 | 29 | 8 | 21 | 32 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | OK | 50 | 5 | 0 | 5 | 45 | 0.4 |
-| mw_topstories | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 25 | 4 | 21 | 5 | 0.0 |
-
-**Jo feeds nahi aaye:**
-- ing_think — FAIL, ConnectTimeout
+| investinglive | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 10 | 20 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.3 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.6 |
+| instaforex | OK | 25 | 25 | 5 | 20 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 7 | 1 | 6 | 29 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.1 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 13.2 |
+| kitco_general | OK | 27 | 27 | 0 | 27 | 0 | 0.1 |
+| gnews_fed | OK | 100 | 100 | 9 | 91 | 0 | 0.1 |
+| gnews_geopolitics | OK | 60 | 60 | 6 | 54 | 0 | 0.1 |
+| gnews_centralbanks | OK | 36 | 36 | 3 | 33 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 7.3 |
+| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
+| ecb_press | OK | 15 | 3 | 0 | 3 | 12 | 0.3 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.4 |
+| boj_whatsnew | OK | 44 | 1 | 1 | 0 | 43 | 0.0 |
+| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 1.0 |
+| mining_com | OK | 36 | 13 | 1 | 12 | 23 | 0.0 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| ing_think | OK | 10 | 8 | 1 | 7 | 2 | 0.4 |
+| bbc_business | OK | 53 | 23 | 6 | 17 | 30 | 0.0 |
+| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.7 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 13.6 |
+| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 1.4 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 20.5 |
+| wsj_world | OK | 73 | 26 | 1 | 25 | 47 | 0.1 |
+| wsj_markets | OK | 61 | 29 | 1 | 28 | 32 | 0.0 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| yahoo_finance | OK | 50 | 1 | 0 | 1 | 49 | 0.6 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 25 | 0 | 25 | 5 | 0.1 |
