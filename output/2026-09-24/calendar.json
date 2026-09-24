@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "24 Sep 2026 15:19",
+  "generated_pkt": "24 Sep 2026 21:11",
   "trading_day": "2026-09-24",
   "feed_sources": {
     "thisweek": "live"
@@ -838,6 +838,19 @@
       "trading_day": "2026-09-24"
     },
     {
+      "title": "President Trump Speaks",
+      "ccy": "USD",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/645-us-president-trump-speaks",
+      "all_day": false,
+      "utc": "2026-09-24T14:15Z",
+      "pkt": "24 Sep 19:15",
+      "pkt_iso": "2026-09-24T19:15:00+05:00",
+      "trading_day": "2026-09-24"
+    },
+    {
       "title": "Natural Gas Storage",
       "ccy": "USD",
       "impact": "Low",
@@ -1046,5 +1059,35 @@
       "trading_day": "2026-09-26"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "Canada retail sales for the month of July -0.7% vs -0.8% estimate",
+      "actual_raw": "-0.7%",
+      "forecast_raw": "-0.8%",
+      "beat": true,
+      "raw_diff": "+0.10pp",
+      "sign_flip": false,
+      "diff_pct": 12.5,
+      "when_pkt": "24 Sep 17:30",
+      "source": "investinglive",
+      "tags": [
+        "cad",
+        "usd"
+      ]
+    },
+    {
+      "title": "US initial jobless claims 197K vs 201K expected",
+      "actual_raw": "197K",
+      "forecast_raw": "201K",
+      "beat": false,
+      "raw_diff": "-4.0K",
+      "sign_flip": false,
+      "diff_pct": -2.0,
+      "when_pkt": "24 Sep 17:29",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }
