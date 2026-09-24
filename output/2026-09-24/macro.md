@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 24 Sep 2026
 
-- Banaya gaya: **24 Sep 2026 15:31 PKT**
+- Banaya gaya: **24 Sep 2026 22:13 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
@@ -11,7 +11,7 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| Fed funds target (upper) <br>`DFEDTARU` | **4.00%** | 0.0 | 0.0 | +0.25 | 25 | 2026-09-23 |
+| Fed funds target (upper) <br>`DFEDTARU` | **4.00%** | 0.0 | 0.0 | +0.25 | 25 | 2026-09-24 |
 | US 2Y yield <br>`DGS2` | **4.71%** | -0.05 | +0.04 | +0.47 | 84 | 2026-09-22 |
 | US 10Y yield <br>`DGS10` | **4.96%** | 0.0 | -0.04 | +0.26 | 99 | 2026-09-22 |
 | US 30Y yield <br>`DGS30` | **5.29%** | 0.0 | -0.07 | +0.06 | 99 | 2026-09-22 |
@@ -37,7 +37,7 @@
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
 | VIX <br>`VIXCLS` | **14.21** | -0.66 | -2.99 | -1.24 | 20 | 2026-09-22 |
-| High-yield credit spread <br>`BAMLH0A0HYM2` | **2.68%** | +0.02 | -0.08 | -0.02 | 7 | 2026-09-22 |
+| High-yield credit spread <br>`BAMLH0A0HYM2` | **2.73%** | +0.05 | +0.03 | +0.06 | 16 | 2026-09-23 |
 | Financial stress index <br>`STLFSI4` | **-0.91** | -0.0589 | -0.0805 | -0.2394 | 4 | 2026-09-18 |
 
 ---
@@ -60,7 +60,7 @@
 | Nonfarm payrolls <br>`PAYEMS` | **159,075k** | +0.1 | +0.38 |  |  | 97 | 2026-08-01 |
 | Unemployment rate <br>`UNRATE` | **4.10%** | 0.0 | -4.65 |  |  | 29 | 2026-08-01 |
 | Average hourly earnings <br>`CES0500000003` | **37.75$** | +0.27 | +3.09 |  |  | 97 | 2026-08-01 |
-| Initial jobless claims <br>`ICSA` | **196,000** |  |  | -10000.0 | -11000.0 | 2 | 2026-09-12 |
+| Initial jobless claims <br>`ICSA` | **197,000** |  |  | -1000.0 | -7000.0 | 2 | 2026-09-19 |
 
 ---
 
