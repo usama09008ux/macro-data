@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "24 Sep 2026 05:50",
+  "generated_pkt": "24 Sep 2026 15:19",
   "trading_day": "2026-09-24",
   "feed_sources": {
     "thisweek": "live"
@@ -572,9 +572,9 @@
       "previous": "-19",
       "url": "https://www.forexfactory.com/calendar/248-au-nab-quarterly-business-confidence",
       "all_day": false,
-      "utc": "2026-09-24T02:35Z",
-      "pkt": "24 Sep 07:35",
-      "pkt_iso": "2026-09-24T07:35:00+05:00",
+      "utc": "2026-09-24T01:30Z",
+      "pkt": "24 Sep 06:30",
+      "pkt_iso": "2026-09-24T06:30:00+05:00",
       "trading_day": "2026-09-24"
     },
     {
