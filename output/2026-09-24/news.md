@@ -1,8 +1,8 @@
 # News Pack — Trading Day 24 Sep 2026
 
 - Trading day: **24 Sep 03:00 -> 25 Sep 02:59 PKT**
-- Aakhri update: **25 Sep 05:46 PKT**
-- Kul khabrein: **1012**
+- Aakhri update: **25 Sep 10:30 PKT**
+- Kul khabrein: **1027**
 - Feeds: 38/39 OK
 
 ---
@@ -401,10 +401,21 @@ Back-to-back weak auctions for Treasury notes show that government repurchases h
 
 Fed Officials Don't Sound Done Hiking Interest Rates Investopedia
 
+**Fed Proposes Rules for Bank-Issued Payment Stablecoins - Binance**
+`25 Sep 01:53 PKT` · pehli baar dekhi `25 Sep 10:30` · gnews_fed
+
+Fed Proposes Rules for Bank-Issued Payment Stablecoins Binance
+
 **Three FOMC Voters Back Additional Rate Hikes to Cool Inflation - Yahoo! Finance Canada**
-`25 Sep 01:53 PKT` · pehli baar dekhi `25 Sep 05:46` · gnews_fed
+`25 Sep 01:53 PKT` · pehli baar dekhi `25 Sep 05:46` · gnews_fed · **2 feeds mein**
 
 Three FOMC Voters Back Additional Rate Hikes to Cool Inflation Yahoo! Finance Canada
+  - `25 Sep 01:53` *gnews_fed* — Three FOMC Voters Back Additional Rate Hikes to Cool Inflation - Yahoo Finance
+
+**Fed Official Sounds Warning on Housing as Affordability Hits 21-Year Low - Realtor.com**
+`25 Sep 01:46 PKT` · pehli baar dekhi `25 Sep 10:30` · gnews_fed
+
+Fed Official Sounds Warning on Housing as Affordability Hits 21-Year Low Realtor.com
 
 **Fed wants issuers to back stablecoins with assets, tailored process for banks mulling token issuance - TradingView**
 `25 Sep 01:40 PKT` · pehli baar dekhi `25 Sep 03:33` · gnews_fed
@@ -1321,9 +1332,10 @@ Germany's Ifo Business Climate Index edged up in September 2026, signaling a mod
 Germany's Current Assessment indicator inched up in September 2026, pointing to a modest improvement in sentiment toward the country's economic situation. The index rose to 89.5 in September from 88.5 in August 2026. While the increase is relatively small, the move suggests that economic actors are viewing current conditions somewhat more positively than in the previous month.
 
 **BofA sees ECB rate hike in December as energy prices fan inflation - Reuters**
-`24 Sep 15:11 PKT` · pehli baar dekhi `24 Sep 20:15` · gnews_centralbanks · **2 feeds mein**
+`24 Sep 15:11 PKT` · pehli baar dekhi `24 Sep 20:15` · gnews_centralbanks · **3 feeds mein**
 
 BofA sees ECB rate hike in December as energy prices fan inflation Reuters
+  - `24 Sep 15:10` *gnews_centralbanks* — BofA sees ECB rate hike in December as energy prices fan inflation - AOL.ca
   - `24 Sep 15:07` *gnews_centralbanks* — BofA sees ECB rate hike in December as energy prices fan inflation - tradingview.com
 
 **BofA sees ECB rate cuts resuming in second half of 2027 - Investing.com**
@@ -1549,6 +1561,11 @@ The Pound Sterling (GBP) drops for the fourth straight trading day versus the US
 `24 Sep 20:55 PKT` · pehli baar dekhi `25 Sep 03:33` · gnews_centralbanks
 
 Bank of England policymakers signal possible rate hike as energy-driven inflation risks build Traders Union
+
+**Bank of England rate setters warn of 'sparks in the tinderbox' By Reuters - Investing.com**
+`24 Sep 20:51 PKT` · pehli baar dekhi `25 Sep 10:30` · gnews_centralbanks
+
+Bank of England rate setters warn of 'sparks in the tinderbox' By Reuters Investing.com
 
 **Bank of England official signals support for rate increase - Investing.com**
 `24 Sep 20:45 PKT` · pehli baar dekhi `25 Sep 00:18` · gnews_centralbanks
@@ -2220,6 +2237,11 @@ Crude oil hovered near $94 per barrel on Thursday, pulling back from a rally tha
 
 Crude oil extended its rally above $96 per barrel on Thursday, as intensifying Middle East tensions deepened worries over regional energy supplies. Yemen's Houthi movement said it had struck Saudi military targets in Jazan, while Saudi authorities reported intercepting missiles fired toward the Red Sea port of Yanbu. The renewed attacks have prompted traders to closely scrutinize Saudi crude export flows.
 
+**Crude Prices Rally on Heightened Risks to Middle East Oil Supplies - TradingView**
+`25 Sep 00:16 PKT` · pehli baar dekhi `25 Sep 10:30` · gnews_geopolitics
+
+Crude Prices Rally on Heightened Risks to Middle East Oil Supplies TradingView
+
 **Iran's Pezeshkian wants a deal with the US before the midterm elections, NBC reports**
 `25 Sep 00:11 PKT` · pehli baar dekhi `25 Sep 00:18` · investinglive · **4 feeds mein**
 
@@ -2257,6 +2279,12 @@ Oil prices swing as Houthis claim strike on Saudi Arabia, US said to be negotiat
 `24 Sep 22:30 PKT` · pehli baar dekhi `25 Sep 00:18` · oilprice
 
 Vitol has bought at least 25 million barrels of Iraqi crude for September loading, making the world's largest independent oil trader Iraq's second-biggest buyer behind ADNOC as Baghdad pays steep discounts to keep barrels moving through the Strait of Hormuz. Iraq's SOMO offered September crude at discounts of $15 to $20.80 per barrel to its official selling prices, according to a tender document reviewed by Reuters. Trading sources said some cargoes sold at even larger discounts.
+
+**Oil prices settle up about 3% as Houthi attack on Saudi Arabia lifts supply fears - 95 KQDS**
+`24 Sep 22:25 PKT` · pehli baar dekhi `25 Sep 10:30` · gnews_geopolitics · **2 feeds mein**
+
+Oil prices settle up about 3% as Houthi attack on Saudi Arabia lifts supply fears 95 KQDS
+  - `24 Sep 06:17` *gnews_geopolitics* — Oil prices settle up about 3% as Houthi attack on Saudi Arabia lifts supply fears - reuters.com
 
 **Oil prices rise 2% as Houthi missiles add to supply fears**
 `24 Sep 22:25 PKT` · pehli baar dekhi `25 Sep 00:18` · investing_commodities · **2 feeds mein**
@@ -2319,6 +2347,11 @@ Phillips 66 Faces $900 Million Loss as Iran Crisis Lifts Oil Prices EnergyNow.co
 `24 Sep 20:39 PKT` · pehli baar dekhi `25 Sep 00:18` · gnews_geopolitics
 
 Oil Prices Jump 6% as Iran Sets UAE Oil Port Ablaze, Strikes Vessels in Strait of Hormuz EnergyNow.com
+
+**Crude Prices Surge as Risks to Middle East Crude Supplies Intensify - inkl**
+`24 Sep 20:36 PKT` · pehli baar dekhi `25 Sep 10:30` · gnews_geopolitics
+
+Crude Prices Surge as Risks to Middle East Crude Supplies Intensify inkl
 
 **Russia Begins Oil Exports From Its Giant Vostok Arctic Project**
 `24 Sep 20:35 PKT` · pehli baar dekhi `25 Sep 00:18` · oilprice
@@ -2384,6 +2417,11 @@ Plus: Diesel export-ban drama, a fight over power poles in Texas and El Niño br
 `24 Sep 18:32 PKT` · pehli baar dekhi `24 Sep 20:15` · ing_think
 
 CZECH REPUBLIC: We read the confidence indicators as pointing to a rather mediocre economic expansion in the coming quarters, with the Hormuz conflict and high energy prices taking their toll. Meanwhile, inflation is set to rise at the turn of the year, eating into real wage gains and potentially household spending, too
+
+**Tajikistan Receives First Oil Shipments From Iran - Caspian Post**
+`24 Sep 18:18 PKT` · pehli baar dekhi `25 Sep 10:30` · gnews_geopolitics
+
+Tajikistan Receives First Oil Shipments From Iran Caspian Post
 
 **Dollar Surges as Fed Hike Bets, Oil Chokepoint Risk and China Trade Uncertainty Converge**
 `24 Sep 18:10 PKT` · pehli baar dekhi `24 Sep 20:15` · actionforex
@@ -2663,11 +2701,6 @@ West Texas Intermediate (WTI) oil price depreciates after registering modest gai
 
 Oil market dips as Iran signals diplomacy, diesel curbs add supply risk Traders Union
 
-**Oil prices settle up about 3% as Houthi attack on Saudi Arabia lifts supply fears - reuters.com**
-`24 Sep 06:17 PKT` · pehli baar dekhi `25 Sep 03:33` · gnews_geopolitics
-
-Oil prices settle up about 3% as Houthi attack on Saudi Arabia lifts supply fears reuters.com
-
 **Brent Crude Holds Above $100 As Iran-US Tensions Keep Supply Risks In Focus - NDTV Profit**
 `24 Sep 06:00 PKT` · pehli baar dekhi `24 Sep 10:20` · gnews_geopolitics
 
@@ -2796,9 +2829,10 @@ Fed Unveils More Stablecoin Plans As Regulators Embrace Crypto Bloomberg.com
 US Federal Reserve proposes new stablecoin rules The Lufkin Daily News
 
 **US Federal Reserve proposes new stablecoin rules - kitco.com**
-`24 Sep 22:26 PKT` · pehli baar dekhi `25 Sep 03:33` · kitco_general · **3 feeds mein**
+`24 Sep 22:26 PKT` · pehli baar dekhi `25 Sep 03:33` · kitco_general · **4 feeds mein**
 
 US Federal Reserve proposes new stablecoin rules kitco.com
+  - `25 Sep 01:31` *gnews_fed* — US Federal Reserve proposes new stablecoin rules - Reuters
   - `24 Sep 23:46` *gnews_fed* — US Federal Reserve proposes new stablecoin rules - marketscreener.com
   - `24 Sep 23:45` *gnews_fed* — US Federal Reserve proposes new stablecoin rules - TradingView
 
@@ -3055,6 +3089,11 @@ Ukraine&#039;s President Zelenskyy denounces &#039;horrific crime&#039; after 31
 `24 Sep 22:03 PKT` · pehli baar dekhi `25 Sep 00:18` · aljazeera
 
 Rising bread, sugar and meat prices strain Sudanese households already grappling with war and economic instability.
+
+**Despite Iran war, Gulf nations finding ways for oil supply - BizzBuzz**
+`24 Sep 22:02 PKT` · pehli baar dekhi `25 Sep 10:30` · gnews_geopolitics
+
+Despite Iran war, Gulf nations finding ways for oil supply BizzBuzz
 
 **Iran Warns U.S. Strikes Could Push War Into Indian Ocean**
 `24 Sep 22:00 PKT` · pehli baar dekhi `25 Sep 00:18` · oilprice
@@ -3336,11 +3375,12 @@ High bids to use the waterway follow shipping disruptions from the Iran war and 
 
 Crude oil climbed above $92.50 a barrel on Wednesday, snapping a five-session losing streak, as uncertainty lingered over the trajectory of US–Iran negotiations. At the UN General Assembly, Iranian President Masoud Pezeshkian said Tehran remained open to diplomacy but would not negotiate "under pressure." Meanwhile, Iran's military warned it was prepared to launch "more crushing" strikes in response to US President Donald Trump's earlier UN address, in which he threatened to "annihilate" Iran.
 
-### BINA TAG (297)
+### BINA TAG (301)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
 - `25 Sep 02:56` **aljazeera** — DR Congo and Ivory Coast top Africa Cup of Nations qualifying opening wins
+- `25 Sep 02:52` **kitco_general** — Videos - Kitco
 - `25 Sep 02:51` **fxstreet_news** — Indonesian Rupiah: BI prioritizes IDR stability – Commerzbank
 - `25 Sep 02:51` **wsj_world** — Opinion | Mr. Xi Makes His Taiwan 'Independence' Move
 - `25 Sep 02:47` **aljazeera** — Croatian court approves extradition in Nord Stream bombing case
@@ -3349,6 +3389,7 @@ Crude oil climbed above $92.50 a barrel on Wednesday, snapping a five-session lo
 - `25 Sep 02:08` **aljazeera** — Dutch PM's contrasting stance on ICC-wanted Putin, Netanyahu
 - `25 Sep 02:08` **fxstreet_news** — Banxico: Flexible stance with upside risks – Rabobank
 - `25 Sep 02:07` **aljazeera** — Portugal beat Wales 1-0 with Felix goal as Nations League defence begins
+- `25 Sep 02:05` **kitco_general** — Videos - Kitco
 - `25 Sep 01:58` **wsj_world** — Opinion | AI and the Growing Threat to Taiwan
 - `25 Sep 01:54` **aljazeera** — Netanyahu blames 'juvenile delinquents' for violence in occupied West Bank
 - `25 Sep 01:50` **mw_topstories** — Here's how to position your portfolio for the next AI wave, according to Morgan Stanley
@@ -3377,6 +3418,7 @@ Crude oil climbed above $92.50 a barrel on Wednesday, snapping a five-session lo
 - `25 Sep 00:11` **investing_news** — Clinch Resources at Small-Cap Virtual Conference: fast ramp, big coal bet
 - `25 Sep 00:10` **investing_news** — Oportun at Sidoti conference: turnaround gains, cautious growth ahead
 - `25 Sep 00:08` **gnews_fed** — Why the bond market is freaking out, and what it means for your money - CBS News
+- `25 Sep 00:08` **gnews_fed** — Fact Check Team: What higher interest rates mean for mortgages, borrowers and savers - KUTV
 - `25 Sep 00:06` **mw_topstories** — The case against buying and holding stocks for the long term
 - `25 Sep 00:04` **investing_news** — Zhibao Technology signs MOU with DeSyn Protocol for BTCfi products
 - `25 Sep 00:04` **investing_news** — Parke Bancorp appoints Michael Regina to board of directors
@@ -3384,6 +3426,7 @@ Crude oil climbed above $92.50 a barrel on Wednesday, snapping a five-session lo
 - `25 Sep 00:01` **fxstreet_news** — Banxico unanimously holds benchmark rate at 6.50%
 - `25 Sep 00:01` **gnews_fed** — Fact Check Team: What higher interest rates mean for mortgages, borrowers and savers - KTUL
 - `25 Sep 00:01` **gnews_fed** — Fact Check Team: What higher interest rates mean for mortgages, borrowers and savers - wach.com
+- `25 Sep 00:01` **gnews_fed** — Fact Check Team: What higher interest rates mean for mortgages, borrowers and savers - KCBY
 - `25 Sep 00:01` **gnews_fed** — Fact Check Team: What higher interest rates mean for mortgages, borrowers and savers - KCBY
 - `25 Sep 00:01` **gnews_fed** — Fact Check Team: What higher interest rates mean for mortgages, borrowers and savers - WLOS
 - `25 Sep 00:01` **gnews_fed** — Fact Check Team: What higher interest rates mean for mortgages, borrowers and savers - WBFF
@@ -3654,42 +3697,42 @@ investing_news (6)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 7 | 23 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 2 | 0 | 2 | 28 | 0.3 |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
-| marketpulse | OK | 1 | 0 | 0 | 0 | 1 | 2.6 |
-| instaforex | OK | 25 | 25 | 7 | 18 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 6 | 0 | 6 | 30 | 0.4 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.1 |
-| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 14.3 |
-| kitco_general | OK | 44 | 43 | 0 | 43 | 1 | 0.1 |
-| gnews_fed | OK | 100 | 100 | 13 | 87 | 0 | 0.0 |
-| gnews_geopolitics | OK | 85 | 85 | 8 | 77 | 0 | 0.1 |
-| gnews_centralbanks | OK | 79 | 79 | 2 | 77 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 8.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.5 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.4 |
-| boj_whatsnew | OK | 44 | 2 | 1 | 1 | 42 | 0.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.0 |
-| mining_com | OK | 36 | 7 | 0 | 7 | 29 | 0.4 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| ing_think | OK | 10 | 7 | 1 | 6 | 3 | 0.3 |
-| bbc_business | OK | 49 | 18 | 3 | 15 | 31 | 0.1 |
-| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
-| snb_press | OK | 20 | 4 | 0 | 4 | 16 | -0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 14.6 |
-| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.4 |
-| bea_releases | OK | 48 | 1 | 0 | 1 | 47 | 0.5 |
-| wsj_world | OK | 71 | 25 | 0 | 25 | 46 | 0.1 |
-| wsj_markets | OK | 61 | 25 | 4 | 21 | 36 | 0.0 |
+| investinglive | OK | 25 | 25 | 12 | 13 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 16 | 14 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 3 | 1 | 2 | 27 | 0.1 |
+| actionforex | OK | 20 | 20 | 6 | 14 | 0 | 0.0 |
+| marketpulse | OK | 1 | 0 | 0 | 0 | 1 | 2.8 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 6 | 0 | 6 | 30 | 0.6 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
+| cme_risk_management | OK | 20 | 0 | 0 | 0 | 20 | 14.5 |
+| kitco_general | OK | 43 | 42 | 3 | 39 | 1 | 0.3 |
+| gnews_fed | OK | 100 | 100 | 18 | 82 | 0 | 0.1 |
+| gnews_geopolitics | OK | 95 | 95 | 18 | 77 | 0 | 0.1 |
+| gnews_centralbanks | OK | 80 | 80 | 7 | 73 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 8.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.7 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.6 |
+| boj_whatsnew | OK | 45 | 6 | 4 | 2 | 39 | 0.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.2 |
+| mining_com | OK | 36 | 7 | 0 | 7 | 29 | 0.6 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
+| ing_think | OK | 10 | 8 | 1 | 7 | 2 | 0.1 |
+| bbc_business | OK | 50 | 19 | 1 | 18 | 31 | 0.0 |
+| aljazeera | OK | 25 | 25 | 17 | 8 | 0 | 0.0 |
+| snb_press | OK | 20 | 4 | 0 | 4 | 16 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 14.8 |
+| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.6 |
+| bea_releases | OK | 48 | 1 | 0 | 1 | 47 | 0.7 |
+| wsj_world | OK | 72 | 29 | 4 | 25 | 43 | 0.0 |
+| wsj_markets | OK | 61 | 29 | 5 | 24 | 32 | 0.0 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | WARN | 49 | 0 | 0 | 0 | 49 | 1.8 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 24 | 2 | 22 | 6 | 0.0 |
+| yahoo_finance | WARN | 49 | 0 | 0 | 0 | 49 | 2.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 27 | 3 | 24 | 3 | 0.0 |
