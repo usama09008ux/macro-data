@@ -1,6 +1,6 @@
 # Calendar — Trading Day 25 Sep 2026
 
-- Banaya gaya: **25 Sep 2026 21:12 PKT**
+- Banaya gaya: **26 Sep 2026 01:11 PKT**
 - Trading day: **25 Sep 03:00 -> 26 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,8 +12,7 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 23:00 | USD | low | FOMC Member Hammack Speaks | - | - |
-| **26 Sep** 19:00 | NZD | chhutti | Daylight Saving Time Shift | - | - |
+| 19:00 | NZD | chhutti | Daylight Saving Time Shift | - | - |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
