@@ -681,6 +681,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/468-ch-bank-holiday]]></url>
 	</event>
 	<event>
+		<title>President Trump Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[09-24-2026]]></date>
+		<time><![CDATA[11:55pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/645-us-president-trump-speaks]]></url>
+	</event>
+	<event>
 		<title>BOJ Core CPI y/y</title>
 		<country>JPY</country>
 		<date><![CDATA[09-25-2026]]></date>
