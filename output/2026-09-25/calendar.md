@@ -1,6 +1,6 @@
 # Calendar — Trading Day 25 Sep 2026
 
-- Banaya gaya: **25 Sep 2026 15:23 PKT**
+- Banaya gaya: **25 Sep 2026 21:12 PKT**
 - Trading day: **25 Sep 03:00 -> 26 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,12 +12,8 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 17:30 | USD | low | Core Durable Goods Orders m/m | 0.6% | 0.4% |
-| 17:30 | USD | low | Durable Goods Orders m/m | -0.3% | 1.1% |
-| 18:20 | USD | low | FOMC Member Schmid Speaks | - | - |
-| 19:00 | USD | MED | Revised UoM Consumer Sentiment | 47.4 | 47.8 |
-| 19:00 | USD | MED | Revised UoM Inflation Expectations | - | 4.6% |
 | 23:00 | USD | low | FOMC Member Hammack Speaks | - | - |
+| **26 Sep** 19:00 | NZD | chhutti | Daylight Saving Time Shift | - | - |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
@@ -33,5 +29,10 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 25 Sep 19:00 | September final UMich consumer sentiment | 48.1 | 47.6 | +0.50 (+1%) | upar |
+| 25 Sep 17:30 | US August durable goods orders | 0.0% | -0.4% | +0.40pp (+100%) | upar |
 

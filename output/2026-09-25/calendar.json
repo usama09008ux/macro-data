@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "25 Sep 2026 15:23",
+  "generated_pkt": "25 Sep 2026 21:12",
   "trading_day": "2026-09-25",
   "feed_sources": {
     "thisweek": "live"
@@ -1072,5 +1072,35 @@
       "trading_day": "2026-09-26"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "September final UMich consumer sentiment 48.1 vs 47.6 expected",
+      "actual_raw": "48.1",
+      "forecast_raw": "47.6",
+      "beat": true,
+      "raw_diff": "+0.50",
+      "sign_flip": false,
+      "diff_pct": 1.1,
+      "when_pkt": "25 Sep 19:00",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US August durable goods orders 0.0% vs -0.4% expected",
+      "actual_raw": "0.0%",
+      "forecast_raw": "-0.4%",
+      "beat": true,
+      "raw_diff": "+0.40pp",
+      "sign_flip": false,
+      "diff_pct": 100.0,
+      "when_pkt": "25 Sep 17:30",
+      "source": "investinglive",
+      "tags": [
+        "usd",
+        "rates"
+      ]
+    }
+  ]
 }
