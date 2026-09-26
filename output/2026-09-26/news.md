@@ -1,9 +1,9 @@
 # News Pack — Trading Day 26 Sep 2026
 
 - Trading day: **26 Sep 03:00 -> 27 Sep 02:59 PKT**
-- Aakhri update: **26 Sep 03:45 PKT**
-- Kul khabrein: **37**
-- Feeds: 36/39 OK
+- Aakhri update: **26 Sep 05:57 PKT**
+- Kul khabrein: **61**
+- Feeds: 35/39 OK
 
 ---
 
@@ -50,6 +50,13 @@ The Brazilian real edged up to 5.12 per US dollar in September after stronger-th
 
 US stock indices finished higher on Friday as a pullback in oil prices helped halt the recent surge in Treasury yields. The S&P 500 advanced 0.5%, the Dow Jones Industrial Average gained 479 points, and the Nasdaq Composite added 0.4%. Oil prices retreated after reports that the United States and Iran had moved closer to an agreement to lift naval blockades on tankers in the Persian Gulf and to ease certain economic measures against Tehran.
 
+### EUR
+
+**Pope Leo XIV warns AI could undermine humanity during France visit**
+`26 Sep 04:21 PKT` · pehli baar dekhi `26 Sep 05:57` · aljazeera
+
+Thousands gather in Paris as the pope warns against a &#039;paradise of machines&#039; at the Elysee Palace.
+
 ### JPY
 
 **Speculative Bets on Yen Retreat as CFTC Net Positions Drop to 72K**
@@ -92,6 +99,11 @@ Speculative sentiment toward the New Zealand dollar has turned sharply negative,
 
 ### OIL
 
+**Fitch Lifts 2027 Brent Forecast to $70, Raises TTF Gas Assumptions - News and Statistics - indexbox.io**
+`26 Sep 05:20 PKT` · pehli baar dekhi `26 Sep 05:57` · gnews_geopolitics
+
+Fitch Lifts 2027 Brent Forecast to $70, Raises TTF Gas Assumptions - News and Statistics indexbox.io
+
 **Ibovespa Falls as Energy Stocks Weigh**
 `26 Sep 03:45 PKT` · instaforex
 
@@ -102,6 +114,16 @@ The Ibovespa slipped 0.3% to close at 184,477 on Friday, pressured mainly by dec
 
 Speculative positioning in U.S. crude oil futures turned more bullish in the latest reporting period, with net long positions climbing to 141.1K contracts, up from 135.9K previously. The data, published on 25 September 2026, comes from the U.S. Commodity Futures Trading Commission's (CFTC) report on crude oil speculative net positions. The increase in net longs indicates that hedge funds and other money managers have modestly expanded their expectations for higher oil prices.
 
+**Iran to reopen Strait of Hormuz within a week if US agrees to plan**
+`26 Sep 03:33 PKT` · pehli baar dekhi `26 Sep 05:57` · aljazeera
+
+Iran says it has given the US a seven-day plan to reopen the Strait of Hormuz, with the choice to accept now up to them
+
+**Oil Market Clock is Ticking as Supply Crunch Looms: Bousso - EnergyNow**
+`26 Sep 03:32 PKT` · pehli baar dekhi `26 Sep 05:57` · gnews_geopolitics
+
+Oil Market Clock is Ticking as Supply Crunch Looms: Bousso EnergyNow
+
 **Nigeria Joins IEA As Crude Output Hits Six-Year High**
 `26 Sep 03:00 PKT` · pehli baar dekhi `26 Sep 03:45` · oilprice
 
@@ -109,13 +131,53 @@ Nigeria has ambitious energy plans for the coming decades, including expanding i
 
 ### CRYPTO
 
+**FINANCIAL TECHNOLOGY—Fed seeks comment on GENIUS Act framework for stablecoin issuers it supervises - VitalLaw.com**
+`26 Sep 03:45 PKT` · pehli baar dekhi `26 Sep 05:57` · gnews_fed
+
+FINANCIAL TECHNOLOGY—Fed seeks comment on GENIUS Act framework for stablecoin issuers it supervises VitalLaw.com
+
 **Stablecoin firm Circle finance chief Fox-Geen to step down**
 `26 Sep 03:13 PKT` · pehli baar dekhi `26 Sep 03:45` · investing_news
 
-### BINA TAG (15)
+### RISK
+
+**Trump Rejects Iran Ceasefire, Expects Renewed Bombing After Midterms**
+`26 Sep 05:26 PKT` · pehli baar dekhi `26 Sep 05:57` · wsj_world
+
+The president is skeptical that Tehran will meet his demands.
+
+**Iran war live: Tehran offers US plan to reopen Hormuz within seven days**
+`26 Sep 05:00 PKT` · pehli baar dekhi `26 Sep 05:57` · aljazeera
+
+Iran&#039;s FM says the "choice rests with the US" to approve the proposed seven-day proposal to reopen Hormuz.
+
+**Oil prices slide about 2% as US, Iran explore path out of war - The Business Times**
+`26 Sep 04:55 PKT` · pehli baar dekhi `26 Sep 05:57` · gnews_geopolitics
+
+Oil prices slide about 2% as US, Iran explore path out of war The Business Times
+
+**Iran says it awaits US response on seven-day roadmap to end war**
+`26 Sep 04:52 PKT` · pehli baar dekhi `26 Sep 05:57` · aljazeera
+
+Tehran says the plan would reopen the Strait of Hormuz and resume nuclear talks within a week if Washington agrees.
+
+**Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA - EnergyNow**
+`26 Sep 03:47 PKT` · pehli baar dekhi `26 Sep 05:57` · gnews_geopolitics
+
+Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA EnergyNow
+
+### BINA TAG (24)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `26 Sep 05:43` **investing_news** — Morgan Stanley public finance co-head Zach Solomon leaves for TD - Bloomberg
+- `26 Sep 05:42` **investing_news** — Exclusive-SK Hynix's Solidigm weighs IPO that could value the unit at up to $150 billion, sources say
+- `26 Sep 05:38` **aljazeera** — Pro-Imran Khan rally delayed amid government closures
+- `26 Sep 05:36` **investing_news** — TikTok reaches first state settlement over teen safety claims, agrees to user limits
+- `26 Sep 05:30` **investing_news** — TV networks resume covering White House as press access fight continues
+- `26 Sep 05:00` **actionforex** — Summary 9/28 – 10/2
+- `26 Sep 04:56` **aljazeera** — US court rules against Kalshi, says states can regulate prediction markets
+- `26 Sep 04:00` **wsj_world** — The Mystery Man Shadowing Kimberly Guilfoyle as She Pushes Deals Across Europe
 - `26 Sep 03:45` **instaforex** — Speculative Bets on Brazilian Real Edge Lower, CFTC Data Show
 - `26 Sep 03:45` **instaforex** — Speculative Bets on Mexican Peso Ease as CFTC Net Long Positions Fall to 75.2K
 - `26 Sep 03:45` **instaforex** — Speculators Flip to Net Short in U.S. Wheat as CFTC Positions Swing Negative
@@ -126,6 +188,7 @@ Nigeria has ambitious energy plans for the coming decades, including expanding i
 - `26 Sep 03:45` **instaforex** — Corn Speculators Trim Long Positions as Net Bets Ease to 535.8K – CFTC
 - `26 Sep 03:45` **instaforex** — Copper Bulls Step Up: U.S. CFTC Net Long Positions Jump to 90.5K
 - `26 Sep 03:45` **instaforex** — Speculators Deepen Net Short in U.S. Aluminium Futures as CFTC Data Shows Position Shift
+- `26 Sep 03:16` **aljazeera** — DR Congo's Ebola outbreak spreads to two new health zones, WHO says
 - `26 Sep 03:13` **investing_commodities** — Venezuela's promised elections face long delays, sources say
 - `26 Sep 03:12` **investing_news** — FTC chair suggests AI developers should be liable for conduct of agents
 - `26 Sep 03:08` **investing_news** — Kodiak Sciences to report phase 3 trial results Monday
@@ -134,11 +197,11 @@ Nigeria has ambitious energy plans for the coming decades, including expanding i
 
 ---
 
-## Shor — 5 khabrein hatai gayin
+## Shor — 10 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (5)
+investing_news (10)
 
 ---
 
@@ -148,42 +211,45 @@ investing_news (5)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.1 |
-| fxstreet_news | OK | 30 | 30 | 5 | 25 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 8 | 0 | 8 | 22 | 0.2 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 3.5 |
-| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.1 |
-| wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.3 |
-| cme_metals_video | OK | 10 | 2 | 2 | 0 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.1 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 15.2 |
-| kitco_general | OK | 34 | 34 | 8 | 26 | 0 | 0.1 |
-| gnews_fed | OK | 100 | 100 | 27 | 73 | 0 | 0.0 |
-| gnews_geopolitics | OK | 84 | 84 | 21 | 63 | 0 | 0.1 |
-| gnews_centralbanks | OK | 38 | 38 | 5 | 33 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 9.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.7 |
-| boj_whatsnew | OK | 46 | 7 | 0 | 7 | 39 | 0.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.9 |
-| mining_com | OK | 36 | 9 | 3 | 6 | 27 | 0.0 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
-| bbc_business | OK | 51 | 19 | 2 | 17 | 32 | 0.0 |
-| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
+| fxstreet_news | OK | 30 | 30 | 0 | 30 | 0 | 0.1 |
+| fxstreet_analysis | OK | 30 | 8 | 0 | 8 | 22 | 0.3 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
+| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 3.6 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.1 |
+| wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.4 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 15.3 |
+| kitco_general | OK | 34 | 34 | 1 | 33 | 0 | 0.1 |
+| gnews_fed | OK | 100 | 100 | 5 | 95 | 0 | 0.1 |
+| gnews_geopolitics | OK | 79 | 79 | 7 | 72 | 0 | 0.0 |
+| gnews_centralbanks | OK | 35 | 35 | 0 | 35 | 0 | 0.2 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 9.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.8 |
+| boj_whatsnew | OK | 46 | 7 | 0 | 7 | 39 | 0.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.0 |
+| mining_com | OK | 36 | 9 | 0 | 9 | 27 | 0.1 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| bbc_business | OK | 51 | 19 | 0 | 19 | 32 | 0.1 |
+| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
 | snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 15.5 |
-| eia_energy | OK | 19 | 1 | 0 | 1 | 18 | 0.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 1.4 |
-| wsj_world | OK | 71 | 23 | 5 | 18 | 48 | 0.0 |
-| wsj_markets | OK | 61 | 27 | 3 | 24 | 34 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 15.6 |
+| eia_energy | OK | 19 | 1 | 0 | 1 | 18 | 0.5 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 1.5 |
+| wsj_world | OK | 71 | 25 | 2 | 23 | 46 | 0.0 |
+| wsj_markets | OK | 61 | 27 | 0 | 27 | 34 | 0.1 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | WARN | 49 | 0 | 0 | 0 | 49 | 2.7 |
-| mw_topstories | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 22 | 3 | 19 | 8 | 0.1 |
+| yahoo_finance | WARN | 49 | 0 | 0 | 0 | 49 | 2.8 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 22 | 0 | 22 | 8 | 0.2 |
+
+**Jo feeds nahi aaye:**
+- ing_think — FAIL, ConnectTimeout

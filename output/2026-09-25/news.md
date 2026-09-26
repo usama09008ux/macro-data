@@ -1,9 +1,9 @@
 # News Pack — Trading Day 25 Sep 2026
 
 - Trading day: **25 Sep 03:00 -> 26 Sep 02:59 PKT**
-- Aakhri update: **26 Sep 03:45 PKT**
-- Kul khabrein: **903**
-- Feeds: 36/39 OK
+- Aakhri update: **26 Sep 05:57 PKT**
+- Kul khabrein: **911**
+- Feeds: 35/39 OK
 
 ---
 
@@ -486,6 +486,11 @@ Fed's first rate hike since 2023 may boost priv... Pluang
 
 From steak to beans: Cleveland Fed chief warns inflation is pushing household budgets to the brink MSN
 
+**TAG: deficit-to-GDP ratio - Kitco**
+`26 Sep 02:01 PKT` · pehli baar dekhi `26 Sep 05:57` · kitco_general
+
+TAG: deficit-to-GDP ratio Kitco
+
 **Chinese Yuan: Consolidation with downside risk toward 6.7330 – UOB**
 `26 Sep 01:56 PKT` · pehli baar dekhi `26 Sep 03:45` · fxstreet_news
 
@@ -659,9 +664,10 @@ US Fed plans to raise bank oversight thresholds, sources say kitco.com
 Kansas City Fed President Schmid Calls for Assessing AI Systemic Risks — Channel NewsAsia UA.NEWS
 
 **Kansas City Fed's Schmid: Are we moving to a too-big-to-fail AI ecosystem? - TradingView**
-`25 Sep 19:58 PKT` · pehli baar dekhi `25 Sep 20:31` · gnews_fed
+`25 Sep 19:58 PKT` · pehli baar dekhi `25 Sep 20:31` · gnews_fed · **2 feeds mein**
 
 Kansas City Fed's Schmid: Are we moving to a too-big-to-fail AI ecosystem? TradingView
+  - `25 Sep 19:58` *gnews_fed* — Kansas City Fed's Schmid: Are we moving to a too-big-to-fail AI ecosystem? - TradingView
 
 **As the housing recession looms, the Fed Reserve is 'out to lunch' - Fox News**
 `25 Sep 19:34 PKT` · pehli baar dekhi `25 Sep 20:31` · gnews_fed
@@ -1499,9 +1505,10 @@ The Federal Reserve (Fed) and the Bank of Japan (BoJ) have just done something r
 Brown Brothers Harriman's (BBH) Elias Haddad highlights that political comments from US and Japanese leaders helped push USD/JPY back below its 200-day moving average.
 
 **Dollar falls as oil cools but set for weekly gain; yen rallies - kitco.com**
-`25 Sep 17:33 PKT` · pehli baar dekhi `25 Sep 20:31` · kitco_general
+`25 Sep 17:33 PKT` · pehli baar dekhi `25 Sep 20:31` · kitco_general · **2 feeds mein**
 
 Dollar falls as oil cools but set for weekly gain; yen rallies kitco.com
+  - `25 Sep 16:42` *gnews_fed* — FOREX-Dollar falls as oil cools but set for weekly gain; yen rallies - Devdiscourse
 
 **Dollar falls as oil cools but set for weekly gain; yen rallies - The Mighty 790 KFGO**
 `25 Sep 17:09 PKT` · pehli baar dekhi `25 Sep 20:31` · gnews_fed
@@ -2038,9 +2045,10 @@ The European Union is urging the UK to raise tariffs on China-made cars that wou
 Oil Prices Fall as US-Iran Truce Hopes Ease Supply Concerns The Diplomatic Insight
 
 **Oil prices set for mixed week as US-Iran diplomacy, Hormuz uncertainty reshape supply outlook - Anadolu Ajansı**
-`25 Sep 17:39 PKT` · pehli baar dekhi `25 Sep 20:31` · gnews_geopolitics
+`25 Sep 17:39 PKT` · pehli baar dekhi `25 Sep 20:31` · gnews_geopolitics · **2 feeds mein**
 
 Oil prices set for mixed week as US-Iran diplomacy, Hormuz uncertainty reshape supply outlook Anadolu Ajansı
+  - `25 Sep 17:39` *gnews_geopolitics* — Oil prices set for mixed week as US-Iran diplomacy, Hormuz uncertainty reshape supply outlook - Anadolu Ajansı
 
 **U.S. Stock Market Preview | Iran is willing to advance negotiations with the U.S., driving all three major futures higher while oil prices decline; semiconductor and optical communications stocks rose in pre-market trading, with ARM up nearly 5%; UBS Group: Th - 富途牛牛**
 `25 Sep 17:27 PKT` · pehli baar dekhi `26 Sep 03:45` · gnews_fed
@@ -2088,9 +2096,10 @@ The price of the US benchmark West Texas Intermediate (WTI) barrel has stabilise
 Tehran's offer comes as high fuel prices put pressure on Trump ahead of the US midterm elections.
 
 **Oil slides as US-Iran truce hopes outweigh Houthi attacks on Saudi Arabia - The Express Tribune**
-`25 Sep 15:18 PKT` · pehli baar dekhi `26 Sep 00:30` · gnews_geopolitics
+`25 Sep 15:18 PKT` · pehli baar dekhi `26 Sep 00:30` · gnews_geopolitics · **2 feeds mein**
 
 Oil slides as US-Iran truce hopes outweigh Houthi attacks on Saudi Arabia The Express Tribune
+  - `25 Sep 06:14` *gnews_geopolitics* — Oil slides as US-Iran truce hopes outweigh Houthi attacks on Saudi Arabia - StreetInsider
 
 **Crude oil falls on reports of potential phased US-Iran deal that would reopen the Strait of Hormuz**
 `25 Sep 15:14 PKT` · pehli baar dekhi `25 Sep 15:30` · investinglive
@@ -2469,6 +2478,11 @@ Bond yields and oil are dancing to the same tune, but in some ways that doesn't 
 
 OG.com, recently spun out of Crypto.com, joins Coinbase, Kalshi and Kraken parent Payward in seeking approval to bring perpetual futures to individual US stocks.
 
+**Fed Proposes Full Reserve Rules for US Stablecoin Issuers - KuCoin**
+`26 Sep 00:42 PKT` · pehli baar dekhi `26 Sep 05:57` · gnews_fed
+
+Fed Proposes Full Reserve Rules for US Stablecoin Issuers KuCoin
+
 **Federal Reserve Proposes Reserve and Capital Rules for Stablecoin Issuers Under the GENIUS Act - Crowdfund Insider**
 `26 Sep 00:38 PKT` · pehli baar dekhi `26 Sep 03:45` · gnews_fed
 
@@ -2504,6 +2518,12 @@ Strategy's proposal would move STRC and its three other preferred stocks to dail
 
 Fed proposes stablecoin rules Banking Dive
 
+**Stablecoin Regulation: Fed Asks Public for Feedback on New Rules - CryptoRank**
+`25 Sep 21:14 PKT` · pehli baar dekhi `26 Sep 05:57` · gnews_fed · **2 feeds mein**
+
+Stablecoin Regulation: Fed Asks Public for Feedback on New Rules CryptoRank
+  - `25 Sep 18:00` *gnews_fed* — Stablecoin Regulation: Fed Asks Public for Feedback on New Rules - The Coin Republic
+
 **Crypto Biz: Wall Street and crypto fight for the same turf**
 `25 Sep 20:49 PKT` · pehli baar dekhi `26 Sep 00:30` · cointelegraph
 
@@ -2529,11 +2549,6 @@ The IRS can now see your crypto gains, but has no idea about the cost-basis. Tha
 
 Solana advances as Federal Reserve proposes new stablecoin rules equiti.com
   - `25 Sep 11:33` *gnews_fed* — Solana advances as Federal Reserve proposes new stablecoin rules - equiti.com
-
-**Stablecoin Regulation: Fed Asks Public for Feedback on New Rules - The Coin Republic**
-`25 Sep 18:00 PKT` · pehli baar dekhi `25 Sep 20:31` · gnews_fed
-
-Stablecoin Regulation: Fed Asks Public for Feedback on New Rules The Coin Republic
 
 **U.S. Federal Reserve Has Proposed New Rules for Stablecoin Issuers Under GENIUS Act - Ukraine open for business**
 `25 Sep 17:48 PKT` · pehli baar dekhi `26 Sep 00:30` · gnews_fed
@@ -2837,6 +2852,11 @@ When the only nation whose self-defense is treated as a war crime is the Jewish 
 `25 Sep 21:57 PKT` · pehli baar dekhi `26 Sep 00:30` · aljazeera
 
 Lebanese Prime Minister Nawaf Salam wants a US-brokered ceasefire to be consolidated and for Israel to retreat.
+
+**Iran War Upends IEA's Oil Market Outlook as Global Supply and Demand to Contract in 2026 - EnergyNow**
+`25 Sep 21:00 PKT` · pehli baar dekhi `26 Sep 05:57` · gnews_geopolitics
+
+Iran War Upends IEA's Oil Market Outlook as Global Supply and Demand to Contract in 2026 EnergyNow
 
 **Week Ahead for FX, Bonds: U.S. Jobs Data in Focus as Another Fed Rate Hike Looks Possible**
 `25 Sep 20:46 PKT` · pehli baar dekhi `26 Sep 00:30` · wsj_economy
@@ -3351,42 +3371,45 @@ investing_news (14)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.1 |
-| fxstreet_news | OK | 30 | 30 | 5 | 25 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 8 | 0 | 8 | 22 | 0.2 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 3.5 |
-| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.1 |
-| wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.3 |
-| cme_metals_video | OK | 10 | 2 | 2 | 0 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.1 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 15.2 |
-| kitco_general | OK | 34 | 34 | 8 | 26 | 0 | 0.1 |
-| gnews_fed | OK | 100 | 100 | 27 | 73 | 0 | 0.0 |
-| gnews_geopolitics | OK | 84 | 84 | 21 | 63 | 0 | 0.1 |
-| gnews_centralbanks | OK | 38 | 38 | 5 | 33 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 9.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.7 |
-| boj_whatsnew | OK | 46 | 7 | 0 | 7 | 39 | 0.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.9 |
-| mining_com | OK | 36 | 9 | 3 | 6 | 27 | 0.0 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
-| bbc_business | OK | 51 | 19 | 2 | 17 | 32 | 0.0 |
-| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
+| fxstreet_news | OK | 30 | 30 | 0 | 30 | 0 | 0.1 |
+| fxstreet_analysis | OK | 30 | 8 | 0 | 8 | 22 | 0.3 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
+| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 3.6 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.1 |
+| wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.4 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 15.3 |
+| kitco_general | OK | 34 | 34 | 1 | 33 | 0 | 0.1 |
+| gnews_fed | OK | 100 | 100 | 5 | 95 | 0 | 0.1 |
+| gnews_geopolitics | OK | 79 | 79 | 7 | 72 | 0 | 0.0 |
+| gnews_centralbanks | OK | 35 | 35 | 0 | 35 | 0 | 0.2 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 9.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.8 |
+| boj_whatsnew | OK | 46 | 7 | 0 | 7 | 39 | 0.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.0 |
+| mining_com | OK | 36 | 9 | 0 | 9 | 27 | 0.1 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| bbc_business | OK | 51 | 19 | 0 | 19 | 32 | 0.1 |
+| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
 | snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 15.5 |
-| eia_energy | OK | 19 | 1 | 0 | 1 | 18 | 0.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 1.4 |
-| wsj_world | OK | 71 | 23 | 5 | 18 | 48 | 0.0 |
-| wsj_markets | OK | 61 | 27 | 3 | 24 | 34 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 15.6 |
+| eia_energy | OK | 19 | 1 | 0 | 1 | 18 | 0.5 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 1.5 |
+| wsj_world | OK | 71 | 25 | 2 | 23 | 46 | 0.0 |
+| wsj_markets | OK | 61 | 27 | 0 | 27 | 34 | 0.1 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | WARN | 49 | 0 | 0 | 0 | 49 | 2.7 |
-| mw_topstories | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 22 | 3 | 19 | 8 | 0.1 |
+| yahoo_finance | WARN | 49 | 0 | 0 | 0 | 49 | 2.8 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 22 | 0 | 22 | 8 | 0.2 |
+
+**Jo feeds nahi aaye:**
+- ing_think — FAIL, ConnectTimeout
