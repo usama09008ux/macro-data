@@ -1,8 +1,8 @@
 # News Pack — Trading Day 26 Sep 2026
 
 - Trading day: **26 Sep 03:00 -> 27 Sep 02:59 PKT**
-- Aakhri update: **26 Sep 16:17 PKT**
-- Kul khabrein: **182**
+- Aakhri update: **26 Sep 20:00 PKT**
+- Kul khabrein: **227**
 - Feeds: 37/39 OK
 
 ---
@@ -27,6 +27,9 @@ Canada's 10-year government bond yield eased to around 3.92% after briefly touch
 The S&P/TSX Composite Index rose 0.3% to close at 35,801 on Friday, trimming earlier losses as easing oil prices helped halt the recent surge in global bond yields. Crude and fuel prices retreated after reports that the US and Iran had made progress toward an agreement to lift naval blockades on tankers in the Persian Gulf and to relax certain economic sanctions on Tehran. Benchmark borrowing costs also pulled back after touching multi-year highs on Thursday.
 
 ### GOLD
+
+**Gold Fields approaches Northern Star over potential takeover, Bloomberg reports**
+`26 Sep 17:48 PKT` · pehli baar dekhi `26 Sep 20:00` · investing_news
 
 **Yuki Kurihara, Japan's 11-year-old e-sports prodigy, wins Asian Games gold**
 `26 Sep 12:33 PKT` · pehli baar dekhi `26 Sep 16:17` · aljazeera
@@ -55,8 +58,24 @@ Speculative investors reduced their net long exposure to gold futures in the Uni
 
 ### USD
 
+**Fed Chair Kevin Warsh Has an Inflation Conundrum, and Trumpflation Is Only Part of the Problem - The Motley Fool**
+`26 Sep 19:06 PKT` · pehli baar dekhi `26 Sep 20:00` · gnews_fed · **2 feeds mein**
+
+Fed Chair Kevin Warsh Has an Inflation Conundrum, and Trumpflation Is Only Part of the Problem The Motley Fool
+  - `26 Sep 18:29` *gnews_fed* — Fed Chair Kevin Warsh Has an Inflation Conundrum, and Trumpflation Is Only Part of the Problem - The Globe and Mail
+
+**6 Words From Kevin Warsh Changed the Question From "Will the Fed Hike Rates?" to "How High Can Rates Go?" - 24/7 Wall St.**
+`26 Sep 17:32 PKT` · pehli baar dekhi `26 Sep 20:00` · gnews_fed
+
+6 Words From Kevin Warsh Changed the Question From "Will the Fed Hike Rates?" to "How High Can Rates Go?" 24/7 Wall St.
+
 **Swiss National Bank's Schlegel watching hot weather impact on food price inflation**
 `26 Sep 15:06 PKT` · pehli baar dekhi `26 Sep 16:17` · investing_news
+
+**Bank alarm over global inflation 'tinderbox' as bond yields soar and rate rise fears deepen - MSN**
+`26 Sep 14:56 PKT` · pehli baar dekhi `26 Sep 20:00` · gnews_centralbanks
+
+Bank alarm over global inflation 'tinderbox' as bond yields soar and rate rise fears deepen MSN
 
 **What is driving Singapore inflation?**
 `26 Sep 14:14 PKT` · pehli baar dekhi `26 Sep 16:17` · investing_news
@@ -102,6 +121,11 @@ The Brazilian real edged up to 5.12 per US dollar in September after stronger-th
 US stock indices finished higher on Friday as a pullback in oil prices helped halt the recent surge in Treasury yields. The S&P 500 advanced 0.5%, the Dow Jones Industrial Average gained 479 points, and the Nasdaq Composite added 0.4%. Oil prices retreated after reports that the United States and Iran had moved closer to an agreement to lift naval blockades on tankers in the Persian Gulf and to ease certain economic measures against Tehran.
 
 ### EUR
+
+**Olympics: Germany picks Munich for Summer Games bid**
+`26 Sep 19:37 PKT` · pehli baar dekhi `26 Sep 20:00` · aljazeera
+
+Since the last time the Summer Games were on German soil in 1972, Germany has launched seven unsuccessful bids to host.
 
 **England vs Spain: UEFA Nations League – Predictions, teams, head-to-head**
 `26 Sep 14:51 PKT` · pehli baar dekhi `26 Sep 16:17` · aljazeera
@@ -227,10 +251,31 @@ Speculative sentiment toward the New Zealand dollar has turned sharply negative,
 
 ### OIL
 
-**Iran president says supreme leader backs new plan to reopen Hormuz - The New Indian Express**
-`26 Sep 15:38 PKT` · pehli baar dekhi `26 Sep 16:17` · gnews_geopolitics
+**North Carolina Regulators Reject Duke Energy Gas Power Plant**
+`26 Sep 20:00 PKT` · oilprice
 
-Iran president says supreme leader backs new plan to reopen Hormuz The New Indian Express
+Natural gas output in the United States is expected to reach record highs in 2026 and 2027, as the country ramps up production and seeks to fill the gap created by restrictions on energy trade through the Strait of Hormuz. However, as the U.S. doubles down on its gas ambitions, a judge has ruled that a North Carolina gas power plant should not proceed. Both the supply and demand of U.S. natural gas are expected to rise to record highs this year and next, according to the U.S.
+
+**Trump rejects Iran's seven-day roadmap to reopen Strait of Hormuz**
+`26 Sep 19:46 PKT` · pehli baar dekhi `26 Sep 20:00` · aljazeera
+
+Tehran submitted a proposal via Qatar to reopen the strait and resume nuclear talks within a week if Washington agreed.
+
+**IRAN'S SEVEN DAY PLAN: Iran's Araqchi Says Now Up to U.S. to Accept 7-Day Plan to Open Strait of Hormuz - With Implications for Canadian Oil - EnergyNow**
+`26 Sep 17:43 PKT` · pehli baar dekhi `26 Sep 20:00` · gnews_geopolitics
+
+IRAN'S SEVEN DAY PLAN: Iran's Araqchi Says Now Up to U.S. to Accept 7-Day Plan to Open Strait of Hormuz - With Implications for Canadian Oil EnergyNow
+
+**Oil Prices Decline 2% Amid US-Iran Conflict Resolution Efforts and Ongoing Saudi Supply Concerns - Observer Voice**
+`26 Sep 17:32 PKT` · pehli baar dekhi `26 Sep 20:00` · gnews_geopolitics
+
+Oil Prices Decline 2% Amid US-Iran Conflict Resolution Efforts and Ongoing Saudi Supply Concerns Observer Voice
+
+**Iran president says supreme leader backs new plan to reopen Hormuz - The Economic Times**
+`26 Sep 15:42 PKT` · pehli baar dekhi `26 Sep 20:00` · gnews_geopolitics · **2 feeds mein**
+
+Iran president says supreme leader backs new plan to reopen Hormuz The Economic Times
+  - `26 Sep 15:38` *gnews_geopolitics* — Iran president says supreme leader backs new plan to reopen Hormuz - The New Indian Express
 
 **Crude Oil Prices Drop 2% on Truce Hopes, Possible US Diesel Export Ban - Business Post Nigeria**
 `26 Sep 15:38 PKT` · pehli baar dekhi `26 Sep 16:17` · gnews_geopolitics
@@ -273,6 +318,11 @@ Crude oil price dips as traders weigh US-Iran Hormuz talks, supply risks Busines
 
 Oil falls more than 2% amid US and Iran talks NewsBytes
 
+**US-Iran Talks on Reopening Strait of Hormuz Send Oil Prices Tumbling Over 2% - finance.biggo.com**
+`26 Sep 05:35 PKT` · pehli baar dekhi `26 Sep 20:00` · gnews_geopolitics
+
+US-Iran Talks on Reopening Strait of Hormuz Send Oil Prices Tumbling Over 2% finance.biggo.com
+
 **Fitch Lifts 2027 Brent Forecast to $70, Raises TTF Gas Assumptions - News and Statistics - indexbox.io**
 `26 Sep 05:20 PKT` · pehli baar dekhi `26 Sep 05:57` · gnews_geopolitics
 
@@ -313,6 +363,16 @@ Iran says it has given the US a seven-day plan to reopen the Strait of Hormuz, w
 
 Oil Market Clock is Ticking as Supply Crunch Looms: Bousso EnergyNow
 
+**Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say - EnergyNow**
+`26 Sep 03:23 PKT` · pehli baar dekhi `26 Sep 20:00` · gnews_geopolitics
+
+Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say EnergyNow
+
+**DAX, Crude oil forecast: Rising energy prices, yields threaten risk assets - FOREX.com**
+`26 Sep 03:20 PKT` · pehli baar dekhi `26 Sep 20:00` · gnews_centralbanks
+
+DAX, Crude oil forecast: Rising energy prices, yields threaten risk assets FOREX.com
+
 **Hormuz Reopening to Release Wave of Oil Supply, Depress Prices - energynow.ca**
 `26 Sep 03:08 PKT` · pehli baar dekhi `26 Sep 16:17` · gnews_geopolitics
 
@@ -334,6 +394,16 @@ US Allows 30-Day Sale of Iran Oil at Sea in Bid to Tame Prices energynow.ca
 Nigeria has ambitious energy plans for the coming decades, including expanding its oil industry and accelerating the development of its renewable energy sector. In recent years, Nigeria has begun to solidify its position as a major energy power in Africa. This led the International Energy Agency (IEA) Governing Board to decide in June to welcome Nigeria as an Association country. Nigeria joins South Africa, Kenya, and Senegal as an IEA Association country in sub-Saharan Africa.
 
 ### CRYPTO
+
+**Federal Reserve seeks comment on stablecoin issuer rules under GENIUS Act - Traders Union**
+`26 Sep 17:07 PKT` · pehli baar dekhi `26 Sep 20:00` · gnews_fed
+
+Federal Reserve seeks comment on stablecoin issuer rules under GENIUS Act Traders Union
+
+**Fed requests comment on two proposals for stablecoin issuers under GENIUS Act - TradingView**
+`26 Sep 16:59 PKT` · pehli baar dekhi `26 Sep 20:00` · gnews_fed
+
+Fed requests comment on two proposals for stablecoin issuers under GENIUS Act TradingView
 
 **SEC Commissioner Hester Peirce to leave post on Oct. 2**
 `26 Sep 14:02 PKT` · pehli baar dekhi `26 Sep 16:17` · cointelegraph
@@ -359,9 +429,10 @@ Fed proposes full reserves for stablecoin issuers IDNFinancials
 `26 Sep 10:04 PKT` · pehli baar dekhi `26 Sep 11:02` · investing_news
 
 **Fed Moves to Tighten Stablecoin Rules With Two New GENIUS Act Proposals - CryptoRank**
-`26 Sep 09:18 PKT` · pehli baar dekhi `26 Sep 11:02` · gnews_fed
+`26 Sep 09:18 PKT` · pehli baar dekhi `26 Sep 11:02` · gnews_fed · **2 feeds mein**
 
 Fed Moves to Tighten Stablecoin Rules With Two New GENIUS Act Proposals CryptoRank
+  - `26 Sep 08:55` *gnews_fed* — Fed Moves to Tighten Stablecoin Rules With Two New GENIUS Act Proposals - CryptoPotato
 
 **Fed Proposes Stablecoin Rules With Full Reserves, Capital Charges - tokenpost.com**
 `26 Sep 09:04 PKT` · pehli baar dekhi `26 Sep 16:17` · gnews_fed
@@ -386,7 +457,39 @@ US Federal Reserve proposes new stablecoin rules t.co
 **Stablecoin firm Circle finance chief Fox-Geen to step down**
 `26 Sep 03:13 PKT` · pehli baar dekhi `26 Sep 03:45` · investing_news
 
+### RATES
+
+**High energy prices will make it 'harder' to avoid interest rate hike – Bailey - London Evening Standard**
+`26 Sep 05:45 PKT` · pehli baar dekhi `26 Sep 20:00` · gnews_centralbanks
+
+High energy prices will make it 'harder' to avoid interest rate hike – Bailey London Evening Standard
+
+**John Williams: A US rate hike this year remains plausible - IDNFinancials**
+`26 Sep 05:00 PKT` · pehli baar dekhi `26 Sep 20:00` · gnews_fed
+
+John Williams: A US rate hike this year remains plausible IDNFinancials
+
 ### RISK
+
+**Is Ethiopia on the verge of another civil war as fighting erupts in Tigray?**
+`26 Sep 19:00 PKT` · pehli baar dekhi `26 Sep 20:00` · aljazeera
+
+Seven armed groups have joined forces against Abiy Ahmed's government, bringing former enemies into the same alliance.
+
+**The intelligence war is turning against the Houthis**
+`26 Sep 18:29 PKT` · pehli baar dekhi `26 Sep 20:00` · aljazeera
+
+Russian-Iranian intelligence helped the Houthis&#039; offensive on the Red Sea coast. Now that system is under attack.
+
+**Manchester City face 'drastic' sanctions, says club's former chairman**
+`26 Sep 17:59 PKT` · pehli baar dekhi `26 Sep 20:00` · aljazeera
+
+Manchester City are understood to be ready to appeal any guilty verdict, but could face &#039;severe penalty&#039; says ex-chair.
+
+**Pezeshkian says Iran 'no longer trusts talks with Washington'**
+`26 Sep 16:06 PKT` · pehli baar dekhi `26 Sep 20:00` · aljazeera
+
+In an interview with Al Jazeera, the Iranian president says Qatar and Pakistan are relaying Tehran&#039;s messages to the US.
 
 **Israel bans Arab parties from election: Who they are, why it matters**
 `26 Sep 15:27 PKT` · pehli baar dekhi `26 Sep 16:17` · aljazeera
@@ -418,6 +521,11 @@ The war between Donald Trump and the Fed The Irish Times
 `26 Sep 13:13 PKT` · pehli baar dekhi `26 Sep 16:17` · aljazeera
 
 Disrupted oil exports, costlier imports, and a weaker dinar expose Iraq&#039;s economic dependence on oil, foreign goods.
+
+**COMMENTARY: Oil Markets Survived the Iran War Sprint. Now Comes the Marathon: Bousso - EnergyNow**
+`26 Sep 12:31 PKT` · pehli baar dekhi `26 Sep 20:00` · gnews_geopolitics
+
+COMMENTARY: Oil Markets Survived the Iran War Sprint. Now Comes the Marathon: Bousso EnergyNow
 
 **Oil Prices Fall About 2% as US and Iran Explore Path Toward Ending War - boldnewsonline.com**
 `26 Sep 12:13 PKT` · pehli baar dekhi `26 Sep 16:17` · gnews_geopolitics
@@ -527,14 +635,34 @@ Exxon, Chevron Warn of Continued High Fuel Prices From Iran War EnergyNow.com
 
 Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies EnergyNow
 
-### BINA TAG (60)
+### BINA TAG (80)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `26 Sep 19:42` **investing_commodities** — Trump predicts Cuba and US will make a deal
+- `26 Sep 19:36` **investing_news** — US jury says Apple owes record $5.7 billion in haptic technology patent case
+- `26 Sep 19:36` **aljazeera** — Israel-Ireland match to go ahead in Nations League after player vote
+- `26 Sep 19:17` **aljazeera** — Russell edges out Verstappen to win in Baku, Antonelli settles for fifth
+- `26 Sep 18:35` **mw_topstories** — How to keep profiting from AI while shielding your portfolio against the risk of a slowdown
+- `26 Sep 18:32` **aljazeera** — Egypt to rest Salah in South Sudan AFCON qualifier over pitch concerns
+- `26 Sep 18:22` **aljazeera** — Girl disabled by Israeli strike urges wheelchairs be let into Gaza
+- `26 Sep 18:21` **cointelegraph** — Kalshi loses appeal, setting up potential Supreme Court case
+- `26 Sep 18:17` **aljazeera** — Turkiye calls for UN Security Council veto to end: Could it happen?
+- `26 Sep 18:01` **aljazeera** — The media battle behind Brazil's election
+- `26 Sep 17:48` **aljazeera** — Mecca defence alliance chiefs meet amid Houthi attacks
+- `26 Sep 17:48` **aljazeera** — Fury says boxing bout with Joshua in jeopardy over promoters' clash
+- `26 Sep 17:46` **aljazeera** — Why has the Yemen government called for a general mobilisation?
+- `26 Sep 17:24` **investing_news** — In Brazil, frustration over cost of living undermines Lula's reelection bid
+- `26 Sep 16:52` **investing_commodities** — EU warns of energy price crisis, urges gas demand cuts - Bloomberg
+- `26 Sep 16:48` **aljazeera** — Pressure to boycott Israel game grows as Ireland preparations stall
+- `26 Sep 16:33` **aljazeera** — Suicide bombing in Pakistan's Dera Ismail Khan kills at least 12 people
+- `26 Sep 16:12` **investing_commodities** — With a Super El Nino, analyst asks: What happens to LNG demand?
+- `26 Sep 16:12` **investing_news** — InvestingPro's Fair Value nailed 68% gain in Capital Bancorp stock
 - `26 Sep 16:04` **investing_news** — MapLight stock falls 46% as InvestingPro Fair Value flagged overvaluation
 - `26 Sep 16:00` **mw_topstories** — Meta turned Muse into a viral hit. Now comes the hard part.
 - `26 Sep 15:56` **aljazeera** — Ebola spreads in DR Congo, putting neighbouring nations at risk
 - `26 Sep 15:52` **aljazeera** — An unexpected welcome: Syrian Kurds return to their homes in Afrin
+- `26 Sep 15:35` **gnews_centralbanks** — The Spanish bond exceeds 4% and returns to levels of 2013: what is happening with the debt - Demócrata
 - `26 Sep 15:16` **aljazeera** — Virat Kohli says he will retire from India cricket after 2027 World Cup
 - `26 Sep 15:07` **investing_commodities** — Analysis-Venezuela president returns from US visit with no deals, no firm election date
 - `26 Sep 15:05` **bbc_business** — Could an iced coffee freeze you out of the job market?
@@ -594,11 +722,11 @@ Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies EnergyN
 
 ---
 
-## Shor — 16 khabrein hatai gayin
+## Shor — 17 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (16)
+investing_news (17)
 
 ---
 
@@ -608,45 +736,45 @@ investing_news (16)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 0.6 |
-| fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 0.6 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |
-| actionforex | OK | 20 | 16 | 1 | 15 | 4 | 0.1 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 0.8 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.4 |
-| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 0.8 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 15.7 |
-| kitco_general | OK | 33 | 6 | 0 | 6 | 27 | 0.3 |
-| gnews_fed | OK | 90 | 17 | 8 | 9 | 73 | 0.1 |
-| gnews_geopolitics | OK | 89 | 58 | 14 | 44 | 31 | 0.0 |
-| gnews_centralbanks | OK | 31 | 5 | 1 | 4 | 26 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 9.7 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.9 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.0 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.2 |
-| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.4 |
-| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 0.6 |
-| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
-| investing_commodities | OK | 10 | 4 | 1 | 3 | 6 | 0.0 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| bbc_business | OK | 51 | 4 | 3 | 1 | 47 | 0.1 |
-| aljazeera | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 16.0 |
-| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 0.9 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 1.9 |
-| wsj_world | OK | 71 | 6 | 1 | 5 | 65 | 0.0 |
-| wsj_markets | OK | 61 | 1 | 1 | 0 | 60 | 0.1 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 3.2 |
-| mw_topstories | OK | 10 | 4 | 1 | 3 | 6 | 0.0 |
-| cointelegraph | OK | 30 | 2 | 2 | 0 | 28 | 0.1 |
+| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 0.7 |
+| fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 0.7 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.8 |
+| actionforex | OK | 20 | 16 | 0 | 16 | 4 | 0.3 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.0 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.5 |
+| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 1.0 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.7 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 15.8 |
+| kitco_general | OK | 20 | 4 | 0 | 4 | 16 | 0.5 |
+| gnews_fed | OK | 70 | 23 | 7 | 16 | 47 | 0.0 |
+| gnews_geopolitics | OK | 80 | 62 | 6 | 56 | 18 | 0.1 |
+| gnews_centralbanks | OK | 32 | 8 | 4 | 4 | 24 | 0.2 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 9.9 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.0 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.4 |
+| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 1.3 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.6 |
+| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 0.7 |
+| oilprice | OK | 15 | 2 | 1 | 1 | 13 | 0.0 |
+| investing_commodities | OK | 10 | 7 | 3 | 4 | 3 | 0.0 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
+| bbc_business | OK | 51 | 4 | 0 | 4 | 47 | 0.2 |
+| aljazeera | OK | 25 | 25 | 17 | 8 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | -0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 16.2 |
+| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.0 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 2.1 |
+| wsj_world | OK | 71 | 6 | 0 | 6 | 65 | 0.1 |
+| wsj_markets | OK | 61 | 1 | 0 | 1 | 60 | 0.2 |
+| investing_news | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 3.4 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 4 | 1 | 3 | 26 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - yahoo_finance — STALE, cadence 1d, magar 3d purana
