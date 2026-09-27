@@ -1,9 +1,9 @@
 # News Pack — Trading Day 27 Sep 2026
 
 - Trading day: **27 Sep 03:00 -> 28 Sep 02:59 PKT**
-- Aakhri update: **28 Sep 02:33 PKT**
-- Kul khabrein: **315**
-- Feeds: 25/39 OK
+- Aakhri update: **28 Sep 04:56 PKT**
+- Kul khabrein: **331**
+- Feeds: 28/39 OK
 
 ---
 
@@ -60,15 +60,37 @@ Gold Analysis: XAU/USD Remains Under Pressure After Fed Rate Decision FOREX.com
 
 ### USD
 
-**Why I'd Still Buy This 10%-Yielding Dividend Stock After the Fed's Latest Hike - The Globe and Mail**
-`28 Sep 01:05 PKT` · pehli baar dekhi `28 Sep 02:33` · gnews_fed
+**Bessent urges Fed to keep an open mind on rates, citing AI productivity**
+`28 Sep 02:36 PKT` · pehli baar dekhi `28 Sep 04:56` · investinglive
 
-Why I'd Still Buy This 10%-Yielding Dividend Stock After the Fed's Latest Hike The Globe and Mail
+Bessent's comments are best read as the Treasury Secretary's own advocacy for a looser Fed reaction function rather than a signal of imminent policy change, but the framing matters for rate expectations given his direct line to a Fed chair the administration itself selected.
+
+**Week Ahead for FX, Bonds: U.S. Jobs Data in Focus as Another Fed Rate Hike Looks Possible - marketscreener.com**
+`28 Sep 02:15 PKT` · pehli baar dekhi `28 Sep 04:56` · gnews_centralbanks · **2 feeds mein**
+
+Week Ahead for FX, Bonds: U.S. Jobs Data in Focus as Another Fed Rate Hike Looks Possible marketscreener.com
+  - `27 Sep 17:48` *gnews_centralbanks* — Week Ahead for FX, Bonds: U.S. Jobs Data in Focus as Another Fed Rate Hike Looks Possible - WSJ
+
+**Why I'd Still Buy This 10%-Yielding Dividend Stock After the Fed's Latest Hike - fool.com**
+`28 Sep 01:34 PKT` · pehli baar dekhi `28 Sep 04:56` · gnews_fed · **2 feeds mein**
+
+Why I'd Still Buy This 10%-Yielding Dividend Stock After the Fed's Latest Hike fool.com
+  - `28 Sep 01:05` *gnews_fed* — Why I'd Still Buy This 10%-Yielding Dividend Stock After the Fed's Latest Hike - The Globe and Mail
+
+**Fed raises rates for first time in years: What it means for your wallet - Fox Business**
+`28 Sep 00:55 PKT` · pehli baar dekhi `28 Sep 04:56` · gnews_fed
+
+Fed raises rates for first time in years: What it means for your wallet Fox Business
 
 **Bessent: Fed Should Keep 'Open Mind' on Rates as Economy Accelerates - Newsmax**
 `28 Sep 00:12 PKT` · pehli baar dekhi `28 Sep 02:33` · gnews_fed
 
 Bessent: Fed Should Keep 'Open Mind' on Rates as Economy Accelerates Newsmax
+
+**Fed hike odds hold at 66% despite weak August ADP hiring data - scanx.trade**
+`27 Sep 22:54 PKT` · pehli baar dekhi `28 Sep 04:56` · gnews_fed
+
+Fed hike odds hold at 66% despite weak August ADP hiring data scanx.trade
 
 **New Orleans financial expert explains how Fed rate hike could affect your money - WDSU**
 `27 Sep 21:15 PKT` · pehli baar dekhi `27 Sep 23:30` · gnews_fed
@@ -119,11 +141,6 @@ Major stock indexes hovering near records are masking a market straining under e
 `27 Sep 17:55 PKT` · pehli baar dekhi `27 Sep 19:16` · gnews_centralbanks
 
 US Treasury yields rise sharply in Sept, driven by real rates amid strong US investment growth Pluang
-
-**Week Ahead for FX, Bonds: U.S. Jobs Data in Focus as Another Fed Rate Hike Looks Possible - WSJ**
-`27 Sep 17:48 PKT` · pehli baar dekhi `27 Sep 19:16` · gnews_centralbanks
-
-Week Ahead for FX, Bonds: U.S. Jobs Data in Focus as Another Fed Rate Hike Looks Possible WSJ
 
 **From Tokyo To Washington, Bond Yields Are Breaking Records - Coinpedia Fintech News**
 `27 Sep 17:24 PKT` · pehli baar dekhi `27 Sep 23:30` · gnews_centralbanks
@@ -394,6 +411,9 @@ Call to face Senate inquiry follows security breach of Australia&#039;s Medicare
 
 ### OIL
 
+**Trump: Oil prices will plummet after war ends 'very soon'**
+`28 Sep 02:52 PKT` · pehli baar dekhi `28 Sep 04:56` · investing_news
+
 **Riyadh schools shift to remote learning as Houthis claim downed drone**
 `28 Sep 01:55 PKT` · pehli baar dekhi `28 Sep 02:33` · investinglive
 
@@ -419,6 +439,11 @@ Oil carries the risk premium into the new week. A reported Iranian cruise missil
 
 The next global energy crisis is just around the corner. If the past four years have taught us anything, it's that an energy crisis can be brought about unexpectedly and by a number of factors – often in tandem. Changing weather patterns, increased grid stress, geopolitical tensions, and conflict have converged in different ways in different moments to send global energy markets into extreme volatility and have caused sweeping blackouts even in some of the world's most developed nations, such ...
 
+**Is the Strait Of Hormuz open? Iran & Trump's New Warnings; Reliance, ONGC, Other Oil & Gas Stocks In Focus - Goodreturns**
+`27 Sep 23:55 PKT` · pehli baar dekhi `28 Sep 04:56` · gnews_geopolitics
+
+Is the Strait Of Hormuz open? Iran & Trump's New Warnings; Reliance, ONGC, Other Oil & Gas Stocks In Focus Goodreturns
+
 **Crude oil prices drop on U.S.-Iran talks but St... - Pluang**
 `27 Sep 23:54 PKT` · pehli baar dekhi `28 Sep 02:33` · gnews_geopolitics
 
@@ -433,6 +458,11 @@ Iranian oil deliveries to China could end soon as only 15 million barrels remain
 `27 Sep 22:11 PKT` · pehli baar dekhi `28 Sep 02:33` · gnews_geopolitics
 
 North Dakota Crude Output to Rise as Operators Eye High Oil Prices energynow.com
+
+**Nigeria Faces Fresh Revenue Windfall As Oil Rallies To $107/b - LEADERSHIP Newspapers**
+`27 Sep 22:11 PKT` · pehli baar dekhi `28 Sep 04:56` · gnews_geopolitics
+
+Nigeria Faces Fresh Revenue Windfall As Oil Rallies To $107/b LEADERSHIP Newspapers
 
 **THE TIPPING POINT: ADNOC Trading Chief Flags August as Tipping Point for Oil Prices - EnergyNow**
 `27 Sep 22:08 PKT` · pehli baar dekhi `28 Sep 02:33` · gnews_geopolitics
@@ -458,6 +488,11 @@ Trump Threatens More Strikes on Iran's Kharg Island, Pushes Allies on Strait of 
 `27 Sep 21:52 PKT` · pehli baar dekhi `28 Sep 02:33` · gnews_geopolitics
 
 Morgan Stanley Maintains Oil Price Forecasts and Predicts Slow Recovery in Supply energynow.com
+
+**Trump to Invoke Emergency Law for California Oil Producer Sable, Bloomberg News Reports - EnergyNow.com**
+`27 Sep 21:27 PKT` · pehli baar dekhi `28 Sep 04:56` · gnews_geopolitics
+
+Trump to Invoke Emergency Law for California Oil Producer Sable, Bloomberg News Reports EnergyNow.com
 
 **Trump says US military is facilitating record oil movement through Strait of Hormuz - Business Upturn**
 `27 Sep 20:48 PKT` · pehli baar dekhi `27 Sep 23:30` · gnews_geopolitics
@@ -686,6 +721,11 @@ Federal Reserve Proposes Stablecoin Rules Under the GENIUS Act CryptoRank
 
 ### RISK
 
+**Waltz calls Iran's Hormuz proposal a cynical bid for upfront concessions**
+`28 Sep 02:48 PKT` · pehli baar dekhi `28 Sep 04:56` · investinglive
+
+The dispute over what exactly Iran offered, and why the US rejected it, matters more for the diplomatic timeline than for any single price move today, but it keeps the core oil market risk unresolved heading into the week: neither side is describing a deal as imminent. Waltz's framing of Iran's proposal as front-loaded and "cynical" suggests the US side sees little near-term prospect of a negotiated Hormuz reopening, which argues for continued elevated risk premium in oil rather than a fade.
+
 **Russia stocks lower at close of trade; MOEX Russia Index unchanged**
 `28 Sep 02:20 PKT` · pehli baar dekhi `28 Sep 02:33` · investing_news
 
@@ -738,6 +778,11 @@ Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, 'even i
 `27 Sep 22:42 PKT` · pehli baar dekhi `27 Sep 23:30` · aljazeera
 
 US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.
+
+**What Issues Do The US And Iran Need to Resolve for Any Peace Deal? - EnergyNow.com**
+`27 Sep 22:03 PKT` · pehli baar dekhi `28 Sep 04:56` · gnews_geopolitics
+
+What Issues Do The US And Iran Need to Resolve for Any Peace Deal? EnergyNow.com
 
 **Oil-Gear Maker NOV Cuts Earnings Guidance as Iran War Hikes Costs and Snarls Deliveries - energynow.com**
 `27 Sep 21:55 PKT` · pehli baar dekhi `28 Sep 02:33` · gnews_geopolitics
@@ -871,10 +916,11 @@ He must consider the longevity of Iran war economic pressures and how to sustain
 
 China rebukes US at UN over Iran, Cuba and urges respect for Gulf sovereignty - CHOSUNBIZ Chosunbiz
 
-### BINA TAG (110)
+### BINA TAG (113)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `28 Sep 02:41` **aljazeera** — Ireland defeats Israel in controversial UEFA Nations League match
 - `28 Sep 02:21` **wsj_world** — Egypt Warned Netanyahu of Impending Attack on Israel Before Oct. 7
 - `28 Sep 02:17` **aljazeera** — Alleged rape on campus sparks violent protest at Indian university
 - `28 Sep 02:04` **investing_news** — Mirum to present phase 3 hepatitis delta study results Monday
@@ -896,6 +942,8 @@ China rebukes US at UN over Iran, Cuba and urges respect for Gulf sovereignty - 
 - `27 Sep 23:47` **aljazeera** — At least 12 dead and dozens missing after a vessel capsizes in DRC
 - `27 Sep 23:45` **mw_topstories** — 'I want to make her proud': My mother, a divorcée, died and I'm her executor. Do I need to file for probate?
 - `27 Sep 23:41` **wsj_world** — Opinion | The AfD's Rise Is Angela Merkel's Legacy
+- `27 Sep 23:34` **gnews_centralbanks** — Government revamps Help to Buy with a new plan for first-time buyers - This is Money
+- `27 Sep 23:11` **gnews_centralbanks** — Burnham's plan for a radical reset collides with economic reality | Heather Stewart - The Guardian
 - `27 Sep 23:05` **wsj_world** — See How the U.S. Is Attacking China's Control of Critical Minerals
 - `27 Sep 22:43` **wsj_markets** — Opinion | Reform the Rules Without Silencing Investors
 - `27 Sep 22:29` **aljazeera** — One month after Nepal's catastrophic floods, thousands remain missing
@@ -988,11 +1036,11 @@ China rebukes US at UN over Iran, Cuba and urges respect for Gulf sovereignty - 
 
 ---
 
-## Shor — 29 khabrein hatai gayin
+## Shor — 31 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (29)
+investing_news (31)
 
 ---
 
@@ -1002,45 +1050,45 @@ investing_news (29)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 6 | 6 | 0 | 19 | 0.0 |
-| fxstreet_news | WARN | 30 | 0 | 0 | 0 | 30 | 2.0 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.3 |
-| actionforex | WARN | 20 | 0 | 0 | 0 | 20 | 1.6 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.3 |
-| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.8 |
-| wsj_economy | WARN | 36 | 0 | 0 | 0 | 36 | 2.2 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 17.1 |
+| investinglive | OK | 25 | 14 | 8 | 6 | 11 | 0.0 |
+| fxstreet_news | OK | 30 | 3 | 3 | 0 | 27 | 0.0 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.4 |
+| actionforex | WARN | 20 | 0 | 0 | 0 | 20 | 1.7 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.4 |
+| instaforex | OK | 25 | 2 | 2 | 0 | 23 | -0.2 |
+| wsj_economy | OK | 36 | 1 | 1 | 0 | 35 | 0.0 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 17.2 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 42 | 42 | 6 | 36 | 0 | 0.1 |
-| gnews_geopolitics | OK | 53 | 52 | 17 | 35 | 1 | 0.1 |
-| gnews_centralbanks | OK | 35 | 35 | 6 | 29 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 11.1 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.3 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.4 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.6 |
-| boj_whatsnew | OK | 45 | 0 | 0 | 0 | 45 | 2.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.8 |
-| mining_com | OK | 36 | 2 | 1 | 1 | 34 | 0.1 |
-| oilprice | OK | 15 | 4 | 1 | 3 | 11 | 0.1 |
-| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.5 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
-| bbc_business | OK | 52 | 4 | 0 | 4 | 48 | 0.4 |
-| aljazeera | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
+| gnews_fed | OK | 41 | 41 | 4 | 37 | 0 | 0.0 |
+| gnews_geopolitics | OK | 58 | 58 | 6 | 52 | 0 | 0.0 |
+| gnews_centralbanks | OK | 41 | 41 | 7 | 34 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 11.2 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.4 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.5 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.7 |
+| boj_whatsnew | OK | 47 | 2 | 2 | 0 | 45 | 0.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.9 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.2 |
+| oilprice | OK | 15 | 5 | 1 | 4 | 10 | 0.0 |
+| investing_commodities | OK | 10 | 5 | 1 | 4 | 5 | 0.1 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
+| bbc_business | OK | 53 | 8 | 3 | 5 | 45 | 0.0 |
+| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 17.4 |
-| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 2.3 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.4 |
-| wsj_world | OK | 72 | 13 | 5 | 8 | 59 | 0.0 |
-| wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.2 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 17.5 |
+| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 2.4 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.5 |
+| wsj_world | OK | 72 | 14 | 1 | 13 | 58 | 0.0 |
+| wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.3 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 4.6 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 3 | 0 | 3 | 27 | 0.4 |
+| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 4.7 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 4 | 1 | 3 | 26 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi
