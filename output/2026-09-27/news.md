@@ -1,9 +1,9 @@
 # News Pack — Trading Day 27 Sep 2026
 
 - Trading day: **27 Sep 03:00 -> 28 Sep 02:59 PKT**
-- Aakhri update: **27 Sep 07:40 PKT**
-- Kul khabrein: **42**
-- Feeds: 36/39 OK
+- Aakhri update: **27 Sep 13:34 PKT**
+- Kul khabrein: **68**
+- Feeds: 30/39 OK
 
 ---
 
@@ -38,6 +38,9 @@ The Fed Just Paused Its Treasury Buying: 5 Altcoins Worth Holding as Liquidity S
 
 ### EUR
 
+**East German espionage raised GDP by 7.4% in late 1980s, study finds**
+`27 Sep 11:36 PKT` · pehli baar dekhi `27 Sep 13:34` · investing_news
+
 **Are investors expecting too many hikes from the ECB? - Yahoo Finance**
 `27 Sep 04:42 PKT` · pehli baar dekhi `27 Sep 07:40` · gnews_centralbanks · **2 feeds mein**
 
@@ -51,6 +54,13 @@ Are investors expecting too many hikes from the ECB? By Investing.com Investing.
 
 **UBS discusses potential political scenarios in Germany amid elevated risks**
 `27 Sep 03:50 PKT` · pehli baar dekhi `27 Sep 04:50` · investing_news
+
+### AUD
+
+**Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry**
+`27 Sep 12:08 PKT` · pehli baar dekhi `27 Sep 13:34` · aljazeera
+
+Call to face Senate inquiry follows security breach of Australia&#039;s Medicare portal by rogue OpenAI bot in June.
 
 ### OIL
 
@@ -84,6 +94,16 @@ Talking Money: Interest rates are on the rise again…high oil is the culprit Pr
 
 ### RISK
 
+**Ethiopia's army promises restraint amid fears of new civil war**
+`27 Sep 09:59 PKT` · pehli baar dekhi `27 Sep 13:34` · aljazeera
+
+Army chief accuses Eritrea of funding and supporting armed groups to weaken Ethiopia.
+
+**German, Russian foreign ministers hold rare talks amid rising tensions**
+`27 Sep 08:36 PKT` · pehli baar dekhi `27 Sep 13:34` · aljazeera
+
+Russia&#039;s Lavrov dismisses Wadephul&#039;s call to abandon &#039;dangerous path of escalation&#039; with Europe.
+
 **Did the biggest week of diplomacy make headway in ending the US-Iran war?**
 `27 Sep 06:59 PKT` · pehli baar dekhi `27 Sep 07:40` · aljazeera
 
@@ -99,13 +119,32 @@ US president rejects Iran&#039;s seven-day plan to reopen the Strait of Hormuz, 
 
 Both Poland and Kyiv say their common foe is Russia, but they can't agree on how to untangle their own painful past.
 
+**Faisal Islam: The two big decisions the chancellor must make**
+`27 Sep 04:00 PKT` · pehli baar dekhi `27 Sep 13:34` · bbc_business
+
+He must consider the longevity of Iran war economic pressures and how to sustain modest optimism, writes the BBC's Faisal Islam.
+
 **Iran insists on diplomatic solution after Trump rejects peace plan**
 `27 Sep 03:36 PKT` · pehli baar dekhi `27 Sep 04:50` · investing_commodities
 
-### BINA TAG (15)
+### BINA TAG (29)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `27 Sep 13:05` **aljazeera** — Iceland FM hits back at Netanyahu over 'moral cowards' UNGA remark
+- `27 Sep 12:58` **investing_news** — North Korea tests swarm attacks combining drones and missiles - WSJ
+- `27 Sep 12:54` **bbc_business** — Baby bank's urgent appeal as demand for help grows
+- `27 Sep 12:49` **aljazeera** — Photos: Heavy rains and flooding in Bangkok force thousands into shelters
+- `27 Sep 12:32` **aljazeera** — Kylian Mbappe's knee injury to keep him out for two weeks
+- `27 Sep 12:23` **aljazeera** — Norway vs Portugal: UEFA Nations League – Ronaldo, Haaland, teams, form
+- `27 Sep 12:18` **cointelegraph** — Saylor outlines 'bill of digital rights' to help build prosperity in future economy
+- `27 Sep 11:53` **aljazeera** — Northern Ireland court allows Orange Order march through Catholic area
+- `27 Sep 11:40` **investing_news** — How AI shopping agents could reshape hardline, broadline and food retail - UBS
+- `27 Sep 10:48` **aljazeera** — At least 27 people killed in two shootings in South African townships
+- `27 Sep 10:09` **aljazeera** — Huge crowds cheer Pope Leo as he leads open-air Mass in Paris
+- `27 Sep 08:51` **aljazeera** — Detained Tunisian flotilla activists: Worsening health amid family anguish
+- `27 Sep 08:33` **aljazeera** — Bangkok declared disaster zone after heavy rains submerge roads
+- `27 Sep 08:17` **aljazeera** — Thousands protest in Madrid against Spain's housing crisis
 - `27 Sep 07:19` **aljazeera** — Powerful storm batters US Northeast disrupting power and travel
 - `27 Sep 07:00` **wsj_world** — North Korea Is Testing Swarm Attacks Mixing Drones and Missiles
 - `27 Sep 07:00` **wsj_world** — A Storied Indian Business Empire Is Being Torn Apart by Infighting
@@ -124,11 +163,11 @@ Both Poland and Kyiv say their common foe is Russia, but they can't agree on how
 
 ---
 
-## Shor — 8 khabrein hatai gayin
+## Shor — 15 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (8)
+investing_news (15)
 
 ---
 
@@ -138,45 +177,49 @@ investing_news (8)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 1.2 |
-| fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 1.2 |
-| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.5 |
-| actionforex | OK | 20 | 16 | 0 | 16 | 4 | 0.8 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.5 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 1.0 |
-| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 1.5 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 16.3 |
-| kitco_general | OK | 2 | 2 | 0 | 2 | 0 | 0.4 |
-| gnews_fed | OK | 46 | 46 | 9 | 37 | 0 | 0.0 |
-| gnews_geopolitics | OK | 73 | 73 | 3 | 70 | 0 | 0.1 |
-| gnews_centralbanks | OK | 35 | 35 | 8 | 27 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 10.4 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.5 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.8 |
-| boj_whatsnew | OK | 45 | 0 | 0 | 0 | 45 | 1.8 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.0 |
-| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.2 |
-| oilprice | OK | 15 | 5 | 0 | 5 | 10 | 0.2 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
-| bbc_business | OK | 52 | 5 | 0 | 5 | 47 | 0.2 |
-| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
+| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 1.5 |
+| fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 1.5 |
+| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.7 |
+| actionforex | OK | 20 | 16 | 0 | 16 | 4 | 1.0 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.7 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 1.3 |
+| wsj_economy | WARN | 36 | 0 | 0 | 0 | 36 | 1.7 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 16.6 |
+| kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_fed | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_geopolitics | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_centralbanks | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 10.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.8 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.9 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.1 |
+| boj_whatsnew | OK | 45 | 0 | 0 | 0 | 45 | 2.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.3 |
+| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.5 |
+| oilprice | OK | 15 | 5 | 0 | 5 | 10 | 0.4 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| bbc_business | OK | 52 | 8 | 3 | 5 | 44 | 0.0 |
+| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 16.7 |
-| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 2.6 |
-| wsj_world | OK | 71 | 12 | 3 | 9 | 59 | 0.0 |
-| wsj_markets | OK | 61 | 2 | 1 | 1 | 59 | 0.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 16.9 |
+| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.8 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 2.8 |
+| wsj_world | OK | 71 | 12 | 0 | 12 | 59 | 0.3 |
+| wsj_markets | OK | 61 | 2 | 0 | 2 | 59 | 0.3 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 3.9 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
-| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.6 |
+| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 4.1 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
+| cointelegraph | OK | 30 | 5 | 1 | 4 | 25 | 0.1 |
 
 **Jo feeds nahi aaye:**
+- kitco_general — FAIL, HTTP 503
+- gnews_fed — FAIL, HTTP 503
+- gnews_geopolitics — FAIL, HTTP 503
+- gnews_centralbanks — FAIL, HTTP 503
 - yahoo_finance — STALE, cadence 1d, magar 4d purana
