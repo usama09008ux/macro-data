@@ -1,9 +1,9 @@
 # News Pack — Trading Day 26 Sep 2026
 
 - Trading day: **26 Sep 03:00 -> 27 Sep 02:59 PKT**
-- Aakhri update: **27 Sep 04:50 PKT**
-- Kul khabrein: **378**
-- Feeds: 37/39 OK
+- Aakhri update: **27 Sep 07:40 PKT**
+- Kul khabrein: **391**
+- Feeds: 36/39 OK
 
 ---
 
@@ -84,6 +84,26 @@ Speculative investors reduced their net long exposure to gold futures in the Uni
 
 ### USD
 
+**Is Fed tightening a game changer for EM assets? UBS weighs in - Yahoo Finance UK**
+`27 Sep 00:56 PKT` · pehli baar dekhi `27 Sep 07:40` · gnews_centralbanks
+
+Is Fed tightening a game changer for EM assets? UBS weighs in Yahoo Finance UK
+
+**Fed chair Jerome Powell says he will stay on central bank's board after term expires next month - ABC News - Breaking News, Latest News and Videos**
+`27 Sep 00:50 PKT` · pehli baar dekhi `27 Sep 07:40` · gnews_fed
+
+Fed chair Jerome Powell says he will stay on central bank's board after term expires next month ABC News - Breaking News, Latest News and Videos
+
+**Richmond Fed chief says it's time to push back on inflation - InsuranceNewsNet**
+`26 Sep 23:44 PKT` · pehli baar dekhi `27 Sep 07:40` · gnews_fed
+
+Richmond Fed chief says it's time to push back on inflation InsuranceNewsNet
+
+**10-Year Treasury Yield Hits 5.10%: U.S. Bond Yields Reach Highest Level Since 2007 - Tekedia**
+`26 Sep 23:18 PKT` · pehli baar dekhi `27 Sep 07:40` · gnews_fed
+
+10-Year Treasury Yield Hits 5.10%: U.S. Bond Yields Reach Highest Level Since 2007 Tekedia
+
 **From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years**
 `26 Sep 22:54 PKT` · pehli baar dekhi `26 Sep 23:31` · mw_topstories
 
@@ -153,6 +173,11 @@ Bank alarm over global inflation 'tinderbox' as bond yields soar and rate rise f
 **What is driving Singapore inflation?**
 `26 Sep 14:14 PKT` · pehli baar dekhi `26 Sep 16:17` · investing_news
 
+**Wall Street week ahead: consumer confidence, inflation, employment updates - The Edwardsville Intelligencer**
+`26 Sep 13:10 PKT` · pehli baar dekhi `27 Sep 07:40` · gnews_fed
+
+Wall Street week ahead: consumer confidence, inflation, employment updates The Edwardsville Intelligencer
+
 **How Much Further Can the Dollar Run After Last Week's Broad Rally?**
 `26 Sep 12:59 PKT` · pehli baar dekhi `26 Sep 16:17` · actionforex
 
@@ -182,6 +207,11 @@ Fed Rate Hike Odds Cool as UBS Warns Markets Are Overpricing Coin Gabbar
 `26 Sep 08:47 PKT` · pehli baar dekhi `27 Sep 02:30` · gnews_centralbanks
 
 Spain Faces a Sharper Debt Bill as Bond Yields Surge RUSSPAIN.com
+
+**Goldman Sachs' Kaplan: Fed May Raise Rates Once More, But Market Overestimates Tightening - KuCoin**
+`26 Sep 08:07 PKT` · pehli baar dekhi `27 Sep 07:40` · gnews_fed
+
+Goldman Sachs' Kaplan: Fed May Raise Rates Once More, But Market Overestimates Tightening KuCoin
 
 **Kashkari urges Fed rate hikes despite soft jobs data - scanx.trade**
 `26 Sep 08:04 PKT` · pehli baar dekhi `27 Sep 02:30` · gnews_fed
@@ -265,6 +295,11 @@ Since the last time the Summer Games were on German soil in 1972, Germany has la
 
 ECB unlikely to allow Ben Stokes play in overseas franchise leagues despite retirement - Report Moneycontrol.com
 
+**The ECB's Succession Puzzle Starts a Year Early - Yahoo Finance**
+`26 Sep 17:02 PKT` · pehli baar dekhi `27 Sep 07:40` · gnews_centralbanks
+
+The ECB's Succession Puzzle Starts a Year Early Yahoo Finance
+
 **England vs Spain: UEFA Nations League – Predictions, teams, head-to-head**
 `26 Sep 14:51 PKT` · pehli baar dekhi `26 Sep 16:17` · aljazeera
 
@@ -338,6 +373,11 @@ Bank of England paper examines inflation index mismatch in monetary stabilizatio
 British Pound futures bounce as UK consumer confidence hits 2-year high. CME Group
 
 ### JPY
+
+**Japanese rubber futures trade in tight range - Business Recorder**
+`27 Sep 02:24 PKT` · pehli baar dekhi `27 Sep 07:40` · gnews_centralbanks
+
+Japanese rubber futures trade in tight range Business Recorder
 
 **Japan is struggling — rice and noodles can explain why - The Times**
 `27 Sep 02:00 PKT` · pehli baar dekhi `27 Sep 02:30` · gnews_centralbanks
@@ -475,6 +515,11 @@ Speculative sentiment toward the New Zealand dollar has turned sharply negative,
 
 ### OIL
 
+**Trump Rejects Hormuz Deal: Oil and Shipping Outlook | AsiaNewsIran - آسیانیوز ایران**
+`27 Sep 01:59 PKT` · pehli baar dekhi `27 Sep 07:40` · gnews_geopolitics
+
+Trump Rejects Hormuz Deal: Oil and Shipping Outlook | AsiaNewsIran آسیانیوز ایران
+
 **Brazil's Energy Mix Goes Green Even As Oil Production Climbs**
 `27 Sep 00:00 PKT` · pehli baar dekhi `27 Sep 02:30` · oilprice
 
@@ -599,6 +644,11 @@ Japan Oil Refiners Expect to Secure Enough Supply to Replace Middle East Crude f
 `26 Sep 16:15 PKT` · pehli baar dekhi `27 Sep 02:30` · gnews_geopolitics
 
 US allows Countries to Buy Russian Oil Stranded at Sea for 30 Days EnergyNow.com
+
+**Oil Heads for Weekly Gains as Middle East Supply Risks Persist - EnergyNow.com**
+`26 Sep 16:13 PKT` · pehli baar dekhi `27 Sep 07:40` · gnews_geopolitics
+
+Oil Heads for Weekly Gains as Middle East Supply Risks Persist EnergyNow.com
 
 **Trump-Iran Standoff Threatens Chronic Gulf Oil Instability: Bousso - EnergyNow.com**
 `26 Sep 16:08 PKT` · pehli baar dekhi `27 Sep 04:50` · gnews_geopolitics
@@ -890,6 +940,11 @@ US Federal Reserve proposes new stablecoin rules t.co
 
 ### RATES
 
+**High energy prices will make it 'harder' to avoid interest rate hike – Bailey - Ayr Advertiser**
+`26 Sep 11:21 PKT` · pehli baar dekhi `27 Sep 07:40` · gnews_centralbanks
+
+High energy prices will make it 'harder' to avoid interest rate hike – Bailey Ayr Advertiser
+
 **High energy prices will make it 'harder' to avoid interest rate hike – Bailey - London Evening Standard**
 `26 Sep 05:45 PKT` · pehli baar dekhi `26 Sep 20:00` · gnews_centralbanks
 
@@ -1125,7 +1180,7 @@ Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies EnergyN
 
 Wall Street stocks rise, greeting optimism over possible US-Iran deal Free Malaysia Today
 
-### BINA TAG (127)
+### BINA TAG (129)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -1206,6 +1261,7 @@ Wall Street stocks rise, greeting optimism over possible US-Iran deal Free Malay
 - `26 Sep 12:44` **aljazeera** — Manchester City found guilty? What we know; what could the punishment be?
 - `26 Sep 12:40` **gnews_centralbanks** — Chuseok closes Korean markets, but US stocks keep trading — 3 things investors should check - 헤럴드경제
 - `26 Sep 12:07` **gnews_fed** — Federal Reserve raises interest rates; SNAP benefit cuts; New homeowners association laws in Arizona - Arizona PBS
+- `26 Sep 12:07` **gnews_fed** — U.S. Regulators Could Finalize Basel Bank Capital Package in December - Hokanews
 - `26 Sep 12:06` **gnews_centralbanks** — Investor Focus: Where to Buy Bonds, Berkshire's Alphabet Bet, and How to Invest in Wayve - Morningstar
 - `26 Sep 12:01` **gnews_centralbanks** — China shock 2.0: Causes, Consequences, and Policy Responses – Call for papers - European Central Bank
 - `26 Sep 11:33` **bbc_business** — Fuel costs putting off meal delivery driver applicants
@@ -1222,6 +1278,7 @@ Wall Street stocks rise, greeting optimism over possible US-Iran deal Free Malay
 - `26 Sep 08:18` **investing_news** — Trump seeks to withhold $800 million in Congress-approved funds
 - `26 Sep 08:10` **aljazeera** — Yemeni leader urges public to enlist, offers amnesty to Houthi defectors
 - `26 Sep 08:07` **aljazeera** — UNGA81: Why has Africa's Security Council reform push remained unresolved?
+- `26 Sep 08:06` **gnews_centralbanks** — Families facing 6pc mortgage rate shock - PressReader
 - `26 Sep 07:50` **bbc_business** — OpenAI bots meddled with multiple US government agency sites
 - `26 Sep 07:11` **gnews_fed** — 'Divorced from Seol Chang-hoon after three years' Oh Jung-yeon says her ideal type is Im Si-wan and Tomorrow X Together Federal Reserve "I like a cute style" - starnewskorea.com
 - `26 Sep 07:09` **aljazeera** — TikTok to pay $100 million to Alabama in teen addiction settlement
@@ -1273,45 +1330,45 @@ investing_news (17)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 1.1 |
-| fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 1.1 |
-| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.4 |
-| actionforex | OK | 20 | 16 | 0 | 16 | 4 | 0.7 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.4 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.9 |
-| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 1.3 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 16.2 |
-| kitco_general | OK | 4 | 4 | 2 | 2 | 0 | 0.3 |
-| gnews_fed | OK | 50 | 50 | 9 | 41 | 0 | 0.0 |
-| gnews_geopolitics | OK | 70 | 70 | 15 | 55 | 0 | 0.2 |
-| gnews_centralbanks | OK | 39 | 39 | 8 | 31 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 10.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.4 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.7 |
-| boj_whatsnew | OK | 45 | 0 | 0 | 0 | 45 | 1.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.9 |
-| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.1 |
-| oilprice | OK | 15 | 5 | 1 | 4 | 10 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
-| bbc_business | OK | 52 | 5 | 0 | 5 | 47 | 0.1 |
-| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
+| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 1.2 |
+| fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 1.2 |
+| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.5 |
+| actionforex | OK | 20 | 16 | 0 | 16 | 4 | 0.8 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.5 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 1.0 |
+| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 1.5 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 16.3 |
+| kitco_general | OK | 2 | 2 | 0 | 2 | 0 | 0.4 |
+| gnews_fed | OK | 46 | 46 | 9 | 37 | 0 | 0.0 |
+| gnews_geopolitics | OK | 73 | 73 | 3 | 70 | 0 | 0.1 |
+| gnews_centralbanks | OK | 35 | 35 | 8 | 27 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 10.4 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.5 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.8 |
+| boj_whatsnew | OK | 45 | 0 | 0 | 0 | 45 | 1.8 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.0 |
+| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.2 |
+| oilprice | OK | 15 | 5 | 0 | 5 | 10 | 0.2 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
+| bbc_business | OK | 52 | 5 | 0 | 5 | 47 | 0.2 |
+| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 16.5 |
-| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 2.5 |
-| wsj_world | OK | 71 | 9 | 1 | 8 | 62 | 0.2 |
-| wsj_markets | OK | 61 | 1 | 0 | 1 | 60 | 0.6 |
-| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 3.7 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.2 |
-| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.4 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 16.7 |
+| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.5 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 2.6 |
+| wsj_world | OK | 71 | 12 | 3 | 9 | 59 | 0.0 |
+| wsj_markets | OK | 61 | 2 | 1 | 1 | 59 | 0.1 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 3.9 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
+| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.6 |
 
 **Jo feeds nahi aaye:**
 - yahoo_finance — STALE, cadence 1d, magar 4d purana
