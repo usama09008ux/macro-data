@@ -1,6 +1,6 @@
 # Calendar — Trading Day 28 Sep 2026
 
-- Banaya gaya: **28 Sep 2026 16:52 PKT**
+- Banaya gaya: **28 Sep 2026 23:59 PKT**
 - Trading day: **28 Sep 03:00 -> 29 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,24 +12,33 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 17:15 | USD | low | FOMC Member Bowman Speaks | - | - |
-| 18:30 | EUR | MED | ECB President Lagarde Speaks | - | - |
-| 22:25 | USD | low | FOMC Member Cook Speaks | - | - |
-| 22:30 | USD | low | FOMC Member Barkin Speaks | - | - |
 | **29 Sep** 04:01 | GBP | low | BRC Shop Price Index y/y | 1.5% | 1.5% |
-| **29 Sep** 06:30 | AUD | low | Household Spending m/m | 0.4% | 1.1% |
+| **29 Sep** 06:30 | AUD | low | Household Spending m/m | 0.3% | 1.1% |
 | **29 Sep** 09:30 | AUD | **HIGH** | Cash Rate | 4.60% | 4.35% |
 | **29 Sep** 09:30 | AUD | **HIGH** | RBA Rate Statement | - | - |
 | **29 Sep** 10:30 | AUD | MED | RBA Press Conference | - | - |
 | **29 Sep** 12:00 | CHF | low | KOF Economic Barometer | 106.0 | 106.7 |
-| **29 Sep** 12:00 | EUR | low | Spanish Flash CPI y/y | 4.7% | 4.3% |
+| **29 Sep** 12:00 | EUR | low | Spanish Flash CPI y/y | 4.6% | 4.3% |
 | **29 Sep** 13:30 | GBP | low | M4 Money Supply m/m | 0.1% | -0.3% |
-| **29 Sep** 13:30 | GBP | low | Mortgage Approvals | 57K | 56K |
+| **29 Sep** 13:30 | GBP | low | Mortgage Approvals | 56K | 56K |
 | **29 Sep** 13:30 | GBP | low | Net Lending to Individuals m/m | 6.2B | 6.3B |
 | **29 Sep** 14:33 | EUR | low | Italian 10-y Bond Auction | - | 4.10|1.6 |
 | **29 Sep** 14:33 | GBP | low | 10-y Bond Auction | - | 5.16|3.6 |
 | **29 Sep** 15:00 | EUR | low | German Buba President Nagel Speaks | - | - |
 | **29 Sep** 16:00 | EUR | MED | ECB President Lagarde Speaks | - | - |
+| **29 Sep** 17:30 | CAD | MED | GDP m/m | 0.0% | 0.3% |
+| **29 Sep** 18:00 | USD | low | HPI m/m | 0.1% | 0.0% |
+| **29 Sep** 18:00 | USD | low | S&P/CS Composite-20 HPI y/y | 2.2% | 2.1% |
+| **29 Sep** 19:00 | USD | MED | CB Consumer Confidence | 89.2 | 89.4 |
+| **29 Sep** 19:00 | USD | MED | JOLTS Job Openings | 7.23M | 7.27M |
+| **29 Sep** 20:00 | GBP | low | MPC Member Mann Speaks | - | - |
+| **29 Sep** 20:00 | USD | low | FOMC Member Bowman Speaks | - | - |
+| **29 Sep** 20:30 | GBP | low | MPC Member Taylor Speaks | - | - |
+| **29 Sep** 21:40 | USD | low | FOMC Member Barr Speaks | - | - |
+| **29 Sep** 22:00 | USD | low | FOMC Member Goolsbee Speaks | - | - |
+| **29 Sep** 22:20 | CAD | low | Gov Council Member Gravelle Speaks | - | - |
+| **29 Sep** 22:30 | USD | low | FOMC Member Musalem Speaks | - | - |
+| **29 Sep** 23:00 | USD | low | FOMC Member Williams Speaks | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
@@ -42,14 +51,11 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **29 Sep** 17:30 | CAD | MED | GDP m/m | 0.1% | 0.3% |
-| **29 Sep** 19:00 | USD | MED | CB Consumer Confidence | 90.1 | 89.4 |
-| **29 Sep** 19:00 | USD | MED | JOLTS Job Openings | 7.23M | 7.27M |
 | **30 Sep** 06:30 | AUD | **HIGH** | CPI m/m | 0.5% | 1.0% |
 | **30 Sep** 06:30 | AUD | **HIGH** | CPI y/y | 4.1% | 3.5% |
 | **30 Sep** 06:30 | AUD | **HIGH** | Trimmed Mean CPI m/m | 0.3% | 0.5% |
 | **30 Sep** 11:29 | EUR | MED | German Prelim CPI m/m | 0.5% | 0.2% |
-| **30 Sep** 17:15 | USD | MED | ADP Non-Farm Employment Change | 70K | 38K |
+| **30 Sep** 17:15 | USD | MED | ADP Non-Farm Employment Change | 73K | 38K |
 | **30 Sep** 17:30 | USD | **HIGH** | Core PCE Price Index m/m | 0.3% | 0.2% |
 | **30 Sep** 17:30 | USD | **HIGH** | Final GDP q/q | 1.5% | 1.5% |
 | **30 Sep** 17:30 | USD | MED | Final GDP Price Index q/q | 6.4% | 6.4% |
@@ -64,7 +70,7 @@
 | **02 Oct** 14:00 | EUR | MED | Core CPI Flash Estimate y/y | 2.5% | 2.4% |
 | **02 Oct** 14:00 | EUR | MED | CPI Flash Estimate y/y | 3.7% | 3.3% |
 | **02 Oct** 17:30 | USD | **HIGH** | Average Hourly Earnings m/m | 0.3% | 0.3% |
-| **02 Oct** 17:30 | USD | **HIGH** | Non-Farm Employment Change | 98K | 162K |
+| **02 Oct** 17:30 | USD | **HIGH** | Non-Farm Employment Change | 89K | 162K |
 | **02 Oct** 17:30 | USD | **HIGH** | Unemployment Rate | 4.1% | 4.1% |
 
 ---
