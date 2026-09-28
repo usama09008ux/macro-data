@@ -1,9 +1,9 @@
 # News Pack — Trading Day 27 Sep 2026
 
 - Trading day: **27 Sep 03:00 -> 28 Sep 02:59 PKT**
-- Aakhri update: **28 Sep 04:56 PKT**
-- Kul khabrein: **331**
-- Feeds: 28/39 OK
+- Aakhri update: **28 Sep 10:10 PKT**
+- Kul khabrein: **343**
+- Feeds: 29/39 OK
 
 ---
 
@@ -78,9 +78,10 @@ Why I'd Still Buy This 10%-Yielding Dividend Stock After the Fed's Latest Hike f
   - `28 Sep 01:05` *gnews_fed* — Why I'd Still Buy This 10%-Yielding Dividend Stock After the Fed's Latest Hike - The Globe and Mail
 
 **Fed raises rates for first time in years: What it means for your wallet - Fox Business**
-`28 Sep 00:55 PKT` · pehli baar dekhi `28 Sep 04:56` · gnews_fed
+`28 Sep 00:55 PKT` · pehli baar dekhi `28 Sep 04:56` · gnews_fed · **2 feeds mein**
 
 Fed raises rates for first time in years: What it means for your wallet Fox Business
+  - `28 Sep 00:55` *gnews_fed* — Fed raises rates for first time in years: What it means for your wallet - Fox Business
 
 **Bessent: Fed Should Keep 'Open Mind' on Rates as Economy Accelerates - Newsmax**
 `28 Sep 00:12 PKT` · pehli baar dekhi `28 Sep 02:33` · gnews_fed
@@ -303,16 +304,17 @@ ECB hikes by 25 basis points, as expected investingLive
 
 Four ECB Scenarios Sketch a Succession Plan for Post-Lagarde Era Bloomberg
 
+**Are investors expecting too many hikes from the ECB? By Investing.com - Investing.com South Africa**
+`27 Sep 10:19 PKT` · pehli baar dekhi `28 Sep 10:10` · gnews_centralbanks · **2 feeds mein**
+
+Are investors expecting too many hikes from the ECB? By Investing.com Investing.com South Africa
+  - `27 Sep 04:15` *gnews_centralbanks* — Are investors expecting too many hikes from the ECB? By Investing.com - Investing.com
+
 **Are investors expecting too many hikes from the ECB? - Yahoo Finance**
 `27 Sep 04:42 PKT` · pehli baar dekhi `27 Sep 07:40` · gnews_centralbanks · **2 feeds mein**
 
 Are investors expecting too many hikes from the ECB? Yahoo Finance
   - `27 Sep 04:12` *investing_news* — Are investors expecting too many hikes from the ECB?
-
-**Are investors expecting too many hikes from the ECB? By Investing.com - Investing.com**
-`27 Sep 04:15 PKT` · pehli baar dekhi `27 Sep 04:50` · gnews_centralbanks
-
-Are investors expecting too many hikes from the ECB? By Investing.com Investing.com
 
 **UBS discusses potential political scenarios in Germany amid elevated risks**
 `27 Sep 03:50 PKT` · pehli baar dekhi `27 Sep 04:50` · investing_news
@@ -450,9 +452,25 @@ Is the Strait Of Hormuz open? Iran & Trump's New Warnings; Reliance, ONGC, Other
 Crude oil prices drop on U.S.-Iran talks but St... Pluang
 
 **Iranian oil deliveries to China could end soon as only 15 million barrels remain at sea: Bessent - Business Upturn**
-`27 Sep 23:00 PKT` · pehli baar dekhi `27 Sep 23:30` · gnews_geopolitics
+`27 Sep 23:00 PKT` · pehli baar dekhi `27 Sep 23:30` · gnews_geopolitics · **2 feeds mein**
 
 Iranian oil deliveries to China could end soon as only 15 million barrels remain at sea: Bessent Business Upturn
+  - `27 Sep 23:00` *gnews_geopolitics* — Iranian oil deliveries to China could end soon as only 15 million barrels remain at sea: Bessent - Business Upturn
+
+**Oil Prices Extend Gains on Concern Over Potential US-Iran Conflict - EnergyNow.com**
+`27 Sep 22:21 PKT` · pehli baar dekhi `28 Sep 10:10` · gnews_geopolitics
+
+Oil Prices Extend Gains on Concern Over Potential US-Iran Conflict EnergyNow.com
+
+**Port of Fujairah Resumes Oil Loadings After Attack and Why it Matters Globally - EnergyNow.com**
+`27 Sep 22:19 PKT` · pehli baar dekhi `28 Sep 10:10` · gnews_geopolitics
+
+Port of Fujairah Resumes Oil Loadings After Attack and Why it Matters Globally EnergyNow.com
+
+**Oil Prices Set for Another Weekly Decline as Iran Risks Recede - EnergyNow**
+`27 Sep 22:12 PKT` · pehli baar dekhi `28 Sep 10:10` · gnews_geopolitics
+
+Oil Prices Set for Another Weekly Decline as Iran Risks Recede EnergyNow
 
 **North Dakota Crude Output to Rise as Operators Eye High Oil Prices - energynow.com**
 `27 Sep 22:11 PKT` · pehli baar dekhi `28 Sep 02:33` · gnews_geopolitics
@@ -488,6 +506,16 @@ Trump Threatens More Strikes on Iran's Kharg Island, Pushes Allies on Strait of 
 `27 Sep 21:52 PKT` · pehli baar dekhi `28 Sep 02:33` · gnews_geopolitics
 
 Morgan Stanley Maintains Oil Price Forecasts and Predicts Slow Recovery in Supply energynow.com
+
+**TACO CONFIRMED: Oil Markets Bet Trump Would Chicken Out on Iran. They Won: Bousso - EnergyNow.com**
+`27 Sep 21:51 PKT` · pehli baar dekhi `28 Sep 10:10` · gnews_geopolitics
+
+TACO CONFIRMED: Oil Markets Bet Trump Would Chicken Out on Iran. They Won: Bousso EnergyNow.com
+
+**Oil Prices Jump Over 7% After Trump Says Attacks on Iran Will Continue - EnergyNow**
+`27 Sep 21:42 PKT` · pehli baar dekhi `28 Sep 10:10` · gnews_geopolitics
+
+Oil Prices Jump Over 7% After Trump Says Attacks on Iran Will Continue EnergyNow
 
 **Trump to Invoke Emergency Law for California Oil Producer Sable, Bloomberg News Reports - EnergyNow.com**
 `27 Sep 21:27 PKT` · pehli baar dekhi `28 Sep 04:56` · gnews_geopolitics
@@ -558,6 +586,11 @@ Saudi oil exports surge 80% to 6 million bpd as shipments return through Strait 
 `27 Sep 19:18 PKT` · pehli baar dekhi `27 Sep 23:30` · gnews_geopolitics
 
 Trump urged China to increase oil production during meeting, White House says hirunews.lk
+
+**Morgan Stanley Lowers Brent Oil Price Forecasts After US-Iran Peace Deal - EnergyNow**
+`27 Sep 19:16 PKT` · pehli baar dekhi `28 Sep 10:10` · gnews_geopolitics
+
+Morgan Stanley Lowers Brent Oil Price Forecasts After US-Iran Peace Deal EnergyNow
 
 **Russian Crude Oil Cushions India From West Asia Supply Shock - urbanacres.in**
 `27 Sep 19:04 PKT` · pehli baar dekhi `27 Sep 23:30` · gnews_geopolitics
@@ -779,6 +812,11 @@ Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, 'even i
 
 US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.
 
+**Iran War Disruption Beyond 3-4 Months Poses Systemic Risk to Global Economy, Total CEO Says - EnergyNow.com**
+`27 Sep 22:13 PKT` · pehli baar dekhi `28 Sep 10:10` · gnews_geopolitics
+
+Iran War Disruption Beyond 3-4 Months Poses Systemic Risk to Global Economy, Total CEO Says EnergyNow.com
+
 **What Issues Do The US And Iran Need to Resolve for Any Peace Deal? - EnergyNow.com**
 `27 Sep 22:03 PKT` · pehli baar dekhi `28 Sep 04:56` · gnews_geopolitics
 
@@ -789,6 +827,11 @@ What Issues Do The US And Iran Need to Resolve for Any Peace Deal? EnergyNow.com
 
 Oil-Gear Maker NOV Cuts Earnings Guidance as Iran War Hikes Costs and Snarls Deliveries energynow.com
 
+**Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says - EnergyNow**
+`27 Sep 21:29 PKT` · pehli baar dekhi `28 Sep 10:10` · gnews_geopolitics
+
+Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says EnergyNow
+
 **Japan and South Korea face petrol rationing threat as Iran war disrupts oil routes - Herald.Wales**
 `27 Sep 21:08 PKT` · pehli baar dekhi `28 Sep 02:33` · gnews_geopolitics
 
@@ -798,6 +841,11 @@ Japan and South Korea face petrol rationing threat as Iran war disrupts oil rout
 `27 Sep 20:34 PKT` · pehli baar dekhi `27 Sep 23:30` · wsj_world
 
 The American military has launched missions from RAF Fairford in the war against Iran, which has warned Britain of consequences.
+
+**How the Iran War Oil and Gas Supply Shock Compares with Past Disruptions - EnergyNow**
+`27 Sep 20:06 PKT` · pehli baar dekhi `28 Sep 10:10` · gnews_geopolitics
+
+How the Iran War Oil and Gas Supply Shock Compares with Past Disruptions EnergyNow
 
 **Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies - energynow.com**
 `27 Sep 20:04 PKT` · pehli baar dekhi `28 Sep 02:33` · gnews_geopolitics
@@ -1050,46 +1098,47 @@ investing_news (31)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 14 | 8 | 6 | 11 | 0.0 |
-| fxstreet_news | OK | 30 | 3 | 3 | 0 | 27 | 0.0 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.4 |
-| actionforex | WARN | 20 | 0 | 0 | 0 | 20 | 1.7 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.4 |
-| instaforex | OK | 25 | 2 | 2 | 0 | 23 | -0.2 |
-| wsj_economy | OK | 36 | 1 | 1 | 0 | 35 | 0.0 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 17.2 |
+| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 21 | 18 | 3 | 9 | 0.0 |
+| fxstreet_analysis | OK | 30 | 1 | 1 | 0 | 29 | 0.1 |
+| actionforex | OK | 20 | 6 | 6 | 0 | 14 | 0.0 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.6 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 2 | 1 | 1 | 34 | 0.2 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 17.4 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 41 | 41 | 4 | 37 | 0 | 0.0 |
-| gnews_geopolitics | OK | 58 | 58 | 6 | 52 | 0 | 0.0 |
-| gnews_centralbanks | OK | 41 | 41 | 7 | 34 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 11.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.4 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.5 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.7 |
-| boj_whatsnew | OK | 47 | 2 | 2 | 0 | 45 | 0.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.9 |
-| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.2 |
-| oilprice | OK | 15 | 5 | 1 | 4 | 10 | 0.0 |
-| investing_commodities | OK | 10 | 5 | 1 | 4 | 5 | 0.1 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
-| bbc_business | OK | 53 | 8 | 3 | 5 | 45 | 0.0 |
-| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
+| gnews_fed | OK | 38 | 38 | 15 | 23 | 0 | 0.0 |
+| gnews_geopolitics | OK | 51 | 51 | 20 | 31 | 0 | 0.0 |
+| gnews_centralbanks | OK | 27 | 27 | 18 | 9 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 11.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.6 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.7 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.9 |
+| boj_whatsnew | OK | 47 | 2 | 0 | 2 | 45 | 0.2 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.2 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.4 |
+| oilprice | OK | 15 | 5 | 0 | 5 | 10 | 0.3 |
+| investing_commodities | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
+| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| bbc_business | OK | 41 | 10 | 2 | 8 | 31 | 0.0 |
+| aljazeera | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 17.5 |
-| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 2.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.5 |
-| wsj_world | OK | 72 | 14 | 1 | 13 | 58 | 0.0 |
-| wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.3 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 4.7 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 4 | 1 | 3 | 26 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 17.8 |
+| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 2.6 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.7 |
+| wsj_world | OK | 72 | 15 | 1 | 14 | 57 | 0.1 |
+| wsj_markets | OK | 61 | 10 | 5 | 5 | 51 | 0.0 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 5.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
+| cointelegraph | OK | 30 | 8 | 3 | 5 | 22 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - kitco_general — FAIL, koi item nahi
+- ing_think — FAIL, ConnectTimeout
 - yahoo_finance — STALE, cadence 1d, magar 5d purana
