@@ -1,6 +1,6 @@
 # Calendar — Trading Day 28 Sep 2026
 
-- Banaya gaya: **28 Sep 2026 06:07 PKT**
+- Banaya gaya: **28 Sep 2026 16:52 PKT**
 - Trading day: **28 Sep 03:00 -> 29 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,14 +12,29 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 15:00 | GBP | low | MPC Member Ramsden Speaks | - | - |
 | 17:15 | USD | low | FOMC Member Bowman Speaks | - | - |
 | 18:30 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | 22:25 | USD | low | FOMC Member Cook Speaks | - | - |
 | 22:30 | USD | low | FOMC Member Barkin Speaks | - | - |
 | **29 Sep** 04:01 | GBP | low | BRC Shop Price Index y/y | 1.5% | 1.5% |
+| **29 Sep** 06:30 | AUD | low | Household Spending m/m | 0.4% | 1.1% |
+| **29 Sep** 09:30 | AUD | **HIGH** | Cash Rate | 4.60% | 4.35% |
+| **29 Sep** 09:30 | AUD | **HIGH** | RBA Rate Statement | - | - |
+| **29 Sep** 10:30 | AUD | MED | RBA Press Conference | - | - |
+| **29 Sep** 12:00 | CHF | low | KOF Economic Barometer | 106.0 | 106.7 |
+| **29 Sep** 12:00 | EUR | low | Spanish Flash CPI y/y | 4.7% | 4.3% |
+| **29 Sep** 13:30 | GBP | low | M4 Money Supply m/m | 0.1% | -0.3% |
+| **29 Sep** 13:30 | GBP | low | Mortgage Approvals | 57K | 56K |
+| **29 Sep** 13:30 | GBP | low | Net Lending to Individuals m/m | 6.2B | 6.3B |
+| **29 Sep** 14:33 | EUR | low | Italian 10-y Bond Auction | - | 4.10|1.6 |
+| **29 Sep** 14:33 | GBP | low | 10-y Bond Auction | - | 5.16|3.6 |
+| **29 Sep** 15:00 | EUR | low | German Buba President Nagel Speaks | - | - |
+| **29 Sep** 16:00 | EUR | MED | ECB President Lagarde Speaks | - | - |
 
-*Agle 24 ghante mein koi HIGH impact event nahi.*
+**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
+
+- `29 Sep 09:30` **AUD Cash Rate**
+- `29 Sep 09:30` **AUD RBA Rate Statement**
 
 ---
 
@@ -27,10 +42,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **29 Sep** 09:30 | AUD | **HIGH** | Cash Rate | 4.60% | 4.35% |
-| **29 Sep** 09:30 | AUD | **HIGH** | RBA Rate Statement | - | - |
-| **29 Sep** 10:30 | AUD | MED | RBA Press Conference | - | - |
-| **29 Sep** 16:00 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | **29 Sep** 17:30 | CAD | MED | GDP m/m | 0.1% | 0.3% |
 | **29 Sep** 19:00 | USD | MED | CB Consumer Confidence | 90.1 | 89.4 |
 | **29 Sep** 19:00 | USD | MED | JOLTS Job Openings | 7.23M | 7.27M |
