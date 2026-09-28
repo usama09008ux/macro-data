@@ -1,7 +1,7 @@
 # Macro Pack — Trading Day 28 Sep 2026
 
-- Banaya gaya: **28 Sep 2026 17:00 PKT**
-- Series: 23/25 mili
+- Banaya gaya: **29 Sep 2026 00:41 PKT**
+- Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
 
@@ -11,7 +11,9 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| Fed funds target (upper) <br>`DFEDTARU` | **4.00%** | 0.0 | 0.0 | +0.25 | 25 | 2026-09-27 |
+| Fed funds target (upper) <br>`DFEDTARU` | **4.00%** | 0.0 | 0.0 | +0.25 | 25 | 2026-09-28 |
+| US 2Y yield <br>`DGS2` | **4.87%** | +0.02 | +0.2 | +0.68 | 91 | 2026-09-24 |
+| US 10Y yield <br>`DGS10` | **5.18%** | +0.07 | +0.24 | +0.52 | 100 | 2026-09-24 |
 | US 30Y yield <br>`DGS30` | **5.47%** | +0.07 | +0.18 | +0.29 | 100 | 2026-09-24 |
 | 10Y-2Y spread <br>`T10Y2Y` | **0.36%** | +0.05 | +0.11 | -0.11 | 53 | 2026-09-25 |
 | 10Y-3M spread <br>`T10Y3M` | **0.93%** | -0.01 | +0.06 | +0.1 | 99 | 2026-09-25 |
@@ -34,8 +36,8 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| VIX <br>`VIXCLS` | **14.21** | -0.66 | -2.99 | -1.24 | 20 | 2026-09-22 |
-| High-yield credit spread <br>`BAMLH0A0HYM2` | **2.80%** | +0.07 | +0.1 | +0.17 | 24 | 2026-09-24 |
+| VIX <br>`VIXCLS` | **14.21** | -0.66 | -2.99 | -1.24 | 19 | 2026-09-22 |
+| High-yield credit spread <br>`BAMLH0A0HYM2` | **2.93%** | +0.13 | +0.25 | +0.33 | 42 | 2026-09-25 |
 | Financial stress index <br>`STLFSI4` | **-0.91** | -0.0589 | -0.0805 | -0.2394 | 4 | 2026-09-18 |
 
 ---
@@ -72,21 +74,14 @@
 
 ---
 
-## Jo nahi mili
-
-- `DGS2` — HTTP 502
-- `DGS10` — HTTP 502
-
----
-
 ## US Treasury — seedha source se
 
 *FRED ka data ek do din peechay hota hai. Ye wahi numbers usi din ke hain. Jahan tareekh FRED se nayi ho, wahan ISI par bharosa karein.*
 
 | Kya | Treasury | Tareekh | FRED | FRED ki tareekh |
 |---|---|---|---|---|
-| 10Y | **5.17** | 2026-09-25 | - | - |
-| 2Y | **4.81** | 2026-09-25 | - | - |
+| 10Y | **5.17** | 2026-09-25 **←nayi** | 5.18 | 2026-09-24 |
+| 2Y | **4.81** | 2026-09-25 **←nayi** | 4.87 | 2026-09-24 |
 | 30Y | **5.49** | 2026-09-25 **←nayi** | 5.47 | 2026-09-24 |
 | 10Y real | **2.83** | 2026-09-25 **←nayi** | 2.85 | 2026-09-24 |
 | 5Y real | **2.64** | 2026-09-25 **←nayi** | 2.70 | 2026-09-24 |
