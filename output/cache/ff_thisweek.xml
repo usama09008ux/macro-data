@@ -866,7 +866,7 @@
 		<date><![CDATA[10-01-2026]]></date>
 		<time><![CDATA[1:30am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[2.10B]]></forecast>
+		<forecast><![CDATA[2.00B]]></forecast>
 		<previous><![CDATA[1.92B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/122-au-goods-trade-balance]]></url>
 	</event>
@@ -886,7 +886,7 @@
 		<date><![CDATA[10-01-2026]]></date>
 		<time><![CDATA[6:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[0.2%]]></forecast>
+		<forecast><![CDATA[0.0%]]></forecast>
 		<previous><![CDATA[0.2%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/242-uk-nationwide-hpi-mm]]></url>
 	</event>
@@ -916,7 +916,7 @@
 		<date><![CDATA[10-01-2026]]></date>
 		<time><![CDATA[6:30am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[2.2%]]></forecast>
+		<forecast><![CDATA[2.1%]]></forecast>
 		<previous><![CDATA[2.3%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/109-sz-retail-sales-yy]]></url>
 	</event>
@@ -936,7 +936,7 @@
 		<date><![CDATA[10-01-2026]]></date>
 		<time><![CDATA[7:30am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[56.0]]></forecast>
+		<forecast><![CDATA[56.4]]></forecast>
 		<previous><![CDATA[57.1]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/273-sz-manufacturing-pmi]]></url>
 	</event>
@@ -946,7 +946,7 @@
 		<date><![CDATA[10-01-2026]]></date>
 		<time><![CDATA[7:45am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[49.9]]></forecast>
+		<forecast><![CDATA[50.1]]></forecast>
 		<previous><![CDATA[49.6]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/547-it-manufacturing-pmi]]></url>
 	</event>
@@ -986,7 +986,7 @@
 		<date><![CDATA[10-01-2026]]></date>
 		<time><![CDATA[8:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[5.7%]]></forecast>
+		<forecast><![CDATA[5.8%]]></forecast>
 		<previous><![CDATA[5.8%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/486-it-monthly-unemployment-rate]]></url>
 	</event>
@@ -1076,7 +1076,7 @@
 		<date><![CDATA[10-01-2026]]></date>
 		<time><![CDATA[12:30pm]]></time>
 		<impact><![CDATA[Medium]]></impact>
-		<forecast><![CDATA[199K]]></forecast>
+		<forecast><![CDATA[201K]]></forecast>
 		<previous><![CDATA[197K]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/11-us-unemployment-claims]]></url>
 	</event>
@@ -1136,7 +1136,7 @@
 		<date><![CDATA[10-01-2026]]></date>
 		<time><![CDATA[1:45pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[57.0]]></forecast>
+		<forecast><![CDATA[56.9]]></forecast>
 		<previous><![CDATA[57.0]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/553-us-final-manufacturing-pmi]]></url>
 	</event>
@@ -1156,7 +1156,7 @@
 		<date><![CDATA[10-01-2026]]></date>
 		<time><![CDATA[2:00pm]]></time>
 		<impact><![CDATA[Medium]]></impact>
-		<forecast><![CDATA[55.0]]></forecast>
+		<forecast><![CDATA[54.8]]></forecast>
 		<previous><![CDATA[54.6]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/252-us-ism-manufacturing-pmi]]></url>
 	</event>
@@ -1166,7 +1166,7 @@
 		<date><![CDATA[10-01-2026]]></date>
 		<time><![CDATA[2:00pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[0.1%]]></forecast>
+		<forecast><![CDATA[0.0%]]></forecast>
 		<previous><![CDATA[-0.5%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/205-us-construction-spending-mm]]></url>
 	</event>
@@ -1176,7 +1176,7 @@
 		<date><![CDATA[10-01-2026]]></date>
 		<time><![CDATA[2:00pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[72.0]]></forecast>
+		<forecast><![CDATA[72.9]]></forecast>
 		<previous><![CDATA[71.1]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/255-us-ism-manufacturing-prices]]></url>
 	</event>
@@ -1186,7 +1186,7 @@
 		<date><![CDATA[10-01-2026]]></date>
 		<time><![CDATA[2:15pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[16.5M]]></forecast>
+		<forecast><![CDATA[16.3M]]></forecast>
 		<previous><![CDATA[16.8M]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/828-us-omdia-total-vehicle-sales]]></url>
 	</event>
@@ -1356,7 +1356,7 @@
 		<date><![CDATA[10-02-2026]]></date>
 		<time><![CDATA[12:30pm]]></time>
 		<impact><![CDATA[High]]></impact>
-		<forecast><![CDATA[89K]]></forecast>
+		<forecast><![CDATA[90K]]></forecast>
 		<previous><![CDATA[162K]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/66-us-non-farm-employment-change]]></url>
 	</event>
