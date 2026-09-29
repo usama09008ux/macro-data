@@ -1,6 +1,6 @@
 # Calendar — Trading Day 29 Sep 2026
 
-- Banaya gaya: **29 Sep 2026 16:28 PKT**
+- Banaya gaya: **29 Sep 2026 22:20 PKT**
 - Trading day: **29 Sep 03:00 -> 30 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,17 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 17:30 | CAD | MED | GDP m/m | 0.0% | 0.3% |
-| 18:00 | USD | low | HPI m/m | 0.1% | 0.0% |
-| 18:00 | USD | low | S&P/CS Composite-20 HPI y/y | 2.2% | 2.1% |
-| 19:00 | USD | MED | CB Consumer Confidence | 89.2 | 89.4 |
-| 19:00 | USD | MED | JOLTS Job Openings | 7.23M | 7.27M |
-| 20:00 | GBP | low | MPC Member Mann Speaks | - | - |
-| 20:00 | USD | low | FOMC Member Bowman Speaks | - | - |
-| 20:30 | GBP | low | MPC Member Taylor Speaks | - | - |
-| 21:40 | USD | low | FOMC Member Barr Speaks | - | - |
-| 22:00 | USD | low | FOMC Member Goolsbee Speaks | - | - |
-| 22:20 | CAD | low | Gov Council Member Gravelle Speaks | - | - |
 | 22:30 | USD | low | FOMC Member Musalem Speaks | - | - |
 | 23:00 | USD | low | FOMC Member Williams Speaks | - | - |
 | **30 Sep** 00:00 | USD | low | FOMC Member Waller Speaks | - | - |
@@ -54,12 +43,27 @@
 | **30 Sep** 14:30 | GBP | low | FPC Meeting Minutes | - | - |
 | **30 Sep** 14:30 | GBP | low | FPC Statement | - | - |
 | **30 Sep** 14:42 | EUR | low | German 10-y Bond Auction | - | 3.39|1.5 |
+| **30 Sep** 17:00 | CAD | chhutti | Bank Holiday | - | - |
+| **30 Sep** 17:15 | USD | MED | ADP Non-Farm Employment Change | 73K | 38K |
+| **30 Sep** 17:30 | USD | **HIGH** | Core PCE Price Index m/m | 0.3% | 0.2% |
+| **30 Sep** 17:30 | USD | **HIGH** | Final GDP q/q | 1.5% | 1.5% |
+| **30 Sep** 17:30 | USD | MED | Final GDP Price Index q/q | 6.4% | 6.4% |
+| **30 Sep** 17:30 | USD | low | Goods Trade Balance | -116.3B | -118.8B |
+| **30 Sep** 17:30 | USD | low | Personal Income m/m | 0.5% | 0.4% |
+| **30 Sep** 17:30 | USD | low | Personal Spending m/m | 0.8% | 0.2% |
+| **30 Sep** 17:30 | USD | low | Prelim Wholesale Inventories m/m | 0.5% | 1.3% |
+| **30 Sep** 18:00 | CHF | low | SNB Quarterly Bulletin | - | - |
+| **30 Sep** 18:45 | USD | low | Chicago PMI | 51.2 | 47.1 |
+| **30 Sep** 19:30 | CHF | low | Gov Board Member Tschudin Speaks | - | - |
+| **30 Sep** 19:30 | USD | low | Crude Oil Inventories | -1.9M | 3.0M |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
 - `30 Sep 06:30` **AUD CPI m/m**
 - `30 Sep 06:30` **AUD CPI y/y**
 - `30 Sep 06:30` **AUD Trimmed Mean CPI m/m**
+- `30 Sep 17:30` **USD Core PCE Price Index m/m**
+- `30 Sep 17:30` **USD Final GDP q/q**
 
 ---
 
@@ -67,10 +71,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **30 Sep** 17:15 | USD | MED | ADP Non-Farm Employment Change | 73K | 38K |
-| **30 Sep** 17:30 | USD | **HIGH** | Core PCE Price Index m/m | 0.3% | 0.2% |
-| **30 Sep** 17:30 | USD | **HIGH** | Final GDP q/q | 1.5% | 1.5% |
-| **30 Sep** 17:30 | USD | MED | Final GDP Price Index q/q | 6.4% | 6.4% |
 | **01 Oct** 11:30 | CHF | MED | CPI m/m | 0.0% | 0.4% |
 | **01 Oct** 13:00 | GBP | MED | BOE Gov Bailey Speaks | - | - |
 | **01 Oct** 17:30 | USD | MED | Unemployment Claims | 201K | 197K |
@@ -89,5 +89,12 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 29 Sep 19:09 | JOLTS job openings | 7.079M | 7.225M | -0.1M (-2%) | neeche |
+| 29 Sep 19:00 | Sept US consumer confidence | 81.9 | 89.2 | -7.30 (-8%) | neeche |
+| 29 Sep 18:00 | US July CaseShiller 20-city house price inde | +2.5% | 2.2% | +0.30pp (+14%) | upar |
+| 29 Sep 17:30 | Canada July GDP | 0.0% | 0.0% | +0.00pp | neeche |
 

@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "29 Sep 2026 16:28",
+  "generated_pkt": "29 Sep 2026 22:20",
   "trading_day": "2026-09-29",
   "feed_sources": {
     "thisweek": "live"
@@ -984,7 +984,7 @@
       "title": "Crude Oil Inventories",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-1.9M",
       "previous": "3.0M",
       "url": "https://www.forexfactory.com/calendar/10-us-crude-oil-inventories",
       "all_day": false,
@@ -1839,5 +1839,61 @@
       "trading_day": "2026-10-03"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "JOLTS job openings 7.079M vs 7.225M estimate",
+      "actual_raw": "7.079M",
+      "forecast_raw": "7.225M",
+      "beat": false,
+      "raw_diff": "-0.1M",
+      "sign_flip": false,
+      "diff_pct": -2.0,
+      "when_pkt": "29 Sep 19:09",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "Sept US consumer confidence 81.9 vs 89.2 expected",
+      "actual_raw": "81.9",
+      "forecast_raw": "89.2",
+      "beat": false,
+      "raw_diff": "-7.30",
+      "sign_flip": false,
+      "diff_pct": -8.2,
+      "when_pkt": "29 Sep 19:00",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US July CaseShiller 20-city house price index +2.5% vs 2.2% expected",
+      "actual_raw": "+2.5%",
+      "forecast_raw": "2.2%",
+      "beat": true,
+      "raw_diff": "+0.30pp",
+      "sign_flip": false,
+      "diff_pct": 13.6,
+      "when_pkt": "29 Sep 18:00",
+      "source": "investinglive",
+      "tags": []
+    },
+    {
+      "title": "Canada July GDP 0.0% vs 0.0% expected",
+      "actual_raw": "0.0%",
+      "forecast_raw": "0.0%",
+      "beat": false,
+      "raw_diff": "+0.00pp",
+      "sign_flip": false,
+      "diff_pct": null,
+      "when_pkt": "29 Sep 17:30",
+      "source": "investinglive",
+      "tags": [
+        "cad",
+        "usd"
+      ]
+    }
+  ]
 }
