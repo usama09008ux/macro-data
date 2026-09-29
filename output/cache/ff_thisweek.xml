@@ -171,24 +171,24 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/343-uk-net-lending-to-individuals-mm]]></url>
 	</event>
 	<event>
-		<title>Italian 10-y Bond Auction</title>
-		<country>EUR</country>
-		<date><![CDATA[09-29-2026]]></date>
-		<time><![CDATA[9:33am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast />
-		<previous><![CDATA[4.10|1.6]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/524-it-10-y-bond-auction]]></url>
-	</event>
-	<event>
 		<title>10-y Bond Auction</title>
 		<country>GBP</country>
 		<date><![CDATA[09-29-2026]]></date>
-		<time><![CDATA[9:33am]]></time>
+		<time><![CDATA[9:02am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous><![CDATA[5.16|3.6]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/526-uk-10-y-bond-auction]]></url>
+	</event>
+	<event>
+		<title>Italian 10-y Bond Auction</title>
+		<country>EUR</country>
+		<date><![CDATA[09-29-2026]]></date>
+		<time><![CDATA[9:04am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[4.10|1.6]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/524-it-10-y-bond-auction]]></url>
 	</event>
 	<event>
 		<title>German Buba President Nagel Speaks</title>

@@ -1,6 +1,6 @@
 # Calendar — Trading Day 29 Sep 2026
 
-- Banaya gaya: **29 Sep 2026 07:15 PKT**
+- Banaya gaya: **29 Sep 2026 16:28 PKT**
 - Trading day: **29 Sep 03:00 -> 30 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,18 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 09:30 | AUD | **HIGH** | Cash Rate | 4.60% | 4.35% |
-| 09:30 | AUD | **HIGH** | RBA Rate Statement | - | - |
-| 10:30 | AUD | MED | RBA Press Conference | - | - |
-| 12:00 | CHF | low | KOF Economic Barometer | 106.0 | 106.7 |
-| 12:00 | EUR | low | Spanish Flash CPI y/y | 4.6% | 4.3% |
-| 13:30 | GBP | low | M4 Money Supply m/m | 0.1% | -0.3% |
-| 13:30 | GBP | low | Mortgage Approvals | 56K | 56K |
-| 13:30 | GBP | low | Net Lending to Individuals m/m | 6.2B | 6.3B |
-| 14:33 | EUR | low | Italian 10-y Bond Auction | - | 4.10|1.6 |
-| 14:33 | GBP | low | 10-y Bond Auction | - | 5.16|3.6 |
-| 15:00 | EUR | low | German Buba President Nagel Speaks | - | - |
-| 16:00 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | 17:30 | CAD | MED | GDP m/m | 0.0% | 0.3% |
 | 18:00 | USD | low | HPI m/m | 0.1% | 0.0% |
 | 18:00 | USD | low | S&P/CS Composite-20 HPI y/y | 2.2% | 2.1% |
@@ -51,11 +39,24 @@
 | **30 Sep** 06:30 | CNY | low | Non-Manufacturing PMI | 49.2 | 49.0 |
 | **30 Sep** 06:45 | CNY | low | RatingDog Manufacturing PMI | 51.7 | 51.5 |
 | **30 Sep** 06:45 | CNY | low | RatingDog Services PMI | 51.3 | 51.4 |
+| **30 Sep** 10:00 | JPY | low | Housing Starts y/y | 6.9% | 8.2% |
+| **30 Sep** 11:00 | EUR | low | German Import Prices m/m | 0.6% | 0.2% |
+| **30 Sep** 11:00 | EUR | low | German Retail Sales m/m | 1.6% | -3.4% |
+| **30 Sep** 11:00 | GBP | low | Current Account | -25.6B | -22.1B |
+| **30 Sep** 11:00 | GBP | low | Final GDP q/q | 0.4% | 0.4% |
+| **30 Sep** 11:00 | GBP | low | Revised Business Investment q/q | 1.7% | 1.7% |
+| **30 Sep** 11:29 | EUR | MED | German Prelim CPI m/m | 0.5% | 0.2% |
+| **30 Sep** 11:45 | EUR | low | French Consumer Spending m/m | 0.0% | 0.5% |
+| **30 Sep** 11:45 | EUR | low | French Prelim CPI m/m | -0.5% | 0.7% |
+| **30 Sep** 12:55 | EUR | low | German Unemployment Change | 0K | 4K |
+| **30 Sep** 13:00 | CHF | low | UBS Economic Expectations | - | 12.1 |
+| **30 Sep** 14:00 | EUR | low | Italian Prelim CPI m/m | 0.2% | 0.5% |
+| **30 Sep** 14:30 | GBP | low | FPC Meeting Minutes | - | - |
+| **30 Sep** 14:30 | GBP | low | FPC Statement | - | - |
+| **30 Sep** 14:42 | EUR | low | German 10-y Bond Auction | - | 3.39|1.5 |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
-- `29 Sep 09:30` **AUD Cash Rate**
-- `29 Sep 09:30` **AUD RBA Rate Statement**
 - `30 Sep 06:30` **AUD CPI m/m**
 - `30 Sep 06:30` **AUD CPI y/y**
 - `30 Sep 06:30` **AUD Trimmed Mean CPI m/m**
@@ -66,7 +67,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **30 Sep** 11:29 | EUR | MED | German Prelim CPI m/m | 0.5% | 0.2% |
 | **30 Sep** 17:15 | USD | MED | ADP Non-Farm Employment Change | 73K | 38K |
 | **30 Sep** 17:30 | USD | **HIGH** | Core PCE Price Index m/m | 0.3% | 0.2% |
 | **30 Sep** 17:30 | USD | **HIGH** | Final GDP q/q | 1.5% | 1.5% |
