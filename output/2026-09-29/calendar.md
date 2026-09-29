@@ -1,6 +1,6 @@
 # Calendar — Trading Day 29 Sep 2026
 
-- Banaya gaya: **29 Sep 2026 03:21 PKT**
+- Banaya gaya: **29 Sep 2026 07:15 PKT**
 - Trading day: **29 Sep 03:00 -> 30 Sep 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,8 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 04:01 | GBP | low | BRC Shop Price Index y/y | 1.5% | 1.5% |
-| 06:30 | AUD | low | Household Spending m/m | 0.3% | 1.1% |
 | 09:30 | AUD | **HIGH** | Cash Rate | 4.60% | 4.35% |
 | 09:30 | AUD | **HIGH** | RBA Rate Statement | - | - |
 | 10:30 | AUD | MED | RBA Press Conference | - | - |
@@ -41,11 +39,26 @@
 | 23:00 | USD | low | FOMC Member Williams Speaks | - | - |
 | **30 Sep** 00:00 | USD | low | FOMC Member Waller Speaks | - | - |
 | **30 Sep** 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
+| **30 Sep** 04:50 | JPY | low | Prelim Industrial Production m/m | 1.4% | 0.1% |
+| **30 Sep** 04:50 | JPY | low | Retail Sales y/y | 3.3% | 4.0% |
+| **30 Sep** 05:00 | NZD | low | ANZ Business Confidence | - | 53.7 |
+| **30 Sep** 06:30 | AUD | **HIGH** | CPI m/m | 0.5% | 1.0% |
+| **30 Sep** 06:30 | AUD | **HIGH** | CPI y/y | 4.1% | 3.5% |
+| **30 Sep** 06:30 | AUD | **HIGH** | Trimmed Mean CPI m/m | 0.3% | 0.5% |
+| **30 Sep** 06:30 | AUD | low | Building Approvals m/m | -1.6% | -3.6% |
+| **30 Sep** 06:30 | AUD | low | Private Sector Credit m/m | 0.5% | 0.6% |
+| **30 Sep** 06:30 | CNY | low | Manufacturing PMI | 50.1 | 49.8 |
+| **30 Sep** 06:30 | CNY | low | Non-Manufacturing PMI | 49.2 | 49.0 |
+| **30 Sep** 06:45 | CNY | low | RatingDog Manufacturing PMI | 51.7 | 51.5 |
+| **30 Sep** 06:45 | CNY | low | RatingDog Services PMI | 51.3 | 51.4 |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
 - `29 Sep 09:30` **AUD Cash Rate**
 - `29 Sep 09:30` **AUD RBA Rate Statement**
+- `30 Sep 06:30` **AUD CPI m/m**
+- `30 Sep 06:30` **AUD CPI y/y**
+- `30 Sep 06:30` **AUD Trimmed Mean CPI m/m**
 
 ---
 
@@ -53,9 +66,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **30 Sep** 06:30 | AUD | **HIGH** | CPI m/m | 0.5% | 1.0% |
-| **30 Sep** 06:30 | AUD | **HIGH** | CPI y/y | 4.1% | 3.5% |
-| **30 Sep** 06:30 | AUD | **HIGH** | Trimmed Mean CPI m/m | 0.3% | 0.5% |
 | **30 Sep** 11:29 | EUR | MED | German Prelim CPI m/m | 0.5% | 0.2% |
 | **30 Sep** 17:15 | USD | MED | ADP Non-Farm Employment Change | 73K | 38K |
 | **30 Sep** 17:30 | USD | **HIGH** | Core PCE Price Index m/m | 0.3% | 0.2% |
