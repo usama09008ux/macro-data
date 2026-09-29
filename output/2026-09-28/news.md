@@ -1,8 +1,8 @@
 # News Pack — Trading Day 28 Sep 2026
 
 - Trading day: **28 Sep 03:00 -> 29 Sep 02:59 PKT**
-- Aakhri update: **29 Sep 07:43 PKT**
-- Kul khabrein: **828**
+- Aakhri update: **29 Sep 14:06 PKT**
+- Kul khabrein: **839**
 - Feeds: 33/39 OK
 
 ---
@@ -559,6 +559,11 @@ What's really causing inflation? Washington Times
 
 Wall Street fretted over Iran and fuel costs—as the yield on the benchmark 10-year U.S. Treasury note reached a 19-year high.
 
+**Veteran economist Zervos has joined the U.S. Treasury Department; he was once a candidate for Federal Reserve Chair. - 富途牛牛**
+`29 Sep 01:45 PKT` · pehli baar dekhi `29 Sep 14:06` · gnews_fed
+
+Veteran economist Zervos has joined the U.S. Treasury Department; he was once a candidate for Federal Reserve Chair. 富途牛牛
+
 **Fed's Lisa Cook Warns AI Won't Save The Economy From Near-Term Inflation - TradingView**
 `29 Sep 01:44 PKT` · pehli baar dekhi `29 Sep 04:33` · gnews_fed
 
@@ -597,6 +602,12 @@ US stocks: US market falls as higher oil prices, Treasury yields weigh The Econo
 **Corn futures fall on soybean weakness and stronger dollar**
 `29 Sep 00:46 PKT` · pehli baar dekhi `29 Sep 04:33` · investing_commodities
 
+**Watch An Inversion of the US Yield Curve Becomes New Risk As Fed Hikes - Bloomberg.com**
+`29 Sep 00:33 PKT` · pehli baar dekhi `29 Sep 14:06` · gnews_fed · **2 feeds mein**
+
+Watch An Inversion of the US Yield Curve Becomes New Risk As Fed Hikes Bloomberg.com
+  - `28 Sep 13:52` *gnews_fed* — An Inversion of the US Yield Curve Becomes New Risk as Fed Hikes - Bloomberg.com
+
 **How Trump administration can tackle housing costs despite the Fed's rate hike - weeklyblitz.net**
 `28 Sep 23:58 PKT` · pehli baar dekhi `29 Sep 04:33` · gnews_fed
 
@@ -631,6 +642,11 @@ The Dallas Fed Manufacturing Business Index for the United States edged down in 
 `28 Sep 23:37 PKT` · pehli baar dekhi `28 Sep 23:44` · instaforex
 
 US stocks started the week lower, with the S&P 500 down 0.5%, the Nasdaq off 0.5% and the Dow Jones shedding about 380 points, as another jump in oil prices weighed on sentiment and hopes for a US–Iran deal diminished. At the same time, Treasury yields extended their climb to multi‑year highs, reflecting concerns that higher energy costs could further fuel inflation and increase the chances of additional interest rate hikes.
+
+**Bond yields push higher as investors digest global risks, higher-for-longer path for the Fed - finance.yahoo.com**
+`28 Sep 23:37 PKT` · pehli baar dekhi `29 Sep 14:06` · gnews_fed
+
+Bond yields push higher as investors digest global risks, higher-for-longer path for the Fed finance.yahoo.com
 
 **Fed watchdog flags gaps in security incident oversight - American Banker**
 `28 Sep 23:36 PKT` · pehli baar dekhi `29 Sep 04:33` · gnews_fed
@@ -862,8 +878,11 @@ RBI to raise interest rates to 5.50% in October as inflation broadens: Reuters p
 
 The company intends to repurchase a large amount of shares through January 2028, reflecting "confidence in the long-term opportunity ahead."
 
-**October Fed meeting hinges on this key economic data, Citi says**
-`28 Sep 16:17 PKT` · pehli baar dekhi `28 Sep 16:43` · investing_news
+**October Fed meeting hinges on this key economic data, Citi says - Investing.com**
+`28 Sep 16:19 PKT` · pehli baar dekhi `29 Sep 14:06` · gnews_fed · **2 feeds mein**
+
+October Fed meeting hinges on this key economic data, Citi says Investing.com
+  - `28 Sep 16:17` *investing_news* — October Fed meeting hinges on this key economic data, Citi says
 
 **Oil: Higher prices drive yields and Dollar – MUFG**
 `28 Sep 16:17 PKT` · pehli baar dekhi `28 Sep 16:43` · fxstreet_news
@@ -951,11 +970,6 @@ The Indian Rupee (INR) is one of the worst-performing Asian currencies in 2026, 
 `28 Sep 13:54 PKT` · pehli baar dekhi `28 Sep 16:43` · gnews_fed
 
 Scott Bessent Urges Fed to Keep 'Open Mind' on Interest Rates Hokanews
-
-**An Inversion of the US Yield Curve Becomes New Risk as Fed Hikes - Bloomberg.com**
-`28 Sep 13:52 PKT` · pehli baar dekhi `28 Sep 23:44` · gnews_fed
-
-An Inversion of the US Yield Curve Becomes New Risk as Fed Hikes Bloomberg.com
 
 **United States Dollar Index remains stronger as hawkish Fed signals drive rate hike bets**
 `28 Sep 13:46 PKT` · pehli baar dekhi `28 Sep 16:43` · fxstreet_news
@@ -1151,10 +1165,11 @@ Bearish MIB as ECB rate expectations turn more hawkish marketscreener.com
 
 Follow updates from the Group A1 Nations League clash, including the build-up, analysis and live text commentary.
 
-**ECB's Lagarde sticking to measured steps to quell inflation - Yahoo Finance**
-`28 Sep 20:25 PKT` · pehli baar dekhi `28 Sep 23:44` · gnews_centralbanks
+**ECB's Lagarde sticking to measured steps to quell inflation - reuters.com**
+`28 Sep 20:25 PKT` · pehli baar dekhi `29 Sep 14:06` · gnews_centralbanks · **2 feeds mein**
 
-ECB's Lagarde sticking to measured steps to quell inflation Yahoo Finance
+ECB's Lagarde sticking to measured steps to quell inflation reuters.com
+  - `28 Sep 20:25` *gnews_centralbanks* — ECB's Lagarde sticking to measured steps to quell inflation - Yahoo Finance
 
 **Euro struggles as Fed rate-hike bets overshadow ECB tightening expectations - FXStreet**
 `28 Sep 20:22 PKT` · pehli baar dekhi `28 Sep 23:44` · gnews_centralbanks
@@ -1732,9 +1747,11 @@ Crude remains a headline-driven market, and the intraday range shows how quickly
 The fuel trading market is expanding from an established group of specialized desks at oil majors, commodity trading houses, and refiners to AI-assisted trades. AI could either make the sometimes opaque fuel trading a level playing field for many new entrants or break the market by overcrowding it in some trades, as Reuters columnist Clyde Russell notes in a recent commentary.
 
 **Oil prices settle slightly higher on supply worries as Trump rejects Iran proposal By Reuters - Investing.com**
-`29 Sep 01:56 PKT` · pehli baar dekhi `29 Sep 07:43` · gnews_geopolitics
+`29 Sep 01:56 PKT` · pehli baar dekhi `29 Sep 07:43` · gnews_geopolitics · **3 feeds mein**
 
 Oil prices settle slightly higher on supply worries as Trump rejects Iran proposal By Reuters Investing.com
+  - `29 Sep 00:19` *gnews_geopolitics* — Oil prices settle slightly higher on supply worries as Trump rejects Iran proposal - Euronext Markets
+  - `29 Sep 00:19` *gnews_geopolitics* — Oil prices settle slightly higher on supply worries as Trump rejects Iran proposal - London South East
 
 **Kazakhstan's Oil Output Plummets After Drone Attacks Forced Exporting Terminal Closure, Sources Say - EnergyNow.com**
 `29 Sep 01:49 PKT` · pehli baar dekhi `29 Sep 04:33` · gnews_geopolitics
@@ -1770,6 +1787,11 @@ Brent Crude Oil Price Today: Oil Climbs Above $108 as Iran-US Ceasefire Talks St
 `29 Sep 00:25 PKT` · pehli baar dekhi `29 Sep 04:33` · investinglive
 
 Goldman Sachs is modeling the potential impact of US restrictions on diesel exports—and says the policy could create sharp divergences between domestic and overseas fuel markets. The bank says an export ban would initially weigh on US diesel prices as inventories build. With storage still available, every week of restrictions could push US retail diesel prices about 25 cents per gallon lower, equivalent to just under 4% of current prices near $6.50 per gallon.
+
+**Crude Prices Erase an Early Rally on US-Iran Diplomacy Speculation - TradingView**
+`29 Sep 00:22 PKT` · pehli baar dekhi `29 Sep 14:06` · gnews_geopolitics
+
+Crude Prices Erase an Early Rally on US-Iran Diplomacy Speculation TradingView
 
 **Oil Swings as Traders Parse Iran-US Talks Progress, Tight Supply - Energy Connects**
 `29 Sep 00:12 PKT` · pehli baar dekhi `29 Sep 04:33` · gnews_geopolitics
@@ -1910,6 +1932,11 @@ The 2026 Russian legislative election to select all 450 seats of the State Duma 
 `28 Sep 20:43 PKT` · pehli baar dekhi `28 Sep 23:44` · gnews_geopolitics
 
 Oil rises as Iran-US remain divided on ceasefire terms, keeping Strait of Hormuz reopening uncertain | World News hindustantimes.com
+
+**Cash-Rich Oil Majors Face Post-Iran Strategy Rethink: Bousso - EnergyNow.com**
+`28 Sep 20:41 PKT` · pehli baar dekhi `29 Sep 14:06` · gnews_geopolitics
+
+Cash-Rich Oil Majors Face Post-Iran Strategy Rethink: Bousso EnergyNow.com
 
 **Oil Steady as Investors Focus on Hormuz Flows After Peace Talks - EnergyNow**
 `28 Sep 20:39 PKT` · pehli baar dekhi `28 Sep 23:44` · gnews_geopolitics
@@ -2940,7 +2967,7 @@ Abbas Araghchi&#039;s warning comes after Washington rejected a seven-day roadma
 
 Here's a brief recap of the key developments in the Middle East war that occurred over the weekend, which are expected to have a significant impact on markets in the upcoming week.
 
-### BINA TAG (193)
+### BINA TAG (195)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -3033,6 +3060,7 @@ Here's a brief recap of the key developments in the Middle East war that occurre
 - `28 Sep 19:03` **aljazeera** — Athletes criticise organisational, logistical mishaps at 'sad' Asian Games
 - `28 Sep 19:02` **cointelegraph** — MiCA focus shifts from rulemaking to supervision, ESMA chair says
 - `28 Sep 18:56` **aljazeera** — Cattle to feed: Why a global meat crisis is looming
+- `28 Sep 18:33` **gnews_centralbanks** — Hearing of the Committee on Economic and Monetary Affairs of the European Parliament - European Central Bank
 - `28 Sep 18:30` **cointelegraph** — Altseason is coming — and traders are more discerning this time
 - `28 Sep 18:19` **mining_com** — US warms to building Brazil critical minerals chain
 - `28 Sep 18:07` **gnews_fed** — Wealthy bloke(@Square-Creator-99_mohamed)'s insights - Binance
@@ -3065,6 +3093,7 @@ Here's a brief recap of the key developments in the Middle East war that occurre
 - `28 Sep 15:49` **bbc_business** — Tourism tax needs to be more flexible in Wales, warns expert
 - `28 Sep 15:47` **mw_topstories** — How Muse and other AI agents could spark a bank run, according to an economist
 - `28 Sep 15:42` **investing_commodities** — Morning Bid: Entering the home stretch
+- `28 Sep 15:29` **gnews_geopolitics** — Tracking U.S., state and county gas prices, in maps and charts. Updated daily. - NBC News
 - `28 Sep 15:14` **investinglive** — Best Broker or Prop Firm? Vote in the Finance Magnates Awards 2026
 - `28 Sep 15:11` **aljazeera** — Palestinians denounce Israeli minister Ben-Gvir's threats against prisoner
 - `28 Sep 14:44` **aljazeera** — Al Jazeera reports from near front line in Ethiopia's Afar region
@@ -3154,45 +3183,45 @@ investing_news (6)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 12 | 13 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 13 | 17 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.4 |
-| actionforex | OK | 20 | 20 | 4 | 16 | 0 | 0.0 |
-| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 3.5 |
-| instaforex | OK | 25 | 25 | 13 | 12 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 6 | 0 | 6 | 30 | 0.4 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_rates_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.2 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_daily_commentary | OK | 10 | 5 | 0 | 5 | 5 | 0.2 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 18.3 |
-| kitco_general | OK | 13 | 13 | 0 | 13 | 0 | 0.3 |
-| gnews_fed | OK | 89 | 89 | 9 | 80 | 0 | 0.0 |
-| gnews_geopolitics | OK | 77 | 77 | 14 | 63 | 0 | 0.0 |
-| gnews_centralbanks | OK | 37 | 37 | 2 | 35 | 0 | 0.1 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 12.4 |
-| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.8 |
-| boj_whatsnew | OK | 47 | 2 | 0 | 2 | 45 | 1.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.1 |
-| mining_com | OK | 36 | 8 | 1 | 7 | 28 | 0.1 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| ing_think | OK | 10 | 7 | 6 | 1 | 3 | 0.0 |
-| bbc_business | OK | 53 | 25 | 2 | 23 | 28 | 0.0 |
-| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.1 |
+| investinglive | OK | 25 | 25 | 14 | 11 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 30 | 0 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 6 | 1 | 5 | 24 | 0.2 |
+| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.0 |
+| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 3.7 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 6 | 2 | 4 | 30 | 0.0 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| cme_rates_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.5 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| cme_daily_commentary | OK | 10 | 5 | 0 | 5 | 5 | 0.5 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 18.6 |
+| kitco_general | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
+| gnews_fed | OK | 89 | 89 | 26 | 63 | 0 | 0.0 |
+| gnews_geopolitics | OK | 76 | 76 | 36 | 40 | 0 | 0.0 |
+| gnews_centralbanks | OK | 35 | 35 | 9 | 26 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 12.6 |
+| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
+| ecb_press | OK | 15 | 2 | 1 | 1 | 13 | 0.0 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.1 |
+| boj_whatsnew | OK | 46 | 2 | 0 | 2 | 44 | 1.4 |
+| rba_media | OK | 1 | 1 | 1 | 0 | 0 | 0.2 |
+| mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.4 |
+| oilprice | OK | 15 | 15 | 3 | 12 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| bbc_business | OK | 53 | 26 | 5 | 21 | 27 | 0.0 |
+| aljazeera | OK | 25 | 25 | 24 | 1 | 0 | 0.0 |
 | snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 18.7 |
-| eia_energy | WARN | 19 | 0 | 0 | 0 | 19 | 3.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 4.6 |
-| wsj_world | OK | 75 | 27 | 1 | 26 | 48 | 0.1 |
-| wsj_markets | OK | 61 | 28 | 4 | 24 | 33 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 5.9 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 23 | 2 | 21 | 7 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 18.9 |
+| eia_energy | WARN | 19 | 0 | 0 | 0 | 19 | 3.8 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 4.9 |
+| wsj_world | OK | 75 | 29 | 2 | 27 | 46 | 0.0 |
+| wsj_markets | OK | 61 | 30 | 4 | 26 | 31 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 6.1 |
+| mw_topstories | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 26 | 3 | 23 | 4 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - cme_rates_video — STALE, cadence 1d, magar 3d purana
