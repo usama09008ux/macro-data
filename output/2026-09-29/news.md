@@ -1,9 +1,9 @@
 # News Pack — Trading Day 29 Sep 2026
 
 - Trading day: **29 Sep 03:00 -> 30 Sep 02:59 PKT**
-- Aakhri update: **30 Sep 07:28 PKT**
-- Kul khabrein: **893**
-- Feeds: 34/39 OK
+- Aakhri update: **30 Sep 13:57 PKT**
+- Kul khabrein: **910**
+- Feeds: 33/39 OK
 
 ---
 
@@ -258,6 +258,11 @@ Natixis sees gold price falling to $4,100 by year-end, but three scenarios remai
 
 Gold, silver rebound as soft data cools October Fed hike bets - Kitco PM Report Kitco
 
+**TAG: Gold and rising interest rates - Kitco**
+`29 Sep 22:20 PKT` · pehli baar dekhi `30 Sep 13:57` · kitco_general
+
+TAG: Gold and rising interest rates Kitco
+
 **TAG: Is gold a buy now? - Kitco**
 `29 Sep 22:20 PKT` · pehli baar dekhi `30 Sep 01:16` · kitco_general
 
@@ -425,6 +430,16 @@ Gold price (XAU/USD) falls to near $4,125 during the early Asian session on Tues
 
 The Paramount financing will be a closely watched barometer of dealmaking appetite despite rising borrowing costs in 2026.
 
+**Annaly Capital: The Fed Just Changed The Game (Rating Downgrade) (NYSE:NLY) - Seeking Alpha**
+`30 Sep 02:50 PKT` · pehli baar dekhi `30 Sep 13:57` · gnews_fed
+
+Annaly Capital: The Fed Just Changed The Game (Rating Downgrade) (NYSE:NLY) Seeking Alpha
+
+**Will the Fed Raise Interest Rates in October? Key Signal Arrives - BeInCrypto**
+`30 Sep 02:19 PKT` · pehli baar dekhi `30 Sep 13:57` · gnews_fed
+
+Will the Fed Raise Interest Rates in October? Key Signal Arrives BeInCrypto
+
 **Fed officials lean hawkish, though Williams sees no urgency for another hike**
 `30 Sep 02:16 PKT` · pehli baar dekhi `30 Sep 04:47` · investinglive
 
@@ -461,6 +476,12 @@ Policy adjustments likely needed to lower inflation, Fed governor says The Detro
 `30 Sep 01:33 PKT` · pehli baar dekhi `30 Sep 04:47` · gnews_fed
 
 30-Year US Treasury Yield Hits 24-Year High...New York Fed President: "No Need to Rush Hikes" asiae.co.kr
+
+**J.P. Morgan sees Fed rate hikes going out with a bang this year - Yahoo Finance**
+`30 Sep 01:33 PKT` · pehli baar dekhi `30 Sep 13:57` · gnews_fed · **2 feeds mein**
+
+J.P. Morgan sees Fed rate hikes going out with a bang this year Yahoo Finance
+  - `29 Sep 22:33` *gnews_fed* — J.P. Morgan sees Fed rate hikes going out with a bang this year - thestreet.com
 
 **Long-Term Treasury Yields Push Higher Despite Decline in Oil Prices**
 `30 Sep 01:20 PKT` · pehli baar dekhi `30 Sep 04:47` · wsj_markets
@@ -632,11 +653,6 @@ Federal Reserve (Fed) Governor Michael Barr said Tuesday that he sees "elevated 
 
 From the St Louis Fed President: A predictable, explained framework is part of what makes a central bank democratically legitimate If the public understands the framework, private expectations line up with the Fed's intentions, improves trade-offs between inflation and employment A well-communicated framework also guards against inflationary and deflationary spirals Delegated power over interest rates also obligates the Fed to explain 'how and why that power is used' Market guess 'adds noise,' ...
 
-**J.P. Morgan sees Fed rate hikes going out with a bang this year - thestreet.com**
-`29 Sep 22:33 PKT` · pehli baar dekhi `30 Sep 07:28` · gnews_fed
-
-J.P. Morgan sees Fed rate hikes going out with a bang this year thestreet.com
-
 **Horizon over which FOMC can achieve dual mandate could be communicated: St. Louis Fed's Musalem - TradingView**
 `29 Sep 22:32 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_fed · **2 feeds mein**
 
@@ -680,15 +696,26 @@ Fed's Barr signals further rate hikes needed as inflation risks rise TradingView
 Fed's Barr Says AI Investment Is Raising Prices Before Potential Gains tokenpost.com
 
 **Fed's Barr says more rate hikes likely to be needed to curb inflation - Tacoma News Tribune**
-`29 Sep 21:57 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_fed · **2 feeds mein**
+`29 Sep 21:57 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_fed · **3 feeds mein**
 
 Fed's Barr says more rate hikes likely to be needed to curb inflation Tacoma News Tribune
+  - `29 Sep 21:57` *gnews_fed* — Fed's Barr says more rate hikes likely to be needed to curb inflation - macon.com
   - `29 Sep 21:44` *gnews_fed* — Fed's Barr says more rate hikes likely to be needed to curb inflation - Reuters
 
 **Fed's Barr says more rate hikes likely to be needed to curb inflation - Kansas City Star**
 `29 Sep 21:57 PKT` · pehli baar dekhi `30 Sep 07:28` · gnews_fed
 
 Fed's Barr says more rate hikes likely to be needed to curb inflation Kansas City Star
+
+**Fed's Barr says more rate hikes likely to be needed to curb inflation - Charlotte Observer**
+`29 Sep 21:57 PKT` · pehli baar dekhi `30 Sep 13:57` · gnews_fed
+
+Fed's Barr says more rate hikes likely to be needed to curb inflation Charlotte Observer
+
+**Fed's Barr says more rate hikes likely to be needed to curb inflation - Belleville News-Democrat**
+`29 Sep 21:57 PKT` · pehli baar dekhi `30 Sep 13:57` · gnews_fed
+
+Fed's Barr says more rate hikes likely to be needed to curb inflation Belleville News-Democrat
 
 **Federal Reserve signals more rate hikes likely as inflation risks persist - Traders Union**
 `29 Sep 21:55 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_fed
@@ -700,6 +727,11 @@ Federal Reserve signals more rate hikes likely as inflation risks persist Trader
 
 Federal Reserve (Fed) Governor Michael Barr said on Tuesday that "there is a need to recalibrate policy" and that the base case is that "further policy adjustments" are likely needed.
   - `29 Sep 22:22` *gnews_fed* — Fed's Barr says policy needs recalibration, more adjustments likely - tmgm.com
+
+**Treasury Will Auto-Enroll 60 Million Children in Trump Accounts**
+`29 Sep 21:52 PKT` · pehli baar dekhi `30 Sep 13:57` · wsj_markets
+
+The auto-enrollment change replaces the previous structure, which required parents or guardians to sign up.
 
 **Fed's Barr expects GDP growth to pick up in the second half of the year**
 `29 Sep 21:45 PKT` · pehli baar dekhi `30 Sep 01:16` · investinglive
@@ -1309,9 +1341,10 @@ Pound-to-Euro Upside on ECB's Dovish Tilt Pound Sterling Live
 Global Market: ECB's Lagarde says eurozone inflation has yet to trigger second-round effects The Economic Times
 
 **ECB's Kazimir: Key for me will be January repricing**
-`29 Sep 13:35 PKT` · pehli baar dekhi `29 Sep 14:06` · fxstreet_news · **2 feeds mein**
+`29 Sep 13:35 PKT` · pehli baar dekhi `29 Sep 14:06` · fxstreet_news · **3 feeds mein**
 
 European Central Bank (ECB) Governing Council member and Governor of the National Bank of Slovakia (NBS), Peter Kazimir, said during the European trading session on Tuesday that the interest rate hike at the policy meeting earlier this month was "unavoidable".
+  - `29 Sep 14:22` *gnews_centralbanks* — ECB's Kazimir: Key for me will be January repricing - tmgm.com
   - `29 Sep 13:35` *gnews_centralbanks* — ECB's Kazimir: Key for me will be January repricing - FXStreet
 
 **The German housing market's weakness is showing up everywhere except in prices**
@@ -1400,11 +1433,12 @@ BoE's Taylor casts doubt on practicality of single rate hike Reuters
 BOE's Taylor urges caution on rate hikes as second-round inflation risks lag Yahoo Finance Australia
 
 **Bank of England policymaker says raising interest rates 'not compelling' - The Independent**
-`29 Sep 22:20 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_centralbanks · **3 feeds mein**
+`29 Sep 22:20 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_centralbanks · **4 feeds mein**
 
 Bank of England policymaker says raising interest rates 'not compelling' The Independent
   - `29 Sep 21:44` *gnews_centralbanks* — Bank of England policymaker says raising interest rates 'not compelling' - East Renfrewshire News
   - `29 Sep 21:37` *gnews_centralbanks* — Bank of England policymaker says raising interest rates 'not compelling' - Express and Star
+  - `29 Sep 21:37` *gnews_centralbanks* — Bank of England policymaker says raising interest rates 'not compelling' - The Independent
 
 **BoE's Taylor questions whether a single "insurance hike" would be seen as the start of a series**
 `29 Sep 21:59 PKT` · pehli baar dekhi `30 Sep 01:16` · investinglive
@@ -1412,10 +1446,11 @@ Bank of England policymaker says raising interest rates 'not compelling' The Ind
 omments from BoE's Taylor cross the wires: Does not know if the BoE can do a single "insurance hike" that would not be misinterpreted as the start of a series. Every time oil futures curves rise, the greater the risk they get to a 2022-type inflation scenario. If wage growth expectations stay near 3%, that would be reassuring. Not seeing any clear signal of building second-round effects. BoE agents' survey of firms' wage intentions, due in January 2027, will be a very significant data point.
 
 **Bank of England's Taylor views case for rate hike as 'not compelling' - Reuters**
-`29 Sep 21:15 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_centralbanks · **2 feeds mein**
+`29 Sep 21:15 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_centralbanks · **3 feeds mein**
 
 Bank of England's Taylor views case for rate hike as 'not compelling' Reuters
   - `29 Sep 21:14` *gnews_centralbanks* — Bank of England's Taylor views case for rate hike as 'not compelling' - TradingView
+  - `29 Sep 20:57` *gnews_centralbanks* — Bank of England's Taylor says case for rate hike 'not compelling' - Fresno Bee
 
 **British Pound slips as 2004-era US yields lift the US Dollar**
 `29 Sep 21:11 PKT` · pehli baar dekhi `30 Sep 04:47` · fxstreet_news
@@ -1444,6 +1479,11 @@ Bank of England's Taylor says case for rate hike 'not compelling' Idaho Statesma
 `29 Sep 20:56 PKT` · pehli baar dekhi `30 Sep 04:47` · fxstreet_news
 
 Bank of England (BoE) Monetary Policy Committee member Alan Taylor said on Tuesday that "monetary policy should not react mechanically to movements in energy prices," though he recognized that if "pressure builds and second round effects" emerge, then the BoE should reassess monetary policy.
+
+**Bank of England policymaker sees weak case for rate hike amid energy price risks - Traders Union**
+`29 Sep 20:55 PKT` · pehli baar dekhi `30 Sep 13:57` · gnews_centralbanks
+
+Bank of England policymaker sees weak case for rate hike amid energy price risks Traders Union
 
 **Pound slides as Bank of England holds interest rates in Britain - This is Money**
 `29 Sep 19:59 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_centralbanks
@@ -1964,6 +2004,11 @@ A voluntary accord with no legal penalties is likely to be read as lowering the 
 
 Oil Prices Lower As Focus Shifts To Middle East Supply Marine Link
 
+**Oil Slides on Saudi Supply Relief - Rigzone**
+`30 Sep 02:05 PKT` · pehli baar dekhi `30 Sep 13:57` · gnews_geopolitics
+
+Oil Slides on Saudi Supply Relief Rigzone
+
 **US Distillate Stocks Continue to Fall As Crude Inventories Build**
 `30 Sep 02:02 PKT` · pehli baar dekhi `30 Sep 04:47` · oilprice
 
@@ -1993,6 +2038,12 @@ The FTSE 100 reversed course on Tuesday, sliding more than 0.5% to its lowest le
 `30 Sep 01:00 PKT` · pehli baar dekhi `30 Sep 01:16` · oilprice
 
 A global crackdown on the water and energy use of the artificial intelligence sector is picking up speed. This week government officials in California and the European Union both announced new policies to help track and limit the runaway resource use of hyperscalers as the threat of AI's environmental impact looms ever larger.
+
+**Crude Prices Sink as More Oil Supplies Exit Hormuz - TradingView**
+`30 Sep 00:18 PKT` · pehli baar dekhi `30 Sep 13:57` · gnews_geopolitics · **2 feeds mein**
+
+Crude Prices Sink as More Oil Supplies Exit Hormuz TradingView
+  - `30 Sep 00:18` *gnews_geopolitics* — Crude Prices Sink as More Oil Supplies Exit Hormuz - inkl
 
 **Iran Threatens Middle East Energy Infrastructure as Hormuz Standoff Deepens**
 `30 Sep 00:00 PKT` · pehli baar dekhi `30 Sep 01:16` · oilprice
@@ -2469,7 +2520,8 @@ Dyed diesel does nothing to add barrels, so the market is likely to read it as a
 West Texas Intermediate (WTI), the US crude oil benchmark, is trading around $92.05 during the early Asian trading hours on Tuesday.
 
 **Oil prices rise for second session on continued Middle East supply concern**
-`29 Sep 05:36 PKT` · pehli baar dekhi `29 Sep 07:43` · investing_commodities · **6 feeds mein**
+`29 Sep 05:36 PKT` · pehli baar dekhi `29 Sep 07:43` · investing_commodities · **7 feeds mein**
+  - `29 Sep 19:05` *gnews_geopolitics* — Oil prices rise for second session on continued Middle East supply concern - The Morning
   - `29 Sep 12:02` *gnews_geopolitics* — Oil prices rise for second session on continued Middle East supply concerns - Arab News
   - `29 Sep 11:45` *gnews_geopolitics* — Oil prices rise for second session on continued Middle East supply concern, Money News - AsiaOne
   - `29 Sep 07:49` *gnews_geopolitics* — Oil prices rise for second session on continued Middle East supply concern - Business Recorder
@@ -2978,7 +3030,7 @@ At its September 2026 meeting, Jamaica's central bank raised its policy rate by 
 
 The Mexican Peso collapses against the US Dollar, depreciating on Monday as market mood sours amid stalled US-Iran talks. News headlines reported that a potential agreement is near, but officials denied the progress.
 
-### BINA TAG (238)
+### BINA TAG (239)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2989,6 +3041,7 @@ The Mexican Peso collapses against the US Dollar, depreciating on Monday as mark
 - `30 Sep 02:10` **wsj_world** — Opinion | Democrats and Intelligence Agency Reform
 - `30 Sep 02:05` **aljazeera** — What is white phosphorus, and why is Israel using it in Lebanon?
 - `30 Sep 02:02` **aljazeera** — Spain protests: Evicted 87-year-old woman to return to Madrid home
+- `30 Sep 01:57` **gnews_fed** — As real-time payments go global, how can banks manage AI security? - American Banker
 - `30 Sep 01:55` **aljazeera** — What we know about RAF Fairford 'bomb plot'
 - `30 Sep 01:23` **wsj_markets** — U.S. Stocks Edge Lower as Consumer Confidence Sinks
 - `30 Sep 01:22` **investinglive** — US stocks close mixed as chip shares rally and Nasdaq 100 outperforms
@@ -3237,45 +3290,46 @@ investing_news (10)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 11 | 19 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 6 | 0 | 6 | 24 | 0.4 |
-| actionforex | OK | 20 | 20 | 2 | 18 | 0 | 0.0 |
-| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 4.5 |
+| investinglive | OK | 25 | 25 | 16 | 9 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 30 | 0 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 7 | 1 | 6 | 23 | 0.2 |
+| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.0 |
+| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 4.7 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 11 | 2 | 9 | 25 | 0.0 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.2 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 19.3 |
-| kitco_general | OK | 18 | 18 | 0 | 18 | 0 | 0.2 |
-| gnews_fed | OK | 100 | 100 | 22 | 78 | 0 | 0.0 |
-| gnews_geopolitics | OK | 63 | 63 | 8 | 55 | 0 | 0.0 |
-| gnews_centralbanks | OK | 33 | 33 | 3 | 30 | 0 | 0.2 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.4 |
-| fed_speeches | OK | 15 | 3 | 0 | 3 | 12 | 0.3 |
-| ecb_press | OK | 15 | 2 | 1 | 1 | 13 | 0.0 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.8 |
-| boj_whatsnew | OK | 47 | 1 | 1 | 0 | 46 | 0.0 |
-| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 0.9 |
-| mining_com | OK | 36 | 15 | 1 | 14 | 21 | 0.1 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| ing_think | OK | 10 | 9 | 0 | 9 | 1 | 0.4 |
-| bbc_business | OK | 53 | 22 | 0 | 22 | 31 | 0.1 |
-| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 19.6 |
-| eia_energy | WARN | 19 | 0 | 0 | 0 | 19 | 4.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 5.6 |
-| wsj_world | OK | 75 | 20 | 1 | 19 | 55 | 0.0 |
-| wsj_markets | OK | 61 | 32 | 6 | 26 | 29 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 6.9 |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 21 | 2 | 19 | 9 | 0.0 |
+| wsj_economy | OK | 36 | 12 | 2 | 10 | 24 | 0.1 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.5 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 19.6 |
+| kitco_general | OK | 18 | 18 | 1 | 17 | 0 | 0.5 |
+| gnews_fed | OK | 100 | 100 | 25 | 75 | 0 | 0.0 |
+| gnews_geopolitics | OK | 58 | 58 | 31 | 27 | 0 | 0.0 |
+| gnews_centralbanks | OK | 31 | 31 | 8 | 23 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.6 |
+| fed_speeches | OK | 15 | 3 | 0 | 3 | 12 | 0.6 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.3 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 5.1 |
+| boj_whatsnew | OK | 49 | 3 | 2 | 1 | 46 | 0.0 |
+| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 1.2 |
+| mining_com | OK | 36 | 15 | 0 | 15 | 21 | 0.4 |
+| oilprice | OK | 15 | 15 | 3 | 12 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.1 |
+| ing_think | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| bbc_business | OK | 53 | 24 | 5 | 19 | 29 | 0.0 |
+| aljazeera | OK | 25 | 25 | 20 | 5 | 0 | 0.0 |
+| snb_press | OK | 20 | 3 | 2 | 1 | 17 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 19.9 |
+| eia_energy | WARN | 19 | 0 | 0 | 0 | 19 | 4.8 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 5.9 |
+| wsj_world | OK | 75 | 23 | 3 | 20 | 52 | 0.0 |
+| wsj_markets | OK | 61 | 33 | 4 | 29 | 28 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 7.1 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 25 | 4 | 21 | 5 | 0.1 |
 
 **Jo feeds nahi aaye:**
+- ing_think — FAIL, ConnectTimeout
 - yahoo_finance — STALE, cadence 1d, magar 7d purana
