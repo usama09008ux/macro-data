@@ -1,8 +1,8 @@
 # News Pack — Trading Day 29 Sep 2026
 
 - Trading day: **29 Sep 03:00 -> 30 Sep 02:59 PKT**
-- Aakhri update: **30 Sep 04:47 PKT**
-- Kul khabrein: **877**
+- Aakhri update: **30 Sep 07:28 PKT**
+- Kul khabrein: **893**
 - Feeds: 34/39 OK
 
 ---
@@ -430,6 +430,11 @@ The Paramount financing will be a closely watched barometer of dealmaking appeti
 
 Markets priced roughly a two-in-three chance of an October hike and a much higher chance for December as the speeches landed. Williams's "no urgency" message nudged the US dollar index modestly lower, though the currency stayed firm on the day. Rising hike bets and oil-driven inflation fears have pushed US bond yields to multi-year highs, and Barr's reference to high energy prices keeps crude at the centre of the inflation debate.
 
+**Fed's Williams sees one more interest rate hike in 2026 - Finance & Commerce**
+`30 Sep 02:14 PKT` · pehli baar dekhi `30 Sep 07:28` · gnews_fed
+
+Fed's Williams sees one more interest rate hike in 2026 Finance & Commerce
+
 **Bond Yields Keep Rising Despite Drop in Oil Price, Dovish Fed Speech**
 `30 Sep 02:05 PKT` · pehli baar dekhi `30 Sep 04:47` · wsj_markets
 
@@ -439,6 +444,13 @@ The long-term Treasury bond yield touches a 24-year high, while the New York Fed
 `30 Sep 01:51 PKT` · pehli baar dekhi `30 Sep 04:47` · gnews_fed
 
 Consumer confidence sags to 12-year low, eroded by inflation, job anxiety CFO Dive
+
+**Equities end slightly lower as bond yields hold near multi-decade highs - WTVB**
+`30 Sep 01:50 PKT` · pehli baar dekhi `30 Sep 07:28` · gnews_fed · **3 feeds mein**
+
+Equities end slightly lower as bond yields hold near multi-decade highs WTVB
+  - `30 Sep 01:15` *gnews_fed* — Equities end slightly lower as bond yields hold near multi-decade highs - The Standard (HK)
+  - `30 Sep 00:11` *gnews_fed* — Equities end slightly lower as bond yields hold near multi-decade highs - Tacoma News Tribune
 
 **Policy adjustments likely needed to lower inflation, Fed governor says - The Detroit News**
 `30 Sep 01:40 PKT` · pehli baar dekhi `30 Sep 04:47` · gnews_fed
@@ -471,12 +483,6 @@ US stocks were mostly lower on Tuesday, pressured by another climb in Treasury y
 
 Argentina's external accounts staged a sharp turnaround in the second quarter of 2026, with the country's current account balance shifting from a deficit to a solid surplus, according to data updated on 29 September 2026. After posting a current account deficit of USD -1.651 billion in the first quarter of 2026, Argentina recorded a surplus of USD 2.214 billion in the second quarter.
 
-**Equities end slightly lower as bond yields hold near multi-decade highs - The Standard (HK)**
-`30 Sep 01:15 PKT` · pehli baar dekhi `30 Sep 04:47` · gnews_fed · **2 feeds mein**
-
-Equities end slightly lower as bond yields hold near multi-decade highs The Standard (HK)
-  - `30 Sep 00:11` *gnews_fed* — Equities end slightly lower as bond yields hold near multi-decade highs - Tacoma News Tribune
-
 **Traders expecting a back-to-back rate hike from the Fed in October may have gotten ahead of themselves - MarketWatch**
 `30 Sep 01:13 PKT` · pehli baar dekhi `30 Sep 04:47` · gnews_fed · **2 feeds mein**
 
@@ -504,9 +510,10 @@ Fed rate hike 'not urgent', says John Williams; Austan Goolsbee warns against 'p
 Fed's Bowman Says AI Is Blessing and Threat to Bank Security PYMNTS.com
 
 **Fed's Williams says worst inflation shocks have passed**
-`30 Sep 00:18 PKT` · pehli baar dekhi `30 Sep 04:47` · fxstreet_news
+`30 Sep 00:18 PKT` · pehli baar dekhi `30 Sep 04:47` · fxstreet_news · **2 feeds mein**
 
 New York Federal Reserve (Fed) President John Williams spoke at the University of Buffalo and said that "price stability is foundational for the economy," adding that "determining how restrictive monetary policy is is hard."
+  - `30 Sep 00:18` *gnews_fed* — Fed's Williams says worst inflation shocks have passed - FXStreet
 
 **Persian Gulf tensions keep oil elevated as Fed and ECB rate hikes support stronger dollar, higher yields - VT Markets**
 `30 Sep 00:14 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_centralbanks
@@ -625,10 +632,16 @@ Federal Reserve (Fed) Governor Michael Barr said Tuesday that he sees "elevated 
 
 From the St Louis Fed President: A predictable, explained framework is part of what makes a central bank democratically legitimate If the public understands the framework, private expectations line up with the Fed's intentions, improves trade-offs between inflation and employment A well-communicated framework also guards against inflationary and deflationary spirals Delegated power over interest rates also obligates the Fed to explain 'how and why that power is used' Market guess 'adds noise,' ...
 
+**J.P. Morgan sees Fed rate hikes going out with a bang this year - thestreet.com**
+`29 Sep 22:33 PKT` · pehli baar dekhi `30 Sep 07:28` · gnews_fed
+
+J.P. Morgan sees Fed rate hikes going out with a bang this year thestreet.com
+
 **Horizon over which FOMC can achieve dual mandate could be communicated: St. Louis Fed's Musalem - TradingView**
-`29 Sep 22:32 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_fed
+`29 Sep 22:32 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_fed · **2 feeds mein**
 
 Horizon over which FOMC can achieve dual mandate could be communicated: St. Louis Fed's Musalem TradingView
+  - `29 Sep 22:32` *gnews_fed* — Horizon over which FOMC can achieve dual mandate could be communicated: St. Louis Fed's Musalem (TLT:NASDAQ) - Seeking Alpha
 
 **TAG: Stablecoins and dollar demand - Kitco**
 `29 Sep 22:19 PKT` · pehli baar dekhi `30 Sep 01:16` · kitco_general
@@ -671,6 +684,11 @@ Fed's Barr Says AI Investment Is Raising Prices Before Potential Gains tokenpost
 
 Fed's Barr says more rate hikes likely to be needed to curb inflation Tacoma News Tribune
   - `29 Sep 21:44` *gnews_fed* — Fed's Barr says more rate hikes likely to be needed to curb inflation - Reuters
+
+**Fed's Barr says more rate hikes likely to be needed to curb inflation - Kansas City Star**
+`29 Sep 21:57 PKT` · pehli baar dekhi `30 Sep 07:28` · gnews_fed
+
+Fed's Barr says more rate hikes likely to be needed to curb inflation Kansas City Star
 
 **Federal Reserve signals more rate hikes likely as inflation risks persist - Traders Union**
 `29 Sep 21:55 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_fed
@@ -970,6 +988,14 @@ The US Dollar (USD) outperforms its peers amid firm expectations that the Federa
 
 'G force' driving world markets may need Fed and bond brake reuters.com
 
+**Dollar holds near two-month peak as yields rise, Fed data looms - 101 WIXX**
+`29 Sep 10:44 PKT` · pehli baar dekhi `30 Sep 07:28` · gnews_fed · **4 feeds mein**
+
+Dollar holds near two-month peak as yields rise, Fed data looms 101 WIXX
+  - `29 Sep 09:11` *gnews_fed* — Dollar hold near two-month peak as yields rise, Fed data looms - CNBC
+  - `29 Sep 07:42` *gnews_fed* — Dollar hold near two-month peak as yields rise, Fed data looms - SRN News
+  - `29 Sep 07:07` *investing_news* — Dollar hold near two-month peak as yields rise, Fed data looms
+
 **Morgan Stanley Sees Fed Rate Hikes Trail Market Pricing - tokenpost.com**
 `29 Sep 10:14 PKT` · pehli baar dekhi `29 Sep 20:47` · gnews_fed
 
@@ -979,14 +1005,6 @@ Morgan Stanley Sees Fed Rate Hikes Trail Market Pricing tokenpost.com
 `29 Sep 09:25 PKT` · pehli baar dekhi `29 Sep 14:06` · gnews_fed
 
 EBC Live Trader Cup Indonesia Kicks Off Amid NFP and FOMC Season EBC Financial Group
-
-**Dollar hold near two-month peak as yields rise, Fed data looms - CNBC**
-`29 Sep 09:11 PKT` · pehli baar dekhi `29 Sep 14:06` · gnews_fed · **4 feeds mein**
-
-Dollar hold near two-month peak as yields rise, Fed data looms CNBC
-  - `29 Sep 07:42` *gnews_fed* — Dollar hold near two-month peak as yields rise, Fed data looms - SRN News
-  - `29 Sep 07:09` *gnews_fed* — FOREX-Dollar holds near two-month peak as yields rise, Fed data looms - Devdiscourse
-  - `29 Sep 07:07` *investing_news* — Dollar hold near two-month peak as yields rise, Fed data looms
 
 **Dollar keeps climbing as oil, U.S. yields stay high; jobs data looms - CNBC**
 `29 Sep 09:11 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_fed · **2 feeds mein**
@@ -1049,6 +1067,11 @@ Federal Reserve Governor Lisa Cook struck a clearly hawkish but still data-depen
 
 The US Dollar Index (DXY), which measures the value of the US Dollar (USD) against six major currencies, is extending its gains for the second successive day and trading around 101.20 during Asian hours on Tuesday.
   - `29 Sep 07:12` *gnews_fed* — United States Dollar Index strengthens as oil surge bolster Fed rate hike bets - FXStreet
+
+**FOREX-Dollar holds near two-month peak as yields rise, Fed data looms - Devdiscourse**
+`29 Sep 07:09 PKT` · pehli baar dekhi `30 Sep 04:47` · gnews_fed
+
+FOREX-Dollar holds near two-month peak as yields rise, Fed data looms Devdiscourse
 
 **Investors are watching the Fed - but one restaurant stock is up 18.66% this week**
 `29 Sep 07:01 PKT` · pehli baar dekhi `29 Sep 07:43` · investing_news
@@ -1137,9 +1160,10 @@ Austria-Hungary and Germany had no grand imperial vision for Central Europe beyo
 Spain Inflation Surprise Eases ECB Rate Pressure TipRanks
 
 **ECB's DeMarco backs October hike as core inflation stays firm**
-`29 Sep 21:22 PKT` · pehli baar dekhi `30 Sep 04:47` · fxstreet_news · **2 feeds mein**
+`29 Sep 21:22 PKT` · pehli baar dekhi `30 Sep 04:47` · fxstreet_news · **3 feeds mein**
 
 Alexander DeMarco, the Governor of the Central Bank of Malta and member of the Governing Council of the European Central Bank (ECB), crossed the wires on Tuesday, saying that "stronger core inflation" could be a reason for the central bank to act, and that he supports a rate hike in October.
+  - `29 Sep 22:22` *gnews_centralbanks* — ECB's DeMarco backs October hike as core inflation stays firm - tmgm.com
   - `29 Sep 21:22` *gnews_centralbanks* — ECB's DeMarco backs October hike as core inflation stays firm - fxstreet.com
 
 **ECB's DeMarco: I would not exclude a rate hike in October - Forex Factory**
@@ -1404,24 +1428,22 @@ The Pound Sterling (GBP) drops some 0.38% against the US Dollar (USD) on Tuesday
 Prime Minister Burnham presented UK government plans that should help ease gilt investors' concerns about political risks. For now, US rates and energy costs continue in the driver's seat, offering little relief for gilt yield levels
 
 **Bank of England's Taylor says case for rate hike 'not compelling' - San Luis Obispo Tribune**
-`29 Sep 20:57 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_centralbanks
+`29 Sep 20:57 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_centralbanks · **2 feeds mein**
 
 Bank of England's Taylor says case for rate hike 'not compelling' San Luis Obispo Tribune
+  - `29 Sep 20:32` *gnews_centralbanks* — Bank of England's Taylor says case for rate hike 'not compelling' - TradingView
+
+**Bank of England's Taylor says case for rate hike 'not compelling' - Idaho Statesman**
+`29 Sep 20:57 PKT` · pehli baar dekhi `30 Sep 07:28` · gnews_centralbanks · **3 feeds mein**
+
+Bank of England's Taylor says case for rate hike 'not compelling' Idaho Statesman
+  - `29 Sep 20:42` *gnews_centralbanks* — Bank of England's Taylor says case for rate hike 'not compelling' - Yahoo Finance
+  - `29 Sep 20:40` *gnews_centralbanks* — Bank of England's Taylor says case for rate hike 'not compelling' - London South East
 
 **BoE's Taylor says prolonged energy shock could cement case for hikes**
 `29 Sep 20:56 PKT` · pehli baar dekhi `30 Sep 04:47` · fxstreet_news
 
 Bank of England (BoE) Monetary Policy Committee member Alan Taylor said on Tuesday that "monetary policy should not react mechanically to movements in energy prices," though he recognized that if "pressure builds and second round effects" emerge, then the BoE should reassess monetary policy.
-
-**Bank of England's Taylor says case for rate hike 'not compelling' - Yahoo Finance**
-`29 Sep 20:42 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_centralbanks
-
-Bank of England's Taylor says case for rate hike 'not compelling' Yahoo Finance
-
-**Bank of England's Taylor says case for rate hike 'not compelling' - London South East**
-`29 Sep 20:40 PKT` · pehli baar dekhi `29 Sep 20:47` · gnews_centralbanks
-
-Bank of England's Taylor says case for rate hike 'not compelling' London South East
 
 **Pound slides as Bank of England holds interest rates in Britain - This is Money**
 `29 Sep 19:59 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_centralbanks
@@ -1937,6 +1959,11 @@ Five straight weekly declines have left NZD/USD at its lowest since late June. M
 
 A voluntary accord with no legal penalties is likely to be read as lowering the near-term risk of binding federal rules for the largest AI developers, a supportive signal for names such as Nvidia, Meta, Alphabet and Palantir, though the review process is still lightly detailed.
 
+**Oil Prices Lower As Focus Shifts To Middle East Supply - Marine Link**
+`30 Sep 02:10 PKT` · pehli baar dekhi `30 Sep 07:28` · gnews_geopolitics
+
+Oil Prices Lower As Focus Shifts To Middle East Supply Marine Link
+
 **US Distillate Stocks Continue to Fall As Crude Inventories Build**
 `30 Sep 02:02 PKT` · pehli baar dekhi `30 Sep 04:47` · oilprice
 
@@ -2115,6 +2142,11 @@ Brent Crude Falls to $104.1 as Planned US-Iran Talks Weigh on Oil Prices Arbiter
 
 The United Arab Emirates has expressed intent to invest another $25 billion in India, including in the energy sector, Indian Commerce and Industry Minister Piyush Goyal said at a high-level meeting in Mumbai. The UAE has already invested about $25 billion in India and has signaled its intent to invest another $25 billion in the near term, the Indian minister said at the 14th Meeting of the India-UAE High Level Joint Task Force on Investments.
 
+**Iranian Parliament Speaker Warns of Regional Oil Export Disruption Amid Sanctions Pressure - streamlinefeed.co.ke**
+`29 Sep 17:21 PKT` · pehli baar dekhi `30 Sep 07:28` · gnews_geopolitics
+
+Iranian Parliament Speaker Warns of Regional Oil Export Disruption Amid Sanctions Pressure streamlinefeed.co.ke
+
 **Oil steadies on investors focus on Middle East supply - BNN Bloomberg**
 `29 Sep 16:44 PKT` · pehli baar dekhi `29 Sep 20:47` · gnews_geopolitics
 
@@ -2144,6 +2176,11 @@ Rising oil, global yields narrow RBI's room to hold rates: BNP Paribas Daijiworl
 `29 Sep 14:54 PKT` · pehli baar dekhi `29 Sep 20:47` · wsj_world
 
 Plus, Middle East oil exports rebound and Goldman's board discusses a plan to name its next CEO.
+
+**Oil Prices Extend Gains as Markets Monitor US-Iran Talks and Middle East Supplies - Yahoo Finance**
+`29 Sep 14:28 PKT` · pehli baar dekhi `30 Sep 07:28` · gnews_geopolitics
+
+Oil Prices Extend Gains as Markets Monitor US-Iran Talks and Middle East Supplies Yahoo Finance
 
 **US-Iran Conflict Impact on Oil Prices, Energy Markets and Global Economy - Kalkine India**
 `29 Sep 14:20 PKT` · pehli baar dekhi `29 Sep 20:47` · gnews_geopolitics
@@ -2391,15 +2428,16 @@ The Hang Seng Index fell 0.4%, or 92 points, to 24,545 on Tuesday, as investors 
 
 Tehran awaits reply on Hormuz plan as a US official says there will be no deal unless nuclear issues are addressed.
 
+**Oil Price Today (September 29): Crude oil rises to $107 as US-Iran deal stalemate ups supply fears. $120 in sight? - inkl**
+`29 Sep 07:30 PKT` · pehli baar dekhi `30 Sep 07:28` · gnews_geopolitics · **2 feeds mein**
+
+Oil Price Today (September 29): Crude oil rises to $107 as US-Iran deal stalemate ups supply fears. $120 in sight? inkl
+  - `29 Sep 07:11` *gnews_geopolitics* — Oil Price Today (September 29): Crude oil rises to $107 as US-Iran deal stalemate ups supply fears. $120 i - The Economic Times
+
 **Asian Currencies Continue to Face Some Challenges**
 `29 Sep 07:24 PKT` · pehli baar dekhi `29 Sep 07:43` · wsj_markets
 
 Asian currencies continue to face some challenges as higher oil prices have reinforced worries over inflation and tighter monetary policy, MUFG Bank said.
-
-**Oil Price Today (September 29): Crude oil rises to $107 as US-Iran deal stalemate ups supply fears. $120 i - The Economic Times**
-`29 Sep 07:11 PKT` · pehli baar dekhi `29 Sep 07:43` · gnews_geopolitics
-
-Oil Price Today (September 29): Crude oil rises to $107 as US-Iran deal stalemate ups supply fears. $120 i The Economic Times
 
 **Oil extends gains as U.S.-Iran stalemate overshadows Saudi flows**
 `29 Sep 06:40 PKT` · pehli baar dekhi `29 Sep 07:43` · investing_commodities · **2 feeds mein**
@@ -2673,9 +2711,10 @@ Individuals and firms in China, Pakistan, Turkiye, Iran and Saudi Arabia sanctio
 US Treasury sanctions 10 individuals and entities to target Iran's military supply chain WION
 
 **US hits Iran military supply chain as fate of diplomatic talks remains uncertain - TRT World**
-`30 Sep 01:16 PKT` · pehli baar dekhi `30 Sep 04:47` · gnews_geopolitics
+`30 Sep 01:16 PKT` · pehli baar dekhi `30 Sep 04:47` · gnews_geopolitics · **2 feeds mein**
 
 US hits Iran military supply chain as fate of diplomatic talks remains uncertain TRT World
+  - `30 Sep 01:16` *gnews_geopolitics* — US hits Iran military supply chain as fate of diplomatic talks remains uncertain - TRT World
 
 **Opinion | 'Strategic Stability' Is a Comforting Foreign-Policy Fantasy**
 `30 Sep 01:13 PKT` · pehli baar dekhi `30 Sep 01:16` · wsj_world
@@ -2702,6 +2741,12 @@ US imposes sanctions on alleged intermediaries in Iran's military supplies — P
 
 After indirect talks, new US sanctions target Iran's weapons supply Al-Monitor
 
+**U.S. targets Iran's military supply chain as diplomatic talks remain uncertain - PBS**
+`29 Sep 23:39 PKT` · pehli baar dekhi `30 Sep 07:28` · gnews_geopolitics · **2 feeds mein**
+
+U.S. targets Iran's military supply chain as diplomatic talks remain uncertain PBS
+  - `29 Sep 22:06` *gnews_geopolitics* — US targets Iran's military supply chain as the status of diplomatic talks remains uncertain - AP News
+
 **US Expands Iran Sanctions as Rial Hits Record Low - Newsmax**
 `29 Sep 23:33 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_geopolitics
 
@@ -2716,11 +2761,6 @@ US sanctions Iran, Hong Kong and Pakistan firms over military supply chain India
 `29 Sep 22:51 PKT` · pehli baar dekhi `30 Sep 01:16` · aljazeera
 
 Iran&#039;s military has issued an open letter accusing Trump of lying to US citizens about the state of the ongoing war.
-
-**US targets Iran's military supply chain as the status of diplomatic talks remains uncertain - AP News**
-`29 Sep 22:06 PKT` · pehli baar dekhi `30 Sep 01:16` · gnews_geopolitics
-
-US targets Iran's military supply chain as the status of diplomatic talks remains uncertain AP News
 
 **US offers up to 40 million barrels from the SPR**
 `29 Sep 20:48 PKT` · pehli baar dekhi `30 Sep 01:16` · investinglive
@@ -3197,45 +3237,45 @@ investing_news (10)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 14 | 11 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 21 | 9 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 6 | 0 | 6 | 24 | 0.3 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.4 |
-| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 4.4 |
-| instaforex | OK | 25 | 25 | 17 | 8 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 0.2 |
-| cme_metals_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
-| cme_fx_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
-| cme_rates_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
-| cme_energy_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
-| cme_daily_commentary | OK | 10 | 7 | 3 | 4 | 3 | 0.1 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 19.2 |
-| kitco_general | OK | 18 | 18 | 4 | 14 | 0 | 0.2 |
-| gnews_fed | OK | 100 | 100 | 29 | 71 | 0 | 0.1 |
-| gnews_geopolitics | OK | 66 | 66 | 10 | 56 | 0 | 0.1 |
-| gnews_centralbanks | OK | 38 | 38 | 3 | 35 | 0 | 0.1 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.2 |
-| fed_speeches | OK | 15 | 3 | 0 | 3 | 12 | 0.2 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.7 |
-| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 2.0 |
-| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 0.8 |
-| mining_com | OK | 36 | 14 | 3 | 11 | 22 | 0.0 |
-| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.1 |
-| ing_think | OK | 10 | 9 | 1 | 8 | 1 | 0.3 |
-| bbc_business | OK | 53 | 22 | 5 | 17 | 31 | 0.0 |
-| aljazeera | OK | 25 | 25 | 17 | 8 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 11 | 19 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 6 | 0 | 6 | 24 | 0.4 |
+| actionforex | OK | 20 | 20 | 2 | 18 | 0 | 0.0 |
+| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 4.5 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 11 | 2 | 9 | 25 | 0.0 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
+| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.2 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 19.3 |
+| kitco_general | OK | 18 | 18 | 0 | 18 | 0 | 0.2 |
+| gnews_fed | OK | 100 | 100 | 22 | 78 | 0 | 0.0 |
+| gnews_geopolitics | OK | 63 | 63 | 8 | 55 | 0 | 0.0 |
+| gnews_centralbanks | OK | 33 | 33 | 3 | 30 | 0 | 0.2 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.4 |
+| fed_speeches | OK | 15 | 3 | 0 | 3 | 12 | 0.3 |
+| ecb_press | OK | 15 | 2 | 1 | 1 | 13 | 0.0 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.8 |
+| boj_whatsnew | OK | 47 | 1 | 1 | 0 | 46 | 0.0 |
+| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 0.9 |
+| mining_com | OK | 36 | 15 | 1 | 14 | 21 | 0.1 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| ing_think | OK | 10 | 9 | 0 | 9 | 1 | 0.4 |
+| bbc_business | OK | 53 | 22 | 0 | 22 | 31 | 0.1 |
+| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 19.5 |
-| eia_energy | WARN | 19 | 0 | 0 | 0 | 19 | 4.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 5.5 |
-| wsj_world | OK | 74 | 19 | 3 | 16 | 55 | 0.1 |
-| wsj_markets | OK | 61 | 28 | 5 | 23 | 33 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 6.7 |
-| mw_topstories | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 19 | 1 | 18 | 11 | 0.2 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 19.6 |
+| eia_energy | WARN | 19 | 0 | 0 | 0 | 19 | 4.5 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 5.6 |
+| wsj_world | OK | 75 | 20 | 1 | 19 | 55 | 0.0 |
+| wsj_markets | OK | 61 | 32 | 6 | 26 | 29 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 6.9 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 21 | 2 | 19 | 9 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - yahoo_finance — STALE, cadence 1d, magar 7d purana
