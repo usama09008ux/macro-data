@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "30 Sep 2026 06:29",
+  "generated_pkt": "30 Sep 2026 16:16",
   "trading_day": "2026-09-30",
   "feed_sources": {
     "thisweek": "live"
@@ -656,19 +656,6 @@
       "trading_day": "2026-09-30"
     },
     {
-      "title": "German Retail Sales m/m",
-      "ccy": "EUR",
-      "impact": "Low",
-      "forecast": "1.6%",
-      "previous": "-3.4%",
-      "url": "https://www.forexfactory.com/calendar/107-ge-retail-sales-mm",
-      "all_day": false,
-      "utc": "2026-09-30T06:00Z",
-      "pkt": "30 Sep 11:00",
-      "pkt_iso": "2026-09-30T11:00:00+05:00",
-      "trading_day": "2026-09-30"
-    },
-    {
       "title": "Current Account",
       "ccy": "GBP",
       "impact": "Low",
@@ -705,6 +692,19 @@
       "utc": "2026-09-30T06:00Z",
       "pkt": "30 Sep 11:00",
       "pkt_iso": "2026-09-30T11:00:00+05:00",
+      "trading_day": "2026-09-30"
+    },
+    {
+      "title": "German Retail Sales m/m",
+      "ccy": "EUR",
+      "impact": "Low",
+      "forecast": "1.6%",
+      "previous": "-3.4%",
+      "url": "https://www.forexfactory.com/calendar/107-ge-retail-sales-mm",
+      "all_day": false,
+      "utc": "2026-09-30T06:04Z",
+      "pkt": "30 Sep 11:04",
+      "pkt_iso": "2026-09-30T11:04:00+05:00",
       "trading_day": "2026-09-30"
     },
     {
@@ -819,9 +819,9 @@
       "previous": "3.39|1.5",
       "url": "https://www.forexfactory.com/calendar/522-ge-10-y-bond-auction",
       "all_day": false,
-      "utc": "2026-09-30T09:42Z",
-      "pkt": "30 Sep 14:42",
-      "pkt_iso": "2026-09-30T14:42:00+05:00",
+      "utc": "2026-09-30T09:32Z",
+      "pkt": "30 Sep 14:32",
+      "pkt_iso": "2026-09-30T14:32:00+05:00",
       "trading_day": "2026-09-30"
     },
     {
@@ -1020,6 +1020,19 @@
       "trading_day": "2026-09-30"
     },
     {
+      "title": "President Trump Speaks",
+      "ccy": "USD",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/645-us-president-trump-speaks",
+      "all_day": false,
+      "utc": "2026-09-30T19:30Z",
+      "pkt": "01 Oct 00:30",
+      "pkt_iso": "2026-10-01T00:30:00+05:00",
+      "trading_day": "2026-09-30"
+    },
+    {
       "title": "FOMC Member Goolsbee Speaks",
       "ccy": "USD",
       "impact": "Low",
@@ -1048,7 +1061,7 @@
     {
       "title": "FOMC Member Kashkari Speaks",
       "ccy": "USD",
-      "impact": "Low",
+      "impact": "Medium",
       "forecast": "",
       "previous": "",
       "url": "https://www.forexfactory.com/calendar/651-us-fomc-member-kashkari-speaks",

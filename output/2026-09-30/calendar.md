@@ -1,6 +1,6 @@
 # Calendar — Trading Day 30 Sep 2026
 
-- Banaya gaya: **30 Sep 2026 06:29 PKT**
+- Banaya gaya: **30 Sep 2026 16:16 PKT**
 - Trading day: **30 Sep 03:00 -> 01 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,30 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 06:30 | AUD | **HIGH** | CPI m/m | 0.5% | 1.0% |
-| 06:30 | AUD | **HIGH** | CPI y/y | 4.1% | 3.5% |
-| 06:30 | AUD | **HIGH** | Trimmed Mean CPI m/m | 0.3% | 0.5% |
-| 06:30 | AUD | low | Building Approvals m/m | -1.6% | -3.6% |
-| 06:30 | AUD | low | Private Sector Credit m/m | 0.5% | 0.6% |
-| 06:30 | CNY | low | Manufacturing PMI | 50.1 | 49.8 |
-| 06:30 | CNY | low | Non-Manufacturing PMI | 49.2 | 49.0 |
-| 06:45 | CNY | low | RatingDog Manufacturing PMI | 51.7 | 51.5 |
-| 06:45 | CNY | low | RatingDog Services PMI | 51.3 | 51.4 |
-| 10:00 | JPY | low | Housing Starts y/y | 6.9% | 8.2% |
-| 11:00 | EUR | low | German Import Prices m/m | 0.6% | 0.2% |
-| 11:00 | EUR | low | German Retail Sales m/m | 1.6% | -3.4% |
-| 11:00 | GBP | low | Current Account | -25.6B | -22.1B |
-| 11:00 | GBP | low | Final GDP q/q | 0.4% | 0.4% |
-| 11:00 | GBP | low | Revised Business Investment q/q | 1.7% | 1.7% |
-| 11:29 | EUR | MED | German Prelim CPI m/m | 0.5% | 0.2% |
-| 11:45 | EUR | low | French Consumer Spending m/m | 0.0% | 0.5% |
-| 11:45 | EUR | low | French Prelim CPI m/m | -0.5% | 0.7% |
-| 12:55 | EUR | low | German Unemployment Change | 1K | 4K |
-| 13:00 | CHF | low | UBS Economic Expectations | - | 12.1 |
-| 14:00 | EUR | low | Italian Prelim CPI m/m | 0.2% | 0.5% |
-| 14:30 | GBP | low | FPC Meeting Minutes | - | - |
-| 14:30 | GBP | low | FPC Statement | - | - |
-| 14:42 | EUR | low | German 10-y Bond Auction | - | 3.39|1.5 |
 | 17:00 | CAD | chhutti | Bank Holiday | - | - |
 | 17:15 | USD | MED | ADP Non-Farm Employment Change | 73K | 38K |
 | 17:30 | USD | **HIGH** | Core PCE Price Index m/m | 0.3% | 0.2% |
@@ -51,20 +27,38 @@
 | 19:30 | USD | low | Crude Oil Inventories | -0.7M | 3.0M |
 | 22:30 | USD | low | FOMC Member Barkin Speaks | - | - |
 | **01 Oct** 00:25 | USD | low | FOMC Member Cook Speaks | - | - |
+| **01 Oct** 00:30 | USD | MED | President Trump Speaks | - | - |
 | **01 Oct** 02:10 | USD | low | FOMC Member Goolsbee Speaks | - | - |
 | **01 Oct** 02:45 | NZD | low | Building Consents m/m | - | -4.3% |
-| **01 Oct** 03:00 | USD | low | FOMC Member Kashkari Speaks | - | - |
+| **01 Oct** 03:00 | USD | MED | FOMC Member Kashkari Speaks | - | - |
 | **01 Oct** 04:01 | CNY | chhutti | Bank Holiday | - | - |
 | **01 Oct** 04:50 | JPY | low | BOJ Summary of Opinions | - | - |
 | **01 Oct** 04:50 | JPY | low | Tankan Manufacturing Index | 25 | 22 |
 | **01 Oct** 04:50 | JPY | low | Tankan Non-Manufacturing Index | 36 | 37 |
 | **01 Oct** 05:30 | JPY | low | Final Manufacturing PMI | 54.1 | 54.1 |
+| **01 Oct** 06:30 | AUD | low | Goods Trade Balance | 2.00B | 1.92B |
+| **01 Oct** 06:30 | AUD | low | RBA Financial Stability Review | - | - |
+| **01 Oct** 11:00 | GBP | low | Nationwide HPI m/m | 0.0% | 0.2% |
+| **01 Oct** 11:30 | AUD | low | Commodity Prices y/y | - | 15.5% |
+| **01 Oct** 11:30 | CHF | MED | CPI m/m | 0.0% | 0.4% |
+| **01 Oct** 11:30 | CHF | low | Retail Sales y/y | 2.1% | 2.3% |
+| **01 Oct** 12:15 | EUR | low | Spanish Manufacturing PMI | 50.2 | 49.5 |
+| **01 Oct** 12:30 | CHF | low | Manufacturing PMI | 56.3 | 57.1 |
+| **01 Oct** 12:45 | EUR | low | Italian Manufacturing PMI | 50.1 | 49.6 |
+| **01 Oct** 12:50 | EUR | low | French Final Manufacturing PMI | 50.3 | 50.3 |
+| **01 Oct** 12:55 | EUR | low | German Final Manufacturing PMI | 53.8 | 53.8 |
+| **01 Oct** 13:00 | EUR | low | Final Manufacturing PMI | 52.7 | 52.7 |
+| **01 Oct** 13:00 | EUR | low | Italian Monthly Unemployment Rate | 5.8% | 5.8% |
+| **01 Oct** 13:00 | GBP | MED | BOE Gov Bailey Speaks | - | - |
+| **01 Oct** 13:30 | GBP | low | Final Manufacturing PMI | 52.0 | 52.0 |
+| **01 Oct** 14:00 | EUR | low | Unemployment Rate | 6.4% | 6.4% |
+| **01 Oct** 14:03 | EUR | low | Spanish 10-y Bond Auction | - | 3.96|1.7 |
+| **01 Oct** 14:18 | EUR | low | French 10-y Bond Auction | - | 4.23|2.3 |
+| **01 Oct** 14:30 | USD | low | Challenger Job Cuts y/y | - | -38.5% |
+| **01 Oct** 15:35 | EUR | low | German Buba President Nagel Speaks | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
-- `30 Sep 06:30` **AUD CPI m/m**
-- `30 Sep 06:30` **AUD CPI y/y**
-- `30 Sep 06:30` **AUD Trimmed Mean CPI m/m**
 - `30 Sep 17:30` **USD Core PCE Price Index m/m**
 - `30 Sep 17:30` **USD Final GDP q/q**
 
@@ -74,8 +68,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **01 Oct** 11:30 | CHF | MED | CPI m/m | 0.0% | 0.4% |
-| **01 Oct** 13:00 | GBP | MED | BOE Gov Bailey Speaks | - | - |
 | **01 Oct** 17:30 | USD | MED | Unemployment Claims | 201K | 197K |
 | **01 Oct** 18:30 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | **01 Oct** 19:00 | USD | MED | FOMC Member Waller Speaks | - | - |

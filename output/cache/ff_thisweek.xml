@@ -501,16 +501,6 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/257-ge-import-prices-mm]]></url>
 	</event>
 	<event>
-		<title>German Retail Sales m/m</title>
-		<country>EUR</country>
-		<date><![CDATA[09-30-2026]]></date>
-		<time><![CDATA[6:00am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[1.6%]]></forecast>
-		<previous><![CDATA[-3.4%]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/107-ge-retail-sales-mm]]></url>
-	</event>
-	<event>
 		<title>Current Account</title>
 		<country>GBP</country>
 		<date><![CDATA[09-30-2026]]></date>
@@ -539,6 +529,16 @@
 		<forecast><![CDATA[1.7%]]></forecast>
 		<previous><![CDATA[1.7%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/187-uk-revised-business-investment-qq]]></url>
+	</event>
+	<event>
+		<title>German Retail Sales m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[09-30-2026]]></date>
+		<time><![CDATA[6:04am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[1.6%]]></forecast>
+		<previous><![CDATA[-3.4%]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/107-ge-retail-sales-mm]]></url>
 	</event>
 	<event>
 		<title>German Prelim CPI m/m</title>
@@ -624,7 +624,7 @@
 		<title>German 10-y Bond Auction</title>
 		<country>EUR</country>
 		<date><![CDATA[09-30-2026]]></date>
-		<time><![CDATA[9:42am]]></time>
+		<time><![CDATA[9:32am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous><![CDATA[3.39|1.5]]></previous>
@@ -781,6 +781,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/886-us-fomc-member-cook-speaks]]></url>
 	</event>
 	<event>
+		<title>President Trump Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[09-30-2026]]></date>
+		<time><![CDATA[7:30pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/645-us-president-trump-speaks]]></url>
+	</event>
+	<event>
 		<title>FOMC Member Goolsbee Speaks</title>
 		<country>USD</country>
 		<date><![CDATA[09-30-2026]]></date>
@@ -805,7 +815,7 @@
 		<country>USD</country>
 		<date><![CDATA[09-30-2026]]></date>
 		<time><![CDATA[10:00pm]]></time>
-		<impact><![CDATA[Low]]></impact>
+		<impact><![CDATA[Medium]]></impact>
 		<forecast />
 		<previous />
 		<url><![CDATA[https://www.forexfactory.com/calendar/651-us-fomc-member-kashkari-speaks]]></url>
