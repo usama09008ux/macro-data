@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 30 Sep 2026
 
-- Banaya gaya: **30 Sep 2026 16:22 PKT**
+- Banaya gaya: **30 Sep 2026 23:00 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
@@ -11,7 +11,7 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| Fed funds target (upper) <br>`DFEDTARU` | **4.00%** | 0.0 | 0.0 | +0.25 | 25 | 2026-09-29 |
+| Fed funds target (upper) <br>`DFEDTARU` | **4.00%** | 0.0 | 0.0 | +0.25 | 25 | 2026-09-30 |
 | US 2Y yield <br>`DGS2` | **4.92%** | +0.11 | +0.16 | +0.58 | 93 | 2026-09-28 |
 | US 10Y yield <br>`DGS10` | **5.24%** | +0.07 | +0.28 | +0.51 | 100 | 2026-09-28 |
 | US 30Y yield <br>`DGS30` | **5.56%** | +0.07 | +0.27 | +0.34 | 100 | 2026-09-28 |
@@ -36,8 +36,8 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| VIX <br>`VIXCLS` | **16.07** | +1.2 | +1.2 | +1.15 | 44 | 2026-09-28 |
-| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.02%** | +0.09 | +0.36 | +0.39 | 49 | 2026-09-28 |
+| VIX <br>`VIXCLS` | **16.04** | -0.03 | +1.83 | -0.3 | 43 | 2026-09-29 |
+| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.08%** | +0.06 | +0.4 | +0.43 | 53 | 2026-09-29 |
 | Financial stress index <br>`STLFSI4` | **-0.91** | -0.0589 | -0.0805 | -0.2394 | 4 | 2026-09-18 |
 
 ---
@@ -48,7 +48,7 @@
 |---|---|---|---|---|---|
 | CPI (headline) <br>`CPIAUCSL` | **334.13idx** | +0.4 | +3.71 | 97 | 2026-08-01 |
 | Core CPI <br>`CPILFESL` | **337.76idx** | +0.29 | +2.76 | 97 | 2026-08-01 |
-| Core PCE (Fed ka hadaf) <br>`PCEPILFE` | **130.66idx** | +0.25 | +3.34 | 97 | 2026-07-01 |
+| Core PCE (Fed ka hadaf) <br>`PCEPILFE` | **130.46idx** | +0.25 | +3.01 | 97 | 2026-08-01 |
 | PPI final demand <br>`PPIFIS` | **157.41idx** | +0.4 | +5.41 | 97 | 2026-08-01 |
 
 ---
@@ -70,7 +70,7 @@
 |---|---|---|---|---|---|---|
 | Retail sales <br>`RSAFS` | **737,763$m** | +1.13 | +5.36 |  | 97 | 2026-08-01 |
 | Industrial production <br>`INDPRO` | **103.07idx** | +0.02 | +1.42 |  | 97 | 2026-08-01 |
-| Real GDP <br>`GDPC1` | **24,270$b** |  | +2.1 | +0.37 | - | 2026-04-01 |
+| Real GDP <br>`GDPC1` | **24,408$b** |  | +2.19 | +0.55 | - | 2026-04-01 |
 
 ---
 
