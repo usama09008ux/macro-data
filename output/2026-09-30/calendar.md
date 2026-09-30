@@ -1,6 +1,6 @@
 # Calendar — Trading Day 30 Sep 2026
 
-- Banaya gaya: **30 Sep 2026 16:16 PKT**
+- Banaya gaya: **30 Sep 2026 22:18 PKT**
 - Trading day: **30 Sep 03:00 -> 01 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,19 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 17:00 | CAD | chhutti | Bank Holiday | - | - |
-| 17:15 | USD | MED | ADP Non-Farm Employment Change | 73K | 38K |
-| 17:30 | USD | **HIGH** | Core PCE Price Index m/m | 0.3% | 0.2% |
-| 17:30 | USD | **HIGH** | Final GDP q/q | 1.5% | 1.5% |
-| 17:30 | USD | MED | Final GDP Price Index q/q | 6.4% | 6.4% |
-| 17:30 | USD | low | Goods Trade Balance | -116.3B | -118.8B |
-| 17:30 | USD | low | Personal Income m/m | 0.5% | 0.4% |
-| 17:30 | USD | low | Personal Spending m/m | 0.8% | 0.2% |
-| 17:30 | USD | low | Prelim Wholesale Inventories m/m | 0.5% | 1.3% |
-| 18:00 | CHF | low | SNB Quarterly Bulletin | - | - |
-| 18:45 | USD | low | Chicago PMI | 51.2 | 47.1 |
-| 19:30 | CHF | low | Gov Board Member Tschudin Speaks | - | - |
-| 19:30 | USD | low | Crude Oil Inventories | -0.7M | 3.0M |
 | 22:30 | USD | low | FOMC Member Barkin Speaks | - | - |
 | **01 Oct** 00:25 | USD | low | FOMC Member Cook Speaks | - | - |
 | **01 Oct** 00:30 | USD | MED | President Trump Speaks | - | - |
@@ -56,11 +43,23 @@
 | **01 Oct** 14:18 | EUR | low | French 10-y Bond Auction | - | 4.23|2.3 |
 | **01 Oct** 14:30 | USD | low | Challenger Job Cuts y/y | - | -38.5% |
 | **01 Oct** 15:35 | EUR | low | German Buba President Nagel Speaks | - | - |
+| **01 Oct** 17:00 | GBP | low | MPC Member Mann Speaks | - | - |
+| **01 Oct** 17:30 | USD | MED | Unemployment Claims | 201K | 197K |
+| **01 Oct** 18:05 | USD | low | FOMC Member Barkin Speaks | - | - |
+| **01 Oct** 18:05 | USD | low | FOMC Member Collins Speaks | - | - |
+| **01 Oct** 18:05 | USD | low | FOMC Member Schmid Speaks | - | - |
+| **01 Oct** 18:30 | CAD | low | Manufacturing PMI | - | 53.0 |
+| **01 Oct** 18:30 | EUR | MED | ECB President Lagarde Speaks | - | - |
+| **01 Oct** 18:45 | USD | low | Final Manufacturing PMI | 56.9 | 57.0 |
+| **01 Oct** 19:00 | USD | MED | FOMC Member Waller Speaks | - | - |
+| **01 Oct** 19:00 | USD | MED | ISM Manufacturing PMI | 54.8 | 54.6 |
+| **01 Oct** 19:00 | USD | low | Construction Spending m/m | 0.0% | -0.5% |
+| **01 Oct** 19:00 | USD | low | ISM Manufacturing Prices | 72.9 | 71.1 |
+| **01 Oct** 19:15 | USD | low | Omdia Total Vehicle Sales | 16.3M | 16.8M |
+| **01 Oct** 19:30 | USD | low | Natural Gas Storage | 63B | 53B |
+| **01 Oct** 20:30 | CHF | MED | SNB Chairman Schlegel Speaks | - | - |
 
-**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
-
-- `30 Sep 17:30` **USD Core PCE Price Index m/m**
-- `30 Sep 17:30` **USD Final GDP q/q**
+*Agle 24 ghante mein koi HIGH impact event nahi.*
 
 ---
 
@@ -68,11 +67,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **01 Oct** 17:30 | USD | MED | Unemployment Claims | 201K | 197K |
-| **01 Oct** 18:30 | EUR | MED | ECB President Lagarde Speaks | - | - |
-| **01 Oct** 19:00 | USD | MED | FOMC Member Waller Speaks | - | - |
-| **01 Oct** 19:00 | USD | MED | ISM Manufacturing PMI | 54.8 | 54.6 |
-| **01 Oct** 20:30 | CHF | MED | SNB Chairman Schlegel Speaks | - | - |
 | **02 Oct** 04:30 | JPY | MED | Tokyo Core CPI y/y | 2.4% | 1.8% |
 | **02 Oct** 14:00 | EUR | MED | Core CPI Flash Estimate y/y | 2.5% | 2.4% |
 | **02 Oct** 14:00 | EUR | MED | CPI Flash Estimate y/y | 3.7% | 3.3% |
@@ -84,5 +78,11 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 30 Sep 20:28 | US August Dallas Fed Trimmed mean PCE inflat | 1.9% | 2.2% | -0.30pp (-14%) | neeche |
+| 30 Sep 17:30 | US GDP Final for Q2 | 2.2% | 1.5% | +0.70pp (+47%) | upar |
+| 30 Sep 17:15 | US ADP national employment | +90K | +70K | +20.0K (+29%) | upar |
 

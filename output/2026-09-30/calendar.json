@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "30 Sep 2026 16:16",
+  "generated_pkt": "30 Sep 2026 22:18",
   "trading_day": "2026-09-30",
   "feed_sources": {
     "thisweek": "live"
@@ -1852,5 +1852,48 @@
       "trading_day": "2026-10-03"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US August Dallas Fed Trimmed mean PCE inflation at 1.9% vs 2.2% expected",
+      "actual_raw": "1.9%",
+      "forecast_raw": "2.2%",
+      "beat": false,
+      "raw_diff": "-0.30pp",
+      "sign_flip": false,
+      "diff_pct": -13.6,
+      "when_pkt": "30 Sep 20:28",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US GDP Final for Q2 2.2% vs 1.5% estimate",
+      "actual_raw": "2.2%",
+      "forecast_raw": "1.5%",
+      "beat": true,
+      "raw_diff": "+0.70pp",
+      "sign_flip": false,
+      "diff_pct": 46.7,
+      "when_pkt": "30 Sep 17:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US ADP national employment +90K vs +70K expected",
+      "actual_raw": "+90K",
+      "forecast_raw": "+70K",
+      "beat": true,
+      "raw_diff": "+20.0K",
+      "sign_flip": false,
+      "diff_pct": 28.6,
+      "when_pkt": "30 Sep 17:15",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }
