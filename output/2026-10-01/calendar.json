@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "01 Oct 2026 16:43",
+  "generated_pkt": "01 Oct 2026 22:45",
   "trading_day": "2026-10-01",
   "feed_sources": {
     "thisweek": "live"
@@ -1865,6 +1865,21 @@
       "source": "fxstreet_news",
       "tags": [
         "jpy"
+      ]
+    },
+    {
+      "title": "Italy September manufacturing PMI 50.4 vs 50.0 expected",
+      "actual_raw": "50.4",
+      "forecast_raw": "50.0",
+      "beat": true,
+      "raw_diff": "+0.40",
+      "sign_flip": false,
+      "diff_pct": 0.8,
+      "when_pkt": "01 Oct 12:45",
+      "source": "investinglive",
+      "tags": [
+        "risk",
+        "usd"
       ]
     }
   ]
