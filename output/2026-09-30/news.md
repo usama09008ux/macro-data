@@ -1,13 +1,28 @@
 # News Pack — Trading Day 30 Sep 2026
 
 - Trading day: **30 Sep 03:00 -> 01 Oct 02:59 PKT**
-- Aakhri update: **01 Oct 01:24 PKT**
-- Kul khabrein: **909**
+- Aakhri update: **01 Oct 05:05 PKT**
+- Kul khabrein: **1001**
 - Feeds: 35/39 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**Euro futures drop 2.5% as markets look to jobs data.**
+`01 Oct 02:34 PKT` · pehli baar dekhi `01 Oct 05:05` · cme_fx_video
+
+Euro FX futures continued to decline through the end of September, closing out the month with a loss of over 2.5%. The currency struggled as sustained dollar strength pushed prices to a new year-to-date low close, settling at 1.1330. As prices have moved lower, the CVOL Index has indicated steadily rising volatility across the market.
+
+**Nasdaq-100 futures hold gains as inflation data cools.**
+`01 Oct 02:18 PKT` · pehli baar dekhi `01 Oct 05:05` · cme_daily_commentary
+
+Dan Deming of KKM Financial analyzes price action in equity index futures as Nasdaq-100 futures secure a second consecutive winning session, gaining 0.25% despite late-day selling pressure that pulled prices off session highs. Market drivers included cooler-than-expected Personal Consumption Expenditures (PCE) inflation data and stronger-than-expected GDP figures, which initially sparked a broad rally before quarter-end sector rotation pressured major equity indexes.
+
+**10-Year T-Note futures hit new lows as Treasury yields surge.**
+`01 Oct 02:13 PKT` · pehli baar dekhi `01 Oct 05:05` · cme_rates_video
+
+10-Year T-Note futures traded lower for a third consecutive session, pressing into the 104 handle at 104'06 to mark new contract closing lows. Market participants digested the latest PCE inflation figures and revised GDP data. While PCE inflation came in below expectations, it remains above the Federal Reserve's 2% target, shifting initial buying pressure into selling across the back end of the curve.
 
 **WTI Crude Oil futures climb past $91 on tight supply.**
 `01 Oct 00:54 PKT` · pehli baar dekhi `01 Oct 01:24` · cme_energy_video
@@ -52,6 +67,11 @@ Our Financial Policy Committee (FPC) meets to identify risks to financial stabil
 ## Khabrein
 
 ### MARKET WRAP
+
+**investingLive Americas FX news wrap 30 Sept: Softer PCE fails to hold yields down; Dow ends September at June lows**
+`01 Oct 02:09 PKT` · pehli baar dekhi `01 Oct 05:05` · investinglive
+
+Softer inflation gave markets some breathing room early Wednesday. But by the end of the session, Treasury yields were higher, the dollar had strengthened against most major currencies, and the stock market's gains were concentrated in the Nasdaq indices. The economic picture was mixed. August PCE inflation came in below expectations, second-quarter growth was revised higher, and a larger goods trade deficit contributed to a sharp downgrade in the Atlanta Fed's third-quarter growth estimate.
 
 **European stocks close lower as Wall Street gains; oil rises and silver slides**
 `30 Sep 21:11 PKT` · pehli baar dekhi `01 Oct 01:24` · investinglive
@@ -179,6 +199,11 @@ Australia's fourth rate hike of 2026 sent the Australian Dollar lower on Tuesday
 European natural gas prices have soared dramatically since the war in Iran trapped a fifth of the world's liquefied natural gas supply behind the Strait of Hormuz. The high prices are creating a headache for governments amid soaring energy bills for households and spiking energy costs for industry. The surge in natural gas, gasoline, and diesel prices in recent months is clearly fueling inflation.
 
 ### GOLD
+
+**What China's Golden Week closures mean for the yuan, futures and Asian liquidity**
+`01 Oct 02:06 PKT` · pehli baar dekhi `01 Oct 05:05` · investinglive
+
+Hong Kong will trade on October 2, 5, 6 and 7 without Stock Connect flows in either direction, which may leave China-focused and dual-listed shares on thinner, more offshore-driven liquidity. With the onshore yuan market shut, offshore yuan carries price discovery with less depth, and mainland commodity and financial futures are closed, so traders lose Chinese price signals for a week.
 
 **Gold is setting up for one of its best decades as fiat currencies face mounting pressure - WisdomTree's Shah - Kitco**
 `01 Oct 00:43 PKT` · pehli baar dekhi `01 Oct 01:24` · kitco_general
@@ -321,6 +346,33 @@ Gold price (XAU/USD) rebounds from an eight-week low to near $4,180 during the e
 
 ### USD
 
+**Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - thebusinessjournal.com**
+`01 Oct 02:22 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_fed · **7 feeds mein**
+
+Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement thebusinessjournal.com
+  - `01 Oct 00:00` *gnews_fed* — Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - myMotherLode.com
+  - `30 Sep 23:47` *gnews_fed* — Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - The Virginian-Pilot
+  - `30 Sep 23:32` *gnews_fed* — Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - KRCG
+  - `30 Sep 23:08` *gnews_fed* — Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - Spectrum News
+  - `30 Sep 22:57` *gnews_fed* — Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - News-Press NOW
+  - `30 Sep 22:10` *gnews_fed* — Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - East Bay Times
+
+**Surging Yields Bring the Bond Market Back to the Turn of the Century**
+`01 Oct 02:07 PKT` · pehli baar dekhi `01 Oct 05:05` · wsj_markets
+
+The 10-year Treasury yield climbs above 5.3% to a level not seen in 24 years.
+
+**US inflation rises below expectations in August, gives the Fed breathing space - kitco.com**
+`01 Oct 02:03 PKT` · pehli baar dekhi `01 Oct 05:05` · kitco_general · **2 feeds mein**
+
+US inflation rises below expectations in August, gives the Fed breathing space kitco.com
+  - `30 Sep 22:53` *gnews_fed* — US inflation rises below expectations in August, gives the Fed breathing space - Reuters
+
+**Fed watchdog finds no crimes in $2.4-billion building renovation, only mismanagement - Los Angeles Times**
+`01 Oct 01:57 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_fed
+
+Fed watchdog finds no crimes in $2.4-billion building renovation, only mismanagement Los Angeles Times
+
 **Colombia Lifts Key Interest Rate to 12.25% in September Decision**
 `01 Oct 01:24 PKT` · instaforex
 
@@ -408,6 +460,22 @@ Federal Reserve watchdog clears Powell in headquarters renovation saga Scotsman 
 
 No 'misconduct' in Fed building renovation, watchdog finds RealEstateNews.com
 
+**Unemployment, inflation in rural areas are broadly consistent with national trends: Fed's Cook - TradingView**
+`01 Oct 00:51 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_fed
+
+Unemployment, inflation in rural areas are broadly consistent with national trends: Fed's Cook TradingView
+
+**Fed's Cook: inflation has been too high for too long - kentucky.com**
+`01 Oct 00:44 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_fed · **2 feeds mein**
+
+Fed's Cook: inflation has been too high for too long kentucky.com
+  - `01 Oct 00:28` *gnews_fed* — Fed's Cook: inflation has been too high for too long - Reuters
+
+**Fed's Cook: inflation has been too high for too long - Belleville News-Democrat**
+`01 Oct 00:44 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_fed
+
+Fed's Cook: inflation has been too high for too long Belleville News-Democrat
+
 **U.S. bond yields post biggest jump in a generation as global rout rattles investors**
 `01 Oct 00:42 PKT` · pehli baar dekhi `01 Oct 01:24` · mw_topstories
 
@@ -418,10 +486,10 @@ Yields in the global bond market have risen with startling speed over the past f
 
 'Over the near term, we expect supply to fall off, unless someone has to borrow,' says Invesco's Matt Brill
 
-**Fed's Cook: inflation has been too high for too long - Reuters**
-`01 Oct 00:28 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed
+**Why are US treasury yields falling today? Federal Reserve interest rate hike in October expectations drop - The Economic Times**
+`01 Oct 00:29 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_fed
 
-Fed's Cook: inflation has been too high for too long Reuters
+Why are US treasury yields falling today? Federal Reserve interest rate hike in October expectations drop The Economic Times
 
 **Watchdog finds Fed mishandled renovations that Trump tried to oust Powell over - The Washington Post**
 `01 Oct 00:22 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed
@@ -432,6 +500,11 @@ Watchdog finds Fed mishandled renovations that Trump tried to oust Powell over T
 `01 Oct 00:19 PKT` · pehli baar dekhi `01 Oct 01:24` · fxstreet_news
 
 The Mexican Peso (MXN) prolongs its agony, extending losses by over 0.11% against the Greenback for the third straight day on Wednesday, while USD/MXN continues to trade above the psychological level of 18.00 as the carry trade loses its appeal.
+
+**The final verdict is in for the Fed's troubled renovation and Jerome Powell - Fox Business**
+`01 Oct 00:13 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_fed
+
+The final verdict is in for the Fed's troubled renovation and Jerome Powell Fox Business
 
 **Fed's $2.5 billion renovation broke no laws, but watchdog blasts cost overruns - aol.com**
 `01 Oct 00:10 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed
@@ -456,19 +529,33 @@ US Fed watchdog finds no criminal wrongdoing in Powell-era renovation costs Al J
 U.S. Treasury yields reversed early declines and the bonds selloff resumed as an uncertain long-term outlook offset temporary inflation relief.
 
 **Stubborn inflation and consistent growth shift Fed debate to timing of next hike - fox23maine.com**
-`30 Sep 23:50 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed · **6 feeds mein**
+`30 Sep 23:50 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed · **14 feeds mein**
 
 Stubborn inflation and consistent growth shift Fed debate to timing of next hike fox23maine.com
+  - `30 Sep 23:48` *gnews_fed* — Stubborn inflation and consistent growth shift Fed debate to timing of next hike - myfox28columbus.com
+  - `30 Sep 23:47` *gnews_fed* — Stubborn inflation and consistent growth shift Fed debate to timing of next hike - midmichigannow.com
+  - `30 Sep 23:47` *gnews_fed* — Stubborn inflation and consistent growth shift Fed debate to timing of next hike - fox23.com
   - `30 Sep 23:47` *gnews_fed* — Stubborn inflation and consistent growth shift Fed debate to timing of next hike - WGXA
   - `30 Sep 23:47` *gnews_fed* — Stubborn inflation and consistent growth shift Fed debate to timing of next hike - WKRC
   - `30 Sep 23:47` *gnews_fed* — Stubborn inflation and consistent growth shift Fed debate to timing of next hike - KRXI
+  - `30 Sep 23:47` *gnews_fed* — Stubborn inflation and consistent growth shift Fed debate to timing of next hike - wtwcfox
+  - `30 Sep 23:47` *gnews_fed* — Stubborn inflation and consistent growth shift Fed debate to timing of next hike - WSBT
+  - `30 Sep 23:46` *gnews_fed* — Stubborn inflation and consistent growth shift Fed debate to timing of next hike - KABB
   - `30 Sep 23:46` *gnews_fed* — Stubborn inflation and consistent growth shift Fed debate to timing of next hike - 13wham.com
+  - `30 Sep 23:46` *gnews_fed* — Stubborn inflation and consistent growth shift Fed debate to timing of next hike - WSYX
+  - `30 Sep 23:46` *gnews_fed* — Stubborn inflation and consistent growth shift Fed debate to timing of next hike - KOKH
   - `30 Sep 23:46` *gnews_fed* — Stubborn inflation and consistent growth shift Fed debate to timing of next hike - kcby.com
 
+**Metals fade as long yields offset cooler inflation, lower Fed odds - Kitco PM Report - kitco.com**
+`30 Sep 23:43 PKT` · pehli baar dekhi `01 Oct 05:05` · kitco_general
+
+Metals fade as long yields offset cooler inflation, lower Fed odds - Kitco PM Report kitco.com
+
 **Watchdog finds no criminal misconduct in $2.5 billion Fed renovation - USA Today**
-`30 Sep 23:38 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed
+`30 Sep 23:38 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed · **2 feeds mein**
 
 Watchdog finds no criminal misconduct in $2.5 billion Fed renovation USA Today
+  - `30 Sep 23:14` *gnews_fed* — Watchdog finds no criminal misconduct in $2.5 billion Fed renovation - Yahoo News Singapore
 
 **BREAKING: Fed Reserve IG finds no criminal violation in renovation - Modern Ghana**
 `30 Sep 23:34 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed
@@ -487,23 +574,19 @@ The Fed's building renovations and Trump's push to oust Powell Kitco
 Powell did not break the law with expensive Fed renovations that incensed Trump, report finds KION Central Coast
 
 **Watchdog finds problems but no Fed misconduct in Powell-era renovation project - Kitco**
-`30 Sep 23:33 PKT` · pehli baar dekhi `01 Oct 01:24` · kitco_general · **2 feeds mein**
+`30 Sep 23:33 PKT` · pehli baar dekhi `01 Oct 01:24` · kitco_general · **6 feeds mein**
 
 Watchdog finds problems but no Fed misconduct in Powell-era renovation project Kitco
+  - `01 Oct 00:57` *gnews_fed* — Watchdog finds problems but no Fed misconduct in Powell-era renovation project - New Hampshire Union Leader
   - `01 Oct 00:01` *gnews_fed* — Watchdog finds problems but no Fed misconduct in Powell-era renovation project - Reuters
+  - `30 Sep 22:54` *gnews_fed* — Watchdog finds problems but no Fed misconduct in Powell-era renovation project - The Lufkin Daily News
+  - `30 Sep 22:11` *gnews_fed* — Watchdog finds problems but no Fed misconduct in Powell-era renovation project - Tacoma News Tribune
+  - `30 Sep 22:11` *gnews_fed* — Watchdog finds problems but no Fed misconduct in Powell-era renovation project - The State
 
 **The inspector general report had been seen as a potential resolution to a political and legal drama that prompted Jerome Powell to stay at the Fed after his chairmanship ended**
 `30 Sep 23:33 PKT` · pehli baar dekhi `01 Oct 01:24` · wsj_economy
 
 An inspector general report had been seen as a potential resolution to a political and legal drama that prompted Jerome Powell to stay at the Fed after his chairmanship ended.
-
-**Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - KRCG**
-`30 Sep 23:32 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed · **4 feeds mein**
-
-Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement KRCG
-  - `30 Sep 23:08` *gnews_fed* — Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - Spectrum News
-  - `30 Sep 22:57` *gnews_fed* — Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - News-Press NOW
-  - `30 Sep 22:10` *gnews_fed* — Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - East Bay Times
 
 **Forex Today: Fedspeak, Jobless Claims and ISM data steal the show**
 `30 Sep 23:30 PKT` · pehli baar dekhi `01 Oct 01:24` · fxstreet_news
@@ -530,11 +613,6 @@ Experts question whether tougher laws will improve enforcement after a push from
 
 Fed watchdog clears former chair Powell in renovation probe Axios
 
-**US inflation rises below expectations in August, gives the Fed breathing space - Reuters**
-`30 Sep 22:53 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed
-
-US inflation rises below expectations in August, gives the Fed breathing space Reuters
-
 **The Federal Reserve's inspector general says the Fed's renovations, previously criticized by President Trump, did not violate federal law. In a report released Wednesday, the office said it found "deficiencies in the management of the renovation project," but did - Yahoo Finance**
 `30 Sep 22:42 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed
 
@@ -550,6 +628,11 @@ Fed watchdog finds no criminality in renovation probe The Hill
 
 With U.S. Treasury yields on the rise, financial planners say they're seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.
 
+**Watchdog finds deficiencies but no Fed misconduct in Powell-era renovation project - thedailyrecord.com**
+`30 Sep 22:34 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_fed
+
+Watchdog finds deficiencies but no Fed misconduct in Powell-era renovation project thedailyrecord.com
+
 **Federal Reserve watchdog finds no illegal conduct from Jay Powell in building renovations - Washington Examiner**
 `30 Sep 22:33 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed
 
@@ -561,9 +644,15 @@ Federal Reserve watchdog finds no illegal conduct from Jay Powell in building re
 Sky-high energy costs fuel inflation pain across Europe dailysabah.com
 
 **Fed Reserve IG: No criminal violation in renovation - ms.now**
-`30 Sep 22:24 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed
+`30 Sep 22:24 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed · **2 feeds mein**
 
 Fed Reserve IG: No criminal violation in renovation ms.now
+  - `30 Sep 22:24` *gnews_fed* — Fed Reserve IG: No criminal violation in renovation - MS NOW
+
+**U.S. Federal Reserve Chair Jerome Powell attends a press conference at the U.S. Federal Reserve in Washington - The Lufkin Daily News**
+`30 Sep 22:18 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_fed
+
+U.S. Federal Reserve Chair Jerome Powell attends a press conference at the U.S. Federal Reserve in Washington The Lufkin Daily News
 
 **Fed watchdog finds no criminal violations in HQ project - American Banker**
 `30 Sep 22:16 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed
@@ -706,6 +795,11 @@ US inflation rises less than expected, tempering Fed hike concerns dailysabah.co
 `30 Sep 20:05 PKT` · pehli baar dekhi `30 Sep 20:50` · gnews_fed
 
 Fed's Waller Says AI Shopping Changes What Banks Need to Authenticate PYMNTS.com
+
+**Fed's Preferred Inflation Gauge Points to Continued Price Pressures - The New York Times**
+`30 Sep 19:38 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_fed
+
+Fed's Preferred Inflation Gauge Points to Continued Price Pressures The New York Times
 
 **This is the big risk that stock investors should be watching as rising bond yields menace markets**
 `30 Sep 19:31 PKT` · pehli baar dekhi `30 Sep 20:50` · mw_topstories
@@ -1345,10 +1439,20 @@ Will the Fed Raise Interest Rates in October? Key Signal Arrives CryptoRank
 
 ### EUR
 
+**Franklin Templeton's Zahn favours German and Spanish bonds, sees growth slowing in Europe**
+`01 Oct 02:36 PKT` · pehli baar dekhi `01 Oct 05:05` · investinglive
+
+Points to a preference for core euro-area debt over markets with more political risk, with French and Italian bonds treated as opportunities to wait for rather than buy now. Gilts carry the clearest event risk into the Budget, and the concern is that a smaller fiscal buffer would be poorly received, even if a large sell-off is not expected. The view that too many rate hikes are priced in leaves room for yields to ease over time, though not quickly.
+
 **ECB's Schnabel: Three Factors to Watch Before Further Rate Hikes - IndexBox**
 `01 Oct 00:53 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_centralbanks
 
 ECB's Schnabel: Three Factors to Watch Before Further Rate Hikes IndexBox
+
+**Lagarde signals she could leave ECB a few months early in 2027 - Operativ Məlumat Mərkəzi**
+`01 Oct 00:47 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_centralbanks
+
+Lagarde signals she could leave ECB a few months early in 2027 Operativ Məlumat Mərkəzi
 
 **Eurozone Inflation Jumps in September on Energy Prices: ECB Rate Hike Pressure - News and Statistics - IndexBox**
 `01 Oct 00:00 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_centralbanks
@@ -1365,6 +1469,12 @@ Watchdog finds no criminal misconduct over US Fed renovations despite Trump prob
 
 EUR/USD remains on the defensive on Wednesday as a broadly stronger US Dollar (USD) weighs on the pair, leaving the Euro on track for a loss of more than 2% in September. At the time of writing, EUR/USD trades around 1.1337, close to Tuesday's low of 1.1312, its weakest level since May 2025.
 
+**Price expectations and demand key in ECB's next move, Schnabel says - WTVB**
+`30 Sep 22:05 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_centralbanks · **2 feeds mein**
+
+Price expectations and demand key in ECB's next move, Schnabel says WTVB
+  - `30 Sep 21:05` *gnews_centralbanks* — Price expectations and demand key in ECB's next move, Schnabel says - The Mighty 790 KFGO
+
 **ECB's Lagarde warns France needs a credible path to rein in debt**
 `30 Sep 21:25 PKT` · pehli baar dekhi `01 Oct 01:24` · fxstreet_news
 
@@ -1374,11 +1484,6 @@ European Central Bank (ECB) President Christine Lagarde said that France's debt 
 `30 Sep 21:11 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_centralbanks
 
 ECB flags inflation expectations and demand as key to next rate move Traders Union
-
-**Price expectations and demand key in ECB's next move, Schnabel says - The Mighty 790 KFGO**
-`30 Sep 21:05 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_centralbanks
-
-Price expectations and demand key in ECB's next move, Schnabel says The Mighty 790 KFGO
 
 **Euro-Area Inflation Surge Puts Another ECB Rate Hike in Focus - Bloomberg.com**
 `30 Sep 21:00 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_centralbanks
@@ -1413,10 +1518,11 @@ Sterling rose to a one-month high against the euro following upwardly revised U.
 EUR/USD has fallen to its lowest level since May 2025, but a fresh inflation shock in the Eurozone could give the Euro (EUR) an unexpected lifeline. The pair hit 1.1312 on Wednesday and trades well below the January peak of 1.2082.
 
 **Inflation jumps across euro zone, raising pressure on ECB to hike - Reuters**
-`30 Sep 18:19 PKT` · pehli baar dekhi `30 Sep 20:50` · gnews_centralbanks · **2 feeds mein**
+`30 Sep 18:19 PKT` · pehli baar dekhi `30 Sep 20:50` · gnews_centralbanks · **3 feeds mein**
 
 Inflation jumps across euro zone, raising pressure on ECB to hike Reuters
   - `30 Sep 15:46` *gnews_centralbanks* — Inflation jumps across euro zone, raising pressure on ECB to hike - WTVB
+  - `30 Sep 15:42` *gnews_centralbanks* — Inflation jumps across euro zone, raising pressure on ECB to hike - Sacramento Bee
 
 **EUR/GBP: Range set to persist – Rabobank**
 `30 Sep 17:58 PKT` · pehli baar dekhi `30 Sep 20:50` · fxstreet_news
@@ -1741,6 +1847,21 @@ The case for another Bank of England (BoE) hike rests on energy prices, and on T
 
 ### JPY
 
+**USD/JPY Price Forecast: 50-day SMA caps recovery near 158.00**
+`01 Oct 02:54 PKT` · pehli baar dekhi `01 Oct 05:05` · fxstreet_news
+
+The USD/JPY registers modest gains of 0.08% on Wednesday after US inflation data trimmed market bets on a Federal Reserve rate hike at the October 28 meeting. At the time of writing, the pair trades at 157.42.
+
+**Economic and event calendar in Asia Thursday, October 1, 2026 - we hear from the Bank of Japan**
+`01 Oct 01:43 PKT` · pehli baar dekhi `01 Oct 05:05` · investinglive
+
+It's a packed data agenda for the session here. I'll be mostly awaiting the Bank of Japan 'Summary'. The Bank of Japan's Summary of Opinions is a short document that collects the views expressed at a monetary policy meeting, published without naming who said what. It gives the market a read on the tone of the debate behind the decision, which the announcement itself doesn't show. Traders use it to judge how close the board is to another move. It is not a formal record of the meeting.
+
+**BOJ Signals Faster Rate Hikes to Guard Against Inflation Overshoot - News and Statistics - IndexBox**
+`30 Sep 21:10 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_centralbanks
+
+BOJ Signals Faster Rate Hikes to Guard Against Inflation Overshoot - News and Statistics IndexBox
+
 **Japanese Yen advances as US PCE shifts Fed rate hike bets toward December**
 `30 Sep 19:10 PKT` · pehli baar dekhi `30 Sep 20:50` · fxstreet_news
 
@@ -2036,6 +2157,24 @@ New Zealand's broad money supply (M3) declined in August 2026, easing to NZ$454.
 
 ### OIL
 
+**Explainer-What is red-dyed diesel and can it help lower prices, as Trump wants?**
+`01 Oct 02:24 PKT` · pehli baar dekhi `01 Oct 05:05` · investing_commodities
+
+**Can Quantum Computing Tame AI's Energy Appetite?**
+`01 Oct 02:00 PKT` · pehli baar dekhi `01 Oct 05:05` · oilprice
+
+The United States Department of Energy (DoE) is offering up $215 million in funding to help domestic firms develop the world's first reliable quantum computer. The race to unlock quantum computing has heated up as the next-gen technology has arisen as a potential solution to the Pandora's box of energy demand that the AI boom has opened.
+
+**Oil Prices Rise as US-Iran Talks Stall - Sada Elbalad English**
+`01 Oct 01:38 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics
+
+Oil Prices Rise as US-Iran Talks Stall Sada Elbalad English
+
+**Oil Nears $90.5 as Supply Risks Persist - TradingView**
+`01 Oct 01:30 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics
+
+Oil Nears $90.5 as Supply Risks Persist TradingView
+
 **Africa's Massive Cement Expansion Could Drive An Energy Boom**
 `01 Oct 01:00 PKT` · pehli baar dekhi `01 Oct 01:24` · oilprice
 
@@ -2085,6 +2224,12 @@ West Texas Intermediate (WTI) Oil rebounds on Wednesday and remains on track for
 `30 Sep 22:17 PKT` · pehli baar dekhi `01 Oct 01:24` · cointelegraph
 
 Petrobras developed two Cardano-based applications to track sustainability claims tied to aviation fuel and renewable diesel as part of an ongoing research collaboration.
+
+**Oil Prices Extend Gains on Escalating Middle East Hostilities - EnergyNow.com**
+`30 Sep 22:10 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics · **2 feeds mein**
+
+Oil Prices Extend Gains on Escalating Middle East Hostilities EnergyNow.com
+  - `30 Sep 17:05` *gnews_geopolitics* — Oil Prices Extend Gains on Escalating Middle East Hostilities - EnergyNow
 
 **Europe Gets Hit by Another Energy-Driven Inflation Shock**
 `30 Sep 22:00 PKT` · pehli baar dekhi `01 Oct 01:24` · oilprice
@@ -2162,9 +2307,10 @@ U.S. crude oil inventories increased by 0.922 million barrels, a notable slowdow
 Commercial crude oil stocks rose by 900,000 barrels last week. Analysts had expected crude stocks to fall by 200,000 barrels.
 
 **Oil prices rise on stalled US-Iran talks and tight fuel markets - Yahoo Finance**
-`30 Sep 20:22 PKT` · pehli baar dekhi `30 Sep 20:50` · gnews_geopolitics · **2 feeds mein**
+`30 Sep 20:22 PKT` · pehli baar dekhi `30 Sep 20:50` · gnews_geopolitics · **3 feeds mein**
 
 Oil prices rise on stalled US-Iran talks and tight fuel markets Yahoo Finance
+  - `30 Sep 07:51` *gnews_geopolitics* — Oil prices rise on stalled US-Iran talks and tight fuel markets - cnbc.com
   - `30 Sep 06:39` *gnews_geopolitics* — Oil prices rise on stalled US-Iran talks and tight fuel markets - CNA
 
 **Crude oil futures are trading within a defined trading range between $88.75 and $91.50**
@@ -2238,18 +2384,13 @@ Russia's government on Wednesday extended the ban on exports of diesel, marine f
 **Why are oil futures still so high if Middle East exports have recovered?**
 `30 Sep 17:20 PKT` · pehli baar dekhi `30 Sep 20:50` · investing_commodities
 
-**Oil Prices Extend Gains on Escalating Middle East Hostilities - EnergyNow**
-`30 Sep 17:05 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_geopolitics
-
-Oil Prices Extend Gains on Escalating Middle East Hostilities EnergyNow
-
 **Is Iran losing its leverage over the Strait of Hormuz?**
 `30 Sep 17:05 PKT` · pehli baar dekhi `30 Sep 20:50` · aljazeera
 
 Crude flows through Hormuz have recovered, but tanker insurance costs and geopolitical risks remain barriers to a return to normality.
 
 **Oil gains as stalled US-Iran talks trump supply recovery - Kitco**
-`30 Sep 16:49 PKT` · pehli baar dekhi `30 Sep 20:50` · kitco_general · **6 feeds mein**
+`30 Sep 16:49 PKT` · pehli baar dekhi `30 Sep 20:50` · kitco_general · **7 feeds mein**
 
 Oil gains as stalled US-Iran talks trump supply recovery Kitco
   - `30 Sep 18:01` *gnews_geopolitics* — Oil gains as stalled US-Iran talks trump supply recovery - Reuters
@@ -2257,6 +2398,17 @@ Oil gains as stalled US-Iran talks trump supply recovery Kitco
   - `30 Sep 17:15` *gnews_geopolitics* — Oil gains as stalled US-Iran talks trump supply recovery - صحيفة مال
   - `30 Sep 15:24` *gnews_geopolitics* — Oil gains as stalled US-Iran talks trump supply recovery - Business Recorder
   - `30 Sep 15:22` *gnews_geopolitics* — Oil gains as stalled US-Iran talks trump supply recovery - Newswav
+  - `30 Sep 07:57` *gnews_geopolitics* — Oil gains as stalled US-Iran talks trump supply recovery - brecorder.com
+
+**Brent Oil Structure Changes to Reflect Mounting Supply Risk as Iran Tensions Flare - EnergyNow.com**
+`30 Sep 16:41 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics
+
+Brent Oil Structure Changes to Reflect Mounting Supply Risk as Iran Tensions Flare EnergyNow.com
+
+**Oil Touches Pre-War Levels on Rising Middle East Supply - EnergyNow.com**
+`30 Sep 16:37 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics
+
+Oil Touches Pre-War Levels on Rising Middle East Supply EnergyNow.com
 
 **Why Iraq's oil cash sits in New York - The Independent**
 `30 Sep 16:35 PKT` · pehli baar dekhi `30 Sep 20:50` · gnews_fed
@@ -2283,6 +2435,11 @@ Oil Prices Stabilize After Middle East Supply Recovery grafa.com
 `30 Sep 16:25 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_geopolitics
 
 OIL REBOUNDS as Stalled U.S.-Iran Talks and Tight Fuel Markets Offset Recovering Gulf Exports EnergyNow.com
+
+**Morgan Stanley Lowers Oil Price Forecasts After US-Iran Peace Deal - EnergyNow.com**
+`30 Sep 16:24 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics
+
+Morgan Stanley Lowers Oil Price Forecasts After US-Iran Peace Deal EnergyNow.com
 
 **Freedom: U.S.-Iran talks could dramatically change oil prices - Freedom Broker**
 `30 Sep 16:16 PKT` · pehli baar dekhi `30 Sep 20:50` · gnews_geopolitics
@@ -2384,10 +2541,20 @@ US Pain at the Pump Worsens After More US-Iran Fighting Lifts Oil Prices EnergyN
 
 Oil Prices Surge as Trump Rejects Iran Sanction Easing finway.com.ua
 
+**Trump-Iran Standoff Threatens Chronic Gulf Oil Instability: Bousso - EnergyNow.com**
+`30 Sep 12:46 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics
+
+Trump-Iran Standoff Threatens Chronic Gulf Oil Instability: Bousso EnergyNow.com
+
 **Gulf Oil Producers Increase Shipments Through Strait of Hormuz Amid Rising Tensions with Iran - SSBCrack**
 `30 Sep 12:17 PKT` · pehli baar dekhi `30 Sep 13:57` · gnews_geopolitics
 
 Gulf Oil Producers Increase Shipments Through Strait of Hormuz Amid Rising Tensions with Iran SSBCrack
+
+**Oil Falls as Trump Holds off on Scheduled Attack on Iran - EnergyNow.com**
+`30 Sep 12:16 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics
+
+Oil Falls as Trump Holds off on Scheduled Attack on Iran EnergyNow.com
 
 **JP Morgan, Goldman Diverge on Hormuz Oil Flow Estimates**
 `30 Sep 12:00 PKT` · pehli baar dekhi `30 Sep 13:57` · oilprice
@@ -2475,10 +2642,30 @@ The Strait of Hormuz Is Open The Free Press
 
 Oil Nears $100 Per Barrel as Renewed Supply Crunch Looms THISDAYLIVE
 
+**Hormuz Reopening to Release Wave of Oil Supply, Depress Prices - EnergyNow.com**
+`30 Sep 07:26 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics
+
+Hormuz Reopening to Release Wave of Oil Supply, Depress Prices EnergyNow.com
+
+**UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027 - EnergyNow.com**
+`30 Sep 07:22 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics
+
+UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027 EnergyNow.com
+
+**Fragile Iran Deal Offers Oil Relief, but Hormuz Risks Remain: Bousso - energynow.ca**
+`30 Sep 07:21 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics
+
+Fragile Iran Deal Offers Oil Relief, but Hormuz Risks Remain: Bousso energynow.ca
+
 **China official manufacturing PMI returns to growth at 50.1, non-manufacturing 50.2**
 `30 Sep 07:19 PKT` · pehli baar dekhi `30 Sep 07:28` · investinglive
 
 A return to growth in the official manufacturing survey, alongside a jump in the non-manufacturing index, gives China-sensitive assets a supportive final data point before the holiday. Factory strength matters for industrial commodities, including oil, and RatingDog's finding that manufacturers' input costs are being pushed up by metals and oil suggests demand for those inputs is holding up.
+
+**Oil Heads for Weekly Gains as Middle East Supply Risks Persist - EnergyNow.com**
+`30 Sep 07:15 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics
+
+Oil Heads for Weekly Gains as Middle East Supply Risks Persist EnergyNow.com
 
 **Oil Price Today (September 30): Crude oil at $104 as Trump rejects easing Iran sanctions. What are experts - The Economic Times**
 `30 Sep 07:12 PKT` · pehli baar dekhi `30 Sep 13:57` · gnews_geopolitics
@@ -2720,6 +2907,11 @@ Boeing rose circa 2.5% in after-hours trading, while Northrop Grumman slipped by
 
 ### RISK
 
+**Iran War Is Driving Up the Cost of Your Next Oil Change - WSJ**
+`01 Oct 02:14 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics
+
+Iran War Is Driving Up the Cost of Your Next Oil Change WSJ
+
 **Corn Tumbles to 5-Week Low After US Stocks Data**
 `01 Oct 01:24 PKT` · instaforex
 
@@ -2755,6 +2947,11 @@ Prime Minister Andy Burnham says Tehran played a part after five men were arrest
 
 Moscow claims that NATO is preparing an air and naval blockade in the Baltic Sea.
 
+**Texas oil, gas production increases slightly in third quarter as Iran War uncertainty remains - Houston Public Media**
+`30 Sep 23:34 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_fed
+
+Texas oil, gas production increases slightly in third quarter as Iran War uncertainty remains Houston Public Media
+
 **'Strong indications' Iran linked to suspected UK airbase plot**
 `30 Sep 23:09 PKT` · pehli baar dekhi `01 Oct 01:24` · aljazeera
 
@@ -2764,6 +2961,16 @@ UK Prime Minister says there are 'strong indications' Iran played a part in the 
 `30 Sep 23:02 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_geopolitics
 
 Oil executives warn Iran war volatility makes planning difficult (XLE:NYSEARCA) Seeking Alpha
+
+**Oil Falls to Lowest Since Start of Iran War After Ceasefire Deal Signed - EnergyNow.com**
+`30 Sep 22:33 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics
+
+Oil Falls to Lowest Since Start of Iran War After Ceasefire Deal Signed EnergyNow.com
+
+**Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA - energynow.ca**
+`30 Sep 22:18 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics
+
+Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA energynow.ca
 
 **Cash-rich oil majors face post-Iran war strategy rethink - NST Online**
 `30 Sep 21:32 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_geopolitics
@@ -2783,15 +2990,30 @@ Ukraine's external position deteriorated in August 2026, as the country's curren
 
 At least six people killed in drone attack on passenger van and one person killed in strike on residential apartment.
 
+**Oil Falls as Traders Digest Escalation in US-Iran Strikes - energynow.ca**
+`30 Sep 16:50 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics
+
+Oil Falls as Traders Digest Escalation in US-Iran Strikes energynow.ca
+
 **Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says - EnergyNow.com**
 `30 Sep 16:46 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_geopolitics
 
 Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says EnergyNow.com
 
+**A Look at Iran's Kharg Island and Energy Sector - EnergyNow.com**
+`30 Sep 16:39 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics
+
+A Look at Iran's Kharg Island and Energy Sector EnergyNow.com
+
 **Russian attacks on Ukraine's Kyiv region kill four, target power grid**
 `30 Sep 16:32 PKT` · pehli baar dekhi `30 Sep 20:50` · aljazeera
 
 City officials say three killed in Ukraine&#039;s capital, as emergency services say child killed in the surrounding region.
+
+**Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says - EnergyNow.com**
+`30 Sep 16:28 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics
+
+Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says EnergyNow.com
 
 **US Sanctions 13 Individuals and Companies Tied to Iran Weapons Procurement, Including Russian Firms - UNITED24 Media**
 `30 Sep 16:23 PKT` · pehli baar dekhi `30 Sep 20:50` · gnews_geopolitics
@@ -2807,6 +3029,15 @@ Yemen&#039;s latest fighting has redrawn front lines after more than a decade of
 `30 Sep 15:00 PKT` · pehli baar dekhi `30 Sep 20:50` · ing_think
 
 EUROPE: After years of declining building permits, the first half of 2026 brought a welcome improvement, with permit activity returning to growth. Despite this rebound, permit volumes remain historically low, and renewed geopolitical tensions in the Middle East add new headwinds for the construction sector
+
+**Oil climbs as Trump denies Iran sanctions easing reports - Invezz**
+`30 Sep 14:07 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics · **5 feeds mein**
+
+Oil climbs as Trump denies Iran sanctions easing reports Invezz
+  - `30 Sep 10:32` *gnews_geopolitics* — Oil climbs as Trump denies Iran sanctions easing reports - invezz.com
+  - `30 Sep 10:07` *gnews_geopolitics* — Oil climbs as Trump denies Iran sanctions easing reports - Invezz
+  - `30 Sep 10:00` *gnews_geopolitics* — Oil climbs as Trump denies Iran sanctions easing reports - Invezz
+  - `30 Sep 09:34` *gnews_geopolitics* — Oil climbs as Trump denies Iran sanctions easing reports - tradingview.com
 
 **China oil comeback loses steam as Iran war drags on - The Edge Malaysia**
 `30 Sep 14:01 PKT` · pehli baar dekhi `30 Sep 20:50` · gnews_geopolitics
@@ -2827,6 +3058,12 @@ Norway's central bank kept its daily currency purchases unchanged at NOK 300.0 m
 `30 Sep 13:37 PKT` · pehli baar dekhi `30 Sep 13:57` · gnews_geopolitics
 
 Global oil prices rise following Trump's denial of easing sanctions on Iran and supply pressures صوت الإمارات
+
+**US targets Iran's military supply chain as the status of diplomatic talks remains uncertain - San Diego Union-Tribune**
+`30 Sep 12:52 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics · **2 feeds mein**
+
+US targets Iran's military supply chain as the status of diplomatic talks remains uncertain San Diego Union-Tribune
+  - `30 Sep 07:20` *gnews_geopolitics* — US targets Iran's military supply chain as the status of diplomatic talks remains uncertain - Lowell Sun
 
 **Iran receives US feedback on seven-day trust-building plan**
 `30 Sep 12:30 PKT` · pehli baar dekhi `30 Sep 13:57` · investing_commodities
@@ -2881,14 +3118,6 @@ Medicine prices soar in Iran as sanctions disrupt supplies United News of Bangla
 
 Iran's medicine prices triple as US blockade strains supplies The Siasat Daily
 
-**Oil climbs as Trump denies Iran sanctions easing reports - invezz.com**
-`30 Sep 10:32 PKT` · pehli baar dekhi `30 Sep 20:50` · gnews_geopolitics · **4 feeds mein**
-
-Oil climbs as Trump denies Iran sanctions easing reports invezz.com
-  - `30 Sep 10:07` *gnews_geopolitics* — Oil climbs as Trump denies Iran sanctions easing reports - Invezz
-  - `30 Sep 10:00` *gnews_geopolitics* — Oil climbs as Trump denies Iran sanctions easing reports - Invezz
-  - `30 Sep 09:34` *gnews_geopolitics* — Oil climbs as Trump denies Iran sanctions easing reports - tradingview.com
-
 **Iran tells the US public that Trump's war has failed - koreatimes.co.kr**
 `30 Sep 10:25 PKT` · pehli baar dekhi `30 Sep 13:57` · gnews_geopolitics
 
@@ -2918,11 +3147,6 @@ Iran's currency hits a new record low as war erodes the country's economic stabi
 `30 Sep 07:22 PKT` · pehli baar dekhi `30 Sep 07:28` · fxstreet_news
 
 Efforts this week by Qatari mediators to broker a diplomatic breakthrough between the United States (US) and Iran have made little progress, with neither side willing to budge, Axios reported on Wednesday.
-
-**US targets Iran's military supply chain as the status of diplomatic talks remains uncertain - Lowell Sun**
-`30 Sep 07:20 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_geopolitics
-
-US targets Iran's military supply chain as the status of diplomatic talks remains uncertain Lowell Sun
 
 **Oil Prices Climb After Trump Denies Easing Sanctions on Iran - Global Banking & Finance Review**
 `30 Sep 06:52 PKT` · pehli baar dekhi `30 Sep 07:28` · gnews_geopolitics
@@ -2968,10 +3192,27 @@ Tehran says it expects U.S. response to ceasefire proposal already rejected by T
 
 US sanctions 10 individuals, entities over Iran weapons procurement Moneycontrol.com
 
-### BINA TAG (264)
+### BINA TAG (290)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `01 Oct 02:49` **wsj_world** — Opinion | Passengers Defeat a Would-Be Hijacker
+- `01 Oct 02:47` **gnews_fed** — Federal Reserve renovations criticized by Trump did not violate laws, watchdog finds - Yahoo
+- `01 Oct 02:37` **wsj_markets** — A Tech-Fueled Stock Market Powers Through, but Limps Into the Fourth Quarter
+- `01 Oct 02:34` **aljazeera** — It's the 'closest thing to an HIV vaccine', but who gets access?
+- `01 Oct 02:28` **aljazeera** — Trump administration files complaint against judges over media comments
+- `01 Oct 02:25` **gnews_fed** — Trading Day: Shrugging off a volatile September, markets shuffle into Q4 - WKZO
+- `01 Oct 02:16` **wsj_markets** — MSG Sports Board Approves Spin-Off of Rangers From Knicks
+- `01 Oct 02:16` **mw_topstories** — Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer
+- `01 Oct 02:12` **aljazeera** — Flydubai passengers arrive in Tel Aviv after pilot stabbing
+- `01 Oct 02:01` **aljazeera** — Gas pipeline explodes in Syria, knocks three power plants offline
+- `01 Oct 01:57` **cointelegraph** — Standard Chartered sees Ethena's USDe reaching $40B, ENA hitting $2
+- `01 Oct 01:56` **mw_topstories** — A brutal September for bonds points to an even darker October
+- `01 Oct 01:45` **mw_topstories** — I'm 71 and still working. I earn $108,000 a year. Am I doing the right thing?
+- `01 Oct 01:40` **investinglive** — US stocks close mixed; Dow trades to lowest level since June.
+- `01 Oct 01:40` **gnews_fed** — Federal Reserve renovations criticized by Trump did not violate laws, watchdog finds - CBS News
+- `01 Oct 01:30` **gnews_fed** — Energy survey finds continued activity growth - Midland Reporter-Telegram
+- `01 Oct 01:29` **mining_com** — Deep Sea Minerals, Westwin partner on US polymetallic nodule processing
 - `01 Oct 01:24` **instaforex** — Brazil's FX Flows Swing Back Into Positive Territory, Hitting $3.054B Surplus
 - `01 Oct 01:24` **instaforex** — Colombia Unemployment Rate Rises in August
 - `01 Oct 01:20` **wsj_markets** — Technology Shares Lift Nasdaq as Broader Market Slips
@@ -2983,6 +3224,8 @@ US sanctions 10 individuals, entities over Iran weapons procurement Moneycontrol
 - `01 Oct 01:12` **investing_news** — Inogen to sell U.S. oxygen rental business to Rotech for $25M
 - `01 Oct 01:12` **investing_news** — Halozyme appoints Jim Daly to board of directors
 - `01 Oct 01:12` **investing_news** — Albertsons names Cody Perdue interim CFO
+- `01 Oct 01:12` **aljazeera** — Israeli attacks across Gaza kill at least eight
+- `01 Oct 01:00` **aljazeera** — US judge rules Wisconsin mosque leader Salah Sarsour can be deported
 - `01 Oct 00:52` **gnews_fed** — Replacing Reserve Balances: Loans, Not Treasuries, Should Back Banks' Discount Window Capacity - Bank Policy Institute
 - `01 Oct 00:49` **aljazeera** — Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight
 - `01 Oct 00:48` **kitco_general** — Copper price set for 3rd straight monthly gain; aluminum hits 2-month low - Kitco
@@ -3014,6 +3257,7 @@ US sanctions 10 individuals, entities over Iran weapons procurement Moneycontrol
 - `30 Sep 22:56` **gnews_fed** — 'Inside Man' looks at Chinese spy's effort to obtain secrets from the Federal Reserve - cnbc.com
 - `30 Sep 22:55` **aljazeera** — Why is Malaysia sending back Rohingya refugees to Myanmar?
 - `30 Sep 22:55` **aljazeera** — Syria removed from US arms export ban list
+- `30 Sep 22:48` **gnews_geopolitics** — US EIA Concedes Middle East Supply Disruptions are Far Worse Than Prior Estimates - EnergyNow.com
 - `30 Sep 22:48` **gnews_fed** — Inspector general investigation discredits Trump's claims about Federal Reserve renovations - ms.now
 - `30 Sep 22:43` **wsj_markets** — A Guide to Owning Bonds When They Are Selling Off
 - `30 Sep 22:36` **aljazeera** — Netanyahu meets Flydubai passenger who subdued pilot in stabbing attack
@@ -3022,6 +3266,7 @@ US sanctions 10 individuals, entities over Iran weapons procurement Moneycontrol
 - `30 Sep 22:23` **gnews_fed** — FILE PHOTO: The Federal Reserve Board building in Washington - The Daily News | Texas' Oldest Newspaper
 - `30 Sep 22:22` **wsj_markets** — Wall Street's Trading Desks Come Down From a Record High
 - `30 Sep 22:17` **gnews_fed** — No criminal wrongdoing in Federal Reserve building renovation, watchdog says, but it was mismanaged - Greeley Tribune
+- `30 Sep 22:16` **kitco_general** — TAG: Mineral Exploration - kitco.com
 - `30 Sep 22:16` **gnews_fed** — No criminal wrongdoing in Federal Reserve building renovation, watchdog says, but it was mismanaged - The Mendocino Beacon
 - `30 Sep 22:15` **gnews_fed** — No criminal wrongdoing in Federal Reserve building renovation, watchdog says, but it was mismanaged - News-Herald
 - `30 Sep 22:15` **gnews_fed** — No criminal wrongdoing in Federal Reserve building renovation, watchdog says, but it was mismanaged - Daily Democrat
@@ -3036,6 +3281,7 @@ US sanctions 10 individuals, entities over Iran weapons procurement Moneycontrol
 - `30 Sep 22:01` **gnews_fed** — FILE PHOTO: The Federal Reserve Board building in Washington - The Lufkin Daily News
 - `30 Sep 22:01` **gnews_fed** — No criminal wrongdoing in Federal Reserve building renovation, watchdog says, but it was mismanaged - WFMZ.com
 - `30 Sep 22:01` **gnews_fed** — No criminal wrongdoing in Federal Reserve building renovation, watchdog says, but it was mismanaged - KTBS 3
+- `30 Sep 22:01` **gnews_fed** — No criminal wrongdoing in Federal Reserve building renovation, watchdog says, but it was mismanaged - audacy.com
 - `30 Sep 21:45` **gnews_fed** — Federal Reserve-Building Renovation - The Herald Journal
 - `30 Sep 21:45` **gnews_fed** — Federal Reserve-Building Renovation - postregister.com
 - `30 Sep 21:45` **gnews_fed** — Federal Reserve-Building Renovation - Bedford Gazette
@@ -3051,6 +3297,7 @@ US sanctions 10 individuals, entities over Iran weapons procurement Moneycontrol
 - `30 Sep 21:28` **wsj_markets** — Health Care Roundup: Market Talk
 - `30 Sep 21:22` **wsj_markets** — The 94-Year-Old Restaurant Supply Tycoon Building One of the Biggest Family Offices
 - `30 Sep 21:14` **wsj_world** — Antisemitism Allegations Threaten French Far Right's Efforts to Clean Up Its Image
+- `30 Sep 21:07` **mining_com** — Hercules extends Idaho copper discovery
 - `30 Sep 21:06` **gnews_fed** — Federal Reserve Approves Bank Stress Test Reforms, Impacting Maj - GuruFocus
 - `30 Sep 21:00` **gnews_fed** — Federal Reserve at Sibos: Guv Waller on Agentic AI - PaymentsJournal
 - `30 Sep 20:50` **instaforex** — Colombia Industrial Confidence Eases in August
@@ -3110,6 +3357,7 @@ US sanctions 10 individuals, entities over Iran weapons procurement Moneycontrol
 - `30 Sep 18:00` **snb_press** — 2026-09-30 - Data portal - Selected data from the Quarterly Bulletin 3/2026
 - `30 Sep 18:00` **snb_press** — 2026-09-30 - Publications - Quarterly Bulletin 3/2026
 - `30 Sep 18:00` **kitco_general** — Videos - Kitco
+- `30 Sep 17:56` **wsj_world** — Best High-Yield Savings Accounts for September 2026: Up to 4.50%
 - `30 Sep 17:54` **bbc_business** — Greggs to cut 740 jobs and close factories
 - `30 Sep 17:53` **kitco_general** — Congo to audit major miners annually from 2027 as part of local content drive, regulator says - Kitco
 - `30 Sep 17:43` **aljazeera** — Settlers closing in on Ramallah
@@ -3130,6 +3378,7 @@ US sanctions 10 individuals, entities over Iran weapons procurement Moneycontrol
 - `30 Sep 17:07` **gnews_fed** — News by CNBC TV18 on TradingView, 2026-09-30 — cnbctv:4b4ece946094b:0 - TradingView
 - `30 Sep 17:04` **wsj_markets** — Energy & Utilities Roundup: Market Talk
 - `30 Sep 16:43` **aljazeera** — Flydubai flight to Israel diverted after attack on pilot
+- `30 Sep 16:39` **kitco_general** — COMMODITIES News - kitco.com
 - `30 Sep 16:36` **aljazeera** — Ireland vs Israel Nations League match will go ahead, coach confirms
 - `30 Sep 16:29` **kitco_general** — Wall St regulator to unveil new retail investor proposals for private assets - Kitco
 - `30 Sep 16:20` **wsj_markets** — Tech, Media & Telecom Roundup: Market Talk
@@ -3138,6 +3387,7 @@ US sanctions 10 individuals, entities over Iran weapons procurement Moneycontrol
 - `30 Sep 16:15` **wsj_markets** — Financial Services Roundup: Market Talk
 - `30 Sep 16:10` **gnews_fed** — Michael S. Barr of Federal Reserve tells youth to stay curious - Detroit Free Press
 - `30 Sep 16:07` **investing_commodities** — Viruses run rampant across Havana as water, power fails
+- `30 Sep 16:04` **gnews_fed** — The Role of Repos in Monetary Policy Implementation - Liberty Street Economics
 - `30 Sep 16:03` **aljazeera** — The October 7 warnings threatening Netanyahu's Israeli election campaign
 - `30 Sep 16:01` **aljazeera** — What's behind French student protests that turned violent?
 - `30 Sep 15:54` **investing_commodities** — Morning Bid: October doubts
@@ -3253,45 +3503,45 @@ investing_news (10)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 8 | 22 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 7 | 4 | 3 | 23 | 0.1 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 5.2 |
-| instaforex | OK | 25 | 25 | 11 | 14 | 0 | -0.1 |
-| wsj_economy | OK | 36 | 6 | 1 | 5 | 30 | 0.1 |
-| cme_metals_video | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_energy_video | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
-| cme_daily_commentary | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 20.1 |
-| kitco_general | OK | 41 | 39 | 17 | 22 | 2 | 0.0 |
-| gnews_fed | OK | 100 | 100 | 84 | 16 | 0 | 0.0 |
-| gnews_geopolitics | OK | 79 | 74 | 23 | 51 | 5 | 0.1 |
-| gnews_centralbanks | OK | 28 | 26 | 14 | 12 | 2 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 14.1 |
-| fed_speeches | OK | 15 | 1 | 1 | 0 | 14 | 0.0 |
-| ecb_press | OK | 15 | 3 | 1 | 2 | 12 | 0.1 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.5 |
-| boj_whatsnew | OK | 49 | 3 | 0 | 3 | 46 | 0.5 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 1.7 |
-| mining_com | OK | 36 | 11 | 5 | 6 | 25 | 0.1 |
-| oilprice | OK | 15 | 15 | 7 | 8 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
-| bbc_business | OK | 53 | 17 | 0 | 17 | 36 | 0.2 |
-| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 11 | 19 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 7 | 0 | 7 | 23 | 0.2 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
+| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 5.4 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 6 | 0 | 6 | 30 | 0.2 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
+| cme_fx_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
+| cme_rates_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
+| cme_daily_commentary | OK | 10 | 5 | 1 | 4 | 5 | 0.1 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 20.2 |
+| kitco_general | OK | 43 | 43 | 5 | 38 | 0 | 0.1 |
+| gnews_fed | OK | 100 | 100 | 38 | 62 | 0 | 0.0 |
+| gnews_geopolitics | OK | 87 | 87 | 24 | 63 | 0 | 0.0 |
+| gnews_centralbanks | OK | 28 | 28 | 4 | 24 | 0 | 0.2 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 14.3 |
+| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.2 |
+| ecb_press | OK | 15 | 3 | 0 | 3 | 12 | 0.3 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.6 |
+| boj_whatsnew | OK | 51 | 5 | 2 | 3 | 46 | 0.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 1.8 |
+| mining_com | OK | 36 | 15 | 4 | 11 | 21 | 0.0 |
+| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
+| bbc_business | OK | 38 | 18 | 2 | 16 | 20 | 0.0 |
+| aljazeera | OK | 25 | 25 | 12 | 13 | 0 | 0.0 |
 | snb_press | OK | 20 | 6 | 0 | 6 | 14 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 20.4 |
-| eia_energy | OK | 20 | 1 | 0 | 1 | 19 | 0.3 |
-| bea_releases | OK | 49 | 2 | 0 | 2 | 47 | 0.3 |
-| wsj_world | OK | 75 | 15 | 3 | 12 | 60 | 0.0 |
-| wsj_markets | OK | 61 | 28 | 8 | 20 | 33 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
-| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 7.6 |
-| mw_topstories | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 20 | 5 | 15 | 10 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 20.5 |
+| eia_energy | OK | 20 | 1 | 0 | 1 | 19 | 0.4 |
+| bea_releases | OK | 49 | 2 | 0 | 2 | 47 | 0.5 |
+| wsj_world | OK | 75 | 17 | 3 | 14 | 58 | 0.0 |
+| wsj_markets | OK | 61 | 31 | 5 | 26 | 30 | 0.0 |
+| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 7.8 |
+| mw_topstories | OK | 10 | 10 | 4 | 6 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 21 | 1 | 20 | 9 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - yahoo_finance — STALE, cadence 1d, magar 8d purana
