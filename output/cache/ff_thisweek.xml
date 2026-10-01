@@ -1021,20 +1021,10 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/249-uk-final-manufacturing-pmi]]></url>
 	</event>
 	<event>
-		<title>Unemployment Rate</title>
-		<country>EUR</country>
-		<date><![CDATA[10-01-2026]]></date>
-		<time><![CDATA[9:00am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[6.4%]]></forecast>
-		<previous><![CDATA[6.4%]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/59-ez-unemployment-rate]]></url>
-	</event>
-	<event>
 		<title>Spanish 10-y Bond Auction</title>
 		<country>EUR</country>
 		<date><![CDATA[10-01-2026]]></date>
-		<time><![CDATA[9:03am]]></time>
+		<time><![CDATA[8:42am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous><![CDATA[3.96|1.7]]></previous>
@@ -1044,11 +1034,21 @@
 		<title>French 10-y Bond Auction</title>
 		<country>EUR</country>
 		<date><![CDATA[10-01-2026]]></date>
-		<time><![CDATA[9:18am]]></time>
+		<time><![CDATA[8:57am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous><![CDATA[4.23|2.3]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/523-fr-10-y-bond-auction]]></url>
+	</event>
+	<event>
+		<title>Unemployment Rate</title>
+		<country>EUR</country>
+		<date><![CDATA[10-01-2026]]></date>
+		<time><![CDATA[9:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[6.4%]]></forecast>
+		<previous><![CDATA[6.4%]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/59-ez-unemployment-rate]]></url>
 	</event>
 	<event>
 		<title>Challenger Job Cuts y/y</title>
@@ -1366,7 +1366,7 @@
 		<date><![CDATA[10-02-2026]]></date>
 		<time><![CDATA[12:30pm]]></time>
 		<impact><![CDATA[High]]></impact>
-		<forecast><![CDATA[90K]]></forecast>
+		<forecast><![CDATA[89K]]></forecast>
 		<previous><![CDATA[162K]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/66-us-non-farm-employment-change]]></url>
 	</event>

@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "01 Oct 2026 06:30",
+  "generated_pkt": "01 Oct 2026 16:43",
   "trading_day": "2026-10-01",
   "feed_sources": {
     "thisweek": "live"
@@ -1332,19 +1332,6 @@
       "trading_day": "2026-10-01"
     },
     {
-      "title": "Unemployment Rate",
-      "ccy": "EUR",
-      "impact": "Low",
-      "forecast": "6.4%",
-      "previous": "6.4%",
-      "url": "https://www.forexfactory.com/calendar/59-ez-unemployment-rate",
-      "all_day": false,
-      "utc": "2026-10-01T09:00Z",
-      "pkt": "01 Oct 14:00",
-      "pkt_iso": "2026-10-01T14:00:00+05:00",
-      "trading_day": "2026-10-01"
-    },
-    {
       "title": "Spanish 10-y Bond Auction",
       "ccy": "EUR",
       "impact": "Low",
@@ -1352,9 +1339,9 @@
       "previous": "3.96|1.7",
       "url": "https://www.forexfactory.com/calendar/525-sp-10-y-bond-auction",
       "all_day": false,
-      "utc": "2026-10-01T09:03Z",
-      "pkt": "01 Oct 14:03",
-      "pkt_iso": "2026-10-01T14:03:00+05:00",
+      "utc": "2026-10-01T08:42Z",
+      "pkt": "01 Oct 13:42",
+      "pkt_iso": "2026-10-01T13:42:00+05:00",
       "trading_day": "2026-10-01"
     },
     {
@@ -1365,9 +1352,22 @@
       "previous": "4.23|2.3",
       "url": "https://www.forexfactory.com/calendar/523-fr-10-y-bond-auction",
       "all_day": false,
-      "utc": "2026-10-01T09:18Z",
-      "pkt": "01 Oct 14:18",
-      "pkt_iso": "2026-10-01T14:18:00+05:00",
+      "utc": "2026-10-01T08:57Z",
+      "pkt": "01 Oct 13:57",
+      "pkt_iso": "2026-10-01T13:57:00+05:00",
+      "trading_day": "2026-10-01"
+    },
+    {
+      "title": "Unemployment Rate",
+      "ccy": "EUR",
+      "impact": "Low",
+      "forecast": "6.4%",
+      "previous": "6.4%",
+      "url": "https://www.forexfactory.com/calendar/59-ez-unemployment-rate",
+      "all_day": false,
+      "utc": "2026-10-01T09:00Z",
+      "pkt": "01 Oct 14:00",
+      "pkt_iso": "2026-10-01T14:00:00+05:00",
       "trading_day": "2026-10-01"
     },
     {
@@ -1777,7 +1777,7 @@
       "title": "Non-Farm Employment Change",
       "ccy": "USD",
       "impact": "High",
-      "forecast": "90K",
+      "forecast": "89K",
       "previous": "162K",
       "url": "https://www.forexfactory.com/calendar/66-us-non-farm-employment-change",
       "all_day": false,
