@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "01 Oct 2026 22:45",
+  "generated_pkt": "02 Oct 2026 02:30",
   "trading_day": "2026-10-01",
   "feed_sources": {
     "thisweek": "live"
@@ -1879,6 +1879,35 @@
       "source": "investinglive",
       "tags": [
         "risk",
+        "usd"
+      ]
+    },
+    {
+      "title": "US September ISM manufacturing 54.5 vs 55.0 expected",
+      "actual_raw": "54.5",
+      "forecast_raw": "55.0",
+      "beat": false,
+      "raw_diff": "-0.50",
+      "sign_flip": false,
+      "diff_pct": -0.9,
+      "when_pkt": "01 Oct 19:00",
+      "source": "investinglive",
+      "tags": [
+        "risk",
+        "usd"
+      ]
+    },
+    {
+      "title": "US weekly initial jobless claims 197K vs 200K expected",
+      "actual_raw": "197K",
+      "forecast_raw": "200K",
+      "beat": false,
+      "raw_diff": "-3.0K",
+      "sign_flip": false,
+      "diff_pct": -1.5,
+      "when_pkt": "01 Oct 17:30",
+      "source": "investinglive",
+      "tags": [
         "usd"
       ]
     }
