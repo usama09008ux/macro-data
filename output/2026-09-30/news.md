@@ -1,8 +1,8 @@
 # News Pack — Trading Day 30 Sep 2026
 
 - Trading day: **30 Sep 03:00 -> 01 Oct 02:59 PKT**
-- Aakhri update: **01 Oct 10:46 PKT**
-- Kul khabrein: **1035**
+- Aakhri update: **01 Oct 16:51 PKT**
+- Kul khabrein: **1050**
 - Feeds: 35/39 OK
 
 ---
@@ -346,11 +346,17 @@ Gold price (XAU/USD) rebounds from an eight-week low to near $4,180 during the e
 
 ### USD
 
+**Opinion | The End of the Fed Building Fiasco - WSJ**
+`01 Oct 02:48 PKT` · pehli baar dekhi `01 Oct 16:51` · gnews_fed
+
+Opinion | The End of the Fed Building Fiasco WSJ
+
 **Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - thebusinessjournal.com**
-`01 Oct 02:22 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_fed · **10 feeds mein**
+`01 Oct 02:22 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_fed · **11 feeds mein**
 
 Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement thebusinessjournal.com
   - `01 Oct 02:05` *gnews_fed* — Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - ValleyCentral.com
+  - `01 Oct 02:05` *gnews_fed* — Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - FOX40
   - `01 Oct 02:05` *gnews_fed* — Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - AP News
   - `01 Oct 00:01` *gnews_fed* — Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - Hartford Courant
   - `01 Oct 00:00` *gnews_fed* — Fed watchdog finds no crimes in $2.4B building renovation, only mismanagement - myMotherLode.com
@@ -371,6 +377,12 @@ Watchdog finds no Fed misconduct in renovation; Trump calls for Powell's resigna
 
 The 10-year Treasury yield climbs above 5.3% to a level not seen in 24 years.
 
+**Powell did not break the law with expensive Fed renovations that incensed Trump, report finds - Houston Style Magazine**
+`01 Oct 02:03 PKT` · pehli baar dekhi `01 Oct 16:51` · gnews_fed · **2 feeds mein**
+
+Powell did not break the law with expensive Fed renovations that incensed Trump, report finds Houston Style Magazine
+  - `30 Sep 23:33` *gnews_fed* — Powell did not break the law with expensive Fed renovations that incensed Trump, report finds - KION Central Coast
+
 **US inflation rises below expectations in August, gives the Fed breathing space - kitco.com**
 `01 Oct 02:03 PKT` · pehli baar dekhi `01 Oct 05:05` · kitco_general · **2 feeds mein**
 
@@ -381,6 +393,12 @@ US inflation rises below expectations in August, gives the Fed breathing space k
 `01 Oct 01:57 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_fed
 
 Fed watchdog finds no crimes in $2.4-billion building renovation, only mismanagement Los Angeles Times
+
+**The final verdict is in for the Fed's troubled renovation and Jerome Powell - Fox Business**
+`01 Oct 01:35 PKT` · pehli baar dekhi `01 Oct 16:51` · gnews_fed · **2 feeds mein**
+
+The final verdict is in for the Fed's troubled renovation and Jerome Powell Fox Business
+  - `01 Oct 00:13` *gnews_fed* — The final verdict is in for the Fed's troubled renovation and Jerome Powell - Fox Business
 
 **Trump Says Jerome Powell Should Be 'Forced' To Resign - Forbes**
 `01 Oct 01:25 PKT` · pehli baar dekhi `01 Oct 10:46` · gnews_fed
@@ -520,11 +538,6 @@ Watchdog finds Fed mishandled renovations that Trump tried to oust Powell over T
 
 The Mexican Peso (MXN) prolongs its agony, extending losses by over 0.11% against the Greenback for the third straight day on Wednesday, while USD/MXN continues to trade above the psychological level of 18.00 as the carry trade loses its appeal.
 
-**The final verdict is in for the Fed's troubled renovation and Jerome Powell - Fox Business**
-`01 Oct 00:13 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_fed
-
-The final verdict is in for the Fed's troubled renovation and Jerome Powell Fox Business
-
 **Fed's $2.5 billion renovation broke no laws, but watchdog blasts cost overruns - aol.com**
 `01 Oct 00:10 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed
 
@@ -587,11 +600,6 @@ BREAKING: Fed Reserve IG finds no criminal violation in renovation Modern Ghana
 
 The Fed's building renovations and Trump's push to oust Powell Kitco
   - `30 Sep 22:11` *gnews_fed* — The Fed's building renovations and Trump's push to oust Powell - Reuters
-
-**Powell did not break the law with expensive Fed renovations that incensed Trump, report finds - KION Central Coast**
-`30 Sep 23:33 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed
-
-Powell did not break the law with expensive Fed renovations that incensed Trump, report finds KION Central Coast
 
 **Watchdog finds problems but no Fed misconduct in Powell-era renovation project - Kitco**
 `30 Sep 23:33 PKT` · pehli baar dekhi `01 Oct 01:24` · kitco_general · **6 feeds mein**
@@ -715,9 +723,10 @@ Trump targets Powell again after report says he did not break the law with expen
 Fed watchdog finds 'deficiencies' but no criminal wrongdoing in $2.5bn renovation project Financial Times
 
 **Fed watchdog finds renovation failures, but no grounds for criminal referral - cnbc.com**
-`30 Sep 22:00 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed
+`30 Sep 22:00 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed · **2 feeds mein**
 
 Fed watchdog finds renovation failures, but no grounds for criminal referral cnbc.com
+  - `30 Sep 22:00` *gnews_fed* — Fed watchdog finds renovation failures, but no grounds for criminal referral - CNBC
 
 **Fed watchdog finds no laws broken in $2.5 billion Fed renovations Trump has called "disgraceful" - CBS News**
 `30 Sep 22:00 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_fed
@@ -1485,6 +1494,14 @@ ECB's Schnabel: Three Factors to Watch Before Further Rate Hikes IndexBox
 
 Lagarde signals she could leave ECB a few months early in 2027 Operativ Məlumat Mərkəzi
 
+**Inflation jumps across euro zone, raising pressure on ECB to hike - 101 WIXX**
+`01 Oct 00:41 PKT` · pehli baar dekhi `01 Oct 16:51` · gnews_centralbanks · **4 feeds mein**
+
+Inflation jumps across euro zone, raising pressure on ECB to hike 101 WIXX
+  - `30 Sep 18:19` *gnews_centralbanks* — Inflation jumps across euro zone, raising pressure on ECB to hike - Reuters
+  - `30 Sep 15:46` *gnews_centralbanks* — Inflation jumps across euro zone, raising pressure on ECB to hike - WTVB
+  - `30 Sep 15:42` *gnews_centralbanks* — Inflation jumps across euro zone, raising pressure on ECB to hike - Sacramento Bee
+
 **Eurozone Inflation Jumps in September on Energy Prices: ECB Rate Hike Pressure - News and Statistics - IndexBox**
 `01 Oct 00:00 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_centralbanks
 
@@ -1522,9 +1539,10 @@ ECB flags inflation expectations and demand as key to next rate move Traders Uni
 Euro-Area Inflation Surge Puts Another ECB Rate Hike in Focus Bloomberg.com
 
 **ECB's Schnabel Says Coming Months to Clarify Rate-Hike Path - Bloomberg.com**
-`30 Sep 20:45 PKT` · pehli baar dekhi `01 Oct 10:46` · gnews_centralbanks
+`30 Sep 20:45 PKT` · pehli baar dekhi `01 Oct 10:46` · gnews_centralbanks · **2 feeds mein**
 
 ECB's Schnabel Says Coming Months to Clarify Rate-Hike Path Bloomberg.com
+  - `30 Sep 20:45` *gnews_centralbanks* — ECB's Schnabel Says Coming Months to Clarify Rate-Hike Path - Bloomberg.com
 
 **Euro slips to $1.1355 in ECB rate for 30 September - BurgasMedia**
 `30 Sep 19:54 PKT` · pehli baar dekhi `01 Oct 01:24` · gnews_centralbanks
@@ -1552,13 +1570,6 @@ Sterling rose to a one-month high against the euro following upwardly revised U.
 `30 Sep 18:36 PKT` · pehli baar dekhi `30 Sep 20:50` · fxstreet_analysis
 
 EUR/USD has fallen to its lowest level since May 2025, but a fresh inflation shock in the Eurozone could give the Euro (EUR) an unexpected lifeline. The pair hit 1.1312 on Wednesday and trades well below the January peak of 1.2082.
-
-**Inflation jumps across euro zone, raising pressure on ECB to hike - Reuters**
-`30 Sep 18:19 PKT` · pehli baar dekhi `30 Sep 20:50` · gnews_centralbanks · **3 feeds mein**
-
-Inflation jumps across euro zone, raising pressure on ECB to hike Reuters
-  - `30 Sep 15:46` *gnews_centralbanks* — Inflation jumps across euro zone, raising pressure on ECB to hike - WTVB
-  - `30 Sep 15:42` *gnews_centralbanks* — Inflation jumps across euro zone, raising pressure on ECB to hike - Sacramento Bee
 
 **EUR/GBP: Range set to persist – Rabobank**
 `30 Sep 17:58 PKT` · pehli baar dekhi `30 Sep 20:50` · fxstreet_news
@@ -2216,6 +2227,11 @@ Oil Prices Rise as US-Iran Talks Stall Sada Elbalad English
 
 Oil Nears $90.5 as Supply Risks Persist TradingView
 
+**Iran | Strait of Hormuz | Mohammad Bagher Ghalibaf | Trump | Oil Supply - Aaj English TV**
+`01 Oct 01:29 PKT` · pehli baar dekhi `01 Oct 16:51` · gnews_geopolitics
+
+Iran | Strait of Hormuz | Mohammad Bagher Ghalibaf | Trump | Oil Supply Aaj English TV
+
 **Africa's Massive Cement Expansion Could Drive An Energy Boom**
 `01 Oct 01:00 PKT` · pehli baar dekhi `01 Oct 01:24` · oilprice
 
@@ -2290,6 +2306,11 @@ U.S. oil and gas production increased among firms surveyed by the Dallas Fed in 
 `30 Sep 22:30 PKT` · pehli baar dekhi `01 Oct 01:24` · fxstreet_news
 
 West Texas Intermediate (WTI) Oil rebounds on Wednesday and remains on track for a monthly gain of around 5.5%. The lack of progress in US-Iran negotiations to reopen the Strait of Hormuz keeps geopolitical risks elevated, even as Middle East supply conditions improve.
+
+**Oil Up Despite Efforts by US, Allies to Boost Supply and Open Strait of Hormuz - EnergyNow.com**
+`30 Sep 22:24 PKT` · pehli baar dekhi `01 Oct 16:51` · gnews_geopolitics
+
+Oil Up Despite Efforts by US, Allies to Boost Supply and Open Strait of Hormuz EnergyNow.com
 
 **Brazil's Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel**
 `30 Sep 22:17 PKT` · pehli baar dekhi `01 Oct 01:24` · cointelegraph
@@ -2471,11 +2492,12 @@ Russia's government on Wednesday extended the ban on exports of diesel, marine f
 Crude flows through Hormuz have recovered, but tanker insurance costs and geopolitical risks remain barriers to a return to normality.
 
 **Oil gains as stalled US-Iran talks trump supply recovery - Kitco**
-`30 Sep 16:49 PKT` · pehli baar dekhi `30 Sep 20:50` · kitco_general · **7 feeds mein**
+`30 Sep 16:49 PKT` · pehli baar dekhi `30 Sep 20:50` · kitco_general · **8 feeds mein**
 
 Oil gains as stalled US-Iran talks trump supply recovery Kitco
   - `30 Sep 18:01` *gnews_geopolitics* — Oil gains as stalled US-Iran talks trump supply recovery - Reuters
   - `30 Sep 18:00` *gnews_geopolitics* — Oil gains as stalled US-Iran talks trump supply recovery - Euronext Markets
+  - `30 Sep 18:00` *gnews_geopolitics* — Oil gains as stalled US-Iran talks trump supply recovery - AOL.ca
   - `30 Sep 17:15` *gnews_geopolitics* — Oil gains as stalled US-Iran talks trump supply recovery - صحيفة مال
   - `30 Sep 15:24` *gnews_geopolitics* — Oil gains as stalled US-Iran talks trump supply recovery - Business Recorder
   - `30 Sep 15:22` *gnews_geopolitics* — Oil gains as stalled US-Iran talks trump supply recovery - Newswav
@@ -3059,6 +3081,11 @@ UK Prime Minister says there are 'strong indications' Iran played a part in the 
 
 Oil executives warn Iran war volatility makes planning difficult (XLE:NYSEARCA) Seeking Alpha
 
+**World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks - energynow.ca**
+`30 Sep 23:02 PKT` · pehli baar dekhi `01 Oct 16:51` · gnews_geopolitics
+
+World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks energynow.ca
+
 **Oil Falls to Lowest Since Start of Iran War After Ceasefire Deal Signed - EnergyNow.com**
 `30 Sep 22:33 PKT` · pehli baar dekhi `01 Oct 05:05` · gnews_geopolitics
 
@@ -3305,7 +3332,7 @@ Tehran says it expects U.S. response to ceasefire proposal already rejected by T
 
 US sanctions 10 individuals, entities over Iran weapons procurement Moneycontrol.com
 
-### BINA TAG (295)
+### BINA TAG (299)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -3330,6 +3357,7 @@ US sanctions 10 individuals, entities over Iran weapons procurement Moneycontrol
 - `01 Oct 01:29` **mining_com** — Deep Sea Minerals, Westwin partner on US polymetallic nodule processing
 - `01 Oct 01:24` **instaforex** — Brazil's FX Flows Swing Back Into Positive Territory, Hitting $3.054B Surplus
 - `01 Oct 01:24` **instaforex** — Colombia Unemployment Rate Rises in August
+- `01 Oct 01:24` **gnews_fed** — Federal Reserve-Building Renovation - timesdaily.com
 - `01 Oct 01:20` **wsj_markets** — Technology Shares Lift Nasdaq as Broader Market Slips
 - `01 Oct 01:14` **investing_news** — Trump says he has done a 'bad job' explaining his economic record
 - `01 Oct 01:13` **investing_news** — Micron forecasts quarterly revenue above estimates
@@ -3369,8 +3397,10 @@ US sanctions 10 individuals, entities over Iran weapons procurement Moneycontrol
 - `30 Sep 23:20` **mw_topstories** — This chart shows that buying and holding stocks beats 'sell in May and go away' and other gimmicks
 - `30 Sep 23:12` **aljazeera** — Video: Bangladesh Dengue deaths surpass 233 in deadly outbreak
 - `30 Sep 23:09` **kitco_general** — Latest News, Video News, Analysis and Opinions | KITCO NEWS - Kitco
+- `30 Sep 23:03` **gnews_fed** — No criminal wrongdoing in Federal Reserve building renovation, watchdog says, but it was mismanaged - The Washington Post
 - `30 Sep 23:01` **aljazeera** — Trump set to announce $200bn in energy investments from South Korea
 - `30 Sep 22:56` **gnews_fed** — 'Inside Man' looks at Chinese spy's effort to obtain secrets from the Federal Reserve - cnbc.com
+- `30 Sep 22:56` **gnews_fed** — From cash to credit, how Americans' payment methods have changed in the past decade - Pew Research Center
 - `30 Sep 22:55` **aljazeera** — Why is Malaysia sending back Rohingya refugees to Myanmar?
 - `30 Sep 22:55` **aljazeera** — Syria removed from US arms export ban list
 - `30 Sep 22:48` **gnews_geopolitics** — US EIA Concedes Middle East Supply Disruptions are Far Worse Than Prior Estimates - EnergyNow.com
@@ -3398,6 +3428,7 @@ US sanctions 10 individuals, entities over Iran weapons procurement Moneycontrol
 - `30 Sep 22:01` **gnews_fed** — FILE PHOTO: The Federal Reserve Board building in Washington - The Lufkin Daily News
 - `30 Sep 22:01` **gnews_fed** — No criminal wrongdoing in Federal Reserve building renovation, watchdog says, but it was mismanaged - WFMZ.com
 - `30 Sep 22:01` **gnews_fed** — No criminal wrongdoing in Federal Reserve building renovation, watchdog says, but it was mismanaged - KTBS 3
+- `30 Sep 22:01` **gnews_fed** — No criminal wrongdoing in Federal Reserve building renovation, watchdog says, but it was mismanaged - ktvn.com
 - `30 Sep 22:01` **gnews_fed** — No criminal wrongdoing in Federal Reserve building renovation, watchdog says, but it was mismanaged - audacy.com
 - `30 Sep 21:45` **gnews_fed** — Federal Reserve-Building Renovation - The Herald Journal
 - `30 Sep 21:45` **gnews_fed** — Federal Reserve-Building Renovation - postregister.com
@@ -3621,45 +3652,45 @@ investing_news (10)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 12 | 13 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 21 | 9 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 8 | 1 | 7 | 22 | 0.1 |
-| actionforex | OK | 20 | 20 | 13 | 7 | 0 | 0.1 |
-| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 5.6 |
+| investinglive | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 28 | 2 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 8 | 0 | 8 | 22 | 0.4 |
+| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.0 |
+| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 5.9 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 7 | 2 | 5 | 29 | 0.1 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.3 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
-| cme_daily_commentary | OK | 10 | 5 | 0 | 5 | 5 | 0.3 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 20.5 |
-| kitco_general | OK | 45 | 45 | 2 | 43 | 0 | 0.3 |
-| gnews_fed | OK | 100 | 100 | 35 | 65 | 0 | 0.0 |
-| gnews_geopolitics | OK | 100 | 100 | 41 | 59 | 0 | 0.0 |
-| gnews_centralbanks | OK | 33 | 33 | 6 | 27 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 14.5 |
-| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
-| ecb_press | OK | 15 | 3 | 0 | 3 | 12 | 0.5 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.8 |
-| boj_whatsnew | OK | 52 | 6 | 1 | 5 | 46 | 0.1 |
-| rba_media | OK | 1 | 1 | 1 | 0 | 0 | 0.2 |
-| mining_com | OK | 36 | 15 | 0 | 15 | 21 | 0.3 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
+| wsj_economy | OK | 36 | 10 | 5 | 5 | 26 | 0.1 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.7 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.6 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.6 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.7 |
+| cme_daily_commentary | OK | 10 | 5 | 0 | 5 | 5 | 0.6 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 20.7 |
+| kitco_general | OK | 40 | 40 | 0 | 40 | 0 | 0.4 |
+| gnews_fed | OK | 100 | 100 | 28 | 72 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 28 | 72 | 0 | 0.1 |
+| gnews_centralbanks | OK | 38 | 38 | 16 | 22 | 0 | 0.1 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 14.7 |
+| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
+| ecb_press | OK | 15 | 3 | 0 | 3 | 12 | 0.8 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 1.1 |
+| boj_whatsnew | OK | 52 | 6 | 0 | 6 | 46 | 0.3 |
+| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 0.4 |
+| mining_com | OK | 36 | 15 | 0 | 15 | 21 | 0.5 |
+| oilprice | OK | 15 | 15 | 5 | 10 | 0 | 0.0 |
 | investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.7 |
-| bbc_business | OK | 39 | 19 | 3 | 16 | 20 | 0.0 |
+| ing_think | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
+| bbc_business | OK | 42 | 23 | 6 | 17 | 19 | 0.0 |
 | aljazeera | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
 | snb_press | OK | 20 | 6 | 0 | 6 | 14 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 20.8 |
-| eia_energy | OK | 20 | 1 | 0 | 1 | 19 | 0.7 |
-| bea_releases | OK | 49 | 2 | 0 | 2 | 47 | 0.7 |
-| wsj_world | OK | 74 | 20 | 3 | 17 | 54 | 0.1 |
-| wsj_markets | OK | 61 | 34 | 6 | 28 | 27 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 8.0 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 23 | 3 | 20 | 7 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.0 |
+| eia_energy | OK | 20 | 1 | 0 | 1 | 19 | 0.9 |
+| bea_releases | OK | 49 | 2 | 0 | 2 | 47 | 1.0 |
+| wsj_world | OK | 73 | 23 | 3 | 20 | 50 | 0.0 |
+| wsj_markets | OK | 61 | 38 | 14 | 24 | 23 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 8.2 |
+| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 6 | 24 | 0 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - yahoo_finance — STALE, cadence 1d, magar 8d purana
