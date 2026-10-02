@@ -1,6 +1,6 @@
 # Calendar — Trading Day 02 Oct 2026
 
-- Banaya gaya: **02 Oct 2026 06:47 PKT**
+- Banaya gaya: **02 Oct 2026 16:14 PKT**
 - Trading day: **02 Oct 03:00 -> 03 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,10 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 12:00 | EUR | low | Spanish Unemployment Change | 17.6K | 44.4K |
-| 13:00 | EUR | low | Italian Retail Sales m/m | -0.1% | -0.4% |
-| 14:00 | EUR | MED | Core CPI Flash Estimate y/y | 2.5% | 2.4% |
-| 14:00 | EUR | MED | CPI Flash Estimate y/y | 3.7% | 3.3% |
 | 17:30 | USD | **HIGH** | Average Hourly Earnings m/m | 0.3% | 0.3% |
 | 17:30 | USD | **HIGH** | Non-Farm Employment Change | 89K | 162K |
 | 17:30 | USD | **HIGH** | Unemployment Rate | 4.1% | 4.1% |
