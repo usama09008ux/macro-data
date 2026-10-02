@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "02 Oct 2026 16:14",
+  "generated_pkt": "02 Oct 2026 22:06",
   "trading_day": "2026-10-02",
   "feed_sources": {
     "thisweek": "live"
@@ -1826,6 +1826,19 @@
       "trading_day": "2026-10-02"
     },
     {
+      "title": "FOMC Member Goolsbee Speaks",
+      "ccy": "USD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/889-us-fomc-member-goolsbee-speaks",
+      "all_day": false,
+      "utc": "2026-10-02T17:00Z",
+      "pkt": "02 Oct 22:00",
+      "pkt_iso": "2026-10-02T22:00:00+05:00",
+      "trading_day": "2026-10-02"
+    },
+    {
       "title": "German Buba President Nagel Speaks",
       "ccy": "EUR",
       "impact": "Low",
@@ -1852,5 +1865,22 @@
       "trading_day": "2026-10-03"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US September non-farm payrolls +29K vs +90K expected",
+      "actual_raw": "+29K",
+      "forecast_raw": "+90K",
+      "beat": false,
+      "raw_diff": "-61.0K",
+      "sign_flip": false,
+      "diff_pct": -67.8,
+      "when_pkt": "02 Oct 17:30",
+      "source": "investinglive",
+      "tags": [
+        "usd",
+        "jpy",
+        "rates"
+      ]
+    }
+  ]
 }
