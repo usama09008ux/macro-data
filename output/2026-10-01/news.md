@@ -1,8 +1,8 @@
 # News Pack — Trading Day 01 Oct 2026
 
 - Trading day: **01 Oct 03:00 -> 02 Oct 02:59 PKT**
-- Aakhri update: **02 Oct 06:43 PKT**
-- Kul khabrein: **928**
+- Aakhri update: **02 Oct 12:33 PKT**
+- Kul khabrein: **942**
 - Feeds: 35/39 OK
 
 ---
@@ -247,6 +247,11 @@ Gold price drifted higher, posting modest gains of over 0.40% on Thursday as US 
 
 SMG is advancing namesake project in the province's Cariboo region.
 
+**TAG: Turkey gold reserves - Kitco**
+`02 Oct 00:45 PKT` · pehli baar dekhi `02 Oct 12:33` · kitco_general
+
+TAG: Turkey gold reserves Kitco
+
 **Risks rising that gold prices fall below $4,000 in Q4 - Bank of America - Kitco**
 `01 Oct 23:13 PKT` · pehli baar dekhi `02 Oct 03:17` · kitco_general
 
@@ -430,6 +435,11 @@ Cook's remarks lean hawkish and, if shared more widely on the committee, would a
 
 Fed awarded $2B on renovation without a guaranteed price The Center Square
 
+**US Payrolls Preview: September Jobs Forecast to Cool - AskTraders**
+`02 Oct 01:37 PKT` · pehli baar dekhi `02 Oct 12:33` · gnews_fed
+
+US Payrolls Preview: September Jobs Forecast to Cool AskTraders
+
 **US stocks edge higher after a two-way session**
 `02 Oct 01:28 PKT` · pehli baar dekhi `02 Oct 03:17` · investinglive
 
@@ -454,6 +464,11 @@ Fed employee repeatedly removed sensitive files, watchdog finds FedScoop
 `02 Oct 01:25 PKT` · pehli baar dekhi `02 Oct 06:43` · gnews_fed
 
 Fed Vice Chair Jefferson says rate decision may take time — The Hill UA.NEWS
+
+**Fed's preferred measure of inflation dips to 3.4 percent in August - KTSM 9 News**
+`02 Oct 01:15 PKT` · pehli baar dekhi `02 Oct 12:33` · gnews_fed
+
+Fed's preferred measure of inflation dips to 3.4 percent in August KTSM 9 News
 
 **The Treasury Department started Trump accounts for 60 million kids — but families still have to take this step if they want one**
 `02 Oct 01:14 PKT` · pehli baar dekhi `02 Oct 03:17` · mw_topstories
@@ -679,6 +694,11 @@ The Mexican Peso collapses, extending its depreciation by over 1.50% in the day 
 
 The US Dollar (USD) has advanced further on Thursday, trading in levels last seen in early April 2025 on the back of the marked improvement in the sentiment surrounding the US Dollar, geopolitical uncertainty and renewed concerns over the French economy.
 
+**The Fed's long-term interest rate problem - Axios**
+`01 Oct 22:04 PKT` · pehli baar dekhi `02 Oct 12:33` · gnews_fed
+
+The Fed's long-term interest rate problem Axios
+
 **Fed's Schmid: Rising long-term rates are starting to strain housing and commercial lending**
 `01 Oct 22:02 PKT` · pehli baar dekhi `01 Oct 22:52` · investinglive
 
@@ -698,6 +718,11 @@ Trump says IG report means Powell must be 'forced to resign' American Banker
 `01 Oct 21:45 PKT` · pehli baar dekhi `01 Oct 22:52` · gnews_fed
 
 Fed watchdog finds mismanagement, not criminality, in $2.5B renovation Banking Dive
+
+**Minneapolis Fed President: "Uncertain How High Rates Need to Go" - 아시아경제**
+`01 Oct 21:08 PKT` · pehli baar dekhi `02 Oct 12:33` · gnews_fed
+
+Minneapolis Fed President: "Uncertain How High Rates Need to Go" 아시아경제
 
 **Mining's future is up for sale**
 `01 Oct 21:08 PKT` · pehli baar dekhi `02 Oct 03:17` · mining_com
@@ -729,6 +754,11 @@ Fed may take time to make next interest rate move, Jefferson says Kitco
   - `01 Oct 22:33` *gnews_fed* — Fed may take time to make next interest rate move, Jefferson says - Reuters
   - `01 Oct 22:32` *gnews_fed* — Fed may take time to make next interest rate move, Jefferson says - The Spokesman-Review
   - `01 Oct 22:37` *investing_news* — Fed may take time to make next interest rate move, Jefferson says
+
+**Watchdog clears former Fed chief Powell in probe - Kuwait Times**
+`01 Oct 20:46 PKT` · pehli baar dekhi `02 Oct 12:33` · gnews_fed
+
+Watchdog clears former Fed chief Powell in probe Kuwait Times
 
 **Wall Street dips as surging Treasury yields outweigh software gains - Kitco**
 `01 Oct 20:33 PKT` · pehli baar dekhi `01 Oct 22:52` · kitco_general
@@ -801,6 +831,11 @@ Bears accelerated on Thursday, extending larger downtrend to the lowest since la
 
 Rabobank's RaboResearch Global Economics & Markets updates its United States (US) Federal Reserve (Fed) outlook, adding a December 2026 rate hike after recent FOMC speeches.
 
+**Trump is demanding Powell resign from the Fed board over a $2.4 billion renovation - qz.com**
+`01 Oct 18:30 PKT` · pehli baar dekhi `02 Oct 12:33` · gnews_fed
+
+Trump is demanding Powell resign from the Fed board over a $2.4 billion renovation qz.com
+
 **Bond markets take a drubbing again, 10-year Treasury yields highest since 2002 - Kitco**
 `01 Oct 18:23 PKT` · pehli baar dekhi `01 Oct 22:52` · kitco_general
 
@@ -863,9 +898,10 @@ US initial jobless claims edged down from a revised 198K to 197K in the week end
 According to a report from the US Department of Labour (DOL) released on Thursday, the number of US citizens submitting new applications for unemployment insurance decreased to 197K for the week ending September 26.
 
 **Trump Reportedly Wants The Fed To Stop Raising Rates – And Says Growth Can Solve The Debt Problem - TradingView**
-`01 Oct 17:32 PKT` · pehli baar dekhi `01 Oct 22:52` · gnews_fed
+`01 Oct 17:32 PKT` · pehli baar dekhi `01 Oct 22:52` · gnews_fed · **2 feeds mein**
 
 Trump Reportedly Wants The Fed To Stop Raising Rates – And Says Growth Can Solve The Debt Problem TradingView
+  - `01 Oct 17:32` *gnews_fed* — Trump Reportedly Wants The Fed To Stop Raising Rates – And Says Growth Can Solve The Debt Problem - Yahoo Finance
 
 **US weekly initial jobless claims 197K vs 200K expected**
 `01 Oct 17:30 PKT` · pehli baar dekhi `01 Oct 22:52` · investinglive
@@ -1378,6 +1414,11 @@ Fed's Kashkari says inflation is 'still too high' even after softer-than-expecte
 `02 Oct 02:22 PKT` · pehli baar dekhi `02 Oct 03:17` · aljazeera
 
 Jurgen Klopp secures first win as Germany manager, while Cristiano Ronaldo&#039;s absence not felt by Portugal in Austria.
+
+**Euro falls to $1.1298 under ECB rate for October 1 - BurgasMedia**
+`01 Oct 23:19 PKT` · pehli baar dekhi `02 Oct 12:33` · gnews_centralbanks
+
+Euro falls to $1.1298 under ECB rate for October 1 BurgasMedia
 
 **School protests spread as fires, blockades deepen unrest in France**
 `01 Oct 23:18 PKT` · pehli baar dekhi `02 Oct 03:17` · aljazeera
@@ -2229,6 +2270,11 @@ Exports of crude oil from the Middle East hit their highest level in September s
 
 Campaigners and Green Party leader Zack Polanski raise concerns about Rosebank's ties to an Israeli firm.
 
+**Why is the Strait of Hormuz important and how is it impacting global energy? - Awani International**
+`01 Oct 23:02 PKT` · pehli baar dekhi `02 Oct 12:33` · gnews_geopolitics
+
+Why is the Strait of Hormuz important and how is it impacting global energy? Awani International
+
 **Amazon Secures 20 Years of Nuclear Power From Constellation**
 `01 Oct 23:00 PKT` · pehli baar dekhi `02 Oct 03:17` · oilprice
 
@@ -2303,6 +2349,11 @@ If you only looked at the price of the fuel, you'd think the nuclear trade has n
 `01 Oct 19:30 PKT` · pehli baar dekhi `01 Oct 22:52` · oilprice
 
 Oil prices are high not because the world is short on oil but because the trade routes have been severely disrupted, driving up freight and other costs, India's Oil Minister Hardeep Singh Puri said. "There's no supply shortage in the world. The world has 104 million barrels of oil a day. It's only that the supply routes are choked and freight charges and others are high, and that's higher prices," Puri told reporters on the sidelines of an event, as carried by Indian media.
+
+**Oil Heads for Weekly Gains as Middle East Supply Risks Persist - EnergyNow**
+`01 Oct 19:26 PKT` · pehli baar dekhi `02 Oct 12:33` · gnews_geopolitics
+
+Oil Heads for Weekly Gains as Middle East Supply Risks Persist EnergyNow
 
 **Oil prices rise as China suspends fuel exports - Business Recorder**
 `01 Oct 19:10 PKT` · pehli baar dekhi `01 Oct 22:52` · gnews_geopolitics
@@ -2878,6 +2929,11 @@ Nearly 70 percent of Americans say the US-Israeli war is not worth fighting, mar
 `02 Oct 01:43 PKT` · pehli baar dekhi `02 Oct 03:17` · investing_commodities · **2 feeds mein**
   - `02 Oct 01:52` *gnews_geopolitics* — US sanctions target Iran's auto, rail sectors as blockade chokes ship lanes - Reuters
 
+**US aims to drain Iran's remaining revenue, Bessent says after new sanctions - Iran International**
+`02 Oct 01:40 PKT` · pehli baar dekhi `02 Oct 12:33` · gnews_geopolitics
+
+US aims to drain Iran's remaining revenue, Bessent says after new sanctions Iran International
+
 **Drones Strike Ethiopia's Capital as Country Severs Ties with Eritrea**
 `02 Oct 01:26 PKT` · pehli baar dekhi `02 Oct 03:17` · wsj_world
 
@@ -2894,9 +2950,10 @@ ICC and Axa terminate agreement amid mounting US criticism and looming financial
 US Sanctions Iran's Automotive and Rail Transportation Sectors WANA News Agency
 
 **Crude Oil Prices Surge on Possible Escalation of US-Iran War - Barchart.com**
-`02 Oct 00:14 PKT` · pehli baar dekhi `02 Oct 03:17` · gnews_geopolitics
+`02 Oct 00:14 PKT` · pehli baar dekhi `02 Oct 03:17` · gnews_geopolitics · **2 feeds mein**
 
 Crude Oil Prices Surge on Possible Escalation of US-Iran War Barchart.com
+  - `02 Oct 00:14` *gnews_geopolitics* — Crude Oil Prices Surge on Possible Escalation of US-Iran War - TradingView
 
 **US targets Iran auto, rail and metals sectors in new sanctions blitz - Iran International**
 `01 Oct 23:40 PKT` · pehli baar dekhi `02 Oct 03:17` · gnews_geopolitics
@@ -3106,7 +3163,7 @@ Trump says the US may "blow up" Iran or strike a deal, insisting the standoff wi
 
 A Russian attack drone crashed into a children's playground in Kyiv, Ukraine without exploding.
 
-### BINA TAG (249)
+### BINA TAG (250)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -3127,6 +3184,7 @@ A Russian attack drone crashed into a children's playground in Kyiv, Ukraine wit
 - `02 Oct 02:09` **mw_topstories** — Nike's troubles are mounting, and sales could fall further
 - `02 Oct 02:01` **mw_topstories** — The stock market is anything but normal right now — and these charts show it
 - `02 Oct 02:00` **cointelegraph** — Trump to host 3rd 'exclusive' memecoin event amid corruption claims
+- `02 Oct 02:00` **gnews_fed** — Americans Increasingly Priced Out of Buying Homes, Thanks to the Federal Reserve's Manipulation of Mortgage and Housing Markets - Mises Institute
 - `02 Oct 01:59` **wsj_world** — Opinion | Religious Persecution and Financial 'Crimes'
 - `02 Oct 01:58` **mw_topstories** — Republicans sabotaged their own bill to prevent people in Congress from trading stocks. Why?
 - `02 Oct 01:51` **bbc_business** — What's gone wrong at Nike? How the world's sportswear giant lost its mojo
@@ -3376,46 +3434,46 @@ investing_news (9), investing_commodities (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 14 | 16 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.3 |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.1 |
-| marketpulse | STALE | 1 | 0 | 0 | 0 | 1 | 6.4 |
-| instaforex | OK | 25 | 25 | 18 | 7 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 8 | 1 | 7 | 28 | 0.1 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_daily_commentary | OK | 10 | 5 | 0 | 5 | 5 | 0.2 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 21.3 |
-| kitco_general | OK | 47 | 47 | 4 | 43 | 0 | 0.2 |
-| gnews_fed | OK | 100 | 100 | 25 | 75 | 0 | 0.1 |
-| gnews_geopolitics | OK | 87 | 87 | 11 | 76 | 0 | 0.0 |
-| gnews_centralbanks | OK | 32 | 32 | 3 | 29 | 0 | 0.3 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 15.3 |
-| fed_speeches | OK | 15 | 3 | 0 | 3 | 12 | 0.3 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.4 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.5 |
-| boj_whatsnew | OK | 52 | 6 | 3 | 3 | 46 | 0.1 |
-| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 1.0 |
-| mining_com | OK | 36 | 13 | 1 | 12 | 23 | 0.1 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| ing_think | OK | 10 | 8 | 0 | 8 | 2 | 0.5 |
-| bbc_business | OK | 51 | 24 | 4 | 20 | 27 | 0.0 |
-| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.1 |
+| investinglive | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 27 | 3 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 6 | 1 | 5 | 24 | 0.2 |
+| actionforex | OK | 20 | 20 | 13 | 7 | 0 | 0.0 |
+| marketpulse | STALE | 1 | 0 | 0 | 0 | 1 | 6.7 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 8 | 0 | 8 | 28 | 0.3 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
+| cme_daily_commentary | OK | 10 | 5 | 0 | 5 | 5 | 0.4 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 21.5 |
+| kitco_general | OK | 44 | 44 | 2 | 42 | 0 | 0.4 |
+| gnews_fed | OK | 100 | 100 | 24 | 76 | 0 | 0.0 |
+| gnews_geopolitics | OK | 70 | 70 | 24 | 46 | 0 | 0.0 |
+| gnews_centralbanks | OK | 27 | 27 | 3 | 24 | 0 | 0.1 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 15.6 |
+| fed_speeches | OK | 15 | 3 | 0 | 3 | 12 | 0.5 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.7 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.8 |
+| boj_whatsnew | OK | 51 | 6 | 0 | 6 | 45 | 0.3 |
+| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 1.3 |
+| mining_com | OK | 36 | 13 | 0 | 13 | 23 | 0.4 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| bbc_business | OK | 51 | 24 | 2 | 22 | 27 | 0.0 |
+| aljazeera | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
 | snb_press | OK | 20 | 4 | 0 | 4 | 16 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.6 |
-| eia_energy | OK | 20 | 0 | 0 | 0 | 20 | 1.5 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 1.6 |
-| wsj_world | OK | 71 | 25 | 1 | 24 | 46 | 0.0 |
-| wsj_markets | OK | 61 | 36 | 5 | 31 | 25 | 0.0 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
-| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 8.8 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 22 | 2 | 20 | 8 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.9 |
+| eia_energy | OK | 20 | 0 | 0 | 0 | 20 | 1.7 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 1.8 |
+| wsj_world | OK | 71 | 26 | 1 | 25 | 45 | 0.0 |
+| wsj_markets | OK | 61 | 37 | 3 | 34 | 24 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 9.1 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
+| cointelegraph | OK | 30 | 28 | 6 | 22 | 2 | 0.1 |
 
 **Jo feeds nahi aaye:**
-- marketpulse — STALE, cadence 2d, magar 6d purana
+- marketpulse — STALE, cadence 2d, magar 7d purana
 - yahoo_finance — STALE, cadence 1d, magar 9d purana

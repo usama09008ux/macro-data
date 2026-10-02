@@ -1,7 +1,7 @@
 # News Pack — Trading Day 28 Sep 2026
 
 - Trading day: **28 Sep 03:00 -> 29 Sep 02:59 PKT**
-- Aakhri update: **02 Oct 06:43 PKT**
+- Aakhri update: **02 Oct 12:33 PKT**
 - Kul khabrein: **839**
 - Feeds: 35/39 OK
 
@@ -3183,46 +3183,46 @@ investing_news (6)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 14 | 16 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.3 |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.1 |
-| marketpulse | STALE | 1 | 0 | 0 | 0 | 1 | 6.4 |
-| instaforex | OK | 25 | 25 | 18 | 7 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 8 | 1 | 7 | 28 | 0.1 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_daily_commentary | OK | 10 | 5 | 0 | 5 | 5 | 0.2 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 21.3 |
-| kitco_general | OK | 47 | 47 | 4 | 43 | 0 | 0.2 |
-| gnews_fed | OK | 100 | 100 | 25 | 75 | 0 | 0.1 |
-| gnews_geopolitics | OK | 87 | 87 | 11 | 76 | 0 | 0.0 |
-| gnews_centralbanks | OK | 32 | 32 | 3 | 29 | 0 | 0.3 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 15.3 |
-| fed_speeches | OK | 15 | 3 | 0 | 3 | 12 | 0.3 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.4 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.5 |
-| boj_whatsnew | OK | 52 | 6 | 3 | 3 | 46 | 0.1 |
-| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 1.0 |
-| mining_com | OK | 36 | 13 | 1 | 12 | 23 | 0.1 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| ing_think | OK | 10 | 8 | 0 | 8 | 2 | 0.5 |
-| bbc_business | OK | 51 | 24 | 4 | 20 | 27 | 0.0 |
-| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.1 |
+| investinglive | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 27 | 3 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 6 | 1 | 5 | 24 | 0.2 |
+| actionforex | OK | 20 | 20 | 13 | 7 | 0 | 0.0 |
+| marketpulse | STALE | 1 | 0 | 0 | 0 | 1 | 6.7 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 8 | 0 | 8 | 28 | 0.3 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
+| cme_daily_commentary | OK | 10 | 5 | 0 | 5 | 5 | 0.4 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 21.5 |
+| kitco_general | OK | 44 | 44 | 2 | 42 | 0 | 0.4 |
+| gnews_fed | OK | 100 | 100 | 24 | 76 | 0 | 0.0 |
+| gnews_geopolitics | OK | 70 | 70 | 24 | 46 | 0 | 0.0 |
+| gnews_centralbanks | OK | 27 | 27 | 3 | 24 | 0 | 0.1 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 15.6 |
+| fed_speeches | OK | 15 | 3 | 0 | 3 | 12 | 0.5 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.7 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.8 |
+| boj_whatsnew | OK | 51 | 6 | 0 | 6 | 45 | 0.3 |
+| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 1.3 |
+| mining_com | OK | 36 | 13 | 0 | 13 | 23 | 0.4 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| bbc_business | OK | 51 | 24 | 2 | 22 | 27 | 0.0 |
+| aljazeera | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
 | snb_press | OK | 20 | 4 | 0 | 4 | 16 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.6 |
-| eia_energy | OK | 20 | 0 | 0 | 0 | 20 | 1.5 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 1.6 |
-| wsj_world | OK | 71 | 25 | 1 | 24 | 46 | 0.0 |
-| wsj_markets | OK | 61 | 36 | 5 | 31 | 25 | 0.0 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
-| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 8.8 |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 22 | 2 | 20 | 8 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 21.9 |
+| eia_energy | OK | 20 | 0 | 0 | 0 | 20 | 1.7 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 1.8 |
+| wsj_world | OK | 71 | 26 | 1 | 25 | 45 | 0.0 |
+| wsj_markets | OK | 61 | 37 | 3 | 34 | 24 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 9.1 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
+| cointelegraph | OK | 30 | 28 | 6 | 22 | 2 | 0.1 |
 
 **Jo feeds nahi aaye:**
-- marketpulse — STALE, cadence 2d, magar 6d purana
+- marketpulse — STALE, cadence 2d, magar 7d purana
 - yahoo_finance — STALE, cadence 1d, magar 9d purana
