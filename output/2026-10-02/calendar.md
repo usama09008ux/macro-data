@@ -1,6 +1,6 @@
 # Calendar — Trading Day 02 Oct 2026
 
-- Banaya gaya: **02 Oct 2026 22:06 PKT**
+- Banaya gaya: **03 Oct 2026 02:05 PKT**
 - Trading day: **02 Oct 03:00 -> 03 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,8 +12,7 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **03 Oct** 00:35 | EUR | low | German Buba President Nagel Speaks | - | - |
-| **03 Oct** 21:00 | AUD | chhutti | Daylight Saving Time Shift | - | - |
+| 21:00 | AUD | chhutti | Daylight Saving Time Shift | - | - |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
