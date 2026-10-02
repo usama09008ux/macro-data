@@ -1,11 +1,11 @@
 {
-  "generated_pkt": "02 Oct 2026 16:22",
+  "generated_pkt": "02 Oct 2026 22:52",
   "trading_day": "2026-10-02",
   "series": {
     "DFEDTARU": {
       "latest": 4.0,
-      "latest_date": "2026-10-01",
-      "n_obs": 1105,
+      "latest_date": "2026-10-02",
+      "n_obs": 1106,
       "changes": {
         "1d": 0.0,
         "5d": 0.0,
@@ -124,26 +124,26 @@
       "percentile": 32
     },
     "VIXCLS": {
-      "latest": 16.34,
-      "latest_date": "2026-09-30",
-      "n_obs": 779,
+      "latest": 16.39,
+      "latest_date": "2026-10-01",
+      "n_obs": 780,
       "changes": {
-        "1d": 0.3,
-        "5d": 1.16,
-        "20d": 1.14
+        "1d": 0.05,
+        "5d": 0.72,
+        "20d": 2.07
       },
-      "percentile": 47
+      "percentile": 49
     },
     "BAMLH0A0HYM2": {
-      "latest": 3.12,
-      "latest_date": "2026-09-30",
+      "latest": 3.24,
+      "latest_date": "2026-10-01",
       "n_obs": 786,
       "changes": {
-        "1d": 0.04,
-        "5d": 0.39,
-        "20d": 0.46
+        "1d": 0.12,
+        "5d": 0.44,
+        "20d": 0.59
       },
-      "percentile": 57
+      "percentile": 74
     },
     "STLFSI4": {
       "latest": -0.8074,
@@ -197,32 +197,32 @@
       "percentile": 97
     },
     "PAYEMS": {
-      "latest": 159075.0,
-      "latest_date": "2026-08-01",
-      "n_obs": 36,
+      "latest": 159044.0,
+      "latest_date": "2026-09-01",
+      "n_obs": 37,
       "changes": {
-        "MoM %": 0.1,
-        "YoY %": 0.38
+        "MoM %": 0.02,
+        "YoY %": 0.31
       },
       "percentile": 97
     },
     "UNRATE": {
-      "latest": 4.1,
-      "latest_date": "2026-08-01",
-      "n_obs": 35,
-      "changes": {
-        "MoM %": 0.0,
-        "YoY %": -4.65
-      },
-      "percentile": 29
-    },
-    "CES0500000003": {
-      "latest": 37.75,
-      "latest_date": "2026-08-01",
+      "latest": 4.2,
+      "latest_date": "2026-09-01",
       "n_obs": 36,
       "changes": {
-        "MoM %": 0.27,
-        "YoY %": 3.09
+        "MoM %": 2.44,
+        "YoY %": -2.33
+      },
+      "percentile": 47
+    },
+    "CES0500000003": {
+      "latest": 37.81,
+      "latest_date": "2026-09-01",
+      "n_obs": 37,
+      "changes": {
+        "MoM %": 0.13,
+        "YoY %": 3.02
       },
       "percentile": 97
     },

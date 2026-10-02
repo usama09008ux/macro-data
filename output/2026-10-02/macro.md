@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 02 Oct 2026
 
-- Banaya gaya: **02 Oct 2026 16:22 PKT**
+- Banaya gaya: **02 Oct 2026 22:52 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
@@ -11,7 +11,7 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| Fed funds target (upper) <br>`DFEDTARU` | **4.00%** | 0.0 | 0.0 | +0.25 | 25 | 2026-10-01 |
+| Fed funds target (upper) <br>`DFEDTARU` | **4.00%** | 0.0 | 0.0 | +0.25 | 25 | 2026-10-02 |
 | US 2Y yield <br>`DGS2` | **4.88%** | -0.01 | +0.03 | +0.49 | 92 | 2026-09-30 |
 | US 10Y yield <br>`DGS10` | **5.29%** | +0.03 | +0.18 | +0.5 | 100 | 2026-09-30 |
 | US 30Y yield <br>`DGS30` | **5.64%** | +0.05 | +0.24 | +0.37 | 100 | 2026-09-30 |
@@ -36,8 +36,8 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| VIX <br>`VIXCLS` | **16.34** | +0.3 | +1.16 | +1.14 | 47 | 2026-09-30 |
-| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.12%** | +0.04 | +0.39 | +0.46 | 57 | 2026-09-30 |
+| VIX <br>`VIXCLS` | **16.39** | +0.05 | +0.72 | +2.07 | 49 | 2026-10-01 |
+| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.24%** | +0.12 | +0.44 | +0.59 | 74 | 2026-10-01 |
 | Financial stress index <br>`STLFSI4` | **-0.81** | -0.1063 | +0.0021 | -0.0512 | 20 | 2026-09-25 |
 
 ---
@@ -57,9 +57,9 @@
 
 | Series | Aaj | MoM % | YoY % | 1w | 4w | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|---|
-| Nonfarm payrolls <br>`PAYEMS` | **159,075k** | +0.1 | +0.38 |  |  | 97 | 2026-08-01 |
-| Unemployment rate <br>`UNRATE` | **4.10%** | 0.0 | -4.65 |  |  | 29 | 2026-08-01 |
-| Average hourly earnings <br>`CES0500000003` | **37.75$** | +0.27 | +3.09 |  |  | 97 | 2026-08-01 |
+| Nonfarm payrolls <br>`PAYEMS` | **159,044k** | +0.02 | +0.31 |  |  | 97 | 2026-09-01 |
+| Unemployment rate <br>`UNRATE` | **4.20%** | +2.44 | -2.33 |  |  | 47 | 2026-09-01 |
+| Average hourly earnings <br>`CES0500000003` | **37.81$** | +0.13 | +3.02 |  |  | 97 | 2026-09-01 |
 | Initial jobless claims <br>`ICSA` | **197,000** |  |  | -1000.0 | -10000.0 | 2 | 2026-09-26 |
 
 ---
