@@ -1261,16 +1261,6 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/886-us-fomc-member-cook-speaks]]></url>
 	</event>
 	<event>
-		<title>FOMC Member Logan Speaks</title>
-		<country>USD</country>
-		<date><![CDATA[10-01-2026]]></date>
-		<time><![CDATA[10:45pm]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast />
-		<previous />
-		<url><![CDATA[https://www.forexfactory.com/calendar/890-us-fomc-member-logan-speaks]]></url>
-	</event>
-	<event>
 		<title>Bank Holiday</title>
 		<country>CNY</country>
 		<date><![CDATA[10-01-2026]]></date>
@@ -1279,6 +1269,16 @@
 		<forecast />
 		<previous />
 		<url><![CDATA[https://www.forexfactory.com/calendar/468-ch-bank-holiday]]></url>
+	</event>
+	<event>
+		<title>FOMC Member Logan Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[10-01-2026]]></date>
+		<time><![CDATA[11:20pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/890-us-fomc-member-logan-speaks]]></url>
 	</event>
 	<event>
 		<title>Tokyo Core CPI y/y</title>
