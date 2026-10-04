@@ -1,9 +1,9 @@
 # News Pack — Trading Day 03 Oct 2026
 
 - Trading day: **03 Oct 03:00 -> 04 Oct 02:59 PKT**
-- Aakhri update: **04 Oct 03:24 PKT**
-- Kul khabrein: **324**
-- Feeds: 36/39 OK
+- Aakhri update: **04 Oct 06:53 PKT**
+- Kul khabrein: **339**
+- Feeds: 35/39 OK
 
 ---
 
@@ -51,10 +51,20 @@ SILVER News Kitco
 
 ### USD
 
+**'Revolution': Fed Chair Kevin Warsh says US likely 'big winner' in AI race - ABC News - Breaking News, Latest News and Videos**
+`04 Oct 02:59 PKT` · pehli baar dekhi `04 Oct 06:53` · gnews_fed
+
+'Revolution': Fed Chair Kevin Warsh says US likely 'big winner' in AI race ABC News - Breaking News, Latest News and Videos
+
 **FDIC Is Making Bank Mergers Easier: the Fed Hasn't Fully Followed - Coinpaper**
 `04 Oct 02:45 PKT` · pehli baar dekhi `04 Oct 03:24` · gnews_fed
 
 FDIC Is Making Bank Mergers Easier: the Fed Hasn't Fully Followed Coinpaper
+
+**Tokyo core inflation rate jumps in September - Business Recorder**
+`04 Oct 02:23 PKT` · pehli baar dekhi `04 Oct 06:53` · gnews_centralbanks
+
+Tokyo core inflation rate jumps in September Business Recorder
 
 **Fed, ECB Minutes to Show Inflation Fears as Hike Bets Fade - Bloomberg.com**
 `04 Oct 01:00 PKT` · pehli baar dekhi `04 Oct 03:24` · gnews_fed
@@ -178,6 +188,11 @@ Energy crisis, inflation and AI are driving up interest rates Il Foglio
 
 Blanche: DOJ won't reopen investigation into Jerome Powell Washington Examiner
 
+**Monthly fed funds effective rate in the U.S. 1954-2026 - Statista**
+`03 Oct 07:44 PKT` · pehli baar dekhi `04 Oct 06:53` · gnews_fed
+
+Monthly fed funds effective rate in the U.S. 1954-2026 Statista
+
 **BlackRock Analyzes the Impact of the Fed's First Interest Rate Hike in Years on Stocks and Bonds - KuCoin**
 `03 Oct 07:42 PKT` · pehli baar dekhi `03 Oct 12:46` · gnews_fed
 
@@ -251,6 +266,11 @@ DoJ declines to reopen investigation into former Fed chair Jay Powell The Guardi
 
 ### EUR
 
+**Fed and ECB Pause: Hike Urgency Ebbs - Briefs Finance**
+`04 Oct 02:45 PKT` · pehli baar dekhi `04 Oct 06:53` · gnews_centralbanks
+
+Fed and ECB Pause: Hike Urgency Ebbs Briefs Finance
+
 **Merz to meet ECB succession contenders as race speeds up - Briefs Finance**
 `03 Oct 22:30 PKT` · pehli baar dekhi `04 Oct 03:24` · gnews_centralbanks
 
@@ -263,6 +283,11 @@ Merz to meet ECB succession contenders as race speeds up Briefs Finance
 `03 Oct 13:26 PKT` · pehli baar dekhi `03 Oct 17:46` · gnews_centralbanks
 
 France is the Biggest Loser in the Global Rates Reset theovershoot.co
+
+**Merz Will Meet Frontrunners for Lagarde Job as ECB Race Heats Up - bloomberg.com**
+`03 Oct 12:00 PKT` · pehli baar dekhi `04 Oct 06:53` · gnews_centralbanks
+
+Merz Will Meet Frontrunners for Lagarde Job as ECB Race Heats Up bloomberg.com
 
 **European House Prices Q2 2026: Portugal, Bulgaria, Spain Lead Gains as Finland, France Fall - News and Statistics - IndexBox**
 `03 Oct 10:30 PKT` · pehli baar dekhi `03 Oct 21:48` · gnews_centralbanks
@@ -320,6 +345,11 @@ ECB revises eurozone monetary policy rules amid digital euro push The Brussels T
 
 ### GBP
 
+**AI Poses Risks To Financial Markets, Bank Of England Chief Warns - News Agency of Nigeria**
+`04 Oct 01:48 PKT` · pehli baar dekhi `04 Oct 06:53` · gnews_centralbanks
+
+AI Poses Risks To Financial Markets, Bank Of England Chief Warns News Agency of Nigeria
+
 **BOE's Ramsden Sees Case for Raising Key Rate if Inflationary Pressures Build - WSJ**
 `03 Oct 20:48 PKT` · pehli baar dekhi `03 Oct 21:48` · gnews_centralbanks
 
@@ -357,6 +387,11 @@ Economists Warn Of 5% UK Inflation If US Diesel Ban Goes Ahead NDTV Profit
 British Pound futures rise on Bank of England rate expectations. CME Group
 
 ### JPY
+
+**Japan business mood improves, tankan survey shows - Business Recorder**
+`04 Oct 02:23 PKT` · pehli baar dekhi `04 Oct 06:53` · gnews_centralbanks
+
+Japan business mood improves, tankan survey shows Business Recorder
 
 **Iran's rial hits fresh low as $2 billion currency intervention fails to stem slide**
 `04 Oct 01:13 PKT` · pehli baar dekhi `04 Oct 03:24` · investing_news
@@ -517,6 +552,21 @@ Oil Prices Rise on Doubts US-Iran Peace Talks Will Ease Hormuz Disruption Energy
 
 Trump Warns Iran on Hormuz Tolls as Energy Crunch Prompts Japan to Release More Oil EnergyNow.com
 
+**How Would Trump's Blockade of the Strait of Hormuz Work? - EnergyNow.com**
+`03 Oct 20:25 PKT` · pehli baar dekhi `04 Oct 06:53` · gnews_geopolitics
+
+How Would Trump's Blockade of the Strait of Hormuz Work? EnergyNow.com
+
+**Oil Prices Fall as Supply Concerns Ease on Hopes for US-Iran Talks - EnergyNow**
+`03 Oct 20:21 PKT` · pehli baar dekhi `04 Oct 06:53` · gnews_geopolitics
+
+Oil Prices Fall as Supply Concerns Ease on Hopes for US-Iran Talks EnergyNow
+
+**Kazakhstan's Oil Output Plummets After Drone Attacks Forced Exporting Terminal Closure, Sources Say - EnergyNow.com**
+`03 Oct 20:02 PKT` · pehli baar dekhi `04 Oct 06:53` · gnews_geopolitics
+
+Kazakhstan's Oil Output Plummets After Drone Attacks Forced Exporting Terminal Closure, Sources Say EnergyNow.com
+
 **Latin America Could Double Its Onshore Wind Capacity by 2035**
 `03 Oct 20:00 PKT` · pehli baar dekhi `03 Oct 21:48` · oilprice
 
@@ -630,6 +680,11 @@ Bitcoin price: $84,828, but only €75,348 CryptoTicker
 **Bitcoin jumps above $85,000 as SEC custody proposal boosts institutional outlook**
 `03 Oct 23:16 PKT` · pehli baar dekhi `04 Oct 00:32` · investing_news
 
+**Bitcoin Crash Warning Goes Viral as X Post Flags Benner Cycle - TradingView**
+`03 Oct 21:40 PKT` · pehli baar dekhi `04 Oct 06:53` · gnews_fed
+
+Bitcoin Crash Warning Goes Viral as X Post Flags Benner Cycle TradingView
+
 **'I'm never selling': I'm 47 and buy bitcoin with every dollar I earn. Am I crazy?**
 `03 Oct 20:30 PKT` · pehli baar dekhi `03 Oct 21:48` · mw_topstories
 
@@ -642,6 +697,11 @@ Bitcoin price: $84,828, but only €75,348 CryptoTicker
 `03 Oct 17:20 PKT` · pehli baar dekhi `04 Oct 03:24` · cointelegraph
 
 Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
+**Federal Reserve Rate Pause Expectations Drive Bitcoin Recovery While Regulators Tighten Custody Rules - parameter.io**
+`03 Oct 15:12 PKT` · pehli baar dekhi `04 Oct 06:53` · gnews_fed
+
+Federal Reserve Rate Pause Expectations Drive Bitcoin Recovery While Regulators Tighten Custody Rules parameter.io
 
 **Community banks sue OCC over trust bank charters of crypto firms**
 `03 Oct 14:25 PKT` · pehli baar dekhi `03 Oct 17:46` · cointelegraph
@@ -672,6 +732,11 @@ Interest rate hike fears amid price pressures | Nottingham Post - newspaper magz
 Homeownership still possible after rate hike. Poconos experts share tips Pocono Record
 
 ### RISK
+
+**Dow closes down 400 points as Iran war escalates - ABC News - Breaking News, Latest News and Videos**
+`04 Oct 02:40 PKT` · pehli baar dekhi `04 Oct 06:53` · gnews_geopolitics
+
+Dow closes down 400 points as Iran war escalates ABC News - Breaking News, Latest News and Videos
 
 **Russia stocks lower at close of trade; MOEX Russia Index unchanged**
 `04 Oct 02:20 PKT` · pehli baar dekhi `04 Oct 03:24` · investing_news
@@ -757,7 +822,7 @@ Iran War Ceasefire Pushes Energy Markets Into Twilight Zone: Bousso EnergyNow.co
 
 How the Iran War Is Disrupting Global Oil and Gas Supply EnergyNow.com
 
-### BINA TAG (150)
+### BINA TAG (152)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -778,6 +843,7 @@ How the Iran War Is Disrupting Global Oil and Gas Supply EnergyNow.com
 - `04 Oct 00:00` **aljazeera** — Is the CJP changing India's political landscape?
 - `03 Oct 23:50` **gnews_centralbanks** — Board Begins Payment Of New Pension Rates, Arrears To Military Pensioners - News Agency of Nigeria
 - `03 Oct 23:49` **aljazeera** — Al Jazeera speaks to Palestinian schoolboy from viral photograph
+- `03 Oct 23:43` **gnews_fed** — Here's a list of the individuals, including James Comey, targeted by the Trump administration - ABC News - Breaking News, Latest News and Videos
 - `03 Oct 23:30` **mw_topstories** — 'I want to make her proud': My mother, a divorcée, died and I'm her executor. Do I need to file for probate?
 - `03 Oct 23:23` **aljazeera** — Fernandes hails Ronaldo and calls for Portugal unity ahead of Norway game
 - `03 Oct 23:20` **aljazeera** — England trounce Croatia 7-0 in Nations League as Kane goal run continues
@@ -832,6 +898,7 @@ How the Iran War Is Disrupting Global Oil and Gas Supply EnergyNow.com
 - `03 Oct 15:48` **aljazeera** — A Yemeni family spends a week on the road fleeing another Houthi offensive
 - `03 Oct 15:46` **aljazeera** — Pakistan summons Indian diplomat over border killing of two Pakistanis
 - `03 Oct 15:42` **investing_news** — As public fears of AI grow, Trump digs in on voluntary safeguards
+- `03 Oct 15:38` **gnews_fed** — US Jobs Growth Slows Sharply In September As Unemployment Rate Rises To 4.2% - Free Press Journal
 - `03 Oct 15:18` **investing_commodities** — Trump to speak at Ohio rally as Republicans defend Senate seat in close race
 - `03 Oct 15:12` **aljazeera** — What is FC Barcelona's Negreira case, and what are the charges?
 - `03 Oct 15:03` **aljazeera** — Red Bull's Verstappen grabs pole position for Bahrain GP in Malaysia
@@ -928,45 +995,45 @@ investing_news (12)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.2 |
-| fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 1.0 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.2 |
-| actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.6 |
-| marketpulse | OK | 1 | 0 | 0 | 0 | 1 | 1.3 |
-| instaforex | OK | 25 | 13 | 0 | 13 | 12 | 0.6 |
-| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 1.1 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 23.2 |
-| kitco_general | OK | 4 | 3 | 0 | 3 | 1 | 0.3 |
-| gnews_fed | OK | 38 | 38 | 8 | 30 | 0 | 0.0 |
-| gnews_geopolitics | OK | 63 | 63 | 14 | 49 | 0 | 0.0 |
-| gnews_centralbanks | OK | 44 | 44 | 1 | 43 | 0 | 0.1 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 17.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.6 |
-| boj_whatsnew | OK | 50 | 0 | 0 | 0 | 50 | 1.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.9 |
-| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 1.0 |
-| oilprice | OK | 15 | 4 | 1 | 3 | 11 | 0.1 |
-| investing_commodities | OK | 10 | 5 | 2 | 3 | 5 | 0.1 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
-| bbc_business | OK | 55 | 5 | 0 | 5 | 50 | 0.6 |
-| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 1 | 0 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.5 |
-| eia_energy | OK | 22 | 0 | 0 | 0 | 22 | 1.4 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 3.4 |
-| wsj_world | OK | 70 | 7 | 0 | 7 | 63 | 0.1 |
-| wsj_markets | OK | 61 | 5 | 0 | 5 | 56 | 0.4 |
-| investing_news | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 10.7 |
-| mw_topstories | OK | 10 | 10 | 2 | 8 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 4 | 1 | 3 | 26 | 0.4 |
+| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.3 |
+| fxstreet_news | OK | 30 | 0 | 0 | 0 | 30 | 1.2 |
+| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.3 |
+| actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.7 |
+| marketpulse | OK | 1 | 0 | 0 | 0 | 1 | 1.4 |
+| instaforex | OK | 25 | 13 | 0 | 13 | 12 | 0.8 |
+| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 1.2 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 23.3 |
+| kitco_general | OK | 2 | 2 | 0 | 2 | 0 | 0.3 |
+| gnews_fed | OK | 33 | 33 | 9 | 24 | 0 | 0.0 |
+| gnews_geopolitics | OK | 63 | 63 | 6 | 57 | 0 | 0.1 |
+| gnews_centralbanks | OK | 46 | 46 | 9 | 37 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 17.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.7 |
+| boj_whatsnew | OK | 49 | 0 | 0 | 0 | 49 | 1.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.0 |
+| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 1.1 |
+| oilprice | OK | 15 | 5 | 1 | 4 | 10 | 0.1 |
+| investing_commodities | OK | 10 | 5 | 0 | 5 | 5 | 0.0 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| bbc_business | OK | 55 | 5 | 0 | 5 | 50 | 0.7 |
+| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 23.6 |
+| eia_energy | OK | 22 | 0 | 0 | 0 | 22 | 1.5 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 3.6 |
+| wsj_world | OK | 70 | 10 | 2 | 8 | 60 | 0.1 |
+| wsj_markets | OK | 61 | 5 | 0 | 5 | 56 | 0.5 |
+| investing_news | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 10.8 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.6 |
 
 **Jo feeds nahi aaye:**
 - yahoo_finance — STALE, cadence 1d, magar 11d purana
