@@ -1,6 +1,6 @@
 # Calendar — Trading Day 05 Oct 2026
 
-- Banaya gaya: **05 Oct 2026 06:12 PKT**
+- Banaya gaya: **05 Oct 2026 17:28 PKT**
 - Trading day: **05 Oct 03:00 -> 06 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,24 +12,28 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 10:00 | JPY | low | Consumer Confidence | 35.3 | 35.5 |
-| 12:15 | EUR | low | Spanish Services PMI | 57.1 | 57.8 |
-| 12:45 | EUR | low | German Buba President Nagel Speaks | - | - |
-| 12:45 | EUR | low | Italian Services PMI | 54.6 | 55.2 |
-| 12:50 | EUR | low | French Final Services PMI | 51.4 | 51.4 |
-| 12:55 | EUR | low | German Final Services PMI | 52.9 | 52.9 |
-| 13:00 | EUR | low | Final Services PMI | 53.0 | 53.0 |
-| 13:30 | EUR | low | Sentix Investor Confidence | 4.5 | 5.1 |
-| 13:30 | GBP | low | Final Services PMI | 51.7 | 51.7 |
-| 14:00 | EUR | low | PPI m/m | 1.9% | 1.6% |
 | 18:45 | USD | low | Final Services PMI | 58.7 | 58.7 |
 | 19:00 | USD | MED | ISM Services PMI | 55.1 | 55.4 |
 | **06 Oct** 02:00 | NZD | low | NZIER Business Confidence | - | 8 |
 | **06 Oct** 04:01 | CNY | chhutti | Bank Holiday | - | - |
 | **06 Oct** 04:30 | AUD | low | Westpac Consumer Sentiment | - | -5.2% |
 | **06 Oct** 05:30 | AUD | low | ANZ Job Advertisements m/m | - | 2.5% |
+| **06 Oct** 08:35 | JPY | low | 10-y Bond Auction | - | 3.00|3.3 |
+| **06 Oct** 11:00 | EUR | low | German Factory Orders m/m | -1.0% | 2.5% |
+| **06 Oct** 11:35 | JPY | **HIGH** | BOJ Gov Ueda Speaks | - | - |
+| **06 Oct** 11:45 | EUR | low | French Gov Budget Balance | - | -145.9B |
+| **06 Oct** 11:45 | EUR | low | French Industrial Production m/m | 0.2% | -0.4% |
+| **06 Oct** 12:00 | CHF | low | Unemployment Rate | 3.1% | 3.1% |
+| **06 Oct** 13:30 | GBP | low | Construction PMI | 45.0 | 44.3 |
+| **06 Oct** 13:30 | GBP | low | MPC Member Mann Speaks | - | - |
+| **06 Oct** 13:30 | GBP | low | Housing Equity Withdrawal q/q | -11.9B | -12.6B |
+| **06 Oct** 14:00 | EUR | low | Retail Sales m/m | 0.3% | -0.6% |
+| **06 Oct** 17:15 | USD | low | ADP Weekly Employment Change | - | - |
+| **06 Oct** 17:16 | USD | low | ADP Weekly Employment Change | - | 20.0K |
 
-*Agle 24 ghante mein koi HIGH impact event nahi.*
+**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
+
+- `06 Oct 11:35` **JPY BOJ Gov Ueda Speaks**
 
 ---
 
@@ -37,7 +41,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **06 Oct** 11:35 | JPY | **HIGH** | BOJ Gov Ueda Speaks | - | - |
 | **06 Oct** 19:00 | CAD | MED | Ivey PMI | 65.2 | 64.3 |
 | **07 Oct** 23:00 | USD | **HIGH** | FOMC Meeting Minutes | - | - |
 | **08 Oct** 17:30 | USD | MED | Unemployment Claims | 200K | 197K |
