@@ -226,7 +226,7 @@
 		<date><![CDATA[10-06-2026]]></date>
 		<time><![CDATA[6:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[-1.0%]]></forecast>
+		<forecast><![CDATA[-0.9%]]></forecast>
 		<previous><![CDATA[2.5%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/352-ge-factory-orders-mm]]></url>
 	</event>
@@ -306,7 +306,7 @@
 		<date><![CDATA[10-06-2026]]></date>
 		<time><![CDATA[9:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[0.3%]]></forecast>
+		<forecast><![CDATA[0.2%]]></forecast>
 		<previous><![CDATA[-0.6%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/106-ez-retail-sales-mm]]></url>
 	</event>
@@ -336,7 +336,7 @@
 		<date><![CDATA[10-06-2026]]></date>
 		<time><![CDATA[12:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[1.3B]]></forecast>
+		<forecast><![CDATA[1.5B]]></forecast>
 		<previous><![CDATA[0.8B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/118-ca-trade-balance]]></url>
 	</event>
@@ -346,7 +346,7 @@
 		<date><![CDATA[10-06-2026]]></date>
 		<time><![CDATA[12:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[-95.2B]]></forecast>
+		<forecast><![CDATA[-100.8B]]></forecast>
 		<previous><![CDATA[-88.6B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/117-us-trade-balance]]></url>
 	</event>
@@ -389,6 +389,16 @@
 		<forecast />
 		<previous><![CDATA[-1.1%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/602-nz-gdt-price-index]]></url>
+	</event>
+	<event>
+		<title>FOMC Member Schmid Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[10-06-2026]]></date>
+		<time><![CDATA[5:15pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/912-us-fomc-member-schmid-speaks]]></url>
 	</event>
 	<event>
 		<title>API Weekly Statistical Bulletin</title>
@@ -591,6 +601,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/367-uk-boe-credit-conditions-survey]]></url>
 	</event>
 	<event>
+		<title>FOMC Member Waller Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[10-08-2026]]></date>
+		<time><![CDATA[8:30am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/839-us-fomc-member-waller-speaks]]></url>
+	</event>
+	<event>
 		<title>MPC Member Greene Speaks</title>
 		<country>GBP</country>
 		<date><![CDATA[10-08-2026]]></date>
@@ -629,6 +649,16 @@
 		<forecast />
 		<previous />
 		<url><![CDATA[https://www.forexfactory.com/calendar/613-ez-ecb-monetary-policy-meeting-accounts]]></url>
+	</event>
+	<event>
+		<title>BOE Gov Bailey Speaks</title>
+		<country>GBP</country>
+		<date><![CDATA[10-08-2026]]></date>
+		<time><![CDATA[12:15pm]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/838-uk-boe-gov-bailey-speaks]]></url>
 	</event>
 	<event>
 		<title>Unemployment Claims</title>

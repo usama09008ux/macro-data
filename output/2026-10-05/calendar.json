@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "05 Oct 2026 17:28",
+  "generated_pkt": "06 Oct 2026 00:58",
   "trading_day": "2026-10-05",
   "feed_sources": {
     "thisweek": "live"
@@ -295,7 +295,7 @@
       "title": "German Factory Orders m/m",
       "ccy": "EUR",
       "impact": "Low",
-      "forecast": "-1.0%",
+      "forecast": "-0.9%",
       "previous": "2.5%",
       "url": "https://www.forexfactory.com/calendar/352-ge-factory-orders-mm",
       "all_day": false,
@@ -399,7 +399,7 @@
       "title": "Retail Sales m/m",
       "ccy": "EUR",
       "impact": "Low",
-      "forecast": "0.3%",
+      "forecast": "0.2%",
       "previous": "-0.6%",
       "url": "https://www.forexfactory.com/calendar/106-ez-retail-sales-mm",
       "all_day": false,
@@ -438,7 +438,7 @@
       "title": "Trade Balance",
       "ccy": "CAD",
       "impact": "Low",
-      "forecast": "1.3B",
+      "forecast": "1.5B",
       "previous": "0.8B",
       "url": "https://www.forexfactory.com/calendar/118-ca-trade-balance",
       "all_day": false,
@@ -451,7 +451,7 @@
       "title": "Trade Balance",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "-95.2B",
+      "forecast": "-100.8B",
       "previous": "-88.6B",
       "url": "https://www.forexfactory.com/calendar/117-us-trade-balance",
       "all_day": false,
@@ -510,6 +510,19 @@
       "utc": "2026-10-06T14:50Z",
       "pkt": "06 Oct 19:50",
       "pkt_iso": "2026-10-06T19:50:00+05:00",
+      "trading_day": "2026-10-06"
+    },
+    {
+      "title": "FOMC Member Schmid Speaks",
+      "ccy": "USD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/912-us-fomc-member-schmid-speaks",
+      "all_day": false,
+      "utc": "2026-10-06T17:15Z",
+      "pkt": "06 Oct 22:15",
+      "pkt_iso": "2026-10-06T22:15:00+05:00",
       "trading_day": "2026-10-06"
     },
     {
@@ -773,6 +786,19 @@
       "trading_day": "2026-10-08"
     },
     {
+      "title": "FOMC Member Waller Speaks",
+      "ccy": "USD",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/839-us-fomc-member-waller-speaks",
+      "all_day": false,
+      "utc": "2026-10-08T08:30Z",
+      "pkt": "08 Oct 13:30",
+      "pkt_iso": "2026-10-08T13:30:00+05:00",
+      "trading_day": "2026-10-08"
+    },
+    {
       "title": "MPC Member Greene Speaks",
       "ccy": "GBP",
       "impact": "Low",
@@ -822,6 +848,19 @@
       "utc": "2026-10-08T11:30Z",
       "pkt": "08 Oct 16:30",
       "pkt_iso": "2026-10-08T16:30:00+05:00",
+      "trading_day": "2026-10-08"
+    },
+    {
+      "title": "BOE Gov Bailey Speaks",
+      "ccy": "GBP",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/838-uk-boe-gov-bailey-speaks",
+      "all_day": false,
+      "utc": "2026-10-08T12:15Z",
+      "pkt": "08 Oct 17:15",
+      "pkt_iso": "2026-10-08T17:15:00+05:00",
       "trading_day": "2026-10-08"
     },
     {
