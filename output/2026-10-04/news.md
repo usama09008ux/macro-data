@@ -1,9 +1,9 @@
 # News Pack — Trading Day 04 Oct 2026
 
 - Trading day: **04 Oct 03:00 -> 05 Oct 02:59 PKT**
-- Aakhri update: **05 Oct 04:33 PKT**
-- Kul khabrein: **296**
-- Feeds: 27/39 OK
+- Aakhri update: **05 Oct 07:22 PKT**
+- Kul khabrein: **302**
+- Feeds: 29/39 OK
 
 ---
 
@@ -72,10 +72,11 @@ What to Watch in Business This Week: Fed Minutes, AI Safety and Retail Sales NBC
 Despite Fed Pivot Talk, Treasury Yields Hit 5% — South Korean Lending Rate Hikes Now 'A Matter of Time' finance.biggo.com
 
 **Let exchange rate act as shock absorber: IMF on Fed hike impact on India - Business Standard**
-`04 Oct 22:40 PKT` · pehli baar dekhi `05 Oct 01:30` · gnews_fed · **2 feeds mein**
+`04 Oct 22:40 PKT` · pehli baar dekhi `05 Oct 01:30` · gnews_fed · **3 feeds mein**
 
 Let exchange rate act as shock absorber: IMF on Fed hike impact on India Business Standard
   - `04 Oct 18:22` *gnews_fed* — Let exchange rate act as shock absorber: IMF on Fed hike impact on India - CNBC TV18
+  - `04 Oct 17:42` *gnews_fed* — 'Let exchange rate act as shock absorber': IMF on Fed hike impact on India - Deccan Herald
 
 **RBI MPC must raise rates as inflation and external risks rise - The Economic Times**
 `04 Oct 22:37 PKT` · pehli baar dekhi `04 Oct 22:48` · gnews_centralbanks
@@ -179,6 +180,11 @@ Fed Must Decide on Rates This Month Without the Data It Normally Uses Startup Fo
 `04 Oct 10:10 PKT` · pehli baar dekhi `04 Oct 18:29` · gnews_fed
 
 Weak jobs, sticky inflation: Fed faces fresh dilemma over next US rate hike financialexpress.com
+
+**Fed holds interest rates steady as inflation hits 3-year high - ABC7 Chicago**
+`04 Oct 08:41 PKT` · pehli baar dekhi `05 Oct 07:22` · gnews_fed
+
+Fed holds interest rates steady as inflation hits 3-year high ABC7 Chicago
 
 **Kevin Warsh Was Confirmed as Fed Chair in the Most Divisive Vote in Federal Reserve History, 54-45. Here's Why That Split Still Matters Now That He's Raised Rates for the First Time Since 2023. - The Motley Fool**
 `04 Oct 08:25 PKT` · pehli baar dekhi `04 Oct 12:47` · gnews_fed
@@ -372,6 +378,11 @@ Australian police and intelligence join the list of those probing the incident.
 
 The rollover keeps the supply picture unchanged, and that picture is tight. Brent is still above $100 a barrel, up from about $73 before the war began in late February. Friday's dip on Europe's agreement to release diesel reserves at Washington's request looks like relief, not a turn in the trend. With physical barrels constrained by war-related export disruption rather than by policy, OPEC+ ceilings have little near-term pricing power.
 
+**Oil Jumps More Than 2% as Trump Rejects Iran's Peace Offer, Brent Tops $106 - finance.biggo.com**
+`05 Oct 02:09 PKT` · pehli baar dekhi `05 Oct 07:22` · gnews_geopolitics
+
+Oil Jumps More Than 2% as Trump Rejects Iran's Peace Offer, Brent Tops $106 finance.biggo.com
+
 **Iran Oil Minister Resigns, NIOC Chief Named Acting Minister - basnews.com**
 `05 Oct 00:19 PKT` · pehli baar dekhi `05 Oct 04:33` · gnews_geopolitics
 
@@ -405,6 +416,11 @@ Oil Prices Extend Gains on Escalating Middle East Hostilities EnergyNow.com
 
 Oil Steady as Investors Focus on Hormuz Flows After Peace Talks EnergyNow
 
+**US Pain at the Pump Worsens After More US-Iran Fighting Lifts Oil Prices - EnergyNow.com**
+`04 Oct 22:24 PKT` · pehli baar dekhi `05 Oct 07:22` · gnews_geopolitics
+
+US Pain at the Pump Worsens After More US-Iran Fighting Lifts Oil Prices EnergyNow.com
+
 **OPEC+ Holds November Oil Output Steady: What It Means for Oil Prices - bbntimes.com**
 `04 Oct 22:18 PKT` · pehli baar dekhi `04 Oct 22:48` · gnews_geopolitics
 
@@ -434,6 +450,11 @@ The renewable revolution is running out of space. Utility-scale solar and wind f
 `04 Oct 21:56 PKT` · pehli baar dekhi `05 Oct 04:33` · gnews_geopolitics
 
 U.S. TOPS THE LIST – Half the World's Oil Comes From Just Five Countries – Visual Capitalist EnergyNow.com
+
+**Morgan Stanley Lowers Brent Oil Price Forecasts After US-Iran Peace Deal - EnergyNow**
+`04 Oct 21:56 PKT` · pehli baar dekhi `05 Oct 07:22` · gnews_geopolitics
+
+Morgan Stanley Lowers Brent Oil Price Forecasts After US-Iran Peace Deal EnergyNow
 
 **Cutting Off Red Sea Oil Route May Be One Crisis Too Many: Bousso - EnergyNow.com**
 `04 Oct 21:46 PKT` · pehli baar dekhi `05 Oct 04:33` · gnews_geopolitics
@@ -511,6 +532,11 @@ OPEC+ keeps November oil output targets steady as Iran war hits supply The Times
 `04 Oct 16:37 PKT` · pehli baar dekhi `04 Oct 22:48` · gnews_geopolitics
 
 Brent crude settles near $107 a barrel as physical supply tightness outweighs US-Iran diplomatic progress on Hormuz Energies Media
+
+**Trump-Iran standoff threatens chronic Gulf oil instability - Awani International**
+`04 Oct 16:33 PKT` · pehli baar dekhi `05 Oct 07:22` · gnews_geopolitics
+
+Trump-Iran standoff threatens chronic Gulf oil instability Awani International
 
 **OPEC+ to hold oil targets steady as Iran war limits production gains - The Arab Weekly**
 `04 Oct 16:31 PKT` · pehli baar dekhi `04 Oct 18:29` · gnews_geopolitics
@@ -916,47 +942,46 @@ Tax cuts, school holidays: How countries are fighting high gas prices amid the I
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 12 | 10 | 2 | 13 | 0.0 |
-| fxstreet_news | OK | 30 | 2 | 2 | 0 | 28 | 0.0 |
-| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.4 |
-| actionforex | WARN | 20 | 0 | 0 | 0 | 20 | 1.6 |
-| marketpulse | OK | 1 | 0 | 0 | 0 | 1 | 2.3 |
-| instaforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.9 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 24.2 |
+| investinglive | OK | 25 | 19 | 8 | 11 | 6 | 0.0 |
+| fxstreet_news | OK | 30 | 12 | 10 | 2 | 18 | 0.0 |
+| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.5 |
+| actionforex | OK | 20 | 5 | 5 | 0 | 15 | 0.0 |
+| marketpulse | OK | 1 | 0 | 0 | 0 | 1 | 2.4 |
+| instaforex | OK | 25 | 13 | 13 | 0 | 12 | -0.2 |
+| wsj_economy | OK | 36 | 2 | 1 | 1 | 34 | 0.1 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 24.3 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 35 | 35 | 2 | 33 | 0 | 0.1 |
-| gnews_geopolitics | OK | 36 | 36 | 11 | 25 | 0 | 0.1 |
-| gnews_centralbanks | OK | 32 | 32 | 7 | 25 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 18.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.2 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.6 |
-| boj_whatsnew | OK | 47 | 0 | 0 | 0 | 47 | 2.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.9 |
-| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.1 |
-| oilprice | OK | 15 | 5 | 2 | 3 | 10 | 0.0 |
-| investing_commodities | OK | 10 | 8 | 1 | 7 | 2 | 0.1 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
-| bbc_business | OK | 55 | 2 | 1 | 1 | 53 | 0.0 |
-| aljazeera | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
+| gnews_fed | OK | 35 | 35 | 4 | 31 | 0 | 0.0 |
+| gnews_geopolitics | OK | 42 | 42 | 9 | 33 | 0 | 0.0 |
+| gnews_centralbanks | OK | 18 | 18 | 7 | 11 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 18.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.3 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.8 |
+| boj_whatsnew | OK | 48 | 3 | 3 | 0 | 45 | 0.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.0 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.3 |
+| oilprice | OK | 15 | 5 | 0 | 5 | 10 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.6 |
+| bbc_business | OK | 55 | 4 | 2 | 2 | 51 | 0.0 |
+| aljazeera | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.5 |
-| eia_energy | OK | 22 | 0 | 0 | 0 | 22 | 2.4 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 4.5 |
-| wsj_world | OK | 71 | 12 | 1 | 11 | 59 | 0.0 |
-| wsj_markets | OK | 61 | 5 | 0 | 5 | 56 | 0.3 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 11.7 |
-| mw_topstories | OK | 10 | 9 | 1 | 8 | 1 | 0.1 |
-| cointelegraph | OK | 30 | 6 | 1 | 5 | 24 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 24.6 |
+| eia_energy | OK | 22 | 0 | 0 | 0 | 22 | 2.5 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 4.6 |
+| wsj_world | OK | 71 | 14 | 2 | 12 | 57 | 0.1 |
+| wsj_markets | OK | 61 | 9 | 4 | 5 | 52 | 0.0 |
+| investing_news | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 11.8 |
+| mw_topstories | OK | 10 | 9 | 0 | 9 | 1 | 0.2 |
+| cointelegraph | OK | 30 | 7 | 1 | 6 | 23 | 0.1 |
 
 **Jo feeds nahi aaye:**
-- instaforex — FAIL, koi item nahi
 - kitco_general — FAIL, koi item nahi
 - yahoo_finance — STALE, cadence 1d, magar 12d purana
