@@ -1,6 +1,6 @@
 # Calendar — Trading Day 06 Oct 2026
 
-- Banaya gaya: **06 Oct 2026 07:28 PKT**
+- Banaya gaya: **06 Oct 2026 17:08 PKT**
 - Trading day: **06 Oct 03:00 -> 07 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,16 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 08:35 | JPY | low | 10-y Bond Auction | - | 3.00|3.3 |
-| 11:00 | EUR | low | German Factory Orders m/m | -0.9% | 2.5% |
-| 11:35 | JPY | **HIGH** | BOJ Gov Ueda Speaks | - | - |
-| 11:45 | EUR | low | French Gov Budget Balance | - | -145.9B |
-| 11:45 | EUR | low | French Industrial Production m/m | 0.2% | -0.4% |
-| 12:00 | CHF | low | Unemployment Rate | 3.1% | 3.1% |
-| 13:30 | GBP | low | Construction PMI | 45.0 | 44.3 |
-| 13:30 | GBP | low | MPC Member Mann Speaks | - | - |
-| 13:30 | GBP | low | Housing Equity Withdrawal q/q | -11.9B | -12.6B |
-| 14:00 | EUR | low | Retail Sales m/m | 0.2% | -0.6% |
 | 17:15 | USD | low | ADP Weekly Employment Change | - | - |
 | 17:16 | USD | low | ADP Weekly Employment Change | - | 20.0K |
 | 17:30 | CAD | low | Trade Balance | 1.5B | 0.8B |
@@ -34,10 +24,13 @@
 | **07 Oct** 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
 | **07 Oct** 04:01 | CNY | chhutti | Bank Holiday | - | - |
 | **07 Oct** 04:30 | JPY | low | Average Cash Earnings y/y | 3.7% | 4.7% |
+| **07 Oct** 10:00 | JPY | low | Leading Indicators | 118.3% | 117.9% |
+| **07 Oct** 11:00 | EUR | low | German Industrial Production m/m | 0.5% | -1.1% |
+| **07 Oct** 11:00 | GBP | low | Lloyds HPI m/m | 0.2% | -0.2% |
+| **07 Oct** 11:45 | EUR | low | French Trade Balance | -6.5B | -6.7B |
+| **07 Oct** 12:00 | CHF | low | Foreign Currency Reserves | - | 770B |
 
-**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
-
-- `06 Oct 11:35` **JPY BOJ Gov Ueda Speaks**
+*Agle 24 ghante mein koi HIGH impact event nahi.*
 
 ---
 

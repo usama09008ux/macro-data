@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "06 Oct 2026 07:28",
+  "generated_pkt": "06 Oct 2026 17:08",
   "trading_day": "2026-10-06",
   "feed_sources": {
     "thisweek": "live"
@@ -370,12 +370,12 @@
       "trading_day": "2026-10-06"
     },
     {
-      "title": "MPC Member Mann Speaks",
+      "title": "Housing Equity Withdrawal q/q",
       "ccy": "GBP",
       "impact": "Low",
-      "forecast": "",
-      "previous": "",
-      "url": "https://www.forexfactory.com/calendar/848-uk-mpc-member-mann-speaks",
+      "forecast": "-11.9B",
+      "previous": "-12.6B",
+      "url": "https://www.forexfactory.com/calendar/290-uk-housing-equity-withdrawal-qq",
       "all_day": false,
       "utc": "2026-10-06T08:30Z",
       "pkt": "06 Oct 13:30",
@@ -383,12 +383,12 @@
       "trading_day": "2026-10-06"
     },
     {
-      "title": "Housing Equity Withdrawal q/q",
+      "title": "MPC Member Mann Speaks",
       "ccy": "GBP",
       "impact": "Low",
-      "forecast": "-11.9B",
-      "previous": "-12.6B",
-      "url": "https://www.forexfactory.com/calendar/290-uk-housing-equity-withdrawal-qq",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/848-uk-mpc-member-mann-speaks",
       "all_day": false,
       "utc": "2026-10-06T08:30Z",
       "pkt": "06 Oct 13:30",
