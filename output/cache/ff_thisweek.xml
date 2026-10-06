@@ -314,20 +314,20 @@
 		<title>ADP Weekly Employment Change</title>
 		<country>USD</country>
 		<date><![CDATA[10-06-2026]]></date>
-		<time><![CDATA[12:15pm]]></time>
+		<time><![CDATA[12:14pm]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
-		<previous />
+		<previous><![CDATA[20.0K]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/929-us-adp-weekly-employment-change]]></url>
 	</event>
 	<event>
 		<title>ADP Weekly Employment Change</title>
 		<country>USD</country>
 		<date><![CDATA[10-06-2026]]></date>
-		<time><![CDATA[12:16pm]]></time>
+		<time><![CDATA[12:15pm]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
-		<previous><![CDATA[20.0K]]></previous>
+		<previous><![CDATA[22.5K]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/929-us-adp-weekly-employment-change]]></url>
 	</event>
 	<event>
@@ -364,7 +364,7 @@
 		<title>RCM/TIPP Economic Optimism</title>
 		<country>USD</country>
 		<date><![CDATA[10-06-2026]]></date>
-		<time><![CDATA[2:10pm]]></time>
+		<time><![CDATA[2:01pm]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast><![CDATA[44.5]]></forecast>
 		<previous><![CDATA[45.6]]></previous>
@@ -384,7 +384,7 @@
 		<title>GDT Price Index</title>
 		<country>NZD</country>
 		<date><![CDATA[10-06-2026]]></date>
-		<time><![CDATA[2:50pm]]></time>
+		<time><![CDATA[3:46pm]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous><![CDATA[-1.1%]]></previous>
@@ -486,7 +486,7 @@
 		<date><![CDATA[10-07-2026]]></date>
 		<time><![CDATA[2:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast />
+		<forecast><![CDATA[2.1M]]></forecast>
 		<previous><![CDATA[0.9M]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/10-us-crude-oil-inventories]]></url>
 	</event>
