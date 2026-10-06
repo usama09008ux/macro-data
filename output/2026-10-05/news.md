@@ -1,8 +1,8 @@
 # News Pack — Trading Day 05 Oct 2026
 
 - Trading day: **05 Oct 03:00 -> 06 Oct 02:59 PKT**
-- Aakhri update: **06 Oct 05:23 PKT**
-- Kul khabrein: **749**
+- Aakhri update: **06 Oct 11:42 PKT**
+- Kul khabrein: **776**
 - Feeds: 35/39 OK
 
 ---
@@ -399,6 +399,11 @@ Gold Futures tradeCompass: GC bearish below 4195, bulls need 4217 Gold futures r
 
 Closer supervisory attention could make banks more cautious about lending against private credit collateral, tightening funding for nonbank lenders and possibly raising borrowing costs for the mid-sized companies that rely on them. Bank stocks with large lending to nonbank financial firms may face more questions on disclosure and collateral valuations during the upcoming earnings season.
 
+**Opinion | Kevin Warsh Steps Into View - WSJ**
+`06 Oct 02:24 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_fed
+
+Opinion | Kevin Warsh Steps Into View WSJ
+
 **Fed may wait till December to pull rate trigger - Finance & Commerce**
 `06 Oct 02:11 PKT` · pehli baar dekhi `06 Oct 05:23` · gnews_fed
 
@@ -423,6 +428,11 @@ U.S. stocks rose as optimism about the artificial-intelligence boom offset a ris
 `06 Oct 01:33 PKT` · pehli baar dekhi `06 Oct 05:23` · gnews_fed
 
 Fed Approves Isabella Bank Corporation Application Mirage News
+
+**Exclusive / Private-credit worries spur Fed review - semafor.com**
+`06 Oct 01:09 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_fed
+
+Exclusive / Private-credit worries spur Fed review semafor.com
 
 **High Interest Rates Aren't Slowing the A.I. Boom. That's a Problem for the Fed. - The New York Times**
 `06 Oct 01:05 PKT` · pehli baar dekhi `06 Oct 05:23` · gnews_fed
@@ -591,6 +601,12 @@ Christopher Wong at OCBC expects the Indonesian Rupiah (IDR) to see some near-te
 
 The S&P 500, Nasdaq Composite and Nasdaq 100 are moving higher today as investors focus on a combination of continued economic growth, less urgency for another Fed rate hike (just below 20% chance for an October hike now), and optimism surrounding technology and AI spending. Friday's weaker jobs report eased concerns about an immediate rate increase, while today's strong S&P Global services data suggest business demand remains healthy.
 
+**US stocks open mixed as investors weigh Treasury yields, Fed outlook - IndiaIPO**
+`05 Oct 19:45 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_fed · **2 feeds mein**
+
+US stocks open mixed as investors weigh Treasury yields, Fed outlook IndiaIPO
+  - `05 Oct 18:12` *gnews_fed* — US stocks open mixed as investors weigh Treasury yields, Fed outlook - CNBC TV18
+
 **Singapore Dollar: Range trade holds against US Dollar – UOB**
 `05 Oct 19:34 PKT` · pehli baar dekhi `05 Oct 23:45` · fxstreet_news
 
@@ -631,15 +647,16 @@ Prior month nonmanufacturing services PMI 55.4 Details from a ISM Services PMI: 
 
 S&P global composite Index for September 58.4 versus 50.4 preliminary. Last month 56.0 Services PMI 58.8 versus 50.7 preliminary and 56.5 last month Details Services PMI: 58.8. Prior 56.5. Strongest business activity growth since July 2021. Composite PMI: 58.4. Prior 56.0. Strongest expansion in overall business activity in over five years. New orders: Growth accelerated to its fastest pace in four-and-a-half years, led by domestic demand.
 
+**The Fed Could Raise Interest Rates Again This Year. Here's What That Might Mean for the Stock Market. - The Motley Fool**
+`05 Oct 18:38 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_fed · **2 feeds mein**
+
+The Fed Could Raise Interest Rates Again This Year. Here's What That Might Mean for the Stock Market. The Motley Fool
+  - `05 Oct 18:15` *gnews_fed* — The Fed Could Raise Interest Rates Again This Year. Here's What That Might Mean for the Stock Market. - theglobeandmail.com
+
 **Your Money This Week: Fed Minutes, Mexico Inflation, and COLA Countdown - MundoNOW**
 `05 Oct 18:31 PKT` · pehli baar dekhi `05 Oct 23:45` · gnews_fed
 
 Your Money This Week: Fed Minutes, Mexico Inflation, and COLA Countdown MundoNOW
-
-**The Fed Could Raise Interest Rates Again This Year. Here's What That Might Mean for the Stock Market. - theglobeandmail.com**
-`05 Oct 18:15 PKT` · pehli baar dekhi `05 Oct 23:45` · gnews_fed
-
-The Fed Could Raise Interest Rates Again This Year. Here's What That Might Mean for the Stock Market. theglobeandmail.com
 
 **Why a weak jobs report does not always mean a weak economy**
 `05 Oct 18:03 PKT` · pehli baar dekhi `05 Oct 23:45` · investinglive
@@ -695,6 +712,11 @@ Kevin Warsh's Fed has a rent problem: Higher rates could fuel a 'doom loop' in h
 `05 Oct 15:00 PKT` · pehli baar dekhi `06 Oct 05:23` · gnews_fed
 
 Market Minute: Bond rout doing Fed's work as financial conditions tighten The Real Economy Blog
+
+**Four Corners: S2026 The President vs The Fed Four Corners - ABC iview**
+`05 Oct 14:48 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_fed
+
+Four Corners: S2026 The President vs The Fed Four Corners ABC iview
 
 **UK Services Sector Growth Remains Modest**
 `05 Oct 14:25 PKT` · instaforex
@@ -780,9 +802,10 @@ The partnership will enable select institutions in Asia and the Gulf region to i
 UK services activity lost some momentum in September, with PMI Services easing from 52.5 to 52.1, though the final reading was revised up from the 51.7 flash estimate. Output expanded for a third consecutive month, but new business increased only marginally and at the slowest pace since the current growth sequence began in July. Export [&#8230;] The post UK Composite PMI Falls to 52.0 as Growth Slows and Costs Rise appeared first on ActionForex.
 
 **Nasdaq, S&P 500, Dow Futures Steady Ahead Of Fed Minutes This Week: TSLA, SPCX, CBRS, QCOM, PTC, IBRX Stocks In Focus - TradingView**
-`05 Oct 13:52 PKT` · pehli baar dekhi `05 Oct 23:45` · gnews_fed
+`05 Oct 13:52 PKT` · pehli baar dekhi `05 Oct 23:45` · gnews_fed · **2 feeds mein**
 
 Nasdaq, S&P 500, Dow Futures Steady Ahead Of Fed Minutes This Week: TSLA, SPCX, CBRS, QCOM, PTC, IBRX Stocks In Focus TradingView
+  - `05 Oct 13:52` *gnews_fed* — Nasdaq, S&P 500, Dow Futures Steady Ahead Of Fed Minutes This Week: TSLA, SPCX, CBRS, QCOM, PTC, IBRX Stocks In Focus - TradingView
 
 **U.S. Stock Futures Steady as French Fiscal Pressure Raises Contagion Risk**
 `05 Oct 13:50 PKT` · pehli baar dekhi `05 Oct 14:25` · wsj_markets
@@ -1049,6 +1072,11 @@ The Michigan Governor plays Secretary of State to unionize a Mercedes plant in A
 `06 Oct 02:13 PKT` · pehli baar dekhi `06 Oct 05:23` · aljazeera
 
 Michael Olise scores twice and assists as France come from 1-0 with 13 minutes left to beat Belgium 4-1
+
+**Rates Spark: Repricing the ECB path - Forex Factory**
+`06 Oct 02:07 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_centralbanks
+
+Rates Spark: Repricing the ECB path Forex Factory
 
 **European Stocks Mostly Rise, France Lags**
 `05 Oct 23:45 PKT` · instaforex
@@ -1792,6 +1820,11 @@ Plus, why the U.S. to abruptly pulled bombers from a U.K. base and new Trump Acc
 
 Plus, Brent crude nears $100 and a deal shakes up logistics
 
+**Oil Prices Flat After Iran Says Dozens of Vessels are Crossing Hormuz - EnergyNow.com**
+`06 Oct 01:55 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_geopolitics
+
+Oil Prices Flat After Iran Says Dozens of Vessels are Crossing Hormuz EnergyNow.com
+
 **Germany Is Spending €2 Billion to Discover the Real Price of Clean Jet Fuel**
 `06 Oct 01:00 PKT` · pehli baar dekhi `06 Oct 05:23` · oilprice
 
@@ -1816,6 +1849,11 @@ Freeport LNG was ramping natural gas intake back toward normal levels on Monday 
 `05 Oct 23:30 PKT` · pehli baar dekhi `06 Oct 05:23` · gnews_geopolitics
 
 Middle East Oil Shipments Surge Above Prewar Levels Despite Iran's Tanker Attacks Межа. Новини України.
+
+**TACO CONFIRMED: Oil Markets Bet Trump Would Chicken Out on Iran. They Won: Bousso - EnergyNow**
+`05 Oct 23:10 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_geopolitics
+
+TACO CONFIRMED: Oil Markets Bet Trump Would Chicken Out on Iran. They Won: Bousso EnergyNow
 
 **US Supreme Court wrestles with oil companies' bid to scuttle climate lawsuit**
 `05 Oct 23:07 PKT` · pehli baar dekhi `05 Oct 23:45` · investing_news
@@ -1845,6 +1883,11 @@ Iran's oil minister has resigned as the U.S. blockade pushes the country's crude
 
 Iran's Oil Minister Resigns as U.S. Blockade Chokes Crude Exports Crude Oil Prices Today | OilPrice.com
 
+**Oil Prices Extend Gains on Escalating Middle East Hostilities - EnergyNow**
+`05 Oct 22:05 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_geopolitics
+
+Oil Prices Extend Gains on Escalating Middle East Hostilities EnergyNow
+
 **Here's How Trump's Using The Graham Act To Trap Russia And Crush Iran**
 `05 Oct 22:00 PKT` · pehli baar dekhi `05 Oct 23:45` · oilprice
 
@@ -1857,6 +1900,11 @@ The signing of the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026 by 
 `05 Oct 21:30 PKT` · pehli baar dekhi `05 Oct 23:45` · oilprice
 
 Indian state-owned refiner Bharat Petroleum Corporation Limited (BPCL) prepares to issue a $3-billion bond to finance its share of a major offshore oil development in Brazil, as Indian companies move to expand in international upstream to secure crude oil supplies.
+
+**Opinion: Oil's New Problem Isn't Supply. It's Logistics - gcaptain.com**
+`05 Oct 21:13 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_geopolitics
+
+Opinion: Oil's New Problem Isn't Supply. It's Logistics gcaptain.com
 
 **Oil market turmoil could last for years, executives say**
 `05 Oct 20:42 PKT` · pehli baar dekhi `05 Oct 23:45` · investing_commodities
@@ -1891,6 +1939,16 @@ Iran's Acting Oil Minister Pledges Maximized Production Amid Complete US Blockad
 
 Saudi Aramco CEO Amin Nasser warned Monday that the world has lost nearly 3 billion barrels of gross oil supply since the Iran war began, equivalent to roughly half the crude and products that normally would have moved through the Strait of Hormuz over the same period, leaving global inventories "scarily thin" even as crude flows from the Middle East recover.
 
+**Aramco CEO Warns Oil Inventories Are 'Scarily Thin' - Crude Oil Prices Today | OilPrice.com**
+`05 Oct 19:30 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_geopolitics
+
+Aramco CEO Warns Oil Inventories Are 'Scarily Thin' Crude Oil Prices Today | OilPrice.com
+
+**US Naval Blockade Squeezes Iran's Oil Exports, Forces Crude Onto Floating Storage - EnergyNow.com**
+`05 Oct 19:09 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_geopolitics
+
+US Naval Blockade Squeezes Iran's Oil Exports, Forces Crude Onto Floating Storage EnergyNow.com
+
 **Rubio Opens 4-Day NATO Tour in Iceland to Discuss Arctic Security**
 `05 Oct 19:00 PKT` · pehli baar dekhi `05 Oct 23:45` · oilprice
 
@@ -1900,6 +1958,21 @@ US Secretary of State Marco Rubio is heading to Iceland, Greece, and Portugal on
 `05 Oct 19:00 PKT` · pehli baar dekhi `05 Oct 23:45` · eia_energy
 
 Petroleum markets in the third quarter of 2026 (3Q26) were characterized by increasing prices for crude oil and petroleum products amid persistent conflict in the Middle East.
+
+**Oil Heads for Weekly Gains as Middle East Supply Risks Persist - EnergyNow.com**
+`05 Oct 18:42 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_geopolitics
+
+Oil Heads for Weekly Gains as Middle East Supply Risks Persist EnergyNow.com
+
+**Brent Oil Structure Changes to Reflect Mounting Supply Risk as Iran Tensions Flare - EnergyNow.com**
+`05 Oct 18:42 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_geopolitics
+
+Brent Oil Structure Changes to Reflect Mounting Supply Risk as Iran Tensions Flare EnergyNow.com
+
+**Oil Hits 3-Week High on Middle East Supply Concerns Amid War Impasse - EnergyNow.com**
+`05 Oct 18:42 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_geopolitics
+
+Oil Hits 3-Week High on Middle East Supply Concerns Amid War Impasse EnergyNow.com
 
 **Middle East oil exports top pre-war levels for part of September but tanker attacks increase - Kitco**
 `05 Oct 18:33 PKT` · pehli baar dekhi `05 Oct 23:45` · kitco_general
@@ -2013,9 +2086,10 @@ Spain's IBEX 35 index climbed to around 19,160 on Monday, showing resilience des
 'Scarily thin' global oil stocks could take two years to rebuild, Saudi Aramco chief warns businesstimes.com.sg
 
 **Major oil exporters agree to keep production steady in November - 1News**
-`05 Oct 14:11 PKT` · pehli baar dekhi `05 Oct 14:25` · gnews_geopolitics
+`05 Oct 14:11 PKT` · pehli baar dekhi `05 Oct 14:25` · gnews_geopolitics · **2 feeds mein**
 
 Major oil exporters agree to keep production steady in November 1News
+  - `05 Oct 13:09` *gnews_geopolitics* — Major oil exporters agree to keep production steady in November, Money News - AsiaOne
 
 **Diesel Margins Slide as G7 Announces 100 Million Barrel Stocks Release**
 `05 Oct 14:00 PKT` · pehli baar dekhi `05 Oct 14:25` · oilprice
@@ -2439,6 +2513,11 @@ Russian authorities quarantine hospital, monitor 200 contacts after suspected pn
 
 Singapore is in an energy pickle. The island nation is still reeling from high oil and gas prices driven by the war in Iran, and is scrambling to build up alternative and indigenous energy sources. The problem is that there's almost nowhere to build it. As the second-most densely populated country in the world (after Monaco), Singapore has an enormous need for energy and problematically scarce land parcels on which to develop it.
 
+**Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says - EnergyNow.com**
+`06 Oct 01:33 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_geopolitics
+
+Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says EnergyNow.com
+
 **Ukraine says Russian drone attack sinks ship in Romanian waters**
 `06 Oct 01:03 PKT` · pehli baar dekhi `06 Oct 05:23` · aljazeera
 
@@ -2454,13 +2533,33 @@ Trump shifts blame for fuel price hikes to blue states like California and Ukrai
 
 The S&P Global Canada Services Business Activity Index rose to 48.3 in September 2026 from 46.8 in August, but remained below the critical 50.0 threshold that separates expansion from contraction. Canada's service sector continued to operate in a difficult business environment, with both activity and new business still declining, though at a slower pace, amid ongoing uncertainty over tariffs and the war in Iran.
 
+**Iran fuel crisis deepens amid war and sanctions - DW.com**
+`05 Oct 23:12 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_geopolitics
+
+Iran fuel crisis deepens amid war and sanctions DW.com
+
 **Iran's Oil Minister Resigns Amid Economic Sanctions Pressure - Global Arab Network**
 `05 Oct 22:44 PKT` · pehli baar dekhi `06 Oct 05:23` · gnews_geopolitics
 
 Iran's Oil Minister Resigns Amid Economic Sanctions Pressure Global Arab Network
 
+**What's Driving Up Oil Prices? Trump Says It's Ukraine Strikes On Russian Refineries, Not Iran War - News18**
+`05 Oct 22:18 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_geopolitics
+
+What's Driving Up Oil Prices? Trump Says It's Ukraine Strikes On Russian Refineries, Not Iran War News18
+
 **As Iran war drives up gasoline prices in US, Trump blames Ukraine, Democrats**
 `05 Oct 22:07 PKT` · pehli baar dekhi `05 Oct 23:45` · investing_commodities
+
+**Trader or Driller? Iran War Exposes Big Oil's Transatlantic Divide: Bousso - EnergyNow.com**
+`05 Oct 21:26 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_geopolitics
+
+Trader or Driller? Iran War Exposes Big Oil's Transatlantic Divide: Bousso EnergyNow.com
+
+**Iran War Boosts US Shale Oil But Only So Much: Bousso - EnergyNow.com**
+`05 Oct 21:17 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_geopolitics
+
+Iran War Boosts US Shale Oil But Only So Much: Bousso EnergyNow.com
 
 **Medvedev disqualified from China Open for hitting fan with a ball**
 `05 Oct 21:17 PKT` · pehli baar dekhi `05 Oct 23:45` · aljazeera
@@ -2482,10 +2581,20 @@ The Kremlin has sought to play down the death of the worker who contracted "pneu
 
 The withdrawal means the US lost a convenient launchpad, not its underlying strike capability, said an expert.
 
+**How a Houthi Blockade in the Red Sea Tightens Iran's Grip on Global Energy Supplies - EnergyNow.com**
+`05 Oct 19:11 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_geopolitics
+
+How a Houthi Blockade in the Red Sea Tightens Iran's Grip on Global Energy Supplies EnergyNow.com
+
 **Petrol price tops R30 as Iran war disrupts oil supply - Sowetan**
 `05 Oct 18:39 PKT` · pehli baar dekhi `05 Oct 23:45` · gnews_geopolitics
 
 Petrol price tops R30 as Iran war disrupts oil supply Sowetan
+
+**Oil Falls to Lowest Since Start of Iran War After Ceasefire Deal Signed - EnergyNow.com**
+`05 Oct 18:20 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_geopolitics
+
+Oil Falls to Lowest Since Start of Iran War After Ceasefire Deal Signed EnergyNow.com
 
 **Saudi Aramco CEO warns oil stocks drained by Iran war could take 2 years to rebuild - financialexpress.com**
 `05 Oct 18:16 PKT` · pehli baar dekhi `05 Oct 23:45` · gnews_geopolitics
@@ -2521,6 +2630,11 @@ Delta Air Lines will be reporting its third-quarter earnings on Friday and there
 `05 Oct 14:53 PKT` · pehli baar dekhi `05 Oct 23:45` · gnews_geopolitics
 
 Gulf crude exports return to pre-war levels, excluding Iran Euronews.com
+
+**Global Oil Price Retreats After Hitting 4-Year High on Concern of US-Iran War Escalation - EnergyNow**
+`05 Oct 14:37 PKT` · pehli baar dekhi `06 Oct 11:42` · gnews_geopolitics
+
+Global Oil Price Retreats After Hitting 4-Year High on Concern of US-Iran War Escalation EnergyNow
 
 **Wheat Rises as Black Sea Supply Risks Mount**
 `05 Oct 14:25 PKT` · instaforex
@@ -2613,7 +2727,7 @@ Here's a brief recap of the key developments in the Middle East war that occurre
 
 The abrupt redeployment to the US comes after several &#039;terrorism-related&#039; arrests were made outside RAF Fairford.
 
-### BINA TAG (189)
+### BINA TAG (190)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2704,6 +2818,7 @@ The abrupt redeployment to the US comes after several &#039;terrorism-related&#0
 - `05 Oct 20:22` **aljazeera** — A drive through the West Bank
 - `05 Oct 20:18` **mining_com** — Greenland government approves Tanbreez rare earth mine plan
 - `05 Oct 20:13` **mining_com** — Surge Battery boosts returns, cuts costs for Nevada lithium project
+- `05 Oct 20:02` **gnews_fed** — Federal Reserve Board Announces Approval Of Application By Isabella Bank Corporation - Menafn
 - `05 Oct 20:00` **mw_topstories** — I'm in my 20s and keep getting laid off. Should I invest in my employer's 401(k) or look into other options?
 - `05 Oct 20:00` **mw_topstories** — 'People in the U.S. need to wake up': As a mortgage loan officer, I rejected wealthy couples due to overspending. We're all heading for trouble.
 - `05 Oct 19:46` **kitco_general** — Videos - Kitco
@@ -2823,45 +2938,45 @@ investing_news (2)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 14 | 16 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.3 |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
-| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 3.3 |
-| instaforex | OK | 25 | 25 | 14 | 11 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.4 |
-| cme_metals_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
-| cme_fx_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
-| cme_rates_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
-| cme_energy_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
-| cme_daily_commentary | OK | 10 | 7 | 3 | 4 | 3 | 0.1 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 25.2 |
-| kitco_general | OK | 34 | 34 | 12 | 22 | 0 | 0.1 |
-| gnews_fed | OK | 79 | 79 | 26 | 53 | 0 | 0.1 |
-| gnews_geopolitics | OK | 43 | 43 | 6 | 37 | 0 | 0.1 |
-| gnews_centralbanks | OK | 30 | 30 | 5 | 25 | 0 | 0.1 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 19.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.2 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.7 |
-| boj_whatsnew | OK | 49 | 4 | 0 | 4 | 45 | 0.8 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.0 |
-| mining_com | OK | 36 | 12 | 8 | 4 | 24 | 0.0 |
-| oilprice | OK | 15 | 15 | 7 | 8 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| ing_think | OK | 10 | 6 | 1 | 5 | 4 | 0.3 |
-| bbc_business | OK | 53 | 15 | 2 | 13 | 38 | 0.0 |
-| aljazeera | OK | 25 | 25 | 20 | 5 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 21 | 9 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 6 | 1 | 5 | 24 | 0.2 |
+| actionforex | OK | 20 | 20 | 9 | 11 | 0 | 0.0 |
+| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 3.6 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.7 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
+| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.4 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 25.5 |
+| kitco_general | OK | 37 | 37 | 4 | 33 | 0 | 0.2 |
+| gnews_fed | OK | 67 | 67 | 15 | 52 | 0 | 0.1 |
+| gnews_geopolitics | OK | 66 | 66 | 23 | 43 | 0 | 0.1 |
+| gnews_centralbanks | OK | 30 | 30 | 4 | 26 | 0 | 0.1 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 19.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.5 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.9 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.9 |
+| boj_whatsnew | OK | 49 | 4 | 0 | 4 | 45 | 1.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.2 |
+| mining_com | OK | 36 | 12 | 0 | 12 | 24 | 0.3 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| ing_think | OK | 10 | 7 | 1 | 6 | 3 | 0.1 |
+| bbc_business | OK | 52 | 19 | 6 | 13 | 33 | 0.0 |
+| aljazeera | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
 | snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 25.6 |
-| eia_energy | OK | 13 | 1 | 0 | 1 | 12 | 0.4 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 5.5 |
-| wsj_world | OK | 74 | 21 | 7 | 14 | 53 | 0.1 |
-| wsj_markets | OK | 61 | 29 | 9 | 20 | 32 | 0.1 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| yahoo_finance | STALE | 49 | 0 | 0 | 0 | 49 | 12.8 |
-| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 22 | 5 | 17 | 8 | 0.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 25.8 |
+| eia_energy | OK | 13 | 1 | 0 | 1 | 12 | 0.7 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 5.8 |
+| wsj_world | OK | 73 | 25 | 3 | 22 | 48 | 0.0 |
+| wsj_markets | OK | 61 | 32 | 8 | 24 | 29 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
+| cointelegraph | OK | 30 | 26 | 4 | 22 | 4 | 0.0 |
 
 **Jo feeds nahi aaye:**
-- yahoo_finance — STALE, cadence 1d, magar 13d purana
+- yahoo_finance — FAIL, HTTP 404
