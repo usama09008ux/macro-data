@@ -1,6 +1,6 @@
 # Calendar — Trading Day 06 Oct 2026
 
-- Banaya gaya: **06 Oct 2026 04:01 PKT**
+- Banaya gaya: **06 Oct 2026 07:28 PKT**
 - Trading day: **06 Oct 03:00 -> 07 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,8 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 04:30 | AUD | low | Westpac Consumer Sentiment | - | -5.2% |
-| 05:30 | AUD | low | ANZ Job Advertisements m/m | - | 2.5% |
 | 08:35 | JPY | low | 10-y Bond Auction | - | 3.00|3.3 |
 | 11:00 | EUR | low | German Factory Orders m/m | -0.9% | 2.5% |
 | 11:35 | JPY | **HIGH** | BOJ Gov Ueda Speaks | - | - |
@@ -35,6 +33,7 @@
 | 22:15 | USD | low | FOMC Member Schmid Speaks | - | - |
 | **07 Oct** 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
 | **07 Oct** 04:01 | CNY | chhutti | Bank Holiday | - | - |
+| **07 Oct** 04:30 | JPY | low | Average Cash Earnings y/y | 3.7% | 4.7% |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
