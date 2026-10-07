@@ -1,9 +1,9 @@
 # News Pack — Trading Day 06 Oct 2026
 
 - Trading day: **06 Oct 03:00 -> 07 Oct 02:59 PKT**
-- Aakhri update: **07 Oct 07:18 PKT**
-- Kul khabrein: **820**
-- Feeds: 35/39 OK
+- Aakhri update: **07 Oct 13:55 PKT**
+- Kul khabrein: **846**
+- Feeds: 36/39 OK
 
 ---
 
@@ -418,6 +418,11 @@ United Overseas Bank strategists Quek Ser Leang and Lee Sue Ann expect USD/CNH t
 
 S&P 500 Breaks Record Ahead of Crucial Fed Test TradingView
 
+**The Fed and PYMNTS Intelligence Agree: Stablecoins Have a Demand Problem - PYMNTS.com**
+`07 Oct 00:54 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_fed
+
+The Fed and PYMNTS Intelligence Agree: Stablecoins Have a Demand Problem PYMNTS.com
+
 **Singapore Dollar: Range trade against US Dollar with MAS in focus – OCBC**
 `07 Oct 00:09 PKT` · pehli baar dekhi `07 Oct 04:02` · fxstreet_news
 
@@ -452,6 +457,11 @@ The Global Supply Chain Pressure Index rose to 1.28 in September 2026 from an up
 `06 Oct 23:57 PKT` · pehli baar dekhi `07 Oct 00:06` · gnews_fed
 
 NY Fed Reports Global Supply Chain Pressures Reach 4-Month High PYMNTS.com
+
+**Fed's Bowman unveils major overhaul of its bank supervision - American Banker**
+`06 Oct 23:57 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_fed
+
+Fed's Bowman unveils major overhaul of its bank supervision American Banker
 
 **Fed's Daly: AI Chip Demand Could Drive Inflation - Newsmax**
 `06 Oct 23:52 PKT` · pehli baar dekhi `07 Oct 04:02` · gnews_fed
@@ -526,10 +536,11 @@ There is a little change in the market after the auction resultsThe first leg of
 
 Gold climbs as dollar, Treasury yields slip Kitco
 
-**Fed's Daly: need for more hikes hinges on what happens with shocks - The State**
-`06 Oct 21:59 PKT` · pehli baar dekhi `07 Oct 00:06` · gnews_fed · **2 feeds mein**
+**Fed's Daly: need for more hikes hinges on what happens with shocks - Reuters**
+`06 Oct 21:59 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_fed · **3 feeds mein**
 
-Fed's Daly: need for more hikes hinges on what happens with shocks The State
+Fed's Daly: need for more hikes hinges on what happens with shocks Reuters
+  - `06 Oct 21:59` *gnews_fed* — Fed's Daly: need for more hikes hinges on what happens with shocks - The State
   - `06 Oct 21:59` *gnews_fed* — Fed's Daly: need for more hikes hinges on what happens with shocks - Fresno Bee
 
 **Wednesday preview: FOMC minutes, Lloyds house price index in focus - Sharecast.com**
@@ -571,10 +582,12 @@ Fed plans to overhaul bank supervision responsibilities, Bowman says Kitco
   - `06 Oct 20:03` *gnews_fed* — Fed plans to overhaul bank supervision responsibilities, Bowman says - Macon Telegraph
 
 **New York Fed says supply chain pressures rose last month relative to August - Kitco**
-`06 Oct 20:43 PKT` · pehli baar dekhi `07 Oct 00:06` · kitco_general · **3 feeds mein**
+`06 Oct 20:43 PKT` · pehli baar dekhi `07 Oct 00:06` · kitco_general · **5 feeds mein**
 
 New York Fed says supply chain pressures rose last month relative to August Kitco
+  - `06 Oct 19:45` *gnews_fed* — New York Fed says supply chain pressures rose last month relative to August - Bradenton Herald
   - `06 Oct 19:37` *gnews_fed* — New York Fed says supply chain pressures rose last month relative to August - Reuters
+  - `06 Oct 19:36` *gnews_fed* — New York Fed says supply chain pressures rose last month relative to August - The Lufkin Daily News
   - `06 Oct 19:36` *gnews_fed* — New York Fed says supply chain pressures rose last month relative to August - Idaho Statesman
 
 **Fintechs press for Fed access - Payments Dive**
@@ -707,6 +720,11 @@ Cost-of-living crises have lasting impact on inflation expectations, poverty, IM
 `06 Oct 14:21 PKT` · pehli baar dekhi `06 Oct 18:39` · fxstreet_news
 
 ING's Francesco Pesole notes that the Dollar remains supported early in the week, helped by Euro-specific weakness and higher global bond yields, even as strong equities cap gains. The ISM services data were slightly hawkish but not enough to shift expectations for an October Federal Reserve hold.
+
+**US job growth slows sharply, dims chances of October Fed hike - https://www.indiagazette.com/**
+`06 Oct 14:12 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_fed
+
+US job growth slows sharply, dims chances of October Fed hike https://www.indiagazette.com/
 
 **Here We Go! President Donald Trump Just Threw Fed Chair Kevin Warsh Under the Bus Over Interest Rates. - The Globe and Mail**
 `06 Oct 13:56 PKT` · pehli baar dekhi `07 Oct 00:06` · gnews_fed · **2 feeds mein**
@@ -930,6 +948,11 @@ Leftists riot in defense of a welfare state the country can no longer afford.
 
 Plus, a former German spy chief was arrested on suspicion of espionage and Google and Constellation Energy struck a 20-year nuclear-power deal.
 
+**NY Forex: Dollar-Yen Stuck in Lower 158 Range; Euro Resilient as French Fiscal Concerns Ease - BigGo Finance**
+`07 Oct 01:25 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_centralbanks
+
+NY Forex: Dollar-Yen Stuck in Lower 158 Range; Euro Resilient as French Fiscal Concerns Ease BigGo Finance
+
 **Economic and event calendar in Asia Wednesday, October 7, 2026 - ECB speaker**
 `07 Oct 01:18 PKT` · pehli baar dekhi `07 Oct 04:02` · investinglive
 
@@ -941,9 +964,10 @@ There isn't much on the economic and event agends during the Aisa-Pacific timezo
 European equities finished solidly higher on Tuesday, supported by gains in banks, consumer discretionary names, and automakers as the recent surge in sovereign bond yields took a breather. The Euro STOXX 50 rose 0.5% to 6,274, while the STOXX Europe 600 also advanced 0.5% to 636.6. Long-dated euro-area sovereign yields mostly declined, particularly in higher-debt countries, easing worries that the ECB might be forced to step in to counter market fragmentation.
 
 **France's government could fall over the budget. Here's what that would actually mean for the Euro**
-`06 Oct 23:01 PKT` · pehli baar dekhi `07 Oct 00:06` · fxstreet_analysis
+`06 Oct 23:01 PKT` · pehli baar dekhi `07 Oct 00:06` · fxstreet_analysis · **2 feeds mein**
 
 The Euro (EUR) is trading at its lowest level since May 2025, nearly 7% below its January peak, and France's government could fall over its 2027 budget before the end of November.
+  - `06 Oct 23:01` *gnews_centralbanks* — France's government could fall over the budget. Here's what that would actually mean for the Euro - FXStreet
 
 **Chinese Yuan: Trade war risk rises on EU-China tensions – Commerzbank**
 `06 Oct 22:48 PKT` · pehli baar dekhi `07 Oct 00:06` · fxstreet_news
@@ -1037,9 +1061,10 @@ OCBC strategists Sim Moh Siong and Christopher Wong highlight EUR/USD caught bet
 EUR/USD has slipped to fresh 17-month lows near 1.1160, weighed down by escalating political and fiscal uncertainties across the Eurozone.
 
 **Global Market: Eurozone energy inflation has yet to spread to broader prices, ECB's Rehn says - The Economic Times**
-`06 Oct 15:05 PKT` · pehli baar dekhi `06 Oct 18:39` · gnews_centralbanks
+`06 Oct 15:05 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_centralbanks · **2 feeds mein**
 
 Global Market: Eurozone energy inflation has yet to spread to broader prices, ECB's Rehn says The Economic Times
+  - `06 Oct 15:05` *gnews_centralbanks* — Global Market: Eurozone energy inflation has yet to spread to broader prices, ECB's Rehn says - The Economic Times
 
 **ECB on AI Risk, Energy Shock, Inflation and Long-Term Rates - News and Statistics - IndexBox**
 `06 Oct 15:00 PKT` · pehli baar dekhi `06 Oct 18:39` · gnews_centralbanks
@@ -1065,6 +1090,21 @@ Sales of food, drinks and non-fuel products rose slightly on the month in the 21
 `06 Oct 14:41 PKT` · pehli baar dekhi `06 Oct 18:39` · fxstreet_news
 
 MUFG's Lee Hardman highlights that the Euro remains under selling pressure, with EUR/USD testing support at 1.1200 as Spanish Prime Minister Pedro Sanchez calls an early election for November 29. Opinion polls point to gains for the People's Party, potentially in coalition with VoX.
+
+**ECB's Rehn: High yields to dampen energy price pass-through - The Mighty 790 KFGO**
+`06 Oct 14:34 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_centralbanks
+
+ECB's Rehn: High yields to dampen energy price pass-through The Mighty 790 KFGO
+
+**France's Le Pen Calls on ECB to Lower Euro-Area Borrowing Costs - Bloomberg.com**
+`06 Oct 14:28 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_centralbanks
+
+France's Le Pen Calls on ECB to Lower Euro-Area Borrowing Costs Bloomberg.com
+
+**ECB finds euro area firms funding AI with bonds and their own cash - Crypto Briefing**
+`06 Oct 14:20 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_centralbanks
+
+ECB finds euro area firms funding AI with bonds and their own cash Crypto Briefing
 
 **Eurozone Retail Sales rises 0.1% MoM in August, misses 0.2% estimates**
 `06 Oct 14:13 PKT` · pehli baar dekhi `06 Oct 18:39` · fxstreet_news
@@ -1257,6 +1297,11 @@ Tuesday's rise in GBP/USD came from the Dollar side. The pair was flat through B
 
 The Pound Sterling (GBP) advances about 0.40% on Tuesday as the Greenback retreats from multi-month highs, boosted by hawkish comments from a Bank of England (BoE) Monetary Policy Committee (MPC) member, while a widening US trade deficit weighed on the Greenback.
 
+**BoE's Mann warns UK inflation could become further entrenched - Sharecast.com**
+`06 Oct 20:22 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_centralbanks
+
+BoE's Mann warns UK inflation could become further entrenched Sharecast.com
+
 **Sterling Holds Above $1.32 as UK Inflation Concerns Persist**
 `06 Oct 18:39 PKT` · instaforex
 
@@ -1267,15 +1312,31 @@ Sterling traded just above $1.32 as elevated energy prices and ongoing inflation
 
 BoE's Mann: UK Inflation Embedded, 4% Risk at Year-End - News and Statistics IndexBox
 
+**UK Mortgage Rates: Why Gilt Yields at a 28-Year High Could Cost Borrowers Before the 28 October Budget - BBN Times**
+`06 Oct 17:59 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_centralbanks
+
+UK Mortgage Rates: Why Gilt Yields at a 28-Year High Could Cost Borrowers Before the 28 October Budget BBN Times
+
+**Bank of England rate hikes support pound sterling to Japanese yen exchange rate near ¥213.4 resistance - Traders Union**
+`06 Oct 17:38 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_centralbanks
+
+Bank of England rate hikes support pound sterling to Japanese yen exchange rate near ¥213.4 resistance Traders Union
+
 **British Pound: Downside bias points to 1.3140 against US Dollar – UOB**
 `06 Oct 16:24 PKT` · pehli baar dekhi `06 Oct 18:39` · fxstreet_news
 
 United Overseas Bank (UOB) strategists Quek Ser Leang and Lee Sue Ann highlight that GBP/USD traded sideways on Monday, closing slightly lower near 1.3225, with intraday price action lacking clear momentum. They expect near-term range trading to persist.
 
+**BOE's Mann Warns of Entrenched High Inflation, Sees Risk of 4% Around Year-End - BigGo Finance**
+`06 Oct 16:05 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_centralbanks
+
+BOE's Mann Warns of Entrenched High Inflation, Sees Risk of 4% Around Year-End BigGo Finance
+
 **High inflation has become embedded in Britain, Bank of England's Mann says - KELO-AM**
-`06 Oct 15:58 PKT` · pehli baar dekhi `07 Oct 00:06` · gnews_centralbanks
+`06 Oct 15:58 PKT` · pehli baar dekhi `07 Oct 00:06` · gnews_centralbanks · **2 feeds mein**
 
 High inflation has become embedded in Britain, Bank of England's Mann says KELO-AM
+  - `06 Oct 15:19` *gnews_centralbanks* — High inflation has become embedded in Britain, Bank of England's Mann says - Reuters
 
 **GBP/USD Daily Outlook**
 `06 Oct 13:48 PKT` · pehli baar dekhi `06 Oct 18:39` · actionforex · **2 feeds mein**
@@ -1344,6 +1405,11 @@ USD/JPY holds firm on Tuesday as the Japanese Yen (JPY) trades on the defensive 
 `06 Oct 17:35 PKT` · pehli baar dekhi `06 Oct 18:39` · fxstreet_news
 
 United Overseas Bank strategists Quek Ser Leang and Lee Sue Ann note that USD/JPY lacks clear directional cues in the short term, with intraday price action expected to remain confined between 157.55 and 158.45. Over the next one to three weeks, they see the pair trading in a broader 156.35–158.70 range. On a one to three month horizon, they highlight building downward momentum and potential further USD/JPY weakness.
+
+**BOJ chief calls for more focus on anchoring inflation around target - The Standard (HK)**
+`06 Oct 16:50 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_centralbanks
+
+BOJ chief calls for more focus on anchoring inflation around target The Standard (HK)
 
 **Japanese Yen nears 158.00: Two analysts agree it's bullish, and disagree on how far the breakout goes**
 `06 Oct 16:40 PKT` · pehli baar dekhi `06 Oct 18:39` · fxstreet_analysis
@@ -1453,6 +1519,11 @@ The USDCHF's heartbeat is barely registering. The low-to-high trading range is j
 USD/CHF is still extending consolidations below 0.8382 short term top. Intraday bias remains neutral at this point. Further rise is expected as long as 0.8182 support holds. Above 0.8382 will resume the whole rise from 0.7603. However, firm break of 0.8182 will indicate that larger scale corrective fall is underway. In the bigger picture, rise [&#8230;] The post USD/CHF Daily Outlook appeared first on ActionForex.
 
 ### CAD
+
+**Fed rate hike pushes Canadian mortgage rates up - Money.ca**
+`07 Oct 01:06 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_fed
+
+Fed rate hike pushes Canadian mortgage rates up Money.ca
 
 **Canada Ivey PMI Falls in September**
 `07 Oct 00:19 PKT` · pehli baar dekhi `07 Oct 00:06` · instaforex
@@ -1798,6 +1869,11 @@ Centuries ago, the untamed jungles of Venezuela's Orinoco Basin helped power the
 
 The Ibovespa climbed about 0.5% on Tuesday, approaching the 208,000 level after closing at a record 206,912 in the previous session, as Flávio Bolsonaro outperformed President Lula in the first round of the election, contrary to most pre-election polls. The outcome prompted a sharp repricing of Brazilian assets, with Bolsonaro securing 47.03% of valid votes compared with 45.16% for Lula.
 
+**Oil prices steady as market balances supply risks and export gains - Baird Maritime**
+`06 Oct 23:35 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_geopolitics
+
+Oil prices steady as market balances supply risks and export gains Baird Maritime
+
 **Philippines: One more BSP hike expected in October - Standard Chartered**
 `06 Oct 23:32 PKT` · pehli baar dekhi `07 Oct 00:06` · fxstreet_news
 
@@ -1829,7 +1905,8 @@ Metals rise as oil steadies, yields pull back from 24-year highs - Kitco PM Repo
 West Texas Intermediate (WTI) rebounds on Tuesday as shipping risks in the Strait of Hormuz keep Oil prices supported despite improving Middle East exports, with US-Iran talks still deadlocked.
 
 **Oil prices stable as market weighs supply risks, rising Middle East exports**
-`06 Oct 22:19 PKT` · pehli baar dekhi `07 Oct 00:06` · investing_commodities · **3 feeds mein**
+`06 Oct 22:19 PKT` · pehli baar dekhi `07 Oct 00:06` · investing_commodities · **4 feeds mein**
+  - `07 Oct 02:01` *gnews_geopolitics* — Oil prices stable as market weighs supply risks, rising Middle East exports - KWSN
   - `06 Oct 22:59` *gnews_geopolitics* — Oil prices stable as market weighs supply risks, rising Middle East exports - The Mighty 790 KFGO
   - `06 Oct 05:39` *gnews_geopolitics* — Oil prices stable as market weighs supply risks, rising Middle East exports - Reuters
 
@@ -2328,6 +2405,11 @@ Hong Kong regulators plan to establish a licensing regime for four categories, i
 
 Binance BTC reserves fell by nearly 40,000 coins since Sept. 20 as whales returned stablecoin capital to their exchange wallets.
 
+**BOE's Mann signals proactive rate hikes to combat inflation - Crypto Briefing**
+`06 Oct 14:22 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_centralbanks
+
+BOE's Mann signals proactive rate hikes to combat inflation Crypto Briefing
+
 **Bitcoin ETFs shed $90M as BTC sits 32% below year-old ATH**
 `06 Oct 13:14 PKT` · pehli baar dekhi `06 Oct 18:39` · cointelegraph
 
@@ -2409,6 +2491,12 @@ Higher Tariffs, More Imports: How the AI Boom Helped Offset the Hit Fort Worth I
 `07 Oct 01:07 PKT` · pehli baar dekhi `07 Oct 04:02` · aljazeera
 
 From the Epstein files to the war on Iran, Josh Rushing examines the cracks forming within MAGA in Trump&#039;s second term.
+
+**Are Global Oil Stocks Big Enough to Weather Another Six Months of US-Iran War? - EnergyNow**
+`07 Oct 00:58 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_geopolitics · **2 feeds mein**
+
+Are Global Oil Stocks Big Enough to Weather Another Six Months of US-Iran War? EnergyNow
+  - `06 Oct 17:52` *gnews_geopolitics* — Are Global Oil Stocks Big Enough to Weather Another Six Months of US-Iran War? - EnergyNow.com
 
 **Russia denies imposing anti-plague measures after lab worker death**
 `07 Oct 00:26 PKT` · pehli baar dekhi `07 Oct 04:02` · aljazeera
@@ -2506,11 +2594,6 @@ Indian equities closed sharply higher on Tuesday, extending the rebound from Fri
 `06 Oct 18:23 PKT` · pehli baar dekhi `07 Oct 04:02` · gnews_geopolitics
 
 Mideast Oil Chiefs Warn World Needs To Share Iran War Costs NDTV Profit
-
-**Are Global Oil Stocks Big Enough to Weather Another Six Months of US-Iran War? - EnergyNow.com**
-`06 Oct 17:52 PKT` · pehli baar dekhi `07 Oct 04:02` · gnews_geopolitics
-
-Are Global Oil Stocks Big Enough to Weather Another Six Months of US-Iran War? EnergyNow.com
 
 **Ukraine launches major drone attack on Russia's Moscow region, killing two**
 `06 Oct 17:42 PKT` · pehli baar dekhi `06 Oct 18:39` · aljazeera
@@ -2612,7 +2695,7 @@ Ethiopia is facing renewed fighting in the north, just four years after the deva
 
 The operation aims to take back the strategic Red Sea port of Mokha, which Iran-backed rebels have used to disrupt tanker traffic.
 
-### BINA TAG (260)
+### BINA TAG (263)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2646,6 +2729,7 @@ The operation aims to take back the strategic Red Sea port of Mokha, which Iran-
 - `07 Oct 01:08` **wsj_world** — Opinion | China's Persecution of Jews
 - `07 Oct 00:58` **mw_topstories** — Worse than taking away your parents' car keys? Taking away their cell phone. How to protect your aging parents.
 - `07 Oct 00:56` **aljazeera** — Ronaldo apologizes for Portugal walkout; says Jesus broke promise
+- `07 Oct 00:55` **gnews_fed** — U.S.-Mexico money transfer program to close Nov. 20 as remittances decline - FOX8 WGHP
 - `07 Oct 00:45` **gnews_geopolitics** — COMMENTARY: US Energy Dominance Descends Into Decadence - EnergyNow.com
 - `07 Oct 00:43` **aljazeera** — Yemen's government is on the attack against the Houthis. What has changed?
 - `07 Oct 00:34` **aljazeera** — The new players in space
@@ -2697,6 +2781,7 @@ The operation aims to take back the strategic Red Sea port of Mokha, which Iran-
 - `06 Oct 21:44` **wsj_world** — India Voter-List Purge Draws Growing Backlash
 - `06 Oct 21:31` **gnews_fed** — Rising Labor Market Anxiety and Declining Quits - Atlanta Federal Reserve Bank
 - `06 Oct 21:30` **wsj_markets** — Auto & Transport Roundup: Market Talk
+- `06 Oct 21:24` **gnews_fed** — Market news - Halifax
 - `06 Oct 21:18` **investing_commodities** — EIA expects a mixed picture for US households winter fuel costs this year
 - `06 Oct 21:02` **wsj_world** — Opinion | What I Saw on Oct. 7: Leadership and Israel's Greatest Generation
 - `06 Oct 20:57` **mw_topstories** — These 5 chip stocks are cheaper than the S&P 500 — and offer faster growth
@@ -2745,6 +2830,7 @@ The operation aims to take back the strategic Red Sea port of Mokha, which Iran-
 - `06 Oct 18:12` **investing_news** — Antom adds Affirm payment option for U.S. merchants
 - `06 Oct 18:12` **investing_news** — Blue Duck Capital urges Snap to raise external capital for Specs
 - `06 Oct 18:10` **wsj_markets** — CD&R, McKesson to Acquire At-Home Infusion Therapy Provider for $5.8 Billion
+- `06 Oct 18:08` **gnews_centralbanks** — Long-awaited good news for borrowers as UK lender cuts mortgage rates - The Mirror
 - `06 Oct 18:01` **gnews_fed** — 4 Value Stocks to Buy as Markets Eye Federal Reserve's Next Move - Zacks Investment Research
 - `06 Oct 18:00` **bbc_business** — From films to streaming prices - how the Warner Bros deal could affect you
 - `06 Oct 18:00` **gnews_fed** — Presidio Bay takes ownership of 301 Battery in deal with RFR - The San Francisco Standard
@@ -2893,45 +2979,45 @@ investing_news (9)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 10 | 15 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 11 | 19 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.3 |
+| investinglive | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 30 | 0 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 6 | 1 | 5 | 24 | 0.2 |
 | actionforex | OK | 20 | 20 | 8 | 12 | 0 | 0.0 |
-| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 4.4 |
-| instaforex | OK | 25 | 25 | 24 | 1 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 6 | 0 | 6 | 30 | 0.5 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.2 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 26.3 |
-| kitco_general | OK | 42 | 42 | 1 | 41 | 0 | 0.2 |
-| gnews_fed | OK | 80 | 80 | 18 | 62 | 0 | 0.0 |
-| gnews_geopolitics | OK | 92 | 92 | 10 | 82 | 0 | 0.0 |
-| gnews_centralbanks | OK | 30 | 30 | 2 | 28 | 0 | 0.1 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 20.3 |
-| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
-| ecb_press | OK | 15 | 3 | 0 | 3 | 12 | 0.6 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.5 |
-| boj_whatsnew | OK | 52 | 4 | 4 | 0 | 48 | 0.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.0 |
-| mining_com | OK | 36 | 6 | 0 | 6 | 30 | 0.4 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.1 |
-| ing_think | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| bbc_business | OK | 53 | 20 | 4 | 16 | 33 | 0.0 |
-| aljazeera | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
-| snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 26.6 |
-| eia_energy | OK | 13 | 0 | 0 | 0 | 13 | 1.5 |
-| bea_releases | OK | 48 | 1 | 0 | 1 | 47 | 0.6 |
-| wsj_world | OK | 71 | 32 | 2 | 30 | 39 | 0.1 |
-| wsj_markets | OK | 61 | 25 | 4 | 21 | 36 | 0.1 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| marketpulse | OK | 2 | 1 | 1 | 0 | 1 | 0.2 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 8 | 4 | 4 | 28 | 0.0 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.5 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 26.6 |
+| kitco_general | OK | 35 | 35 | 0 | 35 | 0 | 0.5 |
+| gnews_fed | OK | 100 | 100 | 47 | 53 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 33 | 67 | 0 | 0.0 |
+| gnews_centralbanks | OK | 42 | 42 | 31 | 11 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 20.6 |
+| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.8 |
+| ecb_press | OK | 15 | 4 | 1 | 3 | 11 | 0.0 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.8 |
+| boj_whatsnew | OK | 51 | 6 | 2 | 4 | 45 | 0.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.3 |
+| mining_com | OK | 36 | 6 | 0 | 6 | 30 | 0.6 |
+| oilprice | OK | 15 | 15 | 3 | 12 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 4 | 6 | 0 | 0.1 |
+| bbc_business | OK | 53 | 23 | 4 | 19 | 30 | 0.0 |
+| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| snb_press | OK | 20 | 4 | 2 | 2 | 16 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 26.9 |
+| eia_energy | OK | 13 | 0 | 0 | 0 | 13 | 1.8 |
+| bea_releases | OK | 48 | 1 | 0 | 1 | 47 | 0.9 |
+| wsj_world | OK | 72 | 33 | 2 | 31 | 39 | 0.0 |
+| wsj_markets | OK | 61 | 26 | 1 | 25 | 35 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 29 | 2 | 27 | 1 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 3 | 27 | 0 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - yahoo_finance — FAIL, HTTP 404
