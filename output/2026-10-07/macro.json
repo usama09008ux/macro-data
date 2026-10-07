@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "07 Oct 2026 17:01",
+  "generated_pkt": "07 Oct 2026 23:57",
   "trading_day": "2026-10-07",
   "series": {
     "DFEDTARU": {
@@ -124,37 +124,37 @@
       "percentile": 57
     },
     "VIXCLS": {
-      "latest": 15.52,
-      "latest_date": "2026-10-05",
-      "n_obs": 779,
+      "latest": 15.01,
+      "latest_date": "2026-10-06",
+      "n_obs": 780,
       "changes": {
-        "1d": 0.21,
-        "5d": -0.55,
-        "20d": 0.22
+        "1d": -0.51,
+        "5d": -1.03,
+        "20d": -0.71
       },
-      "percentile": 36
+      "percentile": 29
     },
     "BAMLH0A0HYM2": {
-      "latest": 3.12,
-      "latest_date": "2026-10-05",
-      "n_obs": 784,
+      "latest": 3.03,
+      "latest_date": "2026-10-06",
+      "n_obs": 785,
       "changes": {
-        "1d": 0.02,
-        "5d": 0.1,
-        "20d": 0.44
+        "1d": -0.09,
+        "5d": -0.05,
+        "20d": 0.36
       },
-      "percentile": 57
+      "percentile": 50
     },
     "STLFSI4": {
-      "latest": -0.8074,
-      "latest_date": "2026-09-25",
-      "n_obs": 157,
+      "latest": -0.4681,
+      "latest_date": "2026-10-02",
+      "n_obs": 158,
       "changes": {
-        "1d": -0.1063,
-        "5d": 0.0021,
-        "20d": -0.0512
+        "1d": 0.341,
+        "5d": 0.3807,
+        "20d": 0.2714
       },
-      "percentile": 20
+      "percentile": 75
     },
     "CPIAUCSL": {
       "latest": 334.131,
