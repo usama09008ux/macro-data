@@ -1,8 +1,8 @@
 # News Pack — Trading Day 06 Oct 2026
 
 - Trading day: **06 Oct 03:00 -> 07 Oct 02:59 PKT**
-- Aakhri update: **07 Oct 04:02 PKT**
-- Kul khabrein: **806**
+- Aakhri update: **07 Oct 07:18 PKT**
+- Kul khabrein: **820**
 - Feeds: 35/39 OK
 
 ---
@@ -265,6 +265,11 @@ ICE brings futures trading to London's $190 billion-a-day physical gold market K
 
 Mexico's environmental department approval completed the project's federal environmental approval process.
 
+**Gold and silver prices rose as yields retreated, but the risk of a Federal Reserve rate hike in December remains. - Moomoo**
+`06 Oct 18:47 PKT` · pehli baar dekhi `07 Oct 07:18` · gnews_fed
+
+Gold and silver prices rose as yields retreated, but the risk of a Federal Reserve rate hike in December remains. Moomoo
+
 **Canada Imports End Rising Streak**
 `06 Oct 18:39 PKT` · instaforex
 
@@ -470,6 +475,11 @@ The US Dollar (USD) has come under fresh downside pressure on Tuesday, slipping 
 `06 Oct 23:26 PKT` · pehli baar dekhi `07 Oct 00:06` · gnews_fed
 
 Mortgage Rates Rise as Treasury Yields Top 5% Eye On Housing
+
+**House China Committee Chairman Pressures Fed to Review Hong Kong's Dollar Liquidity Access - BigGo Finance**
+`06 Oct 23:25 PKT` · pehli baar dekhi `07 Oct 07:18` · gnews_fed
+
+House China Committee Chairman Pressures Fed to Review Hong Kong's Dollar Liquidity Access BigGo Finance
 
 **Fed's Schmid warns inflation fight has a "way to go"**
 `06 Oct 23:22 PKT` · pehli baar dekhi `07 Oct 00:06` · fxstreet_news
@@ -703,6 +713,11 @@ ING's Francesco Pesole notes that the Dollar remains supported early in the week
 
 Here We Go! President Donald Trump Just Threw Fed Chair Kevin Warsh Under the Bus Over Interest Rates. The Globe and Mail
   - `06 Oct 13:27` *gnews_fed* — Here We Go! President Donald Trump Just Threw Fed Chair Kevin Warsh Under the Bus Over Interest Rates. - The Globe and Mail
+
+**Beyond Valuations: Long-Term Financial Risks from the AI Build-Out - Kansas City Fed**
+`06 Oct 13:50 PKT` · pehli baar dekhi `07 Oct 07:18` · gnews_fed
+
+Beyond Valuations: Long-Term Financial Risks from the AI Build-Out Kansas City Fed
 
 **Dow Jones futures rise due to easing Fed rate hike expectations**
 `06 Oct 13:38 PKT` · pehli baar dekhi `06 Oct 18:39` · fxstreet_news
@@ -1280,6 +1295,11 @@ The GBP/USD pair extends its consolidative move during the Asian session on Tues
 
 ### JPY
 
+**Bank of Japan rate hike unlikely: CAD/JPY key levels to watch - Traders Union**
+`07 Oct 00:18 PKT` · pehli baar dekhi `07 Oct 07:18` · gnews_centralbanks
+
+Bank of Japan rate hike unlikely: CAD/JPY key levels to watch Traders Union
+
 **The market is pricing a BoJ pause. Here's why Ueda's 'keep raising rates' could force a sharp Yen repricing**
 `06 Oct 23:23 PKT` · pehli baar dekhi `07 Oct 00:06` · fxstreet_analysis
 
@@ -1742,6 +1762,11 @@ Iraq is building its 2027 budget around $58 oil, a far cry below what the countr
 `07 Oct 00:28 PKT` · pehli baar dekhi `07 Oct 04:02` · gnews_fed
 
 Oil reserve "scarily thin" Oklahoma Energy Today
+
+**Opaque Oil Deals Around Hormuz Test the Petrodollar: Bousso - EnergyNow**
+`07 Oct 00:27 PKT` · pehli baar dekhi `07 Oct 07:18` · gnews_geopolitics
+
+Opaque Oil Deals Around Hormuz Test the Petrodollar: Bousso EnergyNow
 
 **Iran's South Zagros gas output rises 6%, oil production up 1% - Trend News Agency**
 `07 Oct 00:25 PKT` · pehli baar dekhi `07 Oct 04:02` · gnews_geopolitics
@@ -2318,6 +2343,11 @@ Market Overview The crypto market has taken a slight step back over the past day
 
 An EEZ contributor shared a 0.001 ETH cross-chain test as the project develops a framework to connect Ethereum mainnet and its rollups.
 
+**Bitcoin Price Today: BTC Holds $85,500 as $172M Liquidations & ETF Outflows Hit Before Fed Minutes - The Crypto Times**
+`06 Oct 11:32 PKT` · pehli baar dekhi `07 Oct 07:18` · gnews_fed
+
+Bitcoin Price Today: BTC Holds $85,500 as $172M Liquidations & ETF Outflows Hit Before Fed Minutes The Crypto Times
+
 **Better Markets says CFTC is 'wrong agency' to regulate retail crypto**
 `06 Oct 10:43 PKT` · pehli baar dekhi `06 Oct 11:42` · cointelegraph
 
@@ -2370,6 +2400,11 @@ World's Running Out Of Cushion To Blunt Iran War's Oil Shock, Top Execs Say The 
 
 Anduril said it would invest $3.7bn to develop shipyard that would build submarine parts.
 
+**Higher Tariffs, More Imports: How the AI Boom Helped Offset the Hit - Fort Worth Inc.**
+`07 Oct 01:31 PKT` · pehli baar dekhi `07 Oct 07:18` · gnews_fed
+
+Higher Tariffs, More Imports: How the AI Boom Helped Offset the Hit Fort Worth Inc.
+
 **Is there a MAGA after Trump?**
 `07 Oct 01:07 PKT` · pehli baar dekhi `07 Oct 04:02` · aljazeera
 
@@ -2386,10 +2421,11 @@ Russia denies plague cases after laboratory technician&#039;s death; US demands 
 Global oil prices cross $100 a barrel as Iran war sends fuel prices surging ABC7 San Francisco
 
 **US EIA lifts Brent forecast to $98 as Iran war tightens global supplies - The Economic Times**
-`06 Oct 23:22 PKT` · pehli baar dekhi `07 Oct 00:06` · gnews_geopolitics · **2 feeds mein**
+`06 Oct 23:22 PKT` · pehli baar dekhi `07 Oct 00:06` · gnews_geopolitics · **3 feeds mein**
 
 US EIA lifts Brent forecast to $98 as Iran war tightens global supplies The Economic Times
   - `06 Oct 23:22` *gnews_geopolitics* — US EIA lifts Brent forecast to $98 as Iran war tightens global supplies - inkl
+  - `06 Oct 23:22` *gnews_geopolitics* — US EIA lifts Brent forecast to $98 as Iran war tightens global supplies - The Economic Times
 
 **Russia's digital ruble accounts top 220K in first month, nearly 4X central bank forecast**
 `06 Oct 23:19 PKT` · pehli baar dekhi `07 Oct 00:06` · cointelegraph
@@ -2516,6 +2552,11 @@ Oil Prices Rise 5% on Fears of US-Iran Ceasefire Collapse EnergyNow
 
 'Saudi Arabia potentially deploying 100,000 troops': Iran conflict impact Ticker News
 
+**ASEAN to discuss energy security amid US and Israeli war against Iran — Al Jazeera - UA.NEWS**
+`06 Oct 12:36 PKT` · pehli baar dekhi `07 Oct 07:18` · gnews_geopolitics
+
+ASEAN to discuss energy security amid US and Israeli war against Iran — Al Jazeera UA.NEWS
+
 **Southeast Asia's energy chiefs meet against backdrop of Iran war - Al Jazeera**
 `06 Oct 12:11 PKT` · pehli baar dekhi `06 Oct 18:39` · gnews_geopolitics
 
@@ -2571,7 +2612,7 @@ Ethiopia is facing renewed fighting in the north, just four years after the deva
 
 The operation aims to take back the strategic Red Sea port of Mokha, which Iran-backed rebels have used to disrupt tanker traffic.
 
-### BINA TAG (255)
+### BINA TAG (260)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2628,6 +2669,7 @@ The operation aims to take back the strategic Red Sea port of Mokha, which Iran-
 - `06 Oct 23:19` **gnews_fed** — Federal Reserve to restructure US bank supervision model - Yahoo Finance
 - `06 Oct 23:13` **investing_commodities** — US LNG may lose competitive edge as gas prices climb, Fulcrum CEO says
 - `06 Oct 23:11` **investinglive** — Siberian health scare: a risk for stock investors to watch, without panic
+- `06 Oct 23:11` **gnews_fed** — Interest Rate Increases Are About Disciplining Labor - Jacobin
 - `06 Oct 23:07` **wsj_world** — Ebola Patient Boarded Commercial Flight, Died Shortly After Arrival
 - `06 Oct 23:01` **mw_topstories** — My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?
 - `06 Oct 23:00` **wsj_world** — Inside the Albanian Village Fighting a Jared Kushner-Backed Luxury Resort
@@ -2644,6 +2686,7 @@ The operation aims to take back the strategic Red Sea port of Mokha, which Iran-
 - `06 Oct 22:34` **aljazeera** — Yemen's Taiz residents fear food and fuel crisis amid fighting
 - `06 Oct 22:25` **gnews_fed** — Federal Reserve Unveils Major Overhaul of Bank Supervision Structure: 12 Districts Consolidated into 5 Regions, Asset Thresholds to Be Reviewed Every Five Years - BigGo Finance
 - `06 Oct 22:23` **investinglive** — Although the broader indices are looking to close at record levels, the Magnificent 7 (sans Nvidia) lag behind
+- `06 Oct 22:19` **gnews_fed** — U.S.-Mexico money transfer program to close Nov. 20 as remittances decline - FOX 2
 - `06 Oct 22:18` **mw_topstories** — Loneliness and social isolation can take six years off your life
 - `06 Oct 22:17` **investinglive** — Nasdaq Futures Outlook: NQ Tests Key 31,480 Support
 - `06 Oct 22:04` **cointelegraph** — Securitize stock jumps 8% amid South Korea tokenization push
@@ -2665,6 +2708,7 @@ The operation aims to take back the strategic Red Sea port of Mokha, which Iran-
 - `06 Oct 20:18` **ing_think** — Europe's Pitch Book: Why trade troubles could be the nudge Europe needs
 - `06 Oct 20:14` **aljazeera** — Birzeit University memorial destruction aims to crush Palestinian memory
 - `06 Oct 20:13` **kitco_general** — Sumitomo Metal expects global nickel market to stay in surplus in 2027 - Kitco
+- `06 Oct 19:59` **kitco_general** — Latest News, Video News, Analysis and Opinions | KITCO NEWS - Kitco
 - `06 Oct 19:55` **gnews_fed** — Federal Reserve plans bank supervision overhaul - Traders Union
 - `06 Oct 19:50` **aljazeera** — Bulgaria searches for missing crew after drones hit two ships in Black Sea
 - `06 Oct 19:48` **mining_com** — Canterra grows Newfoundland copper resource 55% as grades fall
@@ -2750,6 +2794,7 @@ The operation aims to take back the strategic Red Sea port of Mokha, which Iran-
 - `06 Oct 14:52` **investing_commodities** — UBS raises European gas price targets on Gulf LNG disruptions
 - `06 Oct 14:51` **aljazeera** — Kenya ministry of health confirms first imported Ebola case
 - `06 Oct 14:39` **aljazeera** — India's 'million mutinies' are puncturing Modi's aura of invincibility
+- `06 Oct 14:35` **gnews_fed** — Federal Reserve Data Shows Many Retirees Still Owe Six-Figure Mortgages Into Their 80s - Investopedia
 - `06 Oct 14:30` **wsj_markets** — What Oura's Stalled IPO Tells Us About One-Hit Wonders
 - `06 Oct 14:25` **aljazeera** — 'Hitting the right nail': Refugee rescue group defiant as Greece targets it
 - `06 Oct 14:22` **aljazeera** — Palestine weekly: Olive harvest opens under assault
@@ -2792,6 +2837,7 @@ The operation aims to take back the strategic Red Sea port of Mokha, which Iran-
 - `06 Oct 09:42` **investing_commodities** — Vance says details of proposed Alaska LNG pipeline need to be worked out
 - `06 Oct 09:37` **gnews_fed** — News by CNBC TV18 on TradingView, 2026-10-06 — cnbctv:2f751927f094b:0 - TradingView
 - `06 Oct 09:34` **aljazeera** — Violent clashes erupt after mass housing protest in Barcelona
+- `06 Oct 08:54` **gnews_fed** — The Force (@RealTheForce) on X - Howl.link
 - `06 Oct 08:52` **gnews_centralbanks** — Back to the Front: Global Central Banks Launch a New Rate-Tightening Cycle - Vocal
 - `06 Oct 08:01` **investinglive** — Solana launches open settlement standard for institutions, with JPMorgan input
 - `06 Oct 07:09` **gnews_fed** — J.P. Morgan's Chief Economist Breaks Down Labor Market Trends - Coinfomania
@@ -2847,45 +2893,45 @@ investing_news (9)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 7 | 23 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.2 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.4 |
-| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 4.3 |
-| instaforex | OK | 25 | 25 | 13 | 12 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 6 | 0 | 6 | 30 | 0.3 |
-| cme_metals_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
-| cme_fx_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
-| cme_rates_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
-| cme_energy_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
-| cme_daily_commentary | OK | 10 | 7 | 3 | 4 | 3 | 0.1 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 26.2 |
-| kitco_general | OK | 46 | 46 | 7 | 39 | 0 | 0.1 |
-| gnews_fed | OK | 68 | 68 | 18 | 50 | 0 | 0.0 |
-| gnews_geopolitics | OK | 81 | 81 | 26 | 55 | 0 | 0.0 |
-| gnews_centralbanks | OK | 29 | 29 | 3 | 26 | 0 | 0.3 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 20.2 |
-| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.3 |
-| ecb_press | OK | 15 | 3 | 0 | 3 | 12 | 0.4 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.4 |
-| boj_whatsnew | OK | 48 | 0 | 0 | 0 | 48 | 1.8 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.9 |
-| mining_com | OK | 36 | 6 | 0 | 6 | 30 | 0.2 |
-| oilprice | OK | 15 | 15 | 6 | 9 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
-| bbc_business | OK | 53 | 16 | 2 | 14 | 37 | 0.1 |
-| aljazeera | OK | 25 | 25 | 21 | 4 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 10 | 15 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 11 | 19 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 5 | 0 | 5 | 25 | 0.3 |
+| actionforex | OK | 20 | 20 | 8 | 12 | 0 | 0.0 |
+| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 4.4 |
+| instaforex | OK | 25 | 25 | 24 | 1 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 6 | 0 | 6 | 30 | 0.5 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
+| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.2 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 26.3 |
+| kitco_general | OK | 42 | 42 | 1 | 41 | 0 | 0.2 |
+| gnews_fed | OK | 80 | 80 | 18 | 62 | 0 | 0.0 |
+| gnews_geopolitics | OK | 92 | 92 | 10 | 82 | 0 | 0.0 |
+| gnews_centralbanks | OK | 30 | 30 | 2 | 28 | 0 | 0.1 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 20.3 |
+| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
+| ecb_press | OK | 15 | 3 | 0 | 3 | 12 | 0.6 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.5 |
+| boj_whatsnew | OK | 52 | 4 | 4 | 0 | 48 | 0.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.0 |
+| mining_com | OK | 36 | 6 | 0 | 6 | 30 | 0.4 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.1 |
+| ing_think | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| bbc_business | OK | 53 | 20 | 4 | 16 | 33 | 0.0 |
+| aljazeera | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
 | snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 26.5 |
-| eia_energy | OK | 13 | 0 | 0 | 0 | 13 | 1.4 |
-| bea_releases | OK | 48 | 1 | 0 | 1 | 47 | 0.4 |
-| wsj_world | OK | 71 | 30 | 10 | 20 | 41 | 0.0 |
-| wsj_markets | OK | 61 | 23 | 8 | 15 | 38 | 0.1 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 26.6 |
+| eia_energy | OK | 13 | 0 | 0 | 0 | 13 | 1.5 |
+| bea_releases | OK | 48 | 1 | 0 | 1 | 47 | 0.6 |
+| wsj_world | OK | 71 | 32 | 2 | 30 | 39 | 0.1 |
+| wsj_markets | OK | 61 | 25 | 4 | 21 | 36 | 0.1 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 27 | 4 | 23 | 3 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 29 | 2 | 27 | 1 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - yahoo_finance — FAIL, HTTP 404
