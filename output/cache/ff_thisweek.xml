@@ -491,6 +491,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/10-us-crude-oil-inventories]]></url>
 	</event>
 	<event>
+		<title>President Trump Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[10-07-2026]]></date>
+		<time><![CDATA[5:00pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/645-us-president-trump-speaks]]></url>
+	</event>
+	<event>
 		<title>10-y Bond Auction</title>
 		<country>USD</country>
 		<date><![CDATA[10-07-2026]]></date>

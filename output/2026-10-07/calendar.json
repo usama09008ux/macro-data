@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "07 Oct 2026 06:46",
+  "generated_pkt": "07 Oct 2026 16:54",
   "trading_day": "2026-10-07",
   "feed_sources": {
     "thisweek": "live"
@@ -640,6 +640,19 @@
       "utc": "2026-10-07T14:30Z",
       "pkt": "07 Oct 19:30",
       "pkt_iso": "2026-10-07T19:30:00+05:00",
+      "trading_day": "2026-10-07"
+    },
+    {
+      "title": "President Trump Speaks",
+      "ccy": "USD",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/645-us-president-trump-speaks",
+      "all_day": false,
+      "utc": "2026-10-07T17:00Z",
+      "pkt": "07 Oct 22:00",
+      "pkt_iso": "2026-10-07T22:00:00+05:00",
       "trading_day": "2026-10-07"
     },
     {
