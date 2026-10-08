@@ -1,8 +1,8 @@
 # News Pack — Trading Day 07 Oct 2026
 
 - Trading day: **07 Oct 03:00 -> 08 Oct 02:59 PKT**
-- Aakhri update: **08 Oct 12:25 PKT**
-- Kul khabrein: **1006**
+- Aakhri update: **08 Oct 19:48 PKT**
+- Kul khabrein: **1018**
 - Feeds: 37/39 OK
 
 ---
@@ -642,9 +642,11 @@ In 2026, the US Dollar Index (DXY), which measures the Dollar against six major 
 Fed Minutes Show Officials Saw More Work to Do to Quell Inflation The New York Times
 
 **Fed minutes: Another rate hike likely coming this year to combat persistent inflation - WPXI**
-`08 Oct 00:16 PKT` · pehli baar dekhi `08 Oct 02:20` · gnews_fed · **10 feeds mein**
+`08 Oct 00:16 PKT` · pehli baar dekhi `08 Oct 02:20` · gnews_fed · **12 feeds mein**
 
 Fed minutes: Another rate hike likely coming this year to combat persistent inflation WPXI
+  - `07 Oct 23:23` *gnews_fed* — Fed minutes: Another rate hike likely coming this year to combat persistent inflation - Colorado Hometown Weekly
+  - `07 Oct 23:21` *gnews_fed* — Fed minutes: Another rate hike likely coming this year to combat persistent inflation - News-Herald
   - `07 Oct 23:21` *gnews_fed* — Fed minutes: Another rate hike likely coming this year to combat persistent inflation - Longmont Times-Call
   - `07 Oct 23:20` *gnews_fed* — Fed minutes: Another rate hike likely coming this year to combat persistent inflation - Chico Enterprise-Record
   - `07 Oct 23:20` *gnews_fed* — Fed minutes: Another rate hike likely coming this year to combat persistent inflation - San Bernardino Sun
@@ -1986,6 +1988,11 @@ Intraday bias in USD/CHF remains neutral as consolidations continue below 0.8382
 
 USD/CHF extends its gains for the third consecutive day, trading around 0.8330 during Asian hours on Wednesday. Switzerland's seasonally-adjusted Unemployment Rate was unchanged at 3.1% for the fifth month in a row in September. Foreign Currency Reserves for September will be eyed later in the day.
 
+**ES - 2026-10-07 - William Boye and Thomas Moser: A secure network for financial infrastructure: SCION and the Secure Swiss Finance Network (SSFN)**
+`07 Oct 03:00 PKT` · pehli baar dekhi `08 Oct 19:48` · snb_press
+
+Financial market infrastructures depend critically on communication networks that remain available and secure even during outages and cyber-attacks. SCION is an internet architecture that strengthens resilience by giving users greater control over network paths and allowing traffic to switch rapidly between independently operated providers. The Secure Swiss Finance Network (SSFN), launched by the Swiss National Bank (SNB) and SIX in 2021, shows that this approach works in practice.
+
 ### CAD
 
 **LOOKING TO CANADA FOR OIL: Canada's Irving Turns to Newfoundland for Oil Instead of Persian Gulf as a Result of Iran Disruption - EnergyNow**
@@ -2284,6 +2291,11 @@ China's turn to Iraqi crude shows growing impact of Iran oil blockade Iran Inter
 
 Iran's Main Oil and Gas Production and Infrastructure EnergyNow
   - `07 Oct 03:47` *gnews_geopolitics* — Iran's Main Oil and Gas Production and Infrastructure - EnergyNow.com
+
+**Oil Up as US-Iran Peace Talks Stall…Again - EnergyNow.com**
+`07 Oct 21:42 PKT` · pehli baar dekhi `08 Oct 19:48` · gnews_geopolitics
+
+Oil Up as US-Iran Peace Talks Stall…Again EnergyNow.com
 
 **Oil Steady as Investors Focus on Hormuz Flows After Peace Talks - EnergyNow.com**
 `07 Oct 21:41 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_geopolitics
@@ -3070,17 +3082,22 @@ Fed Policymakers Think Another Interest Rate Hike Is Likely This Year, Minutes S
 After raising rates in September, some of the central bank's top officials have suggested a further rate rise can wait until December.
 
 **Federal Reserve officials expect another rate hike will be needed this year, according to minutes - Journal-Advocate**
-`07 Oct 23:21 PKT` · pehli baar dekhi `08 Oct 02:20` · gnews_fed · **15 feeds mein**
+`07 Oct 23:21 PKT` · pehli baar dekhi `08 Oct 02:20` · gnews_fed · **20 feeds mein**
 
 Federal Reserve officials expect another rate hike will be needed this year, according to minutes Journal-Advocate
+  - `07 Oct 23:20` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - Sun Sentinel
+  - `07 Oct 23:20` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - The Standard-Speaker
   - `07 Oct 23:20` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - The Times Herald
   - `07 Oct 23:19` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - Whittier Daily News
   - `07 Oct 23:19` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - Inland Valley Daily Bulletin
   - `07 Oct 23:19` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - The Press-Enterprise
   - `07 Oct 23:15` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - Times Union
+  - `07 Oct 23:15` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - Los Angeles Daily News
+  - `07 Oct 23:15` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - Reading Eagle
   - `07 Oct 23:13` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - The Globe and Mail
   - `07 Oct 23:12` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - Norwalk Hour
   - `07 Oct 23:11` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - CT Insider
+  - `07 Oct 23:08` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - KSAT
   - `07 Oct 23:05` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - KTVN
   - `07 Oct 23:05` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - Bozeman Daily Chronicle
   - `07 Oct 23:05` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - Ottumwa Courier
@@ -3191,6 +3208,11 @@ Three years into Israel's war on Gaza, we examine patterns that echo the Srebren
 `07 Oct 22:50 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_geopolitics
 
 Bessent says energy, borrowing costs to ease after Iran conflict Iran International
+
+**Iran FM says New York proposal had 'authorization' - Iran International**
+`07 Oct 22:38 PKT` · pehli baar dekhi `08 Oct 19:48` · gnews_geopolitics
+
+Iran FM says New York proposal had 'authorization' Iran International
 
 **Trader or Driller? Iran War Exposes Big Oil's Transatlantic Divide: Bousso - EnergyNow**
 `07 Oct 22:05 PKT` · pehli baar dekhi `08 Oct 02:20` · gnews_geopolitics
@@ -3397,7 +3419,7 @@ How the Iran War Oil and Gas Supply Shock Compares with Past Disruptions EnergyN
 
 US EIA hikes oil price forecasts again as Iran war drains global stockpile 1470 & 100.3 WMBD
 
-### BINA TAG (229)
+### BINA TAG (231)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -3445,8 +3467,10 @@ US EIA hikes oil price forecasts again as Iran war drains global stockpile 1470 
 - `08 Oct 00:16` **gnews_fed** — Trump says Federal Reserve Board would like to see the country do badly - Myrtle Beach Sun News
 - `08 Oct 00:16` **gnews_fed** — Trump says Federal Reserve Board would like to see the country do badly - Merced Sun-Star
 - `08 Oct 00:16` **gnews_fed** — Trump says Federal Reserve Board would like to see the country do badly - Columbus Ledger-Enquirer
+- `08 Oct 00:16` **gnews_fed** — Trump says Federal Reserve Board would like to see the country do badly - Durham Herald Sun
 - `08 Oct 00:12` **mw_topstories** — Microsoft and Nvidia are teaming up on a supercharged AI laptop
 - `08 Oct 00:03` **gnews_fed** — Trump says Federal Reserve Board would like to see the country do badly - The Lufkin Daily News
+- `08 Oct 00:03` **gnews_fed** — Trump says Federal Reserve Board would like to see the country do badly - Yahoo
 - `08 Oct 00:00` **kitco_general** — Indonesia plans to impose a moratorium on new plants making partly processed nickel - Kitco
 - `07 Oct 23:57` **aljazeera** — Ultra-Orthodox rabbi's anti-Zionist remarks stir Israel election row
 - `07 Oct 23:53` **gnews_fed** — Trump says Federal Reserve Board would like to see the country do badly - TradingView
@@ -3647,45 +3671,45 @@ investing_news (15)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 30 | 0 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 7 | 1 | 6 | 23 | 0.2 |
-| actionforex | OK | 20 | 20 | 12 | 8 | 0 | 0.0 |
-| marketpulse | OK | 2 | 1 | 0 | 1 | 1 | 1.1 |
+| investinglive | OK | 25 | 25 | 21 | 4 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 29 | 1 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 9 | 2 | 7 | 21 | 0.0 |
+| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.0 |
+| marketpulse | OK | 2 | 1 | 0 | 1 | 1 | 1.4 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 8 | 1 | 7 | 28 | 0.0 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
-| cme_daily_commentary | OK | 10 | 6 | 0 | 6 | 4 | 0.5 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 27.5 |
-| kitco_general | OK | 35 | 35 | 0 | 35 | 0 | 0.3 |
-| gnews_fed | OK | 100 | 100 | 31 | 69 | 0 | 0.0 |
-| gnews_geopolitics | OK | 98 | 98 | 34 | 64 | 0 | 0.0 |
-| gnews_centralbanks | OK | 44 | 44 | 15 | 29 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
-| ecb_press | OK | 15 | 2 | 1 | 1 | 13 | 0.1 |
-| boe_news | OK | 50 | 5 | 0 | 5 | 45 | 0.4 |
-| boj_whatsnew | OK | 53 | 8 | 1 | 7 | 45 | 0.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.2 |
-| mining_com | OK | 36 | 12 | 0 | 12 | 24 | 0.3 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| bbc_business | OK | 38 | 24 | 6 | 18 | 14 | 0.0 |
-| aljazeera | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
-| snb_press | OK | 20 | 4 | 0 | 4 | 16 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 27.9 |
-| eia_energy | OK | 14 | 1 | 0 | 1 | 13 | 0.7 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 1.8 |
-| wsj_world | OK | 72 | 27 | 2 | 25 | 45 | 0.2 |
-| wsj_markets | OK | 61 | 26 | 1 | 25 | 35 | 0.0 |
-| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| wsj_economy | OK | 36 | 11 | 4 | 7 | 25 | 0.1 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.8 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.8 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.8 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.8 |
+| cme_daily_commentary | OK | 10 | 6 | 0 | 6 | 4 | 0.8 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 27.8 |
+| kitco_general | OK | 28 | 28 | 8 | 20 | 0 | 0.1 |
+| gnews_fed | OK | 100 | 100 | 34 | 66 | 0 | 0.0 |
+| gnews_geopolitics | OK | 88 | 88 | 35 | 53 | 0 | 0.1 |
+| gnews_centralbanks | OK | 38 | 38 | 33 | 5 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 1 | 0 | 1 | 14 | 0.9 |
+| fed_speeches | OK | 15 | 1 | 1 | 0 | 14 | 0.3 |
+| ecb_press | OK | 15 | 3 | 1 | 2 | 12 | 0.1 |
+| boe_news | OK | 50 | 5 | 0 | 5 | 45 | 0.7 |
+| boj_whatsnew | OK | 53 | 8 | 0 | 8 | 45 | 0.4 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.6 |
+| mining_com | OK | 36 | 15 | 3 | 12 | 21 | 0.1 |
+| oilprice | OK | 15 | 15 | 8 | 7 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 7 | 3 | 0 | 0.1 |
+| ing_think | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
+| bbc_business | OK | 44 | 30 | 5 | 25 | 14 | 0.1 |
+| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| snb_press | OK | 20 | 6 | 2 | 4 | 14 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 28.2 |
+| eia_energy | OK | 14 | 1 | 0 | 1 | 13 | 1.0 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 2.1 |
+| wsj_world | OK | 72 | 29 | 7 | 22 | 43 | 0.0 |
+| wsj_markets | OK | 61 | 32 | 13 | 19 | 29 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
-| cointelegraph | OK | 30 | 24 | 2 | 22 | 6 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 12 | 18 | 0 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - yahoo_finance — FAIL, HTTP 404
