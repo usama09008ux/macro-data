@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "08 Oct 2026 17:09",
+  "generated_pkt": "08 Oct 2026 23:12",
   "trading_day": "2026-10-08",
   "feed_sources": {
     "thisweek": "live"
@@ -1023,7 +1023,7 @@
       "title": "Employment Change",
       "ccy": "CAD",
       "impact": "High",
-      "forecast": "6.3K",
+      "forecast": "6.1K",
       "previous": "-41.7K",
       "url": "https://www.forexfactory.com/calendar/67-ca-employment-change",
       "all_day": false,
@@ -1085,5 +1085,48 @@
       "trading_day": "2026-10-09"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US August wholesale inventories +0.5% vs +0.7% expected",
+      "actual_raw": "+0.5%",
+      "forecast_raw": "+0.7%",
+      "beat": false,
+      "raw_diff": "-0.20pp",
+      "sign_flip": false,
+      "diff_pct": -28.6,
+      "when_pkt": "08 Oct 19:00",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US weekly initial jobless claims 197K vs 200K expected",
+      "actual_raw": "197K",
+      "forecast_raw": "200K",
+      "beat": false,
+      "raw_diff": "-3.0K",
+      "sign_flip": false,
+      "diff_pct": -1.5,
+      "when_pkt": "08 Oct 17:31",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US initial jobless claims for the week is modestly stronger at 197K vs 200K est.",
+      "actual_raw": "197K",
+      "forecast_raw": "200K",
+      "beat": false,
+      "raw_diff": "-3.0K",
+      "sign_flip": false,
+      "diff_pct": -1.5,
+      "when_pkt": "08 Oct 17:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }
