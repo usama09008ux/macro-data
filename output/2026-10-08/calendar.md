@@ -1,6 +1,6 @@
 # Calendar — Trading Day 08 Oct 2026
 
-- Banaya gaya: **08 Oct 2026 07:14 PKT**
+- Banaya gaya: **08 Oct 2026 17:09 PKT**
 - Trading day: **08 Oct 03:00 -> 09 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,16 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 08:35 | JPY | low | 30-y Bond Auction | - | 4.08|3.8 |
-| 10:00 | JPY | low | Economy Watchers Sentiment | 46.7 | 46.4 |
-| 11:00 | EUR | low | German Trade Balance | 19.0B | 21.3B |
-| 13:05 | CHF | low | Gov Board Member Martin Speaks | - | - |
-| 13:30 | GBP | low | BOE Credit Conditions Survey | - | - |
-| 13:30 | USD | MED | FOMC Member Waller Speaks | - | - |
-| 14:00 | GBP | low | MPC Member Pill Speaks | - | - |
-| 14:15 | GBP | low | MPC Member Greene Speaks | - | - |
-| 14:15 | EUR | low | Eurogroup Meetings | - | - |
-| 16:30 | EUR | low | ECB Monetary Policy Meeting Accounts | - | - |
 | 17:15 | GBP | **HIGH** | BOE Gov Bailey Speaks | - | - |
 | 17:30 | USD | MED | Unemployment Claims | 200K | 197K |
 | 18:00 | GBP | low | MPC Member Lombardelli Speaks | - | - |
@@ -30,6 +20,10 @@
 | 22:01 | USD | low | 30-y Bond Auction | - | 5.31|2.6 |
 | 22:40 | USD | low | FOMC Member Musalem Speaks | - | - |
 | **09 Oct** 04:30 | JPY | low | Household Spending y/y | -3.5% | -3.6% |
+| **09 Oct** 11:00 | JPY | low | Prelim Machine Tool Orders y/y | - | 64.7% |
+| **09 Oct** 12:00 | CHF | low | SECO Consumer Climate | -32 | -33 |
+| **09 Oct** 13:00 | EUR | low | Italian Industrial Production m/m | 0.0% | 0.7% |
+| **09 Oct** 14:15 | EUR | low | ECOFIN Meetings | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
