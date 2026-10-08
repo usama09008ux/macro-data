@@ -1,8 +1,8 @@
 # News Pack — Trading Day 07 Oct 2026
 
 - Trading day: **07 Oct 03:00 -> 08 Oct 02:59 PKT**
-- Aakhri update: **08 Oct 06:08 PKT**
-- Kul khabrein: **976**
+- Aakhri update: **08 Oct 12:25 PKT**
+- Kul khabrein: **1006**
 - Feeds: 37/39 OK
 
 ---
@@ -687,6 +687,11 @@ Fed policymakers divided over rate-hike logic in September, minutes show Kitco
   - `08 Oct 01:19` *gnews_fed* — Fed policymakers divided over rate-hike logic in September, minutes show - Reuters
   - `07 Oct 23:06` *gnews_fed* — Fed policymakers divided over rate-hike logic in September, minutes show - The Korea Times
 
+**The Fed was unanimous about raising rates in September. Economic signals have since changed. - Yahoo Finance**
+`07 Oct 23:48 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_fed
+
+The Fed was unanimous about raising rates in September. Economic signals have since changed. Yahoo Finance
+
 **Fed Officials Expect to Hike Rates Again Before the Year Ends. Odds of it Happening in October Remain Low. - International Business Times**
 `07 Oct 23:47 PKT` · pehli baar dekhi `08 Oct 02:20` · gnews_fed
 
@@ -701,6 +706,11 @@ The US Dollar (USD) has resumed its uptrend, advancing to two-day highs while ra
 `07 Oct 23:39 PKT` · pehli baar dekhi `08 Oct 02:20` · gnews_fed
 
 Fed officials feared inflation pressures could spread, minutes show Axios
+
+**Most FOMC Participants See Another Rate Increase Likely in 2026, Fed Minutes Show - Yahoo Finance**
+`07 Oct 23:38 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_fed
+
+Most FOMC Participants See Another Rate Increase Likely in 2026, Fed Minutes Show Yahoo Finance
 
 **China: Targeted stimulus supports growth – Societe Generale**
 `07 Oct 23:36 PKT` · pehli baar dekhi `08 Oct 02:20` · fxstreet_news
@@ -743,10 +753,11 @@ FOMC minutes show the Fed ready to hike again in 2026 as AI buildout replaces ta
 
 Standard Chartered economist Tim Leelahaphan expects the Bank of Thailand (BoT) to keep its policy rate at 1.0% through 2026 and 2027, with the BoT prioritising economic growth over inflation. He highlights asymmetric risks around this on-hold call, noting that any hikes would likely be gradual while cuts could be faster if domestic growth slows sharply.
 
-**The Fed Is Embarking on a Rate-Hike Cycle. History Says This Is How the Market Will React. - The Motley Fool**
-`07 Oct 22:25 PKT` · pehli baar dekhi `08 Oct 02:20` · gnews_fed
+**The Fed Is Embarking on a Rate-Hike Cycle. History Says This Is How the Market Will React. - Yahoo Finance**
+`07 Oct 22:43 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_fed · **2 feeds mein**
 
-The Fed Is Embarking on a Rate-Hike Cycle. History Says This Is How the Market Will React. The Motley Fool
+The Fed Is Embarking on a Rate-Hike Cycle. History Says This Is How the Market Will React. Yahoo Finance
+  - `07 Oct 22:25` *gnews_fed* — The Fed Is Embarking on a Rate-Hike Cycle. History Says This Is How the Market Will React. - The Motley Fool
 
 **The US treasury sells $39 billion of 10 year notes at a high yield of 5.300% versus WI level of 5.317%**
 `07 Oct 22:03 PKT` · pehli baar dekhi `08 Oct 02:20` · investinglive
@@ -978,9 +989,10 @@ The Treasury market looks like it's determined to find the breaking point for ri
 Standard Chartered economist Dan Pan analyses which US Nonfarm Payrolls (NFP) months provide the most reliable initial signals of labour-market conditions.
 
 **NY Fed September survey finds public expecting more near-term inflation - Kitco**
-`07 Oct 17:23 PKT` · pehli baar dekhi `07 Oct 21:13` · kitco_general
+`07 Oct 17:23 PKT` · pehli baar dekhi `07 Oct 21:13` · kitco_general · **2 feeds mein**
 
 NY Fed September survey finds public expecting more near-term inflation Kitco
+  - `07 Oct 20:01` *gnews_fed* — NY Fed September survey finds public expecting more near-term inflation - Reuters
 
 **Dollar gains as oil climbs and investors focus on the Fed - Kitco**
 `07 Oct 17:15 PKT` · pehli baar dekhi `07 Oct 21:13` · kitco_general · **2 feeds mein**
@@ -1403,6 +1415,11 @@ ECB Accounts 8 October 2026: What to Watch for EUR/USD Admirals
 
 There have been many cases of top spies giving classified information to enemy nations. Here are some of the highlights.
 
+**France's Borrowing Crisis Is Serious, but ECB Intervention Is Not Needed, Bank Chief Says - Tekedia**
+`07 Oct 19:28 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_centralbanks
+
+France's Borrowing Crisis Is Serious, but ECB Intervention Is Not Needed, Bank Chief Says Tekedia
+
 **French Debt Weighs on the Euro**
 `07 Oct 19:27 PKT` · pehli baar dekhi `07 Oct 21:13` · actionforex
 
@@ -1419,15 +1436,22 @@ Markets It&#8217;s back to square one for French bonds and the euro. Both asset 
 Brown Brothers Harriman's (BBH) Elias Haddad notes the US Dollar (USD) is stronger against major currencies, with the Euro (EUR) lagging as French and Italian bonds lead a renewed global bond sell-off.
 
 **EUR/USD Eyes 1.1175 as Dollar Strength Outweighs France's Debt Fears - FXEmpire**
-`07 Oct 19:06 PKT` · pehli baar dekhi `07 Oct 21:13` · gnews_centralbanks
+`07 Oct 19:06 PKT` · pehli baar dekhi `07 Oct 21:13` · gnews_centralbanks · **2 feeds mein**
 
 EUR/USD Eyes 1.1175 as Dollar Strength Outweighs France's Debt Fears FXEmpire
+  - `07 Oct 19:06` *gnews_centralbanks* — EUR/USD Eyes 1.1175 as Dollar Strength Outweighs France's Debt Fears - FXEmpire
 
 **Euro: Recovery holds as currency softens – BNY**
 `07 Oct 18:45 PKT` · pehli baar dekhi `07 Oct 21:13` · fxstreet_news · **2 feeds mein**
 
 BNY's Geoff Yu argues that the Eurozone recovery remains intact even as the Euro (EUR) weakens. Manufacturing PMIs and business surveys in Germany and across Europe point to strengthening demand, while fiscal stress and a softer European Central Bank (ECB) stance weigh on the currency.
   - `07 Oct 18:45` *gnews_centralbanks* — Euro: Recovery holds as currency softens – BNY - FXStreet
+
+**ECB's Pereira: No second-round inflation effects at present - www.tmgm.com**
+`07 Oct 18:38 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_centralbanks · **2 feeds mein**
+
+ECB's Pereira: No second-round inflation effects at present www.tmgm.com
+  - `07 Oct 16:19` *gnews_centralbanks* — ECB's Pereira: No second-round inflation effects at present - www.tmgm.com
 
 **Hungarian Forint: HUF strength and euro adoption outlook – Societe Generale**
 `07 Oct 18:10 PKT` · pehli baar dekhi `07 Oct 21:13` · fxstreet_news
@@ -1478,11 +1502,6 @@ Intraday bias in EUR/USD remains neutral and more consolidations could be seen a
 
 The Euro (EUR) comes under pressure against its peers again on Wednesday after a relief recovery the previous day. In the European trade, the major currency is down 0.63% at around 1.1188 against the US Dollar.
 
-**ECB's Pereira: No second-round inflation effects at present - www.tmgm.com**
-`07 Oct 16:19 PKT` · pehli baar dekhi `08 Oct 02:20` · gnews_centralbanks
-
-ECB's Pereira: No second-round inflation effects at present www.tmgm.com
-
 **ECB's Dolenc says the ECB is not responsible for fiscal policy - Newsquawk**
 `07 Oct 15:37 PKT` · pehli baar dekhi `07 Oct 21:13` · gnews_centralbanks
 
@@ -1492,6 +1511,21 @@ ECB's Dolenc says the ECB is not responsible for fiscal policy Newsquawk
 `07 Oct 15:25 PKT` · pehli baar dekhi `07 Oct 21:13` · gnews_centralbanks
 
 ECB's Dolenc Says Rate Give Flexibility for Next Decisions Bloomberg.com
+
+**EUR/USD Reverses Yesterday's Bounce as French Debt Weighs - Forextraders.com**
+`07 Oct 15:11 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_centralbanks
+
+EUR/USD Reverses Yesterday's Bounce as French Debt Weighs Forextraders.com
+
+**EUR/GBP falls to 16-month low as the euro slides - Forextraders.com**
+`07 Oct 15:10 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_centralbanks
+
+EUR/GBP falls to 16-month low as the euro slides Forextraders.com
+
+**Sterling scales 16-month highs against euro as French fiscal concerns mount - AOL.ca**
+`07 Oct 15:05 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_centralbanks
+
+Sterling scales 16-month highs against euro as French fiscal concerns mount AOL.ca
 
 **ECB September 2026 Survey: Securities Financing Demand Rises, Derivatives Margins Ease - IndexBox**
 `07 Oct 15:00 PKT` · pehli baar dekhi `07 Oct 21:13` · gnews_centralbanks
@@ -2175,6 +2209,16 @@ World Faces Largest-Ever Oil Supply Disruption on Middle East War, IEA Says Ener
 
 Global fuel stocks are tighter than they have probably ever been. China just imposed a ban on all fuel exports for the month. Russia has had a diesel export ban in place for months. The United States threatened Europe with a diesel export ban unless European countries released some fuel from storage. The current crisis is increasingly about fuels, and everyone is prioritizing their own needs. The topic of resource nationalism is a hot one in energy.
 
+**Global Diesel Crunch Fuels New Wave of Energy Nationalism - Crude Oil Prices Today | OilPrice.com**
+`08 Oct 01:00 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_geopolitics
+
+Global Diesel Crunch Fuels New Wave of Energy Nationalism Crude Oil Prices Today | OilPrice.com
+
+**Crude Prices Fall as EIA Cuts its Crude Demand Forecast - TradingView**
+`08 Oct 00:16 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_geopolitics
+
+Crude Prices Fall as EIA Cuts its Crude Demand Forecast TradingView
+
 **Google Secures 890 MW Of Nuclear Power from Constellation Energy**
 `08 Oct 00:00 PKT` · pehli baar dekhi `08 Oct 02:20` · oilprice
 
@@ -2205,6 +2249,11 @@ The US almost entirely dodged the 2026 hurricane season but a late-year storm ha
 
 Apollo Global Management has submitted a non-binding bid for German energy giant Uniper, joining some of Europe's biggest energy and investment groups in a sale that could value Germany's largest gas importer at around €10 billion ($11.6 billion), Reuters reported. Germany took control of Uniper through a €13.5 billion bailout in 2022 after Russia slashed pipeline gas deliveries and the company was forced to replace contracted Russian supplies at much higher market prices.
 
+**Iran officials reject Trump claim over oil minister's resignation - Iran International**
+`07 Oct 22:26 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_geopolitics
+
+Iran officials reject Trump claim over oil minister's resignation Iran International
+
 **TACO CONFIRMED: Oil Markets Bet Trump Would Chicken Out on Iran. They Won: Bousso - EnergyNow.com**
 `07 Oct 22:17 PKT` · pehli baar dekhi `08 Oct 02:20` · gnews_geopolitics
 
@@ -2214,6 +2263,11 @@ TACO CONFIRMED: Oil Markets Bet Trump Would Chicken Out on Iran. They Won: Bouss
 `07 Oct 22:08 PKT` · pehli baar dekhi `08 Oct 02:20` · gnews_geopolitics
 
 Oil Prices Little Changed for Week as US-Iran Peace Efforts Hold EnergyNow.com
+
+**Iranian Oil Offers to Chinese Buyers Fall as US Blockade Bites, Sources Say - EnergyNow.com**
+`07 Oct 22:07 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_geopolitics
+
+Iranian Oil Offers to Chinese Buyers Fall as US Blockade Bites, Sources Say EnergyNow.com
 
 **Data Centers Are Now Bankrolling Finland's New Power Supply**
 `07 Oct 22:00 PKT` · pehli baar dekhi `08 Oct 02:20` · oilprice
@@ -2231,10 +2285,21 @@ China's turn to Iraqi crude shows growing impact of Iran oil blockade Iran Inter
 Iran's Main Oil and Gas Production and Infrastructure EnergyNow
   - `07 Oct 03:47` *gnews_geopolitics* — Iran's Main Oil and Gas Production and Infrastructure - EnergyNow.com
 
+**Oil Steady as Investors Focus on Hormuz Flows After Peace Talks - EnergyNow.com**
+`07 Oct 21:41 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_geopolitics
+
+Oil Steady as Investors Focus on Hormuz Flows After Peace Talks EnergyNow.com
+
 **SpaceX Seeks Approval for 32-Mile Florida Natural Gas Pipeline**
 `07 Oct 21:30 PKT` · pehli baar dekhi `08 Oct 02:20` · oilprice
 
 SpaceX is seeking approval to build a 32.4-mile natural gas pipeline in Florida that would connect directly to the interstate gas network and supply the company's expanding launch operations at Cape Canaveral. The proposed 16-inch pipeline would run through Brevard County and connect SpaceX operations directly to the Florida Gas Transmission system, giving the company a dedicated source of natural gas as its launch activity increases.
+
+**Has Russia's Fuel Crisis Given Iranian Oil an Opening in Central Asia? - Caspian Post**
+`07 Oct 21:28 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_geopolitics · **2 feeds mein**
+
+Has Russia's Fuel Crisis Given Iranian Oil an Opening in Central Asia? Caspian Post
+  - `07 Oct 11:34` *gnews_geopolitics* — Has Russia's fuel crisis given Iranian oil an opening in Central Asia? - Al Jazeera
 
 **Crude Oil Prices Edge Higher**
 `07 Oct 21:13 PKT` · instaforex
@@ -2400,6 +2465,11 @@ Iran oil turmoil hits Macau logistics as overhead spikes Macau Business
 
 Shell's refining margin for the third quarter has nearly doubled sequentially to hit a record high, which is set to combine with strong trading results and high oil and gas realizations to keep yielding windfall profits for the supermajor. Shell expects its indicative refining margin for the third quarter to have jumped to $42 per barrel, up from $24 per barrel for the second quarter, the UK-based major said on Wednesday in its third quarter 2026 update note ahead of the full results release on ...
 
+**OPEC+ Leaves November Oil Output Targets Unchanged Despite Gulf Supply Disruptions - Arise News**
+`07 Oct 15:37 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_geopolitics
+
+OPEC+ Leaves November Oil Output Targets Unchanged Despite Gulf Supply Disruptions Arise News
+
 **Europe's Fuel Squeeze Is Turning Into a Q3 Windfall for Equinor**
 `07 Oct 15:30 PKT` · pehli baar dekhi `07 Oct 21:13` · oilprice
 
@@ -2437,6 +2507,13 @@ US May Remove Sanctions on Iranian Oil Stranded in Tankers, Bessent Says EnergyN
 `07 Oct 14:38 PKT` · pehli baar dekhi `07 Oct 21:13` · gnews_geopolitics
 
 Oil Prices Rise Amidst Strait of Hormuz Tensions and Asian Market Fluctuations Ratopati
+
+**Oil gains as US storm and Houthi air strikes threaten supply - 95 KQDS**
+`07 Oct 14:35 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_geopolitics · **3 feeds mein**
+
+Oil gains as US storm and Houthi air strikes threaten supply 95 KQDS
+  - `07 Oct 13:03` *gnews_geopolitics* — Oil gains as US storm and Houthi air strikes threaten supply - The Express Tribune
+  - `07 Oct 11:46` *gnews_geopolitics* — Oil gains as US storm and Houthi air strikes threaten supply - Reuters
 
 **QatarEnergy Secures $3 Billion Loan From Chinese Banks as LNG Exports Stall**
 `07 Oct 14:30 PKT` · pehli baar dekhi `07 Oct 21:13` · oilprice
@@ -2478,21 +2555,21 @@ The yield on India's 10-year government security (G-Sec) climbed to around 7.23%
 
 East Oil & Gas Production Company to produce 65 million cubic meters of gas per day Trend News Agency
 
-**Oil gains as US storm and Houthi air strikes threaten supply - The Express Tribune**
-`07 Oct 13:03 PKT` · pehli baar dekhi `07 Oct 21:13` · gnews_geopolitics · **2 feeds mein**
-
-Oil gains as US storm and Houthi air strikes threaten supply The Express Tribune
-  - `07 Oct 11:46` *gnews_geopolitics* — Oil gains as US storm and Houthi air strikes threaten supply - Reuters
-
 **Australia's High Court Blocks Major Coal Mine Expansion Over Emissions**
 `07 Oct 13:00 PKT` · pehli baar dekhi `07 Oct 13:55` · oilprice
 
 Australia's High Court, the highest authority in the country, ruled against the planned expansion of a major coal mine because of its expected effect on emissions. Climate change activists expect the ruling to affect future decisions on hydrocarbon projects in the country. Mach Energy, a local coal miner, planned to expand its Mount Pleasant mine's output and productive life until 2048, doubling production with an additional 406 million tons of coal.
 
 **Oil supply disruptions could persist for years, executives warn - Malaysia Sun**
-`07 Oct 12:40 PKT` · pehli baar dekhi `08 Oct 02:20` · gnews_geopolitics
+`07 Oct 12:40 PKT` · pehli baar dekhi `08 Oct 02:20` · gnews_geopolitics · **2 feeds mein**
 
 Oil supply disruptions could persist for years, executives warn Malaysia Sun
+  - `07 Oct 12:40` *gnews_geopolitics* — Oil supply disruptions could persist for years, executives warn - www.irishsun.com
+
+**Oil falls as Trump predicts Middle East de-escalation - DD News**
+`07 Oct 12:32 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_geopolitics
+
+Oil falls as Trump predicts Middle East de-escalation DD News
 
 **European stock market open: Stocks retreat as oil, yields keep risk appetite in check**
 `07 Oct 12:22 PKT` · pehli baar dekhi `07 Oct 13:55` · investinglive
@@ -2513,11 +2590,6 @@ Oil prices rise again on fresh supply concerns ᐉ News from Fakti.bg - World Fa
 `07 Oct 11:35 PKT` · pehli baar dekhi `07 Oct 13:55` · ing_think
 
 Risk sentiment is improving as equities rise, oil trends lower and volatility eases, but financial conditions remain uneven. Marine Le Pen's fiscal plan may briefly support OATs, but a lack of credibility and the election uncertainty ahead still point to spread widening risks
-
-**Has Russia's fuel crisis given Iranian oil an opening in Central Asia? - Al Jazeera**
-`07 Oct 11:34 PKT` · pehli baar dekhi `07 Oct 13:55` · gnews_geopolitics
-
-Has Russia's fuel crisis given Iranian oil an opening in Central Asia? Al Jazeera
 
 **Chevron, Shell and BP Pull Workers From the Gulf Ahead of Hurricane**
 `07 Oct 11:30 PKT` · pehli baar dekhi `07 Oct 13:55` · oilprice
@@ -2938,6 +3010,11 @@ Market impact: Glamsterdam is a slow-burn catalyst rather than a price trigger. 
 
 Fed Minutes Show Unanimous Support for September Rate Hike as Officials Weigh Another Increase IndexBox
 
+**Another interest rate hike could be coming before the end of year - Scripps News**
+`08 Oct 02:25 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_fed
+
+Another interest rate hike could be coming before the end of year Scripps News
+
 **Fed minutes show most officials expected another rate hike before year's end - News 5 Cleveland WEWS**
 `08 Oct 02:20 PKT` · pehli baar dekhi `08 Oct 06:08` · gnews_fed · **4 feeds mein**
 
@@ -2993,7 +3070,7 @@ Fed Policymakers Think Another Interest Rate Hike Is Likely This Year, Minutes S
 After raising rates in September, some of the central bank's top officials have suggested a further rate rise can wait until December.
 
 **Federal Reserve officials expect another rate hike will be needed this year, according to minutes - Journal-Advocate**
-`07 Oct 23:21 PKT` · pehli baar dekhi `08 Oct 02:20` · gnews_fed · **14 feeds mein**
+`07 Oct 23:21 PKT` · pehli baar dekhi `08 Oct 02:20` · gnews_fed · **15 feeds mein**
 
 Federal Reserve officials expect another rate hike will be needed this year, according to minutes Journal-Advocate
   - `07 Oct 23:20` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - The Times Herald
@@ -3008,6 +3085,7 @@ Federal Reserve officials expect another rate hike will be needed this year, acc
   - `07 Oct 23:05` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - Bozeman Daily Chronicle
   - `07 Oct 23:05` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - Ottumwa Courier
   - `07 Oct 23:05` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - WFMZ.com
+  - `07 Oct 23:05` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - MyNorthwest.com
   - `07 Oct 18:05` *gnews_fed* — Federal Reserve officials expect another rate hike will be needed this year, according to minutes - WJTV
 
 **TradFi News | Fed Minutes Show Hawkish Divide as October Rate-Hike Odds Fall to 19% - Binance**
@@ -3058,6 +3136,16 @@ The Reserve Bank of India (RBI) is set to announce its bi-monthly monetary polic
 
 ### RISK
 
+**How the Iran War Is Disrupting Global Oil and Gas Supply - EnergyNow.com**
+`08 Oct 02:54 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_geopolitics
+
+How the Iran War Is Disrupting Global Oil and Gas Supply EnergyNow.com
+
+**Will US and International Sanctions on Iran be Lifted? - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com**
+`08 Oct 02:53 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_geopolitics
+
+Will US and International Sanctions on Iran be Lifted? - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com
+
 **Houthis Escalate Attacks on Saudi Airports, Killing 3 and Wounding Dozens**
 `08 Oct 02:48 PKT` · pehli baar dekhi `08 Oct 06:08` · wsj_world
 
@@ -3098,6 +3186,11 @@ Ukraine says Russia launched a massive overnight barrage of 130 drones, 48 cruis
 `07 Oct 23:16 PKT` · pehli baar dekhi `08 Oct 02:20` · aljazeera
 
 Three years into Israel's war on Gaza, we examine patterns that echo the Srebrenica genocide in Bosnia and Herzegovina.
+
+**Bessent says energy, borrowing costs to ease after Iran conflict - Iran International**
+`07 Oct 22:50 PKT` · pehli baar dekhi `08 Oct 12:25` · gnews_geopolitics
+
+Bessent says energy, borrowing costs to ease after Iran conflict Iran International
 
 **Trader or Driller? Iran War Exposes Big Oil's Transatlantic Divide: Bousso - EnergyNow**
 `07 Oct 22:05 PKT` · pehli baar dekhi `08 Oct 02:20` · gnews_geopolitics
@@ -3304,7 +3397,7 @@ How the Iran War Oil and Gas Supply Shock Compares with Past Disruptions EnergyN
 
 US EIA hikes oil price forecasts again as Iran war drains global stockpile 1470 & 100.3 WMBD
 
-### BINA TAG (224)
+### BINA TAG (229)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -3340,6 +3433,8 @@ US EIA hikes oil price forecasts again as Iran war drains global stockpile 1470 
 - `08 Oct 01:00` **wsj_world** — Opinion | Most Recycling Is a Waste
 - `08 Oct 00:59` **wsj_world** — Opinion | India's Best Bet to Catch Up With China? Democracy
 - `08 Oct 00:57` **gnews_fed** — The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. - Yahoo Finance
+- `08 Oct 00:57` **gnews_fed** — The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. - The Globe and Mail
+- `08 Oct 00:57` **gnews_fed** — The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. - AOL.com
 - `08 Oct 00:45` **gnews_fed** — The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. - The Motley Fool
 - `08 Oct 00:40` **kitco_general** — Savannah Resource close to second offtake deal for Portugal lithium project - Kitco
 - `08 Oct 00:40` **aljazeera** — Indian opposition leader Rahul Gandhi detained over election chief protest
@@ -3348,6 +3443,8 @@ US EIA hikes oil price forecasts again as Iran war drains global stockpile 1470 
 - `08 Oct 00:25` **gnews_fed** — Federal Reserve signals higher rates as experts weigh market impact - Fox Business
 - `08 Oct 00:16` **gnews_fed** — Trump says Federal Reserve Board would like to see the country do badly - The State
 - `08 Oct 00:16` **gnews_fed** — Trump says Federal Reserve Board would like to see the country do badly - Myrtle Beach Sun News
+- `08 Oct 00:16` **gnews_fed** — Trump says Federal Reserve Board would like to see the country do badly - Merced Sun-Star
+- `08 Oct 00:16` **gnews_fed** — Trump says Federal Reserve Board would like to see the country do badly - Columbus Ledger-Enquirer
 - `08 Oct 00:12` **mw_topstories** — Microsoft and Nvidia are teaming up on a supercharged AI laptop
 - `08 Oct 00:03` **gnews_fed** — Trump says Federal Reserve Board would like to see the country do badly - The Lufkin Daily News
 - `08 Oct 00:00` **kitco_general** — Indonesia plans to impose a moratorium on new plants making partly processed nickel - Kitco
@@ -3423,6 +3520,7 @@ US EIA hikes oil price forecasts again as Iran war drains global stockpile 1470 
 - `07 Oct 17:37` **aljazeera** — UK Greens are wrong – Zionism is not racism
 - `07 Oct 17:37` **investing_commodities** — Georgia arrests man over attempted $700,000 uranium sale
 - `07 Oct 17:33` **aljazeera** — Yes, Zionism is racism
+- `07 Oct 17:31` **gnews_centralbanks** — The four cash ISAs with the best rates battling for your cash - Newswav
 - `07 Oct 17:29` **cointelegraph** — Chasing 100x tokens is game of 'irrational exuberance,' says Polymarket CEO
 - `07 Oct 17:25` **bbc_business** — Royal Mail plans to cut 2,500 jobs
 - `07 Oct 17:12` **kitco_general** — IMF chief warns energy shock, growing debt and AI risks threaten global growth - Kitco
@@ -3549,45 +3647,45 @@ investing_news (15)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 14 | 11 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 8 | 22 | 0 | 0.1 |
-| fxstreet_analysis | OK | 30 | 6 | 0 | 6 | 24 | 0.2 |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
-| marketpulse | OK | 2 | 1 | 0 | 1 | 1 | 0.8 |
+| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 30 | 0 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 7 | 1 | 6 | 23 | 0.2 |
+| actionforex | OK | 20 | 20 | 12 | 8 | 0 | 0.0 |
+| marketpulse | OK | 2 | 1 | 0 | 1 | 1 | 1.1 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 7 | 2 | 5 | 29 | 0.0 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_daily_commentary | OK | 10 | 6 | 0 | 6 | 4 | 0.2 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 27.3 |
-| kitco_general | OK | 41 | 41 | 7 | 34 | 0 | 0.2 |
-| gnews_fed | OK | 100 | 100 | 40 | 60 | 0 | 0.0 |
-| gnews_geopolitics | OK | 90 | 90 | 16 | 74 | 0 | 0.0 |
-| gnews_centralbanks | OK | 44 | 44 | 4 | 40 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 1 | 0 | 1 | 14 | 0.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
-| boe_news | OK | 50 | 5 | 1 | 4 | 45 | 0.1 |
-| boj_whatsnew | OK | 52 | 7 | 1 | 6 | 45 | 0.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.0 |
-| mining_com | OK | 36 | 12 | 1 | 11 | 24 | 0.1 |
-| oilprice | OK | 15 | 15 | 3 | 12 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
-| bbc_business | OK | 54 | 23 | 6 | 17 | 31 | 0.0 |
-| aljazeera | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
+| wsj_economy | OK | 36 | 8 | 1 | 7 | 28 | 0.0 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| cme_daily_commentary | OK | 10 | 6 | 0 | 6 | 4 | 0.5 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 27.5 |
+| kitco_general | OK | 35 | 35 | 0 | 35 | 0 | 0.3 |
+| gnews_fed | OK | 100 | 100 | 31 | 69 | 0 | 0.0 |
+| gnews_geopolitics | OK | 98 | 98 | 34 | 64 | 0 | 0.0 |
+| gnews_centralbanks | OK | 44 | 44 | 15 | 29 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
+| ecb_press | OK | 15 | 2 | 1 | 1 | 13 | 0.1 |
+| boe_news | OK | 50 | 5 | 0 | 5 | 45 | 0.4 |
+| boj_whatsnew | OK | 53 | 8 | 1 | 7 | 45 | 0.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.2 |
+| mining_com | OK | 36 | 12 | 0 | 12 | 24 | 0.3 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| bbc_business | OK | 38 | 24 | 6 | 18 | 14 | 0.0 |
+| aljazeera | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
 | snb_press | OK | 20 | 4 | 0 | 4 | 16 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 27.6 |
-| eia_energy | OK | 14 | 1 | 0 | 1 | 13 | 0.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 1.5 |
-| wsj_world | OK | 72 | 25 | 4 | 21 | 47 | 0.1 |
-| wsj_markets | OK | 61 | 24 | 5 | 19 | 37 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 27.9 |
+| eia_energy | OK | 14 | 1 | 0 | 1 | 13 | 0.7 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 1.8 |
+| wsj_world | OK | 72 | 27 | 2 | 25 | 45 | 0.2 |
+| wsj_markets | OK | 61 | 26 | 1 | 25 | 35 | 0.0 |
+| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 22 | 2 | 20 | 8 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 24 | 2 | 22 | 6 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - yahoo_finance — FAIL, HTTP 404
