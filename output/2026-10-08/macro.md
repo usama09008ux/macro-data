@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 08 Oct 2026
 
-- Banaya gaya: **08 Oct 2026 17:14 PKT**
+- Banaya gaya: **08 Oct 2026 23:52 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
@@ -36,8 +36,8 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| VIX <br>`VIXCLS` | **15.01** | -0.51 | -1.03 | -0.71 | 29 | 2026-10-06 |
-| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.03%** | -0.09 | -0.05 | +0.36 | 50 | 2026-10-06 |
+| VIX <br>`VIXCLS` | **15.08** | +0.07 | -1.26 | -1.38 | 30 | 2026-10-07 |
+| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.09%** | +0.06 | -0.03 | +0.38 | 54 | 2026-10-07 |
 | Financial stress index <br>`STLFSI4` | **-0.47** | +0.341 | +0.3807 | +0.2714 | 75 | 2026-10-02 |
 
 ---
@@ -60,7 +60,7 @@
 | Nonfarm payrolls <br>`PAYEMS` | **159,044k** | +0.02 | +0.31 |  |  | 97 | 2026-09-01 |
 | Unemployment rate <br>`UNRATE` | **4.20%** | +2.44 | -2.33 |  |  | 47 | 2026-09-01 |
 | Average hourly earnings <br>`CES0500000003` | **37.81$** | +0.13 | +3.02 |  |  | 97 | 2026-09-01 |
-| Initial jobless claims <br>`ICSA` | **197,000** |  |  | -1000.0 | -10000.0 | 2 | 2026-09-26 |
+| Initial jobless claims <br>`ICSA` | **197,000** |  |  | -2000.0 | -10000.0 | 2 | 2026-10-03 |
 
 ---
 
