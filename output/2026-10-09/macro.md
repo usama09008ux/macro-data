@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 09 Oct 2026
 
-- Banaya gaya: **09 Oct 2026 17:06 PKT**
+- Banaya gaya: **09 Oct 2026 23:22 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
@@ -36,8 +36,8 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| VIX <br>`VIXCLS` | **15.08** | +0.07 | -1.26 | -1.38 | 30 | 2026-10-07 |
-| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.09%** | +0.06 | -0.03 | +0.38 | 54 | 2026-10-07 |
+| VIX <br>`VIXCLS` | **15.41** | +0.33 | -0.98 | -2.43 | 35 | 2026-10-08 |
+| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.15%** | +0.06 | -0.09 | +0.45 | 62 | 2026-10-08 |
 | Financial stress index <br>`STLFSI4` | **-0.47** | +0.341 | +0.3807 | +0.2714 | 75 | 2026-10-02 |
 
 ---
