@@ -1,6 +1,6 @@
 # Calendar — Trading Day 09 Oct 2026
 
-- Banaya gaya: **09 Oct 2026 07:31 PKT**
+- Banaya gaya: **09 Oct 2026 17:00 PKT**
 - Trading day: **09 Oct 03:00 -> 10 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,10 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 11:00 | JPY | low | Prelim Machine Tool Orders y/y | - | 64.7% |
-| 12:00 | CHF | low | SECO Consumer Climate | -32 | -33 |
-| 13:00 | EUR | low | Italian Industrial Production m/m | 0.0% | 0.7% |
-| 14:15 | EUR | low | ECOFIN Meetings | - | - |
 | 17:30 | CAD | **HIGH** | Employment Change | 6.1K | -41.7K |
 | 17:30 | CAD | **HIGH** | Unemployment Rate | 6.5% | 6.4% |
 | 19:00 | USD | MED | Prelim UoM Consumer Sentiment | 47.5 | 47.8 |
