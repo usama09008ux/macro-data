@@ -1,6 +1,6 @@
 # Calendar — Trading Day 09 Oct 2026
 
-- Banaya gaya: **09 Oct 2026 17:00 PKT**
+- Banaya gaya: **09 Oct 2026 22:45 PKT**
 - Trading day: **09 Oct 03:00 -> 10 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,16 +12,9 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 17:30 | CAD | **HIGH** | Employment Change | 6.1K | -41.7K |
-| 17:30 | CAD | **HIGH** | Unemployment Rate | 6.5% | 6.4% |
-| 19:00 | USD | MED | Prelim UoM Consumer Sentiment | 47.5 | 47.8 |
-| 19:00 | USD | MED | Prelim UoM Inflation Expectations | - | 4.6% |
 | **10 Oct** 01:00 | USD | low | FOMC Member Collins Speaks | - | - |
 
-**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
-
-- `09 Oct 17:30` **CAD Employment Change**
-- `09 Oct 17:30` **CAD Unemployment Rate**
+*Agle 24 ghante mein koi HIGH impact event nahi.*
 
 ---
 
@@ -35,5 +28,9 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 09 Oct 17:30 | Canada September employment change | -68.3K | +9.2K | -77.5K | **RUKH PALAT GAYA** |
 

@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "09 Oct 2026 17:00",
+  "generated_pkt": "09 Oct 2026 22:45",
   "trading_day": "2026-10-09",
   "feed_sources": {
     "thisweek": "live"
@@ -1085,5 +1085,23 @@
       "trading_day": "2026-10-09"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "Canada September employment change -68.3K vs +9.2K expected",
+      "actual_raw": "-68.3K",
+      "forecast_raw": "+9.2K",
+      "beat": false,
+      "raw_diff": "-77.5K",
+      "sign_flip": true,
+      "diff_pct": null,
+      "when_pkt": "09 Oct 17:30",
+      "source": "investinglive",
+      "tags": [
+        "cad",
+        "gold",
+        "risk",
+        "usd"
+      ]
+    }
+  ]
 }
