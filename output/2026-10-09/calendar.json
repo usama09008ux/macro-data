@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "09 Oct 2026 22:45",
+  "generated_pkt": "10 Oct 2026 02:24",
   "trading_day": "2026-10-09",
   "feed_sources": {
     "thisweek": "live"
@@ -1101,6 +1101,22 @@
         "gold",
         "risk",
         "usd"
+      ]
+    },
+    {
+      "title": "US October UMich prelim consumer sentiment 46.3 vs 47.8 expected",
+      "actual_raw": "46.3",
+      "forecast_raw": "47.8",
+      "beat": false,
+      "raw_diff": "-1.50",
+      "sign_flip": false,
+      "diff_pct": -3.1,
+      "when_pkt": "09 Oct 19:00",
+      "source": "investinglive",
+      "tags": [
+        "usd",
+        "oil",
+        "risk"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # Calendar — Trading Day 09 Oct 2026
 
-- Banaya gaya: **09 Oct 2026 22:45 PKT**
+- Banaya gaya: **10 Oct 2026 02:24 PKT**
 - Trading day: **09 Oct 03:00 -> 10 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -10,11 +10,7 @@
 
 ## Aane wale 24 ghante
 
-| Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
-|---|---|---|---|---|---|
-| **10 Oct** 01:00 | USD | low | FOMC Member Collins Speaks | - | - |
-
-*Agle 24 ghante mein koi HIGH impact event nahi.*
+*Agle 24 ghante mein kuch nahi.*
 
 ---
 
@@ -32,5 +28,6 @@
 
 | Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
 |---|---|---|---|---|---|
+| 09 Oct 19:00 | US October UMich prelim consumer sentiment | 46.3 | 47.8 | -1.50 (-3%) | neeche |
 | 09 Oct 17:30 | Canada September employment change | -68.3K | +9.2K | -77.5K | **RUKH PALAT GAYA** |
 
