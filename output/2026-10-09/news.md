@@ -1,8 +1,8 @@
 # News Pack — Trading Day 09 Oct 2026
 
 - Trading day: **09 Oct 03:00 -> 10 Oct 02:59 PKT**
-- Aakhri update: **09 Oct 18:46 PKT**
-- Kul khabrein: **489**
+- Aakhri update: **10 Oct 00:04 PKT**
+- Kul khabrein: **750**
 - Feeds: 37/39 OK
 
 ---
@@ -28,6 +28,26 @@ The Cross-Market Operational Resilience Group (CMORG) yesterday (8 October 2026)
 ## Khabrein
 
 ### MARKET WRAP
+
+**TSX Rises on BoC Rate-Hold Expectations**
+`10 Oct 00:13 PKT` · pehli baar dekhi `10 Oct 00:04` · instaforex
+
+The S&P/TSX Composite Index climbed about 1% to near 35,500 on Friday, as weaker labor market data strengthened expectations that the Bank of Canada will hold off on further rate hikes. Employment fell by 68,300, sharply missing forecasts for a 7,000 increase, while the unemployment rate ticked up 0.1 percentage point to 6.5%, in line with expectations. Canadian government bond yields declined and oil prices eased from recent highs, providing support for interest rate–sensitive sectors.
+
+**Week Ahead - Oct 12th**
+`10 Oct 00:04 PKT` · instaforex
+
+Markets will remain focused on developments in negotiations and the risk of further escalatory strikes involving Iran, the US, and Gulf nations, as elevated energy-driven inflation continues to keep global bond yields near multi‑decade highs. Equity performance will be heavily influenced by the latest round of corporate earnings, with key releases due from TSMC, ASML, JPMorgan Chase, Bank of America, Citigroup, Johnson & Johnson, LVMH, and UnitedHealth.
+
+**FTSE 100 Closes at Over 1-Week High**
+`10 Oct 00:04 PKT` · instaforex
+
+The UK's FTSE 100 extended gains on Friday, closing up about 1.1% at 10,560, its highest level since September 30 and ending a two-day losing streak. Market sentiment improved as oil prices retreated, easing pressure on bond yields, after Trump signaled a pause in potential US military action against Iran ahead of next month's midterm elections and described ongoing talks as "productive".
+
+**Week Ahead – US CPI, France's Budget Crisis and Q3 Earnings to Set the Market Tone**
+`09 Oct 20:02 PKT` · pehli baar dekhi `10 Oct 00:04` · actionforex
+
+US CPI and retail sales will shape Fed hike expectations. France&#8217;s fiscal crisis adds pressure on the euro and ECB. Australian jobs figures and UK data to test RBA and BoE hike bets. IMF-World Bank meetings and Q3 bank earnings may enhance volatility. Dollar Flexes Muscles Despite October Hike Fading The US dollar held relatively [&#8230;] The post Week Ahead – US CPI, France&#8217;s Budget Crisis and Q3 Earnings to Set the Market Tone appeared first on ActionForex.
 
 **Gold Rises on Softer Dollar and Cooling Oil**
 `09 Oct 18:46 PKT` · instaforex
@@ -136,6 +156,34 @@ The Aussie Dollar dives 0.11% on Thursday as the US Dollar retreats from monthly
 
 ### GOLD
 
+**Eldorado Gold's Skouries mine designated EU strategic project**
+`09 Oct 23:40 PKT` · pehli baar dekhi `10 Oct 00:04` · investing_news
+
+**Gold reclaims $4,200 as weak US sentiment revives bullion demand**
+`09 Oct 23:04 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
+
+Gold (XAU/USD) price advances more than 1.40% on Friday, capitaliszng on a dip in US Treasury yields and a softer Greenback, as recent US data suggests households are becoming pessimistic about the economy, while investors seem confident that the Federal Reserve (Fed) will stay pat on rates.
+
+**McEwen's $55M Ontario asset sale fuels gold growth plans**
+`09 Oct 20:45 PKT` · pehli baar dekhi `10 Oct 00:04` · mining_com
+
+Discovery Mining will acquire two Timmins-area properties as McEwen redirects capital toward its expanding mine portfolio.
+
+**Gold Weekly Forecast: Precious metal finds support but upside potential remains limited**
+`09 Oct 20:04 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_analysis
+
+After bearish action seen in the first half of the week, Gold (XAU/USD) staged a recovery to end the week marginally higher. September inflation data from the United States (US) and headlines surrounding the Middle East conflict could drive the precious metal's action in the near term.
+
+**World Gold Council urges miners to name refiners**
+`09 Oct 19:06 PKT` · pehli baar dekhi `10 Oct 00:04` · mining_com
+
+The framework follows a September 2023 commitment by Council members to disclose their refining partners.
+
+**Gold: Short covering signals renewed bullish momentum - TD Securities**
+`09 Oct 18:58 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
+
+TD Securities' Ryan McKay and Bart Melek highlight that CTAs (Commodity Trading Advisors) are covering Gold shorts, with positioning rising by around 7% of maximum historical size. They note renewed inflows into Chinese Gold ETFs after the holiday and continued global ETF demand.
+
 **Gold, silver rebound as dollar, yields and oil ease - Kitco AM Report - Kitco**
 `09 Oct 18:25 PKT` · pehli baar dekhi `09 Oct 18:46` · kitco_general
 
@@ -150,6 +198,11 @@ Gold adds over 1% on easing oil prices, softer dollar Kitco
 `09 Oct 16:50 PKT` · pehli baar dekhi `09 Oct 18:46` · kitco_general
 
 TSX futures edge higher ahead of jobs data as gold prices rise, oil eases Kitco
+
+**Gold price trades near high after preliminary Consumer Sentiment falls to 46.3, inflation expectations rise - Kitco**
+`09 Oct 16:01 PKT` · pehli baar dekhi `10 Oct 00:04` · kitco_general
+
+Gold price trades near high after preliminary Consumer Sentiment falls to 46.3, inflation expectations rise Kitco
 
 **Gold recovery stalls near $4,200 as US Dollar, Treasury yields stabilise**
 `09 Oct 16:00 PKT` · pehli baar dekhi `09 Oct 18:46` · fxstreet_news
@@ -228,6 +281,203 @@ Gold price (XAU/USD) edges higher to around $4,140 during the early Asian sessio
 
 ### USD
 
+**US Year-Ahead Inflation Expectations Hits 5-Month High**
+`10 Oct 00:07 PKT` · pehli baar dekhi `10 Oct 00:04` · instaforex
+
+Year-ahead inflation expectations in the US, as measured by the University of Michigan Surveys of Consumers, rose for a second consecutive month in October 2026, reaching 4.7%. This marked the highest reading since May and was unchanged from the revised 4.7% recorded in September, according to a preliminary estimate. At the same time, the five-year inflation outlook also increased for the second straight month, climbing to 3.5% in October from 3.4% in September—its highest level since May.
+
+**US Consumer Sentiment Falls to Five-Month Low**
+`10 Oct 00:05 PKT` · pehli baar dekhi `10 Oct 00:04` · instaforex
+
+The University of Michigan's consumer sentiment index slipped to 46.3 in early October 2026, according to the preliminary reading, marking its lowest level since May's record low and coming in below market forecasts of 47.6. Although year-ahead expectations for personal finances and business conditions improved slightly, assessments of buying conditions for durable goods worsened sharply, weighed down by elevated prices and higher borrowing costs.
+
+**US October 5-Year Inflation Expectations Edge Higher to 3.5%**
+`10 Oct 00:00 PKT` · pehli baar dekhi `10 Oct 00:04` · instaforex
+
+Five-year inflation expectations in the United States ticked up in October 2026, signaling a slight increase in long-term price pressures as captured by the latest Michigan survey data. According to the October reading, released on 9 October 2026, US 5-year inflation expectations rose to 3.5%, up from 3.4% in September 2026.
+
+**U.S. Michigan 1-Year Inflation Expectations Edge Up to 4.7% in October**
+`10 Oct 00:00 PKT` · pehli baar dekhi `10 Oct 00:04` · instaforex
+
+U.S. consumers' short-term inflation expectations ticked higher in October 2026, according to the latest Michigan 1-Year Inflation Expectations data. The indicator rose to 4.7% in October from 4.6% in September 2026. The slight increase signals that households continue to anticipate elevated price pressures over the coming year, with expectations remaining well above levels typical of a low-inflation environment.
+
+**September CPI should be in line, and last month's Fed rate hike may be the only one this cycle - Natixis - Kitco**
+`09 Oct 23:56 PKT` · pehli baar dekhi `10 Oct 00:04` · kitco_general
+
+September CPI should be in line, and last month's Fed rate hike may be the only one this cycle - Natixis Kitco
+
+**Ringkjøbing Landbobank launches DKK 400m share buyback**
+`09 Oct 23:44 PKT` · pehli baar dekhi `10 Oct 00:04` · investing_news
+
+**Canada 10-Year Yield Retreats as Employment Declines**
+`09 Oct 23:43 PKT` · pehli baar dekhi `10 Oct 00:04` · instaforex
+
+Canada's 10-year government bond yield eased to around 3.9% after briefly topping 4% on October 1st, its highest level in three years. The pullback followed weaker-than-expected labour market data, which strengthened expectations that the Bank of Canada will keep interest rates on hold. Total employment declined by 68,000, sharply missing forecasts for a 7,000 increase, while the unemployment rate inched up 0.1 percentage point to 6.5%, in line with projections.
+
+**Ibovespa Rises Following Election Runoff Polls**
+`09 Oct 23:41 PKT` · pehli baar dekhi `10 Oct 00:04` · instaforex
+
+The Ibovespa climbed about 1% to approach 208,000 points on Friday, after the release of the first polls for the presidential runoff. A Datafolha survey showed Senator Flávio Bolsonaro with 49% of voting intentions versus 45% for President Lula, a technical tie at the upper limit of the poll's two-percentage-point margin of error. An Atlas/Bloomberg poll, however, put Flávio ahead with 51.1% against 45.7% for Lula, breaking the statistical deadlock seen in the previous runoff survey.
+
+**Emat stock hits 52-week low at 1.67 USD**
+`09 Oct 23:40 PKT` · pehli baar dekhi `10 Oct 00:04` · investing_news
+
+**Trump forms committee to investigate Fed Gov. Lisa Cook - upi**
+`09 Oct 23:39 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Trump forms committee to investigate Fed Gov. Lisa Cook upi
+
+**President Trump has formed a committee to evaluate the mortgage-fraud allegations made against Fed governor Lisa Cook**
+`09 Oct 23:28 PKT` · pehli baar dekhi `10 Oct 00:04` · wsj_economy
+
+The move signaled a renewed effort to fire the Biden-appointed Fed governor as part of the president's desire to wield more control over the central bank.
+
+**Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next? - CNBC**
+`09 Oct 23:20 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next? CNBC
+
+**Trump appoints committee to revive quest to remove Lisa Cook from Fed board - News From The States**
+`09 Oct 22:59 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Trump appoints committee to revive quest to remove Lisa Cook from Fed board News From The States
+
+**Trump renews bid to fire Fed's Cook with fresh White House inquiry - Reuters**
+`09 Oct 22:51 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Trump renews bid to fire Fed's Cook with fresh White House inquiry Reuters
+
+**Trump ramps up battle to fire Fed's Lisa Cook. Her lawyers say there's no basis to remove her.**
+`09 Oct 22:50 PKT` · pehli baar dekhi `10 Oct 00:04` · mw_topstories
+
+Trump wants the committee to report on whether there are grounds for Cook's removal from office. She hasn't been charged with a crime.
+
+**Trump orders new investigation of Fed's Lisa Cook - Axios**
+`09 Oct 22:48 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Trump orders new investigation of Fed's Lisa Cook Axios
+
+**Trump to hold inquiry into Fed's Lisa Cook at White House - Virginia Business**
+`09 Oct 22:47 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Trump to hold inquiry into Fed's Lisa Cook at White House Virginia Business
+
+**Fed says household income, wealth, debt stress increased from 2022 to 2025 - Kitco**
+`09 Oct 22:43 PKT` · pehli baar dekhi `10 Oct 00:04` · kitco_general · **2 feeds mein**
+
+Fed says household income, wealth, debt stress increased from 2022 to 2025 Kitco
+  - `09 Oct 21:31` *gnews_fed* — Fed says household income, wealth, debt stress increased from 2022 to 2025 - Reuters
+
+**Asia FX: Trade negotiations and resilient macro backdrop – MUFG**
+`09 Oct 22:02 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
+
+MUFG's Michael Wan highlights a mixed global backdrop for Asian currencies, with US Treasuries rallying and the US Dollar (USD) somewhat weaker, while tech stocks decline. He notes resilient Asia macro data, including strong Taiwan exports and South Korea's current account.
+
+**Trump sets up committee to investigate Fed Governor Lisa Cook over mortgage fraud allegations - Fox News**
+`09 Oct 21:44 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Trump sets up committee to investigate Fed Governor Lisa Cook over mortgage fraud allegations Fox News
+
+**Americans 75 and older are wealthiest age group, Fed survey finds - Magnolia Tribune**
+`09 Oct 21:42 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Americans 75 and older are wealthiest age group, Fed survey finds Magnolia Tribune
+
+**US Dollar strengthens as Fed rate hike fears grow**
+`09 Oct 21:39 PKT` · pehli baar dekhi `10 Oct 00:04` · marketpulse
+
+The US dollar remains resilient despite weakening consumer sentiment and growing concerns about the US economic outlook. Rising inflation expectations, elevated Treasury yields, and expectations of further Federal Reserve interest rate hikes continue to support the USD. Explore the latest economic data, changing Fed policy expectations, geopolitical risks, and what these developments could mean for the USD in the coming weeks.
+
+**Singapore: Policy slope tightening view – DBS**
+`09 Oct 21:36 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
+
+DBS Group Research expects the Monetary Authority of Singapore to slightly increase the SGD NEER policy band slope at the October review, while keeping the width and centre unchanged. The team, led by Taimur Baig, anticipates calibrated tightening driven by import cost pressures and resilient growth, alongside strong Q3 2026 GDP supported by AI-led trade and financial sector strength.
+
+**Trump sets up committee to investigate, potentially remove the Fed's Lisa Cook - Politico**
+`09 Oct 21:21 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Trump sets up committee to investigate, potentially remove the Fed's Lisa Cook Politico
+
+**Trump launches probe into Federal Reserve Governor Lisa Cook**
+`09 Oct 21:01 PKT` · pehli baar dekhi `10 Oct 00:04` · aljazeera
+
+Trump began efforts to remove Cook as one of the governors on the US Fed Reserve Board in 2025 and litigation is on.
+
+**Trump establishes committee to investigate Fed governor Lisa Cook - The Guardian**
+`09 Oct 20:39 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Trump establishes committee to investigate Fed governor Lisa Cook The Guardian
+
+**Trump intensifies campaign against Fed's Lisa Cook, establishes new inquiry panel - MS NOW**
+`09 Oct 20:34 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Trump intensifies campaign against Fed's Lisa Cook, establishes new inquiry panel MS NOW
+
+**Trump Creates Committee to Probe Fed Reserve Governor Lisa Cook for Mortgage Fraud - Mediaite**
+`09 Oct 20:32 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Trump Creates Committee to Probe Fed Reserve Governor Lisa Cook for Mortgage Fraud Mediaite
+
+**Fed's Cook lawyers say hearing will show no mortgage fraud case - Reuters**
+`09 Oct 20:13 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Fed's Cook lawyers say hearing will show no mortgage fraud case Reuters
+
+**Trump establishes panel to probe Fed governor Lisa Cook in latest attempt to fire her - NBC News**
+`09 Oct 20:00 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Trump establishes panel to probe Fed governor Lisa Cook in latest attempt to fire her NBC News
+
+**The Dollar Has Lost Momentum After a Four-Week Rally**
+`09 Oct 19:58 PKT` · pehli baar dekhi `10 Oct 00:04` · actionforex
+
+Verbal interventions by the ECB and promises from Donald Trump have put the brakes on the greenback. Falling Treasury yields and oil prices have pushed the USD index down from its recent highs. The US dollar retreated from recent highs against a backdrop of falling Treasury yields and oil prices. The return of funds to [&#8230;] The post The Dollar Has Lost Momentum After a Four-Week Rally appeared first on ActionForex.
+
+**Poland: Inflation outlook stabilises – ING**
+`09 Oct 19:40 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
+
+ING economists Adam Antoniak and David Havrlant expect Poland's final September CPI, due Wednesday, to confirm headline inflation at 4% year-on-year, with core inflation easing and price growth concentrated in fuels and related services. They note improved short-term inflation prospects thanks to renewed cuts in fuel excise duty and VAT, and project headline CPI in a 3.5–4.0% range by year-end.
+
+**Trump Announces White House Inquiry Into Fed Governor Cook - The New York Times**
+`09 Oct 19:34 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Trump Announces White House Inquiry Into Fed Governor Cook The New York Times
+
+**Trump establishes committee to investigate Fed Governor Lisa Cook's mortgage fraud statements - New York Post**
+`09 Oct 19:30 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Trump establishes committee to investigate Fed Governor Lisa Cook's mortgage fraud statements New York Post
+
+**Trump launches new effort to oust Fed Governor Lisa Cook - CNN**
+`09 Oct 19:26 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Trump launches new effort to oust Fed Governor Lisa Cook CNN
+
+**US UoM Consumer Confidence Weakens as Inflation Expectations Climb for Second Month**
+`09 Oct 19:06 PKT` · pehli baar dekhi `10 Oct 00:04` · actionforex
+
+US consumer sentiment weakened in October, with the University of Michigan index falling from 48.1 to 46.3 in the preliminary reading. The deterioration was concentrated in how households viewed present conditions: the Current Economic Conditions index dropped from 50.9 to 44.7, while the Consumer Expectations index actually improved from 46.3 to 47.3.
+
+**Trump appoints committee to investigate statements by the Fed's Lisa Cook - CNBC**
+`09 Oct 19:04 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Trump appoints committee to investigate statements by the Fed's Lisa Cook CNBC
+
+**Trump's Fed ex-nominee Shelton to advise Bessent, Treasury says - Kitco**
+`09 Oct 19:03 PKT` · pehli baar dekhi `10 Oct 00:04` · kitco_general
+
+Trump's Fed ex-nominee Shelton to advise Bessent, Treasury says Kitco
+
+**US October UMich prelim consumer sentiment 46.3 vs 47.8 expected**
+`09 Oct 19:00 PKT` · pehli baar dekhi `10 Oct 00:04` · investinglive
+
+Prior was 48.1 Current conditions 44.7 vs 51.0 exp Expectations 47.3 vs 45.5 exp One-year inflation 4.7% vs 4.6% prior Five-year inflation 3.5% vs 3.4% prior This report used to be a market mover and fooled the Fed into hiking in the last cycle but it's increasingly unreliable and more a measure of the political mood in the US than anything. That said, the inflation expectations numbers are still worth watching, even if they're mostly a read on gasoline prices.
+
+**Bessent taps former Trump Fed pick Shelton to advise on China - Politico**
+`09 Oct 18:51 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Bessent taps former Trump Fed pick Shelton to advise on China Politico
+
 **US Futures Rebound**
 `09 Oct 18:46 PKT` · instaforex
 
@@ -281,6 +531,11 @@ Ukraine's consumer inflation accelerated markedly in September 2026, with the ye
 
 **Fortinet stock hits all-time high at 192.55 USD**
 `09 Oct 18:35 PKT` · pehli baar dekhi `09 Oct 18:46` · investing_news
+
+**United States: Core CPI trend seen moderating – TD Securities**
+`09 Oct 17:56 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
+
+TD Securities' US economics team led by Oscar Munoz, with Eli Nir, Gennadiy Goldberg and Molly Brooks, expects September Core CPI to slow to 0.20% month-on-month, driven by softer core services and supercore.
 
 **Norwegian Krone: Rate hike risks support currency – BBH**
 `09 Oct 17:40 PKT` · pehli baar dekhi `09 Oct 18:46` · fxstreet_news
@@ -452,6 +707,11 @@ The Indian Rupee (INR) opens slightly higher against the US Dollar (USD) on Frid
 
 Why Hong Kong could feel little impact from possible US dollar funding curbs South China Morning Post
 
+**Global Market: Wall Street in focus as US jobless claims ease amid Fed rate uncertainty - The Economic Times**
+`09 Oct 09:06 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
+
+Global Market: Wall Street in focus as US jobless claims ease amid Fed rate uncertainty The Economic Times
+
 **Gold rises on softer dollar, easing yields; Fed outlook in focus - CNBC**
 `09 Oct 08:27 PKT` · pehli baar dekhi `09 Oct 11:36` · gnews_fed · **5 feeds mein**
 
@@ -539,6 +799,11 @@ Fed's Musalem Sees Potential Rate Hikes Within Six to Nine Months www.tokenpost.
 
 Not too big, not too small: The just-right Fed balance sheet Marketplace.org
 
+**OCC, Fed Tag AMEX with $350 Million Penalty - ACAMS**
+`09 Oct 03:32 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+OCC, Fed Tag AMEX with $350 Million Penalty ACAMS
+
 **Navarro at Newsmax Policy Summit: Fed Rate Hike Was Political - Newsmax**
 `09 Oct 03:27 PKT` · pehli baar dekhi `09 Oct 18:46` · gnews_fed
 
@@ -561,6 +826,71 @@ Fed Will Take Its Time Delivering Rate Hikes Political Wire
 
 ### EUR
 
+**European stocks finish higher Friday, but most post weekly declines**
+`09 Oct 21:44 PKT` · pehli baar dekhi `10 Oct 00:04` · investinglive
+
+As London/European traders head home for the weekend, the major European indices are closing higher on the day. However, Friday's gains were not enough to erase the weekly declines for most of the markets. Italy's FTSE MIB and France's CAC led the losses, while the UK's FTSE 100 bucked the trend. The closing levels and changes for Friday showed: Germany's DAX: 25,087.28, up 280.30 points or 1.13%. France's CAC: 7,803.34, up 73.64 points or 0.95%.
+
+**ECB price stability policy weighs on euro to Thai baht exchange rate near ฿37.3564 support - Traders Union**
+`09 Oct 21:41 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
+
+ECB price stability policy weighs on euro to Thai baht exchange rate near ฿37.3564 support Traders Union
+
+**France: Budget politics and market testing – Rabobank**
+`09 Oct 21:12 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
+
+Rabobank's Senior Economist Maartje Wijffelaars assesses French budget negotiations starting next week in Parliament, noting protests and reluctance for austerity. She highlights Le Pen's preference for a bad budget over none and possible use of Article 49.3.
+
+**CAC 40 Recovers on Softer ECB Rate Outlook - TradingView**
+`09 Oct 21:05 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
+
+CAC 40 Recovers on Softer ECB Rate Outlook TradingView
+
+**Trump forms panel to probe US Fed governor Lisa Cook - France 24**
+`09 Oct 21:01 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+Trump forms panel to probe US Fed governor Lisa Cook France 24
+
+**Week Ahead for FX, Bonds: U.S. Inflation Data in Focus**
+`09 Oct 20:58 PKT` · pehli baar dekhi `10 Oct 00:04` · wsj_economy
+
+Investors will be focused on inflation data from the U.S., eurozone and China as well as U.K. economic growth figures and trade data out of China.
+
+**Euro struggles as French fiscal concerns and firm US Dollar dominate**
+`09 Oct 20:44 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
+
+EUR/USD reverses earlier gains on Friday and remains on track for a fifth consecutive weekly decline as the US Dollar (USD) rebounds from the previous day's pullback. Concerns over France's fiscal outlook also continue to weigh on sentiment toward the Euro (EUR).
+
+**France: Debt risks are mounting**
+`09 Oct 20:27 PKT` · pehli baar dekhi `10 Oct 00:04` · marketpulse
+
+French bond spreads have narrowed, but high debt and resistance to reform continue to undermine confidence. Pressure on Italian bonds signals contagion risks. Stronger banks and ECB intervention tools reduce the likelihood of a repeat sovereign debt crisis, although lasting stability requires a credible French fiscal plan.
+
+**EUR/USD Weekly Forecast: US Dollar persistent demand hints at a test of 1.1000**
+`09 Oct 20:25 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_analysis
+
+The EUR/USD pair maintained its bearish route, edging lower for a fifth consecutive week. The pair traded as low as 1.1161 before trimming some losses, settling on Friday at around 1.1210.
+
+**Why Is a Bank of England Hike 81% Priced When the ECB Is Expected to Hold? - Disruption Banking**
+`09 Oct 19:34 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
+
+Why Is a Bank of England Hike 81% Priced When the ECB Is Expected to Hold? Disruption Banking
+
+**The Euro is not the sick man of Europe. France's bond market is**
+`09 Oct 19:10 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_analysis
+
+EUR/USD remains under pressure, near the 17-month low of 1.1161 reached on Monday. The pair has lost more than 7% since its yearly peak, as concerns over France's public finances increasingly weigh on the single currency.
+
+**European Central Bank: Conditional support and French risks – Rabobank**
+`09 Oct 18:17 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
+
+Rabobank's Senior Economist Maartje Wijffelaars describes widening French spreads and notes 38% of French high-grade corporate debt now yields less than government bonds. She argues most spread widening may be over as France is seen as too big to fail and ECB tools exist. She outlines ECB conditionality for TPI and stresses France's need for a credible budget.
+
+**The British Pound Hit a Level Not Seen in 16 Months as Pressure Builds on the Euro - en.econostrum.info**
+`09 Oct 18:15 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
+
+The British Pound Hit a Level Not Seen in 16 Months as Pressure Builds on the Euro en.econostrum.info
+
 **The ECB will sit on the sidelines during France's debt sell-off - Financial Times**
 `09 Oct 17:39 PKT` · pehli baar dekhi `09 Oct 18:46` · gnews_centralbanks
 
@@ -573,6 +903,11 @@ The ECB will sit on the sidelines during France's debt sell-off Financial Times
 `09 Oct 16:56 PKT` · pehli baar dekhi `09 Oct 18:46` · fxstreet_news
 
 The Euro (EUR) is failing to capitalise on the moderate US Dollar (USD) weakness witnessed on Friday as the high Oil prices and the ongoing concerns about France's public debt offset investors' optimism about lower global yields.
+
+**ECB Strives for Wide Use of Digital Euro From First Issuance - Bloomberg.com**
+`09 Oct 16:56 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
+
+ECB Strives for Wide Use of Digital Euro From First Issuance Bloomberg.com
 
 **Euro: Elusive recovery prospects against US Dollar – ING**
 `09 Oct 16:36 PKT` · pehli baar dekhi `09 Oct 18:46` · fxstreet_news
@@ -657,6 +992,11 @@ Are eurozone bond markets warning of a recession as growth slows? inkl
 
 Ah, here we go again. Just when you think that the bond market is finally starting to hold governments accountable for their fiscal decisions, along comes the ECB with a reminder to everyone that it has tools to come to the rescue. How convenient. ECB president Lagarde remarked yesterday that the central bank has the necessary tools to counter "unwarranted" market dynamics, in what surely is a reference to the ongoing turmoil in European bond markets.
 
+**Luxembourg Leads ECB's 22-Country Median Household Net Wealth Ranking - https://streamlinefeed.co.ke/**
+`09 Oct 09:44 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
+
+Luxembourg Leads ECB's 22-Country Median Household Net Wealth Ranking https://streamlinefeed.co.ke/
+
 **ECB policymakers, accounts dampen near-term rate hike bets - www.stockwatch.com.cy**
 `09 Oct 09:32 PKT` · pehli baar dekhi `09 Oct 11:36` · gnews_centralbanks
 
@@ -689,10 +1029,30 @@ Eurogroup opens race to replace Schnabel on ECB board Brussels Signal
 
 ### GBP
 
+**British Pound holds ground as US Consumer Sentiment deteriorates**
+`09 Oct 21:12 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
+
+The Pound Sterling (GBP) holds firm against the US Dollar (USD) on Friday, which posts modest gains against a basket of six currencies, while US consumers grow pessimistic about the economy as the US-Iran conflict drags on for another week.
+
+**Europe's repo fix: stigma, shrinking cash, and a BOE-sized nudge - Briefs Finance**
+`09 Oct 16:00 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
+
+Europe's repo fix: stigma, shrinking cash, and a BOE-sized nudge Briefs Finance
+
+**London real estate market faces mortgage pressure as swap rates outpace BOE benchmark - Traders Union**
+`09 Oct 14:11 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
+
+London real estate market faces mortgage pressure as swap rates outpace BOE benchmark Traders Union
+
 **British Pound: Mild downside bias against US Dollar - UOB**
 `09 Oct 14:00 PKT` · pehli baar dekhi `09 Oct 18:46` · fxstreet_news
 
 United Overseas Bank's (UOB) Quek Ser Leang and Lee Sue Ann observe that GBP/USD has held modest gains around 1.3230, but recent guidance from the Bank of England on higher-for-longer rates has not translated into a clear bullish trend.
+
+**British Pound extends gains above 209.50 as Yen stays under pressure | FXStreet - شبكة تواصل الإخبارية**
+`09 Oct 13:36 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
+
+British Pound extends gains above 209.50 as Yen stays under pressure | FXStreet شبكة تواصل الإخبارية
 
 **GBP/USD Consolidates as Outlook Remains Mixed**
 `09 Oct 13:36 PKT` · pehli baar dekhi `09 Oct 18:46` · actionforex
@@ -704,6 +1064,11 @@ GBP/USD rose to 1.3237 on Friday. Following a rapid decline, the pound has enter
 
 GBP/USD is still bounded in range trading above 1.3179 and intraday bias stays neutral. Further fall is in favor as long as 1.3310 resistance holds. Below 1.3179 will extend the decline from 1.3675 to 1.3139 support next. However, firm break of 1.3310 will indicate short term bottoming, and turn bias back to the upside for [&#8230;] The post GBP/USD Daily Outlook appeared first on ActionForex.
   - `09 Oct 12:52` *actionforex* — GBP/JPY Daily Outlook
+
+**British Pound: Resilient growth supports more BoE hikes – Commerzbank | FXStreet - شبكة تواصل الإخبارية**
+`09 Oct 11:50 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
+
+British Pound: Resilient growth supports more BoE hikes – Commerzbank | FXStreet شبكة تواصل الإخبارية
 
 **Pound Sterling Rate Support Builds as Bailey Hardens Stance on Inflation - Pound Sterling Live**
 `09 Oct 10:54 PKT` · pehli baar dekhi `09 Oct 18:46` · gnews_centralbanks
@@ -726,6 +1091,21 @@ The GBP/USD pair gathers strength to around 1.3240 during the early Asian tradin
 Bank of England (BoE) external member Greene said in Cape Town that it's dangerous to assume markets will do the BoE's work for it, and that UK pay awards look set for about 3.5% next year. She has voted for a hike at each of the last three meetings.
 
 ### JPY
+
+**Japanese Yen struggles as wide US-Japan yield gap weighs**
+`09 Oct 22:52 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
+
+USD/JPY trades with a positive bias on Friday as the Japanese Yen (JPY) underperforms across the board following a sharp decline in Japanese government bond yields.
+
+**Bank of Japan Weighs Second Rate Hike as Yen Carry Trade Unwinds - 조선일보**
+`09 Oct 21:23 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
+
+Bank of Japan Weighs Second Rate Hike as Yen Carry Trade Unwinds 조선일보
+
+**Japan: Bond outflows reshape global yields - Commerzbank**
+`09 Oct 19:59 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
+
+Commerzbank's Volkmar Baur highlights Japanese investors' net selling of foreign bonds and its implications for global yields. Although Japanese investors have recently returned as buyers of French bonds, their selling of US bonds has provided some support to the euro against the dollar.
 
 **Prudential Financial's Japanese Businesses Get Suspension, Improvement Orders from Regulator After Misconduct**
 `09 Oct 18:20 PKT` · pehli baar dekhi `09 Oct 18:46` · wsj_markets
@@ -756,6 +1136,11 @@ The Japanese Yen (JPY) trades lower against its major currency peers on Friday. 
 `09 Oct 15:04 PKT` · pehli baar dekhi `09 Oct 18:46` · mw_topstories
 
 Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.
+
+**Yen Extends Decline to Lower 158 Range as Rising U.S. Yields Put Japan-U.S. Rate Differential in Focus - BigGo Finance**
+`09 Oct 14:25 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
+
+Yen Extends Decline to Lower 158 Range as Rising U.S. Yields Put Japan-U.S. Rate Differential in Focus BigGo Finance
 
 **Japan's Okinawa calls for review of US forces pact after killing**
 `09 Oct 13:51 PKT` · pehli baar dekhi `09 Oct 18:46` · aljazeera
@@ -857,12 +1242,27 @@ The mixed readings are unlikely to shift Bank of Japan rate expectations decisiv
 **Japanese annual household spending drops for 9 straight months**
 `09 Oct 04:48 PKT` · pehli baar dekhi `09 Oct 05:29` · investing_news
 
+**Tokyo Financial Exchange to Debut Overnight Rate Futures as BOJ Volatility Surges - BigGo Finance**
+`09 Oct 04:25 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
+
+Tokyo Financial Exchange to Debut Overnight Rate Futures as BOJ Volatility Surges BigGo Finance
+
 **Yen gains as Trump rules out Iran strikes before the midterms**
 `09 Oct 04:15 PKT` · pehli baar dekhi `09 Oct 05:29` · fxstreet_news
 
 The 10-year Treasury yield ended near 5.22% after President Trump said on Truth Social that the US won't attack Iran before the midterm elections. It had touched its highest since 2002 on Wednesday.
 
+**Euro's Plunge Reflects Europe's Triple Burden: Structural Challenges Remain for Japan Even as Yen Weakness Eases - BigGo Finance**
+`09 Oct 03:05 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
+
+Euro's Plunge Reflects Europe's Triple Burden: Structural Challenges Remain for Japan Even as Yen Weakness Eases BigGo Finance
+
 ### CHF
+
+**USDCHF is stuck in 50 pip trading range since midday Monday. What does that say to you?**
+`09 Oct 20:03 PKT` · pehli baar dekhi `10 Oct 00:04` · investinglive
+
+The USDCHF has been trading in a range of only about 50 pips since midday Monday. What does that tell me? The market is non-trending. Buyers and sellers are battling, but neither side is taking control. Moves higher find sellers. Moves lower find buyers. The price goes back and forth. The 100- and 200-hour moving averages tell the same story. Those moving averages have converged near 0.8322 and are flattening out.
 
 **Swiss Franc: Range trade bias holds against US Dollar – UOB**
 `09 Oct 15:00 PKT` · pehli baar dekhi `09 Oct 18:46` · fxstreet_news
@@ -893,6 +1293,46 @@ The USD/CHF pair attracts sellers for the second straight day on Friday, extendi
 The index is not a market mover, but it supports the case that wealth flows toward jurisdictions with strong property rights and open capital markets, which favours established hubs such as Switzerland, Singapore and Hong Kong. The finding that capital markets and banking are the weakest pillars globally points to underdeveloped financial systems as a persistent constraint on investment in many economies.
 
 ### CAD
+
+**Canadian Dollar Extends Losses**
+`09 Oct 23:44 PKT` · pehli baar dekhi `10 Oct 00:04` · instaforex
+
+The Canadian dollar weakened slightly to around 1.43 per US dollar in October, extending its decline to a 12‑week low as soft labour market data reinforced expectations that the Bank of Canada will keep interest rates on hold. Employment fell by 68,000, sharply missing forecasts for a 7,000 gain, while the jobless rate edged up 0.1 percentage point to 6.5%, in line with expectations. Additional indicators also signalled a cooling economy.
+
+**Canadian dollar hits 18-month low as jobs data clips rate hike bets - Kitco**
+`09 Oct 22:45 PKT` · pehli baar dekhi `10 Oct 00:04` · kitco_general
+
+Canadian dollar hits 18-month low as jobs data clips rate hike bets Kitco
+
+**What's open and closed in US and Canadian markets on Monday**
+`09 Oct 22:35 PKT` · pehli baar dekhi `10 Oct 00:04` · investinglive
+
+Monday, October 12 brings a split trading session across North America, with Canada celebrating Thanksgiving and the US observing Columbus Day, also recognized as Indigenous Peoples' Day in many places. The key distinction for traders is that US stock markets are fully open, but the bond market is closed. The New York Stock Exchange and Nasdaq will operate their regular sessions, from 9:30 am to 4 pm Eastern.
+
+**Canada loses 68.3K jobs and the Loonie falls to an 18-month low**
+`09 Oct 21:17 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
+
+Canada lost 68.3K jobs in September against a forecast for a 7K gain, and with August's 41.7K loss it has given back all of its net job gains for 2026.
+
+**Tax breaks could spur $1.1B more in exploration: AME**
+`09 Oct 20:30 PKT` · pehli baar dekhi `10 Oct 00:04` · mining_com
+
+Expanding Canada's mining tax incentives may boost exploration spending by $1.1 billion, EY estimates.
+
+**Canada's New Oil Pipeline Challenged by Cold Lake First Nations**
+`09 Oct 19:30 PKT` · pehli baar dekhi `10 Oct 00:04` · oilprice
+
+Cold Lake First Nations is challenging the Canadian federal government's decision to designate Canada's new oil pipeline project to the West Coast a project of national interest. Last week, the federal government designated the new oil pipeline to the West Coast, which Canada and Alberta are advancing in partnership, a project of national interest, which would fast-track development.
+
+**Canada: Gradual improvement expected – RBC**
+`09 Oct 19:19 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
+
+Royal Bank of Canada (RBC) economist Claire Fan notes Canada lost 68,000 jobs in September, mainly in public sectors, reversing much of summer gains and leaving year-to-date employment at -41,000. She highlights volatility in monthly data and stresses the unemployment rate remains below last year. Fan expects earlier labour market progress to hold and the unemployment rate to edge lower through 2026.
+
+**Canada's employment surprisingly shrinks in September, jobless rate inches up - Kitco**
+`09 Oct 18:58 PKT` · pehli baar dekhi `10 Oct 00:04` · kitco_general
+
+Canada's employment surprisingly shrinks in September, jobless rate inches up Kitco
 
 **Canada Employment Drops the Most in 7 Months**
 `09 Oct 18:46 PKT` · instaforex
@@ -938,6 +1378,11 @@ Canada's labor market deteriorated in September 2026, with total employment decl
 `09 Oct 18:23 PKT` · pehli baar dekhi `09 Oct 18:46` · actionforex
 
 Canada's economy lost 68k jobs in September (-0.3% m/m), well below consensus expectations for a 10k gain. The decline was split between full-time and (-35k) and part-time work (-33k). Private-sector employment rose by 24k, while losses were concentrated in the public sector. The unemployment rate increased to 6.5% from 6.4% in August. The labour force [&#8230;] The post Canadian Economy Sheds Jobs in September and the Unemployment Rate Ticks Higher appeared first on ActionForex.
+
+**Canadian Dollar underperforms after Canada sheds 68.3K jobs in September**
+`09 Oct 18:16 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
+
+USD/CAD climbs on Friday as the Canadian Dollar (CAD) weakens sharply following a disappointing domestic employment report. A firm US Dollar (USD) provides additional support to the pair. At the time of writing, USD/CAD trades around 1.4276, at levels last seen in April 2025.
 
 **USDCAD jumps on weak Canada jobs report, but fails to hold above key resistance**
 `09 Oct 18:01 PKT` · pehli baar dekhi `09 Oct 18:46` · investinglive
@@ -1019,7 +1464,131 @@ The AUD/USD pair edges higher during the Asian session on Friday, looking to bui
 **Nvidia-backed Firmus scraps $5 billion Australian IPO on weak demand**
 `09 Oct 04:48 PKT` · pehli baar dekhi `09 Oct 05:29` · investing_news
 
+### NZD
+
+**New Zealand Dollar edges higher on softer US yields, Fed hike bets cap recovery**
+`09 Oct 20:25 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
+
+NZD/USD trades around 0.5605 on Friday at the time of writing, posting a modest gain of 0.06% on the day, but more broadly continuing to consolidate near its recent lows.
+
 ### OIL
+
+**U.S. Baker Hughes Rig Count Ticks Higher to 603, Signaling Steady Oil & Gas Activity**
+`10 Oct 00:04 PKT` · instaforex
+
+The U.S. Baker Hughes Total Rig Count rose to 603 on 09 October 2026, edging up from the previous reading of 598 and underscoring a modest pickup in drilling activity across the country. The increase of five rigs points to a cautiously improving operating environment for the oil and gas sector. While the gain is incremental, the move suggests producers may be responding to more favorable economics or stabilizing market conditions, adding rigs back into operation after prior pullbacks.
+
+**U.S. Oil Rig Count Climbs to 462, Signaling Gradual Rebound in Drilling Activity**
+`10 Oct 00:04 PKT` · instaforex
+
+The U.S. Baker Hughes oil rig count rose to 462 on 09 October 2026, up from 456 previously, marking a modest but notable increase in active drilling activity across the United States. The six-rig gain suggests operators are cautiously expanding production capacity amid evolving market conditions. The Baker Hughes rig count is widely tracked as an early indicator of upstream investment and future oil supply.
+
+**Crude Oil Rebounds on Friday**
+`10 Oct 00:04 PKT` · instaforex
+
+Crude oil edged toward $92 per barrel on Friday, extending the prior session's gains as mounting supply risks offset short-lived relief over signs that the US would not escalate its conflict with Iran this month. Freight costs for tankers traversing the Persian Gulf jumped to record highs, while traffic through the Strait of Hormuz slowed after maritime agencies reported a series of attacks on vessels in the area.
+
+**Hurricane Isaias to 'stress test' oil markets already hobbled by tight fuel supplies**
+`09 Oct 23:44 PKT` · pehli baar dekhi `10 Oct 00:04` · mw_topstories
+
+Supply disruptions during the Atlantic hurricane season usually end up being a blip. This year could be very different.
+
+**US Stocks Rise on Friday**
+`09 Oct 23:35 PKT` · pehli baar dekhi `10 Oct 00:04` · instaforex
+
+US stocks closed higher on Friday, with the S&P 500 up 0.4%, the Nasdaq advancing 0.6%, and the Dow Jones adding 107 points. The move was led by a rebound in technology shares after the previous session's sell-off. Market sentiment was helped by reports that OpenAI expects to reach or exceed $70 billion in annualized revenue by year-end, easing worries that its sales were lagging projections. A pullback in oil prices also reduced some pressure on the bond market.
+
+**Oil News: Iran Talks Ease Supply Risk as Hurricane Limits Oil Losses - FXEmpire**
+`09 Oct 23:32 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics
+
+Oil News: Iran Talks Ease Supply Risk as Hurricane Limits Oil Losses FXEmpire
+
+**Trump to issue directive on diesel, sources say, after he promises 'big announcement'**
+`09 Oct 23:30 PKT` · pehli baar dekhi `10 Oct 00:04` · investing_commodities
+
+**Forecasting the upcoming week: US inflation data steal the show**
+`09 Oct 23:14 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_analysis
+
+The US Dollar (USD) has advanced for the fourth week in a row, this time hitting levels last traded back in April 2025, always on the back of steady bets for further tightening by the Federal Reserve, while the lack of progress on the geopolitical front and rising crude oil prices also added to the
+
+**Middle East Tensions and Hurricane Threat Drive Brent Crude Above $104 - BigGo Finance**
+`09 Oct 23:07 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics
+
+Middle East Tensions and Hurricane Threat Drive Brent Crude Above $104 BigGo Finance
+
+**U.S. Oil Drilling Continues to Inch Upward**
+`09 Oct 22:31 PKT` · pehli baar dekhi `10 Oct 00:04` · oilprice
+
+The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US rising to 603, up 56 from this same time last year. The number of active oil rigs rose by 6, reaching 462 during the latest reporting period, according to the data. This is 44 above this same time last year. The number of gas rigs fell by 1 to 132, which is 12 more than this time last year.
+
+**Bakers Hughes total rig count +5 to 603**
+`09 Oct 22:08 PKT` · pehli baar dekhi `10 Oct 00:04` · investinglive
+
+The weekly Baker Hughes rig count shows: Total Rigs 603 vs 598 last week Oil rigs 462 vs 456 last week Nat Gas rigs 132 vs 133 last week. For the year: Total rigs +56 Oil rigs +44 Nat gas +12 The price of crude oil is trading at $91.20 down $0.29 or -0.33% This article was written by Greg Michalowski at investinglive.com.
+
+**States Bet on Virtual Power Plants to Cut Grid Costs**
+`09 Oct 22:00 PKT` · pehli baar dekhi `10 Oct 00:04` · oilprice
+
+The United States has shown greater support for virtual power plants (VPPs) in recent years, as these systems are expanding across various states. A VPP is a collection of small-scale electricity generation resources that, together, can deliver electricity to the grid.
+
+**Malaysian palm oil futures fall after no export duty waiver**
+`09 Oct 21:48 PKT` · pehli baar dekhi `10 Oct 00:04` · investing_commodities
+
+**Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply**
+`09 Oct 21:35 PKT` · pehli baar dekhi `10 Oct 00:04` · oilprice
+
+Oil retreats from $110 as Trump rules out Iran strikes before the midterms, but tanker attacks and a Gulf hurricane threaten fresh volatility. Friday, October 09, 2026 Donald Trump seems to be firefighting the Middle Eastern blaze, vowing not to attack Iran before the mid-term elections just as oil prices were nearing the $110 per barrel mark amidst a deteriorating security situation in Saudi Arabia and Iran hitting at least one transiting tanker in the Hormuz every day for the past three ...
+
+**Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply - Crude Oil Prices Today | OilPrice.com**
+`09 Oct 21:35 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics
+
+Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply Crude Oil Prices Today | OilPrice.com
+
+**Oil retreats as Trump eases Iran supply concerns - Oil & Gas 360**
+`09 Oct 21:07 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics
+
+Oil retreats as Trump eases Iran supply concerns Oil & Gas 360
+
+**Pashinyan's Nuclear U-Turn Gives Moscow an Opening in Armenia**
+`09 Oct 21:00 PKT` · pehli baar dekhi `10 Oct 00:04` · oilprice
+
+Unable to persuade Armenia to abandon its efforts to join the European Union, Russia is now signaling that it is adopting a harder line. Armenian Prime Minister Nikol Pashinyan evidently is taking the menacing tone of recent Russian statements seriously.
+
+**Oil Jumps 4% on Iran Tensions, Gulf: What to Know - JournalArta**
+`09 Oct 20:58 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics
+
+Oil Jumps 4% on Iran Tensions, Gulf: What to Know JournalArta
+
+**JPMorgan: The G7's 100 million barrel oil release is mostly old barrels with a new bow on it**
+`09 Oct 20:34 PKT` · pehli baar dekhi `10 Oct 00:04` · investinglive
+
+Last Friday's G7 pledge to release 100 million barrels of crude and diesel from emergency stocks over four months looked like a forceful response to record diesel prices. JPMorgan's commodities team says the market shouldn't read too much into the headline number.
+
+**Can Lasers Beat Drone Swarms? The Pentagon Is About to Find Out**
+`09 Oct 20:00 PKT` · pehli baar dekhi `10 Oct 00:04` · oilprice
+
+The enormous expansion of drone warfare is forcing militaries to reconsider how much ammunition they can afford to fire at relatively cheap targets. The Pentagon is betting that some of that ammunition can be replaced with electricity, selecting four directed-energy systems for operational testing at five U.S. military bases.
+
+**WTI holds steady as traders weigh US-Iran tensions and supply risks**
+`09 Oct 19:25 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news · **2 feeds mein**
+
+West Texas Intermediate (WTI) Oil trades little changed on Friday as traders weigh easing fears of an immediate US-Iran military escalation against persistent supply risks in the Strait of Hormuz. At the time of writing, WTI trades around $90.65 per barrel, up 0.10% on the day.
+  - `09 Oct 19:25` *gnews_geopolitics* — WTI holds steady as traders weigh US-Iran tensions and supply risks - FXStreet
+
+**Broader stock indices bouncing modestly. Support near 100 hour MAs held yesterday**
+`09 Oct 19:16 PKT` · pehli baar dekhi `10 Oct 00:04` · investinglive
+
+Earlier this week, the broader S&P, NASDAQ composite, and NASDAQ 100 indices all traded and closed at new record levels. However on Wednesday and Thursday, the price rotated to the downside closing lower on each of those days. Technically the move lower took the indices each to their rising 100 hour moving averages, and each found support buyers near those levels. Although closing lower yesterday, we are seeing some modest follow-through buying today.
+
+**Rubio Warns Ukraine Stalemate Could Turn Into Wider Conflict**
+`09 Oct 19:00 PKT` · pehli baar dekhi `10 Oct 00:04` · oilprice
+
+US Secretary of State Marco Rubio warned that Russia's war against Ukraine is at a stalemate but could escalate into a broader regional conflict if the deadlock pushes either side toward increasingly dangerous actions. Speaking in Lisbon on the final stop of a three-country swing through NATO allies Iceland, Greece, and Portugal, Rubio said Washington believes the war ultimately requires a negotiated settlement and remains ready to facilitate diplomacy.
+
+**Diesel Margins Keep Oil Earnings High as Crude Slips on Iran Talks - Crux Investor**
+`09 Oct 18:52 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics
+
+Diesel Margins Keep Oil Earnings High as Crude Slips on Iran Talks Crux Investor
 
 **Brazil Inflation Edges Above Forecasts**
 `09 Oct 18:46 PKT` · instaforex
@@ -1036,11 +1605,21 @@ India's BSE Sensex closed about 1.2% higher at 72,472 on Friday, rebounding from
 
 Crude oil prices slipped to $91 a barrel on Friday, retreating after a 3.6% gain in the previous session, as concerns eased over potential Middle East supply disruptions. US President Trump said Washington was engaged in "productive discussions" with Iran and would refrain from any attack on the country ahead of the midterm elections.
 
+**Hiring US-to-China oil tanker costs more than launching a space rocket - Moneyweb**
+`09 Oct 18:42 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics
+
+Hiring US-to-China oil tanker costs more than launching a space rocket Moneyweb
+
 **U.S. stocks open higher amid easing oil prices, OpenAI revenue reports**
 `09 Oct 18:37 PKT` · pehli baar dekhi `09 Oct 18:46` · investing_news
 
 **US stocks open higher as oil slips; telecoms hit by SpaceX spectrum deal**
 `09 Oct 18:36 PKT` · pehli baar dekhi `09 Oct 18:46` · investing_news
+
+**Indian Rupee: RBI seen keeping hike option open – DBS**
+`09 Oct 18:36 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
+
+DBS Group Research anticipates India's September inflation to rise to 5.7% year-on-year from 4.8%, driven by broad-based food price gains and higher non-food fuel costs. Core inflation is expected to tick up as uneven monsoon conditions and elevated Oil prices add pressure, leading DBS to expect the RBI to keep the door open for a possible rate hike in December 2026.
 
 **Petronas to Raise Malaysia Dividend 19% to $7.8 Billion for 2027**
 `09 Oct 18:30 PKT` · pehli baar dekhi `09 Oct 18:46` · oilprice
@@ -1048,9 +1627,10 @@ Crude oil prices slipped to $91 a barrel on Friday, retreating after a 3.6% gain
 State-owned energy giant Petronas will boost the dividend it owes the Malaysian government by 19% in 2027 as oil prices soar and raise profits at the company. Malaysia's Ministry of Finance estimated in its 2027 budget unveiled on Friday that government revenue is estimated to rise 4.7% next year.
 
 **Oil prices head for mixed weekly close amid conflicting market signals - Anadolu Ajansı**
-`09 Oct 18:25 PKT` · pehli baar dekhi `09 Oct 18:46` · gnews_geopolitics
+`09 Oct 18:25 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics · **2 feeds mein**
 
 Oil prices head for mixed weekly close amid conflicting market signals Anadolu Ajansı
+  - `09 Oct 18:25` *gnews_geopolitics* — Oil prices head for mixed weekly close amid conflicting market signals - Anadolu Ajansı
 
 **Oil Prices Retreat After Trump Appears to Rule out Iran Strikes Before Midterms**
 `09 Oct 18:07 PKT` · pehli baar dekhi `09 Oct 18:46` · wsj_world
@@ -1093,6 +1673,11 @@ Rabobank's Senior Economist Maartje Wijffelaars notes Oil prices climbed to arou
 
 Brent crude falls 0.9% to $103.36 grafa.com
 
+**Oil Steady as Investors Focus on Hormuz Flows After Peace Talks - EnergyNow**
+`09 Oct 16:50 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics
+
+Oil Steady as Investors Focus on Hormuz Flows After Peace Talks EnergyNow
+
 **Asian Refiners Ditch U.S. Oil as Supertanker Rates Hit $82 Million**
 `09 Oct 16:30 PKT` · pehli baar dekhi `09 Oct 18:46` · oilprice
 
@@ -1102,6 +1687,11 @@ The record-high freight costs refiners have to pay to receive a cargo of crude o
 `09 Oct 16:30 PKT` · pehli baar dekhi `09 Oct 18:46` · gnews_geopolitics
 
 Oil Prices Retreat as U.S.-Iran Diplomatic Talks Ease Supply Fears, While Gulf Hurricane Limits Losses EnergyNow.com
+
+**Diesel Shortage October 2026: Prices, Causes and Outlook - Admirals**
+`09 Oct 15:25 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
+
+Diesel Shortage October 2026: Prices, Causes and Outlook Admirals
 
 **Trump Says No Iran Strike Before Midterms, Cooling Oil Rally - BigGo Finance**
 `09 Oct 15:25 PKT` · pehli baar dekhi `09 Oct 18:46` · gnews_geopolitics
@@ -1120,6 +1710,11 @@ The University of Michigan (UoM) will release the preliminary estimate of the Un
 `09 Oct 14:57 PKT` · pehli baar dekhi `09 Oct 18:46` · gnews_geopolitics
 
 Oil prices dip after Trump rules out pre-midterms Iran attack, easing supply fears Investing.com
+
+**US Oil Executives Expect Crude Output to Rise as Iran War Continues, Survey Shows - EnergyNow.com**
+`09 Oct 14:30 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics
+
+US Oil Executives Expect Crude Output to Rise as Iran War Continues, Survey Shows EnergyNow.com
 
 **Australia Close to Finalizing Gas Reservation Plan for LNG Exporters**
 `09 Oct 14:30 PKT` · pehli baar dekhi `09 Oct 18:46` · oilprice
@@ -1141,15 +1736,31 @@ Morgan Stanley Lowers Brent Oil Price Forecasts After US-Iran Peace Deal EnergyN
 
 Oil Prices Fall as Trump Rules Out Iran Strikes Before US Elections Investors King
 
+**U.S. Strikes Iranian Launchers Near Strait of Hormuz, Sending Oil Prices Higher - EnergyNow.com**
+`09 Oct 14:17 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics
+
+U.S. Strikes Iranian Launchers Near Strait of Hormuz, Sending Oil Prices Higher EnergyNow.com
+
 **Oil relief lifts European stocks, but telecoms tumble on SpaceX's US spectrum deal - Kitco**
 `09 Oct 14:05 PKT` · pehli baar dekhi `09 Oct 18:46` · kitco_general
 
 Oil relief lifts European stocks, but telecoms tumble on SpaceX's US spectrum deal Kitco
 
+**If the Strait of Hormuz is open, why are gas and diesel so expensive? - CNN**
+`09 Oct 14:00 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics
+
+If the Strait of Hormuz is open, why are gas and diesel so expensive? CNN
+
 **WTI Price Forecast: Slides back to mid-$89.00s as Mideast jitters limit losses**
 `09 Oct 13:57 PKT` · pehli baar dekhi `09 Oct 18:46` · fxstreet_news
 
 West Texas Intermediate (WTI) – the benchmark US Crude Oil price – attracts some follow-through selling on Friday, extending the previous day's pullback from a one-week high, around the $92.40 region.
+
+**Oil Falls as Trump Comments on Iran Talks Ease Supply Concerns - ASHARQ AL-AWSAT English**
+`09 Oct 13:55 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics · **2 feeds mein**
+
+Oil Falls as Trump Comments on Iran Talks Ease Supply Concerns ASHARQ AL-AWSAT English
+  - `09 Oct 10:06` *gnews_geopolitics* — Oil falls as Trump comments on Iran talks ease supply concerns - Adaderana Biz English
 
 **Oil falls as Trump comments on Iran talks ease supply concerns - The Lufkin Daily News**
 `09 Oct 13:23 PKT` · pehli baar dekhi `09 Oct 18:46` · gnews_geopolitics
@@ -1166,6 +1777,11 @@ Crude oil prices may stay elevated in Q4 2026 as Iran tensions, supply risks per
 `09 Oct 13:00 PKT` · pehli baar dekhi `09 Oct 18:46` · oilprice
 
 A court has ruled that Venture Global breached its contract with Portugal's Galp in the second unfavorable ruling for the U.S. LNG major. Galp was one of half a dozen energy companies that sued Venture Global for violating its long-term supply contracts for liquefied gas in order to make a fatter profit on the spot market. BP scored the other win against the U.S. company, while Shell and Spain's Repsol lost their disputes with Venture Global.
+
+**RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com**
+`09 Oct 12:50 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics
+
+RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank EnergyNow.com
 
 **Crude Oil Prices Today: Brent Falls 1.3% to $102.91, WTI Drops 1.2% to $90.40 as Trump Signals No Iran Attack Before November 3 Midterm Elections - The Sunday Guardian**
 `09 Oct 12:47 PKT` · pehli baar dekhi `09 Oct 18:46` · gnews_geopolitics
@@ -1192,6 +1808,16 @@ China has decided to restart exports of fuels, after a one-week suspension. This
 
 Producer prices in Norway jumped 48.8% year-on-year in September 2026, accelerating from a 30.1% increase in August and reaching their highest level in four years. The surge was driven primarily by sharp price gains in oil and natural gas extraction (94.6% vs. 52.1% in August), energy goods (90.1% vs. 53.2%), and electricity, gas, and steam (63.4% vs. 57.9%), amid supply disruptions in the Middle East. Manufacturing prices also rose (9.2% vs. 7.9%).
 
+**Oil falls as Trump comments ease supply concerns - RTE.ie**
+`09 Oct 11:34 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics
+
+Oil falls as Trump comments ease supply concerns RTE.ie
+
+**Oil Prices Decline as US–Iran Talks Show Progress - PUKmedia یەکێتیی نیشتمانیی کوردستان**
+`09 Oct 11:25 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics
+
+Oil Prices Decline as US–Iran Talks Show Progress PUKmedia یەکێتیی نیشتمانیی کوردستان
+
 **Oil falls as Trump comments on Iran talks ease supply concerns - Daily Mirror - Sri Lanka**
 `09 Oct 11:11 PKT` · pehli baar dekhi `09 Oct 18:46` · gnews_geopolitics
 
@@ -1199,6 +1825,11 @@ Oil falls as Trump comments on Iran talks ease supply concerns Daily Mirror - Sr
 
 **Soaring freight rates threaten Asia's appetite for US crude**
 `09 Oct 10:54 PKT` · pehli baar dekhi `09 Oct 11:36` · investing_commodities
+
+**Shafaq News..Oil prices decline on easing Iran tensions - شفق نيوز**
+`09 Oct 10:54 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics
+
+Shafaq News..Oil prices decline on easing Iran tensions شفق نيوز
 
 **Oil Prices Rise 4% as Middle East War, Hurricane Disrupt Supply | - Business Post Nigeria**
 `09 Oct 10:36 PKT` · pehli baar dekhi `09 Oct 11:36` · gnews_geopolitics
@@ -1224,11 +1855,6 @@ Brent Crude Drops 1.3% After Trumps Iran Diplomacy Remarks Free Press Journal
 `09 Oct 10:06 PKT` · pehli baar dekhi `09 Oct 11:36` · gnews_geopolitics
 
 Oil Prices Decline as Former President Trump Mentions Iran Talks India News Network
-
-**Oil falls as Trump comments on Iran talks ease supply concerns - Adaderana Biz English**
-`09 Oct 10:06 PKT` · pehli baar dekhi `09 Oct 18:46` · gnews_geopolitics
-
-Oil falls as Trump comments on Iran talks ease supply concerns Adaderana Biz English
 
 **Oil prices slip on US-Iran peace hopes, Brent set for weekly gain - Mettis Global**
 `09 Oct 10:06 PKT` · pehli baar dekhi `09 Oct 11:36` · gnews_geopolitics
@@ -1286,10 +1912,12 @@ Record crack spreads show that refined products, not crude, are where the tighte
 Oil falls after Trump comments on Iran talks — Channel NewsAsia UA.NEWS
 
 **Oil falls as Trump comments on Iran talks ease supply concerns**
-`09 Oct 07:30 PKT` · pehli baar dekhi `09 Oct 11:36` · investing_commodities · **12 feeds mein**
+`09 Oct 07:30 PKT` · pehli baar dekhi `09 Oct 11:36` · investing_commodities · **14 feeds mein**
+  - `09 Oct 19:05` *gnews_geopolitics* — Oil falls as Trump comments on Iran talks ease supply concerns - Yahoo Finance
   - `09 Oct 17:47` *gnews_geopolitics* — Oil falls as Trump comments on Iran talks ease supply concerns - The Detroit News
   - `09 Oct 13:55` *gnews_geopolitics* — Oil Falls as Trump Comments on Iran Talks Ease Supply Concerns - شبكة تواصل الإخبارية
   - `09 Oct 13:23` *gnews_geopolitics* — Oil falls as Trump comments on Iran talks ease supply concerns - The Express Tribune
+  - `09 Oct 12:09` *gnews_geopolitics* — Oil falls as Trump comments on Iran talks ease supply concerns - Ada Derana
   - `09 Oct 11:04` *gnews_geopolitics* — Oil falls as Trump comments on Iran talks ease supply concerns - Emirates 24|7
   - `09 Oct 08:27` *gnews_geopolitics* — Oil falls as Trump comments on Iran talks ease supply concerns - CNBC
   - `09 Oct 08:10` *gnews_geopolitics* — Oil falls as Trump comments on Iran talks ease supply concerns - Investify
@@ -1408,6 +2036,11 @@ Ship-to-ship transfers in the Gulf of Oman that keep oil flowing from the Middle
 
 Oil jumps 5%, then pares gains after Trump says no attack on Iran in October The Business Times
 
+**European shares close lower as banks drop to 3-month lows, oil prices weigh - Finanzen.net**
+`09 Oct 03:31 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
+
+European shares close lower as banks drop to 3-month lows, oil prices weigh Finanzen.net
+
 **Global Oil Prices Surge on US Concerns Over Iran Attack and Middle East Tanker Strike - news.sbs.co.kr**
 `09 Oct 03:25 PKT` · pehli baar dekhi `09 Oct 05:29` · gnews_geopolitics · **2 feeds mein**
 
@@ -1420,6 +2053,36 @@ Global Oil Prices Surge on US Concerns Over Iran Attack and Middle East Tanker S
 Cuba is turning into a solar-powered island because of the U.S. naval blockade that is preventing fuel from reaching it. Imports of solar tech from that same U.S. are surging despite the decades-old U.S. embargo on Cuba, and strengthening the case for solar energy—in the absence of any alternatives. Bloomberg earlier this week cited U.S. Census data showing that exports of solar cells and modules from the U.S. to Cuba topped $6.3 million over the first seven months of the year.
 
 ### CRYPTO
+
+**Ledger investigates fund losses linked to Southeast Asian reseller, warns users**
+`09 Oct 22:02 PKT` · pehli baar dekhi `10 Oct 00:04` · cointelegraph
+
+Hardware wallet maker Ledger probes losses tied to reseller CryptoBilis, as researchers separately estimate more than $72 million to $86 million in suspected crypto thefts.
+
+**Blockchain.com pursues CFTC approval for prediction markets: CNBC**
+`09 Oct 21:22 PKT` · pehli baar dekhi `10 Oct 00:04` · cointelegraph
+
+The crypto company has reportedly applied for two licenses with the US commodities regulatory as the courts weigh prediction markets cases.
+
+**Crypto Biz: Wealthy investors are buying crypto, but their advisers aren't sold**
+`09 Oct 20:51 PKT` · pehli baar dekhi `10 Oct 00:04` · cointelegraph
+
+Wealthy investors are embracing crypto faster than their advisers, while OKX attracts new funding and Strategy shifts more capital toward preferred stock buybacks.
+
+**A Year On, Bitcoin Languishes a Third Below its All-Time High. What's Next For The Cryptocurrency?**
+`09 Oct 20:45 PKT` · pehli baar dekhi `10 Oct 00:04` · wsj_markets
+
+Multiple catalysts could drive the price of bitcoin up before the end of the year, according to analysts.
+
+**Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports**
+`09 Oct 20:20 PKT` · pehli baar dekhi `10 Oct 00:04` · cointelegraph
+
+Bitcoin and crypto markets eyed a recovery from Thursday's drop despite concerns of another hardware wallet exploit.
+
+**Bitcoin Wave Analysis**
+`09 Oct 20:00 PKT` · pehli baar dekhi `10 Oct 00:04` · actionforex
+
+Bitcoin: ⬆️ Buy – Bitcoin reversed from key support level 82000.00 – Likely to rise to resistance level 87185.00 Bitcoin cryptocurrency recently reversed up from the support zone between the pivotal support level 82000.00 (former resistance from May and the start of September) and the 50% Fibonacci correction of the upward impulse (5) from the [&#8230;] The post Bitcoin Wave Analysis appeared first on ActionForex.
 
 **Bitcoin steadies above $82k, heads for weekly losses amid yield pressure**
 `09 Oct 18:42 PKT` · pehli baar dekhi `09 Oct 18:46` · investing_news
@@ -1519,6 +2182,46 @@ UK Housing Market Loses Momentum as Rate Hike Fears Return BigGo Finance
 
 ### RISK
 
+**This week we got a sneak-peak at the playbook for when the AI bubble bursts**
+`09 Oct 23:42 PKT` · pehli baar dekhi `10 Oct 00:04` · investinglive
+
+It wasn't a big week in financial markets. When you upwrap it, Fed pricing has been flat and major indexes chopped sideways. The Iran war continues with the usual threats, but we did get a promise from Trump not to attack before the midterms. How credible that promise is might be up for debate. Later today we will get a Hurricane Isaias hitting the US coast, and it's currently a Category 3 storm.
+
+**Gaza ceasefire 'exists in name only', more than 100 NGOs say**
+`09 Oct 23:15 PKT` · pehli baar dekhi `10 Oct 00:04` · aljazeera
+
+Humanitarian and human rights groups call out Israel&#039;s continued killings and restrictions across the enclave.
+
+**'An attack against sovereign states': ICC President slams US sanctions**
+`09 Oct 23:06 PKT` · pehli baar dekhi `10 Oct 00:04` · aljazeera
+
+International Criminal Court President Tomoko Akane has responded to US sanctions imposed to 'defend sovereignty'.
+
+**U.S. Sanctions and Threatens to Dismantle International Criminal Court**
+`09 Oct 22:42 PKT` · pehli baar dekhi `10 Oct 00:04` · wsj_world
+
+The sanctions could cut the ICC off from the U.S. financial system and prohibit it from conducting transactions in dollars.
+
+**'Rogue court': US sanctions ICC hours after ex-judge wins Nobel Prize**
+`09 Oct 20:59 PKT` · pehli baar dekhi `10 Oct 00:04` · aljazeera
+
+US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday.
+
+**US sanctions International Criminal Court itself in major escalation**
+`09 Oct 20:08 PKT` · pehli baar dekhi `10 Oct 00:04` · aljazeera
+
+Latest action seeks to stem resources to international tribunal Trump administration has vowed to dismantle.
+
+**New York Federal Reserve says inflation on everyday items is because of tariffs - WBMA**
+`09 Oct 19:15 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+New York Federal Reserve says inflation on everyday items is because of tariffs WBMA
+
+**Ethiopia and Eritrea accuse one another of launching war**
+`09 Oct 19:11 PKT` · pehli baar dekhi `10 Oct 00:04` · aljazeera
+
+Eritrea denies backing TPLF as Ethiopia alleges collusion, further straining their already volatile relationship.
+
 **Ukraine Inflation Climbs to 11-Month High**
 `09 Oct 18:46 PKT` · instaforex
 
@@ -1548,6 +2251,11 @@ Drone attacks target Russian digital giant Yandex, as well as continuing strikes
 `09 Oct 17:58 PKT` · pehli baar dekhi `09 Oct 18:46` · gnews_geopolitics
 
 19 Iranian ships stranded off Sri Lanka's coast: Shortage of food, water and fuel; govt fears US sanctions... Bhaskar English
+
+**US sanctions 17 vessels linked to Iran's 'shadow fleet' - Anadolu Ajansı**
+`09 Oct 17:25 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics
+
+US sanctions 17 vessels linked to Iran's 'shadow fleet' Anadolu Ajansı
 
 **Houthi strikes on Riyadh airport killed three Saudis as war escalates**
 `09 Oct 17:00 PKT` · pehli baar dekhi `09 Oct 18:46` · investing_commodities
@@ -1668,6 +2376,11 @@ US President Donald Trump has ordered plans to be drawn up for options of return
 
 If the argument holds, the AI build-out is a source of upward pressure on bond yields, power prices and wages for scarce technical staff, which would keep financing costs high for sectors outside technology. That fits with this week's 24-year high in 10-year Treasury yields, which Bloomberg partly attributed to AI-related corporate borrowing.
 
+**How Fast Do Tariffs Pass Through into Consumer Prices? - Liberty Street Economics**
+`09 Oct 04:25 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_fed
+
+How Fast Do Tariffs Pass Through into Consumer Prices? Liberty Street Economics
+
 **PepsiCo lowers profit guidance as cost pressure and a cautious US consumer bite**
 `09 Oct 04:02 PKT` · pehli baar dekhi `09 Oct 05:29` · investinglive
 
@@ -1693,10 +2406,115 @@ Six-time French champions Bordeaux, the club where Zinedine Zidane made his name
 
 A top-performing manager adding duration near the highs is a notable contrarian signal for Treasuries, though he still allows for yields to overshoot by another 10 to 15 basis points before peaking. His case rests on the Fed's hiking path slowing growth, so any sign that energy-driven inflation forces the central bank to go further would test it.
 
-### BINA TAG (124)
+### BINA TAG (236)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `10 Oct 00:00` **instaforex** — Michigan Current Conditions Index Drops to 44.7 in October, Signaling Weaker Consumer Climate
+- `10 Oct 00:00` **instaforex** — U.S. Michigan Consumer Expectations Edge Higher in October, Hinting at Slightly Brighter Outlook
+- `10 Oct 00:00` **instaforex** — U.S. Consumer Mood Slips Further as Michigan Sentiment Dips to 46.3 in October
+- `09 Oct 23:55` **instaforex** — Baltic Dry Index at Over 1-Month Low, Posts Weekly Loss
+- `09 Oct 23:51` **wsj_world** — China's Next 'Gray Zone' Target: An Island Chain Critical to U.S. Defense of Taiwan
+- `09 Oct 23:49` **aljazeera** — Katie Zacharia 'offered' position as White House press secretary
+- `09 Oct 23:43` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - The Seattle Times
+- `09 Oct 23:42` **gnews_fed** — Trump escalates effort to fire Federal Reserve governor Lisa Cook - The Washington Post
+- `09 Oct 23:32` **investing_news** — Katie Zacharia reportedly named new White House press secretary
+- `09 Oct 23:30` **aljazeera** — 'Barbaric': US lawmakers condemn plan to livestream Nidal Hasan's execution
+- `09 Oct 23:28` **investing_news** — Magnitude 7.6 earthquake hits Panama's southern coast
+- `09 Oct 23:26` **investing_commodities** — Northwest European gasoline margins jump on low inventories
+- `09 Oct 23:24` **investing_news** — Snowflake options flow shows call buyers targeting $370 strike
+- `09 Oct 23:24` **investing_news** — vVardis files for US IPO showing net loss, revenue growth
+- `09 Oct 23:23` **aljazeera** — AI deepfake ads grow more popular in US midterm campaigns, blurring truth
+- `09 Oct 23:21` **investing_news** — HIMS jumps 7% on peptide tailwind — but Citi sees 17% downside from here
+- `09 Oct 23:16` **mw_topstories** — As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat
+- `09 Oct 23:06` **mw_topstories** — Microsoft is nearing a big milestone that solidifies its revival
+- `09 Oct 23:04` **mw_topstories** — Why you need to take a closer look at your favorite stock index
+- `09 Oct 22:54` **investing_commodities** — US corn forecast weighs on European wheat prices
+- `09 Oct 22:48` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - KOKH
+- `09 Oct 22:46` **wsj_world** — FlyDubai Co-Pilot Planned to Crash Into Israeli Airport, U.A.E. Says
+- `09 Oct 22:44` **kitco_general** — US consumer sentiment near record low as frustration over economy mounts - Kitco
+- `09 Oct 22:43` **gnews_fed** — Why Trump's Crusade Against Federal Reserve Governor Lisa Co - ИФЗ РАН
+- `09 Oct 22:38` **fxstreet_news** — Chinese Yuan: PBoC stance and valuation debate guide currency path – MUFG
+- `09 Oct 22:37` **aljazeera** — Jerusalem Daily: US charity to use AI to monitor Gaza classrooms
+- `09 Oct 22:29` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - local21news.com
+- `09 Oct 22:22` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - KRXI
+- `09 Oct 22:21` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - KDBC
+- `09 Oct 22:21` **cointelegraph** — HSBC, Ant Digital test AI-agent payments using tokenized deposits
+- `09 Oct 22:19` **aljazeera** — Drone strike kills 30 people in Sudan's Blue Nile region
+- `09 Oct 22:19` **gnews_fed** — After SCOTUS Setback, Trump Renews Bid To Remove Federal Reserve's Lisa Cook - The Federalist
+- `09 Oct 22:16` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - The National Desk
+- `09 Oct 22:15` **gnews_fed** — Trump announces committee to investigate Federal Reserve's Lisa Cook - ABC News - Breaking News, Latest News and Videos
+- `09 Oct 22:15` **wsj_world** — Masked Thieves in Italy Make Off With $5.6 Million of High-End Wine
+- `09 Oct 22:08` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - WXXV News 25
+- `09 Oct 22:08` **investing_commodities** — Colombia coffee output drops 15% amid weather impact
+- `09 Oct 22:05` **aljazeera** — Palestinians seek protection from violent settlers during olive harvest
+- `09 Oct 22:03` **gnews_fed** — Lisa Cook, Federal Reserve governor, former Michigan State professor - Yahoo
+- `09 Oct 22:03` **gnews_fed** — Lisa Cook, Federal Reserve governor, former Michigan State professor - Yahoo
+- `09 Oct 22:03` **gnews_fed** — Lisa Cook, Federal Reserve governor, former Michigan State professor - Detroit Free Press
+- `09 Oct 21:58` **gnews_centralbanks** — Meeting Of 9 - Mirage News
+- `09 Oct 21:51` **gnews_centralbanks** — THINK Ahead: It's economists vs. markets, and there can only be one winner - ING THINK Economic and financial analysis | ING THINK
+- `09 Oct 21:48` **gnews_fed** — Time for term limits? Dems in majority could have familiar faces in key roles - Boston Herald
+- `09 Oct 21:44` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - AP News
+- `09 Oct 21:37` **aljazeera** — Powerful tornado rips through western Sicily
+- `09 Oct 21:36` **aljazeera** — DHS defends ICE shooting in NYC, says officers believed they were in danger
+- `09 Oct 21:33` **aljazeera** — 'A Ceuta-style surge is possible': Border tensions on NATO's eastern flank
+- `09 Oct 21:28` **wsj_markets** — Basic Materials Roundup: Market Talk
+- `09 Oct 21:24` **wsj_markets** — Tech, Media & Telecom Roundup: Market Talk
+- `09 Oct 21:19` **gnews_fed** — Trump launches probe into Federal Reserve Governor Lisa Cook - Al Jazeera
+- `09 Oct 21:16` **gnews_fed** — White House Forms Committee to Probe Federal Reserve's Cook - Bloomberg.com
+- `09 Oct 21:15` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - The Globe and Mail
+- `09 Oct 21:15` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - The Killeen Daily Herald
+- `09 Oct 21:07` **aljazeera** — Thousands rally for anti-austerity protest in Brussels amid clashes
+- `09 Oct 21:06` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - Los Angeles Times
+- `09 Oct 21:03` **gnews_fed** — Trump renews push to oust Federal Reserve Governor Lisa Cook - Yahoo
+- `09 Oct 20:54` **gnews_fed** — Trump announces committee to investigate Federal Reserve's Lisa Cook - AOL.com
+- `09 Oct 20:45` **investinglive** — SpaceX lockup expiration puts buyers to the test. The technicals define the risk.
+- `09 Oct 20:38` **gnews_fed** — Trump sets up committee to probe Federal Reserve Governor Lisa Cook in latest bid to fire her - The Times of India
+- `09 Oct 20:28` **aljazeera** — Israeli settler attacks target Palestinian olive harvest in West Bank
+- `09 Oct 20:26` **wsj_economy** — The typical American family got a little wealthier in the years following the pandemic, while well-off and older Americans got much richer
+- `09 Oct 20:25` **aljazeera** — Hurricane Isaias strengthens into Category 3 storm with US in its sights
+- `09 Oct 20:19` **gnews_fed** — Trump establishes 'committee of inquiry' for Federal Reserve member Lisa Cook - The Hill
+- `09 Oct 20:14` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - itemonline.com
+- `09 Oct 20:09` **aljazeera** — Man City charges: How Premier League reacted – United, Arsenal, Liverpool
+- `09 Oct 20:04` **aljazeera** — Trump's planned DC arch faces new lawsuit
+- `09 Oct 20:00` **gnews_fed** — Trump Is Renewing His Effort to Oust the Federal Reserve's Lisa Cook - NOTUS
+- `09 Oct 20:00` **actionforex** — FTSE 100 Wave Analysis
+- `09 Oct 19:59` **actionforex** — NASDAQ-100 Index Wave Analysis
+- `09 Oct 19:59` **gnews_fed** — Trump es­tab­lishes committee to in­ves­tigate Federal Reserve's Lisa Cook in latest effort to fire her - Spectrum News
+- `09 Oct 19:58` **gnews_fed** — White House forms committee to probe Federal Reserve's Cook - Moneycontrol.com
+- `09 Oct 19:51` **gnews_fed** — Trump Establishes Committee to Investigate Federal Reserve Governor Lisa Cook - SSBCrack
+- `09 Oct 19:51` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - Stuff
+- `09 Oct 19:51` **wsj_markets** — Tokenized Stocks Bring 'Radical Change' to Markets, Cuomo Says
+- `09 Oct 19:45` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - Standard Democrat
+- `09 Oct 19:45` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - WGAU Radio | Athens, GA
+- `09 Oct 19:45` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - Ottumwa Courier
+- `09 Oct 19:45` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - Eagle-Tribune
+- `09 Oct 19:41` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - seMissourian
+- `09 Oct 19:40` **aljazeera** — Man City case causing 'uncertainty' for whole Premier League, says Iraola
+- `09 Oct 19:38` **gnews_fed** — Trump Establishes Committee To Investigate Federal Reserve's Lisa Cook In Latest Effort To Fire Her - ETV Bharat
+- `09 Oct 19:37` **aljazeera** — US to livestream Fort Hood shooter's execution: Is that legal?​
+- `09 Oct 19:36` **bbc_business** — Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned
+- `09 Oct 19:29` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - KTVN
+- `09 Oct 19:29` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - Durango Herald
+- `09 Oct 19:29` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - the-journal.com
+- `09 Oct 19:29` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - WFMZ.com
+- `09 Oct 19:29` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - Barchart.com
+- `09 Oct 19:29` **aljazeera** — Man City face Liverpool after being found guilty of financial breaches
+- `09 Oct 19:29` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - Audacy
+- `09 Oct 19:27` **aljazeera** — Driver films from inside vehicle as car swept away in Chile floods
+- `09 Oct 19:26` **ing_think** — Supply chain risks are changing. Shouldn't financing change too?
+- `09 Oct 19:25` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - Yahoo
+- `09 Oct 19:25` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - Daily Journal
+- `09 Oct 19:25` **wsj_economy** — Consumer Sentiment Drops, per Michigan Survey
+- `09 Oct 19:24` **ing_think** — US consumers remain under pressure as sentiment slides
+- `09 Oct 19:18` **gnews_fed** — Federal Reserve releases consumer finance survey showing higher median income, rising debt stress - Traders Union
+- `09 Oct 19:10` **gnews_fed** — Donald Trump launches committee to investigate Federal Reserve governor Lisa Cook - Financial Times
+- `09 Oct 19:10` **wsj_markets** — U.S. Natural Gas Futures Pick Up in Early Trading
+- `09 Oct 19:09` **aljazeera** — Bangladesh's mango diplomacy with India has reached its limits
+- `09 Oct 19:03` **gnews_fed** — Americans' debt problems are flashing a warning not seen since the Great Recession - CNBC
+- `09 Oct 18:55` **kitco_general** — TAG: November election - Kitco
+- `09 Oct 18:53` **mining_com** — Lithium Triangle's vast resources face unsolved extraction hurdles
+- `09 Oct 18:49` **cointelegraph** — Dragonfly partner rejects 'bunker mode' doomerism, calls for proactive blockchain measures
 - `09 Oct 18:46` **instaforex** — India's Bank Deposits Tick Higher as Growth Rate Climbs to 17.8%
 - `09 Oct 18:46` **instaforex** — India's Bank Loan Growth Accelerates to 19.4%, Signaling Robust Credit Demand
 - `09 Oct 18:46` **instaforex** — Portugal Trade Deficit Narrows in August as Exports Outpace Imports
@@ -1709,10 +2527,12 @@ A top-performing manager adding duration near the highs is a notable contrarian 
 - `09 Oct 18:30` **mw_topstories** — Aging bull: Why this 4-year-old stock-market rally still packs a punch
 - `09 Oct 18:27` **actionforex** — Weekly Focus – French Public Finances Continue to Steal the Spotlight
 - `09 Oct 18:21` **mw_topstories** — Nvidia and Micron shares bounce as investors get clarity on a key OpenAI matter
+- `09 Oct 18:19` **gnews_centralbanks** — UK Mortgage Rates Forecast 2026-2027: When Could Rates Fall? - XTB.com
 - `09 Oct 18:09` **aljazeera** — Child flees as Israeli settlers hijack car during pogrom
 - `09 Oct 18:06` **gnews_fed** — American Express Company Faces Federal Reserve Board Enforcement Action to Address Failure to Sufficiently Detect and Report Certain Suspicious Activity Related to Money Laundering - marketscreener.com
 - `09 Oct 18:02` **bbc_business** — Burnham promises to curb non-compete rules in job contracts
 - `09 Oct 17:53` **aljazeera** — Malaysia shuts schools as haze from Indonesian fires chokes Southeast Asia
+- `09 Oct 17:52` **gnews_centralbanks** — Long-term rates this Friday: some breathing room to end the week, but no change of course - Goldwasser Exchange
 - `09 Oct 17:37` **aljazeera** — Satire silenced: Indian artists face censorship as anti-Modi protests grow
 - `09 Oct 17:34` **bbc_business** — Anthropic bans users from being 'cruel' to its AI systems
 - `09 Oct 17:17` **aljazeera** — India's Cockroach Party says members detained ahead of protest
@@ -1729,6 +2549,7 @@ A top-performing manager adding duration near the highs is a notable contrarian 
 - `09 Oct 15:53` **mining_com** — EU puts KGHM's $2.4B copper projects on fast track
 - `09 Oct 15:49` **cointelegraph** — ESMA seeks evidence tokenized collateral can be cashed out in crisis
 - `09 Oct 15:48` **investing_commodities** — Morning Bid: Bonds, bombs and barricades
+- `09 Oct 15:45` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - WLNS 6 News
 - `09 Oct 15:39` **aljazeera** — Ex-OpenAI staff say they were fired for raising safety concerns
 - `09 Oct 15:39` **wsj_markets** — Borrowing Costs' Double Whammy Boosts Recession Odds
 - `09 Oct 15:32` **investing_commodities** — New Trump rules will make it harder for farmers to access US funds for energy projects
@@ -1757,6 +2578,7 @@ A top-performing manager adding duration near the highs is a notable contrarian 
 - `09 Oct 13:23` **bbc_business** — Everton owners consider selling club two years after takeover
 - `09 Oct 13:05` **aljazeera** — US ICE releases Kashmiri filmmaker Arfat Sheikh from custody
 - `09 Oct 12:17` **gnews_geopolitics** — News by CNBC TV18 on TradingView, 2026-10-09 — cnbctv:341f2189b094b:0 - TradingView
+- `09 Oct 11:40` **gnews_centralbanks** — Bailey warns interest rates may rise even as the UK economy weakens - Mortgage Professional America
 - `09 Oct 11:36` **instaforex** — Sweden New Orders Growth Slows in August
 - `09 Oct 11:36` **instaforex** — Lithuania Producer Prices Rise Most Since Early 2023
 - `09 Oct 11:36` **instaforex** — Sweden Industrial Output Growth Picks Up in August
@@ -1774,13 +2596,16 @@ A top-performing manager adding duration near the highs is a notable contrarian 
 - `09 Oct 11:18` **investing_news** — Modi wants India to power the AI age. Residents are pushing back
 - `09 Oct 11:14` **investing_news** — Airtel Money sets IPO price at £1.96, listing today in London
 - `09 Oct 11:12` **investing_commodities** — Inside the deadlock at the world's top climate science body
+- `09 Oct 11:00` **gnews_centralbanks** — COMMENTARY: Central banks face test. Will they be good cops or bond villains? - Reuters
 - `09 Oct 10:53` **aljazeera** — From Aden to Sanaa, Yemenis struggle to deal with soaring living costs
 - `09 Oct 10:29` **bbc_business** — Industry leaders discuss island high value scheme
 - `09 Oct 10:11` **bbc_business** — 'You cannot build this car anywhere else in the world'
+- `09 Oct 09:58` **gnews_centralbanks** — Lenders report mortgage numbers down, with only slight upturn ahead - The Negotiator
 - `09 Oct 09:55` **bbc_business** — Trump wants to reduce the cost of fuel as the midterms loom - will it work?
 - `09 Oct 09:26` **aljazeera** — Mexico prison clash in strife-torn Sinaloa state leaves 10 dead
 - `09 Oct 09:26` **aljazeera** — Uproar in NY after ICE shoots man with child in the car
 - `09 Oct 09:06` **bbc_business** — Nvidia-backed AI data centre firm scraps landmark listing over market fears
+- `09 Oct 09:00` **gnews_fed** — Ask Beth: Is the Federal Reserve part of the government? - Federal Reserve Bank of Cleveland
 - `09 Oct 08:47` **aljazeera** — Northern Ireland's Sinn Fein faces police probe as protest tensions fester
 - `09 Oct 08:30` **investing_commodities** — China to resume October fuel exports after a brief halt, four trade sources say
 - `09 Oct 08:25` **aljazeera** — ICE agent shoots man in car with five-year-old child in New York: Mayor
@@ -1838,45 +2663,45 @@ investing_news (3)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 29 | 1 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 10 | 2 | 8 | 20 | 0.1 |
-| actionforex | OK | 20 | 20 | 19 | 1 | 0 | 0.0 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.4 |
-| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 8 | 1 | 7 | 28 | 0.0 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.7 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.7 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.7 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.7 |
-| cme_daily_commentary | OK | 10 | 5 | 0 | 5 | 5 | 0.7 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 28.8 |
-| kitco_general | OK | 30 | 29 | 9 | 20 | 1 | 0.0 |
-| gnews_fed | OK | 100 | 100 | 37 | 63 | 0 | 0.0 |
-| gnews_geopolitics | OK | 100 | 100 | 41 | 59 | 0 | 0.0 |
-| gnews_centralbanks | OK | 41 | 41 | 26 | 15 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.8 |
-| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 1.2 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 1.1 |
-| boe_news | OK | 50 | 2 | 1 | 1 | 48 | 0.2 |
-| boj_whatsnew | OK | 52 | 5 | 2 | 3 | 47 | 0.2 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 8.5 |
-| mining_com | OK | 36 | 9 | 1 | 8 | 27 | 0.1 |
-| oilprice | OK | 15 | 15 | 7 | 8 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 7 | 3 | 0 | 0.1 |
-| ing_think | OK | 10 | 10 | 4 | 6 | 0 | 0.1 |
-| bbc_business | OK | 48 | 34 | 6 | 28 | 14 | 0.0 |
+| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 19 | 11 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 7 | 4 | 3 | 23 | 0.0 |
+| actionforex | OK | 20 | 20 | 6 | 14 | 0 | 0.2 |
+| marketpulse | OK | 3 | 2 | 2 | 0 | 1 | 0.1 |
+| instaforex | OK | 25 | 25 | 18 | 7 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 5 | 4 | 1 | 31 | 0.0 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 29.0 |
+| kitco_general | OK | 30 | 21 | 8 | 13 | 9 | 0.0 |
+| gnews_fed | OK | 84 | 81 | 74 | 7 | 3 | 0.0 |
+| gnews_geopolitics | OK | 100 | 77 | 21 | 56 | 23 | 0.0 |
+| gnews_centralbanks | OK | 53 | 45 | 24 | 21 | 8 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.0 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.4 |
+| boj_whatsnew | OK | 52 | 3 | 0 | 3 | 49 | 0.4 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 8.7 |
+| mining_com | OK | 36 | 6 | 4 | 2 | 30 | 0.1 |
+| oilprice | OK | 15 | 15 | 7 | 8 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| ing_think | OK | 10 | 7 | 2 | 5 | 3 | 0.2 |
+| bbc_business | OK | 49 | 18 | 1 | 17 | 31 | 0.1 |
 | aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 29.1 |
-| eia_energy | OK | 14 | 0 | 0 | 0 | 14 | 2.0 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.1 |
-| wsj_world | OK | 73 | 31 | 4 | 27 | 42 | 0.0 |
-| wsj_markets | OK | 61 | 35 | 13 | 22 | 26 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 29.3 |
+| eia_energy | OK | 14 | 0 | 0 | 0 | 14 | 2.2 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.3 |
+| wsj_world | OK | 74 | 11 | 4 | 7 | 63 | 0.0 |
+| wsj_markets | OK | 61 | 24 | 5 | 19 | 37 | 0.0 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 30 | 6 | 24 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 18 | 6 | 12 | 12 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - yahoo_finance — FAIL, HTTP 404
