@@ -1,8 +1,8 @@
 # News Pack — Trading Day 10 Oct 2026
 
 - Trading day: **10 Oct 03:00 -> 11 Oct 02:59 PKT**
-- Aakhri update: **10 Oct 04:13 PKT**
-- Kul khabrein: **43**
+- Aakhri update: **10 Oct 07:24 PKT**
+- Kul khabrein: **77**
 - Feeds: 37/39 OK
 
 ---
@@ -30,6 +30,16 @@ Speculative investors scaled back their bullish bets on gold in the latest repor
 
 ### USD
 
+**US Dollar Strengthens as Fed Rate Hike Fears Grow**
+`10 Oct 07:02 PKT` · pehli baar dekhi `10 Oct 07:24` · actionforex
+
+US dollar remains strong despite weakening consumer sentiment: The University of Michigan Consumer Sentiment Index fell to 46.3 in October, signaling growing financial pressure on American households and concerns about future consumer spending. Rising inflation expectations fuel speculation about further Fed rate hikes: US consumers expect inflation to reach 4.7% over the next 12 months, [&#8230;] The post US Dollar Strengthens as Fed Rate Hike Fears Grow appeared first on ActionForex.
+
+**Economics Week Ahead**
+`10 Oct 06:46 PKT` · pehli baar dekhi `10 Oct 07:24` · actionforex
+
+Next week&#8217;s U.S. CPI release should show prices rose 0.6% in September, driven by energy, while core inflation remains contained, consistent with a Fed hold in October. September existing home sales likely slipped 1.0%, while retail sales should show resilient but moderating spending. Abroad, we expect monthly U.K. GDP to show above-consensus momentum with a [&#8230;] The post Economics Week Ahead appeared first on ActionForex.
+
 **Ibovespa Hits Record High on Election Polls**
 `10 Oct 04:13 PKT` · instaforex
 
@@ -41,6 +51,27 @@ The Ibovespa climbed 1.4% on Friday to a record close of 209,067 points, after t
 The Mexican peso weakened to about 18.44 per US dollar in October, approaching a one‑year low following the release of the Bank of Mexico's meeting minutes. The currency became one of the worst performers among emerging markets, as the minutes kept open the prospect of additional interest-rate cuts. Most members of the Governing Board indicated that moderating core inflation and subdued domestic consumption create scope to continue easing monetary policy through late 2026 and into early 2027.
 
 ### EUR
+
+**EUR/AUD Weekly Outlook**
+`10 Oct 07:19 PKT` · pehli baar dekhi `10 Oct 07:24` · actionforex · **2 feeds mein**
+
+EUR/AUD&#8217;s break of 1.6072 support last week indicates resumption of whole down trend from 1.8554. Initial bias stays on the downside this week for 61.8% projection of 1.6617 to 1.6072 from 1.6334 at 1.597. Firm break there will target 100% projection at 1.5789. On the upside, above 1.6119 minor resistance will turn bias neutral and [&#8230;] The post EUR/AUD Weekly Outlook appeared first on ActionForex.
+  - `10 Oct 07:11` *actionforex* — EUR/CHF Weekly Outlook
+
+**France: Debt Risks Are Mounting**
+`10 Oct 07:01 PKT` · pehli baar dekhi `10 Oct 07:24` · actionforex
+
+A narrower French bond spread has eased immediate market stress, but fiscal concerns remain unresolved. High public debt leaves euro area governments vulnerable to rising borrowing costs. Pressure on Italian bonds highlights the risk of tensions spreading beyond France. Stronger banks and ECB intervention tools provide greater protection than during the previous debt crisis. Credible [&#8230;] The post France: Debt Risks Are Mounting appeared first on ActionForex.
+
+**Two Renoir paintings recovered after France museum heist, mayor says**
+`10 Oct 06:23 PKT` · pehli baar dekhi `10 Oct 07:24` · aljazeera
+
+The recovered Renoir paintings, valued at millions, were stolen in a daring heist at Cagnes-sur-Mer last month.
+
+**Your debt, my inflation: The role of trust in the ECB - CEPR**
+`10 Oct 04:53 PKT` · pehli baar dekhi `10 Oct 07:24` · gnews_centralbanks
+
+Your debt, my inflation: The role of trust in the ECB CEPR
 
 **Speculative Bets Against Euro Deepen as CFTC Net Shorts Widen to -99.3K**
 `10 Oct 04:13 PKT` · instaforex
@@ -69,6 +100,16 @@ Speculative interest in the Japanese yen strengthened further, with CFTC JPY spe
 Traders trimmed their bearish positions on the Swiss franc in the latest reporting period, according to updated figures on CHF speculative net positions released on 09 October 2026. Data show that net speculative positioning in the franc improved to -23.7K contracts, compared with -24.6K previously. While the gauge remains in negative territory, indicating that short positions still outweigh longs, the modest move suggests a slight easing in pessimism toward the Swiss currency.
 
 ### CAD
+
+**The Weekly Bottom Line: U.S. Treasuries Stabilize as Oil Prices Oscillate**
+`10 Oct 06:50 PKT` · pehli baar dekhi `10 Oct 07:24` · actionforex
+
+Our summary of recent economic events and what to expect in the weeks ahead. Canadian Highlights Canadian labour market momentum softened further in September, strengthening the case for a Bank of Canada pause later this month. Strong August trade data point to modest support for Q3 growth, though tariff-related front-running could lead to softer trade [&#8230;] The post The Weekly Bottom Line: U.S. Treasuries Stabilize as Oil Prices Oscillate appeared first on ActionForex.
+
+**Canadian Industry Data to Point to a Modest GDP Rebound in August**
+`10 Oct 06:42 PKT` · pehli baar dekhi `10 Oct 07:24` · actionforex
+
+Canada's economy entered Q3 on a softer footing as activity stalled in July. Statistics Canada's advance estimates pointed to a 0.2% increase in August, but declining home resales already released and weaker manufacturing, wholesale shipments expected next Thursday suggest a more modest increase. New U.S. Section 338 tariffs targeting 5% of imports from Canada came [&#8230;] The post Canadian Industry Data to Point to a Modest GDP Rebound in August appeared first on ActionForex.
 
 **Speculators Deepen Bearish Bets on Canadian Dollar as Net Shorts Widen**
 `10 Oct 04:13 PKT` · instaforex
@@ -100,6 +141,21 @@ The Aussie Dollar ended Friday's session on a positive note, gaining 0.38% and 0
 Speculative sentiment toward the New Zealand dollar has turned more negative, with the latest CFTC data showing an increase in net short positions. According to figures updated on 09 October 2026, NZD speculative net positions fell to -29.3K, from a previous reading of -17.3K. The move represents a notable expansion in bearish bets against the kiwi, suggesting that traders and leveraged funds have grown more cautious on New Zealand's currency.
 
 ### OIL
+
+**US stocks rebounded and oil prices cooled after the US President's statement on Iran. - Vietnam.vn**
+`10 Oct 06:02 PKT` · pehli baar dekhi `10 Oct 07:24` · gnews_geopolitics
+
+US stocks rebounded and oil prices cooled after the US President's statement on Iran. Vietnam.vn
+
+**Oil rises as Isaias cuts over 70% of US Gulf output on Oct 9 - Nation Thailand**
+`10 Oct 05:00 PKT` · pehli baar dekhi `10 Oct 07:24` · gnews_geopolitics
+
+Oil rises as Isaias cuts over 70% of US Gulf output on Oct 9 Nation Thailand
+
+**Oil prices settle higher - Business Recorder**
+`10 Oct 04:39 PKT` · pehli baar dekhi `10 Oct 07:24` · gnews_geopolitics
+
+Oil prices settle higher Business Recorder
 
 **Oil Wavers on Potential Russian Diesel Release**
 `10 Oct 04:13 PKT` · instaforex
@@ -138,15 +194,42 @@ The Trump administration has enlisted Russia to help boost U.S. and global diese
 
 ### RISK
 
+**Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks**
+`10 Oct 06:40 PKT` · pehli baar dekhi `10 Oct 07:24` · aljazeera
+
+Drone attacks on Moscow during last month&#039;s election undermined trilateral peace negotiations, the Kremlin says.
+
+**Iran war live: Kremlin says Trump welcomed Russia's effort in Iran deal**
+`10 Oct 05:00 PKT` · pehli baar dekhi `10 Oct 07:24` · aljazeera
+
+The Kremlin says the US president welcomes Russia&#039;s involvement in efforts aimed at reaching a settlement over Iran.
+
+**Mexico investigates video said to show cartel members fighting for Ukraine**
+`10 Oct 03:50 PKT` · pehli baar dekhi `10 Oct 07:24` · aljazeera
+
+Mexico is investigating a viral video showing suspected mercenaries chanting cartel slogans while fighting in Ukraine.
+
 **Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices**
 `10 Oct 03:30 PKT` · pehli baar dekhi `10 Oct 04:13` · bbc_business
 
 The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.
 
-### BINA TAG (18)
+### BINA TAG (31)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `10 Oct 07:00` **wsj_world** — Houthis Bombard Saudi Air Links in Effort to Cut Kingdom Off From Rest of World
+- `10 Oct 07:00` **wsj_markets** — At Robinhood's Mecca for Risk-Loving Traders, Everyone Has a Tale of Getting Rich
+- `10 Oct 06:31` **investing_news** — Optimum communications director Neil Subin acquires $2.45m in stock
+- `10 Oct 06:24` **gnews_fed** — Federal reserve report shows families behind on loan payments - cbs8.com
+- `10 Oct 06:08` **investing_news** — Sequoia-backed Nuvacore seeks $2.5bn valuation in funding round - Reuters
+- `10 Oct 05:53` **aljazeera** — Dual quakes devastate southern Panama
+- `10 Oct 05:45` **investing_news** — InnSuites Hospitality Trust CEO Wirth reports $2.17 billion share disposition
+- `10 Oct 05:26` **gnews_fed** — Committee established to investigate Federal Reserve's Lisa Cook - WKYC
+- `10 Oct 05:22` **aljazeera** — Israeli drone attack wounds six in Lebanon near Syria border
+- `10 Oct 05:01` **aljazeera** — Intercommunal clashes kill 71 people in South Sudan
+- `10 Oct 05:00` **actionforex** — Summary 10/12 – 10/16
+- `10 Oct 04:38` **gnews_fed** — Why Trump's New Push Against Federal Reserve Governor Lisa C - ИФЗ РАН
 - `10 Oct 04:13` **instaforex** — US Stocks Rise on Earnings Optimism
 - `10 Oct 04:13` **instaforex** — Speculators Trim Bullish Bets on Brazil's Real as Net Long Positions Decline
 - `10 Oct 04:13` **instaforex** — Peso Bulls Retreat as CFTC Net Long MXN Positions Drop Sharply to 10.7K
@@ -163,16 +246,17 @@ The US president hopes to ease his party's pain before next month's midterm elec
 - `10 Oct 03:30` **investing_news** — Character.AI chatbots encouraged users to cut and starve themselves, Kentucky alleges
 - `10 Oct 03:30` **investing_news** — Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China
 - `10 Oct 03:16` **investing_news** — Clean Air Metals closes C$150,000 private placement
+- `10 Oct 03:15` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - WXLV
 - `10 Oct 03:07` **gnews_fed** — Trump Announces New Investigation of Federal Reserve Governor - The Well News
 - `10 Oct 03:06` **investing_news** — Kalshi probes suspicious trades tied to Trump press secretary pick, WSJ reports
 
 ---
 
-## Shor — 3 khabrein hatai gayin
+## Shor — 9 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (3)
+investing_news (9)
 
 ---
 
@@ -182,45 +266,45 @@ investing_news (3)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 4 | 21 | 0 | 0.1 |
-| fxstreet_news | OK | 30 | 30 | 10 | 20 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 8 | 1 | 7 | 22 | 0.2 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | OK | 3 | 2 | 0 | 2 | 1 | 0.3 |
-| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.1 |
-| wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.1 |
-| cme_metals_video | OK | 10 | 2 | 2 | 0 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.1 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 29.2 |
-| kitco_general | OK | 36 | 35 | 13 | 22 | 1 | 0.1 |
-| gnews_fed | OK | 100 | 100 | 48 | 52 | 0 | 0.0 |
-| gnews_geopolitics | OK | 100 | 100 | 33 | 67 | 0 | 0.0 |
-| gnews_centralbanks | OK | 51 | 51 | 13 | 38 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.6 |
-| boj_whatsnew | OK | 52 | 3 | 0 | 3 | 49 | 0.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 8.9 |
-| mining_com | OK | 36 | 7 | 1 | 6 | 29 | 0.1 |
-| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.4 |
-| bbc_business | OK | 52 | 22 | 3 | 19 | 30 | 0.0 |
-| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.1 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
+| fxstreet_news | OK | 30 | 30 | 0 | 30 | 0 | 0.2 |
+| fxstreet_analysis | OK | 30 | 8 | 0 | 8 | 22 | 0.3 |
+| actionforex | OK | 20 | 20 | 8 | 12 | 0 | 0.0 |
+| marketpulse | OK | 3 | 2 | 0 | 2 | 1 | 0.4 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.2 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 29.3 |
+| kitco_general | OK | 37 | 36 | 1 | 35 | 1 | 0.1 |
+| gnews_fed | OK | 100 | 100 | 17 | 83 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 13 | 87 | 0 | 0.1 |
+| gnews_centralbanks | OK | 49 | 49 | 4 | 45 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.7 |
+| boj_whatsnew | OK | 51 | 3 | 0 | 3 | 48 | 0.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.0 |
+| mining_com | OK | 36 | 7 | 0 | 7 | 29 | 0.3 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.2 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.5 |
+| bbc_business | OK | 52 | 22 | 0 | 22 | 30 | 0.1 |
+| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 29.5 |
-| eia_energy | OK | 14 | 0 | 0 | 0 | 14 | 2.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.4 |
-| wsj_world | OK | 73 | 16 | 5 | 11 | 57 | 0.0 |
-| wsj_markets | OK | 61 | 28 | 7 | 21 | 33 | 0.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 29.6 |
+| eia_energy | OK | 14 | 0 | 0 | 0 | 14 | 2.5 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.6 |
+| wsj_world | OK | 72 | 17 | 1 | 16 | 55 | 0.0 |
+| wsj_markets | OK | 61 | 29 | 1 | 28 | 32 | 0.0 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 21 | 3 | 18 | 9 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 21 | 0 | 21 | 9 | 0.2 |
 
 **Jo feeds nahi aaye:**
 - yahoo_finance — FAIL, HTTP 404
