@@ -1,8 +1,8 @@
 # News Pack — Trading Day 10 Oct 2026
 
 - Trading day: **10 Oct 03:00 -> 11 Oct 02:59 PKT**
-- Aakhri update: **10 Oct 19:52 PKT**
-- Kul khabrein: **212**
+- Aakhri update: **11 Oct 00:06 PKT**
+- Kul khabrein: **279**
 - Feeds: 36/39 OK
 
 ---
@@ -10,6 +10,11 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**CFTC Report: Euro and Aussie shorts expand amid diverging signals**
+`10 Oct 20:54 PKT` · pehli baar dekhi `11 Oct 00:06` · fxstreet_analysis
+
+The week in one sentence: Euro and Australian Dollar shorts deepened in the week to October 6, while Yen longs rebuilt. In addition, Coffee buying continued, and Gold exposure remained elevated despite another price decline.
 
 **TSX Gains on BoC Rate-Hold Bets**
 `10 Oct 04:13 PKT` · instaforex
@@ -35,6 +40,26 @@ Speculative investors scaled back their bullish bets on gold in the latest repor
 
 ### USD
 
+**Trump forms committee to investigate Lisa Cook in renewed attempt to fire Fed governor - TheGrio**
+`10 Oct 23:46 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_fed
+
+Trump forms committee to investigate Lisa Cook in renewed attempt to fire Fed governor TheGrio
+
+**Does the FOMC Know When to Hold 'Em? - The Dark Side Of The Boom**
+`10 Oct 23:44 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_fed
+
+Does the FOMC Know When to Hold 'Em? The Dark Side Of The Boom
+
+**Expectations of Another Fed Rate Hike This Month Are Shifting Dramatically - The Globe and Mail**
+`10 Oct 21:11 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_fed
+
+Expectations of Another Fed Rate Hike This Month Are Shifting Dramatically The Globe and Mail
+
+**Trump Names Three of His Own Appointees to Judge Fed Gov. Lisa Cook, Behind Closed Doors, Two Days After the Midterms - Hoosier Enquirer**
+`10 Oct 20:06 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_fed
+
+Trump Names Three of His Own Appointees to Judge Fed Gov. Lisa Cook, Behind Closed Doors, Two Days After the Midterms Hoosier Enquirer
+
 **Pound To Dollar Near-Term Forecast: Three Banks Predict Different Recovery Paths - Exchange Rates UK**
 `10 Oct 19:30 PKT` · pehli baar dekhi `10 Oct 19:52` · gnews_centralbanks
 
@@ -45,6 +70,11 @@ Pound To Dollar Near-Term Forecast: Three Banks Predict Different Recovery Paths
 
 Rwanda's headline inflation rate accelerated for the sixth consecutive month, reaching 20.0% in September 2026, up from 15.9% in August, and posting its fastest increase since June 2023. The upturn was driven mainly by food and non-alcoholic beverages—the largest component of the consumer price basket—where inflation jumped to 25.2% from 16.7% in August, the highest rate since September 2023. Price pressures also intensified in several other categories, including communications (29.1% vs.
 
+**Rwanda's Inflation Surges as September CPI Jumps to 20% Year-on-Year**
+`10 Oct 19:00 PKT` · pehli baar dekhi `11 Oct 00:06` · instaforex
+
+Rwanda's consumer price inflation accelerated sharply in September 2026, with the Consumer Price Index (CPI) rising 20.00% year-on-year, up from 15.70% in August 2026. The data, updated on 10 October 2026, highlight a significant pickup in price pressures in the East African economy. Both the current and previous readings are measured on a year-over-year basis, comparing each month's CPI to the same month a year earlier.
+
 **S&P lifts UK GDP growth view on resilient consumer spending and services sector - The National**
 `10 Oct 17:00 PKT` · pehli baar dekhi `10 Oct 19:52` · gnews_centralbanks
 
@@ -54,6 +84,11 @@ S&P lifts UK GDP growth view on resilient consumer spending and services sector 
 `10 Oct 17:00 PKT` · pehli baar dekhi `10 Oct 19:52` · mw_topstories
 
 Look for inflation protection and unappreciated players in artificial intelligence, says the famed hedge-fund founder.
+
+**trump Escalates Effort to Remove Fed Governor Cook - Daily Times**
+`10 Oct 15:08 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_fed
+
+trump Escalates Effort to Remove Fed Governor Cook Daily Times
 
 **Has the Dollar Rally Stalled, or Is It Already Waiting for the Midterms?**
 `10 Oct 14:12 PKT` · pehli baar dekhi `10 Oct 19:52` · actionforex
@@ -88,6 +123,26 @@ Fed: Oldest families now US' wealthiest The Arkansas Democrat-Gazette
 **European bank stocks slide as bond yields spark investor caution**
 `10 Oct 11:33 PKT` · pehli baar dekhi `10 Oct 13:48` · investing_news
 
+**Trump forms panel to probe US Fed governor Lisa Cook - IraqiNews**
+`10 Oct 11:08 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_fed
+
+Trump forms panel to probe US Fed governor Lisa Cook IraqiNews
+
+**Fed Raises Interest Rates, Affecting Some Student Loans – The Abington Sun - Sites at Penn State**
+`10 Oct 10:29 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_fed
+
+Fed Raises Interest Rates, Affecting Some Student Loans – The Abington Sun Sites at Penn State
+
+**The Decisive Impact of Next Week's U.S. CPI Data: Will the Fed Skip an October Rate Hike? - 深潮TechFlow**
+`10 Oct 09:13 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_fed
+
+The Decisive Impact of Next Week's U.S. CPI Data: Will the Fed Skip an October Rate Hike? 深潮TechFlow
+
+**Trump forces hand-picked Fed chief into brawl 'whether he likes it or not': report - Raw Story**
+`10 Oct 08:55 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_fed
+
+Trump forces hand-picked Fed chief into brawl 'whether he likes it or not': report Raw Story
+
 **10 Words From the Fed Chair That Could Reshape Market Expectations - The Motley Fool**
 `10 Oct 08:15 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_fed · **2 feeds mein**
 
@@ -99,10 +154,37 @@ Fed: Oldest families now US' wealthiest The Arkansas Democrat-Gazette
 
 US dollar remains strong despite weakening consumer sentiment: The University of Michigan Consumer Sentiment Index fell to 46.3 in October, signaling growing financial pressure on American households and concerns about future consumer spending. Rising inflation expectations fuel speculation about further Fed rate hikes: US consumers expect inflation to reach 4.7% over the next 12 months, [&#8230;] The post US Dollar Strengthens as Fed Rate Hike Fears Grow appeared first on ActionForex.
 
+**The Latest: Trump establishes committee to investigate Fed's Lisa Cook in latest effort to fire her - Watauga Democrat**
+`10 Oct 06:50 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_fed · **3 feeds mein**
+
+The Latest: Trump establishes committee to investigate Fed's Lisa Cook in latest effort to fire her Watauga Democrat
+  - `10 Oct 04:29` *gnews_fed* — The Latest: Trump establishes committee to investigate Fed's Lisa Cook in latest effort to fire her - Messenger-Inquirer
+  - `10 Oct 03:53` *gnews_fed* — The Latest: Trump establishes committee to investigate Fed's Lisa Cook in latest effort to fire her - corsicanadailysun.com
+
 **Economics Week Ahead**
 `10 Oct 06:46 PKT` · pehli baar dekhi `10 Oct 07:24` · actionforex
 
 Next week&#8217;s U.S. CPI release should show prices rose 0.6% in September, driven by energy, while core inflation remains contained, consistent with a Fed hold in October. September existing home sales likely slipped 1.0%, while retail sales should show resilient but moderating spending. Abroad, we expect monthly U.K. GDP to show above-consensus momentum with a [&#8230;] The post Economics Week Ahead appeared first on ActionForex.
+
+**Trump renews bid to fire Fed's Cook with fresh White House inquiry - The Straits Times**
+`10 Oct 06:40 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_fed
+
+Trump renews bid to fire Fed's Cook with fresh White House inquiry The Straits Times
+
+**Stocktwits Weekly Spread: What Shaped Treasury Yields And The Dollar This Week - TradingView**
+`10 Oct 05:18 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_fed
+
+Stocktwits Weekly Spread: What Shaped Treasury Yields And The Dollar This Week TradingView
+
+**Trump to hold inquiry into Fed official at White House - Dawn**
+`10 Oct 04:44 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_fed
+
+Trump to hold inquiry into Fed official at White House Dawn
+
+**EXCLUSIVE: Trump's New Plot to Oust Fed Governor Lisa Cook Exposed — as White House Sets Closed-Door Hearing - RadarOnline**
+`10 Oct 04:26 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_fed
+
+EXCLUSIVE: Trump's New Plot to Oust Fed Governor Lisa Cook Exposed — as White House Sets Closed-Door Hearing RadarOnline
 
 **Ibovespa Hits Record High on Election Polls**
 `10 Oct 04:13 PKT` · instaforex
@@ -118,6 +200,11 @@ The Mexican peso weakened to about 18.44 per US dollar in October, approaching a
 `10 Oct 04:04 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_fed
 
 Trump Renews Effort to Fire Fed Governor Lisa Cook The Fiscal Times
+
+**Trump renews bid to oust Fed Governor Cook with mortgage fraud review panel - HousingWire**
+`10 Oct 03:21 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_fed
+
+Trump renews bid to oust Fed Governor Cook with mortgage fraud review panel HousingWire
 
 ### EUR
 
@@ -166,6 +253,11 @@ Your debt, my inflation: The role of trust in the ECB CEPR
 
 Speculative positioning in the euro turned markedly more bearish, with the latest CFTC data showing net short EUR positions widening to -99.3K contracts, up from -63.3K previously. The figures, updated on 9 October 2026, point to a significant build-up in bets against the common currency. The shift suggests that traders and speculative investors have grown more pessimistic on the euro's near-term outlook, adding to short positions at a notable pace.
 
+**ECB Targets 2029 Launch for Digital Euro - Briefs Finance**
+`10 Oct 03:35 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_centralbanks
+
+ECB Targets 2029 Launch for Digital Euro Briefs Finance
+
 ### GBP
 
 **British Pound: November Bank Of England Rate Hike Expected, Says MUFG - Exchange Rates UK**
@@ -190,6 +282,11 @@ GBP/USD stayed in range trading above 1.3179 last week. Initial bias remains neu
 Speculative sentiment toward the British pound has turned more negative, with traders increasing their net short positions, according to the latest data on CFTC GBP speculative net positions. As of 09 October 2026, net speculative positioning in sterling fell to -97.6K contracts, compared with -91.1K previously.
 
 ### JPY
+
+**Japan PM Takaichi works to shed reflationist label on market, US pressure - Nikkei Asia**
+`10 Oct 22:26 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_centralbanks
+
+Japan PM Takaichi works to shed reflationist label on market, US pressure Nikkei Asia
 
 **Trump complained about the weak yen. Days later, Japan PM Takaichi signals the end of reflation - The Business Times**
 `10 Oct 13:15 PKT` · pehli baar dekhi `10 Oct 19:52` · gnews_centralbanks
@@ -276,10 +373,35 @@ Speculative sentiment toward the New Zealand dollar has turned more negative, wi
 
 ### OIL
 
+**Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem**
+`11 Oct 00:00 PKT` · pehli baar dekhi `11 Oct 00:06` · oilprice
+
+The war in Iran has exposed a critical vulnerability in Southeast Asia's energy markets. The region is heavily dependent on fossil fuel imports, and demand is continuing its steep growth trajectory even as global crude oil prices remain punishingly high. Though the Strait of Hormuz is finally reopening, restoring flows of crude oil out of the Persian Gulf and toward Asian buyers, global oil markets have a long road toward recovery.
+
+**Yen Falls Back in New York, Mid-158 Range as Rising U.S. Yields on Crude Oil Gains Weigh - BigGo Finance**
+`10 Oct 23:16 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_centralbanks
+
+Yen Falls Back in New York, Mid-158 Range as Rising U.S. Yields on Crude Oil Gains Weigh BigGo Finance
+
+**Crude Oil Price Forecast: Trump Says He Won't Attack Iran Before Midterm Elections, Will Oil Prices Start a New Decline? - TradingKey**
+`10 Oct 23:07 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_geopolitics
+
+Crude Oil Price Forecast: Trump Says He Won't Attack Iran Before Midterm Elections, Will Oil Prices Start a New Decline? TradingKey
+
+**Iran's oil lifeline could run dry by mid-December, Kpler says - Iran International**
+`10 Oct 19:33 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_geopolitics
+
+Iran's oil lifeline could run dry by mid-December, Kpler says Iran International
+
 **Oil Prices Rise as Hurricane Isaias Shuts 72% of US Gulf Production | - Business Post Nigeria**
 `10 Oct 17:08 PKT` · pehli baar dekhi `10 Oct 19:52` · gnews_geopolitics
 
 Oil Prices Rise as Hurricane Isaias Shuts 72% of US Gulf Production | Business Post Nigeria
+
+**What Country Has the Most Oil? Not Iran, Not the U.S. - HowStuffWorks**
+`10 Oct 15:36 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_geopolitics
+
+What Country Has the Most Oil? Not Iran, Not the U.S. HowStuffWorks
 
 **Trump Reveals Russian Diesel Supply Plan as Oil Markets Face Pressure - Coin Edition**
 `10 Oct 15:02 PKT` · pehli baar dekhi `10 Oct 19:52` · gnews_geopolitics
@@ -290,6 +412,11 @@ Trump Reveals Russian Diesel Supply Plan as Oil Markets Face Pressure Coin Editi
 `10 Oct 14:50 PKT` · pehli baar dekhi `10 Oct 19:52` · gnews_geopolitics
 
 Benchmark oil prices defy easing US-Iran tensions ahead of EPRA fuel review The Eastleigh Voice
+
+**Crude Oil Prices Mixed, Brent Rises 0.5% In 5-Day, WTI Dips - MarketForces Africa**
+`10 Oct 14:46 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_geopolitics
+
+Crude Oil Prices Mixed, Brent Rises 0.5% In 5-Day, WTI Dips MarketForces Africa
 
 **Trump-Putin Diesel Deal: Will US Crude Oil Fall Below $90? - TradingView**
 `10 Oct 11:14 PKT` · pehli baar dekhi `10 Oct 19:52` · gnews_geopolitics
@@ -391,7 +518,27 @@ The Trump administration has enlisted Russia to help boost U.S. and global diese
 
 The round follows increased international demand for Meanwhile's Bitcoin life insurance policies amid broader macro instability.
 
+**Fed Minutes Highlight US Inflation, INDODAX Warns Crypto Investors to Watch Risks - VOI.ID**
+`10 Oct 04:03 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_fed
+
+Fed Minutes Highlight US Inflation, INDODAX Warns Crypto Investors to Watch Risks VOI.ID
+
 ### RISK
+
+**Photos: Thousands march across Europe to demand end to Israel's war on Gaza**
+`10 Oct 23:26 PKT` · pehli baar dekhi `11 Oct 00:06` · aljazeera
+
+Demonstrations in London, Berlin, and Rome denounce ongoing Israeli attacks on Gaza &#039;ceasefire&#039; anniversary.
+
+**Eritrea urges UN to intervene in standoff with Ethiopia**
+`10 Oct 21:41 PKT` · pehli baar dekhi `11 Oct 00:06` · aljazeera
+
+The neighbouring countries blame one another for starting war amid heightened tensions and fears of a wider conflict.
+
+**The Iran War Is Fueling a Boom in Clean Energy**
+`10 Oct 20:00 PKT` · pehli baar dekhi `11 Oct 00:06` · oilprice
+
+The Iran war might have done exactly what President Trump was trying to avoid: turning the world away from fossil fuels to alternative energy sources, because of the wide range of vulnerabilities it has exposed in the international energy system. Restrictions on trade through the Strait of Hormuz have underscored just how dependent many countries are on this waterway for fossil fuel imports, prompting governments to seek alternative suppliers and accelerate the deployment of renewable energy ...
 
 **Why is the US sanctioning the International Criminal Court?**
 `10 Oct 19:19 PKT` · pehli baar dekhi `10 Oct 19:52` · aljazeera
@@ -438,6 +585,11 @@ Analysts say board has &#039;failed&#039; in its attempts to secure lasting peac
 
 New York Fed study: 2025-2026 tariffs raised consumer goods prices ABC15 Arizona
 
+**Iran targets Gulf countries' energy infrastructure after Israeli strike on gas field - ABC News - Breaking News, Latest News and Videos**
+`10 Oct 15:23 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_geopolitics
+
+Iran targets Gulf countries' energy infrastructure after Israeli strike on gas field ABC News - Breaking News, Latest News and Videos
+
 **A year after the 'ceasefire', Gaza's healthcare is still collapsing**
 `10 Oct 14:30 PKT` · pehli baar dekhi `10 Oct 19:52` · aljazeera
 
@@ -483,6 +635,12 @@ Trump says Russia to supply diesel as US eases sanctions Aaj English TV
 
 Putin, Trump discuss Ukraine, Iran, Russian oil supplies in phone call Asianet Newsable
 
+**New York Federal Reserve says inflation on everyday items is because of tariffs - WUHF**
+`10 Oct 07:13 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_fed · **2 feeds mein**
+
+New York Federal Reserve says inflation on everyday items is because of tariffs WUHF
+  - `10 Oct 03:14` *gnews_fed* — New York Federal Reserve says inflation on everyday items is because of tariffs - WZTV
+
 **Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks**
 `10 Oct 06:40 PKT` · pehli baar dekhi `10 Oct 07:24` · aljazeera
 
@@ -508,20 +666,36 @@ Mexico is investigating a viral video showing suspected mercenaries chanting car
 
 The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.
 
-**New York Federal Reserve says inflation on everyday items is because of tariffs - WZTV**
-`10 Oct 03:14 PKT` · pehli baar dekhi `10 Oct 19:52` · gnews_fed
-
-New York Federal Reserve says inflation on everyday items is because of tariffs WZTV
-
 **Trump says Russia agreed to supply millions of tons of diesel to US and global markets as he blames Ukraine for fuel price hikes driven by Iran war - Euromaidan Press**
 `10 Oct 03:06 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
 
 Trump says Russia agreed to supply millions of tons of diesel to US and global markets as he blames Ukraine for fuel price hikes driven by Iran war Euromaidan Press
 
-### BINA TAG (98)
+### BINA TAG (126)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `10 Oct 23:53` **wsj_world** — Saudi Arabia Closes Airport in Riyadh After Damaging New Houthi Attack
+- `10 Oct 23:38` **gnews_fed** — Boomers, Elite Made Killing After Pandemic While Everyone Else Drowned - The Daily Caller
+- `10 Oct 23:08` **aljazeera** — Attack on airport in Saudi capital, Riyadh, leaves several injured
+- `10 Oct 22:48` **aljazeera** — Nine killed in shooting in US state of Pennsylvania, including two children
+- `10 Oct 22:48` **investing_news** — India's Infosys does not expect material impact from US PERM suspension
+- `10 Oct 22:38` **aljazeera** — Pope says death penalty 'inadmissible' as US plans to livestream execution
+- `10 Oct 22:37` **aljazeera** — Video shows rare albino Asian black bear
+- `10 Oct 22:31` **investing_news** — Pacific Biosciences CFO reports $2.05m stock sale
+- `10 Oct 22:08` **aljazeera** — Christa Pike discharged from hospital and returned to Tennessee prison
+- `10 Oct 21:54` **aljazeera** — Celebrations in Ethiopian city after reported Eritrean 'incursion'
+- `10 Oct 21:50` **mw_topstories** — Elon Musk is now richer than any American ever — and it's not even close
+- `10 Oct 21:36` **investing_commodities** — Abbas postpones Palestinian elections, sets presidential poll for September 2027
+- `10 Oct 21:06` **gnews_centralbanks** — Economic pressures raise concerns for UK property market - PropertyWire
+- `10 Oct 20:50` **gnews_centralbanks** — S&P Upgrades UK Growth Forecast to 1.3% as Services and Consumer Spending Prove Resilient - News and Statistics - IndexBox
+- `10 Oct 20:45` **aljazeera** — Hurricane Isaias leaves two dead and 800,000 without power in US Southeast
+- `10 Oct 20:21` **aljazeera** — Trump Accounts: Free money, but who gets a say?
+- `10 Oct 20:19` **aljazeera** — With or without Hamas
+- `10 Oct 20:13` **aljazeera** — Three injured in third school attack in Poland in less than a week
+- `10 Oct 20:11` **aljazeera** — Liverpool vs Man City: Premier League – teams, prediction, Haaland, charges
+- `10 Oct 20:02` **gnews_fed** — Growing Number of American Families Allocate Over 40% of Income to Debt Payments, Federal Reserve Reports - CubaHeadlines
+- `10 Oct 19:54` **gnews_centralbanks** — Weekend quotes: why the rise in bonds threatens mortgages, companies, and budgets - Demócrata
 - `10 Oct 19:42` **aljazeera** — Arsenal beat Leeds 2-1 in comeback win to move level with Man City at top
 - `10 Oct 19:39` **aljazeera** — Jerusalem Daily: Israeli settlers attack olive farmers
 - `10 Oct 19:34` **wsj_world** — India Locks Down Heart of Capital to Thwart Voter Rights Protest
@@ -529,6 +703,7 @@ Trump says Russia agreed to supply millions of tons of diesel to US and global m
 - `10 Oct 19:18` **aljazeera** — Abbas postpones Palestinian legislative elections to September 2027
 - `10 Oct 19:05` **investing_news** — Philips wins Dutch court battle with shareholders over sleep apnea recall
 - `10 Oct 19:00` **wsj_world** — The Nordic Formula for Prospering in a Dangerous, Fragmented World
+- `10 Oct 18:59` **gnews_fed** — Americans' Incomes, Net Worth Climbed in Post-Pandemic Years: Federal Reserve - NTD News
 - `10 Oct 18:50` **aljazeera** — When streets become a workplace: Gaza workers convert tents into offices
 - `10 Oct 18:34` **gnews_centralbanks** — Shakespeare's Globe accused of 'discriminating' with higher school trip fees for private pupils - London Evening Standard
 - `10 Oct 18:30` **investing_news** — Spanish lawyer Gonzalez Durantez launches centrist party for November election
@@ -571,8 +746,10 @@ Trump says Russia agreed to supply millions of tons of diesel to US and global m
 - `10 Oct 12:19` **aljazeera** — Saudi-led coalition says it's carrying out operation in Yemen
 - `10 Oct 12:17` **aljazeera** — 'How can you stop these kids?' Indian capital on lockdown before protests
 - `10 Oct 12:13` **aljazeera** — India's Cockroach Party founder, top leaders detained ahead of protest
+- `10 Oct 12:13` **gnews_centralbanks** — Investor Focus: Mortgage Rates Hit 6%, Best UK Dividend Stocks, and £15,000 Income Tax Allowance - Morningstar
 - `10 Oct 12:10` **investing_news** — China creates 10.52 million jobs, plans new AI and services employment measures
 - `10 Oct 11:47` **aljazeera** — Trump slams Norway for not awarding him Nobel Peace Prize
+- `10 Oct 11:44` **gnews_centralbanks** — Mortgage warning with number of approvals at lowest level since 2023 - Birmingham Live
 - `10 Oct 11:26` **gnews_centralbanks** — For first-time buyers, 6% mortgages are the new 12% - The Observer
 - `10 Oct 11:20` **aljazeera** — Yemen's Taiz under siege again as food and fuel prices rise
 - `10 Oct 11:16` **investing_news** — EOS Climbs 17% In a Green Day
@@ -587,6 +764,7 @@ Trump says Russia agreed to supply millions of tons of diesel to US and global m
 - `10 Oct 09:07` **aljazeera** — India deploys police and restricts transport ahead of mass protest in Delhi
 - `10 Oct 08:38` **aljazeera** — CCTV footage shows ICE shooting in New York
 - `10 Oct 07:35` **aljazeera** — Elon Musk lashes out at Indian 'Prime Minister' Mukesh Ambani in Starlink
+- `10 Oct 07:34` **gnews_fed** — Young Americans Are Losing Ground As Older Generations Pull Ahead - The Daily Wire
 - `10 Oct 07:00` **wsj_world** — Houthis Bombard Saudi Air Links in Effort to Cut Kingdom Off From Rest of World
 - `10 Oct 07:00` **wsj_markets** — At Robinhood's Mecca for Risk-Loving Traders, Everyone Has a Tale of Getting Rich
 - `10 Oct 06:31` **investing_news** — Optimum communications director Neil Subin acquires $2.45m in stock
@@ -596,11 +774,13 @@ Trump says Russia agreed to supply millions of tons of diesel to US and global m
 - `10 Oct 05:45` **investing_news** — InnSuites Hospitality Trust CEO Wirth reports $2.17 billion share disposition
 - `10 Oct 05:34` **kitco_general** — TAG: global central bank reserves - Kitco
 - `10 Oct 05:26` **gnews_fed** — Committee established to investigate Federal Reserve's Lisa Cook - WKYC
+- `10 Oct 05:25` **gnews_fed** — US Banks Are In Correction Territory Ahead Of Results Next Week, And Wall Street Thinks It's A Good Buying Opportunity - TradingView
 - `10 Oct 05:22` **aljazeera** — Israeli drone attack wounds six in Lebanon near Syria border
 - `10 Oct 05:01` **aljazeera** — Intercommunal clashes kill 71 people in South Sudan
 - `10 Oct 05:00` **actionforex** — Summary 10/12 – 10/16
 - `10 Oct 04:43` **gnews_centralbanks** — TMGM Daily Market Breakfast: 09 October 2026 - www.tmgm.com
 - `10 Oct 04:38` **gnews_fed** — Why Trump's New Push Against Federal Reserve Governor Lisa C - ИФЗ РАН
+- `10 Oct 04:28` **gnews_fed** — U.S. Family Debt Delinquencies Hit Worst Levels Since Great Recession Era, Federal Reserve Survey Finds - London Insider
 - `10 Oct 04:13` **instaforex** — US Stocks Rise on Earnings Optimism
 - `10 Oct 04:13` **instaforex** — Speculators Trim Bullish Bets on Brazil's Real as Net Long Positions Decline
 - `10 Oct 04:13` **instaforex** — Peso Bulls Retreat as CFTC Net Long MXN Positions Drop Sharply to 10.7K
@@ -614,6 +794,7 @@ Trump says Russia agreed to supply millions of tons of diesel to US and global m
 - `10 Oct 04:13` **instaforex** — Speculative Bets on Aluminium Stay Flat as CFTC Positions Hold Steady
 - `10 Oct 03:44` **investing_news** — FDA approves Hovilpri for refractory HSV in immunocompromised adults
 - `10 Oct 03:42` **investing_news** — Exclusive-Sequoia-backed chip startup Nuvacore raising funds at about a $2.5 billion valuation, sources say
+- `10 Oct 03:31` **gnews_fed** — Federal Reserve Cook - Washington Times
 - `10 Oct 03:30` **investing_news** — Character.AI chatbots encouraged users to cut and starve themselves, Kentucky alleges
 - `10 Oct 03:30` **investing_news** — Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China
 - `10 Oct 03:16` **investing_news** — Clean Air Metals closes C$150,000 private placement
@@ -623,11 +804,11 @@ Trump says Russia agreed to supply millions of tons of diesel to US and global m
 
 ---
 
-## Shor — 11 khabrein hatai gayin
+## Shor — 17 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (11)
+investing_news (17)
 
 ---
 
@@ -637,45 +818,46 @@ investing_news (11)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 1 | 0 | 24 | 0.1 |
-| fxstreet_news | OK | 30 | 1 | 0 | 1 | 29 | 0.7 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 0.8 |
-| actionforex | OK | 20 | 18 | 1 | 17 | 2 | 0.2 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 0.9 |
-| instaforex | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
-| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 0.8 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 29.8 |
-| kitco_general | OK | 22 | 8 | 0 | 8 | 14 | 0.6 |
-| gnews_fed | OK | 100 | 21 | 6 | 15 | 79 | 0.1 |
-| gnews_geopolitics | OK | 80 | 23 | 6 | 17 | 57 | 0.1 |
-| gnews_centralbanks | OK | 41 | 17 | 12 | 5 | 24 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.9 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.2 |
-| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 1.2 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.6 |
-| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 0.8 |
-| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
-| investing_commodities | OK | 10 | 3 | 2 | 1 | 7 | 0.1 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| bbc_business | OK | 52 | 5 | 1 | 4 | 47 | 0.0 |
-| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.3 |
+| fxstreet_news | OK | 30 | 1 | 0 | 1 | 29 | 0.9 |
+| fxstreet_analysis | OK | 30 | 1 | 1 | 0 | 29 | 0.1 |
+| actionforex | OK | 20 | 18 | 0 | 18 | 2 | 0.4 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.1 |
+| instaforex | OK | 25 | 25 | 1 | 24 | 0 | 0.2 |
+| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 0.9 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 30.0 |
+| kitco_general | OK | 14 | 11 | 0 | 11 | 3 | 0.7 |
+| gnews_fed | OK | 85 | 46 | 26 | 20 | 39 | 0.0 |
+| gnews_geopolitics | OK | 72 | 28 | 5 | 23 | 44 | 0.0 |
+| gnews_centralbanks | OK | 34 | 25 | 8 | 17 | 9 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.0 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.4 |
+| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 1.4 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.7 |
+| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 0.9 |
+| oilprice | OK | 15 | 3 | 2 | 1 | 12 | 0.0 |
+| investing_commodities | OK | 10 | 4 | 1 | 3 | 6 | 0.1 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| bbc_business | OK | 52 | 5 | 0 | 5 | 47 | 0.2 |
+| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 30.2 |
-| eia_energy | WARN | 14 | 0 | 0 | 0 | 14 | 3.0 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 4.1 |
-| wsj_world | OK | 70 | 5 | 2 | 3 | 65 | 0.0 |
-| wsj_markets | OK | 61 | 1 | 0 | 1 | 60 | 0.5 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 30.3 |
+| eia_energy | WARN | 14 | 0 | 0 | 0 | 14 | 3.2 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 4.3 |
+| wsj_world | OK | 71 | 6 | 1 | 5 | 65 | 0.0 |
+| wsj_markets | OK | 61 | 1 | 0 | 1 | 60 | 0.7 |
 | investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 7 | 3 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 4 | 2 | 2 | 26 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.3 |
 
 **Jo feeds nahi aaye:**
+- cme_risk_management — STALE, cadence 10d, magar 30d purana
 - yahoo_finance — FAIL, HTTP 404
