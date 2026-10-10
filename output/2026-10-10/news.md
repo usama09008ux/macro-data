@@ -1,8 +1,8 @@
 # News Pack — Trading Day 10 Oct 2026
 
 - Trading day: **10 Oct 03:00 -> 11 Oct 02:59 PKT**
-- Aakhri update: **10 Oct 07:24 PKT**
-- Kul khabrein: **77**
+- Aakhri update: **10 Oct 13:48 PKT**
+- Kul khabrein: **138**
 - Feeds: 37/39 OK
 
 ---
@@ -30,6 +30,35 @@ Speculative investors scaled back their bullish bets on gold in the latest repor
 
 ### USD
 
+**Egypt Inflation Rate at 7-Month Low of 13.9%**
+`10 Oct 13:48 PKT` · instaforex
+
+Egypt's annual urban inflation eased for the second consecutive month to 13.9% in September 2026, down from 14.5% in August, reaching its lowest level since February. The moderation was largely driven by the diminishing impact of earlier fuel price hikes. Transport inflation edged down to 24.3% in September from 24.4% in August, while inflation in housing and utilities slowed more markedly, falling to 35.2% from 42.8%.
+
+**Egypt's Inflation Eases in September as Annual CPI Slips to 13.9%**
+`10 Oct 13:48 PKT` · instaforex
+
+Egypt's consumer price growth slowed in September 2026, with the year-over-year Consumer Price Index (CPI) easing to 13.90%, down from 14.50% in August 2026. The latest data, updated on 10 October 2026, indicate a modest cooling in inflationary pressures across the economy. Both the current and previous readings are calculated on a year-over-year basis, comparing each month's price levels with those of the same month a year earlier.
+
+**Trump appoints committee to revive quest to remove Lisa Cook from Fed board - Now Georgia**
+`10 Oct 13:41 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_fed
+
+Trump appoints committee to revive quest to remove Lisa Cook from Fed board Now Georgia
+
+**Fed: Oldest families now US' wealthiest - The Arkansas Democrat-Gazette**
+`10 Oct 11:46 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_fed
+
+Fed: Oldest families now US' wealthiest The Arkansas Democrat-Gazette
+
+**European bank stocks slide as bond yields spark investor caution**
+`10 Oct 11:33 PKT` · pehli baar dekhi `10 Oct 13:48` · investing_news
+
+**10 Words From the Fed Chair That Could Reshape Market Expectations - The Motley Fool**
+`10 Oct 08:15 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_fed · **2 feeds mein**
+
+10 Words From the Fed Chair That Could Reshape Market Expectations The Motley Fool
+  - `10 Oct 07:35` *gnews_fed* — 10 Words From the Fed Chair That Could Reshape Market Expectations - AOL.com
+
 **US Dollar Strengthens as Fed Rate Hike Fears Grow**
 `10 Oct 07:02 PKT` · pehli baar dekhi `10 Oct 07:24` · actionforex
 
@@ -50,13 +79,26 @@ The Ibovespa climbed 1.4% on Friday to a record close of 209,067 points, after t
 
 The Mexican peso weakened to about 18.44 per US dollar in October, approaching a one‑year low following the release of the Bank of Mexico's meeting minutes. The currency became one of the worst performers among emerging markets, as the minutes kept open the prospect of additional interest-rate cuts. Most members of the Governing Board indicated that moderating core inflation and subdued domestic consumption create scope to continue easing monetary policy through late 2026 and into early 2027.
 
+**Trump Renews Effort to Fire Fed Governor Lisa Cook - The Fiscal Times**
+`10 Oct 04:04 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_fed
+
+Trump Renews Effort to Fire Fed Governor Lisa Cook The Fiscal Times
+
 ### EUR
 
-**EUR/AUD Weekly Outlook**
-`10 Oct 07:19 PKT` · pehli baar dekhi `10 Oct 07:24` · actionforex · **2 feeds mein**
+**EUR/USD Weekly Outlook**
+`10 Oct 10:46 PKT` · pehli baar dekhi `10 Oct 13:48` · actionforex · **5 feeds mein**
 
-EUR/AUD&#8217;s break of 1.6072 support last week indicates resumption of whole down trend from 1.8554. Initial bias stays on the downside this week for 61.8% projection of 1.6617 to 1.6072 from 1.6334 at 1.597. Firm break there will target 100% projection at 1.5789. On the upside, above 1.6119 minor resistance will turn bias neutral and [&#8230;] The post EUR/AUD Weekly Outlook appeared first on ActionForex.
+EUR/USD edged lower to 1.1159 last week and breached 100% projection of 1.1848 to 1.1323 from 1.1710 at 1.1185, then turned sideway. Initial bias remains neutral this week and further decline is expected. Below 1.1159 will extend the fall from 1.1710 to 161.8% projection at 1.0861. Nevertheless, break of 1.1284 minor resistance will turn bias [&#8230;] The post EUR/USD Weekly Outlook appeared first on ActionForex.
+  - `10 Oct 07:34` *actionforex* — EUR/JPY Weekly Outlook
+  - `10 Oct 07:24` *actionforex* — EUR/GBP Weekly Outlook
+  - `10 Oct 07:19` *actionforex* — EUR/AUD Weekly Outlook
   - `10 Oct 07:11` *actionforex* — EUR/CHF Weekly Outlook
+
+**French fiscal risks raise chance of ECB pause after December - Investing.com**
+`10 Oct 09:32 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_centralbanks
+
+French fiscal risks raise chance of ECB pause after December Investing.com
 
 **France: Debt Risks Are Mounting**
 `10 Oct 07:01 PKT` · pehli baar dekhi `10 Oct 07:24` · actionforex
@@ -80,12 +122,23 @@ Speculative positioning in the euro turned markedly more bearish, with the lates
 
 ### GBP
 
+**GBP/USD Weekly Outlook**
+`10 Oct 10:38 PKT` · pehli baar dekhi `10 Oct 13:48` · actionforex · **2 feeds mein**
+
+GBP/USD stayed in range trading above 1.3179 last week. Initial bias remains neutral this week and further decline is in favor as long as 1.3310 resistance holds. Below 1.3179 will extend the fall from 1.3675 to 1.3139 support next. However, considering firm break of 1.3310 will turn bias back to the upside for stronger rebound. [&#8230;] The post GBP/USD Weekly Outlook appeared first on ActionForex.
+  - `10 Oct 07:35` *actionforex* — GBP/JPY Weekly Outlook
+
 **Speculators Deepen Net Short Bets on Pound as CFTC Positions Widen to -97.6K**
 `10 Oct 04:13 PKT` · instaforex
 
 Speculative sentiment toward the British pound has turned more negative, with traders increasing their net short positions, according to the latest data on CFTC GBP speculative net positions. As of 09 October 2026, net speculative positioning in sterling fell to -97.6K contracts, compared with -91.1K previously.
 
 ### JPY
+
+**USD/JPY Weekly Outlook**
+`10 Oct 10:41 PKT` · pehli baar dekhi `10 Oct 13:48` · actionforex
+
+USD/JPY continued to stay in sideway trading last week. Initial bias remains neutral this week and further rise is mildly in favor as long as 156.36 support holds. Above 159.02 will extend the rebound from 152.87 to 160.38 key structural resistance next. Nevertheless, break of 156.36 will bring deeper fall back to 152.87 support instead. [&#8230;] The post USD/JPY Weekly Outlook appeared first on ActionForex.
 
 **Speculators Deepen Long Bets on Yen as CFTC Net Positions Rise to 62.3K**
 `10 Oct 04:13 PKT` · instaforex
@@ -94,12 +147,22 @@ Speculative interest in the Japanese yen strengthened further, with CFTC JPY spe
 
 ### CHF
 
+**USD/CHF Weekly Outlook**
+`10 Oct 10:28 PKT` · pehli baar dekhi `10 Oct 13:48` · actionforex
+
+USD/CHF stayed in consolidations below 0.8382 short term top last week and outlook is unchanged. Initial bias remains neutral and more sideway trading could be seen. Further rise is expected as long as 0.8182 support holds. Above 0.8382 will resume the whole rise from 0.7603. However, firm break of 0.8182 will indicate that larger scale [&#8230;] The post USD/CHF Weekly Outlook appeared first on ActionForex.
+
 **Speculative Bets Against Swiss Franc Ease Slightly, CFTC Data Shows**
 `10 Oct 04:13 PKT` · instaforex
 
 Traders trimmed their bearish positions on the Swiss franc in the latest reporting period, according to updated figures on CHF speculative net positions released on 09 October 2026. Data show that net speculative positioning in the franc improved to -23.7K contracts, compared with -24.6K previously. While the gauge remains in negative territory, indicating that short positions still outweigh longs, the modest move suggests a slight easing in pessimism toward the Swiss currency.
 
 ### CAD
+
+**USD/CAD Weekly Outlook**
+`10 Oct 07:39 PKT` · pehli baar dekhi `10 Oct 13:48` · actionforex
+
+USD/CAD&#8217;s rally continued last week but stalled after hitting 1.4290 fibonacci resistance. Initial bias stays neutral this week first. Further rise is expected as long as 1.4200 support holds. Firm break of 1.4292 will target 100% projection of 1.3480 to 1.4247 from 1.3730 at 1.4497. Nevertheless, considering bearish divergence condition in 4H MACD, break of [&#8230;] The post USD/CAD Weekly Outlook appeared first on ActionForex.
 
 **The Weekly Bottom Line: U.S. Treasuries Stabilize as Oil Prices Oscillate**
 `10 Oct 06:50 PKT` · pehli baar dekhi `10 Oct 07:24` · actionforex
@@ -123,6 +186,11 @@ The stalwart of Britain's High Street has been sold to a Canadian billionaire fa
 
 ### AUD
 
+**AUD/USD Weekly Report**
+`10 Oct 07:42 PKT` · pehli baar dekhi `10 Oct 13:48` · actionforex
+
+AUD/USD stayed in consolidations above 0.6903 last week and outlook is unchanged. Initial bias stays neutral this week first. While stronger recovery cannot be ruled out, further decline is expected as long as 0.7038 resistance holds. Below 0.6903 will target 0.6864 support or further to 100% projection 0f 0.7277 to 0.6864 from 0.7237 at 0.6824. [&#8230;] The post AUD/USD Weekly Report appeared first on ActionForex.
+
 **Speculators Deepen Bearish Bets on Aussie Dollar as Net Shorts Hit -98.6K**
 `10 Oct 04:13 PKT` · instaforex
 
@@ -141,6 +209,36 @@ The Aussie Dollar ended Friday's session on a positive note, gaining 0.38% and 0
 Speculative sentiment toward the New Zealand dollar has turned more negative, with the latest CFTC data showing an increase in net short positions. According to figures updated on 09 October 2026, NZD speculative net positions fell to -29.3K, from a previous reading of -17.3K. The move represents a notable expansion in bearish bets against the kiwi, suggesting that traders and leveraged funds have grown more cautious on New Zealand's currency.
 
 ### OIL
+
+**Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply - OIR 091026 - Proshare**
+`10 Oct 09:51 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply - OIR 091026 Proshare
+
+**Hours after Trump-Putin diesel deal, Ukraine strikes Russian fuel site**
+`10 Oct 09:30 PKT` · pehli baar dekhi `10 Oct 13:48` · aljazeera
+
+Ukraine bombed a Russian fuel site, hours after US President Trump and Russian President Putin announced a diesel deal.
+
+**US Backs 1.25B Barrels of Gulf Oil Through Hormuz Amid Iran Blockade - News and Statistics - IndexBox**
+`10 Oct 09:01 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+US Backs 1.25B Barrels of Gulf Oil Through Hormuz Amid Iran Blockade - News and Statistics IndexBox
+
+**Putin Offers Oil Supplies to US as Trump Hails Russian Diesel Deal - Open Magazine**
+`10 Oct 08:14 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+Putin Offers Oil Supplies to US as Trump Hails Russian Diesel Deal Open Magazine
+
+**Boosting US oil supplies with Russian diesel unlikely to have much impact on prices, experts say - ABC News - Breaking News, Latest News and Videos**
+`10 Oct 07:58 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+Boosting US oil supplies with Russian diesel unlikely to have much impact on prices, experts say ABC News - Breaking News, Latest News and Videos
+
+**Trump defends Russian diesel deal, says US needs oil supplies - Telangana Today**
+`10 Oct 07:56 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+Trump defends Russian diesel deal, says US needs oil supplies Telangana Today
 
 **US stocks rebounded and oil prices cooled after the US President's statement on Iran. - Vietnam.vn**
 `10 Oct 06:02 PKT` · pehli baar dekhi `10 Oct 07:24` · gnews_geopolitics
@@ -192,7 +290,49 @@ The United States is producing more crude oil than ever. According to the Energy
 
 The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.
 
+### CRYPTO
+
+**Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds**
+`10 Oct 12:10 PKT` · pehli baar dekhi `10 Oct 13:48` · cointelegraph
+
+The round follows increased international demand for Meanwhile's Bitcoin life insurance policies amid broader macro instability.
+
 ### RISK
+
+**US lifts sanctions on daughter of military-linked Myanmar businessman**
+`10 Oct 12:50 PKT` · pehli baar dekhi `10 Oct 13:48` · aljazeera
+
+Delisting comes days after Trump administration reportedly reopened talks with Myanmar&#039;s government.
+
+**Trump Strikes Deal With Putin to Supply Russian Diesel to Ease Iran War Fuel Price Hikes - Haaretz**
+`10 Oct 12:22 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+Trump Strikes Deal With Putin to Supply Russian Diesel to Ease Iran War Fuel Price Hikes Haaretz
+
+**US hosts 'productive' trilateral talks to end Russia-Ukraine war**
+`10 Oct 10:43 PKT` · pehli baar dekhi `10 Oct 13:48` · aljazeera
+
+US envoy Steve Witkoff says renewed negotiations aim to ensure lasting peace before winter approaches.
+
+**Israel's economy prospers despite years of war, but prices worry voters**
+`10 Oct 10:28 PKT` · pehli baar dekhi `10 Oct 13:48` · aljazeera
+
+Tech is driving the economy, and investments are flowing in. But food costs are rising and debt is growing.
+
+**Taiwan president says defence spending boost aims to 'deter war'**
+`10 Oct 10:08 PKT` · pehli baar dekhi `10 Oct 13:48` · aljazeera
+
+President William Lai Ching-te emphasises peace and freedom, promises not to tolerate aggression in Taiwan Strait.
+
+**Putin and Trump discussed the situation in Ukraine, Iran, and oil supplies - open.kg**
+`10 Oct 09:36 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+Putin and Trump discussed the situation in Ukraine, Iran, and oil supplies open.kg
+
+**Trump says Russia to supply diesel as US eases sanctions - Aaj English TV**
+`10 Oct 08:50 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+Trump says Russia to supply diesel as US eases sanctions Aaj English TV
 
 **Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks**
 `10 Oct 06:40 PKT` · pehli baar dekhi `10 Oct 07:24` · aljazeera
@@ -204,6 +344,11 @@ Drone attacks on Moscow during last month&#039;s election undermined trilateral 
 
 The Kremlin says the US president welcomes Russia&#039;s involvement in efforts aimed at reaching a settlement over Iran.
 
+**Tariffs adding to price pressures as more families face heavy debt loads - Scotsman Guide**
+`10 Oct 04:16 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_fed
+
+Tariffs adding to price pressures as more families face heavy debt loads Scotsman Guide
+
 **Mexico investigates video said to show cartel members fighting for Ukraine**
 `10 Oct 03:50 PKT` · pehli baar dekhi `10 Oct 07:24` · aljazeera
 
@@ -214,10 +359,38 @@ Mexico is investigating a viral video showing suspected mercenaries chanting car
 
 The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.
 
-### BINA TAG (31)
+**Trump says Russia agreed to supply millions of tons of diesel to US and global markets as he blames Ukraine for fuel price hikes driven by Iran war - Euromaidan Press**
+`10 Oct 03:06 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+Trump says Russia agreed to supply millions of tons of diesel to US and global markets as he blames Ukraine for fuel price hikes driven by Iran war Euromaidan Press
+
+### BINA TAG (56)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `10 Oct 13:34` **investing_news** — Venezuela authorises Elon Musk's Starlink to operate nationwide
+- `10 Oct 13:16` **aljazeera** — A decade of Lajee Celtic: The Palestinian club whose fans include Cantona
+- `10 Oct 13:16` **investing_news** — AnaptysBio earnings beat by $5.58, revenue topped estimates
+- `10 Oct 13:15` **investing_news** — 5 big analyst AI moves: Google reaffirmed as top pick after Gemini agent launch
+- `10 Oct 12:43` **investing_news** — Why are EU gas prices not higher already?
+- `10 Oct 12:34` **aljazeera** — Ronaldo returns after Portugal quarrel to score in Al-Nassr win
+- `10 Oct 12:31` **aljazeera** — Ireland Catholic residents react to UK ban on Protestant march
+- `10 Oct 12:19` **aljazeera** — Saudi-led coalition says it's carrying out operation in Yemen
+- `10 Oct 12:17` **aljazeera** — 'How can you stop these kids?' Indian capital on lockdown before protests
+- `10 Oct 12:13` **aljazeera** — India's Cockroach Party founder, top leaders detained ahead of protest
+- `10 Oct 12:10` **investing_news** — China creates 10.52 million jobs, plans new AI and services employment measures
+- `10 Oct 11:47` **aljazeera** — Trump slams Norway for not awarding him Nobel Peace Prize
+- `10 Oct 11:20` **aljazeera** — Yemen's Taiz under siege again as food and fuel prices rise
+- `10 Oct 11:16` **investing_news** — EOS Climbs 17% In a Green Day
+- `10 Oct 10:54` **aljazeera** — India protest live: 'Cockroach' leaders detained; New Delhi in lockdown
+- `10 Oct 10:46` **gnews_centralbanks** — European Stocks: Brace for a Turbulent Earnings Season - Morningstar
+- `10 Oct 10:00` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - Decatur Daily
+- `10 Oct 10:00` **gnews_centralbanks** — Negative equity is here and a collapse in the housing market has already begun - The Independent
+- `10 Oct 09:54` **aljazeera** — Anthropic AI model submits false homicide tip to Philadelphia police
+- `10 Oct 09:54` **aljazeera** — Supporters of jailed former Pakistani PM Khan marching to capital
+- `10 Oct 09:07` **aljazeera** — India deploys police and restricts transport ahead of mass protest in Delhi
+- `10 Oct 08:38` **aljazeera** — CCTV footage shows ICE shooting in New York
+- `10 Oct 07:35` **aljazeera** — Elon Musk lashes out at Indian 'Prime Minister' Mukesh Ambani in Starlink
 - `10 Oct 07:00` **wsj_world** — Houthis Bombard Saudi Air Links in Effort to Cut Kingdom Off From Rest of World
 - `10 Oct 07:00` **wsj_markets** — At Robinhood's Mecca for Risk-Loving Traders, Everyone Has a Tale of Getting Rich
 - `10 Oct 06:31` **investing_news** — Optimum communications director Neil Subin acquires $2.45m in stock
@@ -225,10 +398,12 @@ The US president hopes to ease his party's pain before next month's midterm elec
 - `10 Oct 06:08` **investing_news** — Sequoia-backed Nuvacore seeks $2.5bn valuation in funding round - Reuters
 - `10 Oct 05:53` **aljazeera** — Dual quakes devastate southern Panama
 - `10 Oct 05:45` **investing_news** — InnSuites Hospitality Trust CEO Wirth reports $2.17 billion share disposition
+- `10 Oct 05:34` **kitco_general** — TAG: global central bank reserves - Kitco
 - `10 Oct 05:26` **gnews_fed** — Committee established to investigate Federal Reserve's Lisa Cook - WKYC
 - `10 Oct 05:22` **aljazeera** — Israeli drone attack wounds six in Lebanon near Syria border
 - `10 Oct 05:01` **aljazeera** — Intercommunal clashes kill 71 people in South Sudan
 - `10 Oct 05:00` **actionforex** — Summary 10/12 – 10/16
+- `10 Oct 04:43` **gnews_centralbanks** — TMGM Daily Market Breakfast: 09 October 2026 - www.tmgm.com
 - `10 Oct 04:38` **gnews_fed** — Why Trump's New Push Against Federal Reserve Governor Lisa C - ИФЗ РАН
 - `10 Oct 04:13` **instaforex** — US Stocks Rise on Earnings Optimism
 - `10 Oct 04:13` **instaforex** — Speculators Trim Bullish Bets on Brazil's Real as Net Long Positions Decline
@@ -252,11 +427,11 @@ The US president hopes to ease his party's pain before next month's midterm elec
 
 ---
 
-## Shor — 9 khabrein hatai gayin
+## Shor — 11 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (9)
+investing_news (11)
 
 ---
 
@@ -266,45 +441,45 @@ investing_news (9)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
-| fxstreet_news | OK | 30 | 30 | 0 | 30 | 0 | 0.2 |
-| fxstreet_analysis | OK | 30 | 8 | 0 | 8 | 22 | 0.3 |
-| actionforex | OK | 20 | 20 | 8 | 12 | 0 | 0.0 |
-| marketpulse | OK | 3 | 2 | 0 | 2 | 1 | 0.4 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
-| wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.2 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 29.3 |
-| kitco_general | OK | 37 | 36 | 1 | 35 | 1 | 0.1 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.5 |
+| fxstreet_news | OK | 30 | 30 | 0 | 30 | 0 | 0.4 |
+| fxstreet_analysis | OK | 30 | 8 | 0 | 8 | 22 | 0.6 |
+| actionforex | OK | 20 | 20 | 9 | 11 | 0 | 0.1 |
+| marketpulse | OK | 3 | 2 | 0 | 2 | 1 | 0.7 |
+| instaforex | OK | 25 | 25 | 2 | 23 | 0 | -0.1 |
+| wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.5 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.5 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 29.6 |
+| kitco_general | OK | 30 | 29 | 1 | 28 | 1 | 0.3 |
 | gnews_fed | OK | 100 | 100 | 17 | 83 | 0 | 0.0 |
-| gnews_geopolitics | OK | 100 | 100 | 13 | 87 | 0 | 0.1 |
-| gnews_centralbanks | OK | 49 | 49 | 4 | 45 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.7 |
-| boj_whatsnew | OK | 51 | 3 | 0 | 3 | 48 | 0.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.0 |
-| mining_com | OK | 36 | 7 | 0 | 7 | 29 | 0.3 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.2 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.5 |
-| bbc_business | OK | 52 | 22 | 0 | 22 | 30 | 0.1 |
-| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 24 | 76 | 0 | 0.1 |
+| gnews_centralbanks | OK | 46 | 46 | 22 | 24 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.0 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 1.0 |
+| boj_whatsnew | OK | 51 | 3 | 0 | 3 | 48 | 1.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.3 |
+| mining_com | OK | 36 | 7 | 0 | 7 | 29 | 0.5 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.5 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
+| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.8 |
+| bbc_business | OK | 52 | 22 | 0 | 22 | 30 | 0.2 |
+| aljazeera | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 29.6 |
-| eia_energy | OK | 14 | 0 | 0 | 0 | 14 | 2.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.6 |
-| wsj_world | OK | 72 | 17 | 1 | 16 | 55 | 0.0 |
-| wsj_markets | OK | 61 | 29 | 1 | 28 | 32 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 29.9 |
+| eia_energy | OK | 14 | 0 | 0 | 0 | 14 | 2.8 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.8 |
+| wsj_world | OK | 72 | 17 | 0 | 17 | 55 | 0.3 |
+| wsj_markets | OK | 61 | 29 | 0 | 29 | 32 | 0.3 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 21 | 0 | 21 | 9 | 0.2 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 22 | 1 | 21 | 8 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - yahoo_finance — FAIL, HTTP 404

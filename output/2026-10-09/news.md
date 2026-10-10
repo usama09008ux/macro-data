@@ -1,8 +1,8 @@
 # News Pack — Trading Day 09 Oct 2026
 
 - Trading day: **09 Oct 03:00 -> 10 Oct 02:59 PKT**
-- Aakhri update: **10 Oct 07:24 PKT**
-- Kul khabrein: **944**
+- Aakhri update: **10 Oct 13:48 PKT**
+- Kul khabrein: **987**
 - Feeds: 37/39 OK
 
 ---
@@ -93,6 +93,11 @@ Markets will remain focused on developments in negotiations and the risk of furt
 `10 Oct 00:04 PKT` · instaforex
 
 The UK's FTSE 100 extended gains on Friday, closing up about 1.1% at 10,560, its highest level since September 30 and ending a two-day losing streak. Market sentiment improved as oil prices retreated, easing pressure on bond yields, after Trump signaled a pause in potential US military action against Iran ahead of next month's midterm elections and described ongoing talks as "productive".
+
+**Dollar/Yen Set for Tug-of-War Between Rate Hike Bets and Intervention Fears Next Week; Range Seen at 156.50-159.50 Yen - BigGo Finance**
+`09 Oct 23:06 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_centralbanks
+
+Dollar/Yen Set for Tug-of-War Between Rate Hike Bets and Intervention Fears Next Week; Range Seen at 156.50-159.50 Yen BigGo Finance
 
 **Week Ahead – US CPI, France's Budget Crisis and Q3 Earnings to Set the Market Tone**
 `09 Oct 20:02 PKT` · pehli baar dekhi `10 Oct 00:04` · actionforex
@@ -423,6 +428,11 @@ Commerzbank analysts note Taiwan's September trade surplus hit a record USD23.6b
 Trump appoints committee to revive quest to remove Lisa Cook from Fed board Big Country News |
   - `09 Oct 22:59` *gnews_fed* — Trump appoints committee to revive quest to remove Lisa Cook from Fed board - News From The States
 
+**Dollar Strengthens with T-Note Yields - inkl**
+`10 Oct 00:35 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_centralbanks
+
+Dollar Strengthens with T-Note Yields inkl
+
 **Trump Launches New Investigation into Fed Gov. Lisa Cook Over Mortgage Fraud Allegations - Realtor.com**
 `10 Oct 00:29 PKT` · pehli baar dekhi `10 Oct 04:13` · gnews_fed
 
@@ -499,6 +509,11 @@ The Ibovespa climbed about 1% to approach 208,000 points on Friday, after the re
 
 Trump forms committee to investigate Fed Gov. Lisa Cook upi
 
+**'Illegitimate Show Trial': Warren Condemns Trump's Latest Attack on Fed Gov. Lisa Cook - Common Dreams**
+`09 Oct 23:29 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_fed
+
+'Illegitimate Show Trial': Warren Condemns Trump's Latest Attack on Fed Gov. Lisa Cook Common Dreams
+
 **President Trump has formed a committee to evaluate the mortgage-fraud allegations made against Fed governor Lisa Cook**
 `09 Oct 23:28 PKT` · pehli baar dekhi `10 Oct 00:04` · wsj_economy
 
@@ -556,6 +571,11 @@ Fed says household income, wealth, debt stress increased from 2022 to 2025 Kitco
 `09 Oct 22:13 PKT` · pehli baar dekhi `10 Oct 04:13` · gnews_fed
 
 Trump Announces Committee to Probe Fed Governor Lisa Cook Amid Partisan Criticism Forth.News
+
+**Trump creates White House panel to investigate Fed Governor Lisa Cook - Detroit Free Press**
+`09 Oct 22:04 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_fed
+
+Trump creates White House panel to investigate Fed Governor Lisa Cook Detroit Free Press
 
 **Asia FX: Trade negotiations and resilient macro backdrop – MUFG**
 `09 Oct 22:02 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
@@ -787,6 +807,11 @@ The British Pound (GBP) nurses mild gains on Friday, as the US Dollar (USD) rall
 
 Is the US bond market more scared of the government's deficit than inflation itself? Washington Examiner
 
+**BoE urged not to rely on rising yields to curb inflation - IDNFinancials**
+`09 Oct 15:40 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_centralbanks
+
+BoE urged not to rely on rising yields to curb inflation IDNFinancials
+
 **CEE & CCA week ahead: Czech and Polish inflation data**
 `09 Oct 15:30 PKT` · pehli baar dekhi `09 Oct 18:46` · ing_think
 
@@ -801,6 +826,11 @@ Have you ever looked at a piece of economic news and thought that "surely market
 `09 Oct 14:57 PKT` · pehli baar dekhi `09 Oct 18:46` · gnews_fed
 
 Fed minutes: Another rate hike likely coming this year to combat persistent inflation Jamaica Gleaner
+
+**Global Market: Foreign investors pull $23.5 billion from Asian equities in September as US yields surge - The Economic Times**
+`09 Oct 14:56 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_centralbanks
+
+Global Market: Foreign investors pull $23.5 billion from Asian equities in September as US yields surge The Economic Times
 
 **THINK Ahead: It's economists vs. markets, and there can only be one winner**
 `09 Oct 14:45 PKT` · pehli baar dekhi `09 Oct 18:46` · ing_think
@@ -1051,6 +1081,11 @@ Fed Will Take Its Time Delivering Rate Hikes Political Wire
 
 Russia and Germany are putting more diesel into a global market that has spent months looking for barrels almost anywhere it can find them. President Donald Trump said Friday that Russian President Vladimir Putin had agreed to immediately supply more than 300,000 metric tons of diesel to the U.S. and global market, followed by another 500,000 tons in November and 1 million tons after that. The first three tranches amount to roughly 13 million barrels of diesel.
 
+**Euro to US Dollar Exchange Rate October 9 2026 - Robinhood**
+`10 Oct 01:34 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_centralbanks
+
+Euro to US Dollar Exchange Rate October 9 2026 Robinhood
+
 **CAC 40 rebounds 1.0 percent as ECB rate bets ease - AD HOC NEWS**
 `10 Oct 00:47 PKT` · pehli baar dekhi `10 Oct 04:13` · gnews_centralbanks
 
@@ -1065,6 +1100,11 @@ As London/European traders head home for the weekend, the major European indices
 `09 Oct 21:41 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
 
 ECB price stability policy weighs on euro to Thai baht exchange rate near ฿37.3564 support Traders Union
+
+**EUR/USD Price Forecast — Euro at 1.1194 as French Spread Holds 141 bp — 1.1161 Break Targets 1.1063 - TradingNEWS**
+`09 Oct 21:25 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_centralbanks
+
+EUR/USD Price Forecast — Euro at 1.1194 as French Spread Holds 141 bp — 1.1161 Break Targets 1.1063 TradingNEWS
 
 **France: Budget politics and market testing – Rabobank**
 `09 Oct 21:12 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
@@ -1090,6 +1130,11 @@ Investors will be focused on inflation data from the U.S., eurozone and China as
 `09 Oct 20:44 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
 
 EUR/USD reverses earlier gains on Friday and remains on track for a fifth consecutive weekly decline as the US Dollar (USD) rebounds from the previous day's pullback. Concerns over France's fiscal outlook also continue to weigh on sentiment toward the Euro (EUR).
+
+**Germany wants seat on ECB's executive board, finance minister says - AOL.com**
+`09 Oct 20:29 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_centralbanks
+
+Germany wants seat on ECB's executive board, finance minister says AOL.com
 
 **France: Debt risks are mounting**
 `09 Oct 20:27 PKT` · pehli baar dekhi `10 Oct 00:04` · marketpulse
@@ -1129,6 +1174,11 @@ The ECB will sit on the sidelines during France's debt sell-off Financial Times
 **Germany to release 15 million barrels from oil reserves**
 `09 Oct 17:16 PKT` · pehli baar dekhi `09 Oct 18:46` · investing_commodities
 
+**Toasted, not burnt France s bond sell-off and the road to the 2027 election - Allianz Trade**
+`09 Oct 17:09 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_centralbanks
+
+Toasted, not burnt France s bond sell-off and the road to the 2027 election Allianz Trade
+
 **EUR/USD Price Forecast: Rallies fail above 1.1200 amid high Oil prices, debt woes**
 `09 Oct 16:56 PKT` · pehli baar dekhi `09 Oct 18:46` · fxstreet_news
 
@@ -1160,9 +1210,10 @@ The Euro (EUR) extends Thursday's recovery move against the US Dollar (USD) on F
 San ​Antonio Spurs player Victor Wembanyama offers solidarity to students protesting conditions in schools in France.
 
 **Euro: ECB minutes signal limited need for further tightening - Danske Bank**
-`09 Oct 13:48 PKT` · pehli baar dekhi `09 Oct 18:46` · fxstreet_news · **2 feeds mein**
+`09 Oct 13:48 PKT` · pehli baar dekhi `09 Oct 18:46` · fxstreet_news · **3 feeds mein**
 
 Danske Bank strategist view the September European Central Bank (ECB) minutes as dovish relative to market pricing, arguing that they do not support the three additional rate hikes currently priced in.
+  - `09 Oct 14:07` *gnews_centralbanks* — Euro: ECB minutes signal limited need for further tightening - Danske Bank - www.tmgm.com
   - `09 Oct 13:48` *gnews_centralbanks* — Euro: ECB minutes signal limited need for further tightening - Danske Bank - FXStreet
 
 **Hungarian Forint: IMF urges reforms before euro timetable – Commerzbank**
@@ -1269,6 +1320,11 @@ Eurogroup opens race to replace Schnabel on ECB board Brussels Signal
 
 The Pound Sterling (GBP) holds firm against the US Dollar (USD) on Friday, which posts modest gains against a basket of six currencies, while US consumers grow pessimistic about the economy as the US-Iran conflict drags on for another week.
 
+**Pricing contradictions emerge behind the pound: As the Bank of England adopts an increasingly hawkish stance, does the logic governing the exchange rate become more complex? - Moomoo**
+`09 Oct 16:43 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_centralbanks
+
+Pricing contradictions emerge behind the pound: As the Bank of England adopts an increasingly hawkish stance, does the logic governing the exchange rate become more complex? Moomoo
+
 **Europe's repo fix: stigma, shrinking cash, and a BOE-sized nudge - Briefs Finance**
 `09 Oct 16:00 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
 
@@ -1338,10 +1394,20 @@ Bank of England (BoE) external member Greene said in Cape Town that it's dangero
 
 Several US allies call to &#039;defend&#039; and &#039;protect&#039; the ICC following Washington&#039;s decision to sanction the judiciary body.
 
+**French bond yields near 5%, highest since 2002 — Japanese capital turns "picky," rattling global bond markets - BigGo Finance**
+`09 Oct 23:25 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_centralbanks
+
+French bond yields near 5%, highest since 2002 — Japanese capital turns "picky," rattling global bond markets BigGo Finance
+
 **Japanese Yen struggles as wide US-Japan yield gap weighs**
 `09 Oct 22:52 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_news
 
 USD/JPY trades with a positive bias on Friday as the Japanese Yen (JPY) underperforms across the board following a sharp decline in Japanese government bond yields.
+
+**6J Yen Futures Eye Key Support as BOJ and Fed Paths Diverge for CME:6J1! by EdgeClear - TradingView**
+`09 Oct 22:45 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_centralbanks
+
+6J Yen Futures Eye Key Support as BOJ and Fed Paths Diverge for CME:6J1! by EdgeClear TradingView
 
 **Bank of Japan Weighs Second Rate Hike as Yen Carry Trade Unwinds - 조선일보**
 `09 Oct 21:23 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
@@ -1357,6 +1423,11 @@ Commerzbank's Volkmar Baur highlights Japanese investors' net selling of foreign
 `09 Oct 18:20 PKT` · pehli baar dekhi `09 Oct 18:46` · wsj_markets
 
 Japan's top financial regulator issued business suspension and improvement orders to Prudential Financial's business units in the country after misconduct by more than 100 of the firm's employees.
+
+**Japan's Bond Yields Cool As US Treasuries Catch A Bid - Finimize**
+`09 Oct 17:29 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_centralbanks
+
+Japan's Bond Yields Cool As US Treasuries Catch A Bid Finimize
 
 **British Pound gains ground as Japanese Yen underperforms**
 `09 Oct 17:20 PKT` · pehli baar dekhi `09 Oct 18:46` · fxstreet_news · **2 feeds mein**
@@ -1388,6 +1459,11 @@ Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 
 `09 Oct 14:25 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_centralbanks
 
 Yen Extends Decline to Lower 158 Range as Rising U.S. Yields Put Japan-U.S. Rate Differential in Focus BigGo Finance
+
+**The BoJ and Japanese FSA held the 25th Financial Services Agency-Bank of Japan Liaison Meeting - Newsquawk**
+`09 Oct 14:21 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_centralbanks
+
+The BoJ and Japanese FSA held the 25th Financial Services Agency-Bank of Japan Liaison Meeting Newsquawk
 
 **Japan's Okinawa calls for review of US forces pact after killing**
 `09 Oct 13:51 PKT` · pehli baar dekhi `09 Oct 18:46` · aljazeera
@@ -1770,6 +1846,21 @@ Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption EnergyNo
 
 U.S. TOPS THE LIST – Half the World's Oil Comes From Just Five Countries – Visual Capitalist EnergyNow.com
 
+**Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say - EnergyNow.com**
+`10 Oct 00:45 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say EnergyNow.com
+
+**US Allows 30-Day Sale of Iran Oil at Sea in Bid to Tame Prices - EnergyNow**
+`10 Oct 00:44 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+US Allows 30-Day Sale of Iran Oil at Sea in Bid to Tame Prices EnergyNow
+
+**Brent Crude Oil Price Jumps After Attack on Iran's South Pars Field - EnergyNow.com**
+`10 Oct 00:41 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+Brent Crude Oil Price Jumps After Attack on Iran's South Pars Field EnergyNow.com
+
 **Morgan Stanley Lowers Oil Price Forecasts After US-Iran Peace Deal - EnergyNow.com**
 `10 Oct 00:41 PKT` · pehli baar dekhi `10 Oct 07:24` · gnews_geopolitics · **2 feeds mein**
 
@@ -1808,6 +1899,11 @@ Oil Prices Jump 6% as Iran Sets UAE Oil Port Ablaze, Strikes Vessels in Strait o
 `10 Oct 00:23 PKT` · pehli baar dekhi `10 Oct 04:13` · fxstreet_news
 
 After a call with Russian President Putin, President Donald Trump said on Friday Russia will immediately supply more than 300K tons of diesel to the US and global markets. He put the next shipments at 500K tons in November and 1 million tons after that.
+
+**IRAN'S "CROWN JEWEL" – Kharg Island, Struck by US, is Key Hub for Iran Oil Exports - EnergyNow.com**
+`10 Oct 00:20 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+IRAN'S "CROWN JEWEL" – Kharg Island, Struck by US, is Key Hub for Iran Oil Exports EnergyNow.com
 
 **US plans Alaska offshore oil lease sale for March 2027**
 `10 Oct 00:19 PKT` · pehli baar dekhi `10 Oct 04:13` · investing_commodities
@@ -1856,6 +1952,11 @@ Oil News: Iran Talks Ease Supply Risk as Hurricane Limits Oil Losses FXEmpire
 **Trump to issue directive on diesel, sources say, after he promises 'big announcement'**
 `09 Oct 23:30 PKT` · pehli baar dekhi `10 Oct 00:04` · investing_commodities
 
+**Oil prices drop after Trump cites productive talks with Iran - Baird Maritime**
+`09 Oct 23:24 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+Oil prices drop after Trump cites productive talks with Iran Baird Maritime
+
 **Forecasting the upcoming week: US inflation data steal the show**
 `09 Oct 23:14 PKT` · pehli baar dekhi `10 Oct 00:04` · fxstreet_analysis
 
@@ -1870,6 +1971,16 @@ Middle East Tensions and Hurricane Threat Drive Brent Crude Above $104 BigGo Fin
 `09 Oct 22:31 PKT` · pehli baar dekhi `10 Oct 00:04` · oilprice
 
 The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US rising to 603, up 56 from this same time last year. The number of active oil rigs rose by 6, reaching 462 during the latest reporting period, according to the data. This is 44 above this same time last year. The number of gas rigs fell by 1 to 132, which is 12 more than this time last year.
+
+**How Trump Comments On Iran Talks Shake Oil Markets And Ease Supply Fears - ИФЗ РАН**
+`09 Oct 22:28 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+How Trump Comments On Iran Talks Shake Oil Markets And Ease Supply Fears ИФЗ РАН
+
+**Oil Falls After Iraq Resumes Oil Exports via Turkey's Ceyhan Port - EnergyNow**
+`09 Oct 22:20 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+Oil Falls After Iraq Resumes Oil Exports via Turkey's Ceyhan Port EnergyNow
 
 **Oil Prices Extend Gains on Escalating Middle East Hostilities - EnergyNow.com**
 `09 Oct 22:18 PKT` · pehli baar dekhi `10 Oct 04:13` · gnews_geopolitics
@@ -1898,6 +2009,11 @@ Oil retreats from $110 as Trump rules out Iran strikes before the midterms, but 
 `09 Oct 21:35 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics
 
 Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply Crude Oil Prices Today | OilPrice.com
+
+**Oil Prices Fall as Trump Vows to Not Attack Iran Before Midterms - Marine Link**
+`09 Oct 21:30 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+Oil Prices Fall as Trump Vows to Not Attack Iran Before Midterms Marine Link
 
 **Oil retreats as Trump eases Iran supply concerns - Oil & Gas 360**
 `09 Oct 21:07 PKT` · pehli baar dekhi `10 Oct 00:04` · gnews_geopolitics
@@ -1934,6 +2050,11 @@ West Texas Intermediate (WTI) Oil trades little changed on Friday as traders wei
 `09 Oct 19:16 PKT` · pehli baar dekhi `10 Oct 00:04` · investinglive
 
 Earlier this week, the broader S&P, NASDAQ composite, and NASDAQ 100 indices all traded and closed at new record levels. However on Wednesday and Thursday, the price rotated to the downside closing lower on each of those days. Technically the move lower took the indices each to their rising 100 hour moving averages, and each found support buyers near those levels. Although closing lower yesterday, we are seeing some modest follow-through buying today.
+
+**Trump pledges no Iran strike before midterms; oil falls - JFeed**
+`09 Oct 19:16 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+Trump pledges no Iran strike before midterms; oil falls JFeed
 
 **Rubio Warns Ukraine Stalemate Could Turn Into Wider Conflict**
 `09 Oct 19:00 PKT` · pehli baar dekhi `10 Oct 00:04` · oilprice
@@ -2100,6 +2221,11 @@ The Australian government will introduce next week a bill setting the final rule
 `09 Oct 14:28 PKT` · pehli baar dekhi `09 Oct 18:46` · gnews_geopolitics
 
 Oil Prices Decline as Trump Comments on Iran Talks Ease Immediate Supply Concerns Yahoo Finance
+
+**Port of Fujairah Resumes Oil Loadings After Attack and Why it Matters Globally - EnergyNow.com**
+`09 Oct 14:22 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+Port of Fujairah Resumes Oil Loadings After Attack and Why it Matters Globally EnergyNow.com
 
 **Oil Prices Steady as Investors Weigh Peace Deal, IEA Glut Forecasts - EnergyNow.com**
 `09 Oct 14:19 PKT` · pehli baar dekhi `10 Oct 04:13` · gnews_geopolitics
@@ -2313,10 +2439,11 @@ Record crack spreads show that refined products, not crude, are where the tighte
 Oil falls after Trump comments on Iran talks — Channel NewsAsia UA.NEWS
 
 **Oil falls as Trump comments on Iran talks ease supply concerns**
-`09 Oct 07:30 PKT` · pehli baar dekhi `09 Oct 11:36` · investing_commodities · **24 feeds mein**
+`09 Oct 07:30 PKT` · pehli baar dekhi `09 Oct 11:36` · investing_commodities · **25 feeds mein**
   - `09 Oct 23:56` *gnews_geopolitics* — Oil falls as Trump comments on Iran talks ease supply concerns - The Express Tribune
   - `09 Oct 19:05` *gnews_geopolitics* — Oil falls as Trump comments on Iran talks ease supply concerns - Yahoo Finance
   - `09 Oct 17:47` *gnews_geopolitics* — Oil falls as Trump comments on Iran talks ease supply concerns - The Detroit News
+  - `09 Oct 14:39` *gnews_geopolitics* — Oil falls as Trump comments on Iran talks ease supply concerns - The Morning
   - `09 Oct 13:55` *gnews_geopolitics* — Oil Falls as Trump Comments on Iran Talks Ease Supply Concerns - شبكة تواصل الإخبارية
   - `09 Oct 13:23` *gnews_geopolitics* — Oil falls as Trump comments on Iran talks ease supply concerns - The Express Tribune
   - `09 Oct 12:09` *gnews_geopolitics* — Oil falls as Trump comments on Iran talks ease supply concerns - Ada Derana
@@ -2636,6 +2763,11 @@ U.S. stocks rose after President Donald Trump said the U.S. would not strike Ira
 
 The Treasury Department has announced several digital asset seizures related to sanctions on Iran as part of US sanctions.
 
+**War Warns China, Warms Iraq: How Trump's Pressure on Iran Is Reshaping Beijing's Oil Options - Modern Ghana**
+`10 Oct 01:02 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+War Warns China, Warms Iraq: How Trump's Pressure on Iran Is Reshaping Beijing's Oil Options Modern Ghana
+
 **A Look at Iran's Kharg Island and Energy Sector - EnergyNow.com**
 `10 Oct 00:53 PKT` · pehli baar dekhi `10 Oct 07:24` · gnews_geopolitics
 
@@ -2646,10 +2778,20 @@ A Look at Iran's Kharg Island and Energy Sector EnergyNow.com
 
 Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.
 
+**Trader or Driller? Iran War Exposes Big Oil's Transatlantic Divide: Bousso - EnergyNow.com**
+`10 Oct 00:44 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+Trader or Driller? Iran War Exposes Big Oil's Transatlantic Divide: Bousso EnergyNow.com
+
 **Oil Rises on Iran War Stalemate; Near-Term Potential For Further Gains Seen Limited - EnergyNow.com**
 `10 Oct 00:42 PKT` · pehli baar dekhi `10 Oct 04:13` · gnews_geopolitics
 
 Oil Rises on Iran War Stalemate; Near-Term Potential For Further Gains Seen Limited EnergyNow.com
+
+**Oil Falls to Lowest Since Start of Iran War After Ceasefire Deal Signed - EnergyNow.com**
+`10 Oct 00:32 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+Oil Falls to Lowest Since Start of Iran War After Ceasefire Deal Signed EnergyNow.com
 
 **This week we got a sneak-peak at the playbook for when the AI bubble bursts**
 `09 Oct 23:42 PKT` · pehli baar dekhi `10 Oct 00:04` · investinglive
@@ -2701,6 +2843,11 @@ New York Federal Reserve says inflation on everyday items is because of tariffs 
 `09 Oct 19:11 PKT` · pehli baar dekhi `10 Oct 00:04` · aljazeera
 
 Eritrea denies backing TPLF as Ethiopia alleges collusion, further straining their already volatile relationship.
+
+**Discount on Western Canada Select Narrows Again as Iran War Restricts Middle East Supplies - EnergyNow**
+`09 Oct 19:03 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_geopolitics
+
+Discount on Western Canada Select Narrows Again as Iran War Restricts Middle East Supplies EnergyNow
 
 **Canada Oil and Gas Profits to Surge on Iran War, but Firms Hold off New Investment - EnergyNow**
 `09 Oct 18:47 PKT` · pehli baar dekhi `10 Oct 04:13` · gnews_geopolitics
@@ -2911,7 +3058,7 @@ Six-time French champions Bordeaux, the club where Zinedine Zidane made his name
 
 A top-performing manager adding duration near the highs is a notable contrarian signal for Treasuries, though he still allows for yields to overshoot by another 10 to 15 basis points before peaking. His case rests on the Fed's hiking path slowing growth, so any sign that energy-driven inflation forces the central bank to go further would test it.
 
-### BINA TAG (311)
+### BINA TAG (323)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2946,6 +3093,7 @@ A top-performing manager adding duration near the highs is a notable contrarian 
 - `10 Oct 01:13` **aljazeera** — Flydubai co-pilot plotted 'suicide' attack on Israel, UAE says
 - `10 Oct 01:00` **gnews_fed** — Oklahoma part of energy growth in KC Federal Reserve Bank district - Oklahoma Energy Today
 - `10 Oct 00:46` **gnews_fed** — Trump Hatches New Revenge Plot After Supreme Court Defeat - The Daily Beast
+- `10 Oct 00:42` **gnews_fed** — Federal Reserve governor Lisa Cook faces White House inquiry - Atlanta News First
 - `10 Oct 00:32` **gnews_centralbanks** — Credit card defaults rise: What to do if you can't pay - Skint Dad
 - `10 Oct 00:22` **aljazeera** — Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake
 - `10 Oct 00:21` **gnews_fed** — Trump committee to investigate MSU professor, Federal Reserve Gov. Lisa Cook - The State News
@@ -2988,14 +3136,18 @@ A top-performing manager adding duration near the highs is a notable contrarian 
 - `09 Oct 22:44` **kitco_general** — US consumer sentiment near record low as frustration over economy mounts - Kitco
 - `09 Oct 22:43` **gnews_fed** — Why Trump's Crusade Against Federal Reserve Governor Lisa Co - ИФЗ РАН
 - `09 Oct 22:38` **fxstreet_news** — Chinese Yuan: PBoC stance and valuation debate guide currency path – MUFG
+- `09 Oct 22:37` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - WCHS
 - `09 Oct 22:37` **aljazeera** — Jerusalem Daily: US charity to use AI to monitor Gaza classrooms
 - `09 Oct 22:29` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - local21news.com
 - `09 Oct 22:26` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - News-Press NOW
 - `09 Oct 22:24` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - KVAL
 - `09 Oct 22:24` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - KATU
+- `09 Oct 22:23` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - WPDE
 - `09 Oct 22:23` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - WSET
 - `09 Oct 22:23` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - KTXS
 - `09 Oct 22:23` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - KPIC
+- `09 Oct 22:22` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - KCBY
+- `09 Oct 22:22` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - KABB
 - `09 Oct 22:22` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - KRXI
 - `09 Oct 22:21` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - KRXI
 - `09 Oct 22:21` **gnews_fed** — Trump announces White House probe into Federal Reserve governor Lisa D. Cook - KTUL
@@ -3019,6 +3171,7 @@ A top-performing manager adding duration near the highs is a notable contrarian 
 - `09 Oct 21:57` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - Monterey Herald
 - `09 Oct 21:51` **gnews_centralbanks** — THINK Ahead: It's economists vs. markets, and there can only be one winner - ING THINK Economic and financial analysis | ING THINK
 - `09 Oct 21:48` **gnews_fed** — Time for term limits? Dems in majority could have familiar faces in key roles - Boston Herald
+- `09 Oct 21:44` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - FOX 8 News
 - `09 Oct 21:44` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - AP News
 - `09 Oct 21:44` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - The Frederick News-Post
 - `09 Oct 21:37` **aljazeera** — Powerful tornado rips through western Sicily
@@ -3062,6 +3215,7 @@ A top-performing manager adding duration near the highs is a notable contrarian 
 - `09 Oct 19:45` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - WGAU Radio | Athens, GA
 - `09 Oct 19:45` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - Ottumwa Courier
 - `09 Oct 19:45` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - Eagle-Tribune
+- `09 Oct 19:45` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - KIRO 7 News Seattle
 - `09 Oct 19:41` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - seMissourian
 - `09 Oct 19:40` **aljazeera** — Man City case causing 'uncertainty' for whole Premier League, says Iraola
 - `09 Oct 19:38` **gnews_fed** — Trump Establishes Committee To Investigate Federal Reserve's Lisa Cook In Latest Effort To Fire Her - ETV Bharat
@@ -3073,6 +3227,7 @@ A top-performing manager adding duration near the highs is a notable contrarian 
 - `09 Oct 19:29` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - the-journal.com
 - `09 Oct 19:29` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - WFMZ.com
 - `09 Oct 19:29` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - Barchart.com
+- `09 Oct 19:29` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - morning-times.com
 - `09 Oct 19:29` **aljazeera** — Man City face Liverpool after being found guilty of financial breaches
 - `09 Oct 19:29` **gnews_fed** — Trump establishes committee to investigate Federal Reserve's Lisa Cook in latest effort to fire her - Audacy
 - `09 Oct 19:27` **aljazeera** — Driver films from inside vehicle as car swept away in Chile floods
@@ -3111,6 +3266,7 @@ A top-performing manager adding duration near the highs is a notable contrarian 
 - `09 Oct 17:37` **aljazeera** — Satire silenced: Indian artists face censorship as anti-Modi protests grow
 - `09 Oct 17:34` **bbc_business** — Anthropic bans users from being 'cruel' to its AI systems
 - `09 Oct 17:17` **aljazeera** — India's Cockroach Party says members detained ahead of protest
+- `09 Oct 17:00` **gnews_centralbanks** — Your Daily Brief: Today's most important news in one place - RTL Today
 - `09 Oct 16:50` **kitco_general** — Four signs it is about to get uglier in the bond market - Kitco
 - `09 Oct 16:46` **aljazeera** — Saudi Arabia reopens Riyadh airport after Houthi attack kills three
 - `09 Oct 16:29` **gnews_centralbanks** — How to earn 3% interest on your current account - The Money Pages
@@ -3122,6 +3278,7 @@ A top-performing manager adding duration near the highs is a notable contrarian 
 - `09 Oct 16:08` **aljazeera** — 'Indentured servants': US green card move will hit thousands of IT workers
 - `09 Oct 16:08` **gnews_centralbanks** — Credit card defaults rise as lenders warn more people could miss payments - Daily Record
 - `09 Oct 16:07` **aljazeera** — 'Is it April fool's?' Navi Pillay reacts to Nobel Peace Prize news
+- `09 Oct 15:57` **gnews_centralbanks** — Should you fix your mortgage or gamble on a tracker? How to pick the best deal as 700,000 face shock bill hikes - The Sun
 - `09 Oct 15:56` **aljazeera** — Labour fends off the Green party in closely watched UK by-election
 - `09 Oct 15:53` **mining_com** — EU puts KGHM's $2.4B copper projects on fast track
 - `09 Oct 15:49` **cointelegraph** — ESMA seeks evidence tokenized collateral can be cashed out in crisis
@@ -3136,6 +3293,7 @@ A top-performing manager adding duration near the highs is a notable contrarian 
 - `09 Oct 15:23` **aljazeera** — The girls in the Gaza school photograph
 - `09 Oct 15:19` **investing_commodities** — Bigger US corn stocks fuel doubts about USDA livestock feeding data
 - `09 Oct 15:18` **aljazeera** — Nobel chair admits they haven't reached Peace Prize winner Pillay
+- `09 Oct 15:09` **gnews_centralbanks** — BNB Price Forecast: Broadening Wedge Signals 25% Decline - Yahoo Finance Singapore
 - `09 Oct 15:07` **bbc_business** — Why are there so many sports subscriptions?
 - `09 Oct 15:03` **aljazeera** — A'ja Wilson wins her third straight WNBA MVP and record fifth overall
 - `09 Oct 14:59` **wsj_world** — Walmart Wants Robots to Run Its Warehouses. Reality Keeps Getting in the Way.
@@ -3149,6 +3307,7 @@ A top-performing manager adding duration near the highs is a notable contrarian 
 - `09 Oct 14:10` **ing_think** — Spain's rental dilemma: protecting tenants won't fix the housing shortage
 - `09 Oct 14:00` **gnews_fed** — Shreveport staffing firm says AI is already changing the job market - NOLA.com
 - `09 Oct 13:59` **aljazeera** — New York police push politician to ground during anti-ICE protest
+- `09 Oct 13:58` **gnews_centralbanks** — Citi raises target price for Swedbank to SEK 415 - marketscreener.com
 - `09 Oct 13:50` **kitco_general** — Mapping the Market: Citigroup shares set to deepen losses - Kitco
 - `09 Oct 13:49` **gnews_centralbanks** — UK Budget 2026: Why It Matters for Traders - ThinkMarkets
 - `09 Oct 13:49` **wsj_markets** — Airtel Money Shares Open Higher on First Trading Day But $7 Billion Valuation Misses Mark
@@ -3243,45 +3402,45 @@ investing_news (3)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
-| fxstreet_news | OK | 30 | 30 | 0 | 30 | 0 | 0.2 |
-| fxstreet_analysis | OK | 30 | 8 | 0 | 8 | 22 | 0.3 |
-| actionforex | OK | 20 | 20 | 8 | 12 | 0 | 0.0 |
-| marketpulse | OK | 3 | 2 | 0 | 2 | 1 | 0.4 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
-| wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.2 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
-| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 29.3 |
-| kitco_general | OK | 37 | 36 | 1 | 35 | 1 | 0.1 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.5 |
+| fxstreet_news | OK | 30 | 30 | 0 | 30 | 0 | 0.4 |
+| fxstreet_analysis | OK | 30 | 8 | 0 | 8 | 22 | 0.6 |
+| actionforex | OK | 20 | 20 | 9 | 11 | 0 | 0.1 |
+| marketpulse | OK | 3 | 2 | 0 | 2 | 1 | 0.7 |
+| instaforex | OK | 25 | 25 | 2 | 23 | 0 | -0.1 |
+| wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.5 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.5 |
+| cme_risk_management | WARN | 20 | 0 | 0 | 0 | 20 | 29.6 |
+| kitco_general | OK | 30 | 29 | 1 | 28 | 1 | 0.3 |
 | gnews_fed | OK | 100 | 100 | 17 | 83 | 0 | 0.0 |
-| gnews_geopolitics | OK | 100 | 100 | 13 | 87 | 0 | 0.1 |
-| gnews_centralbanks | OK | 49 | 49 | 4 | 45 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.7 |
-| boj_whatsnew | OK | 51 | 3 | 0 | 3 | 48 | 0.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.0 |
-| mining_com | OK | 36 | 7 | 0 | 7 | 29 | 0.3 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.2 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.5 |
-| bbc_business | OK | 52 | 22 | 0 | 22 | 30 | 0.1 |
-| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
+| gnews_geopolitics | OK | 100 | 100 | 24 | 76 | 0 | 0.1 |
+| gnews_centralbanks | OK | 46 | 46 | 22 | 24 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.0 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 1.0 |
+| boj_whatsnew | OK | 51 | 3 | 0 | 3 | 48 | 1.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.3 |
+| mining_com | OK | 36 | 7 | 0 | 7 | 29 | 0.5 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.5 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
+| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.8 |
+| bbc_business | OK | 52 | 22 | 0 | 22 | 30 | 0.2 |
+| aljazeera | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 29.6 |
-| eia_energy | OK | 14 | 0 | 0 | 0 | 14 | 2.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.6 |
-| wsj_world | OK | 72 | 17 | 1 | 16 | 55 | 0.0 |
-| wsj_markets | OK | 61 | 29 | 1 | 28 | 32 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 29.9 |
+| eia_energy | OK | 14 | 0 | 0 | 0 | 14 | 2.8 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 3.8 |
+| wsj_world | OK | 72 | 17 | 0 | 17 | 55 | 0.3 |
+| wsj_markets | OK | 61 | 29 | 0 | 29 | 32 | 0.3 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 21 | 0 | 21 | 9 | 0.2 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 22 | 1 | 21 | 8 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - yahoo_finance — FAIL, HTTP 404
