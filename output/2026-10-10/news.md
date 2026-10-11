@@ -1,8 +1,8 @@
 # News Pack — Trading Day 10 Oct 2026
 
 - Trading day: **10 Oct 03:00 -> 11 Oct 02:59 PKT**
-- Aakhri update: **11 Oct 03:29 PKT**
-- Kul khabrein: **347**
+- Aakhri update: **11 Oct 06:12 PKT**
+- Kul khabrein: **362**
 - Feeds: 36/39 OK
 
 ---
@@ -39,6 +39,17 @@ Data from the United States Commodity Futures Trading Commission (CFTC) show tha
 Speculative investors scaled back their bullish bets on gold in the latest reporting week, according to updated data on CFTC Gold speculative net positions released in the United States. Net long positions slipped to 210.3K contracts, down from 218.6K previously. The figures, updated on 09 October 2026, indicate a modest cooling in speculative enthusiasm toward the precious metal.
 
 ### USD
+
+**Trump Forms Committee to Investigate Fed Governor Lisa Cook - SuaraGarut.ID**
+`11 Oct 00:56 PKT` · pehli baar dekhi `11 Oct 06:12` · gnews_fed · **2 feeds mein**
+
+Trump Forms Committee to Investigate Fed Governor Lisa Cook SuaraGarut.ID
+  - `10 Oct 13:50` *gnews_fed* — Trump Forms Committee to Investigate Fed Governor Lisa Cook - SuaraGarut.ID
+
+**Trump Announces Investigation into Mortgage Fraud Allegations Against Fed Governor Lisa Cook - SSBCrack**
+`11 Oct 00:47 PKT` · pehli baar dekhi `11 Oct 06:12` · gnews_fed
+
+Trump Announces Investigation into Mortgage Fraud Allegations Against Fed Governor Lisa Cook SSBCrack
 
 **Trump forms committee to investigate Lisa Cook in renewed attempt to fire Fed governor - TheGrio**
 `10 Oct 23:46 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_fed
@@ -115,11 +126,6 @@ TL;DR: The Dollar rally has lost momentum rather than direction. DXY stalled at 
 
 Trump appoints committee to revive quest to remove Lisa Cook from Fed board Perryville Republic Monitor
 
-**Trump Forms Committee to Investigate Fed Governor Lisa Cook - SuaraGarut.ID**
-`10 Oct 13:50 PKT` · pehli baar dekhi `11 Oct 03:29` · gnews_fed
-
-Trump Forms Committee to Investigate Fed Governor Lisa Cook SuaraGarut.ID
-
 **Egypt Inflation Rate at 7-Month Low of 13.9%**
 `10 Oct 13:48 PKT` · instaforex
 
@@ -174,10 +180,11 @@ The Decisive Impact of Next Week's U.S. CPI Data: Will the Fed Skip an October R
 Trump forces hand-picked Fed chief into brawl 'whether he likes it or not': report Raw Story
 
 **10 Words From the Fed Chair That Could Reshape Market Expectations - The Motley Fool**
-`10 Oct 08:15 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_fed · **2 feeds mein**
+`10 Oct 08:15 PKT` · pehli baar dekhi `10 Oct 13:48` · gnews_fed · **3 feeds mein**
 
 10 Words From the Fed Chair That Could Reshape Market Expectations The Motley Fool
   - `10 Oct 07:35` *gnews_fed* — 10 Words From the Fed Chair That Could Reshape Market Expectations - AOL.com
+  - `10 Oct 07:35` *gnews_fed* — 10 Words From the Fed Chair That Could Reshape Market Expectations - AOL.ca
 
 **US Dollar Strengthens as Fed Rate Hike Fears Grow**
 `10 Oct 07:02 PKT` · pehli baar dekhi `10 Oct 07:24` · actionforex
@@ -440,10 +447,25 @@ Crude Oil Price Forecast: Trump Says He Won't Attack Iran Before Midterm Electio
 
 THE TIPPING POINT: ADNOC Trading Chief Flags August as Tipping Point for Oil Prices EnergyNow
 
+**U.S. Strikes Iranian Launchers Near Strait of Hormuz, Sending Oil Prices Higher - EnergyNow**
+`10 Oct 20:39 PKT` · pehli baar dekhi `11 Oct 06:12` · gnews_geopolitics
+
+U.S. Strikes Iranian Launchers Near Strait of Hormuz, Sending Oil Prices Higher EnergyNow
+
+**Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say - EnergyNow**
+`10 Oct 20:32 PKT` · pehli baar dekhi `11 Oct 06:12` · gnews_geopolitics
+
+Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say EnergyNow
+
 **Iran's oil lifeline could run dry by mid-December, Kpler says - Iran International**
 `10 Oct 19:33 PKT` · pehli baar dekhi `11 Oct 00:06` · gnews_geopolitics
 
 Iran's oil lifeline could run dry by mid-December, Kpler says Iran International
+
+**TACO CONFIRMED: Oil Markets Bet Trump Would Chicken Out on Iran. They Won: Bousso - EnergyNow**
+`10 Oct 18:08 PKT` · pehli baar dekhi `11 Oct 06:12` · gnews_geopolitics
+
+TACO CONFIRMED: Oil Markets Bet Trump Would Chicken Out on Iran. They Won: Bousso EnergyNow
 
 **Saudi Arabia February Crude Exports Up, Output Highest Since 2022, JODI Says - EnergyNow.com**
 `10 Oct 17:57 PKT` · pehli baar dekhi `11 Oct 03:29` · gnews_geopolitics
@@ -455,6 +477,11 @@ Saudi Arabia February Crude Exports Up, Output Highest Since 2022, JODI Says Ene
 
 Oil, Gas Recovery May Take Two Years After War, IEA's Birol Says EnergyNow
 
+**Oil Prices Set to Rise Further on Monday as Mideast War Escalates - EnergyNow.com**
+`10 Oct 17:31 PKT` · pehli baar dekhi `11 Oct 06:12` · gnews_geopolitics
+
+Oil Prices Set to Rise Further on Monday as Mideast War Escalates EnergyNow.com
+
 **ADNOC Sells at Least 30 Million Barrels Crude in Supply Boost, Sources Say - EnergyNow.com**
 `10 Oct 17:29 PKT` · pehli baar dekhi `11 Oct 03:29` · gnews_geopolitics
 
@@ -464,6 +491,11 @@ ADNOC Sells at Least 30 Million Barrels Crude in Supply Boost, Sources Say Energ
 `10 Oct 17:28 PKT` · pehli baar dekhi `11 Oct 03:29` · gnews_geopolitics
 
 Iraq Reduces Oil Output, More Cuts to Come if Hormuz Disruptions Persist, Iraqi Oil Officials Say EnergyNow.com
+
+**Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say - EnergyNow.com**
+`10 Oct 17:26 PKT` · pehli baar dekhi `11 Oct 06:12` · gnews_geopolitics
+
+Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say EnergyNow.com
 
 **Oil prices rise amid supply fears | Gulf Times - Gulf Times**
 `10 Oct 17:26 PKT` · pehli baar dekhi `11 Oct 03:29` · gnews_geopolitics
@@ -511,6 +543,11 @@ Crude Oil Prices Mixed, Brent Rises 0.5% In 5-Day, WTI Dips MarketForces Africa
 `10 Oct 14:18 PKT` · pehli baar dekhi `11 Oct 03:29` · gnews_geopolitics
 
 Oil Rises on Intensifying US-Iran Hostilities, Threat of Red Sea Closure EnergyNow.com
+
+**Oil Holds Near Six-Week Highs as U.S.-Iran Conflict Keeps Supply Risk Elevated - EnergyNow.com**
+`10 Oct 14:10 PKT` · pehli baar dekhi `11 Oct 06:12` · gnews_geopolitics
+
+Oil Holds Near Six-Week Highs as U.S.-Iran Conflict Keeps Supply Risk Elevated EnergyNow.com
 
 **US oil rig count up for week ending Oct. 9 - Anadolu Ajansı**
 `10 Oct 14:06 PKT` · pehli baar dekhi `11 Oct 03:29` · gnews_geopolitics
@@ -733,6 +770,16 @@ Donald Trump's diesel deal with Putin gives Russia more money to continue attack
 President Donald Trump&#039;s deal with Putin comes amid surging fuel prices and looming US midterm elections.
   - `10 Oct 17:25` *gnews_geopolitics* — Why is US turning to Russia for diesel despite sanctions? - Al Jazeera
 
+**Rich countries on the debt frontline: How the Iran war is shifting world's risk map by squeezing America, - The Economic Times**
+`10 Oct 17:13 PKT` · pehli baar dekhi `11 Oct 06:12` · gnews_centralbanks
+
+Rich countries on the debt frontline: How the Iran war is shifting world's risk map by squeezing America, The Economic Times
+
+**Oil-Gear Maker NOV Cuts Earnings Guidance as Iran War Hikes Costs and Snarls Deliveries - EnergyNow.com**
+`10 Oct 17:09 PKT` · pehli baar dekhi `11 Oct 06:12` · gnews_geopolitics
+
+Oil-Gear Maker NOV Cuts Earnings Guidance as Iran War Hikes Costs and Snarls Deliveries EnergyNow.com
+
 **Alcohol stocks: bargains, value traps and changing drinking habits**
 `10 Oct 16:31 PKT` · pehli baar dekhi `10 Oct 19:52` · investinglive
 
@@ -844,7 +891,7 @@ The US president hopes to ease his party's pain before next month's midterm elec
 
 Trump says Russia agreed to supply millions of tons of diesel to US and global markets as he blames Ukraine for fuel price hikes driven by Iran war Euromaidan Press
 
-### BINA TAG (152)
+### BINA TAG (156)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -856,6 +903,7 @@ Trump says Russia agreed to supply millions of tons of diesel to US and global m
 - `11 Oct 01:43` **aljazeera** — Damage seen inside Saudi airport after third attack this week
 - `11 Oct 01:37` **aljazeera** — Philippines volcano erupts, creating 6km-high ash cloud
 - `11 Oct 01:30` **aljazeera** — Rubio pledges US cooperation in Marine-linked murder case
+- `11 Oct 01:22` **gnews_centralbanks** — Britain needs a gilts crisis - UnHerd
 - `11 Oct 00:59` **aljazeera** — Lionel Messi returns from Argentina farewell as Inter Miami face DC United
 - `11 Oct 00:49` **aljazeera** — Azerbaijan school pupils protest over reported hijab restrictions
 - `11 Oct 00:47` **aljazeera** — Manchester United held by ten-man Tottenham as woes for both continue
@@ -864,7 +912,9 @@ Trump says Russia agreed to supply millions of tons of diesel to US and global m
 - `11 Oct 00:44` **mw_topstories** — Millions of Americans will have fewer options during Medicare open enrollment this year
 - `11 Oct 00:26` **aljazeera** — Barcelona beat Getafe as Gordon scores his first goal
 - `11 Oct 00:23` **aljazeera** — Ronaldo suspended by Portugal FA after leaving camp and criticising coach
+- `10 Oct 23:55` **kitco_general** — COMMODITIES News - Kitco
 - `10 Oct 23:53` **wsj_world** — Saudi Arabia Closes Airport in Riyadh After Damaging New Houthi Attack
+- `10 Oct 23:38` **gnews_fed** — Boomers, Elite Made Killing After Pandemic While Everyone Else Drowned - The Daily Caller
 - `10 Oct 23:38` **gnews_fed** — Boomers, Elite Made Killing After Pandemic While Everyone Else Drowned - The Daily Caller
 - `10 Oct 23:08` **aljazeera** — Attack on airport in Saudi capital, Riyadh, leaves several injured
 - `10 Oct 22:48` **aljazeera** — Nine killed in shooting in US state of Pennsylvania, including two children
@@ -945,6 +995,7 @@ Trump says Russia agreed to supply millions of tons of diesel to US and global m
 - `10 Oct 12:13` **aljazeera** — India's Cockroach Party founder, top leaders detained ahead of protest
 - `10 Oct 12:13` **gnews_centralbanks** — Investor Focus: Mortgage Rates Hit 6%, Best UK Dividend Stocks, and £15,000 Income Tax Allowance - Morningstar
 - `10 Oct 12:10` **investing_news** — China creates 10.52 million jobs, plans new AI and services employment measures
+- `10 Oct 11:49` **gnews_fed** — Trump launches inquiry of Cook - Northwest Arkansas Democrat-Gazette
 - `10 Oct 11:47` **aljazeera** — Trump slams Norway for not awarding him Nobel Peace Prize
 - `10 Oct 11:44` **gnews_centralbanks** — Mortgage warning with number of approvals at lowest level since 2023 - Birmingham Live
 - `10 Oct 11:26` **gnews_centralbanks** — For first-time buyers, 6% mortgages are the new 12% - The Observer
@@ -1017,45 +1068,45 @@ investing_news (20)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.5 |
-| fxstreet_news | OK | 30 | 1 | 0 | 1 | 29 | 1.0 |
-| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.3 |
-| actionforex | OK | 20 | 18 | 0 | 18 | 2 | 0.6 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.2 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.3 |
-| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 1.1 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 30.2 |
-| kitco_general | OK | 7 | 7 | 1 | 6 | 0 | 0.2 |
-| gnews_fed | OK | 53 | 53 | 11 | 42 | 0 | 0.2 |
-| gnews_geopolitics | OK | 57 | 57 | 23 | 34 | 0 | 0.1 |
-| gnews_centralbanks | OK | 28 | 28 | 6 | 22 | 0 | 0.2 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.6 |
-| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 1.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.9 |
-| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.1 |
-| oilprice | OK | 15 | 4 | 1 | 3 | 11 | 0.1 |
-| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.2 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
-| bbc_business | OK | 52 | 5 | 0 | 5 | 47 | 0.3 |
-| aljazeera | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
+| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.6 |
+| fxstreet_news | OK | 30 | 1 | 0 | 1 | 29 | 1.1 |
+| fxstreet_analysis | OK | 30 | 1 | 0 | 1 | 29 | 0.4 |
+| actionforex | OK | 20 | 18 | 0 | 18 | 2 | 0.7 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.4 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.5 |
+| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 1.2 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 30.3 |
+| kitco_general | OK | 2 | 2 | 1 | 1 | 0 | 0.3 |
+| gnews_fed | OK | 38 | 38 | 6 | 32 | 0 | 0.1 |
+| gnews_geopolitics | OK | 63 | 63 | 8 | 55 | 0 | 0.0 |
+| gnews_centralbanks | OK | 28 | 28 | 3 | 25 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.7 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.7 |
+| boj_whatsnew | OK | 49 | 0 | 0 | 0 | 49 | 1.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 10.0 |
+| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.2 |
+| oilprice | OK | 15 | 6 | 2 | 4 | 9 | 0.1 |
+| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.4 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
+| bbc_business | OK | 52 | 5 | 0 | 5 | 47 | 0.4 |
+| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
 | snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 30.5 |
-| eia_energy | WARN | 14 | 0 | 0 | 0 | 14 | 3.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 4.4 |
-| wsj_world | OK | 71 | 7 | 1 | 6 | 64 | 0.0 |
-| wsj_markets | OK | 61 | 1 | 0 | 1 | 60 | 0.9 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 30.6 |
+| eia_energy | WARN | 14 | 0 | 0 | 0 | 14 | 3.5 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 4.5 |
+| wsj_world | OK | 71 | 9 | 1 | 8 | 62 | 0.0 |
+| wsj_markets | OK | 61 | 2 | 1 | 1 | 59 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.4 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.5 |
 
 **Jo feeds nahi aaye:**
 - cme_risk_management — STALE, cadence 10d, magar 30d purana
