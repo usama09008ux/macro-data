@@ -1,11 +1,11 @@
 {
-  "generated_pkt": "12 Oct 2026 18:33",
+  "generated_pkt": "13 Oct 2026 02:17",
   "trading_day": "2026-10-12",
   "series": {
     "DFEDTARU": {
       "latest": 4.0,
       "latest_date": "2026-10-12",
-      "n_obs": 1106,
+      "n_obs": 1105,
       "changes": {
         "1d": 0.0,
         "5d": 0.0,
@@ -16,7 +16,7 @@
     "DGS2": {
       "latest": 4.75,
       "latest_date": "2026-10-08",
-      "n_obs": 754,
+      "n_obs": 753,
       "changes": {
         "1d": -0.02,
         "5d": -0.03,
@@ -27,7 +27,7 @@
     "DGS10": {
       "latest": 5.22,
       "latest_date": "2026-10-08",
-      "n_obs": 754,
+      "n_obs": 753,
       "changes": {
         "1d": -0.06,
         "5d": -0.02,
@@ -38,7 +38,7 @@
     "DGS30": {
       "latest": 5.6,
       "latest_date": "2026-10-08",
-      "n_obs": 754,
+      "n_obs": 753,
       "changes": {
         "1d": -0.07,
         "5d": -0.01,
@@ -49,7 +49,7 @@
     "T10Y2Y": {
       "latest": 0.44,
       "latest_date": "2026-10-09",
-      "n_obs": 755,
+      "n_obs": 754,
       "changes": {
         "1d": -0.03,
         "5d": -0.01,
@@ -60,7 +60,7 @@
     "T10Y3M": {
       "latest": 0.99,
       "latest_date": "2026-10-09",
-      "n_obs": 755,
+      "n_obs": 754,
       "changes": {
         "1d": 0.0,
         "5d": -0.1,
@@ -71,7 +71,7 @@
     "DFII10": {
       "latest": 2.87,
       "latest_date": "2026-10-08",
-      "n_obs": 754,
+      "n_obs": 753,
       "changes": {
         "1d": -0.05,
         "5d": -0.01,
@@ -82,7 +82,7 @@
     "DFII5": {
       "latest": 2.62,
       "latest_date": "2026-10-08",
-      "n_obs": 754,
+      "n_obs": 753,
       "changes": {
         "1d": -0.04,
         "5d": -0.03,
@@ -93,7 +93,7 @@
     "T10YIE": {
       "latest": 2.33,
       "latest_date": "2026-10-09",
-      "n_obs": 755,
+      "n_obs": 754,
       "changes": {
         "1d": -0.02,
         "5d": -0.03,
@@ -104,7 +104,7 @@
     "T5YIE": {
       "latest": 2.34,
       "latest_date": "2026-10-09",
-      "n_obs": 755,
+      "n_obs": 754,
       "changes": {
         "1d": -0.03,
         "5d": -0.03,
@@ -115,7 +115,7 @@
     "DTWEXBGS": {
       "latest": 121.3848,
       "latest_date": "2026-10-02",
-      "n_obs": 751,
+      "n_obs": 750,
       "changes": {
         "1d": -0.4034,
         "5d": 1.0548,
@@ -124,15 +124,15 @@
       "percentile": 57
     },
     "VIXCLS": {
-      "latest": 15.41,
-      "latest_date": "2026-10-08",
+      "latest": 14.84,
+      "latest_date": "2026-10-09",
       "n_obs": 779,
       "changes": {
-        "1d": 0.33,
-        "5d": -0.98,
-        "20d": -2.43
+        "1d": -0.57,
+        "5d": -0.47,
+        "20d": -1.0
       },
-      "percentile": 35
+      "percentile": 27
     },
     "BAMLH0A0HYM2": {
       "latest": 3.15,
