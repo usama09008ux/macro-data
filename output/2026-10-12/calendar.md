@@ -1,6 +1,6 @@
 # Calendar — Trading Day 12 Oct 2026
 
-- Banaya gaya: **12 Oct 2026 18:23 PKT**
+- Banaya gaya: **13 Oct 2026 01:38 PKT**
 - Trading day: **12 Oct 03:00 -> 13 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,20 +12,24 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
+| 04:01 | GBP | low | BRC Retail Sales Monitor y/y | 0.8% | 0.5% |
+| 04:50 | JPY | low | Bank Lending y/y | 5.5% | 5.4% |
+| 04:50 | JPY | low | PPI y/y | 7.6% | 7.6% |
+| 05:30 | AUD | low | Monetary Policy Meeting Minutes | - | - |
+| 05:30 | AUD | low | NAB Business Confidence | - | -8 |
+| 08:00 | GBP | low | MPC Member Greene Speaks | - | - |
+| 11:00 | EUR | low | German Final CPI m/m | 0.6% | 0.6% |
+| 12:45 | USD | low | FOMC Member Waller Speaks | - | - |
+| 13:03 | CNY | low | M2 Money Supply y/y | 7.5% | 7.5% |
+| 13:03 | CNY | low | New Loans | 300B | 60B |
+| 15:00 | USD | low | NFIB Small Business Index | 98.0 | 98.7 |
+| 17:15 | USD | low | ADP Weekly Employment Change | - | 23.8K |
+| 19:00 | USD | low | Existing Home Sales | 3.96M | 3.98M |
 | 19:15 | All | low | IMF Meetings | - | - |
-| 21:10 | USD | low | FOMC Member Hammack Speaks | - | - |
-| **13 Oct** 04:01 | GBP | low | BRC Retail Sales Monitor y/y | 0.8% | 0.5% |
-| **13 Oct** 04:50 | JPY | low | Bank Lending y/y | 5.5% | 5.4% |
-| **13 Oct** 04:50 | JPY | low | PPI y/y | 7.6% | 7.6% |
-| **13 Oct** 05:30 | AUD | low | Monetary Policy Meeting Minutes | - | - |
-| **13 Oct** 05:30 | AUD | low | NAB Business Confidence | - | -8 |
-| **13 Oct** 08:00 | GBP | low | MPC Member Greene Speaks | - | - |
-| **13 Oct** 11:00 | EUR | low | German Final CPI m/m | 0.6% | 0.6% |
-| **13 Oct** 12:45 | USD | low | FOMC Member Waller Speaks | - | - |
-| **13 Oct** 13:03 | CNY | low | M2 Money Supply y/y | 7.5% | 7.5% |
-| **13 Oct** 13:03 | CNY | low | New Loans | 300B | 60B |
-| **13 Oct** 15:00 | USD | low | NFIB Small Business Index | 98.0 | 98.7 |
-| **13 Oct** 17:15 | USD | low | ADP Weekly Employment Change | - | 23.8K |
+| 19:30 | AUD | low | CB Leading Index m/m | - | 0.5% |
+| 21:00 | GBP | low | MPC Member Dhingra Speaks | - | - |
+| 22:00 | USD | low | FOMC Member Barkin Speaks | - | - |
+| **14 Oct** 01:00 | USD | low | FOMC Member Collins Speaks | - | - |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
