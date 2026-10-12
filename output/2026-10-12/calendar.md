@@ -1,6 +1,6 @@
 # Calendar — Trading Day 12 Oct 2026
 
-- Banaya gaya: **12 Oct 2026 06:42 PKT**
+- Banaya gaya: **12 Oct 2026 18:23 PKT**
 - Trading day: **12 Oct 03:00 -> 13 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,10 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 14:30 | GBP | low | MPC Member Breeden Speaks | - | - |
-| 16:00 | USD | chhutti | Bank Holiday | - | - |
-| 17:00 | CAD | chhutti | Bank Holiday | - | - |
-| 17:50 | GBP | low | MPC Member Mann Speaks | - | - |
 | 19:15 | All | low | IMF Meetings | - | - |
 | 21:10 | USD | low | FOMC Member Hammack Speaks | - | - |
 | **13 Oct** 04:01 | GBP | low | BRC Retail Sales Monitor y/y | 0.8% | 0.5% |
@@ -23,6 +19,13 @@
 | **13 Oct** 04:50 | JPY | low | PPI y/y | 7.6% | 7.6% |
 | **13 Oct** 05:30 | AUD | low | Monetary Policy Meeting Minutes | - | - |
 | **13 Oct** 05:30 | AUD | low | NAB Business Confidence | - | -8 |
+| **13 Oct** 08:00 | GBP | low | MPC Member Greene Speaks | - | - |
+| **13 Oct** 11:00 | EUR | low | German Final CPI m/m | 0.6% | 0.6% |
+| **13 Oct** 12:45 | USD | low | FOMC Member Waller Speaks | - | - |
+| **13 Oct** 13:03 | CNY | low | M2 Money Supply y/y | 7.5% | 7.5% |
+| **13 Oct** 13:03 | CNY | low | New Loans | 300B | 60B |
+| **13 Oct** 15:00 | USD | low | NFIB Small Business Index | 98.0 | 98.7 |
+| **13 Oct** 17:15 | USD | low | ADP Weekly Employment Change | - | 23.8K |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
