@@ -1,9 +1,9 @@
 # News Pack — Trading Day 11 Oct 2026
 
 - Trading day: **11 Oct 03:00 -> 12 Oct 02:59 PKT**
-- Aakhri update: **12 Oct 06:50 PKT**
-- Kul khabrein: **341**
-- Feeds: 29/39 OK
+- Aakhri update: **12 Oct 13:22 PKT**
+- Kul khabrein: **350**
+- Feeds: 30/39 OK
 
 ---
 
@@ -92,10 +92,11 @@ US Bond Traders Await CPI, Warsh For Insight on Fed's Rate Path Bloomberg.com
 FILE PHOTO: Swearing-in ceremony for incoming Federal Reserve Chair Kevin Warsh The Daily News | Texas' Oldest Newspaper
 
 **Fed minutes: Another rate hike likely coming this year to combat persistent inflation - ABC7 Chicago**
-`11 Oct 23:03 PKT` · pehli baar dekhi `12 Oct 06:50` · gnews_fed · **4 feeds mein**
+`11 Oct 23:03 PKT` · pehli baar dekhi `12 Oct 06:50` · gnews_fed · **5 feeds mein**
 
 Fed minutes: Another rate hike likely coming this year to combat persistent inflation ABC7 Chicago
   - `11 Oct 22:30` *gnews_fed* — Fed minutes: Another rate hike likely coming this year to combat persistent inflation - ABC30 Fresno
+  - `11 Oct 22:30` *gnews_fed* — Fed minutes: Another rate hike likely coming this year to combat persistent inflation - ABC11 News
   - `11 Oct 22:26` *gnews_fed* — Fed minutes: Another rate hike likely coming this year to combat persistent inflation - ABC7 Los Angeles
   - `11 Oct 14:00` *gnews_fed* — Fed minutes: Another rate hike likely coming this year to combat persistent inflation - Ottumwa Courier
 
@@ -370,6 +371,11 @@ The President's oil deal with Putin helps the Kremlin's war on Ukraine's cities.
 
 Oil irony: America turns to Russian diesel as the Iran conflict squeezes fuel markets The Times Australia
 
+**【US Pre-Market】Three Major Index Futures Rise as Oil Falls Below $80; Amazon, Alphabet Gain as Market Focuses on PLTR Earnings - TradingKey**
+`12 Oct 00:15 PKT` · pehli baar dekhi `12 Oct 13:22` · gnews_geopolitics
+
+【US Pre-Market】Three Major Index Futures Rise as Oil Falls Below $80; Amazon, Alphabet Gain as Market Focuses on PLTR Earnings TradingKey
+
 **How Low Can the Strategic Petroleum Reserve Actually Go?**
 `12 Oct 00:00 PKT` · pehli baar dekhi `12 Oct 03:46` · oilprice
 
@@ -397,6 +403,11 @@ Battle for Mideast oil market share has already begun NST Online
 `11 Oct 21:18 PKT` · pehli baar dekhi `11 Oct 23:57` · gnews_geopolitics
 
 IRAN'S SEVEN DAY PLAN: Iran's Araqchi Says Now Up to U.S. to Accept 7-Day Plan to Open Strait of Hormuz - With Implications for Canadian Oil EnergyNow
+
+**Oil Price Today Falls Toward $103 as Russian Diesel Deal Eases Supply Fears - Markets.com**
+`11 Oct 21:03 PKT` · pehli baar dekhi `12 Oct 13:22` · gnews_geopolitics
+
+Oil Price Today Falls Toward $103 as Russian Diesel Deal Eases Supply Fears Markets.com
 
 **Nasdaq 100 Forecast: NDX rises as oil eases and tech gains - FOREX.com**
 `11 Oct 20:30 PKT` · pehli baar dekhi `11 Oct 23:57` · gnews_centralbanks
@@ -444,9 +455,10 @@ Oil prices settle higher as more production shut ahead of hurricane The Daily St
 Iraq Aims to Boost Oil Output to 8-10 Million Bpd in Six Years EnergyNow.com
 
 **Crude Oil Futures Brace For Volatility Amid Geopolitical Uncertainties, Say Analysts - NDTV Profit**
-`11 Oct 15:39 PKT` · pehli baar dekhi `12 Oct 06:50` · gnews_geopolitics · **3 feeds mein**
+`11 Oct 15:39 PKT` · pehli baar dekhi `12 Oct 06:50` · gnews_geopolitics · **4 feeds mein**
 
 Crude Oil Futures Brace For Volatility Amid Geopolitical Uncertainties, Say Analysts NDTV Profit
+  - `11 Oct 15:39` *gnews_geopolitics* — Crude Oil Futures Brace For Volatility Amid Geopolitical Uncertainties, Say Analysts - NDTV Profit
   - `11 Oct 15:20` *gnews_geopolitics* — Crude oil futures brace for volatility amid geopolitical uncertainties: Analysts - ET Auto
   - `11 Oct 15:20` *gnews_geopolitics* — Crude oil futures brace for volatility amid geopolitical uncertainties: Analysts - ET Auto
 
@@ -470,6 +482,11 @@ Benchmark oil prices defy easing US-Iran tensions ahead of EPRA fuel review The 
 `11 Oct 14:17 PKT` · pehli baar dekhi `11 Oct 19:10` · gnews_geopolitics
 
 Oil Futures Brace for Volatility: US-Iran, Geopolitics Rediff MoneyWiz
+
+**Trump faces escalating oil crisis over Iran blocking Strait of Hormuz - ABC News - Breaking News, Latest News and Videos**
+`11 Oct 13:41 PKT` · pehli baar dekhi `12 Oct 13:22` · gnews_geopolitics
+
+Trump faces escalating oil crisis over Iran blocking Strait of Hormuz ABC News - Breaking News, Latest News and Videos
 
 **Trump's Iran Promise Fails to Calm Oil Markets Ahead of November Midterms - Tekedia**
 `11 Oct 13:22 PKT` · pehli baar dekhi `11 Oct 19:10` · gnews_geopolitics
@@ -661,6 +678,11 @@ Energy briefs–Iran, Russia, Ukraine and China in the energy mix Oklahoma Energ
 **Russia stocks lower at close of trade; MOEX Russia Index unchanged**
 `12 Oct 02:20 PKT` · pehli baar dekhi `12 Oct 03:46` · investing_news
 
+**Iran fuel crisis deepens amid war and sanctions - DW.com**
+`12 Oct 02:05 PKT` · pehli baar dekhi `12 Oct 13:22` · gnews_geopolitics
+
+Iran fuel crisis deepens amid war and sanctions DW.com
+
 **Trump says Russia, Ukraine agree energy ceasefire two days after Russian diesel deal**
 `12 Oct 01:50 PKT` · pehli baar dekhi `12 Oct 03:46` · investinglive
 
@@ -695,6 +717,11 @@ US President Trump&#039;s bid to bring down diesel prices by easing sanctions on
 `11 Oct 23:47 PKT` · pehli baar dekhi `12 Oct 03:46` · aljazeera
 
 The US-Israel war on Iran and its inflationary impact will dominate the agenda.
+
+**Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says - EnergyNow**
+`11 Oct 23:31 PKT` · pehli baar dekhi `12 Oct 13:22` · gnews_geopolitics
+
+Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says EnergyNow
 
 **Houthis and Ukraine Put Trump in Treacherous Territory**
 `11 Oct 22:39 PKT` · pehli baar dekhi `11 Oct 23:57` · wsj_world
@@ -797,9 +824,10 @@ Third strike on Yandex facilities in a week comes as Russia and Ukraine escalate
 Trump has called for Ukraine to hold elections, implying Zelenskyy missed opportunities to end the war with Russia.
 
 **What the Iran war has done to the world's energy supply, in charts**
-`11 Oct 13:22 PKT` · pehli baar dekhi `11 Oct 19:10` · aljazeera · **2 feeds mein**
+`11 Oct 13:22 PKT` · pehli baar dekhi `11 Oct 19:10` · aljazeera · **3 feeds mein**
 
 Fossil fuels produce 81 percent of global energy. We look at Middle East's role and what happens when supplies are cut.
+  - `11 Oct 13:33` *gnews_geopolitics* — What the Iran war has done to the world's energy supply, in charts - Al Jazeera
   - `11 Oct 13:33` *gnews_geopolitics* — What the Iran war has done to the world's energy supply, in charts - Al Jazeera
 
 **Trump weighs renewed Iran strikes as Saudi airport attack kills 12**
@@ -963,7 +991,7 @@ Oil Prices Fall After US and Iran Receive Framework Ceasefire Proposal EnergyNow
 
 Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.
 
-### BINA TAG (117)
+### BINA TAG (118)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -1032,6 +1060,7 @@ Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-alig
 - `11 Oct 15:45` **aljazeera** — Yemen fighting expands as Houthis attack Saudi airport: What to know
 - `11 Oct 15:42` **aljazeera** — Fear and uncertainty for civilians as Yemen's capital comes under attack
 - `11 Oct 15:31` **aljazeera** — Modi is in trouble
+- `11 Oct 15:29` **gnews_geopolitics** — How High Are Gas Prices Where You Live? - The New York Times
 - `11 Oct 15:28` **aljazeera** — Marco Bezzecchi wins in Indonesia as Martin takes MotoGP lead
 - `11 Oct 15:22` **cointelegraph** — Coldcard says it's investigating how phishing link appeared on its X account
 - `11 Oct 15:22` **aljazeera** — Anti-ICE protests in New York after man shot in car with child
@@ -1101,47 +1130,47 @@ investing_news (26)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 20 | 11 | 9 | 5 | 0.0 |
-| fxstreet_news | OK | 30 | 5 | 5 | 0 | 25 | 0.0 |
-| fxstreet_analysis | OK | 30 | 0 | 0 | 0 | 30 | 1.4 |
-| actionforex | OK | 20 | 1 | 1 | 0 | 19 | 0.1 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.4 |
-| instaforex | OK | 25 | 10 | 8 | 2 | 15 | -0.2 |
-| wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.5 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 31.3 |
+| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 30 | 0 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 1 | 1 | 0 | 29 | 0.2 |
+| actionforex | OK | 20 | 8 | 7 | 1 | 12 | 0.0 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.7 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 4 | 1 | 3 | 32 | 0.0 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 31.6 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 46 | 46 | 6 | 40 | 0 | 0.0 |
-| gnews_geopolitics | OK | 51 | 51 | 32 | 19 | 0 | 0.0 |
-| gnews_centralbanks | OK | 36 | 36 | 13 | 23 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.7 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.7 |
-| boj_whatsnew | OK | 48 | 0 | 0 | 0 | 48 | 2.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 11.0 |
-| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
-| oilprice | OK | 15 | 7 | 2 | 5 | 8 | 0.0 |
-| investing_commodities | OK | 10 | 7 | 3 | 4 | 3 | 0.0 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
-| bbc_business | OK | 39 | 9 | 5 | 4 | 30 | 0.1 |
-| aljazeera | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 31.6 |
-| eia_energy | WARN | 14 | 0 | 0 | 0 | 14 | 4.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 5.6 |
-| wsj_world | OK | 72 | 18 | 2 | 16 | 54 | 0.0 |
-| wsj_markets | OK | 61 | 8 | 3 | 5 | 53 | 0.0 |
-| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| gnews_fed | OK | 53 | 53 | 23 | 30 | 0 | 0.0 |
+| gnews_geopolitics | OK | 59 | 59 | 26 | 33 | 0 | 0.0 |
+| gnews_centralbanks | OK | 45 | 45 | 23 | 22 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.0 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.9 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.0 |
+| boj_whatsnew | OK | 47 | 0 | 0 | 0 | 47 | 3.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 11.3 |
+| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.6 |
+| oilprice | OK | 15 | 10 | 3 | 7 | 5 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| ing_think | OK | 10 | 2 | 2 | 0 | 8 | 0.1 |
+| bbc_business | OK | 40 | 12 | 3 | 9 | 28 | 0.0 |
+| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 1 | 0 | 19 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 31.9 |
+| eia_energy | WARN | 14 | 0 | 0 | 0 | 14 | 4.8 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 5.8 |
+| wsj_world | OK | 72 | 21 | 3 | 18 | 51 | 0.0 |
+| wsj_markets | OK | 61 | 14 | 6 | 8 | 47 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
-| cointelegraph | OK | 30 | 7 | 2 | 5 | 23 | 0.0 |
+| mw_topstories | OK | 10 | 8 | 0 | 8 | 2 | 0.5 |
+| cointelegraph | OK | 30 | 10 | 3 | 7 | 20 | 0.1 |
 
 **Jo feeds nahi aaye:**
-- cme_risk_management — STALE, cadence 10d, magar 31d purana
+- cme_risk_management — STALE, cadence 10d, magar 32d purana
 - kitco_general — FAIL, koi item nahi
 - yahoo_finance — FAIL, HTTP 404
