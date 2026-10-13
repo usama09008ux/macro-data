@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "13 Oct 2026 08:08",
+  "generated_pkt": "13 Oct 2026 17:51",
   "trading_day": "2026-10-13",
   "feed_sources": {
     "thisweek": "live"
@@ -198,32 +198,6 @@
       "utc": "2026-10-13T07:45Z",
       "pkt": "13 Oct 12:45",
       "pkt_iso": "2026-10-13T12:45:00+05:00",
-      "trading_day": "2026-10-13"
-    },
-    {
-      "title": "M2 Money Supply y/y",
-      "ccy": "CNY",
-      "impact": "Low",
-      "forecast": "7.4%",
-      "previous": "7.5%",
-      "url": "https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy",
-      "all_day": false,
-      "utc": "2026-10-13T08:03Z",
-      "pkt": "13 Oct 13:03",
-      "pkt_iso": "2026-10-13T13:03:00+05:00",
-      "trading_day": "2026-10-13"
-    },
-    {
-      "title": "New Loans",
-      "ccy": "CNY",
-      "impact": "Low",
-      "forecast": "1025B",
-      "previous": "60B",
-      "url": "https://www.forexfactory.com/calendar/477-ch-new-loans",
-      "all_day": false,
-      "utc": "2026-10-13T08:03Z",
-      "pkt": "13 Oct 13:03",
-      "pkt_iso": "2026-10-13T13:03:00+05:00",
       "trading_day": "2026-10-13"
     },
     {
@@ -487,6 +461,32 @@
       "trading_day": "2026-10-14"
     },
     {
+      "title": "M2 Money Supply y/y",
+      "ccy": "CNY",
+      "impact": "Low",
+      "forecast": "7.4%",
+      "previous": "7.5%",
+      "url": "https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy",
+      "all_day": false,
+      "utc": "2026-10-14T08:03Z",
+      "pkt": "14 Oct 13:03",
+      "pkt_iso": "2026-10-14T13:03:00+05:00",
+      "trading_day": "2026-10-14"
+    },
+    {
+      "title": "New Loans",
+      "ccy": "CNY",
+      "impact": "Low",
+      "forecast": "1025B",
+      "previous": "60B",
+      "url": "https://www.forexfactory.com/calendar/477-ch-new-loans",
+      "all_day": false,
+      "utc": "2026-10-14T08:03Z",
+      "pkt": "14 Oct 13:03",
+      "pkt_iso": "2026-10-14T13:03:00+05:00",
+      "trading_day": "2026-10-14"
+    },
+    {
       "title": "ECB President Lagarde Speaks",
       "ccy": "EUR",
       "impact": "Medium",
@@ -523,6 +523,19 @@
       "utc": "2026-10-14T09:40Z",
       "pkt": "14 Oct 14:40",
       "pkt_iso": "2026-10-14T14:40:00+05:00",
+      "trading_day": "2026-10-14"
+    },
+    {
+      "title": "EU Economic Summit",
+      "ccy": "EUR",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/369-ez-eu-economic-summit",
+      "all_day": false,
+      "utc": "2026-10-14T10:15Z",
+      "pkt": "14 Oct 15:15",
+      "pkt_iso": "2026-10-14T15:15:00+05:00",
       "trading_day": "2026-10-14"
     },
     {
@@ -926,6 +939,19 @@
       "utc": "2026-10-15T09:00Z",
       "pkt": "15 Oct 14:00",
       "pkt_iso": "2026-10-15T14:00:00+05:00",
+      "trading_day": "2026-10-15"
+    },
+    {
+      "title": "EU Economic Summit",
+      "ccy": "EUR",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/369-ez-eu-economic-summit",
+      "all_day": false,
+      "utc": "2026-10-15T10:15Z",
+      "pkt": "15 Oct 15:15",
+      "pkt_iso": "2026-10-15T15:15:00+05:00",
       "trading_day": "2026-10-15"
     },
     {

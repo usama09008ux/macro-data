@@ -151,26 +151,6 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/839-us-fomc-member-waller-speaks]]></url>
 	</event>
 	<event>
-		<title>M2 Money Supply y/y</title>
-		<country>CNY</country>
-		<date><![CDATA[10-13-2026]]></date>
-		<time><![CDATA[8:03am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[7.4%]]></forecast>
-		<previous><![CDATA[7.5%]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy]]></url>
-	</event>
-	<event>
-		<title>New Loans</title>
-		<country>CNY</country>
-		<date><![CDATA[10-13-2026]]></date>
-		<time><![CDATA[8:03am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[1025B]]></forecast>
-		<previous><![CDATA[60B]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/477-ch-new-loans]]></url>
-	</event>
-	<event>
 		<title>NFIB Small Business Index</title>
 		<country>USD</country>
 		<date><![CDATA[10-13-2026]]></date>
@@ -371,6 +351,26 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/840-ca-boc-gov-macklem-speaks]]></url>
 	</event>
 	<event>
+		<title>M2 Money Supply y/y</title>
+		<country>CNY</country>
+		<date><![CDATA[10-14-2026]]></date>
+		<time><![CDATA[8:03am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[7.4%]]></forecast>
+		<previous><![CDATA[7.5%]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy]]></url>
+	</event>
+	<event>
+		<title>New Loans</title>
+		<country>CNY</country>
+		<date><![CDATA[10-14-2026]]></date>
+		<time><![CDATA[8:03am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[1025B]]></forecast>
+		<previous><![CDATA[60B]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/477-ch-new-loans]]></url>
+	</event>
+	<event>
 		<title>ECB President Lagarde Speaks</title>
 		<country>EUR</country>
 		<date><![CDATA[10-14-2026]]></date>
@@ -399,6 +399,16 @@
 		<forecast />
 		<previous />
 		<url><![CDATA[https://www.forexfactory.com/calendar/812-us-fomc-member-bowman-speaks]]></url>
+	</event>
+	<event>
+		<title>EU Economic Summit</title>
+		<country>EUR</country>
+		<date><![CDATA[10-14-2026]]></date>
+		<time><![CDATA[10:15am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/369-ez-eu-economic-summit]]></url>
 	</event>
 	<event>
 		<title>Building Permits m/m</title>
@@ -709,6 +719,16 @@
 		<forecast><![CDATA[0.0%]]></forecast>
 		<previous><![CDATA[-0.1%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/220-ez-industrial-production-mm]]></url>
+	</event>
+	<event>
+		<title>EU Economic Summit</title>
+		<country>EUR</country>
+		<date><![CDATA[10-15-2026]]></date>
+		<time><![CDATA[10:15am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/369-ez-eu-economic-summit]]></url>
 	</event>
 	<event>
 		<title>Manufacturing Sales m/m</title>
