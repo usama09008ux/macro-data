@@ -1,8 +1,8 @@
 # News Pack — Trading Day 12 Oct 2026
 
 - Trading day: **12 Oct 03:00 -> 13 Oct 02:59 PKT**
-- Aakhri update: **13 Oct 12:06 PKT**
-- Kul khabrein: **721**
+- Aakhri update: **13 Oct 20:01 PKT**
+- Kul khabrein: **733**
 - Feeds: 33/39 OK
 
 ---
@@ -324,10 +324,11 @@ Gold rose in early Asian trade, as markets weighed a pullback in oil prices.
 Cleveland Fed President Beth Hammack said that further tightening is needed but reiterated earlier remarks that she is open "to adjusting the pace of rate increases."
 
 **Fed's Hammack: Hope to cool demand, and inflation, without job market pain - Hilton Head Island Packet**
-`13 Oct 02:48 PKT` · pehli baar dekhi `13 Oct 05:36` · gnews_fed · **2 feeds mein**
+`13 Oct 02:48 PKT` · pehli baar dekhi `13 Oct 05:36` · gnews_fed · **3 feeds mein**
 
 Fed's Hammack: Hope to cool demand, and inflation, without job market pain Hilton Head Island Packet
   - `13 Oct 02:48` *gnews_fed* — Fed's Hammack: Hope to cool demand, and inflation, without job market pain - Miami Herald
+  - `13 Oct 02:37` *gnews_fed* — Fed's Hammack: Hope to cool demand, and inflation, without job market pain - Reuters
 
 **Fed's Hammack says more tightening needed to cool demand, keeps open mind on pace**
 `13 Oct 02:44 PKT` · pehli baar dekhi `13 Oct 05:36` · investinglive
@@ -400,9 +401,10 @@ Societe Generale strategists note that the recent USD/KRW bounce stalled around 
 Dollar firm as Fed rate-hike bets weigh on euro; pound little changed BigGo Finance
 
 **Gradual Interest Rate Tweaks Preferred to Keep Inflation in Check, Fed's Hammack Says - TradingView**
-`12 Oct 23:43 PKT` · pehli baar dekhi `13 Oct 05:36` · gnews_fed
+`12 Oct 23:43 PKT` · pehli baar dekhi `13 Oct 05:36` · gnews_fed · **2 feeds mein**
 
 Gradual Interest Rate Tweaks Preferred to Keep Inflation in Check, Fed's Hammack Says TradingView
+  - `12 Oct 23:43` *gnews_fed* — Gradual Interest Rate Tweaks Preferred to Keep Inflation in Check, Fed's Hammack Says - TradingView
 
 **Fed Hammack Signals Need For Tighter Policy At NABE Meeting - SuaraGarut.ID**
 `12 Oct 23:17 PKT` · pehli baar dekhi `13 Oct 05:36` · gnews_fed
@@ -1409,15 +1411,30 @@ A new breakthrough in high-temperature heat pumps could provide a critical pathw
 
 A two-front geopolitical premium is now embedded in crude, with traders weighing the risk that direct US involvement against the Houthis widens the conflict around Gulf export infrastructure. The multi-year timeline for Saudi pipeline expansion suggests the kingdom's ability to reroute or offset disrupted flows will stay constrained, reinforcing the tight-supply narrative.
 
+**U.S. Oil Refiners Face Import Squeeze From Biggest Foreign Seller - EnergyNow.com**
+`13 Oct 01:34 PKT` · pehli baar dekhi `13 Oct 20:01` · gnews_geopolitics
+
+U.S. Oil Refiners Face Import Squeeze From Biggest Foreign Seller EnergyNow.com
+
 **Stocks Settle Lower as Crude Prices Jump and Chipmakers Fall - TradingView**
 `13 Oct 01:32 PKT` · pehli baar dekhi `13 Oct 12:06` · gnews_centralbanks
 
 Stocks Settle Lower as Crude Prices Jump and Chipmakers Fall TradingView
 
+**Cutting Off Red Sea Oil Route May Be One Crisis Too Many: Bousso - EnergyNow.com**
+`13 Oct 01:17 PKT` · pehli baar dekhi `13 Oct 20:01` · gnews_geopolitics
+
+Cutting Off Red Sea Oil Route May Be One Crisis Too Many: Bousso EnergyNow.com
+
 **Oil Climbs as Fighting Flares in Middle East, Ukraine**
 `13 Oct 01:15 PKT` · pehli baar dekhi `13 Oct 05:36` · wsj_markets
 
 Plus, a Starbucks-Chipotle merger that wasn't, and credit scores for mortgages are changing.
+
+**Trump Officials Urge Oil Industry to Boost Output Amid War - EnergyNow.com**
+`13 Oct 01:13 PKT` · pehli baar dekhi `13 Oct 20:01` · gnews_geopolitics
+
+Trump Officials Urge Oil Industry to Boost Output Amid War EnergyNow.com
 
 **Oil Touches Pre-War Levels on Rising Middle East Supply - EnergyNow.com**
 `13 Oct 01:09 PKT` · pehli baar dekhi `13 Oct 12:06` · gnews_geopolitics
@@ -1429,10 +1446,25 @@ Oil Touches Pre-War Levels on Rising Middle East Supply EnergyNow.com
 
 Oil Rises on Supply Concerns as Iran Conflict Widens EnergyNow.com
 
+**Oil Seen Elevated as Hormuz Risks Intensify Amid Iran Conflict, Analysts Say - EnergyNow.com**
+`13 Oct 01:02 PKT` · pehli baar dekhi `13 Oct 20:01` · gnews_geopolitics
+
+Oil Seen Elevated as Hormuz Risks Intensify Amid Iran Conflict, Analysts Say EnergyNow.com
+
 **China's Auto Exports Explode as Domestic Demand Craters**
 `13 Oct 01:00 PKT` · pehli baar dekhi `13 Oct 05:36` · oilprice
 
 New data released by the China Passenger Car Association earlier on Monday show that China's peak car-buying season hit the brakes, with September passenger-vehicle retail sales plunging 28% from a year earlier as manufacturers increasingly relied on overseas buyers to cushion soft domestic demand. The CPCA said in the report that retail sales fell to 1.62 million vehicles, marking a 12th consecutive monthly decline from a year earlier. Sales rose 5% from August.
+
+**Oil Supply Shock to Worsen as Inventories Fall Further Even if Conflict Ends - EnergyNow.com**
+`13 Oct 00:59 PKT` · pehli baar dekhi `13 Oct 20:01` · gnews_geopolitics
+
+Oil Supply Shock to Worsen as Inventories Fall Further Even if Conflict Ends EnergyNow.com
+
+**US Intercepts Three Iranian Oil Tankers in Asian Waters, Sources Say - EnergyNow.com**
+`13 Oct 00:49 PKT` · pehli baar dekhi `13 Oct 20:01` · gnews_geopolitics
+
+US Intercepts Three Iranian Oil Tankers in Asian Waters, Sources Say EnergyNow.com
 
 **Tension in the releases sent crude oil prices to a new high**
 `13 Oct 00:40 PKT` · pehli baar dekhi `13 Oct 05:36` · investinglive
@@ -1463,6 +1495,11 @@ Threats to Global Supplies Push Crude Oil Prices Sharply Higher TradingView
 `12 Oct 23:52 PKT` · pehli baar dekhi `13 Oct 05:36` · aljazeera
 
 Cuban energy minister denies link to fuel shipments intercepted by US, says oil imports by private firms insufficient.
+
+**Americas have glut of heavy oil due to freight squeeze; Asia, Europe scramble for barrels - Yahoo Finance UK**
+`12 Oct 23:47 PKT` · pehli baar dekhi `13 Oct 20:01` · gnews_geopolitics
+
+Americas have glut of heavy oil due to freight squeeze; Asia, Europe scramble for barrels Yahoo Finance UK
 
 **WTI hits two-week high Middle East tensions overshadow Russian diesel supplies**
 `12 Oct 23:22 PKT` · pehli baar dekhi `13 Oct 05:36` · fxstreet_news
@@ -1538,9 +1575,10 @@ Rural communities are badly hit by the rising cost of heating oil, as our Wiltsh
 Despite attacks on Saudi Arabia's energy and transport infrastructure in recent weeks, the Kingdom's energy resilience remains strong, Saudi Energy Minister Prince Abdulaziz bin Salman said at the WPC Energy Congress in Riyadh on Monday. "Energy resilience is beyond barrels of spare capacity, of pipelines and gigawatts of generation," Prince Abdulaziz said, as carried by Bloomberg. "It must also be measured by the ability to maintain, repair, reroute, substitute and recover.
 
 **Crude Prices Rally on Threats to Global Supplies - TradingView**
-`12 Oct 20:29 PKT` · pehli baar dekhi `13 Oct 05:36` · gnews_geopolitics
+`12 Oct 20:29 PKT` · pehli baar dekhi `13 Oct 05:36` · gnews_geopolitics · **2 feeds mein**
 
 Crude Prices Rally on Threats to Global Supplies TradingView
+  - `12 Oct 20:29` *gnews_geopolitics* — Crude Prices Rally on Threats to Global Supplies - TradingView
 
 **Iranian oil company exceeds South Zagros gas production target by 6% - PravdaReport**
 `12 Oct 20:28 PKT` · pehli baar dekhi `12 Oct 23:06` · gnews_geopolitics
@@ -2138,6 +2176,16 @@ El Nino-induced drought is affecting roughly half of the country as three-year l
 
 The president tries to reconcile restrainers and hawks with his strategic goals.
 
+**COMMENTARY: Iran War May Crush Oil Demand Today, But Send it Soaring Long Term: Bousso - EnergyNow.com**
+`13 Oct 01:27 PKT` · pehli baar dekhi `13 Oct 20:01` · gnews_geopolitics
+
+COMMENTARY: Iran War May Crush Oil Demand Today, But Send it Soaring Long Term: Bousso EnergyNow.com
+
+**World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks - EnergyNow**
+`13 Oct 01:21 PKT` · pehli baar dekhi `13 Oct 20:01` · gnews_geopolitics
+
+World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks EnergyNow
+
 **How the Iran War Oil and Gas Supply Shock Compares with Past Disruptions - EnergyNow.com**
 `13 Oct 01:06 PKT` · pehli baar dekhi `13 Oct 05:36` · gnews_geopolitics
 
@@ -2673,48 +2721,49 @@ investing_news (6)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 27 | 3 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 3 | 1 | 2 | 27 | 0.1 |
-| actionforex | OK | 20 | 20 | 13 | 7 | 0 | 0.0 |
-| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 3.6 |
+| investinglive | OK | 25 | 24 | 18 | 6 | 1 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 29 | 1 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 4 | 1 | 3 | 26 | 0.2 |
+| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.0 |
+| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 3.9 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 2 | 1 | 1 | 34 | 0.2 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
-| cme_fx_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.4 |
-| cme_rates_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.4 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
-| cme_daily_commentary | OK | 10 | 5 | 0 | 5 | 5 | 0.4 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 32.5 |
-| kitco_general | OK | 28 | 28 | 1 | 27 | 0 | 0.4 |
-| gnews_fed | OK | 56 | 56 | 14 | 42 | 0 | 0.1 |
-| gnews_geopolitics | OK | 68 | 68 | 12 | 56 | 0 | 0.0 |
-| gnews_centralbanks | OK | 40 | 40 | 21 | 19 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.5 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.9 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 4.8 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.9 |
-| boj_whatsnew | OK | 47 | 3 | 1 | 2 | 44 | 0.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 12.2 |
-| mining_com | OK | 36 | 5 | 0 | 5 | 31 | 0.3 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| bbc_business | OK | 40 | 20 | 3 | 17 | 20 | 0.0 |
-| aljazeera | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 1.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 32.8 |
-| eia_energy | WARN | 14 | 0 | 0 | 0 | 14 | 5.7 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 6.8 |
-| wsj_world | OK | 71 | 23 | 3 | 20 | 48 | 0.2 |
-| wsj_markets | OK | 61 | 27 | 7 | 20 | 34 | 0.0 |
+| wsj_economy | OK | 36 | 6 | 4 | 2 | 30 | 0.0 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.8 |
+| cme_fx_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.8 |
+| cme_rates_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.8 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.8 |
+| cme_daily_commentary | OK | 10 | 5 | 0 | 5 | 5 | 0.7 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 32.8 |
+| kitco_general | OK | 35 | 35 | 13 | 22 | 0 | 0.0 |
+| gnews_fed | OK | 55 | 55 | 19 | 36 | 0 | 0.0 |
+| gnews_geopolitics | OK | 61 | 61 | 20 | 41 | 0 | 0.0 |
+| gnews_centralbanks | OK | 38 | 38 | 15 | 23 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.9 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 5.3 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 5.1 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.3 |
+| boj_whatsnew | OK | 48 | 4 | 1 | 3 | 44 | 0.3 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 12.6 |
+| mining_com | OK | 36 | 9 | 4 | 5 | 27 | 0.0 |
+| oilprice | OK | 15 | 15 | 8 | 7 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| bbc_business | OK | 43 | 24 | 5 | 19 | 19 | 0.0 |
+| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 1.3 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 33.2 |
+| eia_energy | STALE | 14 | 0 | 0 | 0 | 14 | 6.0 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 7.1 |
+| wsj_world | OK | 73 | 30 | 7 | 23 | 43 | 0.0 |
+| wsj_markets | OK | 61 | 33 | 13 | 20 | 28 | 0.0 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.2 |
-| cointelegraph | OK | 30 | 24 | 5 | 19 | 6 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 10 | 20 | 0 | 0.0 |
 
 **Jo feeds nahi aaye:**
-- cme_fx_video — STALE, cadence 1d, magar 3d purana
-- cme_rates_video — STALE, cadence 1d, magar 3d purana
+- cme_fx_video — STALE, cadence 1d, magar 4d purana
+- cme_rates_video — STALE, cadence 1d, magar 4d purana
 - cme_risk_management — STALE, cadence 10d, magar 33d purana
+- eia_energy — STALE, cadence 2d, magar 6d purana
 - yahoo_finance — FAIL, HTTP 404
