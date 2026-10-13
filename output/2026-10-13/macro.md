@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 13 Oct 2026
 
-- Banaya gaya: **13 Oct 2026 17:57 PKT**
+- Banaya gaya: **14 Oct 2026 00:18 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
@@ -27,7 +27,7 @@
 | 10Y REAL yield (TIPS) <br>`DFII10` | **2.87%** | -0.05 | -0.01 | +0.32 | 99 | 2026-10-08 |
 | 5Y REAL yield (TIPS) <br>`DFII5` | **2.62%** | -0.04 | -0.03 | +0.33 | 98 | 2026-10-08 |
 | 10Y breakeven inflation <br>`T10YIE` | **2.33%** | -0.02 | -0.03 | -0.03 | 56 | 2026-10-09 |
-| 5Y breakeven inflation <br>`T5YIE` | **2.34%** | -0.03 | -0.03 | -0.06 | 44 | 2026-10-09 |
+| 5Y breakeven inflation <br>`T5YIE` | **2.34%** | -0.03 | -0.03 | -0.06 | 43 | 2026-10-09 |
 | Broad dollar index <br>`DTWEXBGS` | **121.38idx** | -0.4034 | +1.0548 | +3.2578 | 57 | 2026-10-02 |
 
 ---
@@ -36,8 +36,8 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| VIX <br>`VIXCLS` | **14.84** | -0.57 | -0.47 | -1.0 | 27 | 2026-10-09 |
-| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.15%** | +0.06 | -0.09 | +0.45 | 62 | 2026-10-08 |
+| VIX <br>`VIXCLS` | **15.21** | +0.37 | -0.31 | -1.89 | 32 | 2026-10-12 |
+| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.11%** | 0.0 | -0.01 | +0.4 | 57 | 2026-10-12 |
 | Financial stress index <br>`STLFSI4` | **-0.47** | +0.341 | +0.3807 | +0.2714 | 75 | 2026-10-02 |
 
 ---
