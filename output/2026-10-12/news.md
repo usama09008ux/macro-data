@@ -1,8 +1,8 @@
 # News Pack — Trading Day 12 Oct 2026
 
 - Trading day: **12 Oct 03:00 -> 13 Oct 02:59 PKT**
-- Aakhri update: **13 Oct 05:36 PKT**
-- Kul khabrein: **706**
+- Aakhri update: **13 Oct 12:06 PKT**
+- Kul khabrein: **721**
 - Feeds: 33/39 OK
 
 ---
@@ -197,6 +197,11 @@ BofA analysts see gold unable to hold above $4,000 over next three months Tradin
 
 Gold (XAU/USD) price drifts lower by about 1.49% on Monday as the Greenback gains ground amid escalating hostilities in the Middle East, pushing energy prices higher and increasing the likelihood of higher interest rates globally.
 
+**Gold Price Falls to $4,172 as Oil Rally Increases Fed Rate-Hike Expectations - Coinpaper**
+`12 Oct 23:49 PKT` · pehli baar dekhi `13 Oct 12:06` · gnews_fed
+
+Gold Price Falls to $4,172 as Oil Rally Increases Fed Rate-Hike Expectations Coinpaper
+
 **Gold, silver soften as markets price in December Fed hike risk - Kitco PM Report - Kitco**
 `12 Oct 23:02 PKT` · pehli baar dekhi `13 Oct 05:36` · kitco_general
 
@@ -319,9 +324,10 @@ Gold rose in early Asian trade, as markets weighed a pullback in oil prices.
 Cleveland Fed President Beth Hammack said that further tightening is needed but reiterated earlier remarks that she is open "to adjusting the pace of rate increases."
 
 **Fed's Hammack: Hope to cool demand, and inflation, without job market pain - Hilton Head Island Packet**
-`13 Oct 02:48 PKT` · pehli baar dekhi `13 Oct 05:36` · gnews_fed
+`13 Oct 02:48 PKT` · pehli baar dekhi `13 Oct 05:36` · gnews_fed · **2 feeds mein**
 
 Fed's Hammack: Hope to cool demand, and inflation, without job market pain Hilton Head Island Packet
+  - `13 Oct 02:48` *gnews_fed* — Fed's Hammack: Hope to cool demand, and inflation, without job market pain - Miami Herald
 
 **Fed's Hammack says more tightening needed to cool demand, keeps open mind on pace**
 `13 Oct 02:44 PKT` · pehli baar dekhi `13 Oct 05:36` · investinglive
@@ -343,6 +349,11 @@ Cleveland Fed President: "Small, Swift Rate Adjustments Are Preferable" 아시�
 
 Fed's Hammack: Small, Frequent Rate Adjustments Desirable to Prevent Inflation Entrenchment news.sbs.co.kr
 
+**The Fed faces another stress test - MSN**
+`13 Oct 01:53 PKT` · pehli baar dekhi `13 Oct 12:06` · gnews_fed
+
+The Fed faces another stress test MSN
+
 **Federal Reserve voting member Hammack: Combatting inflation requires faster and more frequent small interest rate adjustments; guard against the entrenchment of inflation expectations. - 富途牛牛**
 `13 Oct 01:50 PKT` · pehli baar dekhi `13 Oct 05:36` · gnews_fed
 
@@ -363,15 +374,30 @@ Dollar holds 18-month high as Gulf tension, US inflation keep investors on edge 
 
 United Overseas Bank's (UOB) Quek Ser Leang and Lee Sue Ann note USD/CNH unexpectedly fell to 6.6919 on Friday, with downside momentum starting to build. Intraday, they see potential for a brief dip below 6.6900, provided the pair stays under 6.6985. Over 1–3 weeks, a clear break and close beneath 6.6900 could open the way toward 6.6800, while resistance is now at 6.7050.
 
+**TAG: USD debasement - Kitco**
+`13 Oct 00:23 PKT` · pehli baar dekhi `13 Oct 12:06` · kitco_general
+
+TAG: USD debasement Kitco
+
 **Cleveland Fed President Hammack Urges Swift, Incremental Move to Restrictive Policy - BigGo Finance**
 `13 Oct 00:05 PKT` · pehli baar dekhi `13 Oct 05:36` · gnews_fed
 
 Cleveland Fed President Hammack Urges Swift, Incremental Move to Restrictive Policy BigGo Finance
 
+**Fed's Hammack warns inflation is persistent, favors more restrictive policy - AOL.com**
+`12 Oct 23:58 PKT` · pehli baar dekhi `13 Oct 12:06` · gnews_fed
+
+Fed's Hammack warns inflation is persistent, favors more restrictive policy AOL.com
+
 **South Korean Won: Uptrend seen resuming against US Dollar – Societe Generale**
 `12 Oct 23:51 PKT` · pehli baar dekhi `13 Oct 05:36` · fxstreet_news
 
 Societe Generale strategists note that the recent USD/KRW bounce stalled around 1390 and the pair is now testing the lower end of its consolidation, suggesting the broader downtrend may resume.
+
+**Dollar firm as Fed rate-hike bets weigh on euro; pound little changed - BigGo Finance**
+`12 Oct 23:48 PKT` · pehli baar dekhi `13 Oct 12:06` · gnews_fed
+
+Dollar firm as Fed rate-hike bets weigh on euro; pound little changed BigGo Finance
 
 **Gradual Interest Rate Tweaks Preferred to Keep Inflation in Check, Fed's Hammack Says - TradingView**
 `12 Oct 23:43 PKT` · pehli baar dekhi `13 Oct 05:36` · gnews_fed
@@ -422,6 +448,11 @@ Comments from the Fed's Hammack cross the wires: Treasury rates right now are "m
 `12 Oct 22:38 PKT` · pehli baar dekhi `12 Oct 23:06` · fxstreet_news
 
 United Overseas Bank's (UOB) Quek Ser Leang and Lee Sue Ann note USD/SGD was little changed around 1.2800 on Friday and expect consolidation to persist. Intraday, they see the pair confined between 1.2790 and 1.2820, with 1.2775 as strong support. Over the next few weeks, upward momentum is rebuilding but seen too weak for a sustained break above 1.2835.
+
+**Cleveland Fed's Hammack Calls for Swift Tightening, Favors Smaller Rate Hikes - BigGo Finance**
+`12 Oct 22:25 PKT` · pehli baar dekhi `13 Oct 12:06` · gnews_fed
+
+Cleveland Fed's Hammack Calls for Swift Tightening, Favors Smaller Rate Hikes BigGo Finance
 
 **Cleveland Fed President Hammack says rate hikes are possible — CNBC - UA.NEWS**
 `12 Oct 22:20 PKT` · pehli baar dekhi `12 Oct 23:06` · gnews_fed
@@ -613,10 +644,11 @@ Dollar firm near 18-month highs, as Gulf unrest, US inflation keep investors on 
 Donald Trump Launches Investigation to Remove Fed Governor Lisa Cook, Sets November Hearing OK Magazine
 
 **Fed Chair Kevin Warsh and the FOMC Just Fired a Warning Shot at the Second-Priciest Stock Market in History - Yahoo Finance**
-`12 Oct 13:26 PKT` · pehli baar dekhi `12 Oct 23:06` · gnews_fed · **3 feeds mein**
+`12 Oct 13:26 PKT` · pehli baar dekhi `12 Oct 23:06` · gnews_fed · **4 feeds mein**
 
 Fed Chair Kevin Warsh and the FOMC Just Fired a Warning Shot at the Second-Priciest Stock Market in History Yahoo Finance
   - `12 Oct 13:26` *gnews_fed* — Fed Chair Kevin Warsh and the FOMC Just Fired a Warning Shot at the Second-Priciest Stock Market in History - AOL.com
+  - `12 Oct 13:26` *gnews_fed* — Fed Chair Kevin Warsh and the FOMC Just Fired a Warning Shot at the Second-Priciest Stock Market in History - The Globe and Mail
   - `12 Oct 13:11` *gnews_fed* — Fed Chair Kevin Warsh and the FOMC Just Fired a Warning Shot at the Second-Priciest Stock Market in History - The Motley Fool
 
 **Fed Raises Rates for First Time Since July 2023 as CLARITY Vote Stalls - www.tokenpost.com**
@@ -835,6 +867,11 @@ France's latest 6-month BTF (Bons du Trésor à taux fixe et à intérêts préc
 `12 Oct 23:00 PKT` · pehli baar dekhi `12 Oct 23:06` · instaforex
 
 The yield on France's 3-month BTF (Bon du Trésor à taux fixe et à intérêts précomptés) slipped modestly at the latest auction, with the rate easing to 2.761% from the previous 2.786%. The updated figure, published on 12 October 2026, signals a slight decline in short-term funding costs for the French Treasury. While the movement is small, the lower yield suggests marginally stronger demand or improved funding conditions for France at the very short end of the curve.
+
+**Bankers: ECB may raise interest rate in December, loans without sharp changes - BurgasMedia**
+`12 Oct 22:44 PKT` · pehli baar dekhi `13 Oct 12:06` · gnews_centralbanks
+
+Bankers: ECB may raise interest rate in December, loans without sharp changes BurgasMedia
 
 **European stocks close higher. Spain leads while the dollar strengthens**
 `12 Oct 21:52 PKT` · pehli baar dekhi `12 Oct 23:06` · investinglive
@@ -1372,10 +1409,25 @@ A new breakthrough in high-temperature heat pumps could provide a critical pathw
 
 A two-front geopolitical premium is now embedded in crude, with traders weighing the risk that direct US involvement against the Houthis widens the conflict around Gulf export infrastructure. The multi-year timeline for Saudi pipeline expansion suggests the kingdom's ability to reroute or offset disrupted flows will stay constrained, reinforcing the tight-supply narrative.
 
+**Stocks Settle Lower as Crude Prices Jump and Chipmakers Fall - TradingView**
+`13 Oct 01:32 PKT` · pehli baar dekhi `13 Oct 12:06` · gnews_centralbanks
+
+Stocks Settle Lower as Crude Prices Jump and Chipmakers Fall TradingView
+
 **Oil Climbs as Fighting Flares in Middle East, Ukraine**
 `13 Oct 01:15 PKT` · pehli baar dekhi `13 Oct 05:36` · wsj_markets
 
 Plus, a Starbucks-Chipotle merger that wasn't, and credit scores for mortgages are changing.
+
+**Oil Touches Pre-War Levels on Rising Middle East Supply - EnergyNow.com**
+`13 Oct 01:09 PKT` · pehli baar dekhi `13 Oct 12:06` · gnews_geopolitics
+
+Oil Touches Pre-War Levels on Rising Middle East Supply EnergyNow.com
+
+**Oil Rises on Supply Concerns as Iran Conflict Widens - EnergyNow.com**
+`13 Oct 01:02 PKT` · pehli baar dekhi `13 Oct 12:06` · gnews_geopolitics
+
+Oil Rises on Supply Concerns as Iran Conflict Widens EnergyNow.com
 
 **China's Auto Exports Explode as Domestic Demand Craters**
 `13 Oct 01:00 PKT` · pehli baar dekhi `13 Oct 05:36` · oilprice
@@ -1392,10 +1444,20 @@ Buyers regain control, with $93.48 now a key level to hold. Crude oil pushed to 
 
 Hormuz Oil Exodus Sets Stage for Chaotic Rebalancing Act: Bousso EnergyNow.com
 
+**Dollar Rallies on Higher Crude Oil Prices and Hawkish Fed Comments - TradingView**
+`13 Oct 00:34 PKT` · pehli baar dekhi `13 Oct 12:06` · gnews_centralbanks
+
+Dollar Rallies on Higher Crude Oil Prices and Hawkish Fed Comments TradingView
+
 **Iran reviews U.S. Hormuz proposal as oil supply uncertainty continues - Oil & Gas 360**
 `13 Oct 00:33 PKT` · pehli baar dekhi `13 Oct 05:36` · gnews_geopolitics
 
 Iran reviews U.S. Hormuz proposal as oil supply uncertainty continues Oil & Gas 360
+
+**Threats to Global Supplies Push Crude Oil Prices Sharply Higher - TradingView**
+`13 Oct 00:16 PKT` · pehli baar dekhi `13 Oct 12:06` · gnews_geopolitics
+
+Threats to Global Supplies Push Crude Oil Prices Sharply Higher TradingView
 
 **Cuba forges ahead with renewable energy plans amid US oil blockade**
 `12 Oct 23:52 PKT` · pehli baar dekhi `13 Oct 05:36` · aljazeera
@@ -2186,6 +2248,11 @@ The Russian attacks, including on gas infrastructure, a power plant and a substa
 
 NOT OUT OF THE WOODS YET: Iran Ceasefire Provides Hope, But Physical Oil Markets to Remain Stressed: Russell EnergyNow
 
+**Iran War Threatens a Prolonged Hit to Global Energy Markets - EnergyNow**
+`12 Oct 17:30 PKT` · pehli baar dekhi `13 Oct 12:06` · gnews_geopolitics
+
+Iran War Threatens a Prolonged Hit to Global Energy Markets EnergyNow
+
 **Trump thinks Ukraine needs a new president. Who could replace Zelenskyy?**
 `12 Oct 17:30 PKT` · pehli baar dekhi `12 Oct 23:06` · aljazeera
 
@@ -2606,48 +2673,48 @@ investing_news (6)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 20 | 5 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 15 | 15 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 2 | 0 | 2 | 28 | 0.3 |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
-| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 3.3 |
-| instaforex | OK | 25 | 25 | 16 | 9 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.7 |
-| cme_metals_video | OK | 10 | 1 | 1 | 0 | 9 | 0.2 |
-| cme_fx_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.2 |
-| cme_rates_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.2 |
-| cme_energy_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
-| cme_daily_commentary | OK | 10 | 5 | 3 | 2 | 5 | 0.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 32.2 |
-| kitco_general | OK | 27 | 27 | 12 | 15 | 0 | 0.2 |
-| gnews_fed | OK | 54 | 54 | 24 | 30 | 0 | 0.0 |
-| gnews_geopolitics | OK | 64 | 64 | 22 | 42 | 0 | 0.1 |
-| gnews_centralbanks | OK | 50 | 50 | 10 | 40 | 0 | 0.2 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.7 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 4.5 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.7 |
-| boj_whatsnew | OK | 48 | 2 | 2 | 0 | 46 | 0.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 12.0 |
-| mining_com | OK | 36 | 5 | 1 | 4 | 31 | 0.0 |
-| oilprice | OK | 15 | 15 | 6 | 9 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| ing_think | OK | 10 | 8 | 0 | 8 | 2 | 0.6 |
-| bbc_business | OK | 47 | 19 | 3 | 16 | 28 | 0.0 |
-| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.7 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 32.6 |
-| eia_energy | WARN | 14 | 0 | 0 | 0 | 14 | 5.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 6.5 |
-| wsj_world | OK | 72 | 20 | 4 | 16 | 52 | 0.1 |
-| wsj_markets | OK | 61 | 22 | 7 | 15 | 39 | 0.1 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 27 | 3 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 3 | 1 | 2 | 27 | 0.1 |
+| actionforex | OK | 20 | 20 | 13 | 7 | 0 | 0.0 |
+| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 3.6 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 2 | 1 | 1 | 34 | 0.2 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
+| cme_fx_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.4 |
+| cme_rates_video | STALE | 10 | 0 | 0 | 0 | 10 | 3.4 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
+| cme_daily_commentary | OK | 10 | 5 | 0 | 5 | 5 | 0.4 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 32.5 |
+| kitco_general | OK | 28 | 28 | 1 | 27 | 0 | 0.4 |
+| gnews_fed | OK | 56 | 56 | 14 | 42 | 0 | 0.1 |
+| gnews_geopolitics | OK | 68 | 68 | 12 | 56 | 0 | 0.0 |
+| gnews_centralbanks | OK | 40 | 40 | 21 | 19 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.9 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 4.8 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.9 |
+| boj_whatsnew | OK | 47 | 3 | 1 | 2 | 44 | 0.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 12.2 |
+| mining_com | OK | 36 | 5 | 0 | 5 | 31 | 0.3 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| bbc_business | OK | 40 | 20 | 3 | 17 | 20 | 0.0 |
+| aljazeera | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 1.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 32.8 |
+| eia_energy | WARN | 14 | 0 | 0 | 0 | 14 | 5.7 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 6.8 |
+| wsj_world | OK | 71 | 23 | 3 | 20 | 48 | 0.2 |
+| wsj_markets | OK | 61 | 27 | 7 | 20 | 34 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 19 | 3 | 16 | 11 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 24 | 5 | 19 | 6 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - cme_fx_video — STALE, cadence 1d, magar 3d purana
 - cme_rates_video — STALE, cadence 1d, magar 3d purana
-- cme_risk_management — STALE, cadence 10d, magar 32d purana
+- cme_risk_management — STALE, cadence 10d, magar 33d purana
 - yahoo_finance — FAIL, HTTP 404
