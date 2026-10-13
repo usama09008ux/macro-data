@@ -1,6 +1,6 @@
 # Calendar — Trading Day 13 Oct 2026
 
-- Banaya gaya: **13 Oct 2026 04:23 PKT**
+- Banaya gaya: **13 Oct 2026 08:08 PKT**
 - Trading day: **13 Oct 03:00 -> 14 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,11 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 04:50 | JPY | low | Bank Lending y/y | 5.5% | 5.4% |
-| 04:50 | JPY | low | PPI y/y | 7.6% | 7.6% |
-| 05:30 | AUD | low | Monetary Policy Meeting Minutes | - | - |
-| 05:30 | AUD | low | NAB Business Confidence | - | -8 |
-| 08:00 | GBP | low | MPC Member Greene Speaks | - | - |
 | 11:00 | EUR | low | German Final CPI m/m | 0.6% | 0.6% |
 | 12:45 | USD | low | FOMC Member Waller Speaks | - | - |
 | 13:03 | CNY | low | M2 Money Supply y/y | 7.4% | 7.5% |
@@ -29,6 +24,13 @@
 | 22:00 | USD | low | FOMC Member Barkin Speaks | - | - |
 | **14 Oct** 01:00 | USD | low | FOMC Member Collins Speaks | - | - |
 | **14 Oct** 02:45 | NZD | low | Visitor Arrivals m/m | - | 0.5% |
+| **14 Oct** 04:30 | AUD | low | MI Leading Index m/m | - | 0.0% |
+| **14 Oct** 04:50 | JPY | low | M2 Money Stock y/y | 2.1% | 2.0% |
+| **14 Oct** 06:30 | CNY | low | CPI y/y | 1.0% | 0.8% |
+| **14 Oct** 06:30 | CNY | low | PPI y/y | 4.4% | 3.8% |
+| **14 Oct** 07:03 | CNY | low | Trade Balance | 790B | 809B |
+| **14 Oct** 07:04 | CNY | low | USD-Denominated Trade Balance | 116.8B | 119.1B |
+| **14 Oct** 07:10 | EUR | MED | ECB President Lagarde Speaks | - | - |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
@@ -38,7 +40,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **14 Oct** 07:10 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | **14 Oct** 10:30 | GBP | MED | BOE Gov Bailey Speaks | - | - |
 | **14 Oct** 11:05 | CAD | MED | BOC Gov Macklem Speaks | - | - |
 | **14 Oct** 13:30 | EUR | MED | ECB President Lagarde Speaks | - | - |
