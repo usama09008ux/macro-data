@@ -1,6 +1,6 @@
 # Calendar — Trading Day 13 Oct 2026
 
-- Banaya gaya: **13 Oct 2026 17:51 PKT**
+- Banaya gaya: **13 Oct 2026 23:40 PKT**
 - Trading day: **13 Oct 03:00 -> 14 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,10 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 19:00 | USD | low | Existing Home Sales | 3.95M | 3.98M |
-| 19:15 | All | low | IMF Meetings | - | - |
-| 19:30 | AUD | low | CB Leading Index m/m | - | 0.5% |
-| 22:00 | USD | low | FOMC Member Barkin Speaks | - | - |
 | **14 Oct** 01:00 | USD | low | FOMC Member Collins Speaks | - | - |
 | **14 Oct** 02:45 | NZD | low | Visitor Arrivals m/m | - | 0.5% |
 | **14 Oct** 04:30 | AUD | low | MI Leading Index m/m | - | 0.0% |
@@ -41,6 +37,10 @@
 | **14 Oct** 17:30 | USD | **HIGH** | Core CPI y/y | 2.5% | 2.4% |
 | **14 Oct** 17:30 | USD | **HIGH** | CPI m/m | 0.6% | 0.4% |
 | **14 Oct** 17:30 | USD | **HIGH** | CPI y/y | 3.6% | 3.4% |
+| **14 Oct** 18:30 | GBP | low | CB Leading Index m/m | - | -0.1% |
+| **14 Oct** 19:15 | All | low | IMF Meetings | - | - |
+| **14 Oct** 22:30 | USD | low | FOMC Member Barkin Speaks | - | - |
+| **14 Oct** 23:00 | USD | low | Beige Book | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
