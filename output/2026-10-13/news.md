@@ -1,9 +1,9 @@
 # News Pack — Trading Day 13 Oct 2026
 
 - Trading day: **13 Oct 03:00 -> 14 Oct 02:59 PKT**
-- Aakhri update: **14 Oct 08:52 PKT**
-- Kul khabrein: **745**
-- Feeds: 35/39 OK
+- Aakhri update: **14 Oct 14:16 PKT**
+- Kul khabrein: **752**
+- Feeds: 34/39 OK
 
 ---
 
@@ -396,6 +396,11 @@ Gold price (XAU/USD) falls to around $4,170 during the early Asian session on Tu
 `14 Oct 02:48 PKT` · pehli baar dekhi `14 Oct 04:54` · gnews_fed
 
 OVERSIGHT AND INVESTIGATION—Warren probes reported early access to Fed-commissioned SVB report VitalLaw.com
+
+**Boston Fed's Collins Backs Another Rate Hike This Year as Inflation Risks Loom - IndexBox**
+`14 Oct 02:40 PKT` · pehli baar dekhi `14 Oct 14:16` · gnews_fed
+
+Boston Fed's Collins Backs Another Rate Hike This Year as Inflation Risks Loom IndexBox
 
 **Lawyer for Fed's Cook denounces Trump's latest attempt to remove her - Forth.News**
 `14 Oct 02:38 PKT` · pehli baar dekhi `14 Oct 04:54` · gnews_fed
@@ -1024,15 +1029,16 @@ ECB reference rate supports euro to Turkish lira exchange rate as range-bound tr
 
 European equities reversed early gains to finish sharply lower on Tuesday, weighed down by steep declines in AI infrastructure names and major industrials. The Euro STOXX 50 slipped 0.6% to 6,170, while the STOXX Europe 600 edged down 0.2% to 635. ASML dropped 4.2% ahead of its earnings release this week, mirroring heavy losses among chipmakers across key Western markets after Chinese semiconductor firm CXMT announced a breakthrough in memory architecture that competes with leading Korean and ...
 
+**AI limiting European workers' bargaining power, ECB's Lane says - WTVB**
+`13 Oct 23:47 PKT` · pehli baar dekhi `14 Oct 14:16` · gnews_centralbanks · **2 feeds mein**
+
+AI limiting European workers' bargaining power, ECB's Lane says WTVB
+  - `13 Oct 23:36` *gnews_centralbanks* — AI limiting European workers' bargaining power, ECB's Lane says - Reuters
+
 **Euro: Soft undertone but fair value higher against US Dollar – Scotiabank**
 `13 Oct 23:36 PKT` · pehli baar dekhi `14 Oct 01:37` · fxstreet_news
 
 Scotiabank strategists Shaun Osborne and Eric Theoret say the Euro (EUR) is marginally firmer versus the US Dollar (USD) on the softer USD tone, with ECB Governor Stournaras signalling continued gradual tightening.
-
-**AI limiting European workers' bargaining power, ECB's Lane says - Reuters**
-`13 Oct 23:36 PKT` · pehli baar dekhi `14 Oct 01:37` · gnews_centralbanks
-
-AI limiting European workers' bargaining power, ECB's Lane says Reuters
 
 **ECB's Lane: An increase in long-term interest rates constitutes a material tightening, relevant for the ECB in setting its policy stance - Forex Factory**
 `13 Oct 23:30 PKT` · pehli baar dekhi `14 Oct 01:37` · gnews_centralbanks
@@ -1865,15 +1871,21 @@ The super El Niño is expected to raise the winter temperatures in South Korea, 
 
 Trump-Iran Standoff Threatens Chronic Gulf Oil Instability: Bousso EnergyNow.com
 
+**Crude Oil Rally: WTI Spikes Above $115 as Iran Conflict and Strait of Hormuz Disruption Trigger Supply Shock - Goodreturns**
+`13 Oct 18:21 PKT` · pehli baar dekhi `14 Oct 14:16` · gnews_geopolitics
+
+Crude Oil Rally: WTI Spikes Above $115 as Iran Conflict and Strait of Hormuz Disruption Trigger Supply Shock Goodreturns
+
 **Iran oil imports: Pakistan considers cheaper supply after US 60-day waiver - Goodreturns**
 `13 Oct 18:20 PKT` · pehli baar dekhi `14 Oct 04:54` · gnews_geopolitics
 
 Iran oil imports: Pakistan considers cheaper supply after US 60-day waiver Goodreturns
 
 **Saudi leads jump in OPEC+ oil output in September, despite Iran war disruption - Reuters**
-`13 Oct 18:07 PKT` · pehli baar dekhi `13 Oct 20:01` · gnews_geopolitics
+`13 Oct 18:07 PKT` · pehli baar dekhi `13 Oct 20:01` · gnews_geopolitics · **2 feeds mein**
 
 Saudi leads jump in OPEC+ oil output in September, despite Iran war disruption Reuters
+  - `13 Oct 18:06` *gnews_geopolitics* — Saudi leads jump in OPEC+ oil output in September, despite Iran war disruption - AOL.ca
 
 **Trump's diesel deal opens a new rift with Europe over Ukraine**
 `13 Oct 18:06 PKT` · pehli baar dekhi `13 Oct 20:01` · aljazeera
@@ -2095,6 +2107,11 @@ Liquefied natural gas flows from the Persian Gulf are still over 75% lower than 
 
 ### CRYPTO
 
+**US CPI Data: Inflation May Hit 3.7%, What to Expect for Bitcoin? - The Crypto Times**
+`14 Oct 01:42 PKT` · pehli baar dekhi `14 Oct 14:16` · gnews_fed
+
+US CPI Data: Inflation May Hit 3.7%, What to Expect for Bitcoin? The Crypto Times
+
 **UK budget deficit on decline, says Bank of England's Bailey - Crypto Briefing**
 `14 Oct 01:14 PKT` · pehli baar dekhi `14 Oct 01:37` · gnews_centralbanks
 
@@ -2268,6 +2285,11 @@ Why is US Stock Market Mixed? Dow Jones Holds Steady as S&P 500 Slips & Nasdaq F
 `13 Oct 21:26 PKT` · pehli baar dekhi `14 Oct 04:54` · gnews_geopolitics
 
 Iran War Triggers Global Race to Build Oil Reserves: Bousso EnergyNow.com
+
+**Oil Falls to Lowest Since Start of Iran War After Ceasefire Deal Signed - EnergyNow.com**
+`13 Oct 21:04 PKT` · pehli baar dekhi `14 Oct 14:16` · gnews_geopolitics
+
+Oil Falls to Lowest Since Start of Iran War After Ceasefire Deal Signed EnergyNow.com
 
 **India Sees Qatar LNG Supply Cut After Iran Strike - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com**
 `13 Oct 21:04 PKT` · pehli baar dekhi `14 Oct 04:54` · gnews_geopolitics
@@ -2448,7 +2470,7 @@ US special envoy Jared Kushner said that a deal to allow Russian diesel exports 
 
 Saudi Arabia said that it faces more drones and missile strikes, while several countries issued travel warnings against visiting the kingdom following deadly strikes on Riyadh's airport by Iran-backed Houthi militants, CNBC reported on Monday.
 
-### BINA TAG (228)
+### BINA TAG (229)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2490,6 +2512,7 @@ Saudi Arabia said that it faces more drones and missile strikes, while several c
 - `14 Oct 00:24` **aljazeera** — Eight orangutans find new forest home in Indonesia after wildfire rescue
 - `14 Oct 00:11` **aljazeera** — EU watchdog urges smart glasses to clearly signal when recording
 - `14 Oct 00:07` **cointelegraph** — Trezor reduces resellers as a 'preventative step' amid Ledger tampering reports
+- `14 Oct 00:02` **kitco_general** — Latest News, Video News, Analysis and Opinions | KITCO NEWS - Kitco
 - `13 Oct 23:53` **kitco_general** — Major US banks post solid third quarter loan growth, but see more competition for deposits - Kitco
 - `13 Oct 23:49` **kitco_general** — Malaysia's king buys stake in Southern Alliance Mining as firm expands rare earths push - Kitco
 - `13 Oct 23:45` **aljazeera** — Cornell suspends fraternity parties after alleged campus gang rape case
@@ -2697,47 +2720,48 @@ investing_news (2)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 16 | 14 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 8 | 1 | 7 | 22 | 0.1 |
-| actionforex | OK | 20 | 20 | 9 | 11 | 0 | 0.0 |
-| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 4.5 |
+| investinglive | OK | 25 | 25 | 12 | 13 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 30 | 0 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 9 | 1 | 8 | 21 | 0.1 |
+| actionforex | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 4.7 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 10 | 4 | 6 | 26 | 0.0 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 33.4 |
-| kitco_general | OK | 38 | 38 | 0 | 38 | 0 | 0.3 |
-| gnews_fed | OK | 77 | 77 | 24 | 53 | 0 | 0.1 |
-| gnews_geopolitics | OK | 60 | 60 | 10 | 50 | 0 | 0.0 |
-| gnews_centralbanks | OK | 32 | 32 | 6 | 26 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 5.8 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.5 |
-| boj_whatsnew | OK | 50 | 6 | 1 | 5 | 44 | 0.1 |
-| rba_media | OK | 1 | 1 | 1 | 0 | 0 | 0.0 |
-| mining_com | OK | 36 | 13 | 1 | 12 | 23 | 0.2 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.2 |
-| investing_commodities | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| ing_think | OK | 10 | 7 | 1 | 6 | 3 | 0.1 |
-| bbc_business | OK | 47 | 18 | 0 | 18 | 29 | 0.2 |
-| aljazeera | OK | 25 | 25 | 14 | 11 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.8 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 33.7 |
-| eia_energy | STALE | 14 | 0 | 0 | 0 | 14 | 6.6 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 7.6 |
-| wsj_world | OK | 73 | 22 | 1 | 21 | 51 | 0.1 |
-| wsj_markets | OK | 61 | 29 | 5 | 24 | 32 | 0.1 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| wsj_economy | OK | 36 | 11 | 1 | 10 | 25 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.7 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.5 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 33.6 |
+| kitco_general | OK | 39 | 39 | 1 | 38 | 0 | 0.4 |
+| gnews_fed | OK | 76 | 76 | 16 | 60 | 0 | 0.0 |
+| gnews_geopolitics | OK | 87 | 87 | 35 | 52 | 0 | 0.0 |
+| gnews_centralbanks | OK | 23 | 23 | 13 | 10 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 6.0 |
+| ecb_press | OK | 15 | 2 | 1 | 1 | 13 | 0.4 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.8 |
+| boj_whatsnew | OK | 51 | 7 | 1 | 6 | 44 | 0.1 |
+| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 0.3 |
+| mining_com | OK | 36 | 13 | 0 | 13 | 23 | 0.4 |
+| oilprice | OK | 15 | 15 | 3 | 12 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
+| bbc_business | OK | 49 | 21 | 3 | 18 | 28 | 0.0 |
+| aljazeera | OK | 25 | 25 | 23 | 2 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 1 | 0 | 19 | 0.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 33.9 |
+| eia_energy | STALE | 14 | 0 | 0 | 0 | 14 | 6.8 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 7.9 |
+| wsj_world | OK | 73 | 27 | 5 | 22 | 46 | 0.0 |
+| wsj_markets | OK | 61 | 30 | 3 | 27 | 31 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 23 | 1 | 22 | 7 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 25 | 2 | 23 | 5 | 0.2 |
 
 **Jo feeds nahi aaye:**
-- cme_risk_management — STALE, cadence 10d, magar 33d purana
+- actionforex — FAIL, HTTP 404
+- cme_risk_management — STALE, cadence 10d, magar 34d purana
 - eia_energy — STALE, cadence 2d, magar 7d purana
 - yahoo_finance — FAIL, HTTP 404
