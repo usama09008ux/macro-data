@@ -1,8 +1,8 @@
 # News Pack — Trading Day 13 Oct 2026
 
 - Trading day: **13 Oct 03:00 -> 14 Oct 02:59 PKT**
-- Aakhri update: **14 Oct 04:54 PKT**
-- Kul khabrein: **732**
+- Aakhri update: **14 Oct 08:52 PKT**
+- Kul khabrein: **745**
 - Feeds: 35/39 OK
 
 ---
@@ -452,6 +452,11 @@ US equity benchmarks retreated from their intraday highs on Tuesday as Treasury 
 
 US stocks closed lower Tuesday, but the closing changes tell only part of the story. The Dow swung through nearly 729 points, while the S&P 500 and Nasdaq Composite traded on both sides of unchanged. The Nasdaq 100 never made it into positive territory. Earnings season got underway with JPMorgan, Citigroup, Wells Fargo, Goldman Sachs, Johnson & Johnson and UnitedHealth reporting. The results were mixed, but the share-price reaction was consistent: all six finished lower.
 
+**High Rates, Low Won: Expert Advises Dollar Bond Investments - 조선일보**
+`14 Oct 01:29 PKT` · pehli baar dekhi `14 Oct 08:52` · gnews_fed
+
+High Rates, Low Won: Expert Advises Dollar Bond Investments 조선일보
+
 **U.S. Stocks Tick Down As Bank Earnings Don't Excite**
 `14 Oct 01:29 PKT` · pehli baar dekhi `14 Oct 01:37` · wsj_markets
 
@@ -473,9 +478,10 @@ On Tuesday, the Boston Fed President Susan Collins said that the Federal Reserve
 Savers and investors at current yields stand to benefit, but fears are growing about the rest of the economy outside of the AI boom
 
 **One More U.S. Interest-Rate Increase May Be Appropriate, Fed's Williams Says**
-`14 Oct 01:07 PKT` · pehli baar dekhi `14 Oct 01:37` · wsj_economy
+`14 Oct 01:07 PKT` · pehli baar dekhi `14 Oct 01:37` · wsj_economy · **2 feeds mein**
 
 It may be appropriate for the Federal Reserve to raise interest rates once more this year, according to New York Fed President John Williams, but he left open the possibility of further boosts in 2027.
+  - `14 Oct 01:07` *gnews_fed* — One More U.S. Interest-Rate Increase May Be Appropriate, Fed's Williams Says - WSJ
 
 **NY Fed's John Williams sees just one more rate hike in 2026, no increases in 2027 amid easing inflation trends. - Pluang**
 `14 Oct 01:06 PKT` · pehli baar dekhi `14 Oct 04:54` · gnews_fed
@@ -540,11 +546,12 @@ Societe Generale's Kit Juckes argues that Fed Funds forward pricing may be neari
 The Swiss Franc (CHF) registers gains versus the US Dollar (USD) on Tuesday as risk appetite improves and energy prices retreat, weighing on the Greenback, which failed to advance even as US Treasury yields soared ahead of the US CPI release. The USD/CHF pair trades at 0.8331, down 0.18%.
 
 **Fed's Williams currently sees no need for rate hike in 2027, Bloomberg News reports - Kitco**
-`13 Oct 23:49 PKT` · pehli baar dekhi `14 Oct 01:37` · kitco_general · **6 feeds mein**
+`13 Oct 23:49 PKT` · pehli baar dekhi `14 Oct 01:37` · kitco_general · **7 feeds mein**
 
 Fed's Williams currently sees no need for rate hike in 2027, Bloomberg News reports Kitco
   - `14 Oct 00:23` *gnews_fed* — Fed's Williams sees no need for rate hike in 2027, Bloomberg News reports - Reuters
   - `13 Oct 23:30` *gnews_fed* — Fed's Williams currently sees no need for rate hike in 2027, Bloomberg News reports - The Lufkin Daily News
+  - `13 Oct 23:30` *gnews_fed* — Fed's Williams currently sees no need for rate hike in 2027, Bloomberg News reports - Central Oregon Daily
   - `13 Oct 23:23` *gnews_fed* — Fed's Williams currently sees no need for rate hike in 2027, Bloomberg News reports - AOL.com
   - `13 Oct 23:06` *gnews_fed* — Fed's Williams Currently Sees No Need for Rate Hike in 2027 - Bloomberg.com
   - `14 Oct 00:24` *investing_news* — Fed's Williams sees no need for rate hike in 2027, Bloomberg News reports
@@ -570,10 +577,11 @@ On Tuesday, New York Federal Reserve (Fed) President John Williams, a voter on t
 Comments from Fed's Williams, reported by Bloomberg News, cross the wires: Currently sees no need for rate hike in 2027. Said there are still signs inflation will slow "quite a bit" and approach the Fed's 2% target next year. One more interest rate hike appropriate this year The rate path will be about maintaining a balanced economy. Not seeing broader price pressure outside AI and energy. No sign the labor market is contributing to inflation U.S.
 
 **US inflation expectations are well anchored, Fed's Waller says - Kitco**
-`13 Oct 23:19 PKT` · pehli baar dekhi `14 Oct 01:37` · kitco_general · **2 feeds mein**
+`13 Oct 23:19 PKT` · pehli baar dekhi `14 Oct 01:37` · kitco_general · **3 feeds mein**
 
 US inflation expectations are well anchored, Fed's Waller says Kitco
   - `13 Oct 16:21` *gnews_fed* — US inflation expectations are well anchored, Fed's Waller says - Reuters
+  - `13 Oct 16:12` *gnews_fed* — US inflation expectations are well anchored, Fed's Waller says - Sun Herald
 
 **Fed releases discount rate minutes for August and September 2026 meetings - Blockchain News**
 `13 Oct 23:09 PKT` · pehli baar dekhi `14 Oct 04:54` · gnews_fed
@@ -581,14 +589,16 @@ US inflation expectations are well anchored, Fed's Waller says Kitco
 Fed releases discount rate minutes for August and September 2026 meetings Blockchain News
 
 **Fed's Williams Interview With Bloomberg News: Full Transcript - Bloomberg.com**
-`13 Oct 23:07 PKT` · pehli baar dekhi `14 Oct 01:37` · gnews_fed
+`13 Oct 23:07 PKT` · pehli baar dekhi `14 Oct 01:37` · gnews_fed · **2 feeds mein**
 
 Fed's Williams Interview With Bloomberg News: Full Transcript Bloomberg.com
+  - `13 Oct 23:07` *gnews_fed* — Fed's Williams Interview With Bloomberg News: Full Transcript - Bloomberg.com
 
 **US Treasury yield peak still ahead as Fed likely to tighten again, PIMCO's Ivascyn says - Kitco**
-`13 Oct 22:59 PKT` · pehli baar dekhi `14 Oct 01:37` · kitco_general · **2 feeds mein**
+`13 Oct 22:59 PKT` · pehli baar dekhi `14 Oct 01:37` · kitco_general · **3 feeds mein**
 
 US Treasury yield peak still ahead as Fed likely to tighten again, PIMCO's Ivascyn says Kitco
+  - `13 Oct 21:41` *gnews_fed* — US Treasury yield peak still ahead as Fed likely to tighten again, PIMCO's Ivascyn says - Fresno Bee
   - `13 Oct 21:39` *gnews_fed* — U.S. Treasury yield peak still ahead as Fed likely to tighten again, PIMCO's Ivascyn says - The Globe and Mail
 
 **Forex Today: US inflation comes to the fore**
@@ -1240,6 +1250,11 @@ Warsaw says the 2 suspects held in Germany will face sabotage charges.
 
 Despite Tuesday's gain, GBP/USD is in its third straight week of trading between roughly 1.3200 and 1.3300, a range it has held since September 24. It climbed in steps from just above 1.3200 to a high just under 1.3260 and trades near 1.3250, the middle of that range.
 
+**Bank of England's Bailey says companies are focusing on costs - AOL.com**
+`14 Oct 01:45 PKT` · pehli baar dekhi `14 Oct 08:52` · gnews_centralbanks
+
+Bank of England's Bailey says companies are focusing on costs AOL.com
+
 **GBP/JPY Price Forecast: Bulls challenge 210.00 as breakout looms**
 `14 Oct 01:07 PKT` · pehli baar dekhi `14 Oct 01:37` · fxstreet_news
 
@@ -1698,6 +1713,11 @@ The FTSE 100 surrendered earlier gains to close slightly lower on Tuesday, endin
 
 Brent Crude Oil Price Jumps After Attack on Iran's South Pars Field EnergyNow.com
 
+**Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com**
+`14 Oct 01:25 PKT` · pehli baar dekhi `14 Oct 08:52` · gnews_geopolitics
+
+Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War EnergyNow.com
+
 **Economic and event calendar in Asia Wednesday, October 14, 2026 - China inflation data**
 `14 Oct 01:22 PKT` · pehli baar dekhi `14 Oct 01:37` · investinglive
 
@@ -1752,9 +1772,10 @@ Argentina has moved its fight over Falklands oil from threats to the courtroom, 
 Qatar's highly sensitive geographical positioning -- between a western land border with Saudi Arabia and a northeastern maritime border with Iran -- has necessitated it treading a delicate diplomatic path between regional superpowers and their global superpower backers since it gained independence from being a British protectorate in 1971.
 
 **Oil Steady as Investors Focus on Hormuz Flows After Peace Talks - EnergyNow.com**
-`13 Oct 21:31 PKT` · pehli baar dekhi `14 Oct 04:54` · gnews_geopolitics
+`13 Oct 21:31 PKT` · pehli baar dekhi `14 Oct 04:54` · gnews_geopolitics · **2 feeds mein**
 
 Oil Steady as Investors Focus on Hormuz Flows After Peace Talks EnergyNow.com
+  - `13 Oct 18:25` *gnews_geopolitics* — Oil Steady as Investors Focus on Hormuz Flows After Peace Talks - EnergyNow
 
 **Dangote Swings to $4.7 Billion Profit Ahead of Africa's Biggest IPO**
 `13 Oct 21:30 PKT` · pehli baar dekhi `14 Oct 01:37` · oilprice
@@ -2313,6 +2334,11 @@ The head of MI5 has painted a sobering picture of a range of threats now facing 
 
 Gulf oil production rebounds ahead of increase in Iran war hostilities Financial Times
 
+**Oil gains after Trump denies he is willing to ease sanctions on Iran - The Daily Star**
+`13 Oct 15:15 PKT` · pehli baar dekhi `14 Oct 08:52` · gnews_geopolitics
+
+Oil gains after Trump denies he is willing to ease sanctions on Iran The Daily Star
+
 **China's Young People Are Losing Faith in the Promise of Hard Work**
 `13 Oct 14:52 PKT` · pehli baar dekhi `13 Oct 20:01` · wsj_world · **2 feeds mein**
 
@@ -2422,7 +2448,7 @@ US special envoy Jared Kushner said that a deal to allow Russian diesel exports 
 
 Saudi Arabia said that it faces more drones and missile strikes, while several countries issued travel warnings against visiting the kingdom following deadly strikes on Riyadh's airport by Iran-backed Houthi militants, CNBC reported on Monday.
 
-### BINA TAG (225)
+### BINA TAG (228)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2483,6 +2509,7 @@ Saudi Arabia said that it faces more drones and missile strikes, while several c
 - `13 Oct 22:41` **aljazeera** — China sentences three people to death for running Myanmar scam centres
 - `13 Oct 22:30` **gnews_fed** — CBL, US Federal Reserve discuss integrating Libyan banks into global financial system - The Libya Observer
 - `13 Oct 22:25` **gnews_fed** — Hispanic Family Income Up 31% - MundoNOW
+- `13 Oct 22:25` **gnews_fed** — Hispanic Family Income Up 31% - MundoNOW
 - `13 Oct 22:18` **aljazeera** — Cholera cases surge in Yemen as conflict intensifies, WHO says
 - `13 Oct 22:09` **aljazeera** — New White House press secretary Katie Zacharia holds first briefing
 - `13 Oct 21:55` **kitco_general** — TAG: midterm elections - Kitco
@@ -2499,6 +2526,7 @@ Saudi Arabia said that it faces more drones and missile strikes, while several c
 - `13 Oct 20:54` **kitco_general** — Wall Street banks see pockets of weakness due to market turmoil - Kitco
 - `13 Oct 20:54` **mining_com** — JPMorgan names critical minerals chief for $1.5T push
 - `13 Oct 20:44` **bbc_business** — NI company in talks to save Poundland from administration
+- `13 Oct 20:42` **gnews_fed** — Federal Regulators Probe Autonomous AI Inside U.S. Banks As Rogue-Agent Risks Grow - USA Herald
 - `13 Oct 20:12` **instaforex** — Ireland Property Prices Rise Least in Over 2 Years
 - `13 Oct 20:04` **mining_com** — Explosives: the overlooked risk that could halt mines
 - `13 Oct 20:01` **instaforex** — US Natgas Prices Rise to Nearly 3-Week High
@@ -2557,6 +2585,7 @@ Saudi Arabia said that it faces more drones and missile strikes, while several c
 - `13 Oct 17:25` **aljazeera** — Yemeni families' search for missing loved ones hindered by new fighting
 - `13 Oct 17:17` **bbc_business** — Poundland in rescue talks as owners seek buyer
 - `13 Oct 17:08` **mining_com** — South America's copper boom faces a $170B reality check
+- `13 Oct 17:04` **gnews_fed** — Statement from Democracy Defenders Fund, Counsel for Federal Reserve Governor Lisa Cook Following Reports of White House Investigation, Says, "We Have Grave Doubts That This "Hearing" Is A Legitimate One That Would Conform To The Law" - Sierra Sun Times
 - `13 Oct 17:00` **gnews_fed** — NEW INVESTIGATION INTO FEDERAL RESERVE GOVERNOR 📱 - BlackPressUSA
 - `13 Oct 16:58` **bbc_business** — Three things we've learnt about the UK economy from the IMF
 - `13 Oct 16:57` **aljazeera** — How protests have shaped India: From anti-Hindi agitation to farm laws
@@ -2668,47 +2697,47 @@ investing_news (2)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
-| fxstreet_news | OK | 30 | 30 | 7 | 23 | 0 | 0.0 |
-| fxstreet_analysis | OK | 30 | 7 | 0 | 7 | 23 | 0.2 |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.4 |
-| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 4.3 |
-| instaforex | OK | 25 | 25 | 9 | 16 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 6 | 0 | 6 | 30 | 0.2 |
-| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.3 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 7 | 3 | 4 | 3 | 0.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 33.2 |
-| kitco_general | OK | 38 | 38 | 3 | 35 | 0 | 0.1 |
-| gnews_fed | OK | 62 | 62 | 22 | 40 | 0 | 0.0 |
-| gnews_geopolitics | OK | 56 | 56 | 13 | 43 | 0 | 0.1 |
-| gnews_centralbanks | OK | 29 | 29 | 2 | 27 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 1 | 0 | 1 | 14 | 0.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 5.6 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.2 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.4 |
-| boj_whatsnew | OK | 49 | 5 | 1 | 4 | 44 | 0.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 12.9 |
-| mining_com | OK | 36 | 12 | 2 | 10 | 24 | 0.1 |
-| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| ing_think | OK | 10 | 6 | 0 | 6 | 4 | 0.4 |
-| bbc_business | OK | 47 | 18 | 4 | 14 | 29 | 0.0 |
+| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| fxstreet_news | OK | 30 | 30 | 16 | 14 | 0 | 0.0 |
+| fxstreet_analysis | OK | 30 | 8 | 1 | 7 | 22 | 0.1 |
+| actionforex | OK | 20 | 20 | 9 | 11 | 0 | 0.0 |
+| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 4.5 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 10 | 4 | 6 | 26 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 33.4 |
+| kitco_general | OK | 38 | 38 | 0 | 38 | 0 | 0.3 |
+| gnews_fed | OK | 77 | 77 | 24 | 53 | 0 | 0.1 |
+| gnews_geopolitics | OK | 60 | 60 | 10 | 50 | 0 | 0.0 |
+| gnews_centralbanks | OK | 32 | 32 | 6 | 26 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 5.8 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.5 |
+| boj_whatsnew | OK | 50 | 6 | 1 | 5 | 44 | 0.1 |
+| rba_media | OK | 1 | 1 | 1 | 0 | 0 | 0.0 |
+| mining_com | OK | 36 | 13 | 1 | 12 | 23 | 0.2 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.2 |
+| investing_commodities | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| ing_think | OK | 10 | 7 | 1 | 6 | 3 | 0.1 |
+| bbc_business | OK | 47 | 18 | 0 | 18 | 29 | 0.2 |
 | aljazeera | OK | 25 | 25 | 14 | 11 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.7 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 33.5 |
-| eia_energy | STALE | 14 | 0 | 0 | 0 | 14 | 6.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 7.5 |
-| wsj_world | OK | 73 | 21 | 6 | 15 | 52 | 0.0 |
-| wsj_markets | OK | 61 | 24 | 1 | 23 | 37 | 0.1 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.8 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 33.7 |
+| eia_energy | STALE | 14 | 0 | 0 | 0 | 14 | 6.6 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 7.6 |
+| wsj_world | OK | 73 | 22 | 1 | 21 | 51 | 0.1 |
+| wsj_markets | OK | 61 | 29 | 5 | 24 | 32 | 0.1 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 22 | 1 | 21 | 8 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 23 | 1 | 22 | 7 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - cme_risk_management — STALE, cadence 10d, magar 33d purana
-- eia_energy — STALE, cadence 2d, magar 6d purana
+- eia_energy — STALE, cadence 2d, magar 7d purana
 - yahoo_finance — FAIL, HTTP 404
