@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "14 Oct 2026 15:25",
+  "generated_pkt": "14 Oct 2026 21:13",
   "trading_day": "2026-10-14",
   "feed_sources": {
     "thisweek": "live"
@@ -507,9 +507,9 @@
       "previous": "3.80|1.6",
       "url": "https://www.forexfactory.com/calendar/541-ge-30-y-bond-auction",
       "all_day": false,
-      "utc": "2026-10-14T09:34Z",
-      "pkt": "14 Oct 14:34",
-      "pkt_iso": "2026-10-14T14:34:00+05:00",
+      "utc": "2026-10-14T09:38Z",
+      "pkt": "14 Oct 14:38",
+      "pkt_iso": "2026-10-14T14:38:00+05:00",
       "trading_day": "2026-10-14"
     },
     {
@@ -1114,7 +1114,7 @@
       "title": "Natural Gas Storage",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "76B",
       "previous": "85B",
       "url": "https://www.forexfactory.com/calendar/26-us-natural-gas-storage",
       "all_day": false,
@@ -1127,7 +1127,7 @@
       "title": "Crude Oil Inventories",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-0.2M",
       "previous": "-3.2M",
       "url": "https://www.forexfactory.com/calendar/10-us-crude-oil-inventories",
       "all_day": false,
@@ -1449,5 +1449,38 @@
       "trading_day": "2026-10-18"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "Canada August building permits rise 8.8% vs 2.0% expected",
+      "actual_raw": "8.8%",
+      "forecast_raw": "2.0%",
+      "beat": true,
+      "raw_diff": "+6.80pp",
+      "sign_flip": false,
+      "diff_pct": 340.0,
+      "when_pkt": "14 Oct 17:45",
+      "source": "investinglive",
+      "tags": [
+        "cad",
+        "usd"
+      ]
+    },
+    {
+      "title": "US September CPI 3.7% vs 3.6% expected",
+      "actual_raw": "3.7%",
+      "forecast_raw": "3.6%",
+      "beat": true,
+      "raw_diff": "+0.10pp",
+      "sign_flip": false,
+      "diff_pct": 2.8,
+      "when_pkt": "14 Oct 17:41",
+      "source": "investinglive",
+      "tags": [
+        "jpy",
+        "usd",
+        "eur",
+        "rates"
+      ]
+    }
+  ]
 }

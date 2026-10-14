@@ -1,6 +1,6 @@
 # Calendar — Trading Day 14 Oct 2026
 
-- Banaya gaya: **14 Oct 2026 15:25 PKT**
+- Banaya gaya: **14 Oct 2026 21:13 PKT**
 - Trading day: **14 Oct 03:00 -> 15 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,13 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 17:30 | CAD | low | Building Permits m/m | 2.9% | -17.3% |
-| 17:30 | USD | **HIGH** | Core CPI m/m | 0.2% | 0.3% |
-| 17:30 | USD | **HIGH** | Core CPI y/y | 2.5% | 2.4% |
-| 17:30 | USD | **HIGH** | CPI m/m | 0.6% | 0.4% |
-| 17:30 | USD | **HIGH** | CPI y/y | 3.6% | 3.4% |
-| 18:30 | GBP | low | CB Leading Index m/m | - | -0.1% |
-| 19:15 | All | low | IMF Meetings | - | - |
 | 22:30 | USD | low | FOMC Member Barkin Speaks | - | - |
 | 23:00 | USD | low | Beige Book | - | - |
 | **15 Oct** 00:00 | USD | low | FOMC Member Goolsbee Speaks | - | - |
@@ -45,16 +38,29 @@
 | **15 Oct** 14:00 | CAD | low | Gov Council Member Rogers Speaks | - | - |
 | **15 Oct** 14:00 | EUR | low | Industrial Production m/m | 0.0% | -0.1% |
 | **15 Oct** 15:15 | EUR | MED | EU Economic Summit | - | - |
+| **15 Oct** 17:30 | CAD | low | Manufacturing Sales m/m | 1.1% | -0.4% |
+| **15 Oct** 17:30 | CAD | low | Wholesale Sales m/m | -1.5% | 0.3% |
+| **15 Oct** 17:30 | USD | **HIGH** | Core PPI m/m | 0.3% | 0.2% |
+| **15 Oct** 17:30 | USD | **HIGH** | Core Retail Sales m/m | 0.6% | 1.4% |
+| **15 Oct** 17:30 | USD | **HIGH** | PPI m/m | 0.6% | 0.4% |
+| **15 Oct** 17:30 | USD | **HIGH** | Retail Sales m/m | 0.3% | 1.2% |
+| **15 Oct** 17:30 | USD | MED | Philly Fed Manufacturing Index | 28.2 | 37.8 |
+| **15 Oct** 17:30 | USD | MED | Unemployment Claims | 199K | 197K |
+| **15 Oct** 17:30 | USD | low | Empire State Manufacturing Index | 12.1 | 7.6 |
+| **15 Oct** 19:00 | USD | low | Business Inventories m/m | 0.4% | 0.8% |
+| **15 Oct** 19:15 | All | low | IMF Meetings | - | - |
+| **15 Oct** 19:30 | USD | low | Natural Gas Storage | 76B | 85B |
+| **15 Oct** 21:00 | USD | low | Crude Oil Inventories | -0.2M | -3.2M |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
-- `14 Oct 17:30` **USD Core CPI m/m**
-- `14 Oct 17:30` **USD Core CPI y/y**
-- `14 Oct 17:30` **USD CPI m/m**
-- `14 Oct 17:30` **USD CPI y/y**
 - `15 Oct 05:30` **AUD Employment Change**
 - `15 Oct 05:30` **AUD Unemployment Rate**
 - `15 Oct 11:00` **GBP GDP m/m**
+- `15 Oct 17:30` **USD Core PPI m/m**
+- `15 Oct 17:30` **USD Core Retail Sales m/m**
+- `15 Oct 17:30` **USD PPI m/m**
+- `15 Oct 17:30` **USD Retail Sales m/m**
 
 ---
 
@@ -62,12 +68,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **15 Oct** 17:30 | USD | **HIGH** | Core PPI m/m | 0.3% | 0.2% |
-| **15 Oct** 17:30 | USD | **HIGH** | Core Retail Sales m/m | 0.6% | 1.4% |
-| **15 Oct** 17:30 | USD | **HIGH** | PPI m/m | 0.6% | 0.4% |
-| **15 Oct** 17:30 | USD | **HIGH** | Retail Sales m/m | 0.3% | 1.2% |
-| **15 Oct** 17:30 | USD | MED | Philly Fed Manufacturing Index | 28.2 | 37.8 |
-| **15 Oct** 17:30 | USD | MED | Unemployment Claims | 199K | 197K |
 | **16 Oct** 07:00 | GBP | **HIGH** | BOE Gov Bailey Speaks | - | - |
 | **16 Oct** 08:30 | USD | **HIGH** | Fed Chairman Warsh Speaks | - | - |
 | **16 Oct** 09:15 | CAD | MED | BOC Gov Macklem Speaks | - | - |
@@ -77,5 +77,10 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 14 Oct 17:45 | Canada August building permits rise | 8.8% | 2.0% | +6.80pp (+340%) | upar |
+| 14 Oct 17:41 | US September CPI | 3.7% | 3.6% | +0.10pp (+3%) | upar |
 
