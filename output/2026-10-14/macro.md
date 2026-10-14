@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 14 Oct 2026
 
-- Banaya gaya: **14 Oct 2026 15:38 PKT**
+- Banaya gaya: **14 Oct 2026 22:13 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
@@ -11,7 +11,7 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| Fed funds target (upper) <br>`DFEDTARU` | **4.00%** | 0.0 | 0.0 | 0.0 | 25 | 2026-10-13 |
+| Fed funds target (upper) <br>`DFEDTARU` | **4.00%** | 0.0 | 0.0 | 0.0 | 25 | 2026-10-14 |
 | US 2Y yield <br>`DGS2` | **4.80%** | +0.05 | -0.03 | +0.17 | 89 | 2026-10-09 |
 | US 10Y yield <br>`DGS10` | **5.24%** | +0.02 | -0.04 | +0.28 | 99 | 2026-10-09 |
 | US 30Y yield <br>`DGS30` | **5.60%** | 0.0 | -0.03 | +0.25 | 99 | 2026-10-09 |
@@ -36,9 +36,9 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| VIX <br>`VIXCLS` | **15.21** | +0.37 | -0.31 | -1.89 | 32 | 2026-10-12 |
-| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.11%** | 0.0 | -0.01 | +0.4 | 57 | 2026-10-12 |
-| Financial stress index <br>`STLFSI4` | **-0.47** | +0.341 | +0.3807 | +0.2714 | 75 | 2026-10-02 |
+| VIX <br>`VIXCLS` | **15.27** | +0.06 | +0.26 | -1.93 | 33 | 2026-10-13 |
+| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.16%** | +0.05 | +0.13 | +0.4 | 64 | 2026-10-13 |
+| Financial stress index <br>`STLFSI4` | **-0.72** | -0.2531 | +0.0712 | +0.0397 | 35 | 2026-10-09 |
 
 ---
 
@@ -46,8 +46,8 @@
 
 | Series | Aaj | MoM % | YoY % | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|
-| CPI (headline) <br>`CPIAUCSL` | **334.13idx** | +0.4 | +3.71 | 97 | 2026-08-01 |
-| Core CPI <br>`CPILFESL` | **337.76idx** | +0.29 | +2.76 | 97 | 2026-08-01 |
+| CPI (headline) <br>`CPIAUCSL` | **336.30idx** | +0.65 | +4.02 | 97 | 2026-09-01 |
+| Core CPI <br>`CPILFESL` | **338.90idx** | +0.33 | +2.79 | 97 | 2026-09-01 |
 | Core PCE (Fed ka hadaf) <br>`PCEPILFE` | **130.46idx** | +0.25 | +3.01 | 97 | 2026-08-01 |
 | PPI final demand <br>`PPIFIS` | **157.41idx** | +0.4 | +5.41 | 97 | 2026-08-01 |
 

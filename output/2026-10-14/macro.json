@@ -1,11 +1,11 @@
 {
-  "generated_pkt": "14 Oct 2026 15:38",
+  "generated_pkt": "14 Oct 2026 22:13",
   "trading_day": "2026-10-14",
   "series": {
     "DFEDTARU": {
       "latest": 4.0,
-      "latest_date": "2026-10-13",
-      "n_obs": 1105,
+      "latest_date": "2026-10-14",
+      "n_obs": 1106,
       "changes": {
         "1d": 0.0,
         "5d": 0.0,
@@ -124,55 +124,55 @@
       "percentile": 60
     },
     "VIXCLS": {
-      "latest": 15.21,
-      "latest_date": "2026-10-12",
-      "n_obs": 779,
+      "latest": 15.27,
+      "latest_date": "2026-10-13",
+      "n_obs": 780,
       "changes": {
-        "1d": 0.37,
-        "5d": -0.31,
-        "20d": -1.89
+        "1d": 0.06,
+        "5d": 0.26,
+        "20d": -1.93
       },
-      "percentile": 32
+      "percentile": 33
     },
     "BAMLH0A0HYM2": {
-      "latest": 3.11,
-      "latest_date": "2026-10-12",
-      "n_obs": 784,
+      "latest": 3.16,
+      "latest_date": "2026-10-13",
+      "n_obs": 785,
       "changes": {
-        "1d": 0.0,
-        "5d": -0.01,
+        "1d": 0.05,
+        "5d": 0.13,
         "20d": 0.4
       },
-      "percentile": 57
+      "percentile": 64
     },
     "STLFSI4": {
-      "latest": -0.4681,
-      "latest_date": "2026-10-02",
-      "n_obs": 157,
+      "latest": -0.7206,
+      "latest_date": "2026-10-09",
+      "n_obs": 158,
       "changes": {
-        "1d": 0.341,
-        "5d": 0.3807,
-        "20d": 0.2714
+        "1d": -0.2531,
+        "5d": 0.0712,
+        "20d": 0.0397
       },
-      "percentile": 75
+      "percentile": 35
     },
     "CPIAUCSL": {
-      "latest": 334.131,
-      "latest_date": "2026-08-01",
-      "n_obs": 34,
+      "latest": 336.298,
+      "latest_date": "2026-09-01",
+      "n_obs": 35,
       "changes": {
-        "MoM %": 0.4,
-        "YoY %": 3.71
+        "MoM %": 0.65,
+        "YoY %": 4.02
       },
       "percentile": 97
     },
     "CPILFESL": {
-      "latest": 337.765,
-      "latest_date": "2026-08-01",
-      "n_obs": 34,
+      "latest": 338.896,
+      "latest_date": "2026-09-01",
+      "n_obs": 35,
       "changes": {
-        "MoM %": 0.29,
-        "YoY %": 2.76
+        "MoM %": 0.33,
+        "YoY %": 2.79
       },
       "percentile": 97
     },
