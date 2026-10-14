@@ -271,10 +271,20 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/455-ch-ppi-yy]]></url>
 	</event>
 	<event>
+		<title>ECB President Lagarde Speaks</title>
+		<country>EUR</country>
+		<date><![CDATA[10-14-2026]]></date>
+		<time><![CDATA[2:10am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks]]></url>
+	</event>
+	<event>
 		<title>Trade Balance</title>
 		<country>CNY</country>
 		<date><![CDATA[10-14-2026]]></date>
-		<time><![CDATA[2:03am]]></time>
+		<time><![CDATA[2:31am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast><![CDATA[790B]]></forecast>
 		<previous><![CDATA[809B]]></previous>
@@ -284,21 +294,11 @@
 		<title>USD-Denominated Trade Balance</title>
 		<country>CNY</country>
 		<date><![CDATA[10-14-2026]]></date>
-		<time><![CDATA[2:04am]]></time>
+		<time><![CDATA[2:31am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast><![CDATA[116.8B]]></forecast>
 		<previous><![CDATA[119.1B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/450-ch-usd-denominated-trade-balance]]></url>
-	</event>
-	<event>
-		<title>ECB President Lagarde Speaks</title>
-		<country>EUR</country>
-		<date><![CDATA[10-14-2026]]></date>
-		<time><![CDATA[2:10am]]></time>
-		<impact><![CDATA[Medium]]></impact>
-		<forecast />
-		<previous />
-		<url><![CDATA[https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks]]></url>
 	</event>
 	<event>
 		<title>MPC Member Breeden Speaks</title>
@@ -351,10 +351,20 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/840-ca-boc-gov-macklem-speaks]]></url>
 	</event>
 	<event>
+		<title>ECB President Lagarde Speaks</title>
+		<country>EUR</country>
+		<date><![CDATA[10-14-2026]]></date>
+		<time><![CDATA[8:30am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks]]></url>
+	</event>
+	<event>
 		<title>M2 Money Supply y/y</title>
 		<country>CNY</country>
 		<date><![CDATA[10-14-2026]]></date>
-		<time><![CDATA[8:03am]]></time>
+		<time><![CDATA[9:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast><![CDATA[7.4%]]></forecast>
 		<previous><![CDATA[7.5%]]></previous>
@@ -364,21 +374,11 @@
 		<title>New Loans</title>
 		<country>CNY</country>
 		<date><![CDATA[10-14-2026]]></date>
-		<time><![CDATA[8:03am]]></time>
+		<time><![CDATA[9:01am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast><![CDATA[1025B]]></forecast>
 		<previous><![CDATA[60B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/477-ch-new-loans]]></url>
-	</event>
-	<event>
-		<title>ECB President Lagarde Speaks</title>
-		<country>EUR</country>
-		<date><![CDATA[10-14-2026]]></date>
-		<time><![CDATA[8:30am]]></time>
-		<impact><![CDATA[Medium]]></impact>
-		<forecast />
-		<previous />
-		<url><![CDATA[https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks]]></url>
 	</event>
 	<event>
 		<title>German 30-y Bond Auction</title>
@@ -1006,7 +1006,7 @@
 		<date><![CDATA[10-16-2026]]></date>
 		<time><![CDATA[12:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast />
+		<forecast><![CDATA[23.59B]]></forecast>
 		<previous><![CDATA[20.65B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/374-ca-foreign-securities-purchases]]></url>
 	</event>

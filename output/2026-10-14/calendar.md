@@ -1,6 +1,6 @@
 # Calendar — Trading Day 14 Oct 2026
 
-- Banaya gaya: **14 Oct 2026 06:21 PKT**
+- Banaya gaya: **14 Oct 2026 15:25 PKT**
 - Trading day: **14 Oct 03:00 -> 15 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,22 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 06:30 | CNY | low | CPI y/y | 1.0% | 0.8% |
-| 06:30 | CNY | low | PPI y/y | 4.4% | 3.8% |
-| 07:03 | CNY | low | Trade Balance | 790B | 809B |
-| 07:04 | CNY | low | USD-Denominated Trade Balance | 116.8B | 119.1B |
-| 07:10 | EUR | MED | ECB President Lagarde Speaks | - | - |
-| 08:30 | GBP | low | MPC Member Breeden Speaks | - | - |
-| 10:30 | GBP | MED | BOE Gov Bailey Speaks | - | - |
-| 11:00 | EUR | low | German WPI m/m | 0.6% | 0.9% |
-| 11:00 | GBP | low | MPC Member Pill Speaks | - | - |
-| 11:05 | CAD | MED | BOC Gov Macklem Speaks | - | - |
-| 13:03 | CNY | low | M2 Money Supply y/y | 7.4% | 7.5% |
-| 13:03 | CNY | low | New Loans | 1025B | 60B |
-| 13:30 | EUR | MED | ECB President Lagarde Speaks | - | - |
-| 14:34 | EUR | low | German 30-y Bond Auction | - | 3.80|1.6 |
-| 14:40 | USD | low | FOMC Member Bowman Speaks | - | - |
-| 15:15 | EUR | MED | EU Economic Summit | - | - |
 | 17:30 | CAD | low | Building Permits m/m | 2.9% | -17.3% |
 | 17:30 | USD | **HIGH** | Core CPI m/m | 0.2% | 0.3% |
 | 17:30 | USD | **HIGH** | Core CPI y/y | 2.5% | 2.4% |
@@ -42,6 +26,25 @@
 | **15 Oct** 04:50 | JPY | low | Core Machinery Orders m/m | 2.2% | -3.7% |
 | **15 Oct** 05:30 | AUD | **HIGH** | Employment Change | 19.6K | 39.5K |
 | **15 Oct** 05:30 | AUD | **HIGH** | Unemployment Rate | 4.6% | 4.6% |
+| **15 Oct** 07:55 | USD | low | FOMC Member Bowman Speaks | - | - |
+| **15 Oct** 08:35 | GBP | low | MPC Member Pill Speaks | - | - |
+| **15 Oct** 09:25 | AUD | low | RBA Annual Report | - | - |
+| **15 Oct** 09:30 | CHF | MED | SNB Chairman Schlegel Speaks | - | - |
+| **15 Oct** 09:30 | JPY | low | Revised Industrial Production m/m | -1.7% | -1.7% |
+| **15 Oct** 11:00 | GBP | **HIGH** | GDP m/m | -0.1% | 0.4% |
+| **15 Oct** 11:00 | GBP | low | Construction Output m/m | 0.0% | 0.1% |
+| **15 Oct** 11:00 | GBP | low | Goods Trade Balance | -21.9B | -21.0B |
+| **15 Oct** 11:00 | GBP | low | Index of Services 3m/3m | 0.8% | 0.6% |
+| **15 Oct** 11:00 | GBP | low | Industrial Production m/m | -0.1% | 0.2% |
+| **15 Oct** 11:00 | GBP | low | Manufacturing Production m/m | -0.1% | 0.9% |
+| **15 Oct** 11:30 | CHF | low | PPI m/m | 0.6% | 0.7% |
+| **15 Oct** 11:45 | EUR | low | French Final CPI m/m | -0.3% | -0.3% |
+| **15 Oct** 11:45 | GBP | low | MPC Member Greene Speaks | - | - |
+| **15 Oct** 12:30 | GBP | MED | BOE Gov Bailey Speaks | - | - |
+| **15 Oct** 13:45 | GBP | low | MPC Member Breeden Speaks | - | - |
+| **15 Oct** 14:00 | CAD | low | Gov Council Member Rogers Speaks | - | - |
+| **15 Oct** 14:00 | EUR | low | Industrial Production m/m | 0.0% | -0.1% |
+| **15 Oct** 15:15 | EUR | MED | EU Economic Summit | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
@@ -51,6 +54,7 @@
 - `14 Oct 17:30` **USD CPI y/y**
 - `15 Oct 05:30` **AUD Employment Change**
 - `15 Oct 05:30` **AUD Unemployment Rate**
+- `15 Oct 11:00` **GBP GDP m/m**
 
 ---
 
@@ -58,10 +62,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **15 Oct** 09:30 | CHF | MED | SNB Chairman Schlegel Speaks | - | - |
-| **15 Oct** 11:00 | GBP | **HIGH** | GDP m/m | -0.1% | 0.4% |
-| **15 Oct** 12:30 | GBP | MED | BOE Gov Bailey Speaks | - | - |
-| **15 Oct** 15:15 | EUR | MED | EU Economic Summit | - | - |
 | **15 Oct** 17:30 | USD | **HIGH** | Core PPI m/m | 0.3% | 0.2% |
 | **15 Oct** 17:30 | USD | **HIGH** | Core Retail Sales m/m | 0.6% | 1.4% |
 | **15 Oct** 17:30 | USD | **HIGH** | PPI m/m | 0.6% | 0.4% |

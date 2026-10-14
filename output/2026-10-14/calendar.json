@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "14 Oct 2026 06:21",
+  "generated_pkt": "14 Oct 2026 15:25",
   "trading_day": "2026-10-14",
   "feed_sources": {
     "thisweek": "live"
@@ -357,32 +357,6 @@
       "trading_day": "2026-10-14"
     },
     {
-      "title": "Trade Balance",
-      "ccy": "CNY",
-      "impact": "Low",
-      "forecast": "790B",
-      "previous": "809B",
-      "url": "https://www.forexfactory.com/calendar/630-ch-trade-balance",
-      "all_day": false,
-      "utc": "2026-10-14T02:03Z",
-      "pkt": "14 Oct 07:03",
-      "pkt_iso": "2026-10-14T07:03:00+05:00",
-      "trading_day": "2026-10-14"
-    },
-    {
-      "title": "USD-Denominated Trade Balance",
-      "ccy": "CNY",
-      "impact": "Low",
-      "forecast": "116.8B",
-      "previous": "119.1B",
-      "url": "https://www.forexfactory.com/calendar/450-ch-usd-denominated-trade-balance",
-      "all_day": false,
-      "utc": "2026-10-14T02:04Z",
-      "pkt": "14 Oct 07:04",
-      "pkt_iso": "2026-10-14T07:04:00+05:00",
-      "trading_day": "2026-10-14"
-    },
-    {
       "title": "ECB President Lagarde Speaks",
       "ccy": "EUR",
       "impact": "Medium",
@@ -393,6 +367,32 @@
       "utc": "2026-10-14T02:10Z",
       "pkt": "14 Oct 07:10",
       "pkt_iso": "2026-10-14T07:10:00+05:00",
+      "trading_day": "2026-10-14"
+    },
+    {
+      "title": "Trade Balance",
+      "ccy": "CNY",
+      "impact": "Low",
+      "forecast": "790B",
+      "previous": "809B",
+      "url": "https://www.forexfactory.com/calendar/630-ch-trade-balance",
+      "all_day": false,
+      "utc": "2026-10-14T02:31Z",
+      "pkt": "14 Oct 07:31",
+      "pkt_iso": "2026-10-14T07:31:00+05:00",
+      "trading_day": "2026-10-14"
+    },
+    {
+      "title": "USD-Denominated Trade Balance",
+      "ccy": "CNY",
+      "impact": "Low",
+      "forecast": "116.8B",
+      "previous": "119.1B",
+      "url": "https://www.forexfactory.com/calendar/450-ch-usd-denominated-trade-balance",
+      "all_day": false,
+      "utc": "2026-10-14T02:31Z",
+      "pkt": "14 Oct 07:31",
+      "pkt_iso": "2026-10-14T07:31:00+05:00",
       "trading_day": "2026-10-14"
     },
     {
@@ -461,32 +461,6 @@
       "trading_day": "2026-10-14"
     },
     {
-      "title": "M2 Money Supply y/y",
-      "ccy": "CNY",
-      "impact": "Low",
-      "forecast": "7.4%",
-      "previous": "7.5%",
-      "url": "https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy",
-      "all_day": false,
-      "utc": "2026-10-14T08:03Z",
-      "pkt": "14 Oct 13:03",
-      "pkt_iso": "2026-10-14T13:03:00+05:00",
-      "trading_day": "2026-10-14"
-    },
-    {
-      "title": "New Loans",
-      "ccy": "CNY",
-      "impact": "Low",
-      "forecast": "1025B",
-      "previous": "60B",
-      "url": "https://www.forexfactory.com/calendar/477-ch-new-loans",
-      "all_day": false,
-      "utc": "2026-10-14T08:03Z",
-      "pkt": "14 Oct 13:03",
-      "pkt_iso": "2026-10-14T13:03:00+05:00",
-      "trading_day": "2026-10-14"
-    },
-    {
       "title": "ECB President Lagarde Speaks",
       "ccy": "EUR",
       "impact": "Medium",
@@ -497,6 +471,32 @@
       "utc": "2026-10-14T08:30Z",
       "pkt": "14 Oct 13:30",
       "pkt_iso": "2026-10-14T13:30:00+05:00",
+      "trading_day": "2026-10-14"
+    },
+    {
+      "title": "M2 Money Supply y/y",
+      "ccy": "CNY",
+      "impact": "Low",
+      "forecast": "7.4%",
+      "previous": "7.5%",
+      "url": "https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy",
+      "all_day": false,
+      "utc": "2026-10-14T09:00Z",
+      "pkt": "14 Oct 14:00",
+      "pkt_iso": "2026-10-14T14:00:00+05:00",
+      "trading_day": "2026-10-14"
+    },
+    {
+      "title": "New Loans",
+      "ccy": "CNY",
+      "impact": "Low",
+      "forecast": "1025B",
+      "previous": "60B",
+      "url": "https://www.forexfactory.com/calendar/477-ch-new-loans",
+      "all_day": false,
+      "utc": "2026-10-14T09:01Z",
+      "pkt": "14 Oct 14:01",
+      "pkt_iso": "2026-10-14T14:01:00+05:00",
       "trading_day": "2026-10-14"
     },
     {
@@ -1309,7 +1309,7 @@
       "title": "Foreign Securities Purchases",
       "ccy": "CAD",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "23.59B",
       "previous": "20.65B",
       "url": "https://www.forexfactory.com/calendar/374-ca-foreign-securities-purchases",
       "all_day": false,
