@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "15 Oct 2026 15:10",
+  "generated_pkt": "15 Oct 2026 21:00",
   "trading_day": "2026-10-15",
   "feed_sources": {
     "thisweek": "live"
@@ -1449,5 +1449,89 @@
       "trading_day": "2026-10-18"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US August business inventories +0.4% vs +0.4% expected",
+      "actual_raw": "+0.4%",
+      "forecast_raw": "+0.4%",
+      "beat": false,
+      "raw_diff": "+0.00pp",
+      "sign_flip": false,
+      "diff_pct": 0.0,
+      "when_pkt": "15 Oct 19:00",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US initial jobless claim 199K vs 200K estimate",
+      "actual_raw": "199K",
+      "forecast_raw": "200K",
+      "beat": false,
+      "raw_diff": "-1.0K",
+      "sign_flip": false,
+      "diff_pct": -0.5,
+      "when_pkt": "15 Oct 17:36",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "Canada August manufacturing sales +1.5% vs +1.1% expected",
+      "actual_raw": "+1.5%",
+      "forecast_raw": "+1.1%",
+      "beat": true,
+      "raw_diff": "+0.40pp",
+      "sign_flip": false,
+      "diff_pct": 36.4,
+      "when_pkt": "15 Oct 17:32",
+      "source": "investinglive",
+      "tags": [
+        "cad",
+        "usd"
+      ]
+    },
+    {
+      "title": "US September PPI 6.3% vs 5.3% expected",
+      "actual_raw": "6.3%",
+      "forecast_raw": "5.3%",
+      "beat": true,
+      "raw_diff": "+1.00pp",
+      "sign_flip": false,
+      "diff_pct": 18.9,
+      "when_pkt": "15 Oct 17:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US October Empire Manufacturing index +25.50 vs +10.25 expected",
+      "actual_raw": "+25.50",
+      "forecast_raw": "+10.25",
+      "beat": true,
+      "raw_diff": "+15.25",
+      "sign_flip": false,
+      "diff_pct": 148.8,
+      "when_pkt": "15 Oct 17:30",
+      "source": "investinglive",
+      "tags": []
+    },
+    {
+      "title": "US October Philly Fed business index +20.9 vs +28.4 expected",
+      "actual_raw": "+20.9",
+      "forecast_raw": "+28.4",
+      "beat": false,
+      "raw_diff": "-7.50",
+      "sign_flip": false,
+      "diff_pct": -26.4,
+      "when_pkt": "15 Oct 17:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }
