@@ -1,11 +1,11 @@
 {
-  "generated_pkt": "15 Oct 2026 15:21",
+  "generated_pkt": "15 Oct 2026 22:03",
   "trading_day": "2026-10-15",
   "series": {
     "DFEDTARU": {
       "latest": 4.0,
-      "latest_date": "2026-10-14",
-      "n_obs": 1105,
+      "latest_date": "2026-10-15",
+      "n_obs": 1106,
       "changes": {
         "1d": 0.0,
         "5d": 0.0,
@@ -124,26 +124,26 @@
       "percentile": 60
     },
     "VIXCLS": {
-      "latest": 15.27,
-      "latest_date": "2026-10-13",
-      "n_obs": 779,
+      "latest": 16.87,
+      "latest_date": "2026-10-14",
+      "n_obs": 780,
       "changes": {
-        "1d": 0.06,
-        "5d": 0.26,
-        "20d": -1.93
+        "1d": 1.6,
+        "5d": 1.79,
+        "20d": -0.84
       },
-      "percentile": 33
+      "percentile": 57
     },
     "BAMLH0A0HYM2": {
-      "latest": 3.16,
-      "latest_date": "2026-10-13",
-      "n_obs": 785,
+      "latest": 3.25,
+      "latest_date": "2026-10-14",
+      "n_obs": 786,
       "changes": {
-        "1d": 0.05,
-        "5d": 0.13,
-        "20d": 0.4
+        "1d": 0.09,
+        "5d": 0.16,
+        "20d": 0.55
       },
-      "percentile": 64
+      "percentile": 76
     },
     "STLFSI4": {
       "latest": -0.7206,
@@ -187,12 +187,12 @@
       "percentile": 97
     },
     "PPIFIS": {
-      "latest": 157.411,
-      "latest_date": "2026-08-01",
-      "n_obs": 35,
+      "latest": 159.78,
+      "latest_date": "2026-09-01",
+      "n_obs": 36,
       "changes": {
-        "MoM %": 0.4,
-        "YoY %": 5.41
+        "MoM %": 1.34,
+        "YoY %": 6.35
       },
       "percentile": 97
     },
@@ -227,22 +227,22 @@
       "percentile": 97
     },
     "ICSA": {
-      "latest": 197000.0,
-      "latest_date": "2026-10-03",
-      "n_obs": 157,
+      "latest": 199000.0,
+      "latest_date": "2026-10-10",
+      "n_obs": 158,
       "changes": {
-        "1w": -2000.0,
-        "4w": -10000.0
+        "1w": 1000.0,
+        "4w": 1000.0
       },
-      "percentile": 2
+      "percentile": 4
     },
     "RSAFS": {
-      "latest": 737763.0,
-      "latest_date": "2026-08-01",
-      "n_obs": 35,
+      "latest": 745021.0,
+      "latest_date": "2026-09-01",
+      "n_obs": 36,
       "changes": {
-        "MoM %": 1.13,
-        "YoY %": 5.36
+        "MoM %": 0.77,
+        "YoY %": 6.29
       },
       "percentile": 97
     },
