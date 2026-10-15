@@ -1,6 +1,6 @@
 # Calendar — Trading Day 15 Oct 2026
 
-- Banaya gaya: **15 Oct 2026 21:00 PKT**
+- Banaya gaya: **16 Oct 2026 01:07 PKT**
 - Trading day: **15 Oct 03:00 -> 16 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,24 +12,26 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **16 Oct** 01:30 | USD | low | FOMC Member Hammack Speaks | - | - |
-| **16 Oct** 02:30 | NZD | low | BusinessNZ Manufacturing Index | - | 53.1 |
-| **16 Oct** 02:45 | NZD | low | FPI m/m | - | 0.3% |
-| **16 Oct** 07:00 | GBP | **HIGH** | BOE Gov Bailey Speaks | - | - |
-| **16 Oct** 07:30 | EUR | low | German Buba President Nagel Speaks | - | - |
-| **16 Oct** 08:30 | USD | **HIGH** | Fed Chairman Warsh Speaks | - | - |
-| **16 Oct** 09:15 | CAD | MED | BOC Gov Macklem Speaks | - | - |
-| **16 Oct** 14:00 | EUR | low | Final Core CPI y/y | 2.5% | 2.5% |
-| **16 Oct** 14:00 | EUR | low | Final CPI y/y | 3.8% | 3.8% |
-| **16 Oct** 14:00 | EUR | low | Trade Balance | 4.5B | 5.0B |
-| **16 Oct** 15:00 | EUR | low | Italian Trade Balance | 7.50B | 8.24B |
-| **16 Oct** 17:00 | CAD | low | Gov Council Member Alexopoulos Speaks | - | - |
-| **16 Oct** 17:15 | CAD | low | Housing Starts | 234K | 229K |
-| **16 Oct** 17:30 | CAD | low | Foreign Securities Purchases | 23.59B | 20.65B |
-| **16 Oct** 17:30 | USD | low | Import Prices m/m | 0.9% | 0.7% |
-| **16 Oct** 18:15 | USD | low | Capacity Utilization Rate | 76.5% | 76.3% |
-| **16 Oct** 18:15 | USD | low | Industrial Production m/m | 0.4% | 0.0% |
-| **16 Oct** 19:15 | All | low | IMF Meetings | - | - |
+| 01:30 | USD | low | FOMC Member Hammack Speaks | - | - |
+| 02:30 | NZD | low | BusinessNZ Manufacturing Index | - | 53.1 |
+| 02:45 | NZD | low | FPI m/m | - | 0.3% |
+| 07:00 | GBP | **HIGH** | BOE Gov Bailey Speaks | - | - |
+| 07:30 | EUR | low | German Buba President Nagel Speaks | - | - |
+| 08:30 | USD | **HIGH** | Fed Chairman Warsh Speaks | - | - |
+| 09:15 | CAD | MED | BOC Gov Macklem Speaks | - | - |
+| 14:00 | EUR | low | Final Core CPI y/y | 2.5% | 2.5% |
+| 14:00 | EUR | low | Final CPI y/y | 3.8% | 3.8% |
+| 14:00 | EUR | low | Trade Balance | 4.5B | 5.0B |
+| 15:00 | EUR | low | Italian Trade Balance | 7.50B | 8.24B |
+| 17:00 | CAD | low | Gov Council Member Alexopoulos Speaks | - | - |
+| 17:15 | CAD | low | Housing Starts | 234K | 229K |
+| 17:30 | CAD | low | Foreign Securities Purchases | 23.59B | 20.65B |
+| 17:30 | USD | low | Import Prices m/m | 0.9% | 0.7% |
+| 18:15 | USD | low | Capacity Utilization Rate | 76.5% | 76.3% |
+| 18:15 | USD | low | Industrial Production m/m | 0.4% | 0.0% |
+| 19:15 | All | low | IMF Meetings | - | - |
+| 23:00 | USD | low | Federal Budget Balance | -34.7B | -166.8B |
+| **17 Oct** 01:00 | USD | low | TIC Long-Term Purchases | 75.2B | -27.9B |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
@@ -52,6 +54,7 @@
 
 | Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
 |---|---|---|---|---|---|
+| 15 Oct 21:00 | US weekly EIA crude oil inventories | -8557K | -288K | -8,269.0K | neeche |
 | 15 Oct 19:00 | US August business inventories | +0.4% | +0.4% | +0.00pp (+0%) | neeche |
 | 15 Oct 17:36 | US initial jobless claim | 199K | 200K | -1.0K (-0%) | neeche |
 | 15 Oct 17:32 | Canada August manufacturing sales | +1.5% | +1.1% | +0.40pp (+36%) | upar |
