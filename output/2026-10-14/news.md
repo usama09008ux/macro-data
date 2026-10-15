@@ -1,8 +1,8 @@
 # News Pack — Trading Day 14 Oct 2026
 
 - Trading day: **14 Oct 03:00 -> 15 Oct 02:59 PKT**
-- Aakhri update: **15 Oct 05:28 PKT**
-- Kul khabrein: **924**
+- Aakhri update: **15 Oct 10:05 PKT**
+- Kul khabrein: **938**
 - Feeds: 34/39 OK
 
 ---
@@ -404,16 +404,19 @@ Gold price (XAU/USD) drifts lower to near $4,155 during the early Asian session 
 
 US Fed Beige Book: Economy Sees Moderate Growth Amid Rising Price Pressures TradingView
 
+**Exclusive-Fed's Daly says rate hikes likely needed, but not urgently - Merced Sun-Star**
+`15 Oct 02:47 PKT` · pehli baar dekhi `15 Oct 10:05` · gnews_fed · **5 feeds mein**
+
+Exclusive-Fed's Daly says rate hikes likely needed, but not urgently Merced Sun-Star
+  - `15 Oct 02:41` *gnews_fed* — EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently - Reuters
+  - `15 Oct 02:40` *gnews_fed* — Exclusive-Fed's Daly says rate hikes likely needed, but not urgently - Tacoma News Tribune
+  - `15 Oct 02:40` *gnews_fed* — Exclusive-Fed's Daly says rate hikes likely needed, but not urgently - Myrtle Beach Sun News
+  - `15 Oct 02:42` *investing_news* — Exclusive-Fed's Daly says rate hikes likely needed, but not urgently
+
 **Fed's Daly: more rate hikes likely needed, but no urgency to move in October**
 `15 Oct 02:44 PKT` · pehli baar dekhi `15 Oct 03:01` · investinglive
 
 Daly's comments are the clearest pushback yet against the jump in October hike pricing that followed the CPI data. Expect them to trim the odds of a move on October 27-28 without denting expectations for a December increase. That mix would ease some pressure on the front end of the Treasury curve while leaving longer-dated yields anchored to a higher-for-longer outlook. Because Daly linked headline inflation directly to gasoline prices, oil remains the key swing factor.
-
-**EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently - Reuters**
-`15 Oct 02:41 PKT` · pehli baar dekhi `15 Oct 03:01` · gnews_fed · **2 feeds mein**
-
-EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently Reuters
-  - `15 Oct 02:42` *investing_news* — Exclusive-Fed's Daly says rate hikes likely needed, but not urgently
 
 **U.S. Stocks Fall on Hot Inflation Report, AI Sell-Off**
 `15 Oct 02:32 PKT` · pehli baar dekhi `15 Oct 03:01` · wsj_markets
@@ -946,10 +949,11 @@ The Dollar surged broadly on Wednesday after September's US core CPI beat expect
 The stakes around the October Federal Reserve meeting suddenly got much higher. Today's US CPI report was hot across the board, including in core measures that are less volatile than the energy-driven headline. The bond market quickly repriced on the data, with US 2-year yields now up 15 basis points on the day to 4.94%. In the Fed funds futures market, pricing is now right at 50/50 for a hike or hold this month. It's also critical to note that the Fed goes into the blackout period on Saturday.
 
 **Inflation rose to 3.7 percent in September: BLS - Queen City News**
-`14 Oct 18:11 PKT` · pehli baar dekhi `15 Oct 03:01` · gnews_fed · **2 feeds mein**
+`14 Oct 18:11 PKT` · pehli baar dekhi `15 Oct 03:01` · gnews_fed · **3 feeds mein**
 
 Inflation rose to 3.7 percent in September: BLS Queen City News
   - `14 Oct 17:38` *gnews_fed* — Inflation rose to 3.7 percent in September: BLS - The Hill
+  - `14 Oct 16:52` *gnews_fed* — Inflation rose to 3.7 percent in September: BLS - KRQE
 
 **Hotter US inflation leaves the market gunning for rate hikes**
 `14 Oct 18:09 PKT` · pehli baar dekhi `14 Oct 19:34` · ing_think · **2 feeds mein**
@@ -1628,6 +1632,13 @@ Commerzbank's Volkmar Baur notes EUR/USD briefly dipped to 1.115 before recoveri
 
 Spain September final CPI +4.9% vs +4.9% y/y prelim Prior +4.3% Spain September final HICP +5.0% vs +5.0% y/y prelim Prior +4.6% Spain September core CPI +3.1% y/y Prior +2.9% The final report confirms another uncomfortable rise in Spanish inflation in September, with headline annual inflation rising to 4.9% from 4.3% in August. The harmonised reading also jumps further to clip the 5% mark, the highest since February 2023.
 
+**ECB's Lagarde says solution to French debt woes is at home - Business Recorder**
+`14 Oct 12:08 PKT` · pehli baar dekhi `15 Oct 10:05` · gnews_centralbanks · **3 feeds mein**
+
+ECB's Lagarde says solution to French debt woes is at home Business Recorder
+  - `14 Oct 08:25` *gnews_centralbanks* — ECB's Lagarde says solution to French debt woes is at home - AOL.com
+  - `14 Oct 08:22` *gnews_centralbanks* — ECB's Lagarde says solution to French debt woes is at home - Reuters
+
 **IMF Sounds Alarm, ECB Pushes Back on French Support — Central Banks Turn Hawkish Short-Term, Dovish Long-Term - BigGo Finance**
 `14 Oct 11:35 PKT` · pehli baar dekhi `15 Oct 05:28` · gnews_centralbanks
 
@@ -1688,12 +1699,6 @@ ECB President Christine Lagarde signaled that France must address its sovereign 
 
 AI Investment Significantly Tightening Eurozone Financial Conditions, Influencing ECB Decisions, Lane Says BigGo Finance
 
-**ECB's Lagarde says solution to French debt woes is at home - AOL.com**
-`14 Oct 08:25 PKT` · pehli baar dekhi `14 Oct 08:52` · gnews_centralbanks · **2 feeds mein**
-
-ECB's Lagarde says solution to French debt woes is at home AOL.com
-  - `14 Oct 08:22` *gnews_centralbanks* — ECB's Lagarde says solution to French debt woes is at home - Reuters
-
 **ECB Will Probably Have to Hike Interest Rates Again, Wunsch Says - Bloomberg.com**
 `14 Oct 08:23 PKT` · pehli baar dekhi `14 Oct 08:52` · gnews_centralbanks
 
@@ -1736,6 +1741,11 @@ The EUR/USD pair holds positive ground near 1.1205 during the early Asian tradin
 
 Sterling slipped below $1.32, returning to levels last seen in late June, after stronger-than-expected US inflation data reduced the likelihood that the Federal Reserve will keep rates unchanged in October. US headline inflation accelerated to 3.7% year-on-year in September, above the 3.6% consensus forecast, while core inflation also came in higher than expected. At the same time, investors weighed recent remarks from Bank of England officials.
 
+**Global Market: BoE's Huw Pill wary of market bets on four rate hikes over next year - The Economic Times**
+`14 Oct 19:20 PKT` · pehli baar dekhi `15 Oct 10:05` · gnews_centralbanks
+
+Global Market: BoE's Huw Pill wary of market bets on four rate hikes over next year The Economic Times
+
 **BoE's Huw Pill Skeptical of Four Quarter-Point Rate Hikes - News and Statistics - IndexBox**
 `14 Oct 18:50 PKT` · pehli baar dekhi `15 Oct 03:01` · gnews_centralbanks
 
@@ -1773,9 +1783,10 @@ United Overseas Bank's (UOB) Quek Ser Leang and Lee Sue Ann report that GBP/USD 
 Bank of England Chief Economist Huw Pill expressed skepticism over market expectations for four interest-rate hikes over the coming year, while maintaining that further monetary tightening was necessary to contain inflation. Speaking at a Citi event on the sidelines of the IMF meetings in Bangkok on Wednesday, Pill acknowledged that the BoE still had &#8220;some [&#8230;] The post BoE&#8217;s Pill Sees Inflation Risks Bringing MPC Together, but Four Hikes May Be Too Many appeared first on ...
 
 **Bank of England's Pill says he's sceptical about market pricing four rate hikes - TradingView**
-`14 Oct 12:50 PKT` · pehli baar dekhi `14 Oct 14:16` · gnews_centralbanks · **5 feeds mein**
+`14 Oct 12:50 PKT` · pehli baar dekhi `14 Oct 14:16` · gnews_centralbanks · **6 feeds mein**
 
 Bank of England's Pill says he's sceptical about market pricing four rate hikes TradingView
+  - `14 Oct 12:28` *gnews_centralbanks* — Bank of England's Pill says he's sceptical about market pricing four rate hikes By Reuters - Investing.com
   - `14 Oct 12:15` *gnews_centralbanks* — Bank of England's Pill Says He's Sceptical About Market Pricing Four Rate Hikes - U.S. News Money
   - `14 Oct 12:02` *gnews_centralbanks* — Bank of England's Pill says he's sceptical about market pricing four rate hikes - WTVB
   - `14 Oct 11:32` *gnews_centralbanks* — Bank of England's Pill says he's sceptical about market pricing four rate hikes - Yahoo Finance
@@ -1786,6 +1797,11 @@ Bank of England's Pill says he's sceptical about market pricing four rate hikes 
 
 BOE's Pill 'Skeptical' Four Rate Rises Needed to Tame Inflation WSJ
   - `14 Oct 12:25` *wsj_world* — BOE's Pill 'Skeptical' Four Rate Rises Needed to Tame Inflation
+
+**BOE Hawk Pill Skeptical of Market Pricing Four UK Rate Hikes - Yahoo Finance**
+`14 Oct 12:21 PKT` · pehli baar dekhi `15 Oct 10:05` · gnews_centralbanks
+
+BOE Hawk Pill Skeptical of Market Pricing Four UK Rate Hikes Yahoo Finance
 
 **Bank of England economist questions market rate hike expectations - Investing.com**
 `14 Oct 11:47 PKT` · pehli baar dekhi `14 Oct 14:16` · gnews_centralbanks
@@ -2039,6 +2055,11 @@ The American Petroleum Institute (API) estimated that crude oil inventories in t
 
 Together, the two releases make an October hike harder to dismiss. Markets are pricing close to a 40% chance of a move on October 27-28, even though key officials had steered expectations toward December. The oil link is central: diesel costs from the Iran war now run through freight, farming and airfares, which raises the risk of second-round effects the Fed cannot easily look through.
 
+**Oil rises as Houthi-Saudi clashes, Iranian attacks on ships boost supply fears - Investing.com India**
+`15 Oct 02:27 PKT` · pehli baar dekhi `15 Oct 10:05` · gnews_geopolitics
+
+Oil rises as Houthi-Saudi clashes, Iranian attacks on ships boost supply fears Investing.com India
+
 **Oil catch up - price gains as Houthis strike Aramco and Iran flags new tactics against tankers**
 `15 Oct 02:16 PKT` · pehli baar dekhi `15 Oct 03:01` · investinglive · **2 feeds mein**
 
@@ -2199,6 +2220,12 @@ Saudi Arabia&#039;s East-West oil pipeline was struck by drones last month in an
 
 Saudi Aramco's newest joint venture refinery in China has received its first cargo of Arab crude as it prepares for start-up, the Saudi oil giant said in a statement to Bloomberg on Wednesday, without providing a timeline for the start of commercial operations.
 
+**Oil prices surge as Iran deploys new tactics to target tankers - NST Online**
+`14 Oct 16:50 PKT` · pehli baar dekhi `15 Oct 10:05` · gnews_geopolitics · **2 feeds mein**
+
+Oil prices surge as Iran deploys new tactics to target tankers NST Online
+  - `14 Oct 06:27` *gnews_geopolitics* — Oil prices rise as Iran deploys new tactics to target tankers - Reuters
+
 **Brent Oil – Overheated Geopolitical Situation Continues to Underpin Oil Prices**
 `14 Oct 16:50 PKT` · pehli baar dekhi `14 Oct 19:34` · actionforex
 
@@ -2278,6 +2305,11 @@ Frankfurt's DAX 40 inched higher on Wednesday as the index attempted to claw bac
 `14 Oct 14:16 PKT` · instaforex
 
 The FTSE 100 inched higher on Wednesday, hovering near a two-week peak but underperforming relative to major continental European indices. UK defence stocks were broadly firmer, with BAE Systems up 0.7%, Babcock advancing 1.4% and Rolls-Royce gaining 1%. Mining shares delivered a mixed performance: Glencore rose 1.4% and Anglo American added more than 0.5%, while Rio Tinto slipped by over 0.5%.
+
+**Oil prices steady after gains on Iran's new tactics to target tankers - The Globe and Mail**
+`14 Oct 13:52 PKT` · pehli baar dekhi `15 Oct 10:05` · gnews_geopolitics
+
+Oil prices steady after gains on Iran's new tactics to target tankers The Globe and Mail
 
 **EU proposes delay to methane rules for oil and gas imports**
 `14 Oct 13:50 PKT` · pehli baar dekhi `14 Oct 14:16` · investing_news
@@ -2446,7 +2478,8 @@ Asian Stocks Rebound on Fed Rate Signals; WTI Extends Winning Streak to Five Ses
 Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia CNBC
 
 **Oil prices climb as traders weigh Saudi supply risk, Russian diesel flow**
-`14 Oct 06:30 PKT` · pehli baar dekhi `14 Oct 08:52` · investing_commodities · **8 feeds mein**
+`14 Oct 06:30 PKT` · pehli baar dekhi `14 Oct 08:52` · investing_commodities · **9 feeds mein**
+  - `14 Oct 12:48` *gnews_geopolitics* — Oil prices climb as traders weigh Saudi supply risk, Russian diesel flow - Adomonline.com
   - `14 Oct 09:22` *gnews_geopolitics* — Oil prices climb as traders weigh Saudi supply risk, Russian diesel flow - 101 WIXX
   - `14 Oct 07:20` *gnews_geopolitics* — Oil prices climb as traders weigh Saudi supply risk, Russian diesel flow, Money News - AsiaOne
   - `14 Oct 06:54` *gnews_geopolitics* — Oil prices climb as traders weigh Saudi supply risk, Russian diesel flow - The Economic Times
@@ -2455,11 +2488,10 @@ Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Ar
   - `14 Oct 06:37` *gnews_geopolitics* — Oil prices climb as traders weigh Saudi supply risk, Russian diesel flow - KLSE Screener
   - `14 Oct 06:27` *gnews_geopolitics* — Oil prices climb as traders weigh Saudi supply risk, Russian diesel flow - AOL.ca
 
-**Oil prices rise as Iran deploys new tactics to target tankers - Reuters**
-`14 Oct 06:27 PKT` · pehli baar dekhi `14 Oct 14:16` · gnews_geopolitics · **2 feeds mein**
+**Oil prices rise as Iran deploys new tactics to target tankers - Rock Hill Herald**
+`14 Oct 06:27 PKT` · pehli baar dekhi `14 Oct 19:34` · gnews_geopolitics
 
-Oil prices rise as Iran deploys new tactics to target tankers Reuters
-  - `14 Oct 06:27` *gnews_geopolitics* — Oil prices rise as Iran deploys new tactics to target tankers - Rock Hill Herald
+Oil prices rise as Iran deploys new tactics to target tankers Rock Hill Herald
 
 **WTI rises above $94.00 amid escalating Middle East hostilities, supply risks**
 `14 Oct 06:11 PKT` · pehli baar dekhi `14 Oct 08:52` · fxstreet_news
@@ -2855,6 +2887,11 @@ US-Israel-Iran War Latest Live News: Iraq Oil Exports Surge to 2.7 Million Barre
 
 Nowhere else to go? The puzzle behind Iran's stock rally Iran International
 
+**Bessent's two-week countdown and the Iran Washington still doesn't understand - PressTV**
+`14 Oct 10:19 PKT` · pehli baar dekhi `15 Oct 10:05` · gnews_geopolitics
+
+Bessent's two-week countdown and the Iran Washington still doesn't understand PressTV
+
 **China's Export Growth Hits Seven-Month High, Beats Forecasts**
 `14 Oct 08:52 PKT` · instaforex
 
@@ -2913,7 +2950,7 @@ Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies EnergyN
 
 TAG: U.S. Iran war Kitco
 
-### BINA TAG (278)
+### BINA TAG (279)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2990,6 +3027,7 @@ TAG: U.S. Iran war Kitco
 - `14 Oct 22:37` **gnews_fed** — Lawyers for Federal Reserve's Lisa Cook say White House hearing set up by Trump is 'biased' - The Joplin Globe
 - `14 Oct 22:37` **gnews_fed** — Lawyers for Federal Reserve's Lisa Cook say White House hearing set up by Trump is 'biased' - Eagle-Tribune
 - `14 Oct 22:37` **gnews_fed** — Lawyers for Federal Reserve's Lisa Cook say White House hearing set up by Trump is 'biased' - itemonline.com
+- `14 Oct 22:37` **gnews_fed** — Lawyers for Federal Reserve's Lisa Cook say White House hearing set up by Trump is 'biased' - WFMZ.com
 - `14 Oct 22:36` **gnews_fed** — Lawyers for Federal Reserve's Lisa Cook say White House hearing set up by Trump is 'biased' - The Seattle Times
 - `14 Oct 22:33` **gnews_fed** — Lawyers for Federal Reserve's Lisa Cook says White House hearing set up by Trump is 'biased' - WSOC TV
 - `14 Oct 22:32` **aljazeera** — Ex-UK army chef jailed for 'terror'-related offence
@@ -3212,45 +3250,45 @@ investing_news (14)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 12 | 13 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
-| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 5.3 |
-| instaforex | OK | 25 | 25 | 6 | 19 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 10 | 0 | 10 | 26 | 0.2 |
-| cme_metals_video | OK | 10 | 3 | 0 | 3 | 7 | 0.3 |
-| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.3 |
-| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
-| cme_energy_video | OK | 10 | 3 | 0 | 3 | 7 | 0.3 |
-| cme_daily_commentary | OK | 10 | 9 | 0 | 9 | 1 | 0.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 34.2 |
-| kitco_general | OK | 43 | 43 | 5 | 38 | 0 | 0.1 |
-| gnews_fed | OK | 87 | 87 | 20 | 67 | 0 | 0.0 |
-| gnews_geopolitics | OK | 48 | 48 | 8 | 40 | 0 | 0.1 |
-| gnews_centralbanks | OK | 28 | 28 | 3 | 25 | 0 | 0.2 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 6.7 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 1.0 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.4 |
-| boj_whatsnew | OK | 52 | 4 | 0 | 4 | 48 | 0.6 |
-| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 0.9 |
-| mining_com | OK | 36 | 13 | 1 | 12 | 23 | 0.1 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.4 |
-| bbc_business | OK | 52 | 20 | 3 | 17 | 32 | 0.1 |
-| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.1 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.7 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 34.6 |
-| eia_energy | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 8.5 |
-| wsj_world | OK | 73 | 24 | 1 | 23 | 49 | 0.0 |
-| wsj_markets | OK | 61 | 33 | 2 | 31 | 28 | 0.0 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 7 | 13 | 0 | 0.0 |
+| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 5.5 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 11 | 1 | 10 | 25 | 0.1 |
+| cme_metals_video | OK | 10 | 3 | 0 | 3 | 7 | 0.5 |
+| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.5 |
+| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.3 |
+| cme_energy_video | OK | 10 | 3 | 0 | 3 | 7 | 0.5 |
+| cme_daily_commentary | OK | 10 | 9 | 0 | 9 | 1 | 0.3 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 34.4 |
+| kitco_general | OK | 40 | 40 | 0 | 40 | 0 | 0.3 |
+| gnews_fed | OK | 81 | 81 | 23 | 58 | 0 | 0.0 |
+| gnews_geopolitics | OK | 44 | 44 | 12 | 32 | 0 | 0.0 |
+| gnews_centralbanks | OK | 32 | 32 | 11 | 21 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
+| fed_speeches | OK | 15 | 1 | 1 | 0 | 14 | 0.1 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 1.2 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.6 |
+| boj_whatsnew | OK | 54 | 6 | 2 | 4 | 48 | 0.1 |
+| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 1.1 |
+| mining_com | OK | 36 | 13 | 0 | 13 | 23 | 0.3 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.2 |
+| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.6 |
+| bbc_business | OK | 40 | 21 | 1 | 20 | 19 | 0.0 |
+| aljazeera | OK | 25 | 25 | 20 | 5 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.9 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 34.8 |
+| eia_energy | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 8.7 |
+| wsj_world | OK | 73 | 26 | 2 | 24 | 47 | 0.1 |
+| wsj_markets | OK | 61 | 38 | 5 | 33 | 23 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 21 | 0 | 21 | 9 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 24 | 3 | 21 | 6 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
