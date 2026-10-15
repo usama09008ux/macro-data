@@ -1,6 +1,6 @@
 # Calendar — Trading Day 15 Oct 2026
 
-- Banaya gaya: **15 Oct 2026 05:47 PKT**
+- Banaya gaya: **15 Oct 2026 15:10 PKT**
 - Trading day: **15 Oct 03:00 -> 16 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,24 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 07:55 | USD | low | FOMC Member Bowman Speaks | - | - |
-| 08:35 | GBP | low | MPC Member Pill Speaks | - | - |
-| 09:25 | AUD | low | RBA Annual Report | - | - |
-| 09:30 | CHF | MED | SNB Chairman Schlegel Speaks | - | - |
-| 09:30 | JPY | low | Revised Industrial Production m/m | -1.7% | -1.7% |
-| 11:00 | GBP | **HIGH** | GDP m/m | -0.1% | 0.4% |
-| 11:00 | GBP | low | Construction Output m/m | 0.0% | 0.1% |
-| 11:00 | GBP | low | Goods Trade Balance | -21.9B | -21.0B |
-| 11:00 | GBP | low | Index of Services 3m/3m | 0.8% | 0.6% |
-| 11:00 | GBP | low | Industrial Production m/m | -0.1% | 0.2% |
-| 11:00 | GBP | low | Manufacturing Production m/m | -0.1% | 0.9% |
-| 11:30 | CHF | low | PPI m/m | 0.6% | 0.7% |
-| 11:45 | EUR | low | French Final CPI m/m | -0.3% | -0.3% |
-| 11:45 | GBP | low | MPC Member Greene Speaks | - | - |
-| 12:30 | GBP | MED | BOE Gov Bailey Speaks | - | - |
-| 13:45 | GBP | low | MPC Member Breeden Speaks | - | - |
-| 14:00 | CAD | low | Gov Council Member Rogers Speaks | - | - |
-| 14:00 | EUR | low | Industrial Production m/m | 0.0% | -0.1% |
 | 15:15 | EUR | MED | EU Economic Summit | - | - |
 | 17:30 | CAD | low | Manufacturing Sales m/m | 1.1% | -0.4% |
 | 17:30 | CAD | low | Wholesale Sales m/m | -1.5% | 0.3% |
@@ -47,14 +29,23 @@
 | **16 Oct** 01:30 | USD | low | FOMC Member Hammack Speaks | - | - |
 | **16 Oct** 02:30 | NZD | low | BusinessNZ Manufacturing Index | - | 53.1 |
 | **16 Oct** 02:45 | NZD | low | FPI m/m | - | 0.3% |
+| **16 Oct** 07:00 | GBP | **HIGH** | BOE Gov Bailey Speaks | - | - |
+| **16 Oct** 07:30 | EUR | low | German Buba President Nagel Speaks | - | - |
+| **16 Oct** 08:30 | USD | **HIGH** | Fed Chairman Warsh Speaks | - | - |
+| **16 Oct** 09:15 | CAD | MED | BOC Gov Macklem Speaks | - | - |
+| **16 Oct** 14:00 | EUR | low | Final Core CPI y/y | 2.5% | 2.5% |
+| **16 Oct** 14:00 | EUR | low | Final CPI y/y | 3.8% | 3.8% |
+| **16 Oct** 14:00 | EUR | low | Trade Balance | 4.5B | 5.0B |
+| **16 Oct** 15:00 | EUR | low | Italian Trade Balance | 7.50B | 8.24B |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
-- `15 Oct 11:00` **GBP GDP m/m**
 - `15 Oct 17:30` **USD Core PPI m/m**
 - `15 Oct 17:30` **USD Core Retail Sales m/m**
 - `15 Oct 17:30` **USD PPI m/m**
 - `15 Oct 17:30` **USD Retail Sales m/m**
+- `16 Oct 07:00` **GBP BOE Gov Bailey Speaks**
+- `16 Oct 08:30` **USD Fed Chairman Warsh Speaks**
 
 ---
 
@@ -62,9 +53,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **16 Oct** 07:00 | GBP | **HIGH** | BOE Gov Bailey Speaks | - | - |
-| **16 Oct** 08:30 | USD | **HIGH** | Fed Chairman Warsh Speaks | - | - |
-| **16 Oct** 09:15 | CAD | MED | BOC Gov Macklem Speaks | - | - |
 | **17 Oct** 11:45 | GBP | MED | BOE Gov Bailey Speaks | - | - |
 
 ---
