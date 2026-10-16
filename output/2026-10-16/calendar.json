@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "16 Oct 2026 15:01",
+  "generated_pkt": "16 Oct 2026 20:49",
   "trading_day": "2026-10-16",
   "feed_sources": {
     "thisweek": "live"
@@ -1449,5 +1449,21 @@
       "trading_day": "2026-10-18"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US September import price index +1.1% vs +0.8% expected",
+      "actual_raw": "+1.1%",
+      "forecast_raw": "+0.8%",
+      "beat": true,
+      "raw_diff": "+0.30pp",
+      "sign_flip": false,
+      "diff_pct": 37.5,
+      "when_pkt": "16 Oct 17:30",
+      "source": "investinglive",
+      "tags": [
+        "usd",
+        "risk"
+      ]
+    }
+  ]
 }
