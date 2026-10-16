@@ -1,8 +1,8 @@
 # News Pack — Trading Day 15 Oct 2026
 
 - Trading day: **15 Oct 03:00 -> 16 Oct 02:59 PKT**
-- Aakhri update: **16 Oct 04:56 PKT**
-- Kul khabrein: **843**
+- Aakhri update: **16 Oct 09:11 PKT**
+- Kul khabrein: **863**
 - Feeds: 34/39 OK
 
 ---
@@ -371,6 +371,14 @@ Will the Fed raise interest rates this month? A Kevin Warsh speech could offer c
 Coming up soon is Beth Hammack, president and chief executive officer of the Federal Reserve Bank of Cleveland. Earlier this week: Fed's Hammack: Treasury rates are "modest" by historical standards Fed's Hammack says more tightening needed to cool demand, keeps open mind on pace And later in the session, Bailey, Nagel, Warsh and Macklem. I'll be back with previews soon, but for now: 'fireside chat' including Warsh at the IMF meetings.
   - `16 Oct 01:18` *gnews_fed* — Economic and event calendar in Asia Friday, October 16, 2026 - Federal Reserve Chair Warsh speaking - investingLive
 
+**Exclusive-Fed's Daly says rate hikes likely needed, but not urgently - Mecklenburg Times**
+`16 Oct 00:37 PKT` · pehli baar dekhi `16 Oct 09:11` · gnews_fed · **4 feeds mein**
+
+Exclusive-Fed's Daly says rate hikes likely needed, but not urgently Mecklenburg Times
+  - `15 Oct 11:53` *gnews_fed* — Exclusive-Fed's Daly says rate hikes likely needed, but not urgently - Y100 WNCY
+  - `15 Oct 03:35` *gnews_fed* — Exclusive-Fed's Daly says rate hikes likely needed, but not urgently - KSLM Radio
+  - `15 Oct 03:13` *gnews_fed* — Exclusive-Fed's Daly says rate hikes likely needed, but not urgently - KELO-AM
+
 **More Bad Inflation Data - National Review**
 `16 Oct 00:14 PKT` · pehli baar dekhi `16 Oct 04:56` · gnews_fed
 
@@ -669,6 +677,11 @@ Prior was 5.4% PPI final demand m/m vs +0.5% expected Prior m/m +0.4% Ex-food an
 
 Dollar weakens after US Treasury yields fall — Channel NewsAsia UA.NEWS
 
+**Brokerages Expect Next Fed Rate Hike in December - Newsmax**
+`15 Oct 17:27 PKT` · pehli baar dekhi `16 Oct 09:11` · gnews_fed
+
+Brokerages Expect Next Fed Rate Hike in December Newsmax
+
 **Governments globally to turn to non-dollar bonds amid AI-driven liquidity crunch, Citi banker says - Kitco**
 `15 Oct 17:26 PKT` · pehli baar dekhi `15 Oct 19:35` · kitco_general
 
@@ -702,16 +715,22 @@ The Nasdaq sold off sharply yesterday after US Core CPI came in higher than expe
 CENTRAL AND EASTERN EUROPE: Although the inflation outlook remains favourable, the Monetary Council will likely err on the side of caution at the 20 October meeting, amid uncertainty surrounding the 2027 budget and prevailing risk sentiment. However, we still expect a rate cut by year-end
 
 **Factbox-Major brokerages expect next Fed rate hike in December - Macon Telegraph**
-`15 Oct 16:59 PKT` · pehli baar dekhi `15 Oct 19:35` · gnews_fed · **2 feeds mein**
+`15 Oct 16:59 PKT` · pehli baar dekhi `15 Oct 19:35` · gnews_fed · **3 feeds mein**
 
 Factbox-Major brokerages expect next Fed rate hike in December Macon Telegraph
   - `15 Oct 16:59` *gnews_fed* — Factbox-Major brokerages expect next Fed rate hike in December - Lexington Herald Leader
+  - `15 Oct 16:59` *gnews_fed* — Factbox-Major brokerages expect next Fed rate hike in December - Fort Worth Star-Telegram
 
 **Lisa Cook's lawyer challenges impartiality of Trump panel reviewing Fed mortgage allegations - Fox Business**
 `15 Oct 16:52 PKT` · pehli baar dekhi `15 Oct 19:35` · gnews_fed · **2 feeds mein**
 
 Lisa Cook's lawyer challenges impartiality of Trump panel reviewing Fed mortgage allegations Fox Business
   - `15 Oct 16:52` *gnews_fed* — Lisa Cook's lawyer challenges impartiality of Trump panel reviewing Fed mortgage allegations - Fox Business
+
+**Factbox-Major brokerages expect next Fed rate hike in December - The Lufkin Daily News**
+`15 Oct 16:46 PKT` · pehli baar dekhi `16 Oct 09:11` · gnews_fed
+
+Factbox-Major brokerages expect next Fed rate hike in December The Lufkin Daily News
 
 **US 10-year Treasury yields fall to three-week low as Fed remarks ease rate hike bets - Economies.com**
 `15 Oct 16:18 PKT` · pehli baar dekhi `15 Oct 19:35` · gnews_fed
@@ -861,18 +880,11 @@ It's been quite a messy reaction in the bond market after the hotter-than-expect
 
 Core inflation has not cooled as expected; does the Federal Reserve still have reasons to hold off on raising interest rates? 富途牛牛
 
-**Exclusive-Fed's Daly says rate hikes likely needed, but not urgently - Y100 WNCY**
-`15 Oct 11:53 PKT` · pehli baar dekhi `16 Oct 02:47` · gnews_fed · **4 feeds mein**
-
-Exclusive-Fed's Daly says rate hikes likely needed, but not urgently Y100 WNCY
-  - `15 Oct 05:36` *gnews_fed* — Exclusive-Fed's Daly says rate hikes likely needed, but not urgently - The Lufkin Daily News
-  - `15 Oct 03:35` *gnews_fed* — Exclusive-Fed's Daly says rate hikes likely needed, but not urgently - KSLM Radio
-  - `15 Oct 03:13` *gnews_fed* — Exclusive-Fed's Daly says rate hikes likely needed, but not urgently - KELO-AM
-
 **Lawyers for Fed's Lisa Cook say probe committee 'biased' - Northwest Arkansas Democrat-Gazette**
-`15 Oct 11:43 PKT` · pehli baar dekhi `16 Oct 02:47` · gnews_fed
+`15 Oct 11:43 PKT` · pehli baar dekhi `16 Oct 02:47` · gnews_fed · **2 feeds mein**
 
 Lawyers for Fed's Lisa Cook say probe committee 'biased' Northwest Arkansas Democrat-Gazette
+  - `15 Oct 11:43` *gnews_fed* — Lawyers for Fed's Lisa Cook say probe committee 'biased' - The Arkansas Democrat-Gazette
 
 **SK Hynix Plunges 10% as Asia Tech Rout Deepens on Fed Fears - The Tech Buzz**
 `15 Oct 10:37 PKT` · pehli baar dekhi `15 Oct 23:39` · gnews_fed
@@ -934,6 +946,11 @@ The Philippine peso weakened to about 63 per US dollar in mid-October, marking a
 `15 Oct 10:05 PKT` · instaforex
 
 The offshore yuan strengthened to around 6.69 per dollar on Thursday, hovering near its highest level since July 2022, even as the IMF criticized China's policy support as inadequate and highlighted the currency's undervaluation. Beijing has rolled out mortgage subsidies and expanded central bank support for targeted sectors, while the State Council has vowed to implement "a package of practical and effective additional policies" to achieve this year's economic objectives.
+
+**Mary Daly Says More Fed Rate Hikes Are Likely, but October Need Not Be Urgent - SSBCrack**
+`15 Oct 09:45 PKT` · pehli baar dekhi `16 Oct 09:11` · gnews_fed
+
+Mary Daly Says More Fed Rate Hikes Are Likely, but October Need Not Be Urgent SSBCrack
 
 **Asian stocks sell off as AI trades crumble after hot US inflation data**
 `15 Oct 09:42 PKT` · pehli baar dekhi `15 Oct 10:05` · investing_news
@@ -1075,6 +1092,11 @@ SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI fundin
 Fed's Daly says rate hikes likely needed, but not urgently NST Online
   - `15 Oct 05:38` *gnews_fed* — Fed's Daly says rate hikes likely needed, but not urgently - KLSE Screener
 
+**Exclusive-Fed's Daly says rate hikes likely needed, but not urgently - The Lufkin Daily News**
+`15 Oct 05:36 PKT` · pehli baar dekhi `15 Oct 10:05` · gnews_fed
+
+Exclusive-Fed's Daly says rate hikes likely needed, but not urgently The Lufkin Daily News
+
 **New Zealand Stocks Track Wall Street Lower**
 `15 Oct 05:28 PKT` · instaforex
 
@@ -1209,6 +1231,12 @@ Europeans cherish a fantasy that higher U.S. taxes can make France great again.
 
 Sweden's Riksbank has recommended that lawmakers prepare for a possible digital krona, citing concerns over foreign-currency stablecoins and the future of domestic payments.
 
+**Euro gains against Canadian Dollar despite ECB facing rate pause pressure - www.tmgm.com**
+`15 Oct 21:09 PKT` · pehli baar dekhi `16 Oct 09:11` · gnews_centralbanks · **2 feeds mein**
+
+Euro gains against Canadian Dollar despite ECB facing rate pause pressure www.tmgm.com
+  - `15 Oct 13:49` *gnews_centralbanks* — Euro gains against Canadian Dollar despite ECB facing rate pause pressure - FXStreet
+
 **European stocks close mixed. UK leads gains as bond yields retreat**
 `15 Oct 21:07 PKT` · pehli baar dekhi `15 Oct 23:39` · investinglive
 
@@ -1299,9 +1327,10 @@ ECB in no rush to act amid opposing economic forces, Kazaks says The Edge Singap
 EUROPE: France's 2027 budget would prevent a sharp deterioration in the public finances, but it would not be enough to stabilise public debt. Its adoption would provide some relief, although fiscal and political risks are likely to remain well beyond next year's presidential election
 
 **The ECB's options in dealing with France's fiscal woes**
-`15 Oct 14:00 PKT` · pehli baar dekhi `15 Oct 14:51` · ing_think · **2 feeds mein**
+`15 Oct 14:00 PKT` · pehli baar dekhi `15 Oct 14:51` · ing_think · **3 feeds mein**
 
 The bar for activating the ECB's bond-buying programme remains high. However, a further deterioration in France's situation could eventually force the ECB to demonstrate whether its 'whatever it takes' commitment still holds
+  - `16 Oct 01:29` *gnews_centralbanks* — The ECB's options in dealing with France's fiscal woes - ING Think
   - `15 Oct 17:32` *gnews_centralbanks* — The ECB's Options In Dealing With France's Fiscal Woes - Seeking Alpha
 
 **EUR/USD Daily Outlook**
@@ -1317,11 +1346,6 @@ Intraday bias in EUR/USD stays neutral first. Further decline is expected as lon
 `15 Oct 13:56 PKT` · pehli baar dekhi `15 Oct 14:51` · ing_think
 
 Eurozone growth likely remained solid in the third quarter, but higher energy prices, rising long-term interest rates and sovereign bond tensions will weigh on activity. Inflation is still too high, pointing to another ECB rate hike, although quantitative tightening could be halted
-
-**Euro gains against Canadian Dollar despite ECB facing rate pause pressure - FXStreet**
-`15 Oct 13:49 PKT` · pehli baar dekhi `15 Oct 14:51` · gnews_centralbanks
-
-Euro gains against Canadian Dollar despite ECB facing rate pause pressure FXStreet
 
 **ECB's Kazaks says that there is no immediate rush on interest rates - Newsquawk**
 `15 Oct 13:21 PKT` · pehli baar dekhi `15 Oct 14:51` · gnews_centralbanks
@@ -1470,9 +1494,10 @@ FTSE 100 retreats as Bank of England rate expectations rise Share Talk
 UK GDP expanded by 0.1% mom in August, beating expectations for a 0.1% contraction, although growth slowed sharply from July&#8217;s 0.4%. According to the Office for National Statistics, the expansion was driven entirely by production, while services stagnated and construction contracted.
 
 **BoE's Pill says a rate hike need not be start of long series - Tri-City Herald**
-`15 Oct 10:37 PKT` · pehli baar dekhi `15 Oct 23:39` · gnews_centralbanks · **4 feeds mein**
+`15 Oct 10:37 PKT` · pehli baar dekhi `15 Oct 23:39` · gnews_centralbanks · **5 feeds mein**
 
 BoE's Pill says a rate hike need not be start of long series Tri-City Herald
+  - `15 Oct 10:37` *gnews_centralbanks* — BoE's Pill says a rate hike need not be start of long series - Charlotte Observer
   - `15 Oct 09:53` *gnews_centralbanks* — BoE's Pill says a rate hike need not be start of long series - Wichita Eagle
   - `15 Oct 09:45` *gnews_centralbanks* — BoE's Pill says a rate hike need not be start of long series - Yahoo Finance
   - `15 Oct 09:48` *investing_news* — BoE's Pill says a rate hike need not be start of long series
@@ -1530,6 +1555,11 @@ Bank of Japan Policy Board Member Junko Koeda warned against excessive caution o
 `15 Oct 10:56 PKT` · pehli baar dekhi `15 Oct 14:51` · investinglive
 
 There are a couple of key expiry levels to take note of on the day, as highlighted in bold below. The first is a rather chunky one for EUR/USD at the 1.1250 level, with the strike sitting just less than 40 pips away from the spot price. With the dollar retreating alongside Treasury yields as traders continue to digest the US September CPI report, that might keep this expiry level in play especially if the pair continues to nudge higher in the session ahead.
+
+**Will the Bank of Japan continue to raise interest rates? BOJ officials provide guidance - Moomoo**
+`15 Oct 10:51 PKT` · pehli baar dekhi `16 Oct 09:11` · gnews_centralbanks
+
+Will the Bank of Japan continue to raise interest rates? BOJ officials provide guidance Moomoo
 
 **Japan Industrial Output Falls More than Initially Anticipated**
 `15 Oct 10:05 PKT` · instaforex
@@ -1773,6 +1803,11 @@ Reserve Bank of New Zealand Chief Economist Paul Conway said Thursday that the l
 
 Crude oil climbed toward $98 a barrel on Thursday as supply risks in the Middle East intensified. Attacks on commercial vessels in the Strait of Hormuz resulted in the sinking of a Singapore-flagged container ship and sent tanker rates in the Persian Gulf to record highs. The US military has reportedly prepared plans for new strikes on Iran, which could involve the MOAB, the largest non-nuclear explosive in its arsenal.
 
+**Oil Prices Diverge as Supply Risks Mount - Rigzone**
+`16 Oct 02:22 PKT` · pehli baar dekhi `16 Oct 09:11` · gnews_geopolitics
+
+Oil Prices Diverge as Supply Risks Mount Rigzone
+
 **U.S. Nuclear Fuel Independence Edges Closer as Urenco Expansion Hits 75%**
 `16 Oct 02:00 PKT` · pehli baar dekhi `16 Oct 02:47` · oilprice
 
@@ -1905,6 +1940,11 @@ Kuwait Oil CEO Says Iran is 'Holding the World's Economy Hostage' EnergyNow.com
 `15 Oct 20:50 PKT` · pehli baar dekhi `16 Oct 02:47` · gnews_geopolitics
 
 Iran Cut Back Oil Production by 400,000 bpd, US Energy Secretary Says EnergyNow.com
+
+**S&P 500 Today LIVE: Index Falls 0.62% to 7,670.75 as Tech Stocks Slide, Intel Drops Nearly 8%, Oil Prices & Fed Rate Outlook in Focus | Here's What Investor Need to Watch - The Sunday Guardian**
+`15 Oct 20:49 PKT` · pehli baar dekhi `16 Oct 09:11` · gnews_fed
+
+S&P 500 Today LIVE: Index Falls 0.62% to 7,670.75 as Tech Stocks Slide, Intel Drops Nearly 8%, Oil Prices & Fed Rate Outlook in Focus | Here's What Investor Need to Watch The Sunday Guardian
 
 **COMMENTARY: Crude Oil and LNG Supply are at Risk of the Worst-Possible Scenario: Russell - EnergyNow.com**
 `15 Oct 20:42 PKT` · pehli baar dekhi `16 Oct 02:47` · gnews_geopolitics
@@ -2047,6 +2087,11 @@ Video shows containers and debris scattered around the Strait of Hormuz due to t
 
 Strikes on Saudi infrastructure by the Yemeni Houthis could affect the global economy, the managing director of the International Monetary Fund has warned. Speaking at a joint event with the World Bank in Thailand, Kristalina Georgieva said that despite this danger, Saudi Arabia remains resilient and has a better economic outlook than most of its neighbors thanks to its diversification efforts in recent years as it aimed to reduce the share of oil revenues in its budget.
 
+**U.S. Strikes Iranian Launchers Near Strait of Hormuz, Sending Oil Prices Higher - EnergyNow.com**
+`15 Oct 12:52 PKT` · pehli baar dekhi `16 Oct 09:11` · gnews_geopolitics
+
+U.S. Strikes Iranian Launchers Near Strait of Hormuz, Sending Oil Prices Higher EnergyNow.com
+
 **Two ships sink near Hormuz after being hit by projectiles amid surge in attacks**
 `15 Oct 12:24 PKT` · pehli baar dekhi `15 Oct 14:51` · investing_commodities
 
@@ -2080,10 +2125,16 @@ European natural gas prices traded near €87 per megawatt-hour on Thursday, the
 
 China's 10-year government bond yield fell to around 1.65% on Thursday, its lowest level since May 2025, as a strengthening yuan and a sluggish domestic economy boosted demand for sovereign debt. The yield has dropped 18 basis points since the end of December, and over the past 12 months Chinese government bonds have generated nearly 10% returns for dollar-based investors.
 
+**2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica**
+`15 Oct 10:00 PKT` · pehli baar dekhi `16 Oct 09:11` · gnews_geopolitics
+
+2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict Britannica
+
 **US-Israel-Iran War Latest Live News: Saudi-Led Coalition Intercepts Drone Over Eastern Saudi Arabia as Oil Prices Fall Over $1 a Barrel Amid Surging Strait of Hormuz Attacks - The Sunday Guardian**
-`15 Oct 09:10 PKT` · pehli baar dekhi `15 Oct 10:05` · gnews_geopolitics
+`15 Oct 09:12 PKT` · pehli baar dekhi `16 Oct 09:11` · gnews_geopolitics · **2 feeds mein**
 
 US-Israel-Iran War Latest Live News: Saudi-Led Coalition Intercepts Drone Over Eastern Saudi Arabia as Oil Prices Fall Over $1 a Barrel Amid Surging Strait of Hormuz Attacks The Sunday Guardian
+  - `15 Oct 09:10` *gnews_geopolitics* — US-Israel-Iran War Latest Live News: Saudi-Led Coalition Intercepts Drone Over Eastern Saudi Arabia as Oil Prices Fall Over $1 a Barrel Amid Surging Strait of Hormuz Attacks - The Sunday Guardian
 
 **U.S. crude oil prices rise as investors assess Middle East supply risks - CNBC**
 `15 Oct 09:09 PKT` · pehli baar dekhi `15 Oct 23:39` · gnews_geopolitics
@@ -2096,7 +2147,8 @@ U.S. crude oil prices rise as investors assess Middle East supply risks CNBC
 Saudi boosts oil output despite Iran disruptions, targets 10 million bpd export capacity internationalfinance.com
 
 **Oil prices retreat as investors weigh supply outlook, Middle East tensions**
-`15 Oct 08:54 PKT` · pehli baar dekhi `15 Oct 10:05` · investing_commodities
+`15 Oct 08:54 PKT` · pehli baar dekhi `15 Oct 10:05` · investing_commodities · **2 feeds mein**
+  - `15 Oct 10:35` *gnews_geopolitics* — Oil prices retreat as investors weigh supply outlook, Middle East tensions - The Express Tribune
 
 **Despite Iran's oil offensive aimed at the U.S. midterm elections, the U.S. opts for containment over compromise, considering re-striking nuclear facilities - https://economy.ac/**
 `15 Oct 08:27 PKT` · pehli baar dekhi `15 Oct 10:05` · gnews_geopolitics
@@ -2515,6 +2567,11 @@ Lifted Starlink restrictions will enable Ukraine to resume midrange strikes and 
 
 "Two things are happening at the same time. That was too much for the market to chew in one go and some profit-taking is emerging."
 
+**Iran War Deals Harder Blow to Natural Gas Than Oil: Maguire - EnergyNow.com**
+`15 Oct 20:47 PKT` · pehli baar dekhi `16 Oct 09:11` · gnews_geopolitics
+
+Iran War Deals Harder Blow to Natural Gas Than Oil: Maguire EnergyNow.com
+
 **Oil Falls as Traders Digest Escalation in US-Iran Strikes - EnergyNow**
 `15 Oct 20:47 PKT` · pehli baar dekhi `15 Oct 23:39` · gnews_geopolitics
 
@@ -2652,6 +2709,11 @@ Iran's precision strikes picked apart Gulf infrastructure, blunting US war plans
 
 Frankfurt's DAX 40 slipped about 0.4% on Thursday, falling below the 25,200 mark amid a broad sell-off in technology shares. Sentiment weakened as worries over heavy spending on AI coincided with expectations of prolonged higher US interest rates, stoking fears of rising financing costs—especially for companies dependent on large-scale investment. At the same time, traders kept a close watch on global geopolitical developments and the ongoing corporate earnings season.
 
+**A Look at Iran's Kharg Island and Energy Sector - EnergyNow**
+`15 Oct 14:48 PKT` · pehli baar dekhi `16 Oct 09:11` · gnews_geopolitics
+
+A Look at Iran's Kharg Island and Energy Sector EnergyNow
+
 **Ukraine to Resume Russian Oil Refinery Strikes After Failed Energy Ceasefire**
 `15 Oct 14:30 PKT` · pehli baar dekhi `15 Oct 14:51` · oilprice
 
@@ -2671,6 +2733,11 @@ NORTH AMERICA: Intensifying cost-of-living concerns, linked to the price of moto
 `15 Oct 13:49 PKT` · pehli baar dekhi `15 Oct 14:51` · wsj_markets
 
 Nasdaq futures dropped sharply as a global rout in stocks linked to AI accelerated, while Treasurys strengthened as investors bid a hasty retreat from risk.
+
+**Oil Markets Brace for Years of High Prices as Iran War Drags On - Marine Link**
+`15 Oct 13:40 PKT` · pehli baar dekhi `16 Oct 09:11` · gnews_geopolitics
+
+Oil Markets Brace for Years of High Prices as Iran War Drags On Marine Link
 
 **Stock Market Today: Tech Selloff to Extend Into Second Day**
 `15 Oct 13:17 PKT` · pehli baar dekhi `15 Oct 14:51` · wsj_markets
@@ -2775,7 +2842,7 @@ Diesel shortages could persist well into 2027 as Iran war disrupts supply: IEA T
 
 Market Analysts React to US-Israel Strikes on Iran EnergyNow
 
-### BINA TAG (236)
+### BINA TAG (237)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2879,6 +2946,7 @@ Market Analysts React to US-Israel Strikes on Iran EnergyNow
 - `15 Oct 19:19` **mining_com** — Energy transition faces critical minerals crunch by 2035: report
 - `15 Oct 19:16` **investing_news** — Mkango receives notice for exercise of 300,000 warrants
 - `15 Oct 19:16` **investing_news** — Microsoft tests resistance at $535 after sharp rally: Live levels
+- `15 Oct 19:10` **gnews_fed** — Lawyers for Federal Reserve's Lisa Cook say White House hearing set up by Trump is 'biased' - Uzalendo News
 - `15 Oct 19:00` **eia_energy** — PJM, ERCOT, and SWPP all set peak load records this summer
 - `15 Oct 18:48` **aljazeera** — The Rebel Tours: Money or morals?
 - `15 Oct 18:48` **mw_topstories** — Micron, Nvidia and other chip stocks face renewed pressure as AI fears swell
@@ -3032,45 +3100,45 @@ investing_news (9)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 7 | 18 | 0 | 0.1 |
+| investinglive | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.4 |
-| marketpulse | STALE | 2 | 0 | 0 | 0 | 2 | 6.3 |
-| instaforex | OK | 25 | 25 | 9 | 16 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 8 | 1 | 7 | 28 | 0.0 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.3 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 35.2 |
-| kitco_general | OK | 33 | 33 | 3 | 30 | 0 | 0.0 |
-| gnews_fed | OK | 100 | 100 | 15 | 85 | 0 | 0.0 |
-| gnews_geopolitics | OK | 73 | 73 | 8 | 65 | 0 | 0.1 |
-| gnews_centralbanks | OK | 37 | 37 | 2 | 35 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
-| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.9 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.0 |
-| boe_news | OK | 50 | 2 | 0 | 2 | 48 | 0.6 |
-| boj_whatsnew | OK | 54 | 2 | 0 | 2 | 52 | 0.9 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 1.9 |
-| mining_com | OK | 36 | 8 | 1 | 7 | 28 | 0.0 |
+| actionforex | OK | 20 | 20 | 4 | 16 | 0 | 0.1 |
+| marketpulse | STALE | 2 | 0 | 0 | 0 | 2 | 6.5 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 9 | 2 | 7 | 27 | 0.0 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 35.4 |
+| kitco_general | OK | 30 | 30 | 0 | 30 | 0 | 0.2 |
+| gnews_fed | OK | 91 | 91 | 20 | 71 | 0 | 0.0 |
+| gnews_geopolitics | OK | 74 | 74 | 15 | 59 | 0 | 0.1 |
+| gnews_centralbanks | OK | 37 | 37 | 6 | 31 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
+| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 1.1 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
+| boe_news | OK | 50 | 2 | 0 | 2 | 48 | 0.8 |
+| boj_whatsnew | OK | 53 | 2 | 0 | 2 | 51 | 1.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.0 |
+| mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.2 |
 | oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
-| bbc_business | OK | 47 | 14 | 2 | 12 | 33 | 0.0 |
-| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 35.5 |
-| eia_energy | OK | 16 | 1 | 0 | 1 | 15 | 0.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 9.5 |
-| wsj_world | OK | 74 | 20 | 3 | 17 | 54 | 0.0 |
-| wsj_markets | OK | 61 | 31 | 1 | 30 | 30 | 0.1 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 2 | 8 | 0 | 0.1 |
+| bbc_business | OK | 47 | 14 | 0 | 14 | 33 | 0.2 |
+| aljazeera | OK | 25 | 25 | 10 | 15 | 0 | 0.1 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.7 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 35.7 |
+| eia_energy | OK | 16 | 1 | 0 | 1 | 15 | 0.6 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 9.7 |
+| wsj_world | OK | 73 | 21 | 1 | 20 | 52 | 0.1 |
+| wsj_markets | OK | 61 | 33 | 4 | 29 | 28 | 0.1 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 25 | 3 | 22 | 5 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 26 | 1 | 25 | 4 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
