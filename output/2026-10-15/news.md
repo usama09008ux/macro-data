@@ -1,8 +1,8 @@
 # News Pack — Trading Day 15 Oct 2026
 
 - Trading day: **15 Oct 03:00 -> 16 Oct 02:59 PKT**
-- Aakhri update: **16 Oct 09:11 PKT**
-- Kul khabrein: **863**
+- Aakhri update: **16 Oct 14:04 PKT**
+- Kul khabrein: **877**
 - Feeds: 34/39 OK
 
 ---
@@ -326,9 +326,10 @@ The S&P/TSX Composite Index slipped 1.1% to close at 35,584 on Wednesday, dragge
 ### USD
 
 **Fed's Hammack warns inflation expectations deterioration could require Fed response - Lexington Herald Leader**
-`16 Oct 02:50 PKT` · pehli baar dekhi `16 Oct 04:56` · gnews_fed
+`16 Oct 02:50 PKT` · pehli baar dekhi `16 Oct 04:56` · gnews_fed · **2 feeds mein**
 
 Fed's Hammack warns inflation expectations deterioration could require Fed response Lexington Herald Leader
+  - `16 Oct 02:50` *gnews_fed* — Fed's Hammack warns inflation expectations deterioration could require Fed response - Belleville News-Democrat
 
 **U.S. Bank Reserves Edge Higher to $3.03 Trillion, Signaling Steady Liquidity in Financial System**
 `16 Oct 02:47 PKT` · instaforex
@@ -688,10 +689,11 @@ Brokerages Expect Next Fed Rate Hike in December Newsmax
 Governments globally to turn to non-dollar bonds amid AI-driven liquidity crunch, Citi banker says Kitco
 
 **Warsh's quest for quiet Fed gets vocal pushback - Kitco**
-`15 Oct 17:20 PKT` · pehli baar dekhi `15 Oct 19:35` · kitco_general · **2 feeds mein**
+`15 Oct 17:20 PKT` · pehli baar dekhi `15 Oct 19:35` · kitco_general · **3 feeds mein**
 
 Warsh's quest for quiet Fed gets vocal pushback Kitco
   - `15 Oct 17:01` *gnews_fed* — Warsh's quest for quiet Fed gets vocal pushback - Reuters
+  - `15 Oct 15:23` *gnews_fed* — Warsh's quest for quiet Fed gets vocal pushback - Rock Hill Herald
 
 **US 10-year Treasury yield levels not unprecedented, BNY CEO says - Kitco**
 `15 Oct 17:17 PKT` · pehli baar dekhi `15 Oct 19:35` · kitco_general
@@ -757,6 +759,11 @@ What Now, FOMC? The American Action Forum
 
 Fed Beige Book Flags Flat Employment, Slight Growth Bias and Mixed Price Pressures Across Districts VT Markets
   - `15 Oct 09:41` *gnews_fed* — Fed Beige Book Flags Flat Employment, Slight Growth Bias and Mixed Price Pressures Across Districts - VT Markets
+
+**Warsh's quest for quiet Fed gets vocal pushback - Charlotte Observer**
+`15 Oct 15:23 PKT` · pehli baar dekhi `16 Oct 14:04` · gnews_fed
+
+Warsh's quest for quiet Fed gets vocal pushback Charlotte Observer
 
 **Dollar pulls back from 18-month high as Treasury yields fall; Fed hike bets ease - CNBC**
 `15 Oct 15:09 PKT` · pehli baar dekhi `16 Oct 02:47` · gnews_fed · **2 feeds mein**
@@ -1232,9 +1239,10 @@ Europeans cherish a fantasy that higher U.S. taxes can make France great again.
 Sweden's Riksbank has recommended that lawmakers prepare for a possible digital krona, citing concerns over foreign-currency stablecoins and the future of domestic payments.
 
 **Euro gains against Canadian Dollar despite ECB facing rate pause pressure - www.tmgm.com**
-`15 Oct 21:09 PKT` · pehli baar dekhi `16 Oct 09:11` · gnews_centralbanks · **2 feeds mein**
+`15 Oct 21:09 PKT` · pehli baar dekhi `16 Oct 09:11` · gnews_centralbanks · **3 feeds mein**
 
 Euro gains against Canadian Dollar despite ECB facing rate pause pressure www.tmgm.com
+  - `15 Oct 16:46` *gnews_centralbanks* — Euro gains against Canadian Dollar despite ECB facing rate pause pressure - www.tmgm.com
   - `15 Oct 13:49` *gnews_centralbanks* — Euro gains against Canadian Dollar despite ECB facing rate pause pressure - FXStreet
 
 **European stocks close mixed. UK leads gains as bond yields retreat**
@@ -1416,6 +1424,12 @@ Lagarde: France must address its own debt issues IDNFinancials
 
 ### GBP
 
+**BoE to hike interest rates by 25 bps to 4% in November – Reuters poll - www.tmgm.com**
+`15 Oct 21:36 PKT` · pehli baar dekhi `16 Oct 14:04` · gnews_centralbanks · **2 feeds mein**
+
+BoE to hike interest rates by 25 bps to 4% in November – Reuters poll www.tmgm.com
+  - `15 Oct 14:45` *gnews_centralbanks* — BoE to hike interest rates by 25 bps to 4% in November – Reuters poll - FXStreet
+
 **Bank of England's chief economist offers hope on interest rates - BuyAssociation Group**
 `15 Oct 19:12 PKT` · pehli baar dekhi `15 Oct 19:35` · gnews_centralbanks
 
@@ -1437,15 +1451,15 @@ Why We Now Expect Two Bank Of England Rate Hikes Seeking Alpha
 
 Bank of England deputy 'surprised how well' economy absorbed energy price shock www.lbc.co.uk
 
+**Bank Of England Says Businesses Absorbing Energy Costs Could Ease Inflation Pressures - Arise News**
+`15 Oct 15:34 PKT` · pehli baar dekhi `16 Oct 14:04` · gnews_centralbanks
+
+Bank Of England Says Businesses Absorbing Energy Costs Could Ease Inflation Pressures Arise News
+
 **Britain Is Growing Without Hiring, and the Bank of England Can't Fix That With Rate Cuts - Pound Sterling Live**
 `15 Oct 15:04 PKT` · pehli baar dekhi `15 Oct 19:35` · gnews_centralbanks
 
 Britain Is Growing Without Hiring, and the Bank of England Can't Fix That With Rate Cuts Pound Sterling Live
-
-**BoE to hike interest rates by 25 bps to 4% in November – Reuters poll - FXStreet**
-`15 Oct 14:45 PKT` · pehli baar dekhi `15 Oct 19:35` · gnews_centralbanks
-
-BoE to hike interest rates by 25 bps to 4% in November – Reuters poll FXStreet
 
 **Bank of England seen raising rates in November as inflation outlook firms - Traders Union**
 `15 Oct 14:41 PKT` · pehli baar dekhi `15 Oct 14:51` · gnews_centralbanks
@@ -1456,6 +1470,11 @@ Bank of England seen raising rates in November as inflation outlook firms Trader
 `15 Oct 14:34 PKT` · pehli baar dekhi `15 Oct 14:51` · gnews_centralbanks
 
 Bank of England Expected to Raise Rates to 4% on Persistent Inflation Global Banking & Finance Review
+
+**Bank of England Officials Divide Over Inflation Risk Facing UK - Bloomberg**
+`15 Oct 14:26 PKT` · pehli baar dekhi `16 Oct 14:04` · gnews_centralbanks
+
+Bank of England Officials Divide Over Inflation Risk Facing UK Bloomberg
 
 **Bank of England tipped to raise interest rates in November - Share Talk**
 `15 Oct 14:14 PKT` · pehli baar dekhi `15 Oct 14:51` · gnews_centralbanks
@@ -1513,6 +1532,11 @@ BoE Holds Rates but Three Policymakers Wanted a Hike Equiti Global
 `16 Oct 02:00 PKT` · pehli baar dekhi `16 Oct 02:47` · aljazeera
 
 Humanoid robots were seen performing the "Macarena" at the annual CEATEC technology exhibition in Chiba, Japan.
+
+**BOJ Board Member Koeda Signals More Rate Hikes, Warns of Upside Inflation Risks - News and Statistics - IndexBox**
+`15 Oct 20:51 PKT` · pehli baar dekhi `16 Oct 14:04` · gnews_centralbanks
+
+BOJ Board Member Koeda Signals More Rate Hikes, Warns of Upside Inflation Risks - News and Statistics IndexBox
 
 **The Yen Seized the Moment**
 `15 Oct 19:27 PKT` · pehli baar dekhi `15 Oct 19:35` · actionforex
@@ -1813,6 +1837,11 @@ Oil Prices Diverge as Supply Risks Mount Rigzone
 
 The only commercial-scale uranium enrichment plant in the United States is now three-quarters of the way through its latest expansion, a milestone for the country's push to build out a domestic nuclear fuel supply chain. Urenco USA said Oct. 8 that the sixth of eight new centrifuge cascades at its National Enrichment Facility in New Mexico has started production, with the seventh due later this year and the last in spring 2027.
 
+**International Oil Prices Fall Again as Crude Supply Recovers - TechJuice**
+`16 Oct 01:45 PKT` · pehli baar dekhi `16 Oct 14:04` · gnews_geopolitics
+
+International Oil Prices Fall Again as Crude Supply Recovers TechJuice
+
 **6 Countries Pledge Faster Cargo Transfers on Eurasia-Europe Land Bridge**
 `16 Oct 01:00 PKT` · pehli baar dekhi `16 Oct 02:47` · oilprice
 
@@ -1970,6 +1999,11 @@ Pakistan faces challenging winter months with potential natural gas shortages as
 `15 Oct 20:27 PKT` · pehli baar dekhi `16 Oct 04:56` · gnews_geopolitics
 
 Oil Prices Little Changed for Week as US-Iran Peace Efforts Hold EnergyNow.com
+
+**Trump-Iran standoff threatens chronic Gulf oil instability - Awani International**
+`15 Oct 20:05 PKT` · pehli baar dekhi `16 Oct 14:04` · gnews_geopolitics
+
+Trump-Iran standoff threatens chronic Gulf oil instability Awani International
 
 **Bulgaria Breaks Ranks With EU Over Trump-Putin Diesel Deal**
 `15 Oct 20:00 PKT` · pehli baar dekhi `15 Oct 23:39` · oilprice
@@ -2521,10 +2555,21 @@ The CoreWeave selloff shows a pressure point from climbing borrowing costs.
 
 A continued selloff in the AI trade is forcing investors to move from tech names to the relative safety of government bonds and defensive stock sectors.
 
+**Oil's long view darkens as Iran war refuses to end - The Daily Star**
+`16 Oct 01:17 PKT` · pehli baar dekhi `16 Oct 14:04` · gnews_geopolitics
+
+Oil's long view darkens as Iran war refuses to end The Daily Star
+
 **Iran War Triggers Global Race to Build Oil Reserves: Bousso - EnergyNow**
 `16 Oct 01:16 PKT` · pehli baar dekhi `16 Oct 04:56` · gnews_geopolitics
 
 Iran War Triggers Global Race to Build Oil Reserves: Bousso EnergyNow
+
+**Iran's precision strikes picked apart Gulf infrastructure, blunting US war plans - The Express Tribune**
+`16 Oct 01:12 PKT` · pehli baar dekhi `16 Oct 14:04` · gnews_geopolitics · **2 feeds mein**
+
+Iran's precision strikes picked apart Gulf infrastructure, blunting US war plans The Express Tribune
+  - `15 Oct 15:00` *gnews_geopolitics* — Iran's precision strikes picked apart Gulf infrastructure, blunting US war plans - Reuters
 
 **Ukraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce**
 `16 Oct 01:00 PKT` · pehli baar dekhi `16 Oct 02:47` · investing_commodities
@@ -2586,6 +2631,11 @@ US media reports military considering plans to use GBU-43/B Massive Ordnance Air
 `15 Oct 20:44 PKT` · pehli baar dekhi `16 Oct 02:47` · gnews_geopolitics
 
 Iran War Erodes Exxon, Chevron Profits Even as Oil Prices Soar EnergyNow.com
+
+**Oil Ends Lower Ahead of U.S.-Iran Ceasefire Talks, Posts Steepest Weekly Loss Since 2022 - EnergyNow.com**
+`15 Oct 20:27 PKT` · pehli baar dekhi `16 Oct 14:04` · gnews_geopolitics
+
+Oil Ends Lower Ahead of U.S.-Iran Ceasefire Talks, Posts Steepest Weekly Loss Since 2022 EnergyNow.com
 
 **Market selloff, rising rates test AI data centre deal boom - Kitco**
 `15 Oct 20:14 PKT` · pehli baar dekhi `15 Oct 23:39` · kitco_general
@@ -2698,11 +2748,6 @@ Limitations on Ukraine's access to military-grade Starlink terminals sparked pan
 `15 Oct 15:02 PKT` · pehli baar dekhi `15 Oct 19:35` · aljazeera
 
 Ukraine&#039;s president earlier said Kyiv was &#039;done&#039; with energy ceasefire and that strikes on Russian oil refineries would resume.
-
-**Iran's precision strikes picked apart Gulf infrastructure, blunting US war plans - Reuters**
-`15 Oct 15:00 PKT` · pehli baar dekhi `15 Oct 19:35` · gnews_geopolitics
-
-Iran's precision strikes picked apart Gulf infrastructure, blunting US war plans Reuters
 
 **Tech Weakness Drags DAX Lower**
 `15 Oct 14:51 PKT` · instaforex
@@ -2842,7 +2887,7 @@ Diesel shortages could persist well into 2027 as Iran war disrupts supply: IEA T
 
 Market Analysts React to US-Israel Strikes on Iran EnergyNow
 
-### BINA TAG (237)
+### BINA TAG (238)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2924,6 +2969,7 @@ Market Analysts React to US-Israel Strikes on Iran EnergyNow
 - `15 Oct 21:06` **mining_com** — Op-Ed: New investment could reshape US mining
 - `15 Oct 21:04` **aljazeera** — Venezuela's Maduro pleads not guilty to US conspiracy to torture charges
 - `15 Oct 21:00` **gnews_fed** — User-4d6a0d2(@Square-Creator-4d6a0d2655b5a)'s insights - Binance
+- `15 Oct 20:40` **gnews_fed** — Lawyers for Federal Reserve's Lisa Cook say White House hearing set up by Trump is 'biased' - The Miami Times
 - `15 Oct 20:37` **investinglive** — Nvidia has gapped to the downside and tested a key technical target area. What next?
 - `15 Oct 20:33` **investinglive** — Dow Jones today is showing relative strength
 - `15 Oct 20:19` **aljazeera** — Syrian court sentences two to death over 2025 coastal violence
@@ -3100,49 +3146,49 @@ investing_news (9)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 4 | 16 | 0 | 0.1 |
-| marketpulse | STALE | 2 | 0 | 0 | 0 | 2 | 6.5 |
+| actionforex | OK | 20 | 20 | 17 | 3 | 0 | 0.0 |
+| marketpulse | STALE | 2 | 0 | 0 | 0 | 2 | 6.7 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 9 | 2 | 7 | 27 | 0.0 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.3 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 35.4 |
+| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 0.2 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.7 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.5 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 35.6 |
 | kitco_general | OK | 30 | 30 | 0 | 30 | 0 | 0.2 |
-| gnews_fed | OK | 91 | 91 | 20 | 71 | 0 | 0.0 |
-| gnews_geopolitics | OK | 74 | 74 | 15 | 59 | 0 | 0.1 |
-| gnews_centralbanks | OK | 37 | 37 | 6 | 31 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 1.1 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
-| boe_news | OK | 50 | 2 | 0 | 2 | 48 | 0.8 |
-| boj_whatsnew | OK | 53 | 2 | 0 | 2 | 51 | 1.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.0 |
-| mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.2 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 2 | 8 | 0 | 0.1 |
-| bbc_business | OK | 47 | 14 | 0 | 14 | 33 | 0.2 |
-| aljazeera | OK | 25 | 25 | 10 | 15 | 0 | 0.1 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.7 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 35.7 |
-| eia_energy | OK | 16 | 1 | 0 | 1 | 15 | 0.6 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 9.7 |
-| wsj_world | OK | 73 | 21 | 1 | 20 | 52 | 0.1 |
-| wsj_markets | OK | 61 | 33 | 4 | 29 | 28 | 0.1 |
+| gnews_fed | OK | 100 | 100 | 49 | 51 | 0 | 0.0 |
+| gnews_geopolitics | OK | 71 | 71 | 10 | 61 | 0 | 0.0 |
+| gnews_centralbanks | OK | 35 | 35 | 16 | 19 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
+| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 1.3 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
+| boe_news | OK | 50 | 2 | 0 | 2 | 48 | 1.0 |
+| boj_whatsnew | OK | 52 | 3 | 1 | 2 | 49 | 0.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.3 |
+| mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.4 |
+| oilprice | OK | 15 | 15 | 3 | 12 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
+| bbc_business | OK | 47 | 16 | 2 | 14 | 31 | 0.0 |
+| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.9 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 35.9 |
+| eia_energy | OK | 16 | 1 | 0 | 1 | 15 | 0.8 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 9.9 |
+| wsj_world | OK | 73 | 23 | 2 | 21 | 50 | 0.1 |
+| wsj_markets | OK | 61 | 33 | 6 | 27 | 28 | 0.0 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 26 | 1 | 25 | 4 | 0.1 |
+| cointelegraph | OK | 30 | 30 | 4 | 26 | 0 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- marketpulse — STALE, cadence 2d, magar 6d purana
-- cme_risk_management — STALE, cadence 10d, magar 35d purana
+- marketpulse — STALE, cadence 2d, magar 7d purana
+- cme_risk_management — STALE, cadence 10d, magar 36d purana
 - yahoo_finance — FAIL, HTTP 404
