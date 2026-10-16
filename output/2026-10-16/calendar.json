@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "16 Oct 2026 20:49",
+  "generated_pkt": "17 Oct 2026 00:46",
   "trading_day": "2026-10-16",
   "feed_sources": {
     "thisweek": "live"
@@ -1378,9 +1378,9 @@
       "previous": "-166.8B",
       "url": "https://www.forexfactory.com/calendar/322-us-federal-budget-balance",
       "all_day": false,
-      "utc": "2026-10-16T18:00Z",
-      "pkt": "16 Oct 23:00",
-      "pkt_iso": "2026-10-16T23:00:00+05:00",
+      "utc": "2026-10-16T18:05Z",
+      "pkt": "16 Oct 23:05",
+      "pkt_iso": "2026-10-16T23:05:00+05:00",
       "trading_day": "2026-10-16"
     },
     {
@@ -1463,6 +1463,20 @@
       "tags": [
         "usd",
         "risk"
+      ]
+    },
+    {
+      "title": "US September industrial production +0.7% vs +0.4% expected",
+      "actual_raw": "+0.7%",
+      "forecast_raw": "+0.4%",
+      "beat": true,
+      "raw_diff": "+0.30pp",
+      "sign_flip": false,
+      "diff_pct": 75.0,
+      "when_pkt": "16 Oct 18:17",
+      "source": "investinglive",
+      "tags": [
+        "usd"
       ]
     }
   ]

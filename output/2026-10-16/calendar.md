@@ -1,6 +1,6 @@
 # Calendar — Trading Day 16 Oct 2026
 
-- Banaya gaya: **16 Oct 2026 20:49 PKT**
+- Banaya gaya: **17 Oct 2026 00:46 PKT**
 - Trading day: **16 Oct 03:00 -> 17 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,11 +12,10 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 23:00 | USD | low | Federal Budget Balance | -34.7B | -166.8B |
-| **17 Oct** 01:00 | USD | low | TIC Long-Term Purchases | 75.2B | -27.9B |
-| **17 Oct** 09:45 | EUR | low | German Buba President Nagel Speaks | - | - |
-| **17 Oct** 11:45 | GBP | MED | BOE Gov Bailey Speaks | - | - |
-| **17 Oct** 19:15 | All | low | IMF Meetings | - | - |
+| 01:00 | USD | low | TIC Long-Term Purchases | 75.2B | -27.9B |
+| 09:45 | EUR | low | German Buba President Nagel Speaks | - | - |
+| 11:45 | GBP | MED | BOE Gov Bailey Speaks | - | - |
+| 19:15 | All | low | IMF Meetings | - | - |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
@@ -36,5 +35,6 @@
 
 | Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
 |---|---|---|---|---|---|
+| 16 Oct 18:17 | US September industrial production | +0.7% | +0.4% | +0.30pp (+75%) | upar |
 | 16 Oct 17:30 | US September import price index | +1.1% | +0.8% | +0.30pp (+38%) | upar |
 
