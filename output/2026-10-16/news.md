@@ -1,13 +1,18 @@
 # News Pack — Trading Day 16 Oct 2026
 
 - Trading day: **16 Oct 03:00 -> 17 Oct 02:59 PKT**
-- Aakhri update: **16 Oct 22:53 PKT**
-- Kul khabrein: **646**
+- Aakhri update: **17 Oct 01:33 PKT**
+- Kul khabrein: **729**
 - Feeds: 35/39 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**WTI Crude Oil futures and 5% yields set tone for the week.**
+`16 Oct 23:53 PKT` · pehli baar dekhi `17 Oct 01:33` · cme_metals_video
+
+With Middle East tensions driving energy prices higher, traders will be closely monitoring WTI Crude Oil futures for any weekend headlines. Meanwhile, the U.S. 10-Year Treasury yield has dropped back to 5.06% from its recent multi-decade peak, signaling a potential shift as capital rotates out of the tech sector. Looking ahead to the corporate calendar, an intense earnings slate features 227 companies with market caps over $1 billion reporting, anchored by heavyweights Tesla and Meta Platforms.
 
 **Banknote imagery advisory group minutes – 15 July 2026**
 `16 Oct 16:00 PKT` · pehli baar dekhi `16 Oct 18:55` · boe_news
@@ -100,6 +105,26 @@ The remarks are unlikely to move oil much on their own, since they repeat earlie
 
 ### GOLD
 
+**Speculators Trim Bullish Silver Bets as Net Long Positions Edge Down in Latest CFTC Data**
+`17 Oct 01:33 PKT` · instaforex
+
+Bullish sentiment in the U.S. silver futures market eased slightly, according to the latest Commitments of Traders (COT) data released by the U.S. Commodity Futures Trading Commission (CFTC) on 16 October 2026. Speculative net positions in silver declined to 22.6K contracts, down from 23.2K previously. The modest pullback suggests that money managers and other speculative traders have pared back long exposure, potentially reflecting a more cautious stance toward silver in the short term.
+
+**Gold Bulls Trim Exposure as CFTC Net Long Positions Edge Lower**
+`17 Oct 01:33 PKT` · instaforex
+
+Speculative net long positions in gold futures in the United States slipped modestly in the latest reporting period, signaling a slight cooling in bullish sentiment toward the precious metal. According to CFTC data updated on 16 October 2026, net speculative positions declined to 207.9K, down from the previous level of 210.3K. The marginal pullback suggests that while investors remain broadly positive on gold, some traders have taken profits or reduced risk exposure at the margin.
+
+**Gold looks to housing, PMI and consumer sentiment data for direction next week - Kitco**
+`17 Oct 00:50 PKT` · pehli baar dekhi `17 Oct 01:33` · kitco_general
+
+Gold looks to housing, PMI and consumer sentiment data for direction next week Kitco
+
+**India gold swings to premium as lower prices lift jewellery demand - Kitco**
+`16 Oct 21:32 PKT` · pehli baar dekhi `17 Oct 01:33` · kitco_general
+
+India gold swings to premium as lower prices lift jewellery demand Kitco
+
 **Galantas Gold warrants exercised for 340,000 shares**
 `16 Oct 18:36 PKT` · pehli baar dekhi `16 Oct 18:55` · investing_news
 
@@ -173,6 +198,36 @@ The site, formerly known as Puffy Lake, operated from 1987 to 1989.
 
 ### USD
 
+**U.S. Net Capital Inflows Surge in August, More Than Doubling July Levels**
+`17 Oct 01:33 PKT` · instaforex
+
+Overall net capital flow into the United States jumped sharply in August 2026, rising to 199.80 billion USD from 87.40 billion USD in July 2026. The latest figures, updated on 16 October 2026, indicate a substantial increase in foreign and domestic capital moving into U.S. financial assets over the month. The more than twofold month-on-month rise in net capital inflows underscores a marked strengthening in demand for U.S. securities and other assets.
+
+**Foreign Demand for U.S. Treasuries Rebounds Sharply in August**
+`17 Oct 01:33 PKT` · instaforex
+
+Foreign investors returned strongly to the U.S. Treasury market in August 2026, reversing a brief pullback in demand seen a month earlier. According to data updated on 16 October 2026, net foreign buying of U.S. Treasury bonds rose to $108.90 billion in August, a stark turnaround from July's slight net selling of $3.60 billion. The swing from negative to sharply positive flows suggests a renewed appetite for U.S. government debt after July's hesitation.
+
+**Foreign Demand for U.S. Long-Term Securities Surges in August, Reversing July Outflows**
+`17 Oct 01:33 PKT` · instaforex
+
+Net foreign purchases of U.S. long-term securities swung sharply higher in August 2026, according to the latest Treasury International Capital (TIC) data released on 16 October 2026. The net long-term transactions balance climbed to $279.2 billion, a dramatic reversal from July's net outflow of $27.9 billion. The turnaround suggests a strong resurgence in foreign appetite for U.S. long-term assets, following the prior month's negative reading.
+
+**News | Fed Chair Kevin Warsh warns of AI investment 'shock' - CoStar**
+`17 Oct 00:56 PKT` · pehli baar dekhi `17 Oct 01:33` · gnews_fed
+
+News | Fed Chair Kevin Warsh warns of AI investment 'shock' CoStar
+
+**UK PM adviser's wife expresses 'support' for Palestine Action**
+`16 Oct 23:26 PKT` · pehli baar dekhi `17 Oct 01:33` · aljazeera
+
+Police reviewing social media post by writer Sarah Helm, wife of Burnham&#039;s National Security Adviser Jonathan Powell.
+
+**US fiscal 2026 budget deficit was the largest in five years**
+`16 Oct 23:06 PKT` · pehli baar dekhi `17 Oct 01:33` · investinglive
+
+September 2025 was a $198B surplus Outlays $585B vs $346B a year ago Receipts $558B vs $544B a year ago FY2026 deficit $1.992 trillion vs $1.775T in FY2025, the largest in five years FY2026 gross interest on the debt: record $1.36T, up $144B (12%) Interest is now the main driver of the deficit. The $144B rise in interest costs accounts for about two-thirds of the $217B increase in the full-year shortfall.
+
 **Mexican Peso Approaches 11-Month Low**
 `16 Oct 22:53 PKT` · instaforex
 
@@ -221,6 +276,11 @@ Key takeaways from Fed Chair Kevin Warsh's International Monetary Fund chat Balt
 
 Traders bet on October interest-rate hold after Kevin Warsh is tight-lipped at conference New York Post
 
+**Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation - ABC News - Breaking News, Latest News and Videos**
+`16 Oct 21:12 PKT` · pehli baar dekhi `17 Oct 01:33` · gnews_fed
+
+Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation ABC News - Breaking News, Latest News and Videos
+
 **The broader US stock indices are lower but showing different degrees of technical bias**
 `16 Oct 21:06 PKT` · pehli baar dekhi `16 Oct 22:53` · investinglive
 
@@ -252,9 +312,10 @@ Fed Ends Enforcement Actions Against Gardner Bancshares, Small Business Bank Mir
 The big banks set the tone this week: consumers are still spending, businesses are borrowing again, and credit isn't getting worse. That's good for growth, but it isn't the demand destruction the Fed may need. September CPI came in at 3.7% headline and 2.6% core, both above forecast, and futures now price October no-change at 73%. The FOMC meets October 27–28, so next week's earnings are the last real-economy check before the decision.
 
 **Warsh offers no fresh signals on interest rates - The Hill**
-`16 Oct 19:31 PKT` · pehli baar dekhi `16 Oct 22:53` · gnews_fed
+`16 Oct 19:31 PKT` · pehli baar dekhi `17 Oct 01:33` · gnews_fed · **2 feeds mein**
 
 Warsh offers no fresh signals on interest rates The Hill
+  - `16 Oct 19:31` *gnews_fed* — Warsh offers no fresh signals on interest rates - The Hill
 
 **Sunset Market Commentary**
 `16 Oct 19:20 PKT` · pehli baar dekhi `16 Oct 22:53` · actionforex · **2 feeds mein**
@@ -917,6 +978,11 @@ Fed's Hammack: More Forceful Rate Hikes Possible If Inflation Expectations Worse
 
 ### EUR
 
+**Speculators Deepen Bearish Bets on Euro as Net Shorts Widen to -137.6K**
+`17 Oct 01:33 PKT` · instaforex
+
+Euro futures traders ramped up their bearish positions in the latest reporting week, with CFTC data showing a sharp increase in speculative net shorts on the euro. According to figures updated on 16 October 2026, net speculative positions on the EUR fell to -137.6K contracts, down from -99.3K previously. The widening negative balance indicates that investors are increasingly positioning for further euro weakness against major counterparts.
+
 **European Stocks Close HIgher**
 `16 Oct 22:53 PKT` · instaforex
 
@@ -1113,6 +1179,11 @@ Bank of England's Bailey sees 'quite subdued' second-round price pressures so fa
 
 ### JPY
 
+**Speculators Trim Net Long Yen Positions as CFTC Data Shows Decline to 50.2K**
+`17 Oct 01:33 PKT` · instaforex
+
+CFTC data released on 16 October 2026 show that speculative net positions in the Japanese yen have decreased, suggesting a cooling in bullish sentiment toward the currency. Net positions fell to 50.2K contracts, down from the previous reading of 62.3K. The reduction in speculative net longs indicates that traders have scaled back expectations for yen strength compared with the prior period.
+
 **Bank Of Japan Rate Bets Put Mitsubishi UFJ Stock In Focus - Simply Wall Street**
 `16 Oct 21:04 PKT` · pehli baar dekhi `16 Oct 22:53` · gnews_centralbanks
 
@@ -1221,12 +1292,37 @@ Japan's foreign bond purchases showed a marginal easing in net outflows, with th
 
 ### CHF
 
+**Swiss Franc Bearish Bets Ease Slightly as Speculative Shorts Narrow**
+`17 Oct 01:33 PKT` · instaforex
+
+Speculative positioning in the Swiss franc (CHF) showed a modest improvement, with net short positions narrowing in the latest data. According to figures updated on 16 October 2026, CFTC CHF speculative net positions rose to -22.1K from a previous level of -23.7K. The move indicates that while market participants remain net short on the Swiss franc, bearish sentiment has eased slightly compared with the prior reading.
+
 **USD/CHF Daily Outlook**
 `16 Oct 12:57 PKT` · pehli baar dekhi `16 Oct 14:04` · actionforex
 
 USD/CHF is still staying above 0.8227 support while fall from 0.8394 extends. Intraday bias remains neutral first. Further rise is expected as long as 0.8227 support holds. Firm break of 0.8394 will resume the whole rise from 0.7603. However, firm break of 0.8227 will indicate that a larger scale corrective fall is underway. Deeper fall [&#8230;] The post USD/CHF Daily Outlook appeared first on ActionForex.
 
 ### CAD
+
+**Speculators Deepen Bearish Bets on Canadian Dollar as Net Shorts Widen**
+`17 Oct 01:33 PKT` · instaforex
+
+Speculative sentiment toward the Canadian dollar turned more negative in the latest reporting period, with CFTC data showing an increase in net short positions. According to figures updated on 16 October 2026, CAD speculative net positions declined to -94.8K, compared with the previous reading of -90.2K. The widening net short position indicates that traders in futures markets have grown more bearish on the Canadian currency, adding to their negative exposure versus prior levels.
+
+**Cleveland-Cliffs Braces for Fight as Canada Looks to Block Layoffs at Stelco**
+`17 Oct 01:01 PKT` · pehli baar dekhi `17 Oct 01:33` · wsj_world
+
+The company is digging in on its plans to lay off as many as 500 workers at its Stelco operations as the government weighs legal options to protect workers.
+
+**Canada's new foreign investment rules: What critical minerals miners need to know**
+`16 Oct 23:57 PKT` · pehli baar dekhi `17 Oct 01:33` · mining_com
+
+New Investment Canada Act rules will require certain types of minority investments into a mandatory pre-closing filing regime.
+
+**Canadian steelmakers offset some US tariff pain with domestic demand - Kitco**
+`16 Oct 21:29 PKT` · pehli baar dekhi `17 Oct 01:33` · kitco_general
+
+Canadian steelmakers offset some US tariff pain with domestic demand Kitco
 
 **How Trump's Pressure Could Actually End Up Saving Canada**
 `16 Oct 20:14 PKT` · pehli baar dekhi `16 Oct 22:53` · wsj_world
@@ -1280,6 +1376,11 @@ Break of 1.4200 support suggests short term top bottoming in USD/CAD at 1.4298, 
 
 ### AUD
 
+**Speculators Deepen Bearish Bets on Australian Dollar as Net Shorts Hit -117.3K**
+`17 Oct 01:33 PKT` · instaforex
+
+Speculative sentiment toward the Australian dollar has turned increasingly negative, with CFTC AUD speculative net positions widening further into bearish territory. According to the latest data updated on 16 October 2026, net positions declined to -117.3K from a previous level of -98.6K. The move reflects a notable increase in short interest, suggesting that traders and investors are positioning more aggressively against the Australian currency.
+
 **Forex Is Driven by Yields**
 `16 Oct 19:21 PKT` · pehli baar dekhi `16 Oct 22:53` · actionforex
 
@@ -1301,6 +1402,11 @@ Australian consumer confidence weakened in October, with the Thomson Reuters IPS
 Key insights from the week that was. Australia's key data release this week was the September Labour Force Survey. Employment surprised to the downside, -39.3k. However, a 0.2ppt decline in labour force participation from August's near-historic high largely offset. The unemployment rate therefore held at 4.7% after August was revised up. Residual seasonality may be [&#8230;] The post Cliff Notes: Getting the Balance Right appeared first on ActionForex.
 
 ### NZD
+
+**Speculators Deepen Bearish Bets on Kiwi as CFTC NZD Net Shorts Widen**
+`17 Oct 01:33 PKT` · instaforex
+
+Speculative investors have sharply increased their bearish positions on the New Zealand dollar, according to the latest Commitments of Traders data. As of 16 October 2026, CFTC figures show NZD speculative net positions deteriorating to -47.0K, down from a previous reading of -29.3K. The widening negative balance indicates that traders are holding significantly larger net short positions in the kiwi than before, reflecting growing pessimism or hedging against further weakness in the currency.
 
 **New Zealand Dollar Extends Gains**
 `16 Oct 09:11 PKT` · instaforex
@@ -1339,6 +1445,49 @@ New Zealand's BusinessNZ Performance of Manufacturing Index climbed to 56.5 in S
 
 ### OIL
 
+**Oil Surges Above $100 on Rising Supply Risks**
+`17 Oct 01:33 PKT` · instaforex
+
+Crude oil prices surged past $100 a barrel on Friday, climbing more than 11% over the week amid tightening supply and robust fuel demand from the shipping sector. Producers are contending with higher freight rates and increased risk premiums to move cargoes through the Strait of Hormuz, keeping uncertainty over future regional supply elevated.
+
+**Speculators Extend Bullish Bets as CFTC Crude Oil Net Longs Edge Higher**
+`17 Oct 01:33 PKT` · instaforex
+
+Speculative interest in U.S. crude oil futures strengthened modestly, with net long positions nudging higher in the latest data. According to figures updated on 16 October 2026, CFTC crude oil speculative net positions rose to 100.3K, up from the previous reading of 99.1K. The incremental increase suggests that market participants remain cautiously optimistic on crude oil's outlook, adding to net long exposure rather than scaling back.
+
+**Wall Street tumbles as worries about AI trade and high oil prices weigh - Kitco**
+`17 Oct 01:04 PKT` · pehli baar dekhi `17 Oct 01:33` · kitco_general
+
+Wall Street tumbles as worries about AI trade and high oil prices weigh Kitco
+
+**Ukraine's Zelenskiy blasts US-Russian diesel deal, welcomes bigger European role in peace process**
+`17 Oct 01:00 PKT` · pehli baar dekhi `17 Oct 01:33` · investing_commodities
+
+**Global fuel crunch deepens as oil supplies collapse - Malawi24**
+`17 Oct 00:27 PKT` · pehli baar dekhi `17 Oct 01:33` · gnews_geopolitics
+
+Global fuel crunch deepens as oil supplies collapse Malawi24
+
+**Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest**
+`17 Oct 00:00 PKT` · pehli baar dekhi `17 Oct 01:33` · oilprice
+
+More than three decades after Norway opened parts of the Norwegian Sea to petroleum exploration, potentially significant oil and gas resources remain hidden beneath thick layers of volcanic rock. Now, advances in exploration technology and renewed industry interest could bring one of Europe's least explored offshore frontiers back into focus.
+
+**Oil prices surge higher into the weekend**
+`16 Oct 23:44 PKT` · pehli baar dekhi `17 Oct 01:33` · investinglive
+
+It will be another weekend of pain at the fuel pumps. WTI crude oil is finishing the week at the highest since September 21 and back over $100 per barrel. WTI last trade up $3.33 to $101.30. Brent crude also touched $110 for the first time since May. The strong rally to $101 from $98 in the final hours of trading today suggsets lingering worries about US attacks on Iran, particularly after all the news floated this week about the US military preparing MOAB attacks.
+
+**U.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens**
+`16 Oct 23:30 PKT` · pehli baar dekhi `17 Oct 01:33` · oilprice
+
+The United States is putting another 17 million barrels of crude from the Strategic Petroleum Reserve on offer, one day after the IEA accelerated emergency stock releases as governments scramble to get more oil and fuel into a tight market. The Department of Energy issued a request for proposals Friday for an exchange of up to 17 million barrels, part of the 172 million barrels Washington committed to make available under the IEA's 400-million-barrel emergency action announced in March.
+
+**Wind Farm Approved in Victoria, Australia Would Be Largest in Southern Hemispher**
+`16 Oct 23:00 PKT` · pehli baar dekhi `17 Oct 01:33` · oilprice
+
+A massive wind farm in the state of Victoria, Australia, has been approved by state authorities, paving the way for the project to go to the federal environment minister for final checks. ABC News reports Planning Minister Sonya Kilkenny this week signed off on the Warracknabeal Energy Park, five months after its environmental impact report was approved.
+
 **U.S. Baker Hughes Rig Count Holds Steady at 603, Signaling Pause in Drilling Momentum**
 `16 Oct 22:53 PKT` · instaforex
 
@@ -1368,6 +1517,11 @@ US oil prices top $100 after Iran sinks GFS Pride NewsBytes
 `16 Oct 22:29 PKT` · pehli baar dekhi `16 Oct 22:53` · oilprice
 
 The total number of active drilling rigs for oil and gas in the United States remained unchanged this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US staying at 603, up 55 from this same time last year. The number of active oil rigs fell by 3, to 459 during the latest reporting period, according to the data. This is 41 above this same time last year. The number of gas rigs rose by 1 to 133, which is 12 more than this time last year.
+
+**Saudi Leads Jump in OPEC+ Oil Output in September, Despite Iran War Disruption - EnergyNow.com**
+`16 Oct 22:11 PKT` · pehli baar dekhi `17 Oct 01:33` · gnews_geopolitics
+
+Saudi Leads Jump in OPEC+ Oil Output in September, Despite Iran War Disruption EnergyNow.com
 
 **Iranian fuel shipments test global supply routes - Oil & Gas 360**
 `16 Oct 21:31 PKT` · pehli baar dekhi `16 Oct 22:53` · gnews_geopolitics
@@ -1450,9 +1604,10 @@ OPEC-related crude oil production volumes from Congo destined for the United Sta
 OPEC crude oil inflows from Algeria to the United States inched higher in the latest reading, with the indicator rising from 1.00 million barrels to 1.01 million barrels. The updated figure, reflecting Algeria's crude volumes associated with OPEC supply to the U.S. market, was reported on 16 October 2026. While the change is marginal in absolute terms, the move signals a slight uptick in U.S.-linked demand or allocation for Algerian crude within the broader OPEC framework.
 
 **The return of Middle East oil: Has Iran lost control of Strait of Hormuz & why are crude prices still up? - The Times of India**
-`16 Oct 18:34 PKT` · pehli baar dekhi `16 Oct 18:55` · gnews_geopolitics
+`16 Oct 18:34 PKT` · pehli baar dekhi `16 Oct 18:55` · gnews_geopolitics · **2 feeds mein**
 
 The return of Middle East oil: Has Iran lost control of Strait of Hormuz & why are crude prices still up? The Times of India
+  - `16 Oct 18:34` *gnews_geopolitics* — The return of Middle East oil: Has Iran lost control of Strait of Hormuz & why are crude prices still up? - The Times of India
 
 **Iran War Set To Push PetroChina's Trading Profit to Record $3 Billion**
 `16 Oct 18:30 PKT` · pehli baar dekhi `16 Oct 18:55` · oilprice
@@ -1519,10 +1674,20 @@ India has nearly halved its export duty on diesel for the next two weeks while i
 
 Ukraine's renewed attacks on Russian refineries are a "disgrace" and will only lead to higher prices, President Donald Trump has said in comments about the latest Ukrainian attack of a Rosneft facility in Ryazan. "All he's doing is making the world oil price higher. Well, I think that's a disgrace," Trump told Newsmax in an interview.
 
+**Oil Dips As IEA Members Agree On Emergency Stocked Crude Release - MarketForces Africa**
+`16 Oct 13:08 PKT` · pehli baar dekhi `17 Oct 01:33` · gnews_geopolitics
+
+Oil Dips As IEA Members Agree On Emergency Stocked Crude Release MarketForces Africa
+
 **Oil falls as IEA accelerates emergency stock releases - Anadolu Ajansı**
 `16 Oct 13:03 PKT` · pehli baar dekhi `16 Oct 14:04` · gnews_geopolitics
 
 Oil falls as IEA accelerates emergency stock releases Anadolu Ajansı
+
+**US Seeks International Help to Reopen Strait of Hormuz as Crude Prices Surge - EnergyNow.com**
+`16 Oct 12:47 PKT` · pehli baar dekhi `17 Oct 01:33` · gnews_geopolitics
+
+US Seeks International Help to Reopen Strait of Hormuz as Crude Prices Surge EnergyNow.com
 
 **Iranian Oil Offers to Chinese Buyers Fall as US Blockade Bites, Sources Say - EnergyNow.com**
 `16 Oct 12:37 PKT` · pehli baar dekhi `16 Oct 22:53` · gnews_geopolitics
@@ -1650,10 +1815,20 @@ Oil Prices Jump 6% as Iran Sets UAE Oil Port Ablaze, Strikes Vessels in Strait o
 
 Oil Slides After Pakistani Source Says US and Iran are Close to Framework Peace Deal EnergyNow.com
 
+**Barclays Sees 13–14 Million bpd Oil Supply Loss From Prolonged Hormuz Disruption - EnergyNow.com**
+`16 Oct 04:09 PKT` · pehli baar dekhi `17 Oct 01:33` · gnews_geopolitics
+
+Barclays Sees 13–14 Million bpd Oil Supply Loss From Prolonged Hormuz Disruption EnergyNow.com
+
 **Oil Prices Rise for a Fifth Day on Supply Concerns Amid Chokepoint Threats - EnergyNow.com**
 `16 Oct 04:08 PKT` · pehli baar dekhi `16 Oct 09:11` · gnews_geopolitics
 
 Oil Prices Rise for a Fifth Day on Supply Concerns Amid Chokepoint Threats EnergyNow.com
+
+**Saudi Arabia Boosts Oil Output, Exports for US Attack on Iran Contingency, Sources Say - EnergyNow**
+`16 Oct 04:02 PKT` · pehli baar dekhi `17 Oct 01:33` · gnews_geopolitics
+
+Saudi Arabia Boosts Oil Output, Exports for US Attack on Iran Contingency, Sources Say EnergyNow
 
 **The Diesel Crunch Will Persist Well into 2027**
 `16 Oct 04:00 PKT` · pehli baar dekhi `16 Oct 04:56` · oilprice
@@ -1765,6 +1940,11 @@ A scammer reportedly lost $4.8M of stolen money after storing the funds on tampe
 
 ### RATES
 
+**Nasdaq 100 Speculative Long Positions Ease as Net Bets Slip to 48.5K**
+`17 Oct 01:33 PKT` · instaforex
+
+Speculative positioning in the Nasdaq 100 futures market cooled in the latest reporting period, with net long positions falling to 48.5K from a previous 58.1K, according to CFTC data updated on 16 October 2026. The data point to a moderation in bullish sentiment toward the U.S. tech-heavy index. While traders remain net long overall, the reduction in speculative exposure suggests some investors may be locking in gains or hedging against potential volatility after an extended run in U.S.
+
 **Simmons First Q3 2026 slides: margin hits 3.92% amid strategic deleveraging**
 `16 Oct 18:37 PKT` · pehli baar dekhi `16 Oct 18:55` · investing_news
 
@@ -1774,6 +1954,41 @@ A scammer reportedly lost $4.8M of stolen money after storing the funds on tampe
 The results (released Thursday afternoon, Taiwan time) reinforce the AI investment theme for Asian chip and hardware stocks, with TSMC's view that demand is outrunning capacity supportive for suppliers across the semiconductor supply chain. The share reaction shows how high expectations are, though: a beat alone is no longer enough, and investors are now trading margins and cash flow.
 
 ### RISK
+
+**US Stocks Fall as Chip Selloff Deepens**
+`17 Oct 01:33 PKT` · instaforex
+
+US stock indices finished lower on Friday as the selloff in chipmakers stretched into an eighth straight session, the sector's longest losing streak since the 2008 financial crisis. The S&P 500 declined 1.1%, the Dow Jones Industrial Average fell 175 points, and the Nasdaq Composite dropped 2.5%. CoreWeave sank 11.9%, deepening its weekly loss to 23.7% and underscoring renewed credit concerns surrounding AI infrastructure companies.
+
+**Opinion | Trump's Pressure on Ukraine Could Boost China**
+`17 Oct 00:51 PKT` · pehli baar dekhi `17 Oct 01:33` · wsj_world
+
+Without help from the West, Kyiv may turn increasingly to the East, at a cost to U.S. national security.
+
+**Ukraine Hurries to Build Defenses Against Russia's Jet-Powered Drones**
+`17 Oct 00:30 PKT` · pehli baar dekhi `17 Oct 01:33` · wsj_world
+
+Kyiv lacks an answer, for now, to Moscow's mass-produced new weapons.
+
+**US-Israel-Iran War Latest Live News: Tanker Carrying 15 Indian Seafarers Hit in Strait of Hormuz, Trump Signals Possible Iran Nuclear Site Strike - The Sunday Guardian**
+`17 Oct 00:03 PKT` · pehli baar dekhi `17 Oct 01:33` · gnews_geopolitics
+
+US-Israel-Iran War Latest Live News: Tanker Carrying 15 Indian Seafarers Hit in Strait of Hormuz, Trump Signals Possible Iran Nuclear Site Strike The Sunday Guardian
+
+**How Iran messaging highlights cost of war ahead of US midterm elections**
+`16 Oct 23:21 PKT` · pehli baar dekhi `17 Oct 01:33` · aljazeera
+
+Through statements in English, Iranian officials are emphasising gas prices and issues with the US economy.
+
+**Ukraine president targets Trump, Putin at EU summit**
+`16 Oct 22:59 PKT` · pehli baar dekhi `17 Oct 01:33` · aljazeera
+
+President Zelenskyy warned Russia's ambitions extend beyond eastern Ukraine, saying its drone attack threaten NATO.
+
+**AI names fall as the Nasdaq comes under fresh pressure**
+`16 Oct 22:31 PKT` · pehli baar dekhi `17 Oct 01:33` · investinglive
+
+The pressure is back on tech stocks today, led by CoreWeave once again. The market continues to smell a rat in the neocloud space and it's being joined by some of the cybersecurity names and other AI winners. CoreWeave is at the center of the selloff, with its unsecured bonds yielding about 15%. Late yesterday, sentiment soured again after Bloomberg highlighted that the founders have sold $3.3B of stock since last year's IPO, including $2.4 billion this year.
 
 **Trump says neither he nor Musk responsible for Ukraine Starlink access**
 `16 Oct 22:30 PKT` · pehli baar dekhi `16 Oct 22:53` · investing_commodities
@@ -1787,6 +2002,11 @@ Ukraine's &#039;Operation Vivaldi&#039; reclaimed more occupied territory in Don
 `16 Oct 22:17 PKT` · pehli baar dekhi `16 Oct 22:53` · wsj_markets
 
 Yaoyao Liu was widely followed in the oil trading world, but made a rare misstep at the start of the Iran war.
+
+**Market Analysts React to US-Israel Strikes on Iran - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com**
+`16 Oct 22:12 PKT` · pehli baar dekhi `17 Oct 01:33` · gnews_geopolitics
+
+Market Analysts React to US-Israel Strikes on Iran - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com
 
 **Iran's president condemns environmental impact of war in Middle East**
 `16 Oct 21:45 PKT` · pehli baar dekhi `16 Oct 22:53` · aljazeera
@@ -1992,10 +2212,41 @@ Iran War Raises Demand for US Fuel, Boosting Gulf Coast Refining Margins EnergyN
 
 Here's a List of Gulf Energy Infrastructure Damaged in Iran War EnergyNow.com
 
-### BINA TAG (208)
+### BINA TAG (244)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `17 Oct 01:33` **instaforex** — U.S. TIC Long-Term Flows Swing Sharply Back to Surplus in August
+- `17 Oct 01:33` **instaforex** — Speculators Trim Bullish Bets on Brazilian Real as Net Positions Ease to 46.7K
+- `17 Oct 01:33` **instaforex** — Speculators Boost Bullish Bets on Mexican Peso as CFTC Net Longs Jump to 15.2K
+- `17 Oct 01:33` **instaforex** — Speculators Deepen Bearish Bets on U.S. Wheat as Net Shorts Widen
+- `17 Oct 01:33` **instaforex** — Speculative Bets on U.S. Soybeans Edge Lower as Net Positions Dip to 271.1K
+- `17 Oct 01:33` **instaforex** — Speculators Trim Bearish Bets on S&P 500 Futures as Net Shorts Narrow
+- `17 Oct 01:33` **instaforex** — Speculators Trim Bearish Bets in U.S. Natural Gas as CFTC Net Shorts Narrow
+- `17 Oct 01:33` **instaforex** — Speculators Cut Corn Bets as Net Long Positions Drop Sharply in Latest CFTC Data
+- `17 Oct 01:33` **instaforex** — Copper Bulls Trim Positions as CFTC Net Longs Edge Lower to 68.5K
+- `17 Oct 01:33` **instaforex** — Speculators Deepen Bearish Bets on Aluminium as CFTC Net Shorts Grow in Mid-October
+- `17 Oct 01:26` **wsj_markets** — U.S. Stocks Fall as Credit Fears Haunt Tech Sector
+- `17 Oct 01:20` **investing_news** — Laser Photonics appoints founder as executive chairman
+- `17 Oct 01:20` **investing_news** — Fort Technology receives Nasdaq non-compliance notice on bid price
+- `17 Oct 01:20` **investing_news** — NXG Cushing fund to rebrand as energy infrastructure fund
+- `17 Oct 01:17` **investing_news** — Nasdaq notches worst week since late June with a 4.5% slide as AI trade suffers
+- `17 Oct 01:12` **investing_news** — Nanox reports preliminary Q3 revenue up to $4.4 million
+- `17 Oct 01:12` **investing_news** — Viatris receives FDA approval for presbyopia treatment
+- `17 Oct 01:12` **investing_news** — SoftBank weighs $18 billion acquisition of Allied Universal, Bloomberg News reports
+- `17 Oct 01:11` **investing_news** — Moody's upgrades CVR Energy to B1 on improved balance sheet and liquidity
+- `17 Oct 01:08` **investing_news** — Robo.ai announces 1-for-25 reverse stock split
+- `17 Oct 01:05` **mw_topstories** — EchoStar's stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says
+- `17 Oct 00:41` **aljazeera** — Trump told new press secretary to 'reconsider' role
+- `17 Oct 00:35` **mw_topstories** — Microsoft wants to make AI cheaper. Will investors actually see the savings?
+- `17 Oct 00:29` **kitco_general** — Iron ore price rebounds from two-year low on dip buying, improving steel margins - Kitco
+- `17 Oct 00:18` **aljazeera** — Can diplomacy resolve longstanding Ethiopia-Eritrea differences?
+- `17 Oct 00:00` **wsj_world** — Opinion | Donald Trump and the Nuclear Taboo
+- `16 Oct 23:58` **aljazeera** — White House press secretary Katie Zacharia fired after five days on the job
+- `16 Oct 23:57` **aljazeera** — Kenya records third Ebola case, linked to first patient who died
+- `16 Oct 23:52` **mw_topstories** — AI investors have woken up to the bond market's warning signs
+- `16 Oct 23:37` **mw_topstories** — Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.
+- `16 Oct 23:18` **wsj_markets** — From Verizon to UnitedHealth, Corporate America Is Balking at 'Tokenized' Stocks
 - `16 Oct 22:53` **instaforex** — Argentina's Budget Surplus Narrows to 1,427M in September 2026
 - `16 Oct 22:53` **instaforex** — FTSE Closes Week Higher
 - `16 Oct 22:53` **instaforex** — Colombia Industrial Output Falls More Than Expected in August
@@ -2013,15 +2264,18 @@ Here's a List of Gulf Energy Infrastructure Damaged in Iran War EnergyNow.com
 - `16 Oct 22:27` **investing_news** — Punjab National Bank Q2 FY'27 slides: profit jumps 13%, NIM tops guidance
 - `16 Oct 22:04` **gnews_geopolitics** — Opinion: You decide — what did we learn from gas rationing i... - The Wilson Times
 - `16 Oct 22:03` **aljazeera** — Pope Leo to make public appearance Sunday, first since cancer surgery
+- `16 Oct 22:03` **gnews_geopolitics** — Opinion: You decide — what did we learn from gas rationing i... - www.springhopeenterprise.com
 - `16 Oct 21:54` **aljazeera** — Sally Rooney can't sell her books in UK over support for Palestine Action
 - `16 Oct 21:39` **mw_topstories** — Elon Musk may have just taken a major step toward consolidating his empire
 - `16 Oct 21:34` **aljazeera** — Latest poll shows Bolsonaro maintaining edge over Lula in Brazil run-off
+- `16 Oct 21:31` **kitco_general** — Videos - Kitco
 - `16 Oct 21:23` **aljazeera** — The artisanal miners behind Nigeria's lithium boom
 - `16 Oct 21:16` **aljazeera** — Indian protest leaders detained ahead of flag march in New Delhi
 - `16 Oct 21:09` **aljazeera** — Division in Lebanon over Hezbollah's confiscated explosives
 - `16 Oct 21:09` **mw_topstories** — Many of 2026's hottest stocks have seen dramatic comedowns this week
 - `16 Oct 21:05` **marketpulse** — CoreWeave under pressure from mounting debt as rising borrowing costs worry investors
 - `16 Oct 21:05` **wsj_world** — Brazen Russian Attacks Are Testing NATO
+- `16 Oct 20:56` **kitco_general** — Videos - Kitco
 - `16 Oct 20:54` **kitco_general** — S&P 500 subdued as gains in banks offset AI jitters; Dow at one-month high - Kitco
 - `16 Oct 20:52` **aljazeera** — Manchester Utd have 'moved on' from Martinez outburst, says Carrick
 - `16 Oct 20:41` **kitco_general** — TAG: Atlas Mining Research - Kitco
@@ -2032,6 +2286,7 @@ Here's a List of Gulf Energy Infrastructure Damaged in Iran War EnergyNow.com
 - `16 Oct 20:06` **mining_com** — Exiro-led group takes control of Vale's Manitoba nickel complex
 - `16 Oct 20:04` **gnews_fed** — Traders maintain expectations that the Federal Reserve will hold rates steady in October; U.S. stocks show divergent performance, with the Nasdaq 100 poised to fall more than 3.5% this week. - Moomoo
 - `16 Oct 20:00` **mw_topstories** — Retiring abroad? Don't cut these financial ties to the U.S.
+- `16 Oct 19:32` **kitco_general** — World Bank's Banga sets goal of quintupling critical minerals financing in five years - Kitco
 - `16 Oct 19:30` **investing_commodities** — Supertanker rates fall from record highs
 - `16 Oct 19:28` **mw_topstories** — The stock market has already crashed: Why a Wall Street veteran says Nike is the ultimate turnaround trade.
 - `16 Oct 19:22` **kitco_general** — Aluminum heads for surplus in 2027 as supply shock fades - Kitco
@@ -2075,6 +2330,7 @@ Here's a List of Gulf Energy Infrastructure Damaged in Iran War EnergyNow.com
 - `16 Oct 18:04` **aljazeera** — Israeli settlers continue pogrom amid olive harvest in occupied West Bank
 - `16 Oct 18:01` **gnews_geopolitics** — You Decide: What Did We Learn From Gas Rationing in the 1970s? - NC State University
 - `16 Oct 18:00` **wsj_markets** — Your 'Cheap' ETF Costs More Than You Think
+- `16 Oct 18:00` **kitco_general** — Videos - Kitco
 - `16 Oct 17:57` **aljazeera** — How UN chief Antonio Guterres tests the limits of quiet diplomacy
 - `16 Oct 17:55` **aljazeera** — India police detain 'Cockroach' party founder ahead of protest
 - `16 Oct 17:49` **kitco_general** — Videos - Kitco
@@ -2207,11 +2463,11 @@ Here's a List of Gulf Energy Infrastructure Damaged in Iran War EnergyNow.com
 
 ---
 
-## Shor — 9 khabrein hatai gayin
+## Shor — 10 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (9)
+investing_news (10)
 
 ---
 
@@ -2221,45 +2477,45 @@ investing_news (9)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 7 | 18 | 0 | 0.1 |
+| investinglive | OK | 25 | 25 | 3 | 22 | 0 | 0.1 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 3 | 17 | 0 | 0.1 |
-| marketpulse | OK | 4 | 3 | 2 | 1 | 1 | 0.1 |
-| instaforex | OK | 25 | 25 | 17 | 8 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 10 | 1 | 9 | 26 | 0.2 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 36.0 |
-| kitco_general | OK | 26 | 19 | 9 | 10 | 7 | 0.0 |
-| gnews_fed | OK | 100 | 93 | 35 | 58 | 7 | 0.0 |
-| gnews_geopolitics | OK | 59 | 52 | 13 | 39 | 7 | 0.0 |
-| gnews_centralbanks | OK | 31 | 26 | 7 | 19 | 5 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.0 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.7 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.3 |
-| boj_whatsnew | OK | 52 | 1 | 0 | 1 | 51 | 0.4 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.6 |
-| mining_com | OK | 36 | 4 | 2 | 2 | 32 | 0.1 |
-| oilprice | OK | 15 | 15 | 7 | 8 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 2 | 8 | 0 | 0.2 |
-| bbc_business | OK | 49 | 7 | 0 | 7 | 42 | 0.2 |
-| aljazeera | OK | 25 | 25 | 20 | 5 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.3 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 36.3 |
-| eia_energy | OK | 17 | 1 | 0 | 1 | 16 | 0.2 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 10.2 |
-| wsj_world | OK | 74 | 14 | 3 | 11 | 60 | 0.1 |
-| wsj_markets | OK | 61 | 20 | 2 | 18 | 41 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.2 |
+| marketpulse | OK | 4 | 3 | 0 | 3 | 1 | 0.2 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 10 | 0 | 10 | 26 | 0.3 |
+| cme_metals_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
+| cme_daily_commentary | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 36.1 |
+| kitco_general | OK | 30 | 28 | 9 | 19 | 2 | 0.0 |
+| gnews_fed | OK | 100 | 99 | 3 | 96 | 1 | 0.0 |
+| gnews_geopolitics | OK | 59 | 57 | 10 | 47 | 2 | 0.0 |
+| gnews_centralbanks | OK | 28 | 27 | 0 | 27 | 1 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.1 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.9 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.4 |
+| boj_whatsnew | OK | 52 | 1 | 0 | 1 | 51 | 0.5 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.7 |
+| mining_com | OK | 36 | 5 | 1 | 4 | 31 | 0.1 |
+| oilprice | OK | 15 | 15 | 3 | 12 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
+| bbc_business | OK | 49 | 7 | 0 | 7 | 42 | 0.3 |
+| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.4 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 36.4 |
+| eia_energy | OK | 17 | 1 | 0 | 1 | 16 | 0.3 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 10.3 |
+| wsj_world | OK | 73 | 18 | 4 | 14 | 55 | 0.0 |
+| wsj_markets | OK | 61 | 21 | 2 | 19 | 40 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 18 | 6 | 12 | 12 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 18 | 0 | 18 | 12 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
