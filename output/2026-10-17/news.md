@@ -1,8 +1,8 @@
 # News Pack — Trading Day 17 Oct 2026
 
 - Trading day: **17 Oct 03:00 -> 18 Oct 02:59 PKT**
-- Aakhri update: **17 Oct 03:59 PKT**
-- Kul khabrein: **17**
+- Aakhri update: **17 Oct 06:15 PKT**
+- Kul khabrein: **39**
 - Feeds: 35/39 OK
 
 ---
@@ -30,10 +30,20 @@ A stock rout swept up companies from CoreWeave to Alphabet while Treasury yields
 
 ### OIL
 
+**Oil prices rise as Iran, proxies lash out - Oil & Gas Journal**
+`17 Oct 04:09 PKT` · pehli baar dekhi `17 Oct 06:15` · gnews_geopolitics
+
+Oil prices rise as Iran, proxies lash out Oil & Gas Journal
+
 **Greenland to introduce ban on seabed mining**
 `17 Oct 03:19 PKT` · pehli baar dekhi `17 Oct 03:59` · mining_com
 
 The news comes a day after US President Donald Trump announced "massive oil, gas and mineral exploration" was set to begin on the Danish Arctic island.
+
+**Iranian Oil Exports Fall to Lowest Level in Six Years, Data Shows - EnergyNow.com**
+`17 Oct 03:15 PKT` · pehli baar dekhi `17 Oct 06:15` · gnews_geopolitics
+
+Iranian Oil Exports Fall to Lowest Level in Six Years, Data Shows EnergyNow.com
 
 **Global Energy Import Dependence Set to Peak by 2034, Rystad Says**
 `17 Oct 03:00 PKT` · pehli baar dekhi `17 Oct 03:59` · oilprice
@@ -42,16 +52,37 @@ Rystad Energy's fifth edition of its flagship annual report, Global Energy Scena
 
 ### RISK
 
+**Iran war live: Trump claims US Navy blockade stops Iranian ships in Hormuz**
+`17 Oct 05:00 PKT` · pehli baar dekhi `17 Oct 06:15` · aljazeera
+
+Trump says the US Navy blockade has stopped all Iranian ships from crossing the Strait of Hormuz.
+
+**Oil on the Boil: Iran, Houthis and Ukraine Intensify Global Energy Threat - Times Now**
+`17 Oct 04:32 PKT` · pehli baar dekhi `17 Oct 06:15` · gnews_geopolitics
+
+Oil on the Boil: Iran, Houthis and Ukraine Intensify Global Energy Threat Times Now
+
 **Ibovespa Advances on IBC-Br Rebound**
 `17 Oct 03:59 PKT` · instaforex
 
 The Ibovespa advanced 0.5% on Friday, closing at 205,430, supported by fresh economic activity data and a pause in the recent oil rally. The Central Bank of Brazil's Economic Activity Index (IBC-Br) rose 0.3% month-over-month in August, matching market expectations and reversing a 0.2% contraction in July.
 
-### BINA TAG (5)
+### BINA TAG (16)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `17 Oct 06:00` **wsj_markets** — Who Gets the Bulk of Grandma's Estate? Here's How to Solve the 'Cousin Problem'
+- `17 Oct 05:39` **investing_news** — Will Starlink Mobile matter for Apple?
+- `17 Oct 05:25` **aljazeera** — Oregon school shooter was former special needs student, police say
+- `17 Oct 05:15` **investing_news** — Cathie Wood's ARK sells Personalised stock, buys Freenome shares
+- `17 Oct 05:00` **actionforex** — Summary 10/19 – 10/23
+- `17 Oct 05:00` **wsj_markets** — Blue Owl Founders Promised a Comeback. The Company's Share Price Hasn't Budged.
+- `17 Oct 04:55` **aljazeera** — Trump mocks Middle Eastern names with 'Mohammed' joke
+- `17 Oct 04:27` **aljazeera** — Albanian PM blames 'foreign hands' for unrest as student protests intensify
 - `17 Oct 03:59` **instaforex** — US Budget Swings to Deficit in September
+- `17 Oct 03:53` **aljazeera** — Leeds vs Manchester United: Premier League – teams, prediction, lineups
+- `17 Oct 03:48` **aljazeera** — Italy probes Israel's Katz over abuse, sexual assault of flotilla activists
+- `17 Oct 03:48` **mining_com** — Buffalo clears potash permit hurdle in Saskatchewan
 - `17 Oct 03:42` **investing_news** — Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports
 - `17 Oct 03:40` **investing_news** — LQR House names Leo Chen CEO as Dollinger steps down
 - `17 Oct 03:38` **aljazeera** — Families demand justice after Pakistan school collapse
@@ -59,11 +90,11 @@ The Ibovespa advanced 0.5% on Friday, closing at 205,430, supported by fresh eco
 
 ---
 
-## Shor — 6 khabrein hatai gayin
+## Shor — 13 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (6)
+investing_news (13)
 
 ---
 
@@ -73,44 +104,44 @@ investing_news (6)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.1 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | OK | 4 | 3 | 0 | 3 | 1 | 0.3 |
-| instaforex | OK | 25 | 25 | 4 | 21 | 0 | -0.1 |
-| wsj_economy | OK | 36 | 10 | 0 | 10 | 26 | 0.4 |
-| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 36.2 |
-| kitco_general | OK | 32 | 32 | 3 | 29 | 0 | 0.1 |
-| gnews_fed | OK | 100 | 100 | 12 | 88 | 0 | 0.0 |
-| gnews_geopolitics | OK | 56 | 56 | 12 | 44 | 0 | 0.1 |
-| gnews_centralbanks | OK | 28 | 28 | 2 | 26 | 0 | 0.2 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.8 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.0 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.5 |
-| boj_whatsnew | OK | 52 | 1 | 0 | 1 | 51 | 0.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.8 |
-| mining_com | OK | 36 | 6 | 1 | 5 | 30 | 0.0 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 6 | 4 | 0 | 0.1 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
-| bbc_business | OK | 49 | 7 | 0 | 7 | 42 | 0.4 |
-| aljazeera | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.5 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 36.5 |
-| eia_energy | OK | 17 | 1 | 0 | 1 | 16 | 0.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 10.4 |
-| wsj_world | OK | 73 | 19 | 1 | 18 | 54 | 0.1 |
-| wsj_markets | OK | 61 | 24 | 4 | 20 | 37 | 0.0 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.1 |
+| marketpulse | OK | 4 | 3 | 0 | 3 | 1 | 0.4 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.0 |
+| wsj_economy | OK | 36 | 10 | 0 | 10 | 26 | 0.5 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 36.3 |
+| kitco_general | OK | 32 | 30 | 0 | 30 | 2 | 0.2 |
+| gnews_fed | OK | 100 | 100 | 1 | 99 | 0 | 0.1 |
+| gnews_geopolitics | OK | 51 | 51 | 13 | 38 | 0 | 0.1 |
+| gnews_centralbanks | OK | 28 | 28 | 0 | 28 | 0 | 0.3 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.1 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.6 |
+| boj_whatsnew | OK | 52 | 1 | 0 | 1 | 51 | 0.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.9 |
+| mining_com | OK | 36 | 7 | 1 | 6 | 29 | 0.1 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
+| bbc_business | OK | 49 | 7 | 0 | 7 | 42 | 0.5 |
+| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.6 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 36.6 |
+| eia_energy | OK | 17 | 1 | 0 | 1 | 16 | 0.5 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 10.5 |
+| wsj_world | OK | 73 | 19 | 0 | 19 | 54 | 0.1 |
+| wsj_markets | OK | 60 | 25 | 2 | 23 | 35 | 0.0 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
 | cointelegraph | OK | 30 | 18 | 0 | 18 | 12 | 0.2 |
 
 **Jo feeds nahi aaye:**

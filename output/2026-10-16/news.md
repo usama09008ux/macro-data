@@ -1,8 +1,8 @@
 # News Pack — Trading Day 16 Oct 2026
 
 - Trading day: **16 Oct 03:00 -> 17 Oct 02:59 PKT**
-- Aakhri update: **17 Oct 03:59 PKT**
-- Kul khabrein: **788**
+- Aakhri update: **17 Oct 06:15 PKT**
+- Kul khabrein: **799**
 - Feeds: 35/39 OK
 
 ---
@@ -1576,6 +1576,11 @@ Wall Street tumbles as worries about AI trade and high oil prices weigh Kitco
 **Ukraine's Zelenskiy blasts US-Russian diesel deal, welcomes bigger European role in peace process**
 `17 Oct 01:00 PKT` · pehli baar dekhi `17 Oct 01:33` · investing_commodities
 
+**Oil price spike puts more pressure on local fuel prices - SABC News**
+`17 Oct 00:30 PKT` · pehli baar dekhi `17 Oct 06:15` · gnews_geopolitics
+
+Oil price spike puts more pressure on local fuel prices SABC News
+
 **Global fuel crunch deepens as oil supplies collapse - Malawi24**
 `17 Oct 00:27 PKT` · pehli baar dekhi `17 Oct 01:33` · gnews_geopolitics
 
@@ -1589,6 +1594,11 @@ Global fuel crunch deepens as oil supplies collapse Malawi24
 
 **Brent Oil tests $110.00 resistance with RSI near overbought: Live**
 `17 Oct 00:18 PKT` · pehli baar dekhi `17 Oct 03:59` · investing_commodities
+
+**Fed's Job to Get Tougher as Oil Shock Filters Through Economy - Hart Energy**
+`17 Oct 00:03 PKT` · pehli baar dekhi `17 Oct 06:15` · gnews_fed
+
+Fed's Job to Get Tougher as Oil Shock Filters Through Economy Hart Energy
 
 **Will Oil Prices Decline as Middle East Supply Recovers? - Goldman Sachs**
 `17 Oct 00:01 PKT` · pehli baar dekhi `17 Oct 03:59` · gnews_geopolitics
@@ -1735,11 +1745,21 @@ OPEC-related crude oil production volumes from Congo destined for the United Sta
 
 OPEC crude oil inflows from Algeria to the United States inched higher in the latest reading, with the indicator rising from 1.00 million barrels to 1.01 million barrels. The updated figure, reflecting Algeria's crude volumes associated with OPEC supply to the U.S. market, was reported on 16 October 2026. While the change is marginal in absolute terms, the move signals a slight uptick in U.S.-linked demand or allocation for Algerian crude within the broader OPEC framework.
 
+**World Faces Largest-Ever Oil Supply Disruption on Middle East War, IEA Says - EnergyNow**
+`16 Oct 18:46 PKT` · pehli baar dekhi `17 Oct 06:15` · gnews_geopolitics
+
+World Faces Largest-Ever Oil Supply Disruption on Middle East War, IEA Says EnergyNow
+
 **The return of Middle East oil: Has Iran lost control of Strait of Hormuz & why are crude prices still up? - The Times of India**
 `16 Oct 18:34 PKT` · pehli baar dekhi `16 Oct 18:55` · gnews_geopolitics · **2 feeds mein**
 
 The return of Middle East oil: Has Iran lost control of Strait of Hormuz & why are crude prices still up? The Times of India
   - `16 Oct 18:34` *gnews_geopolitics* — The return of Middle East oil: Has Iran lost control of Strait of Hormuz & why are crude prices still up? - The Times of India
+
+**Oil set for weekly gain as supply constraints keep prices elevated - TradingView**
+`16 Oct 18:31 PKT` · pehli baar dekhi `17 Oct 06:15` · gnews_geopolitics
+
+Oil set for weekly gain as supply constraints keep prices elevated TradingView
 
 **Iran War Set To Push PetroChina's Trading Profit to Record $3 Billion**
 `16 Oct 18:30 PKT` · pehli baar dekhi `16 Oct 18:55` · oilprice
@@ -1766,6 +1786,11 @@ Two Trump decisions will set this weekend's energy risk, and in both he is givin
 
 Plans for huge data center buildouts in India are set to hike clean energy demand in the country, and local renewable energy providers expect demand to outstrip supply. "Even if just five gigawatts of data center capacity comes to India, which is a conservative estimate, you will need about 30-40 gigawatts of renewable power," Kuldeep Jain, managing director and founder of CleanMax Enviro Energy Solutions Ltd., a major Indian renewables provider, told Bloomberg in an interview published on ...
 
+**Iraq says lost $60b as Mideast war hits oil exports - www.daily-sun.com**
+`16 Oct 17:28 PKT` · pehli baar dekhi `17 Oct 06:15` · gnews_geopolitics
+
+Iraq says lost $60b as Mideast war hits oil exports www.daily-sun.com
+
 **TSX futures edge higher as gains in metals offset oil weakness - Kitco**
 `16 Oct 17:24 PKT` · pehli baar dekhi `16 Oct 18:55` · kitco_general
 
@@ -1790,6 +1815,11 @@ Chinese LNG buyers acted early to build gas stockpiles amid the Iran war, helpin
 `16 Oct 15:20 PKT` · pehli baar dekhi `16 Oct 18:55` · investinglive
 
 Crude oil extended the gains yesterday into new highs as the lack of positive developments in the Middle East continues to support oil prices. The US-Iran negotiations have stalled over the conditions for reopening the Strait of Hormuz. The US insists that Iran needs to address the nuclear programme first, while Tehran continues to prioritise its conditions, which include the lifting of the US blockade.
+
+**U.S crude oil tops $99 as market monitors Middle East supply risks - CNBC**
+`16 Oct 15:07 PKT` · pehli baar dekhi `17 Oct 06:15` · gnews_geopolitics
+
+U.S crude oil tops $99 as market monitors Middle East supply risks CNBC
 
 **Oil heads for weekly gain with focus on Middle East supply - Kitco**
 `16 Oct 14:30 PKT` · pehli baar dekhi `16 Oct 18:55` · kitco_general
@@ -1826,6 +1856,11 @@ Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Repo
 
 US Seeks International Help to Reopen Strait of Hormuz as Crude Prices Surge EnergyNow.com
 
+**Cutting Off Red Sea Oil Route May Be One Crisis Too Many: Bousso - EnergyNow.com**
+`16 Oct 12:43 PKT` · pehli baar dekhi `17 Oct 06:15` · gnews_geopolitics
+
+Cutting Off Red Sea Oil Route May Be One Crisis Too Many: Bousso EnergyNow.com
+
 **Iranian Oil Offers to Chinese Buyers Fall as US Blockade Bites, Sources Say - EnergyNow.com**
 `16 Oct 12:37 PKT` · pehli baar dekhi `16 Oct 22:53` · gnews_geopolitics
 
@@ -1840,6 +1875,11 @@ CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist
 `16 Oct 12:33 PKT` · pehli baar dekhi `16 Oct 14:04` · gnews_geopolitics
 
 Ship-Fuel Squeeze Persists Despite More Hormuz Crude, Vitol Says Bloomberg
+
+**Oil heads for weekly gain with focus on MidEast supplies - RTE.ie**
+`16 Oct 12:14 PKT` · pehli baar dekhi `17 Oct 06:15` · gnews_geopolitics
+
+Oil heads for weekly gain with focus on MidEast supplies RTE.ie
 
 **Global Fuel Oil Shortage Deepens as Middle East and Russia Supplies Collapse**
 `16 Oct 12:00 PKT` · pehli baar dekhi `16 Oct 14:04` · oilprice
@@ -2181,6 +2221,11 @@ Iranian President Masoud Pezeshkian has decried the ecological damage caused by 
 
 Spain appeals to Court of Arbitration for Sport following FIFA sanctions for fans&#039; behaviour during Egypt friendly.
 
+**US weighs lifting sanctions on Iran's 'shadow fleet' to address surging costs - Middle East Eye**
+`16 Oct 21:23 PKT` · pehli baar dekhi `17 Oct 06:15` · gnews_geopolitics
+
+US weighs lifting sanctions on Iran's 'shadow fleet' to address surging costs Middle East Eye
+
 **EU rallies in support of Ukraine amid Trump standoff**
 `16 Oct 21:02 PKT` · pehli baar dekhi `16 Oct 22:53` · aljazeera
 
@@ -2254,10 +2299,20 @@ US-Iran war keeps oil above Sh13,658 despite emergency reserve release The Eastl
 
 It is the first time the president has addressed nuclear weapons, but he didn&#039;t deny US could use &#039;mother of all bombs&#039;.
 
+**US claims new blow against Iran's shadow fleet with 17-vessel sanctions - The Arab Weekly**
+`16 Oct 15:07 PKT` · pehli baar dekhi `17 Oct 06:15` · gnews_geopolitics
+
+US claims new blow against Iran's shadow fleet with 17-vessel sanctions The Arab Weekly
+
 **China-North Korea border bridge may do little to spur trade, experts say**
 `16 Oct 14:21 PKT` · pehli baar dekhi `16 Oct 18:55` · aljazeera
 
 Sanctions and a North Korean leadership that prioritises security dim prospects for trade, analysts say.
+
+**NOT OUT OF THE WOODS YET: Iran Ceasefire Provides Hope, But Physical Oil Markets to Remain Stressed: Russell - EnergyNow**
+`16 Oct 13:48 PKT` · pehli baar dekhi `17 Oct 06:15` · gnews_geopolitics
+
+NOT OUT OF THE WOODS YET: Iran Ceasefire Provides Hope, But Physical Oil Markets to Remain Stressed: Russell EnergyNow
 
 **European satellite stocks extend rally as Ukraine flags Starlink curbs**
 `16 Oct 13:33 PKT` · pehli baar dekhi `16 Oct 14:04` · investing_news
@@ -2672,44 +2727,44 @@ investing_news (10)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.1 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | OK | 4 | 3 | 0 | 3 | 1 | 0.3 |
-| instaforex | OK | 25 | 25 | 4 | 21 | 0 | -0.1 |
-| wsj_economy | OK | 36 | 10 | 0 | 10 | 26 | 0.4 |
-| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 36.2 |
-| kitco_general | OK | 32 | 32 | 3 | 29 | 0 | 0.1 |
-| gnews_fed | OK | 100 | 100 | 12 | 88 | 0 | 0.0 |
-| gnews_geopolitics | OK | 56 | 56 | 12 | 44 | 0 | 0.1 |
-| gnews_centralbanks | OK | 28 | 28 | 2 | 26 | 0 | 0.2 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.8 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.0 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.5 |
-| boj_whatsnew | OK | 52 | 1 | 0 | 1 | 51 | 0.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.8 |
-| mining_com | OK | 36 | 6 | 1 | 5 | 30 | 0.0 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 6 | 4 | 0 | 0.1 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
-| bbc_business | OK | 49 | 7 | 0 | 7 | 42 | 0.4 |
-| aljazeera | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.5 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 36.5 |
-| eia_energy | OK | 17 | 1 | 0 | 1 | 16 | 0.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 10.4 |
-| wsj_world | OK | 73 | 19 | 1 | 18 | 54 | 0.1 |
-| wsj_markets | OK | 61 | 24 | 4 | 20 | 37 | 0.0 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.1 |
+| marketpulse | OK | 4 | 3 | 0 | 3 | 1 | 0.4 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.0 |
+| wsj_economy | OK | 36 | 10 | 0 | 10 | 26 | 0.5 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 36.3 |
+| kitco_general | OK | 32 | 30 | 0 | 30 | 2 | 0.2 |
+| gnews_fed | OK | 100 | 100 | 1 | 99 | 0 | 0.1 |
+| gnews_geopolitics | OK | 51 | 51 | 13 | 38 | 0 | 0.1 |
+| gnews_centralbanks | OK | 28 | 28 | 0 | 28 | 0 | 0.3 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.1 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.6 |
+| boj_whatsnew | OK | 52 | 1 | 0 | 1 | 51 | 0.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.9 |
+| mining_com | OK | 36 | 7 | 1 | 6 | 29 | 0.1 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
+| bbc_business | OK | 49 | 7 | 0 | 7 | 42 | 0.5 |
+| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.6 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 36.6 |
+| eia_energy | OK | 17 | 1 | 0 | 1 | 16 | 0.5 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 10.5 |
+| wsj_world | OK | 73 | 19 | 0 | 19 | 54 | 0.1 |
+| wsj_markets | OK | 60 | 25 | 2 | 23 | 35 | 0.0 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
 | cointelegraph | OK | 30 | 18 | 0 | 18 | 12 | 0.2 |
 
 **Jo feeds nahi aaye:**
