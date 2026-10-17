@@ -1,8 +1,8 @@
 # News Pack — Trading Day 16 Oct 2026
 
 - Trading day: **16 Oct 03:00 -> 17 Oct 02:59 PKT**
-- Aakhri update: **17 Oct 06:15 PKT**
-- Kul khabrein: **799**
+- Aakhri update: **17 Oct 10:41 PKT**
+- Kul khabrein: **817**
 - Feeds: 35/39 OK
 
 ---
@@ -296,6 +296,16 @@ News | Fed Chair Kevin Warsh warns of AI investment 'shock' CoStar
 
 The Fed - Government Bonds' Safe-Haven Property and Inflationary Pressures Federal Reserve (.gov)
 
+**Dollar Weakens on Reduced Fed Rate Hike Chances This Month - inkl**
+`17 Oct 00:34 PKT` · pehli baar dekhi `17 Oct 10:41` · gnews_centralbanks
+
+Dollar Weakens on Reduced Fed Rate Hike Chances This Month inkl
+
+**Dovish Federal Reserve comments coincide with US dollar to Mexican peso exchange rate consolidation - Traders Union**
+`16 Oct 23:53 PKT` · pehli baar dekhi `17 Oct 10:41` · gnews_fed
+
+Dovish Federal Reserve comments coincide with US dollar to Mexican peso exchange rate consolidation Traders Union
+
 **Peso touches new record low of 63.23:$1 on Fed rate hike bets - Inquirer.net**
 `16 Oct 23:30 PKT` · pehli baar dekhi `17 Oct 03:59` · gnews_fed
 
@@ -405,6 +415,11 @@ Dollar Pressured as Fed Chair Powell Refrains from Forward Guidance TradingView
 Warsh offers no fresh signals on interest rates The Hill
   - `16 Oct 19:31` *gnews_fed* — Warsh offers no fresh signals on interest rates - The Hill
 
+**Federal Reserve Chairman Kevin Warsh Signals Caution on Interest Rates Amid Inflation Fears - https://streamlinefeed.co.ke/**
+`16 Oct 19:31 PKT` · pehli baar dekhi `17 Oct 10:41` · gnews_fed
+
+Federal Reserve Chairman Kevin Warsh Signals Caution on Interest Rates Amid Inflation Fears https://streamlinefeed.co.ke/
+
 **Sunset Market Commentary**
 `16 Oct 19:20 PKT` · pehli baar dekhi `16 Oct 22:53` · actionforex · **2 feeds mein**
 
@@ -455,9 +470,10 @@ Dow opens 240 pts higher as AI stocks slide and inflation concerns weigh Trading
 Warsh Vows to Tame Inflation as A.I. Delivers 'Shock' to Economy The New York Times
 
 **Federal Reserve Chair Kevin Warsh Sees Stronger US Economy Ahead | Dawn News English - Dawn**
-`16 Oct 18:30 PKT` · pehli baar dekhi `16 Oct 22:53` · gnews_fed
+`16 Oct 18:30 PKT` · pehli baar dekhi `16 Oct 22:53` · gnews_fed · **2 feeds mein**
 
 Federal Reserve Chair Kevin Warsh Sees Stronger US Economy Ahead | Dawn News English Dawn
+  - `16 Oct 18:30` *gnews_fed* — Federal Reserve Chair Kevin Warsh Sees Stronger US Economy Ahead | Dawn News English - Dawn
 
 **The dollar is heading for its first weekly loss since a month with weak bets on interest rate hikes - المتداول العربي**
 `16 Oct 18:20 PKT` · pehli baar dekhi `16 Oct 22:53` · gnews_fed
@@ -470,9 +486,10 @@ The dollar is heading for its first weekly loss since a month with weak bets on 
 Prior was 0.0% (revised to +0.1%) Capacity utilization 76.9% vs 76.5% exp Manufacturing output +0.3% vs +0.3% exp Prior manufacturing output -0.3% (revised to -0.2%) Mining +0.2% Utilities +3.5% Machinery +1.4%, primary metals +1.6%, electrical equipment +1.3%, chemicals +1.0%. The headline is flattered by utilities. Electric utility output jumped 3.7% m/m and is up 9.6% y/y, and the utility operating rate rose 2.3 points to 73.8%.
 
 **Market Minute 10/16/26: Warsh Comments, AI Vol in Focus - www.moneyshow.com**
-`16 Oct 18:15 PKT` · pehli baar dekhi `16 Oct 22:53` · gnews_fed
+`16 Oct 18:15 PKT` · pehli baar dekhi `17 Oct 10:41` · gnews_fed · **2 feeds mein**
 
 Market Minute 10/16/26: Warsh Comments, AI Vol in Focus www.moneyshow.com
+  - `16 Oct 18:15` *gnews_fed* — Market Minute 10/16/26: Warsh Comments, AI Vol in Focus - www.moneyshow.com
 
 **USDCAD is lower on the day, but getting a modest lift after another higher inflation reading**
 `16 Oct 18:12 PKT` · pehli baar dekhi `16 Oct 22:53` · investinglive
@@ -480,7 +497,7 @@ Market Minute 10/16/26: Warsh Comments, AI Vol in Focus www.moneyshow.com
 The USDCAD has seen plenty of up-and-down price action this week, but one message has been consistent: buyers have struggled to sustain momentum near the highs for the year. The highs from October 5 and October 9 established a ceiling near 1.4292–1.4298. Monday's high fell short at 1.4286. On Wednesday, the stronger-than-expected CPI data gave buyers another opportunity to push higher, but the rally stalled at 1.4298.
 
 **Fed chair Warsh says price stability is key but shies away from signals about rates - AP News**
-`16 Oct 17:58 PKT` · pehli baar dekhi `16 Oct 22:53` · gnews_fed · **13 feeds mein**
+`16 Oct 17:58 PKT` · pehli baar dekhi `16 Oct 22:53` · gnews_fed · **14 feeds mein**
 
 Fed chair Warsh says price stability is key but shies away from signals about rates AP News
   - `16 Oct 17:24` *gnews_fed* — Fed chair Warsh says price stability is key but shies away from signals about rates - The Citizens' Voice
@@ -489,6 +506,7 @@ Fed chair Warsh says price stability is key but shies away from signals about ra
   - `16 Oct 17:20` *gnews_fed* — Fed chair Warsh says price stability is key but shies away from signals about rates - The Cumberland Times-News
   - `16 Oct 16:19` *gnews_fed* — Fed chair Warsh says price stability is key but shies away from signals about rates - myMotherLode.com
   - `16 Oct 12:02` *gnews_fed* — Fed chair Warsh says price stability is key but shies away from signals about rates - New Haven Register
+  - `16 Oct 11:55` *gnews_fed* — Fed chair Warsh says price stability is key but shies away from signals about rates - Toronto Star
   - `16 Oct 11:51` *gnews_fed* — Fed chair Warsh says price stability is key but shies away from signals about rates - Bozeman Daily Chronicle
   - `16 Oct 11:51` *gnews_fed* — Fed chair Warsh says price stability is key but shies away from signals about rates - morning-times.com
   - `16 Oct 11:51` *gnews_fed* — Fed chair Warsh says price stability is key but shies away from signals about rates - Goshen News
@@ -502,9 +520,10 @@ Fed chair Warsh says price stability is key but shies away from signals about ra
 Warsh's Missing Words Fuel Bets Fed Will Hold Rates Bloomberg.com
 
 **What's next for interest rates? Fed Chair Warsh wants price stability - azcentral.com and The Arizona Republic**
-`16 Oct 17:51 PKT` · pehli baar dekhi `16 Oct 22:53` · gnews_fed
+`16 Oct 17:51 PKT` · pehli baar dekhi `16 Oct 22:53` · gnews_fed · **2 feeds mein**
 
 What's next for interest rates? Fed Chair Warsh wants price stability azcentral.com and The Arizona Republic
+  - `16 Oct 17:51` *gnews_fed* — What's next for interest rates? Fed Chair Warsh wants price stability - azcentral.com and The Arizona Republic
 
 **US September import price index +1.1% vs +0.8% expected**
 `16 Oct 17:30 PKT` · pehli baar dekhi `16 Oct 18:55` · investinglive
@@ -550,6 +569,11 @@ Fed Chair Kevin Warsh Keeps October Rate Hike in Limbo, Warns AI Could Trigger a
 `16 Oct 15:45 PKT` · pehli baar dekhi `16 Oct 18:55` · ing_think
 
 CENTRAL AND EASTERN EUROPE: Hungary, Turkey and Kazakhstan will announce interest rate decisions next week, while Poland releases industrial output, labour market and retail sales data
+
+**Federal Reserve Chair Warsh Prioritises Price Stability, Withholds Rate Signals - https://streamlinefeed.co.ke/**
+`16 Oct 15:43 PKT` · pehli baar dekhi `17 Oct 10:41` · gnews_fed
+
+Federal Reserve Chair Warsh Prioritises Price Stability, Withholds Rate Signals https://streamlinefeed.co.ke/
 
 **Warsh signals steady Fed outlook despite inflation jump - Axios**
 `16 Oct 15:41 PKT` · pehli baar dekhi `16 Oct 18:55` · gnews_fed
@@ -664,9 +688,10 @@ There's a 35% Chance That the Fed Hikes Rates at Least 4 Times by September 2027
   - `16 Oct 13:23` *gnews_fed* — There's a 35% Chance That the Fed Hikes Rates at Least 4 Times by September 2027, Which Can Decimate the AI-Driven Bull Market - The Motley Fool
 
 **Fed's Warsh surprised by world economy's 'resilience' - AFP.com**
-`16 Oct 13:18 PKT` · pehli baar dekhi `16 Oct 18:55` · gnews_fed · **3 feeds mein**
+`16 Oct 13:18 PKT` · pehli baar dekhi `16 Oct 18:55` · gnews_fed · **4 feeds mein**
 
 Fed's Warsh surprised by world economy's 'resilience' AFP.com
+  - `16 Oct 11:02` *gnews_fed* — Fed's Warsh surprised by world economy's 'resilience' - Kuwait Times
   - `16 Oct 10:52` *gnews_fed* — Fed's Warsh surprised by world economy's 'resilience' - Kuwait Times
   - `16 Oct 10:45` *gnews_fed* — Fed's Warsh surprised by world economy's 'resilience' - Bangkok Post
 
@@ -731,6 +756,12 @@ Stocks, futures rise as Fed bets ease after Warsh: Markets wrap The Straits Time
 
 Fed chair Warsh says price stability is key but shies away f... seMissourian
 
+**AI 'most consequential change' to economy in my lifetime: Fed's Warsh - The Standard (HK)**
+`16 Oct 11:58 PKT` · pehli baar dekhi `17 Oct 10:41` · gnews_fed · **2 feeds mein**
+
+AI 'most consequential change' to economy in my lifetime: Fed's Warsh The Standard (HK)
+  - `16 Oct 10:23` *gnews_fed* — AI 'most consequential change' to economy in my lifetime: Fed's Kevin Warsh - The Straits Times
+
 **Fed Chief Warsh Takes Home Lessons of Unexpected Global Strength and Synchronised Rate Policy - Nation Thailand**
 `16 Oct 11:58 PKT` · pehli baar dekhi `16 Oct 14:04` · gnews_fed
 
@@ -769,9 +800,10 @@ Treasury yields stabilized in Asian trade as investors increasingly focused on t
 Exclusive Interview with Chicago Fed President Goolsbee: The Hard Data vs. Soft Sentiment Divide, the Consumption Disco… 深潮TechFlow
 
 **Fed's Warsh gives no hint on October policy decision - KLSE Screener**
-`16 Oct 11:11 PKT` · pehli baar dekhi `16 Oct 18:55` · gnews_fed · **3 feeds mein**
+`16 Oct 11:11 PKT` · pehli baar dekhi `16 Oct 18:55` · gnews_fed · **4 feeds mein**
 
 Fed's Warsh gives no hint on October policy decision KLSE Screener
+  - `16 Oct 11:11` *gnews_fed* — Fed's Warsh gives no hint on October policy decision - KLSE Screener
   - `16 Oct 09:09` *gnews_fed* — Fed's Warsh gives no hint on October policy decision - Fresno Bee
   - `16 Oct 09:09` *gnews_fed* — Fed's Warsh gives no hint on October policy decision - Idaho Statesman
 
@@ -794,11 +826,6 @@ Warsh says Fed must burnish its institutional credibility to get policy right Ba
 `16 Oct 10:25 PKT` · pehli baar dekhi `16 Oct 14:04` · gnews_fed
 
 Bets on Fed rate hold in October strengthen after Warsh comments Financial Times
-
-**AI 'most consequential change' to economy in my lifetime: Fed's Kevin Warsh - The Straits Times**
-`16 Oct 10:23 PKT` · pehli baar dekhi `16 Oct 14:04` · gnews_fed
-
-AI 'most consequential change' to economy in my lifetime: Fed's Kevin Warsh The Straits Times
 
 **US Fed's Kevin Warsh surprised by world economy's 'resilience' - The Straits Times**
 `16 Oct 10:23 PKT` · pehli baar dekhi `16 Oct 18:55` · gnews_fed
@@ -1595,6 +1622,11 @@ Global fuel crunch deepens as oil supplies collapse Malawi24
 **Brent Oil tests $110.00 resistance with RSI near overbought: Live**
 `17 Oct 00:18 PKT` · pehli baar dekhi `17 Oct 03:59` · investing_commodities
 
+**Crude Oil Prices Surge as Global Supply Risks Multiply - TradingView**
+`17 Oct 00:17 PKT` · pehli baar dekhi `17 Oct 10:41` · gnews_geopolitics
+
+Crude Oil Prices Surge as Global Supply Risks Multiply TradingView
+
 **Fed's Job to Get Tougher as Oil Shock Filters Through Economy - Hart Energy**
 `17 Oct 00:03 PKT` · pehli baar dekhi `17 Oct 06:15` · gnews_fed
 
@@ -2142,6 +2174,11 @@ A scammer reportedly lost $4.8M of stolen money after storing the funds on tampe
 
 Speculative positioning in the Nasdaq 100 futures market cooled in the latest reporting period, with net long positions falling to 48.5K from a previous 58.1K, according to CFTC data updated on 16 October 2026. The data point to a moderation in bullish sentiment toward the U.S. tech-heavy index. While traders remain net long overall, the reduction in speculative exposure suggests some investors may be locking in gains or hedging against potential volatility after an extended run in U.S.
 
+**Diane Swonk: Federal Reserve expected to skip October rate hike - Traders Union**
+`16 Oct 19:00 PKT` · pehli baar dekhi `17 Oct 10:41` · gnews_fed
+
+Diane Swonk: Federal Reserve expected to skip October rate hike Traders Union
+
 **Simmons First Q3 2026 slides: margin hits 3.92% amid strategic deleveraging**
 `16 Oct 18:37 PKT` · pehli baar dekhi `16 Oct 18:55` · investing_news
 
@@ -2446,7 +2483,7 @@ Iran War Raises Demand for US Fuel, Boosting Gulf Coast Refining Margins EnergyN
 
 Here's a List of Gulf Energy Infrastructure Damaged in Iran War EnergyNow.com
 
-### BINA TAG (260)
+### BINA TAG (265)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2456,6 +2493,7 @@ Here's a List of Gulf Energy Infrastructure Damaged in Iran War EnergyNow.com
 - `17 Oct 02:08` **aljazeera** — Meta employees say Lula's accounts restricted in Brazil election: Report
 - `17 Oct 02:08` **aljazeera** — How Israeli spyware used 'zero click' hack on Al Jazeera staff
 - `17 Oct 01:58` **mw_topstories** — Don't buy this dip: Several signs suggest there's more pain ahead for tech stocks
+- `17 Oct 01:43` **gnews_fed** — How This Year's Economics Nobel Winners Shaped the World - Foreign Policy
 - `17 Oct 01:38` **aljazeera** — Students in Europe are rising up to call for better education
 - `17 Oct 01:37` **aljazeera** — Food affordability fears plague Gaza as Israel halts commercial goods
 - `17 Oct 01:33` **instaforex** — U.S. TIC Long-Term Flows Swing Sharply Back to Surplus in August
@@ -2483,6 +2521,7 @@ Here's a List of Gulf Energy Infrastructure Damaged in Iran War EnergyNow.com
 - `17 Oct 01:07` **aljazeera** — AOC transfers $1m to Michigan candidate El-Sayed in progressive push
 - `17 Oct 01:05` **mw_topstories** — EchoStar's stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says
 - `17 Oct 00:41` **aljazeera** — Trump told new press secretary to 'reconsider' role
+- `17 Oct 00:37` **gnews_fed** — Housing Costs a Worry? Mass Illegal Immigration is a Big Part of the Reason, Finds a Federal Reserve Report - Federation for American Immigration Reform
 - `17 Oct 00:35` **mw_topstories** — Microsoft wants to make AI cheaper. Will investors actually see the savings?
 - `17 Oct 00:29` **kitco_general** — Iron ore price rebounds from two-year low on dip buying, improving steel margins - Kitco
 - `17 Oct 00:18` **investing_commodities** — Natural Gas breaks below cloud at $3.115: Live levels
@@ -2514,6 +2553,7 @@ Here's a List of Gulf Energy Infrastructure Damaged in Iran War EnergyNow.com
 - `16 Oct 22:04` **gnews_geopolitics** — Opinion: You decide — what did we learn from gas rationing i... - The Wilson Times
 - `16 Oct 22:03` **aljazeera** — Pope Leo to make public appearance Sunday, first since cancer surgery
 - `16 Oct 22:03` **gnews_geopolitics** — Opinion: You decide — what did we learn from gas rationing i... - www.springhopeenterprise.com
+- `16 Oct 22:02` **gnews_geopolitics** — Opinion: You decide — what did we learn from gas rationing in the 1970s? - Spring Hope Enterprise
 - `16 Oct 21:54` **aljazeera** — Sally Rooney can't sell her books in UK over support for Palestine Action
 - `16 Oct 21:48` **gnews_fed** — If the Federal Reserve holds steady in October, a wave of long-term bond selling may resume. - 富途牛牛
 - `16 Oct 21:39` **mw_topstories** — Elon Musk may have just taken a major step toward consolidating his empire
@@ -2528,6 +2568,7 @@ Here's a List of Gulf Energy Infrastructure Damaged in Iran War EnergyNow.com
 - `16 Oct 20:56` **kitco_general** — Videos - Kitco
 - `16 Oct 20:54` **kitco_general** — S&P 500 subdued as gains in banks offset AI jitters; Dow at one-month high - Kitco
 - `16 Oct 20:52` **aljazeera** — Manchester Utd have 'moved on' from Martinez outburst, says Carrick
+- `16 Oct 20:49` **gnews_fed** — Federal Reserve: US Loan Delinquencies Jump to 19.6%, Median Family Wealth Rises to $215,900 - Coinpaper
 - `16 Oct 20:41` **kitco_general** — TAG: Atlas Mining Research - Kitco
 - `16 Oct 20:37` **aljazeera** — Gaza malnutrition and starvation at 'catastrophic' levels: Health Ministry
 - `16 Oct 20:30` **investing_commodities** — Data centers may benefit from massive rural utility loan, US official says
@@ -2641,6 +2682,7 @@ Here's a List of Gulf Energy Infrastructure Damaged in Iran War EnergyNow.com
 - `16 Oct 13:39` **investing_news** — UK bank shares fall on report of potential tax hike in Oct. 28 budget
 - `16 Oct 13:36` **aljazeera** — Asian Cup in Saudi Arabia still on, organisers say, but golf tour postponed
 - `16 Oct 13:36` **aljazeera** — Norway wealth fund urged to ease nuclear arms ban after Gaza investment row
+- `16 Oct 13:35` **gnews_fed** — Asian bonds record biggest monthly foreign outflow since March 2020 - Bangkok Post
 - `16 Oct 13:34` **wsj_markets** — Stock Futures, Treasurys Steady as Markets Take Breather
 - `16 Oct 13:30` **investing_news** — Indonesia stocks lower at close of trade; IDX Composite Index down 11.35%
 - `16 Oct 13:30` **gnews_fed** — A New Report from the Federal Reserve's 2025 Survey Shows 50-Somethings are Worth Avg. 1.5 Million - News Radio 1200 WOAI
@@ -2727,45 +2769,45 @@ investing_news (10)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.4 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.1 |
-| marketpulse | OK | 4 | 3 | 0 | 3 | 1 | 0.4 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | -0.0 |
-| wsj_economy | OK | 36 | 10 | 0 | 10 | 26 | 0.5 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 36.3 |
-| kitco_general | OK | 32 | 30 | 0 | 30 | 2 | 0.2 |
-| gnews_fed | OK | 100 | 100 | 1 | 99 | 0 | 0.1 |
-| gnews_geopolitics | OK | 51 | 51 | 13 | 38 | 0 | 0.1 |
-| gnews_centralbanks | OK | 28 | 28 | 0 | 28 | 0 | 0.3 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 3.1 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.6 |
-| boj_whatsnew | OK | 52 | 1 | 0 | 1 | 51 | 0.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.9 |
-| mining_com | OK | 36 | 7 | 1 | 6 | 29 | 0.1 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
-| bbc_business | OK | 49 | 7 | 0 | 7 | 42 | 0.5 |
-| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 36.6 |
-| eia_energy | OK | 17 | 1 | 0 | 1 | 16 | 0.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 10.5 |
-| wsj_world | OK | 73 | 19 | 0 | 19 | 54 | 0.1 |
-| wsj_markets | OK | 60 | 25 | 2 | 23 | 35 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 5 | 15 | 0 | 0.1 |
+| marketpulse | OK | 3 | 3 | 0 | 3 | 0 | 0.6 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
+| wsj_economy | OK | 36 | 10 | 0 | 10 | 26 | 0.6 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 36.5 |
+| kitco_general | OK | 30 | 29 | 0 | 29 | 1 | 0.2 |
+| gnews_fed | OK | 100 | 100 | 19 | 81 | 0 | 0.1 |
+| gnews_geopolitics | OK | 52 | 52 | 10 | 42 | 0 | 0.0 |
+| gnews_centralbanks | OK | 25 | 25 | 1 | 24 | 0 | 0.4 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
+| ecb_press | OK | 15 | 1 | 1 | 0 | 14 | 0.0 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.8 |
+| boj_whatsnew | OK | 52 | 1 | 0 | 1 | 51 | 0.9 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.1 |
+| mining_com | OK | 36 | 7 | 0 | 7 | 29 | 0.3 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.3 |
+| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
+| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.7 |
+| bbc_business | OK | 49 | 7 | 0 | 7 | 42 | 0.7 |
+| aljazeera | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.8 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 36.8 |
+| eia_energy | OK | 17 | 1 | 0 | 1 | 16 | 0.7 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 10.7 |
+| wsj_world | OK | 74 | 20 | 1 | 19 | 54 | 0.2 |
+| wsj_markets | OK | 60 | 26 | 0 | 26 | 34 | 0.1 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 18 | 0 | 18 | 12 | 0.2 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
+| cointelegraph | OK | 30 | 18 | 0 | 18 | 12 | 0.4 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
