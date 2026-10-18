@@ -1,9 +1,9 @@
 # News Pack — Trading Day 18 Oct 2026
 
 - Trading day: **18 Oct 03:00 -> 19 Oct 02:59 PKT**
-- Aakhri update: **19 Oct 00:24 PKT**
-- Kul khabrein: **279**
-- Feeds: 29/39 OK
+- Aakhri update: **19 Oct 02:42 PKT**
+- Kul khabrein: **318**
+- Feeds: 27/39 OK
 
 ---
 
@@ -11,12 +11,22 @@
 
 ### MARKET WRAP
 
+**Monday open indicative forex prices, 19 October 2026**
+`19 Oct 01:09 PKT` · pehli baar dekhi `19 Oct 02:42` · investinglive
+
+Early FX indications, I'll be back with weekend news soon, US equities soft in weekend trading so far. EUR/USD 1.1191, showing lower in very early trade (its only New Zealand that's active), riots in Paris and elsewhere, Russian drones shot down in Romanian air space USD/JPY 158.03 GBP/USD 1.3315 USD/CHF 0.8240... but bids showing USD/CAD 1.4135 AUD/USD 0.6959, early bids NZD/USD 0.5652 This article was written by Eamonn Sheridan at investinglive.com.
+
 **Week Ahead: BoK Meeting; China LPR; U.K., Japan, Canada and NZ Inflation Reports; China GDP; U.K. Jobs Report; Global Flash PMIs; France Credit Ratings' Update - www.christophe-barraud.com**
 `18 Oct 19:16 PKT` · pehli baar dekhi `18 Oct 22:05` · gnews_centralbanks
 
 Week Ahead: BoK Meeting; China LPR; U.K., Japan, Canada and NZ Inflation Reports; China GDP; U.K. Jobs Report; Global Flash PMIs; France Credit Ratings' Update www.christophe-barraud.com
 
 ### GOLD
+
+**Gold and Silver Price Outlook: Rupee, Crude Oil and US Inflation in Focus Next Week - Sangri Today**
+`18 Oct 21:08 PKT` · pehli baar dekhi `19 Oct 02:42` · gnews_fed
+
+Gold and Silver Price Outlook: Rupee, Crude Oil and US Inflation in Focus Next Week Sangri Today
 
 **The Playboy Who Inherited an Empire of Gunfighters and Gold Smugglers**
 `18 Oct 20:48 PKT` · pehli baar dekhi `18 Oct 22:05` · wsj_markets
@@ -29,9 +39,10 @@ Plus, investors show they are alive to one of the big risks in AI, and Zelensky 
 Gold & Silver: Ugly Week, Bigger Opportunity? Gold Eagle
 
 **Gold, Silver Face Choppy Week Amid West Asia Tensions - Rediff MoneyWiz**
-`18 Oct 18:01 PKT` · pehli baar dekhi `19 Oct 00:24` · gnews_fed
+`18 Oct 18:01 PKT` · pehli baar dekhi `19 Oct 00:24` · gnews_fed · **2 feeds mein**
 
 Gold, Silver Face Choppy Week Amid West Asia Tensions Rediff MoneyWiz
+  - `18 Oct 18:01` *gnews_fed* — Gold, Silver Face Choppy Week Amid West Asia Tensions - Rediff MoneyWiz
 
 **Silver Holds $57 Handle as Soft US Data Offset Inflation's Grip - ad-hoc-news.de**
 `18 Oct 17:41 PKT` · pehli baar dekhi `18 Oct 18:53` · gnews_fed
@@ -59,6 +70,16 @@ The son of Wagner Group's late founder hangs on to an African stronghold, making
 Gold set for a weekly drop as traders assess Fed signals Business Recorder
 
 ### USD
+
+**WEEKLY PREVIEW: China GDP, Brazil runoff in focus - Breakingthenews.net**
+`19 Oct 02:00 PKT` · pehli baar dekhi `19 Oct 02:42` · gnews_centralbanks
+
+WEEKLY PREVIEW: China GDP, Brazil runoff in focus Breakingthenews.net
+
+**Letters for Oct. 19: Should government control AI like it does the dollar? - Daily Press**
+`19 Oct 01:01 PKT` · pehli baar dekhi `19 Oct 02:42` · gnews_fed
+
+Letters for Oct. 19: Should government control AI like it does the dollar? Daily Press
 
 **Opinion | For Investors and Savers, TINA Is Giving Way to TARA**
 `19 Oct 00:20 PKT` · pehli baar dekhi `19 Oct 00:24` · wsj_markets
@@ -189,6 +210,36 @@ Dow Ends Sees Worst Day In Over A Year, Nasdaq Enters Correction Territory As Fe
 
 ### EUR
 
+**Pound-to-Euro Forecast: Sterling Eyes 1.19 after GDP Surprise - CurrencyNews.co.uk**
+`19 Oct 02:01 PKT` · pehli baar dekhi `19 Oct 02:42` · gnews_centralbanks
+
+Pound-to-Euro Forecast: Sterling Eyes 1.19 after GDP Surprise CurrencyNews.co.uk
+
+**EUR update, France riots: 2,400 arrested as cost-of-living protests turn to looting and arson**
+`19 Oct 01:50 PKT` · pehli baar dekhi `19 Oct 02:42` · investinglive
+
+The unrest adds a domestic political risk layer to the euro, which was already softer in early Asia-Pacific trade, and to French government bonds, where investors are sensitive to anything that pressures spending. Street pressure for more public investment collides with France's high debt and deficit, so the spread of French yields over German Bunds is the clearest gauge of whether markets see a fiscal or political cost.
+
+**Opinion | Why France Is Burning**
+`19 Oct 01:45 PKT` · pehli baar dekhi `19 Oct 02:42` · wsj_world
+
+Jean-Luc Mélenchon and the left see an opening to take the presidency next year.
+
+**US threatens EU with devastating retaliation if Brussels curbs Starlink spectrum access**
+`19 Oct 01:36 PKT` · pehli baar dekhi `19 Oct 02:42` · investinglive
+
+The warning adds a fresh transatlantic trade risk to a market that had largely treated EU digital regulation as a compliance issue rather than a trigger for US countermeasures. European exporters with heavy US revenue exposure are the most obvious channel if rhetoric turns into action, while EU satellite and telecom operators that would benefit from reserved spectrum now face a more contested path to that advantage.
+
+**Romanian F-16s shoot down two drones over Black Sea, NATO council to meet Tuesday**
+`19 Oct 01:22 PKT` · pehli baar dekhi `19 Oct 02:42` · investinglive
+
+The euro is lower in early Asia-Pacific trade, though liquidity is very thin with New Zealand effectively the only FX market open, so early moves may overstate conviction. A fresh airspace violation on NATO's eastern flank adds a geopolitical risk premium to the single currency, and escalating riots in France and elsewhere in the EU are also weighing on the euro.
+
+**'Anger and shame': Macron denounces France's nationwide rioting, looting**
+`19 Oct 01:19 PKT` · pehli baar dekhi `19 Oct 02:42` · aljazeera
+
+President Macron promises to increase security, but stops short of announcing a state of emergency or curfew.
+
 **France protests live: Macron to address nation after protests**
 `18 Oct 19:26 PKT` · pehli baar dekhi `18 Oct 22:05` · aljazeera
 
@@ -257,6 +308,18 @@ IMF forecasts 3.1% global growth in 2026, with eurozone at 1.1% Yahoo! Finance C
 
 Lagarde: Fiscal Measures Needed to Address Impact of Energy Shock Sada Elbalad English
 
+### GBP
+
+**GBP/USD, Gold Forecasts: Two trades to watch - FOREX.com**
+`18 Oct 10:29 PKT` · pehli baar dekhi `19 Oct 02:42` · gnews_centralbanks
+
+GBP/USD, Gold Forecasts: Two trades to watch FOREX.com
+
+**UK inflation can seal the deal on the BOE's November rate hike - The Edge Malaysia**
+`18 Oct 05:10 PKT` · pehli baar dekhi `19 Oct 02:42` · gnews_centralbanks
+
+UK inflation can seal the deal on the BOE's November rate hike The Edge Malaysia
+
 ### JPY
 
 **BOJ faces pressure to hike rates amid rising in... - Pluang**
@@ -304,7 +367,19 @@ Prime Minister Mark Carney is trying to rally the oil-rich province to stick wit
 
 Defence Minister David McGuinty says people were killed and injured, but provides no figures or cause of fire.
 
+### NZD
+
+**New Zealand Services Activity Softens Slightly in September, PSI Eases to 50.9**
+`19 Oct 02:42 PKT` · instaforex
+
+New Zealand's services sector lost a touch of momentum in September 2026, with the Performance of Services Index (PSI) edging down to 50.9 from 51.0 in August. The latest figure, updated on 18 October 2026, suggests the sector remains in marginal expansion territory but highlights a modest cooling in activity. The slight dip signals that while services output is still growing, the pace has become more subdued compared with the previous month.
+
 ### OIL
+
+**Hormuz Is Turning Shipping's Fuel Bill Into a Supply Crisis**
+`19 Oct 02:00 PKT` · pehli baar dekhi `19 Oct 02:42` · oilprice
+
+The Hormuz crisis is not only hitting crude oil and gas, but also container shipping. It is also tightening its grip on global shipping through the fuel tanks of vessels carrying world trade. Disrupted exports, constrained refinery supplies, and increasingly unreliable deliveries are clearly at present pushing the bunker market into a dangerous position.
 
 **The Nuclear Power Shortcut That Could Add Gigawatts to the U.S. Grid**
 `19 Oct 00:00 PKT` · pehli baar dekhi `19 Oct 00:24` · oilprice
@@ -336,6 +411,11 @@ Oil tankers hit naval mines as Iran-US tensions threaten global oil supply The B
 `18 Oct 20:31 PKT` · pehli baar dekhi `18 Oct 22:05` · gnews_geopolitics
 
 US, Israel face threats of war if oil prices keep rising The Jerusalem Post
+
+**Oil Prices Climb on Stalled US-Iran Talks; Analysts Warn of $115-120 Brent - RTV English**
+`18 Oct 20:05 PKT` · pehli baar dekhi `19 Oct 02:42` · gnews_geopolitics
+
+Oil Prices Climb on Stalled US-Iran Talks; Analysts Warn of $115-120 Brent RTV English
 
 **Electric Supercars Are Getting Faster, Smarter, and Harder to Ignore**
 `18 Oct 20:00 PKT` · pehli baar dekhi `18 Oct 22:05` · oilprice
@@ -380,6 +460,11 @@ Oil Prices Set to Rise Further on Monday as Mideast War Escalates EnergyNow.com
 
 **Iran urges US to accept proposal to reopen Strait of Hormuz**
 `18 Oct 15:30 PKT` · pehli baar dekhi `18 Oct 18:53` · investing_commodities
+
+**Houthis Say They Targeted Saudi East-West Oil Transport - EnergyNow.com**
+`18 Oct 15:07 PKT` · pehli baar dekhi `19 Oct 02:42` · gnews_geopolitics
+
+Houthis Say They Targeted Saudi East-West Oil Transport EnergyNow.com
 
 **Inflation Shakes Fed Outlook Crude Oil Surges, Sanders Targets Oil Companies and More: This Week in Economy - TradingView**
 `18 Oct 15:00 PKT` · pehli baar dekhi `18 Oct 18:53` · gnews_fed
@@ -455,10 +540,25 @@ Oil Prices Stay High as War Keeps Supply Tight Into 2027 Crude Oil Prices Today 
 
 ### CRYPTO
 
+**Bitcoin's Next Move Could Shake Stocks And Metals: Bloomberg Strategist Warns As Fidelity Sees Bull Run - TradingView**
+`18 Oct 22:37 PKT` · pehli baar dekhi `19 Oct 02:42` · gnews_fed
+
+Bitcoin's Next Move Could Shake Stocks And Metals: Bloomberg Strategist Warns As Fidelity Sees Bull Run TradingView
+
+**Bitcoin ETF Outflows Reach $614.7 Million Through Oct. 16 - www.tokenpost.com**
+`18 Oct 21:40 PKT` · pehli baar dekhi `19 Oct 02:42` · gnews_fed
+
+Bitcoin ETF Outflows Reach $614.7 Million Through Oct. 16 www.tokenpost.com
+
 **Bitcoin's 2026 outlook varies as inflation and Fed rate hikes influence price targets around $85K-$100K. - Pluang**
 `18 Oct 18:26 PKT` · pehli baar dekhi `18 Oct 22:05` · gnews_fed
 
 Bitcoin's 2026 outlook varies as inflation and Fed rate hikes influence price targets around $85K-$100K. Pluang
+
+**Inflation Clouds Bitcoin's $100,000 Year-End Outlook for 2026 - www.tokenpost.com**
+`18 Oct 18:08 PKT` · pehli baar dekhi `19 Oct 02:42` · gnews_fed
+
+Inflation Clouds Bitcoin's $100,000 Year-End Outlook for 2026 www.tokenpost.com
 
 **Ethereum tests Glamsterdam upgrade; Fed meets; Bitcoin and Ether options expire this week - Pluang**
 `18 Oct 16:24 PKT` · pehli baar dekhi `18 Oct 18:53` · gnews_fed
@@ -501,11 +601,30 @@ Here's Where Bitcoin and Ethereum Prices Might Go This Week CaptainAltcoin
 Arsenal did not register a shot on target until Noni Madueke bagged their winner 10 minutes from full-time.
 
 **Is Rate Hike Expectations Altering The Investment Case For Fukuoka Financial Group Stock? - Simply Wall Street**
-`18 Oct 22:10 PKT` · pehli baar dekhi `19 Oct 00:24` · gnews_centralbanks
+`18 Oct 22:10 PKT` · pehli baar dekhi `19 Oct 02:42` · gnews_centralbanks · **2 feeds mein**
 
 Is Rate Hike Expectations Altering The Investment Case For Fukuoka Financial Group Stock? Simply Wall Street
+  - `18 Oct 22:10` *gnews_centralbanks* — Is Rate Hike Expectations Altering The Investment Case For Fukuoka Financial Group Stock? - Simply Wall Street
 
 ### RISK
+
+**Russia stocks lower at close of trade; MOEX Russia Index unchanged**
+`19 Oct 02:20 PKT` · pehli baar dekhi `19 Oct 02:42` · investing_news
+
+**Opinion | To Russia With Love, Signed Donald**
+`19 Oct 02:16 PKT` · pehli baar dekhi `19 Oct 02:42` · wsj_world
+
+Trump waives sanctions and tariffs under the Lindsey Graham law.
+
+**India's crackdown on cockroaches, critics and cameras**
+`19 Oct 00:31 PKT` · pehli baar dekhi `19 Oct 02:42` · aljazeera
+
+A government at war with its critics - from young protesters to the media.
+
+**Russia's war on Ukraine 'must be brought to an end', Zelenskyy says**
+`19 Oct 00:11 PKT` · pehli baar dekhi `19 Oct 02:42` · aljazeera
+
+Ukraine&#039;s president says communication between Washington and Kyiv &#039;virtually nonstop&#039;, despite a spat with Trump.
 
 **Opinion | Saudi Arabia Has No Good Options**
 `18 Oct 20:57 PKT` · pehli baar dekhi `18 Oct 22:05` · wsj_world
@@ -535,6 +654,11 @@ US-Israel-Iran War Latest Live News: Iran Says Strait of Hormuz Could Reopen in 
 `18 Oct 18:14 PKT` · pehli baar dekhi `18 Oct 18:53` · gnews_geopolitics
 
 US-Israel-Iran War Live News: Iran Says Oil Production Increased Despite War, Sanctions, Limited Finance, Technological Resources, and Security Issues The Sunday Guardian
+
+**Nasdaq, S&P 500 Futures Surge As Wall Street Cheers US-Iran Deal, Brushes Off Hawkish Fed For Now: INTC, AAPL, MU, SPCX, RUM In Focus - Stocktwits**
+`18 Oct 17:30 PKT` · pehli baar dekhi `19 Oct 02:42` · gnews_fed
+
+Nasdaq, S&P 500 Futures Surge As Wall Street Cheers US-Iran Deal, Brushes Off Hawkish Fed For Now: INTC, AAPL, MU, SPCX, RUM In Focus Stocktwits
 
 **Trump Pauses Russia Sanctions for 60 Days as Iran War Forces White House Into Energy Dilemma - International Business Times, Singapore Edition**
 `18 Oct 17:18 PKT` · pehli baar dekhi `18 Oct 22:05` · gnews_geopolitics
@@ -581,6 +705,11 @@ Separated by war for more than a year, a captain in Gaza's Civil Defence unit at
 `18 Oct 15:20 PKT` · pehli baar dekhi `18 Oct 18:53` · gnews_geopolitics
 
 Iran's Oil Production Capacity Rises Amid Sanctions, Reaching Over 3.7 Million Barrels Per Day WANA News Agency
+
+**Occidental Scraps New Oil Hedges as Iran War Fuels Price Volatility - EnergyNow.com**
+`18 Oct 15:18 PKT` · pehli baar dekhi `19 Oct 02:42` · gnews_geopolitics
+
+Occidental Scraps New Oil Hedges as Iran War Fuels Price Volatility EnergyNow.com
 
 **Trump to take up to 60 days to review Russia sanctions, says Rubio - News9live**
 `18 Oct 15:13 PKT` · pehli baar dekhi `18 Oct 18:53` · gnews_geopolitics · **2 feeds mein**
@@ -679,11 +808,19 @@ Global oil prices cross $100 a barrel as Iran war sends fuel prices surging ABC7
 
 Fires reported on three tankers as masked settlers attack European politicians in the occupied West Bank.
 
-### BINA TAG (122)
+### BINA TAG (132)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `19 Oct 02:10` **aljazeera** — Macron condemns violence after riots lead to looting and mass arrests
+- `19 Oct 02:04` **investing_news** — Disc Medicine to present Phase 3 trial results for bitopertin
+- `19 Oct 02:01` **investing_news** — Mink Brook asset management, 10% owner, rebalances $736,666 in DLH stock
+- `19 Oct 01:26` **aljazeera** — Fire engulfs Albania's Supreme Court as protests enter fifth day
+- `19 Oct 01:23` **wsj_markets** — AI Agents Trading Stocks While You Sleep? Charles Schwab's CEO Is Skeptical
+- `19 Oct 01:05` **aljazeera** — What's behind Europe's youth protests?
 - `19 Oct 00:21` **wsj_world** — Opinion | Latin America's Coming Population Bust
+- `19 Oct 00:15` **aljazeera** — How will Europe deal with youth-led protests?
+- `19 Oct 00:12` **aljazeera** — Clarence Seedorf calls out genocide in first Corinthians press conference
 - `19 Oct 00:12` **wsj_world** — French Leaders Trade Blame After Rioting Sweeps the Nation
 - `18 Oct 23:44` **aljazeera** — GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies
 - `18 Oct 23:36` **aljazeera** — Gaza bodybuilders find solace in strongman competition among the ruins
@@ -747,6 +884,7 @@ Fires reported on three tankers as masked settlers attack European politicians i
 - `18 Oct 15:22` **bbc_business** — What is the Budget and what could be in it?
 - `18 Oct 15:18` **aljazeera** — Indian YouTuber Dhruv Rathee leads anti-BJP protest in London
 - `18 Oct 15:17` **gnews_fed** — A Mortgage on the Median Home Now Eats 33% of Median Income. An All-Time High - 24/7 Wall St.
+- `18 Oct 15:07` **gnews_fed** — Wells Fargo completes 2026 stress test, plans 11% dividend hike - scanx.trade
 - `18 Oct 14:30` **wsj_markets** — The AI Stock Market Wobble Is a Reminder: This Time Isn't Different
 - `18 Oct 14:16` **aljazeera** — Fighting intensifies across Yemen as humanitarian crisis deepens
 - `18 Oct 14:16` **aljazeera** — LIVE: Leeds United vs Manchester United – Premier League
@@ -804,15 +942,16 @@ Fires reported on three tankers as masked settlers attack European politicians i
 - `18 Oct 04:40` **aljazeera** — US ambassador urges Israel to prosecute attackers of American journalist
 - `18 Oct 04:39` **gnews_fed** — Mortgage Rates Hit 7%...But What Happens Next Could SURPRISE Buyers Janette Manrara (7khEg1rPXv) - Unisba Media
 - `18 Oct 04:21` **aljazeera** — Saudi-led coalition intercepts drones as Egypt weighs sending help
+- `18 Oct 03:17` **gnews_centralbanks** — India expected to be No 4 economy by 2027, says IMF - Qatar Tribune
 - `18 Oct 03:01` **investing_news** — JetBlue chief digital & tech officer disposes of $8,580 in stock
 
 ---
 
-## Shor — 15 khabrein hatai gayin
+## Shor — 17 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (15)
+investing_news (17)
 
 ---
 
@@ -822,48 +961,49 @@ investing_news (15)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 1.1 |
+| investinglive | OK | 25 | 4 | 4 | 0 | 21 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.5 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.1 |
-| instaforex | OK | 25 | 1 | 0 | 1 | 24 | 0.2 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.8 |
+| actionforex | WARN | 20 | 0 | 0 | 0 | 20 | 1.6 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.2 |
+| instaforex | OK | 25 | 2 | 1 | 1 | 23 | -0.2 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.9 |
 | cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
 | cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
 | cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 38.0 |
-| kitco_general | OK | 1 | 0 | 0 | 0 | 1 | 1.0 |
-| gnews_fed | OK | 57 | 52 | 18 | 34 | 5 | 0.0 |
-| gnews_geopolitics | OK | 48 | 40 | 2 | 38 | 8 | 0.1 |
-| gnews_centralbanks | OK | 34 | 31 | 1 | 30 | 3 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.1 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.7 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 38.1 |
+| kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_fed | OK | 54 | 54 | 8 | 46 | 0 | 0.1 |
+| gnews_geopolitics | OK | 44 | 43 | 3 | 40 | 1 | 0.0 |
+| gnews_centralbanks | OK | 38 | 37 | 6 | 31 | 1 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.2 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.8 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
 | boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.4 |
-| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 2.5 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.7 |
-| mining_com | OK | 36 | 1 | 1 | 0 | 35 | 0.1 |
-| oilprice | OK | 15 | 4 | 1 | 3 | 11 | 0.0 |
-| investing_commodities | OK | 10 | 7 | 0 | 7 | 3 | 0.1 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| bbc_business | OK | 53 | 6 | 0 | 6 | 47 | 0.3 |
-| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 3.4 |
+| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 2.6 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.8 |
+| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.2 |
+| oilprice | OK | 15 | 5 | 1 | 4 | 10 | 0.0 |
+| investing_commodities | OK | 10 | 7 | 0 | 7 | 3 | 0.0 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
+| bbc_business | OK | 53 | 6 | 0 | 6 | 47 | 0.4 |
+| aljazeera | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 3.5 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 38.4 |
-| eia_energy | OK | 17 | 0 | 0 | 0 | 17 | 2.2 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 12.3 |
-| wsj_world | OK | 72 | 9 | 4 | 5 | 63 | 0.0 |
-| wsj_markets | OK | 60 | 4 | 1 | 3 | 56 | 0.0 |
-| investing_news | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| eia_energy | OK | 17 | 0 | 0 | 0 | 17 | 2.3 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 12.4 |
+| wsj_world | OK | 72 | 11 | 2 | 9 | 61 | 0.0 |
+| wsj_markets | OK | 60 | 5 | 1 | 4 | 55 | 0.1 |
+| investing_news | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 8 | 0 | 8 | 2 | 0.1 |
-| cointelegraph | OK | 30 | 5 | 0 | 5 | 25 | 0.2 |
+| mw_topstories | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
+| cointelegraph | OK | 30 | 5 | 0 | 5 | 25 | 0.3 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
 - cme_risk_management — STALE, cadence 10d, magar 38d purana
+- kitco_general — FAIL, koi item nahi
 - yahoo_finance — FAIL, HTTP 404
