@@ -1,8 +1,8 @@
 # News Pack — Trading Day 17 Oct 2026
 
 - Trading day: **17 Oct 03:00 -> 18 Oct 02:59 PKT**
-- Aakhri update: **18 Oct 04:04 PKT**
-- Kul khabrein: **332**
+- Aakhri update: **18 Oct 05:59 PKT**
+- Kul khabrein: **344**
 - Feeds: 35/39 OK
 
 ---
@@ -74,6 +74,11 @@ Gold Price Forecast: Gold Under Pressure Below $4,200 as Market Awaits Fed Minut
 
 ### USD
 
+**Treasury pushing plans for $250 bill with Trump's portrait and signature, sources say - ABC News - Breaking News, Latest News and Videos**
+`18 Oct 01:43 PKT` · pehli baar dekhi `18 Oct 05:59` · gnews_fed
+
+Treasury pushing plans for $250 bill with Trump's portrait and signature, sources say ABC News - Breaking News, Latest News and Videos
+
 **Another interest rate hike may be ahead as Fed battles inflation - Scripps News**
 `17 Oct 23:42 PKT` · pehli baar dekhi `18 Oct 02:03` · gnews_fed
 
@@ -98,6 +103,11 @@ Fed May Pause Rate Hike in October, but a December Hike Is Still on the Table Cr
 `17 Oct 18:18 PKT` · pehli baar dekhi `17 Oct 21:30` · gnews_fed
 
 Former Fed Chair Jerome Powell's 6-Word Warning Echoes Louder Than Ever -- and It Should Rightly Terrify Wall Street The Motley Fool
+
+**Inflation worsened last month to 3.7% in sign that prices remain elevated as midterm elections near - ABC News - Breaking News, Latest News and Videos**
+`17 Oct 17:53 PKT` · pehli baar dekhi `18 Oct 05:59` · gnews_fed
+
+Inflation worsened last month to 3.7% in sign that prices remain elevated as midterm elections near ABC News - Breaking News, Latest News and Videos
 
 **Fed interest-rate decision this month is a closer call than markets think - MarketWatch**
 `17 Oct 16:00 PKT` · pehli baar dekhi `17 Oct 18:15` · gnews_fed · **2 feeds mein**
@@ -144,6 +154,16 @@ Homeowners Are Worth $458,900. Renters Are Worth $10,600. The Fed's New Data Is 
 Fed chair withholds signal on interest rates Northwest Arkansas Democrat-Gazette
   - `17 Oct 11:43` *gnews_fed* — Fed chair withholds signal on interest rates - The Arkansas Democrat-Gazette
 
+**Key Moments From Kevin Warsh's IMF Appearance - WSJ**
+`17 Oct 10:54 PKT` · pehli baar dekhi `18 Oct 05:59` · gnews_fed
+
+Key Moments From Kevin Warsh's IMF Appearance WSJ
+
+**US Fed likely to hold rates in October, hike by 25 bps by year-end: CareEdge Global - https://www.indiagazette.com/**
+`17 Oct 10:06 PKT` · pehli baar dekhi `18 Oct 05:59` · gnews_fed
+
+US Fed likely to hold rates in October, hike by 25 bps by year-end: CareEdge Global https://www.indiagazette.com/
+
 **Flexible Fed policy outlook boosts prospects for emerging market economies - https://greenpost.com.pk/**
 `17 Oct 09:54 PKT` · pehli baar dekhi `18 Oct 02:03` · gnews_fed
 
@@ -168,6 +188,11 @@ Nasdaq, S&P 500, Dow Futures Rise After Fourth Of July Break As Investors Await 
 `17 Oct 08:54 PKT` · pehli baar dekhi `17 Oct 23:46` · gnews_fed
 
 Kevin Warsh's Fed Messaging 'Was Not Defensible', Says Jeremy Siegel After FOMC Meeting Stocktwits
+
+**Market sees 14% chance of Fed rate hike after S... - Pluang**
+`17 Oct 07:35 PKT` · pehli baar dekhi `18 Oct 05:59` · gnews_fed
+
+Market sees 14% chance of Fed rate hike after S... Pluang
 
 **Warsh Offers No Rate-Cut Signal as Inflation Remains Above Fed Target - JournalArta**
 `17 Oct 07:29 PKT` · pehli baar dekhi `17 Oct 10:41` · gnews_fed
@@ -362,6 +387,11 @@ USD/JPY stayed in range of 156.36/159.02 last week and outlook is unchanged. Ini
 BOJ may need to tighten faster if inflation beats forecast, IMF says, Asia News AsiaOne.com
   - `17 Oct 09:48` *investing_news* — BOJ may need to tighten faster if inflation beats forecast, IMF says
 
+**BOJ Governor Ueda: "Cannot Tolerate Further Inflation," Signals Continued Rate Hikes - news.sbs.co.kr**
+`17 Oct 12:00 PKT` · pehli baar dekhi `18 Oct 05:59` · gnews_centralbanks
+
+BOJ Governor Ueda: "Cannot Tolerate Further Inflation," Signals Continued Rate Hikes news.sbs.co.kr
+
 **BOJ Plans More Rate Hikes as Yen, AI and Middle East Shape Timing - tokenpost.com**
 `17 Oct 05:30 PKT` · pehli baar dekhi `17 Oct 21:30` · gnews_centralbanks
 
@@ -463,6 +493,11 @@ Strait of Hormuz: Oil Supertanker Catches Fire After Hitting Mine English Bombay
 
 Hegseth says don't 'worry' about Strait of Hormuz, but US needs time to counter Iran's stranglehold ABC News - Breaking News, Latest News and Videos
 
+**US Allows 30-Day Sale of Iran Oil at Sea in Bid to Tame Prices - EnergyNow**
+`17 Oct 17:19 PKT` · pehli baar dekhi `18 Oct 05:59` · gnews_geopolitics
+
+US Allows 30-Day Sale of Iran Oil at Sea in Bid to Tame Prices EnergyNow
+
 **US and Iran both claim control of Strait of Hormuz amid attacks on vessels**
 `17 Oct 17:10 PKT` · pehli baar dekhi `17 Oct 18:15` · aljazeera
 
@@ -542,6 +577,11 @@ What to know about 'black rain' that fell in Iran after strikes on oil reserves 
 `17 Oct 09:50 PKT` · pehli baar dekhi `18 Oct 04:04` · gnews_geopolitics
 
 Oil Prices Weekly Gain: Hormuz Strikes, U.S. Inventory Draw Lift Crude - News and Statistics IndexBox
+
+**Persian Gulf Oil Flows Recover Despite Broadening Conflict - IndexBox**
+`17 Oct 09:20 PKT` · pehli baar dekhi `18 Oct 05:59` · gnews_geopolitics
+
+Persian Gulf Oil Flows Recover Despite Broadening Conflict IndexBox
 
 **Trump waives sanctions on Russian oil, relief for India - Rediff**
 `17 Oct 09:01 PKT` · pehli baar dekhi `17 Oct 10:41` · gnews_geopolitics
@@ -706,6 +746,11 @@ At least eight people have been killed and nearly 60 injured in the latest wave 
 
 Analysts say Russia will benefit most from US sanctions waiver.
 
+**'Big concern': How the Iran war and Strait of Hormuz closure could drive up prices for helium, fertilizer and other goods - ABC News - Breaking News, Latest News and Videos**
+`17 Oct 16:06 PKT` · pehli baar dekhi `18 Oct 05:59` · gnews_geopolitics
+
+'Big concern': How the Iran war and Strait of Hormuz closure could drive up prices for helium, fertilizer and other goods ABC News - Breaking News, Latest News and Videos
+
 **Solar power booms in Philippines as war on Iran spikes energy costs**
 `17 Oct 15:12 PKT` · pehli baar dekhi `17 Oct 18:15` · aljazeera
 
@@ -779,6 +824,11 @@ Trump waives tariffs on Russian oil buyers, specified sanctions under new law Gr
 
 Iran Vows to Respond to US Strikes, Says US Energy Companies' Facilities are 'Exposed' EnergyNow.com
 
+**Trump grants waiver on sanctions, tariffs for Russian energy buyers - The Assam Tribune**
+`17 Oct 11:52 PKT` · pehli baar dekhi `18 Oct 05:59` · gnews_geopolitics
+
+Trump grants waiver on sanctions, tariffs for Russian energy buyers The Assam Tribune
+
 **Ukraine and Europe have little choice but to work with Trump**
 `17 Oct 11:36 PKT` · pehli baar dekhi `17 Oct 14:42` · aljazeera
 
@@ -816,6 +866,11 @@ US-Israel-Iran War Latest Live News: Is Iran Running Out Of Money To Sustain The
 `17 Oct 07:44 PKT` · pehli baar dekhi `17 Oct 10:41` · gnews_geopolitics
 
 Trump waives US sanctions, tariffs on Russian oil & gas - what it means for India The Times of India
+
+**Oil Rebounds Amid Inventory Drawdowns, Iran War Uncertainty: Economist Says 'Stay Long' - Stocktwits**
+`17 Oct 07:20 PKT` · pehli baar dekhi `18 Oct 05:59` · gnews_geopolitics
+
+Oil Rebounds Amid Inventory Drawdowns, Iran War Uncertainty: Economist Says 'Stay Long' Stocktwits
 
 **Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia**
 `17 Oct 07:00 PKT` · pehli baar dekhi `17 Oct 10:41` · wsj_world
@@ -858,7 +913,7 @@ How US-Iran Tensions Could Shape World Markets - Energy News, Top Headlines, Com
 
 COMMENTARY: Iran War May Crush Oil Demand Today, But Send it Soaring Long Term: Bousso EnergyNow.com
 
-### BINA TAG (117)
+### BINA TAG (118)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -881,6 +936,7 @@ COMMENTARY: Iran War May Crush Oil Demand Today, But Send it Soaring Long Term: 
 - `17 Oct 22:51` **investing_news** — Mercedes unveils electric SUV as it expands premium EV lineup
 - `17 Oct 22:42` **aljazeera** — India and West Indies denied a thrilling finale as rain hits final T20
 - `17 Oct 22:37` **aljazeera** — Pope Leo returns to Vatican after lung cancer surgery
+- `17 Oct 22:23` **gnews_fed** — Only 1 in 22 Families in Their 50s Hits the 6x Retirement Rule - Stock Titan
 - `17 Oct 22:18` **aljazeera** — Jerusalem Daily: Israeli settlers attack farmers and journalists
 - `17 Oct 21:56` **aljazeera** — Al Jazeera reports from Paris as protests turn violent
 - `17 Oct 21:49` **aljazeera** — Egypt's el-Sisi vows to defend Saudi Arabia from Houthi attacks
@@ -996,45 +1052,45 @@ investing_news (36)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.3 |
+| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.4 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.6 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.3 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.9 |
-| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 1.4 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 37.2 |
-| kitco_general | OK | 3 | 3 | 0 | 3 | 0 | 0.2 |
-| gnews_fed | OK | 48 | 48 | 6 | 42 | 0 | 0.1 |
-| gnews_geopolitics | OK | 54 | 54 | 17 | 37 | 0 | 0.0 |
-| gnews_centralbanks | OK | 16 | 16 | 0 | 16 | 0 | 0.2 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.8 |
+| actionforex | OK | 20 | 17 | 0 | 17 | 3 | 0.7 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.4 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 1.0 |
+| wsj_economy | OK | 36 | 1 | 1 | 0 | 35 | 0.0 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 37.3 |
+| kitco_general | OK | 2 | 2 | 0 | 2 | 0 | 0.3 |
+| gnews_fed | OK | 46 | 46 | 6 | 40 | 0 | 0.2 |
+| gnews_geopolitics | OK | 55 | 55 | 5 | 50 | 0 | 0.1 |
+| gnews_centralbanks | OK | 16 | 16 | 1 | 15 | 0 | 0.3 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.9 |
 | ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.8 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.5 |
-| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 1.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.8 |
-| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 1.0 |
-| oilprice | OK | 15 | 6 | 1 | 5 | 9 | 0.0 |
-| investing_commodities | OK | 10 | 3 | 1 | 2 | 7 | 0.0 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
-| bbc_business | OK | 49 | 5 | 1 | 4 | 44 | 0.1 |
-| aljazeera | OK | 25 | 25 | 2 | 23 | 0 | 0.1 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.5 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 37.5 |
-| eia_energy | OK | 17 | 0 | 0 | 0 | 17 | 1.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 11.4 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.6 |
+| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 1.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 3.9 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 1.1 |
+| oilprice | OK | 15 | 6 | 0 | 6 | 9 | 0.1 |
+| investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.1 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| bbc_business | OK | 49 | 5 | 0 | 5 | 44 | 0.1 |
+| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.6 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 37.6 |
+| eia_energy | OK | 17 | 0 | 0 | 0 | 17 | 1.5 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 11.5 |
 | wsj_world | OK | 75 | 4 | 0 | 4 | 71 | 0.1 |
 | wsj_markets | OK | 60 | 8 | 0 | 8 | 52 | 0.2 |
-| investing_news | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 2 | 8 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 5 | 0 | 5 | 25 | 0.4 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 5 | 0 | 5 | 25 | 0.5 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
