@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "19 Oct 2026 16:02",
+  "generated_pkt": "19 Oct 2026 23:00",
   "trading_day": "2026-10-19",
   "feed_sources": {
     "thisweek": "live"
@@ -451,7 +451,7 @@
       "title": "Pending Home Sales m/m",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "-0.4%",
+      "forecast": "-0.7%",
       "previous": "0.3%",
       "url": "https://www.forexfactory.com/calendar/233-us-pending-home-sales-mm",
       "all_day": false,
@@ -516,7 +516,7 @@
       "title": "Trade Balance",
       "ccy": "JPY",
       "impact": "Low",
-      "forecast": "-0.21T",
+      "forecast": "-0.26T",
       "previous": "-0.84T",
       "url": "https://www.forexfactory.com/calendar/123-jn-trade-balance",
       "all_day": false,

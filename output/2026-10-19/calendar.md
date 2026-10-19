@@ -1,6 +1,6 @@
 # Calendar — Trading Day 19 Oct 2026
 
-- Banaya gaya: **19 Oct 2026 16:02 PKT**
+- Banaya gaya: **19 Oct 2026 23:00 PKT**
 - Trading day: **19 Oct 03:00 -> 20 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,13 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 17:30 | CAD | **HIGH** | CPI m/m | 0.2% | -0.1% |
-| 17:30 | CAD | **HIGH** | Median CPI y/y | 2.0% | 2.0% |
-| 17:30 | CAD | **HIGH** | Trimmed CPI y/y | 1.9% | 1.9% |
-| 17:30 | CAD | MED | Common CPI y/y | 2.6% | 2.6% |
-| 17:30 | CAD | low | Core CPI m/m | - | 0.1% |
-| 19:00 | USD | low | NAHB Housing Market Index | 31 | 32 |
-| 20:30 | CAD | low | BOC Business Outlook Survey | - | - |
 | **20 Oct** 06:00 | CNY | low | 1-y Loan Prime Rate | 3.00% | 3.00% |
 | **20 Oct** 06:00 | CNY | low | 5-y Loan Prime Rate | 3.50% | 3.50% |
 | **20 Oct** 11:00 | EUR | low | German PPI m/m | 1.5% | 1.1% |
@@ -30,12 +23,14 @@
 | **20 Oct** 14:00 | EUR | low | ZEW Economic Sentiment | 23.6 | 25.8 |
 | **20 Oct** 14:10 | CNY | low | Foreign Direct Investment ytd/y | - | -5.3% |
 | **20 Oct** 14:33 | GBP | low | 10-y Bond Auction | - | 5.38|3.3 |
+| **20 Oct** 17:15 | USD | low | ADP Weekly Employment Change | - | 24.8K |
+| **20 Oct** 17:30 | USD | low | Building Permits | 1.39M | 1.39M |
+| **20 Oct** 17:30 | USD | low | Housing Starts | 1.30M | 1.28M |
+| **20 Oct** 19:00 | USD | low | Pending Home Sales m/m | -0.7% | 0.3% |
+| **20 Oct** 19:50 | NZD | low | GDT Price Index | - | 1.2% |
+| **20 Oct** 22:00 | GBP | low | MPC Member Greene Speaks | - | - |
 
-**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
-
-- `19 Oct 17:30` **CAD CPI m/m**
-- `19 Oct 17:30` **CAD Median CPI y/y**
-- `19 Oct 17:30` **CAD Trimmed CPI y/y**
+*Agle 24 ghante mein koi HIGH impact event nahi.*
 
 ---
 
