@@ -1,0 +1,66 @@
+# Calendar — Trading Day 19 Oct 2026
+
+- Banaya gaya: **19 Oct 2026 05:26 PKT**
+- Trading day: **19 Oct 03:00 -> 20 Oct 02:59 PKT**
+- Feed: thisweek=live
+
+*Saara waqt Pakistani (PKT) mein hai. Feed GMT deta hai, script ne +5 kar diya hai.*
+
+---
+
+## Aane wale 24 ghante
+
+| Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
+|---|---|---|---|---|---|
+| 06:30 | CNY | low | New Home Prices m/m | - | -0.17% |
+| 07:00 | CNY | low | Fixed Asset Investment ytd/y | -7.3% | -7.2% |
+| 07:00 | CNY | low | GDP q/y | 4.4% | 4.3% |
+| 07:00 | CNY | low | Industrial Production y/y | 5.4% | 5.2% |
+| 07:00 | CNY | low | NBS Press Conference | - | - |
+| 07:00 | CNY | low | Retail Sales y/y | 0.5% | 0.4% |
+| 07:00 | CNY | low | Unemployment Rate | 5.3% | 5.3% |
+| 09:30 | JPY | low | Tertiary Industry Activity m/m | -0.3% | 0.4% |
+| 11:02 | CNY | low | Foreign Direct Investment ytd/y | - | -5.3% |
+| 17:30 | CAD | **HIGH** | CPI m/m | 0.2% | -0.1% |
+| 17:30 | CAD | **HIGH** | Median CPI y/y | 2.0% | 2.0% |
+| 17:30 | CAD | **HIGH** | Trimmed CPI y/y | 1.9% | 1.9% |
+| 17:30 | CAD | MED | Common CPI y/y | 2.6% | 2.6% |
+| 17:30 | CAD | low | Core CPI m/m | - | 0.1% |
+| 19:00 | USD | low | NAHB Housing Market Index | 31 | 32 |
+| 20:30 | CAD | low | BOC Business Outlook Survey | - | - |
+
+**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
+
+- `19 Oct 17:30` **CAD CPI m/m**
+- `19 Oct 17:30` **CAD Median CPI y/y**
+- `19 Oct 17:30` **CAD Trimmed CPI y/y**
+
+---
+
+## Is hafte ka baqi hissa — sirf High aur Medium
+
+| Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
+|---|---|---|---|---|---|
+| **20 Oct** 11:00 | GBP | MED | Average Earnings Index 3m/y | 3.8% | 3.9% |
+| **21 Oct** 11:00 | GBP | **HIGH** | CPI y/y | 3.4% | 3.1% |
+| **21 Oct** 18:00 | GBP | MED | BOE Gov Bailey Speaks | - | - |
+| **22 Oct** 02:45 | NZD | **HIGH** | CPI q/q | 0.8% | 1.5% |
+| **22 Oct** 17:30 | USD | MED | Unemployment Claims | 200K | 199K |
+| **23 Oct** 11:00 | GBP | MED | Retail Sales m/m | -0.2% | 0.5% |
+| **23 Oct** 12:15 | EUR | MED | French Flash Manufacturing PMI | 50.6 | 50.3 |
+| **23 Oct** 12:15 | EUR | MED | French Flash Services PMI | 50.8 | 51.4 |
+| **23 Oct** 12:30 | EUR | MED | German Flash Manufacturing PMI | 53.5 | 53.8 |
+| **23 Oct** 12:30 | EUR | MED | German Flash Services PMI | 52.6 | 52.9 |
+| **23 Oct** 13:30 | GBP | MED | Flash Manufacturing PMI | 51.8 | 52.0 |
+| **23 Oct** 13:30 | GBP | MED | Flash Services PMI | 51.8 | 51.7 |
+| **23 Oct** 18:45 | USD | MED | Flash Manufacturing PMI | 55.5 | 57.0 |
+| **23 Oct** 18:45 | USD | MED | Flash Services PMI | 58.0 | 58.7 |
+| **23 Oct** 19:00 | USD | MED | Revised UoM Consumer Sentiment | 46.3 | 46.3 |
+| **23 Oct** 19:00 | USD | MED | Revised UoM Inflation Expectations | - | 4.7% |
+
+---
+
+## Aaj ke surprises — actual banaam forecast
+
+*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+
