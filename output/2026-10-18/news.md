@@ -1,9 +1,9 @@
 # News Pack — Trading Day 18 Oct 2026
 
 - Trading day: **18 Oct 03:00 -> 19 Oct 02:59 PKT**
-- Aakhri update: **19 Oct 04:42 PKT**
-- Kul khabrein: **340**
-- Feeds: 27/39 OK
+- Aakhri update: **19 Oct 06:48 PKT**
+- Kul khabrein: **345**
+- Feeds: 28/39 OK
 
 ---
 
@@ -350,6 +350,11 @@ Bank of England Governor Says Too Early to Make Call on Second-Round Inflation W
 
 Sterling hits 3-week high vs dollar Business Recorder
 
+**GBP/USD Q4 Outlook: Can the Pound Turn the Tide Against a Hawkish Fed? - StoneX**
+`19 Oct 00:39 PKT` · pehli baar dekhi `19 Oct 06:48` · gnews_centralbanks
+
+GBP/USD Q4 Outlook: Can the Pound Turn the Tide Against a Hawkish Fed? StoneX
+
 **GBP/USD, Gold Forecasts: Two trades to watch - FOREX.com**
 `18 Oct 10:29 PKT` · pehli baar dekhi `19 Oct 02:42` · gnews_centralbanks
 
@@ -438,6 +443,11 @@ Attacks Cut Saudi Oil Output and East-West Pipeline Flow, State News Agency Says
 `19 Oct 00:00 PKT` · pehli baar dekhi `19 Oct 00:24` · oilprice
 
 The process of increasing the maximum power level at which a commercial nuclear power plant may operate is called a power uprate. Several nuclear plants are now considering applying for permission to uprate operations to produce more power in the mid-term to bridge the gap while more nuclear capacity is being developed. The United States Nuclear Regulatory Commission (NRC) regulates the maximum power level at which a commercial nuclear power plant may operate.
+
+**Blockade in the Strait of Hormuz and the banking market shock: US giant bank stocks collapse - Zamin.uz**
+`18 Oct 22:32 PKT` · pehli baar dekhi `19 Oct 06:48` · gnews_fed
+
+Blockade in the Strait of Hormuz and the banking market shock: US giant bank stocks collapse Zamin.uz
 
 **Ukrainian Drone Strike Hits Putin's Hometown, Striking Oil Terminal**
 `18 Oct 22:23 PKT` · pehli baar dekhi `19 Oct 00:24` · wsj_world
@@ -669,6 +679,16 @@ Is Rate Hike Expectations Altering The Investment Case For Fukuoka Financial Gro
 
 Trump waives sanctions and tariffs under the Lindsey Graham law.
 
+**Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies - EnergyNow**
+`19 Oct 01:02 PKT` · pehli baar dekhi `19 Oct 06:48` · gnews_geopolitics
+
+Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies EnergyNow
+
+**Qatar Said to Push LNG Expansion to 2027 After Iran Drone Attack - EnergyNow.com**
+`19 Oct 00:39 PKT` · pehli baar dekhi `19 Oct 06:48` · gnews_geopolitics
+
+Qatar Said to Push LNG Expansion to 2027 After Iran Drone Attack EnergyNow.com
+
 **India's crackdown on cockroaches, critics and cameras**
 `19 Oct 00:31 PKT` · pehli baar dekhi `19 Oct 02:42` · aljazeera
 
@@ -861,7 +881,7 @@ Global oil prices cross $100 a barrel as Iran war sends fuel prices surging ABC7
 
 Fires reported on three tankers as masked settlers attack European politicians in the occupied West Bank.
 
-### BINA TAG (143)
+### BINA TAG (144)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -904,6 +924,7 @@ Fires reported on three tankers as masked settlers attack European politicians i
 - `18 Oct 21:21` **gnews_fed** — US Stock Market Prediction: Dow Jones Futures Fall, S&P 500 Futures Decline & Nasdaq Futures Point Lower Ahead of Wall Street Opening; Check Monday Market Outlook, Key Things to Watch - The Sunday Guardian
 - `18 Oct 21:15` **mw_topstories** — 'Some people did everything right': I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?
 - `18 Oct 21:12` **gnews_fed** — Monday: Thin start for Asia as Tokyo shuts for Sports Day and US Treasuries stay closed. A huge week follows. - investingLive
+- `18 Oct 21:11` **gnews_centralbanks** — Will Rate Hikes Change Fukuoka Financial Group Stock Narrative - Yahoo Finance
 - `18 Oct 21:00` **mw_topstories** — My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?
 - `18 Oct 20:42` **wsj_markets** — Opinion | To Give Investors Certainty, Reform Permitting
 - `18 Oct 20:30` **aljazeera** — Photos: Antigovernment protesters clash with police in Albania's capital
@@ -1025,45 +1046,45 @@ investing_news (17)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 10 | 6 | 4 | 15 | 0.1 |
+| investinglive | OK | 25 | 17 | 7 | 10 | 8 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | WARN | 20 | 0 | 0 | 0 | 20 | 1.6 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.3 |
-| instaforex | OK | 25 | 14 | 12 | 2 | 11 | -0.2 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 1.0 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 38.2 |
+| actionforex | OK | 20 | 5 | 5 | 0 | 15 | 0.0 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.4 |
+| instaforex | OK | 25 | 25 | 11 | 14 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 1.1 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 38.3 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 54 | 54 | 11 | 43 | 0 | 0.0 |
-| gnews_geopolitics | OK | 44 | 44 | 3 | 41 | 0 | 0.1 |
-| gnews_centralbanks | OK | 39 | 39 | 6 | 33 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.9 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.8 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.5 |
-| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 2.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.9 |
+| gnews_fed | OK | 56 | 56 | 6 | 50 | 0 | 0.0 |
+| gnews_geopolitics | OK | 46 | 46 | 4 | 42 | 0 | 0.0 |
+| gnews_centralbanks | OK | 46 | 46 | 12 | 34 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.0 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.6 |
+| boj_whatsnew | OK | 50 | 0 | 0 | 0 | 50 | 2.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.0 |
 | mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
-| oilprice | OK | 15 | 6 | 1 | 5 | 9 | 0.0 |
-| investing_commodities | OK | 10 | 8 | 1 | 7 | 2 | 0.1 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
-| bbc_business | OK | 41 | 12 | 4 | 8 | 29 | 0.0 |
-| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
+| oilprice | OK | 15 | 7 | 1 | 6 | 8 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
+| bbc_business | OK | 42 | 13 | 1 | 12 | 29 | 0.1 |
+| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
 | snb_press | OK | 20 | 0 | 0 | 0 | 20 | 3.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 38.5 |
-| eia_energy | OK | 17 | 0 | 0 | 0 | 17 | 2.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 12.5 |
-| wsj_world | OK | 71 | 14 | 3 | 11 | 57 | 0.0 |
-| wsj_markets | OK | 60 | 7 | 2 | 5 | 53 | 0.0 |
-| investing_news | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 38.6 |
+| eia_energy | OK | 17 | 0 | 0 | 0 | 17 | 2.5 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 12.6 |
+| wsj_world | OK | 71 | 14 | 0 | 14 | 57 | 0.1 |
+| wsj_markets | OK | 60 | 12 | 5 | 7 | 48 | 0.0 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 8 | 1 | 7 | 2 | 0.3 |
-| cointelegraph | OK | 30 | 6 | 1 | 5 | 24 | 0.0 |
+| mw_topstories | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
+| cointelegraph | OK | 30 | 7 | 1 | 6 | 23 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
