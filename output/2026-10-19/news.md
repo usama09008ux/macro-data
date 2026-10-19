@@ -1,13 +1,48 @@
 # News Pack — Trading Day 19 Oct 2026
 
 - Trading day: **19 Oct 03:00 -> 20 Oct 02:59 PKT**
-- Aakhri update: **20 Oct 01:11 PKT**
-- Kul khabrein: **627**
-- Feeds: 34/39 OK
+- Aakhri update: **20 Oct 04:45 PKT**
+- Kul khabrein: **707**
+- Feeds: 33/39 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**10-Year yield rises as WTI Crude Oil futures top $104.**
+`20 Oct 01:51 PKT` · pehli baar dekhi `20 Oct 04:45` · cme_rates_video
+
+The 10-Year Treasury yield rallies to start the week, climbing 6.5 basis points to near 5.15% as WTI Crude Oil futures surge past $104, lifting inflation expectations. Despite the move higher, the 10-Year yield remains capped below 5.20% for a fourth consecutive session, having retreated from last week's 5.32% peak. Meanwhile, the CVOL index moves lower in a divergence from the typical pattern of rising volatility accompanying higher yields.
+
+**RBOB Gasoline futures trade near 3-week lows as prices decouple from crude.**
+`20 Oct 01:51 PKT` · pehli baar dekhi `20 Oct 04:45` · cme_energy_video
+
+RBOB Gasoline futures trade lower to near $3.188, testing a three-week low as prices decouple from WTI Crude Oil futures. While WTI Crude Oil futures remain near the high end of their recent range, RBOB Gasoline futures face selling pressure driven by global IEA inventory releases, potential Russian supply flows, and post-summer seasonal demand weakness.
+
+**Euro FX futures decline as a stronger U.S. dollar snaps a 2-day rally.**
+`20 Oct 01:51 PKT` · pehli baar dekhi `20 Oct 04:45` · cme_fx_video
+
+Euro FX futures slide to start the week as a firming U.S. dollar snaps a two-day rally, pushing the euro back toward 1.12. Euro volatility rises alongside the pullback toward 18-month lows, while speculators expand their net short positions to the highest level in 10 years.
+
+**Gold futures trade lower as rising Treasury yields lift the dollar.**
+`20 Oct 01:50 PKT` · pehli baar dekhi `20 Oct 04:45` · cme_metals_video
+
+Gold futures trade slightly lower, retreating from early session gains as rising Treasury yields and a stronger U.S. dollar apply selling pressure. Prices maintain a tight three-week range, pulling back to trade near $4,164, with the recent high close at $4,216 and the low close at $4,108.
+
+**Grain futures broadly lower on harvest progress and weak export commitments.**
+`20 Oct 01:50 PKT` · pehli baar dekhi `20 Oct 04:45` · cme_daily_commentary
+
+Soybean futures reach a new two-month low as money managers cut net long positions and better weather aids the Midwest harvest. Corn futures also fall to a two-month low, weighed down by export commitments dropping 33% from last year and lagging the USDA's expected pace. Wheat futures decline further, with investors maintaining a long-standing net short position while December option call open interest increases to 146,000.
+
+**Feeder Cattle futures rise $40 from August low on tight supply.**
+`20 Oct 01:49 PKT` · pehli baar dekhi `20 Oct 04:45` · cme_daily_commentary
+
+Feeder Cattle futures firm up on tight supply, rising $40 from their August 26 low as feedlot placements hit historic lows. Live Cattle futures remain sideways as the market awaits Friday's Cattle on Feed report, while Lean Hog futures slip on soft global demand despite rising export expectations.
+
+**E-mini S&P 500 futures rally 0.5% to 7,750 as tech and AI drive gains.**
+`20 Oct 01:49 PKT` · pehli baar dekhi `20 Oct 04:45` · cme_daily_commentary
+
+E-mini S&P 500 futures rally to start the week, climbing 0.5% to close at 7,750 as strength in tech and AI offsets headwinds from rising Treasury yields and higher oil prices. Volatility moves lower, retracing after last week's spike to a multi-month high close. Markets now look ahead to Tuesday's ADP employment data and the broader earnings season.
 
 **Tech rebounds as AI earnings kick off.**
 `19 Oct 21:31 PKT` · pehli baar dekhi `20 Oct 01:11` · cme_metals_video
@@ -22,6 +57,31 @@ Bob Iaccino of Path Trading Partners breaks down the morning's market action as 
 ## Khabrein
 
 ### MARKET WRAP
+
+**Bank of Canada preview: Scotiabank expects a 25 bp hike next week despite softer core CPI**
+`20 Oct 02:11 PKT` · pehli baar dekhi `20 Oct 04:45` · investinglive
+
+With markets pricing about 18 basis points of tightening, a hike next week is the base case but not fully locked in, leaving room for the Canadian dollar and front-end yields to move on the decision and guidance. Canada's two-year bonds have been the weakest front end among the major markets, reflecting that shift in pricing.
+
+**Morgan Stanley IM says bond yields are rising for the right reasons, favours US and Japan**
+`20 Oct 01:53 PKT` · pehli baar dekhi `20 Oct 04:45` · investinglive
+
+Morgan Stanley IM's view offers a more benign reading of the yield rise than fears of fiscal strain or a growth scare, and if markets adopt it, US equities could keep absorbing higher yields as long as earnings deliver. The house's underweight in duration and preference for credit suggest it expects long-dated Treasuries to stay under pressure rather than rally.
+
+**Goldman Sachs says rising global bond yields reflect a growing competition for capital**
+`20 Oct 01:39 PKT` · pehli baar dekhi `20 Oct 04:45` · investinglive
+
+If Goldman is right that higher yields reflect structural demand for capital rather than a temporary inflation scare, the pressure on long-dated bonds may prove persistent, keeping term premiums elevated across developed markets. For equities, the read-through is that index-level strength is resting heavily on earnings, so any disappointment from AI-linked leaders could expose valuations that have already compressed.
+
+**investingLive Americas market news wrap: AI trades rebound but so does oil**
+`20 Oct 01:20 PKT` · pehli baar dekhi `20 Oct 04:45` · investinglive
+
+Canada September CPI 3.1% y/y vs 3.2% expected US NAHB housing market index 29 vs 31 prior Bank of Canada Q3 business outlook survey -0.33 vs -0.38 prior CIBC cuts gold forecasts but still sees $5,500 in 2028 Oil reverses course higher after US and Houthi attacks Markets: S&P 500 up 0.4% WTI crude oil up $2.37 to $103.78 US 10-year yields up 4.2 bps to 5.14% AUD leads, JPY lags Gold down $25 to $4139 The AI trade rebounded on Monday as memory and chip names jumped on renewed optimism even as ...
+
+**China LPR preview: rates seen on hold for a 17th month after Q3 GDP beat**
+`20 Oct 01:05 PKT` · pehli baar dekhi `20 Oct 04:45` · investinglive
+
+A hold is widely expected and should be largely priced, so any reaction is likely to come only from a surprise. An unexpected cut (not gonna happen... thats how unespected it'd be!) would probably weigh on the yuan, given the already wide gap between US and Chinese yields, while giving Chinese equities and property names a lift. The Australian and New Zealand dollars, often traded as proxies for Chinese growth, could firm on a cut as a sign of extra support for demand.
 
 **CIBC cuts gold forecasts but still sees $5,500 in 2028**
 `19 Oct 23:59 PKT` · pehli baar dekhi `20 Oct 01:11` · investinglive
@@ -171,6 +231,16 @@ A wider trade gap is a modest negative for the New Zealand dollar at the margin,
 
 ### GOLD
 
+**TAG: gold ETF allocation - Kitco**
+`20 Oct 02:20 PKT` · pehli baar dekhi `20 Oct 04:45` · kitco_general
+
+TAG: gold ETF allocation Kitco
+
+**TAG: precious metals ETFs - Kitco**
+`20 Oct 02:20 PKT` · pehli baar dekhi `20 Oct 04:45` · kitco_general
+
+TAG: precious metals ETFs Kitco
+
 **The New Wild West of Gold Mining Is West Africa**
 `20 Oct 00:18 PKT` · pehli baar dekhi `20 Oct 01:11` · wsj_world
 
@@ -187,10 +257,25 @@ Mining companies have invested billions of dollars in new gold mines to cash in 
 
 TAG: silver ETF inflows Kitco
 
+**TAG: gold price prediction 2027 - Kitco**
+`19 Oct 23:09 PKT` · pehli baar dekhi `20 Oct 04:45` · kitco_general
+
+TAG: gold price prediction 2027 Kitco
+
 **Digital gold could triple by 2031, WGC estimates**
 `19 Oct 22:45 PKT` · pehli baar dekhi `20 Oct 01:11` · mining_com
 
 The gold industry's opportunity is reaching buyers beyond its existing bullion and exchange-traded fund customers.
+
+**Gold falls as dollar, Treasury yields rise; silver holds modest gains - Kitco PM Report - Kitco**
+`19 Oct 22:25 PKT` · pehli baar dekhi `20 Oct 04:45` · kitco_general
+
+Gold falls as dollar, Treasury yields rise; silver holds modest gains - Kitco PM Report Kitco
+
+**'I got out of my bank stocks': Why former Fed insider Chris Whalen is betting on gold - Kitco**
+`19 Oct 22:10 PKT` · pehli baar dekhi `20 Oct 04:45` · kitco_general
+
+'I got out of my bank stocks': Why former Fed insider Chris Whalen is betting on gold Kitco
 
 **Sudan gold rush leaves toxic legacy as war drives mining**
 `19 Oct 20:45 PKT` · pehli baar dekhi `20 Oct 01:11` · mining_com
@@ -338,6 +423,11 @@ Commodity Corner: Oil slips on Russian supply outlook; gold gains on Fed rate ex
 
 Gold edges higher as investors assess Fed rate-hike odds The Economic Times
 
+**Silver Gains as Fed Rate Hike Bets Ease - TradingView**
+`19 Oct 07:02 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_fed
+
+Silver Gains as Fed Rate Hike Bets Ease TradingView
+
 **Gold Rises as Fed Rate Hike Bets Ease - TradingView**
 `19 Oct 07:01 PKT` · pehli baar dekhi `19 Oct 11:59` · gnews_fed
 
@@ -353,6 +443,11 @@ Gold Steady as Rate-Hike Bets Ease, Oil Pushes Yields Higher Livemint
   - `19 Oct 04:52` *gnews_fed* — Gold Steady as Rate-Hike Bets Ease, Oil Pushes Yields Higher - Livemint
 
 ### USD
+
+**Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback**
+`20 Oct 02:04 PKT` · pehli baar dekhi `20 Oct 04:45` · cointelegraph
+
+The former medical device maker has liquidated its Solana treasury and is offering to repurchase shares and warrants using its $223.8 million cash holdings.
 
 **FTSE 100 Falls by Over 1%**
 `20 Oct 01:11 PKT` · instaforex
@@ -388,6 +483,11 @@ Technology stocks are trying to recover, but a report from Goldman Sachs highlig
 
 Treasury Yields Climb Ahead Of Federal Reserve's October Rate Decision tippinsights
 
+**Fed issues guidance implementing $6B threshold for 18-month exam cycle - JD Supra**
+`19 Oct 21:06 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_fed
+
+Fed issues guidance implementing $6B threshold for 18-month exam cycle JD Supra
+
 **Economists surveyed by The Wall Street Journal now see higher bond yields for longer, firmer growth and eventual relief on inflation**
 `19 Oct 20:44 PKT` · pehli baar dekhi `20 Oct 01:11` · wsj_economy
 
@@ -407,6 +507,11 @@ Markets expect steady Fed policy as French debt spread nears 150 basis points Cr
 `19 Oct 20:10 PKT` · pehli baar dekhi `20 Oct 01:11` · gnews_fed
 
 Kevin Hassett says US inflation needs attention after September price increases Business Upturn
+
+**Fed Eyes Rate Hikes as AI Boom Drives Inflation | October 2026 - News and Statistics - IndexBox**
+`19 Oct 19:51 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_fed
+
+Fed Eyes Rate Hikes as AI Boom Drives Inflation | October 2026 - News and Statistics IndexBox
 
 **TAG: October Fed rate hike - Kitco**
 `19 Oct 19:38 PKT` · pehli baar dekhi `20 Oct 01:11` · kitco_general
@@ -707,6 +812,11 @@ The NZX 50 slipped 44 points, or 0.3%, to 13,710 in Monday morning trading, exte
 The million-dollar question: How much do you need to retire? New Hampshire Union Leader
 
 ### EUR
+
+**Opinion | The Generation Conflagration**
+`20 Oct 01:53 PKT` · pehli baar dekhi `20 Oct 04:45` · wsj_world
+
+Conflicts between young and old lead to protests in India and riots in France.
 
 **European Stocks Pull Back**
 `20 Oct 01:11 PKT` · instaforex
@@ -1087,6 +1197,11 @@ Intraday bias in USD/CHF stays neutral first with focus on 0.8227 support. Stron
 
 ### CAD
 
+**Bank of Canada Survey Records Notable Rise in Inflation Expectations**
+`20 Oct 01:27 PKT` · pehli baar dekhi `20 Oct 04:45` · wsj_economy
+
+Economists say the survey results could set the stage for a Bank of Canada interest-rate increase next week.
+
 **Lumber Drops Toward Two-Year Low**
 `20 Oct 01:13 PKT` · pehli baar dekhi `20 Oct 01:11` · instaforex
 
@@ -1217,6 +1332,11 @@ The repricing so far is selective rather than AI-wide: the heaviest pressure fal
 
 ### NZD
 
+**NZDUSD buyers build momentum as the recovery approaches its next resistance test**
+`20 Oct 01:20 PKT` · pehli baar dekhi `20 Oct 04:45` · investinglive
+
+Buyers start to turn the technical picture around The NZDUSD buyers have started to turn the shorter-term technical picture around after the prolonged move lower. The recovery has come in steps, with each break giving buyers a little more confidence. However, there is still work to do before the recent gains can develop into a more meaningful correction of the broader decline.
+
 **NZX 50 Extends Losses, Ends at 4-Week Low**
 `19 Oct 11:59 PKT` · instaforex
 
@@ -1284,6 +1404,11 @@ New Zealand's trade balance deteriorated further in September 2026, with the def
 
 ### OIL
 
+**US strategic oil reserve falls to lowest since 1982 as Iran war release drains stocks**
+`20 Oct 02:44 PKT` · pehli baar dekhi `20 Oct 04:45` · investinglive
+
+A smaller emergency reserve reduces Washington's ability to respond to any fresh supply shock, which could add to the risk premium in crude if the Iran war escalates. Goldman Sachs estimated last week that spot Brent carries a premium of nearly $25 a barrel above fair value (I'll have more to come on this separately), citing near-record-low global inventories as one of the factors keeping prices high.
+
 **Ecuador Trade Balance Swings to Deficit**
 `20 Oct 01:05 PKT` · pehli baar dekhi `20 Oct 01:11` · instaforex
 
@@ -1318,9 +1443,10 @@ Qatar is offering to take over Lebanon's power supply problem at no upfront cost
 The Fed's Beige Book is Mentioning Diesel a Lot More Than Before. What That Could Mean for Consumer Prices. International Business Times
 
 **Oil breaches $110 after US reportedly strikes Iranian naval base - Invezz**
-`19 Oct 22:48 PKT` · pehli baar dekhi `20 Oct 01:11` · gnews_geopolitics
+`19 Oct 22:48 PKT` · pehli baar dekhi `20 Oct 01:11` · gnews_geopolitics · **2 feeds mein**
 
 Oil breaches $110 after US reportedly strikes Iranian naval base Invezz
+  - `19 Oct 22:28` *gnews_geopolitics* — Oil breaches $110 after US reportedly strikes Iranian naval base - TradingView
 
 **Pakistan's Growth Slows as Hormuz Crisis Hits Industry**
 `19 Oct 22:30 PKT` · pehli baar dekhi `20 Oct 01:11` · oilprice
@@ -1337,10 +1463,30 @@ Oil prices have reversed higher in light of fresh reports about two separate Mid
 
 The oil price rally resumed its upward trajectory on Friday after the U.S. Central Command (CENTCOM) confirmed the sinking of the Singapore-flagged container ship following an Iranian Revolutionary Guard Corps (IRGC) projectile strike in the Strait of Hormuz.
 
+**Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say - EnergyNow**
+`19 Oct 21:30 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
+
+Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say EnergyNow
+
+**Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com**
+`19 Oct 21:13 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
+
+Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com
+
+**Port of Fujairah Resumes Oil Loadings After Attack and Why it Matters Globally - EnergyNow.com**
+`19 Oct 21:00 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
+
+Port of Fujairah Resumes Oil Loadings After Attack and Why it Matters Globally EnergyNow.com
+
 **What's Trump's Thinking Behind The 'Diesel Deal' With Russia?**
 `19 Oct 21:00 PKT` · pehli baar dekhi `20 Oct 01:11` · oilprice
 
 While it is very trendily woke to attack U.S. President Donald Trump whenever possible, the truth is rarely trendy or woke -- it is usually tough, pragmatic, and increasingly unpopular in today's world. Precisely where his recent decision to import Russian diesel into the U.S. fits into this matrix remains to be seen, but there is a lot more to it than initially meets the eye. So, what is that exactly?
+
+**Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March - EnergyNow.com**
+`19 Oct 20:55 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
+
+Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March EnergyNow.com
 
 **Iraq's October Oil Exports Top 3.4 Million Bpd, Nearing Pre-War Levels**
 `19 Oct 20:30 PKT` · pehli baar dekhi `20 Oct 01:11` · oilprice
@@ -1386,6 +1532,16 @@ Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say En
 `19 Oct 18:30 PKT` · pehli baar dekhi `19 Oct 19:35` · oilprice
 
 A Qatari LNG cargo is traveling north in the Red Sea to deliver gas to Europe via the Suez Canal in a rare shipment on the shortest but dangerous route to Europe amid the Houthi threats to tankers in the southern Red Sea and the Bab el-Mandeb Strait. The tanker loaded LNG from Qatar in August and is now moving north in the Red Sea with Poland as its destination, Bloomberg reported on Monday, quoting vessel-tracking data it had compiled.
+
+**U.S. Strikes Iranian Launchers Near Strait of Hormuz, Sending Oil Prices Higher - EnergyNow.com**
+`19 Oct 18:23 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
+
+U.S. Strikes Iranian Launchers Near Strait of Hormuz, Sending Oil Prices Higher EnergyNow.com
+
+**Oil Prices Little Changed for Week as US-Iran Peace Efforts Hold - EnergyNow.com**
+`19 Oct 18:23 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
+
+Oil Prices Little Changed for Week as US-Iran Peace Efforts Hold EnergyNow.com
 
 **IRAN'S "CROWN JEWEL" – Kharg Island, Struck by US, is Key Hub for Iran Oil Exports - EnergyNow**
 `19 Oct 18:20 PKT` · pehli baar dekhi `20 Oct 01:11` · gnews_geopolitics
@@ -1508,6 +1664,11 @@ Indonesia's IDX Composite dropped 270 points, or 5.2%, to 4,915 in early Monday 
 
 IEA Slashes 2026 Supply Forecast as Hormuz Reopening Remains Elusive EnergyNow.com
 
+**OIL IN 2026 – Analysts Hike Oil Outlook on Geopolitical Risks, Oversupply Concerns Limit Upside - EnergyNow.com**
+`19 Oct 11:07 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
+
+OIL IN 2026 – Analysts Hike Oil Outlook on Geopolitical Risks, Oversupply Concerns Limit Upside EnergyNow.com
+
 **Oil and Geopolitics in Focus After Turbulent Weekend**
 `19 Oct 11:02 PKT` · pehli baar dekhi `19 Oct 11:59` · actionforex
 
@@ -1562,6 +1723,11 @@ US heating oil futures slipped to about $4.80 per gallon after President Donald 
 `19 Oct 06:41 PKT` · pehli baar dekhi `19 Oct 19:35` · gnews_geopolitics
 
 Trump Officials Tout US Energy Dominance as Global Oil Execs Warn of Supply Crisis EnergyNow.com
+
+**Oil Holds Near Six-Week Highs as U.S.-Iran Conflict Keeps Supply Risk Elevated - EnergyNow**
+`19 Oct 06:37 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
+
+Oil Holds Near Six-Week Highs as U.S.-Iran Conflict Keeps Supply Risk Elevated EnergyNow
 
 **Oil Futures Fall on Possible Correction, But Drop May Be Limited by Geopolitical Tensions**
 `19 Oct 06:21 PKT` · pehli baar dekhi `19 Oct 06:48` · wsj_markets
@@ -1618,6 +1784,21 @@ Oil prices slide as sanctions relief on Russian crude raises hopes of increased 
 
 ### CRYPTO
 
+**Crypto PAC pours $362K into California race voters essentially decided in August**
+`20 Oct 01:22 PKT` · pehli baar dekhi `20 Oct 04:45` · cointelegraph
+
+A Fairshake affiliate is supporting incumbent Aisha Wahab through ads in November, but the congresswoman already won a special election in the district.
+
+**XRP and Bitcoin Price Outlook Ahead of October 28 FOMC Meeting - CoinGape**
+`20 Oct 01:17 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_fed
+
+XRP and Bitcoin Price Outlook Ahead of October 28 FOMC Meeting CoinGape
+
+**Here's what happened in crypto today**
+`20 Oct 01:02 PKT` · pehli baar dekhi `20 Oct 04:45` · cointelegraph
+
+Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.
+
 **Market participants weigh in on SEC's proposed crypto regulations**
 `20 Oct 00:54 PKT` · pehli baar dekhi `20 Oct 01:11` · cointelegraph
 
@@ -1638,6 +1819,11 @@ The new service combines payment data and blockchain analytics to help banks det
 
 The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates.
 
+**'Short the dollar' and hold gold or Bitcoin as inflation erodes wealth – Ledn's Leeds - Kitco**
+`19 Oct 21:48 PKT` · pehli baar dekhi `20 Oct 04:45` · kitco_general
+
+'Short the dollar' and hold gold or Bitcoin as inflation erodes wealth – Ledn's Leeds Kitco
+
 **Metaplanet to take 93.7% stake in Super League through 2,100 BTC deal**
 `19 Oct 21:41 PKT` · pehli baar dekhi `20 Oct 01:11` · cointelegraph
 
@@ -1657,6 +1843,11 @@ Bitcoin price action failed to improve with equities as a sell wall at $83,000 k
 `19 Oct 20:29 PKT` · pehli baar dekhi `20 Oct 01:11` · investinglive
 
 Bitcoin made a run higher today, but the buyers have some work to do. After moving above both its 100- and 200-hour moving averages and reaching $83,075, the price has rotated back between those technical levels. That puts the short-term bias back in neutral territory, with traders waiting for the next shove. Last week's rebound stalled below the moving averages Last week, bitcoin moved higher and found resistance near $84,178. A ceiling was developed at that area, before rotating lower.
+
+**SoftBank Debt Hits USD 164B Amid Fed Rate Hike, Crypto Fears - Analytics Insight**
+`19 Oct 18:45 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_fed
+
+SoftBank Debt Hits USD 164B Amid Fed Rate Hike, Crypto Fears Analytics Insight
 
 **Made an 'honest' mistake with crypto taxes? New bill offers way out**
 `19 Oct 18:30 PKT` · pehli baar dekhi `19 Oct 19:35` · cointelegraph
@@ -1783,10 +1974,25 @@ Federal Reserve Rate Hike Mortgage Impact: What 7.4% Rates Actually Mean for the
 
 ### RISK
 
+**Goldman Sachs estimates central banks bought 79 tonnes of gold in August, led by China**
+`20 Oct 02:31 PKT` · pehli baar dekhi `20 Oct 04:45` · investinglive
+
+Steady central bank buying gives gold a source of demand that tends to be less sensitive to price than investment flows, which can help cushion pullbacks driven by speculative or ETF selling. That matters more now that bond yields are high across developed markets, a backdrop that would normally weigh on a non-yielding asset like gold. The pick-up in August suggests official buyers have not been deterred by elevated prices.
+
+**Why Invading Iran Could Become America's Biggest Military Mistake**
+`20 Oct 02:00 PKT` · pehli baar dekhi `20 Oct 04:45` · oilprice
+
+The ghosts of Baghdad and Kabul should be enough to silence any talk of sending American troops into Iran. Yet here we are, more than seven months into a war that began on 28 February with U.S.-Israeli strikes that killed Supreme Leader Ali Khamenei, and voices in Washington and Tel Aviv are again whispering that only boots on the ground can finish the job. Plans to seize Kharg Island, Iran's main oil export terminal, or push inland to seize Iran's enriched uranium have circulated since March.
+
 **Trump Says He Would Be Open to Meeting With Putin and Xi**
 `20 Oct 01:08 PKT` · pehli baar dekhi `20 Oct 01:11` · wsj_world
 
 The president said he would be willing to discuss denuclearization with the leaders of Russia and China.
+
+**US EIA Hikes Oil Price Forecasts Again as Iran War Drains Global Stockpile - EnergyNow**
+`20 Oct 01:07 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
+
+US EIA Hikes Oil Price Forecasts Again as Iran War Drains Global Stockpile EnergyNow
 
 **Trump approval falls to record low. Poll shows Republicans losing badly in midterms**
 `20 Oct 00:58 PKT` · pehli baar dekhi `20 Oct 01:11` · investinglive
@@ -1823,10 +2029,25 @@ HSBC bought $130m in shares in firms tied to Israel's military, in breach of Isl
 
 Public opposition to the war on Iran could threaten Republican control of Congress.
 
+**Oil's long view darkens as Iran war refuses to end - The Daily Star**
+`19 Oct 21:17 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
+
+Oil's long view darkens as Iran war refuses to end The Daily Star
+
 **Saudi Arabia Postpones 'Davos in the Desert' Event Slated for Next Week**
 `19 Oct 21:12 PKT` · pehli baar dekhi `20 Oct 01:11` · wsj_world
 
 The conference will be delayed until 2027, following attacks by the Iran-backed Houthis on the kingdom's airports.
+
+**Iran War Disruption Beyond 3-4 Months Poses Systemic Risk to Global Economy, Total CEO Says - EnergyNow.com**
+`19 Oct 21:10 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
+
+Iran War Disruption Beyond 3-4 Months Poses Systemic Risk to Global Economy, Total CEO Says EnergyNow.com
+
+**Iran War Erodes Exxon, Chevron Profits Even as Oil Prices Soar - EnergyNow.com**
+`19 Oct 20:53 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
+
+Iran War Erodes Exxon, Chevron Profits Even as Oil Prices Soar EnergyNow.com
 
 **Russia's Lavrov discusses US war and regional security in Tehran visit**
 `19 Oct 20:15 PKT` · pehli baar dekhi `20 Oct 01:11` · aljazeera · **2 feeds mein**
@@ -1838,6 +2059,11 @@ Russia's FM Sergey Lavrov is in Tehran for his first visit since the outbreak of
 `19 Oct 19:14 PKT` · pehli baar dekhi `19 Oct 19:35` · gnews_geopolitics
 
 Oil prices fall as Trump waives Russia sanctions amid global supply concerns Business Upturn
+
+**Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies - EnergyNow.com**
+`19 Oct 18:50 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
+
+Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies EnergyNow.com
 
 **Doctors describe hospitals shattered by Israel's genocide in Gaza**
 `19 Oct 18:36 PKT` · pehli baar dekhi `19 Oct 19:35` · aljazeera
@@ -1946,6 +2172,16 @@ The reported $200m in aid from Iran to Hezbollah has put the Lebanese government
 
 Bitcoin rebounded from a key support as the risk sentiment improved a bit after the fall in oil prices. The catalyst was Trump's waiver of several Russia sanctions as an attempt to ease fuel shortages and contain prices without making concessions to Iran. Ukraine's attacks on energy infrastructure, though, will likely keep the risk premium high, so without a de-escalation in the Middle East, oil prices are unlikely to come off the highs that much.
 
+**Oil Prices Fall After US and Iran Receive Framework Ceasefire Proposal - EnergyNow.com**
+`19 Oct 11:02 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
+
+Oil Prices Fall After US and Iran Receive Framework Ceasefire Proposal EnergyNow.com
+
+**Edison Says Qatar Still Evaluating Impact of Iran Attack on LNG Supply - EnergyNow.com**
+`19 Oct 10:33 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
+
+Edison Says Qatar Still Evaluating Impact of Iran Attack on LNG Supply EnergyNow.com
+
 **Iran War, Hormuz Disruption Keep Energy Security in Focus - Kurdistan24**
 `19 Oct 10:32 PKT` · pehli baar dekhi `19 Oct 11:59` · gnews_geopolitics
 
@@ -1994,6 +2230,11 @@ Iran War Upends IEA's Oil Market Outlook as Global Supply and Demand to Contract
 
 Oil prices ease as Trump waives Russia sanctions, Middle East risks persist The Times of India
 
+**Discount on Western Canada Select Narrows Again as Iran War Restricts Middle East Supplies - EnergyNow**
+`19 Oct 06:42 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
+
+Discount on Western Canada Select Narrows Again as Iran War Restricts Middle East Supplies EnergyNow
+
 **U.S. stock futures climb as investors return to AI trade after selloff**
 `19 Oct 06:32 PKT` · pehli baar dekhi `19 Oct 06:48` · investing_news
 
@@ -2030,26 +2271,55 @@ The Russian leader is trying to capitalize on warming ties with the president to
 
 Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies Reuters
 
-### BINA TAG (199)
+### BINA TAG (230)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `20 Oct 02:58` **mw_topstories** — Blood clots are 'incredibly common,' even for pro athletes like Jalen Hurts. Here's what to know.
+- `20 Oct 02:49` **wsj_markets** — Tradeweb to Buy Trumid For About $1.97 Billion
+- `20 Oct 02:46` **aljazeera** — Egyptian parliament delays vote on military support for Saudi Arabia
+- `20 Oct 02:45` **mining_com** — Study nearly doubles value, lifts resource for Aclara's Penco rare earths project
+- `20 Oct 02:38` **aljazeera** — 160 people reported killed in escalating drone attacks across Sudan
+- `20 Oct 02:36` **mw_topstories** — Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors
+- `20 Oct 02:35` **wsj_markets** — Opinion | Elon Musk Beats Anthropic on Giveaways
+- `20 Oct 02:33` **mining_com** — Brazil survey plan could give big miners first pick of claims
+- `20 Oct 02:32` **wsj_world** — Opinion | How Israel Can Help the Board of Peace
+- `20 Oct 02:30` **bbc_business** — Burnham vows end to 'rip-off parking charges' under new rules
+- `20 Oct 02:28` **aljazeera** — Could your halal pension be funding Israel's military?
+- `20 Oct 02:12` **bbc_business** — Ex-OpenAI worker accused of planting device had Saudi support, says court filing
+- `20 Oct 02:07` **mining_com** — Military Metals wins four-year Slovak licence lifeline
+- `20 Oct 02:00` **aljazeera** — Israeli police say they arrested 10 in connection with settler attacks
+- `20 Oct 02:00` **mw_topstories** — Why the midterm elections are likely to become a strong tailwind for the stock market
+- `20 Oct 01:59` **aljazeera** — Trump approval hits record-low 31 percent, polls show Republican struggles
+- `20 Oct 01:58` **wsj_markets** — U.S. Stocks Mostly Higher as AI Credit Worries Abate
+- `20 Oct 01:49` **aljazeera** — Injured Ukrainian soldier rescued in first-ever drone evacuation mission
+- `20 Oct 01:32` **investinglive** — Nasdaq and S&P rebounds; Dow slips
+- `20 Oct 01:31` **aljazeera** — Kenya convicts cult leader over the murder of 190 children
+- `20 Oct 01:29` **aljazeera** — Trump signs order launching women's health division at NIH, White House
+- `20 Oct 01:18` **wsj_markets** — Elon Musk Promises to Give Out SpaceX Shares to U.S. Children
 - `20 Oct 01:16` **instaforex** — Colombia's Leading Economic Index Contracts
 - `20 Oct 01:11` **instaforex** — Argentina's Trade Surplus Widens in September, Bolstering External Position
+- `20 Oct 00:57` **aljazeera** — Finland seeking one million land mines as it eyes Russian threat
+- `20 Oct 00:56` **gnews_centralbanks** — Rates Spark: French spreads singed by violent protests - ing think
 - `20 Oct 00:54` **investing_news** — Aeromexico eyes new US flights after Washington lifts Mexico City restrictions
 - `20 Oct 00:54` **investing_news** — Aeromexico eyes US expansion after Washington lifts flight curbs
 - `20 Oct 00:52` **investing_news** — Fintech Ramp applies for OCC trust bank charter to expand asset services
+- `20 Oct 00:50` **gnews_fed** — AMD (AMD) Stock Trades Up, Here Is Why - TradingView
+- `20 Oct 00:50` **aljazeera** — One killed in US shooting near mosque in Columbus, Ohio
+- `20 Oct 00:48` **aljazeera** — Florida issues arrest warrant for Cuban leader Raul Castro
 - `20 Oct 00:48` **investing_news** — Nscale, Anthropic in talks for $45 billion cloud computing deal, Bloomberg News reports
 - `20 Oct 00:48` **investing_news** — LiveRamp stock rises as FTC clears Publicis acquisition
 - `20 Oct 00:47` **mw_topstories** — SpaceX earnings will be all about AI — for better or for worse
 - `20 Oct 00:42` **investing_commodities** — Exclusive-Trump approval falls to record low of 31% as midterms near, Reuters/Ipsos poll finds
 - `20 Oct 00:38` **aljazeera** — Residents hoisted from rooftops amid Spain's deadly flooding
+- `20 Oct 00:36` **kitco_general** — NMDC puts nickel foray on hold on global oversupply concerns, sources say - Kitco
 - `20 Oct 00:30` **mw_topstories** — Why Elon Musk, Anthropic and other AI titans are giving away shares
 - `20 Oct 00:17` **investing_commodities** — Copper holds $6.539 support as bears dominate: Live levels
 - `20 Oct 00:09` **aljazeera** — Indian court extends detention of 'Cockroach' leaders
 - `19 Oct 23:39` **aljazeera** — Protesters block Louvre in support of French student movement
 - `19 Oct 23:33` **wsj_world** — Young Protesters Are Putting India's Modi on the Defensive
 - `19 Oct 23:23` **aljazeera** — Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor
+- `19 Oct 23:21` **bbc_business** — US bans DeepSeek AI from government use as tech tension with China continues
 - `19 Oct 23:21` **aljazeera** — Netanyahu's new security doctrine: Regional strategy or election ploy?
 - `19 Oct 23:11` **aljazeera** — Benny Gantz drops out of Israel's election race
 - `19 Oct 23:10` **wsj_world** — Opinion | Obama's Dangerous Mideast Words
@@ -2065,6 +2335,7 @@ Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies Re
 - `19 Oct 22:24` **aljazeera** — Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment
 - `19 Oct 22:23` **aljazeera** — 12 migrants, including an infant, drown in two incidents off Greece
 - `19 Oct 22:22` **kitco_general** — TAG: US consumer financial stress - Kitco
+- `19 Oct 22:22` **kitco_general** — TAG: Anderson, Williams, & Farrow - Kitco
 - `19 Oct 22:13` **mining_com** — Volvo to launch mining division to meet global equipment demand
 - `19 Oct 22:13` **wsj_world** — Israel's Front-Runners Shun Arab Voters Who Could Help Them Win Election
 - `19 Oct 21:46` **bbc_business** — Vinted blocks French looters listing stolen goods for sale
@@ -2150,6 +2421,7 @@ Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies Re
 - `19 Oct 15:20` **gnews_fed** — Rural America Just Got Poorer: Non-Metro Families Lost 19% of Their Wealth in 3 Years - 24/7 Wall St.
 - `19 Oct 15:18` **gnews_fed** — Pound Holds Near One-Month High - TradingView
 - `19 Oct 15:16` **gnews_centralbanks** — Consumer confidence slumps to lowest point in more than three years - East Renfrewshire News
+- `19 Oct 15:15` **gnews_centralbanks** — Consumer confidence slumps to lowest point in more than three years - Yahoo Finance UK
 - `19 Oct 15:12` **gnews_centralbanks** — Consumer confidence slumps to lowest point in more than three years - Herts Advertiser
 - `19 Oct 15:08` **aljazeera** — WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages
 - `19 Oct 15:08` **aljazeera** — Mexican protesters demanding clean water storm state congress
@@ -2250,48 +2522,49 @@ investing_news (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 3.2 |
-| instaforex | OK | 25 | 25 | 9 | 16 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 6 | 1 | 5 | 30 | 0.2 |
-| cme_metals_video | OK | 10 | 1 | 1 | 0 | 9 | 0.2 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_daily_commentary | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 39.1 |
-| kitco_general | OK | 26 | 26 | 14 | 12 | 0 | 0.1 |
-| gnews_fed | OK | 57 | 53 | 19 | 34 | 4 | 0.0 |
-| gnews_geopolitics | OK | 60 | 58 | 9 | 49 | 2 | 0.0 |
-| gnews_centralbanks | OK | 40 | 38 | 9 | 29 | 2 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 6.1 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.7 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.4 |
-| boj_whatsnew | OK | 49 | 0 | 0 | 0 | 49 | 3.5 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.7 |
-| mining_com | OK | 36 | 8 | 6 | 2 | 28 | 0.1 |
-| oilprice | OK | 15 | 15 | 10 | 5 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| ing_think | OK | 10 | 3 | 1 | 2 | 7 | 0.2 |
-| bbc_business | OK | 47 | 14 | 2 | 12 | 33 | 0.1 |
-| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.5 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 39.4 |
-| eia_energy | OK | 18 | 1 | 0 | 1 | 17 | 0.3 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 13.3 |
-| wsj_world | OK | 72 | 20 | 9 | 11 | 52 | 0.0 |
-| wsj_markets | OK | 61 | 18 | 2 | 16 | 43 | 0.0 |
-| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.4 |
+| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 3.3 |
+| instaforex | OK | 25 | 25 | 8 | 17 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 6 | 1 | 5 | 30 | 0.1 |
+| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
+| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
+| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
+| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
+| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.1 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 39.2 |
+| kitco_general | OK | 36 | 36 | 12 | 24 | 0 | 0.0 |
+| gnews_fed | OK | 57 | 57 | 6 | 51 | 0 | 0.1 |
+| gnews_geopolitics | OK | 61 | 61 | 17 | 44 | 0 | 0.2 |
+| gnews_centralbanks | OK | 35 | 35 | 2 | 33 | 0 | 0.2 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 6.2 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.9 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.5 |
+| boj_whatsnew | OK | 49 | 0 | 0 | 0 | 49 | 3.7 |
+| rba_media | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| mining_com | OK | 36 | 12 | 4 | 8 | 24 | 0.0 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| ing_think | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
+| bbc_business | OK | 51 | 19 | 4 | 15 | 32 | 0.0 |
+| aljazeera | OK | 25 | 25 | 14 | 11 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.7 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 39.5 |
+| eia_energy | OK | 18 | 1 | 0 | 1 | 17 | 0.4 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 13.5 |
+| wsj_world | OK | 72 | 22 | 2 | 20 | 50 | 0.1 |
+| wsj_markets | OK | 61 | 21 | 4 | 17 | 40 | 0.1 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 21 | 7 | 14 | 9 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 23 | 3 | 20 | 7 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
 - cme_risk_management — STALE, cadence 10d, magar 39d purana
+- rba_media — FAIL, HTTP 403
 - yahoo_finance — FAIL, HTTP 404
