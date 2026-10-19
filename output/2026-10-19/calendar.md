@@ -1,6 +1,6 @@
 # Calendar — Trading Day 19 Oct 2026
 
-- Banaya gaya: **19 Oct 2026 23:00 PKT**
+- Banaya gaya: **20 Oct 2026 02:18 PKT**
 - Trading day: **19 Oct 03:00 -> 20 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,23 +12,24 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **20 Oct** 06:00 | CNY | low | 1-y Loan Prime Rate | 3.00% | 3.00% |
-| **20 Oct** 06:00 | CNY | low | 5-y Loan Prime Rate | 3.50% | 3.50% |
-| **20 Oct** 11:00 | EUR | low | German PPI m/m | 1.5% | 1.1% |
-| **20 Oct** 11:00 | GBP | MED | Average Earnings Index 3m/y | 3.8% | 3.9% |
-| **20 Oct** 11:00 | GBP | low | Claimant Count Change | 19.4K | 27.8K |
-| **20 Oct** 11:00 | GBP | low | Unemployment Rate | 4.9% | 4.9% |
-| **20 Oct** 13:00 | EUR | low | Current Account | 29.2B | 27.6B |
-| **20 Oct** 14:00 | EUR | low | German ZEW Economic Sentiment | 30.2 | 34.7 |
-| **20 Oct** 14:00 | EUR | low | ZEW Economic Sentiment | 23.6 | 25.8 |
-| **20 Oct** 14:10 | CNY | low | Foreign Direct Investment ytd/y | - | -5.3% |
-| **20 Oct** 14:33 | GBP | low | 10-y Bond Auction | - | 5.38|3.3 |
-| **20 Oct** 17:15 | USD | low | ADP Weekly Employment Change | - | 24.8K |
-| **20 Oct** 17:30 | USD | low | Building Permits | 1.39M | 1.39M |
-| **20 Oct** 17:30 | USD | low | Housing Starts | 1.30M | 1.28M |
-| **20 Oct** 19:00 | USD | low | Pending Home Sales m/m | -0.7% | 0.3% |
-| **20 Oct** 19:50 | NZD | low | GDT Price Index | - | 1.2% |
-| **20 Oct** 22:00 | GBP | low | MPC Member Greene Speaks | - | - |
+| 06:00 | CNY | low | 1-y Loan Prime Rate | 3.00% | 3.00% |
+| 06:00 | CNY | low | 5-y Loan Prime Rate | 3.50% | 3.50% |
+| 11:00 | EUR | low | German PPI m/m | 1.5% | 1.1% |
+| 11:00 | GBP | MED | Average Earnings Index 3m/y | 3.8% | 3.9% |
+| 11:00 | GBP | low | Claimant Count Change | 19.4K | 27.8K |
+| 11:00 | GBP | low | Unemployment Rate | 4.9% | 4.9% |
+| 13:00 | EUR | low | Current Account | 29.2B | 27.6B |
+| 14:00 | EUR | low | German ZEW Economic Sentiment | 30.2 | 34.7 |
+| 14:00 | EUR | low | ZEW Economic Sentiment | 23.6 | 25.8 |
+| 14:10 | CNY | low | Foreign Direct Investment ytd/y | - | -5.3% |
+| 14:33 | GBP | low | 10-y Bond Auction | - | 5.38|3.3 |
+| 17:15 | USD | low | ADP Weekly Employment Change | - | 24.8K |
+| 17:30 | USD | low | Building Permits | 1.39M | 1.39M |
+| 17:30 | USD | low | Housing Starts | 1.30M | 1.28M |
+| 19:00 | USD | low | Pending Home Sales m/m | -0.7% | 0.3% |
+| 19:50 | NZD | low | GDT Price Index | - | 1.2% |
+| 22:00 | GBP | low | MPC Member Greene Speaks | - | - |
+| **21 Oct** 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
