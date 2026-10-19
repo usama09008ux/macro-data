@@ -1,9 +1,9 @@
 # News Pack — Trading Day 18 Oct 2026
 
 - Trading day: **18 Oct 03:00 -> 19 Oct 02:59 PKT**
-- Aakhri update: **19 Oct 06:48 PKT**
-- Kul khabrein: **345**
-- Feeds: 28/39 OK
+- Aakhri update: **19 Oct 11:59 PKT**
+- Kul khabrein: **352**
+- Feeds: 29/39 OK
 
 ---
 
@@ -42,6 +42,11 @@ Gold has limited opportunity to retain its safe haven status Business Recorder
 `18 Oct 21:08 PKT` · pehli baar dekhi `19 Oct 02:42` · gnews_fed
 
 Gold and Silver Price Outlook: Rupee, Crude Oil and US Inflation in Focus Next Week Sangri Today
+
+**Gold Price Forecast This Week: Can XAU/USD Reclaim $4,200 as Fed Rate-Hike Risks Persist? - Markets.com**
+`18 Oct 21:03 PKT` · pehli baar dekhi `19 Oct 11:59` · gnews_fed
+
+Gold Price Forecast This Week: Can XAU/USD Reclaim $4,200 as Fed Rate-Hike Risks Persist? Markets.com
 
 **The Playboy Who Inherited an Empire of Gunfighters and Gold Smugglers**
 `18 Oct 20:48 PKT` · pehli baar dekhi `18 Oct 22:05` · wsj_markets
@@ -367,6 +372,11 @@ UK inflation can seal the deal on the BOE's November rate hike The Edge Malaysia
 
 ### JPY
 
+**Bank of Japan interest rate decision: October 2026 Odds & Prediction Market Analysis - CryptoSlate**
+`19 Oct 02:52 PKT` · pehli baar dekhi `19 Oct 11:59` · gnews_centralbanks
+
+Bank of Japan interest rate decision: October 2026 Odds & Prediction Market Analysis CryptoSlate
+
 **Australia's Challenger gets takeover bid from unit of Japan's Daiichi Life**
 `19 Oct 02:48 PKT` · pehli baar dekhi `19 Oct 04:42` · investing_news
 
@@ -433,6 +443,16 @@ The Hormuz crisis is not only hitting crude oil and gas, but also container ship
 `19 Oct 02:00 PKT` · pehli baar dekhi `19 Oct 04:42` · gnews_geopolitics
 
 Hormuz Is Turning Shipping's Fuel Bill Into a Supply Crisis Crude Oil Prices Today | OilPrice.com
+
+**US to Allow Waiver on Iran Oil to Expire, Administration Sources Say - EnergyNow.com**
+`19 Oct 01:23 PKT` · pehli baar dekhi `19 Oct 11:59` · gnews_geopolitics
+
+US to Allow Waiver on Iran Oil to Expire, Administration Sources Say EnergyNow.com
+
+**IRAN'S "CROWN JEWEL" – Kharg Island, Struck by US, is Key Hub for Iran Oil Exports - EnergyNow.com**
+`19 Oct 01:22 PKT` · pehli baar dekhi `19 Oct 11:59` · gnews_geopolitics
+
+IRAN'S "CROWN JEWEL" – Kharg Island, Struck by US, is Key Hub for Iran Oil Exports EnergyNow.com
 
 **Attacks Cut Saudi Oil Output and East-West Pipeline Flow, State News Agency Says - EnergyNow.com**
 `19 Oct 00:46 PKT` · pehli baar dekhi `19 Oct 04:42` · gnews_geopolitics
@@ -728,6 +748,11 @@ US-Israel-Iran War Latest Live News: Iran Says Strait of Hormuz Could Reopen in 
 
 US-Israel-Iran War Live News: Iran Says Oil Production Increased Despite War, Sanctions, Limited Finance, Technological Resources, and Security Issues The Sunday Guardian
 
+**Iran fuel crisis deepens amid war and sanctions - DW.com**
+`18 Oct 17:31 PKT` · pehli baar dekhi `19 Oct 11:59` · gnews_geopolitics
+
+Iran fuel crisis deepens amid war and sanctions DW.com
+
 **Nasdaq, S&P 500 Futures Surge As Wall Street Cheers US-Iran Deal, Brushes Off Hawkish Fed For Now: INTC, AAPL, MU, SPCX, RUM In Focus - Stocktwits**
 `18 Oct 17:30 PKT` · pehli baar dekhi `19 Oct 02:42` · gnews_fed
 
@@ -830,8 +855,9 @@ Pakistan rejects claims of US Navy operating from its territory against Iran Bus
   - `18 Oct 11:20` *gnews_geopolitics* — Pakistan rejects claims of US Navy operating from its territory against Iran - Business Recorder
 
 **Rubio says Trump to take up to 60 days to weigh Russia sanctions**
-`18 Oct 10:12 PKT` · pehli baar dekhi `18 Oct 10:45` · investing_commodities · **2 feeds mein**
+`18 Oct 10:12 PKT` · pehli baar dekhi `18 Oct 10:45` · investing_commodities · **3 feeds mein**
   - `18 Oct 14:11` *gnews_geopolitics* — Rubio says Trump to take up to 60 days to weigh Russia sanctions - 101 WIXX
+  - `18 Oct 12:20` *gnews_geopolitics* — Rubio says Trump to take up to 60 days to weigh Russia sanctions - SABC News
 
 **St Petersburg under attack from Ukrainian drone swarm**
 `18 Oct 09:51 PKT` · pehli baar dekhi `18 Oct 10:45` · aljazeera
@@ -881,7 +907,7 @@ Global oil prices cross $100 a barrel as Iran war sends fuel prices surging ABC7
 
 Fires reported on three tankers as masked settlers attack European politicians in the occupied West Bank.
 
-### BINA TAG (144)
+### BINA TAG (145)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -897,6 +923,7 @@ Fires reported on three tankers as masked settlers attack European politicians i
 - `19 Oct 01:23` **wsj_markets** — AI Agents Trading Stocks While You Sleep? Charles Schwab's CEO Is Skeptical
 - `19 Oct 01:05` **aljazeera** — What's behind Europe's youth protests?
 - `19 Oct 00:55` **gnews_geopolitics** — Trump Tells Allies to Fight for Jet Fuel or Buy From the U.S. - EnergyNow.com
+- `19 Oct 00:53` **gnews_fed** — FBI says Chinese hacking group targeted US government agencies for years - ABC News - Breaking News, Latest News and Videos
 - `19 Oct 00:21` **wsj_world** — Opinion | Latin America's Coming Population Bust
 - `19 Oct 00:15` **aljazeera** — How will Europe deal with youth-led protests?
 - `19 Oct 00:12` **aljazeera** — Clarence Seedorf calls out genocide in first Corinthians press conference
@@ -1046,49 +1073,49 @@ investing_news (17)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 17 | 7 | 10 | 8 | 0.0 |
+| investinglive | OK | 25 | 25 | 10 | 15 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 5 | 5 | 0 | 15 | 0.0 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.4 |
-| instaforex | OK | 25 | 25 | 11 | 14 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 1.1 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 38.3 |
+| actionforex | OK | 20 | 15 | 10 | 5 | 5 | 0.0 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.6 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 2 | 1 | 1 | 34 | 0.1 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 38.5 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 56 | 56 | 6 | 50 | 0 | 0.0 |
-| gnews_geopolitics | OK | 46 | 46 | 4 | 42 | 0 | 0.0 |
-| gnews_centralbanks | OK | 46 | 46 | 12 | 34 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.0 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.6 |
-| boj_whatsnew | OK | 50 | 0 | 0 | 0 | 50 | 2.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.0 |
-| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
-| oilprice | OK | 15 | 7 | 1 | 6 | 8 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
-| bbc_business | OK | 42 | 13 | 1 | 12 | 29 | 0.1 |
-| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 3.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 38.6 |
-| eia_energy | OK | 17 | 0 | 0 | 0 | 17 | 2.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 12.6 |
-| wsj_world | OK | 71 | 14 | 0 | 14 | 57 | 0.1 |
-| wsj_markets | OK | 60 | 12 | 5 | 7 | 48 | 0.0 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| gnews_fed | OK | 52 | 52 | 24 | 28 | 0 | 0.0 |
+| gnews_geopolitics | OK | 55 | 55 | 11 | 44 | 0 | 0.1 |
+| gnews_centralbanks | OK | 43 | 43 | 20 | 23 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.2 |
+| ecb_press | OK | 15 | 1 | 1 | 0 | 14 | 0.0 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.8 |
+| boj_whatsnew | OK | 50 | 0 | 0 | 0 | 50 | 3.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.2 |
+| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.6 |
+| oilprice | OK | 15 | 8 | 1 | 7 | 7 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
+| ing_think | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
+| bbc_business | OK | 44 | 16 | 3 | 13 | 28 | 0.0 |
+| aljazeera | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 3.9 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 38.8 |
+| eia_energy | OK | 17 | 0 | 0 | 0 | 17 | 2.7 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 12.8 |
+| wsj_world | OK | 72 | 17 | 2 | 15 | 55 | 0.1 |
+| wsj_markets | OK | 60 | 14 | 2 | 12 | 46 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
-| cointelegraph | OK | 30 | 7 | 1 | 6 | 23 | 0.0 |
+| mw_topstories | OK | 10 | 8 | 0 | 8 | 2 | 0.6 |
+| cointelegraph | OK | 30 | 9 | 2 | 7 | 21 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 38d purana
+- cme_risk_management — STALE, cadence 10d, magar 39d purana
 - kitco_general — FAIL, koi item nahi
 - yahoo_finance — FAIL, HTTP 404
