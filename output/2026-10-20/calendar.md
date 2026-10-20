@@ -1,6 +1,6 @@
 # Calendar — Trading Day 20 Oct 2026
 
-- Banaya gaya: **20 Oct 2026 15:16 PKT**
+- Banaya gaya: **20 Oct 2026 21:04 PKT**
 - Trading day: **20 Oct 03:00 -> 21 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,11 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 17:15 | USD | low | ADP Weekly Employment Change | - | 24.8K |
-| 17:30 | USD | low | Building Permits | 1.39M | 1.39M |
-| 17:30 | USD | low | Housing Starts | 1.30M | 1.28M |
-| 19:00 | USD | low | Pending Home Sales m/m | -0.6% | 0.3% |
-| 19:50 | NZD | low | GDT Price Index | - | 1.2% |
 | 22:00 | GBP | low | MPC Member Greene Speaks | - | - |
 | **21 Oct** 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
 | **21 Oct** 03:30 | AUD | low | RBA Deputy Gov Hauser Speaks | - | - |
@@ -24,7 +19,7 @@
 | **21 Oct** 07:00 | NZD | low | Credit Card Spending y/y | - | 3.5% |
 | **21 Oct** 11:00 | GBP | **HIGH** | CPI y/y | 3.4% | 3.1% |
 | **21 Oct** 11:00 | GBP | low | Core CPI y/y | 2.8% | 2.6% |
-| **21 Oct** 11:00 | GBP | low | PPI Input m/m | 1.4% | 0.3% |
+| **21 Oct** 11:00 | GBP | low | PPI Input m/m | 1.3% | 0.3% |
 | **21 Oct** 11:00 | GBP | low | PPI Output m/m | 0.7% | 0.7% |
 | **21 Oct** 11:00 | GBP | low | Public Sector Net Borrowing | 23.8B | 18.3B |
 | **21 Oct** 11:00 | GBP | low | RPI y/y | 3.9% | 3.4% |
@@ -32,6 +27,8 @@
 | **21 Oct** 13:30 | GBP | low | HPI y/y | 1.2% | 1.4% |
 | **21 Oct** 14:10 | CNY | low | Foreign Direct Investment ytd/y | - | -5.3% |
 | **21 Oct** 15:00 | EUR | low | German Buba Monthly Report | - | - |
+| **21 Oct** 18:00 | GBP | MED | BOE Gov Bailey Speaks | - | - |
+| **21 Oct** 19:30 | USD | low | Crude Oil Inventories | -0.1M | -8.6M |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
@@ -43,7 +40,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **21 Oct** 18:00 | GBP | MED | BOE Gov Bailey Speaks | - | - |
 | **22 Oct** 02:45 | NZD | **HIGH** | CPI q/q | 0.8% | 1.5% |
 | **22 Oct** 17:30 | USD | MED | Unemployment Claims | 200K | 199K |
 | **23 Oct** 11:00 | GBP | MED | Retail Sales m/m | -0.1% | 0.5% |
@@ -62,5 +58,9 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 20 Oct 14:00 | Germany October ZEW survey current condition | -35.9 | -45.0 | +9.10 (+20%) | upar |
 

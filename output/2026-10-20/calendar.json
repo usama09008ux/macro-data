@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "20 Oct 2026 15:16",
+  "generated_pkt": "20 Oct 2026 21:04",
   "trading_day": "2026-10-20",
   "feed_sources": {
     "thisweek": "live"
@@ -455,9 +455,9 @@
       "previous": "1.2%",
       "url": "https://www.forexfactory.com/calendar/602-nz-gdt-price-index",
       "all_day": false,
-      "utc": "2026-10-20T14:50Z",
-      "pkt": "20 Oct 19:50",
-      "pkt_iso": "2026-10-20T19:50:00+05:00",
+      "utc": "2026-10-20T15:19Z",
+      "pkt": "20 Oct 20:19",
+      "pkt_iso": "2026-10-20T20:19:00+05:00",
       "trading_day": "2026-10-20"
     },
     {
@@ -555,7 +555,7 @@
       "title": "PPI Input m/m",
       "ccy": "GBP",
       "impact": "Low",
-      "forecast": "1.4%",
+      "forecast": "1.3%",
       "previous": "0.3%",
       "url": "https://www.forexfactory.com/calendar/92-uk-ppi-input-mm",
       "all_day": false,
@@ -672,7 +672,7 @@
       "title": "Crude Oil Inventories",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "-0.3M",
+      "forecast": "-0.1M",
       "previous": "-8.6M",
       "url": "https://www.forexfactory.com/calendar/10-us-crude-oil-inventories",
       "all_day": false,
@@ -750,7 +750,7 @@
       "title": "RMPI m/m",
       "ccy": "CAD",
       "impact": "Low",
-      "forecast": "3.0%",
+      "forecast": "3.1%",
       "previous": "3.1%",
       "url": "https://www.forexfactory.com/calendar/91-ca-rmpi-mm",
       "all_day": false,
@@ -1124,5 +1124,20 @@
       "trading_day": "2026-10-25"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "Germany October ZEW survey current conditions -35.9 vs -45.0 expected",
+      "actual_raw": "-35.9",
+      "forecast_raw": "-45.0",
+      "beat": true,
+      "raw_diff": "+9.10",
+      "sign_flip": false,
+      "diff_pct": 20.2,
+      "when_pkt": "20 Oct 14:00",
+      "source": "investinglive",
+      "tags": [
+        "eur"
+      ]
+    }
+  ]
 }
