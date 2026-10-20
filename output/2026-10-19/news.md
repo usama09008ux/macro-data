@@ -1,9 +1,9 @@
 # News Pack — Trading Day 19 Oct 2026
 
 - Trading day: **19 Oct 03:00 -> 20 Oct 02:59 PKT**
-- Aakhri update: **20 Oct 04:45 PKT**
-- Kul khabrein: **707**
-- Feeds: 33/39 OK
+- Aakhri update: **20 Oct 07:10 PKT**
+- Kul khabrein: **720**
+- Feeds: 35/39 OK
 
 ---
 
@@ -412,16 +412,17 @@ Gold edges higher as softer oil eases inflation woes Reuters
 
 Gold edged higher in Asian trade. Traders were likely weighing the prospect of further Federal Reserve rate increases this year.
 
+**Gold edges higher as investors assess Fed rate-hike odds - bfsi.economictimes.indiatimes.com**
+`19 Oct 07:36 PKT` · pehli baar dekhi `20 Oct 07:10` · gnews_fed · **2 feeds mein**
+
+Gold edges higher as investors assess Fed rate-hike odds bfsi.economictimes.indiatimes.com
+  - `19 Oct 07:09` *gnews_fed* — Gold edges higher as investors assess Fed rate-hike odds - The Economic Times
+
 **Commodity Corner: Oil slips on Russian supply outlook; gold gains on Fed rate expectations - Moneycontrol.com**
 `19 Oct 07:20 PKT` · pehli baar dekhi `19 Oct 11:59` · gnews_fed · **2 feeds mein**
 
 Commodity Corner: Oil slips on Russian supply outlook; gold gains on Fed rate expectations Moneycontrol.com
   - `19 Oct 07:20` *gnews_fed* — Commodity Corner: Oil slips on Russian supply outlook; gold gains on Fed rate expectations - TradingView
-
-**Gold edges higher as investors assess Fed rate-hike odds - The Economic Times**
-`19 Oct 07:09 PKT` · pehli baar dekhi `19 Oct 11:59` · gnews_fed
-
-Gold edges higher as investors assess Fed rate-hike odds The Economic Times
 
 **Silver Gains as Fed Rate Hike Bets Ease - TradingView**
 `19 Oct 07:02 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_fed
@@ -443,6 +444,11 @@ Gold Steady as Rate-Hike Bets Ease, Oil Pushes Yields Higher Livemint
   - `19 Oct 04:52` *gnews_fed* — Gold Steady as Rate-Hike Bets Ease, Oil Pushes Yields Higher - Livemint
 
 ### USD
+
+**TAG: US dollar reserve currency - Kitco**
+`20 Oct 02:20 PKT` · pehli baar dekhi `20 Oct 07:10` · kitco_general
+
+TAG: US dollar reserve currency Kitco
 
 **Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback**
 `20 Oct 02:04 PKT` · pehli baar dekhi `20 Oct 04:45` · cointelegraph
@@ -836,6 +842,11 @@ Weeks of student-led protests over conditions in French schools spiraled into vi
 
 As London/European traders head home, the major European stock indices are closing lower across the board. Italy and Spain led the declines, but there was little separation, with all five major markets falling more than 1%. Not a good day. The closing snapshot showed: Germany's DAX: 25,319.78, down 302.84 points or 1.18%. France's CAC: 7,868.06, down 88.63 points or 1.11%. UK's FTSE 100: 10,764.70, down 117.21 points or 1.08%. Spain's Ibex: 19,039.30, down 287.00 points or 1.49%.
 
+**Euro remains on the back foot as France unrest dents sentiment - www.tmgm.com**
+`19 Oct 20:20 PKT` · pehli baar dekhi `20 Oct 07:10` · gnews_centralbanks
+
+Euro remains on the back foot as France unrest dents sentiment www.tmgm.com
+
 **How has the cost of living changed in France, Italy, Spain and Portugal?**
 `19 Oct 20:19 PKT` · pehli baar dekhi `20 Oct 01:11` · aljazeera
 
@@ -908,10 +919,11 @@ Eurozone annual inflation rose to 3.8% in September from 3.2% in August – the 
 
 Angry French students have blocked access to their schools for four weeks. AJLabs breaks down what they want and why.
 
-**UBS adds March rate hike to ECB forecast. Here is why. - Investing.com**
-`19 Oct 15:10 PKT` · pehli baar dekhi `19 Oct 19:35` · gnews_centralbanks
+**UBS adds March rate hike to ECB forecast. Here is why. - Yahoo Finance**
+`19 Oct 15:17 PKT` · pehli baar dekhi `20 Oct 07:10` · gnews_centralbanks · **2 feeds mein**
 
-UBS adds March rate hike to ECB forecast. Here is why. Investing.com
+UBS adds March rate hike to ECB forecast. Here is why. Yahoo Finance
+  - `19 Oct 15:10` *gnews_centralbanks* — UBS adds March rate hike to ECB forecast. Here is why. - Investing.com
 
 **Chart of the day: France's bond market is flashing another warning for EUR/USD**
 `19 Oct 13:40 PKT` · pehli baar dekhi `19 Oct 19:35` · investinglive
@@ -1015,6 +1027,11 @@ Will UK Inflation Rise to 3.5% This Week? Morningstar
 
 A November BoE hike is 93.2% priced, but economists are far less convinced about what follows—with this week's UK wages and September CPI data set to decide whether December tightening gets closer to certainty, just as GBP/USD tests the key 1.3341 Fibonacci resistance. The post GBP/USD Reversal Test: Can UK CPI Sustain BoE Tightening Bets Beyond November? appeared first on ActionForex.
 
+**Institutions warn of diminishing efficacy of rate hikes, leaving the Bank of England's next interest rate decision at an impasse - Moomoo**
+`19 Oct 11:00 PKT` · pehli baar dekhi `20 Oct 07:10` · gnews_centralbanks
+
+Institutions warn of diminishing efficacy of rate hikes, leaving the Bank of England's next interest rate decision at an impasse Moomoo
+
 **GBPUSD Completes a Textbook Elliott Wave 5-Wave Pattern**
 `19 Oct 06:04 PKT` · pehli baar dekhi `19 Oct 06:48` · actionforex
 
@@ -1083,9 +1100,10 @@ The Japanese yen was little changed at around 158 per dollar on Monday, trading 
 "Core inflation is 'quite close' to 2%!" Bank of Japan Governor strikes hawkish tone: Further rate hikes remain possible 富途牛牛
 
 **BOJ chief says underlying inflation 'quite close' to price goal - The Business Times**
-`19 Oct 10:53 PKT` · pehli baar dekhi `19 Oct 11:59` · gnews_centralbanks · **3 feeds mein**
+`19 Oct 10:53 PKT` · pehli baar dekhi `19 Oct 11:59` · gnews_centralbanks · **4 feeds mein**
 
 BOJ chief says underlying inflation 'quite close' to price goal The Business Times
+  - `19 Oct 09:54` *gnews_centralbanks* — BOJ chief says underlying inflation 'quite close' to price goal - Yahoo Finance
   - `19 Oct 06:41` *gnews_centralbanks* — BOJ chief says underlying inflation 'quite close' to price goal - アラブニュース
   - `19 Oct 05:17` *gnews_centralbanks* — BOJ chief says underlying inflation 'quite close' to price goal - Reuters
 
@@ -1463,10 +1481,21 @@ Oil prices have reversed higher in light of fresh reports about two separate Mid
 
 The oil price rally resumed its upward trajectory on Friday after the U.S. Central Command (CENTCOM) confirmed the sinking of the Singapore-flagged container ship following an Iranian Revolutionary Guard Corps (IRGC) projectile strike in the Strait of Hormuz.
 
+**Trump Officials Tout US Energy Dominance as Global Oil Execs Warn of Supply Crisis - EnergyNow**
+`19 Oct 21:32 PKT` · pehli baar dekhi `20 Oct 07:10` · gnews_geopolitics · **2 feeds mein**
+
+Trump Officials Tout US Energy Dominance as Global Oil Execs Warn of Supply Crisis EnergyNow
+  - `19 Oct 06:41` *gnews_geopolitics* — Trump Officials Tout US Energy Dominance as Global Oil Execs Warn of Supply Crisis - EnergyNow.com
+
 **Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say - EnergyNow**
 `19 Oct 21:30 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
 
 Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say EnergyNow
+
+**Oil Prices Flat After Iran Says Dozens of Vessels are Crossing Hormuz - EnergyNow.com**
+`19 Oct 21:20 PKT` · pehli baar dekhi `20 Oct 07:10` · gnews_geopolitics
+
+Oil Prices Flat After Iran Says Dozens of Vessels are Crossing Hormuz EnergyNow.com
 
 **Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com**
 `19 Oct 21:13 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
@@ -1719,11 +1748,6 @@ Oil Up as US-Iran Peace Talks Stall…Again EnergyNow.com
 
 US heating oil futures slipped to about $4.80 per gallon after President Donald Trump moved to suspend key sanctions and tariffs on Russia, raising expectations of higher Russian diesel exports to global markets. Trump framed the decision as a step to advance peace talks with Moscow, while Secretary of State Marco Rubio said the administration would review its economic consequences over the next 60 days. Still, supply risks remained elevated.
 
-**Trump Officials Tout US Energy Dominance as Global Oil Execs Warn of Supply Crisis - EnergyNow.com**
-`19 Oct 06:41 PKT` · pehli baar dekhi `19 Oct 19:35` · gnews_geopolitics
-
-Trump Officials Tout US Energy Dominance as Global Oil Execs Warn of Supply Crisis EnergyNow.com
-
 **Oil Holds Near Six-Week Highs as U.S.-Iran Conflict Keeps Supply Risk Elevated - EnergyNow**
 `19 Oct 06:37 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
 
@@ -1870,9 +1894,10 @@ World Liberty Financial's USD1 stablecoin saw its market cap decrease more than 
 Bitcoin Clings On as a Silent Fed, $100 Oil and an AI Wobble Take the Wheel Blockhead
 
 **Bitcoin Rises as Traders Await the Fed's October Meeting - VT Markets**
-`19 Oct 15:23 PKT` · pehli baar dekhi `19 Oct 19:35` · gnews_fed
+`19 Oct 15:23 PKT` · pehli baar dekhi `19 Oct 19:35` · gnews_fed · **2 feeds mein**
 
 Bitcoin Rises as Traders Await the Fed's October Meeting VT Markets
+  - `19 Oct 11:26` *gnews_fed* — Bitcoin Rises as Traders Await the Fed's October Meeting - VT Markets
 
 **France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals**
 `19 Oct 15:22 PKT` · pehli baar dekhi `19 Oct 19:35` · cointelegraph
@@ -1974,6 +1999,11 @@ Federal Reserve Rate Hike Mortgage Impact: What 7.4% Rates Actually Mean for the
 
 ### RISK
 
+**US strategic oil reserve falls to lowest since 1982 as Iran war release drains stocks - investingLive**
+`20 Oct 02:44 PKT` · pehli baar dekhi `20 Oct 07:10` · gnews_geopolitics
+
+US strategic oil reserve falls to lowest since 1982 as Iran war release drains stocks investingLive
+
 **Goldman Sachs estimates central banks bought 79 tonnes of gold in August, led by China**
 `20 Oct 02:31 PKT` · pehli baar dekhi `20 Oct 04:45` · investinglive
 
@@ -2043,6 +2073,11 @@ The conference will be delayed until 2027, following attacks by the Iran-backed 
 `19 Oct 21:10 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
 
 Iran War Disruption Beyond 3-4 Months Poses Systemic Risk to Global Economy, Total CEO Says EnergyNow.com
+
+**Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA - EnergyNow**
+`19 Oct 21:05 PKT` · pehli baar dekhi `20 Oct 07:10` · gnews_geopolitics
+
+Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA EnergyNow
 
 **Iran War Erodes Exxon, Chevron Profits Even as Oil Prices Soar - EnergyNow.com**
 `19 Oct 20:53 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
@@ -2271,7 +2306,7 @@ The Russian leader is trying to capitalize on warming ties with the president to
 
 Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies Reuters
 
-### BINA TAG (230)
+### BINA TAG (232)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2331,6 +2366,7 @@ Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies Re
 - `19 Oct 22:40` **aljazeera** — Chuck Schumer urges FCC to block AI robocalls before elections
 - `19 Oct 22:31` **mw_topstories** — When should you dump your target-date funds?
 - `19 Oct 22:27` **aljazeera** — Qatar to announce a new regional defence partnership
+- `19 Oct 22:27` **gnews_fed** — Record ARC PLC Payments Near As Enrollment Reopens - RFD-TV
 - `19 Oct 22:25` **aljazeera** — Can religion help Democrats win in red states? These faith leaders hope so
 - `19 Oct 22:24` **aljazeera** — Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment
 - `19 Oct 22:23` **aljazeera** — 12 migrants, including an infant, drown in two incidents off Greece
@@ -2426,6 +2462,7 @@ Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies Re
 - `19 Oct 15:08` **aljazeera** — WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages
 - `19 Oct 15:08` **aljazeera** — Mexican protesters demanding clean water storm state congress
 - `19 Oct 15:01` **wsj_markets** — Jamie Dimon's National-Security Pledge Finances $230 Billion in First Year
+- `19 Oct 15:00` **wsj_markets** — Can Class-Action Lawsuits Fix Private Funds' Valuation Problem?
 - `19 Oct 14:40` **kitco_general** — Videos - Kitco
 - `19 Oct 14:31` **kitco_general** — Mapping the Market: Semiconductor stocks may be about to rise - Kitco
 - `19 Oct 14:30` **wsj_economy** — America's home-buying market is a house divided as surging mortgage rates send many buyers to the sidelines, while the affluent drive overall prices higher with big cash purchases
@@ -2522,49 +2559,48 @@ investing_news (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.4 |
-| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 3.3 |
-| instaforex | OK | 25 | 25 | 8 | 17 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 6 | 1 | 5 | 30 | 0.1 |
-| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 39.2 |
-| kitco_general | OK | 36 | 36 | 12 | 24 | 0 | 0.0 |
-| gnews_fed | OK | 57 | 57 | 6 | 51 | 0 | 0.1 |
-| gnews_geopolitics | OK | 61 | 61 | 17 | 44 | 0 | 0.2 |
-| gnews_centralbanks | OK | 35 | 35 | 2 | 33 | 0 | 0.2 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 6.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.9 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.5 |
-| boj_whatsnew | OK | 49 | 0 | 0 | 0 | 49 | 3.7 |
-| rba_media | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mining_com | OK | 36 | 12 | 4 | 8 | 24 | 0.0 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| ing_think | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
-| bbc_business | OK | 51 | 19 | 4 | 15 | 32 | 0.0 |
-| aljazeera | OK | 25 | 25 | 14 | 11 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.7 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 39.5 |
-| eia_energy | OK | 18 | 1 | 0 | 1 | 17 | 0.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 13.5 |
-| wsj_world | OK | 72 | 22 | 2 | 20 | 50 | 0.1 |
-| wsj_markets | OK | 61 | 21 | 4 | 17 | 40 | 0.1 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 4 | 16 | 0 | 0.0 |
+| marketpulse | OK | 4 | 1 | 1 | 0 | 3 | 0.0 |
+| instaforex | OK | 25 | 25 | 10 | 15 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 6 | 1 | 5 | 30 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 39.3 |
+| kitco_general | OK | 38 | 38 | 2 | 36 | 0 | 0.1 |
+| gnews_fed | OK | 58 | 58 | 9 | 49 | 0 | 0.0 |
+| gnews_geopolitics | OK | 60 | 60 | 6 | 54 | 0 | 0.0 |
+| gnews_centralbanks | OK | 37 | 37 | 4 | 33 | 0 | 0.3 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 6.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 5.0 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.8 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.6 |
+| boj_whatsnew | OK | 49 | 0 | 0 | 0 | 49 | 3.8 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.0 |
+| mining_com | OK | 36 | 12 | 0 | 12 | 24 | 0.1 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| ing_think | OK | 10 | 4 | 1 | 3 | 6 | 0.0 |
+| bbc_business | OK | 51 | 19 | 0 | 19 | 32 | 0.1 |
+| aljazeera | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.8 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 39.6 |
+| eia_energy | OK | 18 | 1 | 0 | 1 | 17 | 0.5 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 13.6 |
+| wsj_world | OK | 73 | 24 | 2 | 22 | 49 | 0.0 |
+| wsj_markets | OK | 61 | 26 | 5 | 21 | 35 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 23 | 3 | 20 | 7 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 24 | 1 | 23 | 6 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
 - cme_risk_management — STALE, cadence 10d, magar 39d purana
-- rba_media — FAIL, HTTP 403
 - yahoo_finance — FAIL, HTTP 404
