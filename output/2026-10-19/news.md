@@ -1,8 +1,8 @@
 # News Pack — Trading Day 19 Oct 2026
 
 - Trading day: **19 Oct 03:00 -> 20 Oct 02:59 PKT**
-- Aakhri update: **20 Oct 07:10 PKT**
-- Kul khabrein: **720**
+- Aakhri update: **20 Oct 12:36 PKT**
+- Kul khabrein: **734**
 - Feeds: 35/39 OK
 
 ---
@@ -277,6 +277,11 @@ Gold falls as dollar, Treasury yields rise; silver holds modest gains - Kitco PM
 
 'I got out of my bank stocks': Why former Fed insider Chris Whalen is betting on gold Kitco
 
+**Gold Price Today: XAU/USD Near $4,136 as Yields Rise - Markets.com**
+`19 Oct 21:05 PKT` · pehli baar dekhi `20 Oct 12:36` · gnews_fed
+
+Gold Price Today: XAU/USD Near $4,136 as Yields Rise Markets.com
+
 **Sudan gold rush leaves toxic legacy as war drives mining**
 `19 Oct 20:45 PKT` · pehli baar dekhi `20 Oct 01:11` · mining_com
 
@@ -478,6 +483,11 @@ Yields on 10-year and 30-year bonds were rising again Monday after falling sharp
 `20 Oct 00:29 PKT` · pehli baar dekhi `20 Oct 01:11` · gnews_fed
 
 Mexican Peso finds relief in Fed pause bets, but carry risks linger | FXStreet شبكة تواصل الإخبارية
+
+**What To Look For From The Fed's October Meeting - Forbes**
+`20 Oct 00:27 PKT` · pehli baar dekhi `20 Oct 12:36` · gnews_fed
+
+What To Look For From The Fed's October Meeting Forbes
 
 **Broader tech focused indices are higher. How are some of the Magnificent 7 fairing technically?**
 `19 Oct 22:25 PKT` · pehli baar dekhi `20 Oct 01:11` · investinglive
@@ -938,10 +948,16 @@ It's a brand new week, but same old problem for the euro. Once again, it is Fran
 
 European stocks, French bonds slump after violent protests across France
 
+**UBS expects the ECB to hike rates by 25bps in March 2027, following a December hike vs (prev. saw rates at terminal in December) - Newsquawk**
+`19 Oct 13:32 PKT` · pehli baar dekhi `20 Oct 12:36` · gnews_centralbanks
+
+UBS expects the ECB to hike rates by 25bps in March 2027, following a December hike vs (prev. saw rates at terminal in December) Newsquawk
+
 **UBS sees ECB's hiking cycle extending to March 2027 on inflation risks - Devdiscourse**
-`19 Oct 13:17 PKT` · pehli baar dekhi `19 Oct 19:35` · gnews_centralbanks
+`19 Oct 13:17 PKT` · pehli baar dekhi `19 Oct 19:35` · gnews_centralbanks · **2 feeds mein**
 
 UBS sees ECB's hiking cycle extending to March 2027 on inflation risks Devdiscourse
+  - `19 Oct 13:17` *gnews_centralbanks* — UBS sees ECB's hiking cycle extending to March 2027 on inflation risks - Devdiscourse
 
 **French Contagion Less Virulent Than in Previous Eurozone Crisis**
 `19 Oct 13:13 PKT` · pehli baar dekhi `19 Oct 19:35` · wsj_world
@@ -1290,6 +1306,11 @@ USD/CAD&#8217;s fall from 1.4298 accelerated lower today and it&#8217;s now pres
 
 Cause of grass fire remains unknown as PM Carney calls it one of the worst peacetime tragedies for Canadian military.
 
+**High prices and interest rates: Expert advice on managing your money - Yahoo! Finance Canada**
+`19 Oct 13:59 PKT` · pehli baar dekhi `20 Oct 12:36` · gnews_centralbanks
+
+High prices and interest rates: Expert advice on managing your money Yahoo! Finance Canada
+
 **Fast-moving grass fire caused Canada's military base tragedy**
 `19 Oct 08:07 PKT` · pehli baar dekhi `19 Oct 11:59` · aljazeera
 
@@ -1450,6 +1471,14 @@ The Baltic Exchange's dry bulk freight index, which measures rates for vessels t
 
 Since taking office, Colombia's far-right president, Abelardo de la Espriella, has moved aggressively to restore ties with Washington after relations frayed under Gustavo Petro. The rapprochement revives a decades-old strategic alliance that made Colombia one of Washington's closest partners in Latin America. Early last month, the two countries agreed to deepen cooperation on critical minerals, including rare earths, tungsten and antimony.
 
+**Oil breaches $110 after US reportedly strikes Iranian naval base - Invezz**
+`19 Oct 23:56 PKT` · pehli baar dekhi `20 Oct 12:36` · gnews_geopolitics · **4 feeds mein**
+
+Oil breaches $110 after US reportedly strikes Iranian naval base Invezz
+  - `19 Oct 22:48` *gnews_geopolitics* — Oil breaches $110 after US reportedly strikes Iranian naval base - Invezz
+  - `19 Oct 22:28` *gnews_geopolitics* — Oil breaches $110 after US reportedly strikes Iranian naval base - TradingView
+  - `19 Oct 22:28` *gnews_geopolitics* — Oil breaches $110 after US reportedly strikes Iranian naval base - TradingView
+
 **Qatar Offers Lebanon 2 Gas Plants and 20 Years of LNG Piped Through Syria**
 `19 Oct 23:30 PKT` · pehli baar dekhi `20 Oct 01:11` · oilprice
 
@@ -1459,12 +1488,6 @@ Qatar is offering to take over Lebanon's power supply problem at no upfront cost
 `19 Oct 22:57 PKT` · pehli baar dekhi `20 Oct 01:11` · gnews_fed
 
 The Fed's Beige Book is Mentioning Diesel a Lot More Than Before. What That Could Mean for Consumer Prices. International Business Times
-
-**Oil breaches $110 after US reportedly strikes Iranian naval base - Invezz**
-`19 Oct 22:48 PKT` · pehli baar dekhi `20 Oct 01:11` · gnews_geopolitics · **2 feeds mein**
-
-Oil breaches $110 after US reportedly strikes Iranian naval base Invezz
-  - `19 Oct 22:28` *gnews_geopolitics* — Oil breaches $110 after US reportedly strikes Iranian naval base - TradingView
 
 **Pakistan's Growth Slows as Hormuz Crisis Hits Industry**
 `19 Oct 22:30 PKT` · pehli baar dekhi `20 Oct 01:11` · oilprice
@@ -1480,6 +1503,11 @@ Oil prices have reversed higher in light of fresh reports about two separate Mid
 `19 Oct 22:00 PKT` · pehli baar dekhi `20 Oct 01:11` · oilprice
 
 The oil price rally resumed its upward trajectory on Friday after the U.S. Central Command (CENTCOM) confirmed the sinking of the Singapore-flagged container ship following an Iranian Revolutionary Guard Corps (IRGC) projectile strike in the Strait of Hormuz.
+
+**Oil Prices Set for Another Weekly Decline as Iran Risks Recede - EnergyNow.com**
+`19 Oct 21:36 PKT` · pehli baar dekhi `20 Oct 12:36` · gnews_geopolitics
+
+Oil Prices Set for Another Weekly Decline as Iran Risks Recede EnergyNow.com
 
 **Trump Officials Tout US Energy Dominance as Global Oil Execs Warn of Supply Crisis - EnergyNow**
 `19 Oct 21:32 PKT` · pehli baar dekhi `20 Oct 07:10` · gnews_geopolitics · **2 feeds mein**
@@ -1501,6 +1529,11 @@ Oil Prices Flat After Iran Says Dozens of Vessels are Crossing Hormuz EnergyNow.
 `19 Oct 21:13 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
 
 Brace for a Flood of Oil as Soon as Hormuz Reopens - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com
+
+**US Naval Blockade Squeezes Iran's Oil Exports, Forces Crude Onto Floating Storage - EnergyNow.com**
+`19 Oct 21:01 PKT` · pehli baar dekhi `20 Oct 12:36` · gnews_geopolitics
+
+US Naval Blockade Squeezes Iran's Oil Exports, Forces Crude Onto Floating Storage EnergyNow.com
 
 **Port of Fujairah Resumes Oil Loadings After Attack and Why it Matters Globally - EnergyNow.com**
 `19 Oct 21:00 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
@@ -1808,6 +1841,11 @@ Oil prices slide as sanctions relief on Russian crude raises hopes of increased 
 
 ### CRYPTO
 
+**Fed Rate Polymarket Odds: October Hold Could Ease Bitcoin Pressure - Bitget**
+`20 Oct 02:15 PKT` · pehli baar dekhi `20 Oct 12:36` · gnews_fed
+
+Fed Rate Polymarket Odds: October Hold Could Ease Bitcoin Pressure Bitget
+
 **Crypto PAC pours $362K into California race voters essentially decided in August**
 `20 Oct 01:22 PKT` · pehli baar dekhi `20 Oct 04:45` · cointelegraph
 
@@ -2091,9 +2129,10 @@ Russia's FM Sergey Lavrov is in Tehran for his first visit since the outbreak of
   - `19 Oct 18:22` *aljazeera* — Russia's Lavrov discusses US war and regional security during Tehran visit
 
 **Oil prices fall as Trump waives Russia sanctions amid global supply concerns - Business Upturn**
-`19 Oct 19:14 PKT` · pehli baar dekhi `19 Oct 19:35` · gnews_geopolitics
+`19 Oct 19:14 PKT` · pehli baar dekhi `19 Oct 19:35` · gnews_geopolitics · **2 feeds mein**
 
 Oil prices fall as Trump waives Russia sanctions amid global supply concerns Business Upturn
+  - `19 Oct 19:14` *gnews_geopolitics* — Oil prices fall as Trump waives Russia sanctions amid global supply concerns - Business Upturn
 
 **Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies - EnergyNow.com**
 `19 Oct 18:50 PKT` · pehli baar dekhi `20 Oct 04:45` · gnews_geopolitics
@@ -2130,6 +2169,11 @@ Al Jazeera correspondent shares his experience of covering the fighting between 
 `19 Oct 18:04 PKT` · pehli baar dekhi `19 Oct 19:35` · gnews_geopolitics
 
 Iran Vows to Respond to US Strikes, Says US Energy Companies' Facilities are 'Exposed' EnergyNow
+
+**World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks - EnergyNow.com**
+`19 Oct 17:53 PKT` · pehli baar dekhi `20 Oct 12:36` · gnews_geopolitics
+
+World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks EnergyNow.com
 
 **Brent Price Eases from Key $110 Resistance Zone as Trump Lifts Sanctions on Russia**
 `19 Oct 17:09 PKT` · pehli baar dekhi `19 Oct 19:35` · actionforex
@@ -2306,7 +2350,7 @@ The Russian leader is trying to capitalize on warming ties with the president to
 
 Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies Reuters
 
-### BINA TAG (232)
+### BINA TAG (234)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2418,6 +2462,7 @@ Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies Re
 - `19 Oct 18:52` **gnews_centralbanks** — Central bankers eye higher rates as AI boom fuels scramble for cash - Bangkok Post
 - `19 Oct 18:51` **gnews_fed** — Probe report in BB reserve heist case deferred for 99th time - Daily Sun
 - `19 Oct 18:41` **aljazeera** — French protest violence: A 'Christmas present' for Le Pen's far right?
+- `19 Oct 18:41` **gnews_fed** — SPY: Why Rate Hikes May Shake The Market Without Ending The Bull Run (NYSEARCA:SPY) - Seeking Alpha
 - `19 Oct 18:36` **investing_commodities** — Houthi attack kills 53 at Yemen government training camp, officials say
 - `19 Oct 18:30` **investing_commodities** — UBS Names Top Copper Stocks
 - `19 Oct 18:26` **aljazeera** — Dozens killed after Houthi strike on military camp in Shabwa
@@ -2463,6 +2508,7 @@ Oil tumbles as Trump's Russia sanctions waiver may lead to more fuel supplies Re
 - `19 Oct 15:08` **aljazeera** — Mexican protesters demanding clean water storm state congress
 - `19 Oct 15:01` **wsj_markets** — Jamie Dimon's National-Security Pledge Finances $230 Billion in First Year
 - `19 Oct 15:00` **wsj_markets** — Can Class-Action Lawsuits Fix Private Funds' Valuation Problem?
+- `19 Oct 14:55` **gnews_fed** — CWN International(@Square-Creator-2667a4bdc8927)'s insights - Binance
 - `19 Oct 14:40` **kitco_general** — Videos - Kitco
 - `19 Oct 14:31` **kitco_general** — Mapping the Market: Semiconductor stocks may be about to rise - Kitco
 - `19 Oct 14:30` **wsj_economy** — America's home-buying market is a house divided as surging mortgage rates send many buyers to the sidelines, while the affluent drive overall prices higher with big cash purchases
@@ -2559,48 +2605,48 @@ investing_news (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 4 | 16 | 0 | 0.0 |
-| marketpulse | OK | 4 | 1 | 1 | 0 | 3 | 0.0 |
-| instaforex | OK | 25 | 25 | 10 | 15 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 6 | 1 | 5 | 30 | 0.0 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 39.3 |
-| kitco_general | OK | 38 | 38 | 2 | 36 | 0 | 0.1 |
-| gnews_fed | OK | 58 | 58 | 9 | 49 | 0 | 0.0 |
-| gnews_geopolitics | OK | 60 | 60 | 6 | 54 | 0 | 0.0 |
-| gnews_centralbanks | OK | 37 | 37 | 4 | 33 | 0 | 0.3 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 6.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 5.0 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.8 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.6 |
-| boj_whatsnew | OK | 49 | 0 | 0 | 0 | 49 | 3.8 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.0 |
-| mining_com | OK | 36 | 12 | 0 | 12 | 24 | 0.1 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.1 |
+| actionforex | OK | 20 | 20 | 8 | 12 | 0 | 0.0 |
+| marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.2 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 7 | 1 | 6 | 29 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 39.5 |
+| kitco_general | OK | 36 | 36 | 1 | 35 | 0 | 0.3 |
+| gnews_fed | OK | 58 | 58 | 12 | 46 | 0 | 0.1 |
+| gnews_geopolitics | OK | 63 | 63 | 19 | 44 | 0 | 0.0 |
+| gnews_centralbanks | OK | 30 | 30 | 13 | 17 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 6.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 5.2 |
+| ecb_press | OK | 15 | 2 | 1 | 1 | 13 | 0.0 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.9 |
+| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 4.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.2 |
+| mining_com | OK | 36 | 12 | 0 | 12 | 24 | 0.3 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
 | investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| ing_think | OK | 10 | 4 | 1 | 3 | 6 | 0.0 |
-| bbc_business | OK | 51 | 19 | 0 | 19 | 32 | 0.1 |
-| aljazeera | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.8 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 39.6 |
-| eia_energy | OK | 18 | 1 | 0 | 1 | 17 | 0.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 13.6 |
-| wsj_world | OK | 73 | 24 | 2 | 22 | 49 | 0.0 |
-| wsj_markets | OK | 61 | 26 | 5 | 21 | 35 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| ing_think | OK | 10 | 7 | 3 | 4 | 3 | 0.0 |
+| bbc_business | OK | 54 | 23 | 4 | 19 | 31 | 0.0 |
+| aljazeera | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 1.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 39.9 |
+| eia_energy | OK | 18 | 1 | 0 | 1 | 17 | 0.7 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 13.8 |
+| wsj_world | OK | 74 | 27 | 3 | 24 | 47 | 0.0 |
+| wsj_markets | OK | 61 | 28 | 6 | 22 | 33 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
-| cointelegraph | OK | 30 | 24 | 1 | 23 | 6 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
+| cointelegraph | OK | 30 | 27 | 3 | 24 | 3 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 39d purana
+- cme_risk_management — STALE, cadence 10d, magar 40d purana
 - yahoo_finance — FAIL, HTTP 404
