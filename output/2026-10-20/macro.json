@@ -1,11 +1,11 @@
 {
-  "generated_pkt": "20 Oct 2026 15:26",
+  "generated_pkt": "20 Oct 2026 22:10",
   "trading_day": "2026-10-20",
   "series": {
     "DFEDTARU": {
       "latest": 4.0,
-      "latest_date": "2026-10-19",
-      "n_obs": 1105,
+      "latest_date": "2026-10-20",
+      "n_obs": 1106,
       "changes": {
         "1d": 0.0,
         "5d": 0.0,
@@ -124,23 +124,23 @@
       "percentile": 58
     },
     "VIXCLS": {
-      "latest": 19.99,
-      "latest_date": "2026-10-16",
-      "n_obs": 779,
+      "latest": 18.44,
+      "latest_date": "2026-10-19",
+      "n_obs": 780,
       "changes": {
-        "1d": 3.53,
-        "5d": 5.15,
-        "20d": 5.18
+        "1d": -1.55,
+        "5d": 3.23,
+        "20d": 3.57
       },
-      "percentile": 83
+      "percentile": 73
     },
     "BAMLH0A0HYM2": {
-      "latest": 3.31,
-      "latest_date": "2026-10-16",
+      "latest": 3.29,
+      "latest_date": "2026-10-19",
       "n_obs": 784,
       "changes": {
-        "1d": 0.08,
-        "5d": 0.2,
+        "1d": -0.02,
+        "5d": 0.18,
         "20d": 0.63
       },
       "percentile": 80
