@@ -1,6 +1,6 @@
 # Calendar — Trading Day 20 Oct 2026
 
-- Banaya gaya: **20 Oct 2026 21:04 PKT**
+- Banaya gaya: **21 Oct 2026 01:13 PKT**
 - Trading day: **20 Oct 03:00 -> 21 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,23 +12,22 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 22:00 | GBP | low | MPC Member Greene Speaks | - | - |
-| **21 Oct** 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
-| **21 Oct** 03:30 | AUD | low | RBA Deputy Gov Hauser Speaks | - | - |
-| **21 Oct** 04:50 | JPY | low | Trade Balance | -0.26T | -0.84T |
-| **21 Oct** 07:00 | NZD | low | Credit Card Spending y/y | - | 3.5% |
-| **21 Oct** 11:00 | GBP | **HIGH** | CPI y/y | 3.4% | 3.1% |
-| **21 Oct** 11:00 | GBP | low | Core CPI y/y | 2.8% | 2.6% |
-| **21 Oct** 11:00 | GBP | low | PPI Input m/m | 1.3% | 0.3% |
-| **21 Oct** 11:00 | GBP | low | PPI Output m/m | 0.7% | 0.7% |
-| **21 Oct** 11:00 | GBP | low | Public Sector Net Borrowing | 23.8B | 18.3B |
-| **21 Oct** 11:00 | GBP | low | RPI y/y | 3.9% | 3.4% |
-| **21 Oct** 12:15 | EUR | low | German Buba President Nagel Speaks | - | - |
-| **21 Oct** 13:30 | GBP | low | HPI y/y | 1.2% | 1.4% |
-| **21 Oct** 14:10 | CNY | low | Foreign Direct Investment ytd/y | - | -5.3% |
-| **21 Oct** 15:00 | EUR | low | German Buba Monthly Report | - | - |
-| **21 Oct** 18:00 | GBP | MED | BOE Gov Bailey Speaks | - | - |
-| **21 Oct** 19:30 | USD | low | Crude Oil Inventories | -0.1M | -8.6M |
+| 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
+| 03:30 | AUD | low | RBA Deputy Gov Hauser Speaks | - | - |
+| 04:50 | JPY | low | Trade Balance | -0.26T | -0.84T |
+| 07:00 | NZD | low | Credit Card Spending y/y | - | 3.5% |
+| 11:00 | GBP | **HIGH** | CPI y/y | 3.4% | 3.1% |
+| 11:00 | GBP | low | Core CPI y/y | 2.8% | 2.6% |
+| 11:00 | GBP | low | PPI Input m/m | 1.3% | 0.3% |
+| 11:00 | GBP | low | PPI Output m/m | 0.7% | 0.7% |
+| 11:00 | GBP | low | Public Sector Net Borrowing | 23.8B | 18.3B |
+| 11:00 | GBP | low | RPI y/y | 3.9% | 3.4% |
+| 12:15 | EUR | low | German Buba President Nagel Speaks | - | - |
+| 13:30 | GBP | low | HPI y/y | 1.2% | 1.4% |
+| 14:10 | CNY | low | Foreign Direct Investment ytd/y | - | -5.3% |
+| 15:00 | EUR | low | German Buba Monthly Report | - | - |
+| 18:00 | GBP | MED | BOE Gov Bailey Speaks | - | - |
+| 19:30 | USD | low | Crude Oil Inventories | -0.1M | -8.6M |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
@@ -62,5 +61,6 @@
 
 | Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
 |---|---|---|---|---|---|
+| 20 Oct 19:00 | US September pending home sales | -7.3% | -0.5% | -6.80pp | neeche |
 | 20 Oct 14:00 | Germany October ZEW survey current condition | -35.9 | -45.0 | +9.10 (+20%) | upar |
 

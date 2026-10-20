@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "20 Oct 2026 21:04",
+  "generated_pkt": "21 Oct 2026 01:13",
   "trading_day": "2026-10-20",
   "feed_sources": {
     "thisweek": "live"
@@ -1137,6 +1137,20 @@
       "source": "investinglive",
       "tags": [
         "eur"
+      ]
+    },
+    {
+      "title": "US September pending home sales -7.3% vs -0.5% expected",
+      "actual_raw": "-7.3%",
+      "forecast_raw": "-0.5%",
+      "beat": false,
+      "raw_diff": "-6.80pp",
+      "sign_flip": false,
+      "diff_pct": null,
+      "when_pkt": "20 Oct 19:00",
+      "source": "investinglive",
+      "tags": [
+        "usd"
       ]
     }
   ]
