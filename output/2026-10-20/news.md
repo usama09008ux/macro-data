@@ -1,8 +1,8 @@
 # News Pack — Trading Day 20 Oct 2026
 
 - Trading day: **20 Oct 03:00 -> 21 Oct 02:59 PKT**
-- Aakhri update: **21 Oct 09:35 PKT**
-- Kul khabrein: **733**
+- Aakhri update: **21 Oct 14:38 PKT**
+- Kul khabrein: **744**
 - Feeds: 35/39 OK
 
 ---
@@ -122,6 +122,11 @@ USD: The US dollar has recently come under some pressure as Treasury yields drop
 `20 Oct 15:26 PKT` · pehli baar dekhi `20 Oct 17:58` · investinglive
 
 Solana continues to stay under pressure amid the negative macro backdrop as the geopolitical situation remains unchanged, with stalled US-Iran negotiations and the ongoing Saudi-Houthi conflict. Oil prices are back above $100, the Federal Reserve faces mounting inflation pressures that could force it to raise rates more than expected, and growth concerns are starting to take centre stage. That's a bad mix for the crypto market.
+
+**UK 10-year gilt yield rises amid higher oil prices, US Treasury yields - Crypto Briefing**
+`20 Oct 14:58 PKT` · pehli baar dekhi `21 Oct 14:38` · gnews_centralbanks
+
+UK 10-year gilt yield rises amid higher oil prices, US Treasury yields Crypto Briefing
 
 **Gold's $4,000 Floor Faces Oil-Yield Test as AI Haven Bid Wavers**
 `20 Oct 14:22 PKT` · pehli baar dekhi `20 Oct 17:58` · actionforex
@@ -419,6 +424,11 @@ Fed to skip October but raise rates again in December, nearly all economists say
 `21 Oct 00:11 PKT` · pehli baar dekhi `21 Oct 05:02` · gnews_fed
 
 Breitbart Business Digest: The Bond Market Is Already Doing Warsh's Work Breitbart News
+
+**European Central Bank: Core inflation pressures and rate path – Commerzbank | FXStreet - شبكة تواصل الإخبارية**
+`20 Oct 23:22 PKT` · pehli baar dekhi `21 Oct 14:38` · gnews_centralbanks
+
+European Central Bank: Core inflation pressures and rate path – Commerzbank | FXStreet شبكة تواصل الإخبارية
 
 **Gold Falls Below $4,150 as Stronger Dollar and Rising Treasury Yields Weigh; Analysts Warn of Further Near-Term Weakness - BigGo Finance**
 `20 Oct 23:17 PKT` · pehli baar dekhi `21 Oct 09:35` · gnews_fed
@@ -925,6 +935,11 @@ Euro dips on French turmoil, US dollar lifted as stocks rebound Kitco
 
 ### GBP
 
+**Bank of England policymaker backs rate rise as inflation risks grow - Traders Union**
+`20 Oct 23:40 PKT` · pehli baar dekhi `21 Oct 14:38` · gnews_centralbanks
+
+Bank of England policymaker backs rate rise as inflation risks grow Traders Union
+
 **Bank of England's Greene says inflation risks are bigger than thought - Reuters**
 `20 Oct 23:27 PKT` · pehli baar dekhi `21 Oct 02:25` · gnews_centralbanks
 
@@ -1003,6 +1018,11 @@ UK Jobs Data, Wage Growth Strengthens Case for Bank of England Rate Hikes Bloomb
 `21 Oct 02:36 PKT` · pehli baar dekhi `21 Oct 05:02` · wsj_world
 
 This time the target is a Japanese reporter as Putin fans tensions.
+
+**October Meeting to See BoJ Hold Rates Steady and Lift Inflation Forecast – Reuters - www.tmgm.com**
+`20 Oct 16:59 PKT` · pehli baar dekhi `21 Oct 14:38` · gnews_centralbanks
+
+October Meeting to See BoJ Hold Rates Steady and Lift Inflation Forecast – Reuters www.tmgm.com
 
 **USD/JPY Daily Outlook**
 `20 Oct 16:54 PKT` · pehli baar dekhi `20 Oct 17:58` · actionforex
@@ -1297,9 +1317,10 @@ US President Donald Trump is out with some comments that suggest America is lean
 `21 Oct 00:20 PKT` · pehli baar dekhi `21 Oct 02:25` · investing_commodities
 
 **Brent falls as Iran's president discusses mediation with Pakistani army chief - AOL.co.uk**
-`21 Oct 00:16 PKT` · pehli baar dekhi `21 Oct 09:35` · gnews_geopolitics
+`21 Oct 00:16 PKT` · pehli baar dekhi `21 Oct 09:35` · gnews_geopolitics · **2 feeds mein**
 
 Brent falls as Iran's president discusses mediation with Pakistani army chief AOL.co.uk
+  - `21 Oct 00:16` *gnews_geopolitics* — Brent falls as Iran's president discusses mediation with Pakistani army chief - AOL.com
 
 **Crude Oil Prices Fall on Diplomacy Hopes to End Iran War - Barchart.com**
 `21 Oct 00:16 PKT` · pehli baar dekhi `21 Oct 02:25` · gnews_geopolitics
@@ -1438,6 +1459,11 @@ Oil falls more than 2% after unconfirmed report of 'middle ground' U.S.-Iran dea
 `20 Oct 20:02 PKT` · pehli baar dekhi `20 Oct 22:55` · actionforex
 
 Brent's attempts to break above $110 a barrel are not preventing the greenback from falling. The US dollar is reacting more to corporate earnings than to geopolitics. The US dollar is retreating for the fourth day running, despite Brent's attempts to hold onto the key $110-per-barrel level. The last time Brent crude was seen at [&#8230;] The post Even Brent Can't Heal the Dollar Now appeared first on ActionForex.
+
+**Oil steadies as traders weigh conflicting signals on Iran talks - Yahoo Finance Singapore**
+`20 Oct 19:41 PKT` · pehli baar dekhi `21 Oct 14:38` · gnews_geopolitics
+
+Oil steadies as traders weigh conflicting signals on Iran talks Yahoo Finance Singapore
 
 **Sunset Market Commentary**
 `20 Oct 19:34 PKT` · pehli baar dekhi `20 Oct 22:55` · actionforex
@@ -1915,10 +1941,11 @@ The quarterly beat is likely to matter less to traders than the forward guidance
 
 Experts warn of interest rate hike; new mortgages could cost buyers thousands more AL.com
 
-**Federal Reserve seen skipping Oct rate hike but hiking in Dec - Reuters poll - Investing.com**
-`20 Oct 18:31 PKT` · pehli baar dekhi `20 Oct 22:55` · gnews_fed
+**Federal Reserve seen skipping Oct rate hike but hiking in Dec - Reuters poll - Yahoo Finance Singapore**
+`20 Oct 18:59 PKT` · pehli baar dekhi `21 Oct 14:38` · gnews_fed · **2 feeds mein**
 
-Federal Reserve seen skipping Oct rate hike but hiking in Dec - Reuters poll Investing.com
+Federal Reserve seen skipping Oct rate hike but hiking in Dec - Reuters poll Yahoo Finance Singapore
+  - `20 Oct 18:31` *gnews_fed* — Federal Reserve seen skipping Oct rate hike but hiking in Dec - Reuters poll - Investing.com
 
 **Stifel cuts Pool Corp stock price target on margin concerns**
 `20 Oct 17:40 PKT` · pehli baar dekhi `20 Oct 17:58` · investing_news
@@ -1937,6 +1964,11 @@ Tesla is set to report its Q3 2026 earnings on October 21 after beating vehicle 
 The Ibovespa slipped 0.2% to close at 205,079 on Monday, giving up earlier gains as credit-sensitive stocks ended the session mixed. Brazilian assets lacked a clear direction, with investors cautious at the start of the week ahead of the presidential runoff. Polls by BTG/Nexus and AtlasIntel indicated weakening support for Flávio Bolsonaro and rising support for Lula, though Bolsonaro remained in the lead in both surveys.
 
 ### RISK
+
+**Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA - EnergyNow.com**
+`21 Oct 02:57 PKT` · pehli baar dekhi `21 Oct 14:38` · gnews_geopolitics
+
+Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA EnergyNow.com
 
 **US Treasury Secretary Bessent Says Oil Market Well Supplied Amid Iran War - EnergyNow.com**
 `21 Oct 02:54 PKT` · pehli baar dekhi `21 Oct 09:35` · gnews_geopolitics
@@ -2213,7 +2245,7 @@ Children among six killed in Russian drone strike on Ukraine park
 
 The dispute raises the risk of further escalation in a conflict that has increasingly targeted energy infrastructure on both sides, with the clearest risk for oil to the upside. Ukrainian strikes on Russian refineries and diesel facilities have been a source of supply concern in product markets, and if Washington's pressure on Kyiv to halt them fails, those attacks could intensify, tightening diesel supply further at a time when the Iran war is already keeping crude elevated.
 
-### BINA TAG (246)
+### BINA TAG (249)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2227,6 +2259,7 @@ The dispute raises the risk of further escalation in a conflict that has increas
 - `21 Oct 02:12` **investing_news** — Wedbush's Ives reiterates Outperform on SpaceX stock citing SI growth
 - `21 Oct 02:12` **investing_news** — Aehr Test Systems shareholders elect directors and approve proposals at annual meeting
 - `21 Oct 02:12` **investing_news** — Helsing nears investment in Destinus stock at $6.7 billion valuation - Bloomberg
+- `21 Oct 02:09` **gnews_centralbanks** — Markets bet rates will rise to 4% in November and 5% by end of next year after shock fall in unemployment - This is Money
 - `21 Oct 02:08` **investing_news** — Silvia announces cost-cutting plan targeting $10M in savings
 - `21 Oct 02:07` **investing_news** — Strawberry Fields at LD Micro: steady growth meets valuation gap
 - `21 Oct 02:06` **investing_news** — Goldman Sachs raises MSCI stock price target on strong quarterly results
@@ -2318,10 +2351,12 @@ The dispute raises the risk of further escalation in a conflict that has increas
 - `20 Oct 19:19` **wsj_markets** — Kroger Targets Earnings Growth, Operations Overhaul in New Three-Year Plan
 - `20 Oct 19:15` **gnews_fed** — How the 'Walmart effect' is major warning sign for the American economy - Newswav
 - `20 Oct 19:13` **aljazeera** — Celebrating Fela Kuti's legacy and the global rise of Afrobeats
+- `20 Oct 19:06` **gnews_centralbanks** — How to snag a top savings deal as banks hike loan costs but CHEAT savers - The Irish Sun
 - `20 Oct 19:06` **investing_commodities** — Phoenix Tailings to build $375-million rare earths facility in New York state
 - `20 Oct 19:02` **gnews_centralbanks** — What could happen to mortgage rates in 2027 - The i Paper
 - `20 Oct 19:00` **aljazeera** — Three months of PM Andy Burnham: Can he sustain the 'hope vibe'?
 - `20 Oct 18:52` **kitco_general** — TAG: University of Michigan consumer sentiment r - Kitco
+- `20 Oct 18:52` **gnews_centralbanks** — Mortgage fixes under 5% disappearing – should you lock in now, go for a tracker or wait? - Money Saving Expert
 - `20 Oct 18:33` **investinglive** — AI's cheap seats are filling up: open-weight and small models take over the machine workload
 - `20 Oct 18:30` **cointelegraph** — Agents can trade 24/7 — but Yat Siu warns you could lose access at any time
 - `20 Oct 18:26` **wsj_world** — Best Car Insurance Companies of 2026
@@ -2480,48 +2515,48 @@ investing_news (17)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 4 | 16 | 0 | 0.0 |
-| marketpulse | OK | 6 | 3 | 1 | 2 | 3 | 0.1 |
-| instaforex | OK | 25 | 25 | 23 | 2 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.2 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_daily_commentary | OK | 10 | 6 | 0 | 6 | 4 | 0.3 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 40.4 |
-| kitco_general | OK | 36 | 36 | 1 | 35 | 0 | 0.1 |
-| gnews_fed | OK | 48 | 48 | 12 | 36 | 0 | 0.0 |
-| gnews_geopolitics | OK | 76 | 76 | 20 | 56 | 0 | 0.0 |
-| gnews_centralbanks | OK | 25 | 25 | 2 | 23 | 0 | 0.2 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 7.4 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 6.1 |
-| ecb_press | OK | 15 | 2 | 1 | 1 | 13 | 0.0 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.7 |
-| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 4.9 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.1 |
-| mining_com | OK | 36 | 10 | 0 | 10 | 26 | 0.2 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.2 |
-| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
-| bbc_business | OK | 54 | 19 | 0 | 19 | 35 | 0.2 |
-| aljazeera | OK | 25 | 25 | 10 | 15 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.9 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 40.7 |
-| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 1.6 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 14.7 |
-| wsj_world | OK | 70 | 26 | 1 | 25 | 44 | 0.1 |
-| wsj_markets | OK | 61 | 26 | 6 | 20 | 35 | 0.0 |
+| actionforex | OK | 20 | 20 | 17 | 3 | 0 | 0.0 |
+| marketpulse | OK | 6 | 3 | 0 | 3 | 3 | 0.3 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 6 | 3 | 3 | 30 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_daily_commentary | OK | 10 | 6 | 0 | 6 | 4 | 0.5 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 40.6 |
+| kitco_general | OK | 33 | 33 | 0 | 33 | 0 | 0.4 |
+| gnews_fed | OK | 49 | 49 | 11 | 38 | 0 | 0.0 |
+| gnews_geopolitics | OK | 76 | 76 | 13 | 63 | 0 | 0.0 |
+| gnews_centralbanks | OK | 45 | 45 | 30 | 15 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 7.7 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 6.3 |
+| ecb_press | OK | 15 | 3 | 1 | 2 | 12 | 0.1 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.9 |
+| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 5.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.3 |
+| mining_com | OK | 36 | 10 | 0 | 10 | 26 | 0.4 |
+| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| bbc_business | OK | 52 | 24 | 4 | 20 | 28 | 0.0 |
+| aljazeera | OK | 25 | 25 | 24 | 1 | 0 | 0.0 |
+| snb_press | OK | 20 | 2 | 2 | 0 | 18 | 0.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 40.9 |
+| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 1.8 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 14.9 |
+| wsj_world | OK | 70 | 30 | 4 | 26 | 40 | 0.1 |
+| wsj_markets | OK | 61 | 27 | 5 | 22 | 34 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
-| cointelegraph | OK | 30 | 27 | 1 | 26 | 3 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 3 | 27 | 0 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 40d purana
+- cme_risk_management — STALE, cadence 10d, magar 41d purana
 - yahoo_finance — FAIL, HTTP 404
