@@ -1,6 +1,6 @@
 # Calendar — Trading Day 21 Oct 2026
 
-- Banaya gaya: **21 Oct 2026 05:51 PKT**
+- Banaya gaya: **21 Oct 2026 15:25 PKT**
 - Trading day: **21 Oct 03:00 -> 22 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,24 +12,15 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 07:00 | NZD | low | Credit Card Spending y/y | - | 3.5% |
-| 11:00 | GBP | **HIGH** | CPI y/y | 3.4% | 3.1% |
-| 11:00 | GBP | low | Core CPI y/y | 2.8% | 2.6% |
-| 11:00 | GBP | low | PPI Input m/m | 1.3% | 0.3% |
-| 11:00 | GBP | low | PPI Output m/m | 0.7% | 0.7% |
-| 11:00 | GBP | low | Public Sector Net Borrowing | 23.8B | 18.3B |
-| 11:00 | GBP | low | RPI y/y | 3.9% | 3.4% |
-| 12:15 | EUR | low | German Buba President Nagel Speaks | - | - |
-| 13:30 | GBP | low | HPI y/y | 1.2% | 1.4% |
-| 14:10 | CNY | low | Foreign Direct Investment ytd/y | - | -5.3% |
-| 15:00 | EUR | low | German Buba Monthly Report | - | - |
 | 18:00 | GBP | MED | BOE Gov Bailey Speaks | - | - |
 | 19:30 | USD | low | Crude Oil Inventories | -0.1M | -8.6M |
 | **22 Oct** 02:45 | NZD | **HIGH** | CPI q/q | 0.8% | 1.5% |
+| **22 Oct** 12:30 | CHF | low | Summary of Monetary Policy Discussions | - | - |
+| **22 Oct** 14:10 | CNY | low | Foreign Direct Investment ytd/y | - | -5.3% |
+| **22 Oct** 15:00 | GBP | low | CBI Industrial Order Expectations | -20 | -9 |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
-- `21 Oct 11:00` **GBP CPI y/y**
 - `22 Oct 02:45` **NZD CPI q/q**
 
 ---
