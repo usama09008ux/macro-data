@@ -1,6 +1,6 @@
 # Calendar — Trading Day 21 Oct 2026
 
-- Banaya gaya: **21 Oct 2026 21:21 PKT**
+- Banaya gaya: **22 Oct 2026 01:24 PKT**
 - Trading day: **21 Oct 03:00 -> 22 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,17 +12,17 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **22 Oct** 02:45 | NZD | **HIGH** | CPI q/q | 0.8% | 1.5% |
-| **22 Oct** 12:30 | CHF | low | Summary of Monetary Policy Discussions | - | - |
-| **22 Oct** 14:10 | CNY | low | Foreign Direct Investment ytd/y | - | -5.3% |
-| **22 Oct** 15:00 | GBP | low | CBI Industrial Order Expectations | -20 | -9 |
-| **22 Oct** 17:30 | CAD | low | IPPI m/m | 0.9% | 1.3% |
-| **22 Oct** 17:30 | CAD | low | NHPI m/m | -0.1% | -0.1% |
-| **22 Oct** 17:30 | CAD | low | RMPI m/m | 3.1% | 3.1% |
-| **22 Oct** 17:30 | USD | MED | Unemployment Claims | 200K | 199K |
-| **22 Oct** 19:00 | EUR | low | Consumer Confidence | -17 | -17 |
-| **22 Oct** 19:00 | USD | low | CB Leading Index m/m | -0.1% | -0.1% |
-| **22 Oct** 19:30 | USD | low | Natural Gas Storage | 83B | 67B |
+| 02:45 | NZD | **HIGH** | CPI q/q | 0.8% | 1.5% |
+| 12:30 | CHF | low | Summary of Monetary Policy Discussions | - | - |
+| 14:10 | CNY | low | Foreign Direct Investment ytd/y | - | -5.3% |
+| 15:00 | GBP | low | CBI Industrial Order Expectations | -20 | -9 |
+| 17:30 | CAD | low | IPPI m/m | 0.9% | 1.3% |
+| 17:30 | CAD | low | NHPI m/m | -0.1% | -0.1% |
+| 17:30 | CAD | low | RMPI m/m | 3.1% | 3.1% |
+| 17:30 | USD | MED | Unemployment Claims | 200K | 199K |
+| 19:00 | EUR | low | Consumer Confidence | -17 | -17 |
+| 19:00 | USD | low | CB Leading Index m/m | -0.1% | -0.1% |
+| 19:30 | USD | low | Natural Gas Storage | 80B | 67B |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
@@ -42,7 +42,7 @@
 | **23 Oct** 13:30 | GBP | MED | Flash Manufacturing PMI | 51.8 | 52.0 |
 | **23 Oct** 13:30 | GBP | MED | Flash Services PMI | 51.8 | 51.7 |
 | **23 Oct** 18:45 | USD | MED | Flash Manufacturing PMI | 55.4 | 57.0 |
-| **23 Oct** 18:45 | USD | MED | Flash Services PMI | 57.8 | 58.7 |
+| **23 Oct** 18:45 | USD | MED | Flash Services PMI | 57.9 | 58.7 |
 | **23 Oct** 19:00 | USD | MED | Revised UoM Consumer Sentiment | 46.3 | 46.3 |
 | **23 Oct** 19:00 | USD | MED | Revised UoM Inflation Expectations | - | 4.7% |
 

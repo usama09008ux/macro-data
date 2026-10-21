@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "21 Oct 2026 21:21",
+  "generated_pkt": "22 Oct 2026 01:24",
   "trading_day": "2026-10-21",
   "feed_sources": {
     "thisweek": "live"
@@ -802,7 +802,7 @@
       "title": "Natural Gas Storage",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "83B",
+      "forecast": "80B",
       "previous": "67B",
       "url": "https://www.forexfactory.com/calendar/26-us-natural-gas-storage",
       "all_day": false,
@@ -1049,7 +1049,7 @@
       "title": "Flash Services PMI",
       "ccy": "USD",
       "impact": "Medium",
-      "forecast": "57.8",
+      "forecast": "57.9",
       "previous": "58.7",
       "url": "https://www.forexfactory.com/calendar/583-us-flash-services-pmi",
       "all_day": false,
