@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "22 Oct 2026 15:24",
+  "generated_pkt": "22 Oct 2026 21:20",
   "trading_day": "2026-10-22",
   "feed_sources": {
     "thisweek": "live"
@@ -721,45 +721,6 @@
       "trading_day": "2026-10-22"
     },
     {
-      "title": "IPPI m/m",
-      "ccy": "CAD",
-      "impact": "Low",
-      "forecast": "0.9%",
-      "previous": "1.3%",
-      "url": "https://www.forexfactory.com/calendar/90-ca-ippi-mm",
-      "all_day": false,
-      "utc": "2026-10-22T12:30Z",
-      "pkt": "22 Oct 17:30",
-      "pkt_iso": "2026-10-22T17:30:00+05:00",
-      "trading_day": "2026-10-22"
-    },
-    {
-      "title": "NHPI m/m",
-      "ccy": "CAD",
-      "impact": "Low",
-      "forecast": "-0.1%",
-      "previous": "-0.1%",
-      "url": "https://www.forexfactory.com/calendar/259-ca-nhpi-mm",
-      "all_day": false,
-      "utc": "2026-10-22T12:30Z",
-      "pkt": "22 Oct 17:30",
-      "pkt_iso": "2026-10-22T17:30:00+05:00",
-      "trading_day": "2026-10-22"
-    },
-    {
-      "title": "RMPI m/m",
-      "ccy": "CAD",
-      "impact": "Low",
-      "forecast": "3.1%",
-      "previous": "3.1%",
-      "url": "https://www.forexfactory.com/calendar/91-ca-rmpi-mm",
-      "all_day": false,
-      "utc": "2026-10-22T12:30Z",
-      "pkt": "22 Oct 17:30",
-      "pkt_iso": "2026-10-22T17:30:00+05:00",
-      "trading_day": "2026-10-22"
-    },
-    {
       "title": "Unemployment Claims",
       "ccy": "USD",
       "impact": "Medium",
@@ -770,6 +731,45 @@
       "utc": "2026-10-22T12:30Z",
       "pkt": "22 Oct 17:30",
       "pkt_iso": "2026-10-22T17:30:00+05:00",
+      "trading_day": "2026-10-22"
+    },
+    {
+      "title": "IPPI m/m",
+      "ccy": "CAD",
+      "impact": "Low",
+      "forecast": "0.9%",
+      "previous": "1.3%",
+      "url": "https://www.forexfactory.com/calendar/90-ca-ippi-mm",
+      "all_day": false,
+      "utc": "2026-10-22T12:38Z",
+      "pkt": "22 Oct 17:38",
+      "pkt_iso": "2026-10-22T17:38:00+05:00",
+      "trading_day": "2026-10-22"
+    },
+    {
+      "title": "RMPI m/m",
+      "ccy": "CAD",
+      "impact": "Low",
+      "forecast": "3.1%",
+      "previous": "3.1%",
+      "url": "https://www.forexfactory.com/calendar/91-ca-rmpi-mm",
+      "all_day": false,
+      "utc": "2026-10-22T12:38Z",
+      "pkt": "22 Oct 17:38",
+      "pkt_iso": "2026-10-22T17:38:00+05:00",
+      "trading_day": "2026-10-22"
+    },
+    {
+      "title": "NHPI m/m",
+      "ccy": "CAD",
+      "impact": "Low",
+      "forecast": "-0.1%",
+      "previous": "-0.1%",
+      "url": "https://www.forexfactory.com/calendar/259-ca-nhpi-mm",
+      "all_day": false,
+      "utc": "2026-10-22T13:55Z",
+      "pkt": "22 Oct 18:55",
+      "pkt_iso": "2026-10-22T18:55:00+05:00",
       "trading_day": "2026-10-22"
     },
     {
@@ -1124,5 +1124,20 @@
       "trading_day": "2026-10-25"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US initial jobless claims 194K vs 200K estimate. Better than expected.",
+      "actual_raw": "194K",
+      "forecast_raw": "200K",
+      "beat": false,
+      "raw_diff": "-6.0K",
+      "sign_flip": false,
+      "diff_pct": -3.0,
+      "when_pkt": "22 Oct 17:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }
