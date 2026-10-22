@@ -1,8 +1,8 @@
 # News Pack — Trading Day 21 Oct 2026
 
 - Trading day: **21 Oct 03:00 -> 22 Oct 02:59 PKT**
-- Aakhri update: **22 Oct 03:14 PKT**
-- Kul khabrein: **757**
+- Aakhri update: **22 Oct 05:44 PKT**
+- Kul khabrein: **767**
 - Feeds: 35/39 OK
 
 ---
@@ -193,6 +193,11 @@ The poll firms up December as the likely window for the BOJ's next move, which s
 
 Gold edges up on Federal Reserve uncertainty, Middle East unrest NewsBytes
 
+**Gold Swings as Traders Assess Fed Rate Path Amid Mideast Worries - Livemint**
+`22 Oct 01:45 PKT` · pehli baar dekhi `22 Oct 05:44` · gnews_fed
+
+Gold Swings as Traders Assess Fed Rate Path Amid Mideast Worries Livemint
+
 **Gold edges higher as yields retreat, Fed decision in focus - Kitco**
 `22 Oct 01:05 PKT` · pehli baar dekhi `22 Oct 03:14` · kitco_general · **2 feeds mein**
 
@@ -325,6 +330,11 @@ Gold falls as market awaits breakout The Express Tribune
   - `21 Oct 03:25` *gnews_fed* — Gold falls as market awaits breakout - The Express Tribune
 
 ### USD
+
+**Dollar Slips as Oil-Driven Inflation Fears Loom Over Next Week's Fed Meeting - BigGo Finance**
+`22 Oct 02:55 PKT` · pehli baar dekhi `22 Oct 05:44` · gnews_fed
+
+Dollar Slips as Oil-Driven Inflation Fears Loom Over Next Week's Fed Meeting BigGo Finance
 
 **EverQuote stock rises on $50M share buyback program**
 `22 Oct 02:54 PKT` · pehli baar dekhi `22 Oct 03:14` · investing_news
@@ -799,9 +809,10 @@ ECB Chief Economist Philip Lane outlined how the expansion of the Eurosystem rep
 Markets EUR/GBP closed below 0.84 yesterday for the first time since May of last year. From a technical point of view, 0.8376 (76% retracement on 2024-2025 EUR/GBP rally) is the final obstacle impeding a return to the 2024 low at EUR/GBP 0.8225. A strong UK labour market marked the start of yesterday's GBP outperformance. The [&#8230;] The post Sunrise Market Commentary appeared first on ActionForex.
 
 **Lane says greater global euro use may help ECB control inflation - The Edge Malaysia**
-`21 Oct 11:33 PKT` · pehli baar dekhi `21 Oct 14:38` · gnews_centralbanks
+`21 Oct 11:33 PKT` · pehli baar dekhi `21 Oct 14:38` · gnews_centralbanks · **2 feeds mein**
 
 Lane says greater global euro use may help ECB control inflation The Edge Malaysia
+  - `21 Oct 09:15` *gnews_centralbanks* — Lane Says Greater Global Euro Use May Help ECB Control Inflation - Bloomberg.com
 
 **Social unrest pressures European markets**
 `21 Oct 10:32 PKT` · pehli baar dekhi `21 Oct 14:38` · investinglive
@@ -1332,6 +1343,11 @@ The Americas' Oil Bonanza Will Outlast the Iran Conflict: Bousso EnergyNow
 
 Iranian Oil Exports Fall to Lowest Level in Six Years, Data Shows EnergyNow.com
 
+**Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz - EnergyNow.com**
+`21 Oct 23:30 PKT` · pehli baar dekhi `22 Oct 05:44` · gnews_geopolitics
+
+Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz EnergyNow.com
+
 **Morgan Stanley Maintains Oil Price Forecasts and Predicts Slow Recovery in Supply - EnergyNow.com**
 `21 Oct 23:30 PKT` · pehli baar dekhi `22 Oct 03:14` · gnews_geopolitics
 
@@ -1483,6 +1499,11 @@ U.S. TOPS THE LIST – Half the World's Oil Comes From Just Five Countries – V
 `21 Oct 17:47 PKT` · pehli baar dekhi `22 Oct 03:14` · gnews_geopolitics
 
 Trump-Iran Standoff Threatens Chronic Gulf Oil Instability: Bousso EnergyNow.com
+
+**Brent and WTI spike as Iran US tensions tighten supply - NewsBytes**
+`21 Oct 17:43 PKT` · pehli baar dekhi `22 Oct 05:44` · gnews_geopolitics
+
+Brent and WTI spike as Iran US tensions tighten supply NewsBytes
 
 **Oil prices jump more than $1 per barrel as escalating Middle East tensions fuel supply fears - The New Voice of Ukraine**
 `21 Oct 17:37 PKT` · pehli baar dekhi `21 Oct 19:40` · gnews_geopolitics
@@ -1839,6 +1860,11 @@ Bitcoin volatility nears 2026 lows as traders await Fed decision Crypto Briefing
   - `21 Oct 16:59` *gnews_fed* — Bitcoin volatility nears 2026 lows as traders await Fed decision - TradingView
   - `21 Oct 16:59` *gnews_fed* — Bitcoin volatility nears 2026 lows as traders await Fed decision - Crypto Briefing
 
+**OCC Approves Final Rules for Stablecoin Issuers Under GENIUS Act - ForkLog**
+`21 Oct 18:01 PKT` · pehli baar dekhi `22 Oct 05:44` · gnews_fed
+
+OCC Approves Final Rules for Stablecoin Issuers Under GENIUS Act ForkLog
+
 **OCC finalizes GENIUS Act rules for stablecoin issuers and custody**
 `21 Oct 17:26 PKT` · pehli baar dekhi `21 Oct 19:40` · cointelegraph
 
@@ -1911,6 +1937,11 @@ The New York Stock Exchange said plans to open up options trading for roughly tw
 `21 Oct 17:32 PKT` · pehli baar dekhi `21 Oct 19:40` · mw_topstories
 
 The person shouted something that could not be heard on the company's livestream about 20 minutes into the address, before being removed from the auditorium.
+
+**Federal Reserve seen skipping Oct rate hike but hiking in Dec - Reuters poll By Investing.com - Investing.com South Africa**
+`21 Oct 05:55 PKT` · pehli baar dekhi `22 Oct 05:44` · gnews_fed
+
+Federal Reserve seen skipping Oct rate hike but hiking in Dec - Reuters poll By Investing.com Investing.com South Africa
 
 **Super Micro shares jump 14% as preliminary revenue tops forecast by about $4 billion**
 `21 Oct 04:13 PKT` · pehli baar dekhi `21 Oct 05:02` · investinglive
@@ -2168,7 +2199,7 @@ Iran War Raises Demand for US Fuel, Boosting Gulf Coast Refining Margins EnergyN
 
 Korea cushions Iran war oil supply shock as Japan's imports plunge Korea JoongAng Daily
 
-### BINA TAG (279)
+### BINA TAG (282)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2206,6 +2237,7 @@ Korea cushions Iran war oil supply shock as Japan's imports plunge Korea JoongAn
 - `22 Oct 01:00` **kitco_general** — TSX extends gains as AI demand lifts tech and financials - Kitco
 - `22 Oct 01:00` **kitco_general** — Incoming Northern Star CEO flags possibility of asset sales - Kitco
 - `22 Oct 00:56` **kitco_general** — BlackRock adds robotics ETF to growing ranks of AI-themed products - Kitco
+- `22 Oct 00:54` **bbc_business** — Websites taken down worldwide as critical cyber-security update issued
 - `22 Oct 00:51` **aljazeera** — Cuba accuses US of threatening countries ahead of UN embargo vote
 - `22 Oct 00:51` **wsj_world** — Nine Ebola Cases Have Kenya Holding Its Breath
 - `22 Oct 00:42` **investing_commodities** — Venezuela oilfield hiring picks up as first wave of investment builds
@@ -2216,6 +2248,7 @@ Korea cushions Iran war oil supply shock as Japan's imports plunge Korea JoongAn
 - `22 Oct 00:16` **kitco_general** — CMRG agrees to new annual supply contract with Rio Tinto, sources say - Kitco
 - `22 Oct 00:14` **aljazeera** — Tunisia jails opposition politician for four years over social media posts
 - `22 Oct 00:03` **gnews_fed** — Accounting AI Research Lab - Carnegie Mellon University
+- `22 Oct 00:00` **gnews_fed** — Pundit to XRP Holders: We Have Less Than 10 Days Left. Here's What Is Coming - Times Tabloid
 - `21 Oct 23:59` **aljazeera** — Steelers and Saints set for historic NFL clash in riot-hit Paris
 - `21 Oct 23:57` **instaforex** — Brazil's Foreign Exchange Inflows Ease to $1.93B, Down from $2.42B
 - `21 Oct 23:57` **instaforex** — Colombia's Import Growth Accelerates to 31.7% YoY in August 2026
@@ -2248,6 +2281,7 @@ Korea cushions Iran war oil supply shock as Japan's imports plunge Korea JoongAn
 - `21 Oct 22:15` **kitco_general** — TAG: SQQQ - Kitco
 - `21 Oct 22:06` **bbc_business** — A warning to anyone with credit card debt...
 - `21 Oct 22:06` **bbc_business** — Burnham proposes plan to cut standing charges from gas bills
+- `21 Oct 22:04` **bbc_business** — Just Eat apologises for AI food mistakes after social media ridicule
 - `21 Oct 21:57` **aljazeera** — Paris shopkeepers fear more destruction after riots destroy livelihoods
 - `21 Oct 21:34` **aljazeera** — Macron's surprise 'solidarity' visit to Saudi Arabia
 - `21 Oct 21:34` **mw_topstories** — Medicare is a bargain. What America can't afford is private health insurance.
@@ -2468,45 +2502,45 @@ investing_news (11)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | OK | 6 | 1 | 0 | 1 | 5 | 0.8 |
-| instaforex | OK | 25 | 25 | 11 | 14 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.5 |
-| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.0 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 41.1 |
-| kitco_general | OK | 30 | 30 | 11 | 19 | 0 | 0.0 |
-| gnews_fed | OK | 52 | 52 | 12 | 40 | 0 | 0.1 |
-| gnews_geopolitics | OK | 77 | 77 | 15 | 62 | 0 | 0.0 |
-| gnews_centralbanks | OK | 41 | 41 | 7 | 34 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 8.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 6.8 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 5.5 |
-| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 5.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.8 |
-| mining_com | OK | 36 | 12 | 1 | 11 | 24 | 0.0 |
-| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 1 | 9 | 0 | 0.2 |
-| bbc_business | OK | 54 | 14 | 0 | 14 | 40 | 0.0 |
-| aljazeera | OK | 25 | 25 | 20 | 5 | 0 | 0.0 |
-| snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 41.5 |
-| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.3 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 15.4 |
-| wsj_world | OK | 73 | 24 | 5 | 19 | 49 | 0.0 |
-| wsj_markets | OK | 61 | 30 | 6 | 24 | 31 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
+| marketpulse | OK | 6 | 1 | 0 | 1 | 5 | 1.0 |
+| instaforex | OK | 25 | 25 | 6 | 19 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.6 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.1 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 41.3 |
+| kitco_general | OK | 30 | 30 | 1 | 29 | 0 | 0.1 |
+| gnews_fed | OK | 53 | 53 | 6 | 47 | 0 | 0.0 |
+| gnews_geopolitics | OK | 75 | 75 | 2 | 73 | 0 | 0.1 |
+| gnews_centralbanks | OK | 38 | 38 | 2 | 36 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 8.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 6.9 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.7 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 5.6 |
+| boj_whatsnew | OK | 47 | 2 | 2 | 0 | 45 | 0.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.9 |
+| mining_com | OK | 36 | 14 | 2 | 12 | 22 | 0.1 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
+| bbc_business | OK | 55 | 19 | 5 | 14 | 36 | 0.1 |
+| aljazeera | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
+| snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.7 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 41.6 |
+| eia_energy | OK | 18 | 0 | 0 | 0 | 18 | 2.4 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 15.5 |
+| wsj_world | OK | 73 | 25 | 1 | 24 | 48 | 0.0 |
+| wsj_markets | OK | 61 | 30 | 2 | 28 | 31 | 0.0 |
+| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 25 | 3 | 22 | 5 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 2 | 8 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 25 | 0 | 25 | 5 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
