@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "22 Oct 2026 05:51",
+  "generated_pkt": "22 Oct 2026 15:24",
   "trading_day": "2026-10-22",
   "feed_sources": {
     "thisweek": "live"
@@ -702,9 +702,9 @@
       "previous": "-5.3%",
       "url": "https://www.forexfactory.com/calendar/457-ch-foreign-direct-investment-ytdy",
       "all_day": false,
-      "utc": "2026-10-22T09:10Z",
-      "pkt": "22 Oct 14:10",
-      "pkt_iso": "2026-10-22T14:10:00+05:00",
+      "utc": "2026-10-22T07:41Z",
+      "pkt": "22 Oct 12:41",
+      "pkt_iso": "2026-10-22T12:41:00+05:00",
       "trading_day": "2026-10-22"
     },
     {
