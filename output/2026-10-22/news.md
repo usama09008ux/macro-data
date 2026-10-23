@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Oct 2026
 
 - Trading day: **22 Oct 03:00 -> 23 Oct 02:59 PKT**
-- Aakhri update: **23 Oct 05:59 PKT**
-- Kul khabrein: **743**
+- Aakhri update: **23 Oct 10:57 PKT**
+- Kul khabrein: **760**
 - Feeds: 35/39 OK
 
 ---
@@ -307,6 +307,11 @@ Find insight on silver futures, Mullen Group, copper and more in the latest Mark
 
 Gold and Silver Both Fell Today: Here's the Actual Reason GoldSilver
 
+**Gold Price Today: XAU/USD Near $4,015 Before Fed - Markets.com**
+`22 Oct 21:05 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_fed
+
+Gold Price Today: XAU/USD Near $4,015 Before Fed Markets.com
+
 **Allianz Investment Management: The Federal Reserve and other central banks are expected to raise interest rates by another 0.25% each before year-end; bullish on Asian emerging equity markets and gold. - Moomoo**
 `22 Oct 21:02 PKT` · pehli baar dekhi `23 Oct 00:29` · gnews_fed
 
@@ -419,6 +424,11 @@ Hambro's view adds a heavyweight institutional voice to the fiscal-debasement ca
 
 The JPMorgan view rests on positioning, so the key test is whether selling dries up even as headlines stay negative. A day of heavy chip losses that is not followed by more forced selling would support the argument. Momentum-driven traders such as commodity trading advisers can flip from sellers to buyers quickly once trends stabilise, which can make rebounds sharp.
 
+**Breitbart Business Digest: Wall Street Is Daring Kevin Warsh to Raise Interest Rates - Breitbart News**
+`23 Oct 02:23 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_fed
+
+Breitbart Business Digest: Wall Street Is Daring Kevin Warsh to Raise Interest Rates Breitbart News
+
 **Meta's Hunt for AI Capital Strikes a Raw Nerve on Wall Street**
 `23 Oct 01:55 PKT` · pehli baar dekhi `23 Oct 03:42` · wsj_markets
 
@@ -491,6 +501,11 @@ The Fed funds futures marketr now sees a 22% that the Federal Reserve is done hi
 
 Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stock and credit markets.
 
+**European Central Bank: Do rising bond yields strengthen the case for an October hold? – ING - www.tmgm.com**
+`22 Oct 22:10 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_centralbanks
+
+European Central Bank: Do rising bond yields strengthen the case for an October hold? – ING www.tmgm.com
+
 **US treasury excels $26 billion of five-year tips at a high yield of 2.367%**
 `22 Oct 22:07 PKT` · pehli baar dekhi `23 Oct 00:29` · investinglive
 
@@ -551,6 +566,11 @@ Treasury yields fell to their lowest levels since September as worries about Fre
 
 Former New York Fed President Dudley: AI Investment Will Push the Federal Reserve Onto a Rate Roller Coaster BigGo Finance
 
+**The Fed's Dilemma: Can Markets Damp Inflation or Is Another Rate Hike Necessary? - Barron's**
+`22 Oct 17:56 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_fed
+
+The Fed's Dilemma: Can Markets Damp Inflation or Is Another Rate Hike Necessary? Barron's
+
 **US Jobless Claims Fall to 194K, Continuing Claims Edge Higher**
 `22 Oct 17:49 PKT` · pehli baar dekhi `22 Oct 20:36` · actionforex
 
@@ -572,9 +592,10 @@ TURKEY: The Turkish central bank has cut the policy rate by 100bp to 36%, as exp
 Markets Bet Warsh Holds Rates Steady, But He Won't Say So Himself Startup Fortune
 
 **What Happens to AI Stocks if the Fed Hikes Rates Again? - The Globe and Mail**
-`22 Oct 16:45 PKT` · pehli baar dekhi `22 Oct 20:36` · gnews_fed
+`22 Oct 16:58 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_fed · **2 feeds mein**
 
 What Happens to AI Stocks if the Fed Hikes Rates Again? The Globe and Mail
+  - `22 Oct 16:45` *gnews_fed* — What Happens to AI Stocks if the Fed Hikes Rates Again? - The Globe and Mail
 
 **Morocco CPI Rebounds in September**
 `22 Oct 15:32 PKT` · instaforex
@@ -630,6 +651,11 @@ Poland's retail sector gained modest momentum in September 2026, with year-over-
 `22 Oct 15:14 PKT` · pehli baar dekhi `22 Oct 15:32` · wsj_economy
 
 The Philippine central bank raised interest rates by more than expected Thursday, warning that inflation would accelerate further as renewed Middle East tensions pushed up energy prices.
+
+**The Latest Inflation Data Spells Bad News for Fed Chair Kevin Warsh and the Stock Market - The Motley Fool**
+`22 Oct 14:23 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_fed
+
+The Latest Inflation Data Spells Bad News for Fed Chair Kevin Warsh and the Stock Market The Motley Fool
 
 **Polish consumers keep spending, but momentum softens**
 `22 Oct 14:02 PKT` · pehli baar dekhi `22 Oct 15:32` · ing_think
@@ -1315,6 +1341,11 @@ Fragile Iran Deal Offers Oil Relief, but Hormuz Risks Remain: Bousso EnergyNow
 **Trump invokes Cold War-era Defense Production Act for oil production, refining**
 `23 Oct 02:36 PKT` · pehli baar dekhi `23 Oct 03:42` · investing_commodities
 
+**Oil Prices Keep Climbing as Expanding Conflict Heightens Supply Risks - EnergyNow**
+`23 Oct 02:22 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_geopolitics
+
+Oil Prices Keep Climbing as Expanding Conflict Heightens Supply Risks EnergyNow
+
 **Electric Giants Say They Already Have the Tools to Fix the AI Power Crunch**
 `23 Oct 02:00 PKT` · pehli baar dekhi `23 Oct 03:42` · oilprice
 
@@ -1365,10 +1396,20 @@ Oil prices fall nearly 3% on hopes of US-Iran deal Dunya News
 
 Canadian oil producer Strathcona Resources wants to export up to 250,000 barrels per day of crude from British Columbia's northern coast using rail shipments and a new marine terminal to reach Asian markets. But first, it needs Ottawa to make an exception to its oil tanker ban.
 
+**THE TIPPING POINT: ADNOC Trading Chief Flags August as Tipping Point for Oil Prices - EnergyNow.com**
+`22 Oct 23:20 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_geopolitics
+
+THE TIPPING POINT: ADNOC Trading Chief Flags August as Tipping Point for Oil Prices EnergyNow.com
+
 **Fed's Logan Warns US Oil Production Won't Fill Global Supply Gap - EnergyNow.com**
 `22 Oct 23:18 PKT` · pehli baar dekhi `23 Oct 05:59` · gnews_geopolitics
 
 Fed's Logan Warns US Oil Production Won't Fill Global Supply Gap EnergyNow.com
+
+**Middle East Oil Exports Drop at Least 60% as Hormuz Stays Mostly Closed, Data Shows - EnergyNow.com**
+`22 Oct 23:14 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_geopolitics
+
+Middle East Oil Exports Drop at Least 60% as Hormuz Stays Mostly Closed, Data Shows EnergyNow.com
 
 **CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist - EnergyNow.com**
 `22 Oct 23:00 PKT` · pehli baar dekhi `23 Oct 03:42` · gnews_geopolitics
@@ -1385,6 +1426,11 @@ Europe's carbon market could soon start paying shipowners to switch fuels, but t
 
 The US has pushed back on the IRGC&#039;s claims, dismissing them as an attempt to increase oil prices ahead of US elections.
 
+**Iran's Main Oil and Gas Production and Infrastructure - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com**
+`22 Oct 22:56 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_geopolitics
+
+Iran's Main Oil and Gas Production and Infrastructure - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com
+
 **RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com**
 `22 Oct 22:46 PKT` · pehli baar dekhi `23 Oct 03:42` · gnews_geopolitics
 
@@ -1400,6 +1446,11 @@ Oil Falls After Iraq Resumes Oil Exports via Turkey's Ceyhan Port EnergyNow
 
 Brent Crude Oil Price Jumps After Attack on Iran's South Pars Field EnergyNow.com
 
+**Attacks Cut Saudi Oil Output and East-West Pipeline Flow, State News Agency Says - EnergyNow.com**
+`22 Oct 22:34 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_geopolitics
+
+Attacks Cut Saudi Oil Output and East-West Pipeline Flow, State News Agency Says EnergyNow.com
+
 **Citi's $60 Oil Call Meets $112 Brent**
 `22 Oct 22:30 PKT` · pehli baar dekhi `23 Oct 00:29` · oilprice
 
@@ -1414,6 +1465,11 @@ Iran is making a push to expand connectivity with Central Asian states, with hig
 `22 Oct 21:50 PKT` · pehli baar dekhi `23 Oct 00:29` · wsj_markets
 
 Find insight on oil prices, Beach Energy and more in the latest Market Talks covering energy and utilities.
+
+**Oil Market Set for Tumultuous Week as Kharg Attack Raises Stakes - EnergyNow.com**
+`22 Oct 21:40 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_geopolitics
+
+Oil Market Set for Tumultuous Week as Kharg Attack Raises Stakes EnergyNow.com
 
 **Norway's $2.3 Trillion Oil Fund Loses $30 Billion in Third Quarter**
 `22 Oct 21:30 PKT` · pehli baar dekhi `23 Oct 00:29` · oilprice
@@ -2131,6 +2187,11 @@ The military-grade system appeared to be working more normally on Thursday, soon
 **Finland PM says no gas deals with Russia during Ukraine war**
 `22 Oct 23:04 PKT` · pehli baar dekhi `23 Oct 00:29` · investing_commodities
 
+**Top Asian LNG Markets Boost Coal Use as Iran War Limits Supply - EnergyNow.com**
+`22 Oct 22:53 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_geopolitics
+
+Top Asian LNG Markets Boost Coal Use as Iran War Limits Supply EnergyNow.com
+
 **Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says - EnergyNow**
 `22 Oct 22:31 PKT` · pehli baar dekhi `23 Oct 05:59` · gnews_geopolitics
 
@@ -2341,7 +2402,7 @@ Oil Prices Rise 3% as Iran War Stand-off Persists EnergyNow
 
 More Tankers Come Under Attack as US-Iran Conflict Spreads in the Region EnergyNow
 
-### BINA TAG (244)
+### BINA TAG (248)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2366,6 +2427,7 @@ More Tankers Come Under Attack as US-Iran Conflict Spreads in the Region EnergyN
 - `23 Oct 01:13` **aljazeera** — Why has the Libya-Turkiye maritime deal stirred controversy?
 - `23 Oct 01:06` **investing_commodities** — Trump directs trade negotiations on wind turbine imports in executive order
 - `23 Oct 00:59` **gnews_fed** — Gayla Huber Nominated by Federal Reserve Bank of Kansas City, Appointed to CFPB Consumer Advisory Board - EIN News
+- `23 Oct 00:59` **gnews_fed** — Gayla Huber Nominated by Federal Reserve Bank of Kansas City, Appointed to CFPB Consumer Advisory Board - EIN Presswire
 - `23 Oct 00:55` **kitco_general** — Trump signs order aimed at reducing single-family housing costs - Kitco
 - `23 Oct 00:45` **wsj_world** — Opinion | Who Wants to Be a Victim in the Wild West Bank?
 - `23 Oct 00:37` **kitco_general** — NLC India, Odisha agency sign pact for coal power, minerals ventures - Kitco
@@ -2392,6 +2454,7 @@ More Tankers Come Under Attack as US-Iran Conflict Spreads in the Region EnergyN
 - `22 Oct 22:50` **kitco_general** — Investors see risk from US midterms to AI trade as data center backlash builds - Kitco
 - `22 Oct 22:46` **aljazeera** — US-sanctioned ICC wins top EU human rights award
 - `22 Oct 22:40` **aljazeera** — 'Longer we wait, worse it gets': Struggle of Gaza's breast cancer patients
+- `22 Oct 22:38` **gnews_geopolitics** — US EIA Concedes Middle East Supply Disruptions are Far Worse Than Prior Estimates - EnergyNow.com
 - `22 Oct 22:35` **aljazeera** — Foreign national beaten to death by a mob in South Africa
 - `22 Oct 22:28` **aljazeera** — Sri Lanka beat England to overcome Harry Brook hitting fastest 200 in ODIs
 - `22 Oct 22:27` **kitco_general** — The Perth Mint description={PAGE_DESCRIPTION} - Kitco
@@ -2434,6 +2497,7 @@ More Tankers Come Under Attack as US-Iran Conflict Spreads in the Region EnergyN
 - `22 Oct 20:05` **bbc_business** — 'I wasn't thinking straight' says five jobs civil servant
 - `22 Oct 19:55` **gnews_fed** — Dow Jones Today: What is Driving US Stock Market Movements? - Analytics Insight
 - `22 Oct 19:50` **gnews_fed** — West Virginia home prices outpace national growth, says Federal Reserve report - WV News
+- `22 Oct 19:46` **gnews_fed** — Why Allegion (ALLE) stock is up today - TradingView
 - `22 Oct 19:45` **investing_commodities** — ARA gasoline stocks drop to lowest level since September 2021
 - `22 Oct 19:42` **investing_commodities** — Explainer-What is Shamonda virus and what are the risks to humans and animals?
 - `22 Oct 19:41` **cointelegraph** — Fireblocks disputes report of $2.5B Visa acquisition talks
@@ -2443,6 +2507,7 @@ More Tankers Come Under Attack as US-Iran Conflict Spreads in the Region EnergyN
 - `22 Oct 19:28` **kitco_general** — Videos - Kitco
 - `22 Oct 19:16` **wsj_markets** — U.S. Natural Gas Futures Steady Ahead of Inventory Data
 - `22 Oct 19:11` **wsj_markets** — Blackstone's Core Businesses Hit by Rising Rates
+- `22 Oct 19:03` **gnews_fed** — ARMOUR Residential REIT Q3 Earnings Call Highlights - TradingView
 - `22 Oct 19:00` **mw_topstories** — I'm 58 and hate annuities. How can I get dependable income in retirement?
 - `22 Oct 18:58` **wsj_world** — Opinion | Obama Has Always Been Careful With Words
 - `22 Oct 18:55` **investing_commodities** — US to award $389 million in R&D funds for power semiconductors, critical materials
@@ -2606,45 +2671,45 @@ investing_news (9)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 7 | 18 | 0 | 0.1 |
+| investinglive | OK | 25 | 25 | 12 | 13 | 0 | 0.1 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
-| marketpulse | OK | 6 | 0 | 0 | 0 | 6 | 2.0 |
-| instaforex | OK | 25 | 25 | 18 | 7 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 7 | 2 | 5 | 29 | 0.0 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 42.3 |
-| kitco_general | OK | 33 | 33 | 0 | 33 | 0 | 0.2 |
-| gnews_fed | OK | 52 | 52 | 5 | 47 | 0 | 0.1 |
-| gnews_geopolitics | OK | 82 | 82 | 8 | 74 | 0 | 0.0 |
-| gnews_centralbanks | OK | 42 | 42 | 5 | 37 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 9.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 7.9 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.2 |
-| boj_whatsnew | OK | 50 | 5 | 0 | 5 | 45 | 0.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 8.9 |
-| mining_com | OK | 36 | 12 | 1 | 11 | 24 | 0.1 |
+| actionforex | OK | 20 | 20 | 10 | 10 | 0 | 0.0 |
+| marketpulse | OK | 6 | 0 | 0 | 0 | 6 | 2.2 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 7 | 0 | 7 | 29 | 0.1 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 42.5 |
+| kitco_general | OK | 34 | 34 | 0 | 34 | 0 | 0.4 |
+| gnews_fed | OK | 51 | 51 | 12 | 39 | 0 | 0.1 |
+| gnews_geopolitics | OK | 91 | 91 | 9 | 82 | 0 | 0.1 |
+| gnews_centralbanks | OK | 33 | 33 | 11 | 22 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 9.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 8.1 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.4 |
+| boj_whatsnew | OK | 50 | 5 | 0 | 5 | 45 | 0.9 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.1 |
+| mining_com | OK | 36 | 12 | 0 | 12 | 24 | 0.3 |
 | oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
-| bbc_business | OK | 57 | 20 | 3 | 17 | 37 | 0.1 |
-| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.7 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 42.6 |
-| eia_energy | OK | 19 | 1 | 0 | 1 | 18 | 0.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 16.5 |
-| wsj_world | OK | 72 | 18 | 2 | 16 | 54 | 0.0 |
-| wsj_markets | OK | 61 | 29 | 4 | 25 | 32 | 0.0 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 2 | 8 | 0 | 0.2 |
+| bbc_business | OK | 57 | 21 | 2 | 19 | 36 | 0.0 |
+| aljazeera | OK | 25 | 25 | 12 | 13 | 0 | 0.1 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.9 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 42.8 |
+| eia_energy | OK | 19 | 1 | 0 | 1 | 18 | 0.7 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 16.7 |
+| wsj_world | OK | 73 | 21 | 2 | 19 | 52 | 0.0 |
+| wsj_markets | OK | 61 | 30 | 4 | 26 | 31 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 23 | 2 | 21 | 7 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
+| cointelegraph | OK | 30 | 26 | 3 | 23 | 4 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
