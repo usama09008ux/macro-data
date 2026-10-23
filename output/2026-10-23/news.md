@@ -1,9 +1,19 @@
 # News Pack — Trading Day 23 Oct 2026
 
 - Trading day: **23 Oct 03:00 -> 24 Oct 02:59 PKT**
-- Aakhri update: **23 Oct 10:57 PKT**
-- Kul khabrein: **189**
+- Aakhri update: **23 Oct 16:27 PKT**
+- Kul khabrein: **368**
 - Feeds: 35/39 OK
+
+---
+
+## Sarkari / Exchange
+
+**ECB Consumer Expectations Survey results – September 2026**
+`23 Oct 13:00 PKT` · pehli baar dekhi `23 Oct 16:27` · ecb_press
+
+**Financial System Report (October 2026)**
+`23 Oct 11:00 PKT` · pehli baar dekhi `23 Oct 16:27` · boj_whatsnew
 
 ---
 
@@ -11,10 +21,50 @@
 
 ### MARKET WRAP
 
+**EURUSD Failed to Break Through the French Barrier**
+`23 Oct 15:50 PKT` · pehli baar dekhi `23 Oct 16:27` · actionforex
+
+Capital outflows from France are weighing on the euro. Safe-haven demand strengthens the yen and franc. The US dollar is attempting to resume its upward trend against the backdrop of a sharp fall in Treasury bond yields. The DXY is being supported by the relentless rise in oil prices and the weakness of the euro, [&#8230;] The post EURUSD Failed to Break Through the French Barrier appeared first on ActionForex.
+
+**Bitcoin erases all the weekly gains as growth concerns lead to widespread risk aversion. What's next?**
+`23 Oct 14:04 PKT` · pehli baar dekhi `23 Oct 16:27` · investinglive
+
+Bitcoin erased all the weekly gains in the past couple of days as widespread risk aversion weighed on the crypto market. The risk-off flows started late Wednesday following reports that the US military was reducing its troop presence at bases in the Middle East, while the State Department ordered staff cuts at diplomatic posts amid rising security risks and the possibility of renewed military action against Iran.
+
+**Gold gets caught in market liquidation despite falling real yields supporting higher prices**
+`23 Oct 13:02 PKT` · pehli baar dekhi `23 Oct 16:27` · investinglive
+
+Gold extended the losses yesterday after breaking below the 4,070 support as widespread risk aversion tightened financial conditions. It looks like gold have been driven mainly by liquidations to cover losses in the stock market, much like what we've seen in 2025. To understand the mechanics, imagine that an investment fund holds stocks, gold and government bonds. Some stocks suddenly crash, and the fund suffers losses on leveraged positions.
+
+**European stock market open: Stocks slip as weak French PMI adds to economic worries**
+`23 Oct 12:30 PKT` · pehli baar dekhi `23 Oct 16:27` · investinglive
+
+Eurostoxx -0.3% Germany DAX -0.5% France CAC 40 -0.6% UK FTSE -0.2% Spain IBEX -0.1% Italy FTSE MIB flat European indices are opening slightly lower across the board as the more cautious risk mood carries over from yesterday. The selling pressure isn't quite as intense for now, but there's little reason for investors to be feeling too optimistic either.
+
+**Gold Slips Toward $4,000 as Oil-Fueled Inflation Fears Lift Fed Hike Bets and Traders Sell to Cover Losses - International Business Times Australia**
+`23 Oct 12:25 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_fed
+
+Gold Slips Toward $4,000 as Oil-Fueled Inflation Fears Lift Fed Hike Bets and Traders Sell to Cover Losses International Business Times Australia
+
+**FX Daily: Dollar has lost its safe-haven crown**
+`23 Oct 11:46 PKT` · pehli baar dekhi `23 Oct 16:27` · ing_think
+
+The yen and Swiss franc have emerged as the safe havens of choice as the greenback continues to show some vulnerability to the AI story. A further widening in French spreads has not materially hit the euro, but that correlation may spike again soon. Today, PMIs are published, but focus will remain primarily on global equities, France and oil
+
+**What are the main events for today?**
+`23 Oct 11:38 PKT` · pehli baar dekhi `23 Oct 16:27` · investinglive
+
+EUROPEAN SESSION In the European session, we get the Flash PMIs for the major Eurozone economies and the UK. Given the current growth concerns, disappointing PMIs could add to fears that the recent tightening in financial conditions and the elevated energy prices are starting to strangle the economy. This scenario should result in a dovish repricing further out the curve, with traders pricing in 71 bps of tightening for the ECB by the end of 2027 and 112 bps for the BoE.
+
 **Japan's 10-Year Yield Drops on Haven Demand**
 `23 Oct 10:57 PKT` · instaforex
 
 Japan's 10-year government bond yield fell by more than 10 basis points to around 2.76% on Friday, its lowest level since early August, as a global selloff in technology and artificial intelligence stocks drove investors toward safer assets. In periods of heightened market uncertainty, Japanese investors often repatriate overseas funds, bolstering demand for the yen and Japanese government bonds.
+
+**FX option expiries for 23 October 10am New York cut**
+`23 Oct 10:27 PKT` · pehli baar dekhi `23 Oct 16:27` · investinglive
+
+There are just a couple of key expiry levels to take note of on the day, as highlighted in bold below. The first one is for USD/JPY at the 157.00 level, which is keeping within less than 15 pips of the spot price. The expiries here could help keep price action anchored around the figure level in the session ahead, especially if the broader risk mood settles down.
 
 **investingLive Asia-Pacific market news: Asian stocks slide as chip rout spreads**
 `23 Oct 08:37 PKT` · pehli baar dekhi `23 Oct 10:57` · investinglive
@@ -58,15 +108,24 @@ Spot gold fell to under $4,040 an ounce on Thursday, its lowest since August and
 
 ### GOLD
 
+**UBS sees dip buyers stepping in to support gold at this level**
+`23 Oct 15:30 PKT` · pehli baar dekhi `23 Oct 16:27` · investing_commodities
+
 **Gold Wave Analysis**
 `23 Oct 10:19 PKT` · pehli baar dekhi `23 Oct 10:57` · actionforex
 
 Gold: ⬇️ Sell – Gold broke key support level 4100.00 – Likely to fall to support level 3970.00 Gold recently broke the support zone between the key support level 4100.00 (which has been reversing the price from the end of September, stopping waves iii, v and 2) and the lower daily Bollinger Band. The breakout [&#8230;] The post Gold Wave Analysis appeared first on ActionForex.
 
 **Gold heads for steep weekly loss as oil prices fuel Fed rate concerns - CNBC**
-`23 Oct 09:29 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_fed
+`23 Oct 09:29 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_fed · **2 feeds mein**
 
 Gold heads for steep weekly loss as oil prices fuel Fed rate concerns CNBC
+  - `23 Oct 09:29` *gnews_fed* — Gold heads for steep weekly loss as oil prices fuel Fed rate concerns - CNBC
+
+**Gold off three-month lows as oil rally fans inflation worries - Reuters**
+`23 Oct 09:14 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_fed
+
+Gold off three-month lows as oil rally fans inflation worries Reuters
 
 **Gold's $4,000 Looks Indefensible as Liquidation Fears Overshadow Treasury Rally**
 `23 Oct 08:43 PKT` · pehli baar dekhi `23 Oct 10:57` · actionforex
@@ -100,6 +159,112 @@ Saudi Strike Sends Oil Above $113; Gold Breaks Below $4,050 in Capitulation-Styl
 Private entity has agreed to acquire Victoria Gold, advancing plans to potentially rehabilitate and restart its Eagle gold mine.
 
 ### USD
+
+**UK Gilt Yields Hold Steady as Investors Await Budget**
+`23 Oct 16:27 PKT` · instaforex
+
+UK 10-year gilt yields were little changed around 5.33% as investors weighed mixed economic signals ahead of next week's budget. Demand for UK assets, including gilts and sterling, has strengthened as concerns over social unrest and rising debt levels in the eurozone have prompted investors to rotate out of other regional markets. Flash PMI data indicated that business activity accelerated to an eight-month high, surpassing expectations.
+
+**Pound Holds Near One-Month High Helped by Strong PMI Data**
+`23 Oct 16:27 PKT` · instaforex
+
+The pound traded just below $1.34, holding near a one-month high as investors weighed a mixed set of economic indicators ahead of next week's budget and the Bank of England's November 5 policy meeting. Flash PMI data showed UK private-sector activity growing at its fastest pace since February, with both manufacturing and services beating expectations.
+
+**Iceland Producer Inflation Hits 5-Month Low**
+`23 Oct 16:27 PKT` · instaforex
+
+Iceland's producer prices rose by 12.5% year-on-year in September 2026, down from 13.7% in August and marking the slowest pace of growth in five months. The deceleration was broad-based, with slower price increases recorded for marine products (13.3% vs. 16.8% in August), the metal industry (25.1% vs. 27.4%), food production (2.8% vs. 3.4%), exported products overall (17.4% vs. 19.2%), and exported products excluding marine products (19.9% vs. 20.4%).
+
+**Macau Inflation Rate Rises for 2nd Month**
+`23 Oct 16:27 PKT` · instaforex
+
+Macau's annual inflation rate edged up to 1.33% in September 2026 from 1.29% in August, marking a second consecutive monthly increase and the highest reading since May. The rise was largely driven by transportation costs, where inflation accelerated to 4.39% from 3.08%, mainly due to higher gasoline prices. Price growth also picked up in health (0.91% vs. 0.83%) and in information and communication (2.28% vs. 1.86%).
+
+**UK Manufacturing Sector Grows at Faster Pace**
+`23 Oct 16:27 PKT` · instaforex
+
+The S&P Global UK Manufacturing PMI rose to 52.8 in October 2026, up from 51.9 in September and beating market expectations of 51.7, according to the preliminary estimate. This reading signaled the strongest improvement in manufacturing business conditions since May, driven by the fastest increase in output in just over two years and a solid rise in new orders. However, employment edged down slightly over the month.
+
+**UK Services Sector Growth Beats Forecasts**
+`23 Oct 16:27 PKT` · instaforex
+
+The S&P Global UK Services PMI rose to 53.1 in October 2026 from 52.1 in September, beating market expectations of 51.8, according to flash estimates. The latest data indicate that overall growth in the services sector accelerated to its fastest pace in eight months, driven primarily by a strong upturn in new orders. Many firms reported a boost to sales from increased AI-related investment and stronger demand for technology services.
+
+**UK Business Activity Growth Picks Up to 8-Month High**
+`23 Oct 16:27 PKT` · instaforex
+
+The UK private sector continued to expand in October, with the flash Composite PMI Output Index rising to 53.1 from 52.0 in September. This surpassed market expectations of 51.8 and marked an eight-month high. Growth was underpinned by the strongest increase in new business since September 2024. Both manufacturing and services saw faster output growth. Manufacturing, in particular, registered its sharpest rise in activity in just over two years.
+
+**Taiwan Jobless Rate at 3.33% in September**
+`23 Oct 16:27 PKT` · instaforex
+
+Taiwan's seasonally adjusted unemployment rate inched down by 0.01 percentage point from the previous month to 3.33% in September 2026, even as the number of unemployed rose by 1,000 to 401,000. At the same time, total employment slipped by 4,000 to 11.644 million. The labor force participation rate held steady at 59.59%, with the total labor force edging down by 2,000 to 12.046 million.
+
+**UK S&P Global Composite PMI Rises to 53.1 in October, Signalling Stronger Private-Sector Momentum**
+`23 Oct 16:27 PKT` · instaforex
+
+The United Kingdom's private-sector activity continued to expand in October 2026, with the S&P Global Composite PMI edging up to 53.1 from 52.0 in September. The latest reading, updated on 23 October 2026, points to a modest strengthening in overall economic momentum across both manufacturing and services.
+
+**UK Services Momentum Builds as S&P Global Services PMI Climbs to 53.1 in October**
+`23 Oct 16:27 PKT` · instaforex
+
+The UK's services sector strengthened in October 2026, with the S&P Global Services PMI rising to 53.1 from 52.1 in September. The latest reading, updated on 23 October 2026, signals a faster pace of expansion in the country's dominant services industry. A PMI level above 50 indicates growth, and October's improvement suggests that business activity, new orders, or both likely gained further traction over the month.
+
+**UK Manufacturing Activity Accelerates in October as PMI Rises to 52.8**
+`23 Oct 16:27 PKT` · instaforex
+
+The UK manufacturing sector showed a stronger expansion in October, with the S&P Global Manufacturing PMI edging up to 52.8, compared with 51.9 in September 2026. The improvement signals a firmer pace of growth in factory activity, keeping the index above the 50.0 threshold that separates expansion from contraction. The latest reading, updated on 23 October 2026, suggests that conditions in the manufacturing industry have continued to improve month-on-month.
+
+**AI trade meets the Fed - Reuters**
+`23 Oct 16:05 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_fed
+
+AI trade meets the Fed Reuters
+
+**France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around.**
+`23 Oct 15:45 PKT` · pehli baar dekhi `23 Oct 16:27` · mw_topstories
+
+Moody's is set to update its rating on France's debt after U.S. markets close on Friday.
+
+**CEE & CCA week ahead: Hungarian and Czech growth, plus CCA rate decisions**
+`23 Oct 15:35 PKT` · pehli baar dekhi `23 Oct 16:27` · ing_think
+
+CENTRAL AND EASTERN EUROPE: Hungary and the Czech Republic will release third-quarter GDP estimates next week, while Uzbekistan and Azerbaijan announce their latest monetary policy decisions
+
+**Fed's hawkish credentials established - The Globe and Mail**
+`23 Oct 14:50 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_fed
+
+Fed's hawkish credentials established The Globe and Mail
+
+**Treasury yields rise as traders await more economic data ahead of Fed decision - CNBC**
+`23 Oct 14:11 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_fed
+
+Treasury yields rise as traders await more economic data ahead of Fed decision CNBC
+
+**UK PMI Composite Hits Eight-Month High as Hiring Returns After Two Years**
+`23 Oct 13:50 PKT` · pehli baar dekhi `23 Oct 16:27` · actionforex
+
+UK private-sector activity accelerated in October, with PMI Composite rising from 52.0 to 53.1, its highest reading in eight months and the fourth consecutive month of expansion. PMI Services improved from 52.1 to 53.1, while PMI Manufacturing increased from 51.9 to 52.8, both exceeding market expectations. Manufacturing output also strengthened from 51.5 to 53.1, marking [&#8230;] The post UK PMI Composite Hits Eight-Month High as Hiring Returns After Two Years appeared first on ActionForex.
+
+**The Federal Reserve's Latest October Inflation Forecast Has Arrived, and It's Terrible News for Wall Street - The Globe and Mail**
+`23 Oct 13:37 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_fed · **2 feeds mein**
+
+The Federal Reserve's Latest October Inflation Forecast Has Arrived, and It's Terrible News for Wall Street The Globe and Mail
+  - `23 Oct 13:07` *gnews_fed* — The Federal Reserve's Latest October Inflation Forecast Has Arrived, and It's Terrible News for Wall Street - The Motley Fool
+
+**10-Year Treasury Yield Plunges 19 Basis Points in a Single Day as AI Capex Fears Chill Rate-Hike Expectations - BigGo Finance**
+`23 Oct 12:05 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_fed
+
+10-Year Treasury Yield Plunges 19 Basis Points in a Single Day as AI Capex Fears Chill Rate-Hike Expectations BigGo Finance
+
+**The Fed Faces Its Most Confusing Economy Yet - Bloomberg.com**
+`23 Oct 12:00 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_fed
+
+The Fed Faces Its Most Confusing Economy Yet Bloomberg.com
+
+**UK retail sales fall more than expected in September, complicating BOE rate hike outlook**
+`23 Oct 11:23 PKT` · pehli baar dekhi `23 Oct 16:27` · investinglive
+
+UK September retail sales -0.4% vs -0.1% m/m expected Prior +0.5; revised to +0.7% UK September retail sales +0.8% vs +1.0% y/y expected Prior +2.4%; revised to +2.7% UK September retail sales (ex autos, fuel) -0.7% vs -0.1% m/m expected Prior +0.6%; revised to +0.9% UK September retail sales (ex autos, fuel) +0.8% vs +1.5% y/y expected Prior +2.7%; revised to +2.9% UK retail sales disappointed in September, falling by 0.4% on the month and missing expectations of a 0.1% decline.
 
 **India Services Growth Hits 4-Month High**
 `23 Oct 10:57 PKT` · instaforex
@@ -156,6 +321,11 @@ The US dollar index hovered around 101.6 on Friday, staying close to a three-wee
 
 Indonesia's broad money supply (M2) growth ticked higher in September 2026, with the year-over-year rate rising to 8.30%, up slightly from 8.20% in August 2026. The data, updated on 23 October 2026, indicate a modest acceleration in liquidity conditions in the Indonesian economy. Both the current and previous readings are based on year-over-year comparisons, measuring how M2 in each month changed relative to the same month a year earlier.
 
+**Former Fed Insider Warns Recession May Already Be Underway - iShares 7-10 Year Treasury Bond ETF (NASDAQ - Benzinga**
+`23 Oct 09:55 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_fed
+
+Former Fed Insider Warns Recession May Already Be Underway - iShares 7-10 Year Treasury Bond ETF (NASDAQ Benzinga
+
 **Heads up: UK retail sales to test the case for further BOE rate hikes**
 `23 Oct 09:35 PKT` · pehli baar dekhi `23 Oct 10:57` · investinglive
 
@@ -206,6 +376,11 @@ The People's Bank of China is due to set the daily USD/CNY reference rate at aro
 
 Economists unanimously expect Fed rate hike in December www.indiagazette.com
 
+**Economists unanimously expect Fed rate hike in December - Malaysia Sun**
+`23 Oct 03:51 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_fed
+
+Economists unanimously expect Fed rate hike in December Malaysia Sun
+
 **Fed Reserve Balances Slip Below $3 Trillion, Signaling Ongoing Liquidity Drain**
 `23 Oct 03:42 PKT` · instaforex
 
@@ -233,15 +408,151 @@ The artificial-intelligence trade is on the ropes. CNN's "Fear & Greed" index is
 
 ### EUR
 
+**Bund Yields Near Two-Month Lows**
+`23 Oct 16:27 PKT` · instaforex
+
+Germany's 10-year Bund yield slipped to around 3.34%, its lowest level since August 31, as investors moved into safe-haven assets amid growing fiscal concerns and political uncertainty in France and other highly indebted eurozone economies. At the same time, the latest PMI data showed that eurozone private-sector activity slowed to a four-month low in October, weighed down by rising energy costs, higher interest rates, and a renewed downturn in France.
+
+**Euro Area Consumer Inflation Expectations at 4-Month High**
+`23 Oct 16:27 PKT` · instaforex
+
+Median expectations for price growth in the Euro Area over the next 12 months in September 2026 edged up to 3.1%, the highest level in four months, from 3% in August. Consumers also anticipate that the price of their home will rise by 3.5% over the next 12 months, slightly above the 3.4% expected in August. Expectations for mortgage interest rates 12 months ahead were unchanged at 4.9%.
+
+**Euro Falls on Weak PMI Data and Debt Concerns**
+`23 Oct 16:27 PKT` · instaforex
+
+The euro hovered around $1.12, staying near multi-month lows after weaker-than-expected PMI data, as worries over social unrest and mounting public debt across Europe continued to pressure the currency. Flash figures showed that eurozone private-sector activity in October slowed to a four-month low, weighed down by rising energy costs, tighter financial conditions, and a renewed downturn in France amid heightened political and fiscal uncertainty.
+
+**Eurozone Business Activity Growth Slows**
+`23 Oct 16:27 PKT` · instaforex
+
+The S&P Global Eurozone Composite PMI slipped to 51.9 in October 2026, down from 53.1 in September—a three‑and‑a‑half‑year high—and below market expectations of 52.7, according to the preliminary estimate. Business activity continued to expand for a fourth straight month, but the pace of growth slowed to the weakest in this recent upturn, in part due to a renewed contraction in French services.
+
+**Euro Area Manufacturing Growth Slows to 3-Month Low**
+`23 Oct 16:27 PKT` · instaforex
+
+The S&P Global Eurozone Manufacturing PMI slipped to 52.4 in October 2026, its lowest reading in three months, down from 52.9 in September and falling short of market expectations of 52.7. Manufacturing employment recorded a slight decline after two consecutive months of growth.
+
+**Eurozone Services Activity Growth Slows in October**
+`23 Oct 16:27 PKT` · instaforex
+
+The S&P Global Eurozone Services PMI slipped to 51.7 in October 2026 from 53.0 in September, falling short of market expectations of 52.5. This two-month low signals a cooling in the pace of expansion in the services sector. Employment growth eased to its weakest rate in five months, reflecting softer gains in new business and a reduction in capacity pressures. In France, services activity moved back into contraction, while growth also lost momentum across the rest of the eurozone.
+
+**Eurozone Growth Momentum Eases as October Composite PMI Slips to 51.9**
+`23 Oct 16:27 PKT` · instaforex
+
+Business activity in the euro area expanded at a slower pace in October, as the HCOB Eurozone Composite PMI edged down to 51.9 from 53.1 in September 2026. The latest reading, released on 23 October 2026, still signals overall growth in the private sector but points to a moderation in momentum. The decline from September's level suggests that while the eurozone economy continues to grow, the pace of expansion has cooled.
+
+**Eurozone Services Momentum Cools as HCOB PMI Eases to 51.7 in October**
+`23 Oct 16:27 PKT` · instaforex
+
+The expansion of the eurozone's services sector softened in October, as the HCOB Eurozone Services Purchasing Managers' Index (PMI) edged down to 51.7. This marks a slowdown from September 2026, when the index stood at 53.0, according to data updated on 23 October 2026. While the October reading remains above the 50.0 threshold that separates expansion from contraction, the decline points to moderating growth across the bloc's services economy.
+
+**Euro set for weekly drop against dollar, yen as France concerns resurface**
+`23 Oct 16:19 PKT` · pehli baar dekhi `23 Oct 16:27` · investing_news
+
+**France tightens security in anticipation of weekend protests**
+`23 Oct 16:05 PKT` · pehli baar dekhi `23 Oct 16:27` · aljazeera
+
+Gatherings banned and curfews extended as cities lock down in an effort to avert further unrest.
+
+**ECB set to raise rates in December, economists say - Luxembourg Times**
+`23 Oct 15:52 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_centralbanks
+
+ECB set to raise rates in December, economists say Luxembourg Times
+
+**The French Debt Crisis Adds to Pressure on the Euro**
+`23 Oct 15:48 PKT` · pehli baar dekhi `23 Oct 16:27` · actionforex
+
+The yield on 10-year French government bonds has risen above 5%, its highest level since 2002. Political instability and difficulty reducing the budget deficit are increasing risks to the eurozone financial system and weighing on demand for the euro. The ECB faces a difficult choice. Eurozone inflation reached 3.8% in September, with energy risks persisting [&#8230;] The post The French Debt Crisis Adds to Pressure on the Euro appeared first on ActionForex.
+
+**Macro pulse: Europe's economy is losing steam but inflation won't let up**
+`23 Oct 14:54 PKT` · pehli baar dekhi `23 Oct 16:27` · investinglive
+
+The latest October PMI readings today don't paint a particularly encouraging picture of the health of the euro area economy. Growth is slowing and businesses are feeling the pinch, but inflation pressures are still refusing to go away. And that is the sort of headache that the ECB really doesn't need right now. The data showed disappointing readings from both the manufacturing and services sectors, with the latter slowing rather markedly.
+
+**Treasury Yields Rise, Eurozone Bond Yields Fall, Focus Stays on France**
+`23 Oct 14:21 PKT` · pehli baar dekhi `23 Oct 16:27` · wsj_markets
+
+Treasury yields rose, having slid sharply on Thursday as investors sought safe havens from the turmoil in French government bonds.
+
+**French Contraction Has Slowed Eurozone Expansion, Surveys Show**
+`23 Oct 14:16 PKT` · pehli baar dekhi `23 Oct 16:27` · wsj_economy
+
+Business activity in the eurozone slowed in October amid a squeeze on profit margins, a sign of fading resilience in the face of the higher energy costs.
+
+**Macron to meet student groups: Where are France's protests heading?**
+`23 Oct 13:50 PKT` · pehli baar dekhi `23 Oct 16:27` · aljazeera
+
+President to meet for first time with student representatives on Friday before further protests.
+
+**Eurozone PMI shows continued decent growth… outside of France**
+`23 Oct 13:22 PKT` · pehli baar dekhi `23 Oct 16:27` · ing_think
+
+EUROPE: The decrease in the composite PMI from 53.1 to 51.9 still leaves the index at a level associated with decent growth. Growth concerns seem mostly centred around France while input costs are rising across the eurozone again
+
+**Eurozone Consumer Inflation Expectations Edged Higher in September**
+`23 Oct 13:22 PKT` · pehli baar dekhi `23 Oct 16:27` · wsj_economy
+
+Consumers expected prices to rise more than they did in August, as energy prices continued to rise as the war in the Middle East dragged on.
+
+**Eurozone PMI Composite Slows to 51.9 as France Slips Back into Contraction**
+`23 Oct 13:16 PKT` · pehli baar dekhi `23 Oct 16:27` · actionforex
+
+Eurozone private-sector growth moderated in October, with PMI Composite falling from 53.1 to 51.9, its lowest level in four months. PMI Manufacturing eased from 52.9 to 52.4, while PMI Services declined from 53.0 to 51.7, both missing expectations. France was the principal source of weakness, with PMI Composite plunging from 51.1 to 48.4 as both [&#8230;] The post Eurozone PMI Composite Slows to 51.9 as France Slips Back into Contraction appeared first on ActionForex.
+
+**EUR/USD Daily Outlook**
+`23 Oct 13:11 PKT` · pehli baar dekhi `23 Oct 16:27` · actionforex · **4 feeds mein**
+
+No change in EUR/USD&#8217;s outlook as range trading continues. Intraday bias remains neutral. Further fall is in favor with 1.1276 resistance intact. Below 1.1111 will extend larger fall from 1.2081 to 1.0904 fibonacci level. However, considering bullish divergence condition in 4H MACD, firm break of 1.1276 will indicate short term bottoming, and bring stronger rebound [&#8230;] The post EUR/USD Daily Outlook appeared first on ActionForex.
+  - `23 Oct 12:38` *actionforex* — EUR/JPY Daily Outlook
+  - `23 Oct 12:32` *actionforex* — EUR/GBP Daily Outlook
+  - `23 Oct 12:29` *actionforex* — EUR/AUD Daily Outlook
+
+**Eurozone October PMI misses estimates as growth slows, keeping ECB rate hike dilemma alive**
+`23 Oct 13:00 PKT` · pehli baar dekhi `23 Oct 16:27` · investinglive
+
+Eurozone October flash services PMI 51.7 vs 52.5 expected Prior 53.0 Eurozone October flash manufacturing PMI 52.4 vs 52.7 expected Prior 52.9 Eurozone October flash composite PMI 51.9 vs 52.7 expected Prior 53.1 After the softer prints from France and Germany, the weaker-than-expected results for the overall euro area are not all too surprising.
+
+**ECB Says Consumers' Inflation Expectations Edge Up in September - Bloomberg.com**
+`23 Oct 13:00 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_centralbanks
+
+ECB Says Consumers' Inflation Expectations Edge Up in September Bloomberg.com
+
+**Why is Gen Z revolting?**
+`23 Oct 12:51 PKT` · pehli baar dekhi `23 Oct 16:27` · aljazeera
+
+From France to India, young people are in the streets over inequality, failing public services and bleak prospects.
+
+**Germany October flash manufacturing PMI 54.2 vs 53.5 expected**
+`23 Oct 12:30 PKT` · pehli baar dekhi `23 Oct 16:27` · investinglive
+
+Prior 53.9 Services PMI 51.7 vs 52.5 expected Prior 52.9 Composite PMI 52.8 vs 53.3 expected Prior 53.8 Key findings: Economic activity softens in October Comment: Phil Smith, Economics Associate Director at S&P Global Market Intelligence: "October's flash PMI results encouragingly showed a sustained upturn in business activity across Germany, although a slowdown in growth underscored that the recovery in the eurozone's largest economy remains fragile.
+
+**France October PMI slumps back into contraction as political uncertainty weighs on demand**
+`23 Oct 12:15 PKT` · pehli baar dekhi `23 Oct 16:27` · investinglive
+
+France October flash services PMI 48.4 vs 50.7 expected Prior 51.2 France October flash manufacturing PMI 49.3 vs 50.5 expected Prior 50.6 France October flash composite PMI 48.4 vs 50.5 expected Prior 51.1 That's not a good sign as the French private sector falls back into contraction in October, amid political and financial concerns.
+
 **Ready for a French test?: Five questions for the ECB By Reuters - Investing.com**
 `23 Oct 10:26 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_centralbanks
 
 Ready for a French test?: Five questions for the ECB By Reuters Investing.com
 
+**The ECB has no reason to accelerate its hiking cycle: ECB preview - Forex Factory**
+`23 Oct 10:15 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_centralbanks
+
+The ECB has no reason to accelerate its hiking cycle: ECB preview Forex Factory
+
 **Fed to Hike Twice More in 2026 With US and ECB Policy Set to Diverge, says Bank of America - Morningstar**
 `23 Oct 10:03 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_centralbanks
 
 Fed to Hike Twice More in 2026 With US and ECB Policy Set to Diverge, says Bank of America Morningstar
+
+**Ready for a French test?: Five questions for the ECB - Hilton Head Island Packet**
+`23 Oct 09:22 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_centralbanks
+
+Ready for a French test?: Five questions for the ECB Hilton Head Island Packet
 
 **ECB Set to Raise Rates in December After Pause, Economists Say - Bloomberg.com**
 `23 Oct 09:15 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_centralbanks
@@ -258,6 +569,11 @@ Peter Brandt's EUR/JPY Short Is His Firm's Largest Position as Yen Gains BeInCry
 
 ECB's Panetta: Higher Yields Will Slow Euro Growth Briefs Finance
 
+**ECB's Panetta says rising yields a drag on growth, not a crisis, ahead of rate meeting - Forex Factory**
+`23 Oct 08:26 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_centralbanks
+
+ECB's Panetta says rising yields a drag on growth, not a crisis, ahead of rate meeting Forex Factory
+
 **Eight Charts That Show the Depth of France's Financial Crunch**
 `23 Oct 07:00 PKT` · pehli baar dekhi `23 Oct 10:57` · wsj_world
 
@@ -269,6 +585,12 @@ Years of lavish consumer support have left the country's finances in a precariou
 ECB preview: MUFG sees October hold, two hikes ahead. See EUR/USD year end at 1.12 investingLive
 
 ### GBP
+
+**GBP/USD Daily Outlook**
+`23 Oct 12:59 PKT` · pehli baar dekhi `23 Oct 16:27` · actionforex · **2 feeds mein**
+
+Intraday bias in GBP/USD is turned neutral first with current retreat. Above 1.3418 will extend the rally from 1.3135 to 61.8% retracement of 1.3675 to 1.3135 at 1.3469 next. However, break of 1.3294 support will turn bias back to the downside for retesting 1.3135 low instead. In the bigger picture, price actions from 1.3867 are [&#8230;] The post GBP/USD Daily Outlook appeared first on ActionForex.
+  - `23 Oct 12:44` *actionforex* — GBP/JPY Daily Outlook
 
 **UK wage growth picks up to bolster case for Bank of England interest rate hike - Cyprus Mail**
 `23 Oct 09:02 PKT` · pehli baar dekhi `23 Oct 10:57` · gnews_centralbanks
@@ -286,6 +608,39 @@ Markets are anticipating aggressive rate hikes by the Bank of England. The stabl
 The UK GfK Consumer Confidence Index slumped by 11 points to -24 in October 2026 from -13 in September, its steepest monthly drop since April 2020 and the lowest reading since April. The figure came in well below market expectations of -15, as rising inflation, higher energy costs and the ongoing conflict in the Middle East weighed on household sentiment ahead of Finance Minister John Healey's budget next week.
 
 ### JPY
+
+**Macau Tourist Arrivals Surge in September**
+`23 Oct 16:27 PKT` · instaforex
+
+Tourist arrivals in Macau rose 15.9% year-on-year to 3.217 million in September 2026, accelerating from a 6.1% increase in August. Despite the sharp gain, the number of visitors declined from its all-time high. Same-day visitors surged 23.8% to 1.933 million, while overnight visitors increased 5.7% to 1.283 million. The average length of stay for all visitors edged down by 0.1 day from a year earlier to 1.1 days, whereas overnight visitors stayed an average of 2.4 days.
+
+**Japan to simulate cyberattacks as PHP flaws roil global internet**
+`23 Oct 16:24 PKT` · pehli baar dekhi `23 Oct 16:27` · investing_news
+
+**Japan Core Inflation Hits 2.1% in September, Cementing Bank of Japan Rate Hike Bets - streamlinefeed.co.ke**
+`23 Oct 15:54 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_centralbanks
+
+Japan Core Inflation Hits 2.1% in September, Cementing Bank of Japan Rate Hike Bets streamlinefeed.co.ke
+
+**Bank of Japan warns of risks from AI market shock, cyberattacks - The Business Times**
+`23 Oct 15:14 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_centralbanks
+
+Bank of Japan warns of risks from AI market shock, cyberattacks The Business Times
+
+**Japanese Flock to 2% Deposits as Rates Rise - 조선일보**
+`23 Oct 14:25 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_centralbanks
+
+Japanese Flock to 2% Deposits as Rates Rise 조선일보
+
+**USD/JPY Daily Outlook**
+`23 Oct 13:09 PKT` · pehli baar dekhi `23 Oct 16:27` · actionforex
+
+USD/JPY breached 156.36 support but quickly recovered. Intraday bias remains neutral first. On the downside, firm break of firm break of 156.36 will argue that rebound from 152.87 has completed after failing to sustain above 55 D EMA. Deeper fall should then be seen back to 152.87 low. Meanwhile, above 159.02 will target 160.38. In [&#8230;] The post USD/JPY Daily Outlook appeared first on ActionForex.
+
+**Japan inflation accelerates, paving way for rate hike - RTE.ie**
+`23 Oct 11:10 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_centralbanks
+
+Japan inflation accelerates, paving way for rate hike RTE.ie
 
 **Yen Strengthens on French Debt Woes, Hits One-Year High Against Euro**
 `23 Oct 08:33 PKT` · pehli baar dekhi `23 Oct 10:57` · wsj_markets
@@ -396,7 +751,24 @@ Consumer prices, excluding fresh food, climbed 2.1% in September from a year ear
 
 Japan CPI, September 2026: Headline CPI 2.1% expected 2.1%, prior 1.9% Core CPI 2.1% expected 2.1%, prior 1.7% Core - core (ex-Food and Energy) 2.4% expected Exp. 2.3%, prior 1.9% this the closest to US core inflation Background to this here: Japan CPI preview: core seen at 2.1%, topping BoJ target for first time since December This article was written by Eamonn Sheridan at investinglive.com.
 
+### CHF
+
+**USD/CHF Daily Outlook**
+`23 Oct 12:56 PKT` · pehli baar dekhi `23 Oct 16:27` · actionforex
+
+Intraday bias in USD/CHF remains mildly on the downside this point. Fall from 0.8394 could be correcting whole rally from 0.7603. Deeper decline would be seen to 38.2% retracement of 0.7603 to 0.8394 at 0.8092. On the upside, above 0.8629 minor resistance will turn intraday bias neutral first. In the bigger picture, rise from 0.7603 [&#8230;] The post USD/CHF Daily Outlook appeared first on ActionForex.
+
+**WP - 2026-10-23 - Severin Joho and Enzo Rossi: The evolution of frequency, language complexity and policy narrative: benchmarking Python-based NLP and ChatGPT on a century of SNB rhetoric**
+`23 Oct 03:00 PKT` · pehli baar dekhi `23 Oct 16:27` · snb_press
+
+We compiled and processed a novel, comprehensive dataset of 1,063 speeches delivered by high-ranking Swiss National Bank officials between 1928 and 2024. Beyond tracking their quantitative evolution, we conducted an in-depth analysis of the length, readability and thematic content. To ensure robust results, we benchmarked traditional Python-based NLP text mining against generative artificial intelligence using ChatGPT. Our findings highlight four primary policy insights.
+
 ### CAD
+
+**USD/CAD Daily Outlook**
+`23 Oct 12:51 PKT` · pehli baar dekhi `23 Oct 16:27` · actionforex
+
+Intraday bias in USD/CAD remains on the downside as fall from 1.4298 continues. Firm break of 38.2% retracement of 1.3480 to 1.4298 at 1.3985 should indicate that rise from 1.3480 has completed as a corrective move. Further decline should be then seen to 61.8% retracement at 1.3792 next. On the upside, above 1.4080 minor resistance [&#8230;] The post USD/CAD Daily Outlook appeared first on ActionForex.
 
 **Grenade exercise sparked deadly fire at Canada military base, army says**
 `23 Oct 09:41 PKT` · pehli baar dekhi `23 Oct 10:57` · aljazeera
@@ -409,6 +781,21 @@ High winds propelled the blaze across the army base in Wainwright, killing four 
 We are now pencilling in the Bank of Canada's first interest rate hike of 25 basis points since March 2022 on Wednesday as it faces a pivotal decision amid evolving economic conditions. But, we have very low conviction on the idea of a rate hike this soon, and it's almost equally probable the central bank [&#8230;] The post The Bank of Canada at an Inflection Point: Inflation Fears Live on appeared first on ActionForex.
 
 ### AUD
+
+**Open Mouth Operations**
+`23 Oct 13:21 PKT` · pehli baar dekhi `23 Oct 16:27` · actionforex
+
+The RBA does not want to promise what it will do, but it is increasingly trying to tell us what it thinks. Central banks' communication is carefully scrutinised for every nuance. Lately, there seems to have been more RBA communication to pore over. The method of delivery has also evolved. This has sometimes caused confusion [&#8230;] The post Open Mouth Operations appeared first on ActionForex.
+
+**AUD/USD Daily Report**
+`23 Oct 12:53 PKT` · pehli baar dekhi `23 Oct 16:27` · actionforex
+
+Intraday bias in AUD/USD is turned neutral with current retreat. On the upside, sustained break of 38.2% retracement of 0.7237 to 0.6893 at 0.7024 will argue that fall from 0.7237 has completed, and target 61.8% retracement at 0.7106. On the downside, below 0.6986 minor support will dampen this bullish view and and bring retest of [&#8230;] The post AUD/USD Daily Report appeared first on ActionForex.
+
+**Asia Flash PMIs Diverge as Rates, Inflation Shape Private-Sector Activity**
+`23 Oct 11:55 PKT` · pehli baar dekhi `23 Oct 16:27` · wsj_economy
+
+Gauges of private-sector business activity in major Asian economies diverged this month as momentum in Australia stalled while India improved.
 
 **Australia PMI Composite Slumps to 47.7 as Price Pressures Intensify**
 `23 Oct 07:01 PKT` · pehli baar dekhi `23 Oct 10:57` · actionforex
@@ -447,6 +834,112 @@ Australia's factory sector showed a marginal improvement in October, with the S&
 The survey shows weaker activity alongside firmer inflation, a difficult mix for rate expectations. Falling output argues against further tightening, while faster input and output price growth argues against easing. That uncertainty could add volatility to Australian dollar and short-dated bond pricing as traders weigh the two signals.
 
 ### OIL
+
+**Sensex Finishes Week Lower**
+`23 Oct 16:27 PKT` · instaforex
+
+India's BSE Sensex slipped about 0.2% on Friday to a more than one-week low of 73,124, extending its losing streak to a fourth consecutive session and closing the week 2.1% lower. Sentiment remained under pressure amid concerns over rising crude oil prices, escalating geopolitical tensions, and uncertainty about the broader global outlook. Elevated oil prices threaten to widen India's import bill, worsen the inflation trajectory, and squeeze corporate profit margins.
+
+**Russia Holds Interest Rate as Expected**
+`23 Oct 16:27 PKT` · instaforex
+
+The Bank of Russia left its key interest rate unchanged at 14% in October, matching market expectations, as persistent inflationary pressures and elevated inflation expectations continued to impede disinflation. Ukrainian strikes on Russian energy infrastructure have disrupted refinery operations, driven crude-processing volumes to multi-year lows, and contributed to fuel shortages, pushing up gasoline prices and transportation costs across the economy.
+
+**Exclusive-First Russian diesel from Putin-Trump deal heading for US, data shows**
+`23 Oct 16:19 PKT` · pehli baar dekhi `23 Oct 16:27` · investing_news
+
+**How Elon Musk's SpaceX Became a Gatekeeper of Modern Warfare**
+`23 Oct 16:00 PKT` · pehli baar dekhi `23 Oct 16:27` · oilprice
+
+Politics, Geopolitics & Conflict On October 13, Ukrainian drones began falling out of the sky after SpaceX imposed new restrictions on the satellite connections that control them. Some lost contact with their operators when they reached 90 km/hour; others had to fly slowly enough to remain connected, making them easier targets for Russian air defenses. Ukraine also lost the ability to use some of its interceptor drones against Russian attacks.
+
+**Brent Oil Extends Steep Rally on Deteriorating Geopolitical Situation**
+`23 Oct 15:54 PKT` · pehli baar dekhi `23 Oct 16:27` · actionforex
+
+Brent oil rose to the highest since early May on Friday, extending strong bullish acceleration from $110 zone into second consecutive day (the contract advanced 2.6% on Thursday and additional 1.4% on Friday morning). Growing threats that the situation in the Middle East (Yemen and Iran) could completely run out of control if conflicts escalate, [&#8230;] The post Brent Oil Extends Steep Rally on Deteriorating Geopolitical Situation appeared first on ActionForex.
+
+**Analysis-Trump's diesel price relief efforts grow costlier as election nears**
+`23 Oct 15:37 PKT` · pehli baar dekhi `23 Oct 16:27` · investing_commodities
+
+**European Natural Gas Prices Surge to Highest Level Since 2022**
+`23 Oct 15:30 PKT` · pehli baar dekhi `23 Oct 16:27` · oilprice
+
+The benchmark European natural gas price jumped by 3% at opening in Amsterdam on Friday as the Middle East escalation continues to restrict Qatari LNG flows and some EU countries started tapping gas in storage as temperatures drop. The front-month price at the Dutch Title Transfer Facility (TTF), the benchmark for Europe's gas trading, jumped by 3% at 7 a.m.
+
+**Crude oil extends gains as Saudi-Houthi conflict and concerns of US-Iran attacks keep the market supported**
+`23 Oct 14:50 PKT` · pehli baar dekhi `23 Oct 16:27` · investinglive
+
+The bullish momentum in crude oil has been slowly picking up after The New York Times reported that the US and Israeli militaries had developed plans for renewed strikes on Iran following the US midterm elections, with additional forces expected to be fully deployed by early November. The Saudi-Houthi conflict, meanwhile, continues with the Houthis recently targeting Saudi airports and energy infrastructure, including a reported strike near Dammam that killed two people and injured eight.
+
+**Brent Oil Hits $114 as US–Iran Tensions Escalate - VT Markets**
+`23 Oct 14:45 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_geopolitics
+
+Brent Oil Hits $114 as US–Iran Tensions Escalate VT Markets
+
+**Eni's Profits Soar 125% as Refining Boom Fuels Massive Investor Payouts**
+`23 Oct 14:29 PKT` · pehli baar dekhi `23 Oct 16:27` · oilprice
+
+Italian energy group Eni is boosting its payout to investors with an extraordinary dividend and increased share buybacks after more than doubling its third-quarter earnings on higher oil and gas production and soaring refining margins. Eni's adjusted net profit more than doubled from a year earlier to $3.14 billion (2.8 billion euros) for the third quarter, driven by higher oil and gas production and realizations and more than doubled refining margins across its operations, the Italian company ...
+
+**Stock Market Today: Oil Prices Climb to Highest in Five Months as Mideast Tensions Rise**
+`23 Oct 14:07 PKT` · pehli baar dekhi `23 Oct 16:27` · wsj_markets
+
+Tech selloff shows signs of easing at end of rollercoaster week
+
+**Update on Iran's New Oil Targets in the Region - WANA News Agency**
+`23 Oct 13:52 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_geopolitics
+
+Update on Iran's New Oil Targets in the Region WANA News Agency
+
+**Nasdaq Futures Steady as AI Selloff Pauses**
+`23 Oct 13:44 PKT` · pehli baar dekhi `23 Oct 16:27` · wsj_markets
+
+Investors paused a selloff in AI stocks after the Nasdaq notched its worst day since June onThursday, but sentiment was muted as oil prices continued to rise.
+
+**UK Rules Out Winter Energy Shortages as Gas Prices Soar**
+`23 Oct 13:30 PKT` · pehli baar dekhi `23 Oct 16:27` · oilprice
+
+There is no risk of power or gas outages during this winter in the UK, as there will be sufficient generation and gas supply, the National Energy System Operator has said in its early winter outlook. In fact, NESO said it expected surplus electricity output at 5.5 GW for the period between October 31 and March 31 next year, "with an 8.8% buffer over expected peak demand." Things may yet change, however, the grid operator also said, noting factors to watch such as electricity generation in ...
+
+**Brent Crude Oil Wave Analysis**
+`23 Oct 13:04 PKT` · pehli baar dekhi `23 Oct 16:27` · actionforex
+
+Brent Crude Oil: ⬆️ Buy – Brent Crude Oil broke resistance level 106.60 – Likely to rise to resistance level 113.80 Brent Crude Oil recently broke the resistance level 106.60, which stopped the previous impulse wave i at the start of September. The breakout of the resistance level 106.60 accelerated the active impulse wave (iii) [&#8230;] The post Brent Crude Oil Wave Analysis appeared first on ActionForex.
+
+**What price oil? Q3 2026 in review - Fuel Oil News**
+`23 Oct 13:02 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_geopolitics
+
+What price oil? Q3 2026 in review Fuel Oil News
+
+**Are global oil reserves sufficient to withstand renewed US-Iran war?**
+`23 Oct 12:37 PKT` · pehli baar dekhi `23 Oct 16:27` · aljazeera
+
+With emergency stocks at multidecade lows, analysts say the world may have only a month or two if Hormuz shuts again.
+
+**Oil Prices Rise as Middle East Risks Persist**
+`23 Oct 12:31 PKT` · pehli baar dekhi `23 Oct 16:27` · wsj_world
+
+Brent climbed above $114 as traders weighed the risk of renewed U.S.-Iran hostilities and further attacks on Saudi energy infrastructure against recovering Middle East oil supplies.
+
+**Oil prices rise as Hormuz tensions, Libya supply risks heighten concerns - Anadolu Ajansı**
+`23 Oct 12:28 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_geopolitics
+
+Oil prices rise as Hormuz tensions, Libya supply risks heighten concerns Anadolu Ajansı
+
+**Crude Oil Futures Separate From Reality as Asia Physical Market Buckles: Russell - EnergyNow.com**
+`23 Oct 12:19 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_geopolitics
+
+Crude Oil Futures Separate From Reality as Asia Physical Market Buckles: Russell EnergyNow.com
+
+**Japan Weighs Gasoline Subsidy Cuts as Energy Costs Soar**
+`23 Oct 12:00 PKT` · pehli baar dekhi `23 Oct 16:27` · oilprice
+
+The Japanese government may start reducing its financial support for retail gasoline prices from December as payments become difficult to sustain, Reuters has reported, citing unnamed sources from the ruling party in the country. Introduced in March, soon after the war in the Middle East began, subsidies for gasoline are costing Tokyo several billion dollars every month, the report said, as the government aimed to keep the average national price at $1.09 per liter.
+
+**Falling Treasury yields may be hiding a darker story about the AI boom**
+`23 Oct 11:16 PKT` · pehli baar dekhi `23 Oct 16:27` · investinglive
+
+Let's take a step back and check on the key market drivers this week. The US-Iran conflict is still raging on and geopolitical tensions remain high. So, that is underpinning oil prices once again with WTI crude breaching $100 and Brent crude hitting $114 - its highest since May. Now, that sounds like a familiar backdrop for the bond market, doesn't it? Higher oil prices mean stronger inflation pressures, which should normally push up Treasury yields. Well, that has not been the case this week.
 
 **Singapore Inflation Rate Edges Lower**
 `23 Oct 10:57 PKT` · instaforex
@@ -490,6 +983,11 @@ Crude oil prices were on course to book a sharp weekly gain, with Brent crude on
 `23 Oct 07:07 PKT` · pehli baar dekhi `23 Oct 10:57` · investinglive
 
 The squeeze is likely to widen the gap within the AI trade. Cash-generating hyperscalers and established suppliers can fund spending internally, while newer, debt- or equity-reliant players face higher costs and a narrower window. Credit is the market to watch: spreads on high-yield AI infrastructure debt, led by CoreWeave, are the earliest warning of whether stress is spreading or staying contained.
+
+**Mr. Trump accuses Iran of deliberately pushing world oil prices up - Laodong.vn**
+`23 Oct 07:05 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_geopolitics
+
+Mr. Trump accuses Iran of deliberately pushing world oil prices up Laodong.vn
 
 **Why Trump Can't Afford to Lose The Rare Earth Race**
 `23 Oct 07:00 PKT` · pehli baar dekhi `23 Oct 10:57` · oilprice
@@ -541,6 +1039,31 @@ The European Union will shun crude oil and natural gas produced from fields in t
 
 ### CRYPTO
 
+**HSBC launches Hong Kong dollar stablecoin for retail payments**
+`23 Oct 13:47 PKT` · pehli baar dekhi `23 Oct 16:27` · cointelegraph
+
+HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses.
+
+**Bitcoin: All Eyes on the Next Move**
+`23 Oct 13:05 PKT` · pehli baar dekhi `23 Oct 16:27` · actionforex
+
+Market Overview The crypto market has pulled back by 0.7% over the past 24 hours to $2.74T, returning to the lower boundary of the trading range seen in recent days. Although the market has yet to live up to the 'Uptober' moniker, buyers are persistently buying into dips, defending the area around August's highs. So [&#8230;] The post Bitcoin: All Eyes on the Next Move appeared first on ActionForex.
+
+**Malaysia, Thailand join Singapore's cross-border stablecoin push**
+`23 Oct 12:15 PKT` · pehli baar dekhi `23 Oct 16:27` · cointelegraph
+
+BLOOM seeks to cut costs by helping financial institutions coordinate cross-border use of stablecoins and tokenized deposits.
+
+**Bitcoin ETFs bleed $635M as October slides back into the red**
+`23 Oct 12:09 PKT` · pehli baar dekhi `23 Oct 16:27` · cointelegraph
+
+Thursday's withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.
+
+**Trade Tech Solutions Launches Perpetual Futures Prop Firm Technology as Platform Surpasses 2 Million Users**
+`23 Oct 10:38 PKT` · pehli baar dekhi `23 Oct 16:27` · investinglive
+
+Global trading technology provider expands into Perpetual Futures, with firms running on its infrastructure serving 2M+ users and 1M+ active accounts every month and processing more than $200 million in client revenues annually. Trade Tech Solutions has announced the launch of its Perpetual Futures prop firm technology, expanding its infrastructure into one of the fastest-growing areas of the global trading market.
+
 **Ethereum delays Glamsterdam Hoodi testnet launch over security risks**
 `23 Oct 10:09 PKT` · pehli baar dekhi `23 Oct 10:57` · cointelegraph
 
@@ -573,6 +1096,11 @@ DeepSeek banned from US federal civilian agencies over spying fears. Singapore f
 
 ### RATES
 
+**Kazakhstan cuts by 50bp as the region continues to defy global hawks**
+`23 Oct 15:41 PKT` · pehli baar dekhi `23 Oct 16:27` · ing_think
+
+COMMONWEALTH OF INDEPENDENT STATES: Kazakhstan's central bank cut its base rate by 50bp to 15.75%, as the domestic economy and markets continue to defy the global hawkish turn. But resilience is not immunity; with disinflation still relying heavily on a strong tenge, real rates will need to stay high. NBK's next decision will most likely be a hold
+
 **Solana's Alpenglow upgrade cuts settlement to under a second: what it changes, and what it doesn't, for SOL**
 `23 Oct 05:03 PKT` · pehli baar dekhi `23 Oct 10:57` · investinglive
 
@@ -583,6 +1111,64 @@ Solana switched on its Alpenglow upgrade on Wednesday, 21 October, replacing the
 
 ### RISK
 
+**Russia's Central Bank Sees Only Modest Further Drop in Key Rate**
+`23 Oct 16:07 PKT` · pehli baar dekhi `23 Oct 16:27` · wsj_world
+
+Russia's central bank left its key interest rate unchanged, and signaled only a slight decline in borrowing costs next year as inflation is set to remain stubbornly high.
+
+**Aramco forecasts 3 million bpd oil demand surge to replenish stocks if Iran war ends - https://streamlinefeed.co.ke/**
+`23 Oct 15:56 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_geopolitics
+
+Aramco forecasts 3 million bpd oil demand surge to replenish stocks if Iran war ends https://streamlinefeed.co.ke/
+
+**Zcash falls sharply as intensifying growth concerns weigh on the crypto market**
+`23 Oct 15:43 PKT` · pehli baar dekhi `23 Oct 16:27` · investinglive
+
+Zcash sold off sharply yesterday alongside many other cryptocurrencies as growth concerns led to widespread risk aversion. The selling started late on Wednesday and then accelerated after The New York Times reported that the US and Israeli militaries had prepared detailed plans for potential strikes against Iran following the US midterm elections.
+
+**Ukraine Says Starlink Isn't Working, Despite Trump's Promise to Restore It**
+`23 Oct 15:32 PKT` · pehli baar dekhi `23 Oct 16:27` · wsj_world
+
+Soldiers and government officials say connections continued to fail if drones fly at high speeds.
+
+**New electronics reach Iran, but prices soar as gov't fees, US sanctions hit**
+`23 Oct 14:56 PKT` · pehli baar dekhi `23 Oct 16:27` · aljazeera
+
+Latest smartphones are finding their way into Iran despite sanctions and trade restrictions, but many can&#039;t afford them.
+
+**Capital Account: President Trump once called "tariff" the most beautiful word in the dictionary. He has somehow made it one of the most hated words in politics, writes @greg_ip**
+`23 Oct 14:30 PKT` · pehli baar dekhi `23 Oct 16:27` · wsj_economy
+
+President Trump's tariffs collided with public anxiety over the cost of living. Now his trade legacy is at risk.
+
+**European gas caps strong weekly gain on Middle East supply escalation**
+`23 Oct 13:58 PKT` · pehli baar dekhi `23 Oct 16:27` · investing_commodities
+
+**UK October flash services PMI 53.1 vs 51.8 expected**
+`23 Oct 13:30 PKT` · pehli baar dekhi `23 Oct 16:27` · investinglive
+
+Prior 52.1 Manufacturing PMI 52.8 vs 51.7 expected Prior 51.9 Composite PMI 53.1 vs 51.8 expected Prior 52.0 Key findings: Business activity growth accelerates to its fastest since February, helped by rebound in new orders Comment: Chris Williamson, Chief Business Economist at S&P Global Market Intelligence: "The UK economy has picked up momentum in October, with early PMI data indicating the strongest rate of growth since February.
+
+**European Gas Prices at Highest Since 2022 on LNG Supply Fears**
+`23 Oct 13:00 PKT` · pehli baar dekhi `23 Oct 16:27` · wsj_markets
+
+European natural-gas prices climbed to their highest since late 2022 as fears of renewed escalation between the U.S. and Iran threatened LNG supply ahead of winter.
+
+**Trump explores energy options to bring down US fuel prices amid Iran conflict - Times of Oman**
+`23 Oct 12:09 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_geopolitics
+
+Trump explores energy options to bring down US fuel prices amid Iran conflict Times of Oman
+
+**Europe needs a war economy**
+`23 Oct 12:08 PKT` · pehli baar dekhi `23 Oct 16:27` · aljazeera
+
+With US support increasingly uncertain, Europe must mobilise its financial and industrial power to defend itself.
+
+**EU entering winter with lowest gas reserves on record, IEA boss warns**
+`23 Oct 11:02 PKT` · pehli baar dekhi `23 Oct 16:27` · aljazeera
+
+Al Jazeera interviews Fatih Birol in Berlin as the Iran war disrupts global energy supplies.
+
 **US 10-Year Yield Holds at One-Month Low**
 `23 Oct 10:57 PKT` · instaforex
 
@@ -592,6 +1178,11 @@ The yield on the US 10-year Treasury note hovered around 4.97% on Friday, after 
 `23 Oct 10:57 PKT` · instaforex
 
 European natural gas prices extended their rally on Friday, climbing to €91/MWh and marking a new multi-year high, as continued disruptions to Persian Gulf supplies kept the global LNG market tight in the run-up to winter. Reports that the US is preparing for a potential new strike on Iran after the midterm elections have heightened the risk of prolonged supply interruptions.
+
+**Saudi Aramco Seeks International Partners to Expand Strategic Oil Reserves After Iran War - Tekedia**
+`23 Oct 07:46 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_geopolitics
+
+Saudi Aramco Seeks International Partners to Expand Strategic Oil Reserves After Iran War Tekedia
 
 **The Commodities Feed: Brent builds geopolitical premium as Gulf risks rise**
 `23 Oct 06:48 PKT` · pehli baar dekhi `23 Oct 10:57` · ing_think
@@ -613,6 +1204,11 @@ Iran war live: Saudi-led coalition denies Houthi claims of threats against Yemen
 
 US stock futures were steady on Friday after a sharp selloff in technology shares the previous session, as mounting doubts about the durability of artificial intelligence–related investments pressured sentiment. On Thursday, the Nasdaq Composite fell 2.6% and the S&P 500 declined 1.21%, while the Dow Jones Industrial Average inched up 0.02%.
 
+**Iran Speaker Warns of War's Cost as Oil Tops $113 and Philadelphia Semiconductor Index Plunges 6.72% - BigGo Finance**
+`23 Oct 05:05 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_geopolitics
+
+Iran Speaker Warns of War's Cost as Oil Tops $113 and Philadelphia Semiconductor Index Plunges 6.72% BigGo Finance
+
 **Iran war live: Trump hints new strikes, says US knocked 'hell out' of Iran**
 `23 Oct 05:00 PKT` · pehli baar dekhi `23 Oct 05:59` · aljazeera
 
@@ -622,6 +1218,11 @@ Trump indicates new strikes on Iran, saying the US has knocked the &#039;hell ou
 `23 Oct 05:00 PKT` · pehli baar dekhi `23 Oct 05:59` · wsj_world
 
 Tehran retains missile and drone stockpiles, and Washington is trying to move more servicemembers and diplomatic staff out of harm's way.
+
+**Ölblockade gegen Iran: Ölreserven auf Tankern schrumpfen – Warum Teheran jetzt Milliarden fehlen - Xpert.Digital - Konrad Wolfenstein**
+`23 Oct 04:51 PKT` · pehli baar dekhi `23 Oct 16:27` · gnews_geopolitics
+
+Ölblockade gegen Iran: Ölreserven auf Tankern schrumpfen – Warum Teheran jetzt Milliarden fehlen Xpert.Digital - Konrad Wolfenstein
 
 **US-sanctioned ICC wins Sakharov Prize, EU's top human rights award**
 `23 Oct 03:25 PKT` · pehli baar dekhi `23 Oct 03:42` · aljazeera
@@ -633,10 +1234,61 @@ The prize comes less than two weeks after US President Donald Trump announced sa
 
 Saudi Aramco seeks overseas oil stockpile expansion after Iran war Iran International
 
-### BINA TAG (57)
+### BINA TAG (109)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Oct 16:27` **instaforex** — Nickel Retreats on Persistent Oversupply
+- `23 Oct 16:27` **instaforex** — Taiwan's Unemployment Rate Edges Up to 3.33% in September 2026
+- `23 Oct 16:27` **instaforex** — Taiwan's Industrial Output Growth Cools in September, Easing From August Peak
+- `23 Oct 16:25` **investing_news** — Yara Q3 2026 slides: ROIC gains offset by gas cost pressures
+- `23 Oct 16:24` **investing_news** — Balchem beats Q3 estimates on strong segment growth
+- `23 Oct 16:24` **mw_topstories** — The stock market is splitting in two. Is that signaling trouble ahead, or just a new set of winners?
+- `23 Oct 16:22` **investing_news** — Balchem earnings beat by $0.14, revenue topped estimates
+- `23 Oct 16:22` **investing_news** — BofA upgrades Allegion stock rating on strong earnings outlook
+- `23 Oct 16:22` **investing_news** — Ladenburg Thalmann raises American Electric Power price target on capex boost
+- `23 Oct 16:22` **investing_news** — Rosenblatt raises Spotify stock price target to $576 on valuation
+- `23 Oct 16:22` **investing_news** — BofA upgrades Pharvaris stock rating on oral HAE treatment potential
+- `23 Oct 15:53` **actionforex** — Copper Futures (HG_F) Elliott Wave Forecast: Mapping the Path Ahead
+- `23 Oct 15:49` **bbc_business** — Earnings limit of up to £140K for first-time buyers loan scheme
+- `23 Oct 15:43` **investing_commodities** — Morning Bid: Safety first
+- `23 Oct 15:35` **wsj_markets** — Elite Colleges Can Give You an Investing Lesson
+- `23 Oct 15:25` **wsj_markets** — Is SpaceX Just a Mess?
+- `23 Oct 15:24` **gnews_fed** — Investors Just Got Bad News From the Federal Reserve. Here's What History Says Comes Next. - AOL.com
+- `23 Oct 15:20` **aljazeera** — South Korea invites North for military talks over border
+- `23 Oct 15:15` **mw_topstories** — 'She's living the dream': My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?
+- `23 Oct 15:13` **cointelegraph** — Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash
+- `23 Oct 15:11` **gnews_fed** — Investors Just Got Bad News From the Federal Reserve. Here's What History Says Comes Next. - The Motley Fool
+- `23 Oct 15:10` **wsj_markets** — Indonesia's Sovereign Fund Sticks With Investment Strategy After MSCI Warning
+- `23 Oct 15:00` **gnews_centralbanks** — Market Minute: Get ready for a consequential week - The Real Economy Blog
+- `23 Oct 15:00` **gnews_geopolitics** — Michael Walden: What we learned from gas rationing in the '70s - Rocky Mount Telegram
+- `23 Oct 14:52` **aljazeera** — Serbia's snap election: What's at stake and can students unseat Vucic?
+- `23 Oct 14:50` **cointelegraph** — Bybit secures first full Dubai license for spot trading services
+- `23 Oct 14:40` **aljazeera** — NBA's Irving praises Al-Shaair's 'selfless act' after Hind Rajab fine paid
+- `23 Oct 14:35` **mw_topstories** — This market signal just occurred for only the second time since 1999. Here's what happened and what it means.
+- `23 Oct 14:32` **aljazeera** — What role does the military play in Israeli schools?
+- `23 Oct 14:30` **aljazeera** — Pulaku: The two faces of Nigeria's vigilantes
+- `23 Oct 14:30` **wsj_markets** — Meta's Muse Is Going Gangbusters. But Where Is the Payoff?
+- `23 Oct 14:19` **mw_topstories** — This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.
+- `23 Oct 14:17` **gnews_fed** — US Federal Reserve to Raise Rates Twice More in 2026, Says Bank of America - Morningstar
+- `23 Oct 14:15` **mw_topstories** — My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?
+- `23 Oct 14:12` **aljazeera** — Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight
+- `23 Oct 14:12` **aljazeera** — Israeli military kills two in gun battle in occupied West Bank
+- `23 Oct 14:04` **wsj_markets** — Citi Gets Regulator Nod for Wholly Owned Securities Venture in China
+- `23 Oct 14:03` **aljazeera** — Ultra-Orthodox conscription debate ignites Israel's election battleground
+- `23 Oct 14:01` **mw_topstories** — The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean.
+- `23 Oct 13:59` **mw_topstories** — NBA star Precious Achiuwa signs on for $1.8 million condo in luxury Miami tower
+- `23 Oct 13:42` **aljazeera** — LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers
+- `23 Oct 13:35` **aljazeera** — Israeli forces accused of killing disabled man in Syria raid
+- `23 Oct 13:14` **bbc_business** — What is the Budget and what could be in it?
+- `23 Oct 13:04` **bbc_business** — The Indian workers filming their work to train AI
+- `23 Oct 13:03` **actionforex** — Platinum Wave Analysis
+- `23 Oct 12:56` **aljazeera** — Harry Kane hopes Ballon d'Or produces 'special night' in hometown
+- `23 Oct 12:37` **investinglive** — Trading Sphere is brewing something wicked this Halloween
+- `23 Oct 11:55` **aljazeera** — Maradona death: Verdict in trial to be delivered on December 22
+- `23 Oct 11:28` **aljazeera** — How the midterms could change Trump's presidency
+- `23 Oct 11:11` **aljazeera** — FIFA President Infantino's re-election endorsed in U-turn by Asian football
+- `23 Oct 11:11` **aljazeera** — Manchester United labelled 'babies' by club legend Wayne Rooney
 - `23 Oct 10:57` **instaforex** — Malaysia Leading Index Rises 0.2% in August
 - `23 Oct 10:57` **instaforex** — Corn Holds Near Two-Month Low
 - `23 Oct 10:57` **instaforex** — Soybeans Rebound on Strong Export Demand
@@ -653,6 +1305,7 @@ Saudi Aramco seeks overseas oil stockpile expansion after Iran war Iran Internat
 - `23 Oct 10:33` **investing_news** — SGS beats Q3 revenue estimates with record sales growth
 - `23 Oct 10:32` **investing_news** — Holcim raises 2026 earnings outlook after strong Q3 sales
 - `23 Oct 10:30` **investing_news** — Anthropic IPO stands alone as AI market jitters sideline others
+- `23 Oct 09:57` **gnews_fed** — Justice Department Closes Inquiry of Federal Reserve Pushed by Trump - The New York Times
 - `23 Oct 09:27` **aljazeera** — Keeping Madhubala alive: The fight for Karachi's captive elephants
 - `23 Oct 09:09` **aljazeera** — Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up
 - `23 Oct 08:13` **aljazeera** — US tech stocks tumble as investors fret over AI spending
@@ -711,48 +1364,48 @@ investing_news (8)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 12 | 13 | 0 | 0.1 |
+| investinglive | OK | 25 | 25 | 16 | 9 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 10 | 10 | 0 | 0.0 |
-| marketpulse | OK | 6 | 0 | 0 | 0 | 6 | 2.2 |
+| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.0 |
+| marketpulse | OK | 6 | 0 | 0 | 0 | 6 | 2.4 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 7 | 0 | 7 | 29 | 0.1 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 42.5 |
-| kitco_general | OK | 34 | 34 | 0 | 34 | 0 | 0.4 |
-| gnews_fed | OK | 51 | 51 | 12 | 39 | 0 | 0.1 |
-| gnews_geopolitics | OK | 91 | 91 | 9 | 82 | 0 | 0.1 |
-| gnews_centralbanks | OK | 33 | 33 | 11 | 22 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 9.5 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 8.1 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.4 |
-| boj_whatsnew | OK | 50 | 5 | 0 | 5 | 45 | 0.9 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.1 |
-| mining_com | OK | 36 | 12 | 0 | 12 | 24 | 0.3 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 2 | 8 | 0 | 0.2 |
-| bbc_business | OK | 57 | 21 | 2 | 19 | 36 | 0.0 |
-| aljazeera | OK | 25 | 25 | 12 | 13 | 0 | 0.1 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.9 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 42.8 |
-| eia_energy | OK | 19 | 1 | 0 | 1 | 18 | 0.7 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 16.7 |
-| wsj_world | OK | 73 | 21 | 2 | 19 | 52 | 0.0 |
-| wsj_markets | OK | 61 | 30 | 4 | 26 | 31 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| wsj_economy | OK | 36 | 6 | 4 | 2 | 30 | 0.1 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.6 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 42.7 |
+| kitco_general | OK | 33 | 2 | 0 | 2 | 31 | 0.3 |
+| gnews_fed | OK | 47 | 18 | 16 | 2 | 29 | 0.0 |
+| gnews_geopolitics | OK | 98 | 21 | 12 | 9 | 77 | 0.0 |
+| gnews_centralbanks | OK | 29 | 18 | 10 | 8 | 11 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 9.7 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 8.4 |
+| ecb_press | OK | 15 | 1 | 1 | 0 | 14 | 0.1 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 0.6 |
+| boj_whatsnew | OK | 51 | 1 | 1 | 0 | 50 | 0.2 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.4 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.5 |
+| oilprice | OK | 15 | 10 | 5 | 5 | 5 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| ing_think | OK | 10 | 6 | 4 | 2 | 4 | 0.0 |
+| bbc_business | OK | 55 | 9 | 3 | 6 | 46 | 0.0 |
+| aljazeera | OK | 25 | 25 | 22 | 3 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 1 | 0 | 19 | 0.6 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 43.0 |
+| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 0.9 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 17.0 |
+| wsj_world | OK | 75 | 12 | 3 | 9 | 63 | 0.0 |
+| wsj_markets | OK | 61 | 15 | 9 | 6 | 46 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
-| cointelegraph | OK | 30 | 26 | 3 | 23 | 4 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 11 | 5 | 6 | 19 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 42d purana
+- cme_risk_management — STALE, cadence 10d, magar 43d purana
 - yahoo_finance — FAIL, HTTP 404
