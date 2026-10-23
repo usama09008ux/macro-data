@@ -1,8 +1,8 @@
 # News Pack — Trading Day 22 Oct 2026
 
 - Trading day: **22 Oct 03:00 -> 23 Oct 02:59 PKT**
-- Aakhri update: **23 Oct 03:42 PKT**
-- Kul khabrein: **730**
+- Aakhri update: **23 Oct 05:59 PKT**
+- Kul khabrein: **743**
 - Feeds: 35/39 OK
 
 ---
@@ -302,6 +302,11 @@ iShares Silver Trust description={PAGE_DESCRIPTION} Kitco
 
 Find insight on silver futures, Mullen Group, copper and more in the latest Market Talks covering Basic Materials.
 
+**Gold and Silver Both Fell Today: Here's the Actual Reason - GoldSilver**
+`22 Oct 21:15 PKT` · pehli baar dekhi `23 Oct 05:59` · gnews_fed
+
+Gold and Silver Both Fell Today: Here's the Actual Reason GoldSilver
+
 **Allianz Investment Management: The Federal Reserve and other central banks are expected to raise interest rates by another 0.25% each before year-end; bullish on Asian emerging equity markets and gold. - Moomoo**
 `22 Oct 21:02 PKT` · pehli baar dekhi `23 Oct 00:29` · gnews_fed
 
@@ -418,6 +423,11 @@ The JPMorgan view rests on positioning, so the key test is whether selling dries
 `23 Oct 01:55 PKT` · pehli baar dekhi `23 Oct 03:42` · wsj_markets
 
 The tech-heavy Nasdaq fell 2.6%, while Treasury yields posted their biggest drop since 2023.
+
+**Fed: probably not but probably should – will that test the bond market's patience? - AdviserVoice**
+`23 Oct 01:35 PKT` · pehli baar dekhi `23 Oct 05:59` · gnews_fed
+
+Fed: probably not but probably should – will that test the bond market's patience? AdviserVoice
 
 **Tech Stocks Fall on AI Concerns**
 `23 Oct 01:26 PKT` · pehli baar dekhi `23 Oct 03:42` · wsj_markets
@@ -782,9 +792,10 @@ The yield on the United States 20-year Treasury bond climbed at the latest aucti
 ### EUR
 
 **ECB's Panetta says rising yields a drag on growth, not a crisis, ahead of rate meeting**
-`23 Oct 02:31 PKT` · pehli baar dekhi `23 Oct 03:42` · investinglive
+`23 Oct 02:31 PKT` · pehli baar dekhi `23 Oct 03:42` · investinglive · **2 feeds mein**
 
 Panetta's remarks put the focus on sovereign spreads, especially French and Italian debt against German Bunds, as the market's main stress gauge in the euro zone. If US yields keep rising, the spillover he describes could push periphery spreads wider, a risk for Italian bonds given his own warning. For the euro, a growth gap that favours the US alongside higher US yields is a headwind, even with the ECB still facing inflation near double its target.
+  - `23 Oct 02:31` *gnews_centralbanks* — ECB's Panetta says rising yields a drag on growth, not a crisis, ahead of rate meeting - investingLive
 
 **European Stocks Sink on Thursday**
 `23 Oct 00:29 PKT` · instaforex
@@ -1295,6 +1306,12 @@ Consumer prices rose 0.7% in the September quarter and 3.7% y/y. Core inflation 
 
 ### OIL
 
+**Fragile Iran Deal Offers Oil Relief, but Hormuz Risks Remain: Bousso - EnergyNow**
+`23 Oct 02:40 PKT` · pehli baar dekhi `23 Oct 05:59` · gnews_geopolitics · **2 feeds mein**
+
+Fragile Iran Deal Offers Oil Relief, but Hormuz Risks Remain: Bousso EnergyNow
+  - `22 Oct 03:33` *gnews_geopolitics* — Fragile Iran Deal Offers Oil Relief, but Hormuz Risks Remain: Bousso - EnergyNow.com
+
 **Trump invokes Cold War-era Defense Production Act for oil production, refining**
 `23 Oct 02:36 PKT` · pehli baar dekhi `23 Oct 03:42` · investing_commodities
 
@@ -1347,6 +1364,11 @@ Oil prices fall nearly 3% on hopes of US-Iran deal Dunya News
 `23 Oct 00:00 PKT` · pehli baar dekhi `23 Oct 00:29` · oilprice
 
 Canadian oil producer Strathcona Resources wants to export up to 250,000 barrels per day of crude from British Columbia's northern coast using rail shipments and a new marine terminal to reach Asian markets. But first, it needs Ottawa to make an exception to its oil tanker ban.
+
+**Fed's Logan Warns US Oil Production Won't Fill Global Supply Gap - EnergyNow.com**
+`22 Oct 23:18 PKT` · pehli baar dekhi `23 Oct 05:59` · gnews_geopolitics
+
+Fed's Logan Warns US Oil Production Won't Fill Global Supply Gap EnergyNow.com
 
 **CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist - EnergyNow.com**
 `22 Oct 23:00 PKT` · pehli baar dekhi `23 Oct 03:42` · gnews_geopolitics
@@ -1514,10 +1536,11 @@ How Long Can India Handle Crude Oil Supply Disruption? Hardeep Singh Puri Cites 
 
 Oil Rises as Deadly Saudi Attacks Fan Middle East Supply Fears Bloomberg.com
 
-**Oil prices jump to five-month high as attacks threaten global supply - The Guardian**
-`22 Oct 17:41 PKT` · pehli baar dekhi `22 Oct 20:36` · gnews_geopolitics
+**Oil prices jump to five-month high as attacks threaten global supply - AOL.com**
+`22 Oct 17:41 PKT` · pehli baar dekhi `23 Oct 05:59` · gnews_geopolitics · **2 feeds mein**
 
-Oil prices jump to five-month high as attacks threaten global supply The Guardian
+Oil prices jump to five-month high as attacks threaten global supply AOL.com
+  - `22 Oct 17:41` *gnews_geopolitics* — Oil prices jump to five-month high as attacks threaten global supply - The Guardian
 
 **How the Iran-backed Houthis are disrupting world's oil supply - CBC**
 `22 Oct 17:06 PKT` · pehli baar dekhi `22 Oct 20:36` · gnews_geopolitics
@@ -1685,10 +1708,16 @@ Oil Slides as Middle East Uncertainty Keeps Markets on Edge EnergyNow.com
 
 iran oil reserves shrink under us naval blockade NewzTodays
 
+**IRAN'S "CROWN JEWEL" – Kharg Island, Struck by US, is Key Hub for Iran Oil Exports - EnergyNow.com**
+`22 Oct 12:35 PKT` · pehli baar dekhi `23 Oct 05:59` · gnews_geopolitics
+
+IRAN'S "CROWN JEWEL" – Kharg Island, Struck by US, is Key Hub for Iran Oil Exports EnergyNow.com
+
 **Oil Climbs Back Towards $110 as Iran Peace Hopes Fade - CediRates**
-`22 Oct 12:06 PKT` · pehli baar dekhi `23 Oct 00:29` · gnews_geopolitics
+`22 Oct 12:06 PKT` · pehli baar dekhi `23 Oct 00:29` · gnews_geopolitics · **2 feeds mein**
 
 Oil Climbs Back Towards $110 as Iran Peace Hopes Fade CediRates
+  - `22 Oct 11:45` *gnews_geopolitics* — Oil Climbs Back Towards $110 as Iran Peace Hopes Fade - CediRates
 
 **Iran's Oil Reserves Run Dry as U.S. Naval Blockade Tightens**
 `22 Oct 12:00 PKT` · pehli baar dekhi `22 Oct 15:32` · oilprice
@@ -1770,6 +1799,11 @@ Oil prices remain well-supported after fresh attacks on Saudi Arabia, with trade
 `22 Oct 07:40 PKT` · pehli baar dekhi `22 Oct 10:27` · wsj_markets
 
 The Singapore dollar consolidated against its U.S. counterpart, but may be pressured by rising oil prices that tend to be negative for net-energy-importing countries in Asia.
+
+**Iran's shadow tanker oil reserves depleted after US blockade - WSJ - Iran International**
+`22 Oct 07:32 PKT` · pehli baar dekhi `23 Oct 05:59` · gnews_geopolitics
+
+Iran's shadow tanker oil reserves depleted after US blockade - WSJ Iran International
 
 **Oil prices rise as Houthi attacks in Saudi Arabia fuel supply concerns - Business Standard**
 `22 Oct 07:24 PKT` · pehli baar dekhi `22 Oct 10:27` · gnews_geopolitics
@@ -1880,11 +1914,6 @@ ADNOC Sells at Least 30 Million Barrels Crude in Supply Boost, Sources Say Energ
 `22 Oct 03:35 PKT` · pehli baar dekhi `23 Oct 00:29` · gnews_geopolitics
 
 Trump Warns Iran on Hormuz Tolls as Energy Crunch Prompts Japan to Release More Oil EnergyNow.com
-
-**Fragile Iran Deal Offers Oil Relief, but Hormuz Risks Remain: Bousso - EnergyNow.com**
-`22 Oct 03:33 PKT` · pehli baar dekhi `22 Oct 15:32` · gnews_geopolitics
-
-Fragile Iran Deal Offers Oil Relief, but Hormuz Risks Remain: Bousso EnergyNow.com
 
 **Oil Rises on Intensifying US-Iran Hostilities, Threat of Red Sea Closure - EnergyNow.com**
 `22 Oct 03:32 PKT` · pehli baar dekhi `22 Oct 10:27` · gnews_geopolitics
@@ -2038,6 +2067,11 @@ Bitcoin's 28-Day Realized Volatility Falls to 1.2% Near 2026 Low www.tokenpost.c
 
 ### RATES
 
+**With September PPI Coming in Red Hot — Is an October Rate Hike All But Assured? - 24/7 Wall St.**
+`22 Oct 21:40 PKT` · pehli baar dekhi `23 Oct 05:59` · gnews_fed
+
+With September PPI Coming in Red Hot — Is an October Rate Hike All But Assured? 24/7 Wall St.
+
 **US Leading Index Flatlines in September, Hinting at Pause in Downtrend**
 `22 Oct 20:36 PKT` · instaforex
 
@@ -2096,6 +2130,11 @@ The military-grade system appeared to be working more normally on Thursday, soon
 
 **Finland PM says no gas deals with Russia during Ukraine war**
 `22 Oct 23:04 PKT` · pehli baar dekhi `23 Oct 00:29` · investing_commodities
+
+**Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says - EnergyNow**
+`22 Oct 22:31 PKT` · pehli baar dekhi `23 Oct 05:59` · gnews_geopolitics
+
+Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says EnergyNow
 
 **US Jobless Claims Fall to Lowest Level Since July**
 `22 Oct 20:36 PKT` · instaforex
@@ -2302,7 +2341,7 @@ Oil Prices Rise 3% as Iran War Stand-off Persists EnergyNow
 
 More Tankers Come Under Attack as US-Iran Conflict Spreads in the Region EnergyNow
 
-### BINA TAG (242)
+### BINA TAG (244)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2360,6 +2399,7 @@ More Tankers Come Under Attack as US-Iran Conflict Spreads in the Region EnergyN
 - `22 Oct 22:25` **aljazeera** — Jerusalem Daily: Israeli soldier abusing cat goes viral
 - `22 Oct 22:24` **mining_com** — US permitting: Environmental review overhaul could speed mine approvals, but hurdles remain
 - `22 Oct 22:11` **mining_com** — Ottawa finally matches C$1B Ring of Fire funds
+- `22 Oct 22:06` **wsj_markets** — Optimum Communications Prepares for Bankruptcy to Implement Deal
 - `22 Oct 21:56` **wsj_markets** — Health Care Roundup: Market Talk
 - `22 Oct 21:53` **investinglive** — Meta shares fall 7% on huge spending plans
 - `22 Oct 21:49` **wsj_markets** — Auto & Transport Roundup: Market Talk
@@ -2471,6 +2511,7 @@ More Tankers Come Under Attack as US-Iran Conflict Spreads in the Region EnergyN
 - `22 Oct 14:00` **aljazeera** — Fighting rages in Yemen's Taiz as UN warns nearly 260,000 now displaced
 - `22 Oct 14:00` **ing_think** — Heatwaves have exposed a blind spot in Belgium's housing stock
 - `22 Oct 14:00` **gnews_centralbanks** — PTSB hikes mortgage rates, triggering fears rivals will follow - Irish Independent
+- `22 Oct 14:00` **gnews_centralbanks** — PTSB hikes mortgage rates, triggering fears rivals will follow suit - Irish Independent
 - `22 Oct 13:55` **gnews_fed** — Market Coverage: Thursday January 27 Yahoo Finance Athletics Vs Orioles (MuUk1r3clH) - Unisba Media
 - `22 Oct 13:55` **aljazeera** — Israeli elections: Is it just right wing versus right?
 - `22 Oct 13:45` **investing_commodities** — European gas at 2022 peaks as Houthi Strikes trigger U.S. evacuation order
@@ -2565,45 +2606,45 @@ investing_news (9)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 7 | 18 | 0 | 0.1 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.4 |
-| marketpulse | OK | 6 | 0 | 0 | 0 | 6 | 1.9 |
-| instaforex | OK | 25 | 25 | 10 | 15 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 6 | 0 | 6 | 30 | 0.3 |
-| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 42.2 |
-| kitco_general | OK | 33 | 33 | 12 | 21 | 0 | 0.1 |
-| gnews_fed | OK | 53 | 53 | 7 | 46 | 0 | 0.1 |
-| gnews_geopolitics | OK | 90 | 90 | 9 | 81 | 0 | 0.0 |
-| gnews_centralbanks | OK | 39 | 39 | 6 | 33 | 0 | 0.2 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 9.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 7.8 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
-| boe_news | OK | 50 | 1 | 1 | 0 | 49 | 0.1 |
-| boj_whatsnew | OK | 50 | 5 | 0 | 5 | 45 | 0.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 8.8 |
-| mining_com | OK | 36 | 11 | 2 | 9 | 25 | 0.0 |
-| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 1 | 9 | 0 | 0.3 |
-| bbc_business | OK | 57 | 17 | 0 | 17 | 40 | 0.2 |
-| aljazeera | OK | 25 | 25 | 17 | 8 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 42.5 |
-| eia_energy | OK | 19 | 1 | 0 | 1 | 18 | 0.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 16.4 |
-| wsj_world | OK | 74 | 16 | 4 | 12 | 58 | 0.0 |
-| wsj_markets | OK | 61 | 26 | 5 | 21 | 35 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
+| marketpulse | OK | 6 | 0 | 0 | 0 | 6 | 2.0 |
+| instaforex | OK | 25 | 25 | 18 | 7 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 7 | 2 | 5 | 29 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 42.3 |
+| kitco_general | OK | 33 | 33 | 0 | 33 | 0 | 0.2 |
+| gnews_fed | OK | 52 | 52 | 5 | 47 | 0 | 0.1 |
+| gnews_geopolitics | OK | 82 | 82 | 8 | 74 | 0 | 0.0 |
+| gnews_centralbanks | OK | 42 | 42 | 5 | 37 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 9.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 7.9 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.2 |
+| boj_whatsnew | OK | 50 | 5 | 0 | 5 | 45 | 0.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 8.9 |
+| mining_com | OK | 36 | 12 | 1 | 11 | 24 | 0.1 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
+| bbc_business | OK | 57 | 20 | 3 | 17 | 37 | 0.1 |
+| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.7 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 42.6 |
+| eia_energy | OK | 19 | 1 | 0 | 1 | 18 | 0.5 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 16.5 |
+| wsj_world | OK | 72 | 18 | 2 | 16 | 54 | 0.0 |
+| wsj_markets | OK | 61 | 29 | 4 | 25 | 32 | 0.0 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 21 | 3 | 18 | 9 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 23 | 2 | 21 | 7 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
