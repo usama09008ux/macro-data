@@ -1,6 +1,6 @@
 # Calendar — Trading Day 23 Oct 2026
 
-- Banaya gaya: **23 Oct 2026 21:09 PKT**
+- Banaya gaya: **24 Oct 2026 01:09 PKT**
 - Trading day: **23 Oct 03:00 -> 24 Oct 02:59 PKT**
 - Feed: thisweek=live
 
