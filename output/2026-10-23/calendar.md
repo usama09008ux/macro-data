@@ -1,6 +1,6 @@
 # Calendar — Trading Day 23 Oct 2026
 
-- Banaya gaya: **23 Oct 2026 15:21 PKT**
+- Banaya gaya: **23 Oct 2026 21:09 PKT**
 - Trading day: **23 Oct 03:00 -> 24 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -10,17 +10,7 @@
 
 ## Aane wale 24 ghante
 
-| Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
-|---|---|---|---|---|---|
-| 17:30 | CAD | low | Core Retail Sales m/m | 1.1% | -0.7% |
-| 17:30 | CAD | low | Retail Sales m/m | 1.3% | -0.7% |
-| 18:00 | EUR | low | Belgian NBB Business Climate | -11.8 | -12.1 |
-| 18:45 | USD | MED | Flash Manufacturing PMI | 55.4 | 57.0 |
-| 18:45 | USD | MED | Flash Services PMI | 57.9 | 58.7 |
-| 19:00 | USD | MED | Revised UoM Consumer Sentiment | 46.3 | 46.3 |
-| 19:00 | USD | MED | Revised UoM Inflation Expectations | - | 4.7% |
-
-*Agle 24 ghante mein koi HIGH impact event nahi.*
+*Agle 24 ghante mein kuch nahi.*
 
 ---
 
@@ -34,5 +24,13 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 23 Oct 19:03 | UMich final October final consumer sentiment | 48.0 | 46.3 | +1.70 (+4%) | upar |
+| 23 Oct 18:45 | US S&P Global flash October services PMI | 57.9 | 58.0 | -0.10 (-0%) | neeche |
+| 23 Oct 17:30 | Canada August retail sales | +1.2% | +1.3% | -0.10pp (-8%) | neeche |
+| 23 Oct 13:30 | UK October flash services PMI | 53.1 | 51.8 | +1.30 (+2%) | upar |
+| 23 Oct 12:30 | Germany October flash manufacturing PMI | 54.2 | 53.5 | +0.70 (+1%) | upar |
 

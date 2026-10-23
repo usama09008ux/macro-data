@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "23 Oct 2026 15:21",
+  "generated_pkt": "23 Oct 2026 21:09",
   "trading_day": "2026-10-23",
   "feed_sources": {
     "thisweek": "live"
@@ -1124,5 +1124,81 @@
       "trading_day": "2026-10-25"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "UK October flash services PMI 53.1 vs 51.8 expected",
+      "actual_raw": "53.1",
+      "forecast_raw": "51.8",
+      "beat": true,
+      "raw_diff": "+1.30",
+      "sign_flip": false,
+      "diff_pct": 2.5,
+      "when_pkt": "23 Oct 13:30",
+      "source": "investinglive",
+      "tags": [
+        "risk",
+        "usd"
+      ]
+    },
+    {
+      "title": "Germany October flash manufacturing PMI 54.2 vs 53.5 expected",
+      "actual_raw": "54.2",
+      "forecast_raw": "53.5",
+      "beat": true,
+      "raw_diff": "+0.70",
+      "sign_flip": false,
+      "diff_pct": 1.3,
+      "when_pkt": "23 Oct 12:30",
+      "source": "investinglive",
+      "tags": [
+        "eur",
+        "usd"
+      ]
+    },
+    {
+      "title": "UMich final October final consumer sentiment 48.0 vs 46.3 expected",
+      "actual_raw": "48.0",
+      "forecast_raw": "46.3",
+      "beat": true,
+      "raw_diff": "+1.70",
+      "sign_flip": false,
+      "diff_pct": 3.7,
+      "when_pkt": "23 Oct 19:03",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US S&P Global flash October services PMI 57.9 vs 58.0 expected",
+      "actual_raw": "57.9",
+      "forecast_raw": "58.0",
+      "beat": false,
+      "raw_diff": "-0.10",
+      "sign_flip": false,
+      "diff_pct": -0.2,
+      "when_pkt": "23 Oct 18:45",
+      "source": "investinglive",
+      "tags": [
+        "usd",
+        "oil",
+        "rates"
+      ]
+    },
+    {
+      "title": "Canada August retail sales +1.2% vs +1.3% expected",
+      "actual_raw": "+1.2%",
+      "forecast_raw": "+1.3%",
+      "beat": false,
+      "raw_diff": "-0.10pp",
+      "sign_flip": false,
+      "diff_pct": -7.7,
+      "when_pkt": "23 Oct 17:30",
+      "source": "investinglive",
+      "tags": [
+        "cad",
+        "usd"
+      ]
+    }
+  ]
 }
