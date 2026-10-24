@@ -1,7 +1,7 @@
 # News Pack — Trading Day 23 Oct 2026
 
 - Trading day: **23 Oct 03:00 -> 24 Oct 02:59 PKT**
-- Aakhri update: **24 Oct 22:24 PKT**
+- Aakhri update: **25 Oct 00:40 PKT**
 - Kul khabrein: **747**
 - Feeds: 34/39 OK
 
@@ -2662,45 +2662,45 @@ investing_news (9)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 0.9 |
+| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 1.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 18 | 0 | 18 | 2 | 0.3 |
-| marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 1.3 |
-| instaforex | OK | 25 | 0 | 0 | 0 | 25 | 0.9 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.7 |
+| actionforex | OK | 20 | 18 | 0 | 18 | 2 | 0.4 |
+| marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 1.4 |
+| instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.0 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.8 |
 | cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
 | cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.8 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 43.9 |
-| kitco_general | OK | 14 | 6 | 1 | 5 | 8 | 0.2 |
-| gnews_fed | OK | 36 | 23 | 10 | 13 | 13 | 0.0 |
-| gnews_geopolitics | OK | 96 | 75 | 10 | 65 | 21 | 0.1 |
-| gnews_centralbanks | OK | 45 | 30 | 11 | 19 | 15 | 0.2 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 11.0 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 9.6 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.9 |
-| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 1.5 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 10.6 |
-| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.8 |
-| oilprice | OK | 15 | 5 | 2 | 3 | 10 | 0.0 |
-| investing_commodities | OK | 10 | 4 | 1 | 3 | 6 | 0.1 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 0.9 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 44.0 |
+| kitco_general | OK | 13 | 6 | 0 | 6 | 7 | 0.3 |
+| gnews_fed | OK | 31 | 27 | 4 | 23 | 4 | 0.0 |
+| gnews_geopolitics | OK | 87 | 74 | 2 | 72 | 13 | 0.2 |
+| gnews_centralbanks | OK | 44 | 40 | 13 | 27 | 4 | 0.1 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 11.1 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 9.7 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.0 |
+| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 1.6 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 10.7 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.9 |
+| oilprice | OK | 15 | 6 | 1 | 5 | 9 | 0.0 |
+| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
 | ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
-| bbc_business | OK | 55 | 7 | 0 | 7 | 48 | 0.2 |
-| aljazeera | OK | 25 | 25 | 12 | 13 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.8 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 44.3 |
-| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 2.1 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 18.2 |
-| wsj_world | OK | 74 | 9 | 2 | 7 | 65 | 0.0 |
-| wsj_markets | OK | 60 | 3 | 1 | 2 | 57 | 0.0 |
-| investing_news | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| bbc_business | OK | 55 | 7 | 0 | 7 | 48 | 0.3 |
+| aljazeera | OK | 25 | 25 | 3 | 22 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.9 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 44.4 |
+| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 2.2 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 18.3 |
+| wsj_world | OK | 74 | 9 | 0 | 9 | 65 | 0.0 |
+| wsj_markets | OK | 60 | 3 | 0 | 3 | 57 | 0.1 |
+| investing_news | OK | 10 | 10 | 2 | 8 | 0 | 0.1 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.8 |
+| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 0.9 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
