@@ -1,8 +1,8 @@
 # News Pack — Trading Day 23 Oct 2026
 
 - Trading day: **23 Oct 03:00 -> 24 Oct 02:59 PKT**
-- Aakhri update: **24 Oct 03:40 PKT**
-- Kul khabrein: **721**
+- Aakhri update: **24 Oct 06:08 PKT**
+- Kul khabrein: **730**
 - Feeds: 35/39 OK
 
 ---
@@ -324,6 +324,11 @@ Saudi Strike Sends Oil Above $113; Gold Breaks Below $4,050 in Capitulation-Styl
 Private entity has agreed to acquire Victoria Gold, advancing plans to potentially rehabilitate and restart its Eagle gold mine.
 
 ### USD
+
+**Scenic Tourism in Rural America Presents Miles of Economic Opportunity - Kansas City Fed**
+`24 Oct 02:42 PKT` · pehli baar dekhi `24 Oct 06:08` · gnews_fed
+
+Scenic Tourism in Rural America Presents Miles of Economic Opportunity Kansas City Fed
 
 **Stocks, Pulled in Two Directions, Fall to End Volatile Week**
 `24 Oct 02:10 PKT` · pehli baar dekhi `24 Oct 03:40` · wsj_markets
@@ -763,6 +768,11 @@ Financial markets have seen somewhat increasing volatility this week, as worries
 `23 Oct 18:14 PKT` · pehli baar dekhi `23 Oct 20:52` · gnews_centralbanks
 
 Could France's bond turmoil force the ECB's hand? Euronews.com
+
+**Euro: Will Fed and ECB convergence support gradual gains? – Commerzbank - www.tmgm.com**
+`23 Oct 17:54 PKT` · pehli baar dekhi `24 Oct 06:08` · gnews_centralbanks
+
+Euro: Will Fed and ECB convergence support gradual gains? – Commerzbank www.tmgm.com
 
 **Euro: Gradual upside as Fed and ECB converge – Commerzbank - FXStreet**
 `23 Oct 17:18 PKT` · pehli baar dekhi `23 Oct 20:52` · gnews_centralbanks
@@ -1354,6 +1364,11 @@ The NZDUSD has moved higher on four of five trading days this week, giving buyer
 
 THE RETHINK: Cash-Rich Oil Majors Face Post-Iran Strategy Rethink: Bousso EnergyNow.com
 
+**Russell 2000 falls 8 points as oil hits a June high - ad-hoc-news.de**
+`24 Oct 01:54 PKT` · pehli baar dekhi `24 Oct 06:08` · gnews_fed
+
+Russell 2000 falls 8 points as oil hits a June high ad-hoc-news.de
+
 **U.S. Stocks Fall as Oil Prices Hit Five-Month High**
 `24 Oct 01:34 PKT` · pehli baar dekhi `24 Oct 03:40` · wsj_markets
 
@@ -1417,6 +1432,11 @@ Oil Holds Biggest Gain in Week as Saudi Attacks Fan Supply Risks Bloomberg
 `23 Oct 23:14 PKT` · pehli baar dekhi `24 Oct 00:44` · gnews_geopolitics
 
 [Global Oil Prices] Crude tops $117 intraday... next April contract also breaks $100 파이낸셜뉴스
+
+**Is China Driving Up Oil Prices? - Robin J Brooks | Substack**
+`23 Oct 23:01 PKT` · pehli baar dekhi `24 Oct 06:08` · gnews_geopolitics
+
+Is China Driving Up Oil Prices? Robin J Brooks | Substack
 
 **Oil flows through strait and alternative routes exceeded pre-war level — Fortune - UA.NEWS**
 `23 Oct 22:28 PKT` · pehli baar dekhi `24 Oct 03:40` · gnews_geopolitics
@@ -1810,6 +1830,11 @@ Crude oil prices were on course to book a sharp weekly gain, with Brent crude on
 **Oil prices rise as supply concerns linger amid Houthi attacks on Saudi Arabia**
 `23 Oct 10:30 PKT` · pehli baar dekhi `23 Oct 10:57` · investing_commodities
 
+**Crude oil price trade higher on geopolitical concerns - BusinessLine**
+`23 Oct 09:10 PKT` · pehli baar dekhi `24 Oct 06:08` · gnews_geopolitics
+
+Crude oil price trade higher on geopolitical concerns BusinessLine
+
 **Federal government to release thousands of barrels of heating oil from reserve - WGME**
 `23 Oct 07:34 PKT` · pehli baar dekhi `23 Oct 20:52` · gnews_fed
 
@@ -2011,6 +2036,11 @@ Solana switched on its Alpenglow upgrade on Wednesday, 21 October, replacing the
 `24 Oct 02:32 PKT` · pehli baar dekhi `24 Oct 03:40` · wsj_world
 
 If Israel's election ends in a stalemate, the Prime Minister can stay in power to finish the job in Iran.
+
+**Iran War Upends IEA's Oil Market Outlook as Global Supply and Demand to Contract in 2026 - EnergyNow**
+`24 Oct 01:28 PKT` · pehli baar dekhi `24 Oct 06:08` · gnews_geopolitics
+
+Iran War Upends IEA's Oil Market Outlook as Global Supply and Demand to Contract in 2026 EnergyNow
 
 **Trump says US will 'take care of Cuba' on its way back from Iran**
 `24 Oct 01:24 PKT` · pehli baar dekhi `24 Oct 03:40` · investing_commodities
@@ -2309,7 +2339,7 @@ The prize comes less than two weeks after US President Donald Trump announced sa
 
 Saudi Aramco seeks overseas oil stockpile expansion after Iran war Iran International
 
-### BINA TAG (234)
+### BINA TAG (237)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2328,6 +2358,7 @@ Saudi Aramco seeks overseas oil stockpile expansion after Iran war Iran Internat
 - `24 Oct 01:19` **mw_topstories** — The U.S. economy is great by this measure, and the good times aren't over. So why are Americans so sour?
 - `24 Oct 01:02` **mw_topstories** — I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?
 - `24 Oct 00:55` **aljazeera** — Tigray rebels urged to disarm as commander vows to fight Ethiopia's gov't
+- `24 Oct 00:55` **mining_com** — Moon River lifts Davidson value to $879M, tungsten output jumps
 - `24 Oct 00:45` **aljazeera** — Ecuador judge orders pre-trial detention of leftist presidential candidate
 - `24 Oct 00:42` **gnews_fed** — Takala backs Fawzi Abu Khzam for interim Central Bank Governor role - The Libya Observer
 - `24 Oct 00:18` **gnews_fed** — What To Expect From Wednesday's Federal Reserve Meeting - Investopedia
@@ -2346,6 +2377,7 @@ Saudi Aramco seeks overseas oil stockpile expansion after Iran war Iran Internat
 - `23 Oct 23:43` **mw_topstories** — Think annuities are a rip-off? Now might be the perfect time to reconsider.
 - `23 Oct 23:38` **aljazeera** — Israel locks down occupied West Bank after Hebron shooting
 - `23 Oct 23:35` **gnews_fed** — Financial Expert On The Reason Black Wealth is On The Decline - The Root
+- `23 Oct 23:24` **gnews_fed** — Economics of Housing in the Tri-State Region - Federal Reserve Bank of New York
 - `23 Oct 23:22` **aljazeera** — Former FBI officials charged in connection with Hunter Biden laptop probe
 - `23 Oct 23:19` **mw_topstories** — Can Nvidia's stock become a safe haven as Wall Street rethinks the AI trade?
 - `23 Oct 23:16` **gnews_fed** — Something Is Going on With the Discount Window - Bloomberg.com
@@ -2485,6 +2517,7 @@ Saudi Aramco seeks overseas oil stockpile expansion after Iran war Iran Internat
 - `23 Oct 12:37` **investinglive** — Trading Sphere is brewing something wicked this Halloween
 - `23 Oct 11:55` **aljazeera** — Maradona death: Verdict in trial to be delivered on December 22
 - `23 Oct 11:28` **aljazeera** — How the midterms could change Trump's presidency
+- `23 Oct 11:19` **gnews_fed** — Federal Reserve Preview: A Pause Before A December Hike - Menafn
 - `23 Oct 11:11` **aljazeera** — FIFA President Infantino's re-election endorsed in U-turn by Asian football
 - `23 Oct 11:11` **aljazeera** — Manchester United labelled 'babies' by club legend Wayne Rooney
 - `23 Oct 10:57` **instaforex** — Malaysia Leading Index Rises 0.2% in August
@@ -2564,45 +2597,45 @@ investing_news (9)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 4 | 21 | 0 | 0.1 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | OK | 6 | 1 | 0 | 1 | 5 | 0.5 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
-| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 0.1 |
-| cme_metals_video | OK | 10 | 2 | 2 | 0 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| cme_daily_commentary | OK | 10 | 7 | 3 | 4 | 3 | 0.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 43.2 |
-| kitco_general | OK | 34 | 33 | 6 | 27 | 1 | 0.0 |
-| gnews_fed | OK | 46 | 46 | 7 | 39 | 0 | 0.1 |
-| gnews_geopolitics | OK | 79 | 79 | 26 | 53 | 0 | 0.1 |
-| gnews_centralbanks | OK | 32 | 32 | 1 | 31 | 0 | 0.3 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 10.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 8.8 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.1 |
-| boj_whatsnew | OK | 51 | 1 | 0 | 1 | 50 | 0.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.8 |
-| mining_com | OK | 36 | 9 | 0 | 9 | 27 | 0.1 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| ing_think | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
-| bbc_business | OK | 55 | 14 | 1 | 13 | 41 | 0.0 |
-| aljazeera | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 1.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 43.5 |
-| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.4 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 17.4 |
-| wsj_world | OK | 72 | 24 | 5 | 19 | 48 | 0.0 |
-| wsj_markets | OK | 61 | 23 | 3 | 20 | 38 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
+| marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.6 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
+| wsj_economy | OK | 36 | 10 | 1 | 9 | 26 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
+| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.2 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 43.3 |
+| kitco_general | OK | 35 | 35 | 3 | 32 | 0 | 0.1 |
+| gnews_fed | OK | 47 | 47 | 4 | 43 | 0 | 0.1 |
+| gnews_geopolitics | OK | 46 | 46 | 3 | 43 | 0 | 0.1 |
+| gnews_centralbanks | OK | 30 | 30 | 1 | 29 | 0 | 0.4 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 10.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 8.9 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.2 |
+| boj_whatsnew | OK | 51 | 1 | 0 | 1 | 50 | 0.8 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.9 |
+| mining_com | OK | 36 | 12 | 3 | 9 | 24 | 0.1 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| ing_think | OK | 10 | 8 | 0 | 8 | 2 | 0.5 |
+| bbc_business | OK | 55 | 18 | 3 | 15 | 37 | 0.0 |
+| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 1.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 43.6 |
+| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 1.5 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 17.5 |
+| wsj_world | OK | 73 | 25 | 1 | 24 | 48 | 0.0 |
+| wsj_markets | OK | 60 | 22 | 0 | 22 | 38 | 0.2 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 21 | 3 | 18 | 9 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 21 | 0 | 21 | 9 | 0.2 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
