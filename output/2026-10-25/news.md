@@ -1,8 +1,8 @@
 # News Pack — Trading Day 25 Oct 2026
 
 - Trading day: **25 Oct 03:00 -> 26 Oct 02:59 PKT**
-- Aakhri update: **25 Oct 22:23 PKT**
-- Kul khabrein: **261**
+- Aakhri update: **26 Oct 00:52 PKT**
+- Kul khabrein: **300**
 - Feeds: 23/39 OK
 
 ---
@@ -17,6 +17,11 @@
 Week Ahead: Fed, ECB, BOJ and BOC Meetings; Brazil, Israel Votes; China's Fifth Plenum; U.K. Budget; U.S., Australia, Tokyo and Eurozone Regional Inflation Reports; Eurozone and U.S. GDP; U.S. Earnings Flood www.christophe-barraud.com
 
 ### GOLD
+
+**The US has the largest gold reserve. But repricing it to $1 trillion 'would backfire in a big way' - Fortune**
+`25 Oct 23:57 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_fed
+
+The US has the largest gold reserve. But repricing it to $1 trillion 'would backfire in a big way' Fortune
 
 **Gold Price Outlook as US Bond Yields Rise Ahead of FOMC Decision - Benzinga**
 `25 Oct 20:15 PKT` · pehli baar dekhi `25 Oct 22:23` · gnews_fed
@@ -33,12 +38,22 @@ As Sudan's war destroys livelihoods, the death of 16-year-old Altayeb Alhadi hig
 
 Gold, silver face fresh test as oil surge puts Fed policy decision in focus Business Standard
 
+**Gold, silver face another test as oil surge puts Fed's policy decision in focus: Analysts - MillenniumPost**
+`25 Oct 17:35 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_fed
+
+Gold, silver face another test as oil surge puts Fed's policy decision in focus: Analysts MillenniumPost
+
 **Gold, Silver Face Test: Oil Surge, Fed Policy Decision in Focus - Rediff MoneyWiz**
 `25 Oct 17:23 PKT` · pehli baar dekhi `25 Oct 18:52` · gnews_fed
 
 Gold, Silver Face Test: Oil Surge, Fed Policy Decision in Focus Rediff MoneyWiz
 
 ### USD
+
+**Week ahead: Fed and ECB Decisions, US GDP and PCE Data - AskTraders.com**
+`26 Oct 00:06 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_centralbanks
+
+Week ahead: Fed and ECB Decisions, US GDP and PCE Data AskTraders.com
 
 **The Fed thinks it's fighting inflation. It's starving the cure - Washington Examiner**
 `25 Oct 22:00 PKT` · pehli baar dekhi `25 Oct 22:23` · gnews_fed
@@ -181,6 +196,16 @@ Nasdaq, S&P 500 Futures Rebound After Fed Rate Hike: NVDA, NBIS, SNAP, SPCX, BE,
 
 ### EUR
 
+**The narrative battle over France's unrest**
+`26 Oct 00:36 PKT` · pehli baar dekhi `26 Oct 00:52` · aljazeera
+
+Student protests, police violence and French media obsessed with &#039;barbarians&#039;.
+
+**Pound-to-Euro Forecast: French Debt Fears Keep GBP Near 1.20 - CurrencyNews.co.uk**
+`25 Oct 23:31 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_centralbanks
+
+Pound-to-Euro Forecast: French Debt Fears Keep GBP Near 1.20 CurrencyNews.co.uk
+
 **Fed, ECB Expected To Hold Rates Next Week, But December Hikes Still In Play - Benzinga**
 `25 Oct 20:30 PKT` · pehli baar dekhi `25 Oct 22:23` · gnews_centralbanks
 
@@ -298,6 +323,12 @@ Japan inflation accelerates, paving way for rate hike Qatar Tribune
 
 ### CAD
 
+**Britain will not join Canada's defence bank, source says**
+`26 Oct 00:24 PKT` · pehli baar dekhi `26 Oct 00:52` · investing_news
+
+**U.S, Canada "very close" to trade deal, White House's Hassett says**
+`25 Oct 23:59 PKT` · pehli baar dekhi `26 Oct 00:52` · investing_news
+
 **5 G10 Central Banks Meet; Reserve Bank of New Zealand & Bank of Canada Most Likely To Hike - Seeking Alpha**
 `25 Oct 11:15 PKT` · pehli baar dekhi `25 Oct 14:27` · gnews_centralbanks
 
@@ -322,6 +353,16 @@ GBP/AUD falling wedge points to bullish breakout risk ahead of RBA minutes Stone
 
 ### OIL
 
+**Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck**
+`26 Oct 00:00 PKT` · pehli baar dekhi `26 Oct 00:52` · oilprice
+
+The United Kingdom has invested heavily in expanding its renewable energy capacity in recent years to reduce its dependence on fossil fuels and support a green transition. However, one major problem stands in the way of it achieving this goal – its unprepared transmission infrastructure. Despite several new wind and solar projects coming online, the U.K. still relies heavily on natural gas due to grid inefficiencies that are delaying the shift to green energy. The U.K.
+
+**Oil Prices Could Top $150 if War Resumes - WANA News Agency**
+`25 Oct 22:53 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_geopolitics
+
+Oil Prices Could Top $150 if War Resumes WANA News Agency
+
 **President Trump announces steps to boost oil production — The Hill - UA.NEWS**
 `25 Oct 22:01 PKT` · pehli baar dekhi `25 Oct 22:23` · gnews_geopolitics
 
@@ -332,6 +373,11 @@ President Trump announces steps to boost oil production — The Hill UA.NEWS
 
 The United Nations says that it is now an inevitability that the world will fail to meet the legally binding goals set forth by the Paris climate accord as a result of "decades of insufficient climate action". The Paris Agreement, ratified in 2015, targeted limiting global warming to 1.5 degrees Celsius above pre-industrial averages, with a fallback target of 2?, with the understanding that this looser allowance would lead to far more devastating consequences for global ecosystems, human ...
 
+**Citi Sees Oil Prices Trending Lower to $60 to $65 Per Barrel by First Quarter of 2027 - EnergyNow.com**
+`25 Oct 21:23 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_geopolitics
+
+Citi Sees Oil Prices Trending Lower to $60 to $65 Per Barrel by First Quarter of 2027 EnergyNow.com
+
 **Iran's crude oil output potential rises 1.5% to over 3.7 million bpd - Trend News Agency**
 `25 Oct 21:21 PKT` · pehli baar dekhi `25 Oct 22:23` · gnews_geopolitics
 
@@ -341,6 +387,11 @@ Iran's crude oil output potential rises 1.5% to over 3.7 million bpd Trend News 
 `25 Oct 21:21 PKT` · pehli baar dekhi `25 Oct 22:23` · gnews_geopolitics
 
 Crude Oil Surges Past $117 Amid Iran Fears, Nigerian Fuel Costs at Risk Head Topics
+
+**Dow Jones Futures Prediction: Dow Futures Slide After Wall Street Sell-Off as Oil Tops $116, AI Stocks and Fed Rate Decision in Focus; Check Monday's Market Outlook & Key Things To Watch - The Sunday Guardian**
+`25 Oct 21:14 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_fed
+
+Dow Jones Futures Prediction: Dow Futures Slide After Wall Street Sell-Off as Oil Tops $116, AI Stocks and Fed Rate Decision in Focus; Check Monday's Market Outlook & Key Things To Watch The Sunday Guardian
 
 **Oil Futures Rise as Attacks on Saudi Arabia, U.S.-Iran Risks Persist - WSJ**
 `25 Oct 20:11 PKT` · pehli baar dekhi `25 Oct 22:23` · gnews_geopolitics
@@ -433,6 +484,11 @@ Oil Prices Above $100: Best Energy Stocks to Watch in October 2026 Intellectia A
 
 US Fed rate decision, corporate earnings, crude oil to steer market sentiment Rediff
 
+**UAE Crude Output Nears Record Following OPEC Exit, Sources Say - EnergyNow.com**
+`25 Oct 13:15 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_geopolitics
+
+UAE Crude Output Nears Record Following OPEC Exit, Sources Say EnergyNow.com
+
 **Stock market outlook: Fed meeting, crude & more - top cues guiding Dalal Street this week - The Times of India**
 `25 Oct 12:23 PKT` · pehli baar dekhi `25 Oct 14:27` · gnews_fed
 
@@ -456,6 +512,11 @@ Oil prices rise for third week amid regional tensions Bangladesh Post
 **UAE closes more beaches as Gulf oil spill raises environmental concerns**
 `25 Oct 11:41 PKT` · pehli baar dekhi `25 Oct 14:27` · investing_news
 
+**Prolonged Iran War: Why Crude Oil Securitization Doesn't Mean Eased Corporate Burdens - 코리아비즈니스리뷰**
+`25 Oct 10:26 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_geopolitics
+
+Prolonged Iran War: Why Crude Oil Securitization Doesn't Mean Eased Corporate Burdens 코리아비즈니스리뷰
+
 **Oil at $116, FOMC and Big Tech Earnings Collide in a 'Week of Destiny' — Wall Street Braces for Volatility - BigGo Finance**
 `25 Oct 09:55 PKT` · pehli baar dekhi `25 Oct 14:27` · gnews_fed
 
@@ -470,6 +531,11 @@ US Oil Sanctions Push Beijing to Test Washington's Limits EnergyNow
 `25 Oct 09:45 PKT` · pehli baar dekhi `25 Oct 18:52` · gnews_geopolitics
 
 UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027 EnergyNow
+
+**Oil Prices Jump on Latest US-Iran Peace Process Impasse - EnergyNow**
+`25 Oct 09:42 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_geopolitics
+
+Oil Prices Jump on Latest US-Iran Peace Process Impasse EnergyNow
 
 **Iran Strikes Saudi Oil Hub Yanbu, Targets Aramco SAMREF Refinery Harrison Ford (8lkYtVD0e5) - Unisba Media**
 `25 Oct 09:26 PKT` · pehli baar dekhi `25 Oct 14:27` · gnews_geopolitics
@@ -501,6 +567,11 @@ Crude oil surges over 7% amid escalating Israel-Iran conflict DD News
 
 Oil prices mixed; Brent flat, US crude up as Iran keeps Hormuz shut ahead of Trump deadline DD News
 
+**Iran says oil blockade will continue until attacks end, Trump threatens to hit harder - DD News**
+`25 Oct 07:52 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_geopolitics
+
+Iran says oil blockade will continue until attacks end, Trump threatens to hit harder DD News
+
 **Crude Oil Price Surges Above $117 Over Fears of Fresh US Strikes on Iran - THISDAYLIVE**
 `25 Oct 07:08 PKT` · pehli baar dekhi `25 Oct 14:27` · gnews_geopolitics
 
@@ -527,6 +598,11 @@ The Iran war has made oil tanker voyages so inefficient that vessel availability
 Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia Crude Oil Prices Today | OilPrice.com
 
 ### CRYPTO
+
+**Bitcoin Price Holds Near USD 80K as Traders Await Upcoming Fed Rate Decision - Analytics Insight**
+`25 Oct 21:30 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_fed
+
+Bitcoin Price Holds Near USD 80K as Traders Await Upcoming Fed Rate Decision Analytics Insight
 
 **Watch Out: Entering a Critical Fed Week—Here Are the Numerous Economic Developments and Altcoin Events Coming Up This Week—Day-by-Day, Hour-by-Hour Schedule - Cryptonews.net**
 `25 Oct 19:57 PKT` · pehli baar dekhi `25 Oct 22:23` · gnews_fed · **2 feeds mein**
@@ -589,10 +665,20 @@ Bitcoin Price Prediction: Can BTC Rebound to $85,000? Coinpaper
 
 ### RISK
 
+**Opinion | Coddling Putin Won't Bring Peace to Ukraine**
+`25 Oct 22:33 PKT` · pehli baar dekhi `26 Oct 00:52` · wsj_world
+
+Trump's obeisance to the Kremlin also imperils his legislative agenda in the lame-duck Congress.
+
 **Trump's tariff pause angers some US ranchers, boosts Brazil beef imports**
 `25 Oct 21:42 PKT` · pehli baar dekhi `25 Oct 22:23` · aljazeera
 
 Just as American cattle went to market, Trump&#039;s action added unease to an industry already facing uncertainty.
+
+**Iran War is One 'TACO' Too Far: McGeever - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com**
+`25 Oct 21:33 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_geopolitics
+
+Iran War is One 'TACO' Too Far: McGeever - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com
 
 **Opinion | Congress's Russia Problems**
 `25 Oct 20:55 PKT` · pehli baar dekhi `25 Oct 22:23` · wsj_world
@@ -780,13 +866,30 @@ Some are leaving the Ukrainian capital as Russia intensifies its campaign target
 
 From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have responded to voter shifts on a slew of issues.
 
-### BINA TAG (95)
+### BINA TAG (116)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `26 Oct 00:36` **aljazeera** — Iraqis mark seven years since Tishreen protests with reform demands
+- `26 Oct 00:19` **aljazeera** — Serbia voter turnout highest in decades as students oppose longtime leader
+- `26 Oct 00:00` **wsj_world** — The U.S. Shipbuilding Revival Is Taking Lessons Halfway Around the World
+- `25 Oct 23:55` **aljazeera** — Venezuela's opposition leader Maria Corina Machado returns from exile
+- `25 Oct 23:41` **gnews_centralbanks** — Labour group attacks 'Bailey premium' of bond sales - The Times
+- `25 Oct 23:34` **aljazeera** — When is the 2026 Ballon d'Or, who are the favourites, and how can you watch it?
+- `25 Oct 23:27` **aljazeera** — Will Michael Carrick be sacked? Man United manager says he doesn't know
+- `25 Oct 23:20` **aljazeera** — Uganda orders 21-day Ebola quarantine for citizens returning from DR Congo
+- `25 Oct 23:12` **aljazeera** — Israeli air strike on Gaza City university kills three people
+- `25 Oct 23:05` **aljazeera** — Jordan FA chief says AFC Congress 'pure politics' at behest of Infantino
+- `25 Oct 23:00` **wsj_world** — The Push to Oust Netanyahu Draws Thousands of Israeli Expats Home to Vote
+- `25 Oct 22:53` **aljazeera** — US and Israel elections: New leaders, same policies?
+- `25 Oct 22:48` **investing_news** — Oppenheimer sees web, commerce software Q3 backdrop improving, AI worries linger
+- `25 Oct 22:39` **aljazeera** — Can protests in Europe bring about change?
+- `25 Oct 22:26` **aljazeera** — AI's 'opportunity divide' could deepen global inequality, UN official warns
+- `25 Oct 22:12` **aljazeera** — Jerusalem Daily: Israel expels thousands from Hebron
 - `25 Oct 22:00` **mw_topstories** — My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?
 - `25 Oct 22:00` **mw_topstories** — We stopped helping our neighbors with free home repairs and our friendship cooled. Who's to blame?
 - `25 Oct 21:36` **wsj_world** — Venezuela's Machado Returns Home, Challenging U.S.-Backed Government
+- `25 Oct 21:35` **gnews_fed** — Can the Federal Reserve Keep Rates High Without Breaking Something? - CryptoRank
 - `25 Oct 21:30` **aljazeera** — Israel's 'Generation Right' could shape Netanyahu's future
 - `25 Oct 21:30` **aljazeera** — Barcelona vs Real Madrid LIVE: La Liga El Clasico
 - `25 Oct 21:16` **aljazeera** — Jordanians mourn victims of deadly church attack
@@ -794,6 +897,7 @@ From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have
 - `25 Oct 20:40` **aljazeera** — Seven killed in Gaza as Israel targets university campus and other sites
 - `25 Oct 20:38` **aljazeera** — UN official warns AI could 'deepen' global inequality
 - `25 Oct 20:27` **investing_news** — Does enough capital exist to finance everyone's ambitious AI spending plans?
+- `25 Oct 20:23` **gnews_centralbanks** — Blow To Burnham As Former Adviser Warns PM Risks Liz Truss-Style Crisis If He Avoids Tough Choices - HuffPost UK
 - `25 Oct 20:23` **gnews_centralbanks** — Blow To Burnham As Former Adviser Warns PM Risks Liz Truss-Style Crisis If He Avoids Tough Choices - HuffPost UK
 - `25 Oct 20:21` **aljazeera** — Thousands mourn victims of deadly Jordan church attack
 - `25 Oct 20:16` **gnews_fed** — Federal Reserve Interest Rate Predictions Next Week: October 27–28, 2026 - Norada Real Estate Investments
@@ -830,6 +934,7 @@ From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have
 - `25 Oct 15:01` **gnews_centralbanks** — The week ahead in numbers: Govt's H1 fiscal data, factory output, HUL Q2 earnings - Livemint
 - `25 Oct 14:57` **aljazeera** — Qatar official calls for peace and security to boost trade, investment
 - `25 Oct 14:50` **gnews_fed** — Top 5 Things to Watch: Rivers Fall, Federal Reserve Action Uncertain - DTN Progressive Farmer
+- `25 Oct 14:41` **gnews_geopolitics** — Sri Lanka provides medical help and repatriates 40 Iranian sailors stranded in the Indian Ocean - WREG.com
 - `25 Oct 14:27` **aljazeera** — Israeli forces turn Hebron homes into military posts amid lockdown
 - `25 Oct 14:17` **gnews_fed** — Americans Hold Record 48.2 Percent of Financial Assets in Stocks - Demokratis.co.id
 - `25 Oct 14:14` **aljazeera** — Thousands of Northern Irish Protestants march ahead of court ruling
@@ -840,6 +945,8 @@ From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have
 - `25 Oct 13:26` **aljazeera** — UFC 333: Volkanovski knocks out Evloev to retain featherweight title
 - `25 Oct 13:20` **aljazeera** — Who are the best players never to win the Ballon d'Or?
 - `25 Oct 13:17` **investing_news** — North Korea's Kim Jong Un makes surprise China visit as ties strengthen
+- `25 Oct 13:17` **gnews_geopolitics** — Explosions Heard In Riyadh Ahead Of Airport Reopening - Radio Free Europe/Radio Liberty
+- `25 Oct 13:12` **gnews_geopolitics** — Forget TACO. Trump's Best Mexican Food Acronym is TAMALES: Russell - EnergyNow.com
 - `25 Oct 12:40` **investing_news** — 5 big analyst AI moves: 'Uniquely catalyst-rich' months ahead for SpaceX
 - `25 Oct 12:36` **investing_news** — BioNTech, Bristol Myers report lung cancer trial data
 - `25 Oct 12:35` **gnews_geopolitics** — Obama Attacks Trump as Democrats Campaign for Midterms - Khaama Press
@@ -896,45 +1003,45 @@ investing_news (7)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 0.8 |
+| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 0.9 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.3 |
-| marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 2.3 |
-| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.9 |
-| wsj_economy | WARN | 36 | 0 | 0 | 0 | 36 | 1.7 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 44.9 |
+| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.4 |
+| marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 2.4 |
+| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 2.0 |
+| wsj_economy | WARN | 36 | 0 | 0 | 0 | 36 | 1.8 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 45.0 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 49 | 44 | 12 | 32 | 5 | 0.0 |
-| gnews_geopolitics | OK | 61 | 50 | 16 | 34 | 11 | 0.0 |
-| gnews_centralbanks | OK | 40 | 33 | 9 | 24 | 7 | 0.1 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 12.0 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 10.6 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.5 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.9 |
-| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 2.5 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 11.6 |
-| mining_com | OK | 36 | 1 | 1 | 0 | 35 | 0.2 |
-| oilprice | OK | 15 | 3 | 2 | 1 | 12 | 0.0 |
-| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.2 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| bbc_business | OK | 55 | 8 | 0 | 8 | 47 | 0.3 |
-| aljazeera | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.8 |
-| boc_press | WARN | 10 | 0 | 0 | 0 | 10 | 45.3 |
-| eia_energy | WARN | 19 | 0 | 0 | 0 | 19 | 3.1 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 19.2 |
-| wsj_world | OK | 73 | 8 | 3 | 5 | 65 | 0.0 |
-| wsj_markets | OK | 60 | 3 | 0 | 3 | 57 | 0.3 |
+| gnews_fed | OK | 52 | 50 | 5 | 45 | 2 | 0.0 |
+| gnews_geopolitics | OK | 59 | 56 | 10 | 46 | 3 | 0.1 |
+| gnews_centralbanks | OK | 23 | 22 | 4 | 18 | 1 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 12.1 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 10.7 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.0 |
+| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 2.6 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 11.7 |
+| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
+| oilprice | OK | 15 | 4 | 1 | 3 | 11 | 0.0 |
+| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.3 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
+| bbc_business | OK | 55 | 8 | 0 | 8 | 47 | 0.4 |
+| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.9 |
+| boc_press | WARN | 10 | 0 | 0 | 0 | 10 | 45.4 |
+| eia_energy | WARN | 19 | 0 | 0 | 0 | 19 | 3.2 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 19.3 |
+| wsj_world | OK | 71 | 11 | 3 | 8 | 60 | 0.0 |
+| wsj_markets | OK | 60 | 3 | 0 | 3 | 57 | 0.4 |
 | investing_news | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 2 | 1 | 1 | 28 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 2 | 0 | 2 | 28 | 0.2 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
