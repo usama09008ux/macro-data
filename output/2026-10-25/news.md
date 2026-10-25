@@ -1,15 +1,30 @@
 # News Pack — Trading Day 25 Oct 2026
 
 - Trading day: **25 Oct 03:00 -> 26 Oct 02:59 PKT**
-- Aakhri update: **26 Oct 00:52 PKT**
-- Kul khabrein: **300**
-- Feeds: 23/39 OK
+- Aakhri update: **26 Oct 03:14 PKT**
+- Kul khabrein: **349**
+- Feeds: 22/39 OK
 
 ---
 
 ## Khabrein
 
 ### MARKET WRAP
+
+**Preview: RBNZ set to lift OCR to 3% ahead of election as oil and weak kiwi fuel inflation**
+`26 Oct 02:22 PKT` · pehli baar dekhi `26 Oct 03:14` · investinglive
+
+With a hike close to fully priced, the New Zealand dollar's reaction is likely to hinge on guidance rather than the move itself, and the risk is asymmetric: a hold would catch markets badly offside and could trigger a sharp kiwi selloff. A hike paired with a clear tightening bias would be the most supportive outcome for the NZD and would push front-end yields higher, while "wait and see" language could see some of the priced peak trimmed.
+
+**RBA's Hunter says inflation job not done after four hikes, November rise in view**
+`26 Oct 01:28 PKT` · pehli baar dekhi `26 Oct 03:14` · investinglive
+
+The comments should keep the Australian dollar supported, at the margin, on rate differentials and hold short-dated Australian government bond yields elevated, with markets likely to lean further toward a November hike unless Wednesday's inflation data surprise lower. Oil is the swing variable: renewed escalation in the US-Iran war that lifts crude would deepen the RBA's concern about second-round effects and raise the risk of tightening beyond November.
+
+**Monday open indicative forex prices, 26 October 2026**
+`26 Oct 01:00 PKT` · pehli baar dekhi `26 Oct 03:14` · investinglive
+
+Early FX indications, very early here in Asia-Pac, USD a little softer: EUR/USD 1.1226 USD/JPY 156.89 GBP/USD 1.337 USD/CHF 0.8245 USD/CAD 1.4027 AUD/USD 0.7024 NZD/USD 0.5690 I'll be back with weekend news. This article was written by Eamonn Sheridan at investinglive.com.
 
 **Week Ahead: Fed, ECB, BOJ and BOC Meetings; Brazil, Israel Votes; China's Fifth Plenum; U.K. Budget; U.S., Australia, Tokyo and Eurozone Regional Inflation Reports; Eurozone and U.S. GDP; U.S. Earnings Flood - www.christophe-barraud.com**
 `25 Oct 15:02 PKT` · pehli baar dekhi `25 Oct 18:52` · gnews_centralbanks
@@ -18,10 +33,20 @@ Week Ahead: Fed, ECB, BOJ and BOC Meetings; Brazil, Israel Votes; China's Fifth 
 
 ### GOLD
 
+**Fed decision, oil prices to dictate bullion's course - The Hans India**
+`26 Oct 02:58 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_centralbanks
+
+Fed decision, oil prices to dictate bullion's course The Hans India
+
 **The US has the largest gold reserve. But repricing it to $1 trillion 'would backfire in a big way' - Fortune**
 `25 Oct 23:57 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_fed
 
 The US has the largest gold reserve. But repricing it to $1 trillion 'would backfire in a big way' Fortune
+
+**U.S. Gold Reserve Carries $11 Billion Book Value Under Federal Law - TOKENPOST**
+`25 Oct 23:40 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_fed
+
+U.S. Gold Reserve Carries $11 Billion Book Value Under Federal Law TOKENPOST
 
 **Gold Price Outlook as US Bond Yields Rise Ahead of FOMC Decision - Benzinga**
 `25 Oct 20:15 PKT` · pehli baar dekhi `25 Oct 22:23` · gnews_fed
@@ -34,9 +59,10 @@ Gold Price Outlook as US Bond Yields Rise Ahead of FOMC Decision Benzinga
 As Sudan's war destroys livelihoods, the death of 16-year-old Altayeb Alhadi highlights dangers of artisanal mining.
 
 **Gold, silver face fresh test as oil surge puts Fed policy decision in focus - Business Standard**
-`25 Oct 18:39 PKT` · pehli baar dekhi `25 Oct 22:23` · gnews_fed
+`25 Oct 18:39 PKT` · pehli baar dekhi `25 Oct 22:23` · gnews_fed · **2 feeds mein**
 
 Gold, silver face fresh test as oil surge puts Fed policy decision in focus Business Standard
+  - `25 Oct 18:39` *gnews_fed* — Gold, silver face fresh test as oil surge puts Fed policy decision in focus - Business Standard
 
 **Gold, silver face another test as oil surge puts Fed's policy decision in focus: Analysts - MillenniumPost**
 `25 Oct 17:35 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_fed
@@ -49,6 +75,16 @@ Gold, silver face another test as oil surge puts Fed's policy decision in focus:
 Gold, Silver Face Test: Oil Surge, Fed Policy Decision in Focus Rediff MoneyWiz
 
 ### USD
+
+**Week ahead: Central Bank decisions, inflation, and AI risks - Equiti Global**
+`26 Oct 02:10 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_centralbanks
+
+Week ahead: Central Bank decisions, inflation, and AI risks Equiti Global
+
+**Weekend - China warns of countermeasures as US Treasury widens tech investment curbs to biotech**
+`26 Oct 01:42 PKT` · pehli baar dekhi `26 Oct 03:14` · investinglive
+
+The proposal adds to already tense US-China relations and keeps headline risk elevated for Chinese technology and biotech stocks, including US-listed ADRs and the Hang Seng Tech index. Biotech is the sector most directly exposed, since it is the newly targeted industry and has relied more heavily on cross-border funding than areas already under restriction.
 
 **Week ahead: Fed and ECB Decisions, US GDP and PCE Data - AskTraders.com**
 `26 Oct 00:06 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_centralbanks
@@ -196,25 +232,37 @@ Nasdaq, S&P 500 Futures Rebound After Fed Rate Hike: NVDA, NBIS, SNAP, SPCX, BE,
 
 ### EUR
 
+**Le Pen Pitches Herself as France's Unifier After Another Weekend of Protests**
+`26 Oct 00:54 PKT` · pehli baar dekhi `26 Oct 03:14` · wsj_world
+
+The right-wing candidate echoed President Trump's MAGA movement as she launched her campaign for next year's presidential elections.
+
 **The narrative battle over France's unrest**
 `26 Oct 00:36 PKT` · pehli baar dekhi `26 Oct 00:52` · aljazeera
 
 Student protests, police violence and French media obsessed with &#039;barbarians&#039;.
+
+**EUR/USD weekly outlook: FOMC and ECB to set the tone - StoneX**
+`26 Oct 00:06 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_centralbanks · **3 feeds mein**
+
+EUR/USD weekly outlook: FOMC and ECB to set the tone StoneX
+  - `25 Oct 20:26` *gnews_centralbanks* — EUR/USD weekly outlook: FOMC and ECB to set the tone - FOREX.com
+  - `25 Oct 20:18` *gnews_centralbanks* — EUR/USD weekly outlook: FOMC and ECB to set the tone - FOREX.com
 
 **Pound-to-Euro Forecast: French Debt Fears Keep GBP Near 1.20 - CurrencyNews.co.uk**
 `25 Oct 23:31 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_centralbanks
 
 Pound-to-Euro Forecast: French Debt Fears Keep GBP Near 1.20 CurrencyNews.co.uk
 
+**EUR/USD consolidates at the lows as France's budget and US CPI remain in focus - investingLive**
+`25 Oct 21:31 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_centralbanks
+
+EUR/USD consolidates at the lows as France's budget and US CPI remain in focus investingLive
+
 **Fed, ECB Expected To Hold Rates Next Week, But December Hikes Still In Play - Benzinga**
 `25 Oct 20:30 PKT` · pehli baar dekhi `25 Oct 22:23` · gnews_centralbanks
 
 Fed, ECB Expected To Hold Rates Next Week, But December Hikes Still In Play Benzinga
-
-**EUR/USD weekly outlook: FOMC and ECB to set the tone - FOREX.com**
-`25 Oct 20:18 PKT` · pehli baar dekhi `25 Oct 22:23` · gnews_centralbanks
-
-EUR/USD weekly outlook: FOMC and ECB to set the tone FOREX.com
 
 **ECB official sees digital euro as key to protecting EU 'sovereignty'**
 `25 Oct 20:11 PKT` · pehli baar dekhi `25 Oct 22:23` · cointelegraph
@@ -269,6 +317,11 @@ Police clashed with demonstrators in France, Italy and Spain over rising living 
 
 ### GBP
 
+**Why Are Interest Rates So High? Nothing The Bank Of England Is Doing Makes Sense Right Now. Delta Flight Attendants (YFCcZONl5d) - Unisba Media**
+`25 Oct 19:00 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_centralbanks
+
+Why Are Interest Rates So High? Nothing The Bank Of England Is Doing Makes Sense Right Now. Delta Flight Attendants (YFCcZONl5d) Unisba Media
+
 **Bank of England rate path seen staying below 4.75% next summer - Traders Union**
 `25 Oct 17:25 PKT` · pehli baar dekhi `25 Oct 18:52` · gnews_centralbanks
 
@@ -290,6 +343,11 @@ El Nino's Ripple Effect: How a weather phenomenon could impact UK inflation and 
 The Sterling Paradox: How UK Budget Ambitions and Sticky Inflation Put the Bank of England Under Relentless Currency Pressure Istituto Impariamo
 
 ### JPY
+
+**Japan Week Ahead: BOJ Set to Leave Rate at 1.25% as Mission Shifts from Normalizing Super-Low Rates to Keeping Inflation from Overshooting 2% Target - TradingView**
+`25 Oct 23:27 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_centralbanks
+
+Japan Week Ahead: BOJ Set to Leave Rate at 1.25% as Mission Shifts from Normalizing Super-Low Rates to Keeping Inflation from Overshooting 2% Target TradingView
 
 **Japanese Regional Bank Stocks That Could Benefit From A Steeper Yield Curve - Yahoo Finance**
 `25 Oct 19:12 PKT` · pehli baar dekhi `25 Oct 22:23` · gnews_centralbanks
@@ -323,6 +381,9 @@ Japan inflation accelerates, paving way for rate hike Qatar Tribune
 
 ### CAD
 
+**Canada, UK to develop separate defense financing institutions**
+`26 Oct 02:50 PKT` · pehli baar dekhi `26 Oct 03:14` · investing_news
+
 **Britain will not join Canada's defence bank, source says**
 `26 Oct 00:24 PKT` · pehli baar dekhi `26 Oct 00:52` · investing_news
 
@@ -341,6 +402,11 @@ Canada Unleashes Wave of Oil Drilling Permits in Next Big Play EnergyNow
 
 ### AUD
 
+**Economic and event calendar in Asia Monday, October 26, 2026 - RBA speaker soon**
+`26 Oct 01:12 PKT` · pehli baar dekhi `26 Oct 03:14` · investinglive
+
+It's a light data ageanda ahead. Coming up soon from the Reserve Bank of Australia: Panel Participation by Brad Jones, Assistant Governor (Financial System), at the AFR Super and Wealth Summit, Melbourne 2110 GMT / 1710 US Eastern time I suspect Jones won't have much, if anything, to say on monetary policy. This article was written by Eamonn Sheridan at investinglive.com.
+
 **Australian Grand Prix called off as rain spoils Phillip Island sendoff**
 `25 Oct 14:26 PKT` · pehli baar dekhi `25 Oct 18:52` · aljazeera
 
@@ -352,6 +418,16 @@ Race delayed by two hours before being cancelled due to low visibility despite a
 GBP/AUD falling wedge points to bullish breakout risk ahead of RBA minutes StoneX
 
 ### OIL
+
+**Oil Surge Dampens ASX Ahead of Key Week - Sharecafe**
+`26 Oct 02:22 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_centralbanks
+
+Oil Surge Dampens ASX Ahead of Key Week Sharecafe
+
+**"We're Making a Freaking Fortune": Trump Cheers Oil Profits Amid Gas Price Surge - The New American**
+`26 Oct 00:32 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_geopolitics
+
+"We're Making a Freaking Fortune": Trump Cheers Oil Profits Amid Gas Price Surge The New American
 
 **Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck**
 `26 Oct 00:00 PKT` · pehli baar dekhi `26 Oct 00:52` · oilprice
@@ -372,6 +448,16 @@ President Trump announces steps to boost oil production — The Hill UA.NEWS
 `25 Oct 22:00 PKT` · pehli baar dekhi `25 Oct 22:23` · oilprice
 
 The United Nations says that it is now an inevitability that the world will fail to meet the legally binding goals set forth by the Paris climate accord as a result of "decades of insufficient climate action". The Paris Agreement, ratified in 2015, targeted limiting global warming to 1.5 degrees Celsius above pre-industrial averages, with a fallback target of 2?, with the understanding that this looser allowance would lead to far more devastating consequences for global ecosystems, human ...
+
+**US Energy Chief Says Saudi Arabia Oil Pipeline Should Be Back Online Within Days - EnergyNow**
+`25 Oct 21:49 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_geopolitics
+
+US Energy Chief Says Saudi Arabia Oil Pipeline Should Be Back Online Within Days EnergyNow
+
+**Rising Oil, Rates and Yields Brew Up Stagflation Cocktail for Markets - EnergyNow**
+`25 Oct 21:27 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_centralbanks
+
+Rising Oil, Rates and Yields Brew Up Stagflation Cocktail for Markets EnergyNow
 
 **Citi Sees Oil Prices Trending Lower to $60 to $65 Per Barrel by First Quarter of 2027 - EnergyNow.com**
 `25 Oct 21:23 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_geopolitics
@@ -489,6 +575,11 @@ US Fed rate decision, corporate earnings, crude oil to steer market sentiment Re
 
 UAE Crude Output Nears Record Following OPEC Exit, Sources Say EnergyNow.com
 
+**Earnings, US Fed interest rate decision, crude oil to drive markets this week: Analysts - MillenniumPost**
+`25 Oct 12:47 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_fed
+
+Earnings, US Fed interest rate decision, crude oil to drive markets this week: Analysts MillenniumPost
+
 **Stock market outlook: Fed meeting, crude & more - top cues guiding Dalal Street this week - The Times of India**
 `25 Oct 12:23 PKT` · pehli baar dekhi `25 Oct 14:27` · gnews_fed
 
@@ -541,6 +632,11 @@ Oil Prices Jump on Latest US-Iran Peace Process Impasse EnergyNow
 `25 Oct 09:26 PKT` · pehli baar dekhi `25 Oct 14:27` · gnews_geopolitics
 
 Iran Strikes Saudi Oil Hub Yanbu, Targets Aramco SAMREF Refinery Harrison Ford (8lkYtVD0e5) Unisba Media
+
+**The Americas' Oil Bonanza Will Outlast the Iran Conflict: Bousso - EnergyNow**
+`25 Oct 09:16 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_geopolitics
+
+The Americas' Oil Bonanza Will Outlast the Iran Conflict: Bousso EnergyNow
 
 **Today's fuel prices (October 25): World oil prices rose sharply this week. - Vietnam.vn**
 `25 Oct 09:10 PKT` · pehli baar dekhi `25 Oct 18:52` · gnews_geopolitics
@@ -598,6 +694,16 @@ The Iran war has made oil tanker voyages so inefficient that vessel availability
 Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia Crude Oil Prices Today | OilPrice.com
 
 ### CRYPTO
+
+**Strategy bitcoin purchases shrink as buybacks take priority ahead of earnings**
+`26 Oct 02:56 PKT` · pehli baar dekhi `26 Oct 03:14` · investinglive
+
+Saylor skips his Sunday bitcoin chart as Strategy heads into earningsStrategy chairman Michael Saylor did not share his usual Sunday bitcoin chart this week. Bitcoin watchers read that as a sign that Strategy (MSTR), the largest corporate holder of bitcoin, may have paused its buying. Saylor was active on X on Sunday: he described bitcoin as "the moat" in a reply to Jack Dorsey. But the chart that usually comes before a purchase announcement did not appear.
+
+**Bitcoin buyers are fighting back, but sellers aren't finished. Here are the two prices swing traders should watch**
+`26 Oct 02:21 PKT` · pehli baar dekhi `26 Oct 03:14` · investinglive
+
+Bitcoin is approaching an important decision point for swing traders. Sellers have demonstrated their strength, but buyers are showing signs of defending the $80,000 area. The latest investingLive tradeCompass maps two conditional scenarios: bullish above $80,860 and bearish below $79,870. The challenge is distinguishing a temporary rebound from a more durable recovery, or a brief dip from another significant breakdown.
 
 **Bitcoin Price Holds Near USD 80K as Traders Await Upcoming Fed Rate Decision - Analytics Insight**
 `25 Oct 21:30 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_fed
@@ -665,6 +771,31 @@ Bitcoin Price Prediction: Can BTC Rebound to $85,000? Coinpaper
 
 ### RISK
 
+**How the Seizure of a Russian Vessel Brought the Ukraine War to the Arctic**
+`26 Oct 02:00 PKT` · pehli baar dekhi `26 Oct 03:14` · wsj_world
+
+A 12-year legal campaign resulted in Norway's seizing a research ship in Svalbard, deep in the Arctic Circle.
+
+**Opinion | Viktor Orbán, U.N. Secretary-General?**
+`26 Oct 01:58 PKT` · pehli baar dekhi `26 Oct 03:14` · wsj_world
+
+Trump officials push the idea of a U.S.-Russia-China joint candidate.
+
+**FTSE 100 Falls to 10,733.00 After Recovering From an Early Bank-Led Sell-Off Amid US-Iran Tensions - BBN Times**
+`26 Oct 01:56 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_centralbanks
+
+FTSE 100 Falls to 10,733.00 After Recovering From an Early Bank-Led Sell-Off Amid US-Iran Tensions BBN Times
+
+**Goldman Sachs cuts Kospi target 25% to 9,000, still sees over 60% upside**
+`26 Oct 01:30 PKT` · pehli baar dekhi `26 Oct 03:14` · investinglive
+
+The cut removes one of the most bullish institutional Kospi targets from the table, but the bank's insistence on deep value gives contrarian investors a framework for buying into weakness rather than chasing the selloff lower. Samsung Electronics and SK Hynix remain the swing factor, since any stabilisation in sentiment toward AI capital spending would likely feed directly into the index given their weight.
+
+**Oil prices could rise to $150 a barrel if war on Iran resumes - Mehr News Agency**
+`26 Oct 01:00 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_geopolitics
+
+Oil prices could rise to $150 a barrel if war on Iran resumes Mehr News Agency
+
 **Opinion | Coddling Putin Won't Bring Peace to Ukraine**
 `25 Oct 22:33 PKT` · pehli baar dekhi `26 Oct 00:52` · wsj_world
 
@@ -675,10 +806,25 @@ Trump's obeisance to the Kremlin also imperils his legislative agenda in the lam
 
 Just as American cattle went to market, Trump&#039;s action added unease to an industry already facing uncertainty.
 
+**A (TEMPORARY) GOLDEN ERA - Iran War Ushers in Oil Refining Golden Era. It Won't Last: Ron Bousso - EnergyNow**
+`25 Oct 21:34 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_geopolitics
+
+A (TEMPORARY) GOLDEN ERA - Iran War Ushers in Oil Refining Golden Era. It Won't Last: Ron Bousso EnergyNow
+
 **Iran War is One 'TACO' Too Far: McGeever - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com**
 `25 Oct 21:33 PKT` · pehli baar dekhi `26 Oct 00:52` · gnews_geopolitics
 
 Iran War is One 'TACO' Too Far: McGeever - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com
+
+**Iran War Brings US Close to Net Crude Exporter for First Time Since World War Two - EnergyNow.com**
+`25 Oct 21:26 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_geopolitics
+
+Iran War Brings US Close to Net Crude Exporter for First Time Since World War Two EnergyNow.com
+
+**Houthi Blitz Leaves Saudi Arabia Exposed, Iran Emboldened - EnergyNow.com**
+`25 Oct 21:19 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_geopolitics
+
+Houthi Blitz Leaves Saudi Arabia Exposed, Iran Emboldened EnergyNow.com
 
 **Opinion | Congress's Russia Problems**
 `25 Oct 20:55 PKT` · pehli baar dekhi `25 Oct 22:23` · wsj_world
@@ -762,6 +908,11 @@ The former US president warns of rising costs, corruption and threats to democra
 
 President Donald Trump Just Proclaimed, "Tariffs Don't Cause Inflation, They Cause Wealth," but Data From Federal Reserve Economists Show Otherwise The Motley Fool
   - `25 Oct 13:26` *gnews_fed* — President Donald Trump Just Proclaimed, "Tariffs Don't Cause Inflation, They Cause Wealth," but Data From Federal Reserve Economists Show Otherwise - Yahoo Finance
+
+**FORECAST: Goldman Sees 2026 Brent at $80-$90 Until US-Iran Deal or Major Escalation - EnergyNow.com**
+`25 Oct 13:26 PKT` · pehli baar dekhi `26 Oct 03:14` · gnews_geopolitics
+
+FORECAST: Goldman Sees 2026 Brent at $80-$90 Until US-Iran Deal or Major Escalation EnergyNow.com
 
 **Iran Considers Measures to Ease Export Barriers to Afghanistan, Pakistan and Iraq - thekabultribune.com**
 `25 Oct 13:13 PKT` · pehli baar dekhi `25 Oct 18:52` · gnews_geopolitics
@@ -866,11 +1017,25 @@ Some are leaving the Ukrainian capital as Russia intensifies its campaign target
 
 From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have responded to voter shifts on a slew of issues.
 
-### BINA TAG (116)
+### BINA TAG (132)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `26 Oct 02:53` **investing_commodities** — Goldman lists 3 factors that support long commodities positions
+- `26 Oct 02:50` **aljazeera** — Marine Le Pen vows French 'renaissance' as far right eyes seat of power
+- `26 Oct 02:41` **aljazeera** — US Attorney General Todd Blanche defends Alaska Senate election lawsuit
+- `26 Oct 02:39` **aljazeera** — Marine Le Pen launches French presidential campaign
+- `26 Oct 02:29` **aljazeera** — Trump VS California
+- `26 Oct 02:18` **investing_news** — Proxy advisory firm Glass Lewis backs Bergeron in Ethan Allen fight
+- `26 Oct 02:01` **wsj_world** — Opinion | California's Wealth Tax and the French Economist
+- `26 Oct 02:00` **investing_news** — Musk says SpaceX raised $40 billion in debt for GPUs
+- `26 Oct 02:00` **aljazeera** — Kenya bus crash kills at least 24 as government vows road safety crackdown
+- `26 Oct 01:57` **wsj_world** — Opinion | María Corina Machado Needs Trump's Protection
+- `26 Oct 01:42` **investing_news** — Zelenskiy says US warnings on ballistic strikes have fully resumed
+- `26 Oct 01:01` **aljazeera** — Can Carrick survive Man United's slump and Fernandes fallout?
+- `26 Oct 01:00` **aljazeera** — Brazil election results 2026 live: Lula-Bolsonaro voting extended by 2 hours
 - `26 Oct 00:36` **aljazeera** — Iraqis mark seven years since Tishreen protests with reform demands
+- `26 Oct 00:24` **gnews_centralbanks** — Home Loan Rates: Where are Loans Cheapest in India, US, UK and China? - Realty Plus Magazine
 - `26 Oct 00:19` **aljazeera** — Serbia voter turnout highest in decades as students oppose longtime leader
 - `26 Oct 00:00` **wsj_world** — The U.S. Shipbuilding Revival Is Taking Lessons Halfway Around the World
 - `25 Oct 23:55` **aljazeera** — Venezuela's opposition leader Maria Corina Machado returns from exile
@@ -888,6 +1053,8 @@ From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have
 - `25 Oct 22:12` **aljazeera** — Jerusalem Daily: Israel expels thousands from Hebron
 - `25 Oct 22:00` **mw_topstories** — My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?
 - `25 Oct 22:00` **mw_topstories** — We stopped helping our neighbors with free home repairs and our friendship cooled. Who's to blame?
+- `25 Oct 22:00` **mw_topstories** — We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I'm crazy. Who's right?
+- `25 Oct 21:39` **gnews_geopolitics** — Trump Tells Allies to Fight for Jet Fuel or Buy From the U.S. - EnergyNow.com
 - `25 Oct 21:36` **wsj_world** — Venezuela's Machado Returns Home, Challenging U.S.-Backed Government
 - `25 Oct 21:35` **gnews_fed** — Can the Federal Reserve Keep Rates High Without Breaking Something? - CryptoRank
 - `25 Oct 21:30` **aljazeera** — Israel's 'Generation Right' could shape Netanyahu's future
@@ -1003,45 +1170,45 @@ investing_news (7)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 0 | 0 | 0 | 25 | 0.9 |
+| investinglive | OK | 25 | 8 | 8 | 0 | 17 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.4 |
-| marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 2.4 |
-| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 2.0 |
-| wsj_economy | WARN | 36 | 0 | 0 | 0 | 36 | 1.8 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 45.0 |
+| actionforex | WARN | 20 | 0 | 0 | 0 | 20 | 1.5 |
+| marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 2.5 |
+| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 2.1 |
+| wsj_economy | WARN | 36 | 0 | 0 | 0 | 36 | 1.9 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 45.1 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 52 | 50 | 5 | 45 | 2 | 0.0 |
-| gnews_geopolitics | OK | 59 | 56 | 10 | 46 | 3 | 0.1 |
-| gnews_centralbanks | OK | 23 | 22 | 4 | 18 | 1 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 12.1 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 10.7 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.0 |
-| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 2.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 11.7 |
-| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
-| oilprice | OK | 15 | 4 | 1 | 3 | 11 | 0.0 |
-| investing_commodities | OK | 10 | 4 | 0 | 4 | 6 | 0.3 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
-| bbc_business | OK | 55 | 8 | 0 | 8 | 47 | 0.4 |
-| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.9 |
-| boc_press | WARN | 10 | 0 | 0 | 0 | 10 | 45.4 |
-| eia_energy | WARN | 19 | 0 | 0 | 0 | 19 | 3.2 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 19.3 |
-| wsj_world | OK | 71 | 11 | 3 | 8 | 60 | 0.0 |
-| wsj_markets | OK | 60 | 3 | 0 | 3 | 57 | 0.4 |
-| investing_news | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| gnews_fed | OK | 48 | 48 | 3 | 45 | 0 | 0.0 |
+| gnews_geopolitics | OK | 62 | 62 | 9 | 53 | 0 | 0.1 |
+| gnews_centralbanks | OK | 42 | 42 | 11 | 31 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 12.2 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 10.8 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.1 |
+| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 2.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 11.8 |
+| mining_com | OK | 36 | 1 | 0 | 1 | 35 | 0.4 |
+| oilprice | OK | 15 | 4 | 0 | 4 | 11 | 0.1 |
+| investing_commodities | OK | 10 | 5 | 1 | 4 | 5 | 0.0 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| bbc_business | OK | 55 | 8 | 0 | 8 | 47 | 0.5 |
+| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 3.0 |
+| boc_press | WARN | 10 | 0 | 0 | 0 | 10 | 45.5 |
+| eia_energy | WARN | 19 | 0 | 0 | 0 | 19 | 3.3 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 19.4 |
+| wsj_world | OK | 71 | 16 | 5 | 11 | 55 | 0.1 |
+| wsj_markets | OK | 60 | 4 | 0 | 4 | 56 | 0.5 |
+| investing_news | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 2 | 0 | 2 | 28 | 0.2 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 2 | 0 | 2 | 28 | 0.3 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
