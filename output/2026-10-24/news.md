@@ -1,8 +1,8 @@
 # News Pack — Trading Day 24 Oct 2026
 
 - Trading day: **24 Oct 03:00 -> 25 Oct 02:59 PKT**
-- Aakhri update: **25 Oct 02:56 PKT**
-- Kul khabrein: **325**
+- Aakhri update: **25 Oct 05:10 PKT**
+- Kul khabrein: **354**
 - Feeds: 34/39 OK
 
 ---
@@ -99,10 +99,11 @@ Demonstrators want pensions to remain indexed to inflation and the gender pensio
 Trump Criticizes Warsh as Fed Rate Hikes Threaten Stocks Demokratis.co.id
 
 **Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week - The Transylvania Times**
-`24 Oct 18:47 PKT` · pehli baar dekhi `24 Oct 22:24` · gnews_fed · **7 feeds mein**
+`24 Oct 18:47 PKT` · pehli baar dekhi `24 Oct 22:24` · gnews_fed · **8 feeds mein**
 
 Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week The Transylvania Times
   - `24 Oct 18:47` *gnews_fed* — Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week - Cherokee Tribune
+  - `24 Oct 18:47` *gnews_fed* — Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week - AP News
   - `24 Oct 16:44` *gnews_fed* — Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week - Henry Herald
   - `24 Oct 13:01` *gnews_fed* — Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week - WTOP News
   - `24 Oct 13:00` *gnews_fed* — Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week - Marietta Daily Journal
@@ -135,6 +136,11 @@ U.K. Flash PMI Signals Strong Start To Fourth Quarter Amid Elevated Price Pressu
 
 THINK Ahead: This is how bad European inflation could get this winter ing think
 
+**Fed chair Jerome Powell says he will stay on central bank's board after term expires next month - ABC News - Breaking News, Latest News and Videos**
+`24 Oct 09:36 PKT` · pehli baar dekhi `25 Oct 05:10` · gnews_fed
+
+Fed chair Jerome Powell says he will stay on central bank's board after term expires next month ABC News - Breaking News, Latest News and Videos
+
 **Will the Fed raise interest rates this year? Divided economists weigh in - ABC News - Breaking News, Latest News and Videos**
 `24 Oct 09:34 PKT` · pehli baar dekhi `25 Oct 00:40` · gnews_fed
 
@@ -149,6 +155,11 @@ Ringgit likely to remain in narrow range ahead of US Fed meeting The Sun Malaysi
 `24 Oct 08:37 PKT` · pehli baar dekhi `24 Oct 15:26` · gnews_fed
 
 Wall Street Week Ahead: Earnings flood, Fed meeting will test rickety AI market rally The Economic Times
+
+**Fed holds interest rates steady as inflation hits 3-year high - ABC News - Breaking News, Latest News and Videos**
+`24 Oct 07:59 PKT` · pehli baar dekhi `25 Oct 05:10` · gnews_fed
+
+Fed holds interest rates steady as inflation hits 3-year high ABC News - Breaking News, Latest News and Videos
 
 **Economics Week Ahead**
 `24 Oct 07:13 PKT` · pehli baar dekhi `24 Oct 10:54` · actionforex
@@ -169,6 +180,11 @@ UK retail sales slip in September as warm weather cools autumn buys Briefs Finan
 
 **Violence flares in Paris after largely peaceful protests across France**
 `25 Oct 02:30 PKT` · pehli baar dekhi `25 Oct 02:56` · investing_news
+
+**EUR/USD Bounce Hits a Wall of Fed Hawks and French Finances - StoneX**
+`25 Oct 02:04 PKT` · pehli baar dekhi `25 Oct 05:10` · gnews_centralbanks
+
+EUR/USD Bounce Hits a Wall of Fed Hawks and French Finances StoneX
 
 **Euro Zone Growth Slows to a Four-Month Low as France Contracts - The Eastern Herald**
 `25 Oct 00:51 PKT` · pehli baar dekhi `25 Oct 02:56` · gnews_centralbanks
@@ -253,6 +269,11 @@ Five key factors shaping the ECB's rate decision IDNFinancials
 
 Digital Euro Aims to Bring Cash into Digital Age, Says ECB Coinfomania
 
+**ECB advances digital euro plans as 2027 pilot targets 2029 rollout - Traders Union**
+`24 Oct 11:19 PKT` · pehli baar dekhi `25 Oct 05:10` · gnews_centralbanks
+
+ECB advances digital euro plans as 2027 pilot targets 2029 rollout Traders Union
+
 **ECB Rate Decision: What to Expect on Thursday - Morningstar**
 `24 Oct 11:18 PKT` · pehli baar dekhi `24 Oct 15:26` · gnews_centralbanks · **2 feeds mein**
 
@@ -278,6 +299,11 @@ ECB: Consumer Inflation Expectations Edge Higher for Year Ahead, Longer Horizons
 `24 Oct 05:37 PKT` · pehli baar dekhi `24 Oct 22:24` · gnews_centralbanks
 
 Inflationary pressures weigh heavily on Eurozone economic growth. Vietnam.vn
+
+**Euro sinks on French debt worries - Business Recorder**
+`24 Oct 05:32 PKT` · pehli baar dekhi `25 Oct 05:10` · gnews_centralbanks
+
+Euro sinks on French debt worries Business Recorder
 
 **The Yellow Vests Are Back on the Streets of France in Test for Government**
 `24 Oct 05:00 PKT` · pehli baar dekhi `24 Oct 06:08` · wsj_world
@@ -326,6 +352,11 @@ USD/JPY fell sharply last week but recovered after breaching 156.36 support brie
 `24 Oct 09:18 PKT` · pehli baar dekhi `24 Oct 19:05` · gnews_centralbanks
 
 Japan Core Inflation Returns Above BOJ's 2% Target, Raising Rate-Hike Expectations Hokanews
+
+**USD/JPY Weekly Outlook: AI earnings could overshadow the Fed and BoJ - FOREX.com**
+`24 Oct 08:37 PKT` · pehli baar dekhi `25 Oct 05:10` · gnews_centralbanks
+
+USD/JPY Weekly Outlook: AI earnings could overshadow the Fed and BoJ FOREX.com
 
 **Jesper Koll Says Japan's Debt Is Not the Crisis: Why Japanese Assets Are Coming Home - BigGo Finance**
 `24 Oct 08:08 PKT` · pehli baar dekhi `25 Oct 00:40` · gnews_centralbanks
@@ -405,6 +436,11 @@ From 30 October, tariffs will be eased on some products, including certain machi
 
 ### AUD
 
+**GBP/AUD falling wedge points to bullish breakout risk ahead of RBA minutes - FOREX.com**
+`24 Oct 22:57 PKT` · pehli baar dekhi `25 Oct 05:10` · gnews_centralbanks
+
+GBP/AUD falling wedge points to bullish breakout risk ahead of RBA minutes FOREX.com
+
 **AUD/USD Weekly Report**
 `24 Oct 11:46 PKT` · pehli baar dekhi `24 Oct 15:26` · actionforex
 
@@ -471,6 +507,21 @@ The World's Oil Reserves Just Got Handed a Stress Test: One Analyst Warns the Re
 **As winter nears, heating oil emerges as hurdle for Republicans in US Senate races**
 `24 Oct 15:19 PKT` · pehli baar dekhi `24 Oct 15:26` · investing_news
 
+**Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say - EnergyNow.com**
+`24 Oct 14:43 PKT` · pehli baar dekhi `25 Oct 05:10` · gnews_geopolitics
+
+Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say EnergyNow.com
+
+**Morgan Stanley Lowers Oil Price Forecasts After US-Iran Peace Deal - EnergyNow.com**
+`24 Oct 14:35 PKT` · pehli baar dekhi `25 Oct 05:10` · gnews_geopolitics
+
+Morgan Stanley Lowers Oil Price Forecasts After US-Iran Peace Deal EnergyNow.com
+
+**Oil Prices Jump 6% as Iran Sets UAE Oil Port Ablaze, Strikes Vessels in Strait of Hormuz - EnergyNow.com**
+`24 Oct 14:34 PKT` · pehli baar dekhi `25 Oct 05:10` · gnews_geopolitics
+
+Oil Prices Jump 6% as Iran Sets UAE Oil Port Ablaze, Strikes Vessels in Strait of Hormuz EnergyNow.com
+
 **US-Israel-Iran War Latest Live Updates: Brent Crude Jumps 6.2% in a Week to Hit $116.72 as Trump Hints at Possible Action Against Iran, Tehran Prepares for Asymmetric Warfare - The Sunday Guardian**
 `24 Oct 12:43 PKT` · pehli baar dekhi `24 Oct 15:26` · gnews_geopolitics
 
@@ -500,6 +551,16 @@ Oil Prices Rise as Hormuz Stays Shut Ahead of Trump Deadline, Strikes on Iran In
 `24 Oct 11:46 PKT` · pehli baar dekhi `24 Oct 15:26` · gnews_geopolitics
 
 US approves release of 400,000 oil barrels from reserve Profit by Pakistan Today
+
+**U.S. Oil Reserve Hits 43-Year Low as Trump Aims to Tame Prices - EnergyNow.com**
+`24 Oct 11:32 PKT` · pehli baar dekhi `25 Oct 05:10` · gnews_geopolitics
+
+U.S. Oil Reserve Hits 43-Year Low as Trump Aims to Tame Prices EnergyNow.com
+
+**Phillips 66 Faces $900 Million Loss as Iran Crisis Lifts Oil Prices - EnergyNow.com**
+`24 Oct 11:31 PKT` · pehli baar dekhi `25 Oct 05:10` · gnews_geopolitics
+
+Phillips 66 Faces $900 Million Loss as Iran Crisis Lifts Oil Prices EnergyNow.com
 
 **What might a US Navy escort for tankers in the Strait of Hormuz look like? - ABC News - Breaking News, Latest News and Videos**
 `24 Oct 09:53 PKT` · pehli baar dekhi `25 Oct 02:56` · gnews_geopolitics
@@ -633,6 +694,11 @@ The United States is dipping into its Strategic Petroleum Reserve again, this ti
 
 ### CRYPTO
 
+**Trading on Margin: What It Means and How to Get Started**
+`25 Oct 02:12 PKT` · pehli baar dekhi `25 Oct 05:10` · investinglive
+
+Why trade Bitcoin if stocks can double? The leverage question traders miss A trader recently asked: "Why trade Bitcoin? What's it gonna do, 2x, 3x? These days stocks can do that. So what's the point?" It's a reasonable question, but it misses something fundamental about trading: leverage. Traders don't necessarily need Bitcoin, gold or a stock to double in price to achieve a substantial percentage return on their trading capital.
+
 **ChatGPT Predicts Bitcoin and XRP Price If Oil Crashes Below $100 - CaptainAltcoin**
 `24 Oct 20:31 PKT` · pehli baar dekhi `24 Oct 22:24` · gnews_fed
 
@@ -671,13 +737,19 @@ Bitcoin Trapped in Range With Focus on US Midterm Elections, Fed and Big Tech Ea
 
 ### RISK
 
+**Iran blames US for deal failure, urges new try amid fear of new attacks**
+`25 Oct 02:30 PKT` · pehli baar dekhi `25 Oct 05:10` · aljazeera
+
+Tehran warns that even limited strikes would trigger a response &#039;several times greater&#039;.
+
 **Ukraine says Starshield back to normal, Musk says Kyiv violated terms**
 `25 Oct 02:00 PKT` · pehli baar dekhi `25 Oct 02:56` · investing_news
 
 **German mortgage rates climb to highest since 2009 as Iran war stokes inflation fears - Yahoo Finance UK**
-`24 Oct 22:25 PKT` · pehli baar dekhi `25 Oct 00:40` · gnews_centralbanks
+`24 Oct 22:25 PKT` · pehli baar dekhi `25 Oct 00:40` · gnews_centralbanks · **2 feeds mein**
 
 German mortgage rates climb to highest since 2009 as Iran war stokes inflation fears Yahoo Finance UK
+  - `24 Oct 22:25` *gnews_centralbanks* — German mortgage rates climb to highest since 2009 as Iran war stokes inflation fears - Yahoo Finance Singapore
 
 **Iran has ramped up efforts to target US personnel, intelligence memo warns**
 `24 Oct 21:06 PKT` · pehli baar dekhi `24 Oct 22:24` · investing_commodities
@@ -720,6 +792,11 @@ Iran-Russia Trade Strategy: Gilan's Caspian Gateway and Moscow's Growing Pivot t
 
 Farsnews | Top Banker: Iran Reserves to Sustain Imports Beyond Trump's Term خبرگزاری فارس
 
+**Oil-Gear Maker NOV Cuts Earnings Guidance as Iran War Hikes Costs and Snarls Deliveries - EnergyNow.com**
+`24 Oct 14:38 PKT` · pehli baar dekhi `25 Oct 05:10` · gnews_geopolitics
+
+Oil-Gear Maker NOV Cuts Earnings Guidance as Iran War Hikes Costs and Snarls Deliveries EnergyNow.com
+
 **Aboard USS George Washington as It Rearms for Possible Iran Strikes**
 `24 Oct 14:32 PKT` · pehli baar dekhi `24 Oct 15:26` · wsj_world
 
@@ -728,6 +805,11 @@ Watch as sailors in the USS George Washington strike group prepare for a possibl
 **Ukraine says military Starlink service restored after 10-day disruption**
 `24 Oct 14:24 PKT` · pehli baar dekhi `24 Oct 15:26` · investing_news
 
+**Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says - EnergyNow.com**
+`24 Oct 13:52 PKT` · pehli baar dekhi `25 Oct 05:10` · gnews_geopolitics
+
+Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says EnergyNow.com
+
 **Ukrainian strike on enterprise in Russia's Oryol kills three, governor says**
 `24 Oct 13:48 PKT` · pehli baar dekhi `24 Oct 15:26` · investing_commodities
 
@@ -735,6 +817,11 @@ Watch as sailors in the USS George Washington strike group prepare for a possibl
 `24 Oct 13:37 PKT` · pehli baar dekhi `24 Oct 15:26` · wsj_world
 
 Speed restrictions imposed by Elon Musk's SpaceX have hampered Ukraine's drone forces since Oct. 14.
+
+**How the Iran War Is Disrupting Global Oil and Gas Supply - EnergyNow**
+`24 Oct 12:32 PKT` · pehli baar dekhi `25 Oct 05:10` · gnews_geopolitics
+
+How the Iran War Is Disrupting Global Oil and Gas Supply EnergyNow
 
 **Edison Says Qatar Still Evaluating Impact of Iran Attack on LNG Supply - EnergyNow.com**
 `24 Oct 12:08 PKT` · pehli baar dekhi `24 Oct 22:24` · gnews_geopolitics
@@ -804,12 +891,16 @@ Pakistan and Iraq have shut some border crossings, tightening the economic squee
 
 The United States and Canada are locked in an energy trade war – sort of. Although United States President Donald Trump and Canadian Prime Minister Mark Carney have lobbed plenty of blisteringly high tariffs, not to mention threats and insults, at each other over the course of their respective tenures, they have not touched one very important commodity – oil and gas.
 
-### BINA TAG (134)
+### BINA TAG (143)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `25 Oct 02:48` **investing_news** — Inside the Trump-administration campaign to return Brazil's Bolsonaro clan to power
+- `25 Oct 02:39` **aljazeera** — Brazil's Lula, Bolsonaro draw thousands to election-eve rallies
+- `25 Oct 02:36` **aljazeera** — Brazil's candidates hold final rallies before knife-edge run off
 - `25 Oct 02:36` **investing_news** — Trump set to announce plan by Audi to build US factory in Georgia, source says
 - `25 Oct 02:26` **investing_news** — Policy choices will matter crucially amid growing socioeconomic challenges
+- `25 Oct 02:26` **investing_news** — Volkswagen to build Georgia Audi plant, expand in SC - Bloomberg
 - `25 Oct 02:08` **aljazeera** — Houthis launch attacks on Saudi Arabia and Yemen's Aden
 - `25 Oct 02:02` **aljazeera** — Train slams into crane that collapsed onto railway line in Brazil
 - `25 Oct 01:52` **aljazeera** — Severe hunger stalks people in Gaza as bakeries close down
@@ -817,6 +908,7 @@ The United States and Canada are locked in an energy trade war – sort of. Alth
 - `25 Oct 01:37` **aljazeera** — Could Israel's military crackdown influence Tuesday's election?
 - `25 Oct 01:15` **investing_news** — Woori Financial ADR earnings beat by $0.29, revenue topped estimates
 - `25 Oct 01:03` **aljazeera** — Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0
+- `25 Oct 00:50` **kitco_general** — COMMODITIES description={PAGE_DESCRIPTION} News - Kitco
 - `25 Oct 00:49` **investing_news** — Amgen at ESMO: IMDELLTRA data points to earlier lung cancer use
 - `25 Oct 00:11` **aljazeera** — Thousands of Israelis rally against Netanyahu gov't days before election
 - `25 Oct 00:01` **aljazeera** — Thousands join Paris protests as authorities clamp down on disorder
@@ -828,8 +920,10 @@ The United States and Canada are locked in an energy trade war – sort of. Alth
 - `24 Oct 22:19` **wsj_markets** — How Expensive is Gasoline Where You Live?
 - `24 Oct 22:07` **wsj_world** — FBI Explores Espionage Case Against Saudi OpenAI Suspect
 - `24 Oct 22:01` **aljazeera** — Trump says he may move White House press corps to new location
+- `24 Oct 21:59` **mw_topstories** — Elon Musk promised a SpaceX share to every kid in America — don't hold your breath
 - `24 Oct 21:36` **aljazeera** — Serbian elections: A country where students may actually take power
 - `24 Oct 21:18` **aljazeera** — Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams
+- `24 Oct 21:10` **gnews_centralbanks** — French Bonds Breach 5%, Briefly Overtaking U.S. Treasurys: Why It Matters For American Investors - Benzinga
 - `24 Oct 20:50` **aljazeera** — More than 2,000 forced from homes in Hebron amid Israel's West Bank raids
 - `24 Oct 20:36` **aljazeera** — Brazil's Lula and Bolsonaro about even ahead of election run-off: Poll
 - `24 Oct 20:24` **investing_news** — Pfizer reports phase 2 data for 25-valent pneumococcal vaccine
@@ -892,6 +986,7 @@ The United States and Canada are locked in an energy trade war – sort of. Alth
 - `24 Oct 11:44` **aljazeera** — Lionel Messi receives top Spanish award in recognition of social work
 - `24 Oct 11:21` **aljazeera** — Has Vivek Ramaswamy's attack ad against Amy Acton backfired?
 - `24 Oct 11:00` **gnews_centralbanks** — The 3 nightmares haunting Andy Burnham and John Healey before crunch Budget - AOL.co.uk
+- `24 Oct 11:00` **gnews_centralbanks** — The 3 nightmares haunting Andy Burnham and John Healey before crunch Budget - Daily Express
 - `24 Oct 10:29` **aljazeera** — How Benjamin Netanyahu reshaped Israel's institutions
 - `24 Oct 10:20` **aljazeera** — Hospital in Yemen's Taiz warns of collapse in days because of Houthi siege
 - `24 Oct 10:04` **aljazeera** — Lebanese sceptical Israeli polls will bring change, end occupation of south
@@ -900,6 +995,7 @@ The United States and Canada are locked in an energy trade war – sort of. Alth
 - `24 Oct 08:52` **investing_news** — Saudi Arabia intercepts Houthi missile as Trump threatens new strikes
 - `24 Oct 08:50` **aljazeera** — Marco Rubio urges Cubans to collaborate with CIA to topple gov't
 - `24 Oct 08:47` **aljazeera** — Israel raids towns, detains dozens of Palestinians in occupied West Bank
+- `24 Oct 08:42` **gnews_centralbanks** — 5 world market themes for the week ahead - The Economic Times
 - `24 Oct 08:38` **aljazeera** — Pentagon designates Confucius Institutes a national security threat
 - `24 Oct 07:58` **gnews_fed** — Kenanga Keeps Ringgit Forecast For 4.00 By Year End - BusinessToday Malaysia
 - `24 Oct 07:53` **aljazeera** — Century-old mosque near Indian PM's residence under gov't threat
@@ -945,11 +1041,11 @@ The United States and Canada are locked in an energy trade war – sort of. Alth
 
 ---
 
-## Shor — 16 khabrein hatai gayin
+## Shor — 17 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (16)
+investing_news (17)
 
 ---
 
@@ -959,45 +1055,45 @@ investing_news (16)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 1 | 0 | 24 | 0.1 |
+| investinglive | OK | 25 | 2 | 1 | 1 | 23 | 0.1 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 18 | 0 | 18 | 2 | 0.5 |
-| marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 1.5 |
-| instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.1 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.9 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 44.1 |
-| kitco_general | OK | 6 | 6 | 0 | 6 | 0 | 0.2 |
-| gnews_fed | OK | 33 | 33 | 6 | 27 | 0 | 0.0 |
-| gnews_geopolitics | OK | 83 | 83 | 6 | 77 | 0 | 0.1 |
-| gnews_centralbanks | OK | 41 | 41 | 3 | 38 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 11.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 9.8 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.1 |
-| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 1.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 10.8 |
-| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 1.0 |
-| oilprice | OK | 15 | 7 | 1 | 6 | 8 | 0.0 |
-| investing_commodities | OK | 10 | 5 | 1 | 4 | 5 | 0.1 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
-| bbc_business | OK | 55 | 7 | 0 | 7 | 48 | 0.4 |
-| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.0 |
+| actionforex | OK | 20 | 18 | 0 | 18 | 2 | 0.6 |
+| marketpulse | OK | 4 | 0 | 0 | 0 | 4 | 1.6 |
+| instaforex | OK | 25 | 0 | 0 | 0 | 25 | 1.2 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 1.0 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 44.2 |
+| kitco_general | OK | 2 | 2 | 1 | 1 | 0 | 0.2 |
+| gnews_fed | OK | 20 | 20 | 3 | 17 | 0 | 0.0 |
+| gnews_geopolitics | OK | 57 | 57 | 8 | 49 | 0 | 0.2 |
+| gnews_centralbanks | OK | 43 | 43 | 9 | 34 | 0 | 0.1 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 11.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 9.9 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.8 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.2 |
+| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 1.8 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 10.9 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 1.1 |
+| oilprice | OK | 15 | 8 | 1 | 7 | 7 | 0.0 |
+| investing_commodities | OK | 10 | 6 | 1 | 5 | 4 | 0.0 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
+| bbc_business | OK | 55 | 8 | 1 | 7 | 47 | 0.0 |
+| aljazeera | OK | 25 | 25 | 6 | 19 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.1 |
 | boc_press | OK | 10 | 0 | 0 | 0 | 10 | 44.5 |
-| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 2.3 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 18.4 |
-| wsj_world | OK | 74 | 9 | 0 | 9 | 65 | 0.1 |
-| wsj_markets | OK | 60 | 3 | 0 | 3 | 57 | 0.2 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| eia_energy | OK | 19 | 0 | 0 | 0 | 19 | 2.4 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 18.5 |
+| wsj_world | OK | 72 | 11 | 2 | 9 | 61 | 0.0 |
+| wsj_markets | OK | 60 | 4 | 1 | 3 | 56 | 0.0 |
+| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 1.0 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 0 | 0 | 0 | 30 | 1.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
