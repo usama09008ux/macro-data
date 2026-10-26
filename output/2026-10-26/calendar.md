@@ -1,6 +1,6 @@
 # Calendar — Trading Day 26 Oct 2026
 
-- Banaya gaya: **26 Oct 2026 05:40 PKT**
+- Banaya gaya: **26 Oct 2026 16:21 PKT**
 - Trading day: **26 Oct 03:00 -> 27 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,10 +12,12 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 14:00 | EUR | low | German ifo Business Climate | 90.0 | 89.9 |
-| 16:00 | GBP | low | CBI Realized Sales | -47 | -55 |
 | **27 Oct** 04:50 | JPY | low | SPPI y/y | 3.7% | 3.7% |
 | **27 Oct** 05:01 | GBP | low | BRC Shop Price Index y/y | 1.6% | 1.4% |
+| **27 Oct** 10:00 | JPY | low | BOJ Core CPI y/y | 1.9% | 1.8% |
+| **27 Oct** 13:00 | EUR | low | Spanish Unemployment Rate | - | 9.9% |
+| **27 Oct** 14:00 | EUR | low | M3 Money Supply y/y | 3.6% | 3.5% |
+| **27 Oct** 14:00 | EUR | low | Private Loans y/y | 3.1% | 3.1% |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
