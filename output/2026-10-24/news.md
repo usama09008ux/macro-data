@@ -1,7 +1,7 @@
 # News Pack — Trading Day 24 Oct 2026
 
 - Trading day: **24 Oct 03:00 -> 25 Oct 02:59 PKT**
-- Aakhri update: **26 Oct 22:24 PKT**
+- Aakhri update: **27 Oct 02:46 PKT**
 - Kul khabrein: **407**
 - Feeds: 30/39 OK
 
@@ -1272,48 +1272,49 @@ investing_news (17)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 16 | 9 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 12 | 13 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 15 | 5 | 0 | 0.1 |
-| marketpulse | WARN | 4 | 0 | 0 | 0 | 4 | 3.3 |
-| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 2.9 |
-| wsj_economy | OK | 36 | 4 | 1 | 3 | 32 | 0.2 |
-| cme_metals_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| cme_daily_commentary | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 45.9 |
-| kitco_general | OK | 2 | 2 | 2 | 0 | 0 | 0.2 |
-| gnews_fed | OK | 100 | 95 | 50 | 45 | 5 | 0.0 |
-| gnews_geopolitics | OK | 82 | 80 | 21 | 59 | 2 | 0.0 |
-| gnews_centralbanks | OK | 40 | 37 | 11 | 26 | 3 | 0.1 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.0 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 11.6 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.4 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.9 |
-| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 3.5 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 12.6 |
-| mining_com | OK | 36 | 5 | 5 | 0 | 31 | 0.1 |
-| oilprice | OK | 15 | 15 | 11 | 4 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| ing_think | OK | 10 | 5 | 1 | 4 | 5 | 0.1 |
-| bbc_business | OK | 56 | 7 | 2 | 5 | 49 | 0.0 |
-| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.4 |
-| boc_press | WARN | 10 | 0 | 0 | 0 | 10 | 46.3 |
-| eia_energy | WARN | 19 | 0 | 0 | 0 | 19 | 4.1 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 20.2 |
-| wsj_world | OK | 71 | 15 | 5 | 10 | 56 | 0.1 |
-| wsj_markets | OK | 61 | 17 | 7 | 10 | 44 | 0.0 |
+| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
+| marketpulse | WARN | 4 | 0 | 0 | 0 | 4 | 3.5 |
+| instaforex | STALE | 25 | 0 | 0 | 0 | 25 | 3.1 |
+| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.1 |
+| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
+| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
+| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
+| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
+| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.0 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 46.1 |
+| kitco_general | OK | 6 | 6 | 3 | 3 | 0 | 0.0 |
+| gnews_fed | OK | 100 | 100 | 28 | 72 | 0 | 0.0 |
+| gnews_geopolitics | OK | 95 | 95 | 11 | 84 | 0 | 0.0 |
+| gnews_centralbanks | OK | 37 | 37 | 4 | 33 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.2 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 11.8 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.5 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.1 |
+| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 3.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 12.8 |
+| mining_com | OK | 36 | 7 | 2 | 5 | 29 | 0.0 |
+| oilprice | OK | 15 | 15 | 5 | 10 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| ing_think | OK | 10 | 6 | 1 | 5 | 4 | 0.2 |
+| bbc_business | OK | 56 | 7 | 0 | 7 | 49 | 0.1 |
+| aljazeera | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.5 |
+| boc_press | WARN | 10 | 0 | 0 | 0 | 10 | 46.4 |
+| eia_energy | WARN | 19 | 0 | 0 | 0 | 19 | 4.3 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 20.4 |
+| wsj_world | OK | 70 | 21 | 7 | 14 | 49 | 0.0 |
+| wsj_markets | OK | 61 | 24 | 9 | 15 | 37 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 15 | 6 | 9 | 15 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 20 | 5 | 15 | 10 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
+- instaforex — STALE, cadence 1d, magar 3d purana
 - cme_risk_management — STALE, cadence 10d, magar 46d purana
 - yahoo_finance — FAIL, HTTP 404
