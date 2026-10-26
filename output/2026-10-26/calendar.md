@@ -1,6 +1,6 @@
 # Calendar — Trading Day 26 Oct 2026
 
-- Banaya gaya: **26 Oct 2026 22:59 PKT**
+- Banaya gaya: **27 Oct 2026 02:16 PKT**
 - Trading day: **26 Oct 03:00 -> 27 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,20 +12,21 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **27 Oct** 04:50 | JPY | low | SPPI y/y | 3.7% | 3.7% |
-| **27 Oct** 05:01 | GBP | low | BRC Shop Price Index y/y | 1.6% | 1.4% |
-| **27 Oct** 10:00 | JPY | low | BOJ Core CPI y/y | 1.9% | 1.8% |
-| **27 Oct** 13:00 | EUR | low | Spanish Unemployment Rate | 9.8% | 9.9% |
-| **27 Oct** 14:00 | EUR | low | M3 Money Supply y/y | 3.6% | 3.5% |
-| **27 Oct** 14:00 | EUR | low | Private Loans y/y | 3.1% | 3.1% |
-| **27 Oct** 17:15 | USD | low | ADP Weekly Employment Change | - | 18.5K |
-| **27 Oct** 17:30 | USD | low | Core Durable Goods Orders m/m | 0.6% | 0.3% |
-| **27 Oct** 17:30 | USD | low | Durable Goods Orders m/m | 1.8% | 0.0% |
-| **27 Oct** 18:00 | USD | low | HPI m/m | 0.1% | 0.3% |
-| **27 Oct** 18:00 | USD | low | S&P/CS Composite-20 HPI y/y | 2.7% | 2.5% |
-| **27 Oct** 19:00 | USD | MED | CB Consumer Confidence | 80.7 | 81.9 |
-| **27 Oct** 19:00 | USD | low | New Home Sales | 649K | 684K |
-| **27 Oct** 19:00 | USD | low | Richmond Manufacturing Index | 1 | -2 |
+| 04:50 | JPY | low | SPPI y/y | 3.7% | 3.7% |
+| 05:01 | GBP | low | BRC Shop Price Index y/y | 1.6% | 1.4% |
+| 10:00 | JPY | low | BOJ Core CPI y/y | 1.9% | 1.8% |
+| 13:00 | EUR | low | Spanish Unemployment Rate | 9.9% | 9.9% |
+| 14:00 | EUR | low | M3 Money Supply y/y | 3.5% | 3.5% |
+| 14:00 | EUR | low | Private Loans y/y | 3.1% | 3.1% |
+| 17:15 | USD | low | ADP Weekly Employment Change | - | 18.5K |
+| 17:30 | USD | low | Core Durable Goods Orders m/m | 0.6% | 0.3% |
+| 17:30 | USD | low | Durable Goods Orders m/m | 2.0% | 0.0% |
+| 18:00 | USD | low | HPI m/m | 0.2% | 0.3% |
+| 18:00 | USD | low | S&P/CS Composite-20 HPI y/y | 2.6% | 2.5% |
+| 19:00 | USD | MED | CB Consumer Confidence | 81.2 | 81.9 |
+| 19:00 | USD | low | New Home Sales | 651K | 684K |
+| 19:00 | USD | low | Richmond Manufacturing Index | 0 | -2 |
+| **28 Oct** 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
@@ -53,7 +54,7 @@
 | **28 Oct** 23:30 | USD | **HIGH** | FOMC Press Conference | - | - |
 | **29 Oct** 17:30 | USD | **HIGH** | Advance GDP q/q | 3.2% | 1.5% |
 | **29 Oct** 17:30 | USD | **HIGH** | Core PCE Price Index m/m | 0.3% | 0.2% |
-| **29 Oct** 17:30 | USD | MED | Advance GDP Price Index q/q | 3.5% | 6.2% |
+| **29 Oct** 17:30 | USD | MED | Advance GDP Price Index q/q | 3.3% | 6.2% |
 | **29 Oct** 17:30 | USD | MED | Unemployment Claims | 198K | 194K |
 | **29 Oct** 18:15 | EUR | **HIGH** | Main Refinancing Rate | 2.65% | 2.65% |
 | **29 Oct** 18:15 | EUR | **HIGH** | Monetary Policy Statement | - | - |
@@ -63,7 +64,7 @@
 | **30 Oct** 07:30 | JPY | **HIGH** | Monetary Policy Statement | - | - |
 | **30 Oct** 07:31 | JPY | **HIGH** | BOJ Outlook Report | - | - |
 | **30 Oct** 10:30 | JPY | **HIGH** | BOJ Press Conference | - | - |
-| **30 Oct** 11:29 | EUR | MED | German Prelim CPI m/m | 0.1% | 0.6% |
+| **30 Oct** 12:29 | EUR | MED | German Prelim CPI m/m | 0.1% | 0.6% |
 | **30 Oct** 14:00 | EUR | MED | German Prelim GDP q/q | 0.1% | 0.2% |
 | **30 Oct** 17:30 | CAD | MED | GDP m/m | 0.2% | 0.0% |
 | **30 Oct** 17:30 | USD | MED | Employment Cost Index q/q | 0.8% | 0.9% |
