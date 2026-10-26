@@ -1,6 +1,6 @@
 # Calendar — Trading Day 26 Oct 2026
 
-- Banaya gaya: **26 Oct 2026 16:21 PKT**
+- Banaya gaya: **26 Oct 2026 22:59 PKT**
 - Trading day: **26 Oct 03:00 -> 27 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -15,9 +15,17 @@
 | **27 Oct** 04:50 | JPY | low | SPPI y/y | 3.7% | 3.7% |
 | **27 Oct** 05:01 | GBP | low | BRC Shop Price Index y/y | 1.6% | 1.4% |
 | **27 Oct** 10:00 | JPY | low | BOJ Core CPI y/y | 1.9% | 1.8% |
-| **27 Oct** 13:00 | EUR | low | Spanish Unemployment Rate | - | 9.9% |
+| **27 Oct** 13:00 | EUR | low | Spanish Unemployment Rate | 9.8% | 9.9% |
 | **27 Oct** 14:00 | EUR | low | M3 Money Supply y/y | 3.6% | 3.5% |
 | **27 Oct** 14:00 | EUR | low | Private Loans y/y | 3.1% | 3.1% |
+| **27 Oct** 17:15 | USD | low | ADP Weekly Employment Change | - | 18.5K |
+| **27 Oct** 17:30 | USD | low | Core Durable Goods Orders m/m | 0.6% | 0.3% |
+| **27 Oct** 17:30 | USD | low | Durable Goods Orders m/m | 1.8% | 0.0% |
+| **27 Oct** 18:00 | USD | low | HPI m/m | 0.1% | 0.3% |
+| **27 Oct** 18:00 | USD | low | S&P/CS Composite-20 HPI y/y | 2.7% | 2.5% |
+| **27 Oct** 19:00 | USD | MED | CB Consumer Confidence | 80.7 | 81.9 |
+| **27 Oct** 19:00 | USD | low | New Home Sales | 649K | 684K |
+| **27 Oct** 19:00 | USD | low | Richmond Manufacturing Index | 1 | -2 |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
@@ -27,7 +35,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **27 Oct** 19:00 | USD | MED | CB Consumer Confidence | 80.5 | 81.9 |
 | **28 Oct** 05:15 | AUD | MED | RBA Gov Bullock Speaks | - | - |
 | **28 Oct** 05:30 | AUD | **HIGH** | CPI m/m | 0.7% | 0.4% |
 | **28 Oct** 05:30 | AUD | **HIGH** | CPI y/y | 4.2% | 4.0% |

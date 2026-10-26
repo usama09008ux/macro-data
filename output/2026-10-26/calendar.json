@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "26 Oct 2026 16:21",
+  "generated_pkt": "26 Oct 2026 22:59",
   "trading_day": "2026-10-26",
   "feed_sources": {
     "thisweek": "live"
@@ -100,7 +100,7 @@
       "title": "Spanish Unemployment Rate",
       "ccy": "EUR",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "9.8%",
       "previous": "9.9%",
       "url": "https://www.forexfactory.com/calendar/559-sp-unemployment-rate",
       "all_day": false,
@@ -204,7 +204,7 @@
       "title": "CB Consumer Confidence",
       "ccy": "USD",
       "impact": "Medium",
-      "forecast": "80.5",
+      "forecast": "80.7",
       "previous": "81.9",
       "url": "https://www.forexfactory.com/calendar/208-us-cb-consumer-confidence",
       "all_day": false,
@@ -734,6 +734,19 @@
       "trading_day": "2026-10-29"
     },
     {
+      "title": "Gov Council Member Gravelle Speaks",
+      "ccy": "CAD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/835-ca-gov-council-member-gravelle-speaks",
+      "all_day": false,
+      "utc": "2026-10-29T12:50Z",
+      "pkt": "29 Oct 17:50",
+      "pkt_iso": "2026-10-29T17:50:00+05:00",
+      "trading_day": "2026-10-29"
+    },
+    {
       "title": "Main Refinancing Rate",
       "ccy": "EUR",
       "impact": "High",
@@ -793,9 +806,9 @@
       "previous": "",
       "url": "https://www.forexfactory.com/calendar/896-ca-gov-council-member-vincent-speaks",
       "all_day": false,
-      "utc": "2026-10-29T14:50Z",
-      "pkt": "29 Oct 19:50",
-      "pkt_iso": "2026-10-29T19:50:00+05:00",
+      "utc": "2026-10-29T15:30Z",
+      "pkt": "29 Oct 20:30",
+      "pkt_iso": "2026-10-29T20:30:00+05:00",
       "trading_day": "2026-10-29"
     },
     {

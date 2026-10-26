@@ -76,7 +76,7 @@
 		<date><![CDATA[10-27-2026]]></date>
 		<time><![CDATA[8:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast />
+		<forecast><![CDATA[9.8%]]></forecast>
 		<previous><![CDATA[9.9%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/559-sp-unemployment-rate]]></url>
 	</event>
@@ -156,7 +156,7 @@
 		<date><![CDATA[10-27-2026]]></date>
 		<time><![CDATA[2:00pm]]></time>
 		<impact><![CDATA[Medium]]></impact>
-		<forecast><![CDATA[80.5]]></forecast>
+		<forecast><![CDATA[80.7]]></forecast>
 		<previous><![CDATA[81.9]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/208-us-cb-consumer-confidence]]></url>
 	</event>
@@ -561,6 +561,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/356-us-personal-spending-mm]]></url>
 	</event>
 	<event>
+		<title>Gov Council Member Gravelle Speaks</title>
+		<country>CAD</country>
+		<date><![CDATA[10-29-2026]]></date>
+		<time><![CDATA[12:50pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/835-ca-gov-council-member-gravelle-speaks]]></url>
+	</event>
+	<event>
 		<title>Main Refinancing Rate</title>
 		<country>EUR</country>
 		<date><![CDATA[10-29-2026]]></date>
@@ -604,7 +614,7 @@
 		<title>Gov Council Member Vincent Speaks</title>
 		<country>CAD</country>
 		<date><![CDATA[10-29-2026]]></date>
-		<time><![CDATA[2:50pm]]></time>
+		<time><![CDATA[3:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous />
