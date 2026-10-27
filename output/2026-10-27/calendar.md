@@ -1,6 +1,6 @@
 # Calendar — Trading Day 27 Oct 2026
 
-- Banaya gaya: **27 Oct 2026 06:35 PKT**
+- Banaya gaya: **27 Oct 2026 15:46 PKT**
 - Trading day: **27 Oct 03:00 -> 28 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,10 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 10:00 | JPY | low | BOJ Core CPI y/y | 1.9% | 1.8% |
-| 13:00 | EUR | low | Spanish Unemployment Rate | 9.9% | 9.9% |
-| 14:00 | EUR | low | M3 Money Supply y/y | 3.5% | 3.5% |
-| 14:00 | EUR | low | Private Loans y/y | 3.1% | 3.1% |
 | 17:15 | USD | low | ADP Weekly Employment Change | - | 18.5K |
 | 17:30 | USD | low | Core Durable Goods Orders m/m | 0.6% | 0.3% |
 | 17:30 | USD | low | Durable Goods Orders m/m | 2.0% | 0.0% |
@@ -31,6 +27,10 @@
 | **28 Oct** 05:30 | AUD | **HIGH** | Trimmed Mean CPI m/m | 0.3% | 0.2% |
 | **28 Oct** 06:00 | NZD | **HIGH** | Official Cash Rate | 3.00% | 2.75% |
 | **28 Oct** 06:00 | NZD | **HIGH** | RBNZ Rate Statement | - | - |
+| **28 Oct** 07:00 | NZD | **HIGH** | RBNZ Press Conference | - | - |
+| **28 Oct** 12:00 | EUR | low | German GfK Consumer Climate | -30.1 | -30.6 |
+| **28 Oct** 14:00 | CHF | low | UBS Economic Expectations | - | 2.6 |
+| **28 Oct** 14:42 | EUR | low | German 10-y Bond Auction | - | 3.58|1.2 |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
@@ -39,6 +39,7 @@
 - `28 Oct 05:30` **AUD Trimmed Mean CPI m/m**
 - `28 Oct 06:00` **NZD Official Cash Rate**
 - `28 Oct 06:00` **NZD RBNZ Rate Statement**
+- `28 Oct 07:00` **NZD RBNZ Press Conference**
 
 ---
 
@@ -46,7 +47,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **28 Oct** 07:00 | NZD | **HIGH** | RBNZ Press Conference | - | - |
 | **28 Oct** 17:30 | GBP | **HIGH** | Annual Budget Release | - | - |
 | **28 Oct** 17:30 | GBP | MED | Autumn Forecast Statement | - | - |
 | **28 Oct** 18:45 | CAD | **HIGH** | BOC Monetary Policy Report | - | - |
