@@ -1,8 +1,8 @@
 # News Pack — Trading Day 26 Oct 2026
 
 - Trading day: **26 Oct 03:00 -> 27 Oct 02:59 PKT**
-- Aakhri update: **27 Oct 02:46 PKT**
-- Kul khabrein: **661**
+- Aakhri update: **27 Oct 05:55 PKT**
+- Kul khabrein: **699**
 - Feeds: 30/39 OK
 
 ---
@@ -60,6 +60,16 @@ Bob Iaccino of Path Trading Partners breaks down the morning's market action, no
 ## Khabrein
 
 ### MARKET WRAP
+
+**Goldman Sachs: AI buildout to add up to 50bp to US core PCE, but the boost is temporary**
+`27 Oct 02:58 PKT` · pehli baar dekhi `27 Oct 05:55` · investinglive
+
+The analysis adds a structural layer to an inflation backdrop already strained by energy, which argues against easing and supports the case for central banks on tightening paths, including the Fed and the Bank of Japan, to keep a hawkish bias into 2027. Japan's projected 0.3 point boost is notable ahead of this week's BoJ meeting, where the key question is whether underlying inflation has reached 2%. For bonds, a temporary but well-timed price shock could keep front-end yields supported.
+
+**NZIER Shadow Board majority backs 25bp RBNZ hike to 3% as oil and weaker kiwi bite**
+`27 Oct 02:30 PKT` · pehli baar dekhi `27 Oct 05:55` · investinglive
+
+The Shadow Board result adds to the case for a hike at the October review, although several members still favour a pause, so a hold would not be a shock. A hike paired with a clear signal of a prolonged pause could limit any boost to the New Zealand dollar, while a hold with hawkish guidance would keep year-end hike pricing alive.
 
 **Citadel Securities warns AI trade has little margin for error as three risks converge**
 `27 Oct 01:58 PKT` · pehli baar dekhi `27 Oct 02:46` · investinglive
@@ -355,6 +365,11 @@ Gold Price Today, October 26: Bullion slips below $4,000 ahead of Fed rate decis
 
 ### USD
 
+**Former White House economic adviser on Fed rates: 'Tough position' for Warsh - The Hill**
+`27 Oct 02:43 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_fed
+
+Former White House economic adviser on Fed rates: 'Tough position' for Warsh The Hill
+
 **Northpointe Bancshares stock jumps on $30M buyback program**
 `27 Oct 02:24 PKT` · pehli baar dekhi `27 Oct 02:46` · investing_news
 
@@ -373,6 +388,11 @@ Closing changes for the main US equity indexes: S&P 500 +0.7% Nasdaq +0.8% Russe
 
 Investment and deposit accounts that may benefit most from Fed rate hikes: How many do you have? Chase Bank
 
+**Copper Extends Drop as AI Stocks Weigh Ahead of Fed Meeting - Bloomberg.com**
+`26 Oct 23:54 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_fed
+
+Copper Extends Drop as AI Stocks Weigh Ahead of Fed Meeting Bloomberg.com
+
 **FOMC Preview: To Hike Or Not To Hike? That's The Trap (SPX) - Seeking Alpha**
 `26 Oct 23:18 PKT` · pehli baar dekhi `27 Oct 02:46` · gnews_fed
 
@@ -382,6 +402,11 @@ FOMC Preview: To Hike Or Not To Hike? That's The Trap (SPX) Seeking Alpha
 `26 Oct 23:13 PKT` · pehli baar dekhi `27 Oct 02:46` · gnews_fed
 
 Federal Reserve meeting: Rice experts available to discuss interest rates, inflation and economic outlook Rice University
+
+**Fed predictions for 2026: Will another rate hike happen by the end of the year? - Yahoo Finance**
+`26 Oct 22:52 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_fed
+
+Fed predictions for 2026: Will another rate hike happen by the end of the year? Yahoo Finance
 
 **US Dollar Index Price Forecast: DXY trades above 101.50 as bullish bias persists ahead of FOMC - www.tmgm.com**
 `26 Oct 22:27 PKT` · pehli baar dekhi `27 Oct 02:46` · gnews_fed
@@ -406,6 +431,16 @@ High yield: 4.708% WI level at the time of the auction: 4.705% Tail: 0.3 basis p
 
 Economists say that even though an October hike was anticipated, the Fed's monetary policy committee appears unlikely to make a move before midterms. See link below ⬇️ 📸 House TV / Reuters Facebook
 
+**FOMC preview: Election deflection, dissent a key, what investors should do - Bond Buyer**
+`26 Oct 21:56 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_fed
+
+FOMC preview: Election deflection, dissent a key, what investors should do Bond Buyer
+
+**What time is this week's Fed meeting? - Yahoo Finance**
+`26 Oct 21:43 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_fed
+
+What time is this week's Fed meeting? Yahoo Finance
+
 **Fed preview: Inflation and jobs pulling FOMC in different directions, economist says - Mortgage Professional America**
 `26 Oct 21:32 PKT` · pehli baar dekhi `26 Oct 22:24` · gnews_fed
 
@@ -421,10 +456,20 @@ EUROPE: While the Dutch economy already showed considerable resilience in the fi
 
 US Stock Futures Gain Ahead of Big Tech Earnings, Fed Decision Bloomberg.com
 
+**Stock Market Today: S&P 500, DJI Rise as Nvidia Rebounds, AI Debt Fears Persist Ahead of Fed Decision - Coinpaper**
+`26 Oct 19:42 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_fed
+
+Stock Market Today: S&P 500, DJI Rise as Nvidia Rebounds, AI Debt Fears Persist Ahead of Fed Decision Coinpaper
+
 **US October Dallas Fed manufacturing index 13.4 vs 9.8 prior**
 `26 Oct 19:32 PKT` · pehli baar dekhi `26 Oct 22:24` · investinglive
 
 Prior was +9.8 Employment 11.6 vs 15.1 prior capex 11.9 vs 8.5 prior New orders 9.3 vs 30.7 prior Prices paid 55.3 vs 52.2 prior Future index 38.1 vs 20.8 prior The survey improved but that new orders reading is sending a conflicting signal from the future index. The comments in the report are often telling: Beverage and tobacco product manufacturing We continue to see pressure on profitability. We are profitable, but barely.
+
+**Fed funds rate holds at 3.88% as markets watch for the Federal Reserve's next move - Business Upturn**
+`26 Oct 19:24 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_fed
+
+Fed funds rate holds at 3.88% as markets watch for the Federal Reserve's next move Business Upturn
 
 **The dollar moves cautiously at the beginning of the week and awaits the Federal Reserve's decision - المتداول العربي**
 `26 Oct 19:17 PKT` · pehli baar dekhi `26 Oct 22:24` · gnews_fed
@@ -567,6 +612,11 @@ The Federal Reserve's decision and inflation in the spotlight markets are bracin
 `26 Oct 14:03 PKT` · pehli baar dekhi `26 Oct 22:24` · gnews_fed
 
 What is the FOMC blackout period and why do central banks have one investingLive
+
+**Take Five: AI trade meets the Fed - Yahoo Finance**
+`26 Oct 14:00 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_fed
+
+Take Five: AI trade meets the Fed Yahoo Finance
 
 **Fed to pause rate hikes ahead of US midterms 2026? Seth R. Freeman explains why a December rate move is possible | Expert Take - ET Now**
 `26 Oct 13:39 PKT` · pehli baar dekhi `26 Oct 16:11` · gnews_fed
@@ -737,6 +787,11 @@ It fancies itself the model of modernity yet is descending into atavistic violen
 
 The measures, including new teachers and school renovations, are unlikely to quell a crisis widening into broader cost-of-living protests.
 
+**Markets Focus on France Test Ahead of ECB Rate Decision - BigGo Finance**
+`26 Oct 23:21 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_centralbanks
+
+Markets Focus on France Test Ahead of ECB Rate Decision BigGo Finance
+
 **ECB rate outlook: Eurozone inflation, French debt and rising bond yields - Equiti Global**
 `26 Oct 22:37 PKT` · pehli baar dekhi `27 Oct 02:46` · gnews_centralbanks
 
@@ -796,6 +851,11 @@ Range trading continues in EUR/USD and intraday bias stays neutral. Further decl
 `26 Oct 17:03 PKT` · pehli baar dekhi `26 Oct 22:24` · gnews_centralbanks
 
 WuBlockchain Weekly Outlook | Microsoft and Google Earnings Follow the Fed as ECB and BOJ Decisions Approach Substack
+
+**European stocks rebound as investors eye ECB, Fed meetings - Yahoo Finance**
+`26 Oct 16:00 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_centralbanks
+
+European stocks rebound as investors eye ECB, Fed meetings Yahoo Finance
 
 **Euro zone firms find it harder to get credit, ECB survey shows - Yahoo Finance**
 `26 Oct 15:31 PKT` · pehli baar dekhi `26 Oct 16:11` · gnews_centralbanks
@@ -1002,15 +1062,16 @@ I'll get a preview posted for the Japanese data soon (ADDED, here it is: Japan s
 
 Intraday bias in USD/JPY remains neutral for the moment. On the downside, firm break of firm break of 156.06 will argue that rebound from 152.87 has completed after failing to sustain above 55 D EMA. Deeper fall should then be seen back to 152.87 low. Meanwhile, above 159.02 will target 160.38. In the bigger picture, [&#8230;] The post USD/JPY Daily Outlook appeared first on ActionForex.
 
+**With the Federal Reserve decision week coinciding with the Bank of Japan meeting, the USD/JPY pair faced pressure and oscillated below the 157 level. - Moomoo**
+`26 Oct 14:09 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_fed · **2 feeds mein**
+
+With the Federal Reserve decision week coinciding with the Bank of Japan meeting, the USD/JPY pair faced pressure and oscillated below the 157 level. Moomoo
+  - `26 Oct 13:03` *gnews_fed* — With the Federal Reserve decision week coinciding with the Bank of Japan meeting, the USD/JPY pair faced pressure and oscillated below the 157 level. - 富途牛牛
+
 **Global Market: BOJ nears historic inflation milestone, shifts focus to rate hikes - The Economic Times**
 `26 Oct 13:29 PKT` · pehli baar dekhi `26 Oct 22:24` · gnews_centralbanks
 
 Global Market: BOJ nears historic inflation milestone, shifts focus to rate hikes The Economic Times
-
-**With the Federal Reserve decision week coinciding with the Bank of Japan meeting, the USD/JPY pair faced pressure and oscillated below the 157 level. - 富途牛牛**
-`26 Oct 13:03 PKT` · pehli baar dekhi `26 Oct 22:24` · gnews_fed
-
-With the Federal Reserve decision week coinciding with the Bank of Japan meeting, the USD/JPY pair faced pressure and oscillated below the 157 level. 富途牛牛
 
 **Federal Reserve, ECB and Bank of Japan Set for Back-to-Back Meetings This Week; All Three Seen Holding Rates - BigGo Finance**
 `26 Oct 10:35 PKT` · pehli baar dekhi `26 Oct 16:11` · gnews_fed
@@ -1091,6 +1152,11 @@ False reports of 'a Canada-USA trade deal' aren't far off from the number of rep
 
 Canada Nickel would provide Swiss Steel with access to about one million tonnes of semi-finished steel products per year starting in 2030.
 
+**LOOKING TO CANADA FOR OIL: Canada's Irving Turns to Newfoundland for Oil Instead of Persian Gulf as a Result of Iran Disruption - EnergyNow**
+`26 Oct 21:35 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_geopolitics
+
+LOOKING TO CANADA FOR OIL: Canada's Irving Turns to Newfoundland for Oil Instead of Persian Gulf as a Result of Iran Disruption EnergyNow
+
 **Strike curbs output at Canada's largest copper mine**
 `26 Oct 19:53 PKT` · pehli baar dekhi `26 Oct 22:24` · mining_com
 
@@ -1125,6 +1191,16 @@ ASX Preview: Australian Shares to Fall as Oil Nears Six-Month Highs; Ramelius Re
 
 ### OIL
 
+**Oil futures: Crude volatility remains amid mixed messaging on Iran - Quantum Commodity Intelligence**
+`27 Oct 02:24 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_geopolitics
+
+Oil futures: Crude volatility remains amid mixed messaging on Iran Quantum Commodity Intelligence
+
+**Oil, Gas Recovery May Take Two Years After War, IEA's Birol Says - EnergyNow.com**
+`27 Oct 02:24 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_geopolitics
+
+Oil, Gas Recovery May Take Two Years After War, IEA's Birol Says EnergyNow.com
+
 **Energy & Utilities Roundup: Market Talk**
 `27 Oct 02:13 PKT` · pehli baar dekhi `27 Oct 02:46` · wsj_markets
 
@@ -1135,10 +1211,20 @@ Find insight on oil futures and Tenaga Nasional in the latest Market Talks cover
 
 Gold holds above $4,000 as Hormuz diplomacy cools crude ahead of Fed decision - Kitco PM Report Kitco
 
+**Oil Climbs Again as U.S.-Iran Fighting Raises Fresh Hormuz Supply Fears - EnergyNow.com**
+`27 Oct 02:02 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_geopolitics
+
+Oil Climbs Again as U.S.-Iran Fighting Raises Fresh Hormuz Supply Fears EnergyNow.com
+
 **Asia Needs $1 Trillion a Year to Avoid the Next Energy Shock**
 `27 Oct 02:00 PKT` · pehli baar dekhi `27 Oct 02:46` · oilprice
 
 Oil and gas may be flowing through the Strait of Hormuz again, but the impacts of its months-long closure will be felt for years to come. For Asia, in particular, regulating markets and shoring up energy security to avoid the next energy shock will require trillions of dollars in the coming years as energy demand projection rates continue to rise sharply across the region.
+
+**Occidental Oil Prices Jump as Supply Concerns Lift Crude - EnergyNow.com**
+`27 Oct 01:25 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_geopolitics
+
+Occidental Oil Prices Jump as Supply Concerns Lift Crude EnergyNow.com
 
 **Iran War Pushes Trump's Average Gasoline Prices Above Biden's**
 `27 Oct 01:00 PKT` · pehli baar dekhi `27 Oct 02:46` · oilprice
@@ -1203,6 +1289,11 @@ EQT Corp. (NYSE:EQT) will buy Range Resources (NYSE:RRC) in an all-stock deal va
 `26 Oct 21:15 PKT` · pehli baar dekhi `26 Oct 22:24` · gnews_geopolitics
 
 Iran oil output at three fields with ZN Vostok exceeds target by 7,000 bpd Trend News Agency
+
+**Crude Oil Prices Fall Back As Iran Holds Regional Security Meeting - TradingView**
+`26 Oct 21:13 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_geopolitics
+
+Crude Oil Prices Fall Back As Iran Holds Regional Security Meeting TradingView
 
 **Saudi, Pakistani, Iranian and Turkish security chiefs sit down in Tehran, agree to continue talks**
 `26 Oct 21:07 PKT` · pehli baar dekhi `26 Oct 22:24` · investinglive
@@ -1277,6 +1368,11 @@ Oil Market Clock is Ticking as Supply Crunch Looms: Bousso EnergyNow.com
 
 Myanmar Junta Helped Disguise Iranian Jet Fuel As South African Diesel To Skirt US Sanctions Outlook India
 
+**Trump Officials Urge Oil Industry to Boost Output Amid War - EnergyNow.com**
+`26 Oct 17:35 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_geopolitics
+
+Trump Officials Urge Oil Industry to Boost Output Amid War EnergyNow.com
+
 **Saudi Oil Output Jumps 12.2% to 8 Million Bpd in September**
 `26 Oct 17:30 PKT` · pehli baar dekhi `26 Oct 22:24` · oilprice
 
@@ -1333,6 +1429,11 @@ U.S. forces have helped Persian Gulf producers move more than 1.5 billion barrel
 
 Oil prices fall as US-Iran peace talks ease tensions, but Saudi attacks keep global supply risks high | Hindustan Times Hindustan Times
 
+**ADNOC Sells at Least 30 Million Barrels Crude in Supply Boost, Sources Say - EnergyNow.com**
+`26 Oct 14:36 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_geopolitics
+
+ADNOC Sells at Least 30 Million Barrels Crude in Supply Boost, Sources Say EnergyNow.com
+
 **Europe's Natural Gas Prices Soar to Four-Year High as Winter Looms**
 `26 Oct 14:30 PKT` · pehli baar dekhi `26 Oct 16:11` · oilprice
 
@@ -1342,6 +1443,21 @@ Europe's benchmark natural gas price jumped by 2% at opening in Amsterdam on Mon
 `26 Oct 14:28 PKT` · pehli baar dekhi `26 Oct 22:24` · gnews_geopolitics
 
 Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption EnergyNow.com
+
+**Brent Crude Oil Price Jumps After Attack on Iran's South Pars Field - EnergyNow.com**
+`26 Oct 14:28 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_geopolitics
+
+Brent Crude Oil Price Jumps After Attack on Iran's South Pars Field EnergyNow.com
+
+**Oil Rises on Intensifying US-Iran Hostilities, Threat of Red Sea Closure - EnergyNow.com**
+`26 Oct 14:28 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_geopolitics
+
+Oil Rises on Intensifying US-Iran Hostilities, Threat of Red Sea Closure EnergyNow.com
+
+**IRAN'S "CROWN JEWEL" – Kharg Island, Struck by US, is Key Hub for Iran Oil Exports - EnergyNow.com**
+`26 Oct 14:09 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_geopolitics
+
+IRAN'S "CROWN JEWEL" – Kharg Island, Struck by US, is Key Hub for Iran Oil Exports EnergyNow.com
 
 **Saudi Arabia to store crude oil in Singapore as Gulf conflict disrupts exports - Business Upturn**
 `26 Oct 13:34 PKT` · pehli baar dekhi `26 Oct 16:11` · gnews_geopolitics
@@ -1576,6 +1692,11 @@ UAE Will Double Oil Export Capacity Bypassing Hormuz by 2027 EnergyNow.com
 
 The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoin law to be implemented in January
 
+**Bitfinex: Bitcoin Tests $79,250 Support As Upcoming Federal Reserve Rate Decision Looms - Cryptonews.net**
+`27 Oct 02:19 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_fed
+
+Bitfinex: Bitcoin Tests $79,250 Support As Upcoming Federal Reserve Rate Decision Looms Cryptonews.net
+
 **Bitcoin Falls Below $80k Ahead Of Federal Reserve Rate Decision - MarketForces Africa**
 `27 Oct 02:03 PKT` · pehli baar dekhi `27 Oct 02:46` · gnews_fed
 
@@ -1626,6 +1747,16 @@ Strategy made no Bitcoin purchases or sales last week, as its STRC preferred sto
 
 Bernstein analysts raised Robinhood's revenue estimates through 2026 and 2028, while maintaining their HOOD price target unchanged at $160.
 
+**Federal Reserve Rate Decision Leads Packed Economic Calendar Impacting Crypto Markets - Crypto Economy**
+`26 Oct 17:44 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_fed
+
+Federal Reserve Rate Decision Leads Packed Economic Calendar Impacting Crypto Markets Crypto Economy
+
+**Bitcoin Holds Near $80,000 as Oil Retreats Ahead of Fed Decision - Crypto Economy**
+`26 Oct 17:29 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_fed
+
+Bitcoin Holds Near $80,000 as Oil Retreats Ahead of Fed Decision Crypto Economy
+
 **PrimeXBT's PXTrader 2.0 platform: 5 Features to Check Out Before Your Next Trade**
 `26 Oct 16:36 PKT` · pehli baar dekhi `26 Oct 22:24` · investinglive
 
@@ -1651,6 +1782,11 @@ Bitcoin Hovers Near $80,000 as Traders Await Federal Reserve Decision KuCoin
 `26 Oct 15:16 PKT` · pehli baar dekhi `26 Oct 16:11` · actionforex
 
 Market Overview The crypto market capitalisation is creeping downward, as caution becomes increasingly evident amid a lack of a turnaround in equities. At $2.67T, the market is 3.3% below its level of 7 days ago and 0.8% lower than 1 day ago. Technical indicators suggest the downtrend is set to continue, as the market sinks [&#8230;] The post The Crypto Market Is Drifting Down appeared first on ActionForex.
+
+**Bitcoin Price Forecast Ahead of FOMC and US PCE Inflation: Will BTC Drop to $77,000? - CoinGape**
+`26 Oct 14:26 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_fed
+
+Bitcoin Price Forecast Ahead of FOMC and US PCE Inflation: Will BTC Drop to $77,000? CoinGape
 
 **Bitcoin struggles near $80K amid key Fed rate d... - Pluang**
 `26 Oct 14:05 PKT` · pehli baar dekhi `26 Oct 16:11` · gnews_fed
@@ -1714,6 +1850,11 @@ Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent m
 
 ### RISK
 
+**Africa food security under threat due to Iran war, trade officials warn**
+`27 Oct 02:42 PKT` · pehli baar dekhi `27 Oct 05:55` · aljazeera
+
+The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.
+
 **Russia stocks higher at close of trade; MOEX Russia Index up 1.09%**
 `27 Oct 02:20 PKT` · pehli baar dekhi `27 Oct 02:46` · investing_news
 
@@ -1726,6 +1867,11 @@ Time is on America's side, and a renewed or intensified air war would be a mista
 `27 Oct 01:42 PKT` · pehli baar dekhi `27 Oct 02:46` · gnews_geopolitics
 
 NY's MTA Faces $95.6 Million Fuel Hit This Year From Iran War Bloomberg.com
+
+**Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says - EnergyNow.com**
+`27 Oct 01:39 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_geopolitics
+
+Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says EnergyNow.com
 
 **US consumers paying the most for fuel price spikes from Iran war, study says**
 `27 Oct 01:24 PKT` · pehli baar dekhi `27 Oct 02:46` · investing_commodities
@@ -1777,6 +1923,16 @@ UN Chief Antonio Guterres has warned of devastating consequences from any milita
 `26 Oct 21:19 PKT` · pehli baar dekhi `27 Oct 02:46` · gnews_geopolitics
 
 Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA EnergyNow.com
+
+**How 50 Days of the Iran War Led to the Loss of $50 Billion Worth of Oil - EnergyNow.com**
+`26 Oct 21:16 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_geopolitics
+
+How 50 Days of the Iran War Led to the Loss of $50 Billion Worth of Oil EnergyNow.com
+
+**Copper trades flat after Federal Reserve policy meeting risk-off tone - Traders Union**
+`26 Oct 21:09 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_fed
+
+Copper trades flat after Federal Reserve policy meeting risk-off tone Traders Union
 
 **How the Iran War Is Disrupting Global Oil and Gas Supply - EnergyNow.com**
 `26 Oct 20:57 PKT` · pehli baar dekhi `27 Oct 02:46` · gnews_geopolitics
@@ -1836,6 +1992,11 @@ Secret Fuel Trail Linked Myanmar Buyers To Iranian Aviation Supplies Despite San
 `26 Oct 14:28 PKT` · pehli baar dekhi `26 Oct 16:11` · gnews_geopolitics
 
 Oil Prices Fall As Hopes Of US-Iran De-escalation Ease Supply Fears - TVC News
+
+**A Look at Iran's Kharg Island and Energy Sector - EnergyNow.com**
+`26 Oct 14:06 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_geopolitics
+
+A Look at Iran's Kharg Island and Energy Sector EnergyNow.com
 
 **Russia and Iran join hands to shape the world energy market - Laodong.vn**
 `26 Oct 13:51 PKT` · pehli baar dekhi `26 Oct 16:11` · gnews_geopolitics
@@ -1928,7 +2089,7 @@ India Sees Qatar LNG Supply Cut After Iran Strike EnergyNow.com
 
 US Treasury Secretary Bessent Says Oil Market Well Supplied Amid Iran War EnergyNow.com
 
-### BINA TAG (245)
+### BINA TAG (250)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -1963,6 +2124,7 @@ US Treasury Secretary Bessent Says Oil Market Well Supplied Amid Iran War Energy
 - `27 Oct 01:46` **aljazeera** — Palestinian children crawl under Israeli military gates to get to school
 - `27 Oct 01:41` **aljazeera** — Huge explosion at a weapons depot in Syria
 - `27 Oct 01:38` **aljazeera** — What Vucic's defeat means for Serbia's foreign policy
+- `27 Oct 01:33` **gnews_fed** — Found: U.S. Federal Reserve Interest-Rate Decision Preview - cedarnews.net
 - `27 Oct 01:29` **wsj_markets** — Tech Rallies, Brazil Crashes
 - `27 Oct 01:26` **gnews_fed** — Eighth Circuit strikes down Federal Reserve's 21-cent debit card fee cap - Courthouse News
 - `27 Oct 01:20` **aljazeera** — How a WhatsApp channel helped Lula win Brazil's election
@@ -2015,6 +2177,7 @@ US Treasury Secretary Bessent Says Oil Market Well Supplied Amid Iran War Energy
 - `26 Oct 21:15` **mw_topstories** — 'You need only watch episodes of Judge Judy': I'm in my 70s. Why do people keep making the same avoidable financial mistakes?
 - `26 Oct 21:12` **aljazeera** — Jerusalem Daily: Last minute efforts by Israeli politicians before election
 - `26 Oct 21:11` **wsj_markets** — Brazilian Markets Crash After Lula's Surprise Election Win Stuns Investors
+- `26 Oct 21:09` **gnews_fed** — XRP Holds Near $1.29 Ahead of Federal Reserve Rate Decision as Aviva Tokenizes £50 Million Fund Slice - TipRanks
 - `26 Oct 21:05` **mw_topstories** — This strategist says it's a matter of when, not if, the AI bubble pops. Here's how to prepare for that.
 - `26 Oct 21:03` **gnews_fed** — Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers - CNBC
 - `26 Oct 21:01` **aljazeera** — Saddam Haftar is eyeing the throne in Libya
@@ -2027,6 +2190,7 @@ US Treasury Secretary Bessent Says Oil Market Well Supplied Amid Iran War Energy
 - `26 Oct 19:57` **gnews_fed** — Federal Reserve executive to speak at Paducah Chamber breakfast Nov. 5 - KBSI Fox 23 Cape Girardeau News | Paducah News
 - `26 Oct 19:49` **gnews_fed** — Jeff Sica discusses tech AI spending and Federal Reserve rate expectations - Fox Business
 - `26 Oct 19:46` **investinglive** — Broader US stock indices are higher after each held support targets on Friday
+- `26 Oct 19:40` **kitco_general** — GENIUS Act, description={PAGE_DESCRIPTION} - Kitco
 - `26 Oct 19:32` **investing_commodities** — Baltic dry bulk freight index falls to near one-week low
 - `26 Oct 19:31` **aljazeera** — Rohingya dismantle homes amid eviction threat in disputed Kashmir region
 - `26 Oct 19:25` **cointelegraph** — PHP flaw shows AI 'vulnerability apocalypse' is on schedule: Immunefi CEO
@@ -2051,11 +2215,13 @@ US Treasury Secretary Bessent Says Oil Market Well Supplied Amid Iran War Energy
 - `26 Oct 17:40` **gnews_fed** — Why the Federal Reserve is likely to raise rates again - Journal Times
 - `26 Oct 17:40` **gnews_fed** — Why the Federal Reserve is likely to raise rates again - The News Virginian
 - `26 Oct 17:40` **gnews_fed** — Why the Federal Reserve is likely to raise rates again - The Daily Progress
+- `26 Oct 17:40` **gnews_fed** — Why the Federal Reserve is likely to raise rates again - Waterloo-Cedar Falls Courier
 - `26 Oct 17:26` **gnews_fed** — BREAKING: THE FEDERAL RESERVE IS EXPECTED TO HOLD INTERES - KuCoin
 - `26 Oct 17:24` **wsj_world** — Auto & Transport Roundup: Market Talk
 - `26 Oct 17:23` **aljazeera** — Key takeaways from Real Madrid's El Clasico win over Barcelona
 - `26 Oct 17:21` **gnews_fed** — U.S. Grain Markets Face a Critical Week as Mississippi River Levels Fall - AgroLatam
 - `26 Oct 17:18` **aljazeera** — Manchester United crisis: What are the top five problems facing the club?
+- `26 Oct 17:17` **gnews_fed** — The Federal Reserve is set to hold rates this week: Why a December hike is virtually fully priced anyway - www.tmgm.com
 - `26 Oct 17:13` **gnews_fed** — Financial Expert On The Reason Black Wealth is On The Decline - Texas Metro News
 - `26 Oct 17:08` **mining_com** — Lula's Brazil win puts rare earths in Trump's crosshairs
 - `26 Oct 16:58` **gnews_fed** — Patrick Harker on Real-Time Payments and the Future of the Federal Reserve - Mercatus Center
@@ -2194,45 +2360,45 @@ investing_news (5)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 12 | 13 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | WARN | 4 | 0 | 0 | 0 | 4 | 3.5 |
-| instaforex | STALE | 25 | 0 | 0 | 0 | 25 | 3.1 |
-| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.1 |
-| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
-| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.0 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 46.1 |
-| kitco_general | OK | 6 | 6 | 3 | 3 | 0 | 0.0 |
-| gnews_fed | OK | 100 | 100 | 28 | 72 | 0 | 0.0 |
-| gnews_geopolitics | OK | 95 | 95 | 11 | 84 | 0 | 0.0 |
-| gnews_centralbanks | OK | 37 | 37 | 4 | 33 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 11.8 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.5 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.1 |
-| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 3.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 12.8 |
-| mining_com | OK | 36 | 7 | 2 | 5 | 29 | 0.0 |
-| oilprice | OK | 15 | 15 | 5 | 10 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
+| marketpulse | WARN | 4 | 0 | 0 | 0 | 4 | 3.6 |
+| instaforex | STALE | 25 | 0 | 0 | 0 | 25 | 3.2 |
+| wsj_economy | OK | 36 | 5 | 1 | 4 | 31 | 0.1 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 46.3 |
+| kitco_general | OK | 7 | 7 | 1 | 6 | 0 | 0.2 |
+| gnews_fed | OK | 82 | 82 | 25 | 57 | 0 | 0.0 |
+| gnews_geopolitics | OK | 84 | 84 | 15 | 69 | 0 | 0.1 |
+| gnews_centralbanks | OK | 38 | 38 | 6 | 32 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 11.9 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.7 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.2 |
+| boj_whatsnew | OK | 51 | 1 | 1 | 0 | 50 | 0.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 12.9 |
+| mining_com | OK | 36 | 8 | 1 | 7 | 28 | 0.1 |
+| oilprice | OK | 15 | 15 | 3 | 12 | 0 | 0.0 |
 | investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| ing_think | OK | 10 | 6 | 1 | 5 | 4 | 0.2 |
-| bbc_business | OK | 56 | 7 | 0 | 7 | 49 | 0.1 |
-| aljazeera | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.5 |
-| boc_press | WARN | 10 | 0 | 0 | 0 | 10 | 46.4 |
-| eia_energy | WARN | 19 | 0 | 0 | 0 | 19 | 4.3 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 20.4 |
-| wsj_world | OK | 70 | 21 | 7 | 14 | 49 | 0.0 |
-| wsj_markets | OK | 61 | 24 | 9 | 15 | 37 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| ing_think | OK | 10 | 6 | 0 | 6 | 4 | 0.3 |
+| bbc_business | OK | 56 | 10 | 2 | 8 | 46 | 0.0 |
+| aljazeera | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.7 |
+| boc_press | WARN | 10 | 0 | 0 | 0 | 10 | 46.6 |
+| eia_energy | WARN | 19 | 0 | 0 | 0 | 19 | 4.5 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 20.5 |
+| wsj_world | OK | 70 | 22 | 1 | 21 | 48 | 0.0 |
+| wsj_markets | OK | 61 | 27 | 2 | 25 | 34 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 20 | 5 | 15 | 10 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 21 | 1 | 20 | 9 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
