@@ -1,8 +1,8 @@
 # News Pack — Trading Day 26 Oct 2026
 
 - Trading day: **26 Oct 03:00 -> 27 Oct 02:59 PKT**
-- Aakhri update: **27 Oct 05:55 PKT**
-- Kul khabrein: **699**
+- Aakhri update: **27 Oct 11:04 PKT**
+- Kul khabrein: **721**
 - Feeds: 30/39 OK
 
 ---
@@ -393,6 +393,11 @@ Investment and deposit accounts that may benefit most from Fed rate hikes: How m
 
 Copper Extends Drop as AI Stocks Weigh Ahead of Fed Meeting Bloomberg.com
 
+**The Fed Could Hike Interest Rates Again in 2026. Here's What Investors Should Do Right Now. - AOL.com**
+`26 Oct 23:50 PKT` · pehli baar dekhi `27 Oct 11:04` · gnews_fed
+
+The Fed Could Hike Interest Rates Again in 2026. Here's What Investors Should Do Right Now. AOL.com
+
 **FOMC Preview: To Hike Or Not To Hike? That's The Trap (SPX) - Seeking Alpha**
 `26 Oct 23:18 PKT` · pehli baar dekhi `27 Oct 02:46` · gnews_fed
 
@@ -412,6 +417,11 @@ Fed predictions for 2026: Will another rate hike happen by the end of the year? 
 `26 Oct 22:27 PKT` · pehli baar dekhi `27 Oct 02:46` · gnews_fed
 
 US Dollar Index Price Forecast: DXY trades above 101.50 as bullish bias persists ahead of FOMC www.tmgm.com
+
+**Fed signals leave traders guessing ahead of rate decision - Los Angeles Times**
+`26 Oct 22:20 PKT` · pehli baar dekhi `27 Oct 11:04` · gnews_fed
+
+Fed signals leave traders guessing ahead of rate decision Los Angeles Times
 
 **Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.**
 `26 Oct 22:19 PKT` · pehli baar dekhi `26 Oct 22:24` · mw_topstories
@@ -578,10 +588,20 @@ Editorial: Tired yet of prices going up? The Fed needs to raise interest rates. 
 
 Fed Meeting Focus Turns to Warsh Messaging With December in Mind Bloomberg.com
 
+**Fed's 'tailoring' initiative may be easier said than done - Asset Securitization Report**
+`26 Oct 15:00 PKT` · pehli baar dekhi `27 Oct 11:04` · gnews_fed
+
+Fed's 'tailoring' initiative may be easier said than done Asset Securitization Report
+
 **Kevin Warsh Federal Reserve December Guidance Highlights Policy Week - The Cryptonomist**
 `26 Oct 14:57 PKT` · pehli baar dekhi `26 Oct 16:11` · gnews_fed
 
 Kevin Warsh Federal Reserve December Guidance Highlights Policy Week The Cryptonomist
+
+**Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking - Yahoo Finance**
+`26 Oct 14:49 PKT` · pehli baar dekhi `27 Oct 11:04` · gnews_fed
+
+Fed expected to hold rates steady this week despite hot inflation — but signal they're not done hiking Yahoo Finance
 
 **The 19 People in the Room When the Fed Sets Interest Rates - WSJ**
 `26 Oct 14:32 PKT` · pehli baar dekhi `26 Oct 22:24` · gnews_fed
@@ -627,6 +647,11 @@ Fed to pause rate hikes ahead of US midterms 2026? Seth R. Freeman explains why 
 `26 Oct 13:27 PKT` · pehli baar dekhi `26 Oct 16:11` · gnews_fed
 
 US Dollar Index Price Forecast: DXY holds bullish bias above 101.50 ahead of FOMC FXStreet
+
+**U.S. Treasury yields are little changed as investors look ahead to the Fed's rate decision - CNBC**
+`26 Oct 12:49 PKT` · pehli baar dekhi `27 Oct 11:04` · gnews_fed
+
+U.S. Treasury yields are little changed as investors look ahead to the Fed's rate decision CNBC
 
 **A Perfect Storm for Bitcoin? Fed, PCE, GDP and Big Tech Earnings Ahead - CryptoRank**
 `26 Oct 12:34 PKT` · pehli baar dekhi `26 Oct 16:11` · gnews_fed
@@ -777,6 +802,11 @@ Stock Futures Are Rising Ahead of Fed Decision Barron's
 
 ### EUR
 
+**Euro faces ECB caution and French risk – BBH - www.tmgm.com**
+`27 Oct 02:25 PKT` · pehli baar dekhi `27 Oct 11:04` · gnews_centralbanks
+
+Euro faces ECB caution and French risk – BBH www.tmgm.com
+
 **Opinion | What's the Matter With France?**
 `27 Oct 02:22 PKT` · pehli baar dekhi `27 Oct 02:46` · wsj_world
 
@@ -803,9 +833,10 @@ ECB rate outlook: Eurozone inflation, French debt and rising bond yields Equiti 
 Markets reacted with relief after France avoided a rating downgrade, but the story remains unchanged. With plenty of political risks ahead, we remain wary of wider spreads
 
 **France's debt woes in focus as ECB meets - Kuwait Times**
-`26 Oct 20:59 PKT` · pehli baar dekhi `27 Oct 02:46` · gnews_centralbanks
+`26 Oct 20:59 PKT` · pehli baar dekhi `27 Oct 02:46` · gnews_centralbanks · **2 feeds mein**
 
 France's debt woes in focus as ECB meets Kuwait Times
+  - `26 Oct 13:31` *gnews_centralbanks* — France's debt woes in focus as ECB meets - eNCA
 
 **Sunset Market Commentary**
 `26 Oct 20:19 PKT` · pehli baar dekhi `26 Oct 22:24` · actionforex · **2 feeds mein**
@@ -1191,6 +1222,11 @@ ASX Preview: Australian Shares to Fall as Oil Nears Six-Month Highs; Ramelius Re
 
 ### OIL
 
+**Hormuz Reopening to Release Wave of Oil Supply, Depress Prices - EnergyNow.com**
+`27 Oct 02:26 PKT` · pehli baar dekhi `27 Oct 11:04` · gnews_geopolitics
+
+Hormuz Reopening to Release Wave of Oil Supply, Depress Prices EnergyNow.com
+
 **Oil futures: Crude volatility remains amid mixed messaging on Iran - Quantum Commodity Intelligence**
 `27 Oct 02:24 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_geopolitics
 
@@ -1226,10 +1262,21 @@ Oil and gas may be flowing through the Strait of Hormuz again, but the impacts o
 
 Occidental Oil Prices Jump as Supply Concerns Lift Crude EnergyNow.com
 
+**Oil prices fall as Saudi-Iranian tensions ease... "War premium alone is $20" - 파이낸셜뉴스**
+`27 Oct 01:09 PKT` · pehli baar dekhi `27 Oct 11:04` · gnews_geopolitics
+
+Oil prices fall as Saudi-Iranian tensions ease... "War premium alone is $20" 파이낸셜뉴스
+
 **Iran War Pushes Trump's Average Gasoline Prices Above Biden's**
 `27 Oct 01:00 PKT` · pehli baar dekhi `27 Oct 02:46` · oilprice
 
 The average price Americans have paid for gasoline during President Donald Trump's second term has now surpassed the average recorded during Joe Biden's presidency, marking a politically significant milestone just days before the November 3 midterm elections. According to AAA data cited by Reuters, regular gasoline has averaged $3.472 per gallon since Trump returned to office in January 2025, compared with $3.471 during Biden's four-year presidency.
+
+**Crude Oil Prices Fall Back As Iran Holds Regional Security Meeting - TradingView**
+`27 Oct 00:31 PKT` · pehli baar dekhi `27 Oct 11:04` · gnews_geopolitics · **2 feeds mein**
+
+Crude Oil Prices Fall Back As Iran Holds Regional Security Meeting TradingView
+  - `26 Oct 21:13` *gnews_geopolitics* — Crude Oil Prices Fall Back As Iran Holds Regional Security Meeting - TradingView
 
 **Federal Reserve survey: Commodity, diesel prices hamper ag outlook - www.agrinews-pubs.com**
 `27 Oct 00:30 PKT` · pehli baar dekhi `27 Oct 02:46` · gnews_fed
@@ -1290,20 +1337,28 @@ EQT Corp. (NYSE:EQT) will buy Range Resources (NYSE:RRC) in an all-stock deal va
 
 Iran oil output at three fields with ZN Vostok exceeds target by 7,000 bpd Trend News Agency
 
-**Crude Oil Prices Fall Back As Iran Holds Regional Security Meeting - TradingView**
-`26 Oct 21:13 PKT` · pehli baar dekhi `27 Oct 05:55` · gnews_geopolitics
-
-Crude Oil Prices Fall Back As Iran Holds Regional Security Meeting TradingView
-
 **Saudi, Pakistani, Iranian and Turkish security chiefs sit down in Tehran, agree to continue talks**
 `26 Oct 21:07 PKT` · pehli baar dekhi `26 Oct 22:24` · investinglive
 
 Iran hosted the first four-way meeting of Iran, Pakistan, Turkey and Saudi Arabia in Tehran today, according to Fars. The group released a short statement afterwards, noting that they had agreed to continuing talks. The lack of detail is naturally frustrating but this is undoubtedly a push to provide some kind of durable peace in the region.
 
+**Oil Prices Fall as Supply Concerns Ease on Hopes for US-Iran Talks - EnergyNow.com**
+`26 Oct 21:01 PKT` · pehli baar dekhi `27 Oct 11:04` · gnews_geopolitics
+
+Oil Prices Fall as Supply Concerns Ease on Hopes for US-Iran Talks EnergyNow.com
+
 **Why Saudi Just Abandoned Its Core Oil Rule**
 `26 Oct 21:00 PKT` · pehli baar dekhi `26 Oct 22:24` · oilprice
 
 Few could argue with U.S. President Donald Trump's key objective in launching 'Operation Epic Fury' against Iran on 28 February -- to prevent Iran from ever being able to develop a nuclear weapon. All members of his Cabinet fully backed this aim at the time, as they did the other three: to effect regime change, to critically degrade Iran's ballistic missile capability, and to neutralise the ability of its proxies, especially Hamas and Hezbollah, to cause mayhem across the Middle East and the ...
+
+**Oil falls from near six-month high as Iran mediation efforts ease supply worries - Investing.com India**
+`26 Oct 20:50 PKT` · pehli baar dekhi `27 Oct 11:04` · gnews_geopolitics · **4 feeds mein**
+
+Oil falls from near six-month high as Iran mediation efforts ease supply worries Investing.com India
+  - `26 Oct 12:06` *gnews_geopolitics* — Oil falls from 6-mth highs as Iran mediation efforts ease supply worries - Investing.com Nigeria
+  - `26 Oct 12:01` *gnews_geopolitics* — Oil falls from 6-mth highs as Iran mediation efforts ease supply worries - Investing.com
+  - `26 Oct 06:18` *gnews_geopolitics* — Oil falls from 6-mth highs as Iran mediation efforts ease supply worries - Investing.com UK
 
 **Oil eases on diplomacy hopes; European gas rises on winter supply concerns - Oil & Gas Journal**
 `26 Oct 20:39 PKT` · pehli baar dekhi `26 Oct 22:24` · gnews_geopolitics
@@ -1509,12 +1564,6 @@ Saudi Arabia has struck a deal with the Singaporean government to store crude oi
 
 Oil prices fall as US-Iran diplomacy eases supply concerns Anadolu Ajansı
 
-**Oil falls from 6-mth highs as Iran mediation efforts ease supply worries - Investing.com**
-`26 Oct 12:01 PKT` · pehli baar dekhi `26 Oct 16:11` · gnews_geopolitics · **2 feeds mein**
-
-Oil falls from 6-mth highs as Iran mediation efforts ease supply worries Investing.com
-  - `26 Oct 06:18` *gnews_geopolitics* — Oil falls from 6-mth highs as Iran mediation efforts ease supply worries - Investing.com UK
-
 **Oil Prices Retreat as Trump's Latest Iran Remarks Push WTI Down Over 2%, Brent Below $110 - TradingKey**
 `26 Oct 11:12 PKT` · pehli baar dekhi `26 Oct 16:11` · gnews_geopolitics
 
@@ -1712,6 +1761,11 @@ The theft is too small to move SOL on its own, but it lands on a fragile tape. S
 
 Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms Cryptonews.net
 
+**Bitcoin Price Teeters At $80,000 As Traders Wait On Fed - Bitcoin Magazine**
+`26 Oct 22:43 PKT` · pehli baar dekhi `27 Oct 11:04` · gnews_fed
+
+Bitcoin Price Teeters At $80,000 As Traders Wait On Fed Bitcoin Magazine
+
 **South Korea lawmakers mull pushing crypto tax implementation to 2029**
 `26 Oct 21:18 PKT` · pehli baar dekhi `26 Oct 22:24` · cointelegraph
 
@@ -1854,6 +1908,11 @@ Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent m
 `27 Oct 02:42 PKT` · pehli baar dekhi `27 Oct 05:55` · aljazeera
 
 The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.
+
+**Oil Rises as Trump Threatens Sanctions on Iran Partners - EnergyNow.com**
+`27 Oct 02:30 PKT` · pehli baar dekhi `27 Oct 11:04` · gnews_geopolitics
+
+Oil Rises as Trump Threatens Sanctions on Iran Partners EnergyNow.com
 
 **Russia stocks higher at close of trade; MOEX Russia Index up 1.09%**
 `27 Oct 02:20 PKT` · pehli baar dekhi `27 Oct 02:46` · investing_news
@@ -2013,18 +2072,23 @@ After years of war, displacement and restrictions, Gazans ask whether Israel's e
 
 Trump Says "We're Making A Freaking Fortune" From The Iran War's Oil Spike. Here's What The Economic Data Actually Show 24/7 Wall St.
 
+**Oil drops from near six-month highs on hopes Iran war hostilities to ease - The Express Tribune**
+`26 Oct 13:33 PKT` · pehli baar dekhi `27 Oct 11:04` · gnews_geopolitics · **3 feeds mein**
+
+Oil drops from near six-month highs on hopes Iran war hostilities to ease The Express Tribune
+  - `26 Oct 04:27` *gnews_geopolitics* — Oil drops from near six-month highs on hopes Iran war hostilities to ease - The Edge Malaysia
+  - `26 Oct 04:24` *gnews_geopolitics* — Oil drops from near six-month highs on hopes Iran war hostilities to ease - Reuters
+
 **Stock earnings pick of the week: Can Microsoft's AI growth still justify its spending spree?**
 `26 Oct 13:16 PKT` · pehli baar dekhi `26 Oct 16:11` · investinglive
 
 Microsoft will report earnings on Wednesday, 28 October, and once again this will be one of those times where the numbers themselves might not be the biggest story. Now, don't get me wrong. The results will still matter. Analysts are expecting revenue of around $90.6 billion, up nearly 17% from a year ago, alongside EPS of $4.71. Those are strong growth numbers, especially when you consider just how big Microsoft already is.
 
 **Oil drops from near six-month highs on hopes Iran war hostilities to ease - Yahoo! Finance Canada**
-`26 Oct 13:08 PKT` · pehli baar dekhi `26 Oct 22:24` · gnews_geopolitics · **4 feeds mein**
+`26 Oct 13:08 PKT` · pehli baar dekhi `26 Oct 22:24` · gnews_geopolitics · **2 feeds mein**
 
 Oil drops from near six-month highs on hopes Iran war hostilities to ease Yahoo! Finance Canada
   - `26 Oct 09:28` *gnews_geopolitics* — Oil drops from near six-month highs on hopes Iran war hostilities to ease - Yahoo Finance
-  - `26 Oct 04:27` *gnews_geopolitics* — Oil drops from near six-month highs on hopes Iran war hostilities to ease - The Edge Malaysia
-  - `26 Oct 04:24` *gnews_geopolitics* — Oil drops from near six-month highs on hopes Iran war hostilities to ease - Reuters
 
 **FX Daily: BRL set to suffer on surprise Lula win**
 `26 Oct 12:54 PKT` · pehli baar dekhi `26 Oct 16:11` · ing_think
@@ -2089,7 +2153,7 @@ India Sees Qatar LNG Supply Cut After Iran Strike EnergyNow.com
 
 US Treasury Secretary Bessent Says Oil Market Well Supplied Amid Iran War EnergyNow.com
 
-### BINA TAG (250)
+### BINA TAG (256)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2124,13 +2188,16 @@ US Treasury Secretary Bessent Says Oil Market Well Supplied Amid Iran War Energy
 - `27 Oct 01:46` **aljazeera** — Palestinian children crawl under Israeli military gates to get to school
 - `27 Oct 01:41` **aljazeera** — Huge explosion at a weapons depot in Syria
 - `27 Oct 01:38` **aljazeera** — What Vucic's defeat means for Serbia's foreign policy
+- `27 Oct 01:34` **gnews_fed** — Eighth Circuit strikes down Federal Reserve's 21-cent debit card fee cap - Courthouse News
 - `27 Oct 01:33` **gnews_fed** — Found: U.S. Federal Reserve Interest-Rate Decision Preview - cedarnews.net
 - `27 Oct 01:29` **wsj_markets** — Tech Rallies, Brazil Crashes
 - `27 Oct 01:26` **gnews_fed** — Eighth Circuit strikes down Federal Reserve's 21-cent debit card fee cap - Courthouse News
+- `27 Oct 01:25` **gnews_fed** — The Federal Reserve is poised to leave rates unchanged this week: Why markets have nevertheless almost fully priced in a December hike - www.tmgm.com
 - `27 Oct 01:20` **aljazeera** — How a WhatsApp channel helped Lula win Brazil's election
 - `27 Oct 01:17` **aljazeera** — 'Deflections': Abdul El-Sayed responds to Trump's anti-Muslim attacks
 - `27 Oct 01:10` **gnews_fed** — Federal Reserve to announce its latest interest rate move this week. Here's what economists expect. - CBS News
 - `27 Oct 01:09` **mw_topstories** — Sorry investors, but there's no such thing as an early 'Santa Claus rally.' Here's when the real gains typically happen.
+- `27 Oct 01:04` **gnews_fed** — December hike nearly fully priced in despite Federal Reserve's expected rate hold this week - www.tmgm.com
 - `27 Oct 00:49` **aljazeera** — 80 injured after bus plunges down embankment near Barcelona
 - `27 Oct 00:42` **mw_topstories** — The house, the kids' college and the raise: Where people in their 30s and 40s go wrong
 - `27 Oct 00:41` **gnews_fed** — Allient, Bel Fuse, Ducommun, Mercury Systems, and FuelCell Energy shares skyrocket, what you need to know - TradingView
@@ -2216,6 +2283,8 @@ US Treasury Secretary Bessent Says Oil Market Well Supplied Amid Iran War Energy
 - `26 Oct 17:40` **gnews_fed** — Why the Federal Reserve is likely to raise rates again - The News Virginian
 - `26 Oct 17:40` **gnews_fed** — Why the Federal Reserve is likely to raise rates again - The Daily Progress
 - `26 Oct 17:40` **gnews_fed** — Why the Federal Reserve is likely to raise rates again - Waterloo-Cedar Falls Courier
+- `26 Oct 17:40` **gnews_fed** — Why the Federal Reserve is likely to raise rates again - Dothan Eagle
+- `26 Oct 17:40` **gnews_fed** — Why the Federal Reserve is likely to raise rates again - La Crosse Tribune
 - `26 Oct 17:26` **gnews_fed** — BREAKING: THE FEDERAL RESERVE IS EXPECTED TO HOLD INTERES - KuCoin
 - `26 Oct 17:24` **wsj_world** — Auto & Transport Roundup: Market Talk
 - `26 Oct 17:23` **aljazeera** — Key takeaways from Real Madrid's El Clasico win over Barcelona
@@ -2270,6 +2339,7 @@ US Treasury Secretary Bessent Says Oil Market Well Supplied Amid Iran War Energy
 - `26 Oct 14:02` **mw_topstories** — Support for semiconductor stocks could be as much as 15% lower than current levels, says Morgan Stanley
 - `26 Oct 14:01` **mw_topstories** — Tyler Perry cuts price of $36 million Wyoming property on 37 acres, buys $30 million Puerto Rico home
 - `26 Oct 14:00` **snb_press** — 2026-10-26 - Data portal - Important monetary policy data, 26 October 2026
+- `26 Oct 13:55` **gnews_fed** — Federal Reserve expected to tap brakes on rate hikes - Yahoo Finance
 - `26 Oct 13:55` **gnews_fed** — Federal Reserve expected to tap brakes on rate hikes - Semafor
 - `26 Oct 13:49` **wsj_world** — Santander Shares Drop After Surprise Result in Brazilian Election
 - `26 Oct 13:41` **aljazeera** — Lula's victory may be a turning point for Latin America
@@ -2360,45 +2430,45 @@ investing_news (5)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
-| marketpulse | WARN | 4 | 0 | 0 | 0 | 4 | 3.6 |
-| instaforex | STALE | 25 | 0 | 0 | 0 | 25 | 3.2 |
-| wsj_economy | OK | 36 | 5 | 1 | 4 | 31 | 0.1 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 46.3 |
-| kitco_general | OK | 7 | 7 | 1 | 6 | 0 | 0.2 |
-| gnews_fed | OK | 82 | 82 | 25 | 57 | 0 | 0.0 |
-| gnews_geopolitics | OK | 84 | 84 | 15 | 69 | 0 | 0.1 |
-| gnews_centralbanks | OK | 38 | 38 | 6 | 32 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 11.9 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.7 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.2 |
-| boj_whatsnew | OK | 51 | 1 | 1 | 0 | 50 | 0.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 12.9 |
-| mining_com | OK | 36 | 8 | 1 | 7 | 28 | 0.1 |
-| oilprice | OK | 15 | 15 | 3 | 12 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| ing_think | OK | 10 | 6 | 0 | 6 | 4 | 0.3 |
-| bbc_business | OK | 56 | 10 | 2 | 8 | 46 | 0.0 |
-| aljazeera | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.7 |
-| boc_press | WARN | 10 | 0 | 0 | 0 | 10 | 46.6 |
-| eia_energy | WARN | 19 | 0 | 0 | 0 | 19 | 4.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 20.5 |
-| wsj_world | OK | 70 | 22 | 1 | 21 | 48 | 0.0 |
-| wsj_markets | OK | 61 | 27 | 2 | 25 | 34 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 7 | 13 | 0 | 0.1 |
+| marketpulse | WARN | 4 | 0 | 0 | 0 | 4 | 3.8 |
+| instaforex | STALE | 25 | 0 | 0 | 0 | 25 | 3.4 |
+| wsj_economy | OK | 36 | 6 | 1 | 5 | 30 | 0.1 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 46.5 |
+| kitco_general | OK | 6 | 6 | 0 | 6 | 0 | 0.4 |
+| gnews_fed | OK | 100 | 100 | 32 | 68 | 0 | 0.0 |
+| gnews_geopolitics | OK | 61 | 61 | 18 | 43 | 0 | 0.0 |
+| gnews_centralbanks | OK | 42 | 42 | 10 | 32 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 12.1 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.9 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.4 |
+| boj_whatsnew | OK | 47 | 2 | 1 | 1 | 45 | 0.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 13.1 |
+| mining_com | OK | 36 | 8 | 0 | 8 | 28 | 0.3 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.3 |
+| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| ing_think | OK | 10 | 6 | 0 | 6 | 4 | 0.5 |
+| bbc_business | OK | 44 | 12 | 2 | 10 | 32 | 0.0 |
+| aljazeera | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.9 |
+| boc_press | WARN | 10 | 0 | 0 | 0 | 10 | 46.8 |
+| eia_energy | WARN | 19 | 0 | 0 | 0 | 19 | 4.7 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 20.7 |
+| wsj_world | OK | 71 | 25 | 3 | 22 | 46 | 0.1 |
+| wsj_markets | OK | 61 | 31 | 7 | 24 | 30 | 0.1 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 21 | 1 | 20 | 9 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 23 | 2 | 21 | 7 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
