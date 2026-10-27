@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "27 Oct 2026 22:05",
+  "generated_pkt": "28 Oct 2026 02:03",
   "trading_day": "2026-10-27",
   "feed_sources": {
     "thisweek": "live"
@@ -1267,5 +1267,61 @@
       "trading_day": "2026-10-31"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US October Richmond Fed -2 vs -2 expected",
+      "actual_raw": "-2",
+      "forecast_raw": "-2",
+      "beat": false,
+      "raw_diff": "+0.00",
+      "sign_flip": false,
+      "diff_pct": 0.0,
+      "when_pkt": "27 Oct 19:00",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "October US consumer confidence 91.7 vs 81.0 expected",
+      "actual_raw": "91.7",
+      "forecast_raw": "81.0",
+      "beat": true,
+      "raw_diff": "+10.70",
+      "sign_flip": false,
+      "diff_pct": 13.2,
+      "when_pkt": "27 Oct 19:00",
+      "source": "investinglive",
+      "tags": []
+    },
+    {
+      "title": "US FHFA Monthly home prices index 0.3% vs 0.2% estimate",
+      "actual_raw": "0.3%",
+      "forecast_raw": "0.2%",
+      "beat": true,
+      "raw_diff": "+0.10pp",
+      "sign_flip": false,
+      "diff_pct": 50.0,
+      "when_pkt": "27 Oct 18:00",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US September durable goods orders +1.8% vs +1.7% expected",
+      "actual_raw": "+1.8%",
+      "forecast_raw": "+1.7%",
+      "beat": true,
+      "raw_diff": "+0.10pp",
+      "sign_flip": false,
+      "diff_pct": 5.9,
+      "when_pkt": "27 Oct 17:30",
+      "source": "investinglive",
+      "tags": [
+        "risk",
+        "usd"
+      ]
+    }
+  ]
 }

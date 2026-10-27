@@ -1,6 +1,6 @@
 # Calendar — Trading Day 27 Oct 2026
 
-- Banaya gaya: **27 Oct 2026 22:05 PKT**
+- Banaya gaya: **28 Oct 2026 02:03 PKT**
 - Trading day: **27 Oct 03:00 -> 28 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,27 +12,29 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **28 Oct** 01:30 | USD | low | API Weekly Statistical Bulletin | - | - |
-| **28 Oct** 05:15 | AUD | MED | RBA Gov Bullock Speaks | - | - |
-| **28 Oct** 05:30 | AUD | **HIGH** | CPI m/m | 0.7% | 0.4% |
-| **28 Oct** 05:30 | AUD | **HIGH** | CPI y/y | 4.2% | 4.0% |
-| **28 Oct** 05:30 | AUD | **HIGH** | Trimmed Mean CPI m/m | 0.3% | 0.2% |
-| **28 Oct** 06:00 | NZD | **HIGH** | Official Cash Rate | 3.00% | 2.75% |
-| **28 Oct** 06:00 | NZD | **HIGH** | RBNZ Rate Statement | - | - |
-| **28 Oct** 07:00 | NZD | **HIGH** | RBNZ Press Conference | - | - |
-| **28 Oct** 12:00 | EUR | low | German GfK Consumer Climate | -30.1 | -30.6 |
-| **28 Oct** 14:00 | CHF | low | UBS Economic Expectations | - | 2.6 |
-| **28 Oct** 14:42 | EUR | low | German 10-y Bond Auction | - | 3.58|1.2 |
-| **28 Oct** 17:30 | GBP | **HIGH** | Annual Budget Release | - | - |
-| **28 Oct** 17:30 | GBP | MED | Autumn Forecast Statement | - | - |
-| **28 Oct** 17:30 | USD | low | Goods Trade Balance | -130.4B | -132.6B |
-| **28 Oct** 17:30 | USD | low | Prelim Wholesale Inventories m/m | 0.5% | 0.7% |
-| **28 Oct** 18:00 | CNY | low | CB Leading Index m/m | - | -0.2% |
-| **28 Oct** 18:45 | CAD | **HIGH** | BOC Monetary Policy Report | - | - |
-| **28 Oct** 18:45 | CAD | **HIGH** | BOC Rate Statement | - | - |
-| **28 Oct** 18:45 | CAD | **HIGH** | Overnight Rate | 2.50% | 2.25% |
-| **28 Oct** 19:30 | CAD | **HIGH** | BOC Press Conference | - | - |
-| **28 Oct** 19:30 | USD | low | Crude Oil Inventories | -0.1M | -3.1M |
+| 05:15 | AUD | MED | RBA Gov Bullock Speaks | - | - |
+| 05:30 | AUD | **HIGH** | CPI m/m | 0.7% | 0.4% |
+| 05:30 | AUD | **HIGH** | CPI y/y | 4.2% | 4.0% |
+| 05:30 | AUD | **HIGH** | Trimmed Mean CPI m/m | 0.3% | 0.2% |
+| 06:00 | NZD | **HIGH** | Official Cash Rate | 3.00% | 2.75% |
+| 06:00 | NZD | **HIGH** | RBNZ Rate Statement | - | - |
+| 07:00 | NZD | **HIGH** | RBNZ Press Conference | - | - |
+| 12:00 | EUR | low | German GfK Consumer Climate | -30.1 | -30.6 |
+| 14:00 | CHF | low | UBS Economic Expectations | - | 2.6 |
+| 14:42 | EUR | low | German 10-y Bond Auction | - | 3.58|1.2 |
+| 17:30 | GBP | **HIGH** | Annual Budget Release | - | - |
+| 17:30 | GBP | MED | Autumn Forecast Statement | - | - |
+| 17:30 | USD | low | Goods Trade Balance | -130.4B | -132.6B |
+| 17:30 | USD | low | Prelim Wholesale Inventories m/m | 0.5% | 0.7% |
+| 18:00 | CNY | low | CB Leading Index m/m | - | -0.2% |
+| 18:45 | CAD | **HIGH** | BOC Monetary Policy Report | - | - |
+| 18:45 | CAD | **HIGH** | BOC Rate Statement | - | - |
+| 18:45 | CAD | **HIGH** | Overnight Rate | 2.50% | 2.25% |
+| 19:30 | CAD | **HIGH** | BOC Press Conference | - | - |
+| 19:30 | USD | low | Crude Oil Inventories | -0.1M | -3.1M |
+| 23:00 | USD | **HIGH** | Federal Funds Rate | 4.00% | 4.00% |
+| 23:00 | USD | **HIGH** | FOMC Statement | - | - |
+| 23:30 | USD | **HIGH** | FOMC Press Conference | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
@@ -47,6 +49,9 @@
 - `28 Oct 18:45` **CAD BOC Rate Statement**
 - `28 Oct 18:45` **CAD Overnight Rate**
 - `28 Oct 19:30` **CAD BOC Press Conference**
+- `28 Oct 23:00` **USD Federal Funds Rate**
+- `28 Oct 23:00` **USD FOMC Statement**
+- `28 Oct 23:30` **USD FOMC Press Conference**
 
 ---
 
@@ -54,9 +59,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **28 Oct** 23:00 | USD | **HIGH** | Federal Funds Rate | 4.00% | 4.00% |
-| **28 Oct** 23:00 | USD | **HIGH** | FOMC Statement | - | - |
-| **28 Oct** 23:30 | USD | **HIGH** | FOMC Press Conference | - | - |
 | **29 Oct** 17:30 | USD | **HIGH** | Advance GDP q/q | 3.2% | 1.5% |
 | **29 Oct** 17:30 | USD | **HIGH** | Core PCE Price Index m/m | 0.3% | 0.2% |
 | **29 Oct** 17:30 | USD | MED | Advance GDP Price Index q/q | 3.3% | 6.2% |
@@ -78,5 +80,12 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 27 Oct 19:00 | US October Richmond Fed | -2 | -2 | +0.00 (+0%) | neeche |
+| 27 Oct 19:00 | October US consumer confidence | 91.7 | 81.0 | +10.70 (+13%) | upar |
+| 27 Oct 18:00 | US FHFA Monthly home prices index | 0.3% | 0.2% | +0.10pp (+50%) | upar |
+| 27 Oct 17:30 | US September durable goods orders | +1.8% | +1.7% | +0.10pp (+6%) | upar |
 
