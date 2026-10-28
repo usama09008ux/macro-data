@@ -1,8 +1,8 @@
 # News Pack — Trading Day 27 Oct 2026
 
 - Trading day: **27 Oct 03:00 -> 28 Oct 02:59 PKT**
-- Aakhri update: **28 Oct 06:15 PKT**
-- Kul khabrein: **781**
+- Aakhri update: **28 Oct 11:55 PKT**
+- Kul khabrein: **795**
 - Feeds: 31/39 OK
 
 ---
@@ -413,6 +413,11 @@ Bullish Treasury Bets Face Reversal Risk From Hawkish Fed Bloomberg.com
 
 Fitch's December call fits the view that the Fed is still on a hiking path, which supports front-end Treasury yields and the US dollar and argues against any near-term easing. The more telling signal for credit is the split it describes: investment-grade spreads near multi-year lows while CCC yields have blown out. Heavy hyperscaler issuance on top of Treasury supply raises the risk that new deals need bigger concessions even where credit quality holds up.
 
+**Fed's Rate Decision Lands Days Before Midterm Elections - Bloomberg**
+`28 Oct 01:19 PKT` · pehli baar dekhi `28 Oct 11:55` · gnews_fed
+
+Fed's Rate Decision Lands Days Before Midterm Elections Bloomberg
+
 **Wall Street ends higher ahead of FOMC rate decision, big tech earnings - TradingView**
 `28 Oct 01:06 PKT` · pehli baar dekhi `28 Oct 06:15` · gnews_fed
 
@@ -454,9 +459,10 @@ Fed likely holds rates in October but may hike in December amid stubborn inflati
 US Fed To Hit Pause On Key Policy Rates Tomorrow? Three Key Indicators To Watch NDTV Profit
 
 **Fed likely to wait on another rate hike as inflation pressures mount - WCYB**
-`27 Oct 23:17 PKT` · pehli baar dekhi `28 Oct 06:15` · gnews_fed · **9 feeds mein**
+`27 Oct 23:17 PKT` · pehli baar dekhi `28 Oct 06:15` · gnews_fed · **10 feeds mein**
 
 Fed likely to wait on another rate hike as inflation pressures mount WCYB
+  - `27 Oct 23:07` *gnews_fed* — Fed likely to wait on another rate hike as inflation pressures mount - WPBN
   - `27 Oct 22:45` *gnews_fed* — Fed likely to wait on another rate hike as inflation pressures mount - WOAI
   - `27 Oct 22:27` *gnews_fed* — Fed likely to wait on another rate hike as inflation pressures mount - KRCR
   - `27 Oct 22:24` *gnews_fed* — Fed likely to wait on another rate hike as inflation pressures mount - WBFF
@@ -823,6 +829,11 @@ Banks tighten credit standards: ECB Investment Executive
 `27 Oct 22:07 PKT` · pehli baar dekhi `28 Oct 03:03` · investinglive
 
 As London/European traders head home, the major continental indices are closing higher, with Italy and Germany leading the gains. The UK FTSE 100 is the exception, moving lower as weakness in HSBC weighs on sentiment. Meanwhile, the French bond market continues to flash caution, with yields rising despite the recovery in French equities. Italy and Germany lead.
+
+**Euro's losing streak against US Dollar continues: What next for Fed-ECB policy? - www.tmgm.com**
+`27 Oct 22:03 PKT` · pehli baar dekhi `28 Oct 11:55` · gnews_centralbanks
+
+Euro's losing streak against US Dollar continues: What next for Fed-ECB policy? www.tmgm.com
 
 **Euro stays under pressure as Fed and ECB interest rate decisions approach - www.tmgm.com**
 `27 Oct 21:59 PKT` · pehli baar dekhi `28 Oct 03:03` · gnews_centralbanks · **2 feeds mein**
@@ -1306,6 +1317,11 @@ Lockhart Sees Fed Rate Hikes in December and 1Q, Risk Rising Oil Prices Lead to 
 
 Wall Street has spent the last three weeks punishing the companies that build and equip AI data centers, which would make more sense if anyone could point to the orders drying up. As of Friday, that group was down a median 23% since the S&P 500's record close on Oct. 6, while the Big Tech companies actually writing the checks were down only 5%.
 
+**Oil Futures Retreat as Middle East Diplomatic Efforts Pick Up - WSJ**
+`28 Oct 00:49 PKT` · pehli baar dekhi `28 Oct 11:55` · gnews_geopolitics
+
+Oil Futures Retreat as Middle East Diplomatic Efforts Pick Up WSJ
+
 **Oil Futures Fall as Market Holds Out Hope for Middle East Diplomacy - WSJ**
 `28 Oct 00:23 PKT` · pehli baar dekhi `28 Oct 03:03` · gnews_geopolitics
 
@@ -1325,6 +1341,12 @@ Energy briefs–OPEC production, Iran and Saudi Arabia Oklahoma Energy Today
 `28 Oct 00:00 PKT` · pehli baar dekhi `28 Oct 03:03` · oilprice
 
 The diesel crunch is set to persist well into 2027 as supply remains limited by the Middle East conflict and the damaged Russian refineries, analysts say. Attempts at transient small supply-side solutions like the Trump-Putin diesel deal are not expected to move the needle in the very tight global market.
+
+**Crude Oil Prices Fall Back As Iran's Supreme Leader Reiterates Deal Terms - TradingView**
+`27 Oct 23:47 PKT` · pehli baar dekhi `28 Oct 11:55` · gnews_geopolitics · **2 feeds mein**
+
+Crude Oil Prices Fall Back As Iran's Supreme Leader Reiterates Deal Terms TradingView
+  - `27 Oct 20:58` *gnews_geopolitics* — Crude Oil Prices Fall Back As Iran's Supreme Leader Reiterates Deal Terms - TradingView
 
 **Oil drops $2 as Middle East talks ease supply fears - Business Day**
 `27 Oct 23:42 PKT` · pehli baar dekhi `28 Oct 06:15` · gnews_geopolitics
@@ -1409,11 +1431,6 @@ Find insight on crude futures, Galp Energia, Origin Energy and more in the lates
 `27 Oct 21:00 PKT` · pehli baar dekhi `27 Oct 22:56` · oilprice
 
 The Department of Defense is preparing for a potential "doomsday" scenario in which America's power grid collapses, supply chains grind to a halt, and military installations are forced to operate for three months without outside support, according to Fox News.
-
-**Crude Oil Prices Fall Back As Iran's Supreme Leader Reiterates Deal Terms - TradingView**
-`27 Oct 20:58 PKT` · pehli baar dekhi `28 Oct 06:15` · gnews_geopolitics
-
-Crude Oil Prices Fall Back As Iran's Supreme Leader Reiterates Deal Terms TradingView
 
 **Oil Falls After US-Iran Talks Signal Easing Supply Risks - EnergyNow**
 `27 Oct 20:57 PKT` · pehli baar dekhi `28 Oct 06:15` · gnews_geopolitics · **2 feeds mein**
@@ -1842,6 +1859,11 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 What former CFTC Chairman Chris Giancarlo tells his own children about buying their first crypto coin.
 
+**Bitcoin's Nearly Monthlong Range Faces Oct. 28 Fed Meeting - www.tokenpost.com**
+`27 Oct 21:03 PKT` · pehli baar dekhi `28 Oct 11:55` · gnews_fed
+
+Bitcoin's Nearly Monthlong Range Faces Oct. 28 Fed Meeting www.tokenpost.com
+
 **Bitcoin slips below $80,000 as cryptocurrencies weaken ahead of Fed decision - Economies.com**
 `27 Oct 21:00 PKT` · pehli baar dekhi `27 Oct 22:56` · gnews_fed
 
@@ -1851,6 +1873,11 @@ Bitcoin slips below $80,000 as cryptocurrencies weaken ahead of Fed decision Eco
 `27 Oct 20:59 PKT` · pehli baar dekhi `27 Oct 22:56` · cointelegraph
 
 USDC's share of euro stablecoin trading has climbed to 56% since January 2024, with deeper liquidity as exchanges restrict USDT under MiCA.
+
+**Crypto Vanta(@Crypto-Vanta-2c32a19d1c69)'s insights - Binance**
+`27 Oct 20:45 PKT` · pehli baar dekhi `28 Oct 11:55` · gnews_fed
+
+Crypto Vanta(@Crypto-Vanta-2c32a19d1c69)'s insights Binance
 
 **Ripple Wins Final US Bank Approval as Its $2.5 Billion RLUSD Stablecoin Gains Federal Reserve Oversight - CryptoRank**
 `27 Oct 20:24 PKT` · pehli baar dekhi `28 Oct 06:15` · gnews_fed · **2 feeds mein**
@@ -1947,12 +1974,22 @@ Israeli Prime Minister Benjamin Netanyahu has urged voters to back his Likud par
 **Pacasmayo Q3 2026 slides: strong growth, margin expansion highlighted**
 `27 Oct 22:39 PKT` · pehli baar dekhi `27 Oct 22:56` · investing_news
 
+**Federal Reserve: What Are the Expectations for a December Rate Hike? – BNY - www.tmgm.com**
+`27 Oct 22:38 PKT` · pehli baar dekhi `28 Oct 11:55` · gnews_fed
+
+Federal Reserve: What Are the Expectations for a December Rate Hike? – BNY www.tmgm.com
+
 **The Federal Reserve's decision is approaching... does it pave the way for a rate hike in December - المتداول العربي**
 `27 Oct 19:07 PKT` · pehli baar dekhi `27 Oct 22:56` · gnews_fed
 
 The Federal Reserve's decision is approaching... does it pave the way for a rate hike in December المتداول العربي
 
 ### RISK
+
+**Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA - EnergyNow**
+`28 Oct 02:32 PKT` · pehli baar dekhi `28 Oct 11:55` · gnews_geopolitics
+
+Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA EnergyNow
 
 **As Trump touts energy companies' fortunes, U.S. consumers face the most expensive year for gas prices ever**
 `28 Oct 02:29 PKT` · pehli baar dekhi `28 Oct 03:03` · mw_topstories
@@ -2178,7 +2215,7 @@ This is a warning shot rather than an escalation, so the immediate market impact
 
 The chancellor will axe tariffs on some staples as part of plans to give households "breathing space".
 
-### BINA TAG (279)
+### BINA TAG (284)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2192,6 +2229,7 @@ The chancellor will axe tariffs on some staples as part of plans to give househo
 - `28 Oct 02:44` **mining_com** — Anfield Energy secures draft State approvals for Utah uranium mill
 - `28 Oct 02:41` **mw_topstories** — CoreWeave and other AI stocks rise as Anthropic restores the market's faith in sustained spending
 - `28 Oct 02:37` **wsj_world** — Opinion | A Cuba Showdown at the U.N.
+- `28 Oct 02:35` **kitco_general** — AI assumptions description={PAGE_DESCRIPTION} - Kitco
 - `28 Oct 02:28` **mw_topstories** — The rest of the market is leaving Big Tech behind after a historic comeback
 - `28 Oct 02:27` **gnews_fed** — Federal Reserve Must Scrap 21-Cent Cap on Debit Card Swipe Fees, US Appeals Court Says - Law.com
 - `28 Oct 02:26` **cointelegraph** — Intel, IBM, Oracle and IonQ latest to object to OKX-ICE tokenized stocks
@@ -2240,6 +2278,7 @@ The chancellor will axe tariffs on some staples as part of plans to give househo
 - `27 Oct 23:22` **kitco_general** — US energy firms to produce record natgas in 2026 as global demand soars - Kitco
 - `27 Oct 23:21` **gnews_fed** — BUX closes higher as OTP leads a 2,734-point rally - ad-hoc-news.de
 - `27 Oct 23:18` **kitco_general** — North American equity market description={PAGE_DESCRIPTION} - Kitco
+- `27 Oct 23:14` **gnews_fed** — BSE Sensex ends flat as Tata Consumer gains 8 points - ad-hoc-news.de
 - `27 Oct 23:12` **aljazeera** — Jerusalem Daily: Israeli elections underway
 - `27 Oct 23:11` **aljazeera** — Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters
 - `27 Oct 23:11` **gnews_fed** — S&P 500 gains 44 points as Broadcom leads at midday - ad-hoc-news.de
@@ -2248,6 +2287,7 @@ The chancellor will axe tariffs on some staples as part of plans to give househo
 - `27 Oct 23:08` **cointelegraph** — Majority of Americans want candidates who support US-based financial technology: Poll
 - `27 Oct 22:56` **gnews_fed** — Federal Reserve expected to hold interest rates steady in last decision before midterm elections - AOL.co.uk
 - `27 Oct 22:46` **gnews_fed** — Federal Reserve expected to hold interest rates steady in last decision before midterm elections - Fox Business
+- `27 Oct 22:45` **gnews_fed** — 5 things to watch for in this week's Federal Reserve meeting - PBS
 - `27 Oct 22:45` **gnews_fed** — 5 things to watch for in this week's Federal Reserve meeting - PBS
 - `27 Oct 22:42` **investing_news** — US judge to weigh Justice Dept's effort to block California from counting alleged noncitizen votes
 - `27 Oct 22:40` **investing_news** — Constellation secures $5B DOE loan commitment for nuclear uprates
@@ -2307,6 +2347,7 @@ The chancellor will axe tariffs on some staples as part of plans to give househo
 - `27 Oct 19:35` **bbc_business** — How the beauty industry is boosting High Streets
 - `27 Oct 19:33` **wsj_economy** — U.S. Consumer Confidence Improved in October, Conference Board Says
 - `27 Oct 19:23` **gnews_fed** — What to expect from the Federal Reserve's next rate decision - Euronews.com
+- `27 Oct 19:16` **gnews_fed** — Federal Reserve likely to keep rates unchanged - In Business Madison
 - `27 Oct 19:11` **kitco_general** — U.S. durable goods orders description={PAGE_DESCRIPTION} - Kitco
 - `27 Oct 19:10` **actionforex** — US Consumer Confidence Surges to 91.7, but Spending Plans Remain Weak
 - `27 Oct 19:05` **aljazeera** — King Charles's Caribbean tour: Will he discuss slavery reparations?
@@ -2346,6 +2387,7 @@ The chancellor will axe tariffs on some staples as part of plans to give househo
 - `27 Oct 16:52` **wsj_markets** — General Motors Moving Stock Listing to Nasdaq From NYSE
 - `27 Oct 16:51` **mw_topstories** — Here's the question three tech-sector earnings reports raise about the future of AI
 - `27 Oct 16:40` **gnews_fed** — Federal Reserve interest rate decision arriving days before midterms | Morning in America - NewsNation
+- `27 Oct 16:40` **gnews_fed** — Federal Reserve interest rate decision arriving days before midterms | Morning in America - NewsBreak: Local News & Alerts
 - `27 Oct 16:31` **mw_topstories** — Big Tech's earnings are on deck. There's more for investors to watch than AI spending.
 - `27 Oct 16:30` **mw_topstories** — A leading Silicon Valley cheerleader just showed all the reasons to be worried about the AI bubble
 - `27 Oct 16:19` **aljazeera** — Former PLO official says Netanyahu-Eisenkot coalition could be possible
@@ -2478,49 +2520,49 @@ investing_news (12), gnews_fed (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 14 | 11 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 7 | 13 | 0 | 0.0 |
-| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.7 |
-| instaforex | STALE | 25 | 0 | 0 | 0 | 25 | 4.2 |
-| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 0.3 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 6 | 0 | 6 | 4 | 0.2 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 47.3 |
-| kitco_general | OK | 34 | 34 | 6 | 28 | 0 | 0.0 |
-| gnews_fed | OK | 100 | 100 | 52 | 48 | 0 | 0.0 |
-| gnews_geopolitics | OK | 90 | 90 | 19 | 71 | 0 | 0.0 |
-| gnews_centralbanks | OK | 37 | 37 | 6 | 31 | 0 | 0.1 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 14.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 12.9 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 1.1 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 5.2 |
-| boj_whatsnew | OK | 45 | 2 | 0 | 2 | 43 | 0.8 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 13.9 |
-| mining_com | OK | 36 | 15 | 1 | 14 | 21 | 0.1 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| ing_think | OK | 10 | 6 | 0 | 6 | 4 | 0.5 |
-| bbc_business | OK | 51 | 17 | 5 | 12 | 34 | 0.1 |
+| actionforex | OK | 20 | 20 | 5 | 15 | 0 | 0.1 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.9 |
+| instaforex | STALE | 25 | 0 | 0 | 0 | 25 | 4.5 |
+| wsj_economy | OK | 36 | 11 | 3 | 8 | 25 | 0.1 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.6 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_daily_commentary | OK | 10 | 6 | 0 | 6 | 4 | 0.4 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 47.5 |
+| kitco_general | OK | 35 | 35 | 2 | 33 | 0 | 0.2 |
+| gnews_fed | OK | 99 | 99 | 50 | 49 | 0 | 0.0 |
+| gnews_geopolitics | OK | 59 | 59 | 10 | 49 | 0 | 0.1 |
+| gnews_centralbanks | OK | 32 | 32 | 4 | 28 | 0 | 0.1 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 14.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 13.2 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 1.3 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 5.5 |
+| boj_whatsnew | OK | 45 | 2 | 0 | 2 | 43 | 1.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 14.2 |
+| mining_com | OK | 36 | 15 | 0 | 15 | 21 | 0.3 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.1 |
+| ing_think | OK | 10 | 8 | 2 | 6 | 2 | 0.0 |
+| bbc_business | OK | 39 | 18 | 4 | 14 | 21 | 0.0 |
 | aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.7 |
-| boc_press | WARN | 10 | 0 | 0 | 0 | 10 | 47.6 |
-| eia_energy | WARN | 19 | 0 | 0 | 0 | 19 | 5.5 |
-| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 21.5 |
-| wsj_world | OK | 72 | 24 | 1 | 23 | 48 | 0.0 |
-| wsj_markets | OK | 61 | 35 | 6 | 29 | 26 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.9 |
+| boc_press | WARN | 10 | 0 | 0 | 0 | 10 | 47.8 |
+| eia_energy | WARN | 19 | 0 | 0 | 0 | 19 | 5.7 |
+| bea_releases | OK | 48 | 0 | 0 | 0 | 48 | 21.8 |
+| wsj_world | OK | 72 | 24 | 0 | 24 | 48 | 0.0 |
+| wsj_markets | OK | 61 | 38 | 3 | 35 | 23 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 21 | 1 | 20 | 9 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 23 | 2 | 21 | 7 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
 - instaforex — STALE, cadence 1d, magar 4d purana
-- cme_risk_management — STALE, cadence 10d, magar 47d purana
+- cme_risk_management — STALE, cadence 10d, magar 48d purana
 - yahoo_finance — FAIL, HTTP 404
