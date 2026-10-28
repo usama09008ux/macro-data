@@ -284,7 +284,7 @@
 		<title>German 10-y Bond Auction</title>
 		<country>EUR</country>
 		<date><![CDATA[10-28-2026]]></date>
-		<time><![CDATA[9:42am]]></time>
+		<time><![CDATA[10:32am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous><![CDATA[3.58|1.2]]></previous>
@@ -386,7 +386,7 @@
 		<date><![CDATA[10-28-2026]]></date>
 		<time><![CDATA[2:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[-0.1M]]></forecast>
+		<forecast><![CDATA[0.1M]]></forecast>
 		<previous><![CDATA[-3.1M]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/10-us-crude-oil-inventories]]></url>
 	</event>
@@ -526,7 +526,7 @@
 		<date><![CDATA[10-29-2026]]></date>
 		<time><![CDATA[12:30pm]]></time>
 		<impact><![CDATA[Medium]]></impact>
-		<forecast><![CDATA[3.3%]]></forecast>
+		<forecast><![CDATA[3.2%]]></forecast>
 		<previous><![CDATA[6.2%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/3-us-advance-gdp-price-index-qq]]></url>
 	</event>
@@ -606,7 +606,7 @@
 		<date><![CDATA[10-29-2026]]></date>
 		<time><![CDATA[2:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast />
+		<forecast><![CDATA[75B]]></forecast>
 		<previous><![CDATA[77B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/26-us-natural-gas-storage]]></url>
 	</event>
@@ -776,7 +776,7 @@
 		<date><![CDATA[10-30-2026]]></date>
 		<time><![CDATA[7:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[-0.1%]]></forecast>
+		<forecast><![CDATA[-0.2%]]></forecast>
 		<previous><![CDATA[-0.2%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/242-uk-nationwide-hpi-mm]]></url>
 	</event>

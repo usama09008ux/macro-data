@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "28 Oct 2026 06:38",
+  "generated_pkt": "28 Oct 2026 16:29",
   "trading_day": "2026-10-28",
   "feed_sources": {
     "thisweek": "live"
@@ -377,9 +377,9 @@
       "previous": "3.58|1.2",
       "url": "https://www.forexfactory.com/calendar/522-ge-10-y-bond-auction",
       "all_day": false,
-      "utc": "2026-10-28T09:42Z",
-      "pkt": "28 Oct 14:42",
-      "pkt_iso": "2026-10-28T14:42:00+05:00",
+      "utc": "2026-10-28T10:32Z",
+      "pkt": "28 Oct 15:32",
+      "pkt_iso": "2026-10-28T15:32:00+05:00",
       "trading_day": "2026-10-28"
     },
     {
@@ -503,7 +503,7 @@
       "title": "Crude Oil Inventories",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "-0.1M",
+      "forecast": "0.1M",
       "previous": "-3.1M",
       "url": "https://www.forexfactory.com/calendar/10-us-crude-oil-inventories",
       "all_day": false,
@@ -685,7 +685,7 @@
       "title": "Advance GDP Price Index q/q",
       "ccy": "USD",
       "impact": "Medium",
-      "forecast": "3.3%",
+      "forecast": "3.2%",
       "previous": "6.2%",
       "url": "https://www.forexfactory.com/calendar/3-us-advance-gdp-price-index-qq",
       "all_day": false,
@@ -789,7 +789,7 @@
       "title": "Natural Gas Storage",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "75B",
       "previous": "77B",
       "url": "https://www.forexfactory.com/calendar/26-us-natural-gas-storage",
       "all_day": false,
@@ -1010,7 +1010,7 @@
       "title": "Nationwide HPI m/m",
       "ccy": "GBP",
       "impact": "Low",
-      "forecast": "-0.1%",
+      "forecast": "-0.2%",
       "previous": "-0.2%",
       "url": "https://www.forexfactory.com/calendar/242-uk-nationwide-hpi-mm",
       "all_day": false,
