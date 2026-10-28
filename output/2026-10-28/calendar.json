@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "28 Oct 2026 16:29",
+  "generated_pkt": "28 Oct 2026 22:41",
   "trading_day": "2026-10-28",
   "feed_sources": {
     "thisweek": "live"
@@ -1267,5 +1267,20 @@
       "trading_day": "2026-10-31"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US Wholesale inventories 0.6% vs 0.5% estimate",
+      "actual_raw": "0.6%",
+      "forecast_raw": "0.5%",
+      "beat": true,
+      "raw_diff": "+0.10pp",
+      "sign_flip": false,
+      "diff_pct": 20.0,
+      "when_pkt": "28 Oct 17:31",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }
