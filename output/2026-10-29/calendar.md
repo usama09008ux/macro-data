@@ -1,6 +1,6 @@
 # Calendar — Trading Day 29 Oct 2026
 
-- Banaya gaya: **29 Oct 2026 16:39 PKT**
+- Banaya gaya: **29 Oct 2026 22:49 PKT**
 - Trading day: **29 Oct 03:00 -> 30 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,19 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 17:30 | USD | **HIGH** | Advance GDP q/q | 3.2% | 1.5% |
-| 17:30 | USD | **HIGH** | Core PCE Price Index m/m | 0.3% | 0.2% |
-| 17:30 | USD | MED | Advance GDP Price Index q/q | 3.2% | 6.2% |
-| 17:30 | USD | MED | Unemployment Claims | 198K | 194K |
-| 17:30 | USD | low | Personal Income m/m | 0.3% | 0.2% |
-| 17:30 | USD | low | Personal Spending m/m | 0.6% | 0.9% |
-| 17:50 | CAD | low | Gov Council Member Gravelle Speaks | - | - |
-| 18:15 | EUR | **HIGH** | Main Refinancing Rate | 2.65% | 2.65% |
-| 18:15 | EUR | **HIGH** | Monetary Policy Statement | - | - |
-| 18:45 | EUR | **HIGH** | ECB Press Conference | - | - |
-| 19:30 | USD | low | Natural Gas Storage | 75B | 77B |
-| 20:30 | CAD | low | Gov Council Member Vincent Speaks | - | - |
-| 22:30 | CHF | low | Gov Board Member Tschudin Speaks | - | - |
 | **30 Oct** 04:30 | JPY | MED | Tokyo Core CPI y/y | 2.6% | 2.7% |
 | **30 Oct** 04:30 | JPY | low | Unemployment Rate | 2.5% | 2.5% |
 | **30 Oct** 04:50 | JPY | low | Prelim Industrial Production m/m | 1.2% | -1.7% |
@@ -52,14 +39,14 @@
 | **30 Oct** 15:00 | EUR | low | Italian Prelim CPI m/m | 0.1% | 0.7% |
 | **30 Oct** 15:00 | EUR | low | Prelim Flash GDP q/q | 0.2% | 0.4% |
 | **30 Oct** 15:00 | EUR | low | Unemployment Rate | 6.4% | 6.4% |
+| **30 Oct** 17:30 | CAD | MED | GDP m/m | 0.2% | 0.0% |
+| **30 Oct** 17:30 | USD | MED | Employment Cost Index q/q | 0.8% | 0.9% |
+| **30 Oct** 18:45 | USD | low | Chicago PMI | 55.8 | 58.8 |
+| **30 Oct** 21:00 | USD | low | FOMC Member Daly Speaks | - | - |
+| **30 Oct** 21:30 | USD | low | FOMC Member Musalem Speaks | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
-- `29 Oct 17:30` **USD Advance GDP q/q**
-- `29 Oct 17:30` **USD Core PCE Price Index m/m**
-- `29 Oct 18:15` **EUR Main Refinancing Rate**
-- `29 Oct 18:15` **EUR Monetary Policy Statement**
-- `29 Oct 18:45` **EUR ECB Press Conference**
 - `30 Oct 07:30` **JPY BOJ Policy Rate**
 - `30 Oct 07:30` **JPY Monetary Policy Statement**
 - `30 Oct 07:31` **JPY BOJ Outlook Report**
@@ -69,14 +56,18 @@
 
 ## Is hafte ka baqi hissa — sirf High aur Medium
 
-| Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
-|---|---|---|---|---|---|
-| **30 Oct** 17:30 | CAD | MED | GDP m/m | 0.2% | 0.0% |
-| **30 Oct** 17:30 | USD | MED | Employment Cost Index q/q | 0.8% | 0.9% |
+*Is hafte mein aage koi High ya Medium event nahi bacha.*
+
+*Note: ForexFactory sirf MAUJOODA hafte ka calendar deta hai — agle hafte ki koi file mawjood nahi. Is liye Jumma ko ye hissa khali rehta hai aur Monday ko poora hafta nazar aata hai.*
 
 ---
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 29 Oct 17:30 | US GDP Advance for the 3rd quarter | 3.4% | 3.2% | +0.20pp (+6%) | upar |
+| 29 Oct 17:30 | US initial jobless claims | 194K | 199K | -5.0K (-2%) | neeche |
 

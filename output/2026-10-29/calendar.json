@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "29 Oct 2026 16:39",
+  "generated_pkt": "29 Oct 2026 22:49",
   "trading_day": "2026-10-29",
   "feed_sources": {
     "thisweek": "live"
@@ -650,9 +650,9 @@
       "previous": "4.58|1.6",
       "url": "https://www.forexfactory.com/calendar/524-it-10-y-bond-auction",
       "all_day": false,
-      "utc": "2026-10-29T10:45Z",
-      "pkt": "29 Oct 15:45",
-      "pkt_iso": "2026-10-29T15:45:00+05:00",
+      "utc": "2026-10-29T10:08Z",
+      "pkt": "29 Oct 15:08",
+      "pkt_iso": "2026-10-29T15:08:00+05:00",
       "trading_day": "2026-10-29"
     },
     {
@@ -1267,5 +1267,34 @@
       "trading_day": "2026-10-31"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US GDP Advance for the 3rd quarter 3.4% vs 3.2% estimate",
+      "actual_raw": "3.4%",
+      "forecast_raw": "3.2%",
+      "beat": true,
+      "raw_diff": "+0.20pp",
+      "sign_flip": false,
+      "diff_pct": 6.2,
+      "when_pkt": "29 Oct 17:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US initial jobless claims 194K vs 199K expected",
+      "actual_raw": "194K",
+      "forecast_raw": "199K",
+      "beat": false,
+      "raw_diff": "-5.0K",
+      "sign_flip": false,
+      "diff_pct": -2.5,
+      "when_pkt": "29 Oct 17:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }
