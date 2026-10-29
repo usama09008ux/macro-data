@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 29 Oct 2026
 
-- Banaya gaya: **29 Oct 2026 16:47 PKT**
+- Banaya gaya: **29 Oct 2026 23:29 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
@@ -11,7 +11,7 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| Fed funds target (upper) <br>`DFEDTARU` | **4.00%** | 0.0 | 0.0 | 0.0 | 25 | 2026-10-28 |
+| Fed funds target (upper) <br>`DFEDTARU` | **4.00%** | 0.0 | 0.0 | 0.0 | 25 | 2026-10-29 |
 | US 2Y yield <br>`DGS2` | **4.70%** | +0.02 | -0.09 | -0.22 | 84 | 2026-10-27 |
 | US 10Y yield <br>`DGS10` | **4.99%** | -0.01 | -0.13 | -0.25 | 97 | 2026-10-27 |
 | US 30Y yield <br>`DGS30` | **5.30%** | -0.01 | -0.12 | -0.26 | 96 | 2026-10-27 |
@@ -36,8 +36,8 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| VIX <br>`VIXCLS` | **17.52** | -0.87 | +0.21 | +1.48 | 65 | 2026-10-27 |
-| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.18%** | -0.12 | -0.15 | +0.1 | 67 | 2026-10-27 |
+| VIX <br>`VIXCLS` | **16.91** | -0.61 | +0.23 | +0.57 | 58 | 2026-10-28 |
+| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.14%** | -0.04 | -0.13 | +0.02 | 61 | 2026-10-28 |
 | Financial stress index <br>`STLFSI4` | **-0.58** | +0.0497 | +0.1168 | +0.2791 | 62 | 2026-10-23 |
 
 ---
@@ -48,7 +48,7 @@
 |---|---|---|---|---|---|
 | CPI (headline) <br>`CPIAUCSL` | **336.30idx** | +0.65 | +4.02 | 97 | 2026-09-01 |
 | Core CPI <br>`CPILFESL` | **338.90idx** | +0.33 | +2.79 | 97 | 2026-09-01 |
-| Core PCE (Fed ka hadaf) <br>`PCEPILFE` | **130.46idx** | +0.25 | +3.01 | 97 | 2026-08-01 |
+| Core PCE (Fed ka hadaf) <br>`PCEPILFE` | **130.90idx** | +0.32 | +3.12 | 97 | 2026-09-01 |
 | PPI final demand <br>`PPIFIS` | **159.78idx** | +1.34 | +6.35 | 97 | 2026-09-01 |
 
 ---
@@ -60,7 +60,7 @@
 | Nonfarm payrolls <br>`PAYEMS` | **159,044k** | +0.02 | +0.31 |  |  | 97 | 2026-09-01 |
 | Unemployment rate <br>`UNRATE` | **4.20%** | +2.44 | -2.33 |  |  | 46 | 2026-09-01 |
 | Average hourly earnings <br>`CES0500000003` | **37.81$** | +0.13 | +3.02 |  |  | 97 | 2026-09-01 |
-| Initial jobless claims <br>`ICSA` | **194,000** |  |  | -6000.0 | -4000.0 | 1 | 2026-10-17 |
+| Initial jobless claims <br>`ICSA` | **194,000** |  |  | -1000.0 | -5000.0 | 1 | 2026-10-24 |
 
 ---
 
@@ -70,7 +70,7 @@
 |---|---|---|---|---|---|---|
 | Retail sales <br>`RSAFS` | **745,021$m** | +0.77 | +6.29 |  | 97 | 2026-09-01 |
 | Industrial production <br>`INDPRO` | **103.95idx** | +0.66 | +2.25 |  | 97 | 2026-09-01 |
-| Real GDP <br>`GDPC1` | **24,408$b** |  | +2.19 | +0.55 | - | 2026-04-01 |
+| Real GDP <br>`GDPC1` | **24,611$b** |  | +2.07 | +0.83 | - | 2026-07-01 |
 
 ---
 

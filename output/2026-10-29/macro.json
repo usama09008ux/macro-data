@@ -1,11 +1,11 @@
 {
-  "generated_pkt": "29 Oct 2026 16:47",
+  "generated_pkt": "29 Oct 2026 23:29",
   "trading_day": "2026-10-29",
   "series": {
     "DFEDTARU": {
       "latest": 4.0,
-      "latest_date": "2026-10-28",
-      "n_obs": 1105,
+      "latest_date": "2026-10-29",
+      "n_obs": 1106,
       "changes": {
         "1d": 0.0,
         "5d": 0.0,
@@ -124,26 +124,26 @@
       "percentile": 57
     },
     "VIXCLS": {
-      "latest": 17.52,
-      "latest_date": "2026-10-27",
-      "n_obs": 779,
+      "latest": 16.91,
+      "latest_date": "2026-10-28",
+      "n_obs": 780,
       "changes": {
-        "1d": -0.87,
-        "5d": 0.21,
-        "20d": 1.48
+        "1d": -0.61,
+        "5d": 0.23,
+        "20d": 0.57
       },
-      "percentile": 65
+      "percentile": 58
     },
     "BAMLH0A0HYM2": {
-      "latest": 3.18,
-      "latest_date": "2026-10-27",
-      "n_obs": 785,
+      "latest": 3.14,
+      "latest_date": "2026-10-28",
+      "n_obs": 786,
       "changes": {
-        "1d": -0.12,
-        "5d": -0.15,
-        "20d": 0.1
+        "1d": -0.04,
+        "5d": -0.13,
+        "20d": 0.02
       },
-      "percentile": 67
+      "percentile": 61
     },
     "STLFSI4": {
       "latest": -0.5837,
@@ -177,12 +177,12 @@
       "percentile": 97
     },
     "PCEPILFE": {
-      "latest": 130.455,
-      "latest_date": "2026-08-01",
-      "n_obs": 35,
+      "latest": 130.902,
+      "latest_date": "2026-09-01",
+      "n_obs": 36,
       "changes": {
-        "MoM %": 0.25,
-        "YoY %": 3.01
+        "MoM %": 0.32,
+        "YoY %": 3.12
       },
       "percentile": 97
     },
@@ -228,11 +228,11 @@
     },
     "ICSA": {
       "latest": 194000.0,
-      "latest_date": "2026-10-17",
-      "n_obs": 157,
+      "latest_date": "2026-10-24",
+      "n_obs": 158,
       "changes": {
-        "1w": -6000.0,
-        "4w": -4000.0
+        "1w": -1000.0,
+        "4w": -5000.0
       },
       "percentile": 1
     },
@@ -257,12 +257,12 @@
       "percentile": 97
     },
     "GDPC1": {
-      "latest": 24408.011,
-      "latest_date": "2026-04-01",
-      "n_obs": 11,
+      "latest": 24611.077,
+      "latest_date": "2026-07-01",
+      "n_obs": 12,
       "changes": {
-        "QoQ %": 0.55,
-        "YoY %": 2.19
+        "QoQ %": 0.83,
+        "YoY %": 2.07
       },
       "percentile": null
     }
