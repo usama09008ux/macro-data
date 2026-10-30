@@ -1,13 +1,43 @@
 # News Pack — Trading Day 29 Oct 2026
 
 - Trading day: **29 Oct 03:00 -> 30 Oct 02:59 PKT**
-- Aakhri update: **30 Oct 01:59 PKT**
-- Kul khabrein: **900**
+- Aakhri update: **30 Oct 05:49 PKT**
+- Kul khabrein: **986**
 - Feeds: 35/39 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**10-Year Treasury yield pulls back from 5% despite strong data.**
+`30 Oct 02:27 PKT` · pehli baar dekhi `30 Oct 05:49` · cme_rates_video
+
+Todd Colvin discusses the recent moves in the U.S. 10-Year Treasury yield, noting its pullback from the 5% level to close near 4.95%. Colvin highlights a late-session bond rally that pushed yields lower, a move that diverged from expectations given the stronger-than-expected Q3 GDP and higher PCE inflation readings. He also analyzes the corresponding drop in market volatility, as measured by the CVOL index, and looks ahead to Friday's key data releases and the return of Fed speakers.
+
+**British Pound futures rally as central bank divergence lifts prices.**
+`30 Oct 02:26 PKT` · pehli baar dekhi `30 Oct 05:49` · cme_fx_video
+
+Dan Deming discusses the recent strength in British Pound futures as the contract trades higher for a second consecutive session. Deming highlights the growing policy divergence between major central banks, noting that the Federal Reserve's decision to hold rates steady has pressured U.S. yields and the dollar. In contrast, the Bank of England is expected to maintain a more hawkish stance, driving relative strength in the pound compared to other majors.
+
+**Natural Gas futures drop as larger storage build meets mild weather.**
+`30 Oct 02:25 PKT` · pehli baar dekhi `30 Oct 05:49` · cme_energy_video
+
+Bob Iaccino breaks down the recent price action in Natural Gas futures as the December contract drops for a second straight session following a failed rebound. Iaccino analyzes the latest EIA report, which printed an 80 billion cubic foot build—above expectations and the five-year average—bringing total supplies to 3,724 billion cubic feet. He also details the U.S.
+
+**Lean Hog futures rebound from oversold levels as export sales rise.**
+`30 Oct 02:24 PKT` · pehli baar dekhi `30 Oct 05:49` · cme_daily_commentary
+
+Ted Seifried analyzes the latest price action in Lean Hog futures as the December contract bounces from oversold territory. Seifried breaks down the recent surge in volume and open interest, pointing to a potential new record short position for managed money. He also discusses the impact of lower cash cutout values on the market and highlights the strength in weekly export sales, which reached 42,300 metric tons as global buyers step in for cheaper U.S. pork.
+
+**Wheat futures bounce from oversold levels on strong export demand.**
+`30 Oct 02:24 PKT` · pehli baar dekhi `30 Oct 05:49` · cme_daily_commentary
+
+Ted Seifried breaks down the latest price action in Wheat futures, as the December contract manages a rare higher close after an extended $2 slide. Seifried highlights the extremely oversold technical conditions, with the relative strength index dipping below 20% on Wednesday. He also discusses the fundamental drivers behind the bounce, including robust weekly export sales of 850,000 metric tons, which easily topped market expectations, and new international inquiries for U.S. supplies.
+
+**Gold futures drop as strong Q3 GDP supports higher rates.**
+`30 Oct 02:23 PKT` · pehli baar dekhi `30 Oct 05:49` · cme_metals_video
+
+Bob Iaccino discusses the recent price action in Gold futures as the December contract experiences a two-day drop. Iaccino breaks down the recent Federal Reserve decision to hold rates steady, noting the two dissenting votes and the CME FedWatch Tool indicating an 80% probability of a December rate hike. He also analyzes the latest U.S.
 
 **Strong U.S. data fuels rates.**
 `29 Oct 21:34 PKT` · pehli baar dekhi `30 Oct 01:59` · cme_metals_video
@@ -41,6 +71,16 @@ The Bank of England has today launched a consultation supporting central counter
 ## Khabrein
 
 ### MARKET WRAP
+
+**BoJ preview: hold at 1.25% expected, with 2% inflation call and dissent risk in focus**
+`30 Oct 01:47 PKT` · pehli baar dekhi `30 Oct 05:49` · investinglive
+
+The yen and short-end Japanese government bond yields are where the reaction will show. A clear 2% declaration, a firm Ueda and a hawkish dissent would likely support the yen, push two-year yields higher and add to December pricing. Dovish dissents calling for a cut could outweigh hawkish language and trigger renewed yen selling, a risk sharpened by the yen's heavy losses earlier this year.
+
+**investingLive Americas market news wrap: ECB holds, sources report says December hike**
+`30 Oct 01:14 PKT` · pehli baar dekhi `30 Oct 05:49` · investinglive
+
+Iran's Ghalibaf: Progress can only be achieved once the seven conditions have been agreed upon Trump: Iran war will be over very soon. Senator warns of 'insane' US plans ECB sources report: Policymakers see a December rate hike followed by a pause Lagarde: Growth should be underpinned in the near term ECB rate decision: No change in rates US initial jobless claims 194K vs 199K expected US September PCE core inflation +0.5% m/m vs +0.3% expected US GDP Advance for the 3rd quarter 3.4% vs 3.2% ...
 
 **Bund Yields Fall to Two-Month Lows After ECB Decision**
 `29 Oct 20:57 PKT` · instaforex
@@ -144,10 +184,20 @@ The poll shows the gold outlook is being driven by the Iran war's knock-on effec
 
 ### GOLD
 
+**Gold, silver fall as strong U.S. GDP, inflation support Fed tightening bets - Kitco PM Report - Kitco**
+`30 Oct 02:03 PKT` · pehli baar dekhi `30 Oct 05:49` · kitco_general
+
+Gold, silver fall as strong U.S. GDP, inflation support Fed tightening bets - Kitco PM Report Kitco
+
 **TSX Closes Flat as Mining Losses Offset Bank Gains**
 `30 Oct 01:59 PKT` · instaforex
 
 The S&P/TSX Composite Index ended Thursday's session little changed at 36,249, as weakness in the mining and technology sectors offset gains among the major banks. Agnico Eagle slid 4.1%, Wheaton Precious Metals declined 2.7%, and Barrick fell 2.6%. Several miners released their third-quarter results after Wednesday's close: Kinross and First Quantum both exceeded profit expectations but still dropped 6.3% and 4%, respectively, while Alamos missed estimates and tumbled 9.1%.
+
+**Gold sinks as stock rout fails to spark haven demand - FXStreet**
+`30 Oct 01:05 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_fed
+
+Gold sinks as stock rout fails to spark haven demand FXStreet
 
 **solar silver demand description={PAGE_DESCRIPTION} - Kitco**
 `29 Oct 23:51 PKT` · pehli baar dekhi `30 Oct 01:59` · kitco_general · **2 feeds mein**
@@ -183,10 +233,20 @@ LBMA members back tokenised gold but seek legal certainty and safeguards Kitco
 
 The miner slashed its 2026 gold forecast by 18% and raised spending due to delays at its Skouries copper-gold operation in Greece.
 
+**Alamos delays Island Gold shaft as costs rise**
+`29 Oct 18:40 PKT` · pehli baar dekhi `30 Oct 05:49` · mining_com
+
+The shaft is meant to replace truck haulage with hoisting ore and waste to surface, allowing Alamos to mine more tonnes at lower costs.
+
 **Gold off its lows as ECB leaves rates unchanged even as inflation remains elevated - Kitco**
 `29 Oct 18:27 PKT` · pehli baar dekhi `29 Oct 20:57` · kitco_general
 
 Gold off its lows as ECB leaves rates unchanged even as inflation remains elevated Kitco
+
+**Two workers die after Kinross Gold accidents**
+`29 Oct 18:26 PKT` · pehli baar dekhi `30 Oct 05:49` · mining_com
+
+The safety disclosure came as Kinross reported a 59% year-on-year decline in attributable free cash flow for the third quarter.
 
 **Gold Dips Near $4,000 as Fed Holds Rates With Little Guidance - Bloomberg.com**
 `29 Oct 18:12 PKT` · pehli baar dekhi `30 Oct 01:59` · gnews_fed
@@ -255,6 +315,23 @@ Agnico Eagle beats earnings expectations as higher gold prices offset rising min
 
 ### USD
 
+**Fresh inflation data vindicates Fed hawks following October rate hold - Scotsman Guide**
+`30 Oct 02:46 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_fed
+
+Fresh inflation data vindicates Fed hawks following October rate hold Scotsman Guide
+
+**Warsh shakes up Fed's approach to setting interest rates - WSBT**
+`30 Oct 02:28 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_fed · **3 feeds mein**
+
+Warsh shakes up Fed's approach to setting interest rates WSBT
+  - `30 Oct 01:26` *gnews_fed* — Warsh shakes up Fed's approach to setting interest rates - WPEC
+  - `30 Oct 01:02` *gnews_fed* — Warsh shakes up Fed's approach to setting interest rates - WGXA
+
+**Live Updates: Binance says $2.54 billion frozen after hack**
+`30 Oct 02:24 PKT` · pehli baar dekhi `30 Oct 05:49` · cointelegraph
+
+Follow live updates as Binance says $2.54 billion in assets has been frozen after a multibillion-dollar hack, with further freezes possible as investigators trace funds.
+
 **US Mortgage Rates Drop for 2nd Week**
 `30 Oct 02:10 PKT` · pehli baar dekhi `30 Oct 01:59` · instaforex
 
@@ -290,11 +367,6 @@ The latest U.S. 7‑Year Treasury Note auction recorded a lower yield, pointing 
 
 Brazil's net debt-to-GDP ratio inched higher in September 2026, reaching 70.0%, up from 69.3% recorded in August 2026. The latest figures underscore a continued, if moderate, upward trend in the country's indebtedness relative to the size of its economy. The increase suggests that Brazil's public debt burden is growing faster than its economic output, a development that investors and policymakers will be watching closely amid ongoing efforts to balance fiscal discipline with support for growth.
 
-**Warsh shakes up Fed's approach to setting interest rates - WPEC**
-`30 Oct 01:26 PKT` · pehli baar dekhi `30 Oct 01:59` · gnews_fed
-
-Warsh shakes up Fed's approach to setting interest rates WPEC
-
 **Warsh's 'Forward Silence' Risks Bigger Treasury Market Swings - Bloomberg.com**
 `30 Oct 00:23 PKT` · pehli baar dekhi `30 Oct 01:59` · gnews_fed
 
@@ -304,6 +376,11 @@ Warsh's 'Forward Silence' Risks Bigger Treasury Market Swings Bloomberg.com
 `29 Oct 23:59 PKT` · pehli baar dekhi `30 Oct 01:59` · kitco_general
 
 Fed will hike once more in December before slowing growth and falling energy ease inflation – Natixis Kitco
+
+**GDP price index description={PAGE_DESCRIPTION} - Kitco**
+`29 Oct 23:51 PKT` · pehli baar dekhi `30 Oct 05:49` · kitco_general
+
+GDP price index description={PAGE_DESCRIPTION} Kitco
 
 **Fed holds main interest rate steady despite accelerating inflation - Trucking Dive**
 `29 Oct 23:20 PKT` · pehli baar dekhi `30 Oct 01:59` · gnews_fed
@@ -339,6 +416,16 @@ Inflation heats up as rising costs threaten to spread beyond energy WCIV
 `29 Oct 22:04 PKT` · pehli baar dekhi `30 Oct 01:59` · investinglive
 
 High yield: 4.894% WI level at the time of the auction: 4.894% Tail: 0.0 basis points vs the average of 0.2 basis points Bid to cover: 2.46X vs the average of 2.49X Directs: 32.82% vs the average of 24.2% Indirects: 57.77% vs the average of 63.7% Dealers: 9.41% vs the average of 12.1% Auction grade: B− A slightly above-average auction overall. The high yield matched the WI level, avoiding the modest tail typically seen.
+
+**Fed Holds Rates at 3.75 in 10-2 Vote [2026] - shattered.io**
+`29 Oct 21:45 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_fed
+
+Fed Holds Rates at 3.75 in 10-2 Vote [2026] shattered.io
+
+**September's Inflation Was in Line With Expectations. Odds of a Rate Hike Dropped But Remain High. - International Business Times**
+`29 Oct 20:58 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_fed
+
+September's Inflation Was in Line With Expectations. Odds of a Rate Hike Dropped But Remain High. International Business Times
 
 **US 8-Week Treasury Bill Auction Yield Edges Up to 4.020%**
 `29 Oct 20:57 PKT` · instaforex
@@ -583,6 +670,12 @@ Fed highlights economic strength but muddies outlook for Treasuries Kitco
 
 The day after the Fed, markets have another set of questions to answer. Did Chair Warsh give the economy more room to grow, or simply give the Fed more time before another rate hike? Are massive AI investments generating sufficient returns? And will today's growth and inflation reports support the market's expectations for additional tightening? The early price action is mixed.
 
+**Federal Reserve keeps interest rates unchanged despite elevated inflation concerns - KBRX**
+`29 Oct 17:05 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_fed · **2 feeds mein**
+
+Federal Reserve keeps interest rates unchanged despite elevated inflation concerns KBRX
+  - `29 Oct 16:30` *gnews_fed* — Federal Reserve keeps interest rates unchanged despite elevated inflation concerns - Dailyfly News
+
 **Federal reserve leaving interest rates unchanged as US inflation continues - KVUE**
 `29 Oct 17:04 PKT` · pehli baar dekhi `29 Oct 20:57` · gnews_fed
 
@@ -608,20 +701,16 @@ The Federal Reserve holds rates and two officials vote for a hike: Why the US Do
 
 Federal Reserve holds interest rates steady ahead of midterms despite rising inflation WCNC
 
-**Federal Reserve keeps interest rates unchanged despite elevated inflation concerns - Dailyfly News**
-`29 Oct 16:30 PKT` · pehli baar dekhi `29 Oct 20:57` · gnews_fed
-
-Federal Reserve keeps interest rates unchanged despite elevated inflation concerns Dailyfly News
-
 **Warsh Puts a Spotlight on AI Financing's Vulnerability to Fed Policy - Bloomberg**
 `29 Oct 16:10 PKT` · pehli baar dekhi `29 Oct 20:57` · gnews_fed
 
 Warsh Puts a Spotlight on AI Financing's Vulnerability to Fed Policy Bloomberg
 
 **Federal Reserve keeps rates unchanged despite elevated inflation - Shoreline Media Group**
-`29 Oct 16:09 PKT` · pehli baar dekhi `29 Oct 20:57` · gnews_fed
+`29 Oct 16:09 PKT` · pehli baar dekhi `29 Oct 20:57` · gnews_fed · **2 feeds mein**
 
 Federal Reserve keeps rates unchanged despite elevated inflation Shoreline Media Group
+  - `29 Oct 06:36` *gnews_fed* — Federal Reserve keeps rates unchanged despite elevated inflation - WHEC.com
 
 **Traders work, as screens broadcast a news conference by US Federal Reserve Chair Kevin Warsh following the Fed rate announcement, on the floor of the New York Stock Exchange (NYSE) in New York City - The Daily News | Texas' Oldest Newspaper**
 `29 Oct 15:59 PKT` · pehli baar dekhi `30 Oct 01:59` · gnews_fed
@@ -765,6 +854,11 @@ Markets The Fed kept the policy rate unchanged at 3.75%-4% yesterday. Two member
 
 Treasury yields dropped in Asian trade as markets digested the Federal Reserve's interest-rate decision, with the focus now shifting to the European Central Bank's meeting.
 
+**Fed Chair Kevin Warsh says third quarter GDP is above three percent - WSMH**
+`29 Oct 12:01 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_fed
+
+Fed Chair Kevin Warsh says third quarter GDP is above three percent WSMH
+
 **The storm following the Federal Reserve's interest rate decision has yet to subside: U.S. Q3 GDP and September PCE data are imminent! - 富途牛牛**
 `29 Oct 11:54 PKT` · pehli baar dekhi `29 Oct 13:55` · gnews_fed
 
@@ -779,6 +873,11 @@ Fed leaves interest rates unchanged Northwest Arkansas Democrat-Gazette
 `29 Oct 11:45 PKT` · pehli baar dekhi `30 Oct 01:59` · gnews_fed
 
 Bond market swings after Fed says no rate increase The Arkansas Democrat-Gazette
+
+**Korea's chip boom catches US Fed chair's eye - The Korea Herald**
+`29 Oct 11:18 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_fed
+
+Korea's chip boom catches US Fed chair's eye The Korea Herald
 
 **Economic data spotlight: Fed rate hike bets survived Warsh, but can they survive US PCE inflation?**
 `29 Oct 11:13 PKT` · pehli baar dekhi `29 Oct 13:55` · investinglive
@@ -836,15 +935,21 @@ US Fed holds interest rate steady ahead of midterm elections chinadailyhk
 
 Asian currencies were mixed against the greenback. Investor attention now turns to the U.S. PCE inflation data due later Thursday for signs that higher energy costs are feeding into underlying price pressures, MUFG Bank said.
 
+**The bond market swings, but US stocks remain steady after the Fed says it won't raise interest rates - Greater Milwaukee Today**
+`29 Oct 06:39 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_fed
+
+The bond market swings, but US stocks remain steady after the Fed says it won't raise interest rates Greater Milwaukee Today
+
 **The FOMC Pause to Reflect**
 `29 Oct 06:34 PKT` · pehli baar dekhi `29 Oct 07:38` · actionforex
 
 No change in October, though confidence in the economy&#8217;s strength and two dissents point to a hike in December. The FOMC held at their October meeting, albeit with two dissents, Governor Cook and Cleveland Fed President Hammack preferring to hike by 25bps at this meeting. The statement was short and, in the press conference, Chair [&#8230;] The post The FOMC Pause to Reflect appeared first on ActionForex.
 
 **(FED) Federal Reserve Issues FOMC Statement**
-`29 Oct 06:33 PKT` · pehli baar dekhi `29 Oct 07:38` · actionforex
+`29 Oct 06:33 PKT` · pehli baar dekhi `29 Oct 07:38` · actionforex · **2 feeds mein**
 
 The Federal Open Market Committee approved the following statement for release by a 10 – 2 vote: The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent, in support of the Federal Reserve&#8217;s dual mandate. The Committee is continuing its policy of maintaining ample reserves in the [&#8230;] The post (FED) Federal Reserve Issues FOMC Statement appeared first on ActionForex.
+  - `29 Oct 06:33` *gnews_fed* — (FED) Federal Reserve Issues FOMC Statement - Action Forex
 
 **Gold slips after Fed holds rates, PCE inflation data in focus**
 `29 Oct 06:21 PKT` · pehli baar dekhi `29 Oct 07:38` · investing_commodities
@@ -971,21 +1076,64 @@ A hold with two hawkish dissents and no pushback from Warsh on December pricing 
 
 ### EUR
 
+**ECB keeps December rate hike on the table amid mounting inflation risks - marketscreener.com**
+`30 Oct 02:57 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_centralbanks · **3 feeds mein**
+
+ECB keeps December rate hike on the table amid mounting inflation risks marketscreener.com
+  - `29 Oct 20:00` *gnews_centralbanks* — ECB keeps December rate hike on the table amid mounting inflation risks - Reuters
+  - `29 Oct 19:58` *gnews_centralbanks* — ECB keeps December rate hike on the table amid mounting inflation risks - TradingView
+
+**ECB rate decision: 2.50 percent, Lagarde leaves - CryptoTicker.io**
+`30 Oct 02:42 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_centralbanks
+
+ECB rate decision: 2.50 percent, Lagarde leaves CryptoTicker.io
+
+**INSTANT VIEW-ECB keeps rates unchanged; euro and bond yields fall - marketscreener.com**
+`30 Oct 02:34 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_centralbanks · **2 feeds mein**
+
+INSTANT VIEW-ECB keeps rates unchanged; euro and bond yields fall marketscreener.com
+  - `30 Oct 01:49` *gnews_centralbanks* — INSTANT VIEW-ECB keeps rates unchanged, euro slips - marketscreener.com
+
+**Euro edges up versus dollar after ECB holds rates - The Lufkin Daily News**
+`30 Oct 01:58 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_centralbanks
+
+Euro edges up versus dollar after ECB holds rates The Lufkin Daily News
+
+**Euro edges up versus dollar after ECB holds rates - Euronext Markets: Real-time Stock Market Data | live**
+`30 Oct 01:58 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_centralbanks
+
+Euro edges up versus dollar after ECB holds rates Euronext Markets: Real-time Stock Market Data | live
+
+**Euro edges up versus dollar after ECB holds rates - www.marketscreener.com**
+`30 Oct 01:58 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_centralbanks
+
+Euro edges up versus dollar after ECB holds rates www.marketscreener.com
+
 **Euro Rebounds as Lagarde Signals December Hike**
 `30 Oct 01:53 PKT` · pehli baar dekhi `30 Oct 01:59` · instaforex
 
 The euro reversed an earlier 0.4% loss, rebounding from its weakest level since May 2025 to trade slightly higher at $1.116 after European Central Bank President Christine Lagarde disclosed that policymakers had discussed a rate hike at today's meeting and indicated that another increase in December remains likely, with markets assigning more than an 80% probability to such a move.
 
-**INSTANT VIEW-ECB keeps rates unchanged, euro slips - marketscreener.com**
-`30 Oct 01:49 PKT` · pehli baar dekhi `30 Oct 01:59` · gnews_centralbanks
+**ECB holds rates at 2.5% as energy costs and long-term yields pile on pressure - Briefs Finance**
+`30 Oct 01:20 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_centralbanks
 
-INSTANT VIEW-ECB keeps rates unchanged, euro slips marketscreener.com
+ECB holds rates at 2.5% as energy costs and long-term yields pile on pressure Briefs Finance
 
 **ECB keeps rates unchanged but points to mounting inflation risk - marketscreener.com**
 `30 Oct 01:05 PKT` · pehli baar dekhi `30 Oct 01:59` · gnews_centralbanks · **2 feeds mein**
 
 ECB keeps rates unchanged but points to mounting inflation risk marketscreener.com
   - `29 Oct 18:56` *gnews_centralbanks* — ECB keeps rates unchanged but points to mounting inflation risk - Fresno Bee
+
+**Dollar dips and euro rises after Fed, ECB rate decisions; pound extends gains - Investing.com**
+`30 Oct 00:49 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_centralbanks
+
+Dollar dips and euro rises after Fed, ECB rate decisions; pound extends gains Investing.com
+
+**Rates Spark: Hikes coming, but bond yields choosing to fall**
+`30 Oct 00:45 PKT` · pehli baar dekhi `30 Oct 05:49` · ing_think
+
+US Treasuries are in a mood to test the downside for yields after all. Still not sold on following through on it. But monitoring. The ECB meeting did not change our rates outlook and confirms a December hike is likely. We brace for more volatility as Friday's CPI and GDP readings from the eurozone are important ingredients in markets' rate hike expectations
 
 **Lagarde to leave ECB early, saying she can no longer remain neutral - EU Reporter**
 `30 Oct 00:15 PKT` · pehli baar dekhi `30 Oct 01:59` · gnews_centralbanks
@@ -1002,6 +1150,11 @@ European Equities Rise in Thursday Trading; ECB Leaves Interest Rates Unchanged 
 `29 Oct 23:19 PKT` · pehli baar dekhi `30 Oct 01:59` · gnews_centralbanks
 
 Germany's DAX Index Closes Higher as ECB Holds Rates www.marketscreener.com
+
+**ECB Policymakers Signal December Rate Hike, Then a Pause - IndexBox**
+`29 Oct 23:10 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_centralbanks
+
+ECB Policymakers Signal December Rate Hike, Then a Pause IndexBox
 
 **European shares close at seven-week high after ECB pause; Lagarde resigns - Reuters**
 `29 Oct 23:01 PKT` · pehli baar dekhi `30 Oct 01:59` · gnews_centralbanks
@@ -1033,10 +1186,21 @@ ECB Held Rates Steady, Then Lagarde Set An Exit Date Finimize
 
 'I cannot remain neutral': Lagarde explains early ECB departure EU Perspectives
 
+**European stocks rally after ECB and Fed holds - Yahoo Finance UK**
+`29 Oct 22:22 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_centralbanks
+
+European stocks rally after ECB and Fed holds Yahoo Finance UK
+
 **CAC 40 Hits One-Month High After ECB Holds Rates - TradingView**
 `29 Oct 22:20 PKT` · pehli baar dekhi `30 Oct 01:59` · gnews_centralbanks
 
 CAC 40 Hits One-Month High After ECB Holds Rates TradingView
+
+**ECB leaves interest rates unchanged - AzerNews**
+`29 Oct 22:19 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_centralbanks · **2 feeds mein**
+
+ECB leaves interest rates unchanged AzerNews
+  - `29 Oct 18:15` *gnews_centralbanks* — ECB leaves interest rates unchanged - Breakingthenews.net
 
 **ECB's Lagarde Steps Aside as European Economic Pressure Builds - Bloomberg.com**
 `29 Oct 22:02 PKT` · pehli baar dekhi `30 Oct 01:59` · gnews_centralbanks
@@ -1052,6 +1216,11 @@ ECB open to hiking rates in December if inflation outlook doesn't improve - repo
 `29 Oct 21:55 PKT` · pehli baar dekhi `30 Oct 01:59` · gnews_centralbanks
 
 Sterling hits 17-Month high vs Euro as ECB holds rates Investing.com
+
+**ECB's Lagarde steps down, saying she can't remain neutral on world events - Yahoo Finance**
+`29 Oct 21:51 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_centralbanks
+
+ECB's Lagarde steps down, saying she can't remain neutral on world events Yahoo Finance
 
 **ECB Seen Raising Rates by 0.25 Percentage Point in December, Then Pausing Further Tightening - bloomingbit**
 `29 Oct 21:48 PKT` · pehli baar dekhi `30 Oct 01:59` · gnews_centralbanks
@@ -1167,6 +1336,11 @@ ECB holds rates: will it hike again in December? RankiaPro
 
 ECB sources report: Policymakers see a December rate hike followed by a pause investingLive
 
+**Euro steady against dollar after ECB leaves rates unchanged - The Lufkin Daily News**
+`29 Oct 20:23 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_centralbanks
+
+Euro steady against dollar after ECB leaves rates unchanged The Lufkin Daily News
+
 **ECB Holds Three Key Policy Rates, Keeps Deposit Rate at 2.50% - bloomingbit**
 `29 Oct 20:12 PKT` · pehli baar dekhi `29 Oct 20:57` · gnews_centralbanks
 
@@ -1176,12 +1350,6 @@ ECB Holds Three Key Policy Rates, Keeps Deposit Rate at 2.50% bloomingbit
 `29 Oct 20:04 PKT` · pehli baar dekhi `29 Oct 20:57` · gnews_centralbanks
 
 ECB leaves interest rates unchanged China Daily
-
-**ECB keeps December rate hike on the table amid mounting inflation risks - Reuters**
-`29 Oct 20:00 PKT` · pehli baar dekhi `29 Oct 20:57` · gnews_centralbanks · **2 feeds mein**
-
-ECB keeps December rate hike on the table amid mounting inflation risks Reuters
-  - `29 Oct 19:58` *gnews_centralbanks* — ECB keeps December rate hike on the table amid mounting inflation risks - TradingView
 
 **ECB Holds Rates Steady as French Bond Panic Outweighs Inflation Fears - Barron's**
 `29 Oct 19:59 PKT` · pehli baar dekhi `29 Oct 20:57` · gnews_centralbanks
@@ -1214,9 +1382,10 @@ ECB warns prolonged energy shock to drive up inflation, lower growth Anadolu Aja
 ECB boss quits early to kick off leadership transition Latest news from Azerbaijan
 
 **ECB holds interest rates steady despite elevated inflation - Yahoo Finance**
-`29 Oct 19:48 PKT` · pehli baar dekhi `29 Oct 20:57` · gnews_centralbanks
+`29 Oct 19:48 PKT` · pehli baar dekhi `29 Oct 20:57` · gnews_centralbanks · **2 feeds mein**
 
 ECB holds interest rates steady despite elevated inflation Yahoo Finance
+  - `29 Oct 18:33` *gnews_centralbanks* — ECB holds interest rates steady despite elevated inflation - Yahoo Finance
 
 **ECB keeps rates unchanged; euro and bond yields fall - Merced Sun-Star**
 `29 Oct 19:48 PKT` · pehli baar dekhi `30 Oct 01:59` · gnews_centralbanks · **2 feeds mein**
@@ -1257,9 +1426,11 @@ ECB keeps Europe steady as 13% Google plunge fans AI jitters Yahoo Finance
 ECB leaves rates unchanged, Christine Lagarde to leave in February marketscreener.com
 
 **ECB keeps rates unchanged; euro and bond yields fall - TradingView**
-`29 Oct 19:20 PKT` · pehli baar dekhi `29 Oct 20:57` · gnews_centralbanks
+`29 Oct 19:20 PKT` · pehli baar dekhi `29 Oct 20:57` · gnews_centralbanks · **3 feeds mein**
 
 ECB keeps rates unchanged; euro and bond yields fall TradingView
+  - `29 Oct 19:03` *gnews_centralbanks* — ECB keeps rates unchanged; euro and bond yields fall - Yahoo Finance
+  - `29 Oct 19:03` *gnews_centralbanks* — ECB keeps rates unchanged; euro and bond yields fall - TradingView
 
 **Lagarde's comments point to a December ECB rate hike**
 `29 Oct 19:20 PKT` · pehli baar dekhi `29 Oct 20:57` · ing_think · **2 feeds mein**
@@ -1488,11 +1659,6 @@ The big news earlier today was ECB President Christine Lagarde announcing that s
 
 ECB rate decision: No change in rates investingLive
 
-**ECB leaves interest rates unchanged - Breakingthenews.net**
-`29 Oct 18:15 PKT` · pehli baar dekhi `29 Oct 20:57` · gnews_centralbanks
-
-ECB leaves interest rates unchanged Breakingthenews.net
-
 **ECB keeps rates on hold as Christine Lagarde announced her resignation**
 `29 Oct 18:08 PKT` · pehli baar dekhi `29 Oct 20:57` · ing_think · **2 feeds mein**
 
@@ -1503,6 +1669,11 @@ With still very little knock-on effects from higher energy prices and headline i
 `29 Oct 17:35 PKT` · pehli baar dekhi `29 Oct 20:57` · gnews_centralbanks
 
 The Race to Replace Lagarde Begins After Announcing She'll Leave ECB Early Bloomberg.com
+
+**Christine Lagarde's Early Exit: Who Will Be the Next ECB President? - Morningstar**
+`29 Oct 17:31 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_centralbanks
+
+Christine Lagarde's Early Exit: Who Will Be the Next ECB President? Morningstar
 
 **Christine Lagarde to Resign Early as ECB President**
 `29 Oct 17:28 PKT` · pehli baar dekhi `29 Oct 20:57` · wsj_world
@@ -1904,6 +2075,31 @@ US Federal Reserve holds interest rates - ahead of possible Bank of England hike
 
 ### JPY
 
+**Bank of Japan to hold rates, signal further hikes By Reuters - Investing.com**
+`30 Oct 02:10 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_centralbanks
+
+Bank of Japan to hold rates, signal further hikes By Reuters Investing.com
+
+**Bank of Japan to hold rates, signal further hikes - CNA**
+`30 Oct 02:01 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_centralbanks
+
+Bank of Japan to hold rates, signal further hikes CNA
+
+**Bank Of Japan Looks Set To Hold Rates, But Keep Hiking Talk Alive - Finimize**
+`30 Oct 02:01 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_centralbanks
+
+Bank Of Japan Looks Set To Hold Rates, But Keep Hiking Talk Alive Finimize
+
+**Tokyo CPI preview: core inflation seen at 2.6% as BoJ weighs December hike**
+`30 Oct 01:34 PKT` · pehli baar dekhi `30 Oct 05:49` · investinglive
+
+The yen is the most direct channel for a surprise. A firmer-than-expected reading would likely lift yen strength and push Japanese government bond yields higher as traders add to December hike bets. A softer print would tend to weigh on the yen and could support Japanese equities, particularly exporters. With the BoJ decision following within hours, any move on the data may be short-lived, or amplified, depending on the central bank's tone.
+
+**Economic and event calendar in Asia - all eyes on Japan for the BoJ**
+`30 Oct 01:20 PKT` · pehli baar dekhi `30 Oct 05:49` · investinglive
+
+Japan dominates Asia session with Tokyo CPI and BoJ decision ahead Japan takes centre stage in Asia on Friday, with a heavy run of domestic data landing ahead of the Bank of Japan's policy decision. The central bank is widely expected to keep its policy rate at 1.25%. A move in December remains a live possibility, so markets will focus on the tone of the policy statement and the quarterly Outlook Report rather than the decision itself.
+
 **As Missile Stockpiles Dwindle and China Looms, U.S. Turns to Japan for Production**
 `29 Oct 15:45 PKT` · pehli baar dekhi `29 Oct 20:57` · wsj_world
 
@@ -1992,6 +2188,11 @@ Intraday bias in USD/CHF is turned neutral first with current retreat. On the up
 Collateral is a key component of repurchase agreement transactions. We document collateral usage in the Swiss interbank repo market using an extensive transaction-level dataset. We find that a substantial share of securities eligible for the SNB General Collateral Basket is actively used, particularly securities denominated in Swiss francs. Collateral usage is concentrated in a small number of issuers and highly rated securities denominated in Swiss francs.
 
 ### CAD
+
+**Critical One Energy, SICC ink $303 million antimony offtake deal for Howells Lake project in Ontario**
+`30 Oct 02:59 PKT` · pehli baar dekhi `30 Oct 05:49` · mining_com
+
+Howells Lake is Canada's largest undeveloped antimony deposit.
 
 **Loonie hits six-week high as Canada-US yield gap narrows - Kitco**
 `30 Oct 00:49 PKT` · pehli baar dekhi `30 Oct 01:59` · kitco_general
@@ -2104,6 +2305,11 @@ New Zealand&#8217;s ANZ Business Confidence Index edged up from 51.9 to 52.5 in 
 
 ### OIL
 
+**Trump's Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse**
+`30 Oct 02:00 PKT` · pehli baar dekhi `30 Oct 05:49` · oilprice
+
+A Malta-flagged tanker called the Agioi Fanendes left the Russian port of Primorsk on Oct. 22 carrying nearly 40,000 metric tons of ultra-low-sulfur diesel, and ship-tracking data has it arriving at the Port of New York and New Jersey on Nov. 7, four days after the midterm elections. Nobody has publicly said who bought the fuel, and Sen. Richard Blumenthal, D-Conn., has asked the ship's owner to identify the buyer and everyone else involved by Oct. 31.
+
 **Opinion | New Energy for the U.S. Virgin Islands**
 `30 Oct 01:42 PKT` · pehli baar dekhi `30 Oct 01:59` · wsj_world
 
@@ -2169,6 +2375,11 @@ Heidelberg Materials' proposed carbon capture project in Edmonton appeared to co
 
 WTI crude oil had traded above its 200-hour moving average since breaking higher on October 12. Today, that support finally cracked. The price fell below the rising 200-hour moving average at $100.08 and the psychologically important $100 level, reaching a session low of $99.79. Those breaks gave sellers two reasons to push lower. However, the follow-through was limited.
 
+**IRAN'S "CROWN JEWEL" – Kharg Island, Struck by US, is Key Hub for Iran Oil Exports - EnergyNow**
+`29 Oct 21:38 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_geopolitics
+
+IRAN'S "CROWN JEWEL" – Kharg Island, Struck by US, is Key Hub for Iran Oil Exports EnergyNow
+
 **Oil retreats as Iran diplomacy eases fears of further supply disruptions - Oil & Gas 360**
 `29 Oct 21:34 PKT` · pehli baar dekhi `30 Oct 01:59` · gnews_geopolitics
 
@@ -2208,6 +2419,11 @@ The Ibovespa slipped below 171,000 on Thursday, extending its losing streak to a
 `29 Oct 20:30 PKT` · pehli baar dekhi `29 Oct 20:57` · oilprice
 
 Trafigura has signed a $1.5 billion five-year loan agreement that will back a contract for the commodity trading giant to supply more than 150 TWh of natural gas to Germany's state-owned gas importer Securing Energy for Europe (SEFE) over the next five years. Trafigura's current deal with SEFE expires at the end of October. The trading group will supply SEFE from its global gas portfolio under the new contract, with the first delivery scheduled for November 1, 2026.
+
+**Trump Warns Iran on Hormuz Tolls as Energy Crunch Prompts Japan to Release More Oil - EnergyNow.com**
+`29 Oct 20:12 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_geopolitics
+
+Trump Warns Iran on Hormuz Tolls as Energy Crunch Prompts Japan to Release More Oil EnergyNow.com
 
 **Investors Are Piling Into Dangote. But Is the Price Right?**
 `29 Oct 20:00 PKT` · pehli baar dekhi `29 Oct 20:57` · oilprice
@@ -2316,6 +2532,11 @@ Plus, the market googled "disappointment"
 `29 Oct 14:51 PKT` · pehli baar dekhi `29 Oct 20:57` · gnews_geopolitics
 
 Oil prices fall as US-Iran peace hopes ease supply concerns Economies.com
+
+**Oil prices settles lower as diplomacy hopes offset some Mideast supply concerns - The Globe and Mail**
+`29 Oct 14:17 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_geopolitics
+
+Oil prices settles lower as diplomacy hopes offset some Mideast supply concerns The Globe and Mail
 
 **EU Rules Out New Climate Finance Pledges at COP31**
 `29 Oct 14:15 PKT` · pehli baar dekhi `29 Oct 20:57` · oilprice
@@ -2483,6 +2704,11 @@ Oil Prices Today: Brent Crude Near $114 As US Weighs Fresh Iran Strikes After Mi
 
 Oil fell in early Asian trade after settling higher overnight.
 
+**US Pain at the Pump Worsens After More US-Iran Fighting Lifts Oil Prices - EnergyNow.com**
+`29 Oct 06:17 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_geopolitics
+
+US Pain at the Pump Worsens After More US-Iran Fighting Lifts Oil Prices EnergyNow.com
+
 **Phillips 66 Faces $900 Million Loss as Iran Crisis Lifts Oil Prices - EnergyNow.com**
 `29 Oct 06:15 PKT` · pehli baar dekhi `29 Oct 13:55` · gnews_geopolitics
 
@@ -2529,6 +2755,16 @@ The tanker billed as the first to carry Russian diesel to the United States unde
 U.S. natural gas production is on track to close a second consecutive year with record-high natural gas output as producers respond to demand signs both at home and overseas. Soaring demand for powering data centers in the United States and rising liquefied natural gas exports amid expanding liquefaction capacity, as well as surging global demand for spot LNG cargoes in the absence of Qatar's gas due to the Iran war, are pushing American natural gas production higher this year.
 
 ### CRYPTO
+
+**Binance appears hacked, CZ says, as Tether and Circle freeze $1.79B in stablecoins**
+`30 Oct 02:55 PKT` · pehli baar dekhi `30 Oct 05:49` · investinglive
+
+CZ's comments take away part of the uncertainty but not the core risk. He has confirmed a likely hack, while the person who can commit Binance's money to cover losses has said nothing yet. The stablecoin freezes shrink the possible loss, but the ether moved out of Binance has no such protection. BNB is the clearest gauge of how worried traders are, and it is likely to stay under pressure until Binance commits to covering losses.
+
+**Tether freezes $971M USDT amid suspected Binance hack as crypto sells off**
+`30 Oct 02:14 PKT` · pehli baar dekhi `30 Oct 05:49` · investinglive
+
+BNB took the heaviest hit among large caps, which shows traders pricing exchange-specific risk rather than a broad macro shock. Long positions took the damage, so the drop looks driven by forced selling more than by fresh shorts, and that can reverse quickly if the scare fades. The key swing factor is Binance's silence. Confirmation of a breach would likely deepen pressure on BNB and on confidence in exchange custody.
 
 **Bitcoin price jumps to $81.5K as US GDP data beats expectations**
 `29 Oct 20:39 PKT` · pehli baar dekhi `29 Oct 20:57` · cointelegraph
@@ -2590,6 +2826,11 @@ So, just how many times can you actually poke the bear before it finally bites? 
 
 BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders.
 
+**BTC USD After FOMC: What 71 Fed Decisions Say About Bitcoin - 99Bitcoins**
+`29 Oct 14:43 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_fed
+
+BTC USD After FOMC: What 71 Fed Decisions Say About Bitcoin 99Bitcoins
+
 **Bitcoin ETFs add $137M, pushing October back into the green**
 `29 Oct 12:32 PKT` · pehli baar dekhi `29 Oct 13:55` · cointelegraph
 
@@ -2599,6 +2840,11 @@ Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $
 `29 Oct 12:20 PKT` · pehli baar dekhi `29 Oct 13:55` · investinglive
 
 Each service has its own terms; the prop service uses demo accounts and is not a brokerage service. Velaris Markets (https://velarismarkets.com) operates two services under one brand. Its brokerage offers CFDs on forex, indices, commodities and crypto on MetaTrader 5. Its prop service runs trading challenges on simulated accounts of up to $100,000: traders who pass and verify their identity receive a funded simulated account and 80% of the profit on that account, paid as a reward.
+
+**Crypto News Today: BTC, ETH, XRP Slide After Fed Decision Keeps Rates Unchanged - Brave New Coin**
+`29 Oct 10:51 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_fed
+
+Crypto News Today: BTC, ETH, XRP Slide After Fed Decision Keeps Rates Unchanged Brave New Coin
 
 **Your fridge could one day stake Ether, launch memecoins: CFTC chair**
 `29 Oct 09:39 PKT` · pehli baar dekhi `29 Oct 13:55` · cointelegraph
@@ -2611,6 +2857,21 @@ CFTC chair Mike Selig says autonomous AI agents could challenge financial rules 
 What is happening Strategy, the largest corporate holder of bitcoin, bought no bitcoin in the week of October 19 to 25. Instead it spent $204.9 million buying back its own STRC preferred shares, according to its October 26 filing with the SEC. Those buybacks have helped lift STRC to about $99.36, its highest level in roughly five months and just shy of its $100 par value.
 
 ### RATES
+
+**Intel beats Q3 profit forecasts, but weak Q4 guidance and PC outlook weigh. Share price drops.**
+`30 Oct 01:12 PKT` · pehli baar dekhi `30 Oct 05:49` · investinglive
+
+A big Q3 beat on profit followed by a sharp cut to near-term guidance usually pushes a stock lower, and the scale of the Q4 shortfall makes that the more likely reaction for Intel. The PC warning has read-across to the broader PC supply chain, including memory makers and Asian hardware suppliers, which may feel pressure in regional trade. The data centre beat, by contrast, adds to evidence that AI-related server demand is holding up, a positive for the wider semiconductor complex.
+
+**Amazon Q3 operating profit beats estimates, but EPS misses and Q4 guidance looks soft. Share price drops.**
+`30 Oct 01:07 PKT` · pehli baar dekhi `30 Oct 05:49` · investinglive
+
+The report gives investors mixed signals, and the share reaction is likely to hinge on whether the margin beat outweighs the soft profit outlook. The cloud result supports the case that AI-related demand is still building, which matters for other hyperscalers and chipmakers reporting this season. A guidance midpoint below consensus heading into the holiday quarter could cap gains in Amazon shares and weigh on consumer discretionary sentiment more broadly.
+
+**Jingluo: Risks of a December rate hike by the Federal Reserve persist; limited adjustment expected for Hong Kong's prime rate - Moomoo**
+`29 Oct 10:55 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_fed
+
+Jingluo: Risks of a December rate hike by the Federal Reserve persist; limited adjustment expected for Hong Kong's prime rate Moomoo
 
 **Fed Review: Fed Pauses, But Tightening Cycle is Not Over**
 `29 Oct 06:39 PKT` · pehli baar dekhi `29 Oct 07:38` · actionforex
@@ -2643,6 +2904,16 @@ The Trump administration agreed to send armored personnel carriers to Cameroon a
 `30 Oct 01:51 PKT` · pehli baar dekhi `30 Oct 01:59` · gnews_geopolitics
 
 Iran uses secret global network to evade US blockade, western sanctions: Report India Today
+
+**Vance outreach to Iran related to medical supplies, says Trump - Reuters**
+`30 Oct 01:49 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_geopolitics
+
+Vance outreach to Iran related to medical supplies, says Trump Reuters
+
+**Trump's Iran War Oil Shield is Cracking: Bousso - EnergyNow**
+`30 Oct 01:41 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_geopolitics
+
+Trump's Iran War Oil Shield is Cracking: Bousso EnergyNow
 
 **Does Russia offer African countries an equal partnership?**
 `30 Oct 01:34 PKT` · pehli baar dekhi `30 Oct 01:59` · aljazeera
@@ -2814,6 +3085,11 @@ Iran War Triggers Global Race to Build Oil Reserves: Bousso EnergyNow.com
 
 Oil's Long View Darkens as Iran War Refuses to End: Bousso EnergyNow.com
 
+**Canada Weighs Options to Boost Oil Supply as Iran War Causes Market Turmoil - EnergyNow.com**
+`29 Oct 06:09 PKT` · pehli baar dekhi `30 Oct 05:49` · gnews_geopolitics
+
+Canada Weighs Options to Boost Oil Supply as Iran War Causes Market Turmoil EnergyNow.com
+
 **China's petrochemical stockpiles near depletion as US-Iran war cuts feedstock supply, driving wholesale price inflation - Energies Media**
 `29 Oct 05:52 PKT` · pehli baar dekhi `29 Oct 07:38` · gnews_geopolitics
 
@@ -2844,10 +3120,22 @@ Petrobras Pumps at Record as Iran War Upends Oil Markets Bloomberg
 
 Ten years ago, European countries were closing refineries while Gulf oil states were building new ones. Now, many of these refineries have been damaged in the war between the U.S. and Israel, and Iran. Fuel output from one of the biggest refining regions is not going to be coming back soon. Neither is full refining capacity from one of the world's top fuel exporters, Russia.
 
-### BINA TAG (273)
+### BINA TAG (295)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `30 Oct 02:50` **wsj_world** — Opinion | Israel Votes for Hope
+- `30 Oct 02:47` **gnews_fed** — Nasdaq Composite falls 1.38 percent as AI spending concerns return - ad-hoc-news.de
+- `30 Oct 02:46` **wsj_world** — Opinion | Warning the International Court of Justice
+- `30 Oct 02:44` **gnews_fed** — Mortgage rates fall for 2nd straight week but remain elevated - ABC News - Breaking News, Latest News and Videos
+- `30 Oct 02:44` **wsj_world** — Opinion | Britain's Defense Budget Blues
+- `30 Oct 02:42` **wsj_world** — Machado's Return Offers a Preview of Venezuela's Next Election—Whenever It Comes
+- `30 Oct 02:22` **wsj_world** — Why Does Spain Keep Having Deadly Rail Accidents?
+- `30 Oct 02:16` **aljazeera** — Palestinians face growing bans from Al-Aqsa as Israel tightens control
+- `30 Oct 02:10` **aljazeera** — Israel bans travel for Brad Lander after detention in occupied West Bank
+- `30 Oct 02:06` **investinglive** — Earnings bloodbath: Intel crashes over 22%, Amazon over 12%. What's coming next?
+- `30 Oct 02:06` **kitco_general** — employment mandate description={PAGE_DESCRIPTION} - Kitco
+- `30 Oct 02:02` **investinglive** — Intel shares tumble around 15%. The narrative is --> weak Q4 guidance overshadows Q3 profit beat
 - `30 Oct 01:59` **instaforex** — Saudi Arabia's M3 Money Supply Growth Eases to 4.8% in September 2026
 - `30 Oct 01:46` **investing_news** — Stifel cuts Insmed stock price target to $195 on OpEx outlook
 - `30 Oct 01:46` **investing_news** — Jefferies reiterates Buy on AMD stock, sees data center upside
@@ -2867,6 +3155,7 @@ Ten years ago, European countries were closing refineries while Gulf oil states 
 - `30 Oct 01:36` **investing_commodities** — Exclusive-ST LNG to decide on US offshore LNG facility by late 2027, company says
 - `30 Oct 01:32` **wsj_markets** — Alphabet Stumbles, U.S. Economy Surges
 - `30 Oct 01:31` **mw_topstories** — All the reasons Marvell investors are 'freaking out' as Lumentum deal rumors swirl
+- `30 Oct 01:27` **investinglive** — Nasdaq leads stocks lower; Intel and Amazon tumble after hours
 - `30 Oct 01:26` **mw_topstories** — The stock market's best forecasting tool says returns over the next 10 years will be dismal
 - `30 Oct 01:22` **aljazeera** — Israel election result shows no overall majority as vote count complete
 - `30 Oct 01:22` **mw_topstories** — Lilly raised sales guidance for third time this year as Zepbound sales soar. Its stock closed at a record high.
@@ -2894,6 +3183,7 @@ Ten years ago, European countries were closing refineries while Gulf oil states 
 - `29 Oct 23:55` **mining_com** — Morton Salt ceases operations at Ohio mine after water breach
 - `29 Oct 23:44` **kitco_general** — interest rate decision description={PAGE_DESCRIPTION} - Kitco
 - `29 Oct 23:44` **wsj_world** — Cuauhtémoc Cárdenas, Leftist Leader Who Paved Mexico's Path to Democracy, Dies at 92
+- `29 Oct 23:43` **gnews_fed** — Federal Reserve Leaves Rates Unchanged, Awaits More Information - RV PRO
 - `29 Oct 23:40` **aljazeera** — Texas Republican group seeks to block certification of state's election
 - `29 Oct 23:31` **gnews_fed** — Merchants prevail in eighth circuit debit-card swipe fee case against federal reserve - Hogan Lovells Cadwalader
 - `29 Oct 23:30` **aljazeera** — US Muslims concerned but resilient as 'hate' attacks target Abdul El-Sayed
@@ -2915,6 +3205,7 @@ Ten years ago, European countries were closing refineries while Gulf oil states 
 - `29 Oct 21:53` **kitco_general** — IMF says Federal Reserve is 'appropriately' keeping close eye on data - Kitco
 - `29 Oct 21:42` **wsj_markets** — Billionaires Don't Like the Wealth Tax. Here's What Some Propose Instead.
 - `29 Oct 21:38` **wsj_markets** — The Four Academics Who Dreamed Up California's Billionaire Tax
+- `29 Oct 21:33` **gnews_fed** — IMF says Federal Reserve is 'appropriately' keeping close eye on data - WTVB
 - `29 Oct 21:33` **aljazeera** — Why US Sports Owners Spend Millions on Politics
 - `29 Oct 21:30` **wsj_markets** — Tech, Media & Telecom Roundup: Market Talk
 - `29 Oct 21:27` **cointelegraph** — Nasdaq-listed Canton Strategic Holdings plans tokenized stock trading from Nov. 2
@@ -2923,6 +3214,7 @@ Ten years ago, European countries were closing refineries while Gulf oil states 
 - `29 Oct 21:20` **aljazeera** — Deadly rock collapse at famous Turkiye tourist site
 - `29 Oct 21:20` **gnews_fed** — IMF says Federal Reserve is 'appropriately' keeping close eye on data - Reuters
 - `29 Oct 21:17` **gnews_fed** — IMF says Federal Reserve is 'appropriately' keeping close eye on data - TradingView
+- `29 Oct 21:00` **gnews_fed** — U.S. Banks are Blocking AI Agents from Accessing Customer Accounts Amid Safety Concerns - CPO Magazine
 - `29 Oct 20:57` **instaforex** — US Natgas Prices Fall to 1-Week Low
 - `29 Oct 20:57` **instaforex** — Egypt's Central Bank Lifts Overnight Lending Rate to 21% in Latest Tightening Move
 - `29 Oct 20:57` **instaforex** — Baltic Dry Index at Over 2-Week High
@@ -2936,6 +3228,7 @@ Ten years ago, European countries were closing refineries while Gulf oil states 
 - `29 Oct 20:42` **investing_news** — DoorDash strikes $17 billion deal for US rival Instacart in mega grocery delivery bet
 - `29 Oct 20:41` **investing_news** — Boliden Q3 2026 slides: record profit driven by strong metal prices
 - `29 Oct 20:39` **mw_topstories** — Florida is voting on whether to slash property taxes. Here's who it would benefit — and hurt.
+- `29 Oct 20:38` **gnews_fed** — Interest Rates Remain Unchanged, Experts Predict Federal Reserve will Raise Rates by End of Year - WZMQ 19 News
 - `29 Oct 20:37` **gnews_fed** — Federal reserve overflowing with expired PPE from pandemic, AG report finds - National Post
 - `29 Oct 20:35` **aljazeera** — Israel's anti-Qatar campaign bleeds into elections
 - `29 Oct 20:30` **gnews_fed** — Interest Rates Remain Unchanged, Experts Predict Federal Reserve will Raise Rates by End of Year - WENY News
@@ -3020,6 +3313,7 @@ Ten years ago, European countries were closing refineries while Gulf oil states 
 - `29 Oct 14:30` **wsj_markets** — Alphabet Still Has the Ingredients to Win in an AI Pullback
 - `29 Oct 14:22` **wsj_markets** — Stock Market Today: Alphabet Stock Sinks After Earnings, Dragging the Nasdaq
 - `29 Oct 14:16` **gnews_fed** — US Federal Reserve keeps key interest rate unchanged - GMK Center
+- `29 Oct 14:11` **gnews_fed** — World shares and U.S. futures are mixed after Google parent Alphabet's earnings disappoint - WGN Radio 720
 - `29 Oct 13:55` **instaforex** — Slovakia Business Morale Improves in October
 - `29 Oct 13:55` **instaforex** — Dutch Manufacturing Confidence Weakens in October
 - `29 Oct 13:55` **instaforex** — Sweden Economic Sentiment Hits Over 4-Year High
@@ -3045,6 +3339,7 @@ Ten years ago, European countries were closing refineries while Gulf oil states 
 - `29 Oct 12:12` **aljazeera** — Man City beat Brighton on penalties after dramatic League Cup comeback
 - `29 Oct 12:07` **gnews_fed** — Federal Reserve set to issue interest rate decision as midterm elections loom - Rural Radio Network
 - `29 Oct 12:01` **aljazeera** — US midterms: Five days to go – What the polls say as Trump, Harris campaign
+- `29 Oct 12:00` **gnews_fed** — Readers sound off on capital's control, Flavio Bolsonaro and Bob Woodward - New York Daily News
 - `29 Oct 11:57` **gnews_fed** — Federal Reserve holds interest rates steady as midterm elections loom - WHIO TV
 - `29 Oct 11:56` **bbc_business** — Chancellor says government has 'moral duty' to help young people out of work
 - `29 Oct 11:46` **investinglive** — IC Launches New Guillermo Ochoa Campaign Focused on Performance Under Pressure
@@ -3061,6 +3356,8 @@ Ten years ago, European countries were closing refineries while Gulf oil states 
 - `29 Oct 09:38` **gnews_fed** — Federal Reserve Holds Rates at 3.75%–4%; Two Officials Favor Another Hike - Barchart.com
 - `29 Oct 09:37` **investinglive** — US futures tumble as Alphabet earnings revive AI spending fears, Amazon is next in the firing line
 - `29 Oct 09:30` **aljazeera** — Obama mocks Trump team's Cheesecake Factory response
+- `29 Oct 09:12` **gnews_fed** — KNEB-AM 960 AM – 100.3 FM - Federal Reserve holds interest rates steady as midterm elections loom - Rural Radio Network
+- `29 Oct 09:00` **gnews_fed** — Federal Reserve Holds Rates Steady Amid Strong Economic Performance - KBRA
 - `29 Oct 08:39` **aljazeera** — Incredible celebrations as last patient leaves a DRC Ebola centre
 - `29 Oct 08:30` **gnews_fed** — Federal Reserve keeps interest rates steady - weareiowa.com
 - `29 Oct 08:16` **cointelegraph** — Tampered Ledger wallets cost Singapore users $2.7M: Police
@@ -3082,6 +3379,7 @@ Ten years ago, European countries were closing refineries while Gulf oil states 
 - `29 Oct 07:01` **aljazeera** — Bolsonaro in Miami: I am the 'true president-elect'
 - `29 Oct 06:58` **mw_topstories** — Why Alphabet's stock could see its worst drop in years after the latest results
 - `29 Oct 06:55` **wsj_world** — U.S. Expels Cuban Diplomat After Extraordinary U.N. Verbal Clash
+- `29 Oct 06:32` **gnews_fed** — US Federal Reserve holds interest rates steady - NHKニュース
 - `29 Oct 06:27` **bbc_business** — Microsoft profits soar days after announcing thousands of layoffs
 - `29 Oct 06:25` **investinglive** — Alphabet slides over 9% after hours as search miss and $9bn cash burn overshadow Cloud
 - `29 Oct 06:01` **investinglive** — Samsung Q3 operating profit jumps ninefold to record 107 trillion won on AI chip boom
@@ -3138,45 +3436,45 @@ investing_news (16)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 10 | 15 | 0 | 0.1 |
+| investinglive | OK | 25 | 25 | 20 | 5 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.2 |
-| marketpulse | OK | 3 | 1 | 1 | 0 | 2 | 0.1 |
-| instaforex | OK | 25 | 25 | 12 | 13 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 10 | 0 | 10 | 26 | 0.2 |
-| cme_metals_video | OK | 10 | 1 | 1 | 0 | 9 | 0.2 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_daily_commentary | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 49.1 |
-| kitco_general | OK | 31 | 30 | 16 | 14 | 1 | 0.0 |
-| gnews_fed | OK | 100 | 91 | 46 | 45 | 9 | 0.0 |
-| gnews_geopolitics | OK | 54 | 54 | 12 | 42 | 0 | 0.0 |
-| gnews_centralbanks | OK | 100 | 100 | 41 | 59 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.1 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 14.8 |
-| ecb_press | OK | 15 | 4 | 0 | 4 | 11 | 0.2 |
-| boe_news | OK | 50 | 2 | 0 | 2 | 48 | 0.3 |
-| boj_whatsnew | OK | 45 | 0 | 0 | 0 | 45 | 2.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 15.7 |
-| mining_com | OK | 36 | 10 | 5 | 5 | 26 | 0.1 |
-| oilprice | OK | 15 | 15 | 9 | 6 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| ing_think | OK | 10 | 9 | 0 | 9 | 1 | 0.3 |
-| bbc_business | OK | 45 | 19 | 2 | 17 | 26 | 0.1 |
-| aljazeera | OK | 25 | 25 | 23 | 2 | 0 | 0.0 |
-| snb_press | OK | 20 | 3 | 1 | 2 | 17 | 0.5 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
-| eia_energy | OK | 20 | 1 | 0 | 1 | 19 | 0.3 |
-| bea_releases | OK | 49 | 2 | 0 | 2 | 47 | 0.4 |
-| wsj_world | OK | 74 | 23 | 9 | 14 | 51 | 0.0 |
-| wsj_markets | OK | 61 | 31 | 9 | 22 | 30 | 0.0 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.3 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 10 | 0 | 10 | 26 | 0.3 |
+| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
+| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
+| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
+| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
+| cme_daily_commentary | OK | 10 | 7 | 2 | 5 | 3 | 0.1 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 49.3 |
+| kitco_general | OK | 34 | 34 | 4 | 30 | 0 | 0.1 |
+| gnews_fed | OK | 100 | 100 | 34 | 66 | 0 | 0.0 |
+| gnews_geopolitics | OK | 54 | 54 | 8 | 46 | 0 | 0.0 |
+| gnews_centralbanks | OK | 100 | 100 | 25 | 75 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 14.9 |
+| ecb_press | OK | 15 | 4 | 0 | 4 | 11 | 0.4 |
+| boe_news | OK | 50 | 2 | 0 | 2 | 48 | 0.5 |
+| boj_whatsnew | OK | 43 | 0 | 0 | 0 | 43 | 2.8 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 15.9 |
+| mining_com | OK | 36 | 15 | 5 | 10 | 21 | 0.0 |
+| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| ing_think | OK | 10 | 10 | 1 | 9 | 0 | 0.2 |
+| bbc_business | OK | 42 | 20 | 3 | 17 | 22 | 0.0 |
+| aljazeera | OK | 25 | 25 | 10 | 15 | 0 | 0.0 |
+| snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.7 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 1.6 |
+| eia_energy | OK | 20 | 1 | 0 | 1 | 19 | 0.5 |
+| bea_releases | OK | 49 | 2 | 0 | 2 | 47 | 0.5 |
+| wsj_world | OK | 72 | 29 | 7 | 22 | 43 | 0.0 |
+| wsj_markets | OK | 61 | 32 | 3 | 29 | 29 | 0.1 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 26 | 5 | 21 | 4 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 4 | 26 | 0 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
