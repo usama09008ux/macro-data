@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "30 Oct 2026 16:30",
+  "generated_pkt": "30 Oct 2026 22:29",
   "trading_day": "2026-10-30",
   "feed_sources": {
     "thisweek": "live"
@@ -1267,5 +1267,37 @@
       "trading_day": "2026-10-31"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "Canada GDP for August 0.0% vs 0.2% estimate",
+      "actual_raw": "0.0%",
+      "forecast_raw": "0.2%",
+      "beat": false,
+      "raw_diff": "-0.20pp",
+      "sign_flip": false,
+      "diff_pct": -100.0,
+      "when_pkt": "30 Oct 17:30",
+      "source": "investinglive",
+      "tags": [
+        "cad",
+        "oil",
+        "usd"
+      ]
+    },
+    {
+      "title": "US employment cost index for Q3 +0.8% vs +0.8% expected",
+      "actual_raw": "+0.8%",
+      "forecast_raw": "+0.8%",
+      "beat": false,
+      "raw_diff": "+0.00pp",
+      "sign_flip": false,
+      "diff_pct": 0.0,
+      "when_pkt": "30 Oct 17:30",
+      "source": "investinglive",
+      "tags": [
+        "gold",
+        "usd"
+      ]
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 # Calendar — Trading Day 30 Oct 2026
 
-- Banaya gaya: **30 Oct 2026 16:30 PKT**
+- Banaya gaya: **30 Oct 2026 22:29 PKT**
 - Trading day: **30 Oct 03:00 -> 31 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,11 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 17:30 | CAD | MED | GDP m/m | 0.2% | 0.0% |
-| 17:30 | USD | MED | Employment Cost Index q/q | 0.8% | 0.9% |
-| 18:45 | USD | low | Chicago PMI | 55.8 | 58.8 |
-| 21:00 | USD | low | FOMC Member Daly Speaks | - | - |
-| 21:30 | USD | low | FOMC Member Musalem Speaks | - | - |
 | **31 Oct** 06:30 | CNY | low | Manufacturing PMI | 49.9 | 50.1 |
 | **31 Oct** 06:30 | CNY | low | Non-Manufacturing PMI | 50.0 | 50.2 |
 
@@ -34,5 +29,10 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 30 Oct 17:30 | Canada GDP for August | 0.0% | 0.2% | -0.20pp (-100%) | neeche |
+| 30 Oct 17:30 | US employment cost index for Q3 | +0.8% | +0.8% | +0.00pp (+0%) | neeche |
 
