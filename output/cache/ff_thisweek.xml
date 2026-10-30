@@ -691,10 +691,20 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/344-au-private-sector-credit-mm]]></url>
 	</event>
 	<event>
+		<title>BOJ Outlook Report</title>
+		<country>JPY</country>
+		<date><![CDATA[10-30-2026]]></date>
+		<time><![CDATA[3:02am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/426-jn-boj-outlook-report]]></url>
+	</event>
+	<event>
 		<title>BOJ Policy Rate</title>
 		<country>JPY</country>
 		<date><![CDATA[10-30-2026]]></date>
-		<time><![CDATA[2:30am]]></time>
+		<time><![CDATA[3:02am]]></time>
 		<impact><![CDATA[High]]></impact>
 		<forecast><![CDATA[<1.25%]]></forecast>
 		<previous><![CDATA[<1.25%]]></previous>
@@ -704,21 +714,11 @@
 		<title>Monetary Policy Statement</title>
 		<country>JPY</country>
 		<date><![CDATA[10-30-2026]]></date>
-		<time><![CDATA[2:30am]]></time>
+		<time><![CDATA[3:02am]]></time>
 		<impact><![CDATA[High]]></impact>
 		<forecast />
 		<previous />
 		<url><![CDATA[https://www.forexfactory.com/calendar/371-jn-monetary-policy-statement]]></url>
-	</event>
-	<event>
-		<title>BOJ Outlook Report</title>
-		<country>JPY</country>
-		<date><![CDATA[10-30-2026]]></date>
-		<time><![CDATA[2:31am]]></time>
-		<impact><![CDATA[High]]></impact>
-		<forecast />
-		<previous />
-		<url><![CDATA[https://www.forexfactory.com/calendar/426-jn-boj-outlook-report]]></url>
 	</event>
 	<event>
 		<title>Housing Starts y/y</title>
@@ -729,16 +729,6 @@
 		<forecast><![CDATA[2.7%]]></forecast>
 		<previous><![CDATA[6.1%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/228-jn-housing-starts-yy]]></url>
-	</event>
-	<event>
-		<title>BOJ Press Conference</title>
-		<country>JPY</country>
-		<date><![CDATA[10-30-2026]]></date>
-		<time><![CDATA[5:30am]]></time>
-		<impact><![CDATA[High]]></impact>
-		<forecast />
-		<previous />
-		<url><![CDATA[https://www.forexfactory.com/calendar/20-jn-boj-press-conference]]></url>
 	</event>
 	<event>
 		<title>French Consumer Spending m/m</title>
@@ -759,6 +749,16 @@
 		<forecast><![CDATA[0.1%]]></forecast>
 		<previous><![CDATA[0.2%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/675-fr-flash-gdp-qq]]></url>
+	</event>
+	<event>
+		<title>BOJ Press Conference</title>
+		<country>JPY</country>
+		<date><![CDATA[10-30-2026]]></date>
+		<time><![CDATA[6:30am]]></time>
+		<impact><![CDATA[High]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/20-jn-boj-press-conference]]></url>
 	</event>
 	<event>
 		<title>German Import Prices m/m</title>

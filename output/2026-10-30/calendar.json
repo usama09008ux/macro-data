@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "30 Oct 2026 07:06",
+  "generated_pkt": "30 Oct 2026 16:30",
   "trading_day": "2026-10-30",
   "feed_sources": {
     "thisweek": "live"
@@ -903,6 +903,19 @@
       "trading_day": "2026-10-30"
     },
     {
+      "title": "BOJ Outlook Report",
+      "ccy": "JPY",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/426-jn-boj-outlook-report",
+      "all_day": false,
+      "utc": "2026-10-30T03:02Z",
+      "pkt": "30 Oct 08:02",
+      "pkt_iso": "2026-10-30T08:02:00+05:00",
+      "trading_day": "2026-10-30"
+    },
+    {
       "title": "BOJ Policy Rate",
       "ccy": "JPY",
       "impact": "High",
@@ -910,9 +923,9 @@
       "previous": "<1.25%",
       "url": "https://www.forexfactory.com/calendar/641-jn-boj-policy-rate",
       "all_day": false,
-      "utc": "2026-10-30T02:30Z",
-      "pkt": "30 Oct 07:30",
-      "pkt_iso": "2026-10-30T07:30:00+05:00",
+      "utc": "2026-10-30T03:02Z",
+      "pkt": "30 Oct 08:02",
+      "pkt_iso": "2026-10-30T08:02:00+05:00",
       "trading_day": "2026-10-30"
     },
     {
@@ -923,22 +936,9 @@
       "previous": "",
       "url": "https://www.forexfactory.com/calendar/371-jn-monetary-policy-statement",
       "all_day": false,
-      "utc": "2026-10-30T02:30Z",
-      "pkt": "30 Oct 07:30",
-      "pkt_iso": "2026-10-30T07:30:00+05:00",
-      "trading_day": "2026-10-30"
-    },
-    {
-      "title": "BOJ Outlook Report",
-      "ccy": "JPY",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
-      "url": "https://www.forexfactory.com/calendar/426-jn-boj-outlook-report",
-      "all_day": false,
-      "utc": "2026-10-30T02:31Z",
-      "pkt": "30 Oct 07:31",
-      "pkt_iso": "2026-10-30T07:31:00+05:00",
+      "utc": "2026-10-30T03:02Z",
+      "pkt": "30 Oct 08:02",
+      "pkt_iso": "2026-10-30T08:02:00+05:00",
       "trading_day": "2026-10-30"
     },
     {
@@ -952,19 +952,6 @@
       "utc": "2026-10-30T05:00Z",
       "pkt": "30 Oct 10:00",
       "pkt_iso": "2026-10-30T10:00:00+05:00",
-      "trading_day": "2026-10-30"
-    },
-    {
-      "title": "BOJ Press Conference",
-      "ccy": "JPY",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
-      "url": "https://www.forexfactory.com/calendar/20-jn-boj-press-conference",
-      "all_day": false,
-      "utc": "2026-10-30T05:30Z",
-      "pkt": "30 Oct 10:30",
-      "pkt_iso": "2026-10-30T10:30:00+05:00",
       "trading_day": "2026-10-30"
     },
     {
@@ -987,6 +974,19 @@
       "forecast": "0.1%",
       "previous": "0.2%",
       "url": "https://www.forexfactory.com/calendar/675-fr-flash-gdp-qq",
+      "all_day": false,
+      "utc": "2026-10-30T06:30Z",
+      "pkt": "30 Oct 11:30",
+      "pkt_iso": "2026-10-30T11:30:00+05:00",
+      "trading_day": "2026-10-30"
+    },
+    {
+      "title": "BOJ Press Conference",
+      "ccy": "JPY",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/20-jn-boj-press-conference",
       "all_day": false,
       "utc": "2026-10-30T06:30Z",
       "pkt": "30 Oct 11:30",
