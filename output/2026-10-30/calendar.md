@@ -1,6 +1,6 @@
 # Calendar — Trading Day 30 Oct 2026
 
-- Banaya gaya: **30 Oct 2026 22:29 PKT**
+- Banaya gaya: **31 Oct 2026 02:15 PKT**
 - Trading day: **30 Oct 03:00 -> 31 Oct 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,8 +12,8 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **31 Oct** 06:30 | CNY | low | Manufacturing PMI | 49.9 | 50.1 |
-| **31 Oct** 06:30 | CNY | low | Non-Manufacturing PMI | 50.0 | 50.2 |
+| 06:30 | CNY | low | Manufacturing PMI | 49.9 | 50.1 |
+| 06:30 | CNY | low | Non-Manufacturing PMI | 50.0 | 50.2 |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
