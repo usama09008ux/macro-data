@@ -1,8 +1,8 @@
 # News Pack — Trading Day 31 Oct 2026
 
 - Trading day: **31 Oct 03:00 -> 01 Nov 02:59 PKT**
-- Aakhri update: **31 Oct 03:41 PKT**
-- Kul khabrein: **39**
+- Aakhri update: **31 Oct 06:52 PKT**
+- Kul khabrein: **84**
 - Feeds: 35/39 OK
 
 ---
@@ -32,6 +32,11 @@ The S&P/TSX Composite Index fell more than 1.7% to close at 36,620, as a rebound
 
 ### GOLD
 
+**India gold reserves description={PAGE_DESCRIPTION} - Kitco**
+`31 Oct 04:30 PKT` · pehli baar dekhi `31 Oct 06:52` · kitco_general
+
+India gold reserves description={PAGE_DESCRIPTION} Kitco
+
 **CFTC Silver Net Longs Edge Lower as Speculators Trim Positions**
 `31 Oct 03:41 PKT` · instaforex
 
@@ -44,12 +49,52 @@ Speculative interest in gold slipped in the latest reporting period, as CFTC dat
 
 ### USD
 
+**China's Composite PMI Slips Back Below 50 in October, Signalling Renewed Contraction**
+`31 Oct 06:52 PKT` · instaforex
+
+China's Composite Purchasing Managers' Index (PMI) retreated into contraction territory in October 2026, falling to 49.7 from 50.7 in September, according to data updated on 31 October 2026. The move marks a reversal from last month's level, which had just edged back above the 50-point threshold that separates expansion from contraction.
+
+**China's Services Momentum Slips as October Non-Manufacturing PMI Dips Below 50**
+`31 Oct 06:52 PKT` · instaforex
+
+China's non-manufacturing sector showed signs of softening in October 2026, with the official Non-Manufacturing Purchasing Managers' Index (PMI) edging back into contractionary territory. The index fell to 49.7 in October, down from 50.2 in September 2026, according to data updated on 31 October 2026.
+
+**China's Manufacturing PMI Slips Back Into Contraction in October**
+`31 Oct 06:52 PKT` · instaforex
+
+China's manufacturing sector showed renewed signs of weakness in October 2026, as the Manufacturing Purchasing Managers' Index (PMI) fell to 49.3, down from 50.1 in September. The latest reading, released on 31 October 2026, signals a move back into contraction territory after briefly crossing the 50-point threshold that separates expansion from contraction.
+
+**Colombia's Urban Jobless Rate Drops to 8.0% in September, Extending Labor Market Recovery**
+`31 Oct 06:52 PKT` · instaforex
+
+Colombia's urban unemployment rate fell to 8.0% in September 2026, down from 9.1% in August 2026, signaling a continued recovery in the country's city labor markets. The fresh figures, updated on 30 October 2026, point to improving employment dynamics in Colombia's main urban centers. The percentage-point decline from August to September suggests that hiring momentum has strengthened, helping absorb more job seekers in metropolitan areas.
+
+**U.S. national debt reached 100% of GDP this week, and Washington yawned. Now what?**
+`31 Oct 05:00 PKT` · pehli baar dekhi `31 Oct 06:52` · wsj_economy
+
+The national debt is growing at an unprecedented pace and almost nobody is prepared to stop it.
+
 **Colombia Central Bank Holds Key Rate at 12.25%**
 `31 Oct 03:41 PKT` · instaforex
 
 The Central Bank of Colombia kept its benchmark interest rate unchanged at 12.25% at its October 2026 meeting, in line with market expectations. The Board of Directors noted that annual inflation in September inched up to 6.3%, coming in slightly below forecast, while core inflation eased from 6.1% in August to 6.0% in September. Even so, the El Niño weather phenomenon poses a significant upside risk to the outlook for food and regulated prices.
 
 ### EUR
+
+**Christine Lagarde's Lonely Next Act: Defender of a Fading Globalist Order**
+`31 Oct 06:00 PKT` · pehli baar dekhi `31 Oct 06:52` · wsj_world
+
+The departing leader of the European Central Bank wagers that her brand of politics still has a place in a world increasingly driven by polarization.
+
+**Fitch Cuts France's Outlook to Negative on Weaker Growth, Widening Deficit**
+`31 Oct 05:27 PKT` · pehli baar dekhi `31 Oct 06:52` · wsj_economy
+
+Fitch said the negative outlook reflects a deterioration since its August review, and cited weaker growth, higher borrowing costs and a wider deficit.
+
+**Germany and France brace for protests on Halloween weekend**
+`31 Oct 05:17 PKT` · pehli baar dekhi `31 Oct 06:52` · aljazeera
+
+A wave of youth-led protests has swept Europe, with demonstrators denouncing rising prices and a lack of prospects.
 
 **Speculators Deepen Bearish Bets on Euro as CFTC Net Shorts Widen**
 `31 Oct 03:41 PKT` · instaforex
@@ -67,6 +112,16 @@ Speculative traders increased their bearish positions on the euro, with CFTC EUR
 Speculative positioning in the British pound turned marginally less bearish, according to the latest Commitments of Traders data released on 30 October 2026. Net speculative positions in GBP improved to -79.4K contracts, from a previous reading of -80.4K. The move represents a modest trimming of net short exposure, suggesting that while market participants remain broadly negative on sterling, some traders are beginning to pare back their bearish bets.
 
 ### JPY
+
+**Japanese Yen futures pare gains as Bank of Japan holds rates. - CME Group**
+`31 Oct 05:22 PKT` · pehli baar dekhi `31 Oct 06:52` · gnews_centralbanks
+
+Japanese Yen futures pare gains as Bank of Japan holds rates. CME Group
+
+**Today's USD exchange rate (October 31): The USD is under pressure as the Yen recovers. - Vietnam.vn**
+`31 Oct 04:34 PKT` · pehli baar dekhi `31 Oct 06:52` · gnews_centralbanks
+
+Today's USD exchange rate (October 31): The USD is under pressure as the Yen recovers. Vietnam.vn
 
 **Speculative Bets on Yen Surge as CFTC Net Long Positions Jump to 101.6K**
 `31 Oct 03:41 PKT` · instaforex
@@ -103,6 +158,19 @@ Speculative sentiment toward the New Zealand dollar showed a marginal improvemen
 
 ### OIL
 
+**Stocks fall on AI cash burn worries while bonds rally with oil**
+`31 Oct 05:48 PKT` · pehli baar dekhi `31 Oct 06:52` · investing_news
+
+**Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon**
+`31 Oct 05:00 PKT` · pehli baar dekhi `31 Oct 06:52` · aljazeera
+
+IRGC says four tankers hit in Strait of Hormuz, as Trump says war on Iran will &#039;get wrapped up soon&#039;.
+
+**Europe Is Now Seriously Rethinking Its Oil Refinery Phase Down**
+`31 Oct 04:00 PKT` · pehli baar dekhi `31 Oct 06:52` · oilprice
+
+Over the past couple of decades, Europe has pursued some of the world's most ambitious clean energy policies, aiming to become the first climate-neutral continent by 2050. Hardly surprisingly, Europe is now further along the clean energy transition compared to its western peers, with renewables accounting for roughly half of the continent's power mix compared to about 26% by the U.S.
+
 **Ibovespa Posts Worst Week Since Pandemic**
 `31 Oct 03:41 PKT` · instaforex
 
@@ -113,6 +181,11 @@ The Ibovespa fell 0.7% on Friday, closing at 167,922 and extending its losing st
 
 Speculative interest in U.S. crude oil futures softened in the latest reporting period, with CFTC crude oil speculative net positions declining to 74.3K, down from a previous level of 89.3K. The data, updated on 30 October 2026, point to a pullback in net long exposure among traders. The drop in net positions suggests that market participants have scaled back bullish bets on crude, potentially reflecting increased caution over the near-term outlook for oil prices.
 
+**U.S. Oil Refiners Face Import Squeeze From Biggest Foreign Seller - EnergyNow.com**
+`31 Oct 03:18 PKT` · pehli baar dekhi `31 Oct 06:52` · gnews_geopolitics
+
+U.S. Oil Refiners Face Import Squeeze From Biggest Foreign Seller EnergyNow.com
+
 **Gasoline Up 34% and Heating Oil Up 74% as Voters Head to the Midterms**
 `31 Oct 03:00 PKT` · pehli baar dekhi `31 Oct 03:41` · oilprice
 
@@ -120,12 +193,42 @@ The results of the upcoming midterm elections will reveal just how much power gl
 
 ### CRYPTO
 
+**Behind the Scenes of Crypto's Biggest Nightmare: a Record-Breaking Cyber Heist**
+`31 Oct 04:29 PKT` · pehli baar dekhi `31 Oct 06:52` · wsj_markets
+
+Binance's founder Changpeng Zhao had warned a week earlier that "No crypto wallet is 100% safe." In 20 minutes, hackers had made off with at least $6.3 billion.
+
 **Binance hackers raced to move billions before it could be frozen**
 `31 Oct 03:00 PKT` · pehli baar dekhi `31 Oct 03:41` · cointelegraph
 
 Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize billions of dollars in assets.
 
+### RATES
+
+**Hedge Fund Arini Offloads $800 Million in Debt as Losses Deepen**
+`31 Oct 03:43 PKT` · pehli baar dekhi `31 Oct 06:52` · wsj_markets
+
+Hamza Lemssouguer's fund known for its bold bets suffered margin calls after several investments tumbled.
+
 ### RISK
+
+**Oil Prices Soar, the Cost of Living Skyrockets, and Young People Take to the Streets: The Flames of the Iran War Engulf the World - LankaeNews**
+`31 Oct 06:16 PKT` · pehli baar dekhi `31 Oct 06:52` · gnews_geopolitics
+
+Oil Prices Soar, the Cost of Living Skyrockets, and Young People Take to the Streets: The Flames of the Iran War Engulf the World LankaeNews
+
+**US approves $2.1 billion Patriot missile sale to Ukraine**
+`31 Oct 05:54 PKT` · pehli baar dekhi `31 Oct 06:52` · investing_news
+
+**How Iran Battered U.S. Bases and Caused Billions in Damage**
+`31 Oct 05:30 PKT` · pehli baar dekhi `31 Oct 06:52` · wsj_world
+
+Satellite imagery shows damage at more than two dozen installations, in the fullest accounting of the destruction yet.
+
+**Brent ends October up 13.6% as Iran war risks unsettle markets - Nation Thailand**
+`31 Oct 05:28 PKT` · pehli baar dekhi `31 Oct 06:52` · gnews_geopolitics
+
+Brent ends October up 13.6% as Iran war risks unsettle markets Nation Thailand
 
 **Wall Street Falls on Tech Slump**
 `31 Oct 03:41 PKT` · instaforex
@@ -142,10 +245,28 @@ Speculative traders have significantly increased their bearish exposure to U.S. 
 
 U.S. stocks fell as the AI selloff began to feed on itself following more disappointing earnings reports from Amazon and Intel, leaving investors to wonder if the tech correction could become a speculative bust.
 
-### BINA TAG (16)
+### BINA TAG (35)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `31 Oct 06:31` **aljazeera** — Pope Leo becomes first pontiff to vote in US general election
+- `31 Oct 06:30` **investing_news** — Alaska Air to cut about 200 jobs as fuel shock squeezes earnings
+- `31 Oct 06:26` **aljazeera** — Fake polls expose vulnerabilities in US elections ahead of midterms
+- `31 Oct 06:23` **aljazeera** — Dog walker threatened with gun during ICE arrest in North Hollywood
+- `31 Oct 06:20` **investing_news** — OpenAI cuts funding target by $10 billion to $20 billion - FT
+- `31 Oct 06:06` **investing_news** — OpenAI cuts funding target by $10 billion, FT reports
+- `31 Oct 06:00` **wsj_markets** — The New Bottleneck in America's AI Build-Out: A Shortage of Cheap Money
+- `31 Oct 05:30` **wsj_world** — The Methodology Behind the Journal's Investigation of Damage to U.S. Bases
+- `31 Oct 05:02` **aljazeera** — Brazil summons Argentinian diplomat over Bolsonaro's flight to US
+- `31 Oct 05:00` **actionforex** — Summary 11/2 – 11/6
+- `31 Oct 04:46` **gnews_fed** — Eighth Circuit Vacates Federal Reserve's Debit-Card Interchange Fee Cap - JD Supra
+- `31 Oct 04:39` **aljazeera** — Fans voice support on final night of Macklemore's 'Free Palestine' tour
+- `31 Oct 04:19` **aljazeera** — Polish police deployed to top court after head judge suspended
+- `31 Oct 04:14` **mw_topstories** — Has the tech bubble burst? Why the Nasdaq's rough ride looks eerily like 2000.
+- `31 Oct 04:13` **aljazeera** — Why AI could threaten much of the world's digital infrastructure
+- `31 Oct 03:58` **aljazeera** — US judge orders ethics inquiry into Trump lawyers over golf course case
+- `31 Oct 03:57` **wsj_world** — ICE Officer Indicted After Allegedly Striking Fleeing Man With Vehicle
+- `31 Oct 03:41` **kitco_general** — URNM description={PAGE_DESCRIPTION} - Kitco
 - `31 Oct 03:41` **instaforex** — Speculative BRL Longs Edge Higher as CFTC Net Positions Tick Up to 32.9K
 - `31 Oct 03:41` **instaforex** — Speculators Deepen Long Positions in Mexican Peso as Net Bets Climb to 20.8K
 - `31 Oct 03:41` **instaforex** — Speculators Trim Soybean Bets as Net Long Positions Fall in Latest CFTC Data
@@ -160,16 +281,17 @@ U.S. stocks fell as the AI selloff began to feed on itself following more disapp
 - `31 Oct 03:20` **mw_topstories** — This cybersecurity stock will be the next to join the S&P 500
 - `31 Oct 03:16` **investing_news** — T1 Energy files prospectus supplement for potential resale of common stock tied to convertible notes
 - `31 Oct 03:16` **investing_news** — Saba Capital Management buys $70,923 in Ellsworth Growth & Income Fund
+- `31 Oct 03:14` **kitco_general** — Small-Cap ETF description={PAGE_DESCRIPTION} - Kitco
 - `31 Oct 03:12` **investing_news** — Exclusive-Trump appointee Bill Pulte's housing agency obstructed watchdog, report says
 - `31 Oct 03:11` **investing_news** — Alset receives Nasdaq notice for non-compliance with minimum bid price rule
 
 ---
 
-## Shor — 2 khabrein hatai gayin
+## Shor — 7 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (2)
+investing_news (7)
 
 ---
 
@@ -179,45 +301,45 @@ investing_news (2)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.4 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.2 |
-| instaforex | OK | 25 | 25 | 24 | 1 | 0 | -0.1 |
-| wsj_economy | OK | 36 | 6 | 0 | 6 | 30 | 0.2 |
-| cme_metals_video | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 7 | 3 | 4 | 3 | 0.0 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 50.2 |
-| kitco_general | OK | 35 | 35 | 11 | 24 | 0 | 0.0 |
-| gnews_fed | OK | 60 | 60 | 15 | 45 | 0 | 0.1 |
-| gnews_geopolitics | OK | 50 | 50 | 9 | 41 | 0 | 0.1 |
-| gnews_centralbanks | OK | 100 | 100 | 18 | 82 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 15.8 |
-| ecb_press | OK | 15 | 3 | 0 | 3 | 12 | 0.3 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.4 |
-| boj_whatsnew | OK | 51 | 8 | 0 | 8 | 43 | 0.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 16.8 |
-| mining_com | OK | 36 | 9 | 3 | 6 | 27 | 0.1 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
-| bbc_business | OK | 50 | 16 | 3 | 13 | 34 | 0.0 |
-| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.1 |
-| snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 2.5 |
-| eia_energy | OK | 21 | 1 | 0 | 1 | 20 | 0.4 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 1.4 |
-| wsj_world | OK | 72 | 17 | 9 | 8 | 55 | 0.0 |
-| wsj_markets | OK | 61 | 34 | 8 | 26 | 27 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.1 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.3 |
+| instaforex | OK | 25 | 25 | 4 | 21 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 7 | 2 | 5 | 29 | 0.1 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.1 |
+| cme_daily_commentary | OK | 10 | 7 | 0 | 7 | 3 | 0.1 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 50.3 |
+| kitco_general | OK | 38 | 37 | 4 | 33 | 1 | 0.1 |
+| gnews_fed | OK | 57 | 57 | 8 | 49 | 0 | 0.1 |
+| gnews_geopolitics | OK | 64 | 64 | 13 | 51 | 0 | 0.0 |
+| gnews_centralbanks | OK | 100 | 100 | 13 | 87 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.0 |
+| ecb_press | OK | 15 | 3 | 0 | 3 | 12 | 0.4 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.5 |
+| boj_whatsnew | OK | 51 | 8 | 0 | 8 | 43 | 0.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 17.0 |
+| mining_com | OK | 36 | 9 | 0 | 9 | 27 | 0.2 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
+| bbc_business | OK | 50 | 16 | 0 | 16 | 34 | 0.2 |
+| aljazeera | OK | 25 | 25 | 10 | 15 | 0 | 0.0 |
+| snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.7 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 2.7 |
+| eia_energy | OK | 21 | 1 | 0 | 1 | 20 | 0.5 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 1.6 |
+| wsj_world | OK | 70 | 21 | 4 | 17 | 49 | 0.0 |
+| wsj_markets | OK | 61 | 36 | 4 | 32 | 25 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 23 | 2 | 21 | 7 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 23 | 0 | 23 | 7 | 0.2 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
