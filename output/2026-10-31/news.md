@@ -1,9 +1,9 @@
 # News Pack — Trading Day 31 Oct 2026
 
 - Trading day: **31 Oct 03:00 -> 01 Nov 02:59 PKT**
-- Aakhri update: **01 Nov 05:44 PKT**
-- Kul khabrein: **363**
-- Feeds: 35/39 OK
+- Aakhri update: **01 Nov 11:53 PKT**
+- Kul khabrein: **386**
+- Feeds: 34/39 OK
 
 ---
 
@@ -47,20 +47,45 @@ The S&P/TSX Composite Index fell more than 1.7% to close at 36,620, as a rebound
 
 ### GOLD
 
+**Gold Price Drops Below Key Support as GLD ETF Outflows Jump as NFP Loom - Longbridge**
+`01 Nov 00:15 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_fed
+
+Gold Price Drops Below Key Support as GLD ETF Outflows Jump as NFP Loom Longbridge
+
 **SILVER description={PAGE_DESCRIPTION} News - Kitco**
 `31 Oct 20:25 PKT` · pehli baar dekhi `01 Nov 02:54` · kitco_general
 
 SILVER description={PAGE_DESCRIPTION} News Kitco
+
+**Gold Tumbles to 10-Month Low in Delhi Amid Global Selloff - Rediff MoneyWiz**
+`31 Oct 19:21 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_fed
+
+Gold Tumbles to 10-Month Low in Delhi Amid Global Selloff Rediff MoneyWiz
+
+**Gold dips near US$4,000 as Fed holds rates with little guidance - PressReader**
+`31 Oct 18:05 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_fed
+
+Gold dips near US$4,000 as Fed holds rates with little guidance PressReader
 
 **Domestic gold prices have fallen by 53 million VND per tael from this year's peak. - Vietnam.vn**
 `31 Oct 17:56 PKT` · pehli baar dekhi `01 Nov 05:44` · gnews_centralbanks
 
 Domestic gold prices have fallen by 53 million VND per tael from this year's peak. Vietnam.vn
 
+**Gold Rate Today, October 31: Why Are Gold Prices Falling? Check 18K, 22K And 24K Rates In Delhi, Mumbai, Chennai - The Sunday Guardian**
+`31 Oct 15:10 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_fed
+
+Gold Rate Today, October 31: Why Are Gold Prices Falling? Check 18K, 22K And 24K Rates In Delhi, Mumbai, Chennai The Sunday Guardian
+
 **Will the 2013 gold crash repeat? Prices plunge below $4,000 globally - Mathrubhumi English**
 `31 Oct 14:28 PKT` · pehli baar dekhi `31 Oct 19:27` · gnews_fed
 
 Will the 2013 gold crash repeat? Prices plunge below $4,000 globally Mathrubhumi English
+
+**TradFi News |TradFi Week in Review: Silver Drops 18% in October, Intel Has Its Worst Day Since 1974, and a 10-2 Fed Hold Keeps a December Hike in Play - Binance**
+`31 Oct 14:24 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_fed
+
+TradFi News |TradFi Week in Review: Silver Drops 18% in October, Intel Has Its Worst Day Since 1974, and a 10-2 Fed Hold Keeps a December Hike in Play Binance
 
 **China reports sharp increase in gold, nickel and strategic minerals - Xinhua**
 `31 Oct 11:39 PKT` · pehli baar dekhi `31 Oct 12:56` · investing_news
@@ -113,6 +138,16 @@ The Fed's Hawkish Pause: America's Roaring Economy Is Running Out of Real Income
 
 Fed Rate Hike Odds for December Fall to 70.7% in Two Days TOKENPOST
 
+**The Fed held interest rates steady, but these officials see more hikes coming soon - Forex Factory**
+`31 Oct 20:48 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_fed
+
+The Fed held interest rates steady, but these officials see more hikes coming soon Forex Factory
+
+**Peter Schiff: Fed's Gamble Risks Inflation Spike - Investing News Network**
+`31 Oct 20:41 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_fed
+
+Peter Schiff: Fed's Gamble Risks Inflation Spike Investing News Network
+
 **Citi Says Hawk-Dove Divide Is About Inflation Theory, Not Just Rate Votes - BigGo Finance**
 `31 Oct 20:25 PKT` · pehli baar dekhi `31 Oct 23:41` · gnews_centralbanks
 
@@ -122,6 +157,11 @@ Citi Says Hawk-Dove Divide Is About Inflation Theory, Not Just Rate Votes BigGo 
 `31 Oct 19:31 PKT` · pehli baar dekhi `31 Oct 23:41` · gnews_fed
 
 Two Fed Officials Just Called for More Rate Hikes, Starting Soon 24/7 Wall St.
+
+**Sensex, Nifty Surge After Fed Keeps Rates Steady; Rupee Rallies - NDTV Profit**
+`31 Oct 18:50 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_fed
+
+Sensex, Nifty Surge After Fed Keeps Rates Steady; Rupee Rallies NDTV Profit
 
 **4 Words From Fed Chair Kevin Warsh Should Have Wall Street and Investors Quaking in Their Boots - The Motley Fool**
 `31 Oct 18:36 PKT` · pehli baar dekhi `31 Oct 19:27` · gnews_fed
@@ -133,6 +173,11 @@ Two Fed Officials Just Called for More Rate Hikes, Starting Soon 24/7 Wall St.
 
 Fed's Logan Calls for Two More Rate Hikes | 31 Oct 2026 www.tmgm.com
 
+**US bond yields are falling, what happens next? - Vietnam.vn**
+`31 Oct 17:34 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_fed
+
+US bond yields are falling, what happens next? Vietnam.vn
+
 **Federal Reserve keeps rates unchanged despite elevated inflation - The Land**
 `31 Oct 17:32 PKT` · pehli baar dekhi `31 Oct 19:27` · gnews_fed
 
@@ -142,6 +187,22 @@ Federal Reserve keeps rates unchanged despite elevated inflation The Land
 `31 Oct 17:09 PKT` · pehli baar dekhi `31 Oct 23:41` · gnews_fed
 
 Fed Chairman Warsh's latest press conference leaves Wall Street guessing — again AOL.com
+
+**39% of American Families Spent $0 on Vacation, According to the Fed - 24/7 Wall St.**
+`31 Oct 15:26 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_fed
+
+39% of American Families Spent $0 on Vacation, According to the Fed 24/7 Wall St.
+
+**October FOMC Recap—No Hike But Hawk Talk Persists - Franklin Templeton - Commentaries - Advisor Perspectives**
+`31 Oct 13:04 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_fed
+
+October FOMC Recap—No Hike But Hawk Talk Persists - Franklin Templeton - Commentaries Advisor Perspectives
+
+**Fed officials make case for rate hikes amid ongoing inflation concerns - صحيفة مال**
+`31 Oct 12:20 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_fed · **2 feeds mein**
+
+Fed officials make case for rate hikes amid ongoing inflation concerns صحيفة مال
+  - `31 Oct 08:20` *gnews_fed* — Fed officials make case for rate hikes amid ongoing inflation concerns - WTVB
 
 **China Services Sector Unexpectedly Shrinks**
 `31 Oct 11:46 PKT` · pehli baar dekhi `31 Oct 12:56` · instaforex
@@ -172,11 +233,6 @@ S&P 500 Forecast: SPX flat ahead of FOMC rate decision and tech earnings StoneX
 `31 Oct 08:41 PKT` · pehli baar dekhi `31 Oct 19:27` · gnews_fed
 
 A Fed That Serves Main Street The Roosevelt Institute
-
-**Fed officials make case for rate hikes amid ongoing inflation concerns - WTVB**
-`31 Oct 08:20 PKT` · pehli baar dekhi `01 Nov 02:54` · gnews_fed
-
-Fed officials make case for rate hikes amid ongoing inflation concerns WTVB
 
 **Fed officials back more rate hikes, gradual pace of tightening - The Edge Malaysia**
 `31 Oct 08:00 PKT` · pehli baar dekhi `31 Oct 19:27` · gnews_fed
@@ -260,10 +316,11 @@ Christine Lagarde Is Leaving the ECB: Here's What She Really Thought About Bitco
 
 Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending.
 
-**Citi explains what 'hawk' and 'dove' really mean as ECB faces leadership change - Investing.com**
-`31 Oct 19:55 PKT` · pehli baar dekhi `31 Oct 23:41` · gnews_centralbanks
+**Citi explains what 'hawk' and 'dove' really mean as ECB faces leadership change - Yahoo Finance**
+`31 Oct 20:23 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_centralbanks · **2 feeds mein**
 
-Citi explains what 'hawk' and 'dove' really mean as ECB faces leadership change Investing.com
+Citi explains what 'hawk' and 'dove' really mean as ECB faces leadership change Yahoo Finance
+  - `31 Oct 19:55` *gnews_centralbanks* — Citi explains what 'hawk' and 'dove' really mean as ECB faces leadership change - Investing.com
 
 **Markets Briefs: AstraZeneca, Shell, ECB and ABF - Business Post**
 `31 Oct 19:04 PKT` · pehli baar dekhi `31 Oct 19:27` · gnews_centralbanks
@@ -542,6 +599,16 @@ Speculative sentiment toward the New Zealand dollar showed a marginal improvemen
 
 ### OIL
 
+**US to Allow Waiver on Iran Oil to Expire, Administration Sources Say - EnergyNow.com**
+`01 Nov 02:48 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_geopolitics
+
+US to Allow Waiver on Iran Oil to Expire, Administration Sources Say EnergyNow.com
+
+**Oil Steady as Investors Focus on Hormuz Flows After Peace Talks - EnergyNow**
+`01 Nov 02:35 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_geopolitics
+
+Oil Steady as Investors Focus on Hormuz Flows After Peace Talks EnergyNow
+
 **U.S. Intelligence: China Could Put Laser Weapons in Space by 2030**
 `01 Nov 02:00 PKT` · pehli baar dekhi `01 Nov 02:54` · oilprice
 
@@ -611,6 +678,11 @@ Oil company earnings skyrocket — again NPR
 `31 Oct 13:38 PKT` · pehli baar dekhi `01 Nov 05:44` · gnews_geopolitics
 
 UAE Crude Output Nears Record Following OPEC Exit, Sources Say EnergyNow
+
+**Qatar halts LNG production, Saudi refinery, Iraqi Kurdish and Israeli oil, gas fields shut amid Mideast strikes - DD News**
+`31 Oct 13:33 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_geopolitics
+
+Qatar halts LNG production, Saudi refinery, Iraqi Kurdish and Israeli oil, gas fields shut amid Mideast strikes DD News
 
 **US oil rig count up for week ending Oct. 30 - Anadolu Ajansı**
 `31 Oct 13:21 PKT` · pehli baar dekhi `01 Nov 05:44` · gnews_geopolitics
@@ -806,6 +878,11 @@ Home invasions became the most common form of crypto wrench attacks worldwide du
 
 **Bitcoin holds above $77,000 as FBI joins hunt for $6.3 billion Binance hackers**
 `31 Oct 16:48 PKT` · pehli baar dekhi `31 Oct 19:27` · investing_news
+
+**The Early Scale: Reuters reveals $6.3 billion Binance crypto hack - MarketScale**
+`31 Oct 15:00 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_fed
+
+The Early Scale: Reuters reveals $6.3 billion Binance crypto hack MarketScale
 
 **Binance $6.3B record hack sparks pre-election political clashes**
 `31 Oct 14:58 PKT` · pehli baar dekhi `31 Oct 19:27` · cointelegraph
@@ -1030,12 +1107,13 @@ India Sees Qatar LNG Supply Cut After Iran Strike - Energy News, Top Headlines, 
 
 U.S. stocks fell as the AI selloff began to feed on itself following more disappointing earnings reports from Amazon and Intel, leaving investors to wonder if the tech correction could become a speculative bust.
 
-### BINA TAG (129)
+### BINA TAG (135)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
 - `01 Nov 02:38` **aljazeera** — Legal filing questions Trump's claims of non-citizen voting in California
 - `01 Nov 02:31` **gnews_centralbanks** — UK house price growth slows to lowest since Jan 2024 - Business Recorder
+- `01 Nov 02:20` **gnews_geopolitics** — Why Are Nasdaq Futures Sinking Premarket Today? - Stocktwits
 - `01 Nov 02:12` **aljazeera** — Fiery confrontations between protestors and police in Albania
 - `01 Nov 02:01` **aljazeera** — Health authorities probe two suspected Ebola cases in northeast Nigeria
 - `01 Nov 01:48` **investing_news** — Judge ends Trump's attempts to sue Wall Street Journal over Epstein reporting
@@ -1043,6 +1121,7 @@ U.S. stocks fell as the AI selloff began to feed on itself following more disapp
 - `01 Nov 01:24` **aljazeera** — Israel's allegations of Qatari election interference rejected
 - `01 Nov 01:11` **aljazeera** — What is ranked-choice voting and how does it work in US elections?
 - `01 Nov 00:48` **investing_news** — Thousands return to Lisbon square, press government to scrap rental bill
+- `01 Nov 00:34` **gnews_fed** — Why Are Nasdaq Futures Rising Premarket? INTC, SKHY, ORCL, SPCX, ASTS, CRCL, COIN Stocks In Focus - Stocktwits
 - `01 Nov 00:33` **investing_commodities** — Citi sees European gas prices rising in 2027 as Middle East risks spur price gains
 - `01 Nov 00:29` **gnews_fed** — Trump calls on US central bank head to quit immediately - The Namibian
 - `01 Nov 00:18` **aljazeera** — Palestinians 'Stealing their own olives'
@@ -1079,6 +1158,7 @@ U.S. stocks fell as the AI selloff began to feed on itself following more disapp
 - `31 Oct 18:00` **mw_topstories** — If you really want to help your adult kids and grandkids, give them money while you're still alive
 - `31 Oct 17:55` **aljazeera** — West Indies thrash Bangladesh by eight wickets in first Test in Mirpur
 - `31 Oct 17:47` **aljazeera** — Alaska's two 'Dan Sullivans': How common is ballot stacking, does it work?
+- `31 Oct 17:46` **gnews_fed** — America's Debt Just Crossed a Line Not Seen Since WWII - 24/7 Wall St.
 - `31 Oct 17:45` **aljazeera** — New Yemen fighting displaces 290,000, says UN, with pregnant women at risk
 - `31 Oct 17:37` **mw_topstories** — This Halloween, are full-size candy bars a better deal than fun-sized ones?
 - `31 Oct 17:34` **gnews_centralbanks** — Concerns for the European economy - Vietnam.vn
@@ -1088,6 +1168,7 @@ U.S. stocks fell as the AI selloff began to feed on itself following more disapp
 - `31 Oct 17:23` **aljazeera** — Former rebel leader elected chief minister of Philippine Muslim region
 - `31 Oct 17:22` **aljazeera** — Paris steps up security as police patrol streets
 - `31 Oct 17:14` **aljazeera** — Aston Villa to sue ex-Liverpool star Carragher over 'unacceptable insults'
+- `31 Oct 17:00` **gnews_fed** — Mortgage Professional Says High Rates Could Have an Unexpected Benefit for Homebuyers - AOL.com
 - `31 Oct 17:00` **mw_topstories** — These 10 megadonors have spent a total of $1 billion on the midterm elections
 - `31 Oct 16:37` **aljazeera** — UN closes Somalia mission, ending three decades of political engagement
 - `31 Oct 16:30` **aljazeera** — Do tough laws deter drug crimes? Lessons from Singapore and Malaysia
@@ -1105,8 +1186,10 @@ U.S. stocks fell as the AI selloff began to feed on itself following more disapp
 - `31 Oct 14:18` **gnews_fed** — Binance Hack: Why Clients Didn't Lose Anything - ForkLog
 - `31 Oct 14:00` **gnews_centralbanks** — Charting the Global Economy: Central Banks Hold Rates Steady - Bloomberg
 - `31 Oct 13:30` **gnews_fed** — Federal Reserve Releases Interest Rate Decision - The Presidential Prayer Team
+- `31 Oct 13:10` **gnews_fed** — There's No Single Interest Rate, and No Single College Tuition - RealClearMarkets
 - `31 Oct 12:58` **investing_commodities** — Coal supply is struggling to keep pace with demand
 - `31 Oct 12:26` **investing_news** — OpenAI raises just $11bn of $30bn target as AI investor appetite cools - WSJ
+- `31 Oct 12:07` **gnews_fed** — Conversations on Central Banking: Macroeconomy in the Age of Artificial Intelligence - Federal Reserve Bank of Cleveland
 - `31 Oct 11:59` **aljazeera** — US midterms: 3 days to go – What latest polls say as early voting surges
 - `31 Oct 11:54` **investing_news** — China's factory activity shrinks in October, third contraction in four months
 - `31 Oct 11:11` **aljazeera** — LeBron James, Tyrese Maxey shine as 76ers beat Knicks in NBA Cup thriller
@@ -1180,48 +1263,48 @@ investing_news (21)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.5 |
+| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.7 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.7 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.3 |
-| instaforex | OK | 25 | 25 | 6 | 19 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 4 | 1 | 3 | 32 | 0.0 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 1.1 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 1.1 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 1.1 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 1.1 |
-| cme_daily_commentary | OK | 10 | 2 | 0 | 2 | 8 | 1.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 51.3 |
-| kitco_general | OK | 2 | 2 | 0 | 2 | 0 | 0.2 |
-| gnews_fed | OK | 25 | 25 | 4 | 21 | 0 | 0.1 |
-| gnews_geopolitics | OK | 59 | 59 | 27 | 32 | 0 | 0.1 |
-| gnews_centralbanks | OK | 40 | 40 | 9 | 31 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 16.9 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.4 |
-| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 1.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 17.9 |
-| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.1 |
-| oilprice | OK | 15 | 7 | 1 | 6 | 8 | 0.1 |
-| investing_commodities | OK | 10 | 7 | 0 | 7 | 3 | 0.2 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
-| bbc_business | OK | 50 | 0 | 0 | 0 | 50 | 1.1 |
-| aljazeera | OK | 25 | 25 | 5 | 20 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.7 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.6 |
-| eia_energy | OK | 21 | 0 | 0 | 0 | 21 | 1.4 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 2.5 |
-| wsj_world | OK | 70 | 11 | 2 | 9 | 59 | 0.0 |
-| wsj_markets | OK | 60 | 6 | 1 | 5 | 54 | 0.0 |
-| investing_news | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.9 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.5 |
+| instaforex | OK | 25 | 25 | 2 | 23 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.3 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 1.4 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 1.4 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 1.4 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 1.4 |
+| cme_daily_commentary | OK | 10 | 2 | 0 | 2 | 8 | 1.4 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 51.5 |
+| kitco_general | OK | 1 | 1 | 0 | 1 | 0 | 0.5 |
+| gnews_fed | OK | 45 | 45 | 30 | 15 | 0 | 0.0 |
+| gnews_geopolitics | OK | 58 | 58 | 12 | 46 | 0 | 0.1 |
+| gnews_centralbanks | OK | 20 | 20 | 7 | 13 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.5 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.2 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.7 |
+| boj_whatsnew | OK | 50 | 0 | 0 | 0 | 50 | 2.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 18.2 |
+| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.4 |
+| oilprice | OK | 15 | 7 | 0 | 7 | 8 | 0.3 |
+| investing_commodities | OK | 10 | 8 | 1 | 7 | 2 | 0.2 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
+| bbc_business | OK | 50 | 1 | 1 | 0 | 49 | 0.0 |
+| aljazeera | OK | 25 | 25 | 17 | 8 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.9 |
+| eia_energy | OK | 21 | 0 | 0 | 0 | 21 | 1.7 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 2.8 |
+| wsj_world | OK | 70 | 12 | 1 | 11 | 58 | 0.2 |
+| wsj_markets | OK | 60 | 6 | 0 | 6 | 54 | 0.3 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.2 |
-| cointelegraph | OK | 30 | 8 | 1 | 7 | 22 | 0.4 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
+| cointelegraph | OK | 30 | 8 | 0 | 8 | 22 | 0.6 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 51d purana
+- cme_risk_management — STALE, cadence 10d, magar 52d purana
 - yahoo_finance — FAIL, HTTP 404
