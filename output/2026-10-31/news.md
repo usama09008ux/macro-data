@@ -1,9 +1,9 @@
 # News Pack — Trading Day 31 Oct 2026
 
 - Trading day: **31 Oct 03:00 -> 01 Nov 02:59 PKT**
-- Aakhri update: **01 Nov 11:53 PKT**
-- Kul khabrein: **386**
-- Feeds: 34/39 OK
+- Aakhri update: **01 Nov 19:05 PKT**
+- Kul khabrein: **394**
+- Feeds: 28/39 OK
 
 ---
 
@@ -311,15 +311,23 @@ Authorities say 320,000 march on third consecutive weekend of demonstrations ove
 
 Christine Lagarde Is Leaving the ECB: Here's What She Really Thought About Bitcoin CryptoRank
 
+**Lagarde's early exit raises questions over ECB independence, policy outlook - Big News Network.com**
+`31 Oct 21:44 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_centralbanks · **3 feeds mein**
+
+Lagarde's early exit raises questions over ECB independence, policy outlook Big News Network.com
+  - `31 Oct 17:14` *gnews_centralbanks* — Lagarde's early exit raises questions over ECB independence, policy outlook - https://www.irishsun.com/
+  - `31 Oct 17:14` *gnews_centralbanks* — Lagarde's early exit raises questions over ECB independence, policy outlook - www.malaysiasun.com
+
 **Thousands rally in Berlin as Gen Z plans protests in 30 German cities**
 `31 Oct 21:28 PKT` · pehli baar dekhi `31 Oct 23:41` · aljazeera
 
 Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending.
 
 **Citi explains what 'hawk' and 'dove' really mean as ECB faces leadership change - Yahoo Finance**
-`31 Oct 20:23 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_centralbanks · **2 feeds mein**
+`31 Oct 20:23 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_centralbanks · **3 feeds mein**
 
 Citi explains what 'hawk' and 'dove' really mean as ECB faces leadership change Yahoo Finance
+  - `31 Oct 20:23` *gnews_centralbanks* — Citi explains what 'hawk' and 'dove' really mean as ECB faces leadership change - Yahoo Finance Singapore
   - `31 Oct 19:55` *gnews_centralbanks* — Citi explains what 'hawk' and 'dove' really mean as ECB faces leadership change - Investing.com
 
 **Markets Briefs: AstraZeneca, Shell, ECB and ABF - Business Post**
@@ -339,12 +347,6 @@ US, eurozone and Japan hold rates but signal possible rises BurgasMedia
 `31 Oct 17:56 PKT` · pehli baar dekhi `01 Nov 05:44` · gnews_centralbanks
 
 ECB Survey of Professional Forecasters Q4 2026: Eurozone Inflation Expectations Rise as Energy Prices Drive Forecasts Higher CinqueW News
-
-**Lagarde's early exit raises questions over ECB independence, policy outlook - https://www.irishsun.com/**
-`31 Oct 17:14 PKT` · pehli baar dekhi `31 Oct 23:41` · gnews_centralbanks · **2 feeds mein**
-
-Lagarde's early exit raises questions over ECB independence, policy outlook https://www.irishsun.com/
-  - `31 Oct 17:14` *gnews_centralbanks* — Lagarde's early exit raises questions over ECB independence, policy outlook - www.malaysiasun.com
 
 **The European Central Bank (ECB) - INSIGHTS IAS**
 `31 Oct 15:37 PKT` · pehli baar dekhi `31 Oct 23:41` · gnews_centralbanks
@@ -599,10 +601,30 @@ Speculative sentiment toward the New Zealand dollar showed a marginal improvemen
 
 ### OIL
 
+**Trump Officials Tout US Energy Dominance as Global Oil Execs Warn of Supply Crisis - EnergyNow**
+`01 Nov 02:53 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Trump Officials Tout US Energy Dominance as Global Oil Execs Warn of Supply Crisis EnergyNow
+
+**Brent Crude Oil Price Jumps After Attack on Iran's South Pars Field - EnergyNow.com**
+`01 Nov 02:52 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Brent Crude Oil Price Jumps After Attack on Iran's South Pars Field EnergyNow.com
+
+**Oil Prices Rise on Doubts US-Iran Peace Talks Will Ease Hormuz Disruption - EnergyNow.com**
+`01 Nov 02:50 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Oil Prices Rise on Doubts US-Iran Peace Talks Will Ease Hormuz Disruption EnergyNow.com
+
 **US to Allow Waiver on Iran Oil to Expire, Administration Sources Say - EnergyNow.com**
 `01 Nov 02:48 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_geopolitics
 
 US to Allow Waiver on Iran Oil to Expire, Administration Sources Say EnergyNow.com
+
+**Oil Prices Extend Gains on Escalating Middle East Hostilities - EnergyNow**
+`01 Nov 02:42 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Oil Prices Extend Gains on Escalating Middle East Hostilities EnergyNow
 
 **Oil Steady as Investors Focus on Hormuz Flows After Peace Talks - EnergyNow**
 `01 Nov 02:35 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_geopolitics
@@ -912,6 +934,16 @@ Attackers raced to convert stolen stablecoins into crypto that issuers could not
 Hamza Lemssouguer's fund known for its bold bets suffered margin calls after several investments tumbled.
 
 ### RISK
+
+**Here's a List of Gulf Energy Infrastructure Damaged in Iran War - EnergyNow**
+`01 Nov 02:48 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Here's a List of Gulf Energy Infrastructure Damaged in Iran War EnergyNow
+
+**Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA - EnergyNow**
+`01 Nov 02:33 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA EnergyNow
 
 **Russia stocks lower at close of trade; MOEX Russia Index unchanged**
 `01 Nov 02:20 PKT` · pehli baar dekhi `01 Nov 02:54` · investing_news
@@ -1263,48 +1295,49 @@ investing_news (21)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.7 |
+| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 1.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.9 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.5 |
-| instaforex | OK | 25 | 25 | 2 | 23 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.3 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 1.4 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 1.4 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 1.4 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 1.4 |
-| cme_daily_commentary | OK | 10 | 2 | 0 | 2 | 8 | 1.4 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 51.5 |
-| kitco_general | OK | 1 | 1 | 0 | 1 | 0 | 0.5 |
-| gnews_fed | OK | 45 | 45 | 30 | 15 | 0 | 0.0 |
-| gnews_geopolitics | OK | 58 | 58 | 12 | 46 | 0 | 0.1 |
-| gnews_centralbanks | OK | 20 | 20 | 7 | 13 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.5 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.2 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.7 |
-| boj_whatsnew | OK | 50 | 0 | 0 | 0 | 50 | 2.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 18.2 |
-| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.4 |
-| oilprice | OK | 15 | 7 | 0 | 7 | 8 | 0.3 |
-| investing_commodities | OK | 10 | 8 | 1 | 7 | 2 | 0.2 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
-| bbc_business | OK | 50 | 1 | 1 | 0 | 49 | 0.0 |
-| aljazeera | OK | 25 | 25 | 17 | 8 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.9 |
-| eia_energy | OK | 21 | 0 | 0 | 0 | 21 | 1.7 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 2.8 |
-| wsj_world | OK | 70 | 12 | 1 | 11 | 58 | 0.2 |
-| wsj_markets | OK | 60 | 6 | 0 | 6 | 54 | 0.3 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 1.2 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.8 |
+| instaforex | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.6 |
+| cme_metals_video | WARN | 10 | 1 | 0 | 1 | 9 | 1.7 |
+| cme_fx_video | WARN | 10 | 1 | 0 | 1 | 9 | 1.7 |
+| cme_rates_video | WARN | 10 | 1 | 0 | 1 | 9 | 1.7 |
+| cme_energy_video | WARN | 10 | 1 | 0 | 1 | 9 | 1.7 |
+| cme_daily_commentary | WARN | 10 | 2 | 0 | 2 | 8 | 1.7 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 51.8 |
+| kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_fed | OK | 23 | 23 | 10 | 13 | 0 | 0.0 |
+| gnews_geopolitics | OK | 70 | 70 | 24 | 46 | 0 | 0.0 |
+| gnews_centralbanks | OK | 19 | 19 | 10 | 9 | 0 | 0.2 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.8 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.5 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.0 |
+| boj_whatsnew | OK | 48 | 0 | 0 | 0 | 48 | 2.3 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 18.5 |
+| mining_com | OK | 36 | 1 | 1 | 0 | 35 | 0.1 |
+| oilprice | OK | 15 | 7 | 0 | 7 | 8 | 0.6 |
+| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| bbc_business | OK | 52 | 5 | 4 | 1 | 47 | 0.0 |
+| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.3 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 4.2 |
+| eia_energy | OK | 21 | 0 | 0 | 0 | 21 | 2.0 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 3.1 |
+| wsj_world | OK | 70 | 12 | 0 | 12 | 58 | 0.5 |
+| wsj_markets | OK | 60 | 10 | 4 | 6 | 50 | 0.1 |
+| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
-| cointelegraph | OK | 30 | 8 | 0 | 8 | 22 | 0.6 |
+| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 11 | 3 | 8 | 19 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
 - cme_risk_management — STALE, cadence 10d, magar 52d purana
+- kitco_general — FAIL, koi item nahi
 - yahoo_finance — FAIL, HTTP 404

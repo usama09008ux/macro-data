@@ -1,15 +1,50 @@
 # News Pack — Trading Day 01 Nov 2026
 
 - Trading day: **01 Nov 03:00 -> 02 Nov 02:59 PKT**
-- Aakhri update: **01 Nov 11:53 PKT**
-- Kul khabrein: **81**
-- Feeds: 34/39 OK
+- Aakhri update: **01 Nov 19:05 PKT**
+- Kul khabrein: **169**
+- Feeds: 28/39 OK
 
 ---
 
 ## Khabrein
 
 ### USD
+
+**Peru's Monthly Inflation Accelerates in October as CPI Jumps to 0.57%**
+`01 Nov 18:40 PKT` · pehli baar dekhi `01 Nov 19:05` · instaforex
+
+Peru's consumer price inflation gathered pace in October 2026, with the month‑over‑month Consumer Price Index (CPI) rising 0.57%, up sharply from September's 0.12%. The data, updated on 1 November 2026, point to a clear acceleration in short‑term price pressures. On a month‑over‑month basis, October's figure reflects a stronger increase in prices compared with the previous month, when the 0.12% CPI gain in September was measured against August.
+
+**Palestinians in Lebanon suffering worsened by high energy prices, inflation**
+`01 Nov 18:25 PKT` · pehli baar dekhi `01 Nov 19:05` · aljazeera
+
+As one of Lebanon&#039;s most vulnerable communities, Palestinians are struggling to make ends meet.
+
+**Saudi Arabia's GDP Contraction Eases in Q3 2026, Signals Gradual Stabilization**
+`01 Nov 17:00 PKT` · pehli baar dekhi `01 Nov 19:05` · instaforex
+
+Saudi Arabia's economy showed signs of gradual stabilization in the third quarter of 2026, as the pace of contraction moderated on a year-over-year basis. According to the latest data updated on 01 November 2026, gross domestic product (GDP) declined by 3.80% in Q3 2026 compared with the same quarter a year earlier. This marks an improvement from the second quarter of 2026, when GDP fell by 4.70% year-over-year.
+
+**Almost 20% of American Families Are Late on Loan Payments. The Fed Hasn't Seen Numbers Like This Since 2010 - 24/7 Wall St.**
+`01 Nov 14:29 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_fed
+
+Almost 20% of American Families Are Late on Loan Payments. The Fed Hasn't Seen Numbers Like This Since 2010 24/7 Wall St.
+
+**Will the Fed raise interest rates this year? Divided economists weigh in - ABC News - Breaking News, Latest News and Videos**
+`01 Nov 14:24 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_fed
+
+Will the Fed raise interest rates this year? Divided economists weigh in ABC News - Breaking News, Latest News and Videos
+
+**Hawkish US Fed, higher bond yields could test emerging market resilience: Fitch - www.irishsun.com**
+`01 Nov 14:04 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_fed
+
+Hawkish US Fed, higher bond yields could test emerging market resilience: Fitch www.irishsun.com
+
+**Traders bet big on a December Fed rate cut despite a data blackout - Startup Fortune**
+`01 Nov 12:57 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_fed
+
+Traders bet big on a December Fed rate cut despite a data blackout Startup Fortune
 
 **Treasury Yields Little Changed, French Bonds Outperform - WSJ**
 `01 Nov 10:57 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_centralbanks
@@ -20,6 +55,11 @@ Treasury Yields Little Changed, French Bonds Outperform WSJ
 `01 Nov 10:00 PKT` · pehli baar dekhi `01 Nov 11:53` · instaforex
 
 The Atlanta Federal Reserve's GDPNow model has slightly lowered its estimate for U.S. economic growth in the fourth quarter of 2026 to 3.3%, down from a prior reading of 3.4%. The latest update, released on 1 November 2026, indicates only a marginal softening in the near-term growth outlook. While the adjustment is minimal, the move from 3.4% to 3.3% suggests the Atlanta Fed's real-time tracking model is detecting a modest cooling in activity as the quarter progresses.
+
+**FED OFFICIALS MAKE CASE FOR RATE HIKES | The Business Guardian - newspaper - Magzter**
+`01 Nov 09:59 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_fed
+
+FED OFFICIALS MAKE CASE FOR RATE HIKES | The Business Guardian - newspaper Magzter
 
 **October U.S. CPI data out Nov 10 ahead of Fed's Dec meeting, key for inflation and Bitcoin price moves - Pluang**
 `01 Nov 08:37 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_fed
@@ -57,6 +97,26 @@ South Korea's trade surplus widened sharply to USD 42.50 billion in October 2026
 Fed hold rates as auto finance rates continue rising Car Dealership Guy News
 
 ### EUR
+
+**Photos: Youth-led rallies sweep Germany**
+`01 Nov 15:41 PKT` · pehli baar dekhi `01 Nov 19:05` · aljazeera
+
+Tens of thousands take to the streets across Germany&#039;s biggest cities to demand better education and lower living costs.
+
+**ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama - WSJ**
+`01 Nov 14:39 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_centralbanks
+
+ECB Expected to Leave Key Rate Unchanged Amid French Bond Drama WSJ
+
+**ECB President Christine Lagarde to step down early in February - Big News Network.com**
+`01 Nov 14:36 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_centralbanks
+
+ECB President Christine Lagarde to step down early in February Big News Network.com
+
+**ECB rate decision: can €100 gas prices trigger a December rate hike? - Equiti Global**
+`01 Nov 12:59 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_centralbanks
+
+ECB rate decision: can €100 gas prices trigger a December rate hike? Equiti Global
 
 **Shops looted as German cost of living protests turn violent**
 `01 Nov 11:30 PKT` · pehli baar dekhi `01 Nov 11:53` · bbc_business
@@ -98,7 +158,25 @@ Protesters clashed with police as thousands took to the streets across 34 cities
 
 Live Q&A: What Lagarde's Exit Means for the ECB and Europe Bloomberg.com
 
+### GBP
+
+**Bank of England set to rise interest rates for first time since 2023 - The Independent**
+`01 Nov 14:21 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_centralbanks
+
+Bank of England set to rise interest rates for first time since 2023 The Independent
+
+**Bank of England expected to raise interest rates for first time since 2023 - Herts Advertiser**
+`01 Nov 14:02 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_centralbanks · **2 feeds mein**
+
+Bank of England expected to raise interest rates for first time since 2023 Herts Advertiser
+  - `01 Nov 14:00` *gnews_centralbanks* — Bank of England expected to raise interest rates for first time since 2023 - Express and Star
+
 ### JPY
+
+**Yen gains against US dollar after Bank of Japan holds rates - The Business Times**
+`01 Nov 13:31 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_centralbanks
+
+Yen gains against US dollar after Bank of Japan holds rates The Business Times
 
 **Bank of Japan Declares 2% Inflation Entrenched for First Time in 14.5 Years, Eyes December Rate Hike as Policy Pivots to Fighting Inflation - BigGo Finance**
 `01 Nov 10:35 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_centralbanks
@@ -106,6 +184,60 @@ Live Q&A: What Lagarde's Exit Means for the ECB and Europe Bloomberg.com
 Bank of Japan Declares 2% Inflation Entrenched for First Time in 14.5 Years, Eyes December Rate Hike as Policy Pivots to Fighting Inflation BigGo Finance
 
 ### OIL
+
+**OPEC+ keeps December oil output targets steady ahead of tougher call for 2027**
+`01 Nov 18:36 PKT` · pehli baar dekhi `01 Nov 19:05` · investing_commodities
+
+**OPEC+ keeps December oil output targets steady as Iran war continues to disrupt flows - The Straits Times**
+`01 Nov 18:30 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics · **2 feeds mein**
+
+OPEC+ keeps December oil output targets steady as Iran war continues to disrupt flows The Straits Times
+  - `01 Nov 18:07` *gnews_geopolitics* — OPEC+ keeps December oil output targets steady as Iran war continues to disrupt flows - Yahoo Finance
+
+**OPEC+ set to keep December oil production targets unchanged amid US-Iran war disruptions | Hindustan Times - Hindustan Times**
+`01 Nov 18:21 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+OPEC+ set to keep December oil production targets unchanged amid US-Iran war disruptions | Hindustan Times Hindustan Times
+
+**Opec+ holds December oil output targets steady as Iran war disrupts supply - The National**
+`01 Nov 17:49 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Opec+ holds December oil output targets steady as Iran war disrupts supply The National
+
+**Crude oil faces another volatile week as Iran diplomacy tests geopolitical premium: Analysts - ET EnergyWorld**
+`01 Nov 16:48 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Crude oil faces another volatile week as Iran diplomacy tests geopolitical premium: Analysts ET EnergyWorld
+
+**Crude oil prices likely to remain volatile with upward bias amid US-Iran tensions: Analysts - Moneycontrol.com**
+`01 Nov 16:27 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Crude oil prices likely to remain volatile with upward bias amid US-Iran tensions: Analysts Moneycontrol.com
+
+**Crude Oil Prices Face Volatile Week Amid US-Iran Tensions, Brent Near $118 As Hormuz Supply Risks Persist - Free Press Journal**
+`01 Nov 16:22 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Crude Oil Prices Face Volatile Week Amid US-Iran Tensions, Brent Near $118 As Hormuz Supply Risks Persist Free Press Journal
+
+**Crude Oil Volatility: Iran Diplomacy & Geopolitical Risks - Rediff MoneyWiz**
+`01 Nov 16:01 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Crude Oil Volatility: Iran Diplomacy & Geopolitical Risks Rediff MoneyWiz
+
+**What might a US Navy escort for tankers in the Strait of Hormuz look like? - ABC News - Breaking News, Latest News and Videos**
+`01 Nov 15:27 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+What might a US Navy escort for tankers in the Strait of Hormuz look like? ABC News - Breaking News, Latest News and Videos
+
+**Oil's New Problem Isn't Supply. It's Logistics: Bousso - EnergyNow.com**
+`01 Nov 14:41 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Oil's New Problem Isn't Supply. It's Logistics: Bousso EnergyNow.com
+
+**Iranian Oil Offers to Chinese Buyers Fall as US Blockade Bites, Sources Say - EnergyNow.com**
+`01 Nov 14:37 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Iranian Oil Offers to Chinese Buyers Fall as US Blockade Bites, Sources Say EnergyNow.com
 
 **Saudi Arabia Q3 GDP Shrinks for 2nd Quarter**
 `01 Nov 11:53 PKT` · instaforex
@@ -155,12 +287,47 @@ How the US Controls Iraq's Oil Revenues - Energy News, Top Headlines, Commentari
 
 THE RETHINK: Cash-Rich Oil Majors Face Post-Iran Strategy Rethink: Bousso EnergyNow.com
 
+**Fed's Logan Warns US Oil Production Won't Fill Global Supply Gap - EnergyNow.com**
+`01 Nov 03:10 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_fed
+
+Fed's Logan Warns US Oil Production Won't Fill Global Supply Gap EnergyNow.com
+
 **Oil Supply Shock to Worsen as Inventories Fall Further Even if Conflict Ends - EnergyNow.com**
 `01 Nov 03:08 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_geopolitics
 
 Oil Supply Shock to Worsen as Inventories Fall Further Even if Conflict Ends EnergyNow.com
 
 ### CRYPTO
+
+**Tech selloff may ease pressure on the Federal Reserve, says BMO economist - Crypto Briefing**
+`01 Nov 18:39 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_fed
+
+Tech selloff may ease pressure on the Federal Reserve, says BMO economist Crypto Briefing
+
+**Crypto firm Binance covers 90% of losses after $6.3bn hack**
+`01 Nov 18:11 PKT` · pehli baar dekhi `01 Nov 19:05` · bbc_business
+
+The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.
+
+**Binance Resumes Withdrawals After Suffering Biggest-Ever Crypto Hack**
+`01 Nov 17:03 PKT` · pehli baar dekhi `01 Nov 19:05` · wsj_markets
+
+The exchange says it has replaced roughly 95% of the stolen assets thus far.
+
+**Binance says phase one of withdrawals opens after $6.3B hack**
+`01 Nov 14:38 PKT` · pehli baar dekhi `01 Nov 19:05` · cointelegraph
+
+The crypto exchange said it has begun phased withdrawals after the record hack the FBI has blamed on North Korea.
+
+**Bitcoin price swings spike more around U.S. jobs and inflation reports than Fed rate decisions - Pluang**
+`01 Nov 12:53 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_fed
+
+Bitcoin price swings spike more around U.S. jobs and inflation reports than Fed rate decisions Pluang
+
+**Bitcoin volatility spikes briefly after Fed eve... - Pluang**
+`01 Nov 12:44 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_fed
+
+Bitcoin volatility spikes briefly after Fed eve... Pluang
 
 **Binance to resume crypto withdrawals in phases after record $6 billion hack**
 `01 Nov 11:20 PKT` · pehli baar dekhi `01 Nov 11:53` · investing_news
@@ -178,7 +345,48 @@ Thai Gold market in Thailand shaken by huge Binance cryptocurrency theft linked 
 
 Crypto firm Binance says it has covered 90 percent of losses from the multibillion-dollar hack.
 
+### RATES
+
+**Howmet Q3 2026 slides: record organic growth drives margin expansion**
+`01 Nov 17:12 PKT` · pehli baar dekhi `01 Nov 19:05` · investing_news
+
 ### RISK
+
+**Iran and US explore diplomacy amid rising threats of war**
+`01 Nov 18:02 PKT` · pehli baar dekhi `01 Nov 19:05` · aljazeera
+
+Iran says could reopen Hormuz in shorter period if conditions met, as Trump says US still has targets to &#039;take care of&#039;.
+
+**Iranian negotiators in Doha to continue talks to end the US-Iran war, official says**
+`01 Nov 17:30 PKT` · pehli baar dekhi `01 Nov 19:05` · investing_commodities
+
+**Russian strikes cut power to thousands in Ukraine as drones damage Russian facility**
+`01 Nov 16:36 PKT` · pehli baar dekhi `01 Nov 19:05` · investing_commodities
+
+**Mediators continue US-Iran negotiations amid war rhetoric: What we know**
+`01 Nov 16:14 PKT` · pehli baar dekhi `01 Nov 19:05` · aljazeera
+
+Trump says latest talks &#039;going fine&#039;; Iranian leaders say they favour diplomacy but are ready to respond to US attacks.
+
+**Gas prices top $4 a gallon as Iran war escalates - ABC News - Breaking News, Latest News and Videos**
+`01 Nov 15:19 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Gas prices top $4 a gallon as Iran war escalates ABC News - Breaking News, Latest News and Videos
+
+**Iran's military supply network kept missile, drone materials flowing despite sanctions - Philippine Canadian Inquirer**
+`01 Nov 14:11 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Iran's military supply network kept missile, drone materials flowing despite sanctions Philippine Canadian Inquirer
+
+**Are oil companies profiting from the Iran war? Experts explain - ABC News - Breaking News, Latest News and Videos**
+`01 Nov 13:56 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Are oil companies profiting from the Iran war? Experts explain ABC News - Breaking News, Latest News and Videos
+
+**Will the US-Iran ceasefire bring down gas prices? - ABC News - Breaking News, Latest News and Videos**
+`01 Nov 12:06 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Will the US-Iran ceasefire bring down gas prices? ABC News - Breaking News, Latest News and Videos
 
 **Ukrainian evacuees from Russian-occupied Oleshky reunite with family**
 `01 Nov 08:37 PKT` · pehli baar dekhi `01 Nov 11:53` · aljazeera
@@ -210,6 +418,16 @@ Oil exports help pay for Moscow's war effort and Ukraine is trying to hit them h
 
 US EIA Hikes Oil Price Forecasts Again as Iran War Drains Global Stockpile EnergyNow.com
 
+**Oil Prices Rise 5% on Fears of US-Iran Ceasefire Collapse - EnergyNow**
+`01 Nov 03:15 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Oil Prices Rise 5% on Fears of US-Iran Ceasefire Collapse EnergyNow
+
+**Iran War Anxiety Sends Global Container Shipping Rates Soaring - EnergyNow.com**
+`01 Nov 03:08 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Iran War Anxiety Sends Global Container Shipping Rates Soaring EnergyNow.com
+
 **Iran War Brings US Close to Net Crude Exporter for First Time Since World War Two - EnergyNow.com**
 `01 Nov 03:08 PKT` · pehli baar dekhi `01 Nov 11:53` · gnews_geopolitics
 
@@ -220,15 +438,60 @@ Iran War Brings US Close to Net Crude Exporter for First Time Since World War Tw
 
 SLB Quarterly Profit Slips as Iran War Dents Middle East Oilfield Activity EnergyNow.com
 
-### BINA TAG (37)
+**Iran War Raises Demand for US Fuel, Boosting Gulf Coast Refining Margins - EnergyNow.com**
+`01 Nov 03:04 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
+
+Iran War Raises Demand for US Fuel, Boosting Gulf Coast Refining Margins EnergyNow.com
+
+### BINA TAG (78)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `01 Nov 19:00` **mw_topstories** — This is the biggest threat to the AI-powered bull market
+- `01 Nov 18:47` **aljazeera** — Macklemore concludes 'Free Palestine' tour with solidarity message
+- `01 Nov 18:43` **aljazeera** — Ireland's European athletics champion Ciara Mageean dies aged 34
+- `01 Nov 18:42` **aljazeera** — US midterms live: Last-ditch efforts ahead of Tuesday's elections
+- `01 Nov 18:40` **cointelegraph** — DeepSeek developing AI agent requiring less human input: Report
+- `01 Nov 18:36` **aljazeera** — At least eight Palestinians killed in Israeli attacks across Gaza
+- `01 Nov 18:33` **aljazeera** — Liverpool vs Arsenal LIVE: Premier League
+- `01 Nov 18:32` **aljazeera** — More than 50 million votes cast in US midterm elections: What does it mean?
+- `01 Nov 18:16` **aljazeera** — Qatar unveils countdown clock for 2027 Basketball World Cup
+- `01 Nov 18:03` **aljazeera** — Michigan race: All you need to know about Abdul El-Sayed v Mike Rogers
+- `01 Nov 18:00` **mw_topstories** — America is doing better than you think. Your algorithm is just hiding it.
+- `01 Nov 18:00` **mw_topstories** — Who really wins under Trump's economy? Coastal liberal elites who hate him.
+- `01 Nov 17:50` **aljazeera** — Binance restarts withdrawals after $6.3bn heist
+- `01 Nov 17:45` **aljazeera** — Senegal kicks off the Youth Games 2026
+- `01 Nov 17:45` **investing_news** — Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.84%
+- `01 Nov 17:32` **aljazeera** — Yamaha pulls out of Qatar MotoGP over 'situation in the Middle East'
+- `01 Nov 17:29` **investing_news** — Unicaja Q3 2026 slides show 8% profit gain, 95% payout ratio
+- `01 Nov 17:24` **investing_news** — China's Communist Party demands loyalty, vows to tighten discipline
+- `01 Nov 17:13` **investing_news** — Xcel Energy Q3 2026 slides: $70B plan targets 11% rate base growth
+- `01 Nov 17:12` **aljazeera** — Fire engulfs hotel in Nepal along Everest Base Camp route
+- `01 Nov 17:12` **investing_news** — NatWest Q3 2026 slides: 21.6% ROTE leads UK banks despite share drop
+- `01 Nov 17:11` **investing_news** — Panasonic Q2 FY2027 slides: AI demand drives record profit, outlook raised
+- `01 Nov 17:00` **mining_com** — Cutifani warns mining sector's failure to innovate opens door to takeovers
+- `01 Nov 17:00` **wsj_markets** — Investors Are Hedging Against the Risks of the AI Boom
+- `01 Nov 16:26` **aljazeera** — Thousands rally in New Delhi to demand India's election chief resign
+- `01 Nov 15:57` **aljazeera** — Bulgarians vote in presidential run-off amid Black Sea tensions
+- `01 Nov 15:34` **aljazeera** — Is China's 'dark tourism' turning disaster education into entertainment?
+- `01 Nov 15:30` **wsj_markets** — Investors Are Betting a Blue Wave Will Help Hospitals. Don't Count on It.
+- `01 Nov 15:30` **wsj_markets** — The Tangled Web of AI Bets Is Reason to Fear Tech Stocks
+- `01 Nov 15:21` **aljazeera** — Qatar LNG carrier struck by 'unidentified objects' in Gulf
+- `01 Nov 15:10` **aljazeera** — Jamaal Bowman: 'If I had kept my mouth shut, I'd be in Congress'
+- `01 Nov 15:08` **aljazeera** — Yemeni government forces seize strategic positions in al-Jawf
+- `01 Nov 15:04` **aljazeera** — From railway tragedy to gov't change: Serbia's two-year fight for justice
+- `01 Nov 14:44` **aljazeera** — Did a secret book fuel a witch-hunting frenzy in Europe?
+- `01 Nov 14:36` **aljazeera** — Marquez wins Malaysian Grand Prix to close in on retaining championship
+- `01 Nov 12:44` **cointelegraph** — FBI blames North Korea for record $6.3B Binance hack
+- `01 Nov 12:15` **bbc_business** — Energy bills help 'doesn't go far enough'
+- `01 Nov 12:11` **bbc_business** — Diwali hampers to bring hope to families in need
+- `01 Nov 12:00` **gnews_fed** — What would a December rate rise mean for family offices' property portfolios? - South China Morning Post
 - `01 Nov 11:34` **aljazeera** — Rubio says Trump administration did not help Bolsonaro flee Brazil to US
 - `01 Nov 11:31` **investing_news** — Actuate Therapeutics CEO Daniel Schmitt purchases $49,999 in stock
 - `01 Nov 11:19` **aljazeera** — Canelo Alvarez defeats Christian Mbilli to reclaim WBC title in Riyadh
 - `01 Nov 11:17` **aljazeera** — Golden State Valkyries defeat Atlanta Dream to capture first WNBA crown
 - `01 Nov 11:00` **investing_news** — Binance to resume withdrawals after covering bulk of stolen $6.3 billion
+- `01 Nov 10:46` **gnews_centralbanks** — Charting the global economy: Central banks hold rates steady - The Economic Times
 - `01 Nov 10:46` **gnews_fed** — Charting the global economy: Central banks hold rates steady - The Economic Times
 - `01 Nov 10:45` **investing_news** — DeepSeek launches autonomous coding agent to challenge Anthropic's Claude Code
 - `01 Nov 10:25` **aljazeera** — 'Like Kashmir': How a toxic marble dump yard became a tourist spot in India
@@ -252,6 +515,7 @@ SLB Quarterly Profit Slips as Iran War Dents Middle East Oilfield Activity Energ
 - `01 Nov 05:42` **wsj_economy** — South Korea's Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer
 - `01 Nov 05:35` **wsj_world** — South Korea's Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer
 - `01 Nov 05:30` **aljazeera** — Polish president holds crisis talks in court standoff
+- `01 Nov 05:17` **bbc_business** — No more washing up: How Airbnb's new house rules have divided hosts and guests
 - `01 Nov 05:16` **gnews_fed** — Jeff Schlagenhauf - RealClearMarkets
 - `01 Nov 05:00` **wsj_markets** — AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History
 - `01 Nov 04:45` **aljazeera** — ICE agent's violent shove propels woman through the air
@@ -278,48 +542,49 @@ investing_news (3)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.7 |
+| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 1.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.9 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.5 |
-| instaforex | OK | 25 | 25 | 2 | 23 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.3 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 1.4 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 1.4 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 1.4 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 1.4 |
-| cme_daily_commentary | OK | 10 | 2 | 0 | 2 | 8 | 1.4 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 51.5 |
-| kitco_general | OK | 1 | 1 | 0 | 1 | 0 | 0.5 |
-| gnews_fed | OK | 45 | 45 | 30 | 15 | 0 | 0.0 |
-| gnews_geopolitics | OK | 58 | 58 | 12 | 46 | 0 | 0.1 |
-| gnews_centralbanks | OK | 20 | 20 | 7 | 13 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.5 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.2 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.7 |
-| boj_whatsnew | OK | 50 | 0 | 0 | 0 | 50 | 2.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 18.2 |
-| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.4 |
-| oilprice | OK | 15 | 7 | 0 | 7 | 8 | 0.3 |
-| investing_commodities | OK | 10 | 8 | 1 | 7 | 2 | 0.2 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
-| bbc_business | OK | 50 | 1 | 1 | 0 | 49 | 0.0 |
-| aljazeera | OK | 25 | 25 | 17 | 8 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.9 |
-| eia_energy | OK | 21 | 0 | 0 | 0 | 21 | 1.7 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 2.8 |
-| wsj_world | OK | 70 | 12 | 1 | 11 | 58 | 0.2 |
-| wsj_markets | OK | 60 | 6 | 0 | 6 | 54 | 0.3 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 1.2 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.8 |
+| instaforex | OK | 25 | 25 | 2 | 23 | 0 | 0.0 |
+| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.6 |
+| cme_metals_video | WARN | 10 | 1 | 0 | 1 | 9 | 1.7 |
+| cme_fx_video | WARN | 10 | 1 | 0 | 1 | 9 | 1.7 |
+| cme_rates_video | WARN | 10 | 1 | 0 | 1 | 9 | 1.7 |
+| cme_energy_video | WARN | 10 | 1 | 0 | 1 | 9 | 1.7 |
+| cme_daily_commentary | WARN | 10 | 2 | 0 | 2 | 8 | 1.7 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 51.8 |
+| kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_fed | OK | 23 | 23 | 10 | 13 | 0 | 0.0 |
+| gnews_geopolitics | OK | 70 | 70 | 24 | 46 | 0 | 0.0 |
+| gnews_centralbanks | OK | 19 | 19 | 10 | 9 | 0 | 0.2 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.8 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 17.5 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.0 |
+| boj_whatsnew | OK | 48 | 0 | 0 | 0 | 48 | 2.3 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 18.5 |
+| mining_com | OK | 36 | 1 | 1 | 0 | 35 | 0.1 |
+| oilprice | OK | 15 | 7 | 0 | 7 | 8 | 0.6 |
+| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| bbc_business | OK | 52 | 5 | 4 | 1 | 47 | 0.0 |
+| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.3 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 4.2 |
+| eia_energy | OK | 21 | 0 | 0 | 0 | 21 | 2.0 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 3.1 |
+| wsj_world | OK | 70 | 12 | 0 | 12 | 58 | 0.5 |
+| wsj_markets | OK | 60 | 10 | 4 | 6 | 50 | 0.1 |
+| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
-| cointelegraph | OK | 30 | 8 | 0 | 8 | 22 | 0.6 |
+| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 11 | 3 | 8 | 19 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
 - cme_risk_management — STALE, cadence 10d, magar 52d purana
+- kitco_general — FAIL, koi item nahi
 - yahoo_finance — FAIL, HTTP 404
