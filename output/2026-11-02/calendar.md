@@ -1,6 +1,6 @@
 # Calendar — Trading Day 02 Nov 2026
 
-- Banaya gaya: **02 Nov 2026 18:43 PKT**
+- Banaya gaya: **03 Nov 2026 02:08 PKT**
 - Trading day: **02 Nov 03:00 -> 03 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,21 +12,23 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 19:30 | CAD | low | Manufacturing PMI | - | 51.5 |
-| 19:45 | USD | low | Final Manufacturing PMI | 56.0 | 56.0 |
-| 20:00 | USD | MED | ISM Manufacturing PMI | 54.5 | 54.5 |
-| 20:00 | USD | low | Construction Spending m/m | 0.4% | 0.9% |
-| 20:00 | USD | low | ISM Manufacturing Prices | 77.2 | 77.9 |
-| **03 Nov** 00:03 | USD | low | Loan Officer Survey | - | - |
-| **03 Nov** 02:45 | NZD | low | Building Consents m/m | - | 5.6% |
-| **03 Nov** 05:00 | JPY | chhutti | Bank Holiday | - | - |
-| **03 Nov** 08:30 | AUD | **HIGH** | Cash Rate | 4.85% | 4.60% |
-| **03 Nov** 08:30 | AUD | **HIGH** | RBA Monetary Policy Statement | - | - |
-| **03 Nov** 08:30 | AUD | **HIGH** | RBA Rate Statement | - | - |
-| **03 Nov** 09:30 | AUD | **HIGH** | RBA Press Conference | - | - |
-| **03 Nov** 12:30 | CHF | MED | CPI m/m | 0.0% | 0.0% |
-| **03 Nov** 12:45 | EUR | low | French Gov Budget Balance | - | -159.6B |
-| **03 Nov** 15:33 | GBP | low | 10-y Bond Auction | - | 5.42|3.6 |
+| 02:45 | NZD | low | Building Consents m/m | - | 5.6% |
+| 05:00 | JPY | chhutti | Bank Holiday | - | - |
+| 08:30 | AUD | **HIGH** | Cash Rate | 4.85% | 4.60% |
+| 08:30 | AUD | **HIGH** | RBA Monetary Policy Statement | - | - |
+| 08:30 | AUD | **HIGH** | RBA Rate Statement | - | - |
+| 09:30 | AUD | **HIGH** | RBA Press Conference | - | - |
+| 12:30 | CHF | MED | CPI m/m | 0.0% | 0.0% |
+| 12:45 | EUR | low | French Gov Budget Balance | - | -159.6B |
+| 15:33 | GBP | low | 10-y Bond Auction | - | 5.42|3.6 |
+| 20:00 | USD | MED | JOLTS Job Openings | 7.11M | 7.08M |
+| 20:00 | USD | low | Factory Orders m/m | 1.2% | 0.1% |
+| 20:10 | USD | low | RCM/TIPP Economic Optimism | 46.2 | 46.8 |
+| 20:15 | USD | low | Omdia Total Vehicle Sales | 15.9M | 16.0M |
+| 20:16 | USD | **HIGH** | Congressional Elections | - | - |
+| 20:50 | NZD | low | GDT Price Index | - | 2.5% |
+| 21:00 | CAD | MED | BOC Gov Macklem Speaks | - | - |
+| 22:00 | EUR | low | German Buba President Nagel Speaks | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
@@ -34,6 +36,7 @@
 - `03 Nov 08:30` **AUD RBA Monetary Policy Statement**
 - `03 Nov 08:30` **AUD RBA Rate Statement**
 - `03 Nov 09:30` **AUD RBA Press Conference**
+- `03 Nov 20:16` **USD Congressional Elections**
 
 ---
 
@@ -41,9 +44,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **03 Nov** 20:00 | USD | MED | JOLTS Job Openings | 7.11M | 7.08M |
-| **03 Nov** 20:16 | USD | **HIGH** | Congressional Elections | - | - |
-| **03 Nov** 21:00 | CAD | MED | BOC Gov Macklem Speaks | - | - |
 | **04 Nov** 02:45 | NZD | **HIGH** | Employment Change q/q | 0.4% | 0.5% |
 | **04 Nov** 02:45 | NZD | **HIGH** | Unemployment Rate | 5.5% | 5.6% |
 | **04 Nov** 15:00 | EUR | MED | Core CPI Flash Estimate y/y | 2.5% | 2.5% |

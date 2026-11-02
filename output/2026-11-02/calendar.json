@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "02 Nov 2026 18:43",
+  "generated_pkt": "03 Nov 2026 02:08",
   "trading_day": "2026-11-02",
   "feed_sources": {
     "thisweek": "live"
@@ -299,9 +299,9 @@
       "previous": "",
       "url": "https://www.forexfactory.com/calendar/473-us-loan-officer-survey",
       "all_day": false,
-      "utc": "2026-11-02T19:03Z",
-      "pkt": "03 Nov 00:03",
-      "pkt_iso": "2026-11-03T00:03:00+05:00",
+      "utc": "2026-11-02T19:00Z",
+      "pkt": "03 Nov 00:00",
+      "pkt_iso": "2026-11-03T00:00:00+05:00",
       "trading_day": "2026-11-02"
     },
     {
