@@ -1,11 +1,11 @@
 {
-  "generated_pkt": "02 Nov 2026 18:51",
+  "generated_pkt": "03 Nov 2026 02:43",
   "trading_day": "2026-11-02",
   "series": {
     "DFEDTARU": {
       "latest": 4.0,
       "latest_date": "2026-11-02",
-      "n_obs": 1106,
+      "n_obs": 1105,
       "changes": {
         "1d": 0.0,
         "5d": 0.0,
@@ -14,42 +14,42 @@
       "percentile": 25
     },
     "DGS2": {
-      "latest": 4.61,
-      "latest_date": "2026-10-29",
-      "n_obs": 754,
-      "changes": {
-        "1d": -0.06,
-        "5d": -0.04,
-        "20d": -0.27
-      },
-      "percentile": 80
-    },
-    "DGS10": {
-      "latest": 4.98,
-      "latest_date": "2026-10-29",
-      "n_obs": 754,
-      "changes": {
-        "1d": -0.07,
-        "5d": 0.02,
-        "20d": -0.31
-      },
-      "percentile": 96
-    },
-    "DGS30": {
-      "latest": 5.32,
-      "latest_date": "2026-10-29",
+      "latest": 4.56,
+      "latest_date": "2026-10-30",
       "n_obs": 754,
       "changes": {
         "1d": -0.05,
-        "5d": 0.03,
-        "20d": -0.32
+        "5d": -0.13,
+        "20d": -0.22
+      },
+      "percentile": 78
+    },
+    "DGS10": {
+      "latest": 4.94,
+      "latest_date": "2026-10-30",
+      "n_obs": 754,
+      "changes": {
+        "1d": -0.04,
+        "5d": -0.06,
+        "20d": -0.3
+      },
+      "percentile": 95
+    },
+    "DGS30": {
+      "latest": 5.31,
+      "latest_date": "2026-10-30",
+      "n_obs": 754,
+      "changes": {
+        "1d": -0.01,
+        "5d": -0.02,
+        "20d": -0.3
       },
       "percentile": 96
     },
     "T10Y2Y": {
       "latest": 0.38,
       "latest_date": "2026-10-30",
-      "n_obs": 755,
+      "n_obs": 754,
       "changes": {
         "1d": 0.01,
         "5d": 0.07,
@@ -60,7 +60,7 @@
     "T10Y3M": {
       "latest": 0.78,
       "latest_date": "2026-10-30",
-      "n_obs": 755,
+      "n_obs": 754,
       "changes": {
         "1d": -0.02,
         "5d": 0.0,
@@ -69,31 +69,31 @@
       "percentile": 91
     },
     "DFII10": {
-      "latest": 2.63,
-      "latest_date": "2026-10-29",
+      "latest": 2.6,
+      "latest_date": "2026-10-30",
       "n_obs": 754,
       "changes": {
-        "1d": -0.04,
-        "5d": -0.01,
-        "20d": -0.3
+        "1d": -0.03,
+        "5d": -0.06,
+        "20d": -0.28
       },
-      "percentile": 96
+      "percentile": 95
     },
     "DFII5": {
-      "latest": 2.31,
-      "latest_date": "2026-10-29",
+      "latest": 2.25,
+      "latest_date": "2026-10-30",
       "n_obs": 754,
       "changes": {
-        "1d": -0.05,
-        "5d": -0.02,
-        "20d": -0.42
+        "1d": -0.06,
+        "5d": -0.09,
+        "20d": -0.4
       },
-      "percentile": 94
+      "percentile": 93
     },
     "T10YIE": {
       "latest": 2.34,
       "latest_date": "2026-10-30",
-      "n_obs": 755,
+      "n_obs": 754,
       "changes": {
         "1d": -0.01,
         "5d": 0.0,
@@ -104,7 +104,7 @@
     "T5YIE": {
       "latest": 2.46,
       "latest_date": "2026-10-30",
-      "n_obs": 755,
+      "n_obs": 754,
       "changes": {
         "1d": -0.01,
         "5d": -0.02,
@@ -115,7 +115,7 @@
     "DTWEXBGS": {
       "latest": 121.3202,
       "latest_date": "2026-10-23",
-      "n_obs": 751,
+      "n_obs": 750,
       "changes": {
         "1d": -0.0329,
         "5d": -0.0846,
@@ -124,26 +124,26 @@
       "percentile": 57
     },
     "VIXCLS": {
-      "latest": 17.2,
-      "latest_date": "2026-10-29",
+      "latest": 19.42,
+      "latest_date": "2026-10-30",
       "n_obs": 779,
       "changes": {
-        "1d": 0.29,
-        "5d": -1.83,
-        "20d": 0.81
+        "1d": 2.22,
+        "5d": -0.03,
+        "20d": 4.11
       },
-      "percentile": 61
+      "percentile": 80
     },
     "BAMLH0A0HYM2": {
-      "latest": 3.26,
-      "latest_date": "2026-10-29",
-      "n_obs": 786,
+      "latest": 3.44,
+      "latest_date": "2026-10-30",
+      "n_obs": 784,
       "changes": {
-        "1d": 0.12,
-        "5d": -0.14,
-        "20d": 0.02
+        "1d": 0.18,
+        "5d": 0.06,
+        "20d": 0.34
       },
-      "percentile": 78
+      "percentile": 88
     },
     "STLFSI4": {
       "latest": -0.5837,
@@ -278,11 +278,26 @@
     },
     "real": {
       "kind": "real",
-      "ok": false,
-      "note": "koi entry nahi mili — shayad month ka format ghalat hai ya data abhi shaya nahi hua",
-      "date": null,
-      "rates": {},
-      "fields_seen": []
+      "ok": true,
+      "note": "",
+      "date": "2026-11-02",
+      "rates": {
+        "5Y real": 2.31,
+        "10Y real": 2.62,
+        "20Y real": 2.91,
+        "30Y real": 3.06
+      },
+      "fields_seen": [
+        "DailyTreasuryRealYieldCurveRateDataId",
+        "NEW_DATE",
+        "TC_10YEAR",
+        "TC_20YEAR",
+        "TC_30YEAR",
+        "TC_5YEAR",
+        "TC_7YEAR",
+        "id",
+        "updated"
+      ]
     }
   },
   "failures": {}
