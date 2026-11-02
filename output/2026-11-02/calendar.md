@@ -1,6 +1,6 @@
 # Calendar — Trading Day 02 Nov 2026
 
-- Banaya gaya: **02 Nov 2026 06:46 PKT**
+- Banaya gaya: **02 Nov 2026 18:43 PKT**
 - Trading day: **02 Nov 03:00 -> 03 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,17 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 10:30 | AUD | low | Commodity Prices y/y | - | 15.5% |
-| 12:00 | EUR | low | German Retail Sales m/m | 0.4% | 1.3% |
-| 12:30 | CHF | low | Retail Sales y/y | 3.0% | 3.2% |
-| 13:15 | EUR | low | Spanish Manufacturing PMI | 50.4 | 51.0 |
-| 13:30 | CHF | low | Manufacturing PMI | 55.3 | 55.3 |
-| 13:45 | EUR | low | Italian Manufacturing PMI | 49.9 | 50.4 |
-| 13:50 | EUR | low | French Final Manufacturing PMI | 49.3 | 49.3 |
-| 13:55 | EUR | low | German Final Manufacturing PMI | 54.2 | 54.2 |
-| 14:00 | EUR | low | Final Manufacturing PMI | 52.4 | 52.4 |
-| 14:30 | GBP | low | Final Manufacturing PMI | 52.8 | 52.8 |
-| 17:00 | EUR | low | German Buba President Nagel Speaks | - | - |
 | 19:30 | CAD | low | Manufacturing PMI | - | 51.5 |
 | 19:45 | USD | low | Final Manufacturing PMI | 56.0 | 56.0 |
 | 20:00 | USD | MED | ISM Manufacturing PMI | 54.5 | 54.5 |
@@ -31,8 +20,20 @@
 | **03 Nov** 00:03 | USD | low | Loan Officer Survey | - | - |
 | **03 Nov** 02:45 | NZD | low | Building Consents m/m | - | 5.6% |
 | **03 Nov** 05:00 | JPY | chhutti | Bank Holiday | - | - |
+| **03 Nov** 08:30 | AUD | **HIGH** | Cash Rate | 4.85% | 4.60% |
+| **03 Nov** 08:30 | AUD | **HIGH** | RBA Monetary Policy Statement | - | - |
+| **03 Nov** 08:30 | AUD | **HIGH** | RBA Rate Statement | - | - |
+| **03 Nov** 09:30 | AUD | **HIGH** | RBA Press Conference | - | - |
+| **03 Nov** 12:30 | CHF | MED | CPI m/m | 0.0% | 0.0% |
+| **03 Nov** 12:45 | EUR | low | French Gov Budget Balance | - | -159.6B |
+| **03 Nov** 15:33 | GBP | low | 10-y Bond Auction | - | 5.42|3.6 |
 
-*Agle 24 ghante mein koi HIGH impact event nahi.*
+**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
+
+- `03 Nov 08:30` **AUD Cash Rate**
+- `03 Nov 08:30` **AUD RBA Monetary Policy Statement**
+- `03 Nov 08:30` **AUD RBA Rate Statement**
+- `03 Nov 09:30` **AUD RBA Press Conference**
 
 ---
 
@@ -40,11 +41,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **03 Nov** 08:30 | AUD | **HIGH** | Cash Rate | 4.85% | 4.60% |
-| **03 Nov** 08:30 | AUD | **HIGH** | RBA Monetary Policy Statement | - | - |
-| **03 Nov** 08:30 | AUD | **HIGH** | RBA Rate Statement | - | - |
-| **03 Nov** 09:30 | AUD | **HIGH** | RBA Press Conference | - | - |
-| **03 Nov** 12:30 | CHF | MED | CPI m/m | 0.0% | 0.0% |
 | **03 Nov** 20:00 | USD | MED | JOLTS Job Openings | 7.11M | 7.08M |
 | **03 Nov** 20:16 | USD | **HIGH** | Congressional Elections | - | - |
 | **03 Nov** 21:00 | CAD | MED | BOC Gov Macklem Speaks | - | - |
