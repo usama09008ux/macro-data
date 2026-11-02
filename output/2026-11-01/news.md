@@ -1,9 +1,9 @@
 # News Pack — Trading Day 01 Nov 2026
 
 - Trading day: **01 Nov 03:00 -> 02 Nov 02:59 PKT**
-- Aakhri update: **02 Nov 06:48 PKT**
-- Kul khabrein: **280**
-- Feeds: 27/39 OK
+- Aakhri update: **02 Nov 13:26 PKT**
+- Kul khabrein: **289**
+- Feeds: 28/39 OK
 
 ---
 
@@ -57,6 +57,11 @@ US Fed's rate pause gives room for policy maneuver China Daily Global Edition
 `01 Nov 17:00 PKT` · pehli baar dekhi `01 Nov 19:05` · instaforex
 
 Saudi Arabia's economy showed signs of gradual stabilization in the third quarter of 2026, as the pace of contraction moderated on a year-over-year basis. According to the latest data updated on 01 November 2026, gross domestic product (GDP) declined by 3.80% in Q3 2026 compared with the same quarter a year earlier. This marks an improvement from the second quarter of 2026, when GDP fell by 4.70% year-over-year.
+
+**US stocks dip as AI sector falters; Fed holds r... - Pluang**
+`01 Nov 16:54 PKT` · pehli baar dekhi `02 Nov 13:26` · gnews_fed
+
+US stocks dip as AI sector falters; Fed holds r... Pluang
 
 **DALLAS FED: TEXAS EMPLOYMENT FORECAST WEAKENS OCT. 19, 2026 - InsuranceNewsNet**
 `01 Nov 15:08 PKT` · pehli baar dekhi `02 Nov 03:35` · gnews_fed
@@ -212,17 +217,25 @@ Live Q&A: What Lagarde's Exit Means for the ECB and Europe Bloomberg.com
 
 ### GBP
 
+**Barclays stock heads into BoE decision after 12% profit rise - ad-hoc-news.de**
+`01 Nov 21:23 PKT` · pehli baar dekhi `02 Nov 13:26` · gnews_centralbanks
+
+Barclays stock heads into BoE decision after 12% profit rise ad-hoc-news.de
+
 **Bank of England set to rise interest rates for first time since 2023 - The Independent**
 `01 Nov 14:21 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_centralbanks
 
 Bank of England set to rise interest rates for first time since 2023 The Independent
 
 **Bank of England expected to raise interest rates for first time since 2023 - Herts Advertiser**
-`01 Nov 14:02 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_centralbanks · **3 feeds mein**
+`01 Nov 14:02 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_centralbanks · **6 feeds mein**
 
 Bank of England expected to raise interest rates for first time since 2023 Herts Advertiser
   - `01 Nov 14:00` *gnews_centralbanks* — Bank of England expected to raise interest rates for first time since 2023 - AOL.com
   - `01 Nov 14:00` *gnews_centralbanks* — Bank of England expected to raise interest rates for first time since 2023 - Express and Star
+  - `01 Nov 14:00` *gnews_centralbanks* — Bank of England expected to raise interest rates for first time since 2023 - Newark Advertiser
+  - `01 Nov 14:00` *gnews_centralbanks* — Bank of England expected to raise interest rates for first time since 2023 - Fenland Citizen
+  - `01 Nov 14:00` *gnews_centralbanks* — Bank of England expected to raise interest rates for first time since 2023 - Newbury Today
 
 **UK Budget 2026: inflation, BoE rate hikes and gilt yields - Equiti Global**
 `01 Nov 12:59 PKT` · pehli baar dekhi `02 Nov 03:35` · gnews_centralbanks
@@ -303,6 +316,11 @@ As more governments put increasing pressure on tech companies to develop more su
 
 OPEC+ keeps December oil output unchanged: Why Iran war disruptions cloud 2027 production plans Livemint
 
+**OPEC+ set to keep December oil output targets steady amid war disruption - Business Standard**
+`01 Nov 23:27 PKT` · pehli baar dekhi `02 Nov 13:26` · gnews_geopolitics
+
+OPEC+ set to keep December oil output targets steady amid war disruption Business Standard
+
 **OPEC+ Retains December Oil Output Target Amid Iran War Disruptions: Why 2027 Quota Matters - NDTV Profit**
 `01 Nov 23:06 PKT` · pehli baar dekhi `01 Nov 23:53` · gnews_geopolitics
 
@@ -322,6 +340,11 @@ Oil Futures Post Weekly Gains on Middle East Escalation Fears WSJ
 `01 Nov 21:11 PKT` · pehli baar dekhi `01 Nov 23:53` · gnews_geopolitics
 
 Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks WSJ
+
+**Oil Price Today: Brent Falls Below $112 as Iran Talks Ease Supply Fears - Markets.com**
+`01 Nov 21:02 PKT` · pehli baar dekhi `02 Nov 13:26` · gnews_geopolitics
+
+Oil Price Today: Brent Falls Below $112 as Iran Talks Ease Supply Fears Markets.com
 
 **Azerbaijan's Renewable Energy Boom Is Transforming Its Power Sector**
 `01 Nov 21:00 PKT` · pehli baar dekhi `01 Nov 23:53` · oilprice
@@ -394,6 +417,11 @@ Oil's New Problem Isn't Supply. It's Logistics: Bousso EnergyNow.com
 `01 Nov 14:37 PKT` · pehli baar dekhi `01 Nov 19:05` · gnews_geopolitics
 
 Iranian Oil Offers to Chinese Buyers Fall as US Blockade Bites, Sources Say EnergyNow.com
+
+**Brace for a Flood of Oil as Soon as Hormuz Reopens - EnergyNow**
+`01 Nov 12:59 PKT` · pehli baar dekhi `02 Nov 13:26` · gnews_geopolitics
+
+Brace for a Flood of Oil as Soon as Hormuz Reopens EnergyNow
 
 **Fragile Iran Deal Offers Oil Relief, but Hormuz Risks Remain: Bousso - EnergyNow**
 `01 Nov 12:59 PKT` · pehli baar dekhi `02 Nov 06:48` · gnews_geopolitics
@@ -570,6 +598,11 @@ A secret Iranian network evades sanctions and imports $2 billion worth of milita
 `02 Nov 00:00 PKT` · pehli baar dekhi `02 Nov 03:35` · aljazeera
 
 The conflict has become a central issue ahead of Tuesday&#039;s polls.
+
+**First interest rate rises in three years expected as Iran war drives high inflation - Morning Star | The People's Daily**
+`01 Nov 23:51 PKT` · pehli baar dekhi `02 Nov 13:26` · gnews_centralbanks
+
+First interest rate rises in three years expected as Iran war drives high inflation Morning Star | The People's Daily
 
 **Israel's first ambassador to Somaliland presents credentials in Hargeisa**
 `01 Nov 23:23 PKT` · pehli baar dekhi `01 Nov 23:53` · aljazeera
@@ -863,49 +896,49 @@ investing_news (3)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 19 | 12 | 7 | 6 | 0.0 |
+| investinglive | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 1 | 1 | 0 | 19 | 0.1 |
-| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 3.3 |
+| actionforex | OK | 20 | 11 | 10 | 1 | 9 | 0.0 |
+| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 3.6 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 3 | 1 | 2 | 33 | 0.1 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 52.3 |
+| wsj_economy | OK | 36 | 6 | 3 | 3 | 30 | 0.0 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 52.6 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 28 | 28 | 5 | 23 | 0 | 0.0 |
-| gnews_geopolitics | OK | 32 | 32 | 5 | 27 | 0 | 0.0 |
-| gnews_centralbanks | OK | 15 | 15 | 4 | 11 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 18.0 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.5 |
-| boj_whatsnew | OK | 46 | 0 | 0 | 0 | 46 | 2.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 19.0 |
-| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.3 |
-| oilprice | OK | 15 | 6 | 2 | 4 | 9 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
-| bbc_business | OK | 46 | 10 | 2 | 8 | 36 | 0.0 |
-| aljazeera | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.7 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 4.7 |
-| eia_energy | OK | 21 | 0 | 0 | 0 | 21 | 2.5 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 3.6 |
-| wsj_world | OK | 70 | 8 | 0 | 8 | 62 | 0.2 |
-| wsj_markets | OK | 60 | 11 | 5 | 6 | 49 | 0.0 |
-| investing_news | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
+| gnews_fed | OK | 26 | 26 | 9 | 17 | 0 | 0.0 |
+| gnews_geopolitics | OK | 41 | 41 | 22 | 19 | 0 | 0.0 |
+| gnews_centralbanks | OK | 39 | 39 | 27 | 12 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 18.2 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.7 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.8 |
+| boj_whatsnew | OK | 47 | 2 | 2 | 0 | 45 | 0.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 19.2 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 0.6 |
+| oilprice | OK | 15 | 8 | 2 | 6 | 7 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| ing_think | OK | 10 | 4 | 4 | 0 | 6 | 0.0 |
+| bbc_business | OK | 47 | 11 | 3 | 8 | 36 | 0.0 |
+| aljazeera | OK | 25 | 25 | 17 | 8 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 3.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 4.9 |
+| eia_energy | OK | 21 | 0 | 0 | 0 | 21 | 2.8 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 3.8 |
+| wsj_world | OK | 71 | 14 | 6 | 8 | 57 | 0.0 |
+| wsj_markets | OK | 60 | 13 | 2 | 11 | 47 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 9 | 0 | 9 | 1 | 0.1 |
-| cointelegraph | OK | 30 | 6 | 2 | 4 | 24 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 10 | 4 | 6 | 20 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 52d purana
+- cme_risk_management — STALE, cadence 10d, magar 53d purana
 - kitco_general — FAIL, koi item nahi
 - yahoo_finance — FAIL, HTTP 404
