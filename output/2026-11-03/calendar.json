@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "03 Nov 2026 17:55",
+  "generated_pkt": "03 Nov 2026 23:51",
   "trading_day": "2026-11-03",
   "feed_sources": {
     "thisweek": "live"
@@ -409,6 +409,19 @@
       "trading_day": "2026-11-03"
     },
     {
+      "title": "RCM/TIPP Economic Optimism",
+      "ccy": "USD",
+      "impact": "Low",
+      "forecast": "46.2",
+      "previous": "46.8",
+      "url": "https://www.forexfactory.com/calendar/237-us-rcmtipp-economic-optimism",
+      "all_day": false,
+      "utc": "2026-11-03T09:00Z",
+      "pkt": "03 Nov 14:00",
+      "pkt_iso": "2026-11-03T14:00:00+05:00",
+      "trading_day": "2026-11-03"
+    },
+    {
       "title": "10-y Bond Auction",
       "ccy": "GBP",
       "impact": "Low",
@@ -448,19 +461,6 @@
       "trading_day": "2026-11-03"
     },
     {
-      "title": "RCM/TIPP Economic Optimism",
-      "ccy": "USD",
-      "impact": "Low",
-      "forecast": "46.2",
-      "previous": "46.8",
-      "url": "https://www.forexfactory.com/calendar/237-us-rcmtipp-economic-optimism",
-      "all_day": false,
-      "utc": "2026-11-03T15:10Z",
-      "pkt": "03 Nov 20:10",
-      "pkt_iso": "2026-11-03T20:10:00+05:00",
-      "trading_day": "2026-11-03"
-    },
-    {
       "title": "Omdia Total Vehicle Sales",
       "ccy": "USD",
       "impact": "Low",
@@ -494,9 +494,9 @@
       "previous": "2.5%",
       "url": "https://www.forexfactory.com/calendar/602-nz-gdt-price-index",
       "all_day": false,
-      "utc": "2026-11-03T15:50Z",
-      "pkt": "03 Nov 20:50",
-      "pkt_iso": "2026-11-03T20:50:00+05:00",
+      "utc": "2026-11-03T15:27Z",
+      "pkt": "03 Nov 20:27",
+      "pkt_iso": "2026-11-03T20:27:00+05:00",
       "trading_day": "2026-11-03"
     },
     {
@@ -520,9 +520,9 @@
       "previous": "",
       "url": "https://www.forexfactory.com/calendar/851-ge-buba-president-nagel-speaks",
       "all_day": false,
-      "utc": "2026-11-03T17:00Z",
-      "pkt": "03 Nov 22:00",
-      "pkt_iso": "2026-11-03T22:00:00+05:00",
+      "utc": "2026-11-03T18:00Z",
+      "pkt": "03 Nov 23:00",
+      "pkt_iso": "2026-11-03T23:00:00+05:00",
       "trading_day": "2026-11-03"
     },
     {
@@ -815,7 +815,7 @@
       "title": "Crude Oil Inventories",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-0.1M",
       "previous": "-1.9M",
       "url": "https://www.forexfactory.com/calendar/10-us-crude-oil-inventories",
       "all_day": false,
@@ -1501,5 +1501,34 @@
       "trading_day": "2026-11-06"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "JOLTs Job openings 7.523M vs 7.100M estimate",
+      "actual_raw": "7.523M",
+      "forecast_raw": "7.100M",
+      "beat": true,
+      "raw_diff": "+0.4M",
+      "sign_flip": false,
+      "diff_pct": 6.0,
+      "when_pkt": "03 Nov 20:00",
+      "source": "investinglive",
+      "tags": []
+    },
+    {
+      "title": "US September factory orders +1.8% vs +1.2% expected",
+      "actual_raw": "+1.8%",
+      "forecast_raw": "+1.2%",
+      "beat": true,
+      "raw_diff": "+0.60pp",
+      "sign_flip": false,
+      "diff_pct": 50.0,
+      "when_pkt": "03 Nov 20:00",
+      "source": "investinglive",
+      "tags": [
+        "jpy",
+        "usd",
+        "oil"
+      ]
+    }
+  ]
 }

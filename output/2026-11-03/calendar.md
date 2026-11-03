@@ -1,6 +1,6 @@
 # Calendar — Trading Day 03 Nov 2026
 
-- Banaya gaya: **03 Nov 2026 17:55 PKT**
+- Banaya gaya: **03 Nov 2026 23:51 PKT**
 - Trading day: **03 Nov 03:00 -> 04 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,14 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 20:00 | USD | MED | JOLTS Job Openings | 7.15M | 7.08M |
-| 20:00 | USD | low | Factory Orders m/m | 1.2% | 0.1% |
-| 20:10 | USD | low | RCM/TIPP Economic Optimism | 46.2 | 46.8 |
-| 20:15 | USD | low | Omdia Total Vehicle Sales | 15.8M | 16.0M |
-| 20:16 | USD | **HIGH** | Congressional Elections | - | - |
-| 20:50 | NZD | low | GDT Price Index | - | 2.5% |
-| 21:00 | CAD | MED | BOC Gov Macklem Speaks | - | - |
-| 22:00 | EUR | low | German Buba President Nagel Speaks | - | - |
 | **04 Nov** 02:30 | USD | low | API Weekly Statistical Bulletin | - | - |
 | **04 Nov** 02:45 | NZD | **HIGH** | Employment Change q/q | 0.4% | 0.5% |
 | **04 Nov** 02:45 | NZD | **HIGH** | Unemployment Rate | 5.5% | 5.6% |
@@ -37,10 +29,15 @@
 | **04 Nov** 14:30 | GBP | low | Final Services PMI | 53.1 | 53.1 |
 | **04 Nov** 15:00 | EUR | MED | Core CPI Flash Estimate y/y | 2.5% | 2.5% |
 | **04 Nov** 15:00 | EUR | MED | CPI Flash Estimate y/y | 4.0% | 3.8% |
+| **04 Nov** 18:15 | USD | low | ADP Non-Farm Employment Change | 67K | 90K |
+| **04 Nov** 18:30 | CAD | low | Trade Balance | 4.8B | 4.2B |
+| **04 Nov** 18:30 | USD | low | Trade Balance | -107.9B | -105.6B |
+| **04 Nov** 19:45 | USD | low | Final Services PMI | 57.9 | 57.9 |
+| **04 Nov** 20:00 | USD | MED | ISM Services PMI | 54.8 | 54.9 |
+| **04 Nov** 20:30 | USD | low | Crude Oil Inventories | -0.1M | -1.9M |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
-- `03 Nov 20:16` **USD Congressional Elections**
 - `04 Nov 02:45` **NZD Employment Change q/q**
 - `04 Nov 02:45` **NZD Unemployment Rate**
 
@@ -50,7 +47,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **04 Nov** 20:00 | USD | MED | ISM Services PMI | 54.8 | 54.9 |
 | **05 Nov** 17:00 | GBP | **HIGH** | BOE Monetary Policy Report | - | - |
 | **05 Nov** 17:00 | GBP | **HIGH** | Monetary Policy Summary | - | - |
 | **05 Nov** 17:00 | GBP | **HIGH** | MPC Official Bank Rate Votes | 7-0-2 | 3-0-6 |
@@ -76,5 +72,10 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 03 Nov 20:00 | JOLTs Job openings | 7.523M | 7.100M | +0.4M (+6%) | upar |
+| 03 Nov 20:00 | US September factory orders | +1.8% | +1.2% | +0.60pp (+50%) | upar |
 

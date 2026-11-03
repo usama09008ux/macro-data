@@ -311,6 +311,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/378-fr-gov-budget-balance]]></url>
 	</event>
 	<event>
+		<title>RCM/TIPP Economic Optimism</title>
+		<country>USD</country>
+		<date><![CDATA[11-03-2026]]></date>
+		<time><![CDATA[9:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[46.2]]></forecast>
+		<previous><![CDATA[46.8]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/237-us-rcmtipp-economic-optimism]]></url>
+	</event>
+	<event>
 		<title>10-y Bond Auction</title>
 		<country>GBP</country>
 		<date><![CDATA[11-03-2026]]></date>
@@ -341,16 +351,6 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/351-us-factory-orders-mm]]></url>
 	</event>
 	<event>
-		<title>RCM/TIPP Economic Optimism</title>
-		<country>USD</country>
-		<date><![CDATA[11-03-2026]]></date>
-		<time><![CDATA[3:10pm]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[46.2]]></forecast>
-		<previous><![CDATA[46.8]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/237-us-rcmtipp-economic-optimism]]></url>
-	</event>
-	<event>
 		<title>Omdia Total Vehicle Sales</title>
 		<country>USD</country>
 		<date><![CDATA[11-03-2026]]></date>
@@ -374,7 +374,7 @@
 		<title>GDT Price Index</title>
 		<country>NZD</country>
 		<date><![CDATA[11-03-2026]]></date>
-		<time><![CDATA[3:50pm]]></time>
+		<time><![CDATA[3:27pm]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous><![CDATA[2.5%]]></previous>
@@ -394,7 +394,7 @@
 		<title>German Buba President Nagel Speaks</title>
 		<country>EUR</country>
 		<date><![CDATA[11-03-2026]]></date>
-		<time><![CDATA[5:00pm]]></time>
+		<time><![CDATA[6:00pm]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous />
@@ -626,7 +626,7 @@
 		<date><![CDATA[11-04-2026]]></date>
 		<time><![CDATA[3:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast />
+		<forecast><![CDATA[-0.1M]]></forecast>
 		<previous><![CDATA[-1.9M]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/10-us-crude-oil-inventories]]></url>
 	</event>
