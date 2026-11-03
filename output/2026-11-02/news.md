@@ -1,9 +1,9 @@
 # News Pack — Trading Day 02 Nov 2026
 
 - Trading day: **02 Nov 03:00 -> 03 Nov 02:59 PKT**
-- Aakhri update: **03 Nov 13:08 PKT**
-- Kul khabrein: **679**
-- Feeds: 33/39 OK
+- Aakhri update: **03 Nov 21:15 PKT**
+- Kul khabrein: **684**
+- Feeds: 34/39 OK
 
 ---
 
@@ -166,6 +166,11 @@ The survey has an uncomfortable mix for policymakers: demand and output are cont
 
 Gold prices push above $3,900 but still face significant headwinds - Pepperstone's Wu Kitco
 
+**Business Daily**
+`03 Nov 02:30 PKT` · pehli baar dekhi `03 Nov 21:15` · bbc_business
+
+We trace the gold supply chain from a mine to a Delhi jeweller
+
 **Gold and silver selloff is the buying opportunity of a lifetime - Bawden Capital - Kitco**
 `03 Nov 01:20 PKT` · pehli baar dekhi `03 Nov 06:20` · kitco_general
 
@@ -294,6 +299,11 @@ Gold rose in early Asian trade but remains below the key $4,000 level.
 
 Business loan demand softened last quarter, Fed survey shows Reuters
 
+**Treasury Yields Extend Past Month's Slide as Oil Prices Tumble - Bloomberg**
+`03 Nov 02:05 PKT` · pehli baar dekhi `03 Nov 21:15` · gnews_fed
+
+Treasury Yields Extend Past Month's Slide as Oil Prices Tumble Bloomberg
+
 **San Francisco Fed Warns: Exceptionally Strong El Niño Could Push Up US Inflation, Potentially Adding 1 Percentage Point by 2027 - BigGo Finance**
 `03 Nov 01:55 PKT` · pehli baar dekhi `03 Nov 06:20` · gnews_fed
 
@@ -313,6 +323,11 @@ US Treasury cuts fourth-quarter borrowing estimate to $618 billion Kitco
 `03 Nov 01:28 PKT` · pehli baar dekhi `03 Nov 06:20` · gnews_fed
 
 Dallas Fed president explains why she is pushing for interest rate hikes Dallas News
+
+**The Fed Is Suddenly on Hold. When Could It Start Hiking Interest Rates Again? - Yahoo Finance**
+`03 Nov 00:50 PKT` · pehli baar dekhi `03 Nov 21:15` · gnews_fed
+
+The Fed Is Suddenly on Hold. When Could It Start Hiking Interest Rates Again? Yahoo Finance
 
 **Dollar Cost Averaging description={PAGE_DESCRIPTION} - Kitco**
 `03 Nov 00:43 PKT` · pehli baar dekhi `03 Nov 06:20` · kitco_general
@@ -404,8 +419,11 @@ The yield on the US 10-year Treasury note fell to 4.91% on Monday, its lowest le
 
 The U.S. economy expanded at its fastest clip in over five years during the third quarter, according to the Commerce Department's initial reading on GDP. Yet despite a barrage of robust data, Treasury bonds staged a surprise rally in October.
 
-**El Nino poses 'meaningful risk' of higher inflation in 2027, SF Fed paper says**
-`02 Nov 23:06 PKT` · pehli baar dekhi `02 Nov 23:45` · investing_news
+**El Nino poses 'meaningful risk' of higher inflation in 2027, SF Fed paper says - Reuters**
+`02 Nov 23:05 PKT` · pehli baar dekhi `03 Nov 21:15` · gnews_fed · **2 feeds mein**
+
+El Nino poses 'meaningful risk' of higher inflation in 2027, SF Fed paper says Reuters
+  - `02 Nov 23:06` *investing_news* — El Nino poses 'meaningful risk' of higher inflation in 2027, SF Fed paper says
 
 **El Niño Could Raise US Inflation, Boost Jobs in 2027, Fed Study Says - Bloomberg.com**
 `02 Nov 23:02 PKT` · pehli baar dekhi `03 Nov 06:20` · gnews_fed
@@ -2289,7 +2307,7 @@ The mission, known as MINURSO, has been in place in the disputed region since a 
 
 Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.
 
-### BINA TAG (180)
+### BINA TAG (181)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2334,6 +2352,7 @@ Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherso
 - `02 Nov 23:06` **investing_news** — Major automakers urge US Congress to pass permanent ban on Chinese vehicles
 - `02 Nov 23:00` **cointelegraph** — Animoca Brands clears final hurdle for Abu Dhabi fund management
 - `02 Nov 23:00` **mw_topstories** — 'She's a Type A personality': My stepmother wants me to repay my late father's $40,000 wedding gift. Should I oblige?
+- `02 Nov 23:00` **gnews_fed** — The Impact of El Niño on the U.S. Economy - Federal Reserve Bank of San Francisco
 - `02 Nov 22:42` **aljazeera** — British adventurer Karl Bushby returns home after 28-year walk around world
 - `02 Nov 22:38` **bbc_business** — Shop freezers in seven European countries hit by cyber-attack
 - `02 Nov 22:34` **bbc_business** — 'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack
@@ -2490,45 +2509,45 @@ investing_news (7)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 9 | 11 | 0 | 0.0 |
-| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 4.6 |
+| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.0 |
+| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 4.9 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 9 | 3 | 6 | 27 | 0.0 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 53.6 |
-| kitco_general | OK | 31 | 30 | 1 | 29 | 1 | 0.3 |
-| gnews_fed | OK | 55 | 55 | 21 | 34 | 0 | 0.2 |
-| gnews_geopolitics | OK | 92 | 92 | 44 | 48 | 0 | 0.0 |
-| gnews_centralbanks | OK | 43 | 43 | 9 | 34 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.6 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 19.2 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.9 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.8 |
-| boj_whatsnew | OK | 42 | 2 | 0 | 2 | 40 | 1.1 |
-| rba_media | OK | 1 | 1 | 1 | 0 | 0 | 0.2 |
-| mining_com | OK | 36 | 13 | 0 | 13 | 23 | 0.4 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| bbc_business | OK | 43 | 16 | 3 | 13 | 27 | 0.0 |
-| aljazeera | OK | 25 | 25 | 24 | 1 | 0 | 0.0 |
-| snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.8 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 5.9 |
-| eia_energy | WARN | 21 | 0 | 0 | 0 | 21 | 3.8 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 4.8 |
-| wsj_world | OK | 71 | 22 | 2 | 20 | 49 | 0.0 |
-| wsj_markets | OK | 61 | 29 | 3 | 26 | 32 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| wsj_economy | OK | 36 | 10 | 2 | 8 | 26 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.7 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.7 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.7 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.7 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.7 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 53.9 |
+| kitco_general | OK | 24 | 23 | 10 | 13 | 1 | 0.0 |
+| gnews_fed | OK | 47 | 47 | 23 | 24 | 0 | 0.0 |
+| gnews_geopolitics | OK | 49 | 49 | 23 | 26 | 0 | 0.0 |
+| gnews_centralbanks | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.9 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 19.6 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 1.3 |
+| boe_news | OK | 50 | 1 | 1 | 0 | 49 | 0.3 |
+| boj_whatsnew | OK | 42 | 2 | 0 | 2 | 40 | 1.5 |
+| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 0.5 |
+| mining_com | OK | 36 | 17 | 4 | 13 | 19 | 0.0 |
+| oilprice | OK | 15 | 15 | 8 | 7 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 3 | 7 | 0 | 0.2 |
+| bbc_business | OK | 47 | 22 | 9 | 13 | 25 | 0.0 |
+| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| snb_press | OK | 20 | 3 | 1 | 2 | 17 | 0.2 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.3 |
+| eia_energy | OK | 22 | 1 | 1 | 0 | 21 | 0.1 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 5.2 |
+| wsj_world | OK | 72 | 28 | 8 | 20 | 44 | 0.0 |
+| wsj_markets | OK | 61 | 34 | 11 | 23 | 27 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
-| cointelegraph | OK | 30 | 30 | 6 | 24 | 0 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 9 | 21 | 0 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
