@@ -1,6 +1,6 @@
 # Calendar — Trading Day 03 Nov 2026
 
-- Banaya gaya: **03 Nov 2026 08:40 PKT**
+- Banaya gaya: **03 Nov 2026 17:55 PKT**
 - Trading day: **03 Nov 03:00 -> 04 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,10 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 09:30 | AUD | **HIGH** | RBA Press Conference | - | - |
-| 12:30 | CHF | MED | CPI m/m | 0.0% | 0.0% |
-| 12:45 | EUR | low | French Gov Budget Balance | - | -159.6B |
-| 15:33 | GBP | low | 10-y Bond Auction | - | 5.42|3.6 |
 | 20:00 | USD | MED | JOLTS Job Openings | 7.15M | 7.08M |
 | 20:00 | USD | low | Factory Orders m/m | 1.2% | 0.1% |
 | 20:10 | USD | low | RCM/TIPP Economic Optimism | 46.2 | 46.8 |
@@ -32,10 +28,18 @@
 | **04 Nov** 05:00 | NZD | low | ANZ Commodity Prices m/m | - | 0.6% |
 | **04 Nov** 05:30 | AUD | low | Household Spending m/m | 0.2% | 0.0% |
 | **04 Nov** 06:45 | CNY | low | RatingDog Services PMI | 51.7 | 51.6 |
+| **04 Nov** 13:00 | EUR | low | Spanish Unemployment Change | 18.7K | 23.6K |
+| **04 Nov** 13:15 | EUR | low | Spanish Services PMI | 57.6 | 58.3 |
+| **04 Nov** 13:45 | EUR | low | Italian Services PMI | 51.4 | 51.7 |
+| **04 Nov** 13:50 | EUR | low | French Final Services PMI | 48.4 | 48.4 |
+| **04 Nov** 13:55 | EUR | low | German Final Services PMI | 51.7 | 51.7 |
+| **04 Nov** 14:00 | EUR | low | Final Services PMI | 51.7 | 51.7 |
+| **04 Nov** 14:30 | GBP | low | Final Services PMI | 53.1 | 53.1 |
+| **04 Nov** 15:00 | EUR | MED | Core CPI Flash Estimate y/y | 2.5% | 2.5% |
+| **04 Nov** 15:00 | EUR | MED | CPI Flash Estimate y/y | 4.0% | 3.8% |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
-- `03 Nov 09:30` **AUD RBA Press Conference**
 - `03 Nov 20:16` **USD Congressional Elections**
 - `04 Nov 02:45` **NZD Employment Change q/q**
 - `04 Nov 02:45` **NZD Unemployment Rate**
@@ -46,8 +50,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **04 Nov** 15:00 | EUR | MED | Core CPI Flash Estimate y/y | 2.5% | 2.5% |
-| **04 Nov** 15:00 | EUR | MED | CPI Flash Estimate y/y | 4.0% | 3.8% |
 | **04 Nov** 20:00 | USD | MED | ISM Services PMI | 54.8 | 54.9 |
 | **05 Nov** 17:00 | GBP | **HIGH** | BOE Monetary Policy Report | - | - |
 | **05 Nov** 17:00 | GBP | **HIGH** | Monetary Policy Summary | - | - |

@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "03 Nov 2026 08:40",
+  "generated_pkt": "03 Nov 2026 17:55",
   "trading_day": "2026-11-03",
   "feed_sources": {
     "thisweek": "live"
@@ -416,9 +416,9 @@
       "previous": "5.42|3.6",
       "url": "https://www.forexfactory.com/calendar/526-uk-10-y-bond-auction",
       "all_day": false,
-      "utc": "2026-11-03T10:33Z",
-      "pkt": "03 Nov 15:33",
-      "pkt_iso": "2026-11-03T15:33:00+05:00",
+      "utc": "2026-11-03T10:02Z",
+      "pkt": "03 Nov 15:02",
+      "pkt_iso": "2026-11-03T15:02:00+05:00",
       "trading_day": "2026-11-03"
     },
     {
