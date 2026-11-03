@@ -1,6 +1,6 @@
 # Calendar — Trading Day 03 Nov 2026
 
-- Banaya gaya: **03 Nov 2026 04:44 PKT**
+- Banaya gaya: **03 Nov 2026 08:40 PKT**
 - Trading day: **03 Nov 03:00 -> 04 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,10 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 05:00 | JPY | chhutti | Bank Holiday | - | - |
-| 08:30 | AUD | **HIGH** | Cash Rate | 4.85% | 4.60% |
-| 08:30 | AUD | **HIGH** | RBA Monetary Policy Statement | - | - |
-| 08:30 | AUD | **HIGH** | RBA Rate Statement | - | - |
 | 09:30 | AUD | **HIGH** | RBA Press Conference | - | - |
 | 12:30 | CHF | MED | CPI m/m | 0.0% | 0.0% |
 | 12:45 | EUR | low | French Gov Budget Balance | - | -159.6B |
@@ -32,12 +28,13 @@
 | **04 Nov** 02:45 | NZD | **HIGH** | Employment Change q/q | 0.4% | 0.5% |
 | **04 Nov** 02:45 | NZD | **HIGH** | Unemployment Rate | 5.5% | 5.6% |
 | **04 Nov** 02:45 | NZD | low | Labor Cost Index q/q | 0.5% | 0.7% |
+| **04 Nov** 04:50 | JPY | low | Monetary Base y/y | -14.0% | -15.2% |
+| **04 Nov** 05:00 | NZD | low | ANZ Commodity Prices m/m | - | 0.6% |
+| **04 Nov** 05:30 | AUD | low | Household Spending m/m | 0.2% | 0.0% |
+| **04 Nov** 06:45 | CNY | low | RatingDog Services PMI | 51.7 | 51.6 |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
-- `03 Nov 08:30` **AUD Cash Rate**
-- `03 Nov 08:30` **AUD RBA Monetary Policy Statement**
-- `03 Nov 08:30` **AUD RBA Rate Statement**
 - `03 Nov 09:30` **AUD RBA Press Conference**
 - `03 Nov 20:16` **USD Congressional Elections**
 - `04 Nov 02:45` **NZD Employment Change q/q**
