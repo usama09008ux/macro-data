@@ -1,8 +1,8 @@
 # News Pack — Trading Day 03 Nov 2026
 
 - Trading day: **03 Nov 03:00 -> 04 Nov 02:59 PKT**
-- Aakhri update: **04 Nov 06:45 PKT**
-- Kul khabrein: **691**
+- Aakhri update: **04 Nov 13:08 PKT**
+- Kul khabrein: **717**
 - Feeds: 34/39 OK
 
 ---
@@ -328,10 +328,20 @@ The Ibovespa fell 1.5% to close at 165,362 points, hitting a one-year low in the
 **Jackson Financial declares $0.90 dividend, adds $1B buyback**
 `04 Nov 02:20 PKT` · pehli baar dekhi `04 Nov 02:50` · investing_news
 
+**Fed to cut back on rate-setting meetings, Fed chair Warsh says - WBFF**
+`04 Nov 02:10 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_fed
+
+Fed to cut back on rate-setting meetings, Fed chair Warsh says WBFF
+
 **Kevin Warsh faces heavy lifting in preserving Fed independence - Washington Times**
 `04 Nov 01:54 PKT` · pehli baar dekhi `04 Nov 06:45` · gnews_fed
 
 Kevin Warsh faces heavy lifting in preserving Fed independence Washington Times
+
+**Dollar Rises With T-note Yields - TradingView**
+`04 Nov 01:34 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_centralbanks
+
+Dollar Rises With T-note Yields TradingView
 
 **Minneapolis Fed's Glaubke receives Federal Reserve System's Taylor Award - Federal Reserve Bank of Minneapolis**
 `04 Nov 01:20 PKT` · pehli baar dekhi `04 Nov 02:50` · gnews_fed
@@ -476,6 +486,11 @@ Plus: AI in economics, William Nordhaus's climate insights, and how the U.S. is 
 `03 Nov 15:59 PKT` · pehli baar dekhi `03 Nov 21:15` · gnews_fed
 
 Fed's Rate Hold Sends Bond Yields in Different Directions WSJ
+
+**# US October NFP: Are Fed Rate Cuts Still Possible? - Binance**
+`03 Nov 14:56 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_fed
+
+# US October NFP: Are Fed Rate Cuts Still Possible? Binance
 
 **Fed Chair Kevin Warsh Just Drove a Dagger Through Wall Street's AI-Driven Rally With 6 Blunt Words - شبكة تواصل الإخبارية**
 `03 Nov 14:55 PKT` · pehli baar dekhi `04 Nov 02:50` · gnews_fed · **3 feeds mein**
@@ -681,6 +696,19 @@ Treasury Yields Extend Past Month's Slide as Oil Prices Drop Livemint
 
 ECB December Rate Hike "Almost Certain," Bundesbank President Says; Eurozone Inflation Headed to 4% BigGo Finance
 
+**Bundesbank's Nagel joins ECB chorus backing December rate hike - Forex Factory**
+`04 Nov 01:31 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_centralbanks · **3 feeds mein**
+
+Bundesbank's Nagel joins ECB chorus backing December rate hike Forex Factory
+  - `03 Nov 23:02` *gnews_centralbanks* — Bundesbank's Nagel joins ECB chorus backing December rate hike - Reuters
+  - `03 Nov 23:01` *gnews_centralbanks* — Bundesbank's Nagel joins ECB chorus backing December rate hike - AOL.com
+
+**ECB's Sleijpen says Iran shock persists, no second-round effects yet - www.tmgm.com**
+`04 Nov 01:00 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_centralbanks · **2 feeds mein**
+
+ECB's Sleijpen says Iran shock persists, no second-round effects yet www.tmgm.com
+  - `04 Nov 00:13` *gnews_centralbanks* — ECB's Sleijpen says Iran shock persists, no second-round effects yet - FXStreet
+
 **ECB Will Probably Have to Raise Rates in December, Nagel Says - Bloomberg.com**
 `04 Nov 00:40 PKT` · pehli baar dekhi `04 Nov 02:50` · gnews_centralbanks
 
@@ -690,11 +718,6 @@ ECB Will Probably Have to Raise Rates in December, Nagel Says Bloomberg.com
 `04 Nov 00:33 PKT` · pehli baar dekhi `04 Nov 02:50` · gnews_centralbanks
 
 German central bank chief sees ECB rate rise ahead in December Yahoo Finance
-
-**ECB's Sleijpen says Iran shock persists, no second-round effects yet - FXStreet**
-`04 Nov 00:13 PKT` · pehli baar dekhi `04 Nov 02:50` · gnews_centralbanks
-
-ECB's Sleijpen says Iran shock persists, no second-round effects yet FXStreet
 
 **Euro strengthens as ECB hints interest rate rise - The Portugal News**
 `04 Nov 00:10 PKT` · pehli baar dekhi `04 Nov 02:50` · gnews_centralbanks
@@ -727,11 +750,6 @@ The ECB's Nagel commented on inflation risks and the outlook for interest rates.
 
 ECB's Nagel: Rate hike will likely be needed in December Breakingthenews.net
 
-**Bundesbank's Nagel joins ECB chorus backing December rate hike - Reuters**
-`03 Nov 23:02 PKT` · pehli baar dekhi `04 Nov 02:50` · gnews_centralbanks
-
-Bundesbank's Nagel joins ECB chorus backing December rate hike Reuters
-
 **European stocks close lower as yields climb. UK FTSE leads the declines**
 `03 Nov 22:44 PKT` · pehli baar dekhi `04 Nov 02:50` · investinglive
 
@@ -746,6 +764,11 @@ Denmark, Norway and Sweden join Finland in refusing to face Russia in 2027 World
 `03 Nov 20:12 PKT` · pehli baar dekhi `04 Nov 02:50` · gnews_centralbanks
 
 Dolenc tells BTA the ECB may act on inflation in December BurgasMedia
+
+**ECB signals point to sub-2% inflation by 2027 - Briefs Finance**
+`03 Nov 19:26 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_centralbanks
+
+ECB signals point to sub-2% inflation by 2027 Briefs Finance
 
 **EURUSD – Near Term Action Positively Aligned but Overall Picture Remains Bearish**
 `03 Nov 18:26 PKT` · pehli baar dekhi `03 Nov 21:15` · actionforex
@@ -852,6 +875,11 @@ How the Bank of England Decision Signals Its Path Beyond One Hike StoneX
 `04 Nov 02:41 PKT` · pehli baar dekhi `04 Nov 02:50` · gnews_centralbanks
 
 Markets Aim for Another Historic Win on Bank of England Rate Bets Bloomberg.com
+
+**Will GBP/JPY break above ¥213.29 resistance amid Bank of England rate decision focus? - Traders Union**
+`04 Nov 01:25 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_centralbanks
+
+Will GBP/JPY break above ¥213.29 resistance amid Bank of England rate decision focus? Traders Union
 
 **Bank of England 'must raise interest rates' to tackle inflation - The Times**
 `03 Nov 21:12 PKT` · pehli baar dekhi `04 Nov 02:50` · gnews_centralbanks
@@ -1159,6 +1187,11 @@ Canada's proposed associate membership with the European Union is a first-of-its
 
 Oil futures: Crude rows back as mediators present new proposals Quantum Commodity Intelligence
 
+**US-Iran Diplomacy Hopes Weigh on Crude Oil Prices - TradingView**
+`04 Nov 01:18 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_geopolitics
+
+US-Iran Diplomacy Hopes Weigh on Crude Oil Prices TradingView
+
 **Houthi Fighters Launch Ground Incursions Into Saudi Arabia**
 `04 Nov 01:00 PKT` · pehli baar dekhi `04 Nov 02:50` · oilprice
 
@@ -1268,6 +1301,11 @@ Brent crude plunged more than $6 per barrel Tuesday morning, falling from $107.2
 
 The curve of the Dubai benchmark is showing signs that rising oil flows from the Middle East are exceeding demand for the first time since early July, when the three-week U.S.-Iran ceasefire allowed millions of barrels to leave unhindered the Strait of Hormuz. Physical flows have been gradually rising for the past two months as Gulf producers accelerated shuttle-shipping through Hormuz with ship-to-ship (STS) transfers in the Gulf of Oman, once tankers have cleared the chokepoint.
 
+**Oil and Gas Extend Plunge on Reports of US-Iran Diplomacy - Advisor Perspectives**
+`03 Nov 20:28 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_geopolitics
+
+Oil and Gas Extend Plunge on Reports of US-Iran Diplomacy Advisor Perspectives
+
 **Iran's Aghajari restores oil production to 8,000 bpd without drilling rigs - Trend News Agency**
 `03 Nov 20:27 PKT` · pehli baar dekhi `03 Nov 21:15` · gnews_geopolitics
 
@@ -1290,6 +1328,11 @@ There are more headlines crossing suggesting positive developments in Iran-US ta
 `03 Nov 19:27 PKT` · pehli baar dekhi `03 Nov 21:15` · kitco_general
 
 S&P 500, Nasdaq set for higher open as oil prices extend declines, midterm results awaited Kitco
+
+**Brent crude oil falls below $102 as WTI drops under $94 amid easing supply concerns - Business Upturn**
+`03 Nov 19:05 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_geopolitics
+
+Brent crude oil falls below $102 as WTI drops under $94 amid easing supply concerns Business Upturn
 
 **Global refinery inputs fell sharply in the second quarter of 2026 before modest recovery**
 `03 Nov 19:00 PKT` · pehli baar dekhi `03 Nov 21:15` · eia_energy
@@ -1342,10 +1385,20 @@ Oil Prices Rebound After 7.6% Crash as US Strikes Iran's Qeshm Island Near Strai
 Oil prices rose, recovering some of the previous session's steep losses as investors weighed fresh U.S. strikes on Iran against continuing diplomatic efforts.
   - `03 Nov 17:51` *gnews_geopolitics* — Oil Prices Rebound as U.S. Strikes on Iran Renew Supply Concerns - WSJ
 
+**Crude Oil Prices Jump Over 1.7% After Reported US Attack On Iran's Qeshm Island - Oneindia**
+`03 Nov 17:45 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_geopolitics
+
+Crude Oil Prices Jump Over 1.7% After Reported US Attack On Iran's Qeshm Island Oneindia
+
 **ADNOC Gas to Supply LNG to TotalEnergies Under Five-Year Deal**
 `03 Nov 17:30 PKT` · pehli baar dekhi `03 Nov 21:15` · oilprice
 
 ADNOC Gas will supply up to 1.6 million tons of LNG to TotalEnergies over the next five years under an agreement announced on Tuesday by the gas unit of Abu Dhabi's state energy firm and the French supermajor. The first LNG deliveries will begin as early as this year, said TotalEnergies, which is one of the world's biggest LNG traders.
+
+**Oil Prices Rise as US Strike on Iran's Qeshm Island Fuels Supply Concerns - Pakistan Observer**
+`03 Nov 17:14 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_geopolitics
+
+Oil Prices Rise as US Strike on Iran's Qeshm Island Fuels Supply Concerns Pakistan Observer
 
 **U.S. MIDTERM MADNESS: Oil Prices Rebound as U.S. Strikes Iran's Qeshm Island, Renewing Middle East Supply Fears - WTI Near $98, Brent Above $106 - EnergyNow**
 `03 Nov 16:48 PKT` · pehli baar dekhi `03 Nov 21:15` · gnews_geopolitics
@@ -1361,6 +1414,16 @@ US Strikes Iran's Qeshm Island, Oil Prices Surge Above $106: What Happened Near 
 `03 Nov 16:21 PKT` · pehli baar dekhi `03 Nov 21:15` · investinglive
 
 The S&P 500 sold off sharply last week as weakness in technology and AI-related stocks weighed on the index. Concerns about the profitability of massive AI investments, disappointing corporate earnings and rising financing costs triggered a rotation away from growth stocks, while increasing uncertainty around future AI spending raised questions about the sustainability of the current earnings and growth outlook.
+
+**UAE oil output hits record after OPEC exit - IDNFinancials**
+`03 Nov 16:20 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_geopolitics
+
+UAE oil output hits record after OPEC exit IDNFinancials
+
+**Oil prices plunge on US-Iran talk hopes; US manufacturing activity strengthens - www.equiti.com**
+`03 Nov 16:09 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_geopolitics
+
+Oil prices plunge on US-Iran talk hopes; US manufacturing activity strengthens www.equiti.com
 
 **Shell Sells North West Shelf LNG Stake to Abu Dhabi's XRG for $1.45 Billion**
 `03 Nov 16:00 PKT` · pehli baar dekhi `03 Nov 21:15` · oilprice
@@ -1382,6 +1445,11 @@ Crude oil trims losses as US strikes Iran's Qeshm Island while CIA Director call
 
 Oil Prices Rise Above $106 as US Strikes on Iran Renew Supply Concerns Investors King
 
+**Oil Prices Climb as US Strike on Iranian Island Raises Supply Concerns and Peace Talks Stall - Yahoo Finance UK**
+`03 Nov 15:11 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_geopolitics
+
+Oil Prices Climb as US Strike on Iranian Island Raises Supply Concerns and Peace Talks Stall Yahoo Finance UK
+
 **Oil prices rebound above $105 on US strikes against Iran, remain below recent highs - Anadolu Ajansı**
 `03 Nov 14:50 PKT` · pehli baar dekhi `03 Nov 21:15` · gnews_geopolitics
 
@@ -1391,6 +1459,16 @@ Oil prices rebound above $105 on US strikes against Iran, remain below recent hi
 `03 Nov 14:45 PKT` · pehli baar dekhi `03 Nov 21:15` · oilprice
 
 Saudi Aramco beat analyst estimates of its third-quarter profit as higher crude oil and fuel prices offset the impact of oil supply disruptions due to attacks on its assets. The Saudi state oil giant on Tuesday reported an adjusted net income of $31.2 billion for the third quarter, up from $28.6 billion for the same period last year, and easily beating a $28.7-billion analyst consensus estimate compiled by Bloomberg.
+
+**Oil prices cross $105 after US strikes on Iran's Qeshm Island - www.thenationalnews.com**
+`03 Nov 14:21 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_geopolitics
+
+Oil prices cross $105 after US strikes on Iran's Qeshm Island www.thenationalnews.com
+
+**Crude oil prices rebound amid Middle East supply concerns - The Avenue Mail**
+`03 Nov 14:02 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_geopolitics
+
+Crude oil prices rebound amid Middle East supply concerns The Avenue Mail
 
 **US Pain at the Pump Worsens After More US-Iran Fighting Lifts Oil Prices - EnergyNow.com**
 `03 Nov 13:53 PKT` · pehli baar dekhi `03 Nov 21:15` · gnews_geopolitics
@@ -1411,6 +1489,21 @@ Oil And Gas Stocks Retail Investors Are Screening After The Iran Supply Shock Si
 `03 Nov 13:43 PKT` · pehli baar dekhi `03 Nov 21:15` · wsj_markets
 
 Tech selloff pauses; oil extends losses; investors eye midterm elections
+
+**UKOUSD Holds Near $108 as Iran Peace Talks Weigh on Oil - VT Markets**
+`03 Nov 13:37 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_geopolitics
+
+UKOUSD Holds Near $108 as Iran Peace Talks Weigh on Oil VT Markets
+
+**Oil rises as peace prospects dim after US hits Iran's Qeshm Island - The Star**
+`03 Nov 13:31 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_geopolitics
+
+Oil rises as peace prospects dim after US hits Iran's Qeshm Island The Star
+
+**Iran War Impact: Can Crude Oil Return To $60-70? Sudeep Explains India's Oil Risk - Business Today**
+`03 Nov 13:13 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_geopolitics
+
+Iran War Impact: Can Crude Oil Return To $60-70? Sudeep Explains India's Oil Risk Business Today
 
 **Oil prices bounce back after report of strike on Iran - JournalArta**
 `03 Nov 13:12 PKT` · pehli baar dekhi `03 Nov 21:15` · gnews_geopolitics
@@ -1925,6 +2018,11 @@ If history is any indication, it won't be the elephants or donkeys that win the 
 
 Inflation, Herbert Hoover, tariffs: Test your knowledge of the midterms and the economy over the years.
 
+**Oil Looks to Doha and Washington for Signs of a U.S.-Iran Ceasefire - TradingView**
+`03 Nov 21:41 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_geopolitics
+
+Oil Looks to Doha and Washington for Signs of a U.S.-Iran Ceasefire TradingView
+
 **Ukraine's Zelenskyy hopes Abu Dhabi talks will open path to Putin meeting**
 `03 Nov 21:22 PKT` · pehli baar dekhi `04 Nov 02:50` · aljazeera
 
@@ -1990,6 +2088,11 @@ How 50 Days of the Iran War Led to the Loss of $50 Billion Worth of Oil EnergyNo
 
 **Russian strikes knock out power to swathes of Ukraine; Kyiv hits Russian refinery**
 `03 Nov 17:01 PKT` · pehli baar dekhi `03 Nov 21:15` · investing_commodities
+
+**Iran war exposes the limits of monetary policy | Policy Circle - Policy Circle**
+`03 Nov 15:30 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_geopolitics
+
+Iran war exposes the limits of monetary policy | Policy Circle Policy Circle
 
 **Crude oil trims losses as US strikes Iran's Qeshm Island while CIA Director calls for continued economic pressure**
 `03 Nov 15:27 PKT` · pehli baar dekhi `03 Nov 21:15` · investinglive
@@ -2158,7 +2261,7 @@ Institutional investors who plan to buy shares in the AI company's planned IPO s
 
 The push for a lower valuation shows how quickly last week's (and Monday 's!) tech selloff has fed into the AI funding pipeline. Anthropic's listing is effectively becoming a referendum on investor appetite for AI exposure. A well-received debut would likely revive the queue of companies waiting to list and could steady sentiment toward AI-linked megacaps. A weak one would reinforce concerns about overexposure.
 
-### BINA TAG (237)
+### BINA TAG (240)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2180,6 +2283,7 @@ The push for a lower valuation shows how quickly last week's (and Monday 's!) te
 - `04 Nov 02:20` **investing_news** — Global Engine Group regains Nasdaq compliance with bid price
 - `04 Nov 02:19` **aljazeera** — Netanyahu's eight-seat problem
 - `04 Nov 02:15` **aljazeera** — Palestinian families return home after Israeli siege of Hebron
+- `04 Nov 02:13` **gnews_geopolitics** — Gas Prices Decline, But Still For Election Day - News Radio 1190 KEX
 - `04 Nov 02:13` **mw_topstories** — Super Micro's stock pops as earnings show booming demand for AI servers
 - `04 Nov 02:12` **kitco_general** — Nasdaq ends higher as AI heavyweights rebound ahead of midterm results - Kitco
 - `04 Nov 02:04` **mw_topstories** — Anthropic's IPO is a high-stakes referendum on Big Tech — and this chart proves it
@@ -2189,6 +2293,7 @@ The push for a lower valuation shows how quickly last week's (and Monday 's!) te
 - `04 Nov 01:51` **wsj_world** — 'Broken China' Review: A Mirage of Growth
 - `04 Nov 01:46` **mw_topstories** — The internet is 'dying': AI is eating it and obliterating these business models
 - `04 Nov 01:44` **wsj_world** — El Salvador's President Takes a High-Stakes Gamble Confronting Haitian Gangs
+- `04 Nov 01:18` **gnews_fed** — Tech Matters: Why you should ditch your checkbook - Standard-Examiner
 - `04 Nov 01:09` **investinglive** — US midterms: Poll closing times today
 - `04 Nov 01:01` **wsj_economy** — James Carville is famous for a line 34 years ago: "It's the economy, stupid." The 82-year-old sat down with the Journal to talk about the economy, election and his views on Democratic Socialists.
 - `04 Nov 01:00` **aljazeera** — Michigan voters face crucial choice as Trump's grip on Congress is tested
@@ -2274,6 +2379,7 @@ The push for a lower valuation shows how quickly last week's (and Monday 's!) te
 - `03 Nov 19:14` **wsj_markets** — 11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider
 - `03 Nov 19:02` **aljazeera** — Who is goalkeeper Owono and will he be punished after De Miguel's death?
 - `03 Nov 18:55` **kitco_general** — Videos - Kitco
+- `03 Nov 18:48` **gnews_fed** — Federal Reserve: One further hike in 2026 before policy path becomes less clear – BNY - www.tmgm.com
 - `03 Nov 18:44` **kitco_general** — Betting on US midterms brings rush, stress as serious money goes on the line - Kitco
 - `03 Nov 18:42` **aljazeera** — Trump says US will stop giving Israel aid after year-end
 - `03 Nov 18:32` **gnews_centralbanks** — MPC Preview: Mounting expectations for a rate rise - Mortgage Strategy
@@ -2419,45 +2525,45 @@ investing_news (9), investinglive (1), cointelegraph (1)
 | investinglive | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.1 |
-| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 5.3 |
+| actionforex | OK | 20 | 20 | 14 | 6 | 0 | 0.0 |
+| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 5.6 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 8 | 1 | 7 | 28 | 0.1 |
-| cme_metals_video | OK | 10 | 3 | 1 | 2 | 7 | 0.1 |
-| cme_fx_video | OK | 10 | 3 | 1 | 2 | 7 | 0.1 |
-| cme_rates_video | OK | 10 | 3 | 1 | 2 | 7 | 0.2 |
-| cme_energy_video | OK | 10 | 3 | 1 | 2 | 7 | 0.1 |
-| cme_daily_commentary | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 54.3 |
-| kitco_general | OK | 45 | 45 | 11 | 34 | 0 | 0.0 |
-| gnews_fed | OK | 31 | 31 | 12 | 19 | 0 | 0.0 |
-| gnews_geopolitics | OK | 57 | 57 | 9 | 48 | 0 | 0.0 |
-| gnews_centralbanks | OK | 33 | 33 | 3 | 30 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 6.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.0 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.7 |
-| boj_whatsnew | OK | 44 | 2 | 2 | 0 | 42 | 0.0 |
-| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 0.9 |
-| mining_com | OK | 36 | 11 | 1 | 10 | 25 | 0.1 |
-| oilprice | OK | 15 | 15 | 6 | 9 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| ing_think | OK | 10 | 6 | 0 | 6 | 4 | 0.4 |
-| bbc_business | OK | 51 | 19 | 4 | 15 | 32 | 0.1 |
-| aljazeera | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.7 |
-| eia_energy | OK | 22 | 1 | 0 | 1 | 21 | 0.5 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 5.6 |
-| wsj_world | OK | 72 | 25 | 6 | 19 | 47 | 0.0 |
-| wsj_markets | OK | 61 | 33 | 5 | 28 | 28 | 0.0 |
-| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| wsj_economy | OK | 36 | 8 | 0 | 8 | 28 | 0.4 |
+| cme_metals_video | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
+| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
+| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
+| cme_energy_video | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
+| cme_daily_commentary | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 54.6 |
+| kitco_general | OK | 49 | 49 | 5 | 44 | 0 | 0.1 |
+| gnews_fed | OK | 30 | 30 | 7 | 23 | 0 | 0.1 |
+| gnews_geopolitics | OK | 51 | 51 | 27 | 24 | 0 | 0.1 |
+| gnews_centralbanks | OK | 39 | 39 | 10 | 29 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 6.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.2 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.9 |
+| boj_whatsnew | OK | 46 | 4 | 2 | 2 | 42 | 0.0 |
+| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 1.2 |
+| mining_com | OK | 36 | 11 | 0 | 11 | 25 | 0.4 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| ing_think | OK | 10 | 8 | 2 | 6 | 2 | 0.0 |
+| bbc_business | OK | 44 | 20 | 2 | 18 | 24 | 0.0 |
+| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| snb_press | OK | 20 | 2 | 1 | 1 | 18 | 0.4 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.9 |
+| eia_energy | OK | 22 | 1 | 0 | 1 | 21 | 0.8 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 5.8 |
+| wsj_world | OK | 71 | 28 | 2 | 26 | 43 | 0.2 |
+| wsj_markets | OK | 61 | 34 | 5 | 29 | 27 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 26 | 4 | 22 | 4 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 30 | 5 | 25 | 0 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 54d purana
+- cme_risk_management — STALE, cadence 10d, magar 55d purana
 - yahoo_finance — FAIL, HTTP 404
