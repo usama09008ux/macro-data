@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "04 Nov 2026 03:08",
+  "generated_pkt": "04 Nov 2026 07:39",
   "trading_day": "2026-11-04",
   "feed_sources": {
     "thisweek": "live"
@@ -815,7 +815,7 @@
       "title": "Crude Oil Inventories",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "-0.1M",
+      "forecast": "-1.7M",
       "previous": "-1.9M",
       "url": "https://www.forexfactory.com/calendar/10-us-crude-oil-inventories",
       "all_day": false,
@@ -1153,7 +1153,7 @@
       "title": "Natural Gas Storage",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "81B",
       "previous": "80B",
       "url": "https://www.forexfactory.com/calendar/26-us-natural-gas-storage",
       "all_day": false,

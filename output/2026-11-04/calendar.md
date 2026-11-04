@@ -1,6 +1,6 @@
 # Calendar — Trading Day 04 Nov 2026
 
-- Banaya gaya: **04 Nov 2026 03:08 PKT**
+- Banaya gaya: **04 Nov 2026 07:39 PKT**
 - Trading day: **04 Nov 03:00 -> 05 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,10 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 04:50 | JPY | low | Monetary Base y/y | -14.0% | -15.2% |
-| 05:00 | NZD | low | ANZ Commodity Prices m/m | - | 0.6% |
-| 05:30 | AUD | low | Household Spending m/m | 0.2% | 0.0% |
-| 06:45 | CNY | low | RatingDog Services PMI | 51.7 | 51.6 |
 | 13:00 | EUR | low | Spanish Unemployment Change | 18.7K | 23.6K |
 | 13:15 | EUR | low | Spanish Services PMI | 57.6 | 58.3 |
 | 13:45 | EUR | low | Italian Services PMI | 51.4 | 51.7 |
@@ -30,7 +26,9 @@
 | 18:30 | USD | low | Trade Balance | -107.9B | -105.6B |
 | 19:45 | USD | low | Final Services PMI | 57.9 | 57.9 |
 | 20:00 | USD | MED | ISM Services PMI | 54.8 | 54.9 |
-| 20:30 | USD | low | Crude Oil Inventories | -0.1M | -1.9M |
+| 20:30 | USD | low | Crude Oil Inventories | -1.7M | -1.9M |
+| **05 Nov** 04:50 | JPY | low | Monetary Policy Meeting Minutes | - | - |
+| **05 Nov** 05:30 | AUD | low | Goods Trade Balance | 0.94B | 0.50B |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
