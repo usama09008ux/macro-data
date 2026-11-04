@@ -1,8 +1,8 @@
 # News Pack — Trading Day 03 Nov 2026
 
 - Trading day: **03 Nov 03:00 -> 04 Nov 02:59 PKT**
-- Aakhri update: **04 Nov 13:08 PKT**
-- Kul khabrein: **717**
+- Aakhri update: **04 Nov 21:19 PKT**
+- Kul khabrein: **722**
 - Feeds: 34/39 OK
 
 ---
@@ -342,6 +342,11 @@ Kevin Warsh faces heavy lifting in preserving Fed independence Washington Times
 `04 Nov 01:34 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_centralbanks
 
 Dollar Rises With T-note Yields TradingView
+
+**How Much Have Americans Ages 65–74 Saved for Retirement? New Fed Data Reveal the Answer - Investopedia**
+`04 Nov 01:27 PKT` · pehli baar dekhi `04 Nov 21:19` · gnews_fed
+
+How Much Have Americans Ages 65–74 Saved for Retirement? New Fed Data Reveal the Answer Investopedia
 
 **Minneapolis Fed's Glaubke receives Federal Reserve System's Taylor Award - Federal Reserve Bank of Minneapolis**
 `04 Nov 01:20 PKT` · pehli baar dekhi `04 Nov 02:50` · gnews_fed
@@ -703,6 +708,12 @@ Bundesbank's Nagel joins ECB chorus backing December rate hike Forex Factory
   - `03 Nov 23:02` *gnews_centralbanks* — Bundesbank's Nagel joins ECB chorus backing December rate hike - Reuters
   - `03 Nov 23:01` *gnews_centralbanks* — Bundesbank's Nagel joins ECB chorus backing December rate hike - AOL.com
 
+**ECB's Nagel signals December rate hike as inflation risks mount - www.tmgm.com**
+`04 Nov 01:04 PKT` · pehli baar dekhi `04 Nov 21:19` · gnews_centralbanks · **2 feeds mein**
+
+ECB's Nagel signals December rate hike as inflation risks mount www.tmgm.com
+  - `03 Nov 23:59` *gnews_centralbanks* — ECB's Nagel signals December rate hike as inflation risks mount - FXStreet
+
 **ECB's Sleijpen says Iran shock persists, no second-round effects yet - www.tmgm.com**
 `04 Nov 01:00 PKT` · pehli baar dekhi `04 Nov 13:08` · gnews_centralbanks · **2 feeds mein**
 
@@ -728,11 +739,6 @@ Euro strengthens as ECB hints interest rate rise The Portugal News
 `04 Nov 00:10 PKT` · pehli baar dekhi `04 Nov 02:50` · gnews_centralbanks
 
 Nagel: December ECB Rate Increase Close to Certain - News and Statistics IndexBox
-
-**ECB's Nagel signals December rate hike as inflation risks mount - FXStreet**
-`03 Nov 23:59 PKT` · pehli baar dekhi `04 Nov 02:50` · gnews_centralbanks
-
-ECB's Nagel signals December rate hike as inflation risks mount FXStreet
 
 **ECB likely to raise rates in December, says Nagel - Investing.com**
 `03 Nov 23:29 PKT` · pehli baar dekhi `04 Nov 02:50` · gnews_centralbanks
@@ -1192,6 +1198,11 @@ Oil futures: Crude rows back as mediators present new proposals Quantum Commodit
 
 US-Iran Diplomacy Hopes Weigh on Crude Oil Prices TradingView
 
+**US-Iran Diplomacy Hopes Weigh on Crude Oil Prices - Barchart.com**
+`04 Nov 01:18 PKT` · pehli baar dekhi `04 Nov 21:19` · gnews_geopolitics
+
+US-Iran Diplomacy Hopes Weigh on Crude Oil Prices Barchart.com
+
 **Houthi Fighters Launch Ground Incursions Into Saudi Arabia**
 `04 Nov 01:00 PKT` · pehli baar dekhi `04 Nov 02:50` · oilprice
 
@@ -1236,9 +1247,10 @@ Stocks erase losses, oil tumbles after Trump says US will end $4 billion funding
 Brent slipped below $105 this morning following a flurry of headlines suggesting growing momentum in U.S.-Iran peace talks, only for Tehran to subsequently dismiss the reports. US Midterms Give Oil Markets a Brief Diplomatic Reprieve - The steep backwardation seen across global crude oil benchmarks has started to flatten as markets sought to digest news of Qatar-mediated talks between the US and Iran, with Dubai M1-M3 structure nearing zero this week.
 
 **Crude Oil Prices Pressured by Diplomacy Push to End US-Iran Conflict - TradingView**
-`03 Nov 21:35 PKT` · pehli baar dekhi `04 Nov 06:45` · gnews_geopolitics
+`03 Nov 21:35 PKT` · pehli baar dekhi `04 Nov 06:45` · gnews_geopolitics · **2 feeds mein**
 
 Crude Oil Prices Pressured by Diplomacy Push to End US-Iran Conflict TradingView
+  - `03 Nov 21:35` *gnews_geopolitics* — Crude Oil Prices Pressured by Diplomacy Push to End US-Iran Conflict - Barchart.com
 
 **IEA Warns Global Gas Crunch Could Last Well into 2027**
 `03 Nov 21:30 PKT` · pehli baar dekhi `04 Nov 02:50` · oilprice
@@ -2261,7 +2273,7 @@ Institutional investors who plan to buy shares in the AI company's planned IPO s
 
 The push for a lower valuation shows how quickly last week's (and Monday 's!) tech selloff has fed into the AI funding pipeline. Anthropic's listing is effectively becoming a referendum on investor appetite for AI exposure. A well-received debut would likely revive the queue of companies waiting to list and could steady sentiment toward AI-linked megacaps. A weak one would reinforce concerns about overexposure.
 
-### BINA TAG (240)
+### BINA TAG (241)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2293,6 +2305,7 @@ The push for a lower valuation shows how quickly last week's (and Monday 's!) te
 - `04 Nov 01:51` **wsj_world** — 'Broken China' Review: A Mirage of Growth
 - `04 Nov 01:46` **mw_topstories** — The internet is 'dying': AI is eating it and obliterating these business models
 - `04 Nov 01:44` **wsj_world** — El Salvador's President Takes a High-Stakes Gamble Confronting Haitian Gangs
+- `04 Nov 01:42` **gnews_fed** — Gayla Huber Nominated by Federal Reserve Bank of Kansas City, Appointed to CFPB Consumer Advisory Board - The National Law Review
 - `04 Nov 01:18` **gnews_fed** — Tech Matters: Why you should ditch your checkbook - Standard-Examiner
 - `04 Nov 01:09` **investinglive** — US midterms: Poll closing times today
 - `04 Nov 01:01` **wsj_economy** — James Carville is famous for a line 34 years ago: "It's the economy, stupid." The 82-year-old sat down with the Journal to talk about the economy, election and his views on Democratic Socialists.
@@ -2522,45 +2535,45 @@ investing_news (9), investinglive (1), cointelegraph (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 14 | 6 | 0 | 0.0 |
-| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 5.6 |
+| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.0 |
+| marketpulse | WARN | 1 | 0 | 0 | 0 | 1 | 5.9 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 8 | 0 | 8 | 28 | 0.4 |
-| cme_metals_video | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
-| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
-| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
-| cme_energy_video | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
-| cme_daily_commentary | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 54.6 |
-| kitco_general | OK | 49 | 49 | 5 | 44 | 0 | 0.1 |
-| gnews_fed | OK | 30 | 30 | 7 | 23 | 0 | 0.1 |
-| gnews_geopolitics | OK | 51 | 51 | 27 | 24 | 0 | 0.1 |
-| gnews_centralbanks | OK | 39 | 39 | 10 | 29 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 6.6 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.2 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.9 |
-| boj_whatsnew | OK | 46 | 4 | 2 | 2 | 42 | 0.0 |
-| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 1.2 |
-| mining_com | OK | 36 | 11 | 0 | 11 | 25 | 0.4 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| ing_think | OK | 10 | 8 | 2 | 6 | 2 | 0.0 |
-| bbc_business | OK | 44 | 20 | 2 | 18 | 24 | 0.0 |
+| wsj_economy | OK | 36 | 11 | 5 | 6 | 25 | 0.0 |
+| cme_metals_video | OK | 10 | 3 | 0 | 3 | 7 | 0.8 |
+| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.8 |
+| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.8 |
+| cme_energy_video | OK | 10 | 3 | 0 | 3 | 7 | 0.8 |
+| cme_daily_commentary | OK | 10 | 10 | 0 | 10 | 0 | 0.8 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 54.9 |
+| kitco_general | OK | 61 | 61 | 23 | 38 | 0 | 0.0 |
+| gnews_fed | OK | 29 | 29 | 13 | 16 | 0 | 0.0 |
+| gnews_geopolitics | OK | 44 | 44 | 27 | 17 | 0 | 0.0 |
+| gnews_centralbanks | OK | 51 | 51 | 32 | 19 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 6.9 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.6 |
+| ecb_press | OK | 15 | 1 | 1 | 0 | 14 | 0.7 |
+| boe_news | OK | 50 | 2 | 1 | 1 | 48 | 0.1 |
+| boj_whatsnew | OK | 46 | 4 | 0 | 4 | 42 | 0.3 |
+| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 1.5 |
+| mining_com | OK | 36 | 14 | 3 | 11 | 22 | 0.1 |
+| oilprice | OK | 15 | 15 | 10 | 5 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 10 | 0 | 0 | 0.1 |
+| bbc_business | OK | 45 | 21 | 1 | 20 | 24 | 0.0 |
 | aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 2 | 1 | 1 | 18 | 0.4 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.9 |
-| eia_energy | OK | 22 | 1 | 0 | 1 | 21 | 0.8 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 5.8 |
-| wsj_world | OK | 71 | 28 | 2 | 26 | 43 | 0.2 |
-| wsj_markets | OK | 61 | 34 | 5 | 29 | 27 | 0.0 |
+| snb_press | OK | 20 | 2 | 0 | 2 | 18 | 0.7 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 7.3 |
+| eia_energy | OK | 22 | 1 | 0 | 1 | 21 | 1.1 |
+| bea_releases | OK | 49 | 1 | 1 | 0 | 48 | 0.1 |
+| wsj_world | OK | 71 | 32 | 4 | 28 | 39 | 0.1 |
+| wsj_markets | OK | 61 | 37 | 14 | 23 | 24 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 30 | 5 | 25 | 0 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 7 | 23 | 0 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
