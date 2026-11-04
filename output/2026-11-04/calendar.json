@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "04 Nov 2026 18:10",
+  "generated_pkt": "05 Nov 2026 00:08",
   "trading_day": "2026-11-04",
   "feed_sources": {
     "thisweek": "live"
@@ -1501,5 +1501,95 @@
       "trading_day": "2026-11-06"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "EIA weekly US crude oil inventories -865K vs +877K expected",
+      "actual_raw": "-865K",
+      "forecast_raw": "+877K",
+      "beat": false,
+      "raw_diff": "-1,742.0K",
+      "sign_flip": true,
+      "diff_pct": null,
+      "when_pkt": "04 Nov 20:30",
+      "source": "investinglive",
+      "tags": [
+        "oil",
+        "risk"
+      ]
+    },
+    {
+      "title": "October US ISM services 54.5 vs 54.8 expected",
+      "actual_raw": "54.5",
+      "forecast_raw": "54.8",
+      "beat": false,
+      "raw_diff": "-0.30",
+      "sign_flip": false,
+      "diff_pct": -0.5,
+      "when_pkt": "04 Nov 20:00",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "Canada Trade Balance ($C) for September +5.35B vs +4.1B estimate",
+      "actual_raw": "+5.35B",
+      "forecast_raw": "+4.1B",
+      "beat": true,
+      "raw_diff": "+1.3B",
+      "sign_flip": false,
+      "diff_pct": 30.5,
+      "when_pkt": "04 Nov 18:30",
+      "source": "investinglive",
+      "tags": [
+        "oil",
+        "gold",
+        "cad"
+      ]
+    },
+    {
+      "title": "US September international trade balance -105.0B vs -108.0B expected",
+      "actual_raw": "-105.0B",
+      "forecast_raw": "-108.0B",
+      "beat": true,
+      "raw_diff": "+3.0B",
+      "sign_flip": false,
+      "diff_pct": 2.8,
+      "when_pkt": "04 Nov 18:30",
+      "source": "investinglive",
+      "tags": [
+        "jpy",
+        "cad",
+        "risk"
+      ]
+    },
+    {
+      "title": "US October ADP employment +86K vs +65K expected",
+      "actual_raw": "+86K",
+      "forecast_raw": "+65K",
+      "beat": true,
+      "raw_diff": "+21.0K",
+      "sign_flip": false,
+      "diff_pct": 32.3,
+      "when_pkt": "04 Nov 18:15",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "Italy October services PMI 52.0 vs 51.5 expected",
+      "actual_raw": "52.0",
+      "forecast_raw": "51.5",
+      "beat": true,
+      "raw_diff": "+0.50",
+      "sign_flip": false,
+      "diff_pct": 1.0,
+      "when_pkt": "04 Nov 13:45",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }
