@@ -1,13 +1,23 @@
 # News Pack — Trading Day 04 Nov 2026
 
 - Trading day: **04 Nov 03:00 -> 05 Nov 02:59 PKT**
-- Aakhri update: **05 Nov 02:59 PKT**
-- Kul khabrein: **675**
+- Aakhri update: **05 Nov 07:16 PKT**
+- Kul khabrein: **699**
 - Feeds: 34/39 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**Dow futures gain over 3% as lower yields and oil prices offer support.**
+`05 Nov 02:58 PKT` · pehli baar dekhi `05 Nov 07:16` · cme_daily_commentary
+
+E-mini Dow futures posted their strongest percentage gain in over 18 months, surging past the 53,000 level to hit their highest mark since September 8. The index outperformed other major U.S. benchmarks, aided by declines in Treasury yields and WTI Crude Oil prices that provided support for industrial and consumer components.
+
+**10-Year T-Note futures rise as post-election certainty lowers yields.**
+`05 Nov 02:56 PKT` · pehli baar dekhi `05 Nov 07:16` · cme_rates_video
+
+10-Year T-Note futures rebounded from recent selling pressure, trading near the 107'00 handle and setting up for a potential two-month closing high. The market responded to the conclusion of the election, with reduced political uncertainty and heavy selling in crude oil contributing to lower inflation expectations. This dynamic pushed yields lower across the curve, as the U.S.
 
 **Soybean futures fall on harvest pressure as corn and wheat rebound.**
 `05 Nov 02:35 PKT` · pehli baar dekhi `05 Nov 02:59` · cme_daily_commentary
@@ -79,6 +89,11 @@ E-mini Nasdaq-100 futures gain 1% while remaining in correction territory as mar
 `05 Nov 02:59 PKT` · instaforex
 
 The S&P/TSX Composite Index climbed 2.3% to close at 36,341 after Democrats regained control of both chambers of the U.S. Congress, boosting expectations of reduced trade tensions. A Democratic majority is seen as potentially limiting some of President Trump's trade-policy initiatives. Canada's trade surplus widened to C$5.35 billion in September, as stronger energy and gold exports to the U.S. appeared to offset the effects of existing tariffs.
+
+**SoftBank faces two hits as Arm slide meets US rotation out of AI, leaving Nikkei exposed**
+`05 Nov 02:45 PKT` · pehli baar dekhi `05 Nov 07:16` · investinglive
+
+The divergence on Wall Street sets up a likely split in Tokyo, where AI-linked heavyweights could trail even as the broader market draws support from strong global risk appetite. Falling oil is a modest positive for energy-importing Japan, but a weaker dollar raises the prospect of a firmer yen, a headwind for exporters. The BoJ minutes add a second potential yen driver before the cash open.
 
 **investingLive Americas market news wrap: Oil crushed as Republicans blame war for loss**
 `05 Nov 01:30 PKT` · pehli baar dekhi `05 Nov 02:59` · investinglive
@@ -227,6 +242,11 @@ Gold gained almost 3% in early Wednesday's trading, in immediate reaction to the
 
 Find insight on Champion Iron, gold prices and more in the latest Market Talks covering Basic Materials.
 
+**physical gold reserves description={PAGE_DESCRIPTION} - Kitco**
+`04 Nov 12:38 PKT` · pehli baar dekhi `05 Nov 07:16` · kitco_general
+
+physical gold reserves description={PAGE_DESCRIPTION} Kitco
+
 **Gold prices hit $4,000 as Democrats see electoral Sweep to gain control of Congress - Kitco**
 `04 Nov 11:06 PKT` · pehli baar dekhi `04 Nov 13:08` · kitco_general
 
@@ -292,6 +312,11 @@ The Ibovespa advanced 1% on Wednesday, closing at 167,292 points ahead of the Br
 
 The Atlanta Federal Reserve's GDPNow model has revised its estimate for U.S. economic growth in the fourth quarter of 2026 down to 3.4%, from a prior reading of 3.7%. The latest update, published on 4 November 2026, suggests slightly softer momentum in real GDP than previously projected. While the change is modest, the adjustment signals a cooling from earlier expectations, and will likely be watched closely by investors and policymakers for signs of how resilient U.S.
 
+**Dow surges 1,570 points as investors rotate out of AI and chip stocks**
+`05 Nov 02:28 PKT` · pehli baar dekhi `05 Nov 07:16` · investinglive
+
+US stocks closed sharply higher on Wednesday, with the Dow Industrial Average leading the way with a 3.03% gain. The S&P 500, Nasdaq Composite and Russell 2000 also advanced, but the Nasdaq 100 lagged as selling in Nvidia and AI infrastructure stocks limited the upside. The rally followed the Democrats' election victory in both chambers of Congress.
+
 **FRED Adds Inflation Indicators from the St. Louis Fed - Federal Reserve Economic Data | FRED | St. Louis Fed**
 `05 Nov 02:25 PKT` · pehli baar dekhi `05 Nov 02:59` · gnews_fed
 
@@ -306,6 +331,11 @@ Friday's jobs report looms as Fed weighs December move on interest rates Scotsma
 `05 Nov 00:55 PKT` · pehli baar dekhi `05 Nov 02:59` · gnews_fed
 
 Swearing-in ceremony for incoming Federal Reserve Chair Kevin Warsh The Lufkin Daily News
+
+**ECBs Kazakhs: Rates need to rise if inflation risks spreading - Forex Factory**
+`04 Nov 23:47 PKT` · pehli baar dekhi `05 Nov 07:16` · gnews_centralbanks
+
+ECBs Kazakhs: Rates need to rise if inflation risks spreading Forex Factory
 
 **New York Fed Research Director Brings Economic Policy into Focus for Tobin Students - St. John's University**
 `04 Nov 23:30 PKT` · pehli baar dekhi `05 Nov 02:59` · gnews_fed
@@ -326,6 +356,12 @@ Trump can't pack the Fed board with allies now Axios
 `04 Nov 21:45 PKT` · pehli baar dekhi `05 Nov 02:59` · ing_think
 
 CENTRAL AND EASTERN EUROPE: The National Bank of Poland (NBP) kept rates unchanged in November despite a sharp upgrade to its 2027 inflation forecast. With the price shock still manifesting in energy and limited signs of second-round effects, we think the NBP can afford to wait, with any rate hikes unlikely before early 2027
+
+**Federal Reserve faces no easy choices with stubborn inflation and economic strains - WBFF**
+`04 Nov 21:39 PKT` · pehli baar dekhi `05 Nov 07:16` · gnews_fed · **2 feeds mein**
+
+Federal Reserve faces no easy choices with stubborn inflation and economic strains WBFF
+  - `04 Nov 09:43` *gnews_fed* — Federal Reserve faces no easy choices with stubborn inflation and economic strains - WBFF
 
 **Bank of Albania Holds Rates Steady**
 `04 Nov 21:19 PKT` · instaforex
@@ -569,6 +605,11 @@ Fed holds interest rates steady as inflation hits 3-year high ABC News - Breakin
 
 Ask Beth: Why is the Fed's inflation objective 2 percent? Federal Reserve Bank of Cleveland
 
+**Fed chair Jerome Powell says he will stay on central bank's board after term expires next month - ABC News - Breaking News, Latest News and Videos**
+`04 Nov 08:08 PKT` · pehli baar dekhi `05 Nov 07:16` · gnews_fed
+
+Fed chair Jerome Powell says he will stay on central bank's board after term expires next month ABC News - Breaking News, Latest News and Videos
+
 **China Services PMI Slows to 50.8 as Rising Costs and Price Cuts Squeeze Margins**
 `04 Nov 08:04 PKT` · pehli baar dekhi `04 Nov 13:08` · actionforex
 
@@ -723,6 +764,11 @@ ECB rate hike looks nearly certain after inflation rises to three-year high Trad
 `04 Nov 16:25 PKT` · pehli baar dekhi `04 Nov 21:19` · actionforex
 
 The loss of American exceptionalism will weaken the greenback. A shift of capital to Europe and Asia will boost the euro and the yen. The US stock market fell to five-week lows following the initial results of the US midterm elections. EURUSD tested the upper boundary of the 1.11–1.125 consolidation range, while the Japanese yen [&#8230;] The post The Dollar Concedes the Democrats' Victory appeared first on ActionForex.
+
+**Eurozone Inflation Rises 4.0%, Hitting 3-Year High on Energy Costs; Expectations Grow for Another ECB Rate Hike - BigGo Finance**
+`04 Nov 16:25 PKT` · pehli baar dekhi `05 Nov 07:16` · gnews_centralbanks
+
+Eurozone Inflation Rises 4.0%, Hitting 3-Year High on Energy Costs; Expectations Grow for Another ECB Rate Hike BigGo Finance
 
 **Eurozone Inflation Rises to 4% as ECB Eyes Rate Hikes - European Business Magazine**
 `04 Nov 16:17 PKT` · pehli baar dekhi `04 Nov 21:19` · gnews_centralbanks
@@ -946,6 +992,11 @@ City AM Shadow MPC urges Bank of England to hike interest rates City AM
 The British Pound Heads Into A Bank Of England Hike Priced Well Beyond This One - TalkMarkets Howl.Link
 
 ### JPY
+
+**Economic and event calendar in Asia Thursday, November 5, 2026 - we hear from the Bank of Japan**
+`05 Nov 02:03 PKT` · pehli baar dekhi `05 Nov 07:16` · investinglive
+
+BoJ minutes due on the September hike that split the board The Bank of Japan releases the full minutes of its September 17 and 18 policy meeting at 8:50 a.m. Tokyo time on Thursday, and they cover one of the most consequential decisions of the current tightening cycle. At that meeting the BoJ raised its policy rate by 25 basis points to 1.25%, the highest since 1995, on a 7-2 vote. The hike came three months after the previous one, compared with six months between earlier moves.
 
 **Nikkei 225 Index Wave Analysis**
 `04 Nov 18:45 PKT` · pehli baar dekhi `04 Nov 21:19` · actionforex
@@ -1192,10 +1243,20 @@ LNG spot market prices in Asia have tripled since the start of the year. Asia an
 
 Iran War and AI Boom Drive Global Gas Supply Crunch Crude Oil Prices Today | OilPrice.com
 
+**Oil Plunges as Election Shifts Iran Outlook - Rigzone**
+`05 Nov 01:50 PKT` · pehli baar dekhi `05 Nov 07:16` · gnews_geopolitics
+
+Oil Plunges as Election Shifts Iran Outlook Rigzone
+
 **Crude Oil Prices Plummet in Hopes of a Quick End to Iran War - Barchart.com**
 `05 Nov 01:18 PKT` · pehli baar dekhi `05 Nov 02:59` · gnews_geopolitics
 
 Crude Oil Prices Plummet in Hopes of a Quick End to Iran War Barchart.com
+
+**New Report of Attack on Strait of Hormuz Shipping Fans fears of Threats to Oil Supplies - EnergyNow.com**
+`05 Nov 01:13 PKT` · pehli baar dekhi `05 Nov 07:16` · gnews_geopolitics
+
+New Report of Attack on Strait of Hormuz Shipping Fans fears of Threats to Oil Supplies EnergyNow.com
 
 **RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com**
 `05 Nov 01:12 PKT` · pehli baar dekhi `05 Nov 02:59` · gnews_geopolitics
@@ -1325,6 +1386,11 @@ U.S. refinery crude runs posted a notable week-over-week rebound, according to t
 
 Colombia's exports rose 16.4% year-on-year to USD 5.41 billion in September 2026, accelerating from a 15.1% increase in August and marking the fastest growth since May. The expansion was driven primarily by an 87.2% jump in sales from the "other sectors" group, reflecting a sharp rise in shipments of non-monetary gold (87.5%). Exports of fuels and extractive industry products, which accounted for 41.3% of total exports, grew 13.3%.
 
+**Oil Rises on Intensifying US-Iran Hostilities, Threat of Red Sea Closure - EnergyNow.com**
+`04 Nov 21:14 PKT` · pehli baar dekhi `05 Nov 07:16` · gnews_geopolitics
+
+Oil Rises on Intensifying US-Iran Hostilities, Threat of Red Sea Closure EnergyNow.com
+
 **U.S. Crude Oil Stockpiles Post Fifth Straight Weekly Drop**
 `04 Nov 21:11 PKT` · pehli baar dekhi `04 Nov 21:19` · wsj_markets
 
@@ -1347,6 +1413,11 @@ Brent crude oil drops below $100 amid US-Iran diplomatic talks Crypto Briefing
 `04 Nov 20:50 PKT` · pehli baar dekhi `04 Nov 21:19` · actionforex
 
 The market is anticipating a diplomatic resolution to the conflict in the Middle East. Speculators are unwinding their long positions in Brent, but the bulls' trump cards remain in play. Signals from the diplomatic front are mixed, but the market prefers to take a more conciliatory approach. While mediators are proposing new ways to bring [&#8230;] The post Brent Is Heading Towards $100 appeared first on ActionForex.
+
+**U.S. Oil Refiners Face Import Squeeze From Biggest Foreign Seller - EnergyNow.com**
+`04 Nov 20:45 PKT` · pehli baar dekhi `05 Nov 07:16` · gnews_geopolitics
+
+U.S. Oil Refiners Face Import Squeeze From Biggest Foreign Seller EnergyNow.com
 
 **U.S. TOPS THE LIST – Half the World's Oil Comes From Just Five Countries – Visual Capitalist - EnergyNow.com**
 `04 Nov 20:41 PKT` · pehli baar dekhi `05 Nov 02:59` · gnews_geopolitics
@@ -1403,6 +1474,11 @@ Texas voters on Tuesday elected a Democrat to the Railroad Commission, the regul
 `04 Nov 18:59 PKT` · pehli baar dekhi `04 Nov 21:19` · gnews_geopolitics
 
 Iran's Main Oil and Gas Production and Infrastructure EnergyNow
+
+**Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say - EnergyNow**
+`04 Nov 18:58 PKT` · pehli baar dekhi `05 Nov 07:16` · gnews_geopolitics
+
+Iran Can Go Up to Two Months Without Oil Exports Before Cutting Output, Analysts Say EnergyNow
 
 **Iran to allow Indian ships to pass through Hormuz: Route had been closed for 8 months; India imports 40% of... - Bhaskar English**
 `04 Nov 18:57 PKT` · pehli baar dekhi `04 Nov 21:19` · gnews_geopolitics
@@ -1775,6 +1851,11 @@ THORChain has restored trading on Bitcoin, Ethereum and several other networks f
 
 ### RATES
 
+**Qualcomm beats Q4 forecasts, shares slip 2% as profit guidance comes in light**
+`05 Nov 02:12 PKT` · pehli baar dekhi `05 Nov 07:16` · investinglive
+
+The after-hours move suggests investors are pricing the guidance rather than the quarter, with the gap between a firm revenue outlook and a softer earnings range pointing to margin pressure as the key risk. A beat that fails to lift the stock tends to weigh on near-term sentiment across the broader chip complex, particularly for names leveraged to smartphone demand. Asian handset and semiconductor supply-chain stocks may take their cue from how Qualcomm trades at the US open.
+
 **Will the Federal Reserve's Rate Hike Derail Bank Funding Cost Gains? - KBRA**
 `04 Nov 21:00 PKT` · pehli baar dekhi `05 Nov 02:59` · gnews_fed
 
@@ -1806,6 +1887,11 @@ US stocks finished sharply higher on Wednesday, with the S&P 500 up 1.6%, the Do
 `05 Nov 02:29 PKT` · pehli baar dekhi `05 Nov 02:59` · mw_topstories
 
 Stocks surged, oil prices plunged and bond yields fell Wednesday on optimism around a quicker end to the Iran war now that Democrats have clinched control of Congress.
+
+**Snap user count falls short at 495 million as profit beat offsets slight revenue miss**
+`05 Nov 02:26 PKT` · pehli baar dekhi `05 Nov 07:16` · investinglive
+
+The share reaction was not available at the time of writing, but the mix points to a tug of war between margin-focused and growth-focused investors. A user miss tends to weigh more heavily on social media stocks than a small revenue shortfall, because audience size underpins future ad pricing. The in-line holiday-quarter outlook offers little to change sentiment either way.
 
 **What a Democratic Congress Means for Trump's Foreign-Policy Agenda**
 `05 Nov 02:01 PKT` · pehli baar dekhi `05 Nov 02:59` · wsj_world
@@ -1885,6 +1971,11 @@ Russian strikes also cut power to Ukrainian cities as Moscow claims 700 Ukrainia
 
 The ISM Services PMI fell to 54.5 in October 2026, its lowest level in three months, down from 54.9 in September and below market expectations of 54.8. The data signaled a moderation in services-sector growth, driven by slower business activity (53.8 vs 56.5), weaker new orders (55.9 vs 59.8), and softer inventories growth (55.4 vs 57.8).
 
+**How 50 Days of the Iran War Led to the Loss of $50 Billion Worth of Oil - EnergyNow.com**
+`04 Nov 20:44 PKT` · pehli baar dekhi `05 Nov 07:16` · gnews_geopolitics
+
+How 50 Days of the Iran War Led to the Loss of $50 Billion Worth of Oil EnergyNow.com
+
 **Iran's Khamenei says US hostility will persist regardless of party in power**
 `04 Nov 20:36 PKT` · pehli baar dekhi `04 Nov 21:19` · investing_commodities
 
@@ -1907,6 +1998,11 @@ The CAS ruled last week to overturn governing body&#039;s exclusion of ‌Russia
 `04 Nov 18:49 PKT` · pehli baar dekhi `04 Nov 21:19` · gnews_geopolitics
 
 COMMENTARY: Asia hopes Democrats can provide relief from Trump's Iran war, tariffs Reuters
+
+**Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA - EnergyNow**
+`04 Nov 18:38 PKT` · pehli baar dekhi `05 Nov 07:16` · gnews_geopolitics
+
+Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA EnergyNow
 
 **Iran hails US voters rejecting war while Khamenei warns hostility won't end**
 `04 Nov 18:26 PKT` · pehli baar dekhi `04 Nov 21:19` · aljazeera
@@ -2093,7 +2189,7 @@ The Iran War Has Shattered Oil's Price Compass: Bousso EnergyNow.com
 
 "Hyperscalers" burned through their cash. Now their bond deals are helping fuel the economy.
 
-### BINA TAG (238)
+### BINA TAG (242)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2117,12 +2213,14 @@ The Iran War Has Shattered Oil's Price Compass: Bousso EnergyNow.com
 - `05 Nov 02:33` **mw_topstories** — Big Tech is driving a historic divide in the S&P 500. Why investors need to take notice.
 - `05 Nov 02:30` **instaforex** — Ireland's Exchequer Swings Deep Into Deficit in October 2026
 - `05 Nov 02:21` **aljazeera** — Social media reacts to Democrats' takeover of US Congress
+- `05 Nov 02:20` **investinglive** — Arm shares fall 5% after hours despite Q2 beat as outlook only edges past forecasts
 - `05 Nov 02:17` **mw_topstories** — Apple cements its status as tech's biggest heavyweight with the stock's best day in over a year
 - `05 Nov 02:16` **mw_topstories** — 'I have no financial safety net': I'm 66, rely on Social Security and have $500 in savings. What politician speaks for me?
 - `05 Nov 02:13` **aljazeera** — Israel restricting treatment for 1,100 child amputees in Gaza: NGO
 - `05 Nov 02:10` **mw_topstories** — Hospital stocks rallied while drugmakers brace for scrutiny. Here's what the Democratic wave means for healthcare.
 - `05 Nov 01:57` **wsj_markets** — AstraZeneca Made $10 Billion Offer for Rhythm Pharmaceuticals
 - `05 Nov 01:54` **investing_commodities** — Democrat permitting bill authors 'not going to wait' for new US Congress
+- `05 Nov 01:54` **gnews_fed** — What To Expect From Friday's Jobs Report - Investopedia
 - `05 Nov 01:50` **aljazeera** — Democrat leaders hail midterm election success
 - `05 Nov 01:33` **gnews_fed** — What's Likely to Change for the U.S. Economy After Democrats' Resounding Victory in the Midterms? - Investopedia
 - `05 Nov 01:20` **kitco_general** — India approves $297 million incentive policy for lithium, nickel processing - Kitco
@@ -2139,6 +2237,7 @@ The Iran War Has Shattered Oil's Price Compass: Bousso EnergyNow.com
 - `05 Nov 00:00` **gnews_fed** — Trump Can't Pack the Federal Reserve Board Now - Political Wire
 - `04 Nov 23:52` **aljazeera** — The biggest winners and losers of the 2026 US midterms
 - `04 Nov 23:41` **kitco_general** — Iron ore price nears one-week high on short-covering, China restocking bets - Kitco
+- `04 Nov 23:36` **gnews_fed** — Newspaper Notice - TAPinto
 - `04 Nov 23:29` **kitco_general** — US trade deficit narrows slightly in September; imports hit record high - Kitco
 - `04 Nov 23:13` **aljazeera** — Key moments as Democrats sweep to victories in US midterms
 - `04 Nov 23:03` **mining_com** — Rare Earths Norway OKs $27 million Fen pilot plant
@@ -2315,6 +2414,7 @@ The Iran War Has Shattered Oil's Price Compass: Bousso EnergyNow.com
 - `04 Nov 05:36` **investing_commodities** — 'It is a cappuccino. It can't be $10,' says Harry Styles about NYC coffee prices
 - `04 Nov 05:35` **aljazeera** — Bomb threats disrupt flights across Europe, no explosive devices found
 - `04 Nov 05:33` **aljazeera** — US Department of Justice expands its probe into Alaska's US Senate election
+- `04 Nov 05:31` **kitco_general** — Democratic Congress description={PAGE_DESCRIPTION} - Kitco
 - `04 Nov 05:13` **aljazeera** — Stevie Wonder endorses Abdul El-Sayed
 - `04 Nov 05:09` **bbc_business** — Canva announces major job cuts after 'our hardest year yet'
 - `04 Nov 05:08` **aljazeera** — Ballot scanner glitch disrupts voting in New York
@@ -2352,45 +2452,45 @@ investing_news (13)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 8 | 17 | 0 | 0.1 |
+| investinglive | OK | 25 | 25 | 21 | 4 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | STALE | 1 | 0 | 0 | 0 | 1 | 6.2 |
-| instaforex | OK | 25 | 24 | 11 | 13 | 1 | -0.2 |
-| wsj_economy | OK | 36 | 6 | 0 | 6 | 30 | 0.2 |
-| cme_metals_video | OK | 10 | 3 | 2 | 1 | 7 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_energy_video | OK | 10 | 3 | 1 | 2 | 7 | 0.0 |
-| cme_daily_commentary | OK | 10 | 8 | 1 | 7 | 2 | 0.0 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 55.1 |
-| kitco_general | OK | 67 | 66 | 24 | 42 | 1 | 0.0 |
-| gnews_fed | OK | 28 | 28 | 15 | 13 | 0 | 0.0 |
-| gnews_geopolitics | OK | 53 | 53 | 16 | 37 | 0 | 0.0 |
-| gnews_centralbanks | OK | 47 | 47 | 11 | 36 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 7.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 20.8 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.9 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.3 |
-| boj_whatsnew | OK | 46 | 4 | 0 | 4 | 42 | 0.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 1.8 |
-| mining_com | OK | 36 | 10 | 6 | 4 | 26 | 0.2 |
-| oilprice | OK | 15 | 15 | 8 | 7 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 2 | 8 | 0 | 0.2 |
-| bbc_business | OK | 46 | 8 | 1 | 7 | 38 | 0.0 |
-| aljazeera | OK | 25 | 25 | 22 | 3 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 1.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 7.5 |
-| eia_energy | OK | 22 | 0 | 0 | 0 | 22 | 1.3 |
-| bea_releases | OK | 49 | 1 | 0 | 1 | 48 | 0.4 |
-| wsj_world | OK | 72 | 14 | 1 | 13 | 58 | 0.0 |
-| wsj_markets | OK | 61 | 26 | 8 | 18 | 35 | 0.0 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.1 |
+| marketpulse | STALE | 1 | 0 | 0 | 0 | 1 | 6.3 |
+| instaforex | OK | 25 | 25 | 23 | 2 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 8 | 2 | 6 | 28 | 0.0 |
+| cme_metals_video | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
+| cme_fx_video | OK | 10 | 3 | 1 | 2 | 7 | 0.2 |
+| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.2 |
+| cme_energy_video | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
+| cme_daily_commentary | OK | 10 | 10 | 2 | 8 | 0 | 0.1 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 55.3 |
+| kitco_general | OK | 49 | 48 | 4 | 44 | 1 | 0.1 |
+| gnews_fed | OK | 36 | 36 | 11 | 25 | 0 | 0.0 |
+| gnews_geopolitics | OK | 52 | 52 | 12 | 40 | 0 | 0.0 |
+| gnews_centralbanks | OK | 51 | 51 | 15 | 36 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 7.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 21.0 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 1.1 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.5 |
+| boj_whatsnew | OK | 48 | 6 | 2 | 4 | 42 | 0.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 1.9 |
+| mining_com | OK | 36 | 12 | 2 | 10 | 24 | 0.1 |
+| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
+| bbc_business | OK | 43 | 11 | 2 | 9 | 32 | 0.1 |
+| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 1.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 7.7 |
+| eia_energy | OK | 22 | 0 | 0 | 0 | 22 | 1.5 |
+| bea_releases | OK | 49 | 1 | 0 | 1 | 48 | 0.5 |
+| wsj_world | OK | 71 | 17 | 3 | 14 | 54 | 0.1 |
+| wsj_markets | OK | 61 | 25 | 4 | 21 | 36 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 20 | 4 | 16 | 10 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 24 | 5 | 19 | 6 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
