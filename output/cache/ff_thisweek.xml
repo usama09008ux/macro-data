@@ -721,20 +721,10 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/251-uk-construction-pmi]]></url>
 	</event>
 	<event>
-		<title>PPI m/m</title>
-		<country>EUR</country>
-		<date><![CDATA[11-05-2026]]></date>
-		<time><![CDATA[10:00am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[2.5%]]></forecast>
-		<previous><![CDATA[1.9%]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/89-ez-ppi-mm]]></url>
-	</event>
-	<event>
 		<title>Spanish 10-y Bond Auction</title>
 		<country>EUR</country>
 		<date><![CDATA[11-05-2026]]></date>
-		<time><![CDATA[10:03am]]></time>
+		<time><![CDATA[9:39am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous><![CDATA[4.18|1.6]]></previous>
@@ -744,11 +734,21 @@
 		<title>French 10-y Bond Auction</title>
 		<country>EUR</country>
 		<date><![CDATA[11-05-2026]]></date>
-		<time><![CDATA[10:18am]]></time>
+		<time><![CDATA[9:55am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous><![CDATA[4.93|2.0]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/523-fr-10-y-bond-auction]]></url>
+	</event>
+	<event>
+		<title>PPI m/m</title>
+		<country>EUR</country>
+		<date><![CDATA[11-05-2026]]></date>
+		<time><![CDATA[10:00am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[2.5%]]></forecast>
+		<previous><![CDATA[1.9%]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/89-ez-ppi-mm]]></url>
 	</event>
 	<event>
 		<title>Challenger Job Cuts y/y</title>

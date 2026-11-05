@@ -1,6 +1,6 @@
 # Calendar — Trading Day 05 Nov 2026
 
-- Banaya gaya: **05 Nov 2026 07:43 PKT**
+- Banaya gaya: **05 Nov 2026 18:24 PKT**
 - Trading day: **05 Nov 03:00 -> 06 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,23 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 08:35 | JPY | low | 10-y Bond Auction | - | 3.10|3.8 |
-| 11:45 | AUD | low | RBA Deputy Gov Hauser Speaks | - | - |
-| 12:00 | EUR | low | German Factory Orders m/m | 4.6% | -10.6% |
-| 12:45 | EUR | low | French Industrial Production m/m | 0.3% | -0.3% |
-| 13:00 | CHF | low | Unemployment Rate | 3.1% | 3.1% |
-| 14:00 | EUR | low | Italian Retail Sales m/m | 0.0% | 0.3% |
-| 14:30 | GBP | low | Construction PMI | 46.4 | 46.1 |
-| 15:00 | EUR | low | PPI m/m | 2.5% | 1.9% |
-| 15:03 | EUR | low | Spanish 10-y Bond Auction | - | 4.18|1.6 |
-| 15:18 | EUR | low | French 10-y Bond Auction | - | 4.93|2.0 |
-| 15:30 | USD | low | Challenger Job Cuts y/y | - | -19.9% |
-| 17:00 | GBP | **HIGH** | BOE Monetary Policy Report | - | - |
-| 17:00 | GBP | **HIGH** | Monetary Policy Summary | - | - |
-| 17:00 | GBP | **HIGH** | MPC Official Bank Rate Votes | 7-0-2 | 3-0-6 |
-| 17:00 | GBP | **HIGH** | Official Bank Rate | 4.00% | 3.75% |
-| 17:30 | GBP | **HIGH** | BOE Gov Bailey Speaks | - | - |
-| 17:40 | CHF | MED | SNB Chairman Schlegel Speaks | - | - |
 | 18:30 | USD | MED | Unemployment Claims | 197K | 194K |
 | 18:30 | USD | low | Prelim Nonfarm Productivity q/q | 2.8% | 1.4% |
 | 18:30 | USD | low | Prelim Unit Labor Costs q/q | 0.3% | 1.3% |
@@ -40,14 +23,17 @@
 | 23:00 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | **06 Nov** 02:00 | CAD | MED | Annual Budget Release | - | - |
 | **06 Nov** 04:30 | JPY | low | Average Cash Earnings y/y | 3.8% | 3.8% |
+| **06 Nov** 12:00 | EUR | low | German Industrial Production m/m | 0.0% | 2.0% |
+| **06 Nov** 12:00 | GBP | low | Lloyds HPI m/m | 0.0% | 0.0% |
+| **06 Nov** 12:45 | EUR | low | French Trade Balance | -5.8B | -6.1B |
+| **06 Nov** 13:00 | CHF | low | Foreign Currency Reserves | - | 770B |
+| **06 Nov** 13:00 | CHF | low | SECO Consumer Climate | -35 | -36 |
+| **06 Nov** 14:30 | USD | low | FOMC Member Williams Speaks | - | - |
+| **06 Nov** 15:00 | EUR | low | Retail Sales m/m | -0.1% | 0.1% |
+| **06 Nov** 16:00 | CHF | low | Gov Board Member Tschudin Speaks | - | - |
+| **06 Nov** 17:15 | GBP | low | MPC Member Pill Speaks | - | - |
 
-**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
-
-- `05 Nov 17:00` **GBP BOE Monetary Policy Report**
-- `05 Nov 17:00` **GBP Monetary Policy Summary**
-- `05 Nov 17:00` **GBP MPC Official Bank Rate Votes**
-- `05 Nov 17:00` **GBP Official Bank Rate**
-- `05 Nov 17:30` **GBP BOE Gov Bailey Speaks**
+*Agle 24 ghante mein koi HIGH impact event nahi.*
 
 ---
 
