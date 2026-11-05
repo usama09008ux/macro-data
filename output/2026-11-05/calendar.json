@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "05 Nov 2026 18:24",
+  "generated_pkt": "06 Nov 2026 00:15",
   "trading_day": "2026-11-05",
   "feed_sources": {
     "thisweek": "live"
@@ -1501,5 +1501,35 @@
       "trading_day": "2026-11-06"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US initial jobless claims 189K vs 196K estimate",
+      "actual_raw": "189K",
+      "forecast_raw": "196K",
+      "beat": false,
+      "raw_diff": "-7.0K",
+      "sign_flip": false,
+      "diff_pct": -3.6,
+      "when_pkt": "05 Nov 18:30",
+      "source": "investinglive",
+      "tags": [
+        "usd",
+        "rates"
+      ]
+    },
+    {
+      "title": "US Q3 productivity +3.6% vs +2.8% expected",
+      "actual_raw": "+3.6%",
+      "forecast_raw": "+2.8%",
+      "beat": true,
+      "raw_diff": "+0.80pp",
+      "sign_flip": false,
+      "diff_pct": 28.6,
+      "when_pkt": "05 Nov 18:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }
