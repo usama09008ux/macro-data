@@ -1,6 +1,6 @@
 # Calendar — Trading Day 05 Nov 2026
 
-- Banaya gaya: **05 Nov 2026 03:17 PKT**
+- Banaya gaya: **05 Nov 2026 07:43 PKT**
 - Trading day: **05 Nov 03:00 -> 06 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,8 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 04:50 | JPY | low | Monetary Policy Meeting Minutes | - | - |
-| 05:30 | AUD | low | Goods Trade Balance | 0.94B | 0.50B |
 | 08:35 | JPY | low | 10-y Bond Auction | - | 3.10|3.8 |
 | 11:45 | AUD | low | RBA Deputy Gov Hauser Speaks | - | - |
 | 12:00 | EUR | low | German Factory Orders m/m | 4.6% | -10.6% |
@@ -41,6 +39,7 @@
 | 22:45 | EUR | low | German Buba President Nagel Speaks | - | - |
 | 23:00 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | **06 Nov** 02:00 | CAD | MED | Annual Budget Release | - | - |
+| **06 Nov** 04:30 | JPY | low | Average Cash Earnings y/y | 3.8% | 3.8% |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
