@@ -1,11 +1,11 @@
 {
-  "generated_pkt": "06 Nov 2026 18:15",
+  "generated_pkt": "07 Nov 2026 00:26",
   "trading_day": "2026-11-06",
   "series": {
     "DFEDTARU": {
       "latest": 4.0,
       "latest_date": "2026-11-06",
-      "n_obs": 1106,
+      "n_obs": 1105,
       "changes": {
         "1d": 0.0,
         "5d": 0.0,
@@ -124,26 +124,26 @@
       "percentile": 63
     },
     "VIXCLS": {
-      "latest": 16.61,
-      "latest_date": "2026-11-04",
-      "n_obs": 779,
+      "latest": 28.18,
+      "latest_date": "2026-11-05",
+      "n_obs": 780,
       "changes": {
-        "1d": -4.22,
-        "5d": -0.3,
-        "20d": 1.53
+        "1d": 11.57,
+        "5d": 10.98,
+        "20d": 12.77
       },
-      "percentile": 54
+      "percentile": 98
     },
     "BAMLH0A0HYM2": {
-      "latest": 3.32,
-      "latest_date": "2026-11-04",
+      "latest": 3.48,
+      "latest_date": "2026-11-05",
       "n_obs": 786,
       "changes": {
-        "1d": -0.08,
-        "5d": 0.18,
-        "20d": 0.23
+        "1d": 0.16,
+        "5d": 0.22,
+        "20d": 0.33
       },
-      "percentile": 82
+      "percentile": 89
     },
     "STLFSI4": {
       "latest": -0.5224,
@@ -197,39 +197,39 @@
       "percentile": 97
     },
     "PAYEMS": {
-      "latest": 159044.0,
-      "latest_date": "2026-09-01",
-      "n_obs": 36,
+      "latest": 159293.0,
+      "latest_date": "2026-10-01",
+      "n_obs": 37,
       "changes": {
-        "MoM %": 0.02,
-        "YoY %": 0.31
+        "MoM %": 0.1,
+        "YoY %": 0.56
       },
       "percentile": 97
     },
     "UNRATE": {
-      "latest": 4.2,
-      "latest_date": "2026-09-01",
-      "n_obs": 35,
-      "changes": {
-        "MoM %": 2.44,
-        "YoY %": -2.33
-      },
-      "percentile": 46
-    },
-    "CES0500000003": {
-      "latest": 37.81,
-      "latest_date": "2026-09-01",
+      "latest": 4.1,
+      "latest_date": "2026-10-01",
       "n_obs": 36,
       "changes": {
-        "MoM %": 0.13,
-        "YoY %": 3.02
+        "MoM %": -2.38,
+        "YoY %": -6.82
+      },
+      "percentile": 25
+    },
+    "CES0500000003": {
+      "latest": 38.0,
+      "latest_date": "2026-10-01",
+      "n_obs": 37,
+      "changes": {
+        "MoM %": 0.37,
+        "YoY %": 3.12
       },
       "percentile": 97
     },
     "ICSA": {
       "latest": 189000.0,
       "latest_date": "2026-10-31",
-      "n_obs": 158,
+      "n_obs": 157,
       "changes": {
         "1w": -6000.0,
         "4w": -9000.0
@@ -270,37 +270,11 @@
   "treasury": {
     "nominal": {
       "kind": "nominal",
-      "ok": true,
-      "note": "",
-      "date": "2026-11-05",
-      "rates": {
-        "2Y": 4.46,
-        "5Y": 4.59,
-        "10Y": 4.84,
-        "30Y": 5.25,
-        "3M": 4.17
-      },
-      "fields_seen": [
-        "BC_10YEAR",
-        "BC_1MONTH",
-        "BC_1YEAR",
-        "BC_1_5MONTH",
-        "BC_20YEAR",
-        "BC_2MONTH",
-        "BC_2YEAR",
-        "BC_30YEAR",
-        "BC_30YEARDISPLAY",
-        "BC_3MONTH",
-        "BC_3YEAR",
-        "BC_4MONTH",
-        "BC_5YEAR",
-        "BC_6MONTH",
-        "BC_7YEAR",
-        "Id",
-        "NEW_DATE",
-        "id",
-        "updated"
-      ]
+      "ok": false,
+      "note": "ReadTimeout",
+      "date": null,
+      "rates": {},
+      "fields_seen": []
     },
     "real": {
       "kind": "real",

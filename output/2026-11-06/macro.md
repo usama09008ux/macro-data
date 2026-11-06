@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 06 Nov 2026
 
-- Banaya gaya: **06 Nov 2026 18:15 PKT**
+- Banaya gaya: **07 Nov 2026 00:26 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
@@ -36,8 +36,8 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| VIX <br>`VIXCLS` | **16.61** | -4.22 | -0.3 | +1.53 | 54 | 2026-11-04 |
-| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.32%** | -0.08 | +0.18 | +0.23 | 82 | 2026-11-04 |
+| VIX <br>`VIXCLS` | **28.18** | +11.57 | +10.98 | +12.77 | 98 | 2026-11-05 |
+| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.48%** | +0.16 | +0.22 | +0.33 | 89 | 2026-11-05 |
 | Financial stress index <br>`STLFSI4` | **-0.52** | +0.0618 | +0.2835 | +0.2425 | 69 | 2026-10-30 |
 
 ---
@@ -57,9 +57,9 @@
 
 | Series | Aaj | MoM % | YoY % | 1w | 4w | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|---|
-| Nonfarm payrolls <br>`PAYEMS` | **159,044k** | +0.02 | +0.31 |  |  | 97 | 2026-09-01 |
-| Unemployment rate <br>`UNRATE` | **4.20%** | +2.44 | -2.33 |  |  | 46 | 2026-09-01 |
-| Average hourly earnings <br>`CES0500000003` | **37.81$** | +0.13 | +3.02 |  |  | 97 | 2026-09-01 |
+| Nonfarm payrolls <br>`PAYEMS` | **159,293k** | +0.1 | +0.56 |  |  | 97 | 2026-10-01 |
+| Unemployment rate <br>`UNRATE` | **4.10%** | -2.38 | -6.82 |  |  | 25 | 2026-10-01 |
+| Average hourly earnings <br>`CES0500000003` | **38.00$** | +0.37 | +3.12 |  |  | 97 | 2026-10-01 |
 | Initial jobless claims <br>`ICSA` | **189,000** |  |  | -6000.0 | -9000.0 | 0 | 2026-10-31 |
 
 ---
@@ -80,9 +80,6 @@
 
 | Kya | Treasury | Tareekh | FRED | FRED ki tareekh |
 |---|---|---|---|---|
-| 10Y | **4.84** | 2026-11-05 **←nayi** | 4.90 | 2026-11-04 |
-| 2Y | **4.46** | 2026-11-05 **←nayi** | 4.58 | 2026-11-04 |
-| 30Y | **5.25** | 2026-11-05 **←nayi** | 5.28 | 2026-11-04 |
 | 10Y real | **2.60** | 2026-11-05 **←nayi** | 2.64 | 2026-11-04 |
 | 5Y real | **2.33** | 2026-11-05 **←nayi** | 2.39 | 2026-11-04 |
 
