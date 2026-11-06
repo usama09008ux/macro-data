@@ -1,6 +1,6 @@
 # Calendar — Trading Day 06 Nov 2026
 
-- Banaya gaya: **06 Nov 2026 03:27 PKT**
+- Banaya gaya: **06 Nov 2026 07:46 PKT**
 - Trading day: **06 Nov 03:00 -> 07 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,7 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 04:30 | JPY | low | Average Cash Earnings y/y | 3.8% | 3.8% |
 | 12:00 | EUR | low | German Industrial Production m/m | 0.0% | 2.0% |
 | 12:00 | GBP | low | Lloyds HPI m/m | 0.0% | 0.0% |
 | 12:45 | EUR | low | French Trade Balance | -5.8B | -6.1B |
