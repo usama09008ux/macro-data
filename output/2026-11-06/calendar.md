@@ -1,6 +1,6 @@
 # Calendar — Trading Day 06 Nov 2026
 
-- Banaya gaya: **06 Nov 2026 23:42 PKT**
+- Banaya gaya: **07 Nov 2026 02:53 PKT**
 - Trading day: **06 Nov 03:00 -> 07 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -10,14 +10,7 @@
 
 ## Aane wale 24 ghante
 
-| Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
-|---|---|---|---|---|---|
-| **07 Nov** 01:00 | USD | low | Consumer Credit m/m | 13.4B | 8.3B |
-| **07 Nov** 02:45 | NZD | **HIGH** | Parliamentary Elections | - | - |
-
-**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
-
-- `07 Nov 02:45` **NZD Parliamentary Elections**
+*Agle 24 ghante mein kuch nahi.*
 
 ---
 
