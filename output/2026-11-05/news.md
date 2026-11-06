@@ -1,8 +1,8 @@
 # News Pack — Trading Day 05 Nov 2026
 
 - Trading day: **05 Nov 03:00 -> 06 Nov 02:59 PKT**
-- Aakhri update: **06 Nov 08:12 PKT**
-- Kul khabrein: **768**
+- Aakhri update: **06 Nov 16:01 PKT**
+- Kul khabrein: **780**
 - Feeds: 35/39 OK
 
 ---
@@ -274,6 +274,11 @@ Fed: Banks Tightened Lending Standards for Small Businesses and Subprime Consume
 
 Inflation Matters, It Turns Out National Review
 
+**Kansas City Fed description={PAGE_DESCRIPTION} - Kitco**
+`06 Nov 00:18 PKT` · pehli baar dekhi `06 Nov 16:01` · kitco_general
+
+Kansas City Fed description={PAGE_DESCRIPTION} Kitco
+
 **Federal Reserve holds interest rates steady as inflation and consumer debt remain concerns - Spectrum News**
 `06 Nov 00:00 PKT` · pehli baar dekhi `06 Nov 03:53` · gnews_fed
 
@@ -382,6 +387,12 @@ New Fed Data Shows Nearly Half of 30-Somethings Have No Retirement Account—and
 
 The Fed's New Inflation Warning Will Add Thousands to Families' Already Soaring Bills 24/7 Wall St.
 
+**Fed's Hammack: Gradual rate-hike path best way forward for policy - www.tmgm.com**
+`05 Nov 19:54 PKT` · pehli baar dekhi `06 Nov 16:01` · gnews_fed · **2 feeds mein**
+
+Fed's Hammack: Gradual rate-hike path best way forward for policy www.tmgm.com
+  - `05 Nov 18:59` *gnews_fed* — Fed's Hammack: Gradual rate-hike path best way forward for policy - FXStreet
+
 **USD Index Recovers After Repeated Failure at Strong Fibo Support**
 `05 Nov 19:35 PKT` · pehli baar dekhi `05 Nov 22:39` · actionforex
 
@@ -409,11 +420,6 @@ Federal Reserve backs gradual rate increases as inflation stays above target Tra
 `05 Nov 19:08 PKT` · pehli baar dekhi `05 Nov 22:39` · gnews_fed
 
 What is the Annual Integrated Economic Survey used for? Federal Reserve Economic Data | FRED | St. Louis Fed
-
-**Fed's Hammack: Gradual rate-hike path best way forward for policy - FXStreet**
-`05 Nov 18:59 PKT` · pehli baar dekhi `05 Nov 22:39` · gnews_fed
-
-Fed's Hammack: Gradual rate-hike path best way forward for policy FXStreet
 
 **U.S. Jobless Claims Slide Lower Again**
 `05 Nov 18:54 PKT` · pehli baar dekhi `05 Nov 22:39` · wsj_economy
@@ -454,6 +460,11 @@ Prior was +1.4% Unit labor costs -0.7% vs +0.6% expected Prior unit labor costs 
 `05 Nov 18:30 PKT` · pehli baar dekhi `05 Nov 22:39` · investinglive
 
 Prior week initial claims 194K Prior week continuing claims 1.701M Details Initial jobless claims (October 31) fell 6,000 to 189,000. Prior revised to 195,000 from 194,000. Initial claims four-week average fell 2,250 to 194,750. Prior revised to 197,000 from 196,750. Continuing claims (October 24) rose 23,000 to 1,718,000. Prior revised to 1,695,000 from 1,701,000. Continuing claims four-week average rose 1,000 to 1,709,500. Prior revised to 1,708,500 from 1,710,000.
+
+**Gold Above $4,100, Fed Lisa Cook Hearing Delayed, Treasury Auction Changes - Gotrade**
+`05 Nov 17:30 PKT` · pehli baar dekhi `06 Nov 16:01` · gnews_fed
+
+Gold Above $4,100, Fed Lisa Cook Hearing Delayed, Treasury Auction Changes Gotrade
 
 **BoE Hikes to 4% as Inflation Forecast Nears 5%, but MPC Divides Over What Comes Next**
 `05 Nov 17:18 PKT` · pehli baar dekhi `05 Nov 22:39` · actionforex
@@ -710,6 +721,11 @@ Find insight on Rheinmetall, Renk, Air France-KLM and more in the latest Market 
 `05 Nov 22:06 PKT` · pehli baar dekhi `05 Nov 22:39` · gnews_centralbanks
 
 ECB looking at indicators to see if December hike needed, Lagarde says Yahoo Finance
+
+**Euro: ECB Rate Hike Prospects Lend Support – Commerzbank - www.tmgm.com**
+`05 Nov 21:22 PKT` · pehli baar dekhi `06 Nov 16:01` · gnews_centralbanks
+
+Euro: ECB Rate Hike Prospects Lend Support – Commerzbank www.tmgm.com
 
 **Photos: Thousands rally in France over rising costs and economic struggles**
 `05 Nov 21:07 PKT` · pehli baar dekhi `05 Nov 22:39` · aljazeera
@@ -1286,6 +1302,11 @@ Bank of England raises interest rate to 4%, sees inflation reaching 5% in 2027 A
 
 Why the Bank of England's united interest rate hike signals more to come City AM
 
+**Bank of England hikes rates to 4% in first rise since 2023 - Investment Week**
+`05 Nov 17:24 PKT` · pehli baar dekhi `06 Nov 16:01` · gnews_centralbanks
+
+Bank of England hikes rates to 4% in first rise since 2023 Investment Week
+
 **Bank of England raises interest rates to 4% for first time in three years - Share Talk**
 `05 Nov 17:19 PKT` · pehli baar dekhi `05 Nov 22:39` · gnews_centralbanks
 
@@ -1700,6 +1721,11 @@ WTI plunges 8.3% as markets bet election losses could push Trump toward an Iran 
 
 ConocoPhillips more than doubled its third-quarter profit to $4 billion and raised its quarterly dividend by 11% on Thursday, joining a growing list of oil majors reporting enormous earnings gains as higher crude prices offset production disruptions caused by the Iran war. The Houston-based producer reported adjusted earnings of $3.27 per share, comfortably beating Wall Street's $2.97 estimate. Net income jumped from $1.7 billion a year earlier, despite a decline in production.
 
+**Crude Oil Prices Settle Higher as Distillate Supplies Remain Tight - TradingView**
+`06 Nov 01:15 PKT` · pehli baar dekhi `06 Nov 16:01` · gnews_geopolitics
+
+Crude Oil Prices Settle Higher as Distillate Supplies Remain Tight TradingView
+
 **France's Debt Crisis Could Trigger a Much Bigger European Meltdown**
 `06 Nov 01:00 PKT` · pehli baar dekhi `06 Nov 03:53` · oilprice
 
@@ -1833,6 +1859,11 @@ AI stocks fall, oil bounces back after 'blue wave' drop Kitco
 `05 Nov 19:00 PKT` · pehli baar dekhi `05 Nov 22:39` · eia_energy
 
 Particularly high refinery margins for distillate fuel oil and jet fuel have contributed to shifts in the refinery yields of major products in 2026. Data from our latest Petroleum Supply Monthly—which includes data through August 2026—indicate refinery yields of gasoline have decreased significantly this year to support increased production of distillate fuel oil and jet fuel, sometimes referred to as middle distillates due to their relative cut points in the oil refining process.
+
+**Oil Touches Pre-War Levels on Rising Middle East Supply - EnergyNow**
+`05 Nov 18:18 PKT` · pehli baar dekhi `06 Nov 16:01` · gnews_geopolitics
+
+Oil Touches Pre-War Levels on Rising Middle East Supply EnergyNow
 
 **Soaring diesel prices helped usher in Democratic sweep**
 `05 Nov 17:43 PKT` · pehli baar dekhi `05 Nov 22:39` · investing_commodities
@@ -2180,6 +2211,11 @@ In the video above, I take a look at the Magnificent 7 as the broader U.S. indic
 
 ### RISK
 
+**A Look at Iran's Kharg Island and Energy Sector - EnergyNow.com**
+`06 Nov 02:59 PKT` · pehli baar dekhi `06 Nov 16:01` · gnews_geopolitics
+
+A Look at Iran's Kharg Island and Energy Sector EnergyNow.com
+
 **The 'Musk selloff' deepens as Tesla and SpaceX combine for $456 billion two-day wipeout**
 `06 Nov 02:43 PKT` · pehli baar dekhi `06 Nov 03:53` · mw_topstories
 
@@ -2189,6 +2225,11 @@ Investors worry a divided Washington could derail "Elon, Inc."
 `06 Nov 02:41 PKT` · pehli baar dekhi `06 Nov 03:53` · wsj_markets
 
 The Nasdaq composite closes in correction territory in the stock market's worst day since last April's tariff turmoil.
+
+**Aggregated financial and geopolitical stories from the world - Kitco**
+`06 Nov 02:33 PKT` · pehli baar dekhi `06 Nov 16:01` · kitco_general
+
+Aggregated financial and geopolitical stories from the world Kitco
 
 **Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire**
 `06 Nov 01:43 PKT` · pehli baar dekhi `06 Nov 03:53` · aljazeera
@@ -2564,7 +2605,7 @@ Oil falls for a fourth day on expectations for lower risk of Iran war escalation
 
 Electrification will be the major focus of the upcoming COP31 United Nations climate conference, to be held in Antalya, Türkiye, from November 9 to 20, 2026. The host country will invite the attending nations to sign onto a voluntary pledge to reach 35 percent electrification on a global level by 2035.
 
-### BINA TAG (203)
+### BINA TAG (206)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2577,6 +2618,7 @@ Electrification will be the major focus of the upcoming COP31 United Nations cli
 - `06 Nov 02:42` **aljazeera** — Spanish footballer Jesus de Miguel mourned by family and friends
 - `06 Nov 02:39` **mw_topstories** — After tech-stock rout, October jobs report could bring relief — or more pain
 - `06 Nov 02:33` **aljazeera** — Israeli demolitions displace more than 100 Palestinians in Biddu
+- `06 Nov 02:32` **kitco_general** — Wall Street fear gauge jumps most since 'Liberation Day' as AI trade stumbles - Kitco
 - `06 Nov 02:31` **mw_topstories** — As Nvidia's stock enters a bear market, bargain hunters see a golden buying opportunity
 - `06 Nov 02:26` **aljazeera** — Hoax bomb threats force emergency landings, evacuations across Europe
 - `06 Nov 02:17` **wsj_markets** — AI Panic Grips Stocks
@@ -2643,6 +2685,7 @@ Electrification will be the major focus of the upcoming COP31 United Nations cli
 - `05 Nov 20:51` **investinglive** — The market is telling the hyperscalers it's happy about a slower data center buildout
 - `05 Nov 20:46` **investinglive** — US broader indices are getting hammered
 - `05 Nov 20:44` **kitco_general** — Nasdaq set to confirm correction as AI spending worries mount - Kitco
+- `05 Nov 20:34` **gnews_fed** — Federal Reserve: TD Securities expects further tightening despite political shift - www.tmgm.com
 - `05 Nov 20:27` **investinglive** — Memory names getting smoked: Micron breaks the July low in 12% drop
 - `05 Nov 20:27` **bbc_business** — Drunk and dangerous e-bike riders face on-the-spot fines under crackdown
 - `05 Nov 20:14` **aljazeera** — Why has Cristiano Ronaldo retired from international football?
@@ -2664,6 +2707,7 @@ Electrification will be the major focus of the upcoming COP31 United Nations cli
 - `05 Nov 19:19` **aljazeera** — Could the US midterms further isolate Israel in Washington?
 - `05 Nov 19:17` **aljazeera** — Burning rubbish chokes besieged Yemeni city of Taiz
 - `05 Nov 19:15` **aljazeera** — Joint List says it will back Eisenkot to form Israel's next government
+- `05 Nov 19:14` **wsj_markets** — How Your Finances Could Change if Democrats Repeat Their Win in 2028
 - `05 Nov 19:02` **bbc_business** — What does the raise in interest rates mean?
 - `05 Nov 18:43` **aljazeera** — What can Democrats do in Congress under President Trump?
 - `05 Nov 18:41` **aljazeera** — Indonesia rushes thousands of troops to Jakarta amid wiretap scandal
@@ -2788,48 +2832,48 @@ investing_news (14)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
+| investinglive | OK | 25 | 25 | 9 | 16 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 6 | 14 | 0 | 0.0 |
-| marketpulse | OK | 2 | 2 | 1 | 1 | 0 | 0.6 |
+| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.0 |
+| marketpulse | OK | 2 | 2 | 0 | 2 | 0 | 0.9 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 7 | 0 | 7 | 29 | 0.2 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_daily_commentary | OK | 10 | 9 | 0 | 9 | 1 | 0.2 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 56.4 |
-| kitco_general | OK | 35 | 33 | 2 | 31 | 2 | 0.2 |
-| gnews_fed | OK | 49 | 49 | 7 | 42 | 0 | 0.0 |
-| gnews_geopolitics | OK | 54 | 54 | 12 | 42 | 0 | 0.0 |
-| gnews_centralbanks | OK | 100 | 100 | 13 | 87 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 8.4 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 22.0 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.8 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.6 |
-| boj_whatsnew | OK | 47 | 4 | 1 | 3 | 43 | 0.1 |
-| rba_media | OK | 1 | 1 | 1 | 0 | 0 | 0.1 |
-| mining_com | OK | 36 | 14 | 6 | 8 | 22 | 0.1 |
-| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
-| bbc_business | OK | 52 | 18 | 2 | 16 | 34 | 0.0 |
-| aljazeera | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.6 |
-| boc_press | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
-| eia_energy | OK | 23 | 1 | 0 | 1 | 22 | 0.6 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 1.6 |
-| wsj_world | OK | 74 | 21 | 4 | 17 | 53 | 0.0 |
-| wsj_markets | OK | 61 | 35 | 10 | 25 | 26 | 0.0 |
+| wsj_economy | OK | 36 | 9 | 3 | 6 | 27 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.6 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_daily_commentary | OK | 10 | 9 | 0 | 9 | 1 | 0.5 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 56.7 |
+| kitco_general | OK | 32 | 32 | 3 | 29 | 0 | 0.4 |
+| gnews_fed | OK | 39 | 39 | 10 | 29 | 0 | 0.0 |
+| gnews_geopolitics | OK | 57 | 57 | 20 | 37 | 0 | 0.1 |
+| gnews_centralbanks | OK | 100 | 100 | 22 | 78 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 8.7 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 22.3 |
+| ecb_press | OK | 15 | 3 | 1 | 2 | 12 | 0.1 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 1.0 |
+| boj_whatsnew | OK | 47 | 5 | 1 | 4 | 42 | 0.2 |
+| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 0.5 |
+| mining_com | OK | 36 | 14 | 0 | 14 | 22 | 0.5 |
+| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
+| bbc_business | OK | 54 | 22 | 3 | 19 | 32 | 0.0 |
+| aljazeera | OK | 25 | 25 | 23 | 2 | 0 | 0.1 |
+| snb_press | OK | 20 | 4 | 3 | 1 | 16 | 0.0 |
+| boc_press | OK | 10 | 1 | 0 | 1 | 9 | 0.8 |
+| eia_energy | OK | 23 | 1 | 0 | 1 | 22 | 0.9 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 1.9 |
+| wsj_world | OK | 74 | 24 | 3 | 21 | 50 | 0.0 |
+| wsj_markets | OK | 61 | 38 | 9 | 29 | 23 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 25 | 1 | 24 | 5 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 7 | 23 | 0 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 56d purana
+- cme_risk_management — STALE, cadence 10d, magar 57d purana
 - yahoo_finance — FAIL, HTTP 404
