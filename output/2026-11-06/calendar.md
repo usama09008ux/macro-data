@@ -1,6 +1,6 @@
 # Calendar — Trading Day 06 Nov 2026
 
-- Banaya gaya: **06 Nov 2026 07:46 PKT**
+- Banaya gaya: **06 Nov 2026 18:07 PKT**
 - Trading day: **06 Nov 03:00 -> 07 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,15 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 12:00 | EUR | low | German Industrial Production m/m | 0.0% | 2.0% |
-| 12:00 | GBP | low | Lloyds HPI m/m | 0.0% | 0.0% |
-| 12:45 | EUR | low | French Trade Balance | -5.8B | -6.1B |
-| 13:00 | CHF | low | Foreign Currency Reserves | - | 770B |
-| 13:00 | CHF | low | SECO Consumer Climate | -35 | -36 |
-| 14:30 | USD | low | FOMC Member Williams Speaks | - | - |
-| 15:00 | EUR | low | Retail Sales m/m | -0.1% | 0.1% |
-| 16:00 | CHF | low | Gov Board Member Tschudin Speaks | - | - |
-| 17:15 | GBP | low | MPC Member Pill Speaks | - | - |
 | 18:30 | CAD | **HIGH** | Employment Change | 14.6K | -68.3K |
 | 18:30 | CAD | **HIGH** | Unemployment Rate | 6.5% | 6.5% |
 | 18:30 | USD | **HIGH** | Average Hourly Earnings m/m | 0.3% | 0.1% |
