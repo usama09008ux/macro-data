@@ -1,9 +1,9 @@
 # News Pack — Trading Day 05 Nov 2026
 
 - Trading day: **05 Nov 03:00 -> 06 Nov 02:59 PKT**
-- Aakhri update: **06 Nov 03:53 PKT**
-- Kul khabrein: **746**
-- Feeds: 34/39 OK
+- Aakhri update: **06 Nov 08:12 PKT**
+- Kul khabrein: **768**
+- Feeds: 35/39 OK
 
 ---
 
@@ -89,6 +89,11 @@ The S&P/TSX Composite Index hovered around the 36,000 level on Thursday, stabili
 `05 Nov 22:39 PKT` · instaforex
 
 Gold climbed more than 1% to above $4,120 an ounce on Thursday, extending its post-election rally to the highest level since October 21. The move was driven by a weaker US dollar, which hovered near a one-month low, and by oil prices remaining below $100 a barrel, helping to ease inflation concerns.
+
+**Democrats Take Congress, Putting Trump's Fiscal Agenda to the Test**
+`05 Nov 19:00 PKT` · pehli baar dekhi `06 Nov 08:12` · marketpulse
+
+Democrats won both chambers of Congress, making further fiscal stimulus harder to pass and giving the Senate more leverage over Fed appointments. Trump retains considerable discretion on tariffs and foreign policy, leaving the conflict with Iran a key risk for oil prices and inflation. Since the vote, the dollar has weakened, gold has risen and oil has fallen sharply. European stocks gained, while Wall Street reversed its initial losses and moved above pre-election levels.
 
 **BoE Governor Bailey says there is a case for another 25bps hike if war doesn't end**
 `05 Nov 18:20 PKT` · pehli baar dekhi `05 Nov 22:39` · investinglive
@@ -197,10 +202,20 @@ World Bank sees gold holding above $4,000 through 2028, but warns silver faces s
 
 Keep the bullion, cut the miners as tech stocks tumble, says Ted Oakley Kitco
 
+**AngloGold plans $900 million mine expansion amid stronger profit**
+`05 Nov 21:55 PKT` · pehli baar dekhi `06 Nov 08:12` · mining_com
+
+The investment comes as the gold miner aims to incrementally increase production by the end of the decade.
+
 **Gold at $4,000 'looks very attractive' to a mine builder who started at $140, Robert Quartermain - Kitco**
 `05 Nov 20:52 PKT` · pehli baar dekhi `05 Nov 22:39` · kitco_general
 
 Gold at $4,000 'looks very attractive' to a mine builder who started at $140, Robert Quartermain Kitco
+
+**Chibougamau offers copper growth for Central Asia: BMO**
+`05 Nov 20:40 PKT` · pehli baar dekhi `06 Nov 08:12` · mining_com
+
+Annual steady-state production at Chibougamau could hit about 20,000 tonnes of copper and 32,000 oz. of gold.
 
 **Gold hits 2-week high as dollar, yields, oil fall after US midterms - Kitco**
 `05 Nov 19:04 PKT` · pehli baar dekhi `05 Nov 22:39` · kitco_general
@@ -373,10 +388,11 @@ The Fed's New Inflation Warning Will Add Thousands to Families' Already Soaring 
 The dollar regains traction and bounces from five-week low on Thursday, following repeated failure at pivotal Fibo support at 101.13 (38.2% of $98.55/$102.72), with repeated close above this level, to form a bear trap and generate initial bullish signal. Near term sentiment improves after the greenback was hit by results of US midterm election, however [&#8230;] The post USD Index Recovers After Repeated Failure at Strong Fibo Support appeared first on ActionForex.
 
 **Fed's Hammack favors gradual rate-hike path to lower inflation - Kitco**
-`05 Nov 19:27 PKT` · pehli baar dekhi `05 Nov 22:39` · kitco_general · **3 feeds mein**
+`05 Nov 19:27 PKT` · pehli baar dekhi `05 Nov 22:39` · kitco_general · **4 feeds mein**
 
 Fed's Hammack favors gradual rate-hike path to lower inflation Kitco
   - `05 Nov 19:01` *gnews_fed* — Fed's Hammack favors gradual rate-hike path to lower inflation - Lexington Herald Leader
+  - `05 Nov 19:01` *gnews_fed* — Fed's Hammack favors gradual rate-hike path to lower inflation - Modesto Bee
   - `05 Nov 18:55` *gnews_fed* — Fed's Hammack favors gradual rate-hike path to lower inflation - Reuters
 
 **Fed's Hammack Favors Gradual Rate-Hike Path - Newsmax**
@@ -674,15 +690,16 @@ More than 250,000 people took to the streets across France on Thursday as five u
 
 3 Eurozone Bank Stocks Built For Higher ECB Rates Simply Wall St
 
+**ECB's Lagarde says data will tell if December rate hike needed - Wichita Eagle**
+`05 Nov 22:50 PKT` · pehli baar dekhi `06 Nov 08:12` · gnews_centralbanks · **2 feeds mein**
+
+ECB's Lagarde says data will tell if December rate hike needed Wichita Eagle
+  - `05 Nov 22:34` *gnews_centralbanks* — ECB's Lagarde says data will tell if December rate hike needed - AOL.com
+
 **European Stocks Fall, Tech Stocks Down 4%**
 `05 Nov 22:39 PKT` · instaforex
 
 European equities retreated on Thursday, with the Euro Stoxx 50 down 0.9% and the Stoxx 600 off 0.4%, as heavy selling in technology stocks weighed on overall sentiment. The European technology sector slumped more than 4%, mirroring a sharp global rotation out of AI-related names after the Democrats secured control of both chambers of the US Congress.
-
-**ECB's Lagarde says data will tell if December rate hike needed - AOL.com**
-`05 Nov 22:34 PKT` · pehli baar dekhi `06 Nov 03:53` · gnews_centralbanks
-
-ECB's Lagarde says data will tell if December rate hike needed AOL.com
 
 **Auto & Transport Roundup: Market Talk**
 `05 Nov 22:26 PKT` · pehli baar dekhi `05 Nov 22:39` · wsj_markets
@@ -819,6 +836,11 @@ Euro Zone Inflation Hits 4%, Raising Odds of an ECB Rate Hike www.tokenpost.com
 
 ### GBP
 
+**Bank of England Raises Bank Rate to 4% in 8-1 Vote - AskTraders.com**
+`06 Nov 01:59 PKT` · pehli baar dekhi `06 Nov 08:12` · gnews_centralbanks
+
+Bank of England Raises Bank Rate to 4% in 8-1 Vote AskTraders.com
+
 **Bank of England Raises Interest Rates for the First Time in Three Years - Hungarian Conservative**
 `06 Nov 00:57 PKT` · pehli baar dekhi `06 Nov 03:53` · gnews_centralbanks
 
@@ -893,9 +915,10 @@ INSTANT VIEW-Bank of England delivers first rate hike in three years, gilt yield
 Why the Bank of England hiked interest rates – and what it means for you The Independent
 
 **Bank of England raises rates for first time since 2023, warns more likely - شبكة تواصل الإخبارية**
-`05 Nov 22:32 PKT` · pehli baar dekhi `05 Nov 22:39` · gnews_centralbanks · **4 feeds mein**
+`05 Nov 22:32 PKT` · pehli baar dekhi `05 Nov 22:39` · gnews_centralbanks · **5 feeds mein**
 
 Bank of England raises rates for first time since 2023, warns more likely شبكة تواصل الإخبارية
+  - `05 Nov 22:30` *gnews_centralbanks* — Bank of England raises rates for first time since 2023, warns more likely By Reuters - Investing.com
   - `05 Nov 22:10` *gnews_centralbanks* — Bank of England raises rates for first time since 2023, warns more likely - The Lufkin Daily News
   - `05 Nov 21:33` *gnews_centralbanks* — Bank of England raises rates for first time since 2023, warns another move likely - شبكة تواصل الإخبارية
   - `05 Nov 20:59` *gnews_centralbanks* — Bank of England raises rates for first time since 2023, warns another move likely - Reuters
@@ -1124,6 +1147,11 @@ Bank of England hikes interest rates to 4% - Watch Thursday's ITV Lunchtime News
 
 BoE joins the rate hike club, Australia may be done already Reuters
 
+**Bank of England delivers "hawkish" rate rise to 4% - QuotedData**
+`05 Nov 19:02 PKT` · pehli baar dekhi `06 Nov 08:12` · gnews_centralbanks
+
+Bank of England delivers "hawkish" rate rise to 4% QuotedData
+
 **Interest rates hiked for first time in more than three years – but Bank of England cautious for next step - The Independent**
 `05 Nov 18:55 PKT` · pehli baar dekhi `05 Nov 22:39` · gnews_centralbanks
 
@@ -1180,15 +1208,21 @@ Bank of England lifts rates to 4% to combat rising inflation The Times
 
 Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.
 
+**Bank of England delivers first rate hike in three years, gilt yields rise - Euronext Markets: Real-time Stock Market Data | live**
+`05 Nov 17:56 PKT` · pehli baar dekhi `06 Nov 08:12` · gnews_centralbanks
+
+Bank of England delivers first rate hike in three years, gilt yields rise Euronext Markets: Real-time Stock Market Data | live
+
 **Bank of England Raises Interest Rates to 4% in First Hike Since 2023 - Morningstar**
 `05 Nov 17:51 PKT` · pehli baar dekhi `05 Nov 22:39` · gnews_centralbanks
 
 Bank of England Raises Interest Rates to 4% in First Hike Since 2023 Morningstar
 
 **Hawkish Bank of England hikes rates, and there's more to come**
-`05 Nov 17:50 PKT` · pehli baar dekhi `05 Nov 22:39` · ing_think · **2 feeds mein**
+`05 Nov 17:50 PKT` · pehli baar dekhi `05 Nov 22:39` · ing_think · **3 feeds mein**
 
 UNITED KINGDOM: The Bank of England has raised interest rates to 4%, and we expect one further rate hike by February. A renewed spike in energy prices could bring that forward to December. However, we're still sceptical that the Bank will need to hike more than once more
+  - `05 Nov 18:51` *gnews_centralbanks* — Hawkish Bank of England hikes rates, and there's more to come - FXStreet
   - `05 Nov 17:57` *gnews_centralbanks* — Hawkish Bank of England hikes rates, and there's more to come - ing think
 
 **Why the Bank of England will keep raising interest rates - New Statesman**
@@ -1241,6 +1275,11 @@ Bank of England raises key interest rate for first time in over 3 years Euronews
 `05 Nov 17:28 PKT` · pehli baar dekhi `06 Nov 03:53` · gnews_centralbanks
 
 Bank of England raises rates, forecasts 4.9% inflation Capital Brief
+
+**Bank of England raises interest rate to 4%, sees inflation reaching 5% in 2027 - Anadolu Ajansı**
+`05 Nov 17:26 PKT` · pehli baar dekhi `06 Nov 08:12` · gnews_centralbanks
+
+Bank of England raises interest rate to 4%, sees inflation reaching 5% in 2027 Anadolu Ajansı
 
 **Why the Bank of England's united interest rate hike signals more to come - City AM**
 `05 Nov 17:25 PKT` · pehli baar dekhi `05 Nov 22:39` · gnews_centralbanks
@@ -1297,6 +1336,11 @@ Bank of England raises interest rates to 4% This is Money
 `05 Nov 17:05 PKT` · pehli baar dekhi `05 Nov 22:39` · actionforex
 
 Monetary Policy Summary, November 2026 At its meeting ending on 4 November 2026, the Monetary Policy Committee (MPC) voted by a majority of 8–1 to increase Bank Rate by 0.25 percentage points, to 4%. One member voted to increase Bank Rate by 0.5 percentage points, to 4.25%. The conflict in the Middle East is now [&#8230;] The post (BOE) Bank rate increased to 4% appeared first on ActionForex.
+
+**Bank of England raises rates to 4%, its first hike since 2023, as energy bites - Martin Cid Magazine**
+`05 Nov 17:05 PKT` · pehli baar dekhi `06 Nov 08:12` · gnews_centralbanks
+
+Bank of England raises rates to 4%, its first hike since 2023, as energy bites Martin Cid Magazine
 
 **Bank of England hikes rates to 4% – what it means for your mortgage - The i Paper**
 `05 Nov 17:00 PKT` · pehli baar dekhi `05 Nov 22:39` · gnews_centralbanks
@@ -1724,6 +1768,11 @@ Tight global oil supplies, compounded by fears of further U.S. strikes against I
 **Tankers hit in Hormuz as Iran keeps up pressure after US vote**
 `05 Nov 21:48 PKT` · pehli baar dekhi `05 Nov 22:39` · investing_commodities
 
+**Crude Oil Prices Rebound as Ukraine Attacks Russian Refineries - TradingView**
+`05 Nov 21:48 PKT` · pehli baar dekhi `06 Nov 08:12` · gnews_geopolitics
+
+Crude Oil Prices Rebound as Ukraine Attacks Russian Refineries TradingView
+
 **Trump Warns Iran on Hormuz Tolls as Energy Crunch Prompts Japan to Release More Oil - EnergyNow.com**
 `05 Nov 21:31 PKT` · pehli baar dekhi `06 Nov 03:53` · gnews_geopolitics
 
@@ -1738,6 +1787,11 @@ US Naval Blockade Squeezes Iran's Oil Exports, Forces Crude Onto Floating Storag
 `05 Nov 21:30 PKT` · pehli baar dekhi `05 Nov 22:39` · oilprice
 
 Turkey targets total investments of $500 billion in energy infrastructure in its new energy plan to 2040, Minister of Energy and Natural Resources, Alparslan Bayraktar, said on Thursday, as the country looks to boost its energy independence and eventually become energy independent. In recent years, Turkey has been paying up to $70 billion to import energy, including coal, oil, and gas.
+
+**Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption - EnergyNow.com**
+`05 Nov 21:17 PKT` · pehli baar dekhi `06 Nov 08:12` · gnews_geopolitics
+
+Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption EnergyNow.com
 
 **Iran Opens Strait of Hormuz to China and India as U.S. Blockade Continues**
 `05 Nov 21:00 PKT` · pehli baar dekhi `05 Nov 22:39` · oilprice
@@ -2146,6 +2200,11 @@ US First Lady Melania Trump has brought Russian and Ukrainian representatives to
 
 U.S.-Iran War Prolongation Risks Post-Election Catastrophe, Expert Warns 조선일보
 
+**Exxon, Chevron Warn of Continued High Fuel Prices From Iran War - EnergyNow**
+`06 Nov 00:43 PKT` · pehli baar dekhi `06 Nov 08:12` · gnews_geopolitics
+
+Exxon, Chevron Warn of Continued High Fuel Prices From Iran War EnergyNow
+
 **Melania Trump calls for peace at meeting with Russia, Ukraine officials**
 `06 Nov 00:31 PKT` · pehli baar dekhi `06 Nov 03:53` · aljazeera
 
@@ -2170,6 +2229,11 @@ US issues sanctions over efforts to supply Iran with portable air-defence weapon
 `05 Nov 23:34 PKT` · pehli baar dekhi `06 Nov 03:53` · gnews_geopolitics
 
 Oil rebounds more than $2 as Iran war uncertainty renews supply concerns Oil & Gas 360
+
+**Russia agrees to supply Iran with 90 launchers for attack helicopters - Nacionale**
+`05 Nov 22:47 PKT` · pehli baar dekhi `06 Nov 08:12` · gnews_geopolitics
+
+Russia agrees to supply Iran with 90 launchers for attack helicopters Nacionale
 
 **US Natgas Prices Rise for 3rd Session**
 `05 Nov 22:39 PKT` · instaforex
@@ -2247,10 +2311,11 @@ Bank of England hikes interest rates to 4pc and warns more to come if Iran war c
 The midterm result makes further fiscal expansion harder to pass and gives Democrats more leverage over spending and appointments. For markets, the conflict with Iran could still matter more than the shift in Congress. Democrats secured majorities in both chambers, with 243 House seats and 54 Senate seats already projected while counting continued. Further Republican [&#8230;] The post Democrats Take Congress, Putting Trump's Fiscal Agenda to the Test appeared first on ActionForex.
 
 **Bank of England raises main interest rate a quarter point to 4% as Iran war stokes inflation - Castanet**
-`05 Nov 18:47 PKT` · pehli baar dekhi `05 Nov 22:39` · gnews_centralbanks · **3 feeds mein**
+`05 Nov 18:47 PKT` · pehli baar dekhi `05 Nov 22:39` · gnews_centralbanks · **4 feeds mein**
 
 Bank of England raises main interest rate a quarter point to 4% as Iran war stokes inflation Castanet
   - `05 Nov 18:33` *gnews_centralbanks* — Bank of England raises main interest rate a quarter point to 4% as Iran war stokes inflation - Daily Herald
+  - `05 Nov 17:11` *gnews_centralbanks* — Bank of England raises main interest rate a quarter point to 4% as Iran war stokes inflation - Times Argus
   - `05 Nov 10:08` *gnews_centralbanks* — Bank of England Raises Main Interest Rate a Quarter Point to 4% as Iran War Stokes Inflation - U.S. News & World Report
 
 **European Gas Prices Drop on Iran Deal Hopes after U.S. Midterms**
@@ -2309,6 +2374,14 @@ COMMENTARY: Iran War May Crush Oil Demand Today, But Send it Soaring Long Term: 
 
 Crude oil broke below the lower bound of the channel yesterday and extended the selloff after the US Vice President Vance blamed the war with Iran for the Republicans' heavy losses in the midterm elections. The selloff started right when he published the post on X, as it reinforced market expectations that the Trump administration could seek an off-ramp from the war rather than escalate military operations.
 
+**US sanctions individuals, entities over alleged efforts to supply Iran with air defense systems - Sada Elbalad English**
+`05 Nov 14:54 PKT` · pehli baar dekhi `06 Nov 08:12` · gnews_geopolitics · **4 feeds mein**
+
+US sanctions individuals, entities over alleged efforts to supply Iran with air defense systems Sada Elbalad English
+  - `05 Nov 11:39` *gnews_geopolitics* — US sanctions individuals, entities over alleged efforts to supply Iran with air defense systems - The Express Tribune
+  - `05 Nov 09:59` *gnews_geopolitics* — US sanctions individuals, entities over alleged efforts to supply Iran with air defense systems - The Express Tribune
+  - `05 Nov 07:08` *gnews_geopolitics* — US sanctions individuals, entities over alleged efforts to supply Iran with air defense systems - Anadolu Ajansı
+
 **Oil rises as investors weigh uncertainties around Iran war**
 `05 Nov 14:30 PKT` · pehli baar dekhi `05 Nov 14:38` · investing_commodities · **3 feeds mein**
   - `05 Nov 12:17` *gnews_geopolitics* — Oil rises as investors weigh uncertainties around Iran war - WKZO
@@ -2353,12 +2426,12 @@ Bank of England set to raise interest rates for first time in three years as Ira
 
 Oil prices fall for fourth day as midterm elections ease fears of Iran War escalation Bol News
 
-**US sanctions individuals, entities over alleged efforts to supply Iran with air defense systems - The Express Tribune**
-`05 Nov 11:39 PKT` · pehli baar dekhi `05 Nov 14:38` · gnews_geopolitics · **3 feeds mein**
+**Bank of England set to hike interest rates to tackle higher inflation caused by Iran war - MS NOW**
+`05 Nov 11:54 PKT` · pehli baar dekhi `06 Nov 08:12` · gnews_centralbanks · **3 feeds mein**
 
-US sanctions individuals, entities over alleged efforts to supply Iran with air defense systems The Express Tribune
-  - `05 Nov 09:59` *gnews_geopolitics* — US sanctions individuals, entities over alleged efforts to supply Iran with air defense systems - The Express Tribune
-  - `05 Nov 07:08` *gnews_geopolitics* — US sanctions individuals, entities over alleged efforts to supply Iran with air defense systems - Anadolu Ajansı
+Bank of England set to hike interest rates to tackle higher inflation caused by Iran war MS NOW
+  - `05 Nov 10:08` *gnews_centralbanks* — Bank of England set to hike interest rates to tackle higher inflation caused by Iran war - Ottumwa Courier
+  - `05 Nov 10:08` *gnews_centralbanks* — Bank of England set to hike interest rates to tackle higher inflation caused by Iran war - The Batesville Daily Guard
 
 **Trump's Iran War Meets A 'Blue Tsunami': What Changes Now? - Outlook India**
 `05 Nov 10:54 PKT` · pehli baar dekhi `05 Nov 14:38` · gnews_geopolitics
@@ -2370,12 +2443,6 @@ Trump's Iran War Meets A 'Blue Tsunami': What Changes Now? Outlook India
 
 Bank of England set to hike interest rates to tackle higher inflation caused by Iran war ABC News - Breaking News, Latest News and Videos
   - `05 Nov 10:08` *gnews_centralbanks* — Bank of England set to hike interest rates to tackle higher inflation caused by Iran war - ABC News - Breaking News, Latest News and Videos
-
-**Bank of England set to hike interest rates to tackle higher inflation caused by Iran war - Ottumwa Courier**
-`05 Nov 10:08 PKT` · pehli baar dekhi `05 Nov 14:38` · gnews_centralbanks · **2 feeds mein**
-
-Bank of England set to hike interest rates to tackle higher inflation caused by Iran war Ottumwa Courier
-  - `05 Nov 10:08` *gnews_centralbanks* — Bank of England set to hike interest rates to tackle higher inflation caused by Iran war - The Batesville Daily Guard
 
 **Zelenskyy hopes Democratic Congress will bring more US help for Ukraine**
 `05 Nov 09:49 PKT` · pehli baar dekhi `05 Nov 14:38` · aljazeera
@@ -2497,7 +2564,7 @@ Oil falls for a fourth day on expectations for lower risk of Iran war escalation
 
 Electrification will be the major focus of the upcoming COP31 United Nations climate conference, to be held in Antalya, Türkiye, from November 9 to 20, 2026. The host country will invite the attending nations to sign onto a voluntary pledge to reach 35 percent electrification on a global level by 2035.
 
-### BINA TAG (200)
+### BINA TAG (203)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2569,6 +2636,7 @@ Electrification will be the major focus of the upcoming COP31 United Nations cli
 - `05 Nov 21:12` **aljazeera** — Photos: Spain mourns Jesus de Miguel, who died after on-pitch collision
 - `05 Nov 21:12` **aljazeera** — Vance eyes 2028 reset, as Republicans mull pivot after US midterms drubbing
 - `05 Nov 21:12` **mw_topstories** — This pancreatic cancer treatment is on track for 'one of the best drug launches of all time'
+- `05 Nov 21:09` **mining_com** — Codelco halts Andina mine as tailings spill threatens river
 - `05 Nov 21:00` **mw_topstories** — An Anthropic IPO when the AI trade is this turbulent? Good luck!
 - `05 Nov 20:56` **wsj_world** — Russell Brand Found Guilty of Rape, Sexual Assault Charges
 - `05 Nov 20:53` **wsj_world** — Bomb Threats Cause Diverted Flights, Emergency Landings Across Europe
@@ -2618,9 +2686,11 @@ Electrification will be the major focus of the upcoming COP31 United Nations cli
 - `05 Nov 16:05` **investinglive** — Nasdaq futures rebound nearly 280 points. But buyers now face a crucial test
 - `05 Nov 16:03` **mining_com** — Codelco's inflated copper output scandal hits 42,100 tonnes
 - `05 Nov 16:01` **bbc_business** — Welsh aviation firm AerFin bought in £475m deal
+- `05 Nov 15:54` **kitco_general** — BASE-METALS description={PAGE_DESCRIPTION} News - Kitco
 - `05 Nov 15:44` **mining_com** — Sibanye cuts US output forecast after five-week strike
 - `05 Nov 15:30` **wsj_world** — The Hanoi Lake Where Kids Hustle American Tourists for English Lessons
 - `05 Nov 15:30` **wsj_markets** — How the Data Center Backlash Could Play Into the Hands of Big Tech
+- `05 Nov 15:23` **kitco_general** — Videos - Kitco
 - `05 Nov 15:23` **marketpulse** — Take-Two Interactive (TTWO) Q3 earnings preview: GTA VI launch is the critical catalyst for TTWO
 - `05 Nov 15:20` **gnews_fed** — Binance hack prompted US regulators to check in on bank systems, sources say - Reuters
 - `05 Nov 14:38` **instaforex** — UK Car Registrations Growth Cools Sharply to 5.4% in October
@@ -2718,49 +2788,48 @@ investing_news (14)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | OK | 2 | 1 | 0 | 1 | 1 | 0.5 |
-| instaforex | OK | 25 | 25 | 10 | 15 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 7 | 1 | 6 | 29 | 0.0 |
-| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 3 | 1 | 2 | 7 | 0.0 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 9 | 2 | 7 | 1 | 0.0 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 56.2 |
-| kitco_general | OK | 34 | 32 | 15 | 17 | 2 | 0.0 |
-| gnews_fed | OK | 50 | 50 | 17 | 33 | 0 | 0.0 |
-| gnews_geopolitics | OK | 51 | 51 | 14 | 37 | 0 | 0.1 |
-| gnews_centralbanks | OK | 100 | 100 | 31 | 69 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 8.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 21.8 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.6 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.5 |
-| boj_whatsnew | OK | 49 | 3 | 0 | 3 | 46 | 0.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.8 |
-| mining_com | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| oilprice | OK | 15 | 15 | 7 | 8 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 2 | 8 | 0 | 0.2 |
-| bbc_business | OK | 50 | 16 | 1 | 15 | 34 | 0.0 |
-| aljazeera | OK | 25 | 25 | 17 | 8 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.4 |
-| boc_press | OK | 10 | 1 | 1 | 0 | 9 | 0.3 |
-| eia_energy | OK | 23 | 1 | 0 | 1 | 22 | 0.4 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 1.4 |
-| wsj_world | OK | 74 | 17 | 2 | 15 | 57 | 0.0 |
-| wsj_markets | OK | 61 | 28 | 9 | 19 | 33 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 6 | 14 | 0 | 0.0 |
+| marketpulse | OK | 2 | 2 | 1 | 1 | 0 | 0.6 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 7 | 0 | 7 | 29 | 0.2 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_daily_commentary | OK | 10 | 9 | 0 | 9 | 1 | 0.2 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 56.4 |
+| kitco_general | OK | 35 | 33 | 2 | 31 | 2 | 0.2 |
+| gnews_fed | OK | 49 | 49 | 7 | 42 | 0 | 0.0 |
+| gnews_geopolitics | OK | 54 | 54 | 12 | 42 | 0 | 0.0 |
+| gnews_centralbanks | OK | 100 | 100 | 13 | 87 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 8.4 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 22.0 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.8 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.6 |
+| boj_whatsnew | OK | 47 | 4 | 1 | 3 | 43 | 0.1 |
+| rba_media | OK | 1 | 1 | 1 | 0 | 0 | 0.1 |
+| mining_com | OK | 36 | 14 | 6 | 8 | 22 | 0.1 |
+| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
+| bbc_business | OK | 52 | 18 | 2 | 16 | 34 | 0.0 |
+| aljazeera | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.6 |
+| boc_press | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| eia_energy | OK | 23 | 1 | 0 | 1 | 22 | 0.6 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 1.6 |
+| wsj_world | OK | 74 | 21 | 4 | 17 | 53 | 0.0 |
+| wsj_markets | OK | 61 | 35 | 10 | 25 | 26 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 24 | 7 | 17 | 6 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 25 | 1 | 24 | 5 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
 - cme_risk_management — STALE, cadence 10d, magar 56d purana
-- mining_com — FAIL, ReadTimeout
 - yahoo_finance — FAIL, HTTP 404
