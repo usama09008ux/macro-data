@@ -1,6 +1,6 @@
 # Calendar — Trading Day 06 Nov 2026
 
-- Banaya gaya: **06 Nov 2026 18:07 PKT**
+- Banaya gaya: **06 Nov 2026 23:42 PKT**
 - Trading day: **06 Nov 03:00 -> 07 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,28 +12,11 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 18:30 | CAD | **HIGH** | Employment Change | 14.6K | -68.3K |
-| 18:30 | CAD | **HIGH** | Unemployment Rate | 6.5% | 6.5% |
-| 18:30 | USD | **HIGH** | Average Hourly Earnings m/m | 0.3% | 0.1% |
-| 18:30 | USD | **HIGH** | Non-Farm Employment Change | 65K | 29K |
-| 18:30 | USD | **HIGH** | Unemployment Rate | 4.2% | 4.2% |
-| 19:10 | USD | low | FOMC Member Musalem Speaks | - | - |
-| 20:00 | CAD | MED | Ivey PMI | 57.7 | 58.2 |
-| 20:00 | USD | MED | Prelim UoM Consumer Sentiment | 48.1 | 46.3 |
-| 20:00 | USD | MED | Prelim UoM Inflation Expectations | - | 4.7% |
-| 21:00 | JPY | **HIGH** | BOJ Gov Ueda Speaks | - | - |
-| 22:15 | USD | low | FOMC Member Bowman Speaks | - | - |
 | **07 Nov** 01:00 | USD | low | Consumer Credit m/m | 13.4B | 8.3B |
 | **07 Nov** 02:45 | NZD | **HIGH** | Parliamentary Elections | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
-- `06 Nov 18:30` **CAD Employment Change**
-- `06 Nov 18:30` **CAD Unemployment Rate**
-- `06 Nov 18:30` **USD Average Hourly Earnings m/m**
-- `06 Nov 18:30` **USD Non-Farm Employment Change**
-- `06 Nov 18:30` **USD Unemployment Rate**
-- `06 Nov 21:00` **JPY BOJ Gov Ueda Speaks**
 - `07 Nov 02:45` **NZD Parliamentary Elections**
 
 ---
@@ -48,5 +31,11 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 06 Nov 20:00 | November US UMich prelim consumer sentiment | 51.0 | 48.0 | +3.00 (+6%) | upar |
+| 06 Nov 18:32 | US October non-farm payrolls | +165K | +65K | +100.0K (+154%) | upar |
+| 06 Nov 18:30 | Canada Employment change for October | -4.7K | 13.6K | -18.3K | **RUKH PALAT GAYA** |
 

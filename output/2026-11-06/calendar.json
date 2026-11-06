@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "06 Nov 2026 18:07",
+  "generated_pkt": "06 Nov 2026 23:42",
   "trading_day": "2026-11-06",
   "feed_sources": {
     "thisweek": "live"
@@ -1475,6 +1475,19 @@
       "trading_day": "2026-11-06"
     },
     {
+      "title": "FOMC Member Daly Speaks",
+      "ccy": "USD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/807-us-fomc-member-daly-speaks",
+      "all_day": false,
+      "utc": "2026-11-06T18:00Z",
+      "pkt": "06 Nov 23:00",
+      "pkt_iso": "2026-11-06T23:00:00+05:00",
+      "trading_day": "2026-11-06"
+    },
+    {
       "title": "Consumer Credit m/m",
       "ccy": "USD",
       "impact": "Low",
@@ -1501,5 +1514,49 @@
       "trading_day": "2026-11-06"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "November US UMich prelim consumer sentiment 51.0 vs 48.0 expected",
+      "actual_raw": "51.0",
+      "forecast_raw": "48.0",
+      "beat": true,
+      "raw_diff": "+3.00",
+      "sign_flip": false,
+      "diff_pct": 6.2,
+      "when_pkt": "06 Nov 20:00",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US October non-farm payrolls +165K vs +65K expected",
+      "actual_raw": "+165K",
+      "forecast_raw": "+65K",
+      "beat": true,
+      "raw_diff": "+100.0K",
+      "sign_flip": false,
+      "diff_pct": 153.8,
+      "when_pkt": "06 Nov 18:32",
+      "source": "investinglive",
+      "tags": [
+        "usd",
+        "jpy"
+      ]
+    },
+    {
+      "title": "Canada Employment change for October -4.7K vs 13.6K estimate. Unemployment rate 6.7%.",
+      "actual_raw": "-4.7K",
+      "forecast_raw": "13.6K",
+      "beat": false,
+      "raw_diff": "-18.3K",
+      "sign_flip": true,
+      "diff_pct": null,
+      "when_pkt": "06 Nov 18:30",
+      "source": "investinglive",
+      "tags": [
+        "cad"
+      ]
+    }
+  ]
 }

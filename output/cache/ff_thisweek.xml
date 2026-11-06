@@ -1131,6 +1131,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/812-us-fomc-member-bowman-speaks]]></url>
 	</event>
 	<event>
+		<title>FOMC Member Daly Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[11-06-2026]]></date>
+		<time><![CDATA[6:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/807-us-fomc-member-daly-speaks]]></url>
+	</event>
+	<event>
 		<title>Consumer Credit m/m</title>
 		<country>USD</country>
 		<date><![CDATA[11-06-2026]]></date>
