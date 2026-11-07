@@ -1,13 +1,16 @@
 # News Pack — Trading Day 07 Nov 2026
 
 - Trading day: **07 Nov 03:00 -> 08 Nov 02:59 PKT**
-- Aakhri update: **07 Nov 14:10 PKT**
-- Kul khabrein: **141**
+- Aakhri update: **07 Nov 20:41 PKT**
+- Kul khabrein: **220**
 - Feeds: 35/39 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**Christine Lagarde: Interview with Yomiuri Shimbun**
+`07 Nov 19:00 PKT` · pehli baar dekhi `07 Nov 20:41` · ecb_press
 
 **Live Cattle futures decline alongside Feeder Cattle and Lean Hogs.**
 `07 Nov 05:41 PKT` · pehli baar dekhi `07 Nov 07:29` · cme_daily_commentary
@@ -45,6 +48,16 @@ Dan Deming of KKM Financial reviews the energy market as Natural Gas futures ral
 
 ### GOLD
 
+**Gold at $3,800–4,000: Could an AI spending crash trigger the next bullion rally? Jefferies explains - Business Today**
+`07 Nov 20:04 PKT` · pehli baar dekhi `07 Nov 20:41` · gnews_fed
+
+Gold at $3,800–4,000: Could an AI spending crash trigger the next bullion rally? Jefferies explains Business Today
+
+**Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand - Yahoo Finance**
+`07 Nov 19:51 PKT` · pehli baar dekhi `07 Nov 20:41` · gnews_fed
+
+Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand Yahoo Finance
+
 **Gold analysis: Buyers keep defending $4,040. Is $4,140 the next target?**
 `07 Nov 09:08 PKT` · pehli baar dekhi `07 Nov 14:10` · investinglive
 
@@ -72,6 +85,11 @@ Wall Street split on gold following Dems' midterm rout, Main Street bulls embold
 
 ### USD
 
+**Fed and OCC probe U.S. banks for unusual activi... - Pluang**
+`07 Nov 14:24 PKT` · pehli baar dekhi `07 Nov 20:41` · gnews_fed
+
+Fed and OCC probe U.S. banks for unusual activi... Pluang
+
 **President Donald Trump Just Proclaimed That "Inflation Is Way Down," but Federal Reserve Economists Have a Different Take - The Motley Fool**
 `07 Nov 14:06 PKT` · pehli baar dekhi `07 Nov 14:10` · gnews_fed
 
@@ -86,6 +104,11 @@ The US midterms set off sharp swings across stocks, oil, Treasury yields and the
 `07 Nov 12:46 PKT` · pehli baar dekhi `07 Nov 14:10` · instaforex
 
 China's foreign exchange reserves increased by USD 4.9 billion in October 2026 to USD 3.405 trillion, a 0.14% rise from USD 3.400 trillion in September. This uptick was driven by global macroeconomic developments, monetary policy moves and expectations in major economies, as well as a stronger US dollar and price fluctuations in key global financial assets, which likely influenced currency translation and asset valuations. The material has been provided by InstaForex Company - www.instaforex.com
+
+**China's FX Reserves Edge Up to $3.405T in October, Extending Steady Uptrend**
+`07 Nov 12:45 PKT` · pehli baar dekhi `07 Nov 20:41` · instaforex
+
+China's foreign exchange reserves inched higher in October 2026, rising to USD 3.405 trillion from USD 3.400 trillion in September, according to data updated on 7 November 2026. The marginal increase of USD 5 billion underscores a continued stabilization in China's external position, with total reserves remaining firmly above the USD 3.4 trillion mark for a second consecutive month.
 
 **Dollar jumps after strong US payrolls report - inkl**
 `07 Nov 09:34 PKT` · pehli baar dekhi `07 Nov 14:10` · gnews_fed
@@ -107,6 +130,11 @@ Wall Street suffered a sharp sell-off: The S&#38;P 500 fell 4.4% and the Nasdaq 
 
 Next week, attention turns to Tuesday's CPI report, with no year-over-year readings available because of last October's shutdown-related data gap. We expect headline and core inflation to clock 0.28% and 0.21% month-over-month, respectively. Softer core inflation would offer some relief after September's upside surprise but should still leave our call for a December rate hike [&#8230;] The post Economics Week Ahead appeared first on ActionForex.
 
+**S&P 500 Forecast: SPX flat ahead of FOMC rate decision and tech earnings - StoneX**
+`07 Nov 04:15 PKT` · pehli baar dekhi `07 Nov 20:41` · gnews_fed
+
+S&P 500 Forecast: SPX flat ahead of FOMC rate decision and tech earnings StoneX
+
 **Fed needs a better way to talk about interest rates - Chattanooga Times Free Press**
 `07 Nov 04:00 PKT` · pehli baar dekhi `07 Nov 07:29` · gnews_fed
 
@@ -124,6 +152,25 @@ Gold futures pull back as strong U.S. payrolls report boosts dollar, yields Trad
 
 ### EUR
 
+**ECB's Lagarde Says Inflation Likely to Stay High in Near Future - Bloomberg.com**
+`07 Nov 19:52 PKT` · pehli baar dekhi `07 Nov 20:41` · gnews_centralbanks
+
+ECB's Lagarde Says Inflation Likely to Stay High in Near Future Bloomberg.com
+
+**'Radical' or 'hero'?: France debates leftist candidate Jean-Luc Melenchon**
+`07 Nov 18:35 PKT` · pehli baar dekhi `07 Nov 20:41` · aljazeera
+
+The hard-left leader has transformed into a real contender in next year presidential elections.
+
+**EUR/USD Weekly Outlook**
+`07 Nov 18:00 PKT` · pehli baar dekhi `07 Nov 20:41` · actionforex · **5 feeds mein**
+
+EUR/USD stayed in range trading above 1.1103 last week. Initial bias remains neutral this week and further fall is expected. On the downside, break of 1.1103 will extend larger fall from 1.2081 to 1.0904 fibonacci level. However, firm break of 1.1272 will indicate short term bottoming, and bring stronger rebound. In the bigger picture, current [&#8230;] The post EUR/USD Weekly Outlook appeared first on ActionForex.
+  - `07 Nov 16:04` *actionforex* — EUR/JPY Weekly Outlook
+  - `07 Nov 16:00` *actionforex* — EUR/GBP Weekly Outlook
+  - `07 Nov 14:54` *actionforex* — EUR/AUD Weekly Outlook
+  - `07 Nov 14:48` *actionforex* — EUR/CHF Weekly Outlook
+
 **EUR/USD Forecast: ECB Rate Outlook and Dollar Weakness - Equiti Global**
 `07 Nov 07:11 PKT` · pehli baar dekhi `07 Nov 14:10` · gnews_centralbanks
 
@@ -135,6 +182,17 @@ EUR/USD Forecast: ECB Rate Outlook and Dollar Weakness Equiti Global
 Bearish sentiment toward the euro intensified in the latest reporting period, with CFTC data showing speculative net positions falling further into negative territory. According to figures updated on 06 November 2026, net speculative positioning in EUR declined to -157.8K contracts, down from -143.9K previously. The widening net short position indicates that traders and large speculators have strengthened their expectations of euro weakness against major counterparts.
 
 ### GBP
+
+**GBP/USD Weekly Outlook**
+`07 Nov 17:41 PKT` · pehli baar dekhi `07 Nov 20:41` · actionforex · **2 feeds mein**
+
+GBP/USD rose to 1.3502 last week but retreated since then. Initial bias remains neutral this week first. Further rise will remain in favor as long as 1.3271 support holds. On the upside, above 1.3502 will extend the rise from 1.3135 to 1.3675 resistance next. However, firm break of 1.3271 will argue that the rebound has [&#8230;] The post GBP/USD Weekly Outlook appeared first on ActionForex.
+  - `07 Nov 16:10` *actionforex* — GBP/JPY Weekly Outlook
+
+**Bank of England raises interest rate to 4% as inflation risks mount - Fibre2Fashion**
+`07 Nov 09:49 PKT` · pehli baar dekhi `07 Nov 20:41` · gnews_centralbanks
+
+Bank of England raises interest rate to 4% as inflation risks mount Fibre2Fashion
 
 **Bank of England raises interest rate a quarter point - The North West Star**
 `07 Nov 05:14 PKT` · pehli baar dekhi `07 Nov 07:29` · gnews_centralbanks
@@ -148,6 +206,11 @@ Speculative bearish bets on the British pound have eased, according to the lates
 
 ### JPY
 
+**USD/JPY Weekly Outlook**
+`07 Nov 17:44 PKT` · pehli baar dekhi `07 Nov 20:41` · actionforex
+
+USD/JPY remained bounded in range trading last week and outlook is unchanged. Initial bias remains neutral this week first. On the upside, above 159.02 will target 160.38. On the downside, firm break of firm break of 156.06 will argue that rebound from 152.87 has completed after failing to sustain above 55 D EMA. Deeper fall [&#8230;] The post USD/JPY Weekly Outlook appeared first on ActionForex.
+
 **Speculators Extend Net Long Bets on Yen as CFTC JPY Positions Edge Higher**
 `07 Nov 03:51 PKT` · instaforex
 
@@ -155,12 +218,22 @@ CFTC data show speculative net positions in the Japanese yen continued to rise, 
 
 ### CHF
 
+**USD/CHF Weekly Outlook**
+`07 Nov 17:37 PKT` · pehli baar dekhi `07 Nov 20:41` · actionforex
+
+USD/CHF dipped0.8125 last week but recovered since then. Initial bias remains neutral this week first. On the downside, below 0.8125 will target 38.2% retracement of 0.7603 to 0.8394 at 0.8092. On the upside, break of 0.8312 will argue that pullback from 0.8394 has completed, and bring retest of this high. In the bigger picture, rise [&#8230;] The post USD/CHF Weekly Outlook appeared first on ActionForex.
+
 **Swiss Franc Short Positions Narrow as Speculative Bets Ease**
 `07 Nov 03:51 PKT` · instaforex
 
 Speculative positioning in the Swiss franc (CHF) turned less negative, with net short contracts narrowing according to the latest Commitments of Traders data released on 06 November 2026. The CFTC reported that CHF speculative net positions improved from -20.0K previously to -16.6K, indicating a modest reduction in bearish sentiment toward the currency.
 
 ### CAD
+
+**USD/CAD Weekly Outlook**
+`07 Nov 17:24 PKT` · pehli baar dekhi `07 Nov 20:41` · actionforex
+
+USD/CAD rebounded strongly after initial dip to 1.3928. Pullback from 1.4298 could have completed after failing to sustain below 38.2% retracement of 1.3480 to 1.4298 at 1.3986. Initial bias is back on the upside this week for retesting 1.4298 high. For now, risk will stay on the upside as long as 1.3928 support holds, in [&#8230;] The post USD/CAD Weekly Outlook appeared first on ActionForex.
 
 **The Weekly Bottom Line: The Devil is in the Fiscal Details**
 `07 Nov 08:07 PKT` · pehli baar dekhi `07 Nov 14:10` · actionforex
@@ -184,6 +257,11 @@ Data from the latest CFTC report show that speculative traders have reduced thei
 
 ### AUD
 
+**AUD/USD Weekly Report**
+`07 Nov 17:34 PKT` · pehli baar dekhi `07 Nov 20:41` · actionforex
+
+AUD/USD&#8217;s fall from 0.7237 resumed last week and there is no sign of bottoming yet. Initial bias stays on the downside this week. Decisive break of 61.8% projection of 0.7237 to 0.6893 from 0.7067 at at 0.6854 will pave the way to 100% projection at 0.6723. On the upside, above 0.6952 minor resistance will turn [&#8230;] The post AUD/USD Weekly Report appeared first on ActionForex.
+
 **Khawaja claims entire Australia team knew about 2018 ball-tampering scandal**
 `07 Nov 10:46 PKT` · pehli baar dekhi `07 Nov 14:10` · aljazeera
 
@@ -195,6 +273,26 @@ The &#039;Sandpapergate&#039; scandal saw ⁠Australia scuffing the ball with sa
 Speculative traders increased their net short positions on the Australian dollar in the latest reporting period, according to fresh data on CFTC AUD speculative net positions updated on 06 November 2026. Net positions slipped further into negative territory, moving from -128.3K previously to -129.5K. The shift indicates that market participants have marginally expanded their bearish stance on the AUD, suggesting persistent cautiousness toward the currency.
 
 ### NZD
+
+**New Zealand's prime minister says election is 'too close to call'**
+`07 Nov 19:03 PKT` · pehli baar dekhi `07 Nov 20:41` · aljazeera
+
+New Zealand prime minister Christopher Luxon says he has a pathway to form the next government.
+
+**New Zealand's ruling conservatives led by a slim margin in an election Saturday, despite facing a backlash from voters over the cost of living, rising interest rates and a patchy economic recovery**
+`07 Nov 16:40 PKT` · pehli baar dekhi `07 Nov 20:41` · wsj_economy
+
+Prime Minister Christopher Luxon and allies face weeks of uncertainty as late ballots are tallied.
+
+**New Zealand's Conservatives Narrowly Lead in Election**
+`07 Nov 16:40 PKT` · pehli baar dekhi `07 Nov 20:41` · wsj_world
+
+Prime Minister Christopher Luxon and allies face weeks of uncertainty as late ballots are tallied.
+
+**India beat New Zealand by four runs via DLS in rain-hit second ODI**
+`07 Nov 15:50 PKT` · pehli baar dekhi `07 Nov 20:41` · aljazeera
+
+Put in to bat, New Zealand struggled to gain any momentum as ⁠India&#039;s pace attack dismantled their batting lineup.
 
 **Two main parties neck and neck after New Zealand vote, early count**
 `07 Nov 11:20 PKT` · pehli baar dekhi `07 Nov 14:10` · aljazeera
@@ -212,6 +310,16 @@ More than half of New Zealand's voters cast early ballots in the tightly contest
 Speculators increased their bearish bets on the New Zealand dollar, according to the latest Commitments of Traders data from the CFTC updated on 06 November 2026. Net speculative positions in NZD futures declined further to -60.0K, compared with -57.7K previously, signaling a growing short bias among market participants. The widening negative position suggests that traders are becoming more cautious—or outright pessimistic—on the kiwi's near‑term prospects.
 
 ### OIL
+
+**Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?**
+`07 Nov 17:24 PKT` · pehli baar dekhi `07 Nov 20:41` · aljazeera
+
+Zero Russian diesel has reached the US as tankers divert and buyers fear legal action.
+
+**Iran Reports Downing US Reaper Drones as Tanker Incidents Lift Oil Prices - Palestine Chronicle**
+`07 Nov 16:35 PKT` · pehli baar dekhi `07 Nov 20:41` · gnews_geopolitics
+
+Iran Reports Downing US Reaper Drones as Tanker Incidents Lift Oil Prices Palestine Chronicle
 
 **Oil Prices Rise as Trump Weighs Iran Peace Deal, Fresh Strikes | - Business Post Nigeria**
 `07 Nov 11:40 PKT` · pehli baar dekhi `07 Nov 14:10` · gnews_geopolitics
@@ -238,12 +346,42 @@ Crude oil climbed back to around $91 a barrel on Friday, reversing earlier losse
 
 Brazil's trade surplus jumped 39.4% year-on-year to $9.32 billion in October 2026, beating market expectations of $9 billion and marking a six-month high. Exports advanced 20% to $37.81 billion. Agricultural shipments increased 12.8%, driven by surging exports of live animals (212.1%), rye, oats and other unmilled cereals (12,208.8%), and soybeans (8.9%).
 
+**Oil Prices Extend Gains on Escalating Middle East Hostilities - EnergyNow.com**
+`07 Nov 03:41 PKT` · pehli baar dekhi `07 Nov 20:41` · gnews_geopolitics
+
+Oil Prices Extend Gains on Escalating Middle East Hostilities EnergyNow.com
+
+**Iran's Main Oil and Gas Production and Infrastructure - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com**
+`07 Nov 03:37 PKT` · pehli baar dekhi `07 Nov 20:41` · gnews_geopolitics
+
+Iran's Main Oil and Gas Production and Infrastructure - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com
+
 **Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March - EnergyNow.com**
 `07 Nov 03:07 PKT` · pehli baar dekhi `07 Nov 14:10` · gnews_geopolitics
 
 Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March EnergyNow.com
 
 ### CRYPTO
+
+**Ex-FBI counterintelligence agent stole almost $2.5M in crypto**
+`07 Nov 19:16 PKT` · pehli baar dekhi `07 Nov 20:41` · cointelegraph
+
+Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where he planned to buy a vineyard.
+
+**Bitcoin holders have received eCash — What can you do with it?**
+`07 Nov 18:30 PKT` · pehli baar dekhi `07 Nov 20:41` · cointelegraph
+
+Bitcoin's eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.
+
+**October jobs surge raises odds of December Fed rate hike - Crypto Briefing**
+`07 Nov 18:28 PKT` · pehli baar dekhi `07 Nov 20:41` · gnews_fed
+
+October jobs surge raises odds of December Fed rate hike Crypto Briefing
+
+**Stablecoin contraction forces Bitcoin drop despite Fed reserve gains - CryptoSlate**
+`07 Nov 17:40 PKT` · pehli baar dekhi `07 Nov 20:41` · gnews_fed
+
+Stablecoin contraction forces Bitcoin drop despite Fed reserve gains CryptoSlate
 
 **Bitcoin rebounds to $76,000, but $1.3 billion ETF exodus tests recovery**
 `07 Nov 13:12 PKT` · pehli baar dekhi `07 Nov 14:10` · investing_news
@@ -259,6 +397,46 @@ Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March EnergyNow
 Pacific Power is asking state regulators to approve a 57% rate increase that would boost the typical residential power bill by $120 a month.
 
 ### RISK
+
+**Trump's Iran war has changed the future of Social Security**
+`07 Nov 20:18 PKT` · pehli baar dekhi `07 Nov 20:41` · mw_topstories
+
+It's a mathematical certainty that the Iran war is going to have an enormous influence on the future of retirement in America.
+
+**CENTCOM forms Task Force Iron Gate to disrupt Iran's ground weapons supply routes - The Economic Times**
+`07 Nov 19:33 PKT` · pehli baar dekhi `07 Nov 20:41` · gnews_geopolitics
+
+CENTCOM forms Task Force Iron Gate to disrupt Iran's ground weapons supply routes The Economic Times
+
+**US CENTCOM creates 'Task Force Iron Gate' to block Iran's illegal weapons and revenue routes - Business Upturn**
+`07 Nov 19:31 PKT` · pehli baar dekhi `07 Nov 20:41` · gnews_geopolitics
+
+US CENTCOM creates 'Task Force Iron Gate' to block Iran's illegal weapons and revenue routes Business Upturn
+
+**The AI trade is now counting on Anthropic's IPO — but it couldn't be happening at a worse time**
+`07 Nov 18:30 PKT` · pehli baar dekhi `07 Nov 20:41` · mw_topstories
+
+The ongoing tech selloff is leading investors to wonder if Anthropic will delay its IPO or list at a discount.
+
+**Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza**
+`07 Nov 18:07 PKT` · pehli baar dekhi `07 Nov 20:41` · aljazeera
+
+Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.
+
+**Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation**
+`07 Nov 17:22 PKT` · pehli baar dekhi `07 Nov 20:41` · aljazeera
+
+US strikes have continued on Iran after more ships in the Strait of Hormuz were attacked.
+
+**Dozens killed as humanitarian crisis mounts in Yemen: What next for war?**
+`07 Nov 16:59 PKT` · pehli baar dekhi `07 Nov 20:41` · aljazeera
+
+Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas.
+
+**Sudan war and climate change see parents struggle to feed their children**
+`07 Nov 15:36 PKT` · pehli baar dekhi `07 Nov 20:41` · aljazeera
+
+War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition.
 
 **Will Trump strike nuclear sites again as Iran engages 'cognitive warfare'?**
 `07 Nov 13:45 PKT` · pehli baar dekhi `07 Nov 14:10` · aljazeera
@@ -291,9 +469,10 @@ Tehran brought the costs of war into American homes, fuelling the backlash again
 Air strikes damage buildings and injure two civilians after Zelenskyy warns of potential for new attacks.
 
 **US Treasury sanctions eight Canadian money exchange firms over Iran ties**
-`07 Nov 09:50 PKT` · pehli baar dekhi `07 Nov 14:10` · aljazeera
+`07 Nov 09:50 PKT` · pehli baar dekhi `07 Nov 14:10` · aljazeera · **2 feeds mein**
 
 US Treasury claims firms helped sanctioned Iranian entities and handled funds linked to alleged drug trafficking boss.
+  - `07 Nov 16:10` *cointelegraph* — US sanctions Canadian money-exchange firms over Iran ties
 
 **Ten Months of War to Gain 46 Square Miles: How Russia Is Failing on the Battlefield**
 `07 Nov 09:00 PKT` · pehli baar dekhi `07 Nov 14:10` · wsj_world
@@ -353,17 +532,55 @@ The S&P 500 climbed more than 0.5% on Friday and the Nasdaq advanced over 1.5%, 
 
 Oil Prices Slide as Hopes of US-Iran Diplomatic Breakthrough Offset Escalation Risks Sada Elbalad English
 
+**Iran War Boosts US Shale Oil But Only So Much: Bousso - EnergyNow.com**
+`07 Nov 03:40 PKT` · pehli baar dekhi `07 Nov 20:41` · gnews_geopolitics
+
+Iran War Boosts US Shale Oil But Only So Much: Bousso EnergyNow.com
+
 **COMMENTARY: Oil Markets Survived the Iran War Sprint. Now Comes the Marathon: Bousso - EnergyNow.com**
 `07 Nov 03:15 PKT` · pehli baar dekhi `07 Nov 14:10` · gnews_geopolitics
 
 COMMENTARY: Oil Markets Survived the Iran War Sprint. Now Comes the Marathon: Bousso EnergyNow.com
 
-### BINA TAG (65)
+### BINA TAG (99)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `07 Nov 20:16` **investing_news** — Novartis shelves potential blockbuster pelacarsen as landmark study fails
+- `07 Nov 20:14` **wsj_markets** — Berkshire Hathaway's Quarterly Profit Falls After Investment Gains Shrink
+- `07 Nov 20:13` **investing_news** — ASBISc Q3 2026 slides: AI infrastructure drives 135% revenue surge
+- `07 Nov 20:11` **investing_news** — U.S. intelligence memo ties Nvidia's Huang to alleged Chinese spy, FT reports
+- `07 Nov 20:08` **investing_news** — J&J presents patient data on nipocalimab for Sjögren's disease
+- `07 Nov 20:04` **investing_news** — argenx reports positive phase 3 data for autoimmune myositis drug
+- `07 Nov 19:36` **investing_news** — Employers, watchmen at California ports extend contract talks
+- `07 Nov 19:30` **aljazeera** — The Lions by the River Tigris: Restoring Mosul's artefacts
+- `07 Nov 19:24` **aljazeera** — Iraq's FM says external parties using Iraqi soil to attack neighbours
+- `07 Nov 19:19` **investing_news** — Berkshire Hathaway steps up buybacks as operating profit falls
+- `07 Nov 19:00` **mw_topstories** — This retired professor has reinvented himself — as a Taylor Swift scholar
+- `07 Nov 18:50` **aljazeera** — Who is Hakeem Jeffries, the Democrat poised to become House speaker?
+- `07 Nov 18:24` **aljazeera** — 'They started bombing us with drones': Russian attacks unnerve Zaporizhzhia
+- `07 Nov 18:14` **aljazeera** — Gaza displacement camps collapse under rainwater
+- `07 Nov 18:12` **investing_commodities** — French presidential hopeful Melenchon pledges minimum wage rise, retirement at 60
+- `07 Nov 18:06` **aljazeera** — Al Jazeera tries out martial art wushu at Youth Olympics
+- `07 Nov 18:04` **aljazeera** — Heavy rains flood displacement camps across Gaza
+- `07 Nov 17:29` **aljazeera** — Pro-Russian hackers leak Italian foreign minister's data on dark web
+- `07 Nov 17:27` **aljazeera** — Atletico Madrid vs Barcelona: La Liga – predictions, team news, lineups
+- `07 Nov 16:36` **gnews_geopolitics** — Syria says it foiled Hezbollah plot on Homs refinery - The Jerusalem Post
+- `07 Nov 16:30` **aljazeera** — Nepal's fight to rebuild after flood disaster
+- `07 Nov 16:24` **wsj_world** — Someone Is Causing Chaos Across Europe. The Question Is: Who?
+- `07 Nov 16:10` **aljazeera** — Rains flood 70,000 displaced families' tents in Gaza
+- `07 Nov 16:00` **gnews_fed** — Opinion | Trump just lost his ability to take control of this part of the U.S. economy - MS NOW
+- `07 Nov 15:17` **aljazeera** — Pakistani astronaut to join China's next space station mission
+- `07 Nov 14:48` **aljazeera** — Palestinian citizens of Israel put to 'loyalty test' after election wins
+- `07 Nov 14:39` **gnews_centralbanks** — UK Mortgage Rates Rising Impact: British Borrowers Face £200 Monthly Repayment Hikes as Interest Rates Climb | What To Know - The Sunday Guardian
+- `07 Nov 14:30` **aljazeera** — China's e-bikes boom as fuel prices rise
+- `07 Nov 14:18` **aljazeera** — US Senator Abdul El-Sayed launches 'Habibi' political action committee
+- `07 Nov 14:10` **cointelegraph** — Suspicious prediction market activity seen before election poll release: NYT
 - `07 Nov 13:52` **investing_news** — CEO Ternus says Apple is the 'best company on earth', but is it the best stock?
+- `07 Nov 13:38` **gnews_fed** — PRODUCTIVITY AND JOBS TASK FORCE CONFERENCE - InsuranceNewsNet
 - `07 Nov 13:10` **aljazeera** — Doncic's 53 points lift Lakers as Cavs top Sixers in LeBron James's return
+- `07 Nov 13:10` **gnews_fed** — US adds 165,000 jobs in October, beating forecasts - www.malaysiasun.com
+- `07 Nov 13:06` **gnews_fed** — Trending mortgage rates - firsttuesday Journal
 - `07 Nov 12:50` **aljazeera** — Houston mayor curbs cooperation of US city's police with ICE
 - `07 Nov 12:45` **cointelegraph** — Nvidia may face a more hostile post-election Washington: Report
 - `07 Nov 12:38` **investing_news** — Environmental groups turn to AI despite concerns over data center emissions
@@ -426,15 +643,16 @@ COMMENTARY: Oil Markets Survived the Iran War Sprint. Now Comes the Marathon: Bo
 - `07 Nov 03:18` **investing_news** — Health In Tech issues $3 million promissory note in equity financing deal
 - `07 Nov 03:14` **investing_news** — Harold J. Schwartz resigns from Data Storage Corp board
 - `07 Nov 03:06` **gnews_fed** — Missoula secures nearly $1 million federal grant for Reserve Street safety improvements - NBC Montana
+- `07 Nov 03:01` **gnews_fed** — Russell 2000 Ends Friday 0.9% Higher at 2,754.11 - ad-hoc-news.de
 - `07 Nov 03:01` **wsj_markets** — U.S. Stocks Mixed After Jobs Data, Muted AI Rebound
 
 ---
 
-## Shor — 11 khabrein hatai gayin
+## Shor — 14 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (11)
+investing_news (14)
 
 ---
 
@@ -444,45 +662,45 @@ investing_news (11)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.2 |
+| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.5 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 6 | 14 | 0 | 0.0 |
-| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.7 |
-| instaforex | OK | 25 | 25 | 4 | 21 | 0 | 0.1 |
-| wsj_economy | OK | 36 | 10 | 1 | 9 | 26 | 0.2 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
-| cme_daily_commentary | OK | 10 | 9 | 0 | 9 | 1 | 0.4 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 57.6 |
-| kitco_general | OK | 42 | 41 | 1 | 40 | 1 | 0.2 |
-| gnews_fed | OK | 51 | 51 | 7 | 44 | 0 | 0.0 |
-| gnews_geopolitics | OK | 41 | 41 | 8 | 33 | 0 | 0.1 |
-| gnews_centralbanks | OK | 51 | 51 | 5 | 46 | 0 | 0.2 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 9.6 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 23.3 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 1.0 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.9 |
-| boj_whatsnew | OK | 48 | 3 | 0 | 3 | 45 | 0.7 |
-| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 1.4 |
-| mining_com | OK | 36 | 11 | 0 | 11 | 25 | 0.4 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.4 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.8 |
-| bbc_business | OK | 54 | 14 | 0 | 14 | 40 | 0.3 |
-| aljazeera | OK | 25 | 25 | 22 | 3 | 0 | 0.0 |
-| snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.9 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 1.7 |
-| eia_energy | OK | 24 | 1 | 0 | 1 | 23 | 0.8 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 2.8 |
-| wsj_world | OK | 71 | 17 | 1 | 16 | 54 | 0.2 |
-| wsj_markets | OK | 60 | 35 | 1 | 34 | 25 | 0.2 |
+| actionforex | OK | 20 | 18 | 11 | 7 | 2 | 0.1 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.0 |
+| instaforex | OK | 25 | 25 | 1 | 24 | 0 | 0.3 |
+| wsj_economy | OK | 36 | 2 | 1 | 1 | 34 | 0.2 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.7 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.7 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.7 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.7 |
+| cme_daily_commentary | OK | 10 | 6 | 0 | 6 | 4 | 0.6 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 57.9 |
+| kitco_general | OK | 27 | 6 | 0 | 6 | 21 | 0.2 |
+| gnews_fed | OK | 41 | 18 | 11 | 7 | 23 | 0.0 |
+| gnews_geopolitics | OK | 39 | 29 | 7 | 22 | 10 | 0.0 |
+| gnews_centralbanks | OK | 27 | 8 | 3 | 5 | 19 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 9.9 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 23.5 |
+| ecb_press | OK | 15 | 1 | 1 | 0 | 14 | 0.1 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.2 |
+| boj_whatsnew | OK | 48 | 0 | 0 | 0 | 48 | 1.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 1.7 |
+| mining_com | OK | 36 | 3 | 0 | 3 | 33 | 0.7 |
+| oilprice | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
+| investing_commodities | OK | 10 | 3 | 1 | 2 | 7 | 0.1 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
+| bbc_business | OK | 54 | 1 | 0 | 1 | 53 | 0.6 |
+| aljazeera | OK | 25 | 25 | 23 | 2 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.2 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| eia_energy | OK | 24 | 0 | 0 | 0 | 24 | 1.1 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 3.1 |
+| wsj_world | OK | 71 | 5 | 2 | 3 | 66 | 0.2 |
+| wsj_markets | OK | 60 | 7 | 1 | 6 | 53 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
-| cointelegraph | OK | 30 | 26 | 1 | 25 | 4 | 0.1 |
+| mw_topstories | OK | 10 | 6 | 3 | 3 | 4 | 0.0 |
+| cointelegraph | OK | 30 | 6 | 4 | 2 | 24 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
