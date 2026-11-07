@@ -1,13 +1,28 @@
 # News Pack — Trading Day 07 Nov 2026
 
 - Trading day: **07 Nov 03:00 -> 08 Nov 02:59 PKT**
-- Aakhri update: **07 Nov 03:51 PKT**
-- Kul khabrein: **42**
+- Aakhri update: **07 Nov 07:29 PKT**
+- Kul khabrein: **81**
 - Feeds: 35/39 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**Live Cattle futures decline alongside Feeder Cattle and Lean Hogs.**
+`07 Nov 05:41 PKT` · pehli baar dekhi `07 Nov 07:29` · cme_daily_commentary
+
+Oliver Sloup of Blue Line Futures breaks down recent price action across the livestock complex, highlighting pressure in Live Cattle futures amid disappointing export sales and Thursday's slaughter numbers. He also examines Feeder Cattle futures retreating from highs not seen since March, and tracks Lean Hog futures after shedding nearly 20% over a two-week span.
+
+**Corn futures stabilize near 440 ahead of WASDE report.**
+`07 Nov 03:50 PKT` · pehli baar dekhi `07 Nov 07:29` · cme_daily_commentary
+
+Oliver Sloup of Blue Line Futures outlines the recent action across the grains complex as markets await the upcoming WASDE report. He details the stabilization in Corn futures following a sixth consecutive week of lower closes, tracks Soybean futures after hitting their lowest levels since August, and highlights the 10-week slide in Wheat futures alongside analyst expectations for ending stocks.
+
+**2-Year T-Note futures slide as labor data pushes yields higher.**
+`07 Nov 03:46 PKT` · pehli baar dekhi `07 Nov 07:29` · cme_rates_video
+
+Dan Deming of KKM Financial reviews the Treasury market as 2-Year T-Note futures face selling pressure following the latest labor data. Deming notes that average hourly earnings are driving yields higher, particularly across the front end of the curve, leading to a flattening effect. The U.S. 2-Year Treasury yield reached 4.40%, climbing four basis points from the previous session's lows.
 
 **Canadian Dollar futures fall as U.S. and Canadian jobs data diverge.**
 `07 Nov 03:32 PKT` · pehli baar dekhi `07 Nov 03:51` · cme_fx_video
@@ -40,6 +55,11 @@ Bullish sentiment in the silver market strengthened further as speculative net p
 
 Speculative interest in gold futures softened in the latest reporting period, with CFTC data showing net long positions in U.S. gold contracts declining to 179.5K, down from a previous level of 186.5K. The updated figures, released on 06 November 2026, indicate a modest pullback in bullish sentiment toward the metal. The reduction in speculative net longs suggests that some traders may be locking in profits or growing more cautious on the near-term outlook for gold.
 
+**Democrats' midterm sweep gives gold a boost, but the Federal Reserve still holds the cards - Kitco**
+`07 Nov 03:50 PKT` · pehli baar dekhi `07 Nov 07:29` · kitco_general
+
+Democrats' midterm sweep gives gold a boost, but the Federal Reserve still holds the cards Kitco
+
 **Wall Street split on gold following Dems' midterm rout, Main Street bulls emboldened after post-election price rally - Kitco**
 `07 Nov 03:33 PKT` · pehli baar dekhi `07 Nov 03:51` · kitco_general
 
@@ -47,10 +67,20 @@ Wall Street split on gold following Dems' midterm rout, Main Street bulls embold
 
 ### USD
 
+**Fed needs a better way to talk about interest rates - Chattanooga Times Free Press**
+`07 Nov 04:00 PKT` · pehli baar dekhi `07 Nov 07:29` · gnews_fed
+
+Fed needs a better way to talk about interest rates Chattanooga Times Free Press
+
 **Brazil 10-Year Yield Cuts Gains to Hover Around 15.19%**
 `07 Nov 03:51 PKT` · instaforex
 
 Brazil's 10-year government bond yield pared earlier gains to trade around 15.19% in November, after President Lula sought to calm markets with renewed assurances on fiscal adjustment. Lula reiterated that his administration remains committed to fiscal responsibility while also prioritizing social programs, amid mounting pressure to unveil concrete adjustment measures and following a late-October election victory that triggered a sell-off in Brazilian assets.
+
+**Gold futures pull back as strong U.S. payrolls report boosts dollar, yields - TradingView**
+`07 Nov 03:45 PKT` · pehli baar dekhi `07 Nov 07:29` · gnews_fed
+
+Gold futures pull back as strong U.S. payrolls report boosts dollar, yields TradingView
 
 ### EUR
 
@@ -60,6 +90,11 @@ Brazil's 10-year government bond yield pared earlier gains to trade around 15.19
 Bearish sentiment toward the euro intensified in the latest reporting period, with CFTC data showing speculative net positions falling further into negative territory. According to figures updated on 06 November 2026, net speculative positioning in EUR declined to -157.8K contracts, down from -143.9K previously. The widening net short position indicates that traders and large speculators have strengthened their expectations of euro weakness against major counterparts.
 
 ### GBP
+
+**Bank of England raises interest rate a quarter point - The North West Star**
+`07 Nov 05:14 PKT` · pehli baar dekhi `07 Nov 07:29` · gnews_centralbanks
+
+Bank of England raises interest rate a quarter point The North West Star
 
 **Sterling Bears Retreat as CFTC Data Shows Short Positions Narrowing**
 `07 Nov 03:51 PKT` · instaforex
@@ -82,6 +117,11 @@ Speculative positioning in the Swiss franc (CHF) turned less negative, with net 
 
 ### CAD
 
+**Canadian Uranium eyes acquisitions as Rook II exploration takes shape**
+`07 Nov 03:55 PKT` · pehli baar dekhi `07 Nov 07:29` · mining_com
+
+Founder of Titan Uranium, which staked and funded early exploration at Rook I, is turning attention to Rook II.
+
 **Speculators Trim Bearish Bets on Canadian Dollar as Net Shorts Narrow**
 `07 Nov 03:51 PKT` · instaforex
 
@@ -96,12 +136,22 @@ Speculative traders increased their net short positions on the Australian dollar
 
 ### NZD
 
+**New Zealanders head to polls on final day of voting**
+`07 Nov 04:48 PKT` · pehli baar dekhi `07 Nov 07:29` · aljazeera
+
+More than half of New Zealand's voters cast early ballots in the tightly contested race.
+
 **Speculative Bets Against Kiwi Dollar Deepen as CFTC Net Shorts Widen to -60K**
 `07 Nov 03:51 PKT` · instaforex
 
 Speculators increased their bearish bets on the New Zealand dollar, according to the latest Commitments of Traders data from the CFTC updated on 06 November 2026. Net speculative positions in NZD futures declined further to -60.0K, compared with -57.7K previously, signaling a growing short bias among market participants. The widening negative position suggests that traders are becoming more cautious—or outright pessimistic—on the kiwi's near‑term prospects.
 
 ### OIL
+
+**Wall Street's "Energy Transition" Funds Are Packed With Natural Gas**
+`07 Nov 04:00 PKT` · pehli baar dekhi `07 Nov 07:29` · oilprice
+
+As we head into the United Nations' 31st annual flagship climate conference (COP31), to be held next week in Antalya, Türkiye, greenwashing presents a large and growing problem in the private sector. As the tech sector's greenhouse gas emissions explode against the backdrop of the artificial intelligence boom and the clean energy incentives dry up under the Trump administration, Big Tech and Wall Street alike are funding a boom in natural gas, all under the guise of funding the future of clean ...
 
 **Speculators Lift Bullish Bets on U.S. Crude as Net Longs Climb to 80.3K**
 `07 Nov 03:51 PKT` · instaforex
@@ -123,17 +173,73 @@ Brazil's trade surplus jumped 39.4% year-on-year to $9.32 billion in October 202
 **Bitcoin set for weekly loss on post-midterms regulatory uncertainty, jobs report**
 `07 Nov 03:39 PKT` · pehli baar dekhi `07 Nov 03:51` · investing_news
 
+### RATES
+
+**A Berkshire Hathaway Electric Utility Wants a Historic Rate Hike in California**
+`07 Nov 04:33 PKT` · pehli baar dekhi `07 Nov 07:29` · wsj_markets
+
+Pacific Power is asking state regulators to approve a 57% rate increase that would boost the typical residential power bill by $120 a month.
+
 ### RISK
+
+**Arini hedge fund losses deepen to 32% as credit selloff intensifies - Bloomberg**
+`07 Nov 06:39 PKT` · pehli baar dekhi `07 Nov 07:29` · investing_news
+
+**Iran war live: Qatar says US, Iran should not wait to reach a peace deal**
+`07 Nov 05:00 PKT` · pehli baar dekhi `07 Nov 07:29` · aljazeera
+
+Qatar&#039;s prime minister urges the US and Iran not to wait for a &#039;perfect moment&#039; to reach a deal to end the war.
+
+**Trump's Clashing Advisers Press Him to Make Iran War Decision**
+`07 Nov 05:00 PKT` · pehli baar dekhi `07 Nov 07:29` · wsj_world
+
+Vice President JD Vance and Gulf allies are advising Trump to end the war, but other advisers are making the case for renewed attacks.
+
+**Copper faces further slide after US vote: TD**
+`07 Nov 04:54 PKT` · pehli baar dekhi `07 Nov 07:29` · mining_com
+
+Copper could fall further as Democratic Party gains in the United States midterm elections weaken expectations for import tariffs.
+
+**How Trump's unconvincing narrative on Iran lost him the US midterms**
+`07 Nov 04:07 PKT` · pehli baar dekhi `07 Nov 07:29` · aljazeera
+
+Donald Trump and the Republicans struggle to spin a historic defeat in the US midterms.
+
+**US urges China to honour Busan trade deal commitments**
+`07 Nov 04:00 PKT` · pehli baar dekhi `07 Nov 07:29` · aljazeera
+
+Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China&#039;s fulfilment of commitments.
 
 **US Stock Indices Gain as Tech Sector Recovers**
 `07 Nov 03:51 PKT` · instaforex
 
 The S&P 500 climbed more than 0.5% on Friday and the Nasdaq advanced over 1.5%, while the Dow ended roughly unchanged. The rebound came after a sharp sell-off in the prior session—the worst single-day loss since April 2025—which had pushed the Nasdaq into correction territory. The previous decline was driven by worries that Democratic gains in the midterm elections could usher in stricter regulation of the AI industry and dampen investment in the sector.
 
-### BINA TAG (22)
+**Oil Prices Slide as Hopes of US-Iran Diplomatic Breakthrough Offset Escalation Risks - Sada Elbalad English**
+`07 Nov 03:44 PKT` · pehli baar dekhi `07 Nov 07:29` · gnews_geopolitics
+
+Oil Prices Slide as Hopes of US-Iran Diplomatic Breakthrough Offset Escalation Risks Sada Elbalad English
+
+### BINA TAG (39)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `07 Nov 07:22` **investing_news** — Musk cites Alphabet conflicts as Google executive leaves SpaceX board
+- `07 Nov 07:18` **investing_news** — Google executive Donald Harrison resigns from SpaceX board
+- `07 Nov 07:15` **investing_news** — Saba Capital Management sells $762,500 of PIMCO Dynamic Income Strategy Fund
+- `07 Nov 07:04` **investing_news** — Vertical Data closes $4.24M private placement at $3 per share
+- `07 Nov 06:55` **aljazeera** — CDC reports more than 5,000 measles cases, highest number in 35 years
+- `07 Nov 06:46` **investing_news** — Baker Bros. Advisors, director Baker acquire $35M Madrigal Pharma shares
+- `07 Nov 06:41` **bbc_business** — 'My mortgage is going up £200': How rising interest rates are hitting people's pockets
+- `07 Nov 06:33` **aljazeera** — EU prosecutor office investigates fatal train crash in Spain
+- `07 Nov 05:55` **aljazeera** — Pope Leo XIV arrives for South American tour after cancer surgery
+- `07 Nov 05:31` **aljazeera** — Paraguay's Santiago Pena under arrest, new president Pedro Alliana sworn in
+- `07 Nov 05:21` **aljazeera** — MTG warns Miller-Wiles shakeup will sink Republican chances in 2028
+- `07 Nov 05:00` **actionforex** — Summary 11/9 – 11/13
+- `07 Nov 04:33` **aljazeera** — EU tells TikTok to fix 'harmful' For You feed, threatens fines
+- `07 Nov 04:30` **mining_com** — DLA commits $2 billion to acquire critical materials for National Defense Stockpile
+- `07 Nov 04:29` **wsj_markets** — The Wild Week That Brought AI Investors to the Brink
+- `07 Nov 04:13` **kitco_general** — AI debt description={PAGE_DESCRIPTION} - Kitco
 - `07 Nov 03:51` **instaforex** — Speculators Boost Long Bets on Brazilian Real as CFTC Net Positions Climb to 46K
 - `07 Nov 03:51` **instaforex** — Natural Gas Bears Deepen Their Grip as CFTC Net Shorts Edge Lower
 - `07 Nov 03:51` **instaforex** — Speculators Trim Bullish Nasdaq 100 Bets as CFTC Net Longs Ease to 42.9K
@@ -152,6 +258,7 @@ The S&P 500 climbed more than 0.5% on Friday and the Nasdaq advanced over 1.5%, 
 - `07 Nov 03:32` **investing_news** — Auddia announces warrant exchange agreements for common stock on Nasdaq
 - `07 Nov 03:28` **investing_news** — Faraday Future issues Series A preferred stock to executive chairman
 - `07 Nov 03:22` **investing_news** — Enova International subsidiary plans $500 million asset-backed notes offering
+- `07 Nov 03:19` **kitco_general** — junior mining companies description={PAGE_DESCRIPTION} - Kitco
 - `07 Nov 03:18` **investing_news** — Health In Tech issues $3 million promissory note in equity financing deal
 - `07 Nov 03:14` **investing_news** — Harold J. Schwartz resigns from Data Storage Corp board
 - `07 Nov 03:06` **gnews_fed** — Missoula secures nearly $1 million federal grant for Reserve Street safety improvements - NBC Montana
@@ -159,11 +266,11 @@ The S&P 500 climbed more than 0.5% on Friday and the Nasdaq advanced over 1.5%, 
 
 ---
 
-## Shor — 1 khabrein hatai gayin
+## Shor — 5 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (1)
+investing_news (5)
 
 ---
 
@@ -173,45 +280,45 @@ investing_news (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
-| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.3 |
-| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.1 |
-| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 0.1 |
-| cme_metals_video | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
-| cme_fx_video | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_energy_video | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
-| cme_daily_commentary | OK | 10 | 6 | 1 | 5 | 4 | 0.0 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 57.2 |
-| kitco_general | OK | 41 | 41 | 20 | 21 | 0 | 0.0 |
-| gnews_fed | OK | 49 | 49 | 22 | 27 | 0 | 0.0 |
-| gnews_geopolitics | OK | 34 | 34 | 9 | 25 | 0 | 0.1 |
-| gnews_centralbanks | OK | 71 | 71 | 18 | 53 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 9.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 22.8 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.5 |
-| boj_whatsnew | OK | 48 | 3 | 0 | 3 | 45 | 0.3 |
-| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 1.0 |
-| mining_com | OK | 36 | 7 | 1 | 6 | 29 | 0.2 |
-| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
-| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.4 |
-| bbc_business | OK | 54 | 13 | 1 | 12 | 41 | 0.0 |
-| aljazeera | OK | 25 | 25 | 23 | 2 | 0 | 0.1 |
-| snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.5 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
-| eia_energy | OK | 24 | 1 | 0 | 1 | 23 | 0.4 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 2.4 |
-| wsj_world | OK | 73 | 14 | 2 | 12 | 59 | 0.0 |
-| wsj_markets | OK | 61 | 34 | 5 | 29 | 27 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.1 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.4 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
+| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 0.2 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
+| cme_rates_video | OK | 10 | 1 | 1 | 0 | 9 | 0.2 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
+| cme_daily_commentary | OK | 10 | 9 | 2 | 7 | 1 | 0.1 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 57.3 |
+| kitco_general | OK | 42 | 42 | 5 | 37 | 0 | 0.1 |
+| gnews_fed | OK | 50 | 50 | 8 | 42 | 0 | 0.1 |
+| gnews_geopolitics | OK | 40 | 40 | 4 | 36 | 0 | 0.1 |
+| gnews_centralbanks | OK | 72 | 72 | 9 | 63 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 9.4 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 23.0 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.6 |
+| boj_whatsnew | OK | 48 | 3 | 0 | 3 | 45 | 0.4 |
+| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 1.1 |
+| mining_com | OK | 36 | 11 | 4 | 7 | 25 | 0.1 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.5 |
+| bbc_business | OK | 54 | 14 | 1 | 13 | 40 | 0.0 |
+| aljazeera | OK | 25 | 25 | 10 | 15 | 0 | 0.0 |
+| snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.6 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
+| eia_energy | OK | 24 | 1 | 0 | 1 | 23 | 0.5 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 2.5 |
+| wsj_world | OK | 72 | 15 | 1 | 14 | 57 | 0.1 |
+| wsj_markets | OK | 61 | 35 | 2 | 33 | 26 | 0.1 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 25 | 7 | 18 | 5 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 25 | 0 | 25 | 5 | 0.2 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
