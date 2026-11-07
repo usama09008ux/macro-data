@@ -1,8 +1,8 @@
 # News Pack — Trading Day 06 Nov 2026
 
 - Trading day: **06 Nov 03:00 -> 07 Nov 02:59 PKT**
-- Aakhri update: **07 Nov 07:29 PKT**
-- Kul khabrein: **692**
+- Aakhri update: **07 Nov 14:10 PKT**
+- Kul khabrein: **701**
 - Feeds: 35/39 OK
 
 ---
@@ -258,6 +258,11 @@ Hammack Says Dollar Remains World's Leading Reserve Currency www.tokenpost.com
 
 DOJ, Fed's Cook Seek Pause in Court Fight Over Trump Firing Push Bloomberg.com
 
+**San Francisco Fed President Daly: Further Rate Hikes Still Needed to Fight Inflation; Tech Stock Pullback Remains Orderly - BigGo Finance**
+`07 Nov 01:35 PKT` · pehli baar dekhi `07 Nov 14:10` · gnews_fed
+
+San Francisco Fed President Daly: Further Rate Hikes Still Needed to Fight Inflation; Tech Stock Pullback Remains Orderly BigGo Finance
+
 **October jobs report beats forecasts, lifting December Fed hike odds - InvestmentNews**
 `07 Nov 01:12 PKT` · pehli baar dekhi `07 Nov 03:51` · gnews_fed
 
@@ -291,9 +296,10 @@ Daly says Fed rate hike likely, despite 'painful' tech-stock dive Kitco
   - `06 Nov 23:32` *gnews_fed* — Daly says Fed rate hike likely, despite 'painful' tech-stock dive - Yahoo Finance
 
 **Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says - CNBC**
-`06 Nov 23:39 PKT` · pehli baar dekhi `07 Nov 03:51` · gnews_fed
+`06 Nov 23:39 PKT` · pehli baar dekhi `07 Nov 03:51` · gnews_fed · **2 feeds mein**
 
 Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says CNBC
+  - `06 Nov 23:39` *gnews_fed* — Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says - CNBC
 
 **What the Seismic Midterm Result Means for the Fed and Interest Rates - Business Insider**
 `06 Nov 23:06 PKT` · pehli baar dekhi `07 Nov 07:29` · gnews_fed
@@ -865,6 +871,11 @@ ECB's Lagarde says data will tell if December rate hike needed The Business Time
 
 Andrew Bailey backs closer EU ties after interest rates rise The Times
 
+**Bank of England market participants survey outlines UK rates intelligence process - Traders Union**
+`07 Nov 01:21 PKT` · pehli baar dekhi `07 Nov 14:10` · gnews_centralbanks
+
+Bank of England market participants survey outlines UK rates intelligence process Traders Union
+
 **FTSE 100 Falls to 10,673.94 as the AI Sell-Off Hits London Amid a Bank of England Rate Hike and Housing Slump - BBN Times**
 `06 Nov 23:44 PKT` · pehli baar dekhi `07 Nov 07:29` · gnews_centralbanks
 
@@ -900,6 +911,11 @@ HMRC makes major payments change after Bank of England rise interest rates Yahoo
 `06 Nov 19:47 PKT` · pehli baar dekhi `06 Nov 22:54` · gnews_centralbanks
 
 HMRC hikes charge for late payments after Bank of England rise - how to avoid it The Sun
+
+**Projected UK Interest Rates in 5 Years: Bank of England Raises Rates in November - CCN.com**
+`06 Nov 19:44 PKT` · pehli baar dekhi `07 Nov 14:10` · gnews_centralbanks
+
+Projected UK Interest Rates in 5 Years: Bank of England Raises Rates in November CCN.com
 
 **Bank of England member: We will not repeat the rate hike cycle in 2022 - المتداول العربي**
 `06 Nov 19:34 PKT` · pehli baar dekhi `07 Nov 03:51` · gnews_centralbanks
@@ -1354,10 +1370,20 @@ The United States boasts the largest nuclear power production capacity in the wo
 
 Some of the world's biggest oil traders are asking Washington for permission to put sanctioned tankers back to work, as a global vessel shortage pushes oil transportation costs to extraordinary levels. Trafigura, Vitol, Mercuria and Abu Dhabi National Oil Co. are negotiating with U.S. officials for licenses to purchase or lease blacklisted oil tankers, Bloomberg reported Friday, citing people familiar with the discussions. The talks involve approximately 50 vessels currently under U.S.
 
+**Crude Oil Prices Finish Higher as Global Energy Supplies Remain Tight - TradingView**
+`07 Nov 01:14 PKT` · pehli baar dekhi `07 Nov 14:10` · gnews_geopolitics
+
+Crude Oil Prices Finish Higher as Global Energy Supplies Remain Tight TradingView
+
 **Oil heads for steepest weekly decline since 2020 as Iran diplomacy hopes grow - Oil & Gas 360**
 `07 Nov 00:49 PKT` · pehli baar dekhi `07 Nov 07:29` · gnews_geopolitics
 
 Oil heads for steepest weekly decline since 2020 as Iran diplomacy hopes grow Oil & Gas 360
+
+**US Allows 30-Day Sale of Iran Oil at Sea in Bid to Tame Prices - EnergyNow**
+`07 Nov 00:26 PKT` · pehli baar dekhi `07 Nov 14:10` · gnews_geopolitics
+
+US Allows 30-Day Sale of Iran Oil at Sea in Bid to Tame Prices EnergyNow
 
 **Energy Reliability Is Becoming More Important Than Energy Politics**
 `07 Nov 00:00 PKT` · pehli baar dekhi `07 Nov 03:51` · oilprice
@@ -1535,6 +1561,11 @@ Hormuz Reopening to Release Wave of Oil Supply, Depress Prices EnergyNow.com
 `06 Nov 14:27 PKT` · pehli baar dekhi `06 Nov 22:54` · gnews_geopolitics
 
 Oil Jumps 10% on Iran Conflict and Could Spike to $100 a Barrel, Analysts Say EnergyNow.com
+
+**Brent Crude Oil Price Jumps After Attack on Iran's South Pars Field - EnergyNow.com**
+`06 Nov 14:26 PKT` · pehli baar dekhi `07 Nov 14:10` · gnews_geopolitics
+
+Brent Crude Oil Price Jumps After Attack on Iran's South Pars Field EnergyNow.com
 
 **US Crude Exports Hit Record High in May as Iran War Tightens Global Oil Supplies - EnergyNow**
 `06 Nov 14:25 PKT` · pehli baar dekhi `06 Nov 22:54` · gnews_geopolitics
@@ -1824,6 +1855,11 @@ Asian crypto exchanges are scrambling to tighten security on fears of a wave of 
 
 **Jefferies cuts Targa Resources stock price target on margin concerns**
 `06 Nov 22:32 PKT` · pehli baar dekhi `06 Nov 22:54` · investing_news
+
+**Robust US jobs market boosts December rate hike chances - ing think**
+`06 Nov 19:48 PKT` · pehli baar dekhi `07 Nov 14:10` · gnews_fed
+
+Robust US jobs market boosts December rate hike chances ing think
 
 **Evercore ISI maintains Advance Auto Parts stock rating on margin gains**
 `06 Nov 15:44 PKT` · pehli baar dekhi `06 Nov 16:01` · investing_news
@@ -2169,7 +2205,7 @@ Oil Rises as Trump Threatens Sanctions on Iran Partners EnergyNow
 
 Iran War Erodes Exxon, Chevron Profits Even as Oil Prices Soar EnergyNow.com
 
-### BINA TAG (231)
+### BINA TAG (232)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2249,6 +2285,7 @@ Iran War Erodes Exxon, Chevron Profits Even as Oil Prices Soar EnergyNow.com
 - `06 Nov 21:42` **bbc_business** — Foodbank to close after 16 years amid rising costs
 - `06 Nov 21:41` **gnews_fed** — The Federal Reserve is facing new pressures to raise interest rates following U.S. jobs data - المتداول العربي
 - `06 Nov 21:40` **aljazeera** — Taiwan to close representative office in Papua New Guinea, blames China
+- `06 Nov 21:39` **kitco_general** — Videos - Kitco
 - `06 Nov 21:35` **gnews_centralbanks** — December rate hikes could mark turning point for markets - TradingView
 - `06 Nov 21:30` **gnews_fed** — Fayetteville Tech professor pleads guilty to stealing $150K COVID loan for business - CBS17.com
 - `06 Nov 21:29` **mw_topstories** — Hims & Hers struck a GLP-1 deal with Lilly. Its stock is rallying.
@@ -2421,48 +2458,48 @@ investing_news (9)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.2 |
+| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.2 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.1 |
-| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.4 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.0 |
-| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 0.2 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_rates_video | OK | 10 | 1 | 1 | 0 | 9 | 0.2 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.2 |
-| cme_daily_commentary | OK | 10 | 9 | 2 | 7 | 1 | 0.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 57.3 |
-| kitco_general | OK | 42 | 42 | 5 | 37 | 0 | 0.1 |
-| gnews_fed | OK | 50 | 50 | 8 | 42 | 0 | 0.1 |
-| gnews_geopolitics | OK | 40 | 40 | 4 | 36 | 0 | 0.1 |
-| gnews_centralbanks | OK | 72 | 72 | 9 | 63 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 9.4 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 23.0 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.6 |
-| boj_whatsnew | OK | 48 | 3 | 0 | 3 | 45 | 0.4 |
-| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 1.1 |
-| mining_com | OK | 36 | 11 | 4 | 7 | 25 | 0.1 |
-| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
-| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.5 |
-| bbc_business | OK | 54 | 14 | 1 | 13 | 40 | 0.0 |
-| aljazeera | OK | 25 | 25 | 10 | 15 | 0 | 0.0 |
-| snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
-| eia_energy | OK | 24 | 1 | 0 | 1 | 23 | 0.5 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 2.5 |
-| wsj_world | OK | 72 | 15 | 1 | 14 | 57 | 0.1 |
-| wsj_markets | OK | 61 | 35 | 2 | 33 | 26 | 0.1 |
+| actionforex | OK | 20 | 20 | 6 | 14 | 0 | 0.0 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.7 |
+| instaforex | OK | 25 | 25 | 4 | 21 | 0 | 0.1 |
+| wsj_economy | OK | 36 | 10 | 1 | 9 | 26 | 0.2 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.4 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.5 |
+| cme_daily_commentary | OK | 10 | 9 | 0 | 9 | 1 | 0.4 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 57.6 |
+| kitco_general | OK | 42 | 41 | 1 | 40 | 1 | 0.2 |
+| gnews_fed | OK | 51 | 51 | 7 | 44 | 0 | 0.0 |
+| gnews_geopolitics | OK | 41 | 41 | 8 | 33 | 0 | 0.1 |
+| gnews_centralbanks | OK | 51 | 51 | 5 | 46 | 0 | 0.2 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 9.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 23.3 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 1.0 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.9 |
+| boj_whatsnew | OK | 48 | 3 | 0 | 3 | 45 | 0.7 |
+| rba_media | OK | 1 | 1 | 0 | 1 | 0 | 1.4 |
+| mining_com | OK | 36 | 11 | 0 | 11 | 25 | 0.4 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.4 |
+| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
+| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.8 |
+| bbc_business | OK | 54 | 14 | 0 | 14 | 40 | 0.3 |
+| aljazeera | OK | 25 | 25 | 22 | 3 | 0 | 0.0 |
+| snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.9 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 1.7 |
+| eia_energy | OK | 24 | 1 | 0 | 1 | 23 | 0.8 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 2.8 |
+| wsj_world | OK | 71 | 17 | 1 | 16 | 54 | 0.2 |
+| wsj_markets | OK | 60 | 35 | 1 | 34 | 25 | 0.2 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
-| cointelegraph | OK | 30 | 25 | 0 | 25 | 5 | 0.2 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
+| cointelegraph | OK | 30 | 26 | 1 | 25 | 4 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 57d purana
+- cme_risk_management — STALE, cadence 10d, magar 58d purana
 - yahoo_finance — FAIL, HTTP 404
