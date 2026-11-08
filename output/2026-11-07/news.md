@@ -1,9 +1,9 @@
 # News Pack — Trading Day 07 Nov 2026
 
 - Trading day: **07 Nov 03:00 -> 08 Nov 02:59 PKT**
-- Aakhri update: **08 Nov 04:03 PKT**
-- Kul khabrein: **317**
-- Feeds: 35/39 OK
+- Aakhri update: **08 Nov 07:22 PKT**
+- Kul khabrein: **331**
+- Feeds: 34/39 OK
 
 ---
 
@@ -101,6 +101,11 @@ Federal Reserve leaves rates unchanged as Warsh faces questions on inflation KRC
 
 October nonfarm payrolls reignite December in... ChainCatcher
 
+**Fed to cut back on rate-setting meetings, Fed chair Warsh says - KRCR**
+`07 Nov 15:22 PKT` · pehli baar dekhi `08 Nov 07:22` · gnews_fed
+
+Fed to cut back on rate-setting meetings, Fed chair Warsh says KRCR
+
 **Fed and OCC probe U.S. banks for unusual activi... - Pluang**
 `07 Nov 14:24 PKT` · pehli baar dekhi `07 Nov 20:41` · gnews_fed
 
@@ -135,6 +140,11 @@ Dollar jumps after strong US payrolls report inkl
 `07 Nov 09:18 PKT` · pehli baar dekhi `07 Nov 14:10` · gnews_fed
 
 Fed's Daly warns of more rate hikes as inflation keeps Americans under pressure Cryptopolitan
+
+**Lawyer for Fed's Cook seeks clarity ahead of any White House hearing - The Lufkin Daily News**
+`07 Nov 08:52 PKT` · pehli baar dekhi `08 Nov 07:22` · gnews_fed
+
+Lawyer for Fed's Cook seeks clarity ahead of any White House hearing The Lufkin Daily News
 
 **Wall Street Under Pressure: AI Concerns and a Strong Labor Market Complicate the Outlook**
 `07 Nov 08:10 PKT` · pehli baar dekhi `07 Nov 14:10` · actionforex
@@ -211,6 +221,11 @@ EUR/USD stayed in range trading above 1.1103 last week. Initial bias remains neu
   - `07 Nov 16:00` *actionforex* — EUR/GBP Weekly Outlook
   - `07 Nov 14:54` *actionforex* — EUR/AUD Weekly Outlook
   - `07 Nov 14:48` *actionforex* — EUR/CHF Weekly Outlook
+
+**ECB's Schnabel says fiscal stress must not hijack monetary policy - Luxembourg Times**
+`07 Nov 15:11 PKT` · pehli baar dekhi `08 Nov 07:22` · gnews_centralbanks
+
+ECB's Schnabel says fiscal stress must not hijack monetary policy Luxembourg Times
 
 **ECB Candidate de Cos Says Vigilance Needed on Inflation Risks - Bloomberg.com**
 `07 Nov 13:30 PKT` · pehli baar dekhi `08 Nov 00:39` · gnews_centralbanks
@@ -423,6 +438,26 @@ Armenian officials have commenced design work for the TRIPP trade corridor, even
 
 Just a few years ago, the United States was developing new hydrogen hubs to support energy diversification and help achieve a green transition. However, the development of these fuel hubs has not proceeded as expected, with several major projects stalling and political support faltering. The Biden administration showed broad support for hydrogen production, aiming to massively expand the sector and advance green hydrogen development.
 
+**CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist - EnergyNow.com**
+`07 Nov 18:46 PKT` · pehli baar dekhi `08 Nov 07:22` · gnews_geopolitics
+
+CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist EnergyNow.com
+
+**No Full Hormuz Flows Until First Half of 2027, UAE's Oil Giant Says - EnergyNow.com**
+`07 Nov 18:42 PKT` · pehli baar dekhi `08 Nov 07:22` · gnews_geopolitics
+
+No Full Hormuz Flows Until First Half of 2027, UAE's Oil Giant Says EnergyNow.com
+
+**Morgan Stanley Lowers Oil Price Forecasts After US-Iran Peace Deal - EnergyNow.com**
+`07 Nov 18:41 PKT` · pehli baar dekhi `08 Nov 07:22` · gnews_geopolitics
+
+Morgan Stanley Lowers Oil Price Forecasts After US-Iran Peace Deal EnergyNow.com
+
+**Oil Prices Jump Over 7% After Trump Says Attacks on Iran Will Continue - EnergyNow**
+`07 Nov 18:33 PKT` · pehli baar dekhi `08 Nov 07:22` · gnews_geopolitics
+
+Oil Prices Jump Over 7% After Trump Says Attacks on Iran Will Continue EnergyNow
+
 **Port of Fujairah Resumes Oil Loadings After Attack and Why it Matters Globally - EnergyNow.com**
 `07 Nov 18:32 PKT` · pehli baar dekhi `08 Nov 04:03` · gnews_geopolitics
 
@@ -442,6 +477,21 @@ Oil Set for Sharp Weekly Drop but Middle East Supply Concerns Provide Floor ASHA
 `07 Nov 18:16 PKT` · pehli baar dekhi `08 Nov 00:39` · gnews_geopolitics
 
 Oil Prices Flat After Iran Says Dozens of Vessels are Crossing Hormuz EnergyNow.com
+
+**Oil Prices Little Changed for Week as US-Iran Peace Efforts Hold - EnergyNow.com**
+`07 Nov 18:06 PKT` · pehli baar dekhi `08 Nov 07:22` · gnews_geopolitics
+
+Oil Prices Little Changed for Week as US-Iran Peace Efforts Hold EnergyNow.com
+
+**Oil Prices Rise 2% as US and Iran Extend Talks into Next Week - EnergyNow.com**
+`07 Nov 18:02 PKT` · pehli baar dekhi `08 Nov 07:22` · gnews_geopolitics
+
+Oil Prices Rise 2% as US and Iran Extend Talks into Next Week EnergyNow.com
+
+**US Intercepts Three Iranian Oil Tankers in Asian Waters, Sources Say - EnergyNow.com**
+`07 Nov 17:57 PKT` · pehli baar dekhi `08 Nov 07:22` · gnews_geopolitics
+
+US Intercepts Three Iranian Oil Tankers in Asian Waters, Sources Say EnergyNow.com
 
 **Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?**
 `07 Nov 17:24 PKT` · pehli baar dekhi `07 Nov 20:41` · aljazeera
@@ -636,10 +686,25 @@ CENTCOM forms Task Force Iron Gate to disrupt Iran's ground weapons supply route
 
 US CENTCOM creates 'Task Force Iron Gate' to block Iran's illegal weapons and revenue routes Business Upturn
 
+**How a Houthi Blockade in the Red Sea Tightens Iran's Grip on Global Energy Supplies - EnergyNow.com**
+`07 Nov 18:50 PKT` · pehli baar dekhi `08 Nov 07:22` · gnews_geopolitics
+
+How a Houthi Blockade in the Red Sea Tightens Iran's Grip on Global Energy Supplies EnergyNow.com
+
+**Global Oil Price Retreats After Hitting 4-Year High on Concern of US-Iran War Escalation - EnergyNow.com**
+`07 Nov 18:31 PKT` · pehli baar dekhi `08 Nov 07:22` · gnews_geopolitics
+
+Global Oil Price Retreats After Hitting 4-Year High on Concern of US-Iran War Escalation EnergyNow.com
+
 **The AI trade is now counting on Anthropic's IPO — but it couldn't be happening at a worse time**
 `07 Nov 18:30 PKT` · pehli baar dekhi `07 Nov 20:41` · mw_topstories
 
 The ongoing tech selloff is leading investors to wonder if Anthropic will delay its IPO or list at a discount.
+
+**Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA - EnergyNow.com**
+`07 Nov 18:19 PKT` · pehli baar dekhi `08 Nov 07:22` · gnews_geopolitics
+
+Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA EnergyNow.com
 
 **Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza**
 `07 Nov 18:07 PKT` · pehli baar dekhi `07 Nov 20:41` · aljazeera
@@ -770,7 +835,7 @@ Iran War Boosts US Shale Oil But Only So Much: Bousso EnergyNow.com
 
 COMMENTARY: Oil Markets Survived the Iran War Sprint. Now Comes the Marathon: Bousso EnergyNow.com
 
-### BINA TAG (140)
+### BINA TAG (141)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -780,6 +845,7 @@ COMMENTARY: Oil Markets Survived the Iran War Sprint. Now Comes the Marathon: Bo
 - `08 Nov 02:01` **wsj_world** — Netanyahu's Challenger Tapped to Try to Form Israeli Government
 - `08 Nov 01:59` **investing_news** — CoreWeave seeks truce with Texas Governor-elect Hinojosa
 - `08 Nov 01:53` **aljazeera** — Mélenchon promises action against Israeli annexation if elected President
+- `08 Nov 01:53` **kitco_general** — BASE-METALS description={PAGE_DESCRIPTION} News - Kitco
 - `08 Nov 01:48` **aljazeera** — Who is behind Europe's suspected hybrid attacks?
 - `08 Nov 01:26` **aljazeera** — Israel's president picks Eisenkot over Netanyahu to form next government
 - `08 Nov 01:15` **investing_news** — Century Casinos earnings missed, revenue fell short of estimates
@@ -931,45 +997,45 @@ investing_news (22)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.8 |
+| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.9 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 18 | 0 | 18 | 2 | 0.4 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.3 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.6 |
-| wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.3 |
-| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 1.0 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 1.0 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 1.0 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 1.0 |
-| cme_daily_commentary | OK | 10 | 6 | 0 | 6 | 4 | 0.9 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 58.2 |
-| kitco_general | OK | 6 | 5 | 1 | 4 | 1 | 0.2 |
-| gnews_fed | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
-| gnews_geopolitics | OK | 33 | 33 | 13 | 20 | 0 | 0.1 |
-| gnews_centralbanks | OK | 19 | 19 | 1 | 18 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 10.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 23.8 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.5 |
-| boj_whatsnew | OK | 48 | 0 | 0 | 0 | 48 | 1.3 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.0 |
-| mining_com | OK | 36 | 3 | 0 | 3 | 33 | 1.0 |
-| oilprice | OK | 15 | 5 | 2 | 3 | 10 | 0.0 |
-| investing_commodities | OK | 10 | 5 | 2 | 3 | 5 | 0.1 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
-| bbc_business | OK | 54 | 3 | 2 | 1 | 51 | 0.1 |
-| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.5 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 2.3 |
-| eia_energy | OK | 24 | 0 | 0 | 0 | 24 | 1.4 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 3.4 |
-| wsj_world | OK | 71 | 7 | 2 | 5 | 64 | 0.0 |
-| wsj_markets | OK | 60 | 8 | 0 | 8 | 52 | 0.3 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.1 |
+| actionforex | OK | 20 | 18 | 0 | 18 | 2 | 0.6 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.4 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.8 |
+| wsj_economy | OK | 36 | 3 | 0 | 3 | 33 | 0.4 |
+| cme_metals_video | OK | 10 | 1 | 0 | 1 | 9 | 1.2 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 1.2 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 1.1 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 1.2 |
+| cme_daily_commentary | OK | 10 | 6 | 0 | 6 | 4 | 1.1 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 58.3 |
+| kitco_general | OK | 1 | 1 | 1 | 0 | 0 | 0.2 |
+| gnews_fed | OK | 25 | 25 | 3 | 22 | 0 | 0.1 |
+| gnews_geopolitics | OK | 32 | 32 | 12 | 20 | 0 | 0.1 |
+| gnews_centralbanks | OK | 18 | 18 | 1 | 17 | 0 | 0.3 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 10.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 24.0 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.6 |
+| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 1.4 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 2.1 |
+| mining_com | OK | 36 | 3 | 0 | 3 | 33 | 1.1 |
+| oilprice | OK | 15 | 6 | 1 | 5 | 9 | 0.1 |
+| investing_commodities | OK | 10 | 5 | 0 | 5 | 5 | 0.2 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| bbc_business | OK | 43 | 4 | 1 | 3 | 39 | 0.1 |
+| aljazeera | OK | 25 | 25 | 4 | 21 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.6 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| eia_energy | OK | 24 | 0 | 0 | 0 | 24 | 1.5 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 3.5 |
+| wsj_world | OK | 71 | 7 | 0 | 7 | 64 | 0.2 |
+| wsj_markets | OK | 60 | 9 | 1 | 8 | 51 | 0.1 |
+| investing_news | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 6 | 0 | 6 | 24 | 0.4 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 6 | 0 | 6 | 24 | 0.5 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
