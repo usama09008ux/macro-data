@@ -51,26 +51,6 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/125-ge-trade-balance]]></url>
 	</event>
 	<event>
-		<title>M2 Money Supply y/y</title>
-		<country>CNY</country>
-		<date><![CDATA[11-09-2026]]></date>
-		<time><![CDATA[9:03am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[7.3%]]></forecast>
-		<previous><![CDATA[7.2%]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy]]></url>
-	</event>
-	<event>
-		<title>New Loans</title>
-		<country>CNY</country>
-		<date><![CDATA[11-09-2026]]></date>
-		<time><![CDATA[9:03am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[80B]]></forecast>
-		<previous><![CDATA[1080B]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/477-ch-new-loans]]></url>
-	</event>
-	<event>
 		<title>Sentix Investor Confidence</title>
 		<country>EUR</country>
 		<date><![CDATA[11-09-2026]]></date>
@@ -279,6 +259,26 @@
 		<forecast />
 		<previous />
 		<url><![CDATA[https://www.forexfactory.com/calendar/839-us-fomc-member-waller-speaks]]></url>
+	</event>
+	<event>
+		<title>M2 Money Supply y/y</title>
+		<country>CNY</country>
+		<date><![CDATA[11-10-2026]]></date>
+		<time><![CDATA[9:03am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[7.3%]]></forecast>
+		<previous><![CDATA[7.2%]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy]]></url>
+	</event>
+	<event>
+		<title>New Loans</title>
+		<country>CNY</country>
+		<date><![CDATA[11-10-2026]]></date>
+		<time><![CDATA[9:03am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[80B]]></forecast>
+		<previous><![CDATA[1080B]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/477-ch-new-loans]]></url>
 	</event>
 	<event>
 		<title>NFIB Small Business Index</title>
