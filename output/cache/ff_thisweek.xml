@@ -61,6 +61,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/320-ez-sentix-investor-confidence]]></url>
 	</event>
 	<event>
+		<title>G7 Meetings</title>
+		<country>All</country>
+		<date><![CDATA[11-09-2026]]></date>
+		<time><![CDATA[9:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/423-g7-meetings]]></url>
+	</event>
+	<event>
 		<title>ECOFIN Meetings</title>
 		<country>EUR</country>
 		<date><![CDATA[11-09-2026]]></date>
@@ -206,7 +216,7 @@
 		<date><![CDATA[11-10-2026]]></date>
 		<time><![CDATA[3:03am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[859B]]></forecast>
+		<forecast><![CDATA[855B]]></forecast>
 		<previous><![CDATA[906B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/630-ch-trade-balance]]></url>
 	</event>
@@ -236,7 +246,7 @@
 		<date><![CDATA[11-10-2026]]></date>
 		<time><![CDATA[5:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[46.9]]></forecast>
+		<forecast><![CDATA[47.1]]></forecast>
 		<previous><![CDATA[47.0]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/324-jn-economy-watchers-sentiment]]></url>
 	</event>
@@ -266,7 +276,7 @@
 		<date><![CDATA[11-10-2026]]></date>
 		<time><![CDATA[9:03am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[7.3%]]></forecast>
+		<forecast><![CDATA[7.2%]]></forecast>
 		<previous><![CDATA[7.2%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy]]></url>
 	</event>
@@ -281,12 +291,22 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/477-ch-new-loans]]></url>
 	</event>
 	<event>
+		<title>G7 Meetings</title>
+		<country>All</country>
+		<date><![CDATA[11-10-2026]]></date>
+		<time><![CDATA[9:45am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/423-g7-meetings]]></url>
+	</event>
+	<event>
 		<title>NFIB Small Business Index</title>
 		<country>USD</country>
 		<date><![CDATA[11-10-2026]]></date>
 		<time><![CDATA[11:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[97.7]]></forecast>
+		<forecast><![CDATA[98.0]]></forecast>
 		<previous><![CDATA[97.9]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/570-us-nfib-small-business-index]]></url>
 	</event>
@@ -484,7 +504,7 @@
 		<title>German Buba President Nagel Speaks</title>
 		<country>EUR</country>
 		<date><![CDATA[11-11-2026]]></date>
-		<time><![CDATA[8:20am]]></time>
+		<time><![CDATA[8:15am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous />
@@ -499,6 +519,16 @@
 		<forecast><![CDATA[0.7%]]></forecast>
 		<previous><![CDATA[-1.3%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/223-it-industrial-production-mm]]></url>
+	</event>
+	<event>
+		<title>ECB President Lagarde Speaks</title>
+		<country>EUR</country>
+		<date><![CDATA[11-11-2026]]></date>
+		<time><![CDATA[9:45am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks]]></url>
 	</event>
 	<event>
 		<title>German 30-y Bond Auction</title>
@@ -566,7 +596,7 @@
 		<date><![CDATA[11-12-2026]]></date>
 		<time><![CDATA[12:01am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[-32%]]></forecast>
+		<forecast><![CDATA[-33%]]></forecast>
 		<previous><![CDATA[-32%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/260-uk-rics-house-price-balance]]></url>
 	</event>
@@ -646,7 +676,7 @@
 		<date><![CDATA[11-12-2026]]></date>
 		<time><![CDATA[7:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[-0.3%]]></forecast>
+		<forecast><![CDATA[0.4%]]></forecast>
 		<previous><![CDATA[1.7%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/204-uk-prelim-business-investment-qq]]></url>
 	</event>
@@ -661,22 +691,12 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/612-ez-ecb-economic-bulletin]]></url>
 	</event>
 	<event>
-		<title>EU Economic Forecasts</title>
-		<country>EUR</country>
-		<date><![CDATA[11-12-2026]]></date>
-		<time><![CDATA[10:00am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast />
-		<previous />
-		<url><![CDATA[https://www.forexfactory.com/calendar/413-ez-eu-economic-forecasts]]></url>
-	</event>
-	<event>
 		<title>Building Permits m/m</title>
 		<country>CAD</country>
 		<date><![CDATA[11-12-2026]]></date>
 		<time><![CDATA[1:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[-3.9%]]></forecast>
+		<forecast><![CDATA[-4.0%]]></forecast>
 		<previous><![CDATA[8.8%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/200-ca-building-permits-mm]]></url>
 	</event>
@@ -694,7 +714,7 @@
 		<title>FOMC Member Hammack Speaks</title>
 		<country>USD</country>
 		<date><![CDATA[11-12-2026]]></date>
-		<time><![CDATA[2:00pm]]></time>
+		<time><![CDATA[1:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous />
@@ -744,7 +764,7 @@
 		<title>FOMC Member Goolsbee Speaks</title>
 		<country>USD</country>
 		<date><![CDATA[11-12-2026]]></date>
-		<time><![CDATA[4:30pm]]></time>
+		<time><![CDATA[4:15pm]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous />
@@ -759,6 +779,16 @@
 		<forecast />
 		<previous><![CDATA[-0.9M]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/10-us-crude-oil-inventories]]></url>
+	</event>
+	<event>
+		<title>German Buba President Nagel Speaks</title>
+		<country>EUR</country>
+		<date><![CDATA[11-12-2026]]></date>
+		<time><![CDATA[5:30pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/851-ge-buba-president-nagel-speaks]]></url>
 	</event>
 	<event>
 		<title>30-y Bond Auction</title>
@@ -979,6 +1009,16 @@
 		<forecast />
 		<previous />
 		<url><![CDATA[https://www.forexfactory.com/calendar/812-us-fomc-member-bowman-speaks]]></url>
+	</event>
+	<event>
+		<title>German Buba President Nagel Speaks</title>
+		<country>EUR</country>
+		<date><![CDATA[11-13-2026]]></date>
+		<time><![CDATA[4:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/851-ge-buba-president-nagel-speaks]]></url>
 	</event>
 	<event>
 		<title>FOMC Member Daly Speaks</title>

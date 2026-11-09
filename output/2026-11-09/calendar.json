@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "09 Nov 2026 19:10",
+  "generated_pkt": "10 Nov 2026 02:46",
   "trading_day": "2026-11-09",
   "feed_sources": {
     "thisweek": "live"
@@ -81,6 +81,19 @@
       "utc": "2026-11-09T09:30Z",
       "pkt": "09 Nov 14:30",
       "pkt_iso": "2026-11-09T14:30:00+05:00",
+      "trading_day": "2026-11-09"
+    },
+    {
+      "title": "G7 Meetings",
+      "ccy": "All",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/423-g7-meetings",
+      "all_day": false,
+      "utc": "2026-11-09T09:45Z",
+      "pkt": "09 Nov 14:45",
+      "pkt_iso": "2026-11-09T14:45:00+05:00",
       "trading_day": "2026-11-09"
     },
     {
@@ -269,7 +282,7 @@
       "title": "Trade Balance",
       "ccy": "CNY",
       "impact": "Low",
-      "forecast": "859B",
+      "forecast": "855B",
       "previous": "906B",
       "url": "https://www.forexfactory.com/calendar/630-ch-trade-balance",
       "all_day": false,
@@ -308,7 +321,7 @@
       "title": "Economy Watchers Sentiment",
       "ccy": "JPY",
       "impact": "Low",
-      "forecast": "46.9",
+      "forecast": "47.1",
       "previous": "47.0",
       "url": "https://www.forexfactory.com/calendar/324-jn-economy-watchers-sentiment",
       "all_day": false,
@@ -347,7 +360,7 @@
       "title": "M2 Money Supply y/y",
       "ccy": "CNY",
       "impact": "Low",
-      "forecast": "7.3%",
+      "forecast": "7.2%",
       "previous": "7.2%",
       "url": "https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy",
       "all_day": false,
@@ -370,10 +383,23 @@
       "trading_day": "2026-11-10"
     },
     {
+      "title": "G7 Meetings",
+      "ccy": "All",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/423-g7-meetings",
+      "all_day": false,
+      "utc": "2026-11-10T09:45Z",
+      "pkt": "10 Nov 14:45",
+      "pkt_iso": "2026-11-10T14:45:00+05:00",
+      "trading_day": "2026-11-10"
+    },
+    {
       "title": "NFIB Small Business Index",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "97.7",
+      "forecast": "98.0",
       "previous": "97.9",
       "url": "https://www.forexfactory.com/calendar/570-us-nfib-small-business-index",
       "all_day": false,
@@ -637,9 +663,9 @@
       "previous": "",
       "url": "https://www.forexfactory.com/calendar/851-ge-buba-president-nagel-speaks",
       "all_day": false,
-      "utc": "2026-11-11T08:20Z",
-      "pkt": "11 Nov 13:20",
-      "pkt_iso": "2026-11-11T13:20:00+05:00",
+      "utc": "2026-11-11T08:15Z",
+      "pkt": "11 Nov 13:15",
+      "pkt_iso": "2026-11-11T13:15:00+05:00",
       "trading_day": "2026-11-11"
     },
     {
@@ -653,6 +679,19 @@
       "utc": "2026-11-11T09:00Z",
       "pkt": "11 Nov 14:00",
       "pkt_iso": "2026-11-11T14:00:00+05:00",
+      "trading_day": "2026-11-11"
+    },
+    {
+      "title": "ECB President Lagarde Speaks",
+      "ccy": "EUR",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/832-ez-ecb-president-lagarde-speaks",
+      "all_day": false,
+      "utc": "2026-11-11T09:45Z",
+      "pkt": "11 Nov 14:45",
+      "pkt_iso": "2026-11-11T14:45:00+05:00",
       "trading_day": "2026-11-11"
     },
     {
@@ -737,7 +776,7 @@
       "title": "RICS House Price Balance",
       "ccy": "GBP",
       "impact": "Low",
-      "forecast": "-32%",
+      "forecast": "-33%",
       "previous": "-32%",
       "url": "https://www.forexfactory.com/calendar/260-uk-rics-house-price-balance",
       "all_day": false,
@@ -841,7 +880,7 @@
       "title": "Prelim Business Investment q/q",
       "ccy": "GBP",
       "impact": "Low",
-      "forecast": "-0.3%",
+      "forecast": "0.4%",
       "previous": "1.7%",
       "url": "https://www.forexfactory.com/calendar/204-uk-prelim-business-investment-qq",
       "all_day": false,
@@ -864,23 +903,10 @@
       "trading_day": "2026-11-12"
     },
     {
-      "title": "EU Economic Forecasts",
-      "ccy": "EUR",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "",
-      "url": "https://www.forexfactory.com/calendar/413-ez-eu-economic-forecasts",
-      "all_day": false,
-      "utc": "2026-11-12T10:00Z",
-      "pkt": "12 Nov 15:00",
-      "pkt_iso": "2026-11-12T15:00:00+05:00",
-      "trading_day": "2026-11-12"
-    },
-    {
       "title": "Building Permits m/m",
       "ccy": "CAD",
       "impact": "Low",
-      "forecast": "-3.9%",
+      "forecast": "-4.0%",
       "previous": "8.8%",
       "url": "https://www.forexfactory.com/calendar/200-ca-building-permits-mm",
       "all_day": false,
@@ -910,9 +936,9 @@
       "previous": "",
       "url": "https://www.forexfactory.com/calendar/913-us-fomc-member-hammack-speaks",
       "all_day": false,
-      "utc": "2026-11-12T14:00Z",
-      "pkt": "12 Nov 19:00",
-      "pkt_iso": "2026-11-12T19:00:00+05:00",
+      "utc": "2026-11-12T13:30Z",
+      "pkt": "12 Nov 18:30",
+      "pkt_iso": "2026-11-12T18:30:00+05:00",
       "trading_day": "2026-11-12"
     },
     {
@@ -975,9 +1001,9 @@
       "previous": "",
       "url": "https://www.forexfactory.com/calendar/889-us-fomc-member-goolsbee-speaks",
       "all_day": false,
-      "utc": "2026-11-12T16:30Z",
-      "pkt": "12 Nov 21:30",
-      "pkt_iso": "2026-11-12T21:30:00+05:00",
+      "utc": "2026-11-12T16:15Z",
+      "pkt": "12 Nov 21:15",
+      "pkt_iso": "2026-11-12T21:15:00+05:00",
       "trading_day": "2026-11-12"
     },
     {
@@ -991,6 +1017,19 @@
       "utc": "2026-11-12T17:00Z",
       "pkt": "12 Nov 22:00",
       "pkt_iso": "2026-11-12T22:00:00+05:00",
+      "trading_day": "2026-11-12"
+    },
+    {
+      "title": "German Buba President Nagel Speaks",
+      "ccy": "EUR",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/851-ge-buba-president-nagel-speaks",
+      "all_day": false,
+      "utc": "2026-11-12T17:30Z",
+      "pkt": "12 Nov 22:30",
+      "pkt_iso": "2026-11-12T22:30:00+05:00",
       "trading_day": "2026-11-12"
     },
     {
@@ -1277,6 +1316,19 @@
       "utc": "2026-11-13T15:50Z",
       "pkt": "13 Nov 20:50",
       "pkt_iso": "2026-11-13T20:50:00+05:00",
+      "trading_day": "2026-11-13"
+    },
+    {
+      "title": "German Buba President Nagel Speaks",
+      "ccy": "EUR",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/851-ge-buba-president-nagel-speaks",
+      "all_day": false,
+      "utc": "2026-11-13T16:00Z",
+      "pkt": "13 Nov 21:00",
+      "pkt_iso": "2026-11-13T21:00:00+05:00",
       "trading_day": "2026-11-13"
     },
     {
