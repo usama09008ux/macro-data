@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "10 Nov 2026 05:30",
+  "generated_pkt": "10 Nov 2026 09:17",
   "trading_day": "2026-11-10",
   "feed_sources": {
     "thisweek": "live"
@@ -279,19 +279,6 @@
       "trading_day": "2026-11-10"
     },
     {
-      "title": "Trade Balance",
-      "ccy": "CNY",
-      "impact": "Low",
-      "forecast": "855B",
-      "previous": "906B",
-      "url": "https://www.forexfactory.com/calendar/630-ch-trade-balance",
-      "all_day": false,
-      "utc": "2026-11-10T03:03Z",
-      "pkt": "10 Nov 08:03",
-      "pkt_iso": "2026-11-10T08:03:00+05:00",
-      "trading_day": "2026-11-10"
-    },
-    {
       "title": "USD-Denominated Trade Balance",
       "ccy": "CNY",
       "impact": "Low",
@@ -299,9 +286,22 @@
       "previous": "133.5B",
       "url": "https://www.forexfactory.com/calendar/450-ch-usd-denominated-trade-balance",
       "all_day": false,
-      "utc": "2026-11-10T03:04Z",
-      "pkt": "10 Nov 08:04",
-      "pkt_iso": "2026-11-10T08:04:00+05:00",
+      "utc": "2026-11-10T02:32Z",
+      "pkt": "10 Nov 07:32",
+      "pkt_iso": "2026-11-10T07:32:00+05:00",
+      "trading_day": "2026-11-10"
+    },
+    {
+      "title": "Trade Balance",
+      "ccy": "CNY",
+      "impact": "Low",
+      "forecast": "855B",
+      "previous": "906B",
+      "url": "https://www.forexfactory.com/calendar/630-ch-trade-balance",
+      "all_day": false,
+      "utc": "2026-11-10T02:33Z",
+      "pkt": "10 Nov 07:33",
+      "pkt_iso": "2026-11-10T07:33:00+05:00",
       "trading_day": "2026-11-10"
     },
     {

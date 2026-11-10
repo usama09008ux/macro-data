@@ -1,6 +1,6 @@
 # Calendar — Trading Day 10 Nov 2026
 
-- Banaya gaya: **10 Nov 2026 05:30 PKT**
+- Banaya gaya: **10 Nov 2026 09:17 PKT**
 - Trading day: **10 Nov 03:00 -> 11 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,9 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 08:03 | CNY | low | Trade Balance | 855B | 906B |
-| 08:04 | CNY | low | USD-Denominated Trade Balance | 126.5B | 133.5B |
-| 08:35 | JPY | low | 30-y Bond Auction | - | 4.11|3.9 |
 | 10:00 | JPY | low | Economy Watchers Sentiment | 47.1 | 47.0 |
 | 13:30 | GBP | low | MPC Member Breeden Speaks | - | - |
 | 14:00 | USD | MED | FOMC Member Waller Speaks | - | - |

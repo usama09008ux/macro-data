@@ -211,24 +211,24 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/323-au-nab-business-confidence]]></url>
 	</event>
 	<event>
-		<title>Trade Balance</title>
-		<country>CNY</country>
-		<date><![CDATA[11-10-2026]]></date>
-		<time><![CDATA[3:03am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[855B]]></forecast>
-		<previous><![CDATA[906B]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/630-ch-trade-balance]]></url>
-	</event>
-	<event>
 		<title>USD-Denominated Trade Balance</title>
 		<country>CNY</country>
 		<date><![CDATA[11-10-2026]]></date>
-		<time><![CDATA[3:04am]]></time>
+		<time><![CDATA[2:32am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast><![CDATA[126.5B]]></forecast>
 		<previous><![CDATA[133.5B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/450-ch-usd-denominated-trade-balance]]></url>
+	</event>
+	<event>
+		<title>Trade Balance</title>
+		<country>CNY</country>
+		<date><![CDATA[11-10-2026]]></date>
+		<time><![CDATA[2:33am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[855B]]></forecast>
+		<previous><![CDATA[906B]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/630-ch-trade-balance]]></url>
 	</event>
 	<event>
 		<title>30-y Bond Auction</title>
