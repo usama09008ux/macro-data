@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 10 Nov 2026
 
-- Banaya gaya: **10 Nov 2026 18:47 PKT**
+- Banaya gaya: **11 Nov 2026 00:45 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
@@ -36,8 +36,8 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| VIX <br>`VIXCLS` | **25.64** | -2.54 | +6.22 | +10.8 | 96 | 2026-11-06 |
-| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.42%** | -0.06 | -0.02 | +0.31 | 87 | 2026-11-06 |
+| VIX <br>`VIXCLS` | **19.92** | -5.72 | -1.23 | +4.71 | 83 | 2026-11-09 |
+| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.34%** | -0.08 | -0.09 | +0.23 | 83 | 2026-11-09 |
 | Financial stress index <br>`STLFSI4` | **-0.52** | +0.0618 | +0.2835 | +0.2425 | 69 | 2026-10-30 |
 
 ---
@@ -46,8 +46,8 @@
 
 | Series | Aaj | MoM % | YoY % | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|
-| CPI (headline) <br>`CPIAUCSL` | **336.30idx** | +0.65 | +4.02 | 97 | 2026-09-01 |
-| Core CPI <br>`CPILFESL` | **338.90idx** | +0.33 | +2.79 | 97 | 2026-09-01 |
+| CPI (headline) <br>`CPIAUCSL` | **337.48idx** | +0.35 | +4.08 | 97 | 2026-10-01 |
+| Core CPI <br>`CPILFESL` | **339.90idx** | +0.3 | +2.87 | 97 | 2026-10-01 |
 | Core PCE (Fed ka hadaf) <br>`PCEPILFE` | **130.90idx** | +0.32 | +3.12 | 97 | 2026-09-01 |
 | PPI final demand <br>`PPIFIS` | **159.78idx** | +1.34 | +6.35 | 97 | 2026-09-01 |
 
