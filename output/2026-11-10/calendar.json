@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "10 Nov 2026 18:40",
+  "generated_pkt": "11 Nov 2026 00:05",
   "trading_day": "2026-11-10",
   "feed_sources": {
     "thisweek": "live"
@@ -413,12 +413,12 @@
       "ccy": "USD",
       "impact": "Low",
       "forecast": "",
-      "previous": "",
+      "previous": "16.8K",
       "url": "https://www.forexfactory.com/calendar/929-us-adp-weekly-employment-change",
       "all_day": false,
-      "utc": "2026-11-10T13:15Z",
-      "pkt": "10 Nov 18:15",
-      "pkt_iso": "2026-11-10T18:15:00+05:00",
+      "utc": "2026-11-10T13:14Z",
+      "pkt": "10 Nov 18:14",
+      "pkt_iso": "2026-11-10T18:14:00+05:00",
       "trading_day": "2026-11-10"
     },
     {
@@ -426,12 +426,12 @@
       "ccy": "USD",
       "impact": "Low",
       "forecast": "",
-      "previous": "16.8K",
+      "previous": "19.5K",
       "url": "https://www.forexfactory.com/calendar/929-us-adp-weekly-employment-change",
       "all_day": false,
-      "utc": "2026-11-10T13:16Z",
-      "pkt": "10 Nov 18:16",
-      "pkt_iso": "2026-11-10T18:16:00+05:00",
+      "utc": "2026-11-10T13:15Z",
+      "pkt": "10 Nov 18:15",
+      "pkt_iso": "2026-11-10T18:15:00+05:00",
       "trading_day": "2026-11-10"
     },
     {
@@ -1371,5 +1371,22 @@
       "trading_day": "2026-11-14"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US October core CPI +0.3% vs +0.2% expected",
+      "actual_raw": "+0.3%",
+      "forecast_raw": "+0.2%",
+      "beat": true,
+      "raw_diff": "+0.10pp",
+      "sign_flip": false,
+      "diff_pct": 50.0,
+      "when_pkt": "10 Nov 18:30",
+      "source": "investinglive",
+      "tags": [
+        "jpy",
+        "usd",
+        "rates"
+      ]
+    }
+  ]
 }

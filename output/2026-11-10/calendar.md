@@ -1,6 +1,6 @@
 # Calendar — Trading Day 10 Nov 2026
 
-- Banaya gaya: **10 Nov 2026 18:40 PKT**
+- Banaya gaya: **11 Nov 2026 00:05 PKT**
 - Trading day: **10 Nov 03:00 -> 11 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,27 +12,22 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 20:50 | USD | low | FOMC Member Logan Speaks | - | - |
-| 23:01 | USD | low | 10-y Bond Auction | - | 5.30|2.8 |
-| 23:30 | CAD | low | BOC Summary of Deliberations | - | - |
-| 23:30 | GBP | low | MPC Member Pill Speaks | - | - |
-| 23:30 | USD | low | FOMC Member Schmid Speaks | - | - |
-| **11 Nov** 01:30 | USD | low | FOMC Member Bowman Speaks | - | - |
-| **11 Nov** 02:30 | USD | low | API Weekly Statistical Bulletin | - | - |
-| **11 Nov** 04:30 | USD | low | FOMC Member Bowman Speaks | - | - |
-| **11 Nov** 04:30 | USD | low | FOMC Member Paulson Speaks | - | - |
-| **11 Nov** 04:50 | JPY | low | M2 Money Stock y/y | 2.1% | 2.0% |
-| **11 Nov** 11:00 | JPY | low | Prelim Machine Tool Orders y/y | - | 60.4% |
-| **11 Nov** 12:00 | EUR | low | German Final CPI m/m | -0.2% | -0.2% |
-| **11 Nov** 12:01 | EUR | chhutti | French Bank Holiday | - | - |
-| **11 Nov** 13:15 | EUR | low | German Buba President Nagel Speaks | - | - |
-| **11 Nov** 14:00 | EUR | low | Italian Industrial Production m/m | 0.7% | -1.3% |
-| **11 Nov** 14:03 | CNY | low | M2 Money Supply y/y | 7.2% | 7.2% |
-| **11 Nov** 14:03 | CNY | low | New Loans | 80B | 1080B |
-| **11 Nov** 14:45 | EUR | MED | ECB President Lagarde Speaks | - | - |
-| **11 Nov** 15:34 | EUR | low | German 30-y Bond Auction | - | 3.80|1.4 |
-| **11 Nov** 18:00 | CAD | chhutti | Bank Holiday | - | - |
-| **11 Nov** 18:00 | USD | chhutti | Bank Holiday | - | - |
+| 01:30 | USD | low | FOMC Member Bowman Speaks | - | - |
+| 02:30 | USD | low | API Weekly Statistical Bulletin | - | - |
+| 04:30 | USD | low | FOMC Member Bowman Speaks | - | - |
+| 04:30 | USD | low | FOMC Member Paulson Speaks | - | - |
+| 04:50 | JPY | low | M2 Money Stock y/y | 2.1% | 2.0% |
+| 11:00 | JPY | low | Prelim Machine Tool Orders y/y | - | 60.4% |
+| 12:00 | EUR | low | German Final CPI m/m | -0.2% | -0.2% |
+| 12:01 | EUR | chhutti | French Bank Holiday | - | - |
+| 13:15 | EUR | low | German Buba President Nagel Speaks | - | - |
+| 14:00 | EUR | low | Italian Industrial Production m/m | 0.7% | -1.3% |
+| 14:03 | CNY | low | M2 Money Supply y/y | 7.2% | 7.2% |
+| 14:03 | CNY | low | New Loans | 80B | 1080B |
+| 14:45 | EUR | MED | ECB President Lagarde Speaks | - | - |
+| 15:34 | EUR | low | German 30-y Bond Auction | - | 3.80|1.4 |
+| 18:00 | CAD | chhutti | Bank Holiday | - | - |
+| 18:00 | USD | chhutti | Bank Holiday | - | - |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
@@ -53,5 +48,9 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 10 Nov 18:30 | US October core CPI | +0.3% | +0.2% | +0.10pp (+50%) | upar |
 
