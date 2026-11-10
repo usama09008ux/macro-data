@@ -726,7 +726,7 @@
 		<date><![CDATA[11-12-2026]]></date>
 		<time><![CDATA[3:00pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[3.86M]]></forecast>
+		<forecast><![CDATA[3.89M]]></forecast>
 		<previous><![CDATA[3.99M]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/232-us-existing-home-sales]]></url>
 	</event>
@@ -826,7 +826,7 @@
 		<date><![CDATA[11-12-2026]]></date>
 		<time><![CDATA[7:00pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast />
+		<forecast><![CDATA[-286.3B]]></forecast>
 		<previous><![CDATA[-26.9B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/322-us-federal-budget-balance]]></url>
 	</event>
@@ -896,7 +896,7 @@
 		<date><![CDATA[11-13-2026]]></date>
 		<time><![CDATA[9:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[1.85B]]></forecast>
+		<forecast><![CDATA[2.84B]]></forecast>
 		<previous><![CDATA[1.77B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/127-it-trade-balance]]></url>
 	</event>
