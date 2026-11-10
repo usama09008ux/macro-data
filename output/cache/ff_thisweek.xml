@@ -271,26 +271,6 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/839-us-fomc-member-waller-speaks]]></url>
 	</event>
 	<event>
-		<title>M2 Money Supply y/y</title>
-		<country>CNY</country>
-		<date><![CDATA[11-10-2026]]></date>
-		<time><![CDATA[9:03am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[7.2%]]></forecast>
-		<previous><![CDATA[7.2%]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy]]></url>
-	</event>
-	<event>
-		<title>New Loans</title>
-		<country>CNY</country>
-		<date><![CDATA[11-10-2026]]></date>
-		<time><![CDATA[9:03am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[80B]]></forecast>
-		<previous><![CDATA[1080B]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/477-ch-new-loans]]></url>
-	</event>
-	<event>
 		<title>G7 Meetings</title>
 		<country>All</country>
 		<date><![CDATA[11-10-2026]]></date>
@@ -301,6 +281,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/423-g7-meetings]]></url>
 	</event>
 	<event>
+		<title>30-y Bond Auction</title>
+		<country>GBP</country>
+		<date><![CDATA[11-10-2026]]></date>
+		<time><![CDATA[10:02am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[5.52|3.8]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/542-uk-30-y-bond-auction]]></url>
+	</event>
+	<event>
 		<title>NFIB Small Business Index</title>
 		<country>USD</country>
 		<date><![CDATA[11-10-2026]]></date>
@@ -309,16 +299,6 @@
 		<forecast><![CDATA[98.0]]></forecast>
 		<previous><![CDATA[97.9]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/570-us-nfib-small-business-index]]></url>
-	</event>
-	<event>
-		<title>30-y Bond Auction</title>
-		<country>GBP</country>
-		<date><![CDATA[11-10-2026]]></date>
-		<time><![CDATA[11:32am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast />
-		<previous><![CDATA[5.52|3.8]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/542-uk-30-y-bond-auction]]></url>
 	</event>
 	<event>
 		<title>MPC Member Lombardelli Speaks</title>
@@ -519,6 +499,26 @@
 		<forecast><![CDATA[0.7%]]></forecast>
 		<previous><![CDATA[-1.3%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/223-it-industrial-production-mm]]></url>
+	</event>
+	<event>
+		<title>M2 Money Supply y/y</title>
+		<country>CNY</country>
+		<date><![CDATA[11-11-2026]]></date>
+		<time><![CDATA[9:03am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[7.2%]]></forecast>
+		<previous><![CDATA[7.2%]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy]]></url>
+	</event>
+	<event>
+		<title>New Loans</title>
+		<country>CNY</country>
+		<date><![CDATA[11-11-2026]]></date>
+		<time><![CDATA[9:03am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[80B]]></forecast>
+		<previous><![CDATA[1080B]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/477-ch-new-loans]]></url>
 	</event>
 	<event>
 		<title>ECB President Lagarde Speaks</title>

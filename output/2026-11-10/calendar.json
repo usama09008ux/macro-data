@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "10 Nov 2026 09:17",
+  "generated_pkt": "10 Nov 2026 18:40",
   "trading_day": "2026-11-10",
   "feed_sources": {
     "thisweek": "live"
@@ -357,32 +357,6 @@
       "trading_day": "2026-11-10"
     },
     {
-      "title": "M2 Money Supply y/y",
-      "ccy": "CNY",
-      "impact": "Low",
-      "forecast": "7.2%",
-      "previous": "7.2%",
-      "url": "https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy",
-      "all_day": false,
-      "utc": "2026-11-10T09:03Z",
-      "pkt": "10 Nov 14:03",
-      "pkt_iso": "2026-11-10T14:03:00+05:00",
-      "trading_day": "2026-11-10"
-    },
-    {
-      "title": "New Loans",
-      "ccy": "CNY",
-      "impact": "Low",
-      "forecast": "80B",
-      "previous": "1080B",
-      "url": "https://www.forexfactory.com/calendar/477-ch-new-loans",
-      "all_day": false,
-      "utc": "2026-11-10T09:03Z",
-      "pkt": "10 Nov 14:03",
-      "pkt_iso": "2026-11-10T14:03:00+05:00",
-      "trading_day": "2026-11-10"
-    },
-    {
       "title": "G7 Meetings",
       "ccy": "All",
       "impact": "Low",
@@ -396,6 +370,19 @@
       "trading_day": "2026-11-10"
     },
     {
+      "title": "30-y Bond Auction",
+      "ccy": "GBP",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "5.52|3.8",
+      "url": "https://www.forexfactory.com/calendar/542-uk-30-y-bond-auction",
+      "all_day": false,
+      "utc": "2026-11-10T10:02Z",
+      "pkt": "10 Nov 15:02",
+      "pkt_iso": "2026-11-10T15:02:00+05:00",
+      "trading_day": "2026-11-10"
+    },
+    {
       "title": "NFIB Small Business Index",
       "ccy": "USD",
       "impact": "Low",
@@ -406,19 +393,6 @@
       "utc": "2026-11-10T11:00Z",
       "pkt": "10 Nov 16:00",
       "pkt_iso": "2026-11-10T16:00:00+05:00",
-      "trading_day": "2026-11-10"
-    },
-    {
-      "title": "30-y Bond Auction",
-      "ccy": "GBP",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "5.52|3.8",
-      "url": "https://www.forexfactory.com/calendar/542-uk-30-y-bond-auction",
-      "all_day": false,
-      "utc": "2026-11-10T11:32Z",
-      "pkt": "10 Nov 16:32",
-      "pkt_iso": "2026-11-10T16:32:00+05:00",
       "trading_day": "2026-11-10"
     },
     {
@@ -679,6 +653,32 @@
       "utc": "2026-11-11T09:00Z",
       "pkt": "11 Nov 14:00",
       "pkt_iso": "2026-11-11T14:00:00+05:00",
+      "trading_day": "2026-11-11"
+    },
+    {
+      "title": "M2 Money Supply y/y",
+      "ccy": "CNY",
+      "impact": "Low",
+      "forecast": "7.2%",
+      "previous": "7.2%",
+      "url": "https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy",
+      "all_day": false,
+      "utc": "2026-11-11T09:03Z",
+      "pkt": "11 Nov 14:03",
+      "pkt_iso": "2026-11-11T14:03:00+05:00",
+      "trading_day": "2026-11-11"
+    },
+    {
+      "title": "New Loans",
+      "ccy": "CNY",
+      "impact": "Low",
+      "forecast": "80B",
+      "previous": "1080B",
+      "url": "https://www.forexfactory.com/calendar/477-ch-new-loans",
+      "all_day": false,
+      "utc": "2026-11-11T09:03Z",
+      "pkt": "11 Nov 14:03",
+      "pkt_iso": "2026-11-11T14:03:00+05:00",
       "trading_day": "2026-11-11"
     },
     {

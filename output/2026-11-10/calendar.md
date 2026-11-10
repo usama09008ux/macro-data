@@ -1,6 +1,6 @@
 # Calendar — Trading Day 10 Nov 2026
 
-- Banaya gaya: **10 Nov 2026 09:17 PKT**
+- Banaya gaya: **10 Nov 2026 18:40 PKT**
 - Trading day: **10 Nov 03:00 -> 11 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,19 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 10:00 | JPY | low | Economy Watchers Sentiment | 47.1 | 47.0 |
-| 13:30 | GBP | low | MPC Member Breeden Speaks | - | - |
-| 14:00 | USD | MED | FOMC Member Waller Speaks | - | - |
-| 14:03 | CNY | low | M2 Money Supply y/y | 7.2% | 7.2% |
-| 14:03 | CNY | low | New Loans | 80B | 1080B |
-| 14:45 | All | low | G7 Meetings | - | - |
-| 16:00 | USD | low | NFIB Small Business Index | 98.0 | 97.9 |
-| 16:32 | GBP | low | 30-y Bond Auction | - | 5.52|3.8 |
-| 17:30 | GBP | low | MPC Member Lombardelli Speaks | - | - |
-| 18:15 | USD | low | ADP Weekly Employment Change | - | - |
-| 18:16 | USD | low | ADP Weekly Employment Change | - | 16.8K |
-| 18:30 | USD | **HIGH** | Core CPI m/m | 0.2% | 0.3% |
-| 18:30 | USD | **HIGH** | CPI m/m | 0.3% | 0.6% |
 | 20:50 | USD | low | FOMC Member Logan Speaks | - | - |
 | 23:01 | USD | low | 10-y Bond Auction | - | 5.30|2.8 |
 | 23:30 | CAD | low | BOC Summary of Deliberations | - | - |
@@ -35,11 +22,19 @@
 | **11 Nov** 04:30 | USD | low | FOMC Member Bowman Speaks | - | - |
 | **11 Nov** 04:30 | USD | low | FOMC Member Paulson Speaks | - | - |
 | **11 Nov** 04:50 | JPY | low | M2 Money Stock y/y | 2.1% | 2.0% |
+| **11 Nov** 11:00 | JPY | low | Prelim Machine Tool Orders y/y | - | 60.4% |
+| **11 Nov** 12:00 | EUR | low | German Final CPI m/m | -0.2% | -0.2% |
+| **11 Nov** 12:01 | EUR | chhutti | French Bank Holiday | - | - |
+| **11 Nov** 13:15 | EUR | low | German Buba President Nagel Speaks | - | - |
+| **11 Nov** 14:00 | EUR | low | Italian Industrial Production m/m | 0.7% | -1.3% |
+| **11 Nov** 14:03 | CNY | low | M2 Money Supply y/y | 7.2% | 7.2% |
+| **11 Nov** 14:03 | CNY | low | New Loans | 80B | 1080B |
+| **11 Nov** 14:45 | EUR | MED | ECB President Lagarde Speaks | - | - |
+| **11 Nov** 15:34 | EUR | low | German 30-y Bond Auction | - | 3.80|1.4 |
+| **11 Nov** 18:00 | CAD | chhutti | Bank Holiday | - | - |
+| **11 Nov** 18:00 | USD | chhutti | Bank Holiday | - | - |
 
-**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
-
-- `10 Nov 18:30` **USD Core CPI m/m**
-- `10 Nov 18:30` **USD CPI m/m**
+*Agle 24 ghante mein koi HIGH impact event nahi.*
 
 ---
 
@@ -47,7 +42,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **11 Nov** 14:45 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | **12 Nov** 12:00 | GBP | **HIGH** | GDP m/m | 0.0% | 0.1% |
 | **12 Nov** 12:00 | GBP | MED | Prelim GDP q/q | 0.7% | 0.5% |
 | **12 Nov** 18:30 | USD | MED | Unemployment Claims | 194K | 189K |
