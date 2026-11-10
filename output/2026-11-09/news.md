@@ -1,8 +1,8 @@
 # News Pack — Trading Day 09 Nov 2026
 
 - Trading day: **09 Nov 03:00 -> 10 Nov 02:59 PKT**
-- Aakhri update: **10 Nov 12:22 PKT**
-- Kul khabrein: **593**
+- Aakhri update: **10 Nov 20:42 PKT**
+- Kul khabrein: **595**
 - Feeds: 32/39 OK
 
 ---
@@ -976,9 +976,10 @@ U.S. TOPS THE LIST – Half the World's Oil Comes From Just Five Countries – V
 Wall St jumps back as oil slide eases inflation worries; Nvidia slumps Kitco
 
 **Crude Oil Prices Plummet as Iran Peace Optimism Climbs - Barchart.com**
-`10 Nov 01:16 PKT` · pehli baar dekhi `10 Nov 05:10` · gnews_geopolitics
+`10 Nov 01:16 PKT` · pehli baar dekhi `10 Nov 05:10` · gnews_geopolitics · **2 feeds mein**
 
 Crude Oil Prices Plummet as Iran Peace Optimism Climbs Barchart.com
+  - `10 Nov 01:16` *gnews_geopolitics* — Crude Oil Prices Plummet as Iran Peace Optimism Climbs - TradingView
 
 **Brent Crashes 7% on Iran Peace Hopes Despite Fresh Saudi Pipeline Attack**
 `10 Nov 01:10 PKT` · pehli baar dekhi `10 Nov 05:10` · oilprice
@@ -1546,6 +1547,11 @@ Stocks surged as investors regained confidence that the midterm election results
 
 COP31 has opened in Turkiye amid war-driven energy disruptions and a renewed reliance on fossil fuels.
 
+**The Iran War Has Shattered Oil's Price Compass: Bousso - EnergyNow.com**
+`10 Nov 01:35 PKT` · pehli baar dekhi `10 Nov 20:42` · gnews_geopolitics
+
+The Iran War Has Shattered Oil's Price Compass: Bousso EnergyNow.com
+
 **South Africa detains foreigners suspected of heading to join Russian forces**
 `10 Nov 00:56 PKT` · pehli baar dekhi `10 Nov 05:10` · aljazeera
 
@@ -1996,45 +2002,45 @@ investing_news (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 17 | 8 | 0 | 0.1 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 13 | 7 | 0 | 0.0 |
-| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 3.6 |
+| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.0 |
+| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 4.0 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 5 | 0 | 5 | 31 | 0.6 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 60.5 |
-| kitco_general | OK | 29 | 29 | 3 | 26 | 0 | 0.3 |
-| gnews_fed | OK | 41 | 41 | 13 | 28 | 0 | 0.0 |
-| gnews_geopolitics | OK | 78 | 78 | 27 | 51 | 0 | 0.0 |
-| gnews_centralbanks | OK | 21 | 21 | 10 | 11 | 0 | 0.1 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 12.6 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 26.2 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.7 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.8 |
-| boj_whatsnew | OK | 46 | 7 | 0 | 7 | 39 | 0.3 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.3 |
-| mining_com | OK | 36 | 12 | 0 | 12 | 24 | 0.4 |
-| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| ing_think | OK | 10 | 5 | 1 | 4 | 5 | 0.1 |
-| bbc_business | OK | 44 | 22 | 9 | 13 | 22 | 0.0 |
+| wsj_economy | OK | 36 | 7 | 4 | 3 | 29 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.8 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.7 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.7 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.8 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.7 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 60.9 |
+| kitco_general | OK | 29 | 28 | 16 | 12 | 1 | 0.0 |
+| gnews_fed | OK | 59 | 59 | 38 | 21 | 0 | 0.0 |
+| gnews_geopolitics | OK | 67 | 67 | 27 | 40 | 0 | 0.0 |
+| gnews_centralbanks | OK | 37 | 37 | 27 | 10 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 12.9 |
+| fed_speeches | OK | 15 | 1 | 1 | 0 | 14 | 0.3 |
+| ecb_press | OK | 15 | 1 | 1 | 0 | 14 | 0.1 |
+| boe_news | OK | 50 | 1 | 1 | 0 | 49 | 0.2 |
+| boj_whatsnew | OK | 45 | 7 | 0 | 7 | 38 | 0.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 4.7 |
+| mining_com | OK | 36 | 14 | 2 | 12 | 22 | 0.2 |
+| oilprice | OK | 15 | 15 | 8 | 7 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 10 | 0 | 0 | 0.1 |
+| bbc_business | OK | 47 | 26 | 6 | 20 | 21 | 0.0 |
 | aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.9 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 4.6 |
-| eia_energy | WARN | 24 | 0 | 0 | 0 | 24 | 3.7 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 5.7 |
-| wsj_world | OK | 70 | 24 | 5 | 19 | 46 | 0.1 |
-| wsj_markets | OK | 61 | 29 | 6 | 23 | 32 | 0.0 |
+| snb_press | OK | 20 | 2 | 1 | 1 | 18 | 0.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 5.0 |
+| eia_energy | WARN | 24 | 0 | 0 | 0 | 24 | 4.1 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 6.1 |
+| wsj_world | OK | 70 | 29 | 8 | 21 | 41 | 0.0 |
+| wsj_markets | OK | 61 | 35 | 16 | 19 | 26 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.2 |
-| cointelegraph | OK | 30 | 23 | 3 | 20 | 7 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 10 | 20 | 0 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
