@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 11 Nov 2026
 
-- Banaya gaya: **11 Nov 2026 17:58 PKT**
+- Banaya gaya: **12 Nov 2026 00:37 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
@@ -11,7 +11,7 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| Fed funds target (upper) <br>`DFEDTARU` | **4.00%** | 0.0 | 0.0 | 0.0 | 25 | 2026-11-10 |
+| Fed funds target (upper) <br>`DFEDTARU` | **4.00%** | 0.0 | 0.0 | 0.0 | 25 | 2026-11-11 |
 | US 2Y yield <br>`DGS2` | **4.56%** | +0.05 | -0.03 | -0.24 | 79 | 2026-11-09 |
 | US 10Y yield <br>`DGS10` | **4.88%** | +0.02 | -0.03 | -0.36 | 95 | 2026-11-09 |
 | US 30Y yield <br>`DGS30` | **5.26%** | 0.0 | -0.02 | -0.34 | 94 | 2026-11-09 |
@@ -36,7 +36,7 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| VIX <br>`VIXCLS` | **19.92** | -5.72 | -1.23 | +4.71 | 83 | 2026-11-09 |
+| VIX <br>`VIXCLS` | **19.46** | -0.46 | -1.37 | +4.19 | 80 | 2026-11-10 |
 | High-yield credit spread <br>`BAMLH0A0HYM2` | **3.34%** | -0.08 | -0.09 | +0.23 | 83 | 2026-11-09 |
 | Financial stress index <br>`STLFSI4` | **-0.52** | +0.0618 | +0.2835 | +0.2425 | 69 | 2026-10-30 |
 
