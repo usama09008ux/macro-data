@@ -1,9 +1,9 @@
 # News Pack — Trading Day 10 Nov 2026
 
 - Trading day: **10 Nov 03:00 -> 11 Nov 02:59 PKT**
-- Aakhri update: **11 Nov 13:11 PKT**
-- Kul khabrein: **782**
-- Feeds: 32/39 OK
+- Aakhri update: **11 Nov 21:13 PKT**
+- Kul khabrein: **787**
+- Feeds: 33/39 OK
 
 ---
 
@@ -356,11 +356,12 @@ Gold, silver advance as dollar weakens, Fed rate expectations face inflation tes
 ### USD
 
 **Larger series of interest rate hikes more likely after hot October CPI - KBOI**
-`11 Nov 02:47 PKT` · pehli baar dekhi `11 Nov 06:25` · gnews_fed · **3 feeds mein**
+`11 Nov 02:47 PKT` · pehli baar dekhi `11 Nov 06:25` · gnews_fed · **4 feeds mein**
 
 Larger series of interest rate hikes more likely after hot October CPI KBOI
   - `11 Nov 02:43` *gnews_fed* — Larger series of interest rate hikes more likely after hot October CPI - KRCR
   - `11 Nov 02:42` *gnews_fed* — Larger series of interest rate hikes more likely after hot October CPI - WGXA
+  - `11 Nov 02:40` *gnews_fed* — Larger series of interest rate hikes more likely after hot October CPI - WLOS
 
 **Inflation rises faster than expected, boosting odds of Fed rate hike - CFO Dive**
 `11 Nov 02:42 PKT` · pehli baar dekhi `11 Nov 06:25` · gnews_fed
@@ -637,9 +638,10 @@ Fed's Logan calls for two more rate hikes, possibly rapidly Kitco
   - `10 Nov 20:54` *gnews_fed* — Fed's Logan calls for two more rate hikes, possibly rapidly - Yahoo
 
 **Federal Reserve Research Reveals New Inflation Threat - TradingView**
-`10 Nov 22:24 PKT` · pehli baar dekhi `11 Nov 02:26` · gnews_fed
+`10 Nov 22:24 PKT` · pehli baar dekhi `11 Nov 02:26` · gnews_fed · **2 feeds mein**
 
 Federal Reserve Research Reveals New Inflation Threat TradingView
+  - `10 Nov 22:24` *gnews_fed* — Federal Reserve Research Reveals New Inflation Threat - Yahoo Finance
 
 **October CPI rise boosts odds of December Fed ra... - Pluang**
 `10 Nov 22:24 PKT` · pehli baar dekhi `11 Nov 02:26` · gnews_fed
@@ -1241,9 +1243,10 @@ Comments from the ECB's Lane on inflation and policy guidance crossed the wires.
   - `10 Nov 22:59` *gnews_centralbanks* — ECB's Lane says the bar for directional rate guidance is high - investingLive
 
 **ECB's rate path hinges on how far inflation spreads, Lane says - Reuters**
-`10 Nov 22:53 PKT` · pehli baar dekhi `11 Nov 02:26` · gnews_centralbanks
+`10 Nov 22:53 PKT` · pehli baar dekhi `11 Nov 02:26` · gnews_centralbanks · **2 feeds mein**
 
 ECB's rate path hinges on how far inflation spreads, Lane says Reuters
+  - `10 Nov 22:53` *gnews_centralbanks* — ECB's rate path hinges on how far inflation spreads, Lane says - AOL.co.uk
 
 **ECB December rate hike expectations rise as Bundesbank chief flags inflation risks - Yahoo Finance Singapore**
 `10 Nov 22:23 PKT` · pehli baar dekhi `11 Nov 02:26` · gnews_centralbanks
@@ -1754,6 +1757,11 @@ Turkey wants nearly 200 countries attending COP31 to commit to increasing electr
 `11 Nov 00:00 PKT` · pehli baar dekhi `11 Nov 02:26` · oilprice
 
 The 2026 US midterm elections have delivered a significant political setback to President Donald Trump, but their implications for US policy and global energy markets are far from straightforward. Democratic control of Congress will constrain the administration's domestic legislative agenda and yet leave considerable presidential discretion over foreign policy.
+
+**Oil prices touch two-month lows on softened US tone toward Iran - Baird Maritime**
+`10 Nov 23:44 PKT` · pehli baar dekhi `11 Nov 21:13` · gnews_geopolitics
+
+Oil prices touch two-month lows on softened US tone toward Iran Baird Maritime
 
 **The Truth Behind Iraq's Oil Rebound And The Secret Red Sea Plan**
 `10 Nov 23:00 PKT` · pehli baar dekhi `11 Nov 02:26` · oilprice
@@ -2686,13 +2694,14 @@ The president's lack of clarity made the conflict into a serious political liabi
 
 The managers' readiness to buy the dip helps explain why Monday's rebound came so quickly. It also suggests dips in AI names will keep drawing buyers unless state-level curbs on data centres turn out to be more than marginal. Falling bond yields during the selloff point to easier financial conditions, which supports equities overall rather than just the crowded mega-cap trade.
 
-### BINA TAG (196)
+### BINA TAG (197)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
 - `11 Nov 02:55` **aljazeera** — IBM's biggest division ends most US foreign worker sponsorships
 - `11 Nov 02:47` **kitco_general** — US consumer prices description={PAGE_DESCRIPTION} - Kitco
 - `11 Nov 02:47` **kitco_general** — foreign policy description={PAGE_DESCRIPTION} - Kitco
+- `11 Nov 02:32` **gnews_fed** — What to Look Out for in Economic Data This Week (November 9-13) - Kiplinger
 - `11 Nov 02:26` **instaforex** — Soybeans Rebound from 3-Month Low
 - `11 Nov 02:26` **gnews_fed** — South Carolina federal prison escapee captured in Asheville, marshals say - KSNV
 - `11 Nov 02:24` **investing_news** — Tarsus at Guggenheim conference: xdemvy growth, pipeline widen
@@ -2903,45 +2912,45 @@ investing_news (14), investing_commodities (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 17 | 8 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 16 | 4 | 0 | 0.0 |
-| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 4.7 |
+| actionforex | OK | 20 | 20 | 5 | 15 | 0 | 0.1 |
+| marketpulse | OK | 4 | 1 | 1 | 0 | 3 | 0.3 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 8 | 2 | 6 | 28 | 0.1 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
-| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_daily_commentary | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 61.6 |
-| kitco_general | OK | 37 | 36 | 1 | 35 | 1 | 0.1 |
-| gnews_fed | OK | 95 | 95 | 35 | 60 | 0 | 0.0 |
-| gnews_geopolitics | OK | 48 | 48 | 13 | 35 | 0 | 0.0 |
-| gnews_centralbanks | OK | 49 | 49 | 14 | 35 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.6 |
-| fed_speeches | OK | 15 | 2 | 0 | 2 | 13 | 0.5 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.6 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.8 |
-| boj_whatsnew | OK | 46 | 3 | 0 | 3 | 43 | 0.3 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.4 |
-| mining_com | OK | 36 | 9 | 0 | 9 | 27 | 0.4 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| bbc_business | OK | 51 | 22 | 1 | 21 | 29 | 0.0 |
-| aljazeera | OK | 25 | 25 | 21 | 4 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.7 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 5.7 |
-| eia_energy | WARN | 24 | 0 | 0 | 0 | 24 | 4.8 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 6.8 |
-| wsj_world | OK | 70 | 29 | 2 | 27 | 41 | 0.1 |
-| wsj_markets | OK | 61 | 36 | 6 | 30 | 25 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| wsj_economy | OK | 36 | 9 | 2 | 7 | 27 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.8 |
+| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.8 |
+| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.8 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.8 |
+| cme_daily_commentary | OK | 10 | 10 | 0 | 10 | 0 | 0.8 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 61.9 |
+| kitco_general | OK | 32 | 29 | 11 | 18 | 3 | 0.1 |
+| gnews_fed | OK | 81 | 81 | 40 | 41 | 0 | 0.0 |
+| gnews_geopolitics | OK | 44 | 44 | 14 | 30 | 0 | 0.1 |
+| gnews_centralbanks | OK | 43 | 43 | 15 | 28 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.9 |
+| fed_speeches | OK | 15 | 2 | 0 | 2 | 13 | 0.8 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 1.0 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 1.2 |
+| boj_whatsnew | OK | 46 | 3 | 0 | 3 | 43 | 0.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.7 |
+| mining_com | OK | 36 | 13 | 4 | 9 | 23 | 0.1 |
+| oilprice | OK | 15 | 15 | 9 | 6 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 7 | 3 | 0 | 0.1 |
+| ing_think | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| bbc_business | OK | 52 | 23 | 4 | 19 | 29 | 0.0 |
+| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 1.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.0 |
+| eia_energy | WARN | 24 | 0 | 0 | 0 | 24 | 5.1 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 7.1 |
+| wsj_world | OK | 70 | 33 | 5 | 28 | 37 | 0.0 |
+| wsj_markets | OK | 61 | 36 | 10 | 26 | 25 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
-| cointelegraph | OK | 30 | 28 | 3 | 25 | 2 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 14 | 16 | 0 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
