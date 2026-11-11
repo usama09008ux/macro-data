@@ -1,8 +1,8 @@
 # News Pack — Trading Day 10 Nov 2026
 
 - Trading day: **10 Nov 03:00 -> 11 Nov 02:59 PKT**
-- Aakhri update: **11 Nov 06:25 PKT**
-- Kul khabrein: **770**
+- Aakhri update: **11 Nov 13:11 PKT**
+- Kul khabrein: **782**
 - Feeds: 32/39 OK
 
 ---
@@ -356,9 +356,10 @@ Gold, silver advance as dollar weakens, Fed rate expectations face inflation tes
 ### USD
 
 **Larger series of interest rate hikes more likely after hot October CPI - KBOI**
-`11 Nov 02:47 PKT` · pehli baar dekhi `11 Nov 06:25` · gnews_fed · **2 feeds mein**
+`11 Nov 02:47 PKT` · pehli baar dekhi `11 Nov 06:25` · gnews_fed · **3 feeds mein**
 
 Larger series of interest rate hikes more likely after hot October CPI KBOI
+  - `11 Nov 02:43` *gnews_fed* — Larger series of interest rate hikes more likely after hot October CPI - KRCR
   - `11 Nov 02:42` *gnews_fed* — Larger series of interest rate hikes more likely after hot October CPI - WGXA
 
 **Inflation rises faster than expected, boosting odds of Fed rate hike - CFO Dive**
@@ -376,6 +377,11 @@ Stocks fall as the 10-year Treasury yield nears 5% mark MarketWatch
 `11 Nov 02:41 PKT` · pehli baar dekhi `11 Nov 06:25` · investinglive
 
 We heard from Bowman earlier: Fed's Bowman: Persistent inflation, firming labor conditions suggest 'work to do' She is on the agenda again duirng the Asian session. Her views won't have changed in the gap of a few hours! Paulson is also on the agenda. It's a failrly non-impactful calendar: This article was written by Eamonn Sheridan at investinglive.com.
+
+**Fed Falling Behind on Inflation, BofA Eyes Half-Point Hike - iShares 20+ Year Treasury Bond ETF (NASDAQ:T - Benzinga**
+`11 Nov 02:39 PKT` · pehli baar dekhi `11 Nov 13:11` · gnews_fed
+
+Fed Falling Behind on Inflation, BofA Eyes Half-Point Hike - iShares 20+ Year Treasury Bond ETF (NASDAQ:T Benzinga
 
 **Costco declares $30 special dividend worth $13.3 billion, renews $4 billion buyback**
 `11 Nov 02:29 PKT` · pehli baar dekhi `11 Nov 06:25` · investinglive
@@ -576,9 +582,10 @@ The US treasury sold $42 billion of 10 year notes: High yield: 5.02% WI level at
 Treasury yields rose with the 10-year benchmark moving above 5%, as hotter-than-expected inflation added to hawkish comments by a Federal Reserve official to fuel bets on a steep interest-rate increase next month.
 
 **Kevin Warsh Is Now Free to Unleash His Inner Hawk - Bloomberg.com**
-`10 Nov 23:00 PKT` · pehli baar dekhi `11 Nov 02:26` · gnews_fed
+`10 Nov 23:00 PKT` · pehli baar dekhi `11 Nov 02:26` · gnews_fed · **2 feeds mein**
 
 Kevin Warsh Is Now Free to Unleash His Inner Hawk Bloomberg.com
+  - `10 Nov 23:00` *gnews_fed* — Fed Chair Kevin Warsh Is Now Free to Unleash His Inner Hawk - Bloomberg.com
 
 **Inflation runs hotter than expected as higher prices extend beyond the gas station - PBS**
 `10 Nov 22:59 PKT` · pehli baar dekhi `11 Nov 06:25` · gnews_fed · **2 feeds mein**
@@ -623,9 +630,11 @@ Troubled US debt levels ticked up in third quarter, New York Fed report says Kit
 As London and European traders head home for the day, the major continental indices are mostly higher, with Spain leading the way. The UK's FTSE 100 went the other way. In the US, the stronger-than-expected CPI report is still driving the bond and currency markets. The 10-year Treasury yield is back above 5%, the dollar is higher across the board, and an early Nasdaq rebound on Anthropic IPO news has given way to renewed selling. Spain leads European stocks higher. The FTSE 100 lags.
 
 **Fed's Logan calls for two more rate hikes, possibly rapidly - Kitco**
-`10 Nov 22:31 PKT` · pehli baar dekhi `11 Nov 02:26` · kitco_general
+`10 Nov 22:31 PKT` · pehli baar dekhi `11 Nov 02:26` · kitco_general · **3 feeds mein**
 
 Fed's Logan calls for two more rate hikes, possibly rapidly Kitco
+  - `10 Nov 20:55` *gnews_fed* — Fed's Logan calls for two more rate hikes, possibly rapidly - Reuters
+  - `10 Nov 20:54` *gnews_fed* — Fed's Logan calls for two more rate hikes, possibly rapidly - Yahoo
 
 **Federal Reserve Research Reveals New Inflation Threat - TradingView**
 `10 Nov 22:24 PKT` · pehli baar dekhi `11 Nov 02:26` · gnews_fed
@@ -1210,9 +1219,15 @@ European stocks advanced for a second consecutive session on Tuesday, supported 
 ECB's Lane Says Rate Path Hinges on How Far Fuel Costs Feed Into Wages finance.biggo.com
 
 **ECB's Lane says rate decisions hinge on wage, price spillovers - Yahoo Finance Singapore**
-`10 Nov 23:25 PKT` · pehli baar dekhi `11 Nov 02:26` · gnews_centralbanks
+`10 Nov 23:25 PKT` · pehli baar dekhi `11 Nov 02:26` · gnews_centralbanks · **2 feeds mein**
 
 ECB's Lane says rate decisions hinge on wage, price spillovers Yahoo Finance Singapore
+  - `10 Nov 23:01` *gnews_centralbanks* — ECB's Lane says rate decisions hinge on wage, price spillovers - Investing.com
+
+**December rate hike is obvious despite energy relief, says ECB's Nagel - www.tmgm.com**
+`10 Nov 23:05 PKT` · pehli baar dekhi `11 Nov 13:11` · gnews_centralbanks
+
+December rate hike is obvious despite energy relief, says ECB's Nagel www.tmgm.com
 
 **Myanmar summons German envoy over controversial video**
 `10 Nov 23:03 PKT` · pehli baar dekhi `11 Nov 02:26` · aljazeera
@@ -1796,6 +1811,11 @@ Oil prices hit 2-month lows as US downplays further Iran strikes The Korea Times
 
 Brent crude briefly falls below $90 as hopes of diplomatic breakthroughs in Iran and Ukraine accelerate the oil market selloff. Crude Says Peace, Tanker Rates Say Not So Fast - Crude oil prices have plunged by almost $30 per barrel since the US midterm elections, however, stubbornly high freight rates in the Gulf suggest not every segment of the oil markets deems the US-Iran war to be 'effectively over'.
 
+**Oil Touches Pre-War Levels on Rising Middle East Supply - EnergyNow**
+`10 Nov 21:27 PKT` · pehli baar dekhi `11 Nov 13:11` · gnews_geopolitics
+
+Oil Touches Pre-War Levels on Rising Middle East Supply EnergyNow
+
 **Average U.S. Gasoline Price Dips below $4 for First Time since July**
 `10 Nov 21:00 PKT` · pehli baar dekhi `11 Nov 02:26` · oilprice
 
@@ -1926,6 +1946,11 @@ Brent Crude prices plunged to below $90 per barrel early on Tuesday, falling bel
 `10 Nov 14:37 PKT` · pehli baar dekhi `10 Nov 20:42` · gnews_geopolitics
 
 Oil prices fall as Trump signals pause in military action against Iran Business Standard
+
+**Brent falls below $90 on hopes of easing US-Iran tensions - Anadolu Ajansı**
+`10 Nov 14:36 PKT` · pehli baar dekhi `11 Nov 13:11` · gnews_geopolitics
+
+Brent falls below $90 on hopes of easing US-Iran tensions Anadolu Ajansı
 
 **ADNOC Gas Posts Stunning Profit Recovery as Energy Exports Rebound**
 `10 Nov 14:30 PKT` · pehli baar dekhi `10 Nov 20:42` · oilprice
@@ -2661,7 +2686,7 @@ The president's lack of clarity made the conflict into a serious political liabi
 
 The managers' readiness to buy the dip helps explain why Monday's rebound came so quickly. It also suggests dips in AI names will keep drawing buyers unless state-level curbs on data centres turn out to be more than marginal. Falling bond yields during the selloff point to easier financial conditions, which supports equities overall rather than just the crowded mega-cap trade.
 
-### BINA TAG (193)
+### BINA TAG (196)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2669,6 +2694,7 @@ The managers' readiness to buy the dip helps explain why Monday's rebound came s
 - `11 Nov 02:47` **kitco_general** — US consumer prices description={PAGE_DESCRIPTION} - Kitco
 - `11 Nov 02:47` **kitco_general** — foreign policy description={PAGE_DESCRIPTION} - Kitco
 - `11 Nov 02:26` **instaforex** — Soybeans Rebound from 3-Month Low
+- `11 Nov 02:26` **gnews_fed** — South Carolina federal prison escapee captured in Asheville, marshals say - KSNV
 - `11 Nov 02:24` **investing_news** — Tarsus at Guggenheim conference: xdemvy growth, pipeline widen
 - `11 Nov 02:24` **cointelegraph** — Across Protocol warns users to avoid app amid reports of drained wallets
 - `11 Nov 02:24` **investing_news** — Cigna at 2026 UBS Global Healthcare Conference: growth plan in focus
@@ -2717,6 +2743,7 @@ The managers' readiness to buy the dip helps explain why Monday's rebound came s
 - `10 Nov 22:54` **wsj_markets** — Anthropic Founders' Stakes Are Worth $18 Billion Apiece at IPO Price
 - `10 Nov 22:51` **mining_com** — Market volatility adds new hurdle to critical minerals investment: report
 - `10 Nov 22:48` **aljazeera** — Photos: Crowds greet Pope Leo in Argentina after 40-year wait
+- `10 Nov 22:27` **kitco_general** — COMMODITIES description={PAGE_DESCRIPTION} News - Kitco
 - `10 Nov 22:25` **wsj_markets** — Tech, Media & Telecom Roundup: Market Talk
 - `10 Nov 22:21` **aljazeera** — Anthropic targets $1.4 trillion valuation in massive stock market debut
 - `10 Nov 22:19` **mining_com** — Gunnison hits rich copper and zinc in Arizona
@@ -2773,6 +2800,7 @@ The managers' readiness to buy the dip helps explain why Monday's rebound came s
 - `10 Nov 17:54` **aljazeera** — At least 12 people killed in motorway crash in southeastern Bulgaria
 - `10 Nov 17:51` **wsj_markets** — Financial Services Roundup: Market Talk
 - `10 Nov 17:50` **kitco_general** — Nasdaq futures slip with Nvidia woes, Anthropic IPO in focus - Kitco
+- `10 Nov 17:47` **gnews_centralbanks** — Brexit, elections and rate hikes: 3 calls for the UK - ing think
 - `10 Nov 17:32` **mw_topstories** — Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion
 - `10 Nov 17:23` **wsj_world** — The Morning Risk Report: Jensen Huang Doesn't Believe in Succession Planning. It's Become a Big Risk for Nvidia.
 - `10 Nov 17:09` **aljazeera** — Why the GCC is setting up an advanced military command base in Kuwait
@@ -2875,48 +2903,48 @@ investing_news (14), investing_commodities (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 16 | 9 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 17 | 8 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 3 | 17 | 0 | 0.0 |
-| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 4.4 |
-| instaforex | OK | 25 | 25 | 21 | 4 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 6 | 2 | 4 | 30 | 0.0 |
-| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.2 |
-| cme_fx_video | OK | 10 | 3 | 1 | 2 | 7 | 0.2 |
-| cme_rates_video | OK | 10 | 3 | 1 | 2 | 7 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 61.3 |
-| kitco_general | OK | 40 | 38 | 7 | 31 | 2 | 0.1 |
-| gnews_fed | OK | 83 | 83 | 24 | 59 | 0 | 0.0 |
-| gnews_geopolitics | OK | 46 | 46 | 14 | 32 | 0 | 0.1 |
-| gnews_centralbanks | OK | 47 | 47 | 4 | 43 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.3 |
-| fed_speeches | OK | 15 | 2 | 0 | 2 | 13 | 0.2 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.4 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.6 |
-| boj_whatsnew | OK | 46 | 3 | 1 | 2 | 43 | 0.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.1 |
-| mining_com | OK | 36 | 9 | 2 | 7 | 27 | 0.1 |
-| oilprice | OK | 15 | 15 | 5 | 10 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
-| bbc_business | OK | 51 | 22 | 3 | 19 | 29 | 0.0 |
-| aljazeera | OK | 25 | 25 | 12 | 13 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.5 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 5.4 |
-| eia_energy | WARN | 24 | 0 | 0 | 0 | 24 | 4.5 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 6.5 |
-| wsj_world | OK | 70 | 26 | 3 | 23 | 44 | 0.1 |
-| wsj_markets | OK | 61 | 35 | 6 | 29 | 26 | 0.0 |
+| actionforex | OK | 20 | 20 | 16 | 4 | 0 | 0.0 |
+| marketpulse | WARN | 3 | 0 | 0 | 0 | 3 | 4.7 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 8 | 2 | 6 | 28 | 0.1 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
+| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_daily_commentary | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 61.6 |
+| kitco_general | OK | 37 | 36 | 1 | 35 | 1 | 0.1 |
+| gnews_fed | OK | 95 | 95 | 35 | 60 | 0 | 0.0 |
+| gnews_geopolitics | OK | 48 | 48 | 13 | 35 | 0 | 0.0 |
+| gnews_centralbanks | OK | 49 | 49 | 14 | 35 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 13.6 |
+| fed_speeches | OK | 15 | 2 | 0 | 2 | 13 | 0.5 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.6 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.8 |
+| boj_whatsnew | OK | 46 | 3 | 0 | 3 | 43 | 0.3 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 5.4 |
+| mining_com | OK | 36 | 9 | 0 | 9 | 27 | 0.4 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| bbc_business | OK | 51 | 22 | 1 | 21 | 29 | 0.0 |
+| aljazeera | OK | 25 | 25 | 21 | 4 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.7 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 5.7 |
+| eia_energy | WARN | 24 | 0 | 0 | 0 | 24 | 4.8 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 6.8 |
+| wsj_world | OK | 70 | 29 | 2 | 27 | 41 | 0.1 |
+| wsj_markets | OK | 61 | 36 | 6 | 30 | 25 | 0.0 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 25 | 5 | 20 | 5 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 28 | 3 | 25 | 2 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 61d purana
+- cme_risk_management — STALE, cadence 10d, magar 62d purana
 - yahoo_finance — FAIL, HTTP 404
