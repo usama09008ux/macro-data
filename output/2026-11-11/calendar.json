@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "11 Nov 2026 07:11",
+  "generated_pkt": "11 Nov 2026 17:52",
   "trading_day": "2026-11-11",
   "feed_sources": {
     "thisweek": "live"
@@ -656,32 +656,6 @@
       "trading_day": "2026-11-11"
     },
     {
-      "title": "M2 Money Supply y/y",
-      "ccy": "CNY",
-      "impact": "Low",
-      "forecast": "7.2%",
-      "previous": "7.2%",
-      "url": "https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy",
-      "all_day": false,
-      "utc": "2026-11-11T09:03Z",
-      "pkt": "11 Nov 14:03",
-      "pkt_iso": "2026-11-11T14:03:00+05:00",
-      "trading_day": "2026-11-11"
-    },
-    {
-      "title": "New Loans",
-      "ccy": "CNY",
-      "impact": "Low",
-      "forecast": "80B",
-      "previous": "1080B",
-      "url": "https://www.forexfactory.com/calendar/477-ch-new-loans",
-      "all_day": false,
-      "utc": "2026-11-11T09:03Z",
-      "pkt": "11 Nov 14:03",
-      "pkt_iso": "2026-11-11T14:03:00+05:00",
-      "trading_day": "2026-11-11"
-    },
-    {
       "title": "ECB President Lagarde Speaks",
       "ccy": "EUR",
       "impact": "Medium",
@@ -702,9 +676,9 @@
       "previous": "3.80|1.4",
       "url": "https://www.forexfactory.com/calendar/541-ge-30-y-bond-auction",
       "all_day": false,
-      "utc": "2026-11-11T10:34Z",
-      "pkt": "11 Nov 15:34",
-      "pkt_iso": "2026-11-11T15:34:00+05:00",
+      "utc": "2026-11-11T10:35Z",
+      "pkt": "11 Nov 15:35",
+      "pkt_iso": "2026-11-11T15:35:00+05:00",
       "trading_day": "2026-11-11"
     },
     {
@@ -903,6 +877,32 @@
       "trading_day": "2026-11-12"
     },
     {
+      "title": "M2 Money Supply y/y",
+      "ccy": "CNY",
+      "impact": "Low",
+      "forecast": "7.2%",
+      "previous": "7.2%",
+      "url": "https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy",
+      "all_day": false,
+      "utc": "2026-11-12T09:03Z",
+      "pkt": "12 Nov 14:03",
+      "pkt_iso": "2026-11-12T14:03:00+05:00",
+      "trading_day": "2026-11-12"
+    },
+    {
+      "title": "New Loans",
+      "ccy": "CNY",
+      "impact": "Low",
+      "forecast": "80B",
+      "previous": "1080B",
+      "url": "https://www.forexfactory.com/calendar/477-ch-new-loans",
+      "all_day": false,
+      "utc": "2026-11-12T09:03Z",
+      "pkt": "12 Nov 14:03",
+      "pkt_iso": "2026-11-12T14:03:00+05:00",
+      "trading_day": "2026-11-12"
+    },
+    {
       "title": "Building Permits m/m",
       "ccy": "CAD",
       "impact": "Low",
@@ -1010,7 +1010,7 @@
       "title": "Crude Oil Inventories",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-0.6M",
       "previous": "-0.9M",
       "url": "https://www.forexfactory.com/calendar/10-us-crude-oil-inventories",
       "all_day": false,
@@ -1075,7 +1075,7 @@
       "title": "Federal Budget Balance",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "-286.3B",
+      "forecast": "-298.6B",
       "previous": "-26.9B",
       "url": "https://www.forexfactory.com/calendar/322-us-federal-budget-balance",
       "all_day": false,
@@ -1293,10 +1293,23 @@
       "trading_day": "2026-11-13"
     },
     {
-      "title": "Natural Gas Storage",
+      "title": "FOMC Member Logan Speaks",
       "ccy": "USD",
       "impact": "Low",
       "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/890-us-fomc-member-logan-speaks",
+      "all_day": false,
+      "utc": "2026-11-13T14:40Z",
+      "pkt": "13 Nov 19:40",
+      "pkt_iso": "2026-11-13T19:40:00+05:00",
+      "trading_day": "2026-11-13"
+    },
+    {
+      "title": "Natural Gas Storage",
+      "ccy": "USD",
+      "impact": "Low",
+      "forecast": "65B",
       "previous": "77B",
       "url": "https://www.forexfactory.com/calendar/26-us-natural-gas-storage",
       "all_day": false,

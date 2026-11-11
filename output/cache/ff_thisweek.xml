@@ -501,26 +501,6 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/223-it-industrial-production-mm]]></url>
 	</event>
 	<event>
-		<title>M2 Money Supply y/y</title>
-		<country>CNY</country>
-		<date><![CDATA[11-11-2026]]></date>
-		<time><![CDATA[9:03am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[7.2%]]></forecast>
-		<previous><![CDATA[7.2%]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy]]></url>
-	</event>
-	<event>
-		<title>New Loans</title>
-		<country>CNY</country>
-		<date><![CDATA[11-11-2026]]></date>
-		<time><![CDATA[9:03am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[80B]]></forecast>
-		<previous><![CDATA[1080B]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/477-ch-new-loans]]></url>
-	</event>
-	<event>
 		<title>ECB President Lagarde Speaks</title>
 		<country>EUR</country>
 		<date><![CDATA[11-11-2026]]></date>
@@ -534,7 +514,7 @@
 		<title>German 30-y Bond Auction</title>
 		<country>EUR</country>
 		<date><![CDATA[11-11-2026]]></date>
-		<time><![CDATA[10:34am]]></time>
+		<time><![CDATA[10:35am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous><![CDATA[3.80|1.4]]></previous>
@@ -691,6 +671,26 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/612-ez-ecb-economic-bulletin]]></url>
 	</event>
 	<event>
+		<title>M2 Money Supply y/y</title>
+		<country>CNY</country>
+		<date><![CDATA[11-12-2026]]></date>
+		<time><![CDATA[9:03am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[7.2%]]></forecast>
+		<previous><![CDATA[7.2%]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy]]></url>
+	</event>
+	<event>
+		<title>New Loans</title>
+		<country>CNY</country>
+		<date><![CDATA[11-12-2026]]></date>
+		<time><![CDATA[9:03am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast><![CDATA[80B]]></forecast>
+		<previous><![CDATA[1080B]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/477-ch-new-loans]]></url>
+	</event>
+	<event>
 		<title>Building Permits m/m</title>
 		<country>CAD</country>
 		<date><![CDATA[11-12-2026]]></date>
@@ -776,7 +776,7 @@
 		<date><![CDATA[11-12-2026]]></date>
 		<time><![CDATA[5:00pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast />
+		<forecast><![CDATA[-0.6M]]></forecast>
 		<previous><![CDATA[-0.9M]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/10-us-crude-oil-inventories]]></url>
 	</event>
@@ -826,7 +826,7 @@
 		<date><![CDATA[11-12-2026]]></date>
 		<time><![CDATA[7:00pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[-286.3B]]></forecast>
+		<forecast><![CDATA[-298.6B]]></forecast>
 		<previous><![CDATA[-26.9B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/322-us-federal-budget-balance]]></url>
 	</event>
@@ -991,12 +991,22 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/299-uk-cb-leading-index-mm]]></url>
 	</event>
 	<event>
+		<title>FOMC Member Logan Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[11-13-2026]]></date>
+		<time><![CDATA[2:40pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/890-us-fomc-member-logan-speaks]]></url>
+	</event>
+	<event>
 		<title>Natural Gas Storage</title>
 		<country>USD</country>
 		<date><![CDATA[11-13-2026]]></date>
 		<time><![CDATA[3:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast />
+		<forecast><![CDATA[65B]]></forecast>
 		<previous><![CDATA[77B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/26-us-natural-gas-storage]]></url>
 	</event>
