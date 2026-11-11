@@ -1,6 +1,6 @@
 # Calendar — Trading Day 11 Nov 2026
 
-- Banaya gaya: **11 Nov 2026 03:04 PKT**
+- Banaya gaya: **11 Nov 2026 07:11 PKT**
 - Trading day: **11 Nov 03:00 -> 12 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,9 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 04:30 | USD | low | FOMC Member Bowman Speaks | - | - |
-| 04:30 | USD | low | FOMC Member Paulson Speaks | - | - |
-| 04:50 | JPY | low | M2 Money Stock y/y | 2.1% | 2.0% |
 | 11:00 | JPY | low | Prelim Machine Tool Orders y/y | - | 60.4% |
 | 12:00 | EUR | low | German Final CPI m/m | -0.2% | -0.2% |
 | 12:01 | EUR | chhutti | French Bank Holiday | - | - |
@@ -27,6 +24,9 @@
 | 18:00 | CAD | chhutti | Bank Holiday | - | - |
 | 18:00 | USD | chhutti | Bank Holiday | - | - |
 | **12 Nov** 02:45 | NZD | low | Visitor Arrivals m/m | - | 2.8% |
+| **12 Nov** 04:50 | JPY | low | PPI y/y | 6.5% | 6.8% |
+| **12 Nov** 05:00 | AUD | low | MI Inflation Expectations | - | 5.3% |
+| **12 Nov** 05:01 | GBP | low | RICS House Price Balance | -33% | -32% |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
