@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "12 Nov 2026 18:54",
+  "generated_pkt": "13 Nov 2026 00:21",
   "trading_day": "2026-11-12",
   "feed_sources": {
     "thisweek": "live"
@@ -942,19 +942,6 @@
       "trading_day": "2026-11-12"
     },
     {
-      "title": "Mortgage Delinquencies",
-      "ccy": "USD",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "4.37%",
-      "url": "https://www.forexfactory.com/calendar/489-us-mortgage-delinquencies",
-      "all_day": false,
-      "utc": "2026-11-12T15:00Z",
-      "pkt": "12 Nov 20:00",
-      "pkt_iso": "2026-11-12T20:00:00+05:00",
-      "trading_day": "2026-11-12"
-    },
-    {
       "title": "CB Leading Index m/m",
       "ccy": "AUD",
       "impact": "Low",
@@ -1358,6 +1345,19 @@
       "trading_day": "2026-11-13"
     },
     {
+      "title": "Mortgage Delinquencies",
+      "ccy": "USD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "4.37%",
+      "url": "https://www.forexfactory.com/calendar/489-us-mortgage-delinquencies",
+      "all_day": false,
+      "utc": "2026-11-13T17:59Z",
+      "pkt": "13 Nov 22:59",
+      "pkt_iso": "2026-11-13T22:59:00+05:00",
+      "trading_day": "2026-11-13"
+    },
+    {
       "title": "FOMC Member Jefferson Speaks",
       "ccy": "USD",
       "impact": "Low",
@@ -1384,5 +1384,34 @@
       "trading_day": "2026-11-14"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US October existing home sales 3.75m vs 3.85m expected",
+      "actual_raw": "3.75m",
+      "forecast_raw": "3.85m",
+      "beat": false,
+      "raw_diff": "-0.1M",
+      "sign_flip": false,
+      "diff_pct": -2.6,
+      "when_pkt": "12 Nov 20:00",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US weekly initial jobless claims 200K vs 195K expected",
+      "actual_raw": "200K",
+      "forecast_raw": "195K",
+      "beat": true,
+      "raw_diff": "+5.0K",
+      "sign_flip": false,
+      "diff_pct": 2.6,
+      "when_pkt": "12 Nov 18:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }

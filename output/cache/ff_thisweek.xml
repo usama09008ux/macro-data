@@ -721,16 +721,6 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/880-us-fomc-member-barr-speaks]]></url>
 	</event>
 	<event>
-		<title>Mortgage Delinquencies</title>
-		<country>USD</country>
-		<date><![CDATA[11-12-2026]]></date>
-		<time><![CDATA[3:00pm]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast />
-		<previous><![CDATA[4.37%]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/489-us-mortgage-delinquencies]]></url>
-	</event>
-	<event>
 		<title>CB Leading Index m/m</title>
 		<country>AUD</country>
 		<date><![CDATA[11-12-2026]]></date>
@@ -1039,6 +1029,16 @@
 		<forecast />
 		<previous />
 		<url><![CDATA[https://www.forexfactory.com/calendar/807-us-fomc-member-daly-speaks]]></url>
+	</event>
+	<event>
+		<title>Mortgage Delinquencies</title>
+		<country>USD</country>
+		<date><![CDATA[11-13-2026]]></date>
+		<time><![CDATA[5:59pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[4.37%]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/489-us-mortgage-delinquencies]]></url>
 	</event>
 	<event>
 		<title>FOMC Member Jefferson Speaks</title>
