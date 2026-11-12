@@ -1,8 +1,8 @@
 # News Pack — Trading Day 11 Nov 2026
 
 - Trading day: **11 Nov 03:00 -> 12 Nov 02:59 PKT**
-- Aakhri update: **12 Nov 08:26 PKT**
-- Kul khabrein: **652**
+- Aakhri update: **12 Nov 16:43 PKT**
+- Kul khabrein: **664**
 - Feeds: 33/39 OK
 
 ---
@@ -276,6 +276,11 @@ The tight trading relationship between oil prices and Treasury yields has broken
 
 Fed's Bowman Discusses Economic Outlook. www.tokenpost.com
 
+**The Fed got it right; now Congress must do the same - Washington Times**
+`12 Nov 02:32 PKT` · pehli baar dekhi `12 Nov 16:43` · gnews_fed
+
+The Fed got it right; now Congress must do the same Washington Times
+
 **Dollar climbs as traders raise December Fed hike bets - Kitco**
 `12 Nov 02:16 PKT` · pehli baar dekhi `12 Nov 03:46` · kitco_general
 
@@ -299,6 +304,11 @@ Inflation spreads across economy, putting pressure on Fed to accelerate rate hik
 
 Solana could dip to $74 as Fed rate-hike odds hit 99% Cryptonews.net
 
+**Fed's Goolsbee flags October inflation data as 'borderline disturbing' - Scotsman Guide**
+`11 Nov 23:26 PKT` · pehli baar dekhi `12 Nov 16:43` · gnews_fed
+
+Fed's Goolsbee flags October inflation data as 'borderline disturbing' Scotsman Guide
+
 **CoreWeave surges after earnings. Can buyers turn the rebound into something more?**
 `11 Nov 23:22 PKT` · pehli baar dekhi `12 Nov 03:46` · investinglive
 
@@ -308,6 +318,11 @@ CoreWeave shares are sharply higher after earnings, giving buyers some relief af
 `11 Nov 23:00 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_fed
 
 Analysis | Fed chair needs friends in Congress as inflation fight drags on The Washington Post
+
+**Wall Street thinks the Fed made a 'mistake' — and now more hikes are coming - Yahoo Finance**
+`11 Nov 22:20 PKT` · pehli baar dekhi `12 Nov 16:43` · gnews_fed
+
+Wall Street thinks the Fed made a 'mistake' — and now more hikes are coming Yahoo Finance
 
 **Retirement Rules Spark Exit Date Debate for NY Fed's Williams - Bloomberg.com**
 `11 Nov 22:08 PKT` · pehli baar dekhi `12 Nov 03:46` · gnews_fed
@@ -762,6 +777,11 @@ Fed's Bowman says 'there is still work to do' on inflation American Banker
 
 ### EUR
 
+**ECB holds rates steady after Lagarde says to quit early - AFP.com**
+`12 Nov 02:06 PKT` · pehli baar dekhi `12 Nov 16:43` · gnews_centralbanks
+
+ECB holds rates steady after Lagarde says to quit early AFP.com
+
 **Nagel Signals December ECB Rate Rise as Energy Prices Ease and Focus Stays on Inflation Target - VT Markets**
 `11 Nov 23:52 PKT` · pehli baar dekhi `12 Nov 03:46` · gnews_centralbanks
 
@@ -919,6 +939,13 @@ Bank of England urged to raise base rate to 5% as inflation set to miss target u
 Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr BBN Times
   - `11 Nov 19:50` *gnews_centralbanks* — Bank of England's Cautious Interest Rate Rise Could Prolong High Borrowing Costs Warns Niesr - BBN Times
 
+**Bank of England Blamed As Inflation Forecast to Stay High into 2030s - تسنیم**
+`11 Nov 18:14 PKT` · pehli baar dekhi `12 Nov 16:43` · gnews_centralbanks · **3 feeds mein**
+
+Bank of England Blamed As Inflation Forecast to Stay High into 2030s تسنیم
+  - `11 Nov 11:30` *gnews_centralbanks* — Bank of England blamed as inflation forecast to stay high into 2030s - Yahoo Finance
+  - `11 Nov 11:30` *gnews_centralbanks* — Bank of England blamed as inflation forecast to stay high into 2030s - The Telegraph
+
 **Warning for millions of borrowers that Bank of England rates could hit 5% - AOL.co.uk**
 `11 Nov 17:41 PKT` · pehli baar dekhi `11 Nov 21:13` · gnews_centralbanks · **3 feeds mein**
 
@@ -973,12 +1000,6 @@ Bank of England policymakers were set to move too slowly, the National Institute
 `11 Nov 11:42 PKT` · pehli baar dekhi `11 Nov 21:13` · gnews_centralbanks
 
 BOE Should Raise Key Rate to Around 5%, U.K. Economic Think Tank Says Financial News London
-
-**Bank of England blamed as inflation forecast to stay high into 2030s - Yahoo Finance**
-`11 Nov 11:30 PKT` · pehli baar dekhi `11 Nov 13:11` · gnews_centralbanks · **2 feeds mein**
-
-Bank of England blamed as inflation forecast to stay high into 2030s Yahoo Finance
-  - `11 Nov 11:30` *gnews_centralbanks* — Bank of England blamed as inflation forecast to stay high into 2030s - The Telegraph
 
 **UK inflation to overshoot Bank of England target for next 4 years, NIESR forecasts - The Mighty 790 KFGO**
 `11 Nov 09:52 PKT` · pehli baar dekhi `11 Nov 13:11` · gnews_centralbanks · **2 feeds mein**
@@ -1173,6 +1194,11 @@ Oil futures rose as continued skirmishes in the Middle East tempered expectation
 Saudi Arabia reports oil outputs soared to highest levels in months despite continued shipping disruptions.
   - `12 Nov 02:13` *gnews_geopolitics* — Oil production nears pre-Iran war levels, OPEC says - Al Jazeera
 
+**Iran's Main Oil and Gas Production and Infrastructure - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com**
+`12 Nov 01:43 PKT` · pehli baar dekhi `12 Nov 16:43` · gnews_geopolitics
+
+Iran's Main Oil and Gas Production and Infrastructure - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com
+
 **Evening digest: Oil rises, CoreWeave rebounds after stellar results - TradingView**
 `12 Nov 01:30 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_geopolitics
 
@@ -1197,6 +1223,11 @@ Crude Oil Prices Finish Higher as Progress Stalls in US-Iran Peace Talks Barchar
 `12 Nov 01:08 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_fed
 
 Fed's Schmid Warns Against Viewing Oil Shock as Transitory EnergyNow.com
+
+**Kuwait Oil CEO Says Iran is 'Holding the World's Economy Hostage' - EnergyNow.com**
+`12 Nov 01:04 PKT` · pehli baar dekhi `12 Nov 16:43` · gnews_geopolitics
+
+Kuwait Oil CEO Says Iran is 'Holding the World's Economy Hostage' EnergyNow.com
 
 **Burnham Heads to COP31 Torn Between Cheaper Power and Net Zero**
 `12 Nov 01:00 PKT` · pehli baar dekhi `12 Nov 03:46` · oilprice
@@ -1234,6 +1265,16 @@ OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arab… Rich P
 `12 Nov 00:08 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_geopolitics
 
 Brent crude oil edges higher as US President Trump pauses further action against Iran, easing Middle East supply risk Traders Union
+
+**US Crude Exports Hit Record High in May as Iran War Tightens Global Oil Supplies - EnergyNow**
+`12 Nov 00:05 PKT` · pehli baar dekhi `12 Nov 16:43` · gnews_geopolitics
+
+US Crude Exports Hit Record High in May as Iran War Tightens Global Oil Supplies EnergyNow
+
+**US Allows 30-Day Sale of Iran Oil at Sea in Bid to Tame Prices - EnergyNow**
+`12 Nov 00:05 PKT` · pehli baar dekhi `12 Nov 16:43` · gnews_geopolitics
+
+US Allows 30-Day Sale of Iran Oil at Sea in Bid to Tame Prices EnergyNow
 
 **China Expands Its Central Asian Footprint Through Aviation, Energy, and Trade**
 `12 Nov 00:00 PKT` · pehli baar dekhi `12 Nov 03:46` · oilprice
@@ -1336,6 +1377,11 @@ Oil Prices Rise as Hormuz Stays Shut Ahead of Trump Deadline, Strikes on Iran In
 `11 Nov 20:00 PKT` · pehli baar dekhi `11 Nov 21:13` · oilprice
 
 At an energy forum in Ashgabat in late October, Turkmenistan made an unexpected announcement. After years of delays and speculation that the project would be canceled, the forum audience was told the Turkmenistan-Afghanistan-Pakistan-India (TAPI) gas pipeline had just reached "the outskirts of Herat" and would be "commissioned by the end of 2026." Depending on one's definition of "outskirts" for the northwestern Afghan city, that first claim appears to be true.
+
+**OPEC's Oil Production Nears Prewar Levels on Saudi Rebound - WSJ**
+`11 Nov 19:43 PKT` · pehli baar dekhi `12 Nov 16:43` · gnews_geopolitics
+
+OPEC's Oil Production Nears Prewar Levels on Saudi Rebound WSJ
 
 **US Intercepts Three Iranian Oil Tankers in Asian Waters, Sources Say - EnergyNow.com**
 `11 Nov 19:41 PKT` · pehli baar dekhi `12 Nov 03:46` · gnews_geopolitics
@@ -1753,6 +1799,11 @@ Iran&#039;s parliament speaker and top negotiator says Tehran is waiting for an 
 
 Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says EnergyNow.com
 
+**World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks - EnergyNow.com**
+`12 Nov 01:34 PKT` · pehli baar dekhi `12 Nov 16:43` · gnews_geopolitics
+
+World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks EnergyNow.com
+
 **Tankers burn in the Middle East despite hopes for de-escalation**
 `12 Nov 01:30 PKT` · pehli baar dekhi `12 Nov 03:46` · investing_commodities
 
@@ -1980,7 +2031,7 @@ Plus, Wall Street is worried about interest rates again, and Anthropic's founder
 
 The world is electrifying at an unprecedented pace, and it's only going to keep speeding up. COP 31, the latest iteration of the United Nations' annual climate conference, kicked off today in Antalya, Türkiye, and achieving 35 percent global electrification by 2035 is going to be one of the event's most central agenda items.
 
-### BINA TAG (212)
+### BINA TAG (213)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2010,6 +2061,7 @@ The world is electrifying at an unprecedented pace, and it's only going to keep 
 - `12 Nov 01:03` **aljazeera** — Three women killed in LA crash as driver arrested
 - `12 Nov 00:54` **gnews_fed** — Americans' credit card debt reaches nearly $1.3 trillion - ABC News - Breaking News, Latest News and Videos
 - `12 Nov 00:51` **aljazeera** — How much did pro-Israel groups spend against Hasan Piker at midterms?
+- `12 Nov 00:45` **gnews_fed** — Americans' credit card debt reaches nearly $1.3 trillion - ABC News - Breaking News, Latest News and Videos
 - `12 Nov 00:14` **aljazeera** — Which key races remain undecided one week after the US midterms?
 - `11 Nov 23:47` **wsj_markets** — The 31-Year-Old Trader Who Called Out Jensen Huang's 'China Problem'—and Shorted Nvidia
 - `11 Nov 23:43` **aljazeera** — More than one million people in Lebanon face acute food shortages, UN says
@@ -2213,48 +2265,48 @@ investing_news (17)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 17 | 8 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 21 | 4 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 6 | 14 | 0 | 0.0 |
-| marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.7 |
+| actionforex | OK | 20 | 20 | 17 | 3 | 0 | 0.0 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 1.1 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 7 | 1 | 6 | 29 | 0.0 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 62.4 |
-| kitco_general | OK | 27 | 27 | 1 | 26 | 0 | 0.2 |
-| gnews_fed | OK | 65 | 65 | 19 | 46 | 0 | 0.0 |
-| gnews_geopolitics | OK | 52 | 52 | 21 | 31 | 0 | 0.0 |
-| gnews_centralbanks | OK | 35 | 35 | 9 | 26 | 0 | 0.0 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 14.4 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.6 |
-| boj_whatsnew | OK | 49 | 5 | 4 | 1 | 44 | 0.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.2 |
-| mining_com | OK | 36 | 11 | 0 | 11 | 25 | 0.4 |
-| oilprice | OK | 15 | 15 | 3 | 12 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| ing_think | OK | 10 | 8 | 0 | 8 | 2 | 0.0 |
-| bbc_business | OK | 56 | 16 | 2 | 14 | 40 | 0.1 |
-| aljazeera | OK | 25 | 25 | 17 | 8 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.5 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.5 |
-| eia_energy | WARN | 24 | 0 | 0 | 0 | 24 | 5.6 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 7.6 |
-| wsj_world | OK | 70 | 21 | 3 | 18 | 49 | 0.0 |
-| wsj_markets | OK | 61 | 30 | 5 | 25 | 31 | 0.0 |
+| wsj_economy | OK | 36 | 11 | 4 | 7 | 25 | 0.1 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.7 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.7 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.6 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 62.7 |
+| kitco_general | OK | 28 | 28 | 0 | 28 | 0 | 0.4 |
+| gnews_fed | OK | 44 | 44 | 19 | 25 | 0 | 0.0 |
+| gnews_geopolitics | OK | 59 | 59 | 22 | 37 | 0 | 0.0 |
+| gnews_centralbanks | OK | 24 | 24 | 6 | 18 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 14.7 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.8 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.0 |
+| boj_whatsnew | OK | 51 | 7 | 2 | 5 | 44 | 0.2 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.5 |
+| mining_com | OK | 36 | 11 | 0 | 11 | 25 | 0.7 |
+| oilprice | OK | 15 | 15 | 5 | 10 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.1 |
+| ing_think | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| bbc_business | OK | 55 | 18 | 4 | 14 | 37 | 0.0 |
+| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.9 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.8 |
+| eia_energy | WARN | 24 | 0 | 0 | 0 | 24 | 5.9 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 7.9 |
+| wsj_world | OK | 71 | 23 | 2 | 21 | 48 | 0.0 |
+| wsj_markets | OK | 61 | 34 | 9 | 25 | 27 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 29 | 3 | 26 | 1 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 5 | 25 | 0 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 62d purana
+- cme_risk_management — STALE, cadence 10d, magar 63d purana
 - yahoo_finance — FAIL, HTTP 404
