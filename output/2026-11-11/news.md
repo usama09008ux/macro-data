@@ -1,8 +1,8 @@
 # News Pack — Trading Day 11 Nov 2026
 
 - Trading day: **11 Nov 03:00 -> 12 Nov 02:59 PKT**
-- Aakhri update: **12 Nov 03:46 PKT**
-- Kul khabrein: **627**
+- Aakhri update: **12 Nov 08:26 PKT**
+- Kul khabrein: **652**
 - Feeds: 33/39 OK
 
 ---
@@ -287,10 +287,12 @@ Dollar climbs as traders raise December Fed hike bets Kitco
 Economists say Fed could go overboard on rate hikes after hot October inflation report Business Insider
 
 **Inflation spreads across economy, putting pressure on Fed to accelerate rate hikes - KOKH**
-`12 Nov 00:09 PKT` · pehli baar dekhi `12 Nov 03:46` · gnews_fed · **2 feeds mein**
+`12 Nov 00:09 PKT` · pehli baar dekhi `12 Nov 03:46` · gnews_fed · **4 feeds mein**
 
 Inflation spreads across economy, putting pressure on Fed to accelerate rate hikes KOKH
+  - `12 Nov 00:06` *gnews_fed* — Inflation spreads across economy, putting pressure on Fed to accelerate rate hikes - fox56.com
   - `11 Nov 23:58` *gnews_fed* — Inflation spreads across economy, putting pressure on Fed to accelerate rate hikes - WGXA
+  - `11 Nov 23:57` *gnews_fed* — Inflation spreads across economy, putting pressure on Fed to accelerate rate hikes - WBFF
 
 **Solana could dip to $74 as Fed rate-hike odds hit 99% - Cryptonews.net**
 `12 Nov 00:02 PKT` · pehli baar dekhi `12 Nov 03:46` · gnews_fed
@@ -302,10 +304,20 @@ Solana could dip to $74 as Fed rate-hike odds hit 99% Cryptonews.net
 
 CoreWeave shares are sharply higher after earnings, giving buyers some relief after a punishing decline. From the June 2025 high near $187, the price tumbled to $40.58 on November 5. That represented a decline of roughly 78%. Today, the shares are up around 25% and trading near $61.25. For those unfamiliar with the company, CoreWeave provides cloud computing infrastructure designed for artificial intelligence.
 
+**Analysis | Fed chair needs friends in Congress as inflation fight drags on - The Washington Post**
+`11 Nov 23:00 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_fed
+
+Analysis | Fed chair needs friends in Congress as inflation fight drags on The Washington Post
+
 **Retirement Rules Spark Exit Date Debate for NY Fed's Williams - Bloomberg.com**
 `11 Nov 22:08 PKT` · pehli baar dekhi `12 Nov 03:46` · gnews_fed
 
 Retirement Rules Spark Exit Date Debate for NY Fed's Williams Bloomberg.com
+
+**Dollar advances as markets price in December Fed rate hike - Yahoo Finance**
+`11 Nov 21:36 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_fed
+
+Dollar advances as markets price in December Fed rate hike Yahoo Finance
 
 **Dollar Rises to 19-Month High on Fed Rate-Hike Bets - WSJ**
 `11 Nov 21:28 PKT` · pehli baar dekhi `12 Nov 03:46` · gnews_fed
@@ -761,9 +773,10 @@ Nagel Signals December ECB Rate Rise as Energy Prices Ease and Focus Stays on In
 EUR/USD Forecast — Euro (1.1100) Breaks 1.11 as Fed Hike Odds Hit 100% — 1.1290 Target TradingNEWS
 
 **A contrarian ECB rate bet targets 2.5% deposit rate through mid-March - Yahoo Finance Singapore**
-`11 Nov 22:13 PKT` · pehli baar dekhi `12 Nov 03:46` · gnews_centralbanks
+`11 Nov 22:13 PKT` · pehli baar dekhi `12 Nov 03:46` · gnews_centralbanks · **2 feeds mein**
 
 A contrarian ECB rate bet targets 2.5% deposit rate through mid-March Yahoo Finance Singapore
+  - `11 Nov 21:54` *gnews_centralbanks* — A contrarian ECB rate bet targets 2.5% deposit rate through mid-March - Investing.com
 
 **European stocks close higher. AI rebound sends Nasdaq indices sharply higher.**
 `11 Nov 21:58 PKT` · pehli baar dekhi `12 Nov 03:46` · investinglive
@@ -885,6 +898,11 @@ Euro drifts toward the bottom of its range as US rate bets climb FXStreet
 
 ### GBP
 
+**BoE's Greene says it is right to proactively tighten monetary policy stance - FT - Yahoo Finance UK**
+`11 Nov 23:39 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_centralbanks
+
+BoE's Greene says it is right to proactively tighten monetary policy stance - FT Yahoo Finance UK
+
 **Sterling Slips as Firm US Inflation Sustains Bets on Larger Federal Reserve Rate Rise - VT Markets**
 `11 Nov 22:56 PKT` · pehli baar dekhi `12 Nov 03:46` · gnews_fed
 
@@ -969,9 +987,10 @@ UK inflation to overshoot Bank of England target for next 4 years, NIESR forecas
   - `11 Nov 05:06` *gnews_centralbanks* — UK inflation to overshoot Bank of England target for next 4 years, NIESR forecasts - Reuters
 
 **Bank of England's inflation response 'risks higher interest rates for longer' - Forex Factory**
-`11 Nov 08:10 PKT` · pehli baar dekhi `11 Nov 13:11` · gnews_centralbanks · **2 feeds mein**
+`11 Nov 09:10 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_centralbanks · **3 feeds mein**
 
 Bank of England's inflation response 'risks higher interest rates for longer' Forex Factory
+  - `11 Nov 08:10` *gnews_centralbanks* — Bank of England's inflation response 'risks higher interest rates for longer' - Forex Factory
   - `11 Nov 05:03` *gnews_centralbanks* — Bank of England's inflation response 'risks higher interest rates for longer' - The Guardian
 
 **UK Inflation Seen Above Target Until 2030 as NIESR Warns of Persistent Wage Pressures**
@@ -1154,20 +1173,51 @@ Oil futures rose as continued skirmishes in the Middle East tempered expectation
 Saudi Arabia reports oil outputs soared to highest levels in months despite continued shipping disruptions.
   - `12 Nov 02:13` *gnews_geopolitics* — Oil production nears pre-Iran war levels, OPEC says - Al Jazeera
 
+**Evening digest: Oil rises, CoreWeave rebounds after stellar results - TradingView**
+`12 Nov 01:30 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_geopolitics
+
+Evening digest: Oil rises, CoreWeave rebounds after stellar results TradingView
+
 **2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict - Britannica**
 `12 Nov 01:26 PKT` · pehli baar dekhi `12 Nov 03:46` · gnews_geopolitics
 
 2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict Britannica
+
+**Oil Prices Extend Gains on Escalating Middle East Hostilities - EnergyNow.com**
+`12 Nov 01:20 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_geopolitics
+
+Oil Prices Extend Gains on Escalating Middle East Hostilities EnergyNow.com
 
 **Crude Oil Prices Finish Higher as Progress Stalls in US-Iran Peace Talks - Barchart.com**
 `12 Nov 01:13 PKT` · pehli baar dekhi `12 Nov 03:46` · gnews_geopolitics
 
 Crude Oil Prices Finish Higher as Progress Stalls in US-Iran Peace Talks Barchart.com
 
+**Fed's Schmid Warns Against Viewing Oil Shock as Transitory - EnergyNow.com**
+`12 Nov 01:08 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_fed
+
+Fed's Schmid Warns Against Viewing Oil Shock as Transitory EnergyNow.com
+
 **Burnham Heads to COP31 Torn Between Cheaper Power and Net Zero**
 `12 Nov 01:00 PKT` · pehli baar dekhi `12 Nov 03:46` · oilprice
 
 Andy Burnham will face difficult decisions on energy policy against the competing pressures of sky-high industrial costs and Labour's net zero commitments. Mauricio Alencar looks at the trade-offs facing the government before the Prime Minister's COP 31 visit. While it didn't make the headlines, Chancellor John Healey's Budget speech signalled a huge shift in positioning from previous governments over net zero.
+
+**Oil's New Problem Isn't Supply. It's Logistics: Bousso - EnergyNow.com**
+`12 Nov 00:54 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_geopolitics
+
+Oil's New Problem Isn't Supply. It's Logistics: Bousso EnergyNow.com
+
+**The Federal Reserve sees something changing in the oil market - Yahoo Finance**
+`12 Nov 00:47 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_fed · **2 feeds mein**
+
+The Federal Reserve sees something changing in the oil market Yahoo Finance
+  - `11 Nov 21:47` *gnews_fed* — The Federal Reserve sees something changing in the oil market - TheStreet
+
+**Iranians' Share of Oil Revenues Declines From $347 per Month to Just $40 - Iran Focus**
+`12 Nov 00:45 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_geopolitics
+
+Iranians' Share of Oil Revenues Declines From $347 per Month to Just $40 Iran Focus
 
 **Murphy Oil Draws Boycott Call Over Israeli Gas Licenses**
 `12 Nov 00:30 PKT` · pehli baar dekhi `12 Nov 03:46` · oilprice
@@ -1180,21 +1230,32 @@ Pro-Palestinian activists who pressured Eni and Dana Petroleum to quit an Israel
 OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arab… Rich Picks Daily
   - `11 Nov 19:14` *gnews_geopolitics* — OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia - Reuters
 
+**Brent crude oil edges higher as US President Trump pauses further action against Iran, easing Middle East supply risk - Traders Union**
+`12 Nov 00:08 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_geopolitics
+
+Brent crude oil edges higher as US President Trump pauses further action against Iran, easing Middle East supply risk Traders Union
+
 **China Expands Its Central Asian Footprint Through Aviation, Energy, and Trade**
 `12 Nov 00:00 PKT` · pehli baar dekhi `12 Nov 03:46` · oilprice
 
 China and Central Asia are acting fast to expand air links. Chinese and Central Asian aviation officials gathered in Tashkent on November 3-5 for a Working Group session under the C5+1 format to improve implementation of existing agreements and review expansion plans. During the meeting, Kazakhstan agreed to raise permitted weekly flights from 150 to 180 and add routes to Chengdu and Kashgar. Uzbekistan, meanwhile, agreed to increase the number of weekly flights to China from 100 to 114.
 
 **Oil up 2% as Iran official says country will keep enriched nuclear material - Kitco**
-`11 Nov 23:58 PKT` · pehli baar dekhi `12 Nov 03:46` · kitco_general · **2 feeds mein**
+`11 Nov 23:58 PKT` · pehli baar dekhi `12 Nov 03:46` · kitco_general · **3 feeds mein**
 
 Oil up 2% as Iran official says country will keep enriched nuclear material Kitco
+  - `12 Nov 01:09` *gnews_geopolitics* — Oil up 1% as Iran official says country will keep enriched nuclear material - Livemint
   - `11 Nov 07:10` *gnews_geopolitics* — Oil up 1% as Iran official says country will keep enriched nuclear material - Reuters
 
 **Vitol's Venezuela Oil Windfall Traced to Trader's Ties to JD Vance**
 `11 Nov 23:30 PKT` · pehli baar dekhi `12 Nov 03:46` · oilprice
 
 U.S. Energy Secretary Chris Wright called Vitol gasoline trader John Addison, an early financial backer of Vice President JD Vance, on January 5, two days after the U.S. operation that removed Nicolás Maduro, and asked whether Vitol wanted to sell Venezuela's crude, Reuters reported on Wednesday. Within days, Vitol and Trafigura received special licenses to market Venezuelan oil. The administration skipped competitive bidding, citing the need to move fast to stabilize Venezuela's economy.
+
+**Iran Forbids Nuclear Material to Exit the Country, Oil Prices Rise 1% - MarineLink**
+`11 Nov 23:20 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_geopolitics
+
+Iran Forbids Nuclear Material to Exit the Country, Oil Prices Rise 1% MarineLink
 
 **Saudi Arabia Keeps Increasing Its Oil Production. OPEC+'s Output is Now Near Pre-Iran War Levels. - Yahoo Finance Singapore**
 `11 Nov 23:13 PKT` · pehli baar dekhi `12 Nov 03:46` · gnews_geopolitics
@@ -1216,10 +1277,10 @@ Oil up 2%, Iran says no nuclear material will leave state RTE.ie
 
 Gas-fired projects secured all 5.16 gigawatts (GW) of derated capacity in Germany's first capacity auction, with more than half going to developments at existing coal sites. The results show how the search for dependable backup power is giving established generators an advantage, while batteries missed out entirely. Derated capacity is adjusted to reflect each project's expected contribution to security of supply.
 
-**The Federal Reserve sees something changing in the oil market - TheStreet**
-`11 Nov 21:47 PKT` · pehli baar dekhi `12 Nov 03:46` · gnews_fed
+**Crude Oil Prices Jump on Elusive Peace Prospects in the Middle East - TradingView**
+`11 Nov 21:31 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_geopolitics
 
-The Federal Reserve sees something changing in the oil market TheStreet
+Crude Oil Prices Jump on Elusive Peace Prospects in the Middle East TradingView
 
 **Brent Jumps Nearly 3% as Iran Denies Any Talks With Washington**
 `11 Nov 21:30 PKT` · pehli baar dekhi `12 Nov 03:46` · oilprice
@@ -1265,6 +1326,11 @@ Saudi Arabia told OPEC it raised crude production in October to 10.563 million b
 `11 Nov 20:24 PKT` · pehli baar dekhi `12 Nov 03:46` · gnews_geopolitics
 
 Oil Falls After Iraq Resumes Oil Exports via Turkey's Ceyhan Port EnergyNow
+
+**Oil Prices Rise as Hormuz Stays Shut Ahead of Trump Deadline, Strikes on Iran Intensify - EnergyNow.com**
+`11 Nov 20:18 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_geopolitics
+
+Oil Prices Rise as Hormuz Stays Shut Ahead of Trump Deadline, Strikes on Iran Intensify EnergyNow.com
 
 **Iran War Breathes New Life Into Turkmenistan's $10 Billion Pipeline Dream**
 `11 Nov 20:00 PKT` · pehli baar dekhi `11 Nov 21:13` · oilprice
@@ -1316,6 +1382,11 @@ Oil Prices Rebound as Iran Peace Hopes Dim | Brent at $92.43, WTI at $86.62 - Ne
 `11 Nov 16:30 PKT` · pehli baar dekhi `11 Nov 21:13` · oilprice
 
 German energy company RWE and global investment firm KKR will invest $16 billion (£12 billion) in offshore wind projects in the UK in what is likely the biggest renewable energy investment in Britain ever. RWE and KKR expect to deliver the Vanguard West and Vanguard East offshore wind projects in the UK North Sea with this investment after reaching financial close for both projects.
+
+**Oil prices touched their highest level in 4 years. What does it mean for shoppers? - ABC News - Breaking News, Latest News and Videos**
+`11 Nov 16:24 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_geopolitics
+
+Oil prices touched their highest level in 4 years. What does it mean for shoppers? ABC News - Breaking News, Latest News and Videos
 
 **Oil Prices Rise 1% as Iran Refuses to Export Nuclear Material - Global Banking & Finance Review**
 `11 Nov 16:07 PKT` · pehli baar dekhi `11 Nov 21:13` · gnews_geopolitics
@@ -1677,8 +1748,18 @@ Iran&#039;s parliament speaker and top negotiator says Tehran is waiting for an 
 **Ukraine's Zelenskiy says progress in peace talks hinges on US approach to Russia**
 `12 Nov 02:00 PKT` · pehli baar dekhi `12 Nov 03:46` · investing_commodities
 
+**Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says - EnergyNow.com**
+`12 Nov 01:46 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_geopolitics
+
+Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says EnergyNow.com
+
 **Tankers burn in the Middle East despite hopes for de-escalation**
 `12 Nov 01:30 PKT` · pehli baar dekhi `12 Nov 03:46` · investing_commodities
+
+**India Sees Qatar LNG Supply Cut After Iran Strike - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com**
+`12 Nov 00:52 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_geopolitics
+
+India Sees Qatar LNG Supply Cut After Iran Strike - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com
 
 **Heating costs will surge this winter due to Iran war — with heating oil prices spiking as much as 70% - New York Post**
 `12 Nov 00:50 PKT` · pehli baar dekhi `12 Nov 03:46` · gnews_geopolitics
@@ -1899,7 +1980,7 @@ Plus, Wall Street is worried about interest rates again, and Anthropic's founder
 
 The world is electrifying at an unprecedented pace, and it's only going to keep speeding up. COP 31, the latest iteration of the United Nations' annual climate conference, kicked off today in Antalya, Türkiye, and achieving 35 percent global electrification by 2035 is going to be one of the event's most central agenda items.
 
-### BINA TAG (208)
+### BINA TAG (212)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2055,6 +2136,8 @@ The world is electrifying at an unprecedented pace, and it's only going to keep 
 - `11 Nov 11:23` **aljazeera** — Netanyahu fights to stay relevant as Israel's opposition closes in
 - `11 Nov 10:39` **aljazeera** — Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses
 - `11 Nov 10:28` **gnews_fed** — Federal Reserve - Rutland Herald
+- `11 Nov 10:28` **gnews_fed** — Federal Reserve - Rutland Herald
+- `11 Nov 10:28` **gnews_fed** — Federal Reserve - Rutland Herald
 - `11 Nov 10:16` **aljazeera** — 'I pay $500 for 5 square metres': Spain's protesters, in their own words
 - `11 Nov 10:01` **aljazeera** — US charges three men for allegedly plotting attack on UK base
 - `11 Nov 09:56` **aljazeera** — Malaysia's ex-PM transferred to house arrest for 1MDB graft sentence
@@ -2071,6 +2154,8 @@ The world is electrifying at an unprecedented pace, and it's only going to keep 
 - `11 Nov 09:18` **gnews_fed** — Federal Reserve - Idaho State Journal
 - `11 Nov 09:18` **gnews_fed** — Federal Reserve - Post Register
 - `11 Nov 09:18` **gnews_fed** — Federal Reserve - Post Register
+- `11 Nov 09:18` **gnews_fed** — Federal Reserve - Idaho State Journal
+- `11 Nov 09:18` **gnews_fed** — Federal Reserve - Idaho State Journal
 - `11 Nov 09:04` **aljazeera** — Netanyahu heckled by Bennett at Knesset opening session
 - `11 Nov 08:55` **ing_think** — 10 questions for China in 2027
 - `11 Nov 08:48` **aljazeera** — Section 219: the future of US-Israeli defence partnership
@@ -2128,45 +2213,45 @@ investing_news (17)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 17 | 8 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.4 |
-| marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.5 |
-| instaforex | OK | 25 | 25 | 10 | 15 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 6 | 0 | 6 | 30 | 0.0 |
-| cme_metals_video | OK | 10 | 2 | 2 | 0 | 8 | 0.2 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.0 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.0 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 62.2 |
-| kitco_general | OK | 28 | 27 | 15 | 12 | 1 | 0.0 |
-| gnews_fed | OK | 66 | 66 | 21 | 45 | 0 | 0.0 |
-| gnews_geopolitics | OK | 46 | 46 | 16 | 30 | 0 | 0.0 |
-| gnews_centralbanks | OK | 32 | 32 | 8 | 24 | 0 | 0.2 |
-| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 14.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.1 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.4 |
-| boj_whatsnew | OK | 46 | 1 | 0 | 1 | 45 | 1.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.0 |
-| mining_com | OK | 36 | 11 | 6 | 5 | 25 | 0.2 |
-| oilprice | OK | 15 | 15 | 10 | 5 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| ing_think | OK | 10 | 8 | 1 | 7 | 2 | 0.2 |
-| bbc_business | OK | 54 | 14 | 4 | 10 | 40 | 0.0 |
-| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.4 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.3 |
-| eia_energy | WARN | 24 | 0 | 0 | 0 | 24 | 5.4 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 7.4 |
-| wsj_world | OK | 71 | 18 | 7 | 11 | 53 | 0.0 |
-| wsj_markets | OK | 61 | 28 | 9 | 19 | 33 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 6 | 14 | 0 | 0.0 |
+| marketpulse | OK | 4 | 1 | 0 | 1 | 3 | 0.7 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 7 | 1 | 6 | 29 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.2 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 62.4 |
+| kitco_general | OK | 27 | 27 | 1 | 26 | 0 | 0.2 |
+| gnews_fed | OK | 65 | 65 | 19 | 46 | 0 | 0.0 |
+| gnews_geopolitics | OK | 52 | 52 | 21 | 31 | 0 | 0.0 |
+| gnews_centralbanks | OK | 35 | 35 | 9 | 26 | 0 | 0.0 |
+| fed_monetary | WARN | 15 | 0 | 0 | 0 | 15 | 14.4 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.6 |
+| boj_whatsnew | OK | 49 | 5 | 4 | 1 | 44 | 0.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 6.2 |
+| mining_com | OK | 36 | 11 | 0 | 11 | 25 | 0.4 |
+| oilprice | OK | 15 | 15 | 3 | 12 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| ing_think | OK | 10 | 8 | 0 | 8 | 2 | 0.0 |
+| bbc_business | OK | 56 | 16 | 2 | 14 | 40 | 0.1 |
+| aljazeera | OK | 25 | 25 | 17 | 8 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.5 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.5 |
+| eia_energy | WARN | 24 | 0 | 0 | 0 | 24 | 5.6 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 7.6 |
+| wsj_world | OK | 70 | 21 | 3 | 18 | 49 | 0.0 |
+| wsj_markets | OK | 61 | 30 | 5 | 25 | 31 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 26 | 5 | 21 | 4 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 29 | 3 | 26 | 1 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
