@@ -1,6 +1,6 @@
 # Calendar — Trading Day 12 Nov 2026
 
-- Banaya gaya: **12 Nov 2026 04:13 PKT**
+- Banaya gaya: **12 Nov 2026 08:18 PKT**
 - Trading day: **12 Nov 03:00 -> 13 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,9 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 04:50 | JPY | low | PPI y/y | 6.5% | 6.8% |
-| 05:00 | AUD | low | MI Inflation Expectations | - | 5.3% |
-| 05:01 | GBP | low | RICS House Price Balance | -33% | -32% |
 | 12:00 | GBP | **HIGH** | GDP m/m | 0.0% | 0.1% |
 | 12:00 | GBP | MED | Prelim GDP q/q | 0.7% | 0.5% |
 | 12:00 | GBP | low | Construction Output m/m | 0.0% | -0.2% |
@@ -42,6 +39,7 @@
 | **13 Nov** 00:00 | USD | low | Federal Budget Balance | -298.6B | -26.9B |
 | **13 Nov** 00:30 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | **13 Nov** 02:30 | NZD | low | BusinessNZ Manufacturing Index | - | 56.5 |
+| **13 Nov** 04:30 | USD | low | FOMC Member Williams Speaks | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
