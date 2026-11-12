@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "12 Nov 2026 08:18",
+  "generated_pkt": "12 Nov 2026 18:54",
   "trading_day": "2026-11-12",
   "feed_sources": {
     "thisweek": "live"
@@ -877,32 +877,6 @@
       "trading_day": "2026-11-12"
     },
     {
-      "title": "M2 Money Supply y/y",
-      "ccy": "CNY",
-      "impact": "Low",
-      "forecast": "7.2%",
-      "previous": "7.2%",
-      "url": "https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy",
-      "all_day": false,
-      "utc": "2026-11-12T09:03Z",
-      "pkt": "12 Nov 14:03",
-      "pkt_iso": "2026-11-12T14:03:00+05:00",
-      "trading_day": "2026-11-12"
-    },
-    {
-      "title": "New Loans",
-      "ccy": "CNY",
-      "impact": "Low",
-      "forecast": "80B",
-      "previous": "1080B",
-      "url": "https://www.forexfactory.com/calendar/477-ch-new-loans",
-      "all_day": false,
-      "utc": "2026-11-12T09:03Z",
-      "pkt": "12 Nov 14:03",
-      "pkt_iso": "2026-11-12T14:03:00+05:00",
-      "trading_day": "2026-11-12"
-    },
-    {
       "title": "Building Permits m/m",
       "ccy": "CAD",
       "impact": "Low",
@@ -1212,6 +1186,32 @@
       "utc": "2026-11-13T10:00Z",
       "pkt": "13 Nov 15:00",
       "pkt_iso": "2026-11-13T15:00:00+05:00",
+      "trading_day": "2026-11-13"
+    },
+    {
+      "title": "M2 Money Supply y/y",
+      "ccy": "CNY",
+      "impact": "Low",
+      "forecast": "7.2%",
+      "previous": "7.2%",
+      "url": "https://www.forexfactory.com/calendar/476-ch-m2-money-supply-yy",
+      "all_day": false,
+      "utc": "2026-11-13T10:03Z",
+      "pkt": "13 Nov 15:03",
+      "pkt_iso": "2026-11-13T15:03:00+05:00",
+      "trading_day": "2026-11-13"
+    },
+    {
+      "title": "New Loans",
+      "ccy": "CNY",
+      "impact": "Low",
+      "forecast": "80B",
+      "previous": "1080B",
+      "url": "https://www.forexfactory.com/calendar/477-ch-new-loans",
+      "all_day": false,
+      "utc": "2026-11-13T10:03Z",
+      "pkt": "13 Nov 15:03",
+      "pkt_iso": "2026-11-13T15:03:00+05:00",
       "trading_day": "2026-11-13"
     },
     {
