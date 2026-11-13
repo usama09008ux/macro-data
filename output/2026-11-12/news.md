@@ -1,8 +1,8 @@
 # News Pack — Trading Day 12 Nov 2026
 
 - Trading day: **12 Nov 03:00 -> 13 Nov 02:59 PKT**
-- Aakhri update: **13 Nov 05:30 PKT**
-- Kul khabrein: **659**
+- Aakhri update: **13 Nov 12:10 PKT**
+- Kul khabrein: **667**
 - Feeds: 35/39 OK
 
 ---
@@ -113,6 +113,11 @@ Zcash has sold off sharply on Tuesday following the hawkish repricing triggered 
 `12 Nov 16:43 PKT` · instaforex
 
 The Swiss franc slipped beyond 0.83 per USD, approaching its weakest level since May 2025, as markets priced in a renewed likelihood of another Federal Reserve rate hike that would further widen the interest-rate gap between the US and Switzerland. Stronger-than-expected US inflation and labour market data have reinforced expectations of additional Fed tightening and bolstered the dollar.
+
+**Why is the Euro holding gains against the Canadian Dollar despite doubts over an ECB rate hike and rising oil prices? - www.tmgm.com**
+`12 Nov 16:28 PKT` · pehli baar dekhi `13 Nov 12:10` · gnews_centralbanks
+
+Why is the Euro holding gains against the Canadian Dollar despite doubts over an ECB rate hike and rising oil prices? www.tmgm.com
 
 **Bitcoin consolidates near recent lows as hawkish Fed repricing weighs on the crypto market**
 `12 Nov 14:41 PKT` · pehli baar dekhi `12 Nov 16:43` · investinglive
@@ -542,9 +547,10 @@ Fed's Barr: US Must Prepare for 'Serious' AI Job Disruption Newsmax
 Fed Officials Consider Faster Hikes as Higher Prices Seep Into Broader Economy Arkansas Business
 
 **Fed's Barr: US should prepare for 'serious' AI job disruption, widening inequality - Kitco**
-`12 Nov 21:26 PKT` · pehli baar dekhi `13 Nov 00:11` · kitco_general · **2 feeds mein**
+`12 Nov 21:26 PKT` · pehli baar dekhi `13 Nov 00:11` · kitco_general · **3 feeds mein**
 
 Fed's Barr: US should prepare for 'serious' AI job disruption, widening inequality Kitco
+  - `12 Nov 21:55` *gnews_fed* — Fed's Barr: US should prepare for 'serious' AI job disruption, widening inequality - Reuters
   - `12 Nov 20:35` *gnews_fed* — Fed's Barr: US should prepare for 'serious' AI job disruption, widening inequality - Fresno Bee
 
 **Fed's Goolsbee: Inflation has been well-above target**
@@ -579,9 +585,10 @@ Prior was 3.99m (revised to 3.97m) Sales -5.5% vs +1.5% prior (revised to +1.0%)
 Fed's Barr Warns AI Without Guardrails Risks Widening Inequality Bloomberg.com
 
 **Warsh discloses wife's transactions related to pet care investment firm - The Hill**
-`12 Nov 19:43 PKT` · pehli baar dekhi `13 Nov 00:11` · gnews_fed
+`12 Nov 19:43 PKT` · pehli baar dekhi `13 Nov 00:11` · gnews_fed · **2 feeds mein**
 
 Warsh discloses wife's transactions related to pet care investment firm The Hill
+  - `12 Nov 19:43` *gnews_fed* — Warsh discloses wife's transactions related to pet care investment firm - The Hill
 
 **Fed's Hammack says inflation is worsening, favors gradual hikes - FXStreet**
 `12 Nov 19:36 PKT` · pehli baar dekhi `13 Nov 00:11` · gnews_fed
@@ -886,6 +893,13 @@ ECB's Kazaks says that a December rate hike is likely as further tightening is n
 
 ECB Likely to Deliver Final Rate Hike in December Amid Inflation Risks Global Banking & Finance Review
 
+**Euro posts modest gains near 1.1100 as traders assess ECB's rate path - www.tmgm.com**
+`12 Nov 16:11 PKT` · pehli baar dekhi `13 Nov 12:10` · gnews_centralbanks · **3 feeds mein**
+
+Euro posts modest gains near 1.1100 as traders assess ECB's rate path www.tmgm.com
+  - `12 Nov 08:06` *gnews_centralbanks* — Euro posts modest gains near 1.1100 as traders assess ECB's rate path | FXStreet - شبكة تواصل الإخبارية
+  - `12 Nov 07:28` *gnews_centralbanks* — Euro posts modest gains near 1.1100 as traders assess ECB's rate path - FXStreet
+
 **EUR/USD Daily Outlook**
 `12 Nov 14:17 PKT` · pehli baar dekhi `12 Nov 16:43` · actionforex · **5 feeds mein**
 
@@ -904,12 +918,6 @@ Europe's stock market party is showing no signs of winding down with the DAX is 
 `12 Nov 11:55 PKT` · pehli baar dekhi `12 Nov 16:43` · investinglive
 
 There are just a couple of key expiry levels to take note of on the day, as highlighted in bold below. The first ones are for EUR/USD at the 1.1075 and 1.1100 levels, with the strikes keeping within 25 pips of the spot price. The former is even sitting directly on where price is trading currently, already being of particular relevance.
-
-**Euro posts modest gains near 1.1100 as traders assess ECB's rate path | FXStreet - شبكة تواصل الإخبارية**
-`12 Nov 08:06 PKT` · pehli baar dekhi `12 Nov 08:26` · gnews_centralbanks · **2 feeds mein**
-
-Euro posts modest gains near 1.1100 as traders assess ECB's rate path | FXStreet شبكة تواصل الإخبارية
-  - `12 Nov 07:28` *gnews_centralbanks* — Euro posts modest gains near 1.1100 as traders assess ECB's rate path - FXStreet
 
 **EU Stocks Rise to Record**
 `12 Nov 03:35 PKT` · pehli baar dekhi `12 Nov 03:46` · instaforex
@@ -1096,9 +1104,10 @@ Canadian dollar steadies near 19-month low ahead of US inflation data Kitco
 Canada's miners are the best-paid workers in the country by a wide margin. They are also, this fall, among the worst-rewarded for staying loyal.
 
 **Ivanhoe Mines targets Pakistan copper with Mari Energies deal**
-`12 Nov 16:21 PKT` · pehli baar dekhi `13 Nov 00:11` · mining_com
+`12 Nov 16:21 PKT` · pehli baar dekhi `13 Nov 00:11` · mining_com · **2 feeds mein**
 
 Robert Friedland outlined plans for equal partnerships and a local office as the Canadian miner enters South Asia and the Middle East.
+  - `12 Nov 16:21` *mining_com* — Ivanhoe Atlantic targets Pakistan copper with Mari Energies deal
 
 **USD/CAD Daily Outlook**
 `12 Nov 13:37 PKT` · pehli baar dekhi `12 Nov 16:43` · actionforex
@@ -1311,6 +1320,11 @@ Crude Oil Prices Gain as US-Iran Peace Optimism Wanes Barchart.com
 
 President Donald Trump declared Thursday that the United States no longer needs a deal with Iran, just three days after suggesting the eight-month war was nearing its end. Oil prices promptly jumped, adding another round of volatility to a market that has spent November reacting to shifting expectations for peace. "We don't need a deal with Iran. Those days have long since passed," Trump wrote on Truth Social, adding that Washington had control of Iran's money and the Strait of Hormuz.
 
+**Brent Briefly Hits $96 After Trump Says U.S. Has No Need for Iran Deal - Crude Oil Prices Today | OilPrice.com**
+`12 Nov 22:30 PKT` · pehli baar dekhi `13 Nov 12:10` · gnews_geopolitics
+
+Brent Briefly Hits $96 After Trump Says U.S. Has No Need for Iran Deal Crude Oil Prices Today | OilPrice.com
+
 **Saudi Crown Prince Threatens To Increase Oil Prices Over Russian Weapons Supply to Iran-Backed Houthis - Arbiterz**
 `12 Nov 22:23 PKT` · pehli baar dekhi `13 Nov 00:11` · gnews_geopolitics
 
@@ -1343,6 +1357,11 @@ Iran Cut Back Oil Production by 400,000 bpd, US Energy Secretary Says EnergyNow
 `12 Nov 21:30 PKT` · pehli baar dekhi `13 Nov 00:11` · oilprice
 
 The UK will aim to show leadership in global climate issues that have taken a backseat in recent years, as Britain remains committed to reaching net zero by 2050 and working with all its partners to reach their respective climate goals, Prime Minister Andy Burnham said at the COP31 climate summit in Antalya on Thursday. "The message I carry here at my first COP as UK Prime Minister is this.
+
+**Oil Price Today Jumps 3.3% Toward $96 as Iran Deal Hopes Fade and Supply Risks Return - Markets.com**
+`12 Nov 21:03 PKT` · pehli baar dekhi `13 Nov 12:10` · gnews_geopolitics
+
+Oil Price Today Jumps 3.3% Toward $96 as Iran Deal Hopes Fade and Supply Risks Return Markets.com
 
 **Who is Really Paying for the Data Center Boom?**
 `12 Nov 21:00 PKT` · pehli baar dekhi `13 Nov 00:11` · oilprice
@@ -1954,7 +1973,7 @@ Plus, Democrats are pointing fingers after Defense Secretary Pete Hegseth avoide
 
 A ceasefire on terms advantageous to Tehran would set the stage for the next conflict.
 
-### BINA TAG (237)
+### BINA TAG (238)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2019,6 +2038,7 @@ A ceasefire on terms advantageous to Tehran would set the stage for the next con
 - `12 Nov 23:03` **aljazeera** — Al Jazeera reports from Gaza hospital attacked by Israel
 - `12 Nov 23:02` **aljazeera** — Suspect turns gun on himself after deadly shooting in Washington DC
 - `12 Nov 23:01` **ing_think** — FX Outlook 2027: Our latest forecasts
+- `12 Nov 23:01` **wsj_markets** — Here Are the New Contribution Limits for 401(k)s and IRAs in 2027
 - `12 Nov 23:00` **ing_think** — FX Outlook 2027: Fat tails, slim ranges
 - `12 Nov 22:58` **gnews_fed** — Federal Reserve reduces rate-setting meetings in 2027 - CNBC
 - `12 Nov 22:56` **investing_commodities** — White House set to extend Jones Act shipping waiver, sources say
@@ -2212,48 +2232,48 @@ investing_news (13)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 14 | 11 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 20 | 5 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.6 |
-| instaforex | OK | 25 | 25 | 20 | 5 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 8 | 0 | 8 | 28 | 0.2 |
-| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 3 | 1 | 2 | 7 | 0.1 |
-| cme_rates_video | OK | 10 | 3 | 1 | 2 | 7 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 63.2 |
-| kitco_general | OK | 30 | 29 | 12 | 17 | 1 | 0.1 |
-| gnews_fed | OK | 71 | 71 | 32 | 39 | 0 | 0.0 |
-| gnews_geopolitics | OK | 39 | 39 | 10 | 29 | 0 | 0.1 |
-| gnews_centralbanks | OK | 11 | 11 | 0 | 11 | 0 | 0.3 |
-| fed_monetary | OK | 15 | 1 | 0 | 1 | 14 | 0.3 |
-| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.5 |
-| boj_whatsnew | OK | 51 | 6 | 6 | 0 | 45 | 0.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.0 |
-| mining_com | OK | 36 | 10 | 4 | 6 | 26 | 0.1 |
-| oilprice | OK | 15 | 15 | 6 | 9 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
-| bbc_business | OK | 59 | 15 | 4 | 11 | 44 | 0.0 |
-| aljazeera | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.4 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 7.4 |
-| eia_energy | OK | 25 | 1 | 0 | 1 | 24 | 0.4 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 8.5 |
-| wsj_world | OK | 71 | 21 | 8 | 13 | 50 | 0.0 |
-| wsj_markets | OK | 61 | 29 | 6 | 23 | 32 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 9 | 11 | 0 | 0.1 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.9 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 9 | 1 | 8 | 27 | 0.2 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
+| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_daily_commentary | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 63.5 |
+| kitco_general | OK | 34 | 31 | 2 | 29 | 3 | 0.3 |
+| gnews_fed | OK | 74 | 74 | 16 | 58 | 0 | 0.0 |
+| gnews_geopolitics | OK | 45 | 45 | 13 | 32 | 0 | 0.0 |
+| gnews_centralbanks | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
+| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.8 |
+| boj_whatsnew | OK | 51 | 6 | 0 | 6 | 45 | 1.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.3 |
+| mining_com | OK | 36 | 10 | 1 | 9 | 26 | 0.3 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
+| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
+| bbc_business | OK | 58 | 18 | 4 | 14 | 40 | 0.0 |
+| aljazeera | OK | 25 | 25 | 21 | 4 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.7 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 7.6 |
+| eia_energy | OK | 25 | 1 | 0 | 1 | 24 | 0.7 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 8.7 |
+| wsj_world | OK | 72 | 25 | 4 | 21 | 47 | 0.1 |
+| wsj_markets | OK | 61 | 32 | 7 | 25 | 29 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 25 | 6 | 19 | 5 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 29 | 4 | 25 | 1 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 63d purana
+- cme_risk_management — STALE, cadence 10d, magar 64d purana
 - yahoo_finance — FAIL, HTTP 404
