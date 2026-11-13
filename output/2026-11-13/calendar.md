@@ -1,6 +1,6 @@
 # Calendar — Trading Day 13 Nov 2026
 
-- Banaya gaya: **13 Nov 2026 07:52 PKT**
+- Banaya gaya: **13 Nov 2026 18:18 PKT**
 - Trading day: **13 Nov 03:00 -> 14 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,15 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 12:00 | EUR | low | German WPI m/m | 0.4% | 1.9% |
-| 12:30 | CHF | low | PPI m/m | 0.2% | 0.3% |
-| 12:45 | EUR | low | French Final CPI m/m | 0.4% | 0.4% |
-| 14:00 | EUR | low | Italian Trade Balance | 2.84B | 1.77B |
-| 15:00 | EUR | low | Flash Employment Change q/q | 0.2% | 0.1% |
-| 15:00 | EUR | low | Flash GDP q/q | 0.4% | 0.4% |
-| 15:00 | EUR | low | Trade Balance | -4.5B | -6.8B |
-| 15:03 | CNY | low | M2 Money Supply y/y | 7.2% | 7.2% |
-| 15:03 | CNY | low | New Loans | 80B | 1080B |
 | 18:30 | CAD | low | Manufacturing Sales m/m | 0.1% | 1.5% |
 | 18:30 | CAD | low | Wholesale Sales m/m | 0.5% | -1.6% |
 | 18:30 | USD | **HIGH** | Core PPI m/m | 0.3% | 0.7% |
@@ -34,6 +25,7 @@
 | 21:00 | EUR | low | German Buba President Nagel Speaks | - | - |
 | 22:00 | USD | low | FOMC Member Daly Speaks | - | - |
 | **14 Nov** 05:00 | USD | low | FOMC Member Jefferson Speaks | - | - |
+| **14 Nov** 16:00 | GBP | low | MPC Member Greene Speaks | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
