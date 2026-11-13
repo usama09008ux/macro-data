@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "13 Nov 2026 18:18",
+  "generated_pkt": "13 Nov 2026 23:58",
   "trading_day": "2026-11-13",
   "feed_sources": {
     "thisweek": "live"
@@ -1293,19 +1293,6 @@
       "trading_day": "2026-11-13"
     },
     {
-      "title": "Mortgage Delinquencies",
-      "ccy": "USD",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "4.37%",
-      "url": "https://www.forexfactory.com/calendar/489-us-mortgage-delinquencies",
-      "all_day": false,
-      "utc": "2026-11-13T15:15Z",
-      "pkt": "13 Nov 20:15",
-      "pkt_iso": "2026-11-13T20:15:00+05:00",
-      "trading_day": "2026-11-13"
-    },
-    {
       "title": "Natural Gas Storage",
       "ccy": "USD",
       "impact": "Low",
@@ -1384,5 +1371,20 @@
       "trading_day": "2026-11-14"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US October PPI +6.5% vs +6.6% expected",
+      "actual_raw": "+6.5%",
+      "forecast_raw": "+6.6%",
+      "beat": false,
+      "raw_diff": "-0.10pp",
+      "sign_flip": false,
+      "diff_pct": -1.5,
+      "when_pkt": "13 Nov 18:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }

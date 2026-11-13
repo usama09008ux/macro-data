@@ -1,6 +1,6 @@
 # Calendar — Trading Day 13 Nov 2026
 
-- Banaya gaya: **13 Nov 2026 18:18 PKT**
+- Banaya gaya: **13 Nov 2026 23:58 PKT**
 - Trading day: **13 Nov 03:00 -> 14 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,25 +12,10 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 18:30 | CAD | low | Manufacturing Sales m/m | 0.1% | 1.5% |
-| 18:30 | CAD | low | Wholesale Sales m/m | 0.5% | -1.6% |
-| 18:30 | USD | **HIGH** | Core PPI m/m | 0.3% | 0.7% |
-| 18:30 | USD | **HIGH** | PPI m/m | 0.4% | 1.3% |
-| 19:10 | USD | low | FOMC Member Collins Speaks | - | - |
-| 19:30 | GBP | low | CB Leading Index m/m | - | -0.1% |
-| 19:40 | USD | low | FOMC Member Logan Speaks | - | - |
-| 20:15 | USD | low | Mortgage Delinquencies | - | 4.37% |
-| 20:30 | USD | low | Natural Gas Storage | 65B | 77B |
-| 20:50 | USD | low | FOMC Member Bowman Speaks | - | - |
-| 21:00 | EUR | low | German Buba President Nagel Speaks | - | - |
-| 22:00 | USD | low | FOMC Member Daly Speaks | - | - |
 | **14 Nov** 05:00 | USD | low | FOMC Member Jefferson Speaks | - | - |
 | **14 Nov** 16:00 | GBP | low | MPC Member Greene Speaks | - | - |
 
-**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
-
-- `13 Nov 18:30` **USD Core PPI m/m**
-- `13 Nov 18:30` **USD PPI m/m**
+*Agle 24 ghante mein koi HIGH impact event nahi.*
 
 ---
 
@@ -44,5 +29,9 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 13 Nov 18:30 | US October PPI | +6.5% | +6.6% | -0.10pp (-2%) | neeche |
 
