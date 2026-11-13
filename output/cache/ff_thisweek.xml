@@ -1031,6 +1031,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/807-us-fomc-member-daly-speaks]]></url>
 	</event>
 	<event>
+		<title>FOMC Financial Stability Report</title>
+		<country>USD</country>
+		<date><![CDATA[11-13-2026]]></date>
+		<time><![CDATA[9:00pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/843-us-fomc-financial-stability-report]]></url>
+	</event>
+	<event>
 		<title>FOMC Member Jefferson Speaks</title>
 		<country>USD</country>
 		<date><![CDATA[11-14-2026]]></date>
