@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 13 Nov 2026
 
-- Banaya gaya: **13 Nov 2026 18:26 PKT**
+- Banaya gaya: **14 Nov 2026 00:44 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
@@ -36,8 +36,8 @@
 
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
-| VIX <br>`VIXCLS` | **17.49** | -1.97 | +0.88 | +0.62 | 65 | 2026-11-11 |
-| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.30%** | -0.04 | -0.1 | +0.14 | 81 | 2026-11-11 |
+| VIX <br>`VIXCLS` | **18.70** | +1.21 | -9.48 | +2.24 | 75 | 2026-11-12 |
+| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.20%** | -0.1 | -0.12 | -0.05 | 71 | 2026-11-12 |
 | Financial stress index <br>`STLFSI4` | **-0.49** | +0.0309 | -0.032 | +0.4559 | 74 | 2026-11-06 |
 
 ---
@@ -49,7 +49,7 @@
 | CPI (headline) <br>`CPIAUCSL` | **337.48idx** | +0.35 | +4.08 | 97 | 2026-10-01 |
 | Core CPI <br>`CPILFESL` | **339.90idx** | +0.3 | +2.87 | 97 | 2026-10-01 |
 | Core PCE (Fed ka hadaf) <br>`PCEPILFE` | **130.90idx** | +0.32 | +3.12 | 97 | 2026-09-01 |
-| PPI final demand <br>`PPIFIS` | **159.78idx** | +1.34 | +6.35 | 97 | 2026-09-01 |
+| PPI final demand <br>`PPIFIS` | **160.25idx** | +0.35 | +6.52 | 97 | 2026-10-01 |
 
 ---
 
