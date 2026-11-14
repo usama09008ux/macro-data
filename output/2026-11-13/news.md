@@ -1,13 +1,23 @@
 # News Pack — Trading Day 13 Nov 2026
 
 - Trading day: **13 Nov 03:00 -> 14 Nov 02:59 PKT**
-- Aakhri update: **14 Nov 02:30 PKT**
-- Kul khabrein: **633**
+- Aakhri update: **14 Nov 06:42 PKT**
+- Kul khabrein: **668**
 - Feeds: 35/39 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**Equity Index futures dip on tech selling, hold weekly gains.**
+`14 Nov 02:36 PKT` · pehli baar dekhi `14 Nov 06:42` · cme_daily_commentary
+
+Equity Index futures traded lower on Friday as technology sector weakness and rising yields weighed on markets, though major indices remained on track for weekly gains. E-mini S&P 500 futures fell more than 0.5% to around 7,570, marking a second consecutive session of declines while holding above an intraday low of 7,519.
+
+**Euro FX futures drop for 4th straight session on soft jobs data.**
+`14 Nov 02:27 PKT` · pehli baar dekhi `14 Nov 06:42` · cme_fx_video
+
+Euro FX futures declined for a fourth consecutive session on Friday, extending a four-day drop to about 1.8% and tracking toward a fourth straight weekly loss of 1.07%. During the session, prices reached a high of 1.1086 before sliding to a low of 1.1038. On the economic front, third-quarter eurozone GDP rose 0.4% quarter over quarter, matching expectations, while quarterly employment remained flat against estimates for a 0.2% increase and annual employment growth slowed from 0.5% to 0.4%.
 
 **Grain futures snap multi-week losing streaks to close the week.**
 `14 Nov 01:45 PKT` · pehli baar dekhi `14 Nov 02:30` · cme_daily_commentary
@@ -190,6 +200,26 @@ UBS's view is more hawkish than current market pricing, which has moved towards 
 
 ### GOLD
 
+**Tether taking aim at gold ETFs as tokenization gains momentum - Kitco**
+`14 Nov 02:41 PKT` · pehli baar dekhi `14 Nov 06:42` · kitco_general
+
+Tether taking aim at gold ETFs as tokenization gains momentum Kitco
+
+**Gold Holds Drop to Near One-Year Low as Rate-Hike Bets Increase - Bloomberg**
+`14 Nov 02:33 PKT` · pehli baar dekhi `14 Nov 06:42` · gnews_fed
+
+Gold Holds Drop to Near One-Year Low as Rate-Hike Bets Increase Bloomberg
+
+**Gold is on the cusp of breaking key support, and further USD strength could drive price to $3,500/oz – Jesse Colombo - Kitco**
+`14 Nov 02:26 PKT` · pehli baar dekhi `14 Nov 06:42` · kitco_general
+
+Gold is on the cusp of breaking key support, and further USD strength could drive price to $3,500/oz – Jesse Colombo Kitco
+
+**Gold's drop below $4,000 offers long-term value as WisdomTree sees potential for $4,800 by 2027 - Kitco**
+`14 Nov 02:11 PKT` · pehli baar dekhi `14 Nov 06:42` · kitco_general
+
+Gold's drop below $4,000 offers long-term value as WisdomTree sees potential for $4,800 by 2027 Kitco
+
 **Price bounces may be traps as Fed rate hikes could drive gold down to $3,200/oz – StoneX's Pavilonis - Kitco**
 `14 Nov 01:45 PKT` · pehli baar dekhi `14 Nov 02:30` · kitco_general
 
@@ -199,6 +229,11 @@ Price bounces may be traps as Fed rate hikes could drive gold down to $3,200/oz 
 `14 Nov 01:24 PKT` · pehli baar dekhi `14 Nov 02:30` · kitco_general
 
 Gold's $4,000 support breaks as Fed fears grow; analysts eye $3,800 Kitco
+
+**Mineros' gold bet raises cash and collateral risks**
+`14 Nov 00:58 PKT` · pehli baar dekhi `14 Nov 06:42` · mining_com
+
+The strategy increases Mineros' exposure to the metal beyond the gold it produces in Colombia and Nicaragua.
 
 **At least 10 killed in Guinea clashes over gold mining ban**
 `13 Nov 23:44 PKT` · pehli baar dekhi `14 Nov 02:30` · aljazeera
@@ -328,6 +363,16 @@ Natural gas storage in the United States increased by 61 billion cubic feet (Bcf
 The Chances of a Federal Reserve December Rate Hike Are Climbing. Here's What History Says About Stocks After the Fed Starts Raising Again. AOL.com
   - `14 Nov 01:00` *gnews_fed* — The Chances of a Federal Reserve December Rate Hike Are Climbing. Here's What History Says About Stocks After the Fed Starts Raising Again. - The Motley Fool
 
+**Inflation isn't going away. Here's what that means for interest rates. - CBS News**
+`14 Nov 01:19 PKT` · pehli baar dekhi `14 Nov 06:42` · gnews_fed
+
+Inflation isn't going away. Here's what that means for interest rates. CBS News
+
+**Producer prices rise, backing case for more Fed rate hikes - Finance & Commerce**
+`14 Nov 01:11 PKT` · pehli baar dekhi `14 Nov 06:42` · gnews_fed
+
+Producer prices rise, backing case for more Fed rate hikes Finance & Commerce
+
 **Fed announces 2027 pricing for payment services, FOMC schedule - ABA Banking Journal**
 `14 Nov 01:04 PKT` · pehli baar dekhi `14 Nov 02:30` · gnews_fed
 
@@ -364,10 +409,11 @@ Why Bessent is pushing back against a possible Fed rate hike Latest news from Az
 The S&P 500 is down 0.6% today and the Nasdaq down 1.0% but it's not as bad as it looks -- so long as you don't own chip stocks and some AI-related names. Most stocks in the S&P 500 are higher today with 274 up and 197 down. Similarly, the index is solidly higher on the week. The pain is on the chip side of the equation where there are some harrowing losses in light of the turmoil around Nvidia and next week's Anthropic IPO.
 
 **Fed likely to need to raise rates amid worsening inflation: Daly - Kitco**
-`14 Nov 00:18 PKT` · pehli baar dekhi `14 Nov 02:30` · kitco_general · **2 feeds mein**
+`14 Nov 00:18 PKT` · pehli baar dekhi `14 Nov 02:30` · kitco_general · **3 feeds mein**
 
 Fed likely to need to raise rates amid worsening inflation: Daly Kitco
   - `13 Nov 23:48` *gnews_fed* — Fed likely to need to raise rates amid worsening inflation: Daly - Reuters
+  - `13 Nov 23:42` *gnews_fed* — Fed likely to need to raise rates amid worsening inflation: Daly - The Lufkin Daily News
 
 **Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact - Decrypt**
 `13 Nov 23:36 PKT` · pehli baar dekhi `14 Nov 02:30` · gnews_fed
@@ -940,6 +986,11 @@ Fed meeting schedule sets seven rate-setting sessions for 2027 finchannel
 
 ### EUR
 
+**ECB's Nagel sees another hike as second-round risks mount - www.tmgm.com**
+`13 Nov 22:29 PKT` · pehli baar dekhi `14 Nov 06:42` · gnews_centralbanks
+
+ECB's Nagel sees another hike as second-round risks mount www.tmgm.com
+
 **Auto & Transport Roundup: Market Talk**
 `13 Nov 22:27 PKT` · pehli baar dekhi `14 Nov 02:30` · wsj_markets
 
@@ -954,6 +1005,11 @@ EUR/USD Price Forecast — EURUSD (1.1051) 1.1260 Upside Target on Fed-ECB Hike 
 `13 Nov 21:49 PKT` · pehli baar dekhi `14 Nov 02:30` · gnews_centralbanks
 
 Nagel: ECB likely to have to act again Breakingthenews.net
+
+**Euro-Area Growth Holds, ECB Hints at December Hike - Briefs Finance**
+`13 Nov 21:45 PKT` · pehli baar dekhi `14 Nov 06:42` · gnews_centralbanks
+
+Euro-Area Growth Holds, ECB Hints at December Hike Briefs Finance
 
 **Global FX Market Summary - Fed Hikes, ECB Divergence, and Energy Risks Drive Market Shifts - 13 November 2026 - FinanceFeeds**
 `13 Nov 21:10 PKT` · pehli baar dekhi `14 Nov 02:30` · gnews_fed
@@ -1121,6 +1177,11 @@ Michael Olise gives France the lead, but double from Pio Esposito and one from D
 
 Here's when experts think the Bank of England will hike rates next Mortgage Professional America
 
+**Economists expect Bank of England to wait until February for next rate rise - Mezha.net**
+`13 Nov 19:34 PKT` · pehli baar dekhi `14 Nov 06:42` · gnews_centralbanks
+
+Economists expect Bank of England to wait until February for next rate rise Mezha.net
+
 **Bank of England rate outlook points to February move as inflation risks persist - Traders Union**
 `13 Nov 18:41 PKT` · pehli baar dekhi `14 Nov 02:30` · gnews_centralbanks
 
@@ -1145,6 +1206,11 @@ Bank of England to wait until February to next raise rates, say economists Tradi
 `13 Nov 14:47 PKT` · pehli baar dekhi `14 Nov 02:30` · gnews_centralbanks
 
 Mortgage warning as Bank of England raises rates: Expert reveals costly mistake borrowers must avoid in 2027 ManchesterWorld
+
+**Buyers still pay a pandemic premium for houses over flats, Bank of England research finds - Mortgage Professional America**
+`13 Nov 14:36 PKT` · pehli baar dekhi `14 Nov 06:42` · gnews_centralbanks
+
+Buyers still pay a pandemic premium for houses over flats, Bank of England research finds Mortgage Professional America
 
 **GBP/USD Daily Outlook**
 `13 Nov 13:45 PKT` · pehli baar dekhi `13 Nov 20:25` · actionforex · **2 feeds mein**
@@ -1377,6 +1443,11 @@ A liquefied gas carrier caught fire in the Strait of Hormuz after hitting naval 
 
 China is responding to a successful US push to raise its trade profile in Central Asia by launching a far-reaching information campaign to sway hearts and minds in Central Asia's most populous state. In late October and early November, CGTN, China's international broadcaster operated by the Communist Party's Central Propaganda Department, sponsored an unprecedented information campaign touting the PRC's expansive ties with Uzbekistan.
 
+**Oil prices set for second straight weekly decline on growing signs of supply surplus - Livemint**
+`13 Nov 23:41 PKT` · pehli baar dekhi `14 Nov 06:42` · gnews_geopolitics
+
+Oil prices set for second straight weekly decline on growing signs of supply surplus Livemint
+
 **Germany Eyes €4 Billion Buyout of RWE and E.ON's Urenco Stake**
 `13 Nov 23:30 PKT` · pehli baar dekhi `14 Nov 02:30` · oilprice
 
@@ -1392,6 +1463,11 @@ The total number of active drilling rigs for oil and gas in the United States fe
 
 Iraq's crude oil production hit 4.6 million barrels per day (bpd) in October, the highest since 2019, data from the International Energy Agency's monthly report showed on Friday, as OPEC's second-largest producer hiked output by 540,000 bpd from September.
 
+**U.S. TOPS THE LIST – Half the World's Oil Comes From Just Five Countries – Visual Capitalist - EnergyNow.com**
+`13 Nov 22:19 PKT` · pehli baar dekhi `14 Nov 06:42` · gnews_geopolitics
+
+U.S. TOPS THE LIST – Half the World's Oil Comes From Just Five Countries – Visual Capitalist EnergyNow.com
+
 **India's Road Fuel Demand Won't Peak Until 2034**
 `13 Nov 21:30 PKT` · pehli baar dekhi `14 Nov 02:30` · oilprice
 
@@ -1404,6 +1480,11 @@ Iran continues to divert attempts by the International Atomic Energy Agency (IAE
 
 **Even with a durable ceasefire, these factors will support oil prices: BCA**
 `13 Nov 19:54 PKT` · pehli baar dekhi `13 Nov 20:25` · investing_commodities
+
+**How Global Energy Markets Survived Eight Months of Iran War Disruptions - Crude Oil Prices Today | OilPrice.com**
+`13 Nov 19:30 PKT` · pehli baar dekhi `14 Nov 06:42` · gnews_geopolitics
+
+How Global Energy Markets Survived Eight Months of Iran War Disruptions Crude Oil Prices Today | OilPrice.com
 
 **'Lofty' exports from Persian Gulf boost oil supply - Upstream Online**
 `13 Nov 19:21 PKT` · pehli baar dekhi `14 Nov 02:30` · gnews_geopolitics
@@ -1443,6 +1524,16 @@ Oil Prices Slip as U.S. Maintains Iran Blockade and Global Supply Outlook Weaken
 
 A tanker carrying liquefied gas hit a mine and suffered an explosion on Friday while attempting to transit the Strait of Hormuz via a route not authorized by Iran, the Islamic Revolutionary Guard Corps (IRGC) Navy said. The vessel was using an "unauthorised and dangerous route" in the Strait of Hormuz, according to Iran's state media cited by Reuters.
 
+**Bessent Says Hormuz Will Be 'Worthless' as Oil Bypasses It - EnergyNow.com**
+`13 Nov 17:44 PKT` · pehli baar dekhi `14 Nov 06:42` · gnews_geopolitics
+
+Bessent Says Hormuz Will Be 'Worthless' as Oil Bypasses It EnergyNow.com
+
+**Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption - EnergyNow.com**
+`13 Nov 17:42 PKT` · pehli baar dekhi `14 Nov 06:42` · gnews_geopolitics
+
+Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption EnergyNow.com
+
 **World oil market returns to surplus - IEA - Sharecast.com**
 `13 Nov 17:36 PKT` · pehli baar dekhi `13 Nov 20:25` · gnews_geopolitics
 
@@ -1478,6 +1569,11 @@ Iranian Oil Offers to Chinese Buyers Fall as US Blockade Bites, Sources Say Ener
 
 CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist EnergyNow.com
 
+**Oil set for second weekly loss amid easing fears of fresh U.S.-Iran fighting By Investing.com - Investing.com India**
+`13 Nov 16:52 PKT` · pehli baar dekhi `14 Nov 06:42` · gnews_geopolitics
+
+Oil set for second weekly loss amid easing fears of fresh U.S.-Iran fighting By Investing.com Investing.com India
+
 **World oil market is returning to surplus as Gulf exports recover, IEA says**
 `13 Nov 16:36 PKT` · pehli baar dekhi `13 Nov 20:25` · investing_commodities · **3 feeds mein**
   - `13 Nov 23:11` *gnews_geopolitics* — World oil market is returning to surplus as Gulf exports recover, says IEA - Business Standard
@@ -1499,9 +1595,10 @@ Global Oil Supply To Surpass Demand In Fourth Quarter – IEA Channels Televisio
 European diesel costs stay high as oil supply tops demand, IEA says Euronews.com
 
 **Oil price today: Brent holds near $96 as IEA sees first surplus since Iran war - Invezz**
-`13 Nov 15:58 PKT` · pehli baar dekhi `13 Nov 20:25` · gnews_geopolitics
+`13 Nov 15:58 PKT` · pehli baar dekhi `13 Nov 20:25` · gnews_geopolitics · **2 feeds mein**
 
 Oil price today: Brent holds near $96 as IEA sees first surplus since Iran war Invezz
+  - `13 Nov 15:01` *gnews_geopolitics* — Oil price today: Brent holds near $96 as IEA sees first surplus since Iran war - Invezz
 
 **Iran threatens unlimited response over Strait of Hormuz after US attack**
 `13 Nov 15:54 PKT` · pehli baar dekhi `13 Nov 20:25` · aljazeera
@@ -1609,7 +1706,8 @@ Oil Markets Extend Losing Streak as Iran Tensions and Shipping Threats Keep Trad
 Brent crude rises above $95 amid Iran tensions News Karnataka
 
 **Oil prices set for second weekly decline as Trump to stay with Iran blockade**
-`13 Nov 08:06 PKT` · pehli baar dekhi `13 Nov 12:10` · investing_commodities · **4 feeds mein**
+`13 Nov 08:06 PKT` · pehli baar dekhi `13 Nov 12:10` · investing_commodities · **5 feeds mein**
+  - `13 Nov 20:20` *gnews_geopolitics* — Oil prices set for second weekly decline as Trump sticks with Iran blockade - Yahoo Finance
   - `13 Nov 14:19` *gnews_geopolitics* — Oil prices set for second weekly decline as Trump sticks with Iran blockade - Gulf Today
   - `13 Nov 13:30` *gnews_geopolitics* — Oil prices set for second weekly decline as Trump sticks with Iran blockade - شبكة تواصل الإخبارية
   - `13 Nov 08:01` *gnews_geopolitics* — Oil prices set for second weekly decline as Trump sticks with Iran blockade - Reuters
@@ -1663,6 +1761,11 @@ Growing American fuel shipments are keeping Cuba afloat after Trump's oil embarg
 Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.
 
 ### CRYPTO
+
+**Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system**
+`14 Nov 02:49 PKT` · pehli baar dekhi `14 Nov 06:42` · cointelegraph
+
+Blockstream's new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.
 
 **Bitcoin could fall even further if investors cash out to buy into the Anthropic IPO**
 `14 Nov 02:26 PKT` · pehli baar dekhi `14 Nov 02:30` · mw_topstories
@@ -1791,6 +1894,11 @@ Oil prices bounced back in early trading on Friday as geopolitical risk returns 
 
 Moscow blames Kyiv for a series of car bombings that have targeted people linked to the war with Ukraine.
 
+**Crude Prices Supported by Concerns US-Iran War Will Linger - TradingView**
+`13 Nov 21:35 PKT` · pehli baar dekhi `14 Nov 06:42` · gnews_geopolitics
+
+Crude Prices Supported by Concerns US-Iran War Will Linger TradingView
+
 **US Treasury warns against rate hikes during US-Iran war energy 'shock'**
 `13 Nov 21:22 PKT` · pehli baar dekhi `14 Nov 02:30` · aljazeera
 
@@ -1876,6 +1984,11 @@ IEA said global oil supply is topping demand for first time since Iran war Quart
 `13 Nov 18:26 PKT` · pehli baar dekhi `14 Nov 02:30` · gnews_geopolitics
 
 Oil market to return to surplus for first time since start of Iran war, IEA says The National
+
+**Oil Prices Rise 3% as Iran War Stand-off Persists - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com**
+`13 Nov 17:36 PKT` · pehli baar dekhi `14 Nov 06:42` · gnews_geopolitics
+
+Oil Prices Rise 3% as Iran War Stand-off Persists - Energy News, Top Headlines, Commentaries, Features & Events EnergyNow.com
 
 **Will US and International Sanctions on Iran be Lifted? - Energy News, Top Headlines, Commentaries, Features & Events - EnergyNow.com**
 `13 Nov 17:21 PKT` · pehli baar dekhi `14 Nov 02:30` · gnews_geopolitics
@@ -2055,13 +2168,17 @@ A listing of this size will test how much appetite there is for AI risk after th
 
 Another month, another distressing Consumer Price Index report. As the war in Iran drags on, inflation in the United States is remaining stubbornly high, driven in large part by sky-high food and energy costs. Overall, prices rose four-tenths of a percent over the last month, and are expected to finish the year at a four percent increase as compared to 2025 – a blistering increase that reflected itself at the polls in last week's midterm elections, where a blue wave has largely been viewed as a ...
 
-### BINA TAG (189)
+### BINA TAG (199)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `14 Nov 02:50` **gnews_fed** — Federal Reserve survey finds AI as top financia... - Pluang
+- `14 Nov 02:32` **aljazeera** — FAA grounds US flights nationwide after 'communication issue'
 - `14 Nov 02:26` **gnews_fed** — Agencies Extend Comment Period for Proposed Third-Party Risk Management Guidance - Office of the Comptroller of the Currency (OCC) (.gov)
 - `14 Nov 02:24` **gnews_fed** — Federal Reserve survey flags AI as top threat to U.S. financial system - Traders Union
+- `14 Nov 02:20` **investing_commodities** — Venezuela to send extra gas output to Colombia by 2028
 - `14 Nov 02:19` **wsj_markets** — Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade
+- `14 Nov 02:18` **gnews_fed** — Federal Reserve: Financial Stability Report - Forex Factory
 - `14 Nov 02:15` **investing_news** — Elicio Therapeutics shareholders elect directors and approve auditor at annual meeting
 - `14 Nov 02:14` **bbc_business** — Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption
 - `14 Nov 02:12` **investing_news** — Freightos receives Nasdaq notice on minimum bid price
@@ -2076,13 +2193,16 @@ Another month, another distressing Consumer Price Index report. As the war in Ir
 - `14 Nov 02:01` **cointelegraph** — Kraken parent Payward gains market share as slower trading weighs on earnings
 - `14 Nov 01:52` **aljazeera** — Pope Leo cheered on return to Peru city where he served as bishop
 - `14 Nov 01:48` **aljazeera** — Qatar and Turkiye send message of deterrence with new defence pact
+- `14 Nov 01:46` **mining_com** — Modern Mining makes NYSE American debut
 - `14 Nov 01:32` **investing_commodities** — Tin backwardation widens on LME as exchange stocks fall 60% since June
 - `14 Nov 01:28` **aljazeera** — Pope thanks crowds on emotional return to 'second home' in Peru's Chiclayo
+- `14 Nov 01:22` **mining_com** — Komatsu to acquire Roadtec and Carlson construction equipment brands
 - `14 Nov 01:19` **mw_topstories** — Jensen Huang was a 'China salesman' for Nvidia. His exit is weighing on Chinese tech stocks.
 - `14 Nov 01:18` **aljazeera** — Paraguay's ex-president Pena faces new charge over Ueno bank collapse
 - `14 Nov 01:16` **aljazeera** — Microsoft says services still returning amid widespread outage
 - `14 Nov 01:15` **wsj_world** — Opinion | Jensen Huang and the World's Information Chaos
 - `14 Nov 01:12` **aljazeera** — Nigeria ends 21-day Ebola contact monitoring with no secondary transmission
+- `14 Nov 01:05` **wsj_world** — Best High-Yield Savings Accounts of November 2026: Up to 5.00%
 - `14 Nov 01:00` **mw_topstories** — My husband inherited $500,000, but he refuses to spend it on our home. Should I be worried?
 - `14 Nov 00:49` **wsj_world** — Opinion | Is There Any Escape From the Political Blame Game?
 - `14 Nov 00:43` **mining_com** — Op-Ed: Europe is stockpiling critical minerals. Wonderful. Can anyone actually use them?
@@ -2110,6 +2230,7 @@ Another month, another distressing Consumer Price Index report. As the war in Ir
 - `13 Nov 21:19` **kitco_general** — Angola seeks 10% stake in De Beers under Anglo's proposed exit - Kitco
 - `13 Nov 21:14` **kitco_general** — CSN swings to Q3 loss as iron ore prices, freight costs bite - Kitco
 - `13 Nov 21:12` **gnews_fed** — FEDERAL RESERVE BOARD ISSUES ENFORCEMENT ACTION WITH FORMER EMPLOYEE OF UNITED COMMUNITY BANK - InsuranceNewsNet
+- `13 Nov 21:10` **gnews_fed** — Prescription for productivity: Healthy kids - Federal Reserve Bank of Minneapolis
 - `13 Nov 21:04` **wsj_economy** — It takes too long and costs too much to build big in the U.S., writes @greg_ip
 - `13 Nov 21:01` **aljazeera** — Truck and bus crash in India's Assam state kills at least 24 people
 - `13 Nov 20:49` **aljazeera** — Turkiye and Qatar sign mutual defence agreement
@@ -2136,6 +2257,7 @@ Another month, another distressing Consumer Price Index report. As the war in Ir
 - `13 Nov 19:18` **aljazeera** — Portugal vs Denmark: UEFA Nations League – predictions, how to watch, teams
 - `13 Nov 19:17` **gnews_fed** — Goldman Sachs sees a new problem emerging for the Federal Reserve - TheStreet
 - `13 Nov 19:16` **bbc_business** — Shoplifters 'stealing to order' in Scottish shops
+- `13 Nov 19:12` **wsj_markets** — 11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider
 - `13 Nov 19:04` **instaforex** — India's Imports Surge to $89.35B in October 2026, Marking Sharp Monthly Jump
 - `13 Nov 19:00` **eia_energy** — Hydropower generation in the Southwest fell to record lows this summer
 - `13 Nov 19:00` **wsj_markets** — The Stock Market's Bargain Bin Is Secretly Stuffed With AI Stocks
@@ -2159,6 +2281,7 @@ Another month, another distressing Consumer Price Index report. As the war in Ir
 - `13 Nov 16:59` **aljazeera** — Pakistan military reports it killed 74 'terrorists' during raids
 - `13 Nov 16:54` **aljazeera** — India cancels visa of Norwegian journalist who questioned Modi
 - `13 Nov 16:42` **investing_commodities** — Morning Bid: AI's no good, very bad week
+- `13 Nov 16:27` **gnews_centralbanks** — Why savers are being 'short-changed' after Base Rate rise - The Money Pages
 - `13 Nov 16:27` **wsj_markets** — Kraft Heinz Plans to Bring New Life to Old Brands
 - `13 Nov 16:18` **aljazeera** — Microsoft outage live: Global users affected as services remain down
 - `13 Nov 16:02` **gnews_fed** — Federal Reserve Highlights Surge in AI-Driven Data-Center Investment, Spotlighting Alphabet (GOOGL) - GuruFocus
@@ -2265,45 +2388,45 @@ investing_news (10)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 5 | 20 | 0 | 0.1 |
+| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.2 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.3 |
-| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.3 |
-| instaforex | OK | 25 | 25 | 4 | 21 | 0 | -0.1 |
-| wsj_economy | OK | 36 | 8 | 2 | 6 | 28 | 0.0 |
-| cme_metals_video | OK | 10 | 3 | 2 | 1 | 7 | 0.0 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
-| cme_rates_video | OK | 10 | 3 | 1 | 2 | 7 | 0.0 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.0 |
-| cme_daily_commentary | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 64.1 |
-| kitco_general | OK | 38 | 36 | 19 | 17 | 2 | 0.0 |
-| gnews_fed | OK | 84 | 84 | 47 | 37 | 0 | 0.0 |
-| gnews_geopolitics | OK | 52 | 50 | 14 | 36 | 2 | 0.0 |
-| gnews_centralbanks | OK | 18 | 18 | 7 | 11 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.5 |
-| boj_whatsnew | OK | 51 | 0 | 0 | 0 | 51 | 1.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 7.9 |
-| mining_com | OK | 36 | 7 | 3 | 4 | 29 | 0.1 |
-| oilprice | OK | 15 | 15 | 10 | 5 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 1 | 9 | 0 | 0.3 |
-| bbc_business | OK | 56 | 16 | 3 | 13 | 40 | 0.0 |
-| aljazeera | OK | 25 | 25 | 23 | 2 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 8.2 |
-| eia_energy | OK | 26 | 1 | 0 | 1 | 25 | 0.3 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 9.3 |
-| wsj_world | OK | 71 | 15 | 6 | 9 | 56 | 0.1 |
-| wsj_markets | OK | 61 | 26 | 5 | 21 | 35 | 0.0 |
+| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.4 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.4 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
+| wsj_economy | OK | 36 | 9 | 1 | 8 | 27 | 0.0 |
+| cme_metals_video | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
+| cme_fx_video | OK | 10 | 3 | 1 | 2 | 7 | 0.2 |
+| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
+| cme_daily_commentary | OK | 10 | 10 | 1 | 9 | 0 | 0.2 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 64.3 |
+| kitco_general | OK | 36 | 36 | 6 | 30 | 0 | 0.1 |
+| gnews_fed | OK | 78 | 78 | 20 | 58 | 0 | 0.0 |
+| gnews_geopolitics | OK | 52 | 52 | 15 | 37 | 0 | 0.0 |
+| gnews_centralbanks | OK | 24 | 24 | 6 | 18 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.3 |
+| fed_speeches | OK | 15 | 1 | 1 | 0 | 14 | 0.1 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.8 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.7 |
+| boj_whatsnew | OK | 49 | 0 | 0 | 0 | 49 | 1.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 8.1 |
+| mining_com | OK | 36 | 12 | 5 | 7 | 24 | 0.1 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
+| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
+| bbc_business | OK | 56 | 16 | 0 | 16 | 40 | 0.2 |
+| aljazeera | OK | 25 | 25 | 8 | 17 | 0 | 0.1 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.7 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 8.4 |
+| eia_energy | OK | 26 | 1 | 0 | 1 | 25 | 0.5 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 9.5 |
+| wsj_world | OK | 71 | 16 | 3 | 13 | 55 | 0.0 |
+| wsj_markets | OK | 61 | 26 | 3 | 23 | 35 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 20 | 4 | 16 | 10 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 22 | 2 | 20 | 8 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
