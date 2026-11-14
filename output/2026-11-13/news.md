@@ -1,8 +1,8 @@
 # News Pack — Trading Day 13 Nov 2026
 
 - Trading day: **13 Nov 03:00 -> 14 Nov 02:59 PKT**
-- Aakhri update: **14 Nov 13:05 PKT**
-- Kul khabrein: **682**
+- Aakhri update: **14 Nov 19:59 PKT**
+- Kul khabrein: **689**
 - Feeds: 35/39 OK
 
 ---
@@ -450,6 +450,11 @@ Silence by Trump's Fed chief risks rattling markets as ex-insiders sound the ala
 
 Fed's Collins says more rate hikes are coming, Bloomberg Television reports Kitco
   - `13 Nov 21:33` *gnews_fed* — Fed's Collins says more rate hikes are coming, Bloomberg Television reports - Reuters
+
+**Could The Fed Raise Interest Rates By 50 Basis Points In December? - Forbes**
+`13 Nov 22:34 PKT` · pehli baar dekhi `14 Nov 19:59` · gnews_fed
+
+Could The Fed Raise Interest Rates By 50 Basis Points In December? Forbes
 
 **Fed's Daly: In all likelihood, we need to raise rates**
 `13 Nov 22:23 PKT` · pehli baar dekhi `14 Nov 02:30` · investinglive
@@ -1439,6 +1444,11 @@ Oil prices set for second straight weekly drop on signs of growing supply surplu
 
 Yesterday the US Senate approved a preliminary version of a bill, the Bipartisan Affordability and Jobs Act, commonly referred to as BAAJA. We previously published an article in Oilprice titled, "The AI Power Grab That Could Upend America's Utility Industry." Our thesis was simple.
 
+**Crude Fluctuates as Iran Tensions Persist - Rigzone**
+`14 Nov 01:49 PKT` · pehli baar dekhi `14 Nov 19:59` · gnews_geopolitics
+
+Crude Fluctuates as Iran Tensions Persist Rigzone
+
 **Oil Supplies Are Recovering, But Prices Are Not Falling Back to Pre-War Levels — Here's Why - Times Now**
 `14 Nov 01:29 PKT` · pehli baar dekhi `14 Nov 02:30` · gnews_geopolitics
 
@@ -1480,6 +1490,11 @@ Germany's government plans to buy RWE and E.ON's one-third stake in uranium enri
 
 The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US falling to 601, up 52 from this same time last year. The number of active oil rigs stayed the same at 463 during the latest reporting period, according to the data. This is 46 above this same time last year. The number of gas rigs fell by 4, which is just 2 more than this time last year.
 
+**Barclays Sees 13–14 Million bpd Oil Supply Loss From Prolonged Hormuz Disruption - EnergyNow.com**
+`13 Nov 22:53 PKT` · pehli baar dekhi `14 Nov 19:59` · gnews_geopolitics
+
+Barclays Sees 13–14 Million bpd Oil Supply Loss From Prolonged Hormuz Disruption EnergyNow.com
+
 **Iraq's Oil Production Soars to 2019 High as Hormuz Flows Surge**
 `13 Nov 22:30 PKT` · pehli baar dekhi `14 Nov 02:30` · oilprice
 
@@ -1494,6 +1509,11 @@ U.S. TOPS THE LIST – Half the World's Oil Comes From Just Five Countries – V
 `13 Nov 22:18 PKT` · pehli baar dekhi `14 Nov 13:05` · gnews_geopolitics
 
 Trump-Iran Standoff Threatens Chronic Gulf Oil Instability: Bousso EnergyNow.com
+
+**Oil prices set for second weekly decline in a row - RTE.ie**
+`13 Nov 21:37 PKT` · pehli baar dekhi `14 Nov 19:59` · gnews_geopolitics
+
+Oil prices set for second weekly decline in a row RTE.ie
 
 **India's Road Fuel Demand Won't Peak Until 2034**
 `13 Nov 21:30 PKT` · pehli baar dekhi `14 Nov 02:30` · oilprice
@@ -1968,6 +1988,13 @@ Oil supply exceeds demand for the first time since the Iran War Mobility Energy
 
 Oil: Global supply exceeds demand, a first since the war in Iran began (IEA) marketscreener.com
 
+**Oil supply to exceed global demand for first time since Iran war - Belga Share**
+`13 Nov 20:55 PKT` · pehli baar dekhi `14 Nov 19:59` · gnews_geopolitics · **3 feeds mein**
+
+Oil supply to exceed global demand for first time since Iran war Belga Share
+  - `13 Nov 15:54` *gnews_geopolitics* — Oil supply to exceed global demand for first time since Iran war - Belga Share
+  - `13 Nov 15:54` *gnews_geopolitics* — Oil supply to exceed global demand for first time since Iran war - Belga Share
+
 **EU agrees on five countries to represent Europe in Ukraine peace talks**
 `13 Nov 20:43 PKT` · pehli baar dekhi `14 Nov 02:30` · aljazeera
 
@@ -2048,12 +2075,6 @@ Finland says Ukraine struck a Russian warship near its coast as Kyiv and Moscow 
 `13 Nov 16:51 PKT` · pehli baar dekhi `13 Nov 20:25` · aljazeera
 
 IAEA says it cannot verify whether an underground Iranian enrichment plant contains nuclear material.
-
-**Oil supply to exceed global demand for first time since Iran war - Belga Share**
-`13 Nov 15:54 PKT` · pehli baar dekhi `13 Nov 20:25` · gnews_geopolitics · **2 feeds mein**
-
-Oil supply to exceed global demand for first time since Iran war Belga Share
-  - `13 Nov 15:54` *gnews_geopolitics* — Oil supply to exceed global demand for first time since Iran war - Belga Share
 
 **Oil Prices Crash 32% From $136 Peak as IEA Forecasts Global Supply Surplus Despite Iran War - Coinpaper**
 `13 Nov 15:27 PKT` · pehli baar dekhi `13 Nov 20:25` · gnews_geopolitics
@@ -2212,11 +2233,12 @@ A listing of this size will test how much appetite there is for AI risk after th
 
 Another month, another distressing Consumer Price Index report. As the war in Iran drags on, inflation in the United States is remaining stubbornly high, driven in large part by sky-high food and energy costs. Overall, prices rose four-tenths of a percent over the last month, and are expected to finish the year at a four percent increase as compared to 2025 – a blistering increase that reflected itself at the polls in last week's midterm elections, where a blue wave has largely been viewed as a ...
 
-### BINA TAG (201)
+### BINA TAG (203)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
 - `14 Nov 02:50` **gnews_fed** — Federal Reserve survey finds AI as top financia... - Pluang
+- `14 Nov 02:49` **gnews_fed** — Big Banks Have Nearly $1 Trillion Tied to AI. What If the Boom Cracks? - BeInCrypto
 - `14 Nov 02:32` **aljazeera** — FAA grounds US flights nationwide after 'communication issue'
 - `14 Nov 02:26` **gnews_fed** — Agencies Extend Comment Period for Proposed Third-Party Risk Management Guidance - Office of the Comptroller of the Currency (OCC) (.gov)
 - `14 Nov 02:24` **gnews_fed** — Federal Reserve survey flags AI as top threat to U.S. financial system - Traders Union
@@ -2255,6 +2277,7 @@ Another month, another distressing Consumer Price Index report. As the war in Ir
 - `14 Nov 00:32` **investing_commodities** — Soybean futures hit two-week high on supply concerns
 - `14 Nov 00:23` **aljazeera** — Migrants risk deadly route to Spain's Canary Islands
 - `14 Nov 00:18` **wsj_markets** — Opinion | Congressional Insider Trading Isn't as Common as You Think
+- `14 Nov 00:13` **kitco_general** — PRECIOUS-METALS News - Kitco
 - `14 Nov 00:12` **wsj_world** — Opinion | Antisemitism Made a Zionist of Me
 - `14 Nov 00:04` **gnews_fed** — High mortgage rates, housing shortage leave few paths to affordability relief - Baltimore Sun
 - `13 Nov 23:57` **aljazeera** — How will the US deal with Nvidia scandal?
@@ -2434,45 +2457,45 @@ investing_news (10)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.3 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 8 | 12 | 0 | 0.0 |
-| marketpulse | OK | 2 | 1 | 0 | 1 | 1 | 0.7 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.4 |
-| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 0.3 |
-| cme_metals_video | OK | 10 | 3 | 0 | 3 | 7 | 0.5 |
-| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.4 |
-| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.5 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
-| cme_daily_commentary | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 64.6 |
-| kitco_general | OK | 35 | 35 | 0 | 35 | 0 | 0.4 |
-| gnews_fed | OK | 78 | 78 | 11 | 67 | 0 | 0.2 |
-| gnews_geopolitics | OK | 62 | 62 | 15 | 47 | 0 | 0.0 |
-| gnews_centralbanks | OK | 23 | 23 | 5 | 18 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
-| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.3 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 1.0 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 1.0 |
-| boj_whatsnew | OK | 47 | 0 | 0 | 0 | 47 | 2.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 8.3 |
-| mining_com | OK | 36 | 12 | 0 | 12 | 24 | 0.4 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.4 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
-| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.7 |
-| bbc_business | OK | 56 | 19 | 3 | 16 | 37 | 0.0 |
-| aljazeera | OK | 25 | 25 | 23 | 2 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 1.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 8.7 |
-| eia_energy | OK | 26 | 1 | 0 | 1 | 25 | 0.8 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 9.8 |
-| wsj_world | OK | 70 | 21 | 3 | 18 | 49 | 0.2 |
-| wsj_markets | OK | 61 | 26 | 0 | 26 | 35 | 0.3 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 11 | 9 | 0 | 0.2 |
+| marketpulse | OK | 2 | 1 | 0 | 1 | 1 | 1.0 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.7 |
+| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 0.6 |
+| cme_metals_video | OK | 10 | 3 | 0 | 3 | 7 | 0.8 |
+| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.7 |
+| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.8 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.8 |
+| cme_daily_commentary | OK | 10 | 10 | 0 | 10 | 0 | 0.7 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 64.8 |
+| kitco_general | OK | 25 | 25 | 1 | 24 | 0 | 0.3 |
+| gnews_fed | OK | 66 | 66 | 11 | 55 | 0 | 0.0 |
+| gnews_geopolitics | OK | 55 | 55 | 16 | 39 | 0 | 0.0 |
+| gnews_centralbanks | OK | 21 | 21 | 11 | 10 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
+| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 1.3 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 1.2 |
+| boj_whatsnew | OK | 47 | 0 | 0 | 0 | 47 | 2.3 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 8.6 |
+| mining_com | OK | 36 | 12 | 0 | 12 | 24 | 0.7 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.7 |
+| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 1.0 |
+| bbc_business | OK | 56 | 19 | 1 | 18 | 37 | 0.3 |
+| aljazeera | OK | 25 | 25 | 22 | 3 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 1.3 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 9.0 |
+| eia_energy | OK | 26 | 1 | 0 | 1 | 25 | 1.0 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 10.1 |
+| wsj_world | OK | 70 | 22 | 1 | 21 | 48 | 0.1 |
+| wsj_markets | OK | 61 | 26 | 0 | 26 | 35 | 0.6 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.2 |
-| cointelegraph | OK | 30 | 23 | 1 | 22 | 7 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 25 | 2 | 23 | 5 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
