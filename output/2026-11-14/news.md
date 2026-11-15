@@ -1,8 +1,8 @@
 # News Pack — Trading Day 14 Nov 2026
 
 - Trading day: **14 Nov 03:00 -> 15 Nov 02:59 PKT**
-- Aakhri update: **15 Nov 04:36 PKT**
-- Kul khabrein: **309**
+- Aakhri update: **15 Nov 08:05 PKT**
+- Kul khabrein: **318**
 - Feeds: 35/39 OK
 
 ---
@@ -129,6 +129,11 @@ Retail sales and Fed minutes in focus next week Oskaloosa Herald
 `14 Nov 21:00 PKT` · pehli baar dekhi `15 Nov 04:36` · gnews_fed
 
 Retail sales and Fed minutes in focus next week morning-times.com
+
+**Retail sales and Fed minutes in focus next week - Temple Daily Telegram**
+`14 Nov 21:00 PKT` · pehli baar dekhi `15 Nov 08:05` · gnews_fed
+
+Retail sales and Fed minutes in focus next week Temple Daily Telegram
 
 **Fed's Collins says gradual rate hikes best to manage economic risks - Reuters**
 `14 Nov 20:47 PKT` · pehli baar dekhi `15 Nov 00:52` · gnews_fed
@@ -390,15 +395,16 @@ Interest rate rises likely in coming months, Bank of England's chief economist s
 GBP/USD&#8217;s extended fall and break of 1.3271 support last week indicates that rebound from 1.3135 has completed at 1.3502 already Initial bias stays on the downside this week for 1.3135 first. Firm break there will target 1.3008 key support. On the upside, above 1.3282 minor resistance will turn intraday bias neutral. In the bigger picture, [&#8230;] The post GBP/USD Weekly Outlook appeared first on ActionForex.
   - `14 Nov 13:51` *actionforex* — GBP/JPY Weekly Outlook
 
+**Bank of England likely to raise rates further in 2027, Huw Pill says - FT - Yahoo Finance**
+`14 Nov 13:54 PKT` · pehli baar dekhi `15 Nov 08:05` · gnews_centralbanks · **2 feeds mein**
+
+Bank of England likely to raise rates further in 2027, Huw Pill says - FT Yahoo Finance
+  - `14 Nov 13:26` *gnews_centralbanks* — Bank of England likely to raise rates further in 2027, Huw Pill says - FT - Investing.com
+
 **Bank of England's Pill Signals Further Rate Rises in 2027 | CEO Magazine Poland - CEO Magazyn**
 `14 Nov 13:43 PKT` · pehli baar dekhi `14 Nov 19:59` · gnews_centralbanks
 
 Bank of England's Pill Signals Further Rate Rises in 2027 | CEO Magazine Poland CEO Magazyn
-
-**Bank of England likely to raise rates further in 2027, Huw Pill says - FT - Investing.com**
-`14 Nov 13:26 PKT` · pehli baar dekhi `14 Nov 19:59` · gnews_centralbanks
-
-Bank of England likely to raise rates further in 2027, Huw Pill says - FT Investing.com
 
 **BOE likely to raise rates further in 2027, Pill tells FT - Reuters**
 `14 Nov 11:59 PKT` · pehli baar dekhi `14 Nov 13:05` · gnews_centralbanks · **2 feeds mein**
@@ -515,6 +521,16 @@ Oil Prices Rise More Than 1% as Trump Says US Does Not Need a Deal With Iran Tek
 `14 Nov 19:41 PKT` · pehli baar dekhi `14 Nov 19:59` · gnews_geopolitics
 
 Oil Supplies Are Recovering but Prices Are Not Falling Back to Pre-War Levels theopenpress.in
+
+**Iran War: The Strait of Hormuz Oil Shock Is Now Heading West - EnergyNow.com**
+`14 Nov 18:25 PKT` · pehli baar dekhi `15 Nov 08:05` · gnews_geopolitics
+
+Iran War: The Strait of Hormuz Oil Shock Is Now Heading West EnergyNow.com
+
+**Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War - EnergyNow.com**
+`14 Nov 18:21 PKT` · pehli baar dekhi `15 Nov 08:05` · gnews_geopolitics
+
+Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War EnergyNow.com
 
 **Oil Touches Pre-War Levels on Rising Middle East Supply - EnergyNow.com**
 `14 Nov 18:20 PKT` · pehli baar dekhi `15 Nov 04:36` · gnews_geopolitics
@@ -638,6 +654,11 @@ Solana falls as Federal Reserve rate hike signals weigh on crypto risk appetite 
 
 Coinbase Institutional Says Fed Rate Expectations Are Driving Bitcoin's Recent Decline Hokanews
 
+**Coinbase Institutional says Fed rate expectations, not the Binance hack, sank Bitcoin - Cryptonews.net**
+`14 Nov 18:27 PKT` · pehli baar dekhi `15 Nov 08:05` · gnews_fed
+
+Coinbase Institutional says Fed rate expectations, not the Binance hack, sank Bitcoin Cryptonews.net
+
 **Here's what happened in crypto today**
 `14 Nov 16:28 PKT` · pehli baar dekhi `15 Nov 04:36` · cointelegraph
 
@@ -700,6 +721,11 @@ Oil Rises as Trump Threatens Sanctions on Iran Partners EnergyNow
 
 Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies EnergyNow.com
 
+**NOT OUT OF THE WOODS YET: Iran Ceasefire Provides Hope, But Physical Oil Markets to Remain Stressed: Russell - EnergyNow**
+`14 Nov 18:45 PKT` · pehli baar dekhi `15 Nov 08:05` · gnews_geopolitics
+
+NOT OUT OF THE WOODS YET: Iran Ceasefire Provides Hope, But Physical Oil Markets to Remain Stressed: Russell EnergyNow
+
 **A Look at Iran's Kharg Island and Energy Sector - EnergyNow.com**
 `14 Nov 18:45 PKT` · pehli baar dekhi `15 Nov 04:36` · gnews_geopolitics
 
@@ -754,6 +780,11 @@ Plus, Democrats ordered Elon Musk to preserve records related to Ukraine's Starl
 `14 Nov 16:43 PKT` · pehli baar dekhi `14 Nov 19:59` · aljazeera
 
 Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.
+
+**OPINION: The Iran War Energy Crisis is Just Getting Started: Bousso - EnergyNow**
+`14 Nov 16:39 PKT` · pehli baar dekhi `15 Nov 08:05` · gnews_geopolitics
+
+OPINION: The Iran War Energy Crisis is Just Getting Started: Bousso EnergyNow
 
 **Ukraine, Russia race to build military satellite networks as war rages on**
 `14 Nov 16:00 PKT` · pehli baar dekhi `14 Nov 19:59` · aljazeera
@@ -847,11 +878,12 @@ How the Iran War Oil and Gas Supply Shock Compares with Past Disruptions EnergyN
 
 Oil Execs Warn of Long-Term Damage From Iran War as US Downplays Crisis EnergyNow.com
 
-### BINA TAG (111)
+### BINA TAG (113)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
 - `15 Nov 02:36` **aljazeera** — US flights resume after ageing technology blamed for outage
+- `15 Nov 01:18` **kitco_general** — BASE-METALS News - Kitco
 - `15 Nov 01:14` **aljazeera** — India's Assam state demolishes homes of 132 Muslim families
 - `15 Nov 01:00` **mw_topstories** — 'It leaves me with a sour taste': My elderly mother gave our cousin $800 for a car repair. Should I be worried?
 - `15 Nov 00:52` **aljazeera** — Can being 'non-Western' cost you your home in Denmark?
@@ -952,6 +984,7 @@ Oil Execs Warn of Long-Term Damage From Iran War as US Downplays Crisis EnergyNo
 - `14 Nov 05:06` **aljazeera** — Afghanistan's new road to China ends at a closed border
 - `14 Nov 05:00` **actionforex** — Summary 11/16 – 11/20
 - `14 Nov 04:45` **aljazeera** — FAA grounds all fights across the US over 'telecommunication outage'
+- `14 Nov 04:00` **bbc_business** — How the Jensen Huang scandal created a headache for business-friendly Singapore
 - `14 Nov 04:00` **mining_com** — Freeport strikes $77M deal for BC copper stake
 - `14 Nov 03:53` **wsj_world** — Opinion | Of Course Jensen Huang Had to Go
 - `14 Nov 03:47` **aljazeera** — 32 passengers taken to hospital after tanker hits river cruise boat in US
@@ -979,45 +1012,45 @@ investing_news (24)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.7 |
+| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 0.8 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 19 | 0 | 19 | 1 | 0.6 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.4 |
-| instaforex | OK | 25 | 2 | 0 | 2 | 23 | 1.0 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.9 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 65.2 |
-| kitco_general | OK | 2 | 2 | 1 | 1 | 0 | 0.2 |
-| gnews_fed | OK | 42 | 42 | 18 | 24 | 0 | 0.0 |
-| gnews_geopolitics | OK | 38 | 38 | 9 | 29 | 0 | 0.1 |
-| gnews_centralbanks | OK | 26 | 26 | 5 | 21 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
-| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 1.0 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.6 |
-| boj_whatsnew | OK | 47 | 0 | 0 | 0 | 47 | 2.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.0 |
-| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 1.0 |
-| oilprice | OK | 15 | 5 | 2 | 3 | 10 | 0.1 |
-| investing_commodities | OK | 10 | 7 | 1 | 6 | 3 | 0.0 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
-| bbc_business | OK | 56 | 5 | 0 | 5 | 51 | 0.6 |
+| actionforex | OK | 20 | 19 | 0 | 19 | 1 | 0.7 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.5 |
+| instaforex | OK | 25 | 5 | 3 | 2 | 20 | -0.1 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 1.1 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.3 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 65.3 |
+| kitco_general | OK | 1 | 1 | 1 | 0 | 0 | 0.3 |
+| gnews_fed | OK | 37 | 37 | 5 | 32 | 0 | 0.0 |
+| gnews_geopolitics | OK | 37 | 37 | 4 | 33 | 0 | 0.3 |
+| gnews_centralbanks | OK | 25 | 25 | 1 | 24 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
+| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 1.1 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.8 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.8 |
+| boj_whatsnew | OK | 45 | 0 | 0 | 0 | 45 | 2.8 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.1 |
+| mining_com | OK | 36 | 2 | 0 | 2 | 34 | 1.2 |
+| oilprice | OK | 15 | 6 | 1 | 5 | 9 | 0.1 |
+| investing_commodities | OK | 10 | 8 | 1 | 7 | 2 | 0.1 |
+| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| bbc_business | OK | 57 | 7 | 2 | 5 | 50 | 0.1 |
 | aljazeera | OK | 25 | 25 | 10 | 15 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.7 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 9.3 |
-| eia_energy | OK | 26 | 0 | 0 | 0 | 26 | 1.4 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 10.4 |
-| wsj_world | OK | 70 | 6 | 0 | 6 | 64 | 0.5 |
-| wsj_markets | OK | 61 | 6 | 0 | 6 | 55 | 0.1 |
-| investing_news | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.8 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 9.5 |
+| eia_energy | OK | 26 | 0 | 0 | 0 | 26 | 1.5 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 10.6 |
+| wsj_world | OK | 70 | 9 | 3 | 6 | 61 | 0.0 |
+| wsj_markets | OK | 61 | 8 | 2 | 6 | 53 | 0.1 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 5 | 1 | 4 | 25 | 0.5 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 5 | 0 | 5 | 25 | 0.7 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
