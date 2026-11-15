@@ -1,9 +1,9 @@
 # News Pack — Trading Day 15 Nov 2026
 
 - Trading day: **15 Nov 03:00 -> 16 Nov 02:59 PKT**
-- Aakhri update: **15 Nov 22:27 PKT**
-- Kul khabrein: **204**
-- Feeds: 27/39 OK
+- Aakhri update: **16 Nov 03:01 PKT**
+- Kul khabrein: **263**
+- Feeds: 26/39 OK
 
 ---
 
@@ -35,6 +35,46 @@ Charts show the potential for more pain ahead
 
 ### USD
 
+**Ticker: Retail sales data, Fed minutes on tap this week - Boston Herald**
+`16 Nov 02:20 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_fed
+
+Ticker: Retail sales data, Fed minutes on tap this week Boston Herald
+
+**Kansas City Fed President Jeffrey Schmid Says Inflation Is Still Overheated - www.tokenpost.com**
+`16 Nov 00:00 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_fed
+
+Kansas City Fed President Jeffrey Schmid Says Inflation Is Still Overheated www.tokenpost.com
+
+**Fed 'has some work to do on inflation,' Kansas City Fed chief says - CNBC**
+`15 Nov 23:58 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_fed
+
+Fed 'has some work to do on inflation,' Kansas City Fed chief says CNBC
+
+**Federal Reserve signals more inflation work as markets price December rate rise - Traders Union**
+`15 Nov 23:54 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_fed
+
+Federal Reserve signals more inflation work as markets price December rate rise Traders Union
+
+**Bessent Urges Nvidia to Pick Outsider as Next CEO**
+`15 Nov 23:44 PKT` · pehli baar dekhi `16 Nov 03:01` · wsj_world
+
+The Treasury Secretary questioned whether the chip maker pushed illicit China sales to boost revenue.
+
+**Fed 'has some work to do on inflation,' KC Fed chief says - The State**
+`15 Nov 23:42 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_fed
+
+Fed 'has some work to do on inflation,' KC Fed chief says The State
+
+**Schmid Says Fed Has More Work To Do to Bring Down Inflation - Bloomberg.com**
+`15 Nov 23:40 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_fed
+
+Schmid Says Fed Has More Work To Do to Bring Down Inflation Bloomberg.com
+
+**Wall Street Week Ahead: Nvidia earnings, Anthropic IPO, Federal Reserve minutes, retail sales - Top things to watch - Livemint**
+`15 Nov 23:32 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_fed
+
+Wall Street Week Ahead: Nvidia earnings, Anthropic IPO, Federal Reserve minutes, retail sales - Top things to watch Livemint
+
 **Israel's October CPI Eases to 1.1% YoY, Extending Disinflation Trend**
 `15 Nov 22:27 PKT` · instaforex
 
@@ -49,6 +89,11 @@ Israel's consumer price index (CPI) showed a slower pace of decline in October 2
 `15 Nov 22:27 PKT` · instaforex
 
 Peru's economic growth eased in September 2026, with year-over-year GDP expanding by 2.43%, down from 3.23% in August 2026. The latest figures, updated on 15 November 2026, indicate a loss of momentum after a stronger showing in the previous month. Both the current and previous readings are based on year-over-year comparisons, measuring how GDP in a given month changed relative to the same month a year earlier.
+
+**AI Tops Financial Stability Risks Cited in Fed Survey - The Defiant**
+`15 Nov 21:57 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_fed
+
+AI Tops Financial Stability Risks Cited in Fed Survey The Defiant
 
 **Eric Daugherty: Scott Bessent calls for Federal Reserve to stop focusing on inflation when raising rates - Traders Union**
 `15 Nov 20:46 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_fed
@@ -139,6 +184,11 @@ IBM CEO Arvind Krishna Re-elected to New York Fed Board Through 2029 indica News
 
 ### EUR
 
+**Morocco becomes first Arab nation in FIFA's top five men's rankings**
+`15 Nov 22:33 PKT` · pehli baar dekhi `16 Nov 03:01` · aljazeera
+
+Morocco moved past former Euro champions Portugal and record World Cup winners Brazil to achieve its best FIFA ranking.
+
 **Germany vs Netherlands: Nations League – preview, team news, predictions**
 `15 Nov 18:54 PKT` · pehli baar dekhi `15 Nov 22:27` · aljazeera
 
@@ -148,6 +198,11 @@ Germany will likely need to win on Monday to reach the quarterfinals unless Serb
 `15 Nov 14:11 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_centralbanks
 
 Hikes Backed by Fed Officials; Nagel Signals ECB Hike | 14 Nov 2026 www.tmgm.com
+
+**ECB cannot replace sound fiscal policy, presidential contender Knot warns - Investing.com**
+`15 Nov 14:00 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_centralbanks
+
+ECB cannot replace sound fiscal policy, presidential contender Knot warns Investing.com
 
 **France October inflation accelerates as energy prices surge, keeping ECB rate hike bets alive - Forex Factory**
 `15 Nov 13:45 PKT` · pehli baar dekhi `15 Nov 15:45` · gnews_centralbanks
@@ -165,6 +220,16 @@ Markets still pricing in two more ECB rate hikes The Irish Times
 Fed Officials Favour Hikes; Nagel Flags ECB Hike | 14 Nov 2026 www.tmgm.com
 
 ### GBP
+
+**NatWest (NYSE: NWG) And Lloyds (NYSE: LYG) Headline Three UK Lenders Positioned To Capitalize On Bank Of England's Tightening Cycle - Foreign Policy Journal**
+`16 Nov 00:45 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_centralbanks
+
+NatWest (NYSE: NWG) And Lloyds (NYSE: LYG) Headline Three UK Lenders Positioned To Capitalize On Bank Of England's Tightening Cycle Foreign Policy Journal
+
+**Bank of England Faces Fresh Rate Pressure as UK Inflation Test Looms - The Eastern Herald**
+`15 Nov 22:58 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_centralbanks
+
+Bank of England Faces Fresh Rate Pressure as UK Inflation Test Looms The Eastern Herald
 
 **Bank of England signals further rate rises into 2027 - https://www.facilitiesmanagement-now.com/**
 `15 Nov 14:02 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_centralbanks
@@ -236,6 +301,26 @@ Australia dominated the first half and capitalised on the Kiwi Ferns' errors to 
 
 ### OIL
 
+**Opinion | How's That Russian Diesel Deal Going?**
+`16 Nov 02:11 PKT` · pehli baar dekhi `16 Nov 03:01` · wsj_world
+
+Donald Trump's sanctions relief for Vladimir Putin hasn't resulted in lower fuel prices for Americans.
+
+**Oil falls on surplus as Brent, WTI down ~2.5% for week - Ticker News**
+`16 Nov 02:09 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_geopolitics
+
+Oil falls on surplus as Brent, WTI down ~2.5% for week Ticker News
+
+**The $130 Billion Oil Boom Fueled by the Iran War**
+`16 Nov 01:00 PKT` · pehli baar dekhi `16 Nov 03:01` · oilprice
+
+Several oil and gas companies in the United States have benefited from increased trade following the war in Iran that began in February, and from subsequent restrictions on international energy trade. Many countries have been forced to turn to alternative suppliers due to restrictions on movement through the Strait of Hormuz, the critical waterway connecting the Persian Gulf to the Arabian Sea, a shift that has allowed U.S. oil majors to help fill the gap.
+
+**US Oil Executives Expect Crude Output to Rise as Iran War Continues, Survey Shows - EnergyNow**
+`15 Nov 22:46 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_geopolitics
+
+US Oil Executives Expect Crude Output to Rise as Iran War Continues, Survey Shows EnergyNow
+
 **How Brazil Plans to Accelerate the Global Shift Away From Fossil Fuels**
 `15 Nov 21:00 PKT` · pehli baar dekhi `15 Nov 22:27` · oilprice
 
@@ -250,6 +335,11 @@ Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could sque
 `15 Nov 18:03 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_geopolitics
 
 US Seeks International Help to Reopen Strait of Hormuz as Crude Prices Surge EnergyNow
+
+**US Intercepts Three Iranian Oil Tankers in Asian Waters, Sources Say - EnergyNow.com**
+`15 Nov 17:37 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_geopolitics
+
+US Intercepts Three Iranian Oil Tankers in Asian Waters, Sources Say EnergyNow.com
 
 **Crude oil prices may touch $90-92 per barrel next week - NewsBytes**
 `15 Nov 17:37 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_geopolitics
@@ -317,7 +407,13 @@ Dismissals follow probe that uncovered illegal oil refineries and smuggling in a
 US diesel hits two-month low as tensions ease, demand weakens Free Malaysia Today
 
 **US diesel below $6 a gallon at 2-month low on easing tensions, weaker demand**
-`15 Nov 06:24 PKT` · pehli baar dekhi `15 Nov 08:05` · investing_commodities
+`15 Nov 06:24 PKT` · pehli baar dekhi `15 Nov 08:05` · investing_commodities · **2 feeds mein**
+  - `16 Nov 01:07` *gnews_geopolitics* — US diesel below $6 a gallon at 2-month low on easing tensions, weaker demand - New York Post
+
+**Global oil market moves to surplus as Persian Gulf shipments rebound, IEA says (USO:NYSEARCA) - Seeking Alpha**
+`15 Nov 06:05 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_geopolitics
+
+Global oil market moves to surplus as Persian Gulf shipments rebound, IEA says (USO:NYSEARCA) Seeking Alpha
 
 **Electrifying Ambitions Meet Tough Reality in Europe**
 `15 Nov 05:00 PKT` · pehli baar dekhi `15 Nov 08:05` · oilprice
@@ -369,6 +465,39 @@ Arthur Hayes Says Fed Rate Hikes Will Prompt Wealthy Investors To Buy More Bitco
 
 ### RISK
 
+**Russia stocks lower at close of trade; MOEX Russia Index unchanged**
+`16 Nov 02:20 PKT` · pehli baar dekhi `16 Nov 03:01` · investing_news
+
+**Yemen's Houthis unilaterally release 600 war detainees**
+`16 Nov 02:19 PKT` · pehli baar dekhi `16 Nov 03:01` · aljazeera
+
+Yemen's Houthis have released 600 people imprisoned during the country's civil war.
+
+**Who can force Israel to implement Gaza ceasefire deal?**
+`16 Nov 01:37 PKT` · pehli baar dekhi `16 Nov 03:01` · aljazeera
+
+Storms batter Palestinian territory as Israel restricts entry of aid.
+
+**Estonia to close border crossings with Russia after alleged arson attack**
+`16 Nov 01:31 PKT` · pehli baar dekhi `16 Nov 03:01` · aljazeera
+
+Estonia is closing its border crossings with Russia following an alleged arson attempt at a drone factory.
+
+**Fed Remarks, NVIDIA Earnings and Russia Rules Set Five Events This Week - www.tokenpost.com**
+`16 Nov 00:43 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_fed
+
+Fed Remarks, NVIDIA Earnings and Russia Rules Set Five Events This Week www.tokenpost.com
+
+**Prince Harry in Ukraine meeting Invictus 2027 hopefuls**
+`15 Nov 23:31 PKT` · pehli baar dekhi `16 Nov 03:01` · aljazeera
+
+British royal says he&#039;s &#039;taken a risk&#039; in his fourth surprise visit to Ukraine since 2022 to meet wounded veterans.
+
+**Estonia to close border crossings with Russia after attack on drone maker**
+`15 Nov 23:07 PKT` · pehli baar dekhi `16 Nov 03:01` · aljazeera
+
+Eight arrests made in connection with an attempted arson, which Tallinn says was ordered by Russian intelligence.
+
 **Nvida stock analysis before its earnings**
 `15 Nov 21:51 PKT` · pehli baar dekhi `15 Nov 22:27` · investinglive
 
@@ -383,6 +512,21 @@ Iran targets US military base in Bahrain with drone attack BBC
 `15 Nov 18:37 PKT` · pehli baar dekhi `15 Nov 22:27` · aljazeera
 
 Starlink has recently denied restricting internet speeds, but Elon Musk suggested the US military could be behind it.
+
+**Canada Weighs Options to Boost Oil Supply as Iran War Causes Market Turmoil - EnergyNow**
+`15 Nov 18:18 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_geopolitics
+
+Canada Weighs Options to Boost Oil Supply as Iran War Causes Market Turmoil EnergyNow
+
+**Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says - EnergyNow.com**
+`15 Nov 18:06 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_geopolitics
+
+Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says EnergyNow.com
+
+**Here's a List of Gulf Energy Infrastructure Damaged in Iran War - EnergyNow**
+`15 Nov 17:43 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_geopolitics
+
+Here's a List of Gulf Energy Infrastructure Damaged in Iran War EnergyNow
 
 **COMMENTARY: Iran War May Crush Oil Demand Today, But Send it Soaring Long Term: Bousso - EnergyNow.com**
 `15 Nov 17:38 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_geopolitics
@@ -408,6 +552,11 @@ Petrol restrictions spark public anger, fears of rising prices in Iran Iran Inte
 `15 Nov 14:41 PKT` · pehli baar dekhi `15 Nov 15:45` · aljazeera
 
 Bahrain Defence Force says its air defence systems thwart several Iranian &#039;aerial attacks&#039;.
+
+**Oil Rises as Trump Threatens Sanctions on Iran Partners - EnergyNow.com**
+`15 Nov 14:24 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_geopolitics
+
+Oil Rises as Trump Threatens Sanctions on Iran Partners EnergyNow.com
 
 **Iran war live: Tehran targets air base in Bahrain in first direct strike on Gulf state in weeks - Arabian Business**
 `15 Nov 13:51 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_geopolitics
@@ -454,10 +603,29 @@ The Fed's battle against inflation risks turning into a forever war as Iran 'sta
 
 'No need for panic booking': Centre assures 100% domestic LPG supply amid Iran war's energy crisis شبكة تواصل الإخبارية
 
-### BINA TAG (98)
+### BINA TAG (119)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `16 Nov 01:54` **aljazeera** — Photos: Pope Leo visits Peru's Amazon and Andean regions during 12-day tour
+- `16 Nov 01:50` **aljazeera** — Palestinians reclaim Gaza's shores with a swim for hope
+- `16 Nov 01:39` **investing_news** — Jensen Huang may return as Nvidia chief executive - report
+- `16 Nov 01:30` **investing_news** — US rocket fails after launch, payload of Amazon internet satellites destroyed
+- `16 Nov 01:12` **aljazeera** — Jordan sentences three men to death over deadly church attack in Karak
+- `16 Nov 01:07` **aljazeera** — Africa CDC says Ebola outbreak in DR Congo 'still not under control'
+- `16 Nov 00:40` **wsj_world** — Opinion | Nvidia Shows The Limits Of Corporate Boards
+- `16 Nov 00:37` **wsj_world** — Opinion | Trump Won't Open a Bridge Biden Closed
+- `16 Nov 00:16` **gnews_fed** — FILE PHOTO: Federal Reserve Board building is seen in Washington - The Daily News | Texas' Oldest Newspaper
+- `16 Nov 00:02` **aljazeera** — Israeli drone filmed flying low outside homes in southern Lebanon
+- `15 Nov 23:56` **gnews_fed** — Productivity and Jobs Task Force Conference - Federal Reserve Bank of San Francisco
+- `15 Nov 23:21` **gnews_fed** — US credit card debt hits a record $1.29 trillion as the share turning seriously delinquent dips - Nacionale
+- `15 Nov 23:07` **aljazeera** — Christian priest says US denied him a visa for being Palestinian
+- `15 Nov 22:55` **wsj_markets** — Opinion | Rational Investing and Stock-Market Bubbles
+- `15 Nov 22:54` **wsj_markets** — Opinion | What's Really Behind Data Center Backlash
+- `15 Nov 22:47` **gnews_geopolitics** — IRGC Claims Supertanker With 2M Barrels Sank in Gulf - https://houseofsaud.com/
+- `15 Nov 22:39` **aljazeera** — Nearly 1,500 migrants reach Spain's Canary Islands in one day
+- `15 Nov 22:33` **aljazeera** — Yemeni government forces redeploy from Bab al-Mandeb to defend Aden
+- `15 Nov 22:24` **aljazeera** — The hidden costs of the US AI boom
 - `15 Nov 22:18` **wsj_world** — Opinion | Tech Isn't the FAA's Biggest Problem
 - `15 Nov 22:05` **investing_news** — U.S. flight disruptions enter third day, FAA eyes Monday return to normal
 - `15 Nov 22:04` **investing_news** — Helus Pharma to present Phase 3 depression trial results Monday
@@ -480,6 +648,7 @@ The Fed's battle against inflation risks turning into a forever war as Iran 'sta
 - `15 Nov 20:16` **aljazeera** — Record number of migrants arrive in Spain's Canary Islands
 - `15 Nov 20:01` **aljazeera** — Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power
 - `15 Nov 20:00` **mw_topstories** — Nvidia is gearing up for one of Wall Street's most anticipated earnings calls in years
+- `15 Nov 20:00` **mw_topstories** — 'I'm sick of flying': I paid for priority boarding, but the overhead bins were full. Was I duped?
 - `15 Nov 19:56` **bbc_business** — Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says
 - `15 Nov 19:55` **aljazeera** — Flames engulf Syrian refugee camp in eastern Lebanon
 - `15 Nov 19:55` **aljazeera** — Fascism built the AI bubble. What will burst it?
@@ -523,6 +692,7 @@ The Fed's battle against inflation risks turning into a forever war as Iran 'sta
 - `15 Nov 11:28` **gnews_fed** — Tomorrow X Together's Federal Reserve: "One year, two comebacks — we pull off the impossible" [Star On-Site] - 스타뉴스
 - `15 Nov 11:27` **cointelegraph** — RWA protocol stUSDT winds down three years after $2.3B TVL peak
 - `15 Nov 11:11` **aljazeera** — Secret votes and vetoes: How will the next UN chief be picked?
+- `15 Nov 10:07` **gnews_centralbanks** — Experts explains how Irish homeowners can save over €650 a month on their mortgage repayments - Irish Mirror
 - `15 Nov 10:05` **aljazeera** — Francophone summit opens in Cambodia amid Rwanda-DR Congo rift
 - `15 Nov 09:44` **aljazeera** — New York Democratic Socialists urge Ocasio-Cortez to run for US president
 - `15 Nov 09:31` **aljazeera** — Video shows moment of Brooklyn building collapse from inside
@@ -559,11 +729,11 @@ The Fed's battle against inflation risks turning into a forever war as Iran 'sta
 
 ---
 
-## Shor — 19 khabrein hatai gayin
+## Shor — 26 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (19)
+investing_news (26)
 
 ---
 
@@ -573,45 +743,45 @@ investing_news (19)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 1 | 0 | 24 | 0.0 |
+| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.2 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.3 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.1 |
-| instaforex | OK | 25 | 8 | 5 | 3 | 17 | -0.2 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 65.9 |
+| actionforex | WARN | 20 | 0 | 0 | 0 | 20 | 1.5 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.3 |
+| instaforex | OK | 25 | 9 | 1 | 8 | 16 | -0.2 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.5 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 66.1 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 39 | 34 | 19 | 15 | 5 | 0.0 |
-| gnews_geopolitics | OK | 29 | 26 | 15 | 11 | 3 | 0.0 |
-| gnews_centralbanks | OK | 22 | 14 | 7 | 7 | 8 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.0 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.4 |
-| boj_whatsnew | OK | 43 | 0 | 0 | 0 | 43 | 3.4 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.7 |
-| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.8 |
-| oilprice | OK | 15 | 3 | 1 | 2 | 12 | 0.1 |
-| investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.6 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| bbc_business | OK | 57 | 3 | 2 | 1 | 54 | 0.1 |
-| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.4 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 10.1 |
-| eia_energy | OK | 26 | 0 | 0 | 0 | 26 | 2.1 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 11.2 |
-| wsj_world | OK | 70 | 6 | 2 | 4 | 64 | 0.0 |
-| wsj_markets | OK | 61 | 4 | 0 | 4 | 57 | 0.3 |
+| gnews_fed | OK | 40 | 40 | 12 | 28 | 0 | 0.0 |
+| gnews_geopolitics | OK | 33 | 33 | 10 | 23 | 0 | 0.0 |
+| gnews_centralbanks | OK | 18 | 18 | 4 | 14 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.2 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.5 |
+| boj_whatsnew | OK | 43 | 0 | 0 | 0 | 43 | 3.6 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.9 |
+| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 2.0 |
+| oilprice | OK | 15 | 5 | 2 | 3 | 10 | 0.0 |
+| investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.8 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
+| bbc_business | OK | 57 | 3 | 0 | 3 | 54 | 0.3 |
+| aljazeera | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.6 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 10.3 |
+| eia_energy | OK | 26 | 0 | 0 | 0 | 26 | 2.3 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 11.4 |
+| wsj_world | OK | 70 | 10 | 4 | 6 | 60 | 0.0 |
+| wsj_markets | OK | 61 | 6 | 2 | 4 | 55 | 0.2 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 5 | 1 | 4 | 25 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 5 | 0 | 5 | 25 | 0.3 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
