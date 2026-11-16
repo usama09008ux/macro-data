@@ -1,0 +1,330 @@
+{
+  "generated_pkt": "16 Nov 2026 19:01",
+  "trading_day": "2026-11-16",
+  "series": {
+    "DFEDTARU": {
+      "latest": 4.0,
+      "latest_date": "2026-11-16",
+      "n_obs": 1106,
+      "changes": {
+        "1d": 0.0,
+        "5d": 0.0,
+        "20d": 0.0
+      },
+      "percentile": 25
+    },
+    "DGS2": {
+      "latest": 4.86,
+      "latest_date": "2026-11-12",
+      "n_obs": 753,
+      "changes": {
+        "1d": 0.13,
+        "5d": 0.28,
+        "20d": 0.04
+      },
+      "percentile": 94
+    },
+    "DGS10": {
+      "latest": 5.1,
+      "latest_date": "2026-11-12",
+      "n_obs": 753,
+      "changes": {
+        "1d": 0.12,
+        "5d": 0.2,
+        "20d": -0.09
+      },
+      "percentile": 97
+    },
+    "DGS30": {
+      "latest": 5.43,
+      "latest_date": "2026-11-12",
+      "n_obs": 753,
+      "changes": {
+        "1d": 0.08,
+        "5d": 0.15,
+        "20d": -0.09
+      },
+      "percentile": 98
+    },
+    "T10Y2Y": {
+      "latest": 0.27,
+      "latest_date": "2026-11-13",
+      "n_obs": 754,
+      "changes": {
+        "1d": 0.03,
+        "5d": -0.11,
+        "20d": -0.06
+      },
+      "percentile": 41
+    },
+    "T10Y3M": {
+      "latest": 0.83,
+      "latest_date": "2026-11-13",
+      "n_obs": 754,
+      "changes": {
+        "1d": 0.05,
+        "5d": 0.16,
+        "20d": 0.01
+      },
+      "percentile": 93
+    },
+    "DFII10": {
+      "latest": 2.86,
+      "latest_date": "2026-11-12",
+      "n_obs": 753,
+      "changes": {
+        "1d": 0.08,
+        "5d": 0.22,
+        "20d": 0.02
+      },
+      "percentile": 98
+    },
+    "DFII5": {
+      "latest": 2.64,
+      "latest_date": "2026-11-12",
+      "n_obs": 753,
+      "changes": {
+        "1d": 0.08,
+        "5d": 0.25,
+        "20d": 0.0
+      },
+      "percentile": 98
+    },
+    "T10YIE": {
+      "latest": 2.24,
+      "latest_date": "2026-11-13",
+      "n_obs": 754,
+      "changes": {
+        "1d": 0.0,
+        "5d": 0.0,
+        "20d": -0.08
+      },
+      "percentile": 17
+    },
+    "T5YIE": {
+      "latest": 2.3,
+      "latest_date": "2026-11-13",
+      "n_obs": 754,
+      "changes": {
+        "1d": -0.01,
+        "5d": 0.04,
+        "20d": -0.03
+      },
+      "percentile": 31
+    },
+    "DTWEXBGS": {
+      "latest": 121.8803,
+      "latest_date": "2026-11-06",
+      "n_obs": 751,
+      "changes": {
+        "1d": 0.3742,
+        "5d": 0.2147,
+        "20d": 0.4334
+      },
+      "percentile": 66
+    },
+    "VIXCLS": {
+      "latest": 18.7,
+      "latest_date": "2026-11-12",
+      "n_obs": 779,
+      "changes": {
+        "1d": 1.21,
+        "5d": -9.48,
+        "20d": 2.24
+      },
+      "percentile": 75
+    },
+    "BAMLH0A0HYM2": {
+      "latest": 3.2,
+      "latest_date": "2026-11-12",
+      "n_obs": 785,
+      "changes": {
+        "1d": -0.1,
+        "5d": -0.12,
+        "20d": -0.05
+      },
+      "percentile": 71
+    },
+    "STLFSI4": {
+      "latest": -0.4918,
+      "latest_date": "2026-11-06",
+      "n_obs": 157,
+      "changes": {
+        "1d": 0.0309,
+        "5d": -0.032,
+        "20d": 0.4559
+      },
+      "percentile": 74
+    },
+    "CPIAUCSL": {
+      "latest": 337.476,
+      "latest_date": "2026-10-01",
+      "n_obs": 35,
+      "changes": {
+        "MoM %": 0.35,
+        "YoY %": 4.08
+      },
+      "percentile": 97
+    },
+    "CPILFESL": {
+      "latest": 339.9,
+      "latest_date": "2026-10-01",
+      "n_obs": 35,
+      "changes": {
+        "MoM %": 0.3,
+        "YoY %": 2.87
+      },
+      "percentile": 97
+    },
+    "PCEPILFE": {
+      "latest": 130.902,
+      "latest_date": "2026-09-01",
+      "n_obs": 35,
+      "changes": {
+        "MoM %": 0.32,
+        "YoY %": 3.12
+      },
+      "percentile": 97
+    },
+    "PPIFIS": {
+      "latest": 160.254,
+      "latest_date": "2026-10-01",
+      "n_obs": 36,
+      "changes": {
+        "MoM %": 0.35,
+        "YoY %": 6.52
+      },
+      "percentile": 97
+    },
+    "PAYEMS": {
+      "latest": 159293.0,
+      "latest_date": "2026-10-01",
+      "n_obs": 36,
+      "changes": {
+        "MoM %": 0.1,
+        "YoY %": 0.56
+      },
+      "percentile": 97
+    },
+    "UNRATE": {
+      "latest": 4.1,
+      "latest_date": "2026-10-01",
+      "n_obs": 35,
+      "changes": {
+        "MoM %": -2.38,
+        "YoY %": -6.82
+      },
+      "percentile": 23
+    },
+    "CES0500000003": {
+      "latest": 38.0,
+      "latest_date": "2026-10-01",
+      "n_obs": 36,
+      "changes": {
+        "MoM %": 0.37,
+        "YoY %": 3.12
+      },
+      "percentile": 97
+    },
+    "ICSA": {
+      "latest": 200000.0,
+      "latest_date": "2026-11-07",
+      "n_obs": 157,
+      "changes": {
+        "1w": 9000.0,
+        "4w": 0.0
+      },
+      "percentile": 8
+    },
+    "RSAFS": {
+      "latest": 745021.0,
+      "latest_date": "2026-09-01",
+      "n_obs": 35,
+      "changes": {
+        "MoM %": 0.77,
+        "YoY %": 6.29
+      },
+      "percentile": 97
+    },
+    "INDPRO": {
+      "latest": 103.9506,
+      "latest_date": "2026-09-01",
+      "n_obs": 35,
+      "changes": {
+        "MoM %": 0.66,
+        "YoY %": 2.25
+      },
+      "percentile": 97
+    },
+    "GDPC1": {
+      "latest": 24611.077,
+      "latest_date": "2026-07-01",
+      "n_obs": 12,
+      "changes": {
+        "QoQ %": 0.83,
+        "YoY %": 2.07
+      },
+      "percentile": null
+    }
+  },
+  "treasury": {
+    "nominal": {
+      "kind": "nominal",
+      "ok": true,
+      "note": "",
+      "date": "2026-11-13",
+      "rates": {
+        "2Y": 4.88,
+        "5Y": 4.98,
+        "10Y": 5.15,
+        "30Y": 5.47,
+        "3M": 4.32
+      },
+      "fields_seen": [
+        "BC_10YEAR",
+        "BC_1MONTH",
+        "BC_1YEAR",
+        "BC_1_5MONTH",
+        "BC_20YEAR",
+        "BC_2MONTH",
+        "BC_2YEAR",
+        "BC_30YEAR",
+        "BC_30YEARDISPLAY",
+        "BC_3MONTH",
+        "BC_3YEAR",
+        "BC_4MONTH",
+        "BC_5YEAR",
+        "BC_6MONTH",
+        "BC_7YEAR",
+        "Id",
+        "NEW_DATE",
+        "id",
+        "updated"
+      ]
+    },
+    "real": {
+      "kind": "real",
+      "ok": true,
+      "note": "",
+      "date": "2026-11-13",
+      "rates": {
+        "5Y real": 2.68,
+        "10Y real": 2.91,
+        "20Y real": 3.15,
+        "30Y real": 3.28
+      },
+      "fields_seen": [
+        "DailyTreasuryRealYieldCurveRateDataId",
+        "NEW_DATE",
+        "TC_10YEAR",
+        "TC_20YEAR",
+        "TC_30YEAR",
+        "TC_5YEAR",
+        "TC_7YEAR",
+        "id",
+        "updated"
+      ]
+    }
+  },
+  "failures": {}
+}
