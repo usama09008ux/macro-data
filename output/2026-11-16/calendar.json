@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "16 Nov 2026 18:53",
+  "generated_pkt": "17 Nov 2026 02:27",
   "trading_day": "2026-11-16",
   "feed_sources": {
     "thisweek": "live"
@@ -273,9 +273,9 @@
       "previous": "3.3%",
       "url": "https://www.forexfactory.com/calendar/909-us-cleveland-fed-inflation-expectations",
       "all_day": false,
-      "utc": "2026-11-16T14:48Z",
-      "pkt": "16 Nov 19:48",
-      "pkt_iso": "2026-11-16T19:48:00+05:00",
+      "utc": "2026-11-16T14:45Z",
+      "pkt": "16 Nov 19:45",
+      "pkt_iso": "2026-11-16T19:45:00+05:00",
       "trading_day": "2026-11-16"
     },
     {
@@ -341,6 +341,32 @@
       "utc": "2026-11-16T22:50Z",
       "pkt": "17 Nov 03:50",
       "pkt_iso": "2026-11-17T03:50:00+05:00",
+      "trading_day": "2026-11-17"
+    },
+    {
+      "title": "FOMC Member Barkin Speaks",
+      "ccy": "USD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/728-us-fomc-member-barkin-speaks",
+      "all_day": false,
+      "utc": "2026-11-16T23:10Z",
+      "pkt": "17 Nov 04:10",
+      "pkt_iso": "2026-11-17T04:10:00+05:00",
+      "trading_day": "2026-11-17"
+    },
+    {
+      "title": "FOMC Member Goolsbee Speaks",
+      "ccy": "USD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/889-us-fomc-member-goolsbee-speaks",
+      "all_day": false,
+      "utc": "2026-11-16T23:30Z",
+      "pkt": "17 Nov 04:30",
+      "pkt_iso": "2026-11-17T04:30:00+05:00",
       "trading_day": "2026-11-17"
     },
     {
@@ -1254,6 +1280,19 @@
       "trading_day": "2026-11-19"
     },
     {
+      "title": "FOMC Member Jefferson Speaks",
+      "ccy": "USD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/881-us-fomc-member-jefferson-speaks",
+      "all_day": false,
+      "utc": "2026-11-19T14:25Z",
+      "pkt": "19 Nov 19:25",
+      "pkt_iso": "2026-11-19T19:25:00+05:00",
+      "trading_day": "2026-11-19"
+    },
+    {
       "title": "CB Leading Index m/m",
       "ccy": "USD",
       "impact": "Low",
@@ -1284,7 +1323,7 @@
       "ccy": "USD",
       "impact": "Low",
       "forecast": "",
-      "previous": "",
+      "previous": "61B",
       "url": "https://www.forexfactory.com/calendar/26-us-natural-gas-storage",
       "all_day": false,
       "utc": "2026-11-19T15:30Z",
@@ -1566,5 +1605,36 @@
       "trading_day": "2026-11-20"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "Canada October CPI 3.1% vs +3.2% expected",
+      "actual_raw": "3.1%",
+      "forecast_raw": "+3.2%",
+      "beat": false,
+      "raw_diff": "-0.10pp",
+      "sign_flip": false,
+      "diff_pct": -3.1,
+      "when_pkt": "16 Nov 18:30",
+      "source": "investinglive",
+      "tags": [
+        "cad",
+        "usd",
+        "rates"
+      ]
+    },
+    {
+      "title": "US November Empire Manufacturing index +7.80 vs +18.00 expected",
+      "actual_raw": "+7.80",
+      "forecast_raw": "+18.00",
+      "beat": false,
+      "raw_diff": "-10.20",
+      "sign_flip": false,
+      "diff_pct": -56.7,
+      "when_pkt": "16 Nov 18:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }
