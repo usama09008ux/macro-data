@@ -1,9 +1,9 @@
 # News Pack — Trading Day 15 Nov 2026
 
 - Trading day: **15 Nov 03:00 -> 16 Nov 02:59 PKT**
-- Aakhri update: **16 Nov 06:55 PKT**
-- Kul khabrein: **278**
-- Feeds: 27/39 OK
+- Aakhri update: **16 Nov 14:15 PKT**
+- Kul khabrein: **288**
+- Feeds: 28/39 OK
 
 ---
 
@@ -76,15 +76,27 @@ Ticker: Retail sales data, Fed minutes on tap this week Boston Herald
 
 Schmid's remarks add weight to hike pricing that is already in place for December. His attack on the "supply shock" argument also makes it harder to make the dovish case for looking through energy-driven inflation. That supports the US dollar and front-end Treasury yields, and it keeps the small tail risk of a half-point move alive. A Fed seen as committed to further tightening has been a headwind for gold throughout this cycle.
 
+**The U.S. Federal Reserve (Fed) has pointed to the soaring debt following the artificial intelligence.. - 매일경제**
+`16 Nov 02:04 PKT` · pehli baar dekhi `16 Nov 14:15` · gnews_fed · **2 feeds mein**
+
+The U.S. Federal Reserve (Fed) has pointed to the soaring debt following the artificial intelligence.. 매일경제
+  - `15 Nov 13:36` *gnews_fed* — The U.S. Federal Reserve (Fed) has pointed to the soaring debt following the artificial intelligence.. - 매일경제
+
+**Fed's Warsh to take stock of AI revolution as US public grows wary - WBKB11.com**
+`16 Nov 00:30 PKT` · pehli baar dekhi `16 Nov 14:15` · gnews_fed
+
+Fed's Warsh to take stock of AI revolution as US public grows wary WBKB11.com
+
 **Kansas City Fed President Jeffrey Schmid Says Inflation Is Still Overheated - www.tokenpost.com**
 `16 Nov 00:00 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_fed
 
 Kansas City Fed President Jeffrey Schmid Says Inflation Is Still Overheated www.tokenpost.com
 
 **Fed 'has some work to do on inflation,' Kansas City Fed chief says - CNBC**
-`15 Nov 23:58 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_fed
+`15 Nov 23:58 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_fed · **2 feeds mein**
 
 Fed 'has some work to do on inflation,' Kansas City Fed chief says CNBC
+  - `15 Nov 23:58` *gnews_fed* — Fed 'has some work to do on inflation,' Kansas City Fed chief says - CNBC
 
 **Federal Reserve signals more inflation work as markets price December rate rise - Traders Union**
 `15 Nov 23:54 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_fed
@@ -142,9 +154,10 @@ Latin American currencies face dollar pressure amid anticipation of Fed decision
 Fed And OCC Believe Banks Are Strong, But Non-Bank Risks Are Growing Forbes
 
 **The Fed Is Raising Rates the Slow Way. History Says the Pace Matters More Than the Hike. - The Globe and Mail**
-`15 Nov 17:25 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_fed · **2 feeds mein**
+`15 Nov 17:25 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_fed · **3 feeds mein**
 
 The Fed Is Raising Rates the Slow Way. History Says the Pace Matters More Than the Hike. The Globe and Mail
+  - `15 Nov 17:16` *gnews_fed* — The Fed Is Raising Rates the Slow Way. History Says the Pace Matters More Than the Hike. - Yahoo Finance
   - `15 Nov 16:56` *gnews_fed* — The Fed Is Raising Rates the Slow Way. History Says the Pace Matters More Than the Hike. - The Motley Fool
 
 **How Will the Market React to a Potential Fed Rate Hike in December? Here's What History Suggests. - Yahoo Finance**
@@ -166,11 +179,6 @@ Saudi Arabia's consumer price inflation eased slightly in October 2026, with the
 `15 Nov 15:30 PKT` · pehli baar dekhi `15 Nov 15:45` · wsj_markets
 
 Artificial intelligent's future makes it hard for some to sit out the trillion-dollar offering, but it's complicated. "Feels almost like the last chopper out of Saigon," says one.
-
-**The U.S. Federal Reserve (Fed) has pointed to the soaring debt following the artificial intelligence.. - 매일경제**
-`15 Nov 13:36 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_fed
-
-The U.S. Federal Reserve (Fed) has pointed to the soaring debt following the artificial intelligence.. 매일경제
 
 **Fed's Collins says gradual rate hikes best to manage economic risks - KLSE Screener**
 `15 Nov 11:34 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_fed
@@ -234,6 +242,11 @@ Morocco moved past former Euro champions Portugal and record World Cup winners B
 `15 Nov 18:54 PKT` · pehli baar dekhi `15 Nov 22:27` · aljazeera
 
 Germany will likely need to win on Monday to reach the quarterfinals unless Serbia beat Greece away from home.
+
+**ECB Hike Signalled by Nagel; Fed Officials Support Hikes | 14 Nov 2026 - www.tmgm.com**
+`15 Nov 15:34 PKT` · pehli baar dekhi `16 Nov 14:15` · gnews_centralbanks
+
+ECB Hike Signalled by Nagel; Fed Officials Support Hikes | 14 Nov 2026 www.tmgm.com
 
 **Hikes Backed by Fed Officials; Nagel Signals ECB Hike | 14 Nov 2026 - www.tmgm.com**
 `15 Nov 14:11 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_centralbanks
@@ -373,6 +386,11 @@ Several oil and gas companies in the United States have benefited from increased
 
 US Oil Executives Expect Crude Output to Rise as Iran War Continues, Survey Shows EnergyNow
 
+**Kuwait Oil CEO Says Iran is 'Holding the World's Economy Hostage' - EnergyNow**
+`15 Nov 22:33 PKT` · pehli baar dekhi `16 Nov 14:15` · gnews_geopolitics
+
+Kuwait Oil CEO Says Iran is 'Holding the World's Economy Hostage' EnergyNow
+
 **How Brazil Plans to Accelerate the Global Shift Away From Fossil Fuels**
 `15 Nov 21:00 PKT` · pehli baar dekhi `15 Nov 22:27` · oilprice
 
@@ -397,6 +415,11 @@ US Intercepts Three Iranian Oil Tankers in Asian Waters, Sources Say EnergyNow.c
 `15 Nov 17:37 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_geopolitics
 
 Crude oil prices may touch $90-92 per barrel next week NewsBytes
+
+**Iranian Oil Exports Fall to Lowest Level in Six Years, Data Shows - EnergyNow.com**
+`15 Nov 17:37 PKT` · pehli baar dekhi `16 Nov 14:15` · gnews_geopolitics
+
+Iranian Oil Exports Fall to Lowest Level in Six Years, Data Shows EnergyNow.com
 
 **Dalal Street Week Ahead: WPI inflation, crude oil among 10 key factors to watch - Moneycontrol.com**
 `15 Nov 16:12 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_fed
@@ -587,10 +610,16 @@ Canada Weighs Options to Boost Oil Supply as Iran War Causes Market Turmoil Ener
 
 Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says EnergyNow.com
 
-**Here's a List of Gulf Energy Infrastructure Damaged in Iran War - EnergyNow**
-`15 Nov 17:43 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_geopolitics
+**Here's a List of Gulf Energy Infrastructure Damaged in Iran War - EnergyNow.com**
+`15 Nov 17:44 PKT` · pehli baar dekhi `16 Nov 14:15` · gnews_geopolitics · **2 feeds mein**
 
-Here's a List of Gulf Energy Infrastructure Damaged in Iran War EnergyNow
+Here's a List of Gulf Energy Infrastructure Damaged in Iran War EnergyNow.com
+  - `15 Nov 17:43` *gnews_geopolitics* — Here's a List of Gulf Energy Infrastructure Damaged in Iran War - EnergyNow
+
+**Iran War Boosts US Shale Oil But Only So Much: Bousso - EnergyNow.com**
+`15 Nov 17:40 PKT` · pehli baar dekhi `16 Nov 14:15` · gnews_geopolitics
+
+Iran War Boosts US Shale Oil But Only So Much: Bousso EnergyNow.com
 
 **COMMENTARY: Iran War May Crush Oil Demand Today, But Send it Soaring Long Term: Bousso - EnergyNow.com**
 `15 Nov 17:38 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_geopolitics
@@ -667,7 +696,7 @@ The Fed's battle against inflation risks turning into a forever war as Iran 'sta
 
 'No need for panic booking': Centre assures 100% domestic LPG supply amid Iran war's energy crisis شبكة تواصل الإخبارية
 
-### BINA TAG (120)
+### BINA TAG (121)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -744,6 +773,7 @@ The Fed's battle against inflation risks turning into a forever war as Iran 'sta
 - `15 Nov 14:49` **aljazeera** — Protesters condemn US policies as ASEAN summit begins in Manila
 - `15 Nov 14:37` **investing_news** — Ireland's AI data center boom faces legal challenge over power demand
 - `15 Nov 14:30` **gnews_fed** — Peter Schiff Warns 'Final Stages' Of Economic Collapse Are Here — 'We May Not Make It Through This Republican Administration' - TradingView
+- `15 Nov 14:30` **gnews_fed** — Peter Schiff Warns 'Final Stages' Of Economic Collapse Are Here — 'We May Not Make It Through This Republican Administration' - TradingView
 - `15 Nov 14:17` **aljazeera** — What forced the US to ground all planes? A router switch, we now know
 - `15 Nov 13:49` **aljazeera** — India pulled 500m people out of poverty. Many of them still barely survive
 - `15 Nov 13:40` **aljazeera** — Thousands in Portugal protest against surging rental prices
@@ -808,49 +838,49 @@ investing_news (26)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 17 | 16 | 1 | 8 | 0.0 |
+| investinglive | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 1 | 1 | 0 | 19 | 0.1 |
-| marketpulse | OK | 3 | 1 | 1 | 0 | 2 | 0.0 |
-| instaforex | OK | 25 | 16 | 7 | 9 | 9 | -0.2 |
-| wsj_economy | OK | 36 | 2 | 1 | 1 | 34 | 0.0 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 66.3 |
+| actionforex | OK | 20 | 13 | 12 | 1 | 7 | 0.0 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.3 |
+| instaforex | OK | 25 | 25 | 23 | 2 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 4 | 2 | 2 | 32 | 0.1 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 66.6 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 45 | 45 | 16 | 29 | 0 | 0.0 |
-| gnews_geopolitics | OK | 33 | 33 | 7 | 26 | 0 | 0.0 |
-| gnews_centralbanks | OK | 23 | 23 | 10 | 13 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.8 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.7 |
-| boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 3.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 10.1 |
-| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 2.1 |
-| oilprice | OK | 15 | 5 | 0 | 5 | 10 | 0.2 |
-| investing_commodities | OK | 10 | 5 | 2 | 3 | 5 | 0.1 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
-| bbc_business | OK | 57 | 7 | 3 | 4 | 50 | 0.0 |
-| aljazeera | OK | 25 | 25 | 10 | 15 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.7 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 10.4 |
-| eia_energy | OK | 26 | 0 | 0 | 0 | 26 | 2.5 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 11.5 |
-| wsj_world | OK | 70 | 11 | 1 | 10 | 59 | 0.2 |
-| wsj_markets | OK | 61 | 9 | 3 | 6 | 52 | 0.0 |
+| gnews_fed | OK | 51 | 51 | 22 | 29 | 0 | 0.0 |
+| gnews_geopolitics | OK | 40 | 40 | 21 | 19 | 0 | 0.0 |
+| gnews_centralbanks | OK | 19 | 19 | 11 | 8 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
+| ecb_press | OK | 15 | 1 | 1 | 0 | 14 | 0.0 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.0 |
+| boj_whatsnew | OK | 44 | 3 | 3 | 0 | 41 | 0.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 10.4 |
+| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 2.4 |
+| oilprice | OK | 15 | 8 | 3 | 5 | 7 | 0.0 |
+| investing_commodities | OK | 10 | 8 | 3 | 5 | 2 | 0.0 |
+| ing_think | OK | 10 | 3 | 3 | 0 | 7 | 0.1 |
+| bbc_business | OK | 57 | 11 | 4 | 7 | 46 | 0.1 |
+| aljazeera | OK | 25 | 25 | 22 | 3 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 1 | 0 | 19 | 0.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 10.7 |
+| eia_energy | OK | 26 | 0 | 0 | 0 | 26 | 2.8 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 11.8 |
+| wsj_world | OK | 70 | 14 | 2 | 12 | 56 | 0.1 |
+| wsj_markets | OK | 60 | 18 | 9 | 9 | 42 | 0.0 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 7 | 2 | 5 | 23 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 12 | 5 | 7 | 18 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 66d purana
+- cme_risk_management — STALE, cadence 10d, magar 67d purana
 - kitco_general — FAIL, koi item nahi
 - yahoo_finance — FAIL, HTTP 404
