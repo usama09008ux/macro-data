@@ -1,9 +1,9 @@
 # News Pack — Trading Day 15 Nov 2026
 
 - Trading day: **15 Nov 03:00 -> 16 Nov 02:59 PKT**
-- Aakhri update: **16 Nov 03:01 PKT**
-- Kul khabrein: **263**
-- Feeds: 26/39 OK
+- Aakhri update: **16 Nov 06:55 PKT**
+- Kul khabrein: **278**
+- Feeds: 27/39 OK
 
 ---
 
@@ -11,12 +11,22 @@
 
 ### MARKET WRAP
 
+**ECB's Nagel says another rate hike 'highly probable' as energy prices push inflation**
+`16 Nov 02:51 PKT` · pehli baar dekhi `16 Nov 06:55` · investinglive
+
+An explicit signal from the Bundesbank president that further tightening is likely should support the euro and push up short-dated euro zone yields, especially German two-year debt. Because he ties the risk directly to gas and electricity, euro zone rate pricing is now more sensitive to moves in energy markets, so a rise in oil or gas could feed quickly into ECB hike expectations.
+
 **Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's Earnings Report; Anthropic IPO - www.christophe-barraud.com**
 `15 Nov 14:44 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_fed
 
 Week Ahead: APEC Summit; FOMC Minutes; RBA Minutes; Chinese Activity Data; U.K., Japan and Canada CPIs; U.K. and Australia Jobs; EZ Negotiated Wages; Nvidia's Earnings Report; Anthropic IPO www.christophe-barraud.com
 
 ### GOLD
+
+**New Zealand services PSI hits 3.5-year high at 51.7, fifth straight month of growth**
+`16 Nov 02:42 PKT` · pehli baar dekhi `16 Nov 06:55` · investinglive
+
+A services reading at a multi-year high, led by new orders, strengthens the case that New Zealand's recovery is spreading beyond a handful of sectors. That gives the New Zealand dollar modest support on the domestic data front. For rate expectations, firmer activity reduces the pressure for further policy support. The flat employment reading and persistent cost-of-living complaints, however, point to slack that has not yet closed.
 
 **Gold & Silver Volatility Ahead: Inflation, Fed, West Asia - Rediff MoneyWiz**
 `15 Nov 18:29 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_fed
@@ -35,10 +45,36 @@ Charts show the potential for more pain ahead
 
 ### USD
 
+**Wall Street Week Ahead: Nvidia earnings, Anthropic IPO, Federal Reserve minutes, retail sales - Top things to watch - TradingView**
+`16 Nov 02:48 PKT` · pehli baar dekhi `16 Nov 06:55` · gnews_fed · **2 feeds mein**
+
+Wall Street Week Ahead: Nvidia earnings, Anthropic IPO, Federal Reserve minutes, retail sales - Top things to watch TradingView
+  - `15 Nov 23:32` *gnews_fed* — Wall Street Week Ahead: Nvidia earnings, Anthropic IPO, Federal Reserve minutes, retail sales - Top things to watch - Livemint
+
+**US Treasury chief calls for outsider to lead embattled tech firm Nvidia**
+`16 Nov 02:47 PKT` · pehli baar dekhi `16 Nov 06:55` · aljazeera
+
+Scott Bessent gives Nvidia&#039;s board 10 days to show the company&#039;s compliance with US export controls.
+
+**Hotter October inflation and a 6.5% producer-price surge put a December Fed hike fully on the table - Latin Times**
+`16 Nov 02:37 PKT` · pehli baar dekhi `16 Nov 06:55` · gnews_fed
+
+Hotter October inflation and a 6.5% producer-price surge put a December Fed hike fully on the table Latin Times
+
+**Weekend Fed speak: Collins backs steady, gradual rate hikes, cool on a bigger December move**
+`16 Nov 02:34 PKT` · pehli baar dekhi `16 Nov 06:55` · investinglive
+
+Collins's comments push back on the half-point talk that has built since Waller's remarks and last week's inflation data. That could trim some of the tail pricing for a larger December move and take a little heat out of the front end of the Treasury curve. Her view that the eventual rate path may be higher cuts the other way, though. It supports the idea of a longer hiking cycle, which keeps the US dollar supported on dips and leaves gold without a clear dovish tailwind.
+
 **Ticker: Retail sales data, Fed minutes on tap this week - Boston Herald**
 `16 Nov 02:20 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_fed
 
 Ticker: Retail sales data, Fed minutes on tap this week Boston Herald
+
+**Sunday Fed talk: Schmid says inflation would still be near 3% without energy, Fed has work to do**
+`16 Nov 02:19 PKT` · pehli baar dekhi `16 Nov 06:55` · investinglive
+
+Schmid's remarks add weight to hike pricing that is already in place for December. His attack on the "supply shock" argument also makes it harder to make the dovish case for looking through energy-driven inflation. That supports the US dollar and front-end Treasury yields, and it keeps the small tail risk of a half-point move alive. A Fed seen as committed to further tightening has been a headwind for gold throughout this cycle.
 
 **Kansas City Fed President Jeffrey Schmid Says Inflation Is Still Overheated - www.tokenpost.com**
 `16 Nov 00:00 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_fed
@@ -70,11 +106,6 @@ Fed 'has some work to do on inflation,' KC Fed chief says The State
 
 Schmid Says Fed Has More Work To Do to Bring Down Inflation Bloomberg.com
 
-**Wall Street Week Ahead: Nvidia earnings, Anthropic IPO, Federal Reserve minutes, retail sales - Top things to watch - Livemint**
-`15 Nov 23:32 PKT` · pehli baar dekhi `16 Nov 03:01` · gnews_fed
-
-Wall Street Week Ahead: Nvidia earnings, Anthropic IPO, Federal Reserve minutes, retail sales - Top things to watch Livemint
-
 **Israel's October CPI Eases to 1.1% YoY, Extending Disinflation Trend**
 `15 Nov 22:27 PKT` · instaforex
 
@@ -104,6 +135,11 @@ Eric Daugherty: Scott Bessent calls for Federal Reserve to stop focusing on infl
 `15 Nov 19:43 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_fed
 
 Latin American currencies face dollar pressure amid anticipation of Fed decisions. صوت الإمارات
+
+**Fed And OCC Believe Banks Are Strong, But Non-Bank Risks Are Growing - Forbes**
+`15 Nov 18:41 PKT` · pehli baar dekhi `16 Nov 06:55` · gnews_fed
+
+Fed And OCC Believe Banks Are Strong, But Non-Bank Risks Are Growing Forbes
 
 **The Fed Is Raising Rates the Slow Way. History Says the Pace Matters More Than the Hike. - The Globe and Mail**
 `15 Nov 17:25 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_fed · **2 feeds mein**
@@ -184,6 +220,11 @@ IBM CEO Arvind Krishna Re-elected to New York Fed Board Through 2029 indica News
 
 ### EUR
 
+**ECB's Nagel says another rate hike 'highly probable' as energy prices push inflation - investingLive**
+`16 Nov 02:51 PKT` · pehli baar dekhi `16 Nov 06:55` · gnews_centralbanks
+
+ECB's Nagel says another rate hike 'highly probable' as energy prices push inflation investingLive
+
 **Morocco becomes first Arab nation in FIFA's top five men's rankings**
 `15 Nov 22:33 PKT` · pehli baar dekhi `16 Nov 03:01` · aljazeera
 
@@ -232,9 +273,10 @@ NatWest (NYSE: NWG) And Lloyds (NYSE: LYG) Headline Three UK Lenders Positioned 
 Bank of England Faces Fresh Rate Pressure as UK Inflation Test Looms The Eastern Herald
 
 **Bank of England signals further rate rises into 2027 - https://www.facilitiesmanagement-now.com/**
-`15 Nov 14:02 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_centralbanks
+`15 Nov 14:02 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_centralbanks · **2 feeds mein**
 
 Bank of England signals further rate rises into 2027 https://www.facilitiesmanagement-now.com/
+  - `15 Nov 14:02` *gnews_centralbanks* — Bank of England signals further rate rises into 2027 - https://www.facilitiesmanagement-now.com/
 
 **Bank of England Bank Rate 4%: Business and Mortgage Costs - JournalArta**
 `15 Nov 13:31 PKT` · pehli baar dekhi `15 Nov 15:45` · gnews_centralbanks
@@ -251,7 +293,17 @@ Experts issue new message on £1,000 savings allowance after Bank of England rat
 
 Bank of England Eyes Rapid Interest Rate Rise as Inflation Nears 5% JournalArta
 
+**BOE likely to raise rates further in 2027 - Forex Factory**
+`15 Nov 07:41 PKT` · pehli baar dekhi `16 Nov 06:55` · gnews_centralbanks
+
+BOE likely to raise rates further in 2027 Forex Factory
+
 ### JPY
+
+**Economic and event calendar in Asia, Monday, November 16, 2026. BoJ, China data, Japan GDP.**
+`16 Nov 02:01 PKT` · pehli baar dekhi `16 Nov 06:55` · investinglive
+
+Busy session coming up: 1. Japan Q3 GDP, preliminary (23:50 GMT / 6:50 pm ET Sunday) Consensus: +0.1% q/q and +0.3% annualised, down from +0.4% q/q and +1.4% annualised in Q2. The deflator is expected to hold at 2.6% y/y. Preview: In a poll of 16 economists, the median estimate is 0.3% annualised growth for July to September, with weaker consumption and external demand outweighing a recovery in capital spending.
 
 **Japan Interest Rate Forecast: BOJ Hike Bets Rise as USD/JPY Tests 160 - FXEmpire**
 `15 Nov 17:27 PKT` · pehli baar dekhi `15 Nov 22:27` · gnews_centralbanks
@@ -463,6 +515,13 @@ Arthur Hayes Says Fed Rate Hikes Will Prompt Wealthy Investors To Buy More Bitco
 **Ethereum Falls 10% In Rout**
 `15 Nov 06:04 PKT` · pehli baar dekhi `15 Nov 08:05` · investing_news
 
+### RATES
+
+**Roughed-Up Bond Traders Look to Fedspeak, Minutes for Next Move - Bloomberg.com**
+`16 Nov 01:00 PKT` · pehli baar dekhi `16 Nov 06:55` · gnews_fed
+
+Roughed-Up Bond Traders Look to Fedspeak, Minutes for Next Move Bloomberg.com
+
 ### RISK
 
 **Russia stocks lower at close of trade; MOEX Russia Index unchanged**
@@ -472,6 +531,11 @@ Arthur Hayes Says Fed Rate Hikes Will Prompt Wealthy Investors To Buy More Bitco
 `16 Nov 02:19 PKT` · pehli baar dekhi `16 Nov 03:01` · aljazeera
 
 Yemen's Houthis have released 600 people imprisoned during the country's civil war.
+
+**Jensen Huang weighs Nvidia comeback days after quitting over scandal, FT reports**
+`16 Nov 02:12 PKT` · pehli baar dekhi `16 Nov 06:55` · investinglive
+
+The comeback talk adds a new layer of uncertainty to Nvidia shares going into Tuesday's results, and traders now have two outcomes to price: an outside successor or a return of the founder. A Huang return could ease worries about execution during the product ramp, but it would bring back regulatory and China-export risk while US inquiries are still open.
 
 **Who can force Israel to implement Gaza ceasefire deal?**
 `16 Nov 01:37 PKT` · pehli baar dekhi `16 Nov 03:01` · aljazeera
@@ -603,7 +667,7 @@ The Fed's battle against inflation risks turning into a forever war as Iran 'sta
 
 'No need for panic booking': Centre assures 100% domestic LPG supply amid Iran war's energy crisis شبكة تواصل الإخبارية
 
-### BINA TAG (119)
+### BINA TAG (120)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -692,6 +756,7 @@ The Fed's battle against inflation risks turning into a forever war as Iran 'sta
 - `15 Nov 11:28` **gnews_fed** — Tomorrow X Together's Federal Reserve: "One year, two comebacks — we pull off the impossible" [Star On-Site] - 스타뉴스
 - `15 Nov 11:27` **cointelegraph** — RWA protocol stUSDT winds down three years after $2.3B TVL peak
 - `15 Nov 11:11` **aljazeera** — Secret votes and vetoes: How will the next UN chief be picked?
+- `15 Nov 11:11` **gnews_centralbanks** — Warning for 2.3 million UK homeowners as 'deals expire in 2027' - Wales Online
 - `15 Nov 10:07` **gnews_centralbanks** — Experts explains how Irish homeowners can save over €650 a month on their mortgage repayments - Irish Mirror
 - `15 Nov 10:05` **aljazeera** — Francophone summit opens in Cambodia amid Rwanda-DR Congo rift
 - `15 Nov 09:44` **aljazeera** — New York Democratic Socialists urge Ocasio-Cortez to run for US president
@@ -743,45 +808,45 @@ investing_news (26)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 0 | 1 | 24 | 0.2 |
+| investinglive | OK | 25 | 17 | 16 | 1 | 8 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | WARN | 20 | 0 | 0 | 0 | 20 | 1.5 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.3 |
-| instaforex | OK | 25 | 9 | 1 | 8 | 16 | -0.2 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.5 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 66.1 |
+| actionforex | OK | 20 | 1 | 1 | 0 | 19 | 0.1 |
+| marketpulse | OK | 3 | 1 | 1 | 0 | 2 | 0.0 |
+| instaforex | OK | 25 | 16 | 7 | 9 | 9 | -0.2 |
+| wsj_economy | OK | 36 | 2 | 1 | 1 | 34 | 0.0 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 66.3 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 40 | 40 | 12 | 28 | 0 | 0.0 |
-| gnews_geopolitics | OK | 33 | 33 | 10 | 23 | 0 | 0.0 |
-| gnews_centralbanks | OK | 18 | 18 | 4 | 14 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.5 |
-| boj_whatsnew | OK | 43 | 0 | 0 | 0 | 43 | 3.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 9.9 |
-| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 2.0 |
-| oilprice | OK | 15 | 5 | 2 | 3 | 10 | 0.0 |
-| investing_commodities | OK | 10 | 3 | 0 | 3 | 7 | 0.8 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
-| bbc_business | OK | 57 | 3 | 0 | 3 | 54 | 0.3 |
-| aljazeera | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 10.3 |
-| eia_energy | OK | 26 | 0 | 0 | 0 | 26 | 2.3 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 11.4 |
-| wsj_world | OK | 70 | 10 | 4 | 6 | 60 | 0.0 |
-| wsj_markets | OK | 61 | 6 | 2 | 4 | 55 | 0.2 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| gnews_fed | OK | 45 | 45 | 16 | 29 | 0 | 0.0 |
+| gnews_geopolitics | OK | 33 | 33 | 7 | 26 | 0 | 0.0 |
+| gnews_centralbanks | OK | 23 | 23 | 10 | 13 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.8 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.7 |
+| boj_whatsnew | OK | 42 | 0 | 0 | 0 | 42 | 3.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 10.1 |
+| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 2.1 |
+| oilprice | OK | 15 | 5 | 0 | 5 | 10 | 0.2 |
+| investing_commodities | OK | 10 | 5 | 2 | 3 | 5 | 0.1 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| bbc_business | OK | 57 | 7 | 3 | 4 | 50 | 0.0 |
+| aljazeera | OK | 25 | 25 | 10 | 15 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.7 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 10.4 |
+| eia_energy | OK | 26 | 0 | 0 | 0 | 26 | 2.5 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 11.5 |
+| wsj_world | OK | 70 | 11 | 1 | 10 | 59 | 0.2 |
+| wsj_markets | OK | 61 | 9 | 3 | 6 | 52 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 5 | 0 | 5 | 25 | 0.3 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 7 | 2 | 5 | 23 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
