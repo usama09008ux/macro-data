@@ -1,13 +1,31 @@
 # News Pack — Trading Day 16 Nov 2026
 
 - Trading day: **16 Nov 03:00 -> 17 Nov 02:59 PKT**
-- Aakhri update: **16 Nov 14:15 PKT**
-- Kul khabrein: **242**
-- Feeds: 28/39 OK
+- Aakhri update: **17 Nov 00:41 PKT**
+- Kul khabrein: **513**
+- Feeds: 32/39 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**Warsh, Opening Remarks**
+`16 Nov 22:00 PKT` · pehli baar dekhi `17 Nov 00:41` · fed_speeches
+
+Speech At the Productivity and Jobs Task Force Conference, hosted by the Federal Reserve Board and the Federal Reserve Bank of San Francisco, San Francisco, California
+
+**Tech stocks drag equity futures lower ahead of Fed remarks.**
+`16 Nov 21:47 PKT` · pehli baar dekhi `17 Nov 00:41` · cme_metals_video
+
+Bob Iaccino of Path Trading Partners breaks down today's market action as U.S. equity futures trade lower, led by a 2.12% drop in E-mini Nasdaq-100 futures alongside declines in metals, crude oil and Bitcoin futures. Treasury yields edge down slightly from last week's highs. Traders are watching for remarks from Fed Chair Kevin Warsh and New York Fed President John Williams in San Francisco regarding artificial intelligence, productivity and the labor market.
+
+**Frank Elderson: Smart supervision for small banks**
+`16 Nov 18:00 PKT` · pehli baar dekhi `17 Nov 00:41` · ecb_press
+
+**Barr, Some Potential Financial Stability Implications of Artificial Intelligence**
+`16 Nov 15:00 PKT` · pehli baar dekhi `17 Nov 00:41` · fed_speeches
+
+Speech At the Seventh Annual Association for Computing Machinery International Conference on Artificial Intelligence in Finance, Milan, Italy
 
 **Boris Vujčić: Risks and resilience in the euro area financial system**
 `16 Nov 13:30 PKT` · pehli baar dekhi `16 Nov 14:15` · ecb_press
@@ -26,6 +44,41 @@
 ## Khabrein
 
 ### MARKET WRAP
+
+**Yen Leads, Aussie Sinks as AI Selloff Spreads, but Bonds Offer Little Shelter**
+`16 Nov 19:05 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex
+
+Yen gained against all seven major peers on Monday and Australian Dollar weakened across the board as an AI-led equity selloff spread, with South Korea's KOSPI down 3.59% and Japan's Nikkei 225 down 2.42%, while European equities were broadly stable and US Dow futures lost only 0.10%. Treasuries offered little shelter, with the two-year yield down just 1.4bps to 4.838% and the 10-year yield down 1.0bp to 5.129%.
+
+**investingLive European news wrap: Risk sentiment remains negative**
+`16 Nov 17:37 PKT` · pehli baar dekhi `17 Nov 00:41` · investinglive
+
+Articles: Zcash needs a dovish Fed or a US-Iran breakthrough to reverse the bearish trend FX option expiries for 16 November 10am New York cut Crude oil remains supported amid the prolonged US-Iran standoff and risks of military escalation Trade Tech Solutions adds perpetuals to its prop firm technology following prediction markets launch What Does Big Tech's AI Spending Tell Us About Nvidia's Sales?
+
+**Zcash needs a dovish Fed or a US-Iran breakthrough to reverse the bearish trend**
+`16 Nov 16:06 PKT` · pehli baar dekhi `17 Nov 00:41` · investinglive
+
+Zcash has come under significant selling pressure over the past few days as the broader crypto selloff, driven by hawkish Fed repricing and US-Iran tensions, weighed on risk sentiment. The main culprit was Fed Governor Waller's very hawkish speech, in which he floated the possibility of a larger 50 bps hike at the December meeting. His remarks triggered a quick hawkish repricing, which was then exacerbated by the higher than expected US CPI data.
+
+**FX option expiries for 16 November 10am New York cut**
+`16 Nov 15:28 PKT` · pehli baar dekhi `17 Nov 00:41` · investinglive
+
+EUR/USD 1.1200 (EUR 1.48 bn) 1.1100 (EUR 1.18 bn) USD/JPY 160.00 (US$ 1.52 bn) 159.00 (US$ 1.24 bn) GBP/USD 1.3200 (GBP 564.00 mn) USD/CHF 0.8400 (US$ 634.73 mn) USD/CAD 1.4310 (US$ 334.27 mn) 1.4110 (US$ 500.08 mn) AUD/USD 0.6920 (AUD 409.38 mn) What are FX option expiries? The FX option expiration price levels refer to the strike prices where option contracts are set to expire. These levels include both calls and puts.
+
+**FOMC minutes, Nvidia earnings, Russia's retail crypto rules: Crypto Week Ahead - CoinDesk**
+`16 Nov 14:23 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+FOMC minutes, Nvidia earnings, Russia's retail crypto rules: Crypto Week Ahead CoinDesk
+
+**Hawkish Fed repricing and Iran tensions trigger a major Bitcoin liquidation wave**
+`16 Nov 14:21 PKT` · pehli baar dekhi `17 Nov 00:41` · investinglive
+
+Bitcoin faced a big wave of liquidations over the past few days as the hawkish Fed repricing tightened financial conditions, weighing on the crypto market. The culprit was of course the very hawkish Fed's Waller speech in which he also floated the idea of a larger 50 bps hike at the December meeting. His remarks triggered a strong hawkish repricing which was then exacerbated by the hotter than expected US CPI data.
+
+**Market outlook for the week of 16th - 20th November**
+`16 Nov 14:08 PKT` · pehli baar dekhi `17 Nov 00:41` · investinglive
+
+Monday will start with inflation data from Canada and the Empire State Manufacturing Index in the U.S. Markets will also be watching Fed Chair Warsh's opening speech at the Federal Reserve Board's Productivity and Jobs Task Force conference in San Francisco. On Tuesday, the RBA will release its meeting minutes, while the U.K. will publish the average earnings index 3m/y, claimant count change, and the unemployment rate. In the U.S., markets will focus on the retail sales m/m data.
 
 **Gold threatens a major breakdown amid a more hawkish Fed. What to watch next?**
 `16 Nov 13:30 PKT` · pehli baar dekhi `16 Nov 14:15` · investinglive
@@ -74,6 +127,11 @@ Knot's line on fiscal discipline matters most for euro zone sovereign spreads, e
 
 ### GOLD
 
+**Gold price struggles even as New York Fed's Empire State survey weakens - Kitco**
+`16 Nov 18:32 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Gold price struggles even as New York Fed's Empire State survey weakens Kitco
+
 **Gold hits lowest level since September 2025 as Fed rate hike bets rise - Latest news from Azerbaijan**
 `16 Nov 14:14 PKT` · pehli baar dekhi `16 Nov 14:15` · gnews_fed
 
@@ -108,6 +166,316 @@ Gold edged higher, recovering some ground after shedding 4.5% last week but ling
 Gold hits over one-year low as firm dollar, Fed outlook weigh Reuters
 
 ### USD
+
+**US 6-Month Bill Auction Yield Rises to 4.310%, Extending Upward Trend**
+`17 Nov 00:41 PKT` · instaforex
+
+The latest U.S. 6-month Treasury bill auction saw yields climb to 4.310%, up from the previous level of 4.145%, according to data updated on 16 November 2026. The move marks a continued uptick in short-term government borrowing costs. The higher yield suggests investors are demanding slightly more compensation to hold short-term U.S. government debt, which can reflect shifting expectations for Federal Reserve policy, inflation, or broader money market conditions.
+
+**U.S. 3-Month T-Bill Yield Ticks Higher to 4.155%, Signaling Slight Firming in Short-Term Rates**
+`17 Nov 00:41 PKT` · instaforex
+
+The yield on the U.S. 3-month Treasury bill edged up at the latest auction, reaching 4.155% compared with 4.060% previously, according to data updated on 16 November 2026. The move marks a modest increase in short-term borrowing costs for the U.S. government and a slightly higher return for investors seeking low-duration, low-risk instruments.
+
+**Fed's Hammack reiterates case for slow, steady rate hikes -Bloomberg TV - Reuters**
+`17 Nov 00:34 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Fed's Hammack reiterates case for slow, steady rate hikes -Bloomberg TV Reuters
+
+**Nvidia Earnings Nov. 17: $109B Expected, Fed Minutes - shattered.io**
+`17 Nov 00:31 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Nvidia Earnings Nov. 17: $109B Expected, Fed Minutes shattered.io
+
+**Fed's Hammack Reiterates Preference for Small, Incremental Hikes - Bloomberg.com**
+`17 Nov 00:26 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Fed's Hammack Reiterates Preference for Small, Incremental Hikes Bloomberg.com
+
+**HBNB stock hits 52-week low at 4.15 USD**
+`17 Nov 00:25 PKT` · pehli baar dekhi `17 Nov 00:41` · investing_news
+
+**Supreme Court Turns Away Custodia's Bid for Direct Fed Payment Access - BigGo Finance**
+`16 Nov 23:55 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Supreme Court Turns Away Custodia's Bid for Direct Fed Payment Access BigGo Finance
+
+**Fed Chairman Warsh grapples with AI's potential economic impact, steers clear of its inflation risk - Boston Herald**
+`16 Nov 23:42 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed · **3 feeds mein**
+
+Fed Chairman Warsh grapples with AI's potential economic impact, steers clear of its inflation risk Boston Herald
+  - `16 Nov 23:10` *gnews_fed* — Fed Chairman Warsh grapples with AI's potential economic impact, steers clear of its inflation risk - Oskaloosa Herald
+  - `16 Nov 23:10` *gnews_fed* — Fed Chairman Warsh grapples with AI's potential economic impact, steers clear of its inflation risk - News-Press NOW
+
+**Fed Chairman Highlights Economic Uncertainty of A.I. Boom - The New York Times**
+`16 Nov 23:35 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Fed Chairman Highlights Economic Uncertainty of A.I. Boom The New York Times
+
+**U.S. Retail Sales and Fed Minutes Are Scheduled for Nov. 17-18 - www.tokenpost.com**
+`16 Nov 23:34 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+U.S. Retail Sales and Fed Minutes Are Scheduled for Nov. 17-18 www.tokenpost.com
+
+**Canada's Trimmed CPI Holds Steady at 1.8% in October, Signalling Stable Core Inflation**
+`16 Nov 23:30 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+Canada's trimmed Consumer Price Index (CPI), a key gauge of underlying inflation, remained unchanged at 1.8% year-over-year in October 2026, matching the revised 1.8% reading recorded in September 2026. The data, updated on 16 November 2026, indicate that core price pressures are holding steady rather than accelerating or easing further. The trimmed CPI strips out the most volatile price components to provide a clearer view of underlying inflation trends.
+
+**Canada's Median CPI Edges Up to 2.0% in October, Topping September's 1.9%**
+`16 Nov 23:30 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+Canada's median Consumer Price Index (CPI) ticked higher in October 2026, rising to 2.0% year-over-year from 1.9% in September, according to data updated on 16 November 2026. The move signals a modest firming in underlying inflation pressures compared with the previous month. Both the current and previous readings are calculated on a year-over-year basis, comparing each month's price changes to the same month a year earlier.
+
+**Canada's October CPI Holds at 3.1% Year-over-Year, Matching September Reading**
+`16 Nov 23:30 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+Canada's consumer inflation rate remained unchanged in October 2026, with the Consumer Price Index (CPI) rising 3.1% year-over-year, the same pace recorded in September 2026. According to data updated on 16 November 2026, the October figure shows no acceleration or slowdown in annual price growth compared with the prior month. On a year-over-year basis, both the "previous" reading for September and the "actual" October reading reflect the change in prices versus the same month a year earlier.
+
+**Canada's Monthly Inflation Edges Up in October, CPI Rises to 0.2% M/M**
+`16 Nov 23:30 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+Canada's consumer price growth firmed slightly in October 2026, with the month-over-month Consumer Price Index (CPI) rising 0.2%, up from a 0.1% increase in September 2026. The latest data, updated on 16 November 2026, show a modest acceleration in price pressures on a monthly basis. The October reading means prices grew at twice the pace seen in the prior month, although the overall move remains incremental.
+
+**Canada's Core CPI Rebounds in October, Signalling Renewed Price Pressures**
+`16 Nov 23:30 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+Canada's core Consumer Price Index (CPI) rose 0.4% month-over-month in October 2026, a notable acceleration from the flat 0.0% reading recorded in September 2026. The data, updated on 16 November 2026, indicate a renewed pickup in underlying price pressures after a pause in core inflation the previous month.
+
+**Canada's Common CPI Edges Up to 2.5% in October, Extending Mild Inflation Upswing**
+`16 Nov 23:30 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+Canada's common Consumer Price Index (CPI) inched higher in October 2026, rising to 2.5% year-over-year from 2.4% in September, according to data updated on 16 November 2026. The common CPI measure compares price changes in a given month to the same month a year earlier, providing a view of underlying inflation trends. The latest reading suggests a modest firming in inflation pressures, with October's 2.5% rate marking a slight acceleration from September's 2.4% pace.
+
+**Fed is modeling how the AI boom could change the economy - Washington Examiner**
+`16 Nov 23:18 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Fed is modeling how the AI boom could change the economy Washington Examiner
+
+**Warsh outlines 3 possible SI futures for US economy, from growth boom to job losses - WSTM**
+`16 Nov 23:16 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed · **2 feeds mein**
+
+Warsh outlines 3 possible SI futures for US economy, from growth boom to job losses WSTM
+  - `16 Nov 22:37` *gnews_fed* — Warsh outlines 3 possible AI futures for US economy, from growth boom to job losses - KFOX
+
+**Fed's Barr says AI agents could fuel future bank runs - American Banker**
+`16 Nov 23:14 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Fed's Barr says AI agents could fuel future bank runs American Banker
+
+**The Fed is modeling how AI could transform jobs, productivity and markets as Kevin Warsh weighs its implications for America's economic and global power**
+`16 Nov 23:09 PKT` · pehli baar dekhi `17 Nov 00:41` · wsj_economy
+
+The Fed chairman questions whether the U.S. can remain a superpower without leading in artificial intelligence.
+
+**Warsh Says Fed Is Gaming Out How AI Could Reshape Economy - WSJ**
+`16 Nov 23:09 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Warsh Says Fed Is Gaming Out How AI Could Reshape Economy WSJ
+
+**Poland's Core Inflation Eases to 2.9% in October, Slipping Below September Reading**
+`16 Nov 23:00 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+Poland's core Consumer Price Index (CPI) slowed to 2.9% year-over-year in October 2026, down from 3.1% in September 2026, according to data updated on 16 November 2026. The figure measures price changes excluding volatile components, comparing October 2026 to the same month a year earlier. The latest reading marks a modest deceleration in underlying inflation pressures, with the pace of core price growth easing for the second consecutive month.
+
+**How will AI shake up the economy? Warsh says the Fed is starting to figure that out. - MarketWatch**
+`16 Nov 22:53 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed · **2 feeds mein**
+
+How will AI shake up the economy? Warsh says the Fed is starting to figure that out. MarketWatch
+  - `16 Nov 22:53` *mw_topstories* — How will AI shake up the economy? Warsh says the Fed is starting to figure that out.
+
+**How could superintelligence affect jobs, productivity and monetary policy? Fed assesses implications - www.tmgm.com**
+`16 Nov 22:47 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+How could superintelligence affect jobs, productivity and monetary policy? Fed assesses implications www.tmgm.com
+
+**Warsh grapples with AI's potential economic impact, steers clear of its inflation risk - Orange County Register**
+`16 Nov 22:43 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Warsh grapples with AI's potential economic impact, steers clear of its inflation risk Orange County Register
+
+**Fed Chair Kevin Warsh Speaks Live Today on AI and Tech - Barron's**
+`16 Nov 22:30 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Fed Chair Kevin Warsh Speaks Live Today on AI and Tech Barron's
+
+**Fed chair Kevin Warsh says AI boom could help sustain 'substantially higher' US growth - Financial Times**
+`16 Nov 22:26 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Fed chair Kevin Warsh says AI boom could help sustain 'substantially higher' US growth Financial Times
+
+**Fed's Barr warns on AI risks to financial system - Reuters**
+`16 Nov 22:23 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Fed's Barr warns on AI risks to financial system Reuters
+
+**Fed warns of growing financial risks from AI boom - Axios**
+`16 Nov 22:18 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Fed warns of growing financial risks from AI boom Axios
+
+**Fed's Warsh sees risk of stock bust if AI boom disappoints - Axios**
+`16 Nov 22:18 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Fed's Warsh sees risk of stock bust if AI boom disappoints Axios
+
+**Supreme Court rejects Custodia Bank's bid for Fed master account - The Block**
+`16 Nov 22:15 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Supreme Court rejects Custodia Bank's bid for Fed master account The Block
+
+**Fed's Warsh says emerging technologies will have 'significant impact,' but risks need to be watched - Reuters**
+`16 Nov 22:06 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Fed's Warsh says emerging technologies will have 'significant impact,' but risks need to be watched Reuters
+
+**Fed's Warsh doesn't talk about monetary policy in a speech on AI**
+`16 Nov 22:06 PKT` · pehli baar dekhi `17 Nov 00:41` · investinglive
+
+Warsh delivered comments at the Productivity and Jobs Task Force Conference in San Francisco and there's nothing market-moving in them. Highlights of the speech: Calls the current era possibly "the most transformational period in my adult lifetime" AI (he calls it SI) "could supercharge idea generation" and sustain growth substantially above the long-run average Productivity growth has been "reasonably strong" in recent quarters but hasn't yet broken out "definitively and structurally to the ...
+
+**Fed examines superintelligence's impact on jobs, productivity and monetary policy - www.tmgm.com**
+`16 Nov 22:01 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Fed examines superintelligence's impact on jobs, productivity and monetary policy www.tmgm.com
+
+**Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could 'disappoint' - CNBC**
+`16 Nov 22:00 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could 'disappoint' CNBC
+
+**Nigeria's Food Inflation Eases Slightly to 19.13% in October 2026**
+`16 Nov 22:00 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+Nigeria's food inflation eased marginally in October 2026, with the year-over-year rate slipping to 19.13% from 19.59% in September 2026, according to data updated on 16 November 2026. The figures reflect a modest deceleration in food price growth, offering a small measure of relief after a sustained period of elevated food inflation. Both the current and previous readings are based on year-over-year comparisons, measuring price changes against the same month a year earlier.
+
+**Nigeria's Annual Inflation Eases in October as CPI Growth Slows to 14.06%**
+`16 Nov 22:00 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+Nigeria's consumer price inflation eased in October 2026, with the year-over-year Consumer Price Index (CPI) rising 14.06%, down from 14.63% recorded in September 2026. The data, updated on 16 November 2026, indicate a modest slowdown in price growth across the economy. Both the current and previous readings are calculated on a year-over-year basis, comparing each month to the same month a year earlier.
+
+**Fed's Warsh Says Staff Are Gaming Out Contingencies on AI Impact - Bloomberg.com**
+`16 Nov 22:00 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Fed's Warsh Says Staff Are Gaming Out Contingencies on AI Impact Bloomberg.com
+
+**Fed's Kevin Warsh to hear from tech leaders on SI's impact on jobs, economy - KCBY**
+`16 Nov 21:53 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed · **3 feeds mein**
+
+Fed's Kevin Warsh to hear from tech leaders on SI's impact on jobs, economy KCBY
+  - `16 Nov 21:51` *gnews_fed* — Fed's Kevin Warsh to hear from tech leaders on SI's impact on jobs, economy - KATU
+  - `16 Nov 21:50` *gnews_fed* — Fed's Kevin Warsh to hear from tech leaders on SI's impact on jobs, economy - WPDE
+
+**U.S. inflation report highlights strain of rising food, energy and housing costs - PBS**
+`16 Nov 21:40 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+U.S. inflation report highlights strain of rising food, energy and housing costs PBS
+
+**Supreme Court Rejects Custodia's Fed Master Account Appeal - Blockonomi**
+`16 Nov 21:04 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Supreme Court Rejects Custodia's Fed Master Account Appeal Blockonomi
+
+**Brazil's IGP‑10 Inflation Cools Sharply to 0.8% in November from 1.8%**
+`16 Nov 21:00 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+Brazil's IGP‑10 inflation index decelerated in November 2026, rising 0.8% month-over-month, down from a 1.8% increase recorded in October 2026. The latest data, updated on 16 November 2026, signals a significant loss of momentum in price pressures compared with the previous month.
+
+**Israel's Annualized GDP Growth Cools Sharply to 8.0% in Q3 2026**
+`16 Nov 21:00 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+Israel's economic momentum eased in the third quarter of 2026, with annualized GDP growth slowing to 8.0%, down from a revised 15.4% in the second quarter. The latest data, updated on 16 November 2026, signal a significant moderation in the pace of expansion on a quarter-over-quarter annualized basis. The figures show that while the Israeli economy remains firmly in positive territory, the intensity of growth has nearly halved compared with the previous period.
+
+**Supreme Court rejects Custodia Bank appeal over Fed master account - Quartz**
+`16 Nov 20:15 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Supreme Court rejects Custodia Bank appeal over Fed master account Quartz
+
+**Housing crunch weighs on employers' ability to hire, Boston Fed chief says - Mainebiz**
+`16 Nov 19:38 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Housing crunch weighs on employers' ability to hire, Boston Fed chief says Mainebiz
+
+**Fed's Barr warns AI could speed bank runs and destabilize markets - Cryptopolitan**
+`16 Nov 19:25 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Fed's Barr warns AI could speed bank runs and destabilize markets Cryptopolitan
+
+**Mpls Fed: Ag lenders hopeful that farmers' tough economic situation will improve - MPR News**
+`16 Nov 19:17 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Mpls Fed: Ag lenders hopeful that farmers' tough economic situation will improve MPR News
+
+**NY Fed's Nordstrom flags resilience of foreign exchange markets - Reuters**
+`16 Nov 19:14 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+NY Fed's Nordstrom flags resilience of foreign exchange markets Reuters
+
+**Fed Considers 50 Basis Point Hike Amid October Inflation - Funds Society**
+`16 Nov 19:13 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Fed Considers 50 Basis Point Hike Amid October Inflation Funds Society
+
+**Surprise! Canadian Inflation Steady as She Goes in October**
+`16 Nov 19:06 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex
+
+Headline CPI inflation was 3.1% year-on-year (y/y) in October unchanged from 3.1% in September, and one tenth below market expectations. Gasoline prices remained a key source of inflationary pressure in October, up 30.9% y/y from 27.8% in September. Grocery inflation heated up in October. Prices for food purchased from stores rose 2.0% y/y up from [&#8230;] The post Surprise! Canadian Inflation Steady as She Goes in October appeared first on ActionForex.
+
+**COMMENTARY: Warsh's honeymoon period is over - Reuters**
+`16 Nov 19:02 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+COMMENTARY: Warsh's honeymoon period is over Reuters
+
+**FOMC Members Miss No Forward Guidance Memo As Fed Cuts Policy Meetings (NYSEARCA:SPY) - Seeking Alpha**
+`16 Nov 19:00 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+FOMC Members Miss No Forward Guidance Memo As Fed Cuts Policy Meetings (NYSEARCA:SPY) Seeking Alpha
+
+**A Perfect Storm for the Dollar**
+`16 Nov 18:35 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex
+
+High inflation is prolonging the dollar's rally. Treasury yields are rising on the back of hawkish rhetoric from the Fed. The US dollar posted its best weekly performance since May, driven by several positive factors. The market continued to react to stronger-than-expected US labour market and inflation data, compounded by hawkish rhetoric from FOMC officials. [&#8230;] The post A Perfect Storm for the Dollar appeared first on ActionForex.
+
+**US November Empire Manufacturing index +7.80 vs +18.00 expected**
+`16 Nov 18:30 PKT` · pehli baar dekhi `17 Nov 00:41` · investinglive
+
+Prior was +25.50 Full report The New York Fed's Empire State Manufacturing Index fell 18 points to 7.8 in November, remaining in expansionary territory but signalling a loss of momentum following October's strong increase. New orders and shipments continued to grow modestly, while unfilled orders increased and delivery times lengthened. Inventories also moved higher, although supply availability remained constrained. The labour market indicators strengthened significantly.
+
+**Why the AI trade is a macro trade: the risks to the US economy**
+`16 Nov 18:05 PKT` · pehli baar dekhi `17 Nov 00:41` · investinglive
+
+The massive investment required to develop AI infrastructure has become an increasingly important driver of US economic growth, while also influencing inflation and interest rates. This means that the US economy has become vulnerable to a slowdown in this investment cycle. The development of AI has required enormous capital expenditure. Hyperscalers and technology companies have been investing heavily in data centres, semiconductors, networking equipment and electricity infrastructure.
+
+**Arvind Krishna wins reelection to New York Fed board - The American Bazaar**
+`16 Nov 16:38 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Arvind Krishna wins reelection to New York Fed board The American Bazaar
+
+**Fed's Barr says AI agents could speed up bank runs and push markets into herd trading - MLQ.ai**
+`16 Nov 16:36 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Fed's Barr says AI agents could speed up bank runs and push markets into herd trading MLQ.ai
+
+**November U.S. Factory Report Tests Inflation Pressure Monday as Markets Price In December Rate Hike - TipRanks**
+`16 Nov 16:23 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+November U.S. Factory Report Tests Inflation Pressure Monday as Markets Price In December Rate Hike TipRanks
+
+**Stocks' New Headache? The Fed Could Raise Rates Well Into 2027 - Barron's**
+`16 Nov 16:00 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Stocks' New Headache? The Fed Could Raise Rates Well Into 2027 Barron's
+
+**U.S. Treasury Yields Decline but Fed Rate-Hike Prospects in Focus - WSJ**
+`16 Nov 15:03 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed · **2 feeds mein**
+
+U.S. Treasury Yields Decline but Fed Rate-Hike Prospects in Focus WSJ
+  - `16 Nov 12:29` *wsj_markets* — U.S. Treasury Yields Decline but Fed Rate-Hike Prospects in Focus
+
+**Treasury prices catch a small bid as stock market weakens and Warsh says AI might 'disappoint' - CNBC**
+`16 Nov 14:17 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Treasury prices catch a small bid as stock market weakens and Warsh says AI might 'disappoint' CNBC
 
 **Turkey's Budget Gap Narrows in October, Easing From Record Deficit Levels**
 `16 Nov 14:15 PKT` · instaforex
@@ -159,6 +527,11 @@ Malawi's consumer price inflation eased in October 2026, with the year-on-year C
 
 Exclusive Interview with Former Federal Reserve Vice Chairman Kohn: The Higher Hidden Cost of the Fed Holding Interest Rates Unraised 36Kr
 
+**There's Now a 100% Chance of a Fed Rate Hike in December -- but That's Not the Worst News for Wall Street - The Motley Fool**
+`16 Nov 14:06 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+There's Now a 100% Chance of a Fed Rate Hike in December -- but That's Not the Worst News for Wall Street The Motley Fool
+
 **Peru's Jobless Rate Holds Steady at 4.4% in November Update**
 `16 Nov 14:00 PKT` · pehli baar dekhi `16 Nov 14:15` · instaforex
 
@@ -194,11 +567,6 @@ Thailand's economy returned to positive territory in the third quarter of 2026, 
 
 Thailand's economy gained momentum in the third quarter of 2026, with year-over-year GDP growth rising to 2.9%, up from 1.9% in the second quarter of 2026. The latest data, updated on 16 November 2026, highlight an improvement in the country's economic performance after a slower expansion earlier in the year. Both the current and previous readings are measured on a year-over-year basis, comparing each quarter's output with the same period a year earlier.
 
-**U.S. Treasury Yields Decline but Fed Rate-Hike Prospects in Focus**
-`16 Nov 12:29 PKT` · pehli baar dekhi `16 Nov 14:15` · wsj_markets
-
-Treasury yields fell during Asian trading on Monday, a sign of tentative stabilization following last week's significant increases.
-
 **Asian Economies Face Economic Headwinds**
 `16 Nov 12:12 PKT` · pehli baar dekhi `16 Nov 14:15` · actionforex
 
@@ -223,6 +591,16 @@ Wall Street Slams Fed's Rate Freeze; Bank of Korea Also Criticized 조선일보
 `16 Nov 11:14 PKT` · pehli baar dekhi `16 Nov 14:15` · wsj_markets
 
 The 10-year Treasury yield fell and TD Securities said 10-year yields are worth buying in phases of weakness.
+
+**Federal Reserve Chair Warsh & Tech Executives on the Economic Impact of AI - C-SPAN**
+`16 Nov 10:00 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Federal Reserve Chair Warsh & Tech Executives on the Economic Impact of AI C-SPAN
+
+**Fed Chair Warsh Hosts Fireside Chat With Gina Raimondo and Marc Andreessen - C-SPAN**
+`16 Nov 10:00 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Fed Chair Warsh Hosts Fireside Chat With Gina Raimondo and Marc Andreessen C-SPAN
 
 **China Industrial Output Slows to 4.8%, Retail Sales Growth Falls to 0.4%**
 `16 Nov 08:39 PKT` · pehli baar dekhi `16 Nov 14:15` · actionforex
@@ -306,6 +684,11 @@ Boston Fed President Flags Broadening Inflation, Hints at Further Hikes While St
 
 Anthropic's IPO is reportedly six times oversubscribed ahead of its anticipated 19 November Nasdaq debut, potentially valuing the AI developer at US$1.4 trillion. However, US$900.9 billion in infrastructure commitments, moderating revenue growth and declining capital productivity raise valuation concerns. A weak post-IPO performance could trigger broader AI stock repricing. Technically, ANT pre-IPO perpetual futures remain bearish below 103.20, with 100.70 the key downside trigger.
 
+**Supreme Court Rejects Custodia's Fed Account Appeal - The Defiant**
+`16 Nov 05:57 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Supreme Court Rejects Custodia's Fed Account Appeal The Defiant
+
 **Weekend: Bessent urges Nvidia to hire an outsider CEO, pouring cold water on a Huang comeback**
 `16 Nov 05:34 PKT` · pehli baar dekhi `16 Nov 06:55` · investinglive
 
@@ -361,7 +744,114 @@ Kansas City Fed President Warns on 3.6% Inflation, Says Fed Still Has "Work to D
 
 He united traffickers to form the Guadalajara Cartel, creating a multibillion-dollar business built on political protection and violence.
 
+**Federal Reserve 'has some work to do on inflation,' Kansas City Fed chief says - The Business Times**
+`16 Nov 03:12 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Federal Reserve 'has some work to do on inflation,' Kansas City Fed chief says The Business Times
+
 ### EUR
+
+**French 12-Month BTF Yields Climb to 3.389%, Extending Upward Trend**
+`17 Nov 00:00 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+The yield on France's 12-month BTF (Bons du Trésor à taux fixe et à intérêts précomptés) rose to 3.389%, up from the previous level of 3.215%, according to data updated on 16 November 2026. The move marks a further increase in short-term borrowing costs for the French government.
+
+**French 6-Month BTF Yields Edge Higher to 3.158% in Latest Auction**
+`17 Nov 00:00 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+Yields on French 6-month Treasury bills (BTFs) rose at the latest auction, with the average rate reaching 3.158%, up from the previous level of 2.994%. The move signals a modest increase in short-term funding costs for the French government. The updated figures, published on 16 November 2026, show that investors are demanding slightly higher returns to hold France's short-dated debt compared with the prior auction.
+
+**Yield on French 3-Month BTF Eases as Short-Term Funding Costs Edge Lower**
+`17 Nov 00:00 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+The yield on France's 3-month BTF (Bon du Trésor à taux fixe et à intérêts précomptés) declined at the latest auction, signaling a modest easing in short-term funding costs for the French Treasury. The result, updated on 16 November 2026, showed the yield slipping to 2.708%, down from the previous level of 2.823%. The move lower suggests a slight improvement in financing conditions at the very short end of the French yield curve, as investors accepted a reduced return on the three-month paper.
+
+**Euronext wheat climbs on euro weakness and Black Sea disruption**
+`16 Nov 23:47 PKT` · pehli baar dekhi `17 Nov 00:41` · investing_commodities
+
+**LIVE: Germany vs Netherlands – UEFA Nations League**
+`16 Nov 22:15 PKT` · pehli baar dekhi `17 Nov 00:41` · aljazeera
+
+Previews, team news and live text commentary as Germany host the Netherlands in league&#039;s final Group A2 football match.
+
+**UEFA backs France's Philippe Diallo to challenge Infantino in FIFA election**
+`16 Nov 21:46 PKT` · pehli baar dekhi `17 Nov 00:41` · aljazeera
+
+French Football Federation chief Diallo emerges as a strong challenger in FIFA&#039;s upcoming presidential election.
+
+**Euro Zone Reserve Assets Slip in October, Extending Downward Trend**
+`16 Nov 21:00 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+Euro zone reserve assets declined in October 2026, signaling a further easing in the region's external buffers. Total reserves fell to 1,762.49 billion euros, down from 1,808.92 billion euros recorded in September 2026. The latest figures, updated on 16 November 2026, indicate a notable monthly contraction in reserve holdings.
+
+**German 12-Month Bubill Yield Eases as Auction Signals Slight Cooling in Short-Term Rates**
+`16 Nov 20:30 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+Germany's latest 12-month Bubill auction showed a modest decline in short-term borrowing costs, with the yield easing to 2.868% from a previous 2.949%, according to data updated on 16 November 2026. The move suggests a slight softening in funding rates for the German government at the short end of the curve, potentially reflecting shifting expectations around monetary policy and inflation dynamics in the euro area.
+
+**UniCredit's Commerzbank Bid Gets EU, U.S. Approval**
+`16 Nov 20:13 PKT` · pehli baar dekhi `17 Nov 00:41` · wsj_world
+
+The European Union's merger regulator approved UniCredit's bid to take control of Germany's Commerzbank, clearing a key regulatory hurdle for a takeover that has been two years in the making and previously faced opposition in Berlin.
+
+**Euro Zone Industrial Slump Deepens as September Output Falls 1.5% Year-on-Year**
+`16 Nov 20:00 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+Euro zone industrial production contracted further in September 2026, underscoring persistent weakness in the bloc's manufacturing sector. Output fell 1.5% year-on-year, according to data updated on 16 November 2026, marking a sharper decline than in August, when production was down 1.1% compared with a year earlier.
+
+**Euro Area Industrial Output Returns to Growth in September After August Slump**
+`16 Nov 20:00 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+Industrial production in the Euro Zone edged back into positive territory in September 2026, offering a tentative sign of stabilization in the region's manufacturing sector. Month-over-month output rose 0.2%, reversing the 0.5% decline recorded in August 2026. The data, updated on 16 November 2026, show that while the rebound is modest, it marks a clear improvement from the previous month's contraction.
+
+**Sunset Market Commentary**
+`16 Nov 19:57 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex
+
+Markets Dutch newspaper "de Volkskrant" reports that Klaas Knot is anticipated to withdraw from the race to run for ECB president this week. Unidentified EU diplomats say that the contest is over after Germany and France appear to back the candidacy of his only rival, Pablo Hernandez de Cos. The current head of the Bank [&#8230;] The post Sunset Market Commentary appeared first on ActionForex.
+
+**Infantino made things worse at FIFA than Blatter, says Jurgen Klopp**
+`16 Nov 19:36 PKT` · pehli baar dekhi `17 Nov 00:41` · aljazeera
+
+The Germany coach believes anyone who replaces the FIFA president should care deeply about the future of football.
+
+**EUR/USD Daily Outlook**
+`16 Nov 17:44 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex · **5 feeds mein**
+
+Intraday bias in EUR/USD remains on the downside. Current fall should target 1.0904 fibonacci level. On the upside, above 1.1072 minor resistance will turn bias neutral and bring consolidations. But outlook will stay bearish as long as 1.1272 resistance holds, in case of recovery. In the bigger picture, current development suggests that fall from 1.2081 [&#8230;] The post EUR/USD Daily Outlook appeared first on ActionForex.
+  - `16 Nov 17:23` *actionforex* — EUR/JPY Daily Outlook
+  - `16 Nov 16:23` *actionforex* — EUR/GBP Daily Outlook
+  - `16 Nov 16:21` *actionforex* — EUR/AUD Daily Outlook
+  - `16 Nov 16:18` *actionforex* — EUR/CHF Daily Outlook
+
+**EURUSD – Bears May Pause for Consolidation Before Break of Psychological 1.10 Support**
+`16 Nov 16:14 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex
+
+The Euro remains in red for the fifth consecutive day and hit new 2026 low on Monday, with psychological 1.10 support being under strong pressure (the price came just ticks ahead of support). Last week's fresh weakness signaled continuation of larger downtrend on break of five-week range base, reinforced by 200WMA, with bearish signal being [&#8230;] The post EURUSD – Bears May Pause for Consolidation Before Break of Psychological 1.10 Support appeared first on ActionForex.
+
+**Eurozone industrial production ticked up but still unimpressive in September**
+`16 Nov 16:05 PKT` · pehli baar dekhi `17 Nov 00:41` · ing_think
+
+The increase of 0.2% compared to August still leaves production well below levels seen in 2025. Despite optimistic manufacturing surveys, industrial production is not showing signs of a rebound
+
+**Eurozone Industrial Production Rises 0.2%, but Deeper Annual Decline Clouds Outlook**
+`16 Nov 15:50 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex
+
+Eurozone industrial production returned to modest growth in September, rising 0.2% mom after a 0.5% contraction in August, but fell short of market expectations for a 0.3% increase. The rebound ended three consecutive months of declining output, although annual production deteriorated further, with the contraction deepening from 1.1% to 1.5% yoy.
+
+**Singapore, Germany test cross-border FX settlement with CBDCs**
+`16 Nov 15:49 PKT` · pehli baar dekhi `17 Nov 00:41` · cointelegraph
+
+Project Simbolon aims to reduce the cost and time of cross-border settlement and promote common standards for payments and FX
+
+**EUR/USD: Growing expectations of a hawkish Federal Reserve keep the exchange rate under sustained pressure - Moomoo**
+`16 Nov 15:06 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+EUR/USD: Growing expectations of a hawkish Federal Reserve keep the exchange rate under sustained pressure Moomoo
+
+**Eurozone Bond Yields Hold Steady as Investors Await Nvidia Earnings and Federal Reserve Signals - Yahoo Finance UK**
+`16 Nov 14:47 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Eurozone Bond Yields Hold Steady as Investors Await Nvidia Earnings and Federal Reserve Signals Yahoo Finance UK
 
 **ECB Urges Overhauls to Protect Financial System From AI, Government Debt**
 `16 Nov 14:08 PKT` · pehli baar dekhi `16 Nov 14:15` · wsj_markets
@@ -391,6 +881,17 @@ ECB bond market intervention warning from Governor Knot. Can't replace sound fis
 
 ### GBP
 
+**GBP/USD Daily Outlook**
+`16 Nov 17:39 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex · **2 feeds mein**
+
+Intraday bias in GBP/USD remains on the downside for retesting 1.3135 low. Firm break there will target 1.3008 key support. On the upside, above 1.3282 minor resistance will turn intraday bias neutral. In the bigger picture, price actions from 1.3867 are a corrective pattern within the broader up trend from 1.0351 (2022 low). With 1.3008 [&#8230;] The post GBP/USD Daily Outlook appeared first on ActionForex.
+  - `16 Nov 17:26` *actionforex* — GBP/JPY Daily Outlook
+
+**GBP/USD Needs Support**
+`16 Nov 14:16 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex
+
+GBP/USD starts the new week around 1.3210. Over the past week, the pair lost about 0.9%, with the pound under pressure mainly from another round of strong US inflation data. The Producer Price Index (PPI) rose 6.5% year-on-year in October, the fastest pace since November 2022. The figure came in slightly below the forecast but [&#8230;] The post GBP/USD Needs Support appeared first on ActionForex.
+
 **BoE's Megan Greene backs proactive rate hikes to contain inflation risks - The Economic Times**
 `16 Nov 12:52 PKT` · pehli baar dekhi `16 Nov 14:15` · gnews_centralbanks
 
@@ -407,6 +908,16 @@ Bank of England's Lombardelli Signals Another Rate Rise Likely in Near Term WSJ
 BoE's Pill: Further rate rises needed to combat inflation FXStreet
 
 ### JPY
+
+**Forget the petro-dollar, introducing the chip-dollar**
+`16 Nov 20:28 PKT` · pehli baar dekhi `17 Nov 00:41` · investinglive
+
+Deutsche Bank's Mallika Sachdeva is out with a big-picture note arguing that semiconductors have quietly become one of the most important drivers of the US dollar. The headline stat is a stunner: for the first time in modern history, global trade in semiconductors exceeds trade in oil and gas. That's based on the four quarters through Q2 2026. More important for FX is where the surpluses are piling up.
+
+**USD/JPY Daily Outlook**
+`16 Nov 17:42 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex
+
+Intraday bias in USD/JPY remains neutral first. On the upside, firm break of 160.38 will target 100% projection of 152.87 to 159.02 from 156.06 at 162.21. However, break of 157.65 will indicate short term topping, and bring deeper fall to 156.06 support. In the bigger picture, current development suggests that the first leg of the [&#8230;] The post USD/JPY Daily Outlook appeared first on ActionForex.
 
 **Japan's Industrial Output Slips to 2.0% in September, Easing From August Momentum**
 `16 Nov 14:30 PKT` · pehli baar dekhi `16 Nov 14:15` · instaforex
@@ -550,7 +1061,60 @@ Japan's GDP shrinks 0.1% as high living costs weigh on consumer spending Firstpo
 
 A flat quarter made weak mainly by trade is unlikely to derail BoJ tightening plans by itself. Strong capex and positive domestic demand are the parts policymakers watch most closely. The miss still gives the yen little help just as USD/JPY presses toward 160, and that raises the stakes for any comments from Japanese officials on the currency. JGB yields may ease slightly at the front end if traders trim December hike bets.
 
+### CHF
+
+**USD/CHF Daily Outlook**
+`16 Nov 17:37 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex
+
+Intraday bias in USD/CHF remains on the upside. Decisive break of 0.8394 will resume whole rally from 0.7603 and target 0.8590 fibonacci level, which is close to 100% projection of 0.7948 to 0.8394 from 0.8125. On the downside, below 0.8310 minor support will delay the bullish case and turn bias neutral. In the bigger picture, [&#8230;] The post USD/CHF Daily Outlook appeared first on ActionForex.
+
 ### CAD
+
+**Canada's Core Inflation Eases to 2.0% in October, Edging Closer to BoC Target**
+`16 Nov 23:30 PKT` · pehli baar dekhi `17 Nov 00:41` · instaforex
+
+Canada's core Consumer Price Index (CPI) slowed to 2.0% year-over-year in October 2026, down from 2.2% in September, according to data updated on 16 November 2026. The core measure, which strips out volatile items to give a clearer view of underlying inflation trends, is now sitting exactly at the Bank of Canada's official inflation target.
+
+**Tiff Macklem should have been fired, not celebrated**
+`16 Nov 22:51 PKT` · pehli baar dekhi `17 Nov 00:41` · investinglive
+
+Tiff Macklem announced that he will retire after his seven-year term ends in June 2027. He should have left much sooner. It continues to baffle me that no central banker paid the price for the disastrous covid inflation. In no other high-profile field in the world is incompetence tolerated to the extent it is in central banking. It's a field that's protected both by government independence and a culture that accepts failure.
+
+**Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader**
+`16 Nov 22:10 PKT` · pehli baar dekhi `17 Nov 00:41` · wsj_economy · **2 feeds mein**
+
+The decision marks the unofficial start of the race to be Canada's chief central banker, who would take over as the economy undergoes a transition to reduce its dependence on trade with the U.S. to drive growth.
+  - `16 Nov 22:10` *wsj_world* — Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader
+
+**Canada Inflation Holds Steady at 3.1% in October**
+`16 Nov 21:06 PKT` · pehli baar dekhi `17 Nov 00:41` · wsj_economy
+
+Canadian inflation steadied last month, though households faced broad price pressures with higher costs for gas, groceries and clothing.
+
+**Canada CPI Holds at 3.1%, but Softer Core Inflation Challenges Further BoC Tightening**
+`16 Nov 18:42 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex
+
+Canada&#8217;s inflation rate is still above 3%, but the latest figures suggest that price pressures beneath the headline are considerably less threatening. Annual CPI held at 3.1% in October, undershooting expectations for 3.2%, while monthly inflation came in at 0.2% against a 0.3% forecast.
+
+**Canada October CPI 3.1% vs +3.2% expected**
+`16 Nov 18:30 PKT` · pehli baar dekhi `17 Nov 00:41` · investinglive
+
+Prior was 3.1% Unrounded 3.09%, unchanged from Prior CPI +0.2% m/m vs +0.3% expected BOC core 2.0% y/y vs 2.2% prior BOC core +0.4% m/m vs +0.0% prior CPI median 2.0% vs 2.0% expected (prior was 1.9%) CPI trim 1.8% vs 1.9% expected (prior was 1.8%) CPI common 2.5% vs 2.4% prior Details, October vs September (y/y unless noted) Rent +1.7% vs +2.8% Shelter +1.4% vs +1.8% Property taxes +3.8% vs +5.6% (priced once a year, in October) Homeowners' replacement cost -2.1% vs -1.9% Services +2.1% vs ...
+
+**USD/CAD Daily Outlook**
+`16 Nov 17:30 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex
+
+Intraday bias in USD/CAD remains neutral first. On the upside, decisive break above 1.4298 high will resume the rally from 1.3480. Next target is 100% projection of 1.3730 to 1.4298 from 1.3928 at 1.4496. On the downside, below 1.4223 will turn bias to the downside for deeper pullback. In the bigger picture, current development argues [&#8230;] The post USD/CAD Daily Outlook appeared first on ActionForex.
+
+**Canadian Natural's $1.77 billion Advantage takeover fuels Alberta oil expansion**
+`16 Nov 15:45 PKT` · pehli baar dekhi `17 Nov 00:41` · mining_com
+
+The Canadian energy giant will acquire Advantage Energy's Montney assets as consolidation in the oilpatch accelerates.
+
+**Bank of Canada Governor Tiff Macklem to step down in June 2027**
+`16 Nov 15:00 PKT` · pehli baar dekhi `17 Nov 00:41` · boc_press
+
+The Board of Directors of the Bank of Canada announced today that Governor Tiff Macklem has informed them that he will not seek a second term as Governor when his seven-year term expires on June 2, 2027.
 
 **Russia out of IIHF World Junior Ice Hockey as Canada refuses entry**
 `16 Nov 13:20 PKT` · pehli baar dekhi `16 Nov 14:15` · aljazeera
@@ -568,6 +1132,11 @@ GBP/CAD faces back-to-back inflation tests, Canada CPI today and UK CPI on Wedne
 The countries accuse Israel of preventing tents and other supplies from entering Gaza, despite the humanitarian crisis.
 
 ### AUD
+
+**AUD/USD Daily Report**
+`16 Nov 17:35 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex
+
+Intraday bias in AUD/USD remains on the downside. Decisive break of 0.6756 fibonacci level will target 100% projection of 0.7237 to 0.6893 from 0.7067 at 0.6723. On the upside, above 0.6814 minor resistance will turn intraday bias neutral first. In the bigger picture, price action from 0.7277 medium term top is seen as developing into [&#8230;] The post AUD/USD Daily Report appeared first on ActionForex.
 
 **The Australian Dollar In Search Of A New Floor**
 `16 Nov 11:34 PKT` · pehli baar dekhi `16 Nov 14:15` · actionforex
@@ -598,15 +1167,127 @@ New Zealand's services sector showed a modest pickup in momentum in October 2026
 
 ### OIL
 
+**Turkmenistan Races to Complete Key TAPI Pipeline Section by Year-End**
+`17 Nov 00:00 PKT` · pehli baar dekhi `17 Nov 00:41` · oilprice
+
+Turkmenistan seems poised to make good on a pledge to complete a section of the TAPI pipeline by the end of 2026. In early October, Myrat Archayev, deputy chair of the state-owned gas entity Turkmengaz, said in an interview that the pipeline section stretching from the Turkmen border at Serhetabat to the western Afghan hub of Herat would be finished by the end of 2026.
+
+**Northwest European diesel margins drop over 5% on Monday**
+`16 Nov 23:50 PKT` · pehli baar dekhi `17 Nov 00:41` · investing_commodities
+
+**India raises export duties on diesel and aviation fuel**
+`16 Nov 23:48 PKT` · pehli baar dekhi `17 Nov 00:41` · investing_commodities
+
+**Diamondback to Buy Double Eagle's Midland Stake for $5 Billion**
+`16 Nov 23:30 PKT` · pehli baar dekhi `17 Nov 00:41` · oilprice
+
+Diamondback Energy agreed on Monday to buy Double Eagle's 40% share of their Midland Basin partnership for cash and stock that Reuters valued at about $5.03 billion, a purchase that gives it a bigger share of wells it had already planned to drill without adding a rig. Diamondback formed the partnership in 2022, pairing its subsurface knowledge of the Midland Basin's emerging Barnett zone with Double Eagle's land expertise, Chief Executive Kaes Van't Hof said.
+
+**The Hidden Cost Holding Back Europe's Energy Innovators**
+`16 Nov 23:00 PKT` · pehli baar dekhi `17 Nov 00:41` · oilprice
+
+Europe's debate about startups usually ends with the same prescription: become more like America. Find bigger venture capital funds, accept more risk, and produce more billion-dollar companies. For energy, that diagnosis is incomplete. Europe does not simply need more money flowing into ambitious technologies. It needs a system in which an unsuccessful investment does not destroy the capacity to make the next one.
+
+**Illinois Ethanol Plant Bomb Is the Latest Threat to U.S. Energy Sites**
+`16 Nov 22:30 PKT` · pehli baar dekhi `17 Nov 00:41` · oilprice
+
+Authorities arrested a suspect Monday morning in the investigation into an explosive device found Friday at an Illinois ethanol plant that forced thousands of people out of downtown Peoria for 18 hours and shut Interstate 74 and a stretch of the Illinois River. Officials warned that a detonation at the BioUrja Renewables plant, which stores ethanol and other highly combustible chemicals, could have set off an explosion far larger than the device itself.
+
+**Venezuela's Oil Comeback Faces a New Threat From Washington**
+`16 Nov 22:00 PKT` · pehli baar dekhi `17 Nov 00:41` · oilprice
+
+The Democratic victory in the 2026 US midterm elections has given the party control of both chambers of Congress, limiting President Trump's domestic agenda from January 2027. However, foreign policy remains largely within the president's remit, as demonstrated by his interventions in Venezuela this year, from the capture of Nicolas Maduro to the reopening of the country's oil sector. These developments have highlighted how closely Venezuela's oil recovery is tied to decisions in Washington.
+
+**Europe Has Already Drained 10% of Its Summer Gas Injections**
+`16 Nov 21:30 PKT` · pehli baar dekhi `17 Nov 00:41` · oilprice
+
+Europe has not only entered the heating season with the lowest gas levels in storage sites in decades, but it has also withdrawn in recent weeks 10% of the natural gas injected during the summer filling season, leaving supply vulnerable to potentially extreme cold winter weather.
+
+**Houthi Advance Puts Saudi Crude Exports at Risk**
+`16 Nov 21:00 PKT` · pehli baar dekhi `17 Nov 00:41` · oilprice
+
+Houthi fighters have advanced to within 100 km of Aden, the temporary capital of Yemen's Saudi-backed government, after government forces withdrew from positions near the Bab el-Mandeb Strait, Yemeni military sources said on Monday. Tankers carrying Saudi crude from the Red Sea port of Yanbu to buyers in Asia pass through the strait. Brent crude futures fell 2.32% to $93.62 a barrel at 9:43 a.m. ET, and West Texas Intermediate (WTI) dropped 1.93% to 86.85.
+
+**Oil tankers hit sea mines in the Strait of Hormuz**
+`16 Nov 20:37 PKT` · pehli baar dekhi `17 Nov 00:41` · aljazeera
+
+Oil tankers hit sea mines in the Strait of Hormuz
+
+**China's Coal Power Generation Slumps as Wind and Solar Surge**
+`16 Nov 20:30 PKT` · pehli baar dekhi `17 Nov 00:41` · oilprice
+
+China's thermal power generation fell from a year earlier for the fourth consecutive month in October, with year-to-date thermal power output down by 0.1%, according to official data compiled by Bloomberg. In October alone, China's fossil fuel power generation, heavily dominated by coal, plunged by 7.3% compared to the same month last year, the data from China's National Bureau of Statistics showed on Monday.
+
+**Oil Prices Jump 6% as Iran Sets UAE Oil Port Ablaze, Strikes Vessels in Strait of Hormuz - EnergyNow.com**
+`16 Nov 20:28 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_geopolitics
+
+Oil Prices Jump 6% as Iran Sets UAE Oil Port Ablaze, Strikes Vessels in Strait of Hormuz EnergyNow.com
+
+**Ukraine Braces for Pivotal Week of Defense Talks Amid Fresh Russian Attacks**
+`16 Nov 20:00 PKT` · pehli baar dekhi `17 Nov 00:41` · oilprice
+
+As the peace process struggles on and air strikes continue, Ukrainian President Volodymyr Zelenskyy's government is preparing for two important gatherings this week -- a meeting of the so-called Ramstein Group followed by a Coalition of the Willing session, both coming as Russia shows no signs of compromise to end the war.
+
+**Oil prices fall as supply surplus outlook outweighs Middle East risks - The Eastern Herald**
+`16 Nov 19:54 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_geopolitics
+
+Oil prices fall as supply surplus outlook outweighs Middle East risks The Eastern Herald
+
+**European Gas Slumps on Milder Weather and Record U.S. LNG Flows**
+`16 Nov 19:30 PKT` · pehli baar dekhi `17 Nov 00:41` · oilprice
+
+European benchmark natural gas prices slumped in Amsterdam trade early on Monday as immediate supply concerns eased with forecasters expecting milder weather in the coming days and U.S. LNG flows hitting a record high this weekend. The front-month price at the Dutch Title Transfer Facility (TTF), the benchmark for Europe's gas trading, dipped by 3.3% as of 10:00 a.m. in Amsterdam on Monday, and traded at $96.85 (87.965 euros) per megawatt-hour (MWh).
+
+**Goldman Sachs gets bearish on oil prices but doesn't see help for consumers**
+`16 Nov 19:00 PKT` · pehli baar dekhi `17 Nov 00:41` · investinglive
+
+Goldman Sachs is out with its 2027 oil outlook and the title says it all: "Adaptation." The theme is that crude prices ran well above pre-war expectations this year, but not nearly as high as you would have guessed if you'd known how long the Hormuz disruptions would last. Mideast supply and global demand both adjusted better than anyone anticipated.
+
+**COP31 Electrification Pledge Stalls as Developing Nations Push Back**
+`16 Nov 18:30 PKT` · pehli baar dekhi `17 Nov 00:41` · oilprice
+
+The COP31 climate summit may end later this week without a pledge to boost electrification as major developing countries have signaled they would not support a firm commitment, anonymous sources with knowledge of the private talks told Bloomberg on Monday.
+
+**Oil prices fall as IEA forecasts global supply surplus - grafa.com**
+`16 Nov 18:27 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_geopolitics · **2 feeds mein**
+
+Oil prices fall as IEA forecasts global supply surplus grafa.com
+  - `16 Nov 13:38` *gnews_geopolitics* — Oil prices fall as IEA forecasts global supply surplus - grafa.com
+
+**Iran Cut Back Oil Production by 400,000 bpd, US Energy Secretary Says - EnergyNow.com**
+`16 Nov 18:17 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_geopolitics
+
+Iran Cut Back Oil Production by 400,000 bpd, US Energy Secretary Says EnergyNow.com
+
+**U.S. LNG Flows Hit Record High as Global Gas Supply Crisis Deepens**
+`16 Nov 17:30 PKT` · pehli baar dekhi `17 Nov 00:41` · oilprice
+
+U.S. LNG flows jumped to an all-time high this weekend as various projects ramp up production and shipments to markets in Europe and Asia that are reeling from the supply shock in the Middle East. Pipeline flows to U.S. LNG facilities surged to a record high of 21.8 billion cubic feet on Saturday, up by 12% from this time last year, data from BloombergNEF showed on Monday.
+
+**New North Sea Gas Supply Comes Online Amid Growing Political Backlash**
+`16 Nov 16:15 PKT` · pehli baar dekhi `17 Nov 00:41` · oilprice
+
+Natural gas started flowing from the Jackdaw production platform in the UK North Sea less than a month after Britain approved the project, but the future of a larger proposed oil and gas project, Rosebank, hangs in the balance amid a political backlash.
+
+**Crude oil remains supported amid the prolonged US-Iran standoff and risks of military escalation**
+`16 Nov 15:10 PKT` · pehli baar dekhi `17 Nov 00:41` · investinglive
+
+Crude oil has been bottoming out near the 87.00 handle as the market realised that the US-Iran standoff may drag on longer than expected, with the additional risk that Trump decides to pursue another military campaign. As a reminder, the culprit for the increase in prices was Trump's post on Truth Social stating that the US doesn't need a deal with Iran. Moreover, Trump warned that the US would not hesitate to take further military action if current measures fail to achieve objectives.
+
+**Iran Claims Two More Oil Tankers Hit Mines in Strait of Hormuz**
+`16 Nov 15:00 PKT` · pehli baar dekhi `17 Nov 00:41` · oilprice
+
+Two oil tankers exploded and caught fire in the Strait of Hormuz after hitting naval mines while attempting to transit the chokepoint via a southern route not authorized by Iran, the Islamic Revolutionary Guard Corps (IRGC) said on Monday, as Iranian reports of such incidents have intensified in recent days. The two tankers had attempted to pass through the route under the direct guidance of U.S. officers and with the support of U.S.
+
 **Oil Prices Rise as Fresh Attacks Renew Middle East Supply Concerns**
 `16 Nov 13:57 PKT` · pehli baar dekhi `16 Nov 14:15` · wsj_markets
 
 Oil prices rose Monday as traders weighed renewed attacks across the Middle East and threats to oil shipments through the Strait of Hormuz against expectations of a global supply surplus.
 
-**Oil prices fall as IEA forecasts global supply surplus - grafa.com**
-`16 Nov 13:38 PKT` · pehli baar dekhi `16 Nov 14:15` · gnews_geopolitics
+**Oil Prices Rebound as Middle East Supply Risks Persist - WSJ**
+`16 Nov 13:41 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_geopolitics
 
-Oil prices fall as IEA forecasts global supply surplus grafa.com
+Oil Prices Rebound as Middle East Supply Risks Persist WSJ
 
 **Goldman Sachs Warns of Massive Oil Glut in 2027**
 `16 Nov 13:30 PKT` · pehli baar dekhi `16 Nov 14:15` · oilprice
@@ -653,6 +1334,12 @@ Natural Gas and Oil Forecast: IEA Flags First Surplus Since Iran War, Can WTI Ho
 
 Oil prices decline amid expectations of global supply surplus Latest news from Azerbaijan
 
+**Oil Traders Shrug Off Iranian Drones Over Bahrain as Gulf Barrels Flow Back - BeInCrypto**
+`16 Nov 11:00 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_geopolitics · **2 feeds mein**
+
+Oil Traders Shrug Off Iranian Drones Over Bahrain as Gulf Barrels Flow Back BeInCrypto
+  - `16 Nov 08:04` *gnews_geopolitics* — Oil Traders Shrug Off Iranian Drones Over Bahrain as Gulf Barrels Flow Back - Yahoo Finance
+
 **Oil Prices Fall as Fears of a Global Supply Glut Return**
 `16 Nov 10:25 PKT` · pehli baar dekhi `16 Nov 14:15` · oilprice
 
@@ -678,10 +1365,10 @@ Iran-aligned Kataib Hezbollah says the group is subjected to &#039;blackmail&#03
 
 Goldman's path implies Brent averaging nearly $8 below current levels next year, and about $18 lower by end-2027. That gives oil bears a solid medium-term anchor. In the near term, though, the market is still driven by the war. Confirmation of the IRGC's tanker-sinking claims could quickly rebuild the risk premium that Goldman expects to fade. Monday's dip suggests traders are leaning toward the surplus story for now. The diesel forecast matters for inflation.
 
-**Oil Traders Shrug Off Iranian Drones Over Bahrain as Gulf Barrels Flow Back - Yahoo Finance**
-`16 Nov 08:04 PKT` · pehli baar dekhi `16 Nov 14:15` · gnews_geopolitics
+**Concerns over oversupply weigh on oil prices, but the U.S.-Iran standoff leaves markets in a dilemma - Moomoo**
+`16 Nov 08:24 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_geopolitics
 
-Oil Traders Shrug Off Iranian Drones Over Bahrain as Gulf Barrels Flow Back Yahoo Finance
+Concerns over oversupply weigh on oil prices, but the U.S.-Iran standoff leaves markets in a dilemma Moomoo
 
 **How oil prices changed after Iran's attack on Bahrain - Українські Національні Новини (УНН)**
 `16 Nov 07:38 PKT` · pehli baar dekhi `16 Nov 14:15` · gnews_geopolitics
@@ -694,7 +1381,13 @@ How oil prices changed after Iran's attack on Bahrain Українські На�
 Oil prices fall on expectations of coming supply surplus The Business Times
 
 **Oil prices fall on expectations of coming supply surplus**
-`16 Nov 07:06 PKT` · pehli baar dekhi `16 Nov 14:15` · investing_commodities
+`16 Nov 07:06 PKT` · pehli baar dekhi `16 Nov 14:15` · investing_commodities · **2 feeds mein**
+  - `16 Nov 06:58` *gnews_geopolitics* — Oil prices fall on expectations of coming supply surplus - CNBC
+
+**Oil falls as recovering Middle East exports bolster surplus outlook - Reuters**
+`16 Nov 07:00 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_geopolitics
+
+Oil falls as recovering Middle East exports bolster surplus outlook Reuters
 
 **Oil price analysis: Sellers are losing momentum, but $86.75 remains the danger line**
 `16 Nov 06:51 PKT` · pehli baar dekhi `16 Nov 14:15` · investinglive
@@ -767,6 +1460,76 @@ The Middle East crisis and the spiking oil and gas prices have shifted the Asian
 
 ### CRYPTO
 
+**Supreme Court Rejects Custodia Bank's Bid for Fed Master Account - The Crypto Times**
+`16 Nov 23:12 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Supreme Court Rejects Custodia Bank's Bid for Fed Master Account The Crypto Times
+
+**Nvidia turmoil tests Bitcoin miners' AI funding plans**
+`16 Nov 23:07 PKT` · pehli baar dekhi `17 Nov 00:41` · cointelegraph
+
+Nvidia's leadership upheaval and Texas permit restrictions sharpen the divide between miners with funded projects and those still seeking capital and approvals.
+
+**Retail Sales and Fed Minutes Put Bitcoin's Rate Outlook Back in Focus - TradingView**
+`16 Nov 23:00 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Retail Sales and Fed Minutes Put Bitcoin's Rate Outlook Back in Focus TradingView
+
+**Federal Reserve considers AI's impact on economy, potential rate hikes - Crypto Briefing**
+`16 Nov 22:57 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Federal Reserve considers AI's impact on economy, potential rate hikes Crypto Briefing
+
+**Supreme Court Rejects Crypto Bank Custodia's Bid for Fed Payment Access - Bloomberg.com**
+`16 Nov 21:50 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Supreme Court Rejects Crypto Bank Custodia's Bid for Fed Payment Access Bloomberg.com
+
+**Bitcoin price fails to hold $65K as US stocks drop further on AI nerves**
+`16 Nov 21:26 PKT` · pehli baar dekhi `17 Nov 00:41` · cointelegraph
+
+Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic's IPO announcement.
+
+**Supreme Court Ends Custodia's Fight For A Fed Account - Bitcoin Magazine**
+`16 Nov 20:24 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Supreme Court Ends Custodia's Fight For A Fed Account Bitcoin Magazine
+
+**Zelle picks Solana for ZelleUSD stablecoin and international payments**
+`16 Nov 19:55 PKT` · pehli baar dekhi `17 Nov 00:41` · cointelegraph
+
+Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts.
+
+**Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks**
+`16 Nov 18:29 PKT` · pehli baar dekhi `17 Nov 00:41` · cointelegraph
+
+Strategy bought 485 Bitcoin for $33.4 million and spent $228.1 million repurchasing STRC preferred shares, largely funded by new common stock sales.
+
+**Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings**
+`16 Nov 18:00 PKT` · pehli baar dekhi `17 Nov 00:41` · cointelegraph
+
+Eligible users can access up to 1,000 USDC in credit against their Bitcoin, Ether or BNB for purchases via Binance Card or QR Pay.
+
+**BTC price tags 18-week low into Nvidia earnings: Three things to know in Bitcoin this week**
+`16 Nov 15:39 PKT` · pehli baar dekhi `17 Nov 00:41` · cointelegraph
+
+Bitcoin traders awaited Nvidia Q3 earnings after BTC price selling pressure saw a dip below $62,000 at the weekend.
+
+**Stock Market Today: Nasdaq Slides as Nvidia Drama Continues**
+`16 Nov 15:00 PKT` · pehli baar dekhi `17 Nov 00:41` · wsj_markets
+
+U.S. moves to crack down on overseas players accessing advanced AI chips remotely; bitcoin under pressure
+
+**The Crypto Market Has Plummeted to $2.16T, Returning to Its Starting Point**
+`16 Nov 14:44 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex
+
+The crypto market capitalisation fell by 11% over the week to $2.19T, dipping to $2.16T on Sunday, the lowest level since 17 August. The Crypto Fear &#38; Greed Index plunged to 10, its lowest level since 10 June. Bitcoin dipped below $62K and is stabilising in the $64.3–65.3K range; the risk of a fall towards [&#8230;] The post The Crypto Market Has Plummeted to $2.16T, Returning to Its Starting Point appeared first on ActionForex.
+
+**Trade Tech Solutions adds perpetuals to its prop firm technology following prediction markets launch**
+`16 Nov 14:44 PKT` · pehli baar dekhi `17 Nov 00:41` · investinglive
+
+Trade Tech Solutions has expanded its prop firm technology to cover perpetuals, following the launch of its prediction markets trading infrastructure in May. The perpetuals offering, which went live in October, lets operators launch a perpetuals prop firm in as little as 25 days. Firms already using Trade Tech Solutions for CFDs, futures, crypto or sports can now add either market through their existing provider. The new markets run on infrastructure already operating at scale.
+
 **Harvard, Dartmouth keep Bitcoin ETF stakes steady as fund gains 42% in Q3**
 `16 Nov 13:27 PKT` · pehli baar dekhi `16 Nov 14:15` · cointelegraph
 
@@ -797,6 +1560,11 @@ Fed's Schmid signals potential rate hikes as inflation exceeds target Crypto Bri
 
 ### RATES
 
+**Is the Federal Reserve becoming more hawkish? - UBS**
+`16 Nov 18:33 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+
+Is the Federal Reserve becoming more hawkish? UBS
+
 **Ronaldinho comes out retirement for 45 mins in Italy's third division**
 `16 Nov 13:54 PKT` · pehli baar dekhi `16 Nov 14:15` · aljazeera
 
@@ -818,6 +1586,76 @@ Markets The Fed debate morphed last week from the need for additional tightening
 Aster's CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange remained operational.
 
 ### RISK
+
+**Analysis-AI selloff has investors scrambling to measure their true exposure**
+`17 Nov 00:18 PKT` · pehli baar dekhi `17 Nov 00:41` · investing_news
+
+**Watch What U.S. Aircraft Carriers Bring to the Iran War**
+`17 Nov 00:13 PKT` · pehli baar dekhi `17 Nov 00:41` · wsj_world
+
+Wall Street Journal journalists visited the USS George Washington to learn how the warships are taking the fight to Iran.
+
+**Micron, AMD and other AI stocks fall as the chip sector's selloff intensifies**
+`16 Nov 23:54 PKT` · pehli baar dekhi `17 Nov 00:41` · mw_topstories
+
+Investors are jittery about Nvidia's upcoming earnings and whether the company will scale back its financing of the AI ecosystem.
+
+**Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah**
+`16 Nov 22:18 PKT` · pehli baar dekhi `17 Nov 00:41` · aljazeera
+
+US pressure on Iraq to curb Tehran&#039;s influence leaves potential for direct confrontation with Iran-linked armed group.
+
+**Iran braces for natural gas shortages during winter energy imbalance**
+`16 Nov 21:58 PKT` · pehli baar dekhi `17 Nov 00:41` · aljazeera
+
+The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war.
+
+**U.S.-Iran War Slashes Supertanker Traffic, Oil Prices Steady - 조선일보**
+`16 Nov 20:39 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_geopolitics
+
+U.S.-Iran War Slashes Supertanker Traffic, Oil Prices Steady 조선일보
+
+**Why Starshield limits are hurting Ukraine against jet-powered drones**
+`16 Nov 19:58 PKT` · pehli baar dekhi `17 Nov 00:41` · aljazeera
+
+Ukraine&#039;s military has been relying on the internet service since December 2024 to intercept Russian drones.
+
+**U.S.-Iran war by the numbers: 18 U.S. troops killed, oil swings, $38 billion cost - qz.com**
+`16 Nov 19:55 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_geopolitics
+
+U.S.-Iran war by the numbers: 18 U.S. troops killed, oil swings, $38 billion cost qz.com
+
+**Iranian leaders fret over public mood as gas shortages add to war ills**
+`16 Nov 19:49 PKT` · pehli baar dekhi `17 Nov 00:41` · investing_commodities
+
+**Trump says he wouldn't mind seeing Huang reinstated as Nvidia CEO**
+`16 Nov 19:46 PKT` · pehli baar dekhi `17 Nov 00:41` · investinglive
+
+National security was not put at risk "I don't know that she was a spy at all" Don't know that the woman involved with Huang was a Chinese spy Having Huang go back is "not a bad idea" Huang "learned a lesson" On meeting Xi and Putin in China: We'll talk about denuclearization, Iran, Ukraine; economy and trade too Big meetings on the Asia trip will be mostly on economics May also meet with Kim Jong Un Not considering replacing Lutnick This whole thing was an incredible hit job coordinated by ...
+
+**Exclusive-Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say**
+`16 Nov 19:12 PKT` · pehli baar dekhi `17 Nov 00:41` · investing_commodities
+
+**Oil prices slip as IEA sees first supply surplus since Iran war began - Quartz**
+`16 Nov 18:24 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_geopolitics
+
+Oil prices slip as IEA sees first supply surplus since Iran war began Quartz
+
+**Ground View Pakistan: The miner who never mentioned the grade**
+`16 Nov 17:45 PKT` · pehli baar dekhi `17 Nov 00:41` · mining_com
+
+Robert Friedland discussed water, children, and war, but gave no grades, tonnage or price details.
+
+**Iran converts Parsi-82 exploration well into production well after review - Trend News Agency**
+`16 Nov 17:07 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_geopolitics
+
+Iran converts Parsi-82 exploration well into production well after review Trend News Agency
+
+**Eurozone Industrial Production Picked Up in September**
+`16 Nov 15:43 PKT` · pehli baar dekhi `17 Nov 00:41` · wsj_economy · **2 feeds mein**
+
+Eurozone industrial production rebounded in September, offering some relief to the sector, which has struggled to regain momentum amid persistently high energy costs driven by the war in Iran.
+  - `16 Nov 15:43` *wsj_world* — Eurozone Industrial Production Picked Up in September
 
 **IEA Says Oil Supply Tops Demand for First Time Since Iran War Began - https://houseofsaud.com/**
 `16 Nov 13:29 PKT` · pehli baar dekhi `16 Nov 14:15` · gnews_geopolitics
@@ -849,6 +1687,11 @@ The U.S. chip selloff on Friday spread to Asia, with Taiwan's Taiex leading regi
 
 Costa Rica&#039;s Rebeca Grynspan is the current frontrunner, polls suggest, but the US and Russia could veto her bid.
 
+**Iran fuel crisis deepens amid war and sanctions - DW.com**
+`16 Nov 10:54 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_geopolitics
+
+Iran fuel crisis deepens amid war and sanctions DW.com
+
 **Asian Currencies Consolidate, But May Be Weighed by Risk-Off Sentiment**
 `16 Nov 05:46 PKT` · pehli baar dekhi `16 Nov 06:55` · wsj_markets
 
@@ -869,12 +1712,98 @@ For markets, this is a non-event as long as the official record keeps showing no
 
 Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A "war room" has been set up by supporters to reinstate Nvidia boss Jensen Huang.
 
-### BINA TAG (60)
+### BINA TAG (146)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `17 Nov 00:34` **mw_topstories** — Bond-market volatility is exploding higher. It could be the new normal for investors.
+- `17 Nov 00:33` **wsj_markets** — Kalshi Buys Securities Firm to Expand Into Stock Trading
+- `17 Nov 00:31` **mw_topstories** — I'm in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?
+- `17 Nov 00:26` **aljazeera** — Five EU countries announce plan to send rejected asylum seekers to Rwanda
+- `17 Nov 00:25` **gnews_fed** — DigitalOcean, SoundHound AI, Oracle, MongoDB, and Fastly shares are falling, what you need to know - TradingView
+- `17 Nov 00:24` **investing_news** — Visa, Mastercard urge approval of $38 billion swipe fee settlement
+- `17 Nov 00:19` **investing_news** — Downdetector reports outages at major US banks
+- `17 Nov 00:19` **investing_news** — Italian banks get interest rate boon alongside M&A, fee boost
+- `17 Nov 00:19` **aljazeera** — Saudi Arabia dismisses commander of coalition forces fighting Houthis
+- `17 Nov 00:18` **investing_news** — US air travel largely returns to normal as funding fight brews
+- `17 Nov 00:18` **aljazeera** — Thousands report difficulties accessing accounts online at major US banks
+- `17 Nov 00:16` **bbc_business** — Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched
+- `17 Nov 00:14` **investing_news** — Microsoft 365 outage: what it means for the stock and market positioning
+- `17 Nov 00:12` **investing_news** — Charter Communications stock hits 52-week low at $20.71
+- `17 Nov 00:09` **aljazeera** — Is Israel's Eisenkot bloc less right wing than Netanyahu?
+- `17 Nov 00:07` **gnews_fed** — BPI Statement on Supreme Court Preserving Federal Reserve Discretion Over Master Accounts - Bank Policy Institute
+- `17 Nov 00:07` **investing_news** — California sues OpenAI over AI models' cyberattacks on Hugging Face, other companies
+- `17 Nov 00:06` **investing_news** — Intel, Micron among market cap stock movers on Monday
+- `16 Nov 23:45` **mw_topstories** — My husband is happily retired at 64 and thinks I should keep working. Is he being fair?
+- `16 Nov 23:42` **investinglive** — US banking websites are having problems
+- `16 Nov 23:38` **aljazeera** — Abdul El-Sayed's victory is a blow to the politics of Islamophobia
+- `16 Nov 23:30` **instaforex** — New York Manufacturing Momentum Cools Sharply in November
+- `16 Nov 23:22` **gnews_fed** — Supreme Court Leaves Custodia Bank Locked Out of Federal Reserve Payment System - PYMNTS.com
+- `16 Nov 23:13` **aljazeera** — British actor Robert Pattinson named as new James Bond
+- `16 Nov 23:11` **mw_topstories** — Nvidia's stock extends declines following harsh words from the U.S. government
+- `16 Nov 23:05` **bbc_business** — 'Parents are offering to pay kids' wages': Salon owner
+- `16 Nov 22:55` **wsj_markets** — Major U.S. Stock Indexes Slide as Nvidia Fallout Continues to Ripple Through Markets
+- `16 Nov 22:54` **aljazeera** — Cargo ship capsizes off Bulgaria's Black Sea coast
+- `16 Nov 22:49` **aljazeera** — Israeli court upholds detention of Palestinian land activist Ghassan Najjar
+- `16 Nov 22:49` **cointelegraph** — Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise
+- `16 Nov 22:43` **wsj_world** — Nvidia Scandal Threatens China's Charm Offensive Ahead of Trump Summit
+- `16 Nov 22:25` **gnews_fed** — Tracker: The Federal Reserve's Balance Sheet Assets - The American Action Forum
+- `16 Nov 22:24` **aljazeera** — Musk, Silicon Valley insiders urge Nvidia to restore Jensen Huang as CEO
+- `16 Nov 22:24` **wsj_world** — Trump Says He Might Meet With North Korea's Kim During Asia Trip
+- `16 Nov 22:19` **wsj_world** — Opinion | Against China, America's Current Tumult Has Advantages
+- `16 Nov 22:17` **investinglive** — Natural gas analysis with the "perfect" trading range
+- `16 Nov 22:10` **wsj_markets** — Activist Calls on Landlord Invitation Homes to Sell Houses 'One at a Time'
+- `16 Nov 22:09` **gnews_fed** — Federal Reserve flags AI upside and valuation risks for U.S. economy - Traders Union
+- `16 Nov 22:08` **aljazeera** — Trump denies responsibility for FAA nationwide ground stop
+- `16 Nov 22:00` **mining_com** — Rio pledges $250 million to address Panguna damage
+- `16 Nov 22:00` **instaforex** — Brazil's IBC-Br Activity Index Slips 0.2% in September, Reversing August Gain
+- `16 Nov 21:56` **aljazeera** — Israeli forces demolish the homes of two Palestinian prisoners
+- `16 Nov 21:56` **aljazeera** — Jerusalem Daily: Eisenkot wants Netanyahu out
+- `16 Nov 21:53` **gnews_fed** — Federal Reserve's Financial Stability Report Ignores Its Own Deregulation as a Major Risk - Better Markets
+- `16 Nov 21:50` **mining_com** — China's rare earth giants double profits as prices soar
+- `16 Nov 21:42` **investing_commodities** — US hyperscale data centers emit as much as Denmark, report says
+- `16 Nov 21:37` **gnews_fed** — John Marshall Bancorp and Eagle Financial Services Receive Federal Reserve Approval for $4.3B Bank Merger - citybiz
+- `16 Nov 21:25` **wsj_markets** — Former Buyout Execs Launch Secondaries Firm to Target Hidden-Gem Assets in Asia
+- `16 Nov 21:24` **mining_com** — Fireweed to receive $14 million in federal funding for Mactung
+- `16 Nov 21:14` **mining_com** — Scotia Metals targets hidden lithium in Brazil's Bahia
+- `16 Nov 20:27` **aljazeera** — Students protest as air pollution chokes New Delhi
+- `16 Nov 20:26` **aljazeera** — At least 17 killed in two South Africa mass shootings
+- `16 Nov 20:19` **gnews_fed** — Federal Reserve task force weighs AI's promise and risks - CNBC
+- `16 Nov 20:03` **mining_com** — Chile approval delay puts CleanTech lithium project on hold
+- `16 Nov 20:02` **wsj_markets** — U.S. Natural Gas Futures Start Week Lower
+- `16 Nov 19:50` **gnews_fed** — Andrew Ackerman: Supreme Court keeps rejection of Custodia master account by Federal Reserve Bank of Kansas City - Traders Union
+- `16 Nov 19:35` **aljazeera** — Belgium's Romelu Lukaku retires from international football
+- `16 Nov 19:33` **gnews_fed** — John Marshall Bancorp, Eagle Financial Services Receive Federal Reserve Bank of Richmond Approval for Merger - marketscreener.com
+- `16 Nov 19:25` **instaforex** — Israel's M1 Money Supply Swings from 6.7% Growth to 0.8% Contraction in October
+- `16 Nov 19:25` **aljazeera** — Russell Brand and the media that made him
+- `16 Nov 19:20` **aljazeera** — 'My arms are empty': Tragedy strikes Gaza family after baby dies from cold
+- `16 Nov 19:19` **cointelegraph** — Lighter pauses withdrawals after reported $10M account theft
+- `16 Nov 19:16` **gnews_fed** — Federal Reserve Approves John Marshall Bancorp (JMSB) Merger wit - GuruFocus
+- `16 Nov 19:14` **gnews_fed** — John Marshall Bancorp, Inc. And Eagle Financial Services, Inc. Announce Receipt Of Federal Reserve Approval To Complete Merger - TradingView
+- `16 Nov 19:10` **gnews_fed** — Trump Heads to Asia as Economic Week Focuses on Consumers | National News | U.S. News - U.S. News & World Report
+- `16 Nov 19:04` **gnews_fed** — Geographic differences in unemployment definitions - Federal Reserve Bank of St. Louis
+- `16 Nov 19:01` **gnews_fed** — Eagle Financial Services Announces Federal Reserve Merger Approval - TipRanks
+- `16 Nov 19:01` **gnews_fed** — John Marshall Bancorp Receives Federal Reserve Merger Approval - TipRanks
+- `16 Nov 19:00` **ing_think** — How Polish households are saving and investing in 2026
+- `16 Nov 18:55` **wsj_economy** — New York Manufacturing Activity Moderates from October Surge
+- `16 Nov 18:45` **aljazeera** — Houthis edge closer to Aden as Yemeni forces pull out of Bab al-Mandeb
+- `16 Nov 18:30` **gnews_fed** — John Marshall Bancorp, Inc. and Eagle Financial Services, Inc. Announce Receipt of Federal Reserve Approval to Complete Merger - Business Wire
+- `16 Nov 18:30` **cointelegraph** — Banks are banning AI agents over security... and competition concerns
+- `16 Nov 17:54` **cointelegraph** — HKMA, Swift explore tokenized deposits for cross-border bank payments
+- `16 Nov 17:33` **wsj_markets** — Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy
+- `16 Nov 17:30` **ing_think** — Dutch minority government hangs in the balance over divisive tax plan
+- `16 Nov 17:05` **mining_com** — Giant diamonds lift Lucara's 2026 revenue outlook
+- `16 Nov 16:36` **investing_commodities** — Morning Bid: Tech's telltale week
+- `16 Nov 16:27` **gnews_fed** — Nvidia Earnings, Anthropic IPO and Federal Reserve Outlook Among Five Key Market Events This Week - Yahoo Finance
+- `16 Nov 16:20` **wsj_markets** — When Nvidia Stumbled, Equal-Weight Funds Delivered
+- `16 Nov 15:30` **wsj_markets** — The Investors Set to Win Big in Anthropic's IPO
+- `16 Nov 15:30` **wsj_markets** — Big Tech Needs to Spread Its Bets on Data Centers
+- `16 Nov 15:18` **gnews_fed** — Federal Reserve flags AI financing and trading risks for U.S. financial stability - Traders Union
+- `16 Nov 14:56` **gnews_fed** — US Stock Futures Decline Ahead of Nvidia Earnings as Investors Await Federal Reserve Signals: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance
+- `16 Nov 14:42` **investinglive** — What Does Big Tech's AI Spending Tell Us About Nvidia's Sales?
 - `16 Nov 14:15` **instaforex** — Norway's Trade Surplus Widens Sharply in October to 121.4B NOK
 - `16 Nov 14:12` **investing_commodities** — Absent officially, unofficially 'America is all in' at COP31
+- `16 Nov 14:12` **gnews_fed** — Federal Reserve's Michelle Bowman to Open FSB Event on Oversight Principles - www.tokenpost.com
 - `16 Nov 14:10` **gnews_fed** — US Federal Reserve Names AI as Top Financial-Stability Risk as Data-Centre Debt Soars - iAfrica.com
 - `16 Nov 14:08` **investing_news** — Ninety One shares fall 6% on net outflows despite profit rise
 - `16 Nov 14:08` **investing_news** — Costco at 49x, Nvidia at 20x: did Black Friday for tech stocks arrive early?
@@ -950,49 +1879,50 @@ investing_news (6)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 13 | 12 | 1 | 7 | 0.0 |
-| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.3 |
-| instaforex | OK | 25 | 25 | 23 | 2 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 4 | 2 | 2 | 32 | 0.1 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 66.6 |
+| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.2 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.8 |
+| instaforex | OK | 25 | 25 | 24 | 1 | 0 | -0.1 |
+| wsj_economy | OK | 36 | 7 | 5 | 2 | 29 | 0.1 |
+| cme_metals_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
+| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
+| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
+| cme_daily_commentary | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 67.0 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 51 | 51 | 22 | 29 | 0 | 0.0 |
-| gnews_geopolitics | OK | 40 | 40 | 21 | 19 | 0 | 0.0 |
-| gnews_centralbanks | OK | 19 | 19 | 11 | 8 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.6 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| ecb_press | OK | 15 | 1 | 1 | 0 | 14 | 0.0 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.0 |
-| boj_whatsnew | OK | 44 | 3 | 3 | 0 | 41 | 0.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 10.4 |
-| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 2.4 |
-| oilprice | OK | 15 | 8 | 3 | 5 | 7 | 0.0 |
-| investing_commodities | OK | 10 | 8 | 3 | 5 | 2 | 0.0 |
-| ing_think | OK | 10 | 3 | 3 | 0 | 7 | 0.1 |
-| bbc_business | OK | 57 | 11 | 4 | 7 | 46 | 0.1 |
-| aljazeera | OK | 25 | 25 | 22 | 3 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 1 | 0 | 19 | 0.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 10.7 |
-| eia_energy | OK | 26 | 0 | 0 | 0 | 26 | 2.8 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 11.8 |
-| wsj_world | OK | 70 | 14 | 2 | 12 | 56 | 0.1 |
-| wsj_markets | OK | 60 | 18 | 9 | 9 | 42 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| gnews_fed | OK | 86 | 85 | 82 | 3 | 1 | 0.0 |
+| gnews_geopolitics | OK | 35 | 35 | 14 | 21 | 0 | 0.1 |
+| gnews_centralbanks | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.1 |
+| fed_speeches | OK | 15 | 2 | 2 | 0 | 13 | 0.1 |
+| ecb_press | OK | 15 | 2 | 1 | 1 | 13 | 0.3 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.4 |
+| boj_whatsnew | OK | 44 | 3 | 0 | 3 | 41 | 0.5 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 10.8 |
+| mining_com | OK | 36 | 8 | 8 | 0 | 28 | 0.1 |
+| oilprice | OK | 15 | 15 | 14 | 1 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| ing_think | OK | 10 | 6 | 3 | 3 | 4 | 0.2 |
+| bbc_business | OK | 56 | 11 | 2 | 9 | 45 | 0.0 |
+| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.4 |
+| boc_press | OK | 10 | 1 | 1 | 0 | 9 | 0.4 |
+| eia_energy | WARN | 26 | 0 | 0 | 0 | 26 | 3.2 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 12.3 |
+| wsj_world | OK | 70 | 12 | 7 | 5 | 58 | 0.0 |
+| wsj_markets | OK | 61 | 22 | 10 | 12 | 39 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 12 | 5 | 7 | 18 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 19 | 11 | 8 | 11 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
 - cme_risk_management — STALE, cadence 10d, magar 67d purana
-- kitco_general — FAIL, koi item nahi
+- kitco_general — FAIL, HTTP 429
+- gnews_centralbanks — FAIL, HTTP 429
 - yahoo_finance — FAIL, HTTP 404
