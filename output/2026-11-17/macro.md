@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 17 Nov 2026
 
-- Banaya gaya: **17 Nov 2026 19:55 PKT**
+- Banaya gaya: **18 Nov 2026 01:58 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
@@ -12,7 +12,7 @@
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
 | Fed funds target (upper) <br>`DFEDTARU` | **4.00%** | 0.0 | 0.0 | 0.0 | 25 | 2026-11-17 |
-| US 2Y yield <br>`DGS2` | **4.88%** | +0.02 | +0.42 | +0.11 | 95 | 2026-11-13 |
+| US 2Y yield <br>`DGS2` | **4.88%** | +0.02 | +0.42 | +0.11 | 96 | 2026-11-13 |
 | US 10Y yield <br>`DGS10` | **5.15%** | +0.05 | +0.31 | +0.05 | 98 | 2026-11-13 |
 | US 30Y yield <br>`DGS30` | **5.47%** | +0.04 | +0.22 | +0.04 | 98 | 2026-11-13 |
 | 10Y-2Y spread <br>`T10Y2Y` | **0.29%** | +0.02 | -0.06 | -0.06 | 42 | 2026-11-16 |
@@ -37,7 +37,7 @@
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
 | VIX <br>`VIXCLS` | **22.91** | +3.61 | +2.99 | +4.47 | 91 | 2026-11-16 |
-| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.23%** | +0.03 | -0.19 | -0.08 | 75 | 2026-11-13 |
+| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.34%** | +0.11 | 0.0 | +0.05 | 83 | 2026-11-16 |
 | Financial stress index <br>`STLFSI4` | **-0.49** | +0.0309 | -0.032 | +0.4559 | 74 | 2026-11-06 |
 
 ---
@@ -80,9 +80,9 @@
 
 | Kya | Treasury | Tareekh | FRED | FRED ki tareekh |
 |---|---|---|---|---|
-| 10Y | **5.12** | 2026-11-16 **←nayi** | 5.15 | 2026-11-13 |
-| 2Y | **4.83** | 2026-11-16 **←nayi** | 4.88 | 2026-11-13 |
-| 30Y | **5.46** | 2026-11-16 **←nayi** | 5.47 | 2026-11-13 |
-| 10Y real | **2.92** | 2026-11-16 **←nayi** | 2.91 | 2026-11-13 |
-| 5Y real | **2.68** | 2026-11-16 **←nayi** | 2.68 | 2026-11-13 |
+| 10Y | **5.10** | 2026-11-17 **←nayi** | 5.15 | 2026-11-13 |
+| 2Y | **4.80** | 2026-11-17 **←nayi** | 4.88 | 2026-11-13 |
+| 30Y | **5.46** | 2026-11-17 **←nayi** | 5.47 | 2026-11-13 |
+| 10Y real | **2.89** | 2026-11-17 **←nayi** | 2.91 | 2026-11-13 |
+| 5Y real | **2.64** | 2026-11-17 **←nayi** | 2.68 | 2026-11-13 |
 
