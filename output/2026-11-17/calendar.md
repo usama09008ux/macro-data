@@ -1,6 +1,6 @@
 # Calendar — Trading Day 17 Nov 2026
 
-- Banaya gaya: **17 Nov 2026 05:34 PKT**
+- Banaya gaya: **17 Nov 2026 09:44 PKT**
 - Trading day: **17 Nov 03:00 -> 18 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,8 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 07:00 | NZD | **HIGH** | Inflation Expectations q/q | - | 2.34% |
-| 09:30 | JPY | low | Tertiary Industry Activity m/m | 0.1% | -0.1% |
 | 12:00 | GBP | MED | Average Earnings Index 3m/y | 3.5% | 3.7% |
 | 12:00 | GBP | low | Claimant Count Change | 25.4K | 30.3K |
 | 12:00 | GBP | low | Unemployment Rate | 4.7% | 4.7% |
@@ -41,10 +39,10 @@
 | **18 Nov** 04:30 | AUD | low | MI Leading Index m/m | - | -0.1% |
 | **18 Nov** 04:50 | JPY | low | Trade Balance | -0.90T | -0.70T |
 | **18 Nov** 05:30 | AUD | MED | Wage Price Index q/q | 1.0% | 0.8% |
+| **18 Nov** 07:45 | EUR | low | German Buba President Nagel Speaks | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
-- `17 Nov 07:00` **NZD Inflation Expectations q/q**
 - `17 Nov 18:30` **USD Core Retail Sales m/m**
 - `17 Nov 18:30` **USD Retail Sales m/m**
 

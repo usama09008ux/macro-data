@@ -281,6 +281,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/889-us-fomc-member-goolsbee-speaks]]></url>
 	</event>
 	<event>
+		<title>RBNZ Gov Breman Speaks</title>
+		<country>NZD</country>
+		<date><![CDATA[11-17-2026]]></date>
+		<time><![CDATA[12:00am]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/927-nz-rbnz-gov-breman-speaks]]></url>
+	</event>
+	<event>
 		<title>Monetary Policy Meeting Minutes</title>
 		<country>AUD</country>
 		<date><![CDATA[11-17-2026]]></date>

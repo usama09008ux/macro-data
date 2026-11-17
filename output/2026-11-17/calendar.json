@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "17 Nov 2026 05:34",
+  "generated_pkt": "17 Nov 2026 09:44",
   "trading_day": "2026-11-17",
   "feed_sources": {
     "thisweek": "live"
@@ -367,6 +367,19 @@
       "utc": "2026-11-16T23:30Z",
       "pkt": "17 Nov 04:30",
       "pkt_iso": "2026-11-17T04:30:00+05:00",
+      "trading_day": "2026-11-17"
+    },
+    {
+      "title": "RBNZ Gov Breman Speaks",
+      "ccy": "NZD",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/927-nz-rbnz-gov-breman-speaks",
+      "all_day": false,
+      "utc": "2026-11-17T00:00Z",
+      "pkt": "17 Nov 05:00",
+      "pkt_iso": "2026-11-17T05:00:00+05:00",
       "trading_day": "2026-11-17"
     },
     {
