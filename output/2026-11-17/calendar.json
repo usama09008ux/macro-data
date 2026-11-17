@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "17 Nov 2026 09:44",
+  "generated_pkt": "17 Nov 2026 19:45",
   "trading_day": "2026-11-17",
   "feed_sources": {
     "thisweek": "live"
@@ -630,6 +630,19 @@
       "trading_day": "2026-11-17"
     },
     {
+      "title": "GDT Price Index",
+      "ccy": "NZD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "3.0%",
+      "url": "https://www.forexfactory.com/calendar/602-nz-gdt-price-index",
+      "all_day": false,
+      "utc": "2026-11-17T14:29Z",
+      "pkt": "17 Nov 19:29",
+      "pkt_iso": "2026-11-17T19:29:00+05:00",
+      "trading_day": "2026-11-17"
+    },
+    {
       "title": "FOMC Member Hammack Speaks",
       "ccy": "USD",
       "impact": "Low",
@@ -666,19 +679,6 @@
       "utc": "2026-11-17T15:00Z",
       "pkt": "17 Nov 20:00",
       "pkt_iso": "2026-11-17T20:00:00+05:00",
-      "trading_day": "2026-11-17"
-    },
-    {
-      "title": "GDT Price Index",
-      "ccy": "NZD",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "3.0%",
-      "url": "https://www.forexfactory.com/calendar/602-nz-gdt-price-index",
-      "all_day": false,
-      "utc": "2026-11-17T15:50Z",
-      "pkt": "17 Nov 20:50",
-      "pkt_iso": "2026-11-17T20:50:00+05:00",
       "trading_day": "2026-11-17"
     },
     {
@@ -997,7 +997,7 @@
       "title": "Pending Home Sales m/m",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "-2.1%",
+      "forecast": "-1.8%",
       "previous": "-7.3%",
       "url": "https://www.forexfactory.com/calendar/233-us-pending-home-sales-mm",
       "all_day": false,
@@ -1010,7 +1010,7 @@
       "title": "Crude Oil Inventories",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-0.3M",
       "previous": "4.7M",
       "url": "https://www.forexfactory.com/calendar/10-us-crude-oil-inventories",
       "all_day": false,
@@ -1631,5 +1631,35 @@
       "trading_day": "2026-11-20"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "Germany November ZEW economic sentiment 35.6 vs 28.8 expected",
+      "actual_raw": "35.6",
+      "forecast_raw": "28.8",
+      "beat": true,
+      "raw_diff": "+6.80",
+      "sign_flip": false,
+      "diff_pct": 23.6,
+      "when_pkt": "17 Nov 15:00",
+      "source": "investinglive",
+      "tags": [
+        "eur",
+        "oil"
+      ]
+    },
+    {
+      "title": "UK September ILO unemployment rate 4.6% vs 4.7% expected",
+      "actual_raw": "4.6%",
+      "forecast_raw": "4.7%",
+      "beat": false,
+      "raw_diff": "-0.10pp",
+      "sign_flip": false,
+      "diff_pct": -2.1,
+      "when_pkt": "17 Nov 12:00",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }

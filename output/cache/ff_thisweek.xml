@@ -481,6 +481,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/191-us-industrial-production-mm]]></url>
 	</event>
 	<event>
+		<title>GDT Price Index</title>
+		<country>NZD</country>
+		<date><![CDATA[11-17-2026]]></date>
+		<time><![CDATA[2:29pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[3.0%]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/602-nz-gdt-price-index]]></url>
+	</event>
+	<event>
 		<title>FOMC Member Hammack Speaks</title>
 		<country>USD</country>
 		<date><![CDATA[11-17-2026]]></date>
@@ -509,16 +519,6 @@
 		<forecast><![CDATA[29]]></forecast>
 		<previous><![CDATA[29]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/162-us-nahb-housing-market-index]]></url>
-	</event>
-	<event>
-		<title>GDT Price Index</title>
-		<country>NZD</country>
-		<date><![CDATA[11-17-2026]]></date>
-		<time><![CDATA[3:50pm]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast />
-		<previous><![CDATA[3.0%]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/602-nz-gdt-price-index]]></url>
 	</event>
 	<event>
 		<title>FOMC Member Williams Speaks</title>
@@ -766,7 +766,7 @@
 		<date><![CDATA[11-18-2026]]></date>
 		<time><![CDATA[3:00pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[-2.1%]]></forecast>
+		<forecast><![CDATA[-1.8%]]></forecast>
 		<previous><![CDATA[-7.3%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/233-us-pending-home-sales-mm]]></url>
 	</event>
@@ -776,7 +776,7 @@
 		<date><![CDATA[11-18-2026]]></date>
 		<time><![CDATA[3:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast />
+		<forecast><![CDATA[-0.3M]]></forecast>
 		<previous><![CDATA[4.7M]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/10-us-crude-oil-inventories]]></url>
 	</event>
