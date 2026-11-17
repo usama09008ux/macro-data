@@ -306,7 +306,7 @@
 		<date><![CDATA[11-17-2026]]></date>
 		<time><![CDATA[4:30am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[0.0%]]></forecast>
+		<forecast><![CDATA[0.1%]]></forecast>
 		<previous><![CDATA[-0.1%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/382-jn-tertiary-industry-activity-mm]]></url>
 	</event>
@@ -326,7 +326,7 @@
 		<date><![CDATA[11-17-2026]]></date>
 		<time><![CDATA[7:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[28.1K]]></forecast>
+		<forecast><![CDATA[25.4K]]></forecast>
 		<previous><![CDATA[30.3K]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/68-uk-claimant-count-change]]></url>
 	</event>
@@ -356,7 +356,7 @@
 		<date><![CDATA[11-17-2026]]></date>
 		<time><![CDATA[10:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[18.3]]></forecast>
+		<forecast><![CDATA[19.1]]></forecast>
 		<previous><![CDATA[18.5]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/314-ez-zew-economic-sentiment]]></url>
 	</event>
@@ -366,7 +366,7 @@
 		<date><![CDATA[11-17-2026]]></date>
 		<time><![CDATA[10:00am]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[28.3]]></forecast>
+		<forecast><![CDATA[28.8]]></forecast>
 		<previous><![CDATA[28.1]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/313-ge-zew-economic-sentiment]]></url>
 	</event>
@@ -386,7 +386,7 @@
 		<date><![CDATA[11-17-2026]]></date>
 		<time><![CDATA[1:15pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[243K]]></forecast>
+		<forecast><![CDATA[241K]]></forecast>
 		<previous><![CDATA[249K]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/201-ca-housing-starts]]></url>
 	</event>
@@ -426,7 +426,7 @@
 		<date><![CDATA[11-17-2026]]></date>
 		<time><![CDATA[1:30pm]]></time>
 		<impact><![CDATA[High]]></impact>
-		<forecast><![CDATA[0.2%]]></forecast>
+		<forecast><![CDATA[0.1%]]></forecast>
 		<previous><![CDATA[0.8%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/102-us-retail-sales-mm]]></url>
 	</event>
@@ -466,7 +466,7 @@
 		<date><![CDATA[11-17-2026]]></date>
 		<time><![CDATA[2:15pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[0.1%]]></forecast>
+		<forecast><![CDATA[0.0%]]></forecast>
 		<previous><![CDATA[0.7%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/191-us-industrial-production-mm]]></url>
 	</event>
@@ -566,7 +566,7 @@
 		<date><![CDATA[11-17-2026]]></date>
 		<time><![CDATA[11:50pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[-0.88T]]></forecast>
+		<forecast><![CDATA[-0.90T]]></forecast>
 		<previous><![CDATA[-0.70T]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/123-jn-trade-balance]]></url>
 	</event>
@@ -576,7 +576,7 @@
 		<date><![CDATA[11-18-2026]]></date>
 		<time><![CDATA[12:30am]]></time>
 		<impact><![CDATA[Medium]]></impact>
-		<forecast><![CDATA[0.9%]]></forecast>
+		<forecast><![CDATA[1.0%]]></forecast>
 		<previous><![CDATA[0.8%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/182-au-wage-price-index-qq]]></url>
 	</event>
@@ -756,7 +756,7 @@
 		<date><![CDATA[11-18-2026]]></date>
 		<time><![CDATA[3:00pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[-2.3%]]></forecast>
+		<forecast><![CDATA[-2.1%]]></forecast>
 		<previous><![CDATA[-7.3%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/233-us-pending-home-sales-mm]]></url>
 	</event>
@@ -769,6 +769,16 @@
 		<forecast />
 		<previous><![CDATA[4.7M]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/10-us-crude-oil-inventories]]></url>
+	</event>
+	<event>
+		<title>FOMC Member Daly Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[11-18-2026]]></date>
+		<time><![CDATA[5:15pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/807-us-fomc-member-daly-speaks]]></url>
 	</event>
 	<event>
 		<title>Gov Council Member Gravelle Speaks</title>
@@ -856,7 +866,7 @@
 		<date><![CDATA[11-18-2026]]></date>
 		<time><![CDATA[11:50pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[1.4%]]></forecast>
+		<forecast><![CDATA[1.3%]]></forecast>
 		<previous><![CDATA[5.2%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/354-jn-core-machinery-orders-mm]]></url>
 	</event>
@@ -866,7 +876,7 @@
 		<date><![CDATA[11-19-2026]]></date>
 		<time><![CDATA[12:30am]]></time>
 		<impact><![CDATA[High]]></impact>
-		<forecast><![CDATA[25.2K]]></forecast>
+		<forecast><![CDATA[25.5K]]></forecast>
 		<previous><![CDATA[-39.3K]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/73-au-employment-change]]></url>
 	</event>
