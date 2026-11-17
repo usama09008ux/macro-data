@@ -766,7 +766,7 @@
 		<date><![CDATA[11-18-2026]]></date>
 		<time><![CDATA[3:00pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[-1.8%]]></forecast>
+		<forecast><![CDATA[-2.0%]]></forecast>
 		<previous><![CDATA[-7.3%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/233-us-pending-home-sales-mm]]></url>
 	</event>
@@ -776,7 +776,7 @@
 		<date><![CDATA[11-18-2026]]></date>
 		<time><![CDATA[3:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[-0.3M]]></forecast>
+		<forecast><![CDATA[0.4M]]></forecast>
 		<previous><![CDATA[4.7M]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/10-us-crude-oil-inventories]]></url>
 	</event>
@@ -946,7 +946,7 @@
 		<date><![CDATA[11-19-2026]]></date>
 		<time><![CDATA[1:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[1.2%]]></forecast>
+		<forecast><![CDATA[0.4%]]></forecast>
 		<previous><![CDATA[2.0%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/90-ca-ippi-mm]]></url>
 	</event>
@@ -956,7 +956,7 @@
 		<date><![CDATA[11-19-2026]]></date>
 		<time><![CDATA[1:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast><![CDATA[2.0%]]></forecast>
+		<forecast><![CDATA[0.9%]]></forecast>
 		<previous><![CDATA[4.8%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/91-ca-rmpi-mm]]></url>
 	</event>
@@ -976,7 +976,7 @@
 		<date><![CDATA[11-19-2026]]></date>
 		<time><![CDATA[1:30pm]]></time>
 		<impact><![CDATA[Medium]]></impact>
-		<forecast><![CDATA[19.2]]></forecast>
+		<forecast><![CDATA[20.6]]></forecast>
 		<previous><![CDATA[20.9]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/325-us-philly-fed-manufacturing-index]]></url>
 	</event>
@@ -986,7 +986,7 @@
 		<date><![CDATA[11-19-2026]]></date>
 		<time><![CDATA[1:30pm]]></time>
 		<impact><![CDATA[Medium]]></impact>
-		<forecast><![CDATA[199K]]></forecast>
+		<forecast><![CDATA[198K]]></forecast>
 		<previous><![CDATA[200K]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/11-us-unemployment-claims]]></url>
 	</event>
@@ -1036,7 +1036,7 @@
 		<date><![CDATA[11-19-2026]]></date>
 		<time><![CDATA[3:30pm]]></time>
 		<impact><![CDATA[Low]]></impact>
-		<forecast />
+		<forecast><![CDATA[25B]]></forecast>
 		<previous><![CDATA[61B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/26-us-natural-gas-storage]]></url>
 	</event>
@@ -1226,7 +1226,7 @@
 		<date><![CDATA[11-20-2026]]></date>
 		<time><![CDATA[3:00pm]]></time>
 		<impact><![CDATA[Medium]]></impact>
-		<forecast><![CDATA[52.1]]></forecast>
+		<forecast><![CDATA[51.7]]></forecast>
 		<previous><![CDATA[51.0]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/54-us-revised-uom-consumer-sentiment]]></url>
 	</event>
