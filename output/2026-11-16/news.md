@@ -1,13 +1,38 @@
 # News Pack — Trading Day 16 Nov 2026
 
 - Trading day: **16 Nov 03:00 -> 17 Nov 02:59 PKT**
-- Aakhri update: **17 Nov 00:41 PKT**
-- Kul khabrein: **513**
+- Aakhri update: **17 Nov 07:38 PKT**
+- Kul khabrein: **597**
 - Feeds: 32/39 OK
 
 ---
 
 ## Sarkari / Exchange
+
+**E-mini S&P 500 futures close at 7,440 as tech leads pullback.**
+`17 Nov 02:58 PKT` · pehli baar dekhi `17 Nov 07:38` · cme_daily_commentary
+
+E-mini S&P 500 futures declined nearly 2% to open the week, touching an intraday low of 7,420 before finishing the session at 7,440. Technology shares led the risk-off move, though the benchmark index remained well above its earlier November lows despite recent session shifts. As underlying equity indices moved lower, market volatility climbed higher to start the week.
+
+**Silver futures drop over 4.5% to 1-year low as dollar strengthens.**
+`17 Nov 02:58 PKT` · pehli baar dekhi `17 Nov 07:38` · cme_metals_video
+
+Silver futures extended their slide for a third consecutive session, falling more than 4.5% to trade around $46.91 and reaching their lowest levels since late October of last year. A firmer U.S. dollar continued to act as a headwind for precious metals, alongside shifting global demand forecasts from 2026 into 2027 tied to expectations around the artificial intelligence build-out. Selling pressure in silver has persisted since the market's August peak, which followed an earlier high in May.
+
+**WTI Crude Oil futures fall 3.5% to $85.55 as supply ramps up.**
+`17 Nov 02:50 PKT` · pehli baar dekhi `17 Nov 07:38` · cme_energy_video
+
+WTI Crude Oil futures declined roughly 3.5% to trade at $85.55, breaking below last week's lows and approaching a two-and-a-half-month closing low. Selling pressure continued throughout the session as global shipping and production ramped up alongside shifting demand expectations following the latest IEA commentary. Meanwhile, after two months of price dispersion between the two energy markets, Natural Gas futures joined the move lower.
+
+**Live Cattle and Feeder Cattle futures fall after 5-day rally.**
+`17 Nov 02:41 PKT` · pehli baar dekhi `17 Nov 07:38` · cme_daily_commentary
+
+Live Cattle and Feeder Cattle futures retreated to open the week, while Lean Hog futures traded in a tight sideways range. February Live Cattle futures fell $2.98 to $221.82 and the December contract slipped to $218.25 as ongoing cattle imports from Mexico remained well below the levels seen before the screwworm shutdown, with a new inspection facility slated for April. Live Cattle CVOL stood at 16.3%.
+
+**Soybean and Wheat futures fall as Corn futures firm on demand.**
+`17 Nov 02:31 PKT` · pehli baar dekhi `17 Nov 07:38` · cme_daily_commentary
+
+Jan Soybean futures declined 8.5 cents to 1223'0 and Mar Soybean futures reached 1228'4 after money managers reduced long positions following last week's USDA report. Implied volatility remained relatively low, with soybean CVOL at 14%, soybean oil at 23.1% and soybean meal at 19.5%. Corn futures firmed on demand prospects, though the market has remained in a sideways range since the USDA report without a two-day higher close in over two months.
 
 **Warsh, Opening Remarks**
 `16 Nov 22:00 PKT` · pehli baar dekhi `17 Nov 00:41` · fed_speeches
@@ -44,6 +69,16 @@ Speech At the Seventh Annual Association for Computing Machinery International C
 ## Khabrein
 
 ### MARKET WRAP
+
+**New Zealand food prices fall 0.4% in October as RBNZ flags 3 rising global risks**
+`17 Nov 02:59 PKT` · pehli baar dekhi `17 Nov 07:38` · investinglive
+
+Neither release is likely to move the New Zealand dollar much on its own. The Financial Stability Report assesses risk rather than signalling policy, and the food price data is only a small input into quarterly inflation. The RBNZ's warning that recent cost pressures and higher interest rates could reverse the easing in domestic stress points in a cautious direction.
+
+**investingLive Americas market news wrap: Chip stocks dump again**
+`17 Nov 02:19 PKT` · pehli baar dekhi `17 Nov 07:38` · investinglive
+
+Canada October CPI 3.1% vs +3.2% expected US November Empire Manufacturing index +7.80 vs +18.00 expected Trump says he wouldn't mind seeing Huang reinstated as Nvidia CEO Fed's Warsh doesn't talk about monetary policy in a speech on AI Hammack: Economy can handle more restriction, unclear how far Fed has to go US banking websites are having problems Tiff Macklem to depart in June Markets: S&P 500 down 2.0% WTI crude oil down $3.02 to $85.53 Gold down $30 to $3849 US 10-year yields down 2 bps ...
 
 **Yen Leads, Aussie Sinks as AI Selloff Spreads, but Bonds Offer Little Shelter**
 `16 Nov 19:05 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex
@@ -127,10 +162,45 @@ Knot's line on fiscal discipline matters most for euro zone sovereign spreads, e
 
 ### GOLD
 
+**Gold's bull market will benefit from tech selloff as capital rotates back into precious metals – Jesse Colombo - Kitco**
+`17 Nov 00:19 PKT` · pehli baar dekhi `17 Nov 07:38` · kitco_general
+
+Gold's bull market will benefit from tech selloff as capital rotates back into precious metals – Jesse Colombo Kitco
+
+**Gold could see sharp year-end rally as energy pressures ease, long-term bull market remains intact – Schroders - Kitco**
+`16 Nov 21:07 PKT` · pehli baar dekhi `17 Nov 07:38` · kitco_general
+
+Gold could see sharp year-end rally as energy pressures ease, long-term bull market remains intact – Schroders Kitco
+
+**Gold price slides as Fed hike bets rise, silver bar and coin sales drop despite lower prices – Heraeus - Kitco**
+`16 Nov 20:01 PKT` · pehli baar dekhi `17 Nov 07:38` · kitco_general
+
+Gold price slides as Fed hike bets rise, silver bar and coin sales drop despite lower prices – Heraeus Kitco
+
+**Egypt to set up state-backed company to license artisanal gold miners, free detainees, lawmaker says - Kitco**
+`16 Nov 20:01 PKT` · pehli baar dekhi `17 Nov 07:38` · kitco_general
+
+Egypt to set up state-backed company to license artisanal gold miners, free detainees, lawmaker says Kitco
+
+**Gold, silver extend losses as Fed hike bets rise, dollar remains firm - Kitco AM Report - Kitco**
+`16 Nov 18:59 PKT` · pehli baar dekhi `17 Nov 07:38` · kitco_general
+
+Gold, silver extend losses as Fed hike bets rise, dollar remains firm - Kitco AM Report Kitco
+
 **Gold price struggles even as New York Fed's Empire State survey weakens - Kitco**
 `16 Nov 18:32 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
 
 Gold price struggles even as New York Fed's Empire State survey weakens Kitco
+
+**TSX futures slip on weaker oil, gold; inflation data eyed - Kitco**
+`16 Nov 18:16 PKT` · pehli baar dekhi `17 Nov 07:38` · kitco_general
+
+TSX futures slip on weaker oil, gold; inflation data eyed Kitco
+
+**Gold hits over one-year low on resilient dollar as hawkish Fed bets build - Kitco**
+`16 Nov 18:04 PKT` · pehli baar dekhi `17 Nov 07:38` · kitco_general
+
+Gold hits over one-year low on resilient dollar as hawkish Fed bets build Kitco
 
 **Gold hits lowest level since September 2025 as Fed rate hike bets rise - Latest news from Azerbaijan**
 `16 Nov 14:14 PKT` · pehli baar dekhi `16 Nov 14:15` · gnews_fed
@@ -167,6 +237,87 @@ Gold hits over one-year low as firm dollar, Fed outlook weigh Reuters
 
 ### USD
 
+**Warsh says Fed examining whether AI will boost or jolt US economy - CFO Dive**
+`17 Nov 02:38 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed
+
+Warsh says Fed examining whether AI will boost or jolt US economy CFO Dive
+
+**AI Stocks Resume Their Slide**
+`17 Nov 02:38 PKT` · pehli baar dekhi `17 Nov 07:38` · wsj_markets
+
+Plus, the Fed weighs AI jobs scenarios and Tyson improves its beef outlook
+
+**Warsh outlines 3 possible SI futures for US economy, from growth boom to job losses - KOMO**
+`17 Nov 02:07 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed · **3 feeds mein**
+
+Warsh outlines 3 possible SI futures for US economy, from growth boom to job losses KOMO
+  - `16 Nov 23:16` *gnews_fed* — Warsh outlines 3 possible SI futures for US economy, from growth boom to job losses - WSTM
+  - `16 Nov 22:37` *gnews_fed* — Warsh outlines 3 possible AI futures for US economy, from growth boom to job losses - KFOX
+
+**Fed Chair Kevin Warsh lays out best-case scenario from AI, while also warning about 'costly' risks - New York Post**
+`17 Nov 01:52 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed
+
+Fed Chair Kevin Warsh lays out best-case scenario from AI, while also warning about 'costly' risks New York Post
+
+**The Fed Is Worried AI Agents Could Trigger a Bank Run - Gizmodo**
+`17 Nov 01:50 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed
+
+The Fed Is Worried AI Agents Could Trigger a Bank Run Gizmodo
+
+**CPI | Supreme Court Denies Custodia Bank Appeal in Federal Reserve Dispute - PYMNTS.com**
+`17 Nov 01:40 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed
+
+CPI | Supreme Court Denies Custodia Bank Appeal in Federal Reserve Dispute PYMNTS.com
+
+**US Inflation Pressures Intensify, but Cleveland Fed President Says She Prefers "Small Rate Hikes" - BigGo Finance**
+`17 Nov 01:35 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed
+
+US Inflation Pressures Intensify, but Cleveland Fed President Says She Prefers "Small Rate Hikes" BigGo Finance
+
+**Post-election economic reports make Fed interest rate hike certain - Denver Gazette**
+`17 Nov 01:21 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed
+
+Post-election economic reports make Fed interest rate hike certain Denver Gazette
+
+**Cleveland Fed's Hammack prefers small hikes, sees risk of bigger moves - Crain's Cleveland**
+`17 Nov 01:21 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed
+
+Cleveland Fed's Hammack prefers small hikes, sees risk of bigger moves Crain's Cleveland
+
+**Fed chair weighs AI's economic impact, but sidesteps inflation risk - Fast Company**
+`17 Nov 01:19 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed
+
+Fed chair weighs AI's economic impact, but sidesteps inflation risk Fast Company
+
+**Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015 - Kitco**
+`17 Nov 01:02 PKT` · pehli baar dekhi `17 Nov 07:38` · kitco_general
+
+Gold sinks to 1-year low as Treasury yields and dollar bite, set for worst year since 2015 Kitco
+
+**Fed's Hammack reiterates case for slow, steady rate hikes -Bloomberg TV - Kitco**
+`17 Nov 01:01 PKT` · pehli baar dekhi `17 Nov 07:38` · kitco_general · **3 feeds mein**
+
+Fed's Hammack reiterates case for slow, steady rate hikes -Bloomberg TV Kitco
+  - `17 Nov 00:51` *gnews_fed* — Fed's Hammack reiterates case for slow, steady rate hikes -Bloomberg TV - Tri-City Herald
+  - `17 Nov 00:34` *gnews_fed* — Fed's Hammack reiterates case for slow, steady rate hikes -Bloomberg TV - Reuters
+
+**Warsh grapples with AI's potential economic impact, steers clear of its inflation risk - Los Angeles Times**
+`17 Nov 00:50 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed · **3 feeds mein**
+
+Warsh grapples with AI's potential economic impact, steers clear of its inflation risk Los Angeles Times
+  - `16 Nov 22:43` *gnews_fed* — Warsh grapples with AI's potential economic impact, steers clear of its inflation risk - Orange County Register
+  - `16 Nov 22:22` *gnews_fed* — Warsh grapples with AI's potential economic impact, steers clear of its inflation risk - Bozeman Daily Chronicle
+
+**Fed's Hammack backs slow hikes as inflation broadens - FXStreet**
+`17 Nov 00:48 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed
+
+Fed's Hammack backs slow hikes as inflation broadens FXStreet
+
+**Fed Chair Warsh Unveils Three Economic Scenarios for Artificial Intelligence - Kriptofoni**
+`17 Nov 00:46 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed
+
+Fed Chair Warsh Unveils Three Economic Scenarios for Artificial Intelligence Kriptofoni
+
 **US 6-Month Bill Auction Yield Rises to 4.310%, Extending Upward Trend**
 `17 Nov 00:41 PKT` · instaforex
 
@@ -177,15 +328,20 @@ The latest U.S. 6-month Treasury bill auction saw yields climb to 4.310%, up fro
 
 The yield on the U.S. 3-month Treasury bill edged up at the latest auction, reaching 4.155% compared with 4.060% previously, according to data updated on 16 November 2026. The move marks a modest increase in short-term borrowing costs for the U.S. government and a slightly higher return for investors seeking low-duration, low-risk instruments.
 
-**Fed's Hammack reiterates case for slow, steady rate hikes -Bloomberg TV - Reuters**
-`17 Nov 00:34 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
+**Fed's Warsh says emerging technologies to have 'significant impact,' but there are risks - The Lufkin Daily News**
+`17 Nov 00:38 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed
 
-Fed's Hammack reiterates case for slow, steady rate hikes -Bloomberg TV Reuters
+Fed's Warsh says emerging technologies to have 'significant impact,' but there are risks The Lufkin Daily News
 
 **Nvidia Earnings Nov. 17: $109B Expected, Fed Minutes - shattered.io**
 `17 Nov 00:31 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
 
 Nvidia Earnings Nov. 17: $109B Expected, Fed Minutes shattered.io
+
+**Hammack: Economy can handle more restriction, unclear how far Fed has to go**
+`17 Nov 00:28 PKT` · pehli baar dekhi `17 Nov 07:38` · investinglive
+
+Cleveland Fed President Beth Hammack spoke with Bloomberg: Goes into all FOMC meetings with open mind There is not much tension between Fed mandates, inflation going in wrong direction Preference has been for steady, slow rate hike increments 'I like moving in smaller increments' to allow economy to adjust to policy changes Inflation pressures appear to be broadening Worried businesses are more accepting of price rises Businesses are passing on more price increases Job market has been largely ...
 
 **Fed's Hammack Reiterates Preference for Small, Incremental Hikes - Bloomberg.com**
 `17 Nov 00:26 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
@@ -194,6 +350,20 @@ Fed's Hammack Reiterates Preference for Small, Incremental Hikes Bloomberg.com
 
 **HBNB stock hits 52-week low at 4.15 USD**
 `17 Nov 00:25 PKT` · pehli baar dekhi `17 Nov 00:41` · investing_news
+
+**Fed Chair Kevin Warsh: Three Scenarios Show How Superintelligence Impacts US Economy and Employment - TradingKey**
+`17 Nov 00:24 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed
+
+Fed Chair Kevin Warsh: Three Scenarios Show How Superintelligence Impacts US Economy and Employment TradingKey
+
+**Fed's Kevin Warsh to hear from tech leaders on SI's impact on jobs, economy - KATV**
+`17 Nov 00:02 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed · **5 feeds mein**
+
+Fed's Kevin Warsh to hear from tech leaders on SI's impact on jobs, economy KATV
+  - `16 Nov 21:58` *gnews_fed* — Fed's Kevin Warsh to hear from tech leaders on SI's impact on jobs, economy - WBFF
+  - `16 Nov 21:53` *gnews_fed* — Fed's Kevin Warsh to hear from tech leaders on SI's impact on jobs, economy - KCBY
+  - `16 Nov 21:51` *gnews_fed* — Fed's Kevin Warsh to hear from tech leaders on SI's impact on jobs, economy - KATU
+  - `16 Nov 21:50` *gnews_fed* — Fed's Kevin Warsh to hear from tech leaders on SI's impact on jobs, economy - WPDE
 
 **Supreme Court Turns Away Custodia's Bid for Direct Fed Payment Access - BigGo Finance**
 `16 Nov 23:55 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
@@ -206,6 +376,11 @@ Supreme Court Turns Away Custodia's Bid for Direct Fed Payment Access BigGo Fina
 Fed Chairman Warsh grapples with AI's potential economic impact, steers clear of its inflation risk Boston Herald
   - `16 Nov 23:10` *gnews_fed* — Fed Chairman Warsh grapples with AI's potential economic impact, steers clear of its inflation risk - Oskaloosa Herald
   - `16 Nov 23:10` *gnews_fed* — Fed Chairman Warsh grapples with AI's potential economic impact, steers clear of its inflation risk - News-Press NOW
+
+**Warsh says AI will have 'significant impact' on economy, policy - Asset Securitization Report**
+`16 Nov 23:41 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed
+
+Warsh says AI will have 'significant impact' on economy, policy Asset Securitization Report
 
 **Fed Chairman Highlights Economic Uncertainty of A.I. Boom - The New York Times**
 `16 Nov 23:35 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
@@ -252,16 +427,15 @@ Canada's common Consumer Price Index (CPI) inched higher in October 2026, rising
 
 Fed is modeling how the AI boom could change the economy Washington Examiner
 
-**Warsh outlines 3 possible SI futures for US economy, from growth boom to job losses - WSTM**
-`16 Nov 23:16 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed · **2 feeds mein**
-
-Warsh outlines 3 possible SI futures for US economy, from growth boom to job losses WSTM
-  - `16 Nov 22:37` *gnews_fed* — Warsh outlines 3 possible AI futures for US economy, from growth boom to job losses - KFOX
-
 **Fed's Barr says AI agents could fuel future bank runs - American Banker**
 `16 Nov 23:14 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
 
 Fed's Barr says AI agents could fuel future bank runs American Banker
+
+**Warsh outlines three possible super intelligence scenarios for US economy - Baltimore Sun**
+`16 Nov 23:12 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed
+
+Warsh outlines three possible super intelligence scenarios for US economy Baltimore Sun
 
 **The Fed is modeling how AI could transform jobs, productivity and markets as Kevin Warsh weighs its implications for America's economic and global power**
 `16 Nov 23:09 PKT` · pehli baar dekhi `17 Nov 00:41` · wsj_economy
@@ -289,11 +463,6 @@ How will AI shake up the economy? Warsh says the Fed is starting to figure that 
 
 How could superintelligence affect jobs, productivity and monetary policy? Fed assesses implications www.tmgm.com
 
-**Warsh grapples with AI's potential economic impact, steers clear of its inflation risk - Orange County Register**
-`16 Nov 22:43 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
-
-Warsh grapples with AI's potential economic impact, steers clear of its inflation risk Orange County Register
-
 **Fed Chair Kevin Warsh Speaks Live Today on AI and Tech - Barron's**
 `16 Nov 22:30 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
 
@@ -303,11 +472,6 @@ Fed Chair Kevin Warsh Speaks Live Today on AI and Tech Barron's
 `16 Nov 22:26 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
 
 Fed chair Kevin Warsh says AI boom could help sustain 'substantially higher' US growth Financial Times
-
-**Fed's Barr warns on AI risks to financial system - Reuters**
-`16 Nov 22:23 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
-
-Fed's Barr warns on AI risks to financial system Reuters
 
 **Fed warns of growing financial risks from AI boom - Axios**
 `16 Nov 22:18 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
@@ -358,13 +522,6 @@ Nigeria's consumer price inflation eased in October 2026, with the year-over-yea
 `16 Nov 22:00 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
 
 Fed's Warsh Says Staff Are Gaming Out Contingencies on AI Impact Bloomberg.com
-
-**Fed's Kevin Warsh to hear from tech leaders on SI's impact on jobs, economy - KCBY**
-`16 Nov 21:53 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed · **3 feeds mein**
-
-Fed's Kevin Warsh to hear from tech leaders on SI's impact on jobs, economy KCBY
-  - `16 Nov 21:51` *gnews_fed* — Fed's Kevin Warsh to hear from tech leaders on SI's impact on jobs, economy - KATU
-  - `16 Nov 21:50` *gnews_fed* — Fed's Kevin Warsh to hear from tech leaders on SI's impact on jobs, economy - WPDE
 
 **U.S. inflation report highlights strain of rising food, energy and housing costs - PBS**
 `16 Nov 21:40 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
@@ -441,10 +598,21 @@ High inflation is prolonging the dollar's rally. Treasury yields are rising on t
 
 Prior was +25.50 Full report The New York Fed's Empire State Manufacturing Index fell 18 points to 7.8 in November, remaining in expansionary territory but signalling a loss of momentum following October's strong increase. New orders and shipments continued to grow modestly, while unfilled orders increased and delivery times lengthened. Inventories also moved higher, although supply availability remained constrained. The labour market indicators strengthened significantly.
 
+**Fed 'has some work to do on inflation,' KC Fed chief says - Kitco**
+`16 Nov 18:09 PKT` · pehli baar dekhi `17 Nov 07:38` · kitco_general
+
+Fed 'has some work to do on inflation,' KC Fed chief says Kitco
+
 **Why the AI trade is a macro trade: the risks to the US economy**
 `16 Nov 18:05 PKT` · pehli baar dekhi `17 Nov 00:41` · investinglive
 
 The massive investment required to develop AI infrastructure has become an increasingly important driver of US economic growth, while also influencing inflation and interest rates. This means that the US economy has become vulnerable to a slowdown in this investment cycle. The development of AI has required enormous capital expenditure. Hyperscalers and technology companies have been investing heavily in data centres, semiconductors, networking equipment and electricity infrastructure.
+
+**Fed's Barr warns on AI risks to financial system - Kitco**
+`16 Nov 17:50 PKT` · pehli baar dekhi `17 Nov 07:38` · kitco_general · **2 feeds mein**
+
+Fed's Barr warns on AI risks to financial system Kitco
+  - `16 Nov 22:23` *gnews_fed* — Fed's Barr warns on AI risks to financial system - Reuters
 
 **Arvind Krishna wins reelection to New York Fed board - The American Bazaar**
 `16 Nov 16:38 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
@@ -601,6 +769,16 @@ Federal Reserve Chair Warsh & Tech Executives on the Economic Impact of AI C-SPA
 `16 Nov 10:00 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
 
 Fed Chair Warsh Hosts Fireside Chat With Gina Raimondo and Marc Andreessen C-SPAN
+
+**Fed Chair Warsh Remarks at Federal Reserve Conference in San Francisco - C-SPAN**
+`16 Nov 10:00 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed
+
+Fed Chair Warsh Remarks at Federal Reserve Conference in San Francisco C-SPAN
+
+**Cleveland Fed survey: CEO inflation expectations increased in 2026:Q4 - Federal Reserve Bank of Cleveland**
+`16 Nov 10:00 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed
+
+Cleveland Fed survey: CEO inflation expectations increased in 2026:Q4 Federal Reserve Bank of Cleveland
 
 **China Industrial Output Slows to 4.8%, Retail Sales Growth Falls to 0.4%**
 `16 Nov 08:39 PKT` · pehli baar dekhi `16 Nov 14:15` · actionforex
@@ -887,6 +1065,11 @@ ECB bond market intervention warning from Governor Knot. Can't replace sound fis
 Intraday bias in GBP/USD remains on the downside for retesting 1.3135 low. Firm break there will target 1.3008 key support. On the upside, above 1.3282 minor resistance will turn intraday bias neutral. In the bigger picture, price actions from 1.3867 are a corrective pattern within the broader up trend from 1.0351 (2022 low). With 1.3008 [&#8230;] The post GBP/USD Daily Outlook appeared first on ActionForex.
   - `16 Nov 17:26` *actionforex* — GBP/JPY Daily Outlook
 
+**GBP/USD Signal: Sterling Downtrend Continues on Federal Reserve Rate Hike Bets - InsuranceNewsNet**
+`16 Nov 14:42 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed
+
+GBP/USD Signal: Sterling Downtrend Continues on Federal Reserve Rate Hike Bets InsuranceNewsNet
+
 **GBP/USD Needs Support**
 `16 Nov 14:16 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex
 
@@ -913,6 +1096,12 @@ BoE's Pill: Further rate rises needed to combat inflation FXStreet
 `16 Nov 20:28 PKT` · pehli baar dekhi `17 Nov 00:41` · investinglive
 
 Deutsche Bank's Mallika Sachdeva is out with a big-picture note arguing that semiconductors have quietly become one of the most important drivers of the US dollar. The headline stat is a stunner: for the first time in modern history, global trade in semiconductors exceeds trade in oil and gas. That's based on the four quarters through Q2 2026. More important for FX is where the surpluses are piling up.
+
+**Dollar extends rally, yen looks past soft Japan GDP data - Kitco**
+`16 Nov 18:07 PKT` · pehli baar dekhi `17 Nov 07:38` · kitco_general · **2 feeds mein**
+
+Dollar extends rally, yen looks past soft Japan GDP data Kitco
+  - `16 Nov 09:16` *gnews_fed* — Dollar extends gains, yen looks past soft Japan GDP data - WTVB
 
 **USD/JPY Daily Outlook**
 `16 Nov 17:42 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex
@@ -977,11 +1166,6 @@ The weakness came amid a wider sell-off in regional equity markets, with Japan's
 `16 Nov 09:29 PKT` · pehli baar dekhi `16 Nov 14:15` · gnews_centralbanks
 
 Hawkish BOJ policymaker Takata calls for swift hike in rates to 'good' position Reuters
-
-**Dollar extends gains, yen looks past soft Japan GDP data - WTVB**
-`16 Nov 09:16 PKT` · pehli baar dekhi `16 Nov 14:15` · gnews_fed
-
-Dollar extends gains, yen looks past soft Japan GDP data WTVB
 
 **BOJ's Takata calls for nimble hikes after 1.5% bid, says neutral rate may top estimates**
 `16 Nov 09:06 PKT` · pehli baar dekhi `16 Nov 14:15` · investinglive
@@ -1086,10 +1270,20 @@ Tiff Macklem announced that he will retire after his seven-year term ends in Jun
 The decision marks the unofficial start of the race to be Canada's chief central banker, who would take over as the economy undergoes a transition to reduce its dependence on trade with the U.S. to drive growth.
   - `16 Nov 22:10` *wsj_world* — Bank of Canada Gov. Macklem to Leave in June, Kicking Off Search for New Leader
 
+**Bank of Canada Governor Macklem to step down once term ends in 2027 - Kitco**
+`16 Nov 21:08 PKT` · pehli baar dekhi `17 Nov 07:38` · kitco_general
+
+Bank of Canada Governor Macklem to step down once term ends in 2027 Kitco
+
 **Canada Inflation Holds Steady at 3.1% in October**
 `16 Nov 21:06 PKT` · pehli baar dekhi `17 Nov 00:41` · wsj_economy
 
 Canadian inflation steadied last month, though households faced broad price pressures with higher costs for gas, groceries and clothing.
+
+**Canada's annual inflation rate held steady at 3.1% in October - Kitco**
+`16 Nov 19:21 PKT` · pehli baar dekhi `17 Nov 07:38` · kitco_general
+
+Canada's annual inflation rate held steady at 3.1% in October Kitco
 
 **Canada CPI Holds at 3.1%, but Softer Core Inflation Challenges Further BoC Tightening**
 `16 Nov 18:42 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex
@@ -1133,6 +1327,11 @@ The countries accuse Israel of preventing tents and other supplies from entering
 
 ### AUD
 
+**Economic and event calendar in Asia Tuesday, November 17, 2026: RBA minutes, plus Bullock**
+`17 Nov 02:11 PKT` · pehli baar dekhi `17 Nov 07:38` · investinglive
+
+Reserve Bank of Australia Governor Michele Bullock is due to speak from 9.50am Sydney time (2250 GMT, 1750 US Eastern on Monday). She is appearing at the ASIC Annual Forum alongside other regulators. The minutes of the November meeting follow at 11.30am Sydney time (0030 GMT/1930 US Eastern time). The RBA raised its cash rate by 25 basis points to 4.85% on 3 November, its highest level since November 2008 and the fifth increase of 2026.
+
 **AUD/USD Daily Report**
 `16 Nov 17:35 PKT` · pehli baar dekhi `17 Nov 00:41` · actionforex
 
@@ -1166,6 +1365,19 @@ New Zealand&#8217;s BNZ–BusinessNZ Performance of Services Index (PSI) rose fr
 New Zealand's services sector showed a modest pickup in momentum in October 2026, with the Performance of Services Index (PSI) rising to 51.7 from 50.9 in September. The latest reading, updated on 15 November 2026, points to continued expansion in the country's services industry, remaining above the 50-point threshold that separates growth from contraction.
 
 ### OIL
+
+**Western Canada Select crude discount to WTI widens on Monday**
+`17 Nov 02:38 PKT` · pehli baar dekhi `17 Nov 07:38` · investing_commodities
+
+**US Army seeks 17 concrete bunkers in Middle East within 45 days as Iran threat persists**
+`17 Nov 02:36 PKT` · pehli baar dekhi `17 Nov 07:38` · investinglive
+
+For oil markets, replacing makeshift shelters with concrete bunkers suggests the US expects its forces to stay exposed to Iranian missile and drone fire for some time. That supports keeping a geopolitical risk premium in crude. This is not a market-moving headline, but it supports the view that the conflict will be long-running, not quickly resolved. Traders may read it as one more reason not to price in an early easing of supply risk across the Gulf.
+
+**Can Economic Populism Survive an Age of Scarcity?**
+`17 Nov 02:00 PKT` · pehli baar dekhi `17 Nov 07:38` · oilprice
+
+A number of candidates who prevailed in the last U.S. election can rightly be called populist in the 19th-century "prairie populist" mold, opposing monopolies and concentrated power, championing the rights of the average citizen, and opposing tariffs which hurt farmers and consumers. Perhaps the senator-elect from Texas, James Talarico, provided the clearest populist message by saying that the real divide in the United States is between the top and bottom of the income and wealth scale.
 
 **Turkmenistan Races to Complete Key TAPI Pipeline Section by Year-End**
 `17 Nov 00:00 PKT` · pehli baar dekhi `17 Nov 00:41` · oilprice
@@ -1460,6 +1672,26 @@ The Middle East crisis and the spiking oil and gas prices have shifted the Asian
 
 ### CRYPTO
 
+**Financial Services Roundup: Market Talk**
+`17 Nov 02:54 PKT` · pehli baar dekhi `17 Nov 07:38` · wsj_markets
+
+Find insight on Legal & General, bitcoin and more in the latest Market Talks covering financial services.
+
+**Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump**
+`17 Nov 01:45 PKT` · pehli baar dekhi `17 Nov 07:38` · cointelegraph
+
+Strategy, Strive, Bitmine and Cypherpunk disclosed fresh additions to their crypto treasuries, spanning Bitcoin, Ether and Zcash.
+
+**Boris Johnson says UK must lead blockchain development despite crypto doubts**
+`17 Nov 01:18 PKT` · pehli baar dekhi `17 Nov 07:38` · cointelegraph
+
+Johnson was joined by Lord Ross Kempsell who called for regulators to work with industry participants to bring the UK to the forefront.
+
+**Coinbase and Broadridge propose standard for tokenized stock disclosures**
+`17 Nov 00:56 PKT` · pehli baar dekhi `17 Nov 07:38` · cointelegraph
+
+The proposed standard aims to connect tokenized stockholders with corporate disclosures and voting materials across digital wallets, but would not create shareholder rights.
+
 **Supreme Court Rejects Custodia Bank's Bid for Fed Master Account - The Crypto Times**
 `16 Nov 23:12 PKT` · pehli baar dekhi `17 Nov 00:41` · gnews_fed
 
@@ -1499,6 +1731,11 @@ Supreme Court Ends Custodia's Fight For A Fed Account Bitcoin Magazine
 `16 Nov 19:55 PKT` · pehli baar dekhi `17 Nov 00:41` · cointelegraph
 
 Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts.
+
+**US Supreme Court Rejects Crypto Bank Custodia's Request for Fed Payment System Access - Kriptofoni**
+`16 Nov 19:41 PKT` · pehli baar dekhi `17 Nov 07:38` · gnews_fed
+
+US Supreme Court Rejects Crypto Bank Custodia's Request for Fed Payment System Access Kriptofoni
 
 **Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks**
 `16 Nov 18:29 PKT` · pehli baar dekhi `17 Nov 00:41` · cointelegraph
@@ -1586,6 +1823,21 @@ Markets The Fed debate morphed last week from the need for additional tightening
 Aster's CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange remained operational.
 
 ### RISK
+
+**US stock markets slump badly as chipmakers struggle once again**
+`17 Nov 02:03 PKT` · pehli baar dekhi `17 Nov 07:38` · investinglive
+
+It's another rough one in equity markets as the bulls and bears duke it out over the valuations of chip makers and the sustainability of the AI boom. Closing changes: S&P 500 -2.0% Nasdaq Comp -2.6% DJIA -1.5% Russell 2000 -1.9% Toronto TSX Comp -1.2% Morgan Stanley attempted to come to the rescue today, publishing a call to go "max overweight" on stocks and lifting its S&P 500 target by 15%. Futures were only modestly negative as US markets woke up.
+
+**What will Europe do next in Ukraine?**
+`17 Nov 01:12 PKT` · pehli baar dekhi `17 Nov 07:38` · aljazeera
+
+There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.
+
+**Libya Has Africa's Biggest Oil Reserves, but Western Majors Aren't Biting**
+`17 Nov 01:00 PKT` · pehli baar dekhi `17 Nov 07:38` · oilprice
+
+In the immediate aftermath of Russia's 24 February 2022 invasion of Ukraine, the pressure was on the West to quickly find new sources of oil and gas to compensate for those from Russia that would be lost through initial supply-chain disturbances and then because of sanctions. The net was cast wide, as several major possibilities in the world's main aggregate source of hydrocarbons had already moved more firmly in the run-up to the invasion into China's and Russia's sphere of influence.
 
 **Analysis-AI selloff has investors scrambling to measure their true exposure**
 `17 Nov 00:18 PKT` · pehli baar dekhi `17 Nov 00:41` · investing_news
@@ -1712,10 +1964,26 @@ For markets, this is a non-event as long as the official record keeps showing no
 
 Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A "war room" has been set up by supporters to reinstate Nvidia boss Jensen Huang.
 
-### BINA TAG (146)
+### BINA TAG (172)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `17 Nov 02:49` **mining_com** — Greenland Energy, 80 Mile merge in $97 million all share deal
+- `17 Nov 02:35` **aljazeera** — California files lawsuit against OpenAI alleging lack of proper safeguards
+- `17 Nov 02:16` **aljazeera** — Mamdani to disband NYPD unit deployed at Columbia protests
+- `17 Nov 02:14` **gnews_fed** — JPMorgan Chase reporting technical issue, delays with transactions - ABC News - Breaking News, Latest News and Videos
+- `17 Nov 02:06` **aljazeera** — Sudanese army air attack kills 13 in western Sudan: Rights group
+- `17 Nov 02:00` **aljazeera** — Manchester United's Endless Loop
+- `17 Nov 01:42` **aljazeera** — Photos: California residents gather to watch massive El Nino-fuelled waves
+- `17 Nov 01:36` **aljazeera** — London Palestine Film Festival returns for 27th year
+- `17 Nov 01:32` **gnews_fed** — What the Federal Reserve Is Saying About the State of the AI Revolution - American Enterprise Institute - AEI
+- `17 Nov 01:29` **wsj_markets** — Opinion | Can Nvidia Thrive Without Jensen Huang?
+- `17 Nov 01:20` **aljazeera** — UEFA backs Diallo to challenge Infantino for FIFA presidency
+- `17 Nov 01:09` **kitco_general** — Guinea says $1.9 billion deep-water port plan draws US, Chinese interest - Kitco
+- `17 Nov 01:08` **kitco_general** — Mining News, Mining Stocks, Junior Mining - Kitco
+- `17 Nov 01:07` **kitco_general** — Carney to meet Xi on Tuesday to talk food, energy and financial services - Kitco
+- `17 Nov 01:05` **aljazeera** — Nationwide ground stop could cost US airlines hundreds of millions
+- `17 Nov 01:00` **aljazeera** — Israeli opposition accuses Netanyahu of attempted 'coup'
 - `17 Nov 00:34` **mw_topstories** — Bond-market volatility is exploding higher. It could be the new normal for investors.
 - `17 Nov 00:33` **wsj_markets** — Kalshi Buys Securities Firm to Expand Into Stock Trading
 - `17 Nov 00:31` **mw_topstories** — I'm in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?
@@ -1747,6 +2015,7 @@ Anchorage Digital data suggests the Bitcoin selloff is being driven by US invest
 - `16 Nov 22:49` **aljazeera** — Israeli court upholds detention of Palestinian land activist Ghassan Najjar
 - `16 Nov 22:49` **cointelegraph** — Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise
 - `16 Nov 22:43` **wsj_world** — Nvidia Scandal Threatens China's Charm Offensive Ahead of Trump Summit
+- `16 Nov 22:37` **wsj_markets** — Optimum Skips Bond Interest Payments Amid Restructuring Talks
 - `16 Nov 22:25` **gnews_fed** — Tracker: The Federal Reserve's Balance Sheet Assets - The American Action Forum
 - `16 Nov 22:24` **aljazeera** — Musk, Silicon Valley insiders urge Nvidia to restore Jensen Huang as CEO
 - `16 Nov 22:24` **wsj_world** — Trump Says He Might Meet With North Korea's Kim During Asia Trip
@@ -1765,12 +2034,16 @@ Anchorage Digital data suggests the Bitcoin selloff is being driven by US invest
 - `16 Nov 21:37` **gnews_fed** — John Marshall Bancorp and Eagle Financial Services Receive Federal Reserve Approval for $4.3B Bank Merger - citybiz
 - `16 Nov 21:25` **wsj_markets** — Former Buyout Execs Launch Secondaries Firm to Target Hidden-Gem Assets in Asia
 - `16 Nov 21:24` **mining_com** — Fireweed to receive $14 million in federal funding for Mactung
+- `16 Nov 21:17` **kitco_general** — Hindalco's Novelis to sell two China units for $265 million - Kitco
 - `16 Nov 21:14` **mining_com** — Scotia Metals targets hidden lithium in Brazil's Bahia
 - `16 Nov 20:27` **aljazeera** — Students protest as air pollution chokes New Delhi
 - `16 Nov 20:26` **aljazeera** — At least 17 killed in two South Africa mass shootings
+- `16 Nov 20:23` **kitco_general** — Trump's minerals push has yet to loosen China's grip ahead of Xi talks - Kitco
 - `16 Nov 20:19` **gnews_fed** — Federal Reserve task force weighs AI's promise and risks - CNBC
 - `16 Nov 20:03` **mining_com** — Chile approval delay puts CleanTech lithium project on hold
 - `16 Nov 20:02` **wsj_markets** — U.S. Natural Gas Futures Start Week Lower
+- `16 Nov 19:59` **kitco_general** — Maire's Nextchem to buy LNG technologies from Chart Industries for $220 million - Kitco
+- `16 Nov 19:54` **kitco_general** — Indonesian president orders greater share of mining benefits for the state - Kitco
 - `16 Nov 19:50` **gnews_fed** — Andrew Ackerman: Supreme Court keeps rejection of Custodia master account by Federal Reserve Bank of Kansas City - Traders Union
 - `16 Nov 19:35` **aljazeera** — Belgium's Romelu Lukaku retires from international football
 - `16 Nov 19:33` **gnews_fed** — John Marshall Bancorp, Eagle Financial Services Receive Federal Reserve Bank of Richmond Approval for Merger - marketscreener.com
@@ -1789,7 +2062,12 @@ Anchorage Digital data suggests the Bitcoin selloff is being driven by US invest
 - `16 Nov 18:45` **aljazeera** — Houthis edge closer to Aden as Yemeni forces pull out of Bab al-Mandeb
 - `16 Nov 18:30` **gnews_fed** — John Marshall Bancorp, Inc. and Eagle Financial Services, Inc. Announce Receipt of Federal Reserve Approval to Complete Merger - Business Wire
 - `16 Nov 18:30` **cointelegraph** — Banks are banning AI agents over security... and competition concerns
+- `16 Nov 18:21` **kitco_general** — Morgan Stanley raises global equities to 'maximum overweight' on cheap valuations, earnings strength - Kitco
+- `16 Nov 18:14` **kitco_general** — Mapping the Market: Semiconductor stocks may slide as another recovery fades - Kitco
+- `16 Nov 17:56` **kitco_general** — For investors, a truly safe haven is hard to find - Kitco
 - `16 Nov 17:54` **cointelegraph** — HKMA, Swift explore tokenized deposits for cross-border bank payments
+- `16 Nov 17:40` **kitco_general** — S&P 500, Nasdaq futures fall ahead of Nvidia earnings, Anthropic IPO - Kitco
+- `16 Nov 17:37` **kitco_general** — Nvidia's AI financing machine may survive Huang, but with less risk appetite - Kitco
 - `16 Nov 17:33` **wsj_markets** — Nvidia Earnings, Anthropic IPO Ahead in New Test for AI Economy
 - `16 Nov 17:30` **ing_think** — Dutch minority government hangs in the balance over divisive tax plan
 - `16 Nov 17:05` **mining_com** — Giant diamonds lift Lucara's 2026 revenue outlook
@@ -1879,50 +2157,50 @@ investing_news (6)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 21 | 4 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.2 |
-| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.8 |
-| instaforex | OK | 25 | 25 | 24 | 1 | 0 | -0.1 |
-| wsj_economy | OK | 36 | 7 | 5 | 2 | 29 | 0.1 |
-| cme_metals_video | OK | 10 | 1 | 1 | 0 | 9 | 0.1 |
-| cme_fx_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| cme_energy_video | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| cme_daily_commentary | OK | 10 | 1 | 0 | 1 | 9 | 0.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 67.0 |
-| kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 86 | 85 | 82 | 3 | 1 | 0.0 |
-| gnews_geopolitics | OK | 35 | 35 | 14 | 21 | 0 | 0.1 |
+| actionforex | OK | 20 | 20 | 11 | 9 | 0 | 0.0 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 1.1 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 7 | 0 | 7 | 29 | 0.4 |
+| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.2 |
+| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.2 |
+| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.2 |
+| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.2 |
+| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.2 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 67.3 |
+| kitco_general | OK | 30 | 29 | 27 | 2 | 1 | 0.2 |
+| gnews_fed | OK | 98 | 98 | 36 | 62 | 0 | 0.0 |
+| gnews_geopolitics | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | gnews_centralbanks | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.1 |
-| fed_speeches | OK | 15 | 2 | 2 | 0 | 13 | 0.1 |
-| ecb_press | OK | 15 | 2 | 1 | 1 | 13 | 0.3 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.4 |
-| boj_whatsnew | OK | 44 | 3 | 0 | 3 | 41 | 0.5 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 10.8 |
-| mining_com | OK | 36 | 8 | 8 | 0 | 28 | 0.1 |
-| oilprice | OK | 15 | 15 | 14 | 1 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| ing_think | OK | 10 | 6 | 3 | 3 | 4 | 0.2 |
-| bbc_business | OK | 56 | 11 | 2 | 9 | 45 | 0.0 |
-| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.4 |
-| boc_press | OK | 10 | 1 | 1 | 0 | 9 | 0.4 |
-| eia_energy | WARN | 26 | 0 | 0 | 0 | 26 | 3.2 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 12.3 |
-| wsj_world | OK | 70 | 12 | 7 | 5 | 58 | 0.0 |
-| wsj_markets | OK | 61 | 22 | 10 | 12 | 39 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.4 |
+| fed_speeches | OK | 15 | 2 | 0 | 2 | 13 | 0.4 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.7 |
+| boj_whatsnew | OK | 45 | 4 | 1 | 3 | 41 | 0.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 11.1 |
+| mining_com | OK | 36 | 10 | 2 | 8 | 26 | 0.2 |
+| oilprice | OK | 15 | 15 | 7 | 8 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| ing_think | OK | 10 | 6 | 0 | 6 | 4 | 0.5 |
+| bbc_business | OK | 56 | 16 | 5 | 11 | 40 | 0.0 |
+| aljazeera | OK | 25 | 25 | 22 | 3 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 0.7 |
+| boc_press | OK | 10 | 1 | 0 | 1 | 9 | 0.7 |
+| eia_energy | WARN | 26 | 0 | 0 | 0 | 26 | 3.5 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 12.5 |
+| wsj_world | OK | 71 | 22 | 10 | 12 | 49 | 0.0 |
+| wsj_markets | OK | 61 | 30 | 12 | 18 | 31 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 19 | 11 | 8 | 11 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 27 | 8 | 19 | 3 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
 - cme_risk_management — STALE, cadence 10d, magar 67d purana
-- kitco_general — FAIL, HTTP 429
+- gnews_geopolitics — FAIL, HTTP 429
 - gnews_centralbanks — FAIL, HTTP 429
 - yahoo_finance — FAIL, HTTP 404
