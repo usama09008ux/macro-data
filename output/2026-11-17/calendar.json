@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "17 Nov 2026 19:45",
+  "generated_pkt": "18 Nov 2026 01:15",
   "trading_day": "2026-11-17",
   "feed_sources": {
     "thisweek": "live"
@@ -1660,6 +1660,73 @@
       "tags": [
         "usd"
       ]
+    },
+    {
+      "title": "NAHB housing market index for November 25 vs 29 estimate",
+      "actual_raw": "25",
+      "forecast_raw": "29",
+      "beat": false,
+      "raw_diff": "-4.00",
+      "sign_flip": false,
+      "diff_pct": -13.8,
+      "when_pkt": "17 Nov 20:00",
+      "source": "investinglive",
+      "tags": []
+    },
+    {
+      "title": "US October industrial production -0.4% vs +0.1% expected",
+      "actual_raw": "-0.4%",
+      "forecast_raw": "+0.1%",
+      "beat": false,
+      "raw_diff": "-0.50pp",
+      "sign_flip": true,
+      "diff_pct": null,
+      "when_pkt": "17 Nov 19:17",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US Import prices 1.1% vs 0.7% est. Export prices 1.1% vs 0.5% est.",
+      "actual_raw": "1.1%",
+      "forecast_raw": "0.7%",
+      "beat": true,
+      "raw_diff": "+0.40pp",
+      "sign_flip": false,
+      "diff_pct": 57.1,
+      "when_pkt": "17 Nov 18:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US October advance retail sales +0.2% vs +0.2% expected",
+      "actual_raw": "+0.2%",
+      "forecast_raw": "+0.2%",
+      "beat": false,
+      "raw_diff": "+0.00pp",
+      "sign_flip": false,
+      "diff_pct": 0.0,
+      "when_pkt": "17 Nov 18:30",
+      "source": "investinglive",
+      "tags": [
+        "usd",
+        "rates"
+      ]
+    },
+    {
+      "title": "US October import price index +1.1% vs +0.7% expected",
+      "actual_raw": "+1.1%",
+      "forecast_raw": "+0.7%",
+      "beat": true,
+      "raw_diff": "+0.40pp",
+      "sign_flip": false,
+      "diff_pct": 57.1,
+      "when_pkt": "17 Nov 18:30",
+      "source": "investinglive",
+      "tags": []
     }
   ]
 }
