@@ -891,16 +891,6 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/64-au-unemployment-rate]]></url>
 	</event>
 	<event>
-		<title>Foreign Direct Investment ytd/y</title>
-		<country>CNY</country>
-		<date><![CDATA[11-19-2026]]></date>
-		<time><![CDATA[7:02am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast />
-		<previous><![CDATA[-4.3%]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/457-ch-foreign-direct-investment-ytdy]]></url>
-	</event>
-	<event>
 		<title>Current Account</title>
 		<country>EUR</country>
 		<date><![CDATA[11-19-2026]]></date>
@@ -1159,6 +1149,16 @@
 		<forecast><![CDATA[18.0B]]></forecast>
 		<previous><![CDATA[24.5B]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/342-uk-public-sector-net-borrowing]]></url>
+	</event>
+	<event>
+		<title>Foreign Direct Investment ytd/y</title>
+		<country>CNY</country>
+		<date><![CDATA[11-20-2026]]></date>
+		<time><![CDATA[7:02am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[-4.3%]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/457-ch-foreign-direct-investment-ytdy]]></url>
 	</event>
 	<event>
 		<title>ECB President Lagarde Speaks</title>

@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "18 Nov 2026 19:25",
+  "generated_pkt": "19 Nov 2026 00:46",
   "trading_day": "2026-11-18",
   "feed_sources": {
     "thisweek": "live"
@@ -1163,19 +1163,6 @@
       "trading_day": "2026-11-19"
     },
     {
-      "title": "Foreign Direct Investment ytd/y",
-      "ccy": "CNY",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-4.3%",
-      "url": "https://www.forexfactory.com/calendar/457-ch-foreign-direct-investment-ytdy",
-      "all_day": false,
-      "utc": "2026-11-19T07:02Z",
-      "pkt": "19 Nov 12:02",
-      "pkt_iso": "2026-11-19T12:02:00+05:00",
-      "trading_day": "2026-11-19"
-    },
-    {
       "title": "Current Account",
       "ccy": "EUR",
       "impact": "Low",
@@ -1514,6 +1501,19 @@
       "trading_day": "2026-11-20"
     },
     {
+      "title": "Foreign Direct Investment ytd/y",
+      "ccy": "CNY",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-4.3%",
+      "url": "https://www.forexfactory.com/calendar/457-ch-foreign-direct-investment-ytdy",
+      "all_day": false,
+      "utc": "2026-11-20T07:02Z",
+      "pkt": "20 Nov 12:02",
+      "pkt_iso": "2026-11-20T12:02:00+05:00",
+      "trading_day": "2026-11-20"
+    },
+    {
       "title": "ECB President Lagarde Speaks",
       "ccy": "EUR",
       "impact": "Medium",
@@ -1631,5 +1631,46 @@
       "trading_day": "2026-11-20"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US weekly crude oil inventories +3380K vs +58K expected",
+      "actual_raw": "+3380K",
+      "forecast_raw": "+58K",
+      "beat": true,
+      "raw_diff": "+3,322.0K",
+      "sign_flip": false,
+      "diff_pct": null,
+      "when_pkt": "18 Nov 20:30",
+      "source": "investinglive",
+      "tags": [
+        "oil"
+      ]
+    },
+    {
+      "title": "US October pending home sales -4.7% vs -2.0% expected",
+      "actual_raw": "-4.7%",
+      "forecast_raw": "-2.0%",
+      "beat": false,
+      "raw_diff": "-2.70pp",
+      "sign_flip": false,
+      "diff_pct": -135.0,
+      "when_pkt": "18 Nov 20:02",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US October housing starts 1.309M vs 1.245M expected",
+      "actual_raw": "1.309M",
+      "forecast_raw": "1.245M",
+      "beat": true,
+      "raw_diff": "+0.1M",
+      "sign_flip": false,
+      "diff_pct": 5.1,
+      "when_pkt": "18 Nov 18:30",
+      "source": "investinglive",
+      "tags": []
+    }
+  ]
 }
