@@ -1,8 +1,8 @@
 # News Pack — Trading Day 17 Nov 2026
 
 - Trading day: **17 Nov 03:00 -> 18 Nov 02:59 PKT**
-- Aakhri update: **18 Nov 15:07 PKT**
-- Kul khabrein: **683**
+- Aakhri update: **18 Nov 23:50 PKT**
+- Kul khabrein: **685**
 - Feeds: 35/39 OK
 
 ---
@@ -297,6 +297,14 @@ Fed's Lisa Cook to skip dubious hearing with Trump's 'committee of inquiry' MS N
 
 Fed's Williams Says No Need for 'Dramatic' Rate Move Bloomberg.com
 
+**AI could transform the economy, but the Fed is struggling to predict how - KOKI FOX 23**
+`18 Nov 02:00 PKT` · pehli baar dekhi `18 Nov 23:50` · gnews_fed · **4 feeds mein**
+
+AI could transform the economy, but the Fed is struggling to predict how KOKI FOX 23
+  - `18 Nov 01:47` *gnews_fed* — AI could transform the economy, but the Fed is struggling to predict how - WSET
+  - `18 Nov 01:46` *gnews_fed* — AI could transform the economy, but the Fed is struggling to predict how - WCYB
+  - `18 Nov 01:45` *gnews_fed* — AI could transform the economy, but the Fed is struggling to predict how - KVII
+
 **New York Fed President Williams Signals Possible Further Rate Hike as Inflation Stays Elevated, Says 'No Dramatic Response' Needed - BigGo Finance**
 `18 Nov 01:55 PKT` · pehli baar dekhi `18 Nov 07:07` · gnews_fed
 
@@ -306,13 +314,6 @@ New York Fed President Williams Signals Possible Further Rate Hike as Inflation 
 `18 Nov 01:51 PKT` · pehli baar dekhi `18 Nov 15:07` · gnews_fed
 
 New York Fed's Williams rules out jumbo rate hike for December Yahoo Finance
-
-**AI could transform the economy, but the Fed is struggling to predict how - WSET**
-`18 Nov 01:47 PKT` · pehli baar dekhi `18 Nov 07:07` · gnews_fed · **3 feeds mein**
-
-AI could transform the economy, but the Fed is struggling to predict how WSET
-  - `18 Nov 01:46` *gnews_fed* — AI could transform the economy, but the Fed is struggling to predict how - WCYB
-  - `18 Nov 01:45` *gnews_fed* — AI could transform the economy, but the Fed is struggling to predict how - KVII
 
 **Fed's Williams still favors tighter monetary policy, but says now is not the time for 'dramatic action' - Reuters**
 `18 Nov 01:16 PKT` · pehli baar dekhi `18 Nov 07:07` · gnews_fed
@@ -1963,7 +1964,7 @@ He favored tariffs and tight immigration a quarter-century before Trump ran.
 
 The conflict has solidified his hold over Russia while dividing Europe.
 
-### BINA TAG (267)
+### BINA TAG (268)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -1982,6 +1983,7 @@ The conflict has solidified his hold over Russia while dividing Europe.
 - `18 Nov 01:59` **gnews_fed** — Federal Reserve's Cook declines to participate in White House hearing - Goshen News
 - `18 Nov 01:59` **gnews_fed** — Federal Reserve's Cook declines to participate in White House hearing - The Killeen Daily Herald
 - `18 Nov 01:59` **gnews_fed** — Federal Reserve's Cook declines to participate in White House hearing - Corsicana Daily Sun
+- `18 Nov 01:59` **gnews_fed** — Federal Reserve's Cook declines to participate in White House hearing - AP News
 - `18 Nov 01:56` **wsj_markets** — SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang
 - `18 Nov 01:47` **aljazeera** — What's behind the ANC's decline in South Africa?
 - `18 Nov 01:00` **instaforex** — US Retail Inventories Ex-Auto Edge Higher in September, Signaling Cautious Stock Building
@@ -2251,45 +2253,45 @@ investing_news (7), cointelegraph (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 17 | 8 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 13 | 7 | 0 | 0.0 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.4 |
+| actionforex | OK | 20 | 20 | 19 | 1 | 0 | 0.2 |
+| marketpulse | OK | 3 | 1 | 1 | 0 | 2 | 0.0 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 11 | 2 | 9 | 25 | 0.0 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
-| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.5 |
-| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.5 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
-| cme_daily_commentary | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 68.6 |
-| kitco_general | OK | 28 | 27 | 1 | 26 | 1 | 0.2 |
-| gnews_fed | OK | 85 | 85 | 36 | 49 | 0 | 0.0 |
-| gnews_geopolitics | OK | 41 | 41 | 23 | 18 | 0 | 0.0 |
-| gnews_centralbanks | OK | 22 | 22 | 14 | 8 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.7 |
-| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.8 |
-| ecb_press | OK | 15 | 3 | 2 | 1 | 12 | 0.0 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 5.0 |
-| boj_whatsnew | OK | 45 | 1 | 0 | 1 | 44 | 1.4 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 12.4 |
-| mining_com | OK | 36 | 11 | 0 | 11 | 25 | 0.5 |
-| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| ing_think | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
-| bbc_business | OK | 43 | 18 | 8 | 10 | 25 | 0.1 |
+| wsj_economy | OK | 36 | 13 | 4 | 9 | 23 | 0.2 |
+| cme_metals_video | OK | 10 | 4 | 2 | 2 | 6 | 0.0 |
+| cme_fx_video | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
+| cme_rates_video | OK | 10 | 4 | 0 | 4 | 6 | 0.1 |
+| cme_energy_video | OK | 10 | 3 | 0 | 3 | 7 | 0.1 |
+| cme_daily_commentary | OK | 10 | 10 | 0 | 10 | 0 | 0.0 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 69.0 |
+| kitco_general | OK | 29 | 29 | 15 | 14 | 0 | 0.0 |
+| gnews_fed | OK | 72 | 72 | 40 | 32 | 0 | 0.0 |
+| gnews_geopolitics | OK | 43 | 43 | 8 | 35 | 0 | 0.0 |
+| gnews_centralbanks | OK | 36 | 36 | 24 | 12 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 6.0 |
+| fed_speeches | OK | 15 | 2 | 1 | 1 | 13 | 0.0 |
+| ecb_press | OK | 15 | 3 | 0 | 3 | 12 | 0.4 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 5.4 |
+| boj_whatsnew | OK | 45 | 1 | 0 | 1 | 44 | 1.8 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 12.8 |
+| mining_com | OK | 36 | 17 | 6 | 11 | 19 | 0.1 |
+| oilprice | OK | 15 | 15 | 11 | 4 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
+| bbc_business | OK | 46 | 22 | 3 | 19 | 24 | 0.2 |
 | aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.0 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 2.0 |
-| eia_energy | OK | 27 | 1 | 0 | 1 | 26 | 0.8 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 13.9 |
-| wsj_world | OK | 72 | 32 | 5 | 27 | 40 | 0.0 |
-| wsj_markets | OK | 61 | 33 | 3 | 30 | 28 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.4 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 2.4 |
+| eia_energy | OK | 28 | 2 | 1 | 1 | 26 | 0.2 |
+| bea_releases | OK | 49 | 1 | 1 | 0 | 48 | 0.2 |
+| wsj_world | OK | 72 | 37 | 7 | 30 | 35 | 0.0 |
+| wsj_markets | OK | 61 | 36 | 11 | 25 | 25 | 0.0 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 29 | 4 | 25 | 1 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 11 | 19 | 0 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
