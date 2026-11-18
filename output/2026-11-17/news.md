@@ -1,8 +1,8 @@
 # News Pack — Trading Day 17 Nov 2026
 
 - Trading day: **17 Nov 03:00 -> 18 Nov 02:59 PKT**
-- Aakhri update: **18 Nov 07:07 PKT**
-- Kul khabrein: **672**
+- Aakhri update: **18 Nov 15:07 PKT**
+- Kul khabrein: **683**
 - Feeds: 35/39 OK
 
 ---
@@ -302,10 +302,16 @@ Fed's Williams Says No Need for 'Dramatic' Rate Move Bloomberg.com
 
 New York Fed President Williams Signals Possible Further Rate Hike as Inflation Stays Elevated, Says 'No Dramatic Response' Needed BigGo Finance
 
+**New York Fed's Williams rules out jumbo rate hike for December - Yahoo Finance**
+`18 Nov 01:51 PKT` · pehli baar dekhi `18 Nov 15:07` · gnews_fed
+
+New York Fed's Williams rules out jumbo rate hike for December Yahoo Finance
+
 **AI could transform the economy, but the Fed is struggling to predict how - WSET**
-`18 Nov 01:47 PKT` · pehli baar dekhi `18 Nov 07:07` · gnews_fed · **2 feeds mein**
+`18 Nov 01:47 PKT` · pehli baar dekhi `18 Nov 07:07` · gnews_fed · **3 feeds mein**
 
 AI could transform the economy, but the Fed is struggling to predict how WSET
+  - `18 Nov 01:46` *gnews_fed* — AI could transform the economy, but the Fed is struggling to predict how - WCYB
   - `18 Nov 01:45` *gnews_fed* — AI could transform the economy, but the Fed is struggling to predict how - KVII
 
 **Fed's Williams still favors tighter monetary policy, but says now is not the time for 'dramatic action' - Reuters**
@@ -565,9 +571,10 @@ Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing CNB
 US retail sales growth slowed from 0.8% to 0.2% mom in October, matching market expectations and signaling a moderation in consumer spending momentum. Total retail and food services sales reached USD 748.2B, up 6.8% from a year earlier. However, underlying spending proved firmer than the headline suggested, with sales excluding autos rising 0.6%, above consensus [&#8230;] The post US Retail Sales Slow to 0.2%, but Ex-Auto Spending Shows Resilience appeared first on ActionForex.
 
 **St. Louis Fed's Musalem says four more rate hikes may be needed in coming months - CNBC**
-`17 Nov 18:34 PKT` · pehli baar dekhi `18 Nov 00:52` · gnews_fed
+`17 Nov 18:34 PKT` · pehli baar dekhi `18 Nov 00:52` · gnews_fed · **2 feeds mein**
 
 St. Louis Fed's Musalem says four more rate hikes may be needed in coming months CNBC
+  - `17 Nov 18:34` *gnews_fed* — St. Louis Fed's Musalem says four more rate hikes may be needed in coming months - CNBC
 
 **US October advance retail sales +0.2% vs +0.2% expected**
 `17 Nov 18:30 PKT` · pehli baar dekhi `18 Nov 00:52` · investinglive
@@ -1214,6 +1221,11 @@ Milk auction prices in New Zealand continued their upward trend, with the key in
 
 The GlobalDairyTrade (GDT) Price Index out of New Zealand showed no change at its latest update, holding at 0.0% on 17 November 2026, after a previous rise of 3.0%. The halt in price momentum follows a period of gains, suggesting a possible pause in the recent upward trend for internationally traded dairy products. The shift from a positive 3.0% reading to a flat outcome may indicate that buyers and sellers are reassessing price levels after recent increases.
 
+**Federal Reserve Gov. Lisa Cook refuses to attend Trump committee hearing - Yahoo News New Zealand**
+`17 Nov 20:58 PKT` · pehli baar dekhi `18 Nov 15:07` · gnews_fed
+
+Federal Reserve Gov. Lisa Cook refuses to attend Trump committee hearing Yahoo News New Zealand
+
 **NZD/USD Nears 2020 Low Despite Rising RBNZ Rate Hike Expectations**
 `17 Nov 14:21 PKT` · pehli baar dekhi `17 Nov 16:11` · actionforex
 
@@ -1271,6 +1283,11 @@ Speculative sentiment toward the New Zealand dollar has turned marginally less b
 
 The American Petroleum Institute (API) estimated that crude oil inventories in the United States rose by 5.3 million barrels in the week ending November 13. In the week prior, US crude oil inventories rose by 9 million barrels. Commercial crude oil inventories excluding the SPR have lost more than 49 million barrels over the last 31 weeks, but has gained 1.6 million over the course of this year, according to API data, which has been kept in check in part thanks to draws from the SPR.
 
+**Energy briefs—oil prices fall despite Iran's display of defiance - Oklahoma Energy Today**
+`18 Nov 02:51 PKT` · pehli baar dekhi `18 Nov 15:07` · gnews_geopolitics
+
+Energy briefs—oil prices fall despite Iran's display of defiance Oklahoma Energy Today
+
 **'Zero transparency': Inside Trump's plans for Venezuela's oil money**
 `18 Nov 02:26 PKT` · pehli baar dekhi `18 Nov 07:07` · aljazeera
 
@@ -1280,6 +1297,11 @@ Democrats say they plan to investigate Trump&#039;s dealings with Venezuela afte
 `18 Nov 02:00 PKT` · pehli baar dekhi `18 Nov 07:07` · oilprice
 
 China's state planemaker flew its all-electric commuter airliner with a crew on board for the first time on Saturday, putting two pilots and a flight-test engineer in a 19-seat, battery-powered CE-25A over Binzhou in Shandong Province, according to Xinhua. China has completed the first test flight of its new CE-25A electric passenger aircraft in Binzhou, Shandong Province. The aircraft can carry up to 19 passengers and is designed to travel about 250 miles at speeds of up to 186 mph.
+
+**Threats to Global Crude Supplies Lift Prices - TradingView**
+`18 Nov 01:16 PKT` · pehli baar dekhi `18 Nov 15:07` · gnews_geopolitics
+
+Threats to Global Crude Supplies Lift Prices TradingView
 
 **Are Resource Limits Fueling the World's Growing Conflicts?**
 `18 Nov 00:00 PKT` · pehli baar dekhi `18 Nov 00:52` · oilprice
@@ -1588,6 +1610,11 @@ Chainalysis found that Eastern Europe recorded the steepest decline in crypto ac
 
 A model for calculating bitcoin's value has worked well to inform investors when the cryptocurrency is overbought or oversold. Now, the price is just right.
 
+**Fed's Waller says blockchain is forcing banks to compete - Crypto News**
+`17 Nov 23:00 PKT` · pehli baar dekhi `18 Nov 15:07` · gnews_fed
+
+Fed's Waller says blockchain is forcing banks to compete Crypto News
+
 **Lighter incident exposes risks beyond withdrawal controls**
 `17 Nov 22:51 PKT` · pehli baar dekhi `18 Nov 00:52` · cointelegraph
 
@@ -1602,6 +1629,11 @@ Supreme Court Rejects Crypto Bank Custodia's Bid for Fed Payment Access The Indi
 `17 Nov 21:39 PKT` · pehli baar dekhi `18 Nov 00:52` · cointelegraph
 
 Bitcoin price downside sees local lows of $63,269 as Nvidia stock targets $150 as traders brace for volatility over Q3 earnings.
+
+**Fed's Waller Sees 'Zombie Chains' as a Challenge for Tokenized Asset Markets - The Crypto Times**
+`17 Nov 20:30 PKT` · pehli baar dekhi `18 Nov 15:07` · gnews_fed
+
+Fed's Waller Sees 'Zombie Chains' as a Challenge for Tokenized Asset Markets The Crypto Times
 
 **Solana Foundation takes majority interest in crypto data firm CoinGecko**
 `17 Nov 19:45 PKT` · pehli baar dekhi `18 Nov 00:52` · cointelegraph
@@ -1931,7 +1963,7 @@ He favored tariffs and tight immigration a quarter-century before Trump ran.
 
 The conflict has solidified his hold over Russia while dividing Europe.
 
-### BINA TAG (264)
+### BINA TAG (267)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -1940,6 +1972,7 @@ The conflict has solidified his hold over Russia while dividing Europe.
 - `18 Nov 02:43` **wsj_world** — Can a New Leader Make the U.N. Relevant Again?
 - `18 Nov 02:39` **wsj_world** — Opinion | Chips, China and Trump
 - `18 Nov 02:36` **investinglive** — Nvidia hands three directors export control oversight days after Huang exit
+- `18 Nov 02:33` **kitco_general** — Latest News, Video News, Analysis and Opinions - Kitco
 - `18 Nov 02:31` **wsj_world** — Opinion | The Great AI Chip Heist Is Here
 - `18 Nov 02:30` **mw_topstories** — My older brother, who has no children, cut our only sister out of his will. I'll get everything instead. Do I tell her?
 - `18 Nov 02:25` **aljazeera** — Moment Russian military plane crashes in Siberia, killing 19
@@ -1947,6 +1980,8 @@ The conflict has solidified his hold over Russia while dividing Europe.
 - `18 Nov 02:14` **aljazeera** — Whistleblower: Deadly drone strike in Kuwait could've been avoided
 - `18 Nov 02:08` **gnews_fed** — Federal Reserve Governor Lisa Cook's attorneys say she will not attend WH hearing without changes - Just The News
 - `18 Nov 01:59` **gnews_fed** — Federal Reserve's Cook declines to participate in White House hearing - Goshen News
+- `18 Nov 01:59` **gnews_fed** — Federal Reserve's Cook declines to participate in White House hearing - The Killeen Daily Herald
+- `18 Nov 01:59` **gnews_fed** — Federal Reserve's Cook declines to participate in White House hearing - Corsicana Daily Sun
 - `18 Nov 01:56` **wsj_markets** — SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang
 - `18 Nov 01:47` **aljazeera** — What's behind the ANC's decline in South Africa?
 - `18 Nov 01:00` **instaforex** — US Retail Inventories Ex-Auto Edge Higher in September, Signaling Cautious Stock Building
@@ -2216,48 +2251,48 @@ investing_news (7), cointelegraph (1)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 21 | 4 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.1 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.0 |
-| instaforex | OK | 25 | 25 | 10 | 15 | 0 | -0.1 |
-| wsj_economy | OK | 36 | 10 | 0 | 10 | 26 | 0.3 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_fx_video | OK | 10 | 3 | 1 | 2 | 7 | 0.2 |
-| cme_rates_video | OK | 10 | 3 | 1 | 2 | 7 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_daily_commentary | OK | 10 | 10 | 3 | 7 | 0 | 0.2 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 68.3 |
-| kitco_general | OK | 32 | 32 | 7 | 25 | 0 | 0.1 |
-| gnews_fed | OK | 74 | 74 | 28 | 46 | 0 | 0.0 |
-| gnews_geopolitics | OK | 28 | 28 | 11 | 17 | 0 | 0.0 |
-| gnews_centralbanks | OK | 25 | 25 | 10 | 15 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.3 |
-| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.3 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 4.7 |
-| boj_whatsnew | OK | 45 | 1 | 0 | 1 | 44 | 1.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 12.1 |
-| mining_com | OK | 36 | 11 | 4 | 7 | 25 | 0.2 |
-| oilprice | OK | 15 | 15 | 7 | 8 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 13 | 7 | 0 | 0.0 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.4 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 11 | 2 | 9 | 25 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.5 |
+| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.5 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_daily_commentary | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 68.6 |
+| kitco_general | OK | 28 | 27 | 1 | 26 | 1 | 0.2 |
+| gnews_fed | OK | 85 | 85 | 36 | 49 | 0 | 0.0 |
+| gnews_geopolitics | OK | 41 | 41 | 23 | 18 | 0 | 0.0 |
+| gnews_centralbanks | OK | 22 | 22 | 14 | 8 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.7 |
+| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.8 |
+| ecb_press | OK | 15 | 3 | 2 | 1 | 12 | 0.0 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 5.0 |
+| boj_whatsnew | OK | 45 | 1 | 0 | 1 | 44 | 1.4 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 12.4 |
+| mining_com | OK | 36 | 11 | 0 | 11 | 25 | 0.5 |
+| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.0 |
 | investing_commodities | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| ing_think | OK | 10 | 8 | 0 | 8 | 2 | 0.4 |
-| bbc_business | OK | 55 | 15 | 3 | 12 | 40 | 0.0 |
+| ing_think | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
+| bbc_business | OK | 43 | 18 | 8 | 10 | 25 | 0.1 |
 | aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.7 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 1.7 |
-| eia_energy | OK | 27 | 1 | 0 | 1 | 26 | 0.5 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 13.5 |
-| wsj_world | OK | 72 | 29 | 13 | 16 | 43 | 0.0 |
-| wsj_markets | OK | 61 | 31 | 12 | 19 | 30 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| eia_energy | OK | 27 | 1 | 0 | 1 | 26 | 0.8 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 13.9 |
+| wsj_world | OK | 72 | 32 | 5 | 27 | 40 | 0.0 |
+| wsj_markets | OK | 61 | 33 | 3 | 30 | 28 | 0.0 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 25 | 4 | 21 | 5 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 29 | 4 | 25 | 1 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 68d purana
+- cme_risk_management — STALE, cadence 10d, magar 69d purana
 - yahoo_finance — FAIL, HTTP 404
