@@ -1,11 +1,11 @@
 {
-  "generated_pkt": "18 Nov 2026 19:34",
+  "generated_pkt": "19 Nov 2026 01:34",
   "trading_day": "2026-11-18",
   "series": {
     "DFEDTARU": {
       "latest": 4.0,
       "latest_date": "2026-11-18",
-      "n_obs": 1106,
+      "n_obs": 1105,
       "changes": {
         "1d": 0.0,
         "5d": 0.0,
@@ -16,7 +16,7 @@
     "DGS2": {
       "latest": 4.83,
       "latest_date": "2026-11-16",
-      "n_obs": 753,
+      "n_obs": 752,
       "changes": {
         "1d": -0.05,
         "5d": 0.32,
@@ -27,7 +27,7 @@
     "DGS10": {
       "latest": 5.12,
       "latest_date": "2026-11-16",
-      "n_obs": 753,
+      "n_obs": 752,
       "changes": {
         "1d": -0.03,
         "5d": 0.26,
@@ -38,7 +38,7 @@
     "DGS30": {
       "latest": 5.46,
       "latest_date": "2026-11-16",
-      "n_obs": 753,
+      "n_obs": 752,
       "changes": {
         "1d": -0.01,
         "5d": 0.2,
@@ -49,7 +49,7 @@
     "T10Y2Y": {
       "latest": 0.3,
       "latest_date": "2026-11-17",
-      "n_obs": 754,
+      "n_obs": 753,
       "changes": {
         "1d": 0.01,
         "5d": -0.02,
@@ -60,7 +60,7 @@
     "T10Y3M": {
       "latest": 0.77,
       "latest_date": "2026-11-17",
-      "n_obs": 754,
+      "n_obs": 753,
       "changes": {
         "1d": -0.01,
         "5d": 0.13,
@@ -71,7 +71,7 @@
     "DFII10": {
       "latest": 2.92,
       "latest_date": "2026-11-16",
-      "n_obs": 753,
+      "n_obs": 752,
       "changes": {
         "1d": 0.01,
         "5d": 0.29,
@@ -82,7 +82,7 @@
     "DFII5": {
       "latest": 2.68,
       "latest_date": "2026-11-16",
-      "n_obs": 753,
+      "n_obs": 752,
       "changes": {
         "1d": 0.0,
         "5d": 0.33,
@@ -93,7 +93,7 @@
     "T10YIE": {
       "latest": 2.21,
       "latest_date": "2026-11-17",
-      "n_obs": 754,
+      "n_obs": 753,
       "changes": {
         "1d": 0.01,
         "5d": -0.01,
@@ -104,7 +104,7 @@
     "T5YIE": {
       "latest": 2.26,
       "latest_date": "2026-11-17",
-      "n_obs": 754,
+      "n_obs": 753,
       "changes": {
         "1d": 0.01,
         "5d": 0.01,
@@ -115,7 +115,7 @@
     "DTWEXBGS": {
       "latest": 122.6503,
       "latest_date": "2026-11-13",
-      "n_obs": 753,
+      "n_obs": 752,
       "changes": {
         "1d": 0.107,
         "5d": 1.1442,
@@ -124,37 +124,37 @@
       "percentile": 73
     },
     "VIXCLS": {
-      "latest": 22.91,
-      "latest_date": "2026-11-16",
+      "latest": 25.46,
+      "latest_date": "2026-11-17",
       "n_obs": 779,
       "changes": {
-        "1d": 3.61,
-        "5d": 2.99,
-        "20d": 4.47
+        "1d": 2.55,
+        "5d": 6.0,
+        "20d": 8.15
       },
-      "percentile": 91
+      "percentile": 95
     },
     "BAMLH0A0HYM2": {
-      "latest": 3.34,
-      "latest_date": "2026-11-16",
-      "n_obs": 784,
+      "latest": 3.43,
+      "latest_date": "2026-11-17",
+      "n_obs": 785,
       "changes": {
-        "1d": 0.11,
-        "5d": 0.0,
-        "20d": 0.05
+        "1d": 0.09,
+        "5d": 0.13,
+        "20d": 0.1
       },
-      "percentile": 83
+      "percentile": 88
     },
     "STLFSI4": {
-      "latest": -0.4918,
-      "latest_date": "2026-11-06",
-      "n_obs": 157,
+      "latest": -0.8655,
+      "latest_date": "2026-11-13",
+      "n_obs": 158,
       "changes": {
-        "1d": 0.0309,
-        "5d": -0.032,
-        "20d": 0.4559
+        "1d": -0.3754,
+        "5d": -0.1459,
+        "20d": -0.2261
       },
-      "percentile": 74
+      "percentile": 7
     },
     "CPIAUCSL": {
       "latest": 337.476,
