@@ -1,6 +1,6 @@
 # Calendar — Trading Day 18 Nov 2026
 
-- Banaya gaya: **18 Nov 2026 08:49 PKT**
+- Banaya gaya: **18 Nov 2026 19:25 PKT**
 - Trading day: **18 Nov 03:00 -> 19 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,21 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 12:00 | GBP | **HIGH** | CPI y/y | 3.6% | 3.5% |
-| 12:00 | GBP | low | Core CPI y/y | 2.8% | 2.8% |
-| 12:00 | GBP | low | PPI Input m/m | 0.8% | 1.5% |
-| 12:00 | GBP | low | PPI Output m/m | 0.6% | 0.8% |
-| 12:00 | GBP | low | RPI y/y | 4.1% | 3.9% |
-| 12:02 | CNY | low | Foreign Direct Investment ytd/y | - | -4.3% |
-| 12:30 | GBP | MED | BOE Gov Bailey Speaks | - | - |
-| 14:00 | EUR | MED | ECB Financial Stability Review | - | - |
-| 14:30 | GBP | low | HPI y/y | 0.7% | 0.9% |
-| 15:00 | EUR | low | Final Core CPI y/y | 2.5% | 2.5% |
-| 15:00 | EUR | low | Final CPI y/y | 4.0% | 4.0% |
-| 18:30 | CAD | low | NHPI m/m | 0.1% | -0.2% |
-| 18:30 | USD | low | Building Permits | 1.38M | 1.40M |
-| 18:30 | USD | low | Housing Starts | 1.25M | 1.22M |
-| 19:25 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | 20:00 | GBP | **HIGH** | BOE Gov Bailey Speaks | - | - |
 | 20:00 | USD | low | Pending Home Sales m/m | -2.0% | -7.3% |
 | 20:30 | USD | low | Crude Oil Inventories | 0.4M | 4.7M |
@@ -42,10 +27,21 @@
 | **19 Nov** 04:50 | JPY | low | Core Machinery Orders m/m | 1.3% | 5.2% |
 | **19 Nov** 05:30 | AUD | **HIGH** | Employment Change | 25.5K | -39.3K |
 | **19 Nov** 05:30 | AUD | **HIGH** | Unemployment Rate | 4.7% | 4.7% |
+| **19 Nov** 12:02 | CNY | low | Foreign Direct Investment ytd/y | - | -4.3% |
+| **19 Nov** 14:00 | EUR | low | Current Account | 16.6B | 8.7B |
+| **19 Nov** 16:00 | EUR | low | German Buba Monthly Report | - | - |
+| **19 Nov** 16:00 | GBP | low | CBI Industrial Order Expectations | -29 | -32 |
+| **19 Nov** 17:15 | GBP | low | MPC Member Dhingra Speaks | - | - |
+| **19 Nov** 18:30 | CAD | low | IPPI m/m | 0.4% | 2.0% |
+| **19 Nov** 18:30 | CAD | low | RMPI m/m | 0.9% | 4.8% |
+| **19 Nov** 18:30 | EUR | MED | ECB President Lagarde Speaks | - | - |
+| **19 Nov** 18:30 | USD | MED | Philly Fed Manufacturing Index | 20.6 | 20.9 |
+| **19 Nov** 18:30 | USD | MED | Unemployment Claims | 198K | 200K |
+| **19 Nov** 18:50 | USD | low | FOMC Member Hammack Speaks | - | - |
+| **19 Nov** 19:25 | USD | low | FOMC Member Jefferson Speaks | - | - |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
-- `18 Nov 12:00` **GBP CPI y/y**
 - `18 Nov 20:00` **GBP BOE Gov Bailey Speaks**
 - `19 Nov 00:00` **USD FOMC Meeting Minutes**
 - `19 Nov 05:30` **AUD Employment Change**
@@ -57,9 +53,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **19 Nov** 18:30 | EUR | MED | ECB President Lagarde Speaks | - | - |
-| **19 Nov** 18:30 | USD | MED | Philly Fed Manufacturing Index | 20.6 | 20.9 |
-| **19 Nov** 18:30 | USD | MED | Unemployment Claims | 198K | 200K |
 | **20 Nov** 12:00 | GBP | MED | Retail Sales m/m | 0.0% | -0.4% |
 | **20 Nov** 13:15 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | **20 Nov** 20:00 | USD | MED | Revised UoM Consumer Sentiment | 51.7 | 51.0 |

@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "18 Nov 2026 08:49",
+  "generated_pkt": "18 Nov 2026 19:25",
   "trading_day": "2026-11-18",
   "feed_sources": {
     "thisweek": "live"
@@ -851,19 +851,6 @@
       "trading_day": "2026-11-18"
     },
     {
-      "title": "Foreign Direct Investment ytd/y",
-      "ccy": "CNY",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-4.3%",
-      "url": "https://www.forexfactory.com/calendar/457-ch-foreign-direct-investment-ytdy",
-      "all_day": false,
-      "utc": "2026-11-18T07:02Z",
-      "pkt": "18 Nov 12:02",
-      "pkt_iso": "2026-11-18T12:02:00+05:00",
-      "trading_day": "2026-11-18"
-    },
-    {
       "title": "BOE Gov Bailey Speaks",
       "ccy": "GBP",
       "impact": "Medium",
@@ -1173,6 +1160,19 @@
       "utc": "2026-11-19T00:30Z",
       "pkt": "19 Nov 05:30",
       "pkt_iso": "2026-11-19T05:30:00+05:00",
+      "trading_day": "2026-11-19"
+    },
+    {
+      "title": "Foreign Direct Investment ytd/y",
+      "ccy": "CNY",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-4.3%",
+      "url": "https://www.forexfactory.com/calendar/457-ch-foreign-direct-investment-ytdy",
+      "all_day": false,
+      "utc": "2026-11-19T07:02Z",
+      "pkt": "19 Nov 12:02",
+      "pkt_iso": "2026-11-19T12:02:00+05:00",
       "trading_day": "2026-11-19"
     },
     {
