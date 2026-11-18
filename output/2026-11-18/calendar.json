@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "18 Nov 2026 04:41",
+  "generated_pkt": "18 Nov 2026 08:49",
   "trading_day": "2026-11-18",
   "feed_sources": {
     "thisweek": "live"
@@ -741,9 +741,9 @@
       "previous": "-0.1%",
       "url": "https://www.forexfactory.com/calendar/303-au-mi-leading-index-mm",
       "all_day": false,
-      "utc": "2026-11-17T23:30Z",
-      "pkt": "18 Nov 04:30",
-      "pkt_iso": "2026-11-18T04:30:00+05:00",
+      "utc": "2026-11-17T23:39Z",
+      "pkt": "18 Nov 04:39",
+      "pkt_iso": "2026-11-18T04:39:00+05:00",
       "trading_day": "2026-11-18"
     },
     {

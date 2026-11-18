@@ -1,6 +1,6 @@
 # Calendar — Trading Day 18 Nov 2026
 
-- Banaya gaya: **18 Nov 2026 04:41 PKT**
+- Banaya gaya: **18 Nov 2026 08:49 PKT**
 - Trading day: **18 Nov 03:00 -> 19 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,9 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 04:50 | JPY | low | Trade Balance | -0.90T | -0.70T |
-| 05:30 | AUD | MED | Wage Price Index q/q | 1.0% | 0.8% |
-| 07:45 | EUR | low | German Buba President Nagel Speaks | - | - |
 | 12:00 | GBP | **HIGH** | CPI y/y | 3.6% | 3.5% |
 | 12:00 | GBP | low | Core CPI y/y | 2.8% | 2.8% |
 | 12:00 | GBP | low | PPI Input m/m | 0.8% | 1.5% |
@@ -42,12 +39,17 @@
 | **19 Nov** 02:00 | USD | low | TIC Long-Term Purchases | 160.7B | 279.2B |
 | **19 Nov** 02:15 | USD | low | FOMC Member Kashkari Speaks | - | - |
 | **19 Nov** 02:45 | NZD | low | Trade Balance | -1650M | -1971M |
+| **19 Nov** 04:50 | JPY | low | Core Machinery Orders m/m | 1.3% | 5.2% |
+| **19 Nov** 05:30 | AUD | **HIGH** | Employment Change | 25.5K | -39.3K |
+| **19 Nov** 05:30 | AUD | **HIGH** | Unemployment Rate | 4.7% | 4.7% |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
 - `18 Nov 12:00` **GBP CPI y/y**
 - `18 Nov 20:00` **GBP BOE Gov Bailey Speaks**
 - `19 Nov 00:00` **USD FOMC Meeting Minutes**
+- `19 Nov 05:30` **AUD Employment Change**
+- `19 Nov 05:30` **AUD Unemployment Rate**
 
 ---
 
@@ -55,8 +57,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **19 Nov** 05:30 | AUD | **HIGH** | Employment Change | 25.5K | -39.3K |
-| **19 Nov** 05:30 | AUD | **HIGH** | Unemployment Rate | 4.7% | 4.7% |
 | **19 Nov** 18:30 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | **19 Nov** 18:30 | USD | MED | Philly Fed Manufacturing Index | 20.6 | 20.9 |
 | **19 Nov** 18:30 | USD | MED | Unemployment Claims | 198K | 200K |
