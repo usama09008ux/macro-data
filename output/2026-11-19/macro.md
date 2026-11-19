@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 19 Nov 2026
 
-- Banaya gaya: **19 Nov 2026 19:41 PKT**
+- Banaya gaya: **20 Nov 2026 01:40 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
@@ -37,7 +37,7 @@
 | Series | Aaj | 1d | 5d | 20d | %ile (3y) | Tareekh |
 |---|---|---|---|---|---|---|
 | VIX <br>`VIXCLS` | **24.56** | -0.9 | +7.07 | +7.88 | 94 | 2026-11-18 |
-| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.43%** | +0.09 | +0.13 | +0.1 | 88 | 2026-11-17 |
+| High-yield credit spread <br>`BAMLH0A0HYM2` | **3.47%** | +0.04 | +0.17 | +0.2 | 90 | 2026-11-18 |
 | Financial stress index <br>`STLFSI4` | **-0.87** | -0.3754 | -0.1459 | -0.2261 | 7 | 2026-11-13 |
 
 ---
