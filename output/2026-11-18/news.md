@@ -1,8 +1,8 @@
 # News Pack — Trading Day 18 Nov 2026
 
 - Trading day: **18 Nov 03:00 -> 19 Nov 02:59 PKT**
-- Aakhri update: **19 Nov 05:51 PKT**
-- Kul khabrein: **685**
+- Aakhri update: **19 Nov 13:18 PKT**
+- Kul khabrein: **701**
 - Feeds: 35/39 OK
 
 ---
@@ -340,9 +340,10 @@ Plus, Nvidia slips after earnings and a Fed governor pushes for an aggressive hi
 U.S. stocks ended Wednesday mixed. The Dow fell 1.11%, with 20 of its 30 stocks closing lower. UnitedHealth was the biggest drag as investors weighed a federal proposal to expand Medicare Advantage audits. Chevron, Merck and Amgen added to the pressure. The Nasdaq Composite and Nasdaq 100 each gained 0.42%, but the buying was selective. On the Nasdaq exchange, 1,769 stocks fell and 1,463 rose. Nvidia closed down 2.89% after beating earnings and revenue expectations Tuesday.
 
 **Fed policymakers concerned about financial system risks, minutes show - Kitco**
-`19 Nov 02:08 PKT` · pehli baar dekhi `19 Nov 05:51` · kitco_general
+`19 Nov 02:08 PKT` · pehli baar dekhi `19 Nov 05:51` · kitco_general · **2 feeds mein**
 
 Fed policymakers concerned about financial system risks, minutes show Kitco
+  - `19 Nov 02:02` *gnews_fed* — Fed policymakers concerned about financial system risks, minutes show - Reuters
 
 **Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike - Kitco**
 `19 Nov 01:51 PKT` · pehli baar dekhi `19 Nov 05:51` · kitco_general · **2 feeds mein**
@@ -379,6 +380,11 @@ Fed Minutes Show More Rate Hikes Likely As Inflation Risks Persist Forbes Middle
 `19 Nov 01:17 PKT` · pehli baar dekhi `19 Nov 05:51` · gnews_fed
 
 Supersized December rate hike could be ahead: Fed governor Mortgage Professional America
+
+**Fed Minutes: Almost All Officials See More Rate Hikes - iShares 20+ Year Treasury Bond ETF (NASDAQ:TLT) - Benzinga**
+`19 Nov 01:12 PKT` · pehli baar dekhi `19 Nov 13:18` · gnews_fed
+
+Fed Minutes: Almost All Officials See More Rate Hikes - iShares 20+ Year Treasury Bond ETF (NASDAQ:TLT) Benzinga
 
 **Fed's Waller says officials may need to 'shock' with half-point rate hike - The Hill**
 `19 Nov 01:10 PKT` · pehli baar dekhi `19 Nov 05:51` · gnews_fed
@@ -498,6 +504,11 @@ Comments from the Fed Governor: Supports raising rates further if economy perfor
 **Fed's Daly urges cautious additional rate hikes**
 `18 Nov 23:35 PKT` · pehli baar dekhi `18 Nov 23:50` · investing_news
 
+**Hawkish Minutes Show "Almost All" FOMC Members See More Hikes As Fed Frets Over "Opaque" AI Debt - Forex Factory**
+`18 Nov 23:20 PKT` · pehli baar dekhi `19 Nov 13:18` · gnews_fed
+
+Hawkish Minutes Show "Almost All" FOMC Members See More Hikes As Fed Frets Over "Opaque" AI Debt Forex Factory
+
 **Fed's Daly Urges Rate Hikes With a Thoughtful, Measured Approach - Bloomberg.com**
 `18 Nov 23:16 PKT` · pehli baar dekhi `18 Nov 23:50` · gnews_fed
 
@@ -528,6 +539,11 @@ Comments from the Fed's Daly on inflation, consumer spending and employment cros
 
 The Fed's next moves come into focus Axios
 
+**Fed Nearing Decision On 'Skinny' Master Accounts That Could Open Payment Systems To New Competitors - CUToday**
+`18 Nov 22:09 PKT` · pehli baar dekhi `19 Nov 13:18` · gnews_fed
+
+Fed Nearing Decision On 'Skinny' Master Accounts That Could Open Payment Systems To New Competitors CUToday
+
 **Will the Fed Minutes signal a more aggressive tightening cycle ahead? - FXStreet**
 `18 Nov 22:00 PKT` · pehli baar dekhi `18 Nov 23:50` · gnews_fed
 
@@ -542,6 +558,11 @@ Lisa Cook refuses to participate in Trump administration's latest effort to remo
 `18 Nov 21:05 PKT` · pehli baar dekhi `18 Nov 23:50` · gnews_fed
 
 Fed Minutes Will Give Insight Into the Path—and Size—of Rate Increases Ahead Barron's
+
+**Dollar higher as hawkish Waller backs aggressive Fed action - Yahoo Finance**
+`18 Nov 21:00 PKT` · pehli baar dekhi `19 Nov 13:18` · gnews_fed
+
+Dollar higher as hawkish Waller backs aggressive Fed action Yahoo Finance
 
 **New York Fed President Rules Out 0.5% Rate Hike - 조선일보**
 `18 Nov 20:51 PKT` · pehli baar dekhi `18 Nov 23:50` · gnews_fed
@@ -563,6 +584,11 @@ Fed Governor Christopher Waller hints at bigger rate hike Washington Examiner
 
 Waller says on CNBC the Fed needs to get more aggressive in inflation response Kitco
   - `18 Nov 18:52` *gnews_fed* — Waller says on CNBC the Fed needs to get more aggressive in inflation response - Reuters
+
+**Trader Kevin Muir buys Treasurys as the Fed tightens into a slowing economy - Martin Cid Magazine**
+`18 Nov 20:22 PKT` · pehli baar dekhi `19 Nov 13:18` · gnews_fed
+
+Trader Kevin Muir buys Treasurys as the Fed tightens into a slowing economy Martin Cid Magazine
 
 **Sunset Market Commentary**
 `18 Nov 20:08 PKT` · pehli baar dekhi `18 Nov 23:50` · actionforex
@@ -961,10 +987,20 @@ ECB Weighs A Higher Reserve Floor For Eurozone Banks Finimize
 
 Euro zone inflation hits 4%, paving way for more ECB interest rate hikes The Irish Times
 
+**ECB's Vujcic says a December hike looks very likely, with 2027 tightening on the table - Briefs Finance**
+`18 Nov 21:30 PKT` · pehli baar dekhi `19 Nov 13:18` · gnews_centralbanks
+
+ECB's Vujcic says a December hike looks very likely, with 2027 tightening on the table Briefs Finance
+
 **ECB Weighs Doubling Banks' Minimum Reserve Requirement to 2%, Saving €4.4 Billion in Interest Annually - BigGo Finance**
 `18 Nov 20:25 PKT` · pehli baar dekhi `18 Nov 23:50` · gnews_centralbanks
 
 ECB Weighs Doubling Banks' Minimum Reserve Requirement to 2%, Saving €4.4 Billion in Interest Annually BigGo Finance
+
+**ECB President Lagarde says AI valuations will eventually face a correction as they are very high - Newsquawk**
+`18 Nov 20:02 PKT` · pehli baar dekhi `19 Nov 13:18` · gnews_centralbanks
+
+ECB President Lagarde says AI valuations will eventually face a correction as they are very high Newsquawk
 
 **ECB may double banks' reserve requirement to 2% - BurgasMedia**
 `18 Nov 18:44 PKT` · pehli baar dekhi `19 Nov 05:51` · gnews_centralbanks
@@ -1005,6 +1041,11 @@ ECB Sees More Than 10% of Euro-Area Nonfinancial Company Loans Repricing www.tok
 `18 Nov 16:20 PKT` · pehli baar dekhi `18 Nov 23:50` · actionforex
 
 Eurozone annual HICP inflation accelerated from 3.8% to 4.0% in October, confirming the flash estimate, according to Eurostat&#8217;s final release. Consumer prices rose 0.5% mom, while core inflation, excluding energy, food, alcohol and tobacco, edged up from 2.5% to 2.6% yoy, above the preliminary estimate of 2.5%. Headline inflation has nearly doubled from 2.1% a [&#8230;] The post Eurozone Inflation Confirmed at 4.0% as Energy Surges, Core CPI Revised Higher appeared first on ActionForex.
+
+**Markets should help discipline France over high debt, ECB says - Reuters**
+`18 Nov 15:14 PKT` · pehli baar dekhi `19 Nov 13:18` · gnews_centralbanks
+
+Markets should help discipline France over high debt, ECB says Reuters
 
 **Euro Zone October CPI Edges Up to 4.0% Year-on-Year, Marking Acceleration in Inflation**
 `18 Nov 15:07 PKT` · instaforex
@@ -1458,10 +1499,20 @@ The saga of financially distressed Thames Water may have reached a new low. The 
 **ICE canola futures fall as vegoils and crude oil weaken**
 `19 Nov 01:21 PKT` · pehli baar dekhi `19 Nov 05:51` · investing_commodities
 
+**Crude Oil Prices Plummet as Supply Concerns Ease - TradingView**
+`19 Nov 01:16 PKT` · pehli baar dekhi `19 Nov 13:18` · gnews_geopolitics
+
+Crude Oil Prices Plummet as Supply Concerns Ease TradingView
+
 **Iraq's Border Shutdown With Iran Threatens a Much Bigger Economic Crisis**
 `19 Nov 01:00 PKT` · pehli baar dekhi `19 Nov 05:51` · oilprice
 
 Iraq's closure of the Al-Sheeb crossing with Iran is less an economic rupture than a test of whether Baghdad can secure its borders without damaging its economy. The immediate costs are concentrated in Maysan Province and are manageable, at least for now. A wider, prolonged shutdown would be different: it would disrupt trade, raise costs for Iraqi businesses and consumers, and complicate Baghdad's effort to establish Iraq as a regional transportation and logistics hub.
+
+**Oil prices settle lower as traders weigh surplus supply outlook - Yahoo Finance**
+`19 Nov 00:57 PKT` · pehli baar dekhi `19 Nov 13:18` · gnews_geopolitics
+
+Oil prices settle lower as traders weigh surplus supply outlook Yahoo Finance
 
 **IRAN'S SEVEN DAY PLAN: Iran's Araqchi Says Now Up to U.S. to Accept 7-Day Plan to Open Strait of Hormuz - With Implications for Canadian Oil - EnergyNow**
 `19 Nov 00:23 PKT` · pehli baar dekhi `19 Nov 05:51` · gnews_geopolitics
@@ -1888,6 +1939,11 @@ The United Kingdom just took a major step forward toward building one of the wor
 
 S&P Global made no downward adjustment in its latest Stablecoin Stability Assessment, as 5 is the lowest available score.
 
+**Fed Minutes Signal More Hikes – Why Bitcoin Should Care - Coindoo**
+`19 Nov 01:49 PKT` · pehli baar dekhi `19 Nov 13:18` · gnews_fed
+
+Fed Minutes Signal More Hikes – Why Bitcoin Should Care Coindoo
+
 **Fed Signals More Rate Hikes as Bitcoin Falls Below $63,000 - Altcoin Buzz**
 `19 Nov 01:44 PKT` · pehli baar dekhi `19 Nov 05:51` · gnews_fed
 
@@ -2034,6 +2090,11 @@ Federal Reserve Minutes Times Argus
 
 Federal Reserve Minutes The Batesville Daily Guard
 
+**Federal Reserve Minutes - Goshen News**
+`18 Nov 23:31 PKT` · pehli baar dekhi `19 Nov 13:18` · gnews_fed
+
+Federal Reserve Minutes Goshen News
+
 **Ghana's Prime Interest Rate Cut to 11% in November, Marking Steep Month-on-Month Drop**
 `18 Nov 23:30 PKT` · pehli baar dekhi `18 Nov 23:50` · instaforex
 
@@ -2078,6 +2139,11 @@ Don't rule out a half-point interest-rate hike in December, BofA Global's rates 
 `19 Nov 01:12 PKT` · pehli baar dekhi `19 Nov 05:51` · aljazeera
 
 US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.
+
+**Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA - EnergyNow.com**
+`19 Nov 00:32 PKT` · pehli baar dekhi `19 Nov 13:18` · gnews_geopolitics
+
+Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA EnergyNow.com
 
 **Four killed as Russian strikes hit Ukraine's Odesa**
 `19 Nov 00:31 PKT` · pehli baar dekhi `19 Nov 05:51` · aljazeera
@@ -2258,7 +2324,7 @@ Russia&#039;s Defence Ministry says preliminary findings for the crash point to 
 
 Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says EnergyNow.com
 
-### BINA TAG (196)
+### BINA TAG (198)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2269,6 +2335,7 @@ Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says Ene
 - `19 Nov 02:39` **kitco_general** — TSX hits more than 4-month low as miners slide on weaker metal prices - Kitco
 - `19 Nov 02:34` **wsj_world** — Opinion | To Negotiate With Putin Is to Concede Defeat
 - `19 Nov 02:33` **kitco_general** — SQM's third-quarter profit jumps 205% on strong lithium sales - Kitco
+- `19 Nov 02:30` **bbc_business** — Business Daily
 - `19 Nov 02:28` **kitco_general** — Indonesian miners scramble for clarity as Prabowo seeks greater state share - Kitco
 - `19 Nov 02:28` **bbc_business** — Can Anthropic's record breaking IPO stop the AI bubble bursting?
 - `19 Nov 02:25` **kitco_general** — Freeport Indonesia offers Manyar copper to China at $158/ton premium for 2027 - Kitco
@@ -2278,6 +2345,7 @@ Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says Ene
 - `19 Nov 02:08` **aljazeera** — Floodwaters submerge cars and parking lots in Florida town
 - `19 Nov 02:01` **aljazeera** — US Defence Secretary Hegseth reveals military partnership on Venezuela trip
 - `19 Nov 02:00` **kitco_general** — KGHM beats quarterly profit estimates on high metal prices - Kitco
+- `19 Nov 01:57` **kitco_general** — TAG: December copper futures - Kitco
 - `19 Nov 01:38` **aljazeera** — What does Israel's new ground offensive mean for Palestinians in Gaza?
 - `19 Nov 01:37` **aljazeera** — Pew Research: Islam on track to become world's largest religion by 2035
 - `19 Nov 01:24` **aljazeera** — Putin's nuclear briefcase makes surprise appearance at China summit
@@ -2475,48 +2543,48 @@ investing_news (8)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 16 | 9 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 21 | 4 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.0 |
-| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.3 |
-| instaforex | OK | 25 | 25 | 17 | 8 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 8 | 2 | 6 | 28 | 0.1 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.2 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 9 | 3 | 6 | 1 | 0.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 69.3 |
-| kitco_general | OK | 39 | 38 | 21 | 17 | 1 | 0.1 |
-| gnews_fed | OK | 95 | 95 | 62 | 33 | 0 | 0.0 |
-| gnews_geopolitics | OK | 38 | 38 | 12 | 26 | 0 | 0.1 |
-| gnews_centralbanks | OK | 48 | 48 | 16 | 32 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 1 | 1 | 0 | 14 | 0.2 |
-| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.3 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.7 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 5.7 |
-| boj_whatsnew | OK | 45 | 0 | 0 | 0 | 45 | 2.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 13.0 |
-| mining_com | OK | 36 | 14 | 7 | 7 | 22 | 0.1 |
-| oilprice | OK | 15 | 15 | 6 | 9 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
-| ing_think | OK | 10 | 3 | 0 | 3 | 7 | 0.7 |
-| bbc_business | OK | 48 | 21 | 6 | 15 | 27 | 0.0 |
+| actionforex | OK | 20 | 20 | 16 | 4 | 0 | 0.0 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.6 |
+| instaforex | OK | 25 | 25 | 5 | 20 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 11 | 3 | 8 | 25 | 0.2 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_daily_commentary | OK | 10 | 9 | 0 | 9 | 1 | 0.4 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 69.6 |
+| kitco_general | OK | 40 | 39 | 1 | 38 | 1 | 0.1 |
+| gnews_fed | OK | 100 | 100 | 27 | 73 | 0 | 0.0 |
+| gnews_geopolitics | OK | 47 | 47 | 28 | 19 | 0 | 0.0 |
+| gnews_centralbanks | OK | 44 | 44 | 11 | 33 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
+| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 1.0 |
+| boe_news | OK | 50 | 2 | 2 | 0 | 48 | 0.0 |
+| boj_whatsnew | OK | 46 | 2 | 2 | 0 | 44 | 0.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 13.4 |
+| mining_com | OK | 36 | 13 | 0 | 13 | 23 | 0.4 |
+| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| ing_think | OK | 10 | 5 | 2 | 3 | 5 | 0.0 |
+| bbc_business | OK | 49 | 24 | 5 | 19 | 25 | 0.1 |
 | aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.7 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 2.6 |
-| eia_energy | OK | 28 | 1 | 0 | 1 | 27 | 0.5 |
-| bea_releases | OK | 49 | 1 | 0 | 1 | 48 | 0.4 |
-| wsj_world | OK | 73 | 23 | 5 | 18 | 50 | 0.1 |
-| wsj_markets | OK | 61 | 29 | 11 | 18 | 32 | 0.0 |
-| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 3.0 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 2.9 |
+| eia_energy | OK | 28 | 1 | 0 | 1 | 27 | 0.8 |
+| bea_releases | OK | 49 | 1 | 0 | 1 | 48 | 0.7 |
+| wsj_world | OK | 72 | 27 | 4 | 23 | 45 | 0.0 |
+| wsj_markets | OK | 61 | 31 | 4 | 27 | 30 | 0.0 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 23 | 6 | 17 | 7 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 29 | 6 | 23 | 1 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 69d purana
+- cme_risk_management — STALE, cadence 10d, magar 70d purana
 - yahoo_finance — FAIL, HTTP 404
