@@ -1,6 +1,6 @@
 # Calendar — Trading Day 19 Nov 2026
 
-- Banaya gaya: **19 Nov 2026 08:48 PKT**
+- Banaya gaya: **19 Nov 2026 19:36 PKT**
 - Trading day: **19 Nov 03:00 -> 20 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,17 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 14:00 | EUR | low | Current Account | 16.6B | 8.7B |
-| 16:00 | EUR | low | German Buba Monthly Report | - | - |
-| 16:00 | GBP | low | CBI Industrial Order Expectations | -29 | -32 |
-| 17:15 | GBP | low | MPC Member Dhingra Speaks | - | - |
-| 18:30 | CAD | low | IPPI m/m | 0.4% | 2.0% |
-| 18:30 | CAD | low | RMPI m/m | 0.9% | 4.8% |
-| 18:30 | EUR | MED | ECB President Lagarde Speaks | - | - |
-| 18:30 | USD | MED | Philly Fed Manufacturing Index | 20.6 | 20.9 |
-| 18:30 | USD | MED | Unemployment Claims | 198K | 200K |
-| 18:50 | USD | low | FOMC Member Hammack Speaks | - | - |
-| 19:25 | USD | low | FOMC Member Jefferson Speaks | - | - |
 | 20:00 | USD | low | CB Leading Index m/m | 0.0% | 0.0% |
 | 20:15 | USD | low | Mortgage Delinquencies | - | 4.37% |
 | 20:30 | USD | low | Natural Gas Storage | 25B | 61B |
@@ -35,6 +24,15 @@
 | **20 Nov** 06:00 | CNY | low | 1-y Loan Prime Rate | 3.00% | 3.00% |
 | **20 Nov** 06:00 | CNY | low | 5-y Loan Prime Rate | 3.50% | 3.50% |
 | **20 Nov** 07:00 | NZD | low | Credit Card Spending y/y | - | 6.9% |
+| **20 Nov** 12:00 | EUR | low | German PPI m/m | 0.9% | 1.9% |
+| **20 Nov** 12:00 | GBP | MED | Retail Sales m/m | 0.0% | -0.4% |
+| **20 Nov** 12:00 | GBP | low | Public Sector Net Borrowing | 18.0B | 24.5B |
+| **20 Nov** 12:02 | CNY | low | Foreign Direct Investment ytd/y | - | -4.3% |
+| **20 Nov** 13:15 | EUR | MED | ECB President Lagarde Speaks | - | - |
+| **20 Nov** 18:00 | EUR | low | German Buba President Nagel Speaks | - | - |
+| **20 Nov** 18:25 | USD | low | FOMC Member Waller Speaks | - | - |
+| **20 Nov** 18:30 | CAD | low | Core Retail Sales m/m | 0.7% | 1.2% |
+| **20 Nov** 18:30 | CAD | low | Retail Sales m/m | 0.7% | 1.2% |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
@@ -44,8 +42,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| **20 Nov** 12:00 | GBP | MED | Retail Sales m/m | 0.0% | -0.4% |
-| **20 Nov** 13:15 | EUR | MED | ECB President Lagarde Speaks | - | - |
 | **20 Nov** 20:00 | USD | MED | Revised UoM Consumer Sentiment | 51.7 | 51.0 |
 | **20 Nov** 20:00 | USD | MED | Revised UoM Inflation Expectations | - | 4.3% |
 
