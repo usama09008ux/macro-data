@@ -1,6 +1,6 @@
 # Calendar — Trading Day 19 Nov 2026
 
-- Banaya gaya: **19 Nov 2026 04:13 PKT**
+- Banaya gaya: **19 Nov 2026 08:48 PKT**
 - Trading day: **19 Nov 03:00 -> 20 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,9 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 04:50 | JPY | low | Core Machinery Orders m/m | 1.3% | 5.2% |
-| 05:30 | AUD | **HIGH** | Employment Change | 25.5K | -39.3K |
-| 05:30 | AUD | **HIGH** | Unemployment Rate | 4.7% | 4.7% |
 | 14:00 | EUR | low | Current Account | 16.6B | 8.7B |
 | 16:00 | EUR | low | German Buba Monthly Report | - | - |
 | 16:00 | GBP | low | CBI Industrial Order Expectations | -29 | -32 |
@@ -32,11 +29,14 @@
 | 22:30 | USD | low | FOMC Member Goolsbee Speaks | - | - |
 | **20 Nov** 00:15 | USD | low | FOMC Member Barr Speaks | - | - |
 | **20 Nov** 02:00 | USD | low | FOMC Member Barkin Speaks | - | - |
+| **20 Nov** 04:30 | JPY | low | National Core CPI y/y | 2.3% | 2.1% |
+| **20 Nov** 04:30 | USD | low | FOMC Member Paulson Speaks | - | - |
+| **20 Nov** 05:01 | GBP | low | GfK Consumer Confidence | -22 | -24 |
+| **20 Nov** 06:00 | CNY | low | 1-y Loan Prime Rate | 3.00% | 3.00% |
+| **20 Nov** 06:00 | CNY | low | 5-y Loan Prime Rate | 3.50% | 3.50% |
+| **20 Nov** 07:00 | NZD | low | Credit Card Spending y/y | - | 6.9% |
 
-**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
-
-- `19 Nov 05:30` **AUD Employment Change**
-- `19 Nov 05:30` **AUD Unemployment Rate**
+*Agle 24 ghante mein koi HIGH impact event nahi.*
 
 ---
 
