@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "19 Nov 2026 19:36",
+  "generated_pkt": "20 Nov 2026 00:46",
   "trading_day": "2026-11-19",
   "feed_sources": {
     "thisweek": "live"
@@ -1319,19 +1319,6 @@
       "trading_day": "2026-11-19"
     },
     {
-      "title": "Mortgage Delinquencies",
-      "ccy": "USD",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "4.37%",
-      "url": "https://www.forexfactory.com/calendar/489-us-mortgage-delinquencies",
-      "all_day": false,
-      "utc": "2026-11-19T15:15Z",
-      "pkt": "19 Nov 20:15",
-      "pkt_iso": "2026-11-19T20:15:00+05:00",
-      "trading_day": "2026-11-19"
-    },
-    {
       "title": "Natural Gas Storage",
       "ccy": "USD",
       "impact": "Low",
@@ -1342,6 +1329,19 @@
       "utc": "2026-11-19T15:30Z",
       "pkt": "19 Nov 20:30",
       "pkt_iso": "2026-11-19T20:30:00+05:00",
+      "trading_day": "2026-11-19"
+    },
+    {
+      "title": "Mortgage Delinquencies",
+      "ccy": "USD",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "4.37%",
+      "url": "https://www.forexfactory.com/calendar/489-us-mortgage-delinquencies",
+      "all_day": false,
+      "utc": "2026-11-19T15:46Z",
+      "pkt": "19 Nov 20:46",
+      "pkt_iso": "2026-11-19T20:46:00+05:00",
       "trading_day": "2026-11-19"
     },
     {
@@ -1631,5 +1631,34 @@
       "trading_day": "2026-11-20"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US initial jobless claims 203K vs 197K estimate",
+      "actual_raw": "203K",
+      "forecast_raw": "197K",
+      "beat": true,
+      "raw_diff": "+6.0K",
+      "sign_flip": false,
+      "diff_pct": 3.0,
+      "when_pkt": "19 Nov 18:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US November Philly Fed 6.3 vs 20.0 expected",
+      "actual_raw": "6.3",
+      "forecast_raw": "20.0",
+      "beat": false,
+      "raw_diff": "-13.70",
+      "sign_flip": false,
+      "diff_pct": -68.5,
+      "when_pkt": "19 Nov 18:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }
