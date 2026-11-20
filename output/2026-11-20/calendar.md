@@ -1,6 +1,6 @@
 # Calendar — Trading Day 20 Nov 2026
 
-- Banaya gaya: **20 Nov 2026 04:20 PKT**
+- Banaya gaya: **20 Nov 2026 08:41 PKT**
 - Trading day: **20 Nov 03:00 -> 21 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,12 +12,6 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 04:30 | JPY | low | National Core CPI y/y | 2.3% | 2.1% |
-| 04:30 | USD | low | FOMC Member Paulson Speaks | - | - |
-| 05:01 | GBP | low | GfK Consumer Confidence | -22 | -24 |
-| 06:00 | CNY | low | 1-y Loan Prime Rate | 3.00% | 3.00% |
-| 06:00 | CNY | low | 5-y Loan Prime Rate | 3.50% | 3.50% |
-| 07:00 | NZD | low | Credit Card Spending y/y | - | 6.9% |
 | 12:00 | EUR | low | German PPI m/m | 0.9% | 1.9% |
 | 12:00 | GBP | MED | Retail Sales m/m | 0.0% | -0.4% |
 | 12:00 | GBP | low | Public Sector Net Borrowing | 18.0B | 24.5B |
