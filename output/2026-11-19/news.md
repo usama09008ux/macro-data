@@ -1,8 +1,8 @@
 # News Pack — Trading Day 19 Nov 2026
 
 - Trading day: **19 Nov 03:00 -> 20 Nov 02:59 PKT**
-- Aakhri update: **20 Nov 04:44 PKT**
-- Kul khabrein: **654**
+- Aakhri update: **20 Nov 09:22 PKT**
+- Kul khabrein: **681**
 - Feeds: 35/39 OK
 
 ---
@@ -373,10 +373,11 @@ Treasury TIPS Auction Yields Highest in 24 Years Wisevoter
 Fed's Goolsbee says AI surge could strain US capacity, overheat economy Yahoo
 
 **US Fed tells regional staff to expect lower pay increases in 2027, Bloomberg News reports - Kitco**
-`20 Nov 01:33 PKT` · pehli baar dekhi `20 Nov 04:44` · kitco_general · **4 feeds mein**
+`20 Nov 01:33 PKT` · pehli baar dekhi `20 Nov 04:44` · kitco_general · **5 feeds mein**
 
 US Fed tells regional staff to expect lower pay increases in 2027, Bloomberg News reports Kitco
   - `20 Nov 01:10` *gnews_fed* — US Fed tells regional staff to expect lower pay increases in 2027, Bloomberg News reports - Charlotte Observer
+  - `20 Nov 01:10` *gnews_fed* — US Fed tells regional staff to expect lower pay increases in 2027, Bloomberg News reports - Columbus Ledger-Enquirer
   - `20 Nov 00:37` *gnews_fed* — Fed Tells Regional Staff to Expect Lower Pay Increases in 2027 - Bloomberg.com
   - `20 Nov 00:36` *gnews_fed* — US Fed tells regional staff to expect lower pay increases in 2027, Bloomberg News reports - Reuters
 
@@ -401,10 +402,11 @@ Fed Officials Differ On Rate Path, But Predominant View is To Proceed Gradually 
 Fed's Goolsbee Warns AI Could Overheat Economy Wisevoter
 
 **Goolsbee says the Fed's job right now is to keep AI surge from overheating the economy - Kitco**
-`20 Nov 00:41 PKT` · pehli baar dekhi `20 Nov 04:44` · kitco_general · **2 feeds mein**
+`20 Nov 00:41 PKT` · pehli baar dekhi `20 Nov 04:44` · kitco_general · **3 feeds mein**
 
 Goolsbee says the Fed's job right now is to keep AI surge from overheating the economy Kitco
   - `19 Nov 23:59` *gnews_fed* — Goolsbee says the Fed's job right now is to keep AI surge from overheating the economy - Reuters
+  - `19 Nov 23:28` *gnews_fed* — Goolsbee says the Fed's job right now is to keep AI surge from overheating the economy - Yahoo
 
 **Fed's Barr warns on AI risks to financial system - Arizona Digital Free Press**
 `20 Nov 00:00 PKT` · pehli baar dekhi `20 Nov 04:44` · gnews_fed
@@ -500,6 +502,11 @@ The dollar has hit a 19-month high: what's going on? UkrMedia News
 
 TAG: US debt-to-GDP ratio Kitco
 
+**Higher Interest Rates Likely as Inflation Worries Mount - RVBusiness**
+`19 Nov 21:29 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_fed
+
+Higher Interest Rates Likely as Inflation Worries Mount RVBusiness
+
 **Federal Reserve Vice Chair Jefferson: The current AI boom is driving up inflation, while future productivity gains could help lower prices. - 富途牛牛**
 `19 Nov 21:24 PKT` · pehli baar dekhi `19 Nov 22:27` · gnews_fed
 
@@ -529,6 +536,11 @@ The Fed Just Warned About a Hidden $3 Trillion AI Risk. Here's How It Can Spread
 `19 Nov 20:41 PKT` · pehli baar dekhi `20 Nov 04:44` · kitco_general
 
 TAG: U.S. weekly jobless claims Kitco
+
+**Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table. - 24/7 Wall St.**
+`19 Nov 20:08 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_fed
+
+Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table. 24/7 Wall St.
 
 **The Fed Must Explain How It Will Break Inflation - Newsmax**
 `19 Nov 19:48 PKT` · pehli baar dekhi `19 Nov 22:27` · gnews_fed
@@ -663,6 +675,16 @@ Malaysia's consumer price inflation ticked higher in October 2026, with the Cons
 `19 Nov 13:17 PKT` · pehli baar dekhi `19 Nov 22:27` · gnews_fed
 
 Fed Governor Lisa Cook declines White House hearing to preserve Federal Reserve independence PravdaReport
+
+**Inflation reaches 3.6% as mortgage costs face upward pressure - PropertyWire**
+`19 Nov 11:04 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_centralbanks
+
+Inflation reaches 3.6% as mortgage costs face upward pressure PropertyWire
+
+**Blow for housing market as inflation hits 12-month high - The Negotiator**
+`19 Nov 11:00 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_centralbanks
+
+Blow for housing market as inflation hits 12-month high The Negotiator
 
 **MUFG Bank's 0.5% Ordinary Deposit Era: Decoding the Interest Margin — ¥10 Million for One Year Yields ¥55,779 After Tax - BigGo Finance**
 `19 Nov 10:36 PKT` · pehli baar dekhi `19 Nov 13:18` · gnews_centralbanks
@@ -811,6 +833,11 @@ Federal Reserve Minutes: Fed Officials Weigh 50 BPS Rate Hike Amid Inflation Con
 
 ### EUR
 
+**Bundesbank's Nagel says a December ECB hike would be a strong signal - Briefs Finance**
+`20 Nov 00:45 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_centralbanks
+
+Bundesbank's Nagel says a December ECB hike would be a strong signal Briefs Finance
+
 **France awaits verdict six years after police beat Black music producer**
 `19 Nov 23:51 PKT` · pehli baar dekhi `20 Nov 04:44` · aljazeera
 
@@ -821,10 +848,20 @@ Three officers are accused of assaulting Michel Zecler in an incident that was f
 
 ECB's Panetta Says Inflation Mustn't Be Allowed to Take Root Bloomberg.com
 
+**EUR/USD Holds 1.0979 off 19-Month Low as DXY Cools From 103.97; ECB Hike Bets Eye 1.1125 - TradingNEWS**
+`19 Nov 22:33 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_centralbanks
+
+EUR/USD Holds 1.0979 off 19-Month Low as DXY Cools From 103.97; ECB Hike Bets Eye 1.1125 TradingNEWS
+
 **European stocks close lower. Anthropic opens 34% above its IPO price.**
 `19 Nov 22:01 PKT` · pehli baar dekhi `20 Nov 04:44` · investinglive
 
 European stocks finish lower across the board As London and European traders head for the exits, the major indices are all lower. Spain's IBEX 35 led the declines, while the UK's FTSE 100 and Germany's DAX each fell a little over 0.9%. Italy's FTSE MIB held up the best of the group, but still lost 0.46%.
+
+**Lagarde Speech: What EUR/USD and Bunds Watch Before December - Admirals**
+`19 Nov 19:50 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_centralbanks
+
+Lagarde Speech: What EUR/USD and Bunds Watch Before December Admirals
 
 **The Bundesbank sees another interest rate hike as a decisive signal against inflation - Demócrata**
 `19 Nov 19:40 PKT` · pehli baar dekhi `19 Nov 22:27` · gnews_centralbanks
@@ -846,10 +883,20 @@ ECB's Nagel Says December Rate Hike Would Send Clear Signal Bloomberg.com
 
 ECB official Nagel backs further rate hikes to curb inflation Traders Union
 
+**Eurozone inflation hits 3-year high at 4% in October amid mounting energy costs - US Muslims**
+`19 Nov 16:19 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_centralbanks
+
+Eurozone inflation hits 3-year high at 4% in October amid mounting energy costs US Muslims
+
 **ECB Rate Decision December 2026: Will the ECB Hike Rates? - Admirals**
 `19 Nov 16:13 PKT` · pehli baar dekhi `19 Nov 22:27` · gnews_centralbanks
 
 ECB Rate Decision December 2026: Will the ECB Hike Rates? Admirals
+
+**Banks: ECB Considers €4.4 Billion Measure That Could Impact Their Revenue - Idéal Investisseur**
+`19 Nov 15:31 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_centralbanks
+
+Banks: ECB Considers €4.4 Billion Measure That Could Impact Their Revenue Idéal Investisseur
 
 **ECB's Nagel: An ECB rate hike would send clear signal - Forex Factory**
 `19 Nov 15:23 PKT` · pehli baar dekhi `19 Nov 22:27` · gnews_centralbanks
@@ -923,6 +970,21 @@ Greene Blames Loose BOE Policy, Not Bad Luck for Inflation Miss Bloomberg.com
 
 The GBPUSD is trading to a new low for 2026 as inflation concerns push the greenback higher. The move lower gathered momentum after sellers leaned against resistance on the hourly chart. On the daily chart, the break below a key floor gives sellers room to probe lower. Daily chart. The break below the floor opens the door toward 1.3000. The GBPUSD is breaking below the daily swing area between 1.31386 and 1.31786.
 
+**What Does De Cos Mean for the Euro's Outlook? - Pound Sterling Live**
+`19 Nov 22:53 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_centralbanks
+
+What Does De Cos Mean for the Euro's Outlook? Pound Sterling Live
+
+**Bank of England Starts £160m Headquarters Renovation - Demokratis.co.id**
+`19 Nov 20:29 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_centralbanks
+
+Bank of England Starts £160m Headquarters Renovation Demokratis.co.id
+
+**Bank of England consults on easing capital buffers for major lenders - Retail Banker International**
+`19 Nov 16:46 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_centralbanks
+
+Bank of England consults on easing capital buffers for major lenders Retail Banker International
+
 **GBP/USD Daily Outlook**
 `19 Nov 14:09 PKT` · pehli baar dekhi `19 Nov 22:27` · actionforex · **2 feeds mein**
 
@@ -933,6 +995,11 @@ Intraday bias in GBP/USD remains on the downside. Sustained break below 1.3135 w
 `19 Nov 13:19 PKT` · pehli baar dekhi `19 Nov 22:27` · gnews_centralbanks
 
 Bank of England market group flags AI, energy and leverage risks for UK rates outlook Traders Union
+
+**British Pound to Euro Forecast: GBP Retreats After Softer UK CPI - CurrencyNews.co.uk**
+`19 Nov 12:31 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_centralbanks
+
+British Pound to Euro Forecast: GBP Retreats After Softer UK CPI CurrencyNews.co.uk
 
 **Without Iranian oil, China's small refiners face pain but not collapse - BOE Report**
 `19 Nov 12:13 PKT` · pehli baar dekhi `19 Nov 22:27` · gnews_geopolitics
@@ -993,6 +1060,11 @@ Intraday bias in USD/JPY remains neutral for the moment. On the upside, firm bre
 `19 Nov 11:35 PKT` · pehli baar dekhi `19 Nov 22:27` · gnews_centralbanks
 
 Bank of Japan Governor Ueda: AI Demand a Tailwind for Japanese Exports, but Higher Semiconductor Prices Push Up Inflation; BOJ Maintains Additional Rate Hike Stance finance.biggo.com
+
+**BOJ's Ueda signals further rate hikes, rules out fresh review of ETF sales pace - The Economic Times**
+`19 Nov 10:01 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_centralbanks
+
+BOJ's Ueda signals further rate hikes, rules out fresh review of ETF sales pace The Economic Times
 
 **GTA VI lifts Sony shares as PlayStation takes three-quarters of 17 million sales**
 `19 Nov 09:37 PKT` · pehli baar dekhi `19 Nov 13:18` · investinglive
@@ -1307,6 +1379,11 @@ Iran War Wipes Out 2.8 Billion Barrels Of Oil Supply. Why Are Crude Prices Falli
 
 Egypt is rapidly expanding its solar power capacity as part of its goal to source 42% of its electricity from renewables by 2030 and 65% by 2040. The country currently gets most of its energy from fossil fuels, primarily natural gas and petroleum, which account for roughly 87% of Egypt's electricity generation. Renewables make up around 13%, divided between 6% hydropower and 7% wind and solar.
 
+**At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition - The New York Times**
+`19 Nov 22:25 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_geopolitics
+
+At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition The New York Times
+
 **How Energy Security Is Reshaping Global Investment Decisions**
 `19 Nov 22:00 PKT` · pehli baar dekhi `19 Nov 22:27` · oilprice
 
@@ -1413,10 +1490,20 @@ Sluggish trading activity and steelmaking demand have combined with recovering d
 
 Find insight on Alamtri, palm oil, metals futures and more in the latest Market Talks covering Basic Materials..
 
+**Oil Prices Rise as Hormuz Stays Shut Ahead of Trump Deadline, Strikes on Iran Intensify - EnergyNow.com**
+`19 Nov 17:26 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_geopolitics
+
+Oil Prices Rise as Hormuz Stays Shut Ahead of Trump Deadline, Strikes on Iran Intensify EnergyNow.com
+
 **CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist - EnergyNow.com**
 `19 Nov 17:07 PKT` · pehli baar dekhi `19 Nov 22:27` · gnews_geopolitics
 
 CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist EnergyNow.com
+
+**Oil Prices Hover Near Seven-Month Highs on US-Iran Tensions - EnergyNow.com**
+`19 Nov 17:02 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_geopolitics
+
+Oil Prices Hover Near Seven-Month Highs on US-Iran Tensions EnergyNow.com
 
 **US Naval Blockade Squeezes Iran's Oil Exports, Forces Crude Onto Floating Storage - EnergyNow.com**
 `19 Nov 16:42 PKT` · pehli baar dekhi `19 Nov 22:27` · gnews_geopolitics
@@ -1772,6 +1859,11 @@ Need to know what happened in crypto today? Here is the latest news on daily tre
 
 Policymakers want rate hike but disagree on pace Axios
 
+**Makhlouf leaning towards December rate hike - Business Post**
+`19 Nov 19:39 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_centralbanks
+
+Makhlouf leaning towards December rate hike Business Post
+
 **Federal Reserve: Hawkish path priced in – UOB - FXStreet**
 `19 Nov 19:33 PKT` · pehli baar dekhi `19 Nov 22:27` · gnews_fed
 
@@ -1979,7 +2071,7 @@ Kyiv says the U.S. again throttles Starshield, which is crucial to stopping Russ
 
 The war in Iran is causing an enduring upset in global oil and gas markets with long-ranging consequences for the economy, the energy sector, and the climate. For many countries, this has resulted in skyrocketing energy prices and a rapid shift toward renewable energies in order to fill the import gap. For China, the global leader in clean energy supply chains by a massive margin, this has resulted in a windfall – and a drop in greenhouse gas emissions.
 
-### BINA TAG (222)
+### BINA TAG (229)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2063,13 +2155,16 @@ The war in Iran is causing an enduring upset in global oil and gas markets with 
 - `19 Nov 21:15` **investinglive** — AMD shares tumble after Hunterbrook flags China export risks. What about the technicals?
 - `19 Nov 21:15` **mw_topstories** — We're in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?
 - `19 Nov 21:14` **mw_topstories** — 'Buyers are out for blood': With home sales at a record low, buyers are calling the shots
+- `19 Nov 21:13` **gnews_centralbanks** — Booming demand for AI will force central banks to hike interest rates, IMF chief warns - This is Money
 - `19 Nov 21:07` **cointelegraph** — Anthropic shares open at $111.50, 34.3% above $83 IPO price
 - `19 Nov 21:03` **gnews_fed** — Federal Reserve Announces Enforcement Action Against Former Bank Employee - www.tokenpost.com
 - `19 Nov 21:00` **instaforex** — UK Manufacturing Gloom Eases as CBI Orders Balance Jumps in November
 - `19 Nov 20:59` **investing_commodities** — Central bank "higher for longer" rates and what they mean for bonds and assets
 - `19 Nov 20:57` **mw_topstories** — Tech outages are rattling Americans so much that they're stockpiling cash and supplies
 - `19 Nov 20:52` **wsj_markets** — Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers
+- `19 Nov 20:42` **gnews_centralbanks** — AI demand will push up interest rates around the world, IMF head warns - AOL.co.uk
 - `19 Nov 20:36` **investing_commodities** — Palladium hits 52-week low as surplus outlook overwhelms tight mine supply
+- `19 Nov 20:33` **gnews_centralbanks** — Bank chief says interest rates not 'pre-set' amid further potential rise - London Evening Standard
 - `19 Nov 20:32` **investinglive** — The broader indices are benefiting from the Anthropic enthusiasm, but there is work to do. What next?
 - `19 Nov 20:32` **wsj_world** — Houthi Attack Damages Saudi Capital's Tallest Tower
 - `19 Nov 20:30` **instaforex** — Portugal's Current Account Surplus Soars to €1.03 Billion in September
@@ -2084,6 +2179,7 @@ The war in Iran is causing an enduring upset in global oil and gas markets with 
 - `19 Nov 19:41` **aljazeera** — A geography of hearts: Turkiye and Lebanon, building the Levant together
 - `19 Nov 19:34` **aljazeera** — Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty
 - `19 Nov 19:31` **aljazeera** — What the ICJ genocide ruling means for the Rohingya people
+- `19 Nov 19:15` **gnews_centralbanks** — Rate Futures Point to Rates Staying Broadly High at Least Through 2031 - www.tokenpost.com
 - `19 Nov 19:08` **mining_com** — Asante weighs options as $100 million deadline nears
 - `19 Nov 18:47` **aljazeera** — FIFA Under-17 World Cup 2026 gets under way in Qatar despite USA withdrawal
 - `19 Nov 18:40` **wsj_markets** — Dodgers Owner Walter Faces Probe From State Regulator That Says It Was 'Misled'
@@ -2095,7 +2191,9 @@ The war in Iran is causing an enduring upset in global oil and gas markets with 
 - `19 Nov 18:24` **aljazeera** — Mosque set on fire in Israel, politicians blame Netanyahu's 'incitement'
 - `19 Nov 18:22` **aljazeera** — South Korean court orders retrial for ex-PM Han over martial law attempt
 - `19 Nov 18:13` **aljazeera** — 'Groundbreaking' Trump-Xi-Putin summit: Five key takeaways
+- `19 Nov 18:12` **gnews_centralbanks** — Nationwide and Lloyds customers advised to act before Dec 1 cost rise - Cambridge News
 - `19 Nov 18:11` **aljazeera** — Two years in, Dutch church's nonstop service shields family seeking asylum
+- `19 Nov 18:03` **gnews_centralbanks** — Nationwide and Lloyds customers told 'check' before extra costs start on December 1 - The Mirror
 - `19 Nov 17:59` **aljazeera** — Pakistan's footballers show India sportsmanship after SAFF final defeat
 - `19 Nov 17:50` **wsj_world** — World Court Finds Myanmar Committed Genocide Against Rohingya
 - `19 Nov 17:43` **aljazeera** — Can Anthropic afford to put AI safety first?
@@ -2110,6 +2208,7 @@ The war in Iran is causing an enduring upset in global oil and gas markets with 
 - `19 Nov 16:38` **bbc_business** — Indian driver wins $1.3m in life-changing lottery prize
 - `19 Nov 16:36` **mining_com** — Chile threatens Codelco mine permit over dust violations
 - `19 Nov 16:26` **wsj_markets** — The Bond Market's Surprising Take on the AI Trade
+- `19 Nov 16:00` **gnews_centralbanks** — Households warned 'worst is yet to come' as they face £1,200 energy bill and mortgage bombshell this winter - This is Money
 - `19 Nov 15:32` **cointelegraph** — IOSCO warns quantum upgrades could slow blockchains, leave security gaps
 - `19 Nov 15:30` **wsj_markets** — Nvidia Is the Central Bank to AI's Circular Economy. See Where the Money Goes.
 - `19 Nov 15:30` **wsj_markets** — Is Anthropic Worth $1.1 Trillion, or $1.5 Trillion? How to Make Sense of the Valuations
@@ -2222,45 +2321,45 @@ investing_news (10)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 17 | 8 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.4 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.2 |
-| instaforex | OK | 25 | 25 | 9 | 16 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 7 | 0 | 7 | 29 | 0.1 |
-| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_rates_video | OK | 10 | 3 | 1 | 2 | 7 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_daily_commentary | OK | 10 | 8 | 1 | 7 | 2 | 0.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 70.2 |
-| kitco_general | OK | 39 | 38 | 20 | 18 | 1 | 0.0 |
-| gnews_fed | OK | 69 | 69 | 41 | 28 | 0 | 0.0 |
-| gnews_geopolitics | OK | 35 | 35 | 11 | 24 | 0 | 0.0 |
-| gnews_centralbanks | OK | 26 | 26 | 7 | 19 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.2 |
-| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.4 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
-| boe_news | OK | 50 | 2 | 0 | 2 | 48 | 0.7 |
-| boj_whatsnew | OK | 46 | 2 | 0 | 2 | 44 | 0.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 14.0 |
-| mining_com | OK | 36 | 13 | 3 | 10 | 23 | 0.1 |
-| oilprice | OK | 15 | 15 | 7 | 8 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| ing_think | OK | 10 | 2 | 0 | 2 | 8 | 0.7 |
-| bbc_business | OK | 52 | 14 | 1 | 13 | 38 | 0.0 |
-| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 3.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.6 |
-| eia_energy | OK | 29 | 1 | 0 | 1 | 28 | 0.4 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 1.4 |
-| wsj_world | OK | 75 | 23 | 7 | 16 | 52 | 0.0 |
-| wsj_markets | OK | 61 | 36 | 9 | 27 | 25 | 0.0 |
+| actionforex | OK | 20 | 20 | 6 | 14 | 0 | 0.0 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.4 |
+| instaforex | OK | 25 | 25 | 10 | 15 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 8 | 2 | 6 | 28 | 0.1 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.3 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.3 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 70.4 |
+| kitco_general | OK | 38 | 38 | 1 | 37 | 0 | 0.2 |
+| gnews_fed | OK | 68 | 68 | 17 | 51 | 0 | 0.0 |
+| gnews_geopolitics | OK | 44 | 44 | 10 | 34 | 0 | 0.1 |
+| gnews_centralbanks | OK | 45 | 45 | 24 | 21 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
+| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.8 |
+| boe_news | OK | 50 | 2 | 0 | 2 | 48 | 0.8 |
+| boj_whatsnew | OK | 47 | 3 | 1 | 2 | 44 | 0.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 14.2 |
+| mining_com | OK | 36 | 14 | 1 | 13 | 22 | 0.3 |
+| oilprice | OK | 15 | 15 | 3 | 12 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| ing_think | OK | 10 | 2 | 0 | 2 | 8 | 0.9 |
+| bbc_business | OK | 57 | 20 | 6 | 14 | 37 | 0.1 |
+| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 3.8 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.8 |
+| eia_energy | OK | 29 | 1 | 0 | 1 | 28 | 0.6 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 1.6 |
+| wsj_world | OK | 74 | 25 | 2 | 23 | 49 | 0.1 |
+| wsj_markets | OK | 61 | 41 | 9 | 32 | 20 | 0.0 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 23 | 7 | 16 | 7 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 24 | 2 | 22 | 6 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
