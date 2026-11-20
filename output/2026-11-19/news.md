@@ -1,8 +1,8 @@
 # News Pack — Trading Day 19 Nov 2026
 
 - Trading day: **19 Nov 03:00 -> 20 Nov 02:59 PKT**
-- Aakhri update: **20 Nov 09:22 PKT**
-- Kul khabrein: **681**
+- Aakhri update: **20 Nov 18:25 PKT**
+- Kul khabrein: **687**
 - Feeds: 35/39 OK
 
 ---
@@ -413,6 +413,11 @@ Goolsbee says the Fed's job right now is to keep AI surge from overheating the e
 
 Fed's Barr warns on AI risks to financial system Arizona Digital Free Press
 
+**Jefferson: Inflation must return to 2% before Fed changes target - American Banker**
+`19 Nov 22:59 PKT` · pehli baar dekhi `20 Nov 18:25` · gnews_fed
+
+Jefferson: Inflation must return to 2% before Fed changes target American Banker
+
 **Fed's Goolsbee: Job market is stable, but inflation is "way higher" than Fed's 2% target**
 `19 Nov 22:59 PKT` · pehli baar dekhi `20 Nov 04:44` · investinglive
 
@@ -488,6 +493,11 @@ Continuing jobless claims in the United States rose to 1,763,000, up from the pr
 
 The dollar has hit a 19-month high: what's going on? UkrMedia News
 
+**Fed rate-cut hopes for 2027 take a stunning turn - TheStreet**
+`19 Nov 22:13 PKT` · pehli baar dekhi `20 Nov 18:25` · gnews_fed
+
+Fed rate-cut hopes for 2027 take a stunning turn TheStreet
+
 **Aptiv PLC stock hits 52-week low at 37.42 USD**
 `19 Nov 22:09 PKT` · pehli baar dekhi `19 Nov 22:27` · investing_news
 
@@ -562,6 +572,11 @@ Dollar eases after seven-session rally, rates and equities in focus Kitco
 `19 Nov 19:10 PKT` · pehli baar dekhi `19 Nov 22:27` · gnews_fed
 
 PCE price index excluding energy goods Federal Reserve Bank of St. Louis
+
+**Fed minutes point to more rate increases as 10-year Treasury yield holds above 5% - CEO경제신문**
+`19 Nov 19:00 PKT` · pehli baar dekhi `20 Nov 18:25` · gnews_fed
+
+Fed minutes point to more rate increases as 10-year Treasury yield holds above 5% CEO경제신문
 
 **South African Reserve Bank Maintains Main Repo Rate at 7.25%**
 `19 Nov 18:57 PKT` · pehli baar dekhi `19 Nov 22:27` · wsj_economy
@@ -974,6 +989,11 @@ The GBPUSD is trading to a new low for 2026 as inflation concerns push the green
 `19 Nov 22:53 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_centralbanks
 
 What Does De Cos Mean for the Euro's Outlook? Pound Sterling Live
+
+**Bank of England Rate Outlook Adds Pressure to UK Equities and Sterling - kalkine.ca**
+`19 Nov 22:33 PKT` · pehli baar dekhi `20 Nov 18:25` · gnews_centralbanks
+
+Bank of England Rate Outlook Adds Pressure to UK Equities and Sterling kalkine.ca
 
 **Bank of England Starts £160m Headquarters Renovation - Demokratis.co.id**
 `19 Nov 20:29 PKT` · pehli baar dekhi `20 Nov 09:22` · gnews_centralbanks
@@ -1906,6 +1926,11 @@ European leaders meet in Berlin after Trump summit with Putin and Xi. Putin vows
 
 Geopolitics is building as President Trump is heading back to Washington after wrapping up talks with Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen. Ukraine was a focus coming out of the meetings. Of course Iran is also a continued focus. With Xi, Iran, Hormuz, Taiwan and trade. Trump said he and Xi agreed that Iran should fully reopen the Strait of Hormuz and should not acquire a nuclear weapon. Trump also urged China to help end the war in Ukraine.
 
+**Iran war live: Houthi attack damages Saudi PIF headquarters in Riyadh - Arabian Business**
+`19 Nov 23:24 PKT` · pehli baar dekhi `20 Nov 18:25` · gnews_geopolitics
+
+Iran war live: Houthi attack damages Saudi PIF headquarters in Riyadh Arabian Business
+
 **Poland's Tusk: It doesn't look probable that Russia will be ready to negotiate peace before spring**
 `19 Nov 21:53 PKT` · pehli baar dekhi `19 Nov 22:27` · investinglive
 
@@ -2071,7 +2096,7 @@ Kyiv says the U.S. again throttles Starshield, which is crucial to stopping Russ
 
 The war in Iran is causing an enduring upset in global oil and gas markets with long-ranging consequences for the economy, the energy sector, and the climate. For many countries, this has resulted in skyrocketing energy prices and a rapid shift toward renewable energies in order to fill the import gap. For China, the global leader in clean energy supply chains by a massive margin, this has resulted in a windfall – and a drop in greenhouse gas emissions.
 
-### BINA TAG (229)
+### BINA TAG (230)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2175,6 +2200,7 @@ The war in Iran is causing an enduring upset in global oil and gas markets with 
 - `19 Nov 20:03` **wsj_world** — Poland Nears Construction Deal With U.S. Consortium for $50 Billion Nuclear Plant
 - `19 Nov 20:03` **wsj_markets** — Anthropic IPO Lifts Mood in Markets
 - `19 Nov 20:00` **gnews_fed** — Dario Perkins: Questions remain about an AI market crash and Federal Reserve rate hikes - Traders Union
+- `19 Nov 20:00` **gnews_centralbanks** — Build the 2027 plan around higher rates and dearer energy, not relief - CEO경제신문
 - `19 Nov 19:54` **investinglive** — Strong Anthropic IPO gives new life to the AI trade. Shares indicated to open at $99
 - `19 Nov 19:41` **aljazeera** — A geography of hearts: Turkiye and Lebanon, building the Levant together
 - `19 Nov 19:34` **aljazeera** — Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty
@@ -2321,48 +2347,48 @@ investing_news (10)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 18 | 7 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 6 | 14 | 0 | 0.0 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.4 |
-| instaforex | OK | 25 | 25 | 10 | 15 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 8 | 2 | 6 | 28 | 0.1 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.3 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.3 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 70.4 |
-| kitco_general | OK | 38 | 38 | 1 | 37 | 0 | 0.2 |
-| gnews_fed | OK | 68 | 68 | 17 | 51 | 0 | 0.0 |
-| gnews_geopolitics | OK | 44 | 44 | 10 | 34 | 0 | 0.1 |
-| gnews_centralbanks | OK | 45 | 45 | 24 | 21 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
-| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.6 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.8 |
-| boe_news | OK | 50 | 2 | 0 | 2 | 48 | 0.8 |
-| boj_whatsnew | OK | 47 | 3 | 1 | 2 | 44 | 0.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 14.2 |
-| mining_com | OK | 36 | 14 | 1 | 13 | 22 | 0.3 |
-| oilprice | OK | 15 | 15 | 3 | 12 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| ing_think | OK | 10 | 2 | 0 | 2 | 8 | 0.9 |
-| bbc_business | OK | 57 | 20 | 6 | 14 | 37 | 0.1 |
-| aljazeera | OK | 25 | 25 | 13 | 12 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 3.8 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 3.8 |
-| eia_energy | OK | 29 | 1 | 0 | 1 | 28 | 0.6 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 1.6 |
-| wsj_world | OK | 74 | 25 | 2 | 23 | 49 | 0.1 |
-| wsj_markets | OK | 61 | 41 | 9 | 32 | 20 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.0 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.8 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 12 | 5 | 7 | 24 | 0.1 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.7 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.7 |
+| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.6 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.7 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.6 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 70.8 |
+| kitco_general | OK | 38 | 34 | 1 | 33 | 4 | 0.1 |
+| gnews_fed | OK | 69 | 69 | 24 | 45 | 0 | 0.0 |
+| gnews_geopolitics | OK | 45 | 45 | 15 | 30 | 0 | 0.0 |
+| gnews_centralbanks | OK | 26 | 26 | 12 | 14 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.8 |
+| fed_speeches | OK | 15 | 2 | 1 | 1 | 13 | 0.0 |
+| ecb_press | OK | 15 | 1 | 1 | 0 | 14 | 0.2 |
+| boe_news | OK | 50 | 2 | 0 | 2 | 48 | 1.2 |
+| boj_whatsnew | OK | 47 | 3 | 0 | 3 | 44 | 0.5 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 14.6 |
+| mining_com | OK | 36 | 14 | 0 | 14 | 22 | 0.6 |
+| oilprice | OK | 15 | 15 | 9 | 6 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| ing_think | OK | 10 | 7 | 5 | 2 | 3 | 0.1 |
+| bbc_business | OK | 57 | 25 | 5 | 20 | 32 | 0.0 |
+| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 4.2 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 4.1 |
+| eia_energy | OK | 29 | 1 | 0 | 1 | 28 | 1.0 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 1.9 |
+| wsj_world | OK | 74 | 29 | 3 | 26 | 45 | 0.1 |
+| wsj_markets | OK | 61 | 43 | 10 | 33 | 18 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 2 | 8 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 24 | 2 | 22 | 6 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 6 | 24 | 0 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 70d purana
+- cme_risk_management — STALE, cadence 10d, magar 71d purana
 - yahoo_finance — FAIL, HTTP 404
