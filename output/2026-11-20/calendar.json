@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "20 Nov 2026 08:41",
+  "generated_pkt": "20 Nov 2026 19:14",
   "trading_day": "2026-11-20",
   "feed_sources": {
     "thisweek": "live"
@@ -441,6 +441,19 @@
       "forecast": "25.4K",
       "previous": "30.3K",
       "url": "https://www.forexfactory.com/calendar/68-uk-claimant-count-change",
+      "all_day": false,
+      "utc": "2026-11-17T07:00Z",
+      "pkt": "17 Nov 12:00",
+      "pkt_iso": "2026-11-17T12:00:00+05:00",
+      "trading_day": "2026-11-17"
+    },
+    {
+      "title": "HMRC Payrolls Change",
+      "ccy": "GBP",
+      "impact": "Low",
+      "forecast": "9K",
+      "previous": "13K",
+      "url": "https://www.forexfactory.com/calendar/934-uk-hmrc-payrolls-change",
       "all_day": false,
       "utc": "2026-11-17T07:00Z",
       "pkt": "17 Nov 12:00",
@@ -1501,19 +1514,6 @@
       "trading_day": "2026-11-20"
     },
     {
-      "title": "Foreign Direct Investment ytd/y",
-      "ccy": "CNY",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-4.3%",
-      "url": "https://www.forexfactory.com/calendar/457-ch-foreign-direct-investment-ytdy",
-      "all_day": false,
-      "utc": "2026-11-20T07:02Z",
-      "pkt": "20 Nov 12:02",
-      "pkt_iso": "2026-11-20T12:02:00+05:00",
-      "trading_day": "2026-11-20"
-    },
-    {
       "title": "ECB President Lagarde Speaks",
       "ccy": "EUR",
       "impact": "Medium",
@@ -1615,6 +1615,19 @@
       "utc": "2026-11-20T15:00Z",
       "pkt": "20 Nov 20:00",
       "pkt_iso": "2026-11-20T20:00:00+05:00",
+      "trading_day": "2026-11-20"
+    },
+    {
+      "title": "President Trump Speaks",
+      "ccy": "USD",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/645-us-president-trump-speaks",
+      "all_day": false,
+      "utc": "2026-11-20T17:00Z",
+      "pkt": "20 Nov 22:00",
+      "pkt_iso": "2026-11-20T22:00:00+05:00",
       "trading_day": "2026-11-20"
     },
     {
