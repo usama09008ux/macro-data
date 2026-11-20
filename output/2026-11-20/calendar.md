@@ -1,6 +1,6 @@
 # Calendar — Trading Day 20 Nov 2026
 
-- Banaya gaya: **20 Nov 2026 19:14 PKT**
+- Banaya gaya: **21 Nov 2026 00:27 PKT**
 - Trading day: **20 Nov 03:00 -> 21 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -10,15 +10,7 @@
 
 ## Aane wale 24 ghante
 
-| Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
-|---|---|---|---|---|---|
-| 20:00 | EUR | low | Consumer Confidence | -18 | -18 |
-| 20:00 | USD | MED | Revised UoM Consumer Sentiment | 51.7 | 51.0 |
-| 20:00 | USD | MED | Revised UoM Inflation Expectations | - | 4.3% |
-| 22:00 | USD | MED | President Trump Speaks | - | - |
-| 22:15 | USD | low | FOMC Member Cook Speaks | - | - |
-
-*Agle 24 ghante mein koi HIGH impact event nahi.*
+*Agle 24 ghante mein kuch nahi.*
 
 ---
 
