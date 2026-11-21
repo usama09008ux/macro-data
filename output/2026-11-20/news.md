@@ -1,8 +1,8 @@
 # News Pack — Trading Day 20 Nov 2026
 
 - Trading day: **20 Nov 03:00 -> 21 Nov 02:59 PKT**
-- Aakhri update: **21 Nov 07:44 PKT**
-- Kul khabrein: **647**
+- Aakhri update: **21 Nov 15:16 PKT**
+- Kul khabrein: **678**
 - Feeds: 35/39 OK
 
 ---
@@ -238,6 +238,11 @@ Silver Price Prediction: Can XAG/USD Rebound as Gold Crashes and Fed Rate Fears 
 
 Gold price trades near $3,568/oz after final Consumer Sentiment rises to 51.5, inflation expectations drop Kitco
 
+**Gold and Silver Hit 14-Month Lows as Selling Pressure Intensifies**
+`20 Nov 20:00 PKT` · pehli baar dekhi `21 Nov 15:16` · marketpulse
+
+Gold fell to around $3,500 an ounce and silver slipped to just above $41, leaving both metals at 14-month lows. The sell-off accelerated as Treasury yields eased and the dollar steadied, suggesting investors may have sold bullion to raise cash after losses in tech stocks. Deeply oversold RSI readings leave room for a rebound, with Asian physical demand and ETF flows in focus.
+
 **Gold is sold first in a dollar squeeze, and Jeff Currie says the real test comes later - Kitco**
 `20 Nov 19:54 PKT` · pehli baar dekhi `21 Nov 02:26` · kitco_general
 
@@ -271,6 +276,11 @@ Miners spent a record $441 per oz. on capital to sustain output in the second qu
 
 **Gold slides to 52-week low near $3,515 as bearish trend deepens**
 `20 Nov 17:24 PKT` · pehli baar dekhi `20 Nov 18:25` · investing_commodities
+
+**What Gold's Price Collapse Means For Millions of Americans - Newsweek**
+`20 Nov 17:15 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_fed
+
+What Gold's Price Collapse Means For Millions of Americans Newsweek
 
 **Metals sell-off runs ahead of physical markets**
 `20 Nov 17:02 PKT` · pehli baar dekhi `20 Nov 18:25` · ing_think
@@ -355,6 +365,11 @@ Trump Urges 'Very Political' Fed to Lower Interest Rates NTD News
 **Flowers Foods stock hits 52-week low at 4.91 USD**
 `21 Nov 02:01 PKT` · pehli baar dekhi `21 Nov 02:26` · investing_news
 
+**OIS Contracts No Longer Fully Price a 25-Basis-Point Fed Rate Hike in December - TradingView**
+`21 Nov 01:58 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_fed
+
+OIS Contracts No Longer Fully Price a 25-Basis-Point Fed Rate Hike in December TradingView
+
 **Strategic Education Inc stock hits 52-week low at 50.7 USD**
 `21 Nov 01:57 PKT` · pehli baar dekhi `21 Nov 02:26` · investing_news
 
@@ -382,9 +397,10 @@ The Fed is too busy fighting inflation to rescue the stock market MarketWatch
   - `21 Nov 00:53` *mw_topstories* — The Fed is too busy fighting inflation to rescue the stock market
 
 **Fed officials sound alarm over AI boom's growing inflation risks - KATU**
-`21 Nov 00:52 PKT` · pehli baar dekhi `21 Nov 02:26` · gnews_fed · **3 feeds mein**
+`21 Nov 00:52 PKT` · pehli baar dekhi `21 Nov 02:26` · gnews_fed · **4 feeds mein**
 
 Fed officials sound alarm over AI boom's growing inflation risks KATU
+  - `21 Nov 00:51` *gnews_fed* — Fed officials sound alarm over AI boom's growing inflation risks - WCHS
   - `21 Nov 00:42` *gnews_fed* — Fed officials sound alarm over AI boom's growing inflation risks - KBOI
   - `20 Nov 22:50` *gnews_fed* — Federal Reserve officials sound alarm over AI boom's growing inflation risks - Baltimore Sun
 
@@ -425,6 +441,11 @@ Fed's Cook questions whether one rate hike is enough American Banker
 
 Philadelphia Fed Factory Price Gauge Hits Highest Level Since June 2022 www.tokenpost.com
 
+**The Fed - Europe's Natural Gas Outlook for the Upcoming Winter 2026/2027 - Federal Reserve (.gov)**
+`20 Nov 23:06 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_fed
+
+The Fed - Europe's Natural Gas Outlook for the Upcoming Winter 2026/2027 Federal Reserve (.gov)
+
 **Fed Raises Check Processing Fees for 2027; ACH Fees Stay Flat - ACA International**
 `20 Nov 23:02 PKT` · pehli baar dekhi `21 Nov 02:26` · gnews_fed
 
@@ -464,6 +485,16 @@ Federal Reserve Chairman Kevin Warsh during a conference on the economic impacts
 `20 Nov 22:18 PKT` · pehli baar dekhi `21 Nov 02:26` · gnews_fed
 
 Lisa Cook warns the Fed could get behind the curve if it doesn't raise rates now AOL.com
+
+**Fed's Cook says rate hikes needed to lower high inflation - The Lufkin Daily News**
+`20 Nov 22:18 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_fed
+
+Fed's Cook says rate hikes needed to lower high inflation The Lufkin Daily News
+
+**TAG: real Treasury yields - Kitco**
+`20 Nov 21:49 PKT` · pehli baar dekhi `21 Nov 15:16` · kitco_general
+
+TAG: real Treasury yields Kitco
 
 **Kansas City Fed Services Index Plunges to 3 in November; Employment Turns Negative - BigGo Finance**
 `20 Nov 21:35 PKT` · pehli baar dekhi `21 Nov 07:44` · gnews_fed
@@ -813,6 +844,11 @@ The Euro takes a priced-in hike into a week that belongs to American inflation F
 
 Speculative sentiment toward the euro deteriorated further, with traders expanding their net short positions, according to the latest Commitments of Traders data. Figures for the Euro Zone released on 20 November 2026 show that CFTC EUR speculative net positions fell to -142.7K from a previous level of -136.4K.
 
+**ECB's Santos Pereira flags risk of energy inflation spreading across the economy - www.tmgm.com**
+`21 Nov 00:17 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_centralbanks
+
+ECB's Santos Pereira flags risk of energy inflation spreading across the economy www.tmgm.com
+
 **ECB Must Bring Inflation Back to 2%, France's Moulin Says - Bloomberg.com**
 `20 Nov 23:53 PKT` · pehli baar dekhi `21 Nov 02:26` · gnews_centralbanks
 
@@ -838,10 +874,20 @@ Workers and students take to the streets as protests inspired by demonstrations 
 
 EUR/USD Price Forecast — EURUSD (1.0981) 1.1073 Upside Target on Fed-ECB Rate Gap TradingNEWS
 
+**ECB's Pereira Warns of Rising Inflation, December Hike - Briefs Finance**
+`20 Nov 22:30 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_centralbanks
+
+ECB's Pereira Warns of Rising Inflation, December Hike Briefs Finance
+
 **UK far-right activist 'Danny Tommo' jailed for slashing migrant boat**
 `20 Nov 22:05 PKT` · pehli baar dekhi `21 Nov 02:26` · aljazeera
 
 Daniel Thomas livestreamed himself slashing a dinghy used to bring migrants from France to the UK.
+
+**Eurogroup says Germany's Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role - Newsquawk**
+`20 Nov 22:00 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_centralbanks
+
+Eurogroup says Germany's Brunnermeier and French Economist and banker Laurence Boone are candidates for the ECB Chief Economist role Newsquawk
 
 **Nagel (Bundesbank) argues that the ECB raises rates to a restrictive level for the economy - Demócrata**
 `20 Nov 21:16 PKT` · pehli baar dekhi `21 Nov 02:26` · gnews_centralbanks
@@ -863,6 +909,11 @@ German chancellor says Qatar pledged $16.5bn in new investments as the two count
 
 ECB's Nagel: Will likely need to act in December but price expectations remain anchored AOL.com
 
+**Why does the Euro remain lower against the British Pound amid strong UK Retail Sales? - www.tmgm.com**
+`20 Nov 20:46 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_centralbanks
+
+Why does the Euro remain lower against the British Pound amid strong UK Retail Sales? www.tmgm.com
+
 **Could energy inflation spread across the economy? ECB's Santos Pereira highlights the risk - www.tmgm.com**
 `20 Nov 20:45 PKT` · pehli baar dekhi `21 Nov 02:26` · gnews_centralbanks
 
@@ -872,6 +923,17 @@ Could energy inflation spread across the economy? ECB's Santos Pereira highlight
 `20 Nov 20:14 PKT` · pehli baar dekhi `21 Nov 02:26` · wsj_economy
 
 November's flash purchasing managers' surveys for the U.S., eurozone and U.K. could signal whether there is scope for the central banks to raise interest rates further.
+
+**Joachim Nagel Says ECB Should Raise Rates Into Restrictive Territory in December - TradingView**
+`20 Nov 20:13 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_centralbanks
+
+Joachim Nagel Says ECB Should Raise Rates Into Restrictive Territory in December TradingView
+
+**ECB's Nagel Signals December Rate Hike, Says Tightening Would Not Undermine Growth Outlook - Forex Factory**
+`20 Nov 20:05 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_centralbanks · **2 feeds mein**
+
+ECB's Nagel Signals December Rate Hike, Says Tightening Would Not Undermine Growth Outlook Forex Factory
+  - `20 Nov 19:05` *gnews_centralbanks* — ECB's Nagel Signals December Rate Hike, Says Tightening Would Not Undermine Growth Outlook - Forex Factory
 
 **Bundesbank President Says Eurozone Inflation Is Too High, ECB Likely to Hike Again in December - BigGo Finance**
 `20 Nov 19:55 PKT` · pehli baar dekhi `21 Nov 02:26` · gnews_centralbanks
@@ -883,15 +945,11 @@ Bundesbank President Says Eurozone Inflation Is Too High, ECB Likely to Hike Aga
 
 EURGBP keeps firm tone on Friday despite the headwinds that strong two-day recovery from new multi-month low (0.8312) faced at initial Fibo barrier at 0.8383 (23.6% of 0.8611/0.8312). Improved daily studies (positive momentum / converged 10/20DMAs about to create a bull cross) underpin recovery, but fundamental outlook does not work much in favor of Euro [&#8230;] The post EURGBP – Recovery Faces Headwinds at Initial Fibo Barrier appeared first on ActionForex.
 
-**ECB's Nagel Signals December Rate Hike, Says Tightening Would Not Undermine Growth Outlook - Forex Factory**
-`20 Nov 19:05 PKT` · pehli baar dekhi `21 Nov 02:26` · gnews_centralbanks
-
-ECB's Nagel Signals December Rate Hike, Says Tightening Would Not Undermine Growth Outlook Forex Factory
-
 **ECB Needs December Rate Hike Into Restrictive Zone, Nagel Says - Bloomberg.com**
-`20 Nov 18:56 PKT` · pehli baar dekhi `21 Nov 02:26` · gnews_centralbanks
+`20 Nov 18:56 PKT` · pehli baar dekhi `21 Nov 02:26` · gnews_centralbanks · **2 feeds mein**
 
 ECB Needs December Rate Hike Into Restrictive Zone, Nagel Says Bloomberg.com
+  - `20 Nov 18:56` *gnews_centralbanks* — ECB Needs December Rate Hike Into Restrictive Zone, Nagel Says - Bloomberg.com
 
 **Lagarde warns Europe could miss chance to unify tokenized markets**
 `20 Nov 18:21 PKT` · pehli baar dekhi `21 Nov 02:26` · cointelegraph
@@ -908,6 +966,11 @@ France's business climate cooled slightly in November 2026, as the latest survey
 
 World Cup winners and European champions Spain have reached three of the four Nations League finals, winning in 2023.
 
+**Energy inflation could spread across the economy, ECB's Santos Pereira warns - www.tmgm.com**
+`20 Nov 17:44 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_centralbanks
+
+Energy inflation could spread across the economy, ECB's Santos Pereira warns www.tmgm.com
+
 **German Producer Prices Accelerate to 8.1% in October, Marking Sharp Yearly Gain**
 `20 Nov 17:00 PKT` · pehli baar dekhi `20 Nov 18:25` · instaforex
 
@@ -922,6 +985,11 @@ Christine Lagarde announces that the European Central Bank will make swap lines 
 `20 Nov 16:06 PKT` · pehli baar dekhi `21 Nov 07:44` · gnews_centralbanks
 
 Behind the 4% Inflation Rate: ECB's Pereira Warns of Winter Energy Shock Risks Moomoo
+
+**Euro remains lower against British Pound following robust UK Retail Sales - www.tmgm.com**
+`20 Nov 15:44 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_centralbanks
+
+Euro remains lower against British Pound following robust UK Retail Sales www.tmgm.com
 
 **Eurozone Wage Growth Accelerates, But Remains Modest**
 `20 Nov 15:38 PKT` · pehli baar dekhi `20 Nov 18:25` · wsj_economy · **2 feeds mein**
@@ -985,6 +1053,21 @@ Euro stuck under 1.10 as weak US data fails to slow the Dollar FXStreet
 
 Speculative investors have reduced their net short positions on the British pound, according to the latest Commitments of Traders data released by the U.S. Commodity Futures Trading Commission (CFTC). As of 20 November 2026, GBP speculative net positions stood at -32.3K, an improvement from the previous reading of -43.2K. The shift indicates that while traders remain overall net short on sterling, bearish sentiment has eased compared with the prior period.
 
+**GBP/USD Price Forecast — GBPUSD (1.3101) 1.3250 Upside Target on 0.7% UK Retail Beat - TradingNEWS**
+`20 Nov 23:19 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_centralbanks
+
+GBP/USD Price Forecast — GBPUSD (1.3101) 1.3250 Upside Target on 0.7% UK Retail Beat TradingNEWS
+
+**Bank of England's stance supports BAE Systems downside amid policy-driven pressures on government spending - Traders Union**
+`20 Nov 22:02 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_centralbanks
+
+Bank of England's stance supports BAE Systems downside amid policy-driven pressures on government spending Traders Union
+
+**Bank of England blames inflation rise on Trump's war - Morning Star | The People's Daily**
+`20 Nov 19:28 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_centralbanks
+
+Bank of England blames inflation rise on Trump's war Morning Star | The People's Daily
+
 **GBP/USD Daily Outlook**
 `20 Nov 14:04 PKT` · pehli baar dekhi `20 Nov 18:25` · actionforex · **2 feeds mein**
 
@@ -1007,6 +1090,11 @@ Bank of England raises interest rates to 4% as Welsh households face mortgage pr
 `21 Nov 02:26 PKT` · instaforex
 
 Speculative positioning in the Japanese yen eased in the latest reporting period, with CFTC JPY speculative net positions slipping to 116.3K from a previous 123.1K. The updated data, released on 20 November 2026, indicates a modest reduction in net long exposure to the yen among futures traders. The decline suggests that some market participants are scaling back expectations for further yen strength or are taking profits after earlier bullish positioning.
+
+**Japanese Yen: BoJ tightening path gains support from rising inflation – Commerzbank - www.tmgm.com**
+`20 Nov 21:51 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_centralbanks
+
+Japanese Yen: BoJ tightening path gains support from rising inflation – Commerzbank www.tmgm.com
 
 **Chile, Japan to boost cooperation on critical minerals, Chile's Kast says - Kitco**
 `20 Nov 20:41 PKT` · pehli baar dekhi `21 Nov 02:26` · kitco_general
@@ -1231,6 +1319,11 @@ New Zealand's annual credit card spending growth slowed in October 2026, signali
 
 ### OIL
 
+**Oil Prices Jump Over 7% After Trump Says Attacks on Iran Will Continue - EnergyNow.com**
+`21 Nov 02:57 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_geopolitics
+
+Oil Prices Jump Over 7% After Trump Says Attacks on Iran Will Continue EnergyNow.com
+
 **Speculators Trim Bullish Bets on US Crude as Net Longs Slip Below 65,000 Contracts**
 `21 Nov 02:26 PKT` · instaforex
 
@@ -1240,6 +1333,11 @@ Speculative interest in US crude oil has cooled, with net long positions declini
 `21 Nov 02:26 PKT` · instaforex
 
 The U.S. Baker Hughes Oil Rig Count rose to 469 on 20 November 2026, up from 463 previously, indicating a continued pickup in drilling activity across the country. The six-rig increase suggests that producers are maintaining or slightly expanding operations, potentially in response to prevailing price levels and demand expectations. While the move is incremental, changes in the rig count are closely watched by energy and financial markets as a leading indicator of future oil supply.
+
+**Crude Prices Edge Higher on Middle East Tensions - TradingView**
+`21 Nov 01:14 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_geopolitics
+
+Crude Prices Edge Higher on Middle East Tensions TradingView
 
 **Iran War Oil Premium Evaporates as Global Crude Supplies Surge - gCaptain**
 `21 Nov 00:35 PKT` · pehli baar dekhi `21 Nov 02:26` · gnews_geopolitics
@@ -1578,6 +1676,11 @@ Treasury Secretary Bessent questions Fed's larger rate hike plans Crypto Briefin
 
 Bitcoin moved to its lowest level since early July, trading down to $61,160. That took the price $23 below the $61,183 level that marks the bottom of a key swing area on the four-hour chart, but momentum faded and the price has bounced modestly. The buyers are trying to hold onto some control.. The move lower extends the decline from the November 4 swing high to about $20,000, or 24.6%. From the September 21 high at $87,374, the price is down 30%.
 
+**Bitcoin Price Prediction: Yen at 159.6 and a December BoJ Hike as BTC Slips Below $62,000 - CryptoTicker.io**
+`20 Nov 16:23 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_centralbanks
+
+Bitcoin Price Prediction: Yen at 159.6 and a December BoJ Hike as BTC Slips Below $62,000 CryptoTicker.io
+
 **Crypto Market Retreats to $2.11T, Following Stocks**
 `20 Nov 16:06 PKT` · pehli baar dekhi `20 Nov 18:25` · actionforex
 
@@ -1676,6 +1779,11 @@ Tallinn&#039;s decision to shut road border crossings comes after an attack on a
 `21 Nov 01:14 PKT` · pehli baar dekhi `21 Nov 02:26` · aljazeera
 
 Drones cause &#039;fear and panic&#039; among Palestinians as Israel continues attacks on the Strip despite &#039;ceasefire&#039;.
+
+**Iran fuel crisis deepens amid war and sanctions - DW.com**
+`21 Nov 00:24 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_geopolitics
+
+Iran fuel crisis deepens amid war and sanctions DW.com
 
 **Eight killed in Ukraine as Russia hits back after Crimea bridge attacks**
 `20 Nov 23:54 PKT` · pehli baar dekhi `21 Nov 02:26` · investing_commodities
@@ -1861,12 +1969,13 @@ Canada Oil and Gas Profits to Surge on Iran War, but Firms Hold off New Investme
 
 All four major U.S. stock indexes are now on pace for their worst week since President Trump's "liberation day" tariffs of April 2025
 
-### BINA TAG (246)
+### BINA TAG (253)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
 - `21 Nov 02:59` **gnews_fed** — Barkin: US and Virginia workforce remain flat - Virginia Business
 - `21 Nov 02:50` **wsj_world** — El Salvador Takes Its Gang-Fighting Strategy to Haiti
+- `21 Nov 02:46` **gnews_centralbanks** — Stocks Meltdown as AI Trade Unravels - TradingView
 - `21 Nov 02:39` **mw_topstories** — The hidden catch in Anthropic's IPO: Billions of locked-up shares are waiting in the wings
 - `21 Nov 02:36` **mw_topstories** — Micron and Sandisk stocks might look like bargains, but analysts say that's actually a red flag
 - `21 Nov 02:34` **kitco_general** — AI tech rout prompts US investors to rush into value stocks - Kitco
@@ -1931,6 +2040,7 @@ All four major U.S. stock indexes are now on pace for their worst week since Pre
 - `20 Nov 22:26` **wsj_markets** — Health Care Roundup: Market Talk
 - `20 Nov 22:24` **wsj_markets** — Financial Services Roundup: Market Talk
 - `20 Nov 22:18` **aljazeera** — Qatar's emir calls for diplomacy to end regional conflicts
+- `20 Nov 22:10` **gnews_centralbanks** — Bank of Ireland Group PLC (BIRG.HM) stock price, news, quote and history - Yahoo Finance UK
 - `20 Nov 22:08` **wsj_economy** — Under President Trump, government and corporate interests have become more tightly intertwined. The Nvidia backlash may halt that, writes @greg_ip
 - `20 Nov 22:08` **wsj_world** — American State Capitalism Helped Produce the Nvidia Scandal
 - `20 Nov 22:05` **aljazeera** — Top US Democrat warns Trump admin against destroying records
@@ -1949,9 +2059,11 @@ All four major U.S. stock indexes are now on pace for their worst week since Pre
 - `20 Nov 20:39` **wsj_economy** — Consumer Sentiment Climbed in November
 - `20 Nov 20:32` **cointelegraph** — DBS bets it can lose the deposit and keep the client
 - `20 Nov 20:21` **gnews_fed** — Federal Reserve, in his seventh month of living alone, reveals his first independent home for the first time since gaining independence… Spacious living room + large TV [I Live Alone][★Night TView] - 스타뉴스
+- `20 Nov 20:20` **gnews_centralbanks** — Newsquawk Weekly Economic Calendar - 23rd-27th November 2026 - Newsquawk
 - `20 Nov 20:17` **investinglive** — S&P 500 turns positive, but the Nasdaq indices remain in technical triage
 - `20 Nov 20:08` **bbc_business** — The secret cyber scramble to protect UK fridge freezers
 - `20 Nov 20:07` **gnews_fed** — Federal Reserve Releases Survey Results on Bank Reserve Management Strategies - Blockchain News
+- `20 Nov 20:05` **gnews_centralbanks** — Global Stocks Retreat on Unwind of the AI Trade - TradingView
 - `20 Nov 19:47` **actionforex** — Weekly Focus – Anthropic IPO and Nvidia Earnings Bring No Relief for Tech
 - `20 Nov 19:43` **bbc_business** — Thousands join cost of living protests across Europe
 - `20 Nov 19:41` **wsj_world** — EU Open to 'Closest Possible Relationship' With U.K., Chief Says
@@ -1980,6 +2092,7 @@ All four major U.S. stock indexes are now on pace for their worst week since Pre
 - `20 Nov 17:45` **mw_topstories** — These 5 defense stocks are drawing millions in insider bets ahead of military-spending boom in 2027
 - `20 Nov 17:43` **investing_commodities** — Analysis-Trump touts Asia trade deal wins, but US agricultural exports disappoint
 - `20 Nov 17:43` **mw_topstories** — Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks
+- `20 Nov 17:43` **gnews_centralbanks** — UK borrowing hits £17bn as debt interest costs reach record high this month - Mirror
 - `20 Nov 17:38` **gnews_fed** — Federal Reserve: Markets price in rate hikes for December and January – Rabobank - www.tmgm.com
 - `20 Nov 17:32` **investing_commodities** — Copper falls toward March lows as physical shortages and futures diverge
 - `20 Nov 17:30` **instaforex** — Thailand's FX Reserves Slip to $269.9B, Marking Continued Drawdown as of November 2026
@@ -2002,6 +2115,8 @@ All four major U.S. stock indexes are now on pace for their worst week since Pre
 - `20 Nov 16:49` **investing_commodities** — Morning Bid: AI's last stand?
 - `20 Nov 16:48` **mining_com** — Angola's $180 million De Beers bid puts $1.8 billion value in play
 - `20 Nov 16:45` **mw_topstories** — Citi warns a key stock-market signal is close to flashing red
+- `20 Nov 16:41` **gnews_centralbanks** — THINK Ahead: Your questions, answered - ING Think
+- `20 Nov 16:33` **gnews_centralbanks** — Take Five: Shopping, chips and central banks - WKZO
 - `20 Nov 16:31` **cointelegraph** — Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip
 - `20 Nov 16:26` **aljazeera** — US appoints new cybersecurity chief after series of tech failures
 - `20 Nov 16:25` **wsj_markets** — Data Centers Are the Growth Engine of America's Power Grid
@@ -2128,48 +2243,48 @@ investing_news (11)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 3 | 22 | 0 | 0.2 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.5 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 7 | 13 | 0 | 0.0 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.4 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.1 |
-| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 0.3 |
-| cme_metals_video | OK | 10 | 2 | 1 | 1 | 8 | 0.2 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.2 |
-| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 10 | 1 | 9 | 0 | 0.2 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 71.3 |
-| kitco_general | OK | 41 | 40 | 12 | 28 | 1 | 0.1 |
-| gnews_fed | OK | 64 | 64 | 18 | 46 | 0 | 0.0 |
-| gnews_geopolitics | OK | 46 | 46 | 12 | 34 | 0 | 0.0 |
-| gnews_centralbanks | OK | 28 | 28 | 5 | 23 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
-| fed_speeches | OK | 15 | 2 | 0 | 2 | 13 | 0.4 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.8 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.8 |
-| boj_whatsnew | OK | 47 | 1 | 0 | 1 | 46 | 1.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 15.1 |
-| mining_com | OK | 36 | 10 | 2 | 8 | 26 | 0.2 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| ing_think | OK | 10 | 5 | 0 | 5 | 5 | 0.6 |
-| bbc_business | OK | 58 | 21 | 1 | 20 | 37 | 0.2 |
-| aljazeera | OK | 25 | 25 | 11 | 14 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 4.7 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 4.7 |
-| eia_energy | OK | 29 | 0 | 0 | 0 | 29 | 1.5 |
-| bea_releases | OK | 49 | 1 | 0 | 1 | 48 | 0.6 |
-| wsj_world | OK | 73 | 25 | 5 | 20 | 48 | 0.1 |
-| wsj_markets | OK | 61 | 35 | 4 | 31 | 26 | 0.0 |
+| actionforex | OK | 20 | 20 | 12 | 8 | 0 | 0.0 |
+| marketpulse | OK | 3 | 1 | 1 | 0 | 2 | 0.8 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.4 |
+| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 0.7 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.5 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_daily_commentary | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 71.6 |
+| kitco_general | OK | 36 | 35 | 2 | 33 | 1 | 0.0 |
+| gnews_fed | OK | 74 | 74 | 28 | 46 | 0 | 0.1 |
+| gnews_geopolitics | OK | 51 | 51 | 9 | 42 | 0 | 0.0 |
+| gnews_centralbanks | OK | 47 | 47 | 28 | 19 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
+| fed_speeches | OK | 15 | 2 | 0 | 2 | 13 | 0.7 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 1.1 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.1 |
+| boj_whatsnew | OK | 47 | 1 | 0 | 1 | 46 | 1.3 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 15.4 |
+| mining_com | OK | 36 | 10 | 0 | 10 | 26 | 0.5 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.4 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
+| ing_think | OK | 10 | 5 | 0 | 5 | 5 | 0.9 |
+| bbc_business | OK | 58 | 21 | 0 | 21 | 37 | 0.5 |
+| aljazeera | OK | 25 | 25 | 22 | 3 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 5.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 5.0 |
+| eia_energy | OK | 29 | 0 | 0 | 0 | 29 | 1.8 |
+| bea_releases | OK | 49 | 1 | 0 | 1 | 48 | 0.9 |
+| wsj_world | OK | 73 | 26 | 1 | 25 | 47 | 0.3 |
+| wsj_markets | OK | 61 | 35 | 0 | 35 | 26 | 0.3 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 7 | 3 | 0 | 0.2 |
-| cointelegraph | OK | 30 | 17 | 0 | 17 | 13 | 0.3 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
+| cointelegraph | OK | 30 | 20 | 3 | 17 | 10 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 71d purana
+- cme_risk_management — STALE, cadence 10d, magar 72d purana
 - yahoo_finance — FAIL, HTTP 404
