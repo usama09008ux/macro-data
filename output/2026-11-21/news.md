@@ -1,8 +1,8 @@
 # News Pack — Trading Day 21 Nov 2026
 
 - Trading day: **21 Nov 03:00 -> 22 Nov 02:59 PKT**
-- Aakhri update: **21 Nov 15:16 PKT**
-- Kul khabrein: **150**
+- Aakhri update: **21 Nov 22:38 PKT**
+- Kul khabrein: **221**
 - Feeds: 35/39 OK
 
 ---
@@ -17,6 +17,14 @@
 Nasdaq 100 posts worst week since March 2020 Trump weighs renewed strikes on Iran as military warns of strain. FT Nvidia falls after SEC probe on potential accounting issues European stocks end a bruising week. German DAX falls 7.29%. Trump: Secured two new trade deals. 10 others coming very soon. Fed's Cook says monetary policy isn't restrictive enough Could Jensen Huang end up at SpaceX? Dan Ives thinks he could work alongside Elon Musk Gold breaks below the 50% midpoint.
 
 ### GOLD
+
+**Goldman favours gold over silver as central bank demand supports prices**
+`21 Nov 22:01 PKT` · pehli baar dekhi `21 Nov 22:38` · investing_commodities
+
+**SILVER News - Kitco**
+`21 Nov 20:22 PKT` · pehli baar dekhi `21 Nov 22:38` · kitco_general
+
+SILVER News Kitco
 
 **Gold price continues to fall as AI selloff, rate-hike bets weigh. What's ahead? - BusinessLine**
 `21 Nov 10:20 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_fed
@@ -46,6 +54,31 @@ Wall Street stays bearish after gold's slide to $3,500, Main Street pessimism de
 
 ### USD
 
+**US High-Yield Business Savings: FDIC Sweep vs Treasury Yields - JournalArta**
+`21 Nov 20:09 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_fed
+
+US High-Yield Business Savings: FDIC Sweep vs Treasury Yields JournalArta
+
+**Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court - Los Angeles Times**
+`21 Nov 20:00 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_fed
+
+Letters to the Editor: White House hearing on Fed governor seems to be nothing more than kangaroo court Los Angeles Times
+
+**Fed minutes: Higher interest rates needed in December as inflation worries mount - Eagle-Tribune**
+`21 Nov 20:00 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_fed
+
+Fed minutes: Higher interest rates needed in December as inflation worries mount Eagle-Tribune
+
+**Trump praises India's 7% GDP growth & low interest rates; Slams US Federal Reserve for high rates as obstacle to growth - Organiser**
+`21 Nov 16:34 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_fed
+
+Trump praises India's 7% GDP growth & low interest rates; Slams US Federal Reserve for high rates as obstacle to growth Organiser
+
+**Expectations of a Federal Reserve rate hike resonate with safe-haven flows into AI, driving the U.S. dollar to four consecutive weekly gains and a 19-month high. - 富途牛牛**
+`21 Nov 14:41 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_fed
+
+Expectations of a Federal Reserve rate hike resonate with safe-haven flows into AI, driving the U.S. dollar to four consecutive weekly gains and a 19-month high. 富途牛牛
+
 **Scott Bessent Urges Fed to Avoid Major Rate Hike Amid Energy Supply Shock - Hokanews**
 `21 Nov 13:16 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_fed
 
@@ -65,6 +98,11 @@ Inflation Climbs to 4%, Fed Eyes Rate Hike Wisevoter
 `21 Nov 12:08 PKT` · pehli baar dekhi `21 Nov 15:16` · actionforex
 
 Last week's rout across global equities, with Nasdaq's 10% plunge its worst week since 2020, pulled bond yields down and trimmed expected tightening at all eight major central banks, even though December pricing has held. The central question is whether central banks can keep their hawkish outlooks if the equity correction deepens, which makes equity stabilization the key test for the coming week. The post Nasdaq Crashes 10% in a Week — Will the Selloff Reshape Fed and Global Rate Expectations?
+
+**USD exchange rate today, November 21st: The US dollar reverses course and cools down; what should domestic USD buyers pay attention to? - Vietnam.vn**
+`21 Nov 12:08 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_centralbanks
+
+USD exchange rate today, November 21st: The US dollar reverses course and cools down; what should domestic USD buyers pay attention to? Vietnam.vn
 
 **'Look at India': Trump cites 7% growth to criticise US Fed's rate policy - Business Standard**
 `21 Nov 12:03 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_fed
@@ -138,6 +176,22 @@ Trump again urges Fed to lower interest rates The Hill
 
 ### EUR
 
+**Radev: ECB must be ready to raise rates again in December - BurgasMedia**
+`21 Nov 19:37 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_centralbanks
+
+Radev: ECB must be ready to raise rates again in December BurgasMedia
+
+**ECB Seeks Partners to Test Tokenized Bank Deposits and Securities - CoinGape**
+`21 Nov 17:09 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_centralbanks
+
+ECB Seeks Partners to Test Tokenized Bank Deposits and Securities CoinGape
+
+**ECB names new board members, next chief may already be agreed - Malay Mail**
+`21 Nov 14:57 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_centralbanks · **2 feeds mein**
+
+ECB names new board members, next chief may already be agreed Malay Mail
+  - `21 Nov 03:29` *gnews_centralbanks* — ECB names new board members, next chief may already be agreed - Free Malaysia Today
+
 **ECB seeks industry partners for tokenized deposits, securities experiments**
 `21 Nov 14:48 PKT` · pehli baar dekhi `21 Nov 15:16` · cointelegraph
 
@@ -190,11 +244,6 @@ EUR/JPY Price Forecast: Declines below 175.00, bearish bias prevails under 100-d
 
 American inflation takes centre stage as the Euro enters the week with a priced-in rate hike www.tmgm.com
 
-**ECB names new board members, next chief may already be agreed - Free Malaysia Today**
-`21 Nov 03:29 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_centralbanks
-
-ECB names new board members, next chief may already be agreed Free Malaysia Today
-
 **Opinion | Germany's 'Green' Energy Policies Fuel the AfD's Rise**
 `21 Nov 03:02 PKT` · pehli baar dekhi `21 Nov 07:44` · wsj_world
 
@@ -210,10 +259,20 @@ GBP/USD&#8217;s fall from 1.3502 continued last week and broke through 1.3135 su
 
 ### JPY
 
+**3 Japanese Bank Stocks Worth Watching As BOJ Rate Hikes Reshape Profits - Yahoo Finance**
+`21 Nov 18:08 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_centralbanks
+
+3 Japanese Bank Stocks Worth Watching As BOJ Rate Hikes Reshape Profits Yahoo Finance
+
 **USD/JPY Weekly Outlook**
 `21 Nov 14:15 PKT` · pehli baar dekhi `21 Nov 15:16` · actionforex
 
 USD/JPY edged lower last week but stays well above 157.65 support. Initial bias remains neutral this week and further rally is in favor. On the upside, firm break of 160.38 resistance will target 100% projection of 152.87 to 159.02 from 156.06 at 162.21. However, break of 157.65 will bring deeper fall to 156.06 support. In [&#8230;] The post USD/JPY Weekly Outlook appeared first on ActionForex.
+
+**Bank of Japan research reveals generational gap in inflation expectations, with those who lived through the oil shock expecting higher prices - BigGo Finance**
+`21 Nov 04:35 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_centralbanks
+
+Bank of Japan research reveals generational gap in inflation expectations, with those who lived through the oil shock expecting higher prices BigGo Finance
 
 ### CHF
 
@@ -241,6 +300,16 @@ Canadian Highlights October inflation came in softer than expected, with core in
 
 ### AUD
 
+**Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run**
+`21 Nov 18:08 PKT` · pehli baar dekhi `21 Nov 22:38` · aljazeera
+
+Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary&#039;s 66 leads charge in Melbourne.
+
+**Usman Khawaja and David Warner taken off air over Australia's Sandpapergate**
+`21 Nov 15:54 PKT` · pehli baar dekhi `21 Nov 22:38` · aljazeera
+
+Ex-Australia cricketers Khawaja and Warner taken off air having been most outspoken over 2018 scandal in South Africa.
+
 **Sandpapergate: Cummins has Australia's 'unanimous support' as Test captain**
 `21 Nov 14:38 PKT` · pehli baar dekhi `21 Nov 15:16` · aljazeera
 
@@ -258,10 +327,54 @@ Next week's U.S. data should highlight continued strength in consumer spending. 
 
 ### OIL
 
+**The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation**
+`21 Nov 22:00 PKT` · pehli baar dekhi `21 Nov 22:38` · wsj_world
+
+The high-stakes shuttle service, with U.S. military help, is crucial to breaking Iran's grip on the waterway.
+
+**UK Races to Rewrite Nuclear Rules by 2027**
+`21 Nov 21:00 PKT` · pehli baar dekhi `21 Nov 22:38` · oilprice
+
+As part of its green transition plans, the U.K. government aims to accelerate the development of nuclear power. The government is already doubling down on expanding its renewable energy capacity, and it hopes nuclear power will become a major contributor to a more diverse energy mix that will support its decarbonisation aims. To achieve greater nuclear power deployment, the government plans to complete an overhaul of its nuclear regulations by the end of 2027.
+
+**Tankers hit in Strait of Hormuz as Iran tightens grip on shipping**
+`21 Nov 20:01 PKT` · pehli baar dekhi `21 Nov 22:38` · aljazeera
+
+British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.
+
+**Goldman is out with its 2027 forecast for Brent oil prices**
+`21 Nov 17:20 PKT` · pehli baar dekhi `21 Nov 22:38` · investing_commodities
+
+**US sanctions Iranian oil traders, government insiders over alleged oil revenue scheme - Middle East Monitor**
+`21 Nov 16:39 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_geopolitics · **2 feeds mein**
+
+US sanctions Iranian oil traders, government insiders over alleged oil revenue scheme Middle East Monitor
+  - `21 Nov 03:59` *gnews_geopolitics* — US sanctions Iranian oil traders, government insiders over alleged oil revenue scheme - Anadolu Ajansı
+
+**US imposes new sanctions on Iranian oil traders and government-linked facilitators - Saudi Gazette**
+`21 Nov 16:03 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_geopolitics
+
+US imposes new sanctions on Iranian oil traders and government-linked facilitators Saudi Gazette
+
+**Crude Oil Could Fall To $70 In 2027 Even Without US-Iran Deal. There's A China Link To It - NDTV Profit**
+`21 Nov 16:00 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_geopolitics
+
+Crude Oil Could Fall To $70 In 2027 Even Without US-Iran Deal. There's A China Link To It NDTV Profit
+
+**Brace for a Flood of Oil as Soon as Hormuz Reopens - EnergyNow**
+`21 Nov 15:30 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_geopolitics
+
+Brace for a Flood of Oil as Soon as Hormuz Reopens EnergyNow
+
 **US sanctions Iranian oil facilitators as Washington ramps up economic pressure on Tehran - Rudaw**
 `21 Nov 10:55 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_geopolitics
 
 US sanctions Iranian oil facilitators as Washington ramps up economic pressure on Tehran Rudaw
+
+**"The ship is sinking": Treasury Secretary Scott Bessent says Iran's regime has exhausted its seaborne oil supply - primetimer.com**
+`21 Nov 10:38 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_geopolitics
+
+"The ship is sinking": Treasury Secretary Scott Bessent says Iran's regime has exhausted its seaborne oil supply primetimer.com
 
 **Crude prices may normalise to USD 70 by end-2027 as global oil market moves into surplus: Report - The Economic Times**
 `21 Nov 10:16 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_geopolitics
@@ -294,15 +407,15 @@ Oil prices have traded in a narrow range over the past few sessions as forecasts
 
 Iran misses oil leverage, risk of escalating confrontation with the US Laodong.vn
 
-**US sanctions Iranian oil traders, government insiders over alleged oil revenue scheme - Anadolu Ajansı**
-`21 Nov 03:59 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_geopolitics
-
-US sanctions Iranian oil traders, government insiders over alleged oil revenue scheme Anadolu Ajansı
-
 **As U.S. Blockade Chokes Oil Exports, Sanctions Hit Iranian Insiders Accused Of Stealing Billions - Tampa Free Press**
 `21 Nov 03:09 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_geopolitics
 
 As U.S. Blockade Chokes Oil Exports, Sanctions Hit Iranian Insiders Accused Of Stealing Billions Tampa Free Press
+
+**Morgan Stanley Lowers Oil Price Forecasts After US-Iran Peace Deal - EnergyNow.com**
+`21 Nov 03:07 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_geopolitics
+
+Morgan Stanley Lowers Oil Price Forecasts After US-Iran Peace Deal EnergyNow.com
 
 **Argentine Energy Firms Rush to Sell Bonds Before the 2027 Election**
 `21 Nov 03:00 PKT` · pehli baar dekhi `21 Nov 07:44` · oilprice
@@ -330,6 +443,29 @@ Hong Kong's securities regulator says the proposal would strengthen investor pro
 Trump Touts Trade Deals, Rate Cut After Asia Trip Wisevoter
 
 ### RISK
+
+**Trump seeks "permanent" Iran nuclear deal; two tankers hit off Oman**
+`21 Nov 21:05 PKT` · pehli baar dekhi `21 Nov 22:38` · investing_news
+
+**The Russian POW Camp Where Sex Abuse Became Part of the System**
+`21 Nov 20:00 PKT` · pehli baar dekhi `21 Nov 22:38` · wsj_world
+
+The Pakino prison is a microcosm of how Russia is systemizing the sexual abuse of Ukrainian men.
+
+**Could Iran reverse its stated policy of a civil-only nuclear programme?**
+`21 Nov 19:15 PKT` · pehli baar dekhi `21 Nov 22:38` · aljazeera
+
+Iran&#039;s FM Araghchi says there is &#039;major strategic debate&#039; about the future of Iran&#039;s nuclear doctrine.
+
+**Russian crew evacuating ship hit by drones off coast of Finland**
+`21 Nov 17:45 PKT` · pehli baar dekhi `21 Nov 22:38` · aljazeera
+
+Two drones attack cargo ship that Finnish authorities say has links to Russia&#039;s armed forces.
+
+**Pezeshkian says Iran facing 'silent economic war' tougher than war with missiles - Moneycontrol.com**
+`21 Nov 15:39 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_geopolitics
+
+Pezeshkian says Iran facing 'silent economic war' tougher than war with missiles Moneycontrol.com
 
 **Iran's IRGC downs US drone over Hormuz as efforts to end war remain stalled**
 `21 Nov 14:30 PKT` · pehli baar dekhi `21 Nov 15:16` · aljazeera
@@ -366,6 +502,11 @@ Video shows emergency crews in Ukraine approaching the scene of a Russian strike
 
 Pressure from within Sudan may achieve what international diplomacy has not.
 
+**IEA Says Iran War Has Changed Oil Markets for Good as Gulf Exports Lag - الحرة**
+`21 Nov 10:39 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_geopolitics
+
+IEA Says Iran War Has Changed Oil Markets for Good as Gulf Exports Lag الحرة
+
 **Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper**
 `21 Nov 06:12 PKT` · pehli baar dekhi `21 Nov 07:44` · aljazeera
 
@@ -381,15 +522,55 @@ Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalit
 
 India's opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.
 
+**Trader or Driller? Iran War Exposes Big Oil's Transatlantic Divide: Bousso - EnergyNow**
+`21 Nov 03:15 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_geopolitics
+
+Trader or Driller? Iran War Exposes Big Oil's Transatlantic Divide: Bousso EnergyNow
+
+**Oil's Long View Darkens as Iran War Refuses to End: Bousso - EnergyNow.com**
+`21 Nov 03:04 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_geopolitics
+
+Oil's Long View Darkens as Iran War Refuses to End: Bousso EnergyNow.com
+
 **Nasdaq 100 posts worst week since March 2020**
 `21 Nov 03:03 PKT` · pehli baar dekhi `21 Nov 07:44` · investinglive
 
 U.S. stocks closed sharply lower Friday, with the Nasdaq 100 falling 5.61% on the day and 10.43% for the week, its worst since March 2020. The Nasdaq Composite fell 5.28%, wiping out its gains for the year, while the S&P 500 dropped 3.70% for its seventh straight decline. The Dow lost 950 points. Nvidia fell 14.01% to $125.53 after Reuters reported that the SEC was probing its accounting.
 
-### BINA TAG (63)
+### BINA TAG (94)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `21 Nov 22:30` **wsj_world** — Mexico Captures Top Drug Boss in Fierce Gunfight
+- `21 Nov 22:00` **wsj_markets** — What It's Like to Retire in Thailand
+- `21 Nov 21:50` **mw_topstories** — 'I'm sick of flying': I paid for priority boarding, but the overhead bins were full. Was I duped?
+- `21 Nov 21:14` **aljazeera** — India's opposition stages protests against Meta over account removals
+- `21 Nov 21:03` **aljazeera** — Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?
+- `21 Nov 20:49` **aljazeera** — US midterms 2026: What happens before the new Congress takes office?
+- `21 Nov 20:46` **aljazeera** — French presidential candidate blames media for racist attack
+- `21 Nov 20:24` **investing_commodities** — US denies Iranian account that missile damaged F-16 over Gulf
+- `21 Nov 20:20` **aljazeera** — Diallo present as Africa's Motsepe reiterates support for FIFA's Infantino
+- `21 Nov 20:00` **mw_topstories** — 'Never too late to start': Practical investing advice from some of the top women in finance
+- `21 Nov 19:42` **investing_commodities** — COP31 climate summit risks failure as talks go deep into overtime
+- `21 Nov 19:35` **aljazeera** — Man City claw back 1-1 draw with Fulham to end three-game losing streak
+- `21 Nov 19:30` **aljazeera** — Newcastle United vs Arsenal LIVE: Premier League
+- `21 Nov 19:17` **mw_topstories** — How a brutal week for stocks almost wiped out their gains for the entire year
+- `21 Nov 19:06` **aljazeera** — Jerusalem Daily: Gaza faces deadly strikes and health crisis
+- `21 Nov 18:43` **gnews_fed** — Trump: Interest rates are too high because the US Federal Reserve is "politicized" - صحيفة مال
+- `21 Nov 18:34` **gnews_fed** — Trump Accuses the Federal Reserve of Political Bias Over High Interest Rates - Oherald
+- `21 Nov 17:49` **aljazeera** — Riemann hypothesis: Has the world's most famous maths problem been cracked?
+- `21 Nov 17:30` **aljazeera** — Sudan's elderly face hardship and heartbreak in a life of displacement
+- `21 Nov 17:29` **aljazeera** — Israeli strike on vehicle distributing food aid in Gaza kills three
+- `21 Nov 17:22` **aljazeera** — Florida residents turn to kayaks and rafts as floods swamp streets
+- `21 Nov 17:09` **bbc_business** — Sessions offer advice on rising energy costs
+- `21 Nov 16:53` **aljazeera** — Mexico captures FBI-wanted cartel boss in military raid
+- `21 Nov 16:39` **aljazeera** — Why is GTA VI so expensive to play?
+- `21 Nov 16:35` **aljazeera** — Pakistan drop Rizwan and Masood, but back Babar and Agha in overhaul
+- `21 Nov 16:04` **aljazeera** — Migrants caravan in Mexico walks towards US border
+- `21 Nov 16:02` **aljazeera** — Russian missiles hit Poland: What happened, and could NATO respond?
+- `21 Nov 16:02` **aljazeera** — Deadly fire engulfs power station in southern Iraq
+- `21 Nov 15:38` **aljazeera** — Demolition notices for buildings in Hebron provoke fear among Palestinians
+- `21 Nov 15:27` **aljazeera** — Cavaliers' Harden passes Bryant, closes on Jordan in NBA 50-point game list
 - `21 Nov 15:00` **investing_news** — Alternative Ballistics Provides Corporate Update Highlighting Commercialization Momentum and Expanding Distribution Network
 - `21 Nov 14:46` **investing_news** — UBS assesses impact of nationwide ground stop on US airlines' 4Q outlook
 - `21 Nov 14:20` **aljazeera** — Fire sprinkler sprays water at flame-covered sign in China
@@ -415,6 +596,7 @@ U.S. stocks closed sharply lower Friday, with the Nasdaq 100 falling 5.61% on th
 - `21 Nov 09:23` **gnews_fed** — Trump cites India's 7% growth, says US could grow 20% if.... - Rediff
 - `21 Nov 09:09` **gnews_fed** — Trump cites India's 7 pc growth to argue US could hit 15-20 pc with lower interest rates - The Federal
 - `21 Nov 08:47` **gnews_fed** — Trump Cites India's 7 Percent Growth To Urge Federal Reserve To Cut Interest Rates - RTV English
+- `21 Nov 08:20` **kitco_general** — OFF-THE-WIRE News - Kitco
 - `21 Nov 08:04` **gnews_fed** — Donald Trump praises India's economic growth and criticises US Federal Reserve policy - India Today - India Today
 - `21 Nov 08:01` **aljazeera** — Three French police officers sentenced over racist assault on Black man
 - `21 Nov 07:49` **aljazeera** — Gen Z protests sweep Europe over wars, rising costs and climate
@@ -456,11 +638,11 @@ U.S. stocks closed sharply lower Friday, with the Nasdaq 100 falling 5.61% on th
 
 ---
 
-## Shor — 10 khabrein hatai gayin
+## Shor — 17 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (10)
+investing_news (17)
 
 ---
 
@@ -470,45 +652,45 @@ investing_news (10)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.5 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.8 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 12 | 8 | 0 | 0.0 |
-| marketpulse | OK | 3 | 1 | 1 | 0 | 2 | 0.8 |
-| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.4 |
-| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 0.7 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
-| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.5 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
-| cme_daily_commentary | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 71.6 |
-| kitco_general | OK | 36 | 35 | 2 | 33 | 1 | 0.0 |
-| gnews_fed | OK | 74 | 74 | 28 | 46 | 0 | 0.1 |
-| gnews_geopolitics | OK | 51 | 51 | 9 | 42 | 0 | 0.0 |
-| gnews_centralbanks | OK | 47 | 47 | 28 | 19 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
-| fed_speeches | OK | 15 | 2 | 0 | 2 | 13 | 0.7 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 1.1 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.1 |
-| boj_whatsnew | OK | 47 | 1 | 0 | 1 | 46 | 1.3 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 15.4 |
-| mining_com | OK | 36 | 10 | 0 | 10 | 26 | 0.5 |
-| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.4 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
-| ing_think | OK | 10 | 5 | 0 | 5 | 5 | 0.9 |
-| bbc_business | OK | 58 | 21 | 0 | 21 | 37 | 0.5 |
-| aljazeera | OK | 25 | 25 | 22 | 3 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 5.1 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 5.0 |
-| eia_energy | OK | 29 | 0 | 0 | 0 | 29 | 1.8 |
-| bea_releases | OK | 49 | 1 | 0 | 1 | 48 | 0.9 |
-| wsj_world | OK | 73 | 26 | 1 | 25 | 47 | 0.3 |
-| wsj_markets | OK | 61 | 35 | 0 | 35 | 26 | 0.3 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 0 | 20 | 0 | 0.3 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 1.1 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.7 |
+| wsj_economy | OK | 36 | 9 | 0 | 9 | 27 | 1.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.9 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.8 |
+| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.9 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.9 |
+| cme_daily_commentary | OK | 10 | 10 | 0 | 10 | 0 | 0.8 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 72.0 |
+| kitco_general | OK | 22 | 20 | 3 | 17 | 2 | 0.1 |
+| gnews_fed | OK | 43 | 43 | 7 | 36 | 0 | 0.0 |
+| gnews_geopolitics | OK | 30 | 30 | 12 | 18 | 0 | 0.2 |
+| gnews_centralbanks | OK | 23 | 23 | 8 | 15 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.9 |
+| fed_speeches | OK | 15 | 2 | 0 | 2 | 13 | 1.0 |
+| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 1.4 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.4 |
+| boj_whatsnew | OK | 47 | 1 | 0 | 1 | 46 | 1.7 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 15.7 |
+| mining_com | OK | 36 | 10 | 0 | 10 | 26 | 0.8 |
+| oilprice | OK | 15 | 15 | 1 | 14 | 0 | 0.1 |
+| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
+| ing_think | OK | 10 | 5 | 0 | 5 | 5 | 1.2 |
+| bbc_business | OK | 58 | 21 | 1 | 20 | 37 | 0.2 |
+| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.1 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 5.4 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 5.3 |
+| eia_energy | OK | 29 | 0 | 0 | 0 | 29 | 2.2 |
+| bea_releases | OK | 49 | 1 | 0 | 1 | 48 | 1.2 |
+| wsj_world | OK | 73 | 29 | 3 | 26 | 44 | 0.0 |
+| wsj_markets | OK | 61 | 36 | 1 | 35 | 25 | 0.0 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.3 |
-| cointelegraph | OK | 30 | 20 | 3 | 17 | 10 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 20 | 0 | 20 | 10 | 0.3 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
