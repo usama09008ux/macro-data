@@ -1,9 +1,9 @@
 # News Pack — Trading Day 21 Nov 2026
 
 - Trading day: **21 Nov 03:00 -> 22 Nov 02:59 PKT**
-- Aakhri update: **22 Nov 07:32 PKT**
-- Kul khabrein: **312**
-- Feeds: 34/39 OK
+- Aakhri update: **22 Nov 15:14 PKT**
+- Kul khabrein: **325**
+- Feeds: 27/39 OK
 
 ---
 
@@ -86,6 +86,11 @@ Fed minutes: Higher interest rates needed in December as inflation worries mount
 `21 Nov 18:17 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_fed
 
 Fed Chair Kevin Warsh: Three Scenarios Show How Superintelligence Impacts US Economy and Employment TradingKey
+
+**Trump praises India's GDP Growth while criticising US Federal Reserve - theweek.in**
+`21 Nov 17:16 PKT` · pehli baar dekhi `22 Nov 15:14` · gnews_fed
+
+Trump praises India's GDP Growth while criticising US Federal Reserve theweek.in
 
 **J.P. Morgan prices in stunning shift in Fed rate-hike call - TheStreet**
 `21 Nov 17:07 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_fed
@@ -210,6 +215,11 @@ Trump again urges Fed to lower interest rates The Hill
 
 ### EUR
 
+**ECB names new board members - Borneo Bulletin**
+`22 Nov 02:09 PKT` · pehli baar dekhi `22 Nov 15:14` · gnews_centralbanks
+
+ECB names new board members Borneo Bulletin
+
 **Thousands protest across Europe over living costs and housing**
 `22 Nov 01:47 PKT` · pehli baar dekhi `22 Nov 03:25` · aljazeera
 
@@ -234,6 +244,11 @@ ECB president Christine Lagarde predicts Europe is running short of data center 
 `21 Nov 17:09 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_centralbanks
 
 ECB Seeks Partners to Test Tokenized Bank Deposits and Securities CoinGape
+
+**ECB Seeks Financial Institutions for Appia Tokenization Trials on Deposits, Securities - bloomingbit**
+`21 Nov 15:26 PKT` · pehli baar dekhi `22 Nov 15:14` · gnews_centralbanks
+
+ECB Seeks Financial Institutions for Appia Tokenization Trials on Deposits, Securities bloomingbit
 
 **ECB names new board members, next chief may already be agreed - Malay Mail**
 `21 Nov 14:57 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_centralbanks · **2 feeds mein**
@@ -452,10 +467,16 @@ Iran Blockade Disrupts Oil Transport in Strait of Hormuz Head Topics
 
 The Labour government has been accused of "capitulation" in its trade relations with China as Britain's transition to net zero faces a number of security risks. A new report, published shortly before President Trump's momentous trilateral meeting with Xi Jinping and Vladimir Putin, has highlighted the UK's dependence on China for net zero-related technology and potential vulnerabilities in supply chains.
 
+**U.S. Targets Iranian Regime's Oil Lifelines in East Asia - Iran Focus**
+`21 Nov 22:26 PKT` · pehli baar dekhi `22 Nov 15:14` · gnews_geopolitics
+
+U.S. Targets Iranian Regime's Oil Lifelines in East Asia Iran Focus
+
 **The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation**
-`21 Nov 22:00 PKT` · pehli baar dekhi `21 Nov 22:38` · wsj_world
+`21 Nov 22:00 PKT` · pehli baar dekhi `21 Nov 22:38` · wsj_world · **2 feeds mein**
 
 The high-stakes shuttle service, with U.S. military help, is crucial to breaking Iran's grip on the waterway.
+  - `21 Nov 22:00` *gnews_geopolitics* — The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation - WSJ
 
 **Crude Oil May Fall to $70 by 2027 Amid China Demand Drop - News Karnataka**
 `21 Nov 21:23 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_geopolitics
@@ -487,6 +508,11 @@ Oil Little Changed as Trump Heads to China EnergyNow
 
 New Report of Attack on Strait of Hormuz Shipping Fans fears of Threats to Oil Supplies EnergyNow
 
+**Oil Tumbles Below $100 After Trump Announces Two-Week Ceasefire - EnergyNow**
+`21 Nov 17:51 PKT` · pehli baar dekhi `22 Nov 15:14` · gnews_geopolitics
+
+Oil Tumbles Below $100 After Trump Announces Two-Week Ceasefire EnergyNow
+
 **Goldman is out with its 2027 forecast for Brent oil prices**
 `21 Nov 17:20 PKT` · pehli baar dekhi `21 Nov 22:38` · investing_commodities
 
@@ -494,6 +520,11 @@ New Report of Attack on Strait of Hormuz Shipping Fans fears of Threats to Oil S
 `21 Nov 17:15 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_geopolitics
 
 Oil may fall to $70 in 2027 even without US-Iran deal: Report | The current price is $83.41 per barrel | Inshorts Inshorts
+
+**US levies fresh sanctions on Iranian oil traders, state-linked facilitators - দৈনিক আগামীর সময়**
+`21 Nov 17:15 PKT` · pehli baar dekhi `22 Nov 15:14` · gnews_geopolitics
+
+US levies fresh sanctions on Iranian oil traders, state-linked facilitators দৈনিক আগামীর সময়
 
 **Why Iran Is Facing A Massive Oil Revenue Crisis Right Now - ИФЗ РАН**
 `21 Nov 16:47 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_geopolitics
@@ -690,6 +721,16 @@ Iran&#039;s FM Araghchi says there is &#039;major strategic debate&#039; about t
 
 Iran War Hands OPEC's Swing Producer Crown to America: Bousso EnergyNow
 
+**LNG Canada Ramps Up Output as Iran War Threatens Global Gas Supplies - EnergyNow**
+`21 Nov 18:24 PKT` · pehli baar dekhi `22 Nov 15:14` · gnews_geopolitics
+
+LNG Canada Ramps Up Output as Iran War Threatens Global Gas Supplies EnergyNow
+
+**A (TEMPORARY) GOLDEN ERA - Iran War Ushers in Oil Refining Golden Era. It Won't Last: Ron Bousso - EnergyNow**
+`21 Nov 18:19 PKT` · pehli baar dekhi `22 Nov 15:14` · gnews_geopolitics
+
+A (TEMPORARY) GOLDEN ERA - Iran War Ushers in Oil Refining Golden Era. It Won't Last: Ron Bousso EnergyNow
+
 **Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA - EnergyNow**
 `21 Nov 18:16 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_geopolitics
 
@@ -710,6 +751,11 @@ Two drones attack cargo ship that Finnish authorities say has links to Russia&#0
 `21 Nov 15:55 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_centralbanks
 
 Burnham dreads a new round of Trump strikes on Iran: Britain didn't pick this war, but it's footing the bill Il Politico Web
+
+**Asia Hopes Democrats Can Provide Relief From Trump's Iran War, Tariffs: Russell - EnergyNow.com**
+`21 Nov 15:41 PKT` · pehli baar dekhi `22 Nov 15:14` · gnews_geopolitics
+
+Asia Hopes Democrats Can Provide Relief From Trump's Iran War, Tariffs: Russell EnergyNow.com
 
 **Pezeshkian says Iran facing 'silent economic war' tougher than war with missiles - Moneycontrol.com**
 `21 Nov 15:39 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_geopolitics
@@ -801,10 +847,11 @@ Trader or Driller? Iran War Exposes Big Oil's Transatlantic Divide: Bousso Energ
 
 U.S. stocks closed sharply lower Friday, with the Nasdaq 100 falling 5.61% on the day and 10.43% for the week, its worst since March 2020. The Nasdaq Composite fell 5.28%, wiping out its gains for the year, while the S&P 500 dropped 3.70% for its seventh straight decline. The Dow lost 950 points. Nvidia fell 14.01% to $125.53 after Reuters reported that the SEC was probing its accounting.
 
-### BINA TAG (123)
+### BINA TAG (126)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Nov 02:23` **gnews_centralbanks** — UK property asking prices fall - Business Recorder
 - `22 Nov 02:23` **gnews_centralbanks** — UK property asking prices fall - Business Recorder
 - `22 Nov 02:17` **investing_news** — Presurance Holdings director Smith acquires $7,650 in stock
 - `22 Nov 02:11` **aljazeera** — Impunity fuels surge in settler violence across occupied West Bank
@@ -830,6 +877,7 @@ U.S. stocks closed sharply lower Friday, with the Nasdaq 100 falling 5.61% on th
 - `21 Nov 21:50` **mw_topstories** — 'I'm sick of flying': I paid for priority boarding, but the overhead bins were full. Was I duped?
 - `21 Nov 21:22` **gnews_centralbanks** — European Central Bank to Assess Need for Further Monetary Tightening in December, Bulgarian National Bank Governor Says - БТА
 - `21 Nov 21:14` **aljazeera** — India's opposition stages protests against Meta over account removals
+- `21 Nov 21:12` **gnews_centralbanks** — Deutsche Bank Sees 2026 Revenue Above €33 Billion, Reaffirms Cost Target - TradingView
 - `21 Nov 21:03` **aljazeera** — Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?
 - `21 Nov 20:49` **aljazeera** — US midterms 2026: What happens before the new Congress takes office?
 - `21 Nov 20:46` **aljazeera** — French presidential candidate blames media for racist attack
@@ -911,6 +959,7 @@ U.S. stocks closed sharply lower Friday, with the Nasdaq 100 falling 5.61% on th
 - `21 Nov 05:55` **aljazeera** — Can Mauricio Pochettino save Man United from Premier League relegation?
 - `21 Nov 05:36` **investing_commodities** — Army toxic detonation in Iowa paused amid public outcry, farm disruption
 - `21 Nov 05:12` **gnews_centralbanks** — Why America's midterms could influence the UK housing market - Estate Agent Today
+- `21 Nov 05:06` **bbc_business** — Can AI really help spot Black Friday deals? We put it to the test
 - `21 Nov 05:04` **gnews_fed** — 'Look At India': Trump Uses India's 7% Growth To Call Out 'Very Political' US Federal Reserve - Republic World
 - `21 Nov 05:00` **actionforex** — Summary 11/23 – 11/27
 - `21 Nov 04:39` **kitco_general** — Nasdaq plunges 5% a day after Anthropic debut, but investors still believe in AI - Kitco
@@ -945,48 +994,49 @@ investing_news (23)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 1.2 |
+| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 1.5 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 19 | 0 | 19 | 1 | 0.7 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.5 |
-| instaforex | OK | 25 | 22 | 0 | 22 | 3 | 1.0 |
-| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 1.3 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 72.3 |
-| kitco_general | OK | 5 | 5 | 1 | 4 | 0 | 0.1 |
+| actionforex | OK | 20 | 19 | 0 | 19 | 1 | 1.0 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.8 |
+| instaforex | OK | 25 | 22 | 0 | 22 | 3 | 1.4 |
+| wsj_economy | OK | 36 | 1 | 1 | 0 | 35 | 0.0 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.5 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 72.6 |
+| kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | gnews_fed | OK | 23 | 23 | 8 | 15 | 0 | 0.1 |
-| gnews_geopolitics | OK | 31 | 31 | 12 | 19 | 0 | 0.2 |
-| gnews_centralbanks | OK | 24 | 24 | 12 | 12 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.8 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.8 |
-| boj_whatsnew | OK | 47 | 0 | 0 | 0 | 47 | 2.0 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 16.1 |
-| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.2 |
-| oilprice | OK | 15 | 8 | 1 | 7 | 7 | 0.1 |
-| investing_commodities | OK | 10 | 9 | 1 | 8 | 1 | 0.1 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
-| bbc_business | OK | 58 | 3 | 0 | 3 | 55 | 0.6 |
-| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 5.7 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 5.7 |
-| eia_energy | OK | 29 | 0 | 0 | 0 | 29 | 2.5 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 1.5 |
-| wsj_world | OK | 73 | 12 | 2 | 10 | 61 | 0.0 |
-| wsj_markets | OK | 61 | 12 | 0 | 12 | 49 | 0.2 |
+| gnews_geopolitics | OK | 28 | 28 | 9 | 19 | 0 | 0.1 |
+| gnews_centralbanks | OK | 27 | 27 | 14 | 13 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.7 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.1 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.1 |
+| boj_whatsnew | OK | 47 | 0 | 0 | 0 | 47 | 2.3 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 16.4 |
+| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.5 |
+| oilprice | OK | 15 | 8 | 0 | 8 | 7 | 0.4 |
+| investing_commodities | OK | 10 | 9 | 0 | 9 | 1 | 0.1 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
+| bbc_business | OK | 58 | 7 | 4 | 3 | 51 | 0.1 |
+| aljazeera | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 6.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.0 |
+| eia_energy | OK | 29 | 0 | 0 | 0 | 29 | 2.8 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 1.9 |
+| wsj_world | OK | 72 | 14 | 2 | 12 | 58 | 0.3 |
+| wsj_markets | OK | 61 | 12 | 0 | 12 | 49 | 0.6 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.6 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
+| cointelegraph | OK | 30 | 7 | 3 | 4 | 23 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 72d purana
+- cme_risk_management — STALE, cadence 10d, magar 73d purana
+- kitco_general — FAIL, koi item nahi
 - yahoo_finance — FAIL, HTTP 404
