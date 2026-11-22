@@ -1,15 +1,20 @@
 # News Pack — Trading Day 22 Nov 2026
 
 - Trading day: **22 Nov 03:00 -> 23 Nov 02:59 PKT**
-- Aakhri update: **22 Nov 22:53 PKT**
-- Kul khabrein: **186**
-- Feeds: 25/39 OK
+- Aakhri update: **23 Nov 04:15 PKT**
+- Kul khabrein: **231**
+- Feeds: 24/39 OK
 
 ---
 
 ## Khabrein
 
 ### MARKET WRAP
+
+**US equity rout: Bessent cautions Fed against overtightening, before its December decision**
+`23 Nov 02:26 PKT` · pehli baar dekhi `23 Nov 04:15` · investinglive
+
+With a quarter-point hike in December close to fully priced, Bessent's comments mainly push back against the governors (well, one, looking at you Waller!) arguing for 50 basis points. They do little to dislodge 25bp as the base case. If the equity correction deepens, the bigger risk for rate markets is that a hold gets priced back in.
 
 **Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France, Spain, Australia, Tokyo Inflation Reports; Flash PMIs; France Credit Ratings Update - www.christophe-barraud.com**
 `22 Nov 18:27 PKT` · pehli baar dekhi `22 Nov 22:53` · gnews_centralbanks
@@ -22,6 +27,11 @@ Week Ahead: Black Friday; BoK Meeting; ECB Minutes; Fed Beige Book; U.S., France
 EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle StoneX
 
 ### GOLD
+
+**Bullion May Extend Losses This Week As US Economic Data, Fed Cues Loom: Analysts - NDTV Profit**
+`22 Nov 21:29 PKT` · pehli baar dekhi `23 Nov 04:15` · gnews_fed
+
+Bullion May Extend Losses This Week As US Economic Data, Fed Cues Loom: Analysts NDTV Profit
 
 **Bullion Prices May Fall Further on US Data, Fed Cues - Rediff MoneyWiz**
 `22 Nov 19:21 PKT` · pehli baar dekhi `22 Nov 22:53` · gnews_fed
@@ -45,6 +55,16 @@ What is future of gold rates? Price crash continues as AI selloff, Fed rate-hike
 
 ### USD
 
+**Seoul readies a market fund unused since 2008 after the Kospi sinks**
+`23 Nov 02:41 PKT` · pehli baar dekhi `23 Nov 04:15` · investinglive
+
+The measures give Korean stocks a policy backstop before Monday's open. Readying the fund rather than deploying it, though, leaves authorities room to hold back unless selling becomes disorderly. Looser buyback limits could help the chip heavyweights and other large caps most, since they have the cash to step in. A Bank of Korea hike on Thursday would mean tighter monetary policy while equities are falling, which could weigh on sentiment even as fiscal and regulatory authorities try to calm it.
+
+**Bond Market's Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com**
+`23 Nov 01:00 PKT` · pehli baar dekhi `23 Nov 04:15` · gnews_fed
+
+Bond Market's Go-To Trade for Fed Hikes Roiled by Stocks Retreat Bloomberg.com
+
 **Interest Rate Forecast: December Fed Hike Bets Support US Dollar - FXEmpire**
 `22 Nov 22:28 PKT` · pehli baar dekhi `22 Nov 22:53` · gnews_centralbanks
 
@@ -64,6 +84,11 @@ Only 5% of Cryptocurrencies Are Rising as Fed Rate Hike Fears Grow BeInCrypto
 `22 Nov 21:13 PKT` · pehli baar dekhi `22 Nov 22:53` · gnews_fed
 
 Treasury Yields Fall, German Bunds' Tick Higher WSJ
+
+**Bessent Warns Fed Risks Overtightening as US Markets Swoon - Bloomberg.com**
+`22 Nov 21:08 PKT` · pehli baar dekhi `23 Nov 04:15` · gnews_fed
+
+Bessent Warns Fed Risks Overtightening as US Markets Swoon Bloomberg.com
 
 **Global equities suffer weekly losses amid AI rout, inflation worries - TradingView**
 `22 Nov 20:49 PKT` · pehli baar dekhi `22 Nov 22:53` · gnews_centralbanks
@@ -112,6 +137,16 @@ Trump Calls for Rate Cuts to World's Lowest, but Market Bets Over 90% Odds of a 
 
 ### EUR
 
+**Who runs the ECB? Capitals haggle as experts call for merit - EU Perspectives**
+`22 Nov 21:33 PKT` · pehli baar dekhi `23 Nov 04:15` · gnews_centralbanks
+
+Who runs the ECB? Capitals haggle as experts call for merit EU Perspectives
+
+**France October inflation accelerates as energy prices surge, keeping ECB rate hike bets alive - investingLive**
+`22 Nov 16:34 PKT` · pehli baar dekhi `23 Nov 04:15` · gnews_centralbanks
+
+France October inflation accelerates as energy prices surge, keeping ECB rate hike bets alive investingLive
+
 **British Pound to Euro Forecast: BoE Support Meets Hawkish ECB - CurrencyNews.co.uk**
 `22 Nov 15:01 PKT` · pehli baar dekhi `22 Nov 15:14` · gnews_centralbanks
 
@@ -155,6 +190,11 @@ Bank of England directors illegally profited from post-abolition enslavement in 
 
 ### JPY
 
+**Economic and event calendar in Asia 23 November 2026. Japanese markets are closed today.**
+`23 Nov 02:03 PKT` · pehli baar dekhi `23 Nov 04:15` · investinglive
+
+Japan holiday thins out Asia Japanese markets are closed on Monday for Labor Thanksgiving Day. Tokyo equities and Japanese government bonds are not trading, and physical US Treasuries will not change hands in the Asian session. Cash Treasury trading normally runs through Tokyo hours, so it will be quiet until London opens. Treasury futures are still trading on Globex. With Japanese participants away, yen crosses may be thinner than usual, so moves can run further than the news behind them.
+
 **US Dollar Forecast: Can the Japanese Yen End Its 19-Month Rally? - Coinpaper**
 `22 Nov 19:07 PKT` · pehli baar dekhi `22 Nov 22:53` · gnews_centralbanks
 
@@ -182,6 +222,11 @@ A Donald Trump impersonator took to the stage alongside Mark Carney at Canada's 
 
 ### AUD
 
+**Recession could hit Australia by next month on one closely-watched indicator - ABC News & Headlines – Australian Broadcasting Corporation**
+`22 Nov 23:00 PKT` · pehli baar dekhi `23 Nov 04:15` · gnews_fed
+
+Recession could hit Australia by next month on one closely-watched indicator ABC News & Headlines – Australian Broadcasting Corporation
+
 **What Sandpapergate reveals about Australian cricket**
 `22 Nov 11:32 PKT` · pehli baar dekhi `22 Nov 15:14` · aljazeera
 
@@ -192,12 +237,34 @@ A toxic culture of winning at any cost has been hiding behind the myth of 'mates
 
 How Interest Rates Affect Your Stocks, Mortgage and Savings as the Fed Holds Steady After Its First Hike International Business Times Australia
 
+### NZD
+
+**New Zealand retail volumes jump 2.2% in Q3, more than four times the expected pace**
+`23 Nov 02:54 PKT` · pehli baar dekhi `23 Nov 04:15` · investinglive
+
+A beat of this size is supportive for the New Zealand dollar and should firm rate expectations at the margin, since it weakens the case that NZ consumers need more help. Any boost may be short-lived, though, with global risk appetite under heavy pressure after last week's Wall Street rout. A high-beta currency like the kiwi tends to follow broader sentiment in that kind of market. Liquidity is also thinner than usual with Tokyo closed, which can exaggerate the first move in either direction.
+
 ### OIL
+
+**California's Wildfire Crisis Is Threatening Its Energy Future**
+`23 Nov 01:00 PKT` · pehli baar dekhi `23 Nov 04:15` · oilprice
+
+The cost of natural disasters is hitting utilities hard as they need to invest more heavily in strengthening transmission infrastructure and financially supporting recovery efforts. In California, several utilities have seen costs increase in relation to more frequent wildfires, limiting their spending potential, which could ultimately threaten grid resilience.
+
+**Google Backs Superhot Geothermal in 50 MW Oregon Power Deal**
+`22 Nov 23:00 PKT` · pehli baar dekhi `23 Nov 04:15` · oilprice
+
+The runaway energy demand driven by the artificial intelligence era is pushing Big Tech to pursue an all-of-the-above approach to energy generation. At the same time that the sector is causing a natural gas boom and extending the life of fossil fuels, it is also channeling huge amounts of funding into next-gen clean energy technologies including space-based solar power, nuclear fusion, and advanced geothermal.
 
 **'Disappointing': Delegates react after COP31 climate talks end without deal**
 `22 Nov 21:33 PKT` · pehli baar dekhi `22 Nov 22:53` · aljazeera
 
 Draft text considered too weak to deal with climate change after oil-producing countries oppose the term &#039;fossil fuels&#039;.
+
+**Fed's Logan Warns US Oil Production Won't Fill Global Supply Gap - EnergyNow.com**
+`22 Nov 21:24 PKT` · pehli baar dekhi `23 Nov 04:15` · gnews_fed
+
+Fed's Logan Warns US Oil Production Won't Fill Global Supply Gap EnergyNow.com
 
 **The $25 Billion Problem Facing Australia's Hydropower Revolution**
 `22 Nov 21:00 PKT` · pehli baar dekhi `22 Nov 22:53` · oilprice
@@ -281,6 +348,11 @@ Bitcoin's rebound from $55,130 has some encouraging short-term evidence behind i
 
 Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.
 
+**Bitcoin Steady as Fed Keeps Interest Rates Unchanged Following FOMC - CoinMarketCap**
+`22 Nov 12:52 PKT` · pehli baar dekhi `23 Nov 04:15` · gnews_fed
+
+Bitcoin Steady as Fed Keeps Interest Rates Unchanged Following FOMC CoinMarketCap
+
 **South Korean exchanges halt CYBER transfers amid suspected bridge exploit**
 `22 Nov 12:24 PKT` · pehli baar dekhi `22 Nov 15:14` · cointelegraph
 
@@ -293,12 +365,22 @@ Federal Reserve policy puts XRP at risk as higher rates may weaken crypto's appe
 
 ### RATES
 
+**Liverpool thrash 10-man Man United in nightmare start for Pochettino**
+`22 Nov 23:44 PKT` · pehli baar dekhi `23 Nov 04:15` · aljazeera
+
+Leny Yoro&#039;s red card for Manchester United after just eight minutes paved the way for a 4-0 football defeat at Anfield.
+
 **Scott Bessent Says Federal Reserve Should Avoid Major Interest Rate Hike Amid Energy Supply Shock - Hokanews**
 `22 Nov 09:14 PKT` · pehli baar dekhi `22 Nov 15:14` · gnews_fed
 
 Scott Bessent Says Federal Reserve Should Avoid Major Interest Rate Hike Amid Energy Supply Shock Hokanews
 
 ### RISK
+
+**Opinion | The Guatemalan Lawyer Who Beat Putin**
+`22 Nov 22:57 PKT` · pehli baar dekhi `23 Nov 04:15` · wsj_world
+
+Victoria Sandoval stood up to Russia's human-rights harassment in her country.
 
 **Russian vessel hit by suspected sea drone at Libya's Benghazi naval base**
 `22 Nov 22:12 PKT` · pehli baar dekhi `22 Nov 22:53` · aljazeera
@@ -443,6 +525,11 @@ US Treasury Secretary Scott Bessent says he's still living at a US military base
 **China's AI stocks lose $1.7 trillion as tech selloff deepens**
 `22 Nov 06:09 PKT` · pehli baar dekhi `22 Nov 07:32` · investing_news
 
+**Fed Likely to Keep Raising Rates Despite Stock Selloff - JournalArta**
+`22 Nov 05:49 PKT` · pehli baar dekhi `23 Nov 04:15` · gnews_fed
+
+Fed Likely to Keep Raising Rates Despite Stock Selloff JournalArta
+
 **Iran to ration electricity as war hits energy network - The Straits Times**
 `22 Nov 05:08 PKT` · pehli baar dekhi `22 Nov 22:53` · gnews_geopolitics
 
@@ -468,10 +555,36 @@ Iran faces a 'silent economic war', says Iranian president
 
 Trump Vows Permanent Agreement to Block Iran's Nuclear Weapons 조선일보
 
-### BINA TAG (82)
+### BINA TAG (108)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `23 Nov 02:38` **investing_news** — Should you buy the massive dip in memory stocks? Citi weighs in
+- `23 Nov 02:33` **aljazeera** — Netanyahu's Likud, Eisenkot's Yashar end coalition talks without deal
+- `23 Nov 02:28` **mw_topstories** — Ron Johnson's Social Security gaffe buried important news
+- `23 Nov 02:26` **aljazeera** — Heartbreak in US capital as Washington Spirit lose women's football final
+- `23 Nov 02:24` **investing_news** — Invivyd to announce Phase 3 COVID-19 trial results Monday
+- `23 Nov 02:18` **investing_commodities** — Analysis-Can climate diplomacy build on the collapse of COP31?
+- `23 Nov 02:10` **wsj_world** — Drug Kingpin's Capture in Mexico Threatens to Touch Off Bloody Succession Battle
+- `23 Nov 01:47` **wsj_world** — Opinion | America Hits the Brakes on AI
+- `23 Nov 01:29` **aljazeera** — Fire breaks out at popular tourist hotspot in Zanzibar
+- `23 Nov 01:26` **mw_topstories** — Social Security should be shut down, this Republican senator says
+- `23 Nov 01:04` **aljazeera** — Liverpool 4-0 Manchester United: Five key takeaways for Pochettino
+- `23 Nov 01:00` **aljazeera** — Why has the COP31 climate summit failed to reach agreement?
+- `23 Nov 00:40` **aljazeera** — Cockroaches, dissent and a paradigm shift in India
+- `23 Nov 00:30` **aljazeera** — On China, is Trump bucking the US national security establishment?
+- `23 Nov 00:24` **mw_topstories** — Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill
+- `23 Nov 00:18` **aljazeera** — Aber Kawas becomes first Palestinian in New York state Senate history
+- `23 Nov 00:10` **aljazeera** — 'Horrific' and 'chilling': Officials condemn ICE arrests at Seattle airport
+- `22 Nov 23:23` **mw_topstories** — These little-known investments could be among the best bargains in a crash
+- `22 Nov 23:12` **aljazeera** — Civilians killed in RSF drone strikes in Sudan
+- `22 Nov 23:11` **aljazeera** — Suspected drone attack causes explosion on Russian ship in Libya
+- `22 Nov 23:05` **gnews_fed** — Stock ownership reached 56% among U.S. families in 2025, Federal Reserve data shows - Traders Union
+- `22 Nov 23:04` **aljazeera** — UN climate talks collapse without a deal
+- `22 Nov 23:02` **aljazeera** — Cox's Bazar: Rohingya Life in Exile
+- `22 Nov 23:00` **aljazeera** — Virginia reports first measles-linked death of 2026 in child younger than 5
+- `22 Nov 22:58` **wsj_markets** — Opinion | Give Thanks to Inverse Billionaires
+- `22 Nov 22:46` **aljazeera** — India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar
 - `22 Nov 22:37` **gnews_fed** — Trump Backs 10% Credit Card Rate Cap With Democrats - EEW Magazine
 - `22 Nov 22:22` **mw_topstories** — Private equity has been buying up hospice centers — with striking consequences
 - `22 Nov 21:59` **wsj_world** — U.N. Climate Talks Collapse Over Fossil Fuel Rift
@@ -557,11 +670,11 @@ Trump Vows Permanent Agreement to Block Iran's Nuclear Weapons 조선일보
 
 ---
 
-## Shor — 15 khabrein hatai gayin
+## Shor — 17 khabrein hatai gayin
 
 *Ye news.jsonl mein mehfooz hain, bas yahan nahi dikhaya gaya. Zyada tar US insider-trading filings aur earnings transcripts.*
 
-investing_news (15)
+investing_news (17)
 
 ---
 
@@ -571,49 +684,50 @@ investing_news (15)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 1 | 1 | 0 | 24 | 0.2 |
+| investinglive | OK | 25 | 8 | 7 | 1 | 17 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 0 | 0 | 0 | 20 | 1.4 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.1 |
-| instaforex | WARN | 25 | 0 | 0 | 0 | 25 | 1.7 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.3 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.9 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 1.8 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 73.0 |
+| actionforex | WARN | 20 | 0 | 0 | 0 | 20 | 1.6 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.3 |
+| instaforex | OK | 25 | 5 | 5 | 0 | 20 | -0.2 |
+| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.6 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 73.2 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 25 | 22 | 15 | 7 | 3 | 0.0 |
-| gnews_geopolitics | OK | 29 | 26 | 22 | 4 | 3 | 0.1 |
-| gnews_centralbanks | OK | 24 | 22 | 11 | 11 | 2 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.0 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.0 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.4 |
-| boj_whatsnew | OK | 47 | 0 | 0 | 0 | 47 | 2.7 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 16.8 |
-| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 1.8 |
-| oilprice | OK | 15 | 3 | 1 | 2 | 12 | 0.1 |
-| investing_commodities | OK | 10 | 3 | 2 | 1 | 7 | 0.0 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.2 |
-| bbc_business | OK | 58 | 5 | 1 | 4 | 53 | 0.2 |
-| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 6.4 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.3 |
-| eia_energy | WARN | 29 | 0 | 0 | 0 | 29 | 3.2 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 2.2 |
-| wsj_world | OK | 72 | 8 | 4 | 4 | 64 | 0.0 |
-| wsj_markets | OK | 61 | 3 | 3 | 0 | 58 | 0.3 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| gnews_fed | OK | 29 | 29 | 10 | 19 | 0 | 0.0 |
+| gnews_geopolitics | FAIL | 0 | 0 | 0 | 0 | 0 | - |
+| gnews_centralbanks | OK | 18 | 18 | 3 | 15 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.2 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.6 |
+| boj_whatsnew | OK | 47 | 0 | 0 | 0 | 47 | 2.9 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 17.0 |
+| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 2.1 |
+| oilprice | OK | 15 | 6 | 3 | 3 | 9 | 0.1 |
+| investing_commodities | OK | 10 | 4 | 1 | 3 | 6 | 0.1 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
+| bbc_business | OK | 58 | 5 | 0 | 5 | 53 | 0.4 |
+| aljazeera | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 6.6 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.6 |
+| eia_energy | WARN | 29 | 0 | 0 | 0 | 29 | 3.4 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 2.4 |
+| wsj_world | OK | 71 | 13 | 5 | 8 | 58 | 0.0 |
+| wsj_markets | OK | 61 | 5 | 2 | 3 | 56 | 0.1 |
+| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 5 | 1 | 4 | 25 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 4 | 6 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 6 | 1 | 5 | 24 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
 - cme_risk_management — STALE, cadence 10d, magar 73d purana
 - kitco_general — FAIL, koi item nahi
+- gnews_geopolitics — FAIL, HTTP 429
 - yahoo_finance — FAIL, HTTP 404
