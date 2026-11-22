@@ -1,9 +1,9 @@
 # News Pack — Trading Day 21 Nov 2026
 
 - Trading day: **21 Nov 03:00 -> 22 Nov 02:59 PKT**
-- Aakhri update: **22 Nov 03:25 PKT**
-- Kul khabrein: **287**
-- Feeds: 35/39 OK
+- Aakhri update: **22 Nov 07:32 PKT**
+- Kul khabrein: **312**
+- Feeds: 34/39 OK
 
 ---
 
@@ -81,6 +81,16 @@ Letters to the Editor: White House hearing on Fed governor seems to be nothing m
 `21 Nov 20:00 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_fed
 
 Fed minutes: Higher interest rates needed in December as inflation worries mount Eagle-Tribune
+
+**Fed Chair Kevin Warsh: Three Scenarios Show How Superintelligence Impacts US Economy and Employment - TradingKey**
+`21 Nov 18:17 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_fed
+
+Fed Chair Kevin Warsh: Three Scenarios Show How Superintelligence Impacts US Economy and Employment TradingKey
+
+**J.P. Morgan prices in stunning shift in Fed rate-hike call - TheStreet**
+`21 Nov 17:07 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_fed
+
+J.P. Morgan prices in stunning shift in Fed rate-hike call TheStreet
 
 **Trump praises India's 7% GDP growth & low interest rates; Slams US Federal Reserve for high rates as obstacle to growth - Organiser**
 `21 Nov 16:34 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_fed
@@ -210,6 +220,16 @@ Demonstrations in France and Portugal follow youth-led protests over education a
 
 Radev: ECB must be ready to raise rates again in December BurgasMedia
 
+**ECB Appia Tokenized Deposit Tests: Applications Due Dec 11 - FinanceFeeds**
+`21 Nov 19:11 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_centralbanks
+
+ECB Appia Tokenized Deposit Tests: Applications Due Dec 11 FinanceFeeds
+
+**ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel - The Times of India**
+`21 Nov 18:20 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_centralbanks
+
+ECB president Christine Lagarde predicts Europe is running short of data center capacity; warns about rel The Times of India
+
 **ECB Seeks Partners to Test Tokenized Bank Deposits and Securities - CoinGape**
 `21 Nov 17:09 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_centralbanks
 
@@ -235,6 +255,11 @@ EUR/USD&#8217;s decline continued last week. Despite loss of momentum as seen in
   - `21 Nov 13:13` *actionforex* — EUR/AUD Weekly Outlook
   - `21 Nov 13:02` *actionforex* — EUR/CHF Weekly Outlook
 
+**Candidate or kingmaker: could ECB President Lagarde influence France's presidential race? - Newswav**
+`21 Nov 14:15 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_centralbanks
+
+Candidate or kingmaker: could ECB President Lagarde influence France's presidential race? Newswav
+
 **Bundesbank's Nagel Backs December ECB Hike, Says Policy Should Turn Slightly Restrictive - Briefs Finance**
 `21 Nov 09:55 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_centralbanks
 
@@ -246,9 +271,10 @@ Bundesbank's Nagel Backs December ECB Hike, Says Policy Should Turn Slightly Res
 3 Eurozone Financial Stocks Retail Investors Are Watching After ECB Rate Uncertainty Yahoo Finance
 
 **3 Eurozone Financial Stocks to Watch as ECB Policy Shifts - Simply Wall St**
-`21 Nov 08:12 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_centralbanks
+`21 Nov 08:12 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_centralbanks · **2 feeds mein**
 
 3 Eurozone Financial Stocks to Watch as ECB Policy Shifts Simply Wall St
+  - `21 Nov 08:12` *gnews_centralbanks* — 3 Eurozone Financial Stocks to Watch as ECB Policy Shifts - Simply Wall St
 
 **France, Germany to take key ECB roles, with Spain set for presidency**
 `21 Nov 07:12 PKT` · pehli baar dekhi `21 Nov 07:44` · investing_news
@@ -298,15 +324,30 @@ GBP/USD&#8217;s fall from 1.3502 continued last week and broke through 1.3135 su
 
 ### JPY
 
+**Japan Consumer Inflation Reinforces Rate-Hike Expectations - WSJ**
+`22 Nov 01:40 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_centralbanks
+
+Japan Consumer Inflation Reinforces Rate-Hike Expectations WSJ
+
 **3 Japanese Bank Stocks Worth Watching As BOJ Rate Hikes Reshape Profits - Yahoo Finance**
 `21 Nov 18:08 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_centralbanks
 
 3 Japanese Bank Stocks Worth Watching As BOJ Rate Hikes Reshape Profits Yahoo Finance
 
+**Saudis Make Deal with Japan to Replenish Oil Stocks - Rigzone**
+`21 Nov 17:00 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_geopolitics
+
+Saudis Make Deal with Japan to Replenish Oil Stocks Rigzone
+
 **Bank Accounts with Deposits of over 100 M. Yen Surge: BOJ - jiji press**
 `21 Nov 16:55 PKT` · pehli baar dekhi `22 Nov 03:25` · gnews_centralbanks
 
 Bank Accounts with Deposits of over 100 M. Yen Surge: BOJ jiji press
+
+**USD/JPY Forecast: US CPI, BoJ and Key Levels - Equiti Global**
+`21 Nov 15:18 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_centralbanks
+
+USD/JPY Forecast: US CPI, BoJ and Key Levels Equiti Global
 
 **USD/JPY Weekly Outlook**
 `21 Nov 14:15 PKT` · pehli baar dekhi `21 Nov 15:16` · actionforex
@@ -416,15 +457,30 @@ The Labour government has been accused of "capitulation" in its trade relations 
 
 The high-stakes shuttle service, with U.S. military help, is crucial to breaking Iran's grip on the waterway.
 
+**Crude Oil May Fall to $70 by 2027 Amid China Demand Drop - News Karnataka**
+`21 Nov 21:23 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_geopolitics
+
+Crude Oil May Fall to $70 by 2027 Amid China Demand Drop News Karnataka
+
 **UK Races to Rewrite Nuclear Rules by 2027**
 `21 Nov 21:00 PKT` · pehli baar dekhi `21 Nov 22:38` · oilprice
 
 As part of its green transition plans, the U.K. government aims to accelerate the development of nuclear power. The government is already doubling down on expanding its renewable energy capacity, and it hopes nuclear power will become a major contributor to a more diverse energy mix that will support its decarbonisation aims. To achieve greater nuclear power deployment, the government plans to complete an overhaul of its nuclear regulations by the end of 2027.
 
+**Oil Loses Grip on Bond Markets as Inflation Pressure Persists - kalkine.com**
+`21 Nov 21:00 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_centralbanks
+
+Oil Loses Grip on Bond Markets as Inflation Pressure Persists kalkine.com
+
 **Tankers hit in Strait of Hormuz as Iran tightens grip on shipping**
 `21 Nov 20:01 PKT` · pehli baar dekhi `21 Nov 22:38` · aljazeera
 
 British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.
+
+**Oil Little Changed as Trump Heads to China - EnergyNow**
+`21 Nov 18:31 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_geopolitics
+
+Oil Little Changed as Trump Heads to China EnergyNow
 
 **New Report of Attack on Strait of Hormuz Shipping Fans fears of Threats to Oil Supplies - EnergyNow**
 `21 Nov 17:54 PKT` · pehli baar dekhi `22 Nov 03:25` · gnews_geopolitics
@@ -433,6 +489,16 @@ New Report of Attack on Strait of Hormuz Shipping Fans fears of Threats to Oil S
 
 **Goldman is out with its 2027 forecast for Brent oil prices**
 `21 Nov 17:20 PKT` · pehli baar dekhi `21 Nov 22:38` · investing_commodities
+
+**Oil may fall to $70 in 2027 even without US-Iran deal: Report | The current price is $83.41 per barrel | Inshorts - Inshorts**
+`21 Nov 17:15 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_geopolitics
+
+Oil may fall to $70 in 2027 even without US-Iran deal: Report | The current price is $83.41 per barrel | Inshorts Inshorts
+
+**Why Iran Is Facing A Massive Oil Revenue Crisis Right Now - ИФЗ РАН**
+`21 Nov 16:47 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_geopolitics
+
+Why Iran Is Facing A Massive Oil Revenue Crisis Right Now ИФЗ РАН
 
 **US sanctions Iranian oil traders, government insiders over alleged oil revenue scheme - Middle East Monitor**
 `21 Nov 16:39 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_geopolitics · **2 feeds mein**
@@ -454,6 +520,16 @@ Crude Oil Could Fall To $70 In 2027 Even Without US-Iran Deal. There's A China L
 `21 Nov 15:30 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_geopolitics
 
 Brace for a Flood of Oil as Soon as Hormuz Reopens EnergyNow
+
+**Tankers Hit Mines in the Strait of Hormuz, So Why Are Oil Prices Falling? - BBN Times**
+`21 Nov 13:08 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_geopolitics
+
+Tankers Hit Mines in the Strait of Hormuz, So Why Are Oil Prices Falling? BBN Times
+
+**IEA sees significant 2027 oil surplus after Hormuz recovery - DD News**
+`21 Nov 11:37 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_geopolitics
+
+IEA sees significant 2027 oil surplus after Hormuz recovery DD News
 
 **US sanctions Iranian oil facilitators as Washington ramps up economic pressure on Tehran - Rudaw**
 `21 Nov 10:55 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_geopolitics
@@ -538,6 +614,11 @@ Bitcoin Slumps to $55,150 as Rate Fears, AI Selloff and $2.64 Billion in Liquida
 
 ECB Lines Up Industry Partners for Tokenized Deposits Trials: Guest Post by Crypto Breaking News CoinMarketCap
 
+**USDT premium in Brazil: +1.88% (20 Nov 2026 fix) - The Crypto Times**
+`21 Nov 14:50 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_centralbanks
+
+USDT premium in Brazil: +1.88% (20 Nov 2026 fix) The Crypto Times
+
 **Bitcoin falls to its lowest in two years**
 `21 Nov 14:12 PKT` · pehli baar dekhi `21 Nov 15:16` · investing_news
 
@@ -609,6 +690,11 @@ Iran&#039;s FM Araghchi says there is &#039;major strategic debate&#039; about t
 
 Iran War Hands OPEC's Swing Producer Crown to America: Bousso EnergyNow
 
+**Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA - EnergyNow**
+`21 Nov 18:16 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_geopolitics
+
+Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA EnergyNow
+
 **Oil's Long View Darkens as Iran War Refuses to End: Bousso - EnergyNow**
 `21 Nov 17:56 PKT` · pehli baar dekhi `22 Nov 03:25` · gnews_geopolitics · **2 feeds mein**
 
@@ -619,6 +705,11 @@ Oil's Long View Darkens as Iran War Refuses to End: Bousso EnergyNow
 `21 Nov 17:45 PKT` · pehli baar dekhi `21 Nov 22:38` · aljazeera
 
 Two drones attack cargo ship that Finnish authorities say has links to Russia&#039;s armed forces.
+
+**Burnham dreads a new round of Trump strikes on Iran: Britain didn't pick this war, but it's footing the bill - Il Politico Web**
+`21 Nov 15:55 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_centralbanks
+
+Burnham dreads a new round of Trump strikes on Iran: Britain didn't pick this war, but it's footing the bill Il Politico Web
 
 **Pezeshkian says Iran facing 'silent economic war' tougher than war with missiles - Moneycontrol.com**
 `21 Nov 15:39 PKT` · pehli baar dekhi `21 Nov 22:38` · gnews_geopolitics
@@ -634,6 +725,16 @@ Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Ir
 `21 Nov 14:21 PKT` · pehli baar dekhi `21 Nov 15:16` · gnews_geopolitics
 
 Bessent says Iran's rulers will turn on each other, Pezeshkian warns of hard winter Iran International
+
+**Crude Oil Gains as Traders Weigh Possible Iran War Escalation | - Business Post Nigeria**
+`21 Nov 13:44 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_geopolitics
+
+Crude Oil Gains as Traders Weigh Possible Iran War Escalation | Business Post Nigeria
+
+**US Hits Iran Oil Traders With Sanctions, "Ship Is Sinking" - Menafn**
+`21 Nov 13:43 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_geopolitics
+
+US Hits Iran Oil Traders With Sanctions, "Ship Is Sinking" Menafn
 
 **Swimmer braves tanker attacks to expose Hormuz contamination**
 `21 Nov 13:39 PKT` · pehli baar dekhi `21 Nov 15:16` · aljazeera
@@ -654,6 +755,11 @@ With more than 65 armed conflicts raging worldwide, top mediators reveal why pea
 `21 Nov 12:12 PKT` · pehli baar dekhi `21 Nov 15:16` · aljazeera
 
 Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits.
+
+**US Eases Iran Sanctions to Allow Oil Sales Amid Peace Talks - DD News**
+`21 Nov 11:39 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_geopolitics
+
+US Eases Iran Sanctions to Allow Oil Sales Amid Peace Talks DD News
 
 **Sudan's war will end, but will it be too late?**
 `21 Nov 11:32 PKT` · pehli baar dekhi `21 Nov 15:16` · aljazeera
@@ -695,10 +801,11 @@ Trader or Driller? Iran War Exposes Big Oil's Transatlantic Divide: Bousso Energ
 
 U.S. stocks closed sharply lower Friday, with the Nasdaq 100 falling 5.61% on the day and 10.43% for the week, its worst since March 2020. The Nasdaq Composite fell 5.28%, wiping out its gains for the year, while the S&P 500 dropped 3.70% for its seventh straight decline. The Dow lost 950 points. Nvidia fell 14.01% to $125.53 after Reuters reported that the SEC was probing its accounting.
 
-### BINA TAG (120)
+### BINA TAG (123)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
+- `22 Nov 02:23` **gnews_centralbanks** — UK property asking prices fall - Business Recorder
 - `22 Nov 02:17` **investing_news** — Presurance Holdings director Smith acquires $7,650 in stock
 - `22 Nov 02:11` **aljazeera** — Impunity fuels surge in settler violence across occupied West Bank
 - `22 Nov 02:09` **aljazeera** — Indian man jailed over plot to kill Sikh separatist in US
@@ -758,6 +865,7 @@ U.S. stocks closed sharply lower Friday, with the Nasdaq 100 falling 5.61% on th
 - `21 Nov 13:56` **investing_news** — Intesa Sanpaolo launches €34.5bn cash-and-share offer for Monte dei Paschi
 - `21 Nov 13:54` **gnews_fed** — Trump Praises India's Economic Growth, Targets Federal Reserve Over Interest Rate Policy - www.nktv.in
 - `21 Nov 13:49` **gnews_fed** — Arthur Hayes Tells Traders To Skip Bottom-Fishing And Wait For A Washington 'Bailout' - TradingView
+- `21 Nov 13:49` **gnews_fed** — Arthur Hayes Tells Traders To Skip Bottom-Fishing And Wait For A Washington 'Bailout' - TradingView
 - `21 Nov 13:48` **aljazeera** — Illicit alcohol kills 11, poisons 180 in northeast India's Manipur state
 - `21 Nov 13:46` **investing_news** — Hudson Pacific CEO Victor Coleman acquires $75,300 in stock
 - `21 Nov 13:43` **kitco_general** — Latest News, Video News, Analysis and Opinions - Kitco
@@ -779,6 +887,7 @@ U.S. stocks closed sharply lower Friday, with the Nasdaq 100 falling 5.61% on th
 - `21 Nov 09:09` **gnews_fed** — Trump cites India's 7 pc growth to argue US could hit 15-20 pc with lower interest rates - The Federal
 - `21 Nov 08:47` **gnews_fed** — Trump Cites India's 7 Percent Growth To Urge Federal Reserve To Cut Interest Rates - RTV English
 - `21 Nov 08:20` **kitco_general** — OFF-THE-WIRE News - Kitco
+- `21 Nov 08:11` **gnews_fed** — Bursa Malaysia braces for cautious week ahead as US economic data, Thanksgiving thin trading loom - Malay Mail
 - `21 Nov 08:04` **gnews_fed** — Donald Trump praises India's economic growth and criticises US Federal Reserve policy - India Today - India Today
 - `21 Nov 08:01` **aljazeera** — Three French police officers sentenced over racist assault on Black man
 - `21 Nov 07:49` **aljazeera** — Gen Z protests sweep Europe over wars, rising costs and climate
@@ -836,45 +945,45 @@ investing_news (23)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 1.0 |
+| investinglive | OK | 25 | 2 | 0 | 2 | 23 | 1.2 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 19 | 0 | 19 | 1 | 0.5 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.3 |
-| instaforex | OK | 25 | 22 | 0 | 22 | 3 | 0.9 |
-| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 1.2 |
-| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.0 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 72.2 |
-| kitco_general | OK | 11 | 10 | 1 | 9 | 1 | 0.1 |
-| gnews_fed | OK | 24 | 24 | 10 | 14 | 0 | 0.2 |
-| gnews_geopolitics | OK | 26 | 26 | 8 | 18 | 0 | 0.1 |
-| gnews_centralbanks | OK | 25 | 25 | 11 | 14 | 0 | 0.3 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.1 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.2 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.6 |
-| boj_whatsnew | OK | 47 | 0 | 0 | 0 | 47 | 1.9 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 15.9 |
-| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.0 |
-| oilprice | OK | 15 | 7 | 4 | 3 | 8 | 0.0 |
-| investing_commodities | OK | 10 | 8 | 1 | 7 | 2 | 0.2 |
-| ing_think | OK | 10 | 0 | 0 | 0 | 10 | 1.4 |
-| bbc_business | OK | 58 | 3 | 0 | 3 | 55 | 0.4 |
-| aljazeera | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 5.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 5.5 |
-| eia_energy | OK | 29 | 0 | 0 | 0 | 29 | 2.4 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 1.4 |
-| wsj_world | OK | 73 | 10 | 0 | 10 | 63 | 0.0 |
-| wsj_markets | OK | 61 | 12 | 1 | 11 | 49 | 0.1 |
+| actionforex | OK | 20 | 19 | 0 | 19 | 1 | 0.7 |
+| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 1.5 |
+| instaforex | OK | 25 | 22 | 0 | 22 | 3 | 1.0 |
+| wsj_economy | OK | 36 | 0 | 0 | 0 | 36 | 1.3 |
+| cme_metals_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_fx_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_energy_video | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.2 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 72.3 |
+| kitco_general | OK | 5 | 5 | 1 | 4 | 0 | 0.1 |
+| gnews_fed | OK | 23 | 23 | 8 | 15 | 0 | 0.1 |
+| gnews_geopolitics | OK | 31 | 31 | 12 | 19 | 0 | 0.2 |
+| gnews_centralbanks | OK | 24 | 24 | 12 | 12 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.3 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 1.8 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 2.8 |
+| boj_whatsnew | OK | 47 | 0 | 0 | 0 | 47 | 2.0 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 16.1 |
+| mining_com | OK | 36 | 0 | 0 | 0 | 36 | 1.2 |
+| oilprice | OK | 15 | 8 | 1 | 7 | 7 | 0.1 |
+| investing_commodities | OK | 10 | 9 | 1 | 8 | 1 | 0.1 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
+| bbc_business | OK | 58 | 3 | 0 | 3 | 55 | 0.6 |
+| aljazeera | OK | 25 | 25 | 7 | 18 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 5.7 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 5.7 |
+| eia_energy | OK | 29 | 0 | 0 | 0 | 29 | 2.5 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 1.5 |
+| wsj_world | OK | 73 | 12 | 2 | 10 | 61 | 0.0 |
+| wsj_markets | OK | 61 | 12 | 0 | 12 | 49 | 0.2 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 4 | 6 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.5 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
+| cointelegraph | OK | 30 | 4 | 0 | 4 | 26 | 0.6 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
