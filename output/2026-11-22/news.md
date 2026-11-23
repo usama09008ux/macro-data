@@ -1,9 +1,9 @@
 # News Pack — Trading Day 22 Nov 2026
 
 - Trading day: **22 Nov 03:00 -> 23 Nov 02:59 PKT**
-- Aakhri update: **23 Nov 08:48 PKT**
-- Kul khabrein: **246**
-- Feeds: 26/39 OK
+- Aakhri update: **23 Nov 18:44 PKT**
+- Kul khabrein: **251**
+- Feeds: 29/39 OK
 
 ---
 
@@ -34,9 +34,10 @@ EUR/USD, EUR/JPY: Hawkish Fed Weighs on Euro as Yen Bulls Struggle StoneX
 Bullion May Extend Losses This Week As US Economic Data, Fed Cues Loom: Analysts NDTV Profit
 
 **Bullion Prices May Fall Further on US Data, Fed Cues - Rediff MoneyWiz**
-`22 Nov 19:21 PKT` · pehli baar dekhi `22 Nov 22:53` · gnews_fed
+`22 Nov 19:21 PKT` · pehli baar dekhi `22 Nov 22:53` · gnews_fed · **2 feeds mein**
 
 Bullion Prices May Fall Further on US Data, Fed Cues Rediff MoneyWiz
+  - `22 Nov 19:21` *gnews_fed* — Bullion Prices May Fall Further on US Data, Fed Cues - Rediff MoneyWiz
 
 **Gold Slides to 14-Month Low on Dollar Strength - Wisevoter**
 `22 Nov 18:05 PKT` · pehli baar dekhi `22 Nov 22:53` · gnews_fed
@@ -79,6 +80,11 @@ Interest Rate Forecast: December Fed Hike Bets Support US Dollar FXEmpire
 `22 Nov 22:14 PKT` · pehli baar dekhi `22 Nov 22:53` · gnews_fed
 
 Fed Decision and Broadcom Earnings Due December 9 Wisevoter
+
+**ACondor Explains Why Its Options Software Pauses New Trades On Fed And CPI Days - FinancialContent**
+`22 Nov 22:05 PKT` · pehli baar dekhi `23 Nov 18:44` · gnews_fed
+
+ACondor Explains Why Its Options Software Pauses New Trades On Fed And CPI Days FinancialContent
 
 **Only 5% of Cryptocurrencies Are Rising as Fed Rate Hike Fears Grow - BeInCrypto**
 `22 Nov 21:54 PKT` · pehli baar dekhi `22 Nov 22:53` · gnews_fed
@@ -297,6 +303,11 @@ Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz EnergyNow.
 
 Fed's Logan Warns US Oil Production Won't Fill Global Supply Gap EnergyNow.com
 
+**Brent Crude Oil Price Jumps After Attack on Iran's South Pars Field - EnergyNow.com**
+`22 Nov 21:18 PKT` · pehli baar dekhi `23 Nov 18:44` · gnews_geopolitics
+
+Brent Crude Oil Price Jumps After Attack on Iran's South Pars Field EnergyNow.com
+
 **Oil Prices Jump 6% as Iran Sets UAE Oil Port Ablaze, Strikes Vessels in Strait of Hormuz - EnergyNow.com**
 `22 Nov 21:17 PKT` · pehli baar dekhi `23 Nov 08:48` · gnews_geopolitics
 
@@ -379,6 +390,11 @@ WTI Crude Oil Price Forecast: Oil Holds $90, Poised to Challenge $100 Next Week 
 A new report from Ember Energy shows the enormous cost-saving potential of wind energy. While solar power and battery storage have taken off on a global level, wind power has been slower to expand. But according to the new report from the prominent energy think tank, this is a major missed opportunity for energy security, emissions goals, and economic returns.
 
 ### CRYPTO
+
+**Fed may need multiple rate hikes to tackle persistent inflation - Crypto Briefing**
+`22 Nov 19:24 PKT` · pehli baar dekhi `23 Nov 18:44` · gnews_fed
+
+Fed may need multiple rate hikes to tackle persistent inflation Crypto Briefing
 
 **Bitcoin analysis: More volume, but less downside damage (possible dip?)**
 `22 Nov 17:53 PKT` · pehli baar dekhi `22 Nov 22:53` · investinglive
@@ -463,6 +479,11 @@ Iran War Raises Demand for US Fuel, Boosting Gulf Coast Refining Margins EnergyN
 `22 Nov 21:01 PKT` · pehli baar dekhi `22 Nov 22:53` · gnews_geopolitics
 
 Bessent Presses Nvidia and Tightens Sanctions on Iran bsinews.id
+
+**How 50 Days of the Iran War Led to the Loss of $50 Billion Worth of Oil - EnergyNow.com**
+`22 Nov 21:00 PKT` · pehli baar dekhi `23 Nov 18:44` · gnews_geopolitics
+
+How 50 Days of the Iran War Led to the Loss of $50 Billion Worth of Oil EnergyNow.com
 
 **Opinion | Vladimir Putin's Existential Fight for Ukraine**
 `22 Nov 20:49 PKT` · pehli baar dekhi `22 Nov 22:53` · wsj_world
@@ -743,49 +764,48 @@ investing_news (17)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 23 | 15 | 8 | 2 | 0.0 |
+| investinglive | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 5 | 5 | 0 | 15 | 0.0 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.5 |
-| instaforex | OK | 25 | 6 | 1 | 5 | 19 | -0.2 |
-| wsj_economy | OK | 36 | 3 | 2 | 1 | 33 | 0.0 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 73.4 |
-| kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 34 | 34 | 14 | 20 | 0 | 0.0 |
-| gnews_geopolitics | OK | 24 | 24 | 14 | 10 | 0 | 0.0 |
-| gnews_centralbanks | OK | 34 | 34 | 16 | 18 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.4 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.8 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.8 |
-| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 3.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 17.2 |
-| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 2.3 |
-| oilprice | OK | 15 | 7 | 1 | 6 | 8 | 0.2 |
-| investing_commodities | OK | 10 | 8 | 4 | 4 | 2 | 0.0 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.7 |
-| bbc_business | OK | 46 | 9 | 3 | 6 | 37 | 0.1 |
-| aljazeera | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 6.8 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.7 |
-| eia_energy | WARN | 29 | 0 | 0 | 0 | 29 | 3.6 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 2.6 |
-| wsj_world | OK | 70 | 16 | 3 | 13 | 54 | 0.0 |
-| wsj_markets | OK | 61 | 13 | 8 | 5 | 48 | 0.0 |
-| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.0 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.9 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 5 | 2 | 3 | 31 | 0.2 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.7 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.7 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.7 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.7 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.7 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 73.8 |
+| kitco_general | OK | 5 | 5 | 5 | 0 | 0 | 0.0 |
+| gnews_fed | OK | 60 | 60 | 40 | 20 | 0 | 0.0 |
+| gnews_geopolitics | OK | 36 | 36 | 18 | 18 | 0 | 0.0 |
+| gnews_centralbanks | OK | 11 | 11 | 10 | 1 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.8 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.9 |
+| ecb_press | OK | 15 | 1 | 1 | 0 | 14 | 0.2 |
+| boe_news | OK | 50 | 1 | 1 | 0 | 49 | 0.2 |
+| boj_whatsnew | OK | 43 | 0 | 0 | 0 | 43 | 3.5 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 17.6 |
+| mining_com | OK | 36 | 2 | 2 | 0 | 34 | 0.1 |
+| oilprice | OK | 15 | 14 | 7 | 7 | 1 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| ing_think | OK | 10 | 4 | 4 | 0 | 6 | 0.1 |
+| bbc_business | OK | 51 | 18 | 9 | 9 | 33 | 0.0 |
+| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| snb_press | OK | 20 | 3 | 3 | 0 | 17 | 0.2 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 7.2 |
+| eia_energy | WARN | 29 | 0 | 0 | 0 | 29 | 4.0 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 3.0 |
+| wsj_world | OK | 71 | 19 | 3 | 16 | 52 | 0.0 |
+| wsj_markets | OK | 61 | 27 | 14 | 13 | 34 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
-| cointelegraph | OK | 30 | 9 | 3 | 6 | 21 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 16 | 7 | 9 | 14 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 73d purana
-- kitco_general — FAIL, koi item nahi
+- cme_risk_management — STALE, cadence 10d, magar 74d purana
 - yahoo_finance — FAIL, HTTP 404
