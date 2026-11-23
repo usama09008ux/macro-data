@@ -1,9 +1,9 @@
 # News Pack — Trading Day 22 Nov 2026
 
 - Trading day: **22 Nov 03:00 -> 23 Nov 02:59 PKT**
-- Aakhri update: **23 Nov 04:15 PKT**
-- Kul khabrein: **231**
-- Feeds: 24/39 OK
+- Aakhri update: **23 Nov 08:48 PKT**
+- Kul khabrein: **246**
+- Feeds: 26/39 OK
 
 ---
 
@@ -54,6 +54,11 @@ US Federal Reserve rates and gold prices explained: What Indian buyers should ex
 What is future of gold rates? Price crash continues as AI selloff, Fed rate-hike concerns weigh on investors' sentiment Livemint
 
 ### USD
+
+**US Treasury Secretary Bessent Warns Excessive Fed Tightening Could Threaten Economy - bloomingbit**
+`23 Nov 02:50 PKT` · pehli baar dekhi `23 Nov 08:48` · gnews_fed
+
+US Treasury Secretary Bessent Warns Excessive Fed Tightening Could Threaten Economy bloomingbit
 
 **Seoul readies a market fund unused since 2008 after the Kospi sinks**
 `23 Nov 02:41 PKT` · pehli baar dekhi `23 Nov 04:15` · investinglive
@@ -130,6 +135,11 @@ Fed's Interest Rate Hike Could Extend Beyond December CryptoRank
 
 US PCE and US-European PMIs to Test Markets; Holiday-Shortened Trading Before Thanksgiving Raises Risk of Sharp Swings BigGo Finance
 
+**Dimitar Radev: Energy does not explain the difference in inflation ᐉ News from Fakti.bg - Business - Fakti.bg**
+`22 Nov 09:57 PKT` · pehli baar dekhi `23 Nov 08:48` · gnews_centralbanks
+
+Dimitar Radev: Energy does not explain the difference in inflation ᐉ News from Fakti.bg - Business Fakti.bg
+
 **Trump Calls for Rate Cuts to World's Lowest, but Market Bets Over 90% Odds of a Fed Hike in December - BigGo Finance**
 `22 Nov 05:05 PKT` · pehli baar dekhi `22 Nov 07:32` · gnews_fed
 
@@ -183,10 +193,11 @@ French police charged to disperse crowds on Saturday as the country faced a sixt
 
 ### GBP
 
-**Bank of England directors illegally profited from post-abolition enslavement in Cuba - The Guardian**
-`22 Nov 16:05 PKT` · pehli baar dekhi `22 Nov 22:53` · gnews_centralbanks
+**Bank of England directors illegally profited from post-abolition enslavement in Cuba - AOL.co.uk**
+`22 Nov 16:05 PKT` · pehli baar dekhi `23 Nov 08:48` · gnews_centralbanks · **2 feeds mein**
 
-Bank of England directors illegally profited from post-abolition enslavement in Cuba The Guardian
+Bank of England directors illegally profited from post-abolition enslavement in Cuba AOL.co.uk
+  - `22 Nov 16:05` *gnews_centralbanks* — Bank of England directors illegally profited from post-abolition enslavement in Cuba - The Guardian
 
 ### JPY
 
@@ -256,15 +267,45 @@ The cost of natural disasters is hitting utilities hard as they need to invest m
 
 The runaway energy demand driven by the artificial intelligence era is pushing Big Tech to pursue an all-of-the-above approach to energy generation. At the same time that the sector is causing a natural gas boom and extending the life of fossil fuels, it is also channeling huge amounts of funding into next-gen clean energy technologies including space-based solar power, nuclear fusion, and advanced geothermal.
 
+**Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says - EnergyNow.com**
+`22 Nov 21:37 PKT` · pehli baar dekhi `23 Nov 08:48` · gnews_geopolitics
+
+Chinese-Owned Oil Tanker Hit Near Hormuz as US Pauses Ship-Protection Plan, Report Says EnergyNow.com
+
+**World Faces Largest-Ever Oil Supply Disruption on Middle East War, IEA Says - EnergyNow.com**
+`22 Nov 21:36 PKT` · pehli baar dekhi `23 Nov 08:48` · gnews_geopolitics
+
+World Faces Largest-Ever Oil Supply Disruption on Middle East War, IEA Says EnergyNow.com
+
 **'Disappointing': Delegates react after COP31 climate talks end without deal**
 `22 Nov 21:33 PKT` · pehli baar dekhi `22 Nov 22:53` · aljazeera
 
 Draft text considered too weak to deal with climate change after oil-producing countries oppose the term &#039;fossil fuels&#039;.
 
+**U.S. TOPS THE LIST – Half the World's Oil Comes From Just Five Countries – Visual Capitalist - EnergyNow.com**
+`22 Nov 21:32 PKT` · pehli baar dekhi `23 Nov 08:48` · gnews_geopolitics
+
+U.S. TOPS THE LIST – Half the World's Oil Comes From Just Five Countries – Visual Capitalist EnergyNow.com
+
+**Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz - EnergyNow.com**
+`22 Nov 21:32 PKT` · pehli baar dekhi `23 Nov 08:48` · gnews_geopolitics
+
+Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz EnergyNow.com
+
 **Fed's Logan Warns US Oil Production Won't Fill Global Supply Gap - EnergyNow.com**
 `22 Nov 21:24 PKT` · pehli baar dekhi `23 Nov 04:15` · gnews_fed
 
 Fed's Logan Warns US Oil Production Won't Fill Global Supply Gap EnergyNow.com
+
+**Oil Prices Jump 6% as Iran Sets UAE Oil Port Ablaze, Strikes Vessels in Strait of Hormuz - EnergyNow.com**
+`22 Nov 21:17 PKT` · pehli baar dekhi `23 Nov 08:48` · gnews_geopolitics
+
+Oil Prices Jump 6% as Iran Sets UAE Oil Port Ablaze, Strikes Vessels in Strait of Hormuz EnergyNow.com
+
+**IRAN'S "CROWN JEWEL" – Kharg Island, Struck by US, is Key Hub for Iran Oil Exports - EnergyNow**
+`22 Nov 21:03 PKT` · pehli baar dekhi `23 Nov 08:48` · gnews_geopolitics
+
+IRAN'S "CROWN JEWEL" – Kharg Island, Struck by US, is Key Hub for Iran Oil Exports EnergyNow
 
 **The $25 Billion Problem Facing Australia's Hydropower Revolution**
 `22 Nov 21:00 PKT` · pehli baar dekhi `22 Nov 22:53` · oilprice
@@ -272,9 +313,10 @@ Fed's Logan Warns US Oil Production Won't Fill Global Supply Gap EnergyNow.com
 The Australian government aims to develop the country's hydropower and Pumped Hydro Energy Storage (PHES) as part of its Powering Australia Plan, which targets 82 per cent renewable electricity by 2030 and net-zero emissions by 2050. As part of decarbonisation plans, the government hopes to gradually retire coal and gas-fired power stations. Meanwhile, intermittent wind and solar power will require long-duration, dispatchable storage to maintain grid stability.
 
 **Iranian attacks in the Strait of Hormuz reach highest levels since the conflict began - KOMU 8**
-`22 Nov 20:47 PKT` · pehli baar dekhi `22 Nov 22:53` · gnews_geopolitics
+`22 Nov 20:47 PKT` · pehli baar dekhi `22 Nov 22:53` · gnews_geopolitics · **2 feeds mein**
 
 Iranian attacks in the Strait of Hormuz reach highest levels since the conflict began KOMU 8
+  - `22 Nov 20:47` *gnews_geopolitics* — Iranian attacks in the Strait of Hormuz reach highest levels since the conflict began - KOMU 8
 
 **Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa**
 `22 Nov 18:16 PKT` · pehli baar dekhi `22 Nov 22:53` · aljazeera
@@ -392,15 +434,30 @@ There was no immediate reaction from Russia, and no one has claimed responsibili
 
 Everyday Economics: The stock selloff could hit spending The Center Square
 
+**Edison Says Qatar Still Evaluating Impact of Iran Attack on LNG Supply - EnergyNow.com**
+`22 Nov 21:50 PKT` · pehli baar dekhi `23 Nov 08:48` · gnews_geopolitics
+
+Edison Says Qatar Still Evaluating Impact of Iran Attack on LNG Supply EnergyNow.com
+
 **Opinion | Iran Doubles Down on Its Nuclear Ambitions**
 `22 Nov 21:43 PKT` · pehli baar dekhi `22 Nov 22:53` · wsj_world
 
 Perceiving America as weakened, Tehran shifts from 'no war, no peace' to 'maximum deterrence.'
 
+**A Look at Iran's Kharg Island and Energy Sector - EnergyNow.com**
+`22 Nov 21:26 PKT` · pehli baar dekhi `23 Nov 08:48` · gnews_geopolitics
+
+A Look at Iran's Kharg Island and Energy Sector EnergyNow.com
+
 **Trump's Economic Warfare Hits Iran Hard -- Iranian President Admits It's 'Far More Difficult' Than Missile Strikes - Breitbart News**
 `22 Nov 21:19 PKT` · pehli baar dekhi `22 Nov 22:53` · gnews_geopolitics
 
 Trump's Economic Warfare Hits Iran Hard -- Iranian President Admits It's 'Far More Difficult' Than Missile Strikes Breitbart News
+
+**Iran War Raises Demand for US Fuel, Boosting Gulf Coast Refining Margins - EnergyNow.com**
+`22 Nov 21:02 PKT` · pehli baar dekhi `23 Nov 08:48` · gnews_geopolitics
+
+Iran War Raises Demand for US Fuel, Boosting Gulf Coast Refining Margins EnergyNow.com
 
 **Bessent Presses Nvidia and Tightens Sanctions on Iran - bsinews.id**
 `22 Nov 21:01 PKT` · pehli baar dekhi `22 Nov 22:53` · gnews_geopolitics
@@ -555,7 +612,7 @@ Iran faces a 'silent economic war', says Iranian president
 
 Trump Vows Permanent Agreement to Block Iran's Nuclear Weapons 조선일보
 
-### BINA TAG (108)
+### BINA TAG (110)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -594,11 +651,13 @@ Trump Vows Permanent Agreement to Block Iran's Nuclear Weapons 조선일보
 - `22 Nov 21:22` **gnews_geopolitics** — Permits issued for implementation of 6 flare gas collection projects - Tehran Times
 - `22 Nov 21:18` **gnews_centralbanks** — Top Funds' Activity in Q3 2026 - Pension Pulse blog
 - `22 Nov 21:18` **mw_topstories** — 'I felt so seen': Why families across America are laughing — and crying — over SNL's 'Sister' sketch
+- `22 Nov 21:00` **gnews_centralbanks** — Bulgaria's central bank and European Commission plan financial literacy campaign - BurgasMedia
 - `22 Nov 20:56` **investing_news** — What do the U.S. midterms mean for investors?
 - `22 Nov 20:30` **aljazeera** — Can we build a more ethical AI future?
 - `22 Nov 20:24` **aljazeera** — Dozens drown as boat capsizes in Nigeria en route to funeral
 - `22 Nov 20:12` **investing_news** — Asian countries take steps to aid stock markets after AI rout
 - `22 Nov 20:09` **gnews_centralbanks** — 3 Large Cap Bank Stocks Built For Higher Interest Rates - Yahoo Finance
+- `22 Nov 20:04` **gnews_centralbanks** — Nasdaq 100 Forecast: NDX rises after Nvidia earnings calm AI worries - FOREX.com
 - `22 Nov 20:03` **aljazeera** — Drone attacks kill four near Sudan's capital, damage UN building
 - `22 Nov 20:01` **investing_news** — Crimson Wine Group director Joseph Steinberg acquires $100,680 in shares
 - `22 Nov 20:01` **mw_topstories** — Corporate America hunts for 'generational' growth in AI, trading cards and the L.A. airport
@@ -684,50 +743,49 @@ investing_news (17)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 8 | 7 | 1 | 17 | 0.0 |
+| investinglive | OK | 25 | 23 | 15 | 8 | 2 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | WARN | 20 | 0 | 0 | 0 | 20 | 1.6 |
-| marketpulse | OK | 3 | 0 | 0 | 0 | 3 | 2.3 |
-| instaforex | OK | 25 | 5 | 5 | 0 | 20 | -0.2 |
-| wsj_economy | OK | 36 | 1 | 0 | 1 | 35 | 0.6 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 73.2 |
+| actionforex | OK | 20 | 5 | 5 | 0 | 15 | 0.0 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.5 |
+| instaforex | OK | 25 | 6 | 1 | 5 | 19 | -0.2 |
+| wsj_economy | OK | 36 | 3 | 2 | 1 | 33 | 0.0 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
+| cme_rates_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
+| cme_daily_commentary | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 73.4 |
 | kitco_general | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_fed | OK | 29 | 29 | 10 | 19 | 0 | 0.0 |
-| gnews_geopolitics | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| gnews_centralbanks | OK | 18 | 18 | 3 | 15 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.2 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.3 |
-| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.6 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.6 |
-| boj_whatsnew | OK | 47 | 0 | 0 | 0 | 47 | 2.9 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 17.0 |
-| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 2.1 |
-| oilprice | OK | 15 | 6 | 3 | 3 | 9 | 0.1 |
-| investing_commodities | OK | 10 | 4 | 1 | 3 | 6 | 0.1 |
-| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.5 |
-| bbc_business | OK | 58 | 5 | 0 | 5 | 53 | 0.4 |
-| aljazeera | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 6.6 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.6 |
-| eia_energy | WARN | 29 | 0 | 0 | 0 | 29 | 3.4 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 2.4 |
-| wsj_world | OK | 71 | 13 | 5 | 8 | 58 | 0.0 |
-| wsj_markets | OK | 61 | 5 | 2 | 3 | 56 | 0.1 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| gnews_fed | OK | 34 | 34 | 14 | 20 | 0 | 0.0 |
+| gnews_geopolitics | OK | 24 | 24 | 14 | 10 | 0 | 0.0 |
+| gnews_centralbanks | OK | 34 | 34 | 16 | 18 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 4.4 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.4 |
+| ecb_press | OK | 15 | 0 | 0 | 0 | 15 | 2.8 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 3.8 |
+| boj_whatsnew | OK | 44 | 0 | 0 | 0 | 44 | 3.1 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 17.2 |
+| mining_com | WARN | 36 | 0 | 0 | 0 | 36 | 2.3 |
+| oilprice | OK | 15 | 7 | 1 | 6 | 8 | 0.2 |
+| investing_commodities | OK | 10 | 8 | 4 | 4 | 2 | 0.0 |
+| ing_think | WARN | 10 | 0 | 0 | 0 | 10 | 2.7 |
+| bbc_business | OK | 46 | 9 | 3 | 6 | 37 | 0.1 |
+| aljazeera | OK | 25 | 25 | 15 | 10 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 6.8 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 6.7 |
+| eia_energy | WARN | 29 | 0 | 0 | 0 | 29 | 3.6 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 2.6 |
+| wsj_world | OK | 70 | 16 | 3 | 13 | 54 | 0.0 |
+| wsj_markets | OK | 61 | 13 | 8 | 5 | 48 | 0.0 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 4 | 6 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 6 | 1 | 5 | 24 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 9 | 3 | 6 | 21 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
 - cme_risk_management — STALE, cadence 10d, magar 73d purana
 - kitco_general — FAIL, koi item nahi
-- gnews_geopolitics — FAIL, HTTP 429
 - yahoo_finance — FAIL, HTTP 404
