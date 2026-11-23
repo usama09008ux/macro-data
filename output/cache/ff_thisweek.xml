@@ -144,7 +144,7 @@
 		<title>Corporate Profits q/q</title>
 		<country>CAD</country>
 		<date><![CDATA[11-23-2026]]></date>
-		<time><![CDATA[1:30pm]]></time>
+		<time><![CDATA[1:32pm]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous><![CDATA[8.7%]]></previous>
@@ -189,16 +189,6 @@
 		<forecast><![CDATA[53.5]]></forecast>
 		<previous><![CDATA[53.3]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/595-jn-flash-manufacturing-pmi]]></url>
-	</event>
-	<event>
-		<title>Foreign Direct Investment ytd/y</title>
-		<country>CNY</country>
-		<date><![CDATA[11-24-2026]]></date>
-		<time><![CDATA[7:02am]]></time>
-		<impact><![CDATA[Low]]></impact>
-		<forecast />
-		<previous><![CDATA[-4.3%]]></previous>
-		<url><![CDATA[https://www.forexfactory.com/calendar/457-ch-foreign-direct-investment-ytdy]]></url>
 	</event>
 	<event>
 		<title>German ifo Business Climate</title>
@@ -389,6 +379,16 @@
 		<forecast><![CDATA[0.2%]]></forecast>
 		<previous><![CDATA[0.2%]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/77-ge-final-gdp-qq]]></url>
+	</event>
+	<event>
+		<title>Foreign Direct Investment ytd/y</title>
+		<country>CNY</country>
+		<date><![CDATA[11-25-2026]]></date>
+		<time><![CDATA[7:02am]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous><![CDATA[-4.3%]]></previous>
+		<url><![CDATA[https://www.forexfactory.com/calendar/457-ch-foreign-direct-investment-ytdy]]></url>
 	</event>
 	<event>
 		<title>UBS Economic Expectations</title>
