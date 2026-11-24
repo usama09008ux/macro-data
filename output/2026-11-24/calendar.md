@@ -1,6 +1,6 @@
 # Calendar — Trading Day 24 Nov 2026
 
-- Banaya gaya: **24 Nov 2026 08:06 PKT**
+- Banaya gaya: **24 Nov 2026 11:19 PKT**
 - Trading day: **24 Nov 03:00 -> 25 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -29,6 +29,7 @@
 | **25 Nov** 05:30 | AUD | **HIGH** | CPI y/y | 4.7% | 4.3% |
 | **25 Nov** 05:30 | AUD | **HIGH** | Trimmed Mean CPI m/m | 0.3% | 0.3% |
 | **25 Nov** 05:30 | AUD | low | Construction Work Done q/q | 0.8% | -2.1% |
+| **25 Nov** 10:00 | JPY | low | BOJ Core CPI y/y | 2.5% | 2.4% |
 
 **NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
 
