@@ -1,9 +1,9 @@
 # News Pack — Trading Day 23 Nov 2026
 
 - Trading day: **23 Nov 03:00 -> 24 Nov 02:59 PKT**
-- Aakhri update: **24 Nov 16:07 PKT**
-- Kul khabrein: **616**
-- Feeds: 34/39 OK
+- Aakhri update: **25 Nov 02:10 PKT**
+- Kul khabrein: **618**
+- Feeds: 35/39 OK
 
 ---
 
@@ -1947,7 +1947,7 @@ A Russian warship was sunk at a Libyan port after a cargo vessel was hit in the 
 
 Trump says Russia's incursions into NATO are merely a 'mistake.'
 
-### BINA TAG (198)
+### BINA TAG (200)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2003,6 +2003,7 @@ Trump says Russia's incursions into NATO are merely a 'mistake.'
 - `23 Nov 22:31` **wsj_markets** — Opinion | Government Gets a Tax Windfall From Anthropic
 - `23 Nov 22:27` **gnews_fed** — Washington Federal Receives Approval for Bank Merger - TipRanks
 - `23 Nov 22:27` **wsj_world** — EU Probes Coca-Cola Bottler, Citing Antitrust Concerns
+- `23 Nov 22:22` **mining_com** — Cyberattack hits Peninsula's Wyoming uranium mine
 - `23 Nov 22:11` **bbc_business** — Faisal Islam: Why Jensen Huang proved too big to fire
 - `23 Nov 22:03` **kitco_general** — TSX rebounds on miners' rally; Nvidia CEO return lifts tech - Kitco
 - `23 Nov 21:42` **gnews_fed** — US Federal Reserve keeps interest rate unchanged - Yeni Safak English
@@ -2085,6 +2086,7 @@ Trump says Russia's incursions into NATO are merely a 'mistake.'
 - `23 Nov 15:01` **mw_topstories** — Google co-founder Sergey Brin and ex-wife Nicole Shanahan list Malibu home for $33.5 million
 - `23 Nov 15:00` **wsj_economy** — Many believe Medicare pays for long-term care, such as nursing homes and at-home caregivers, and are shocked to learn that it doesn't
 - `23 Nov 15:00` **kitco_general** — Videos - Kitco
+- `23 Nov 15:00` **wsj_markets** — When Paying for Mom and Dad's Eldercare Rips Up Adult Kids' Financial Future
 - `23 Nov 14:54` **gnews_fed** — Billionaire Bill Ackman sounds the alarm on Wall Street's next big risk - Yahoo Finance
 - `23 Nov 14:54` **bbc_business** — Catering giant to switch main share listing to US in further blow to UK
 - `23 Nov 14:52` **wsj_markets** — Stock Market Today: Stock Futures Point to Recovery After Friday's Bloodbath
@@ -2166,45 +2168,45 @@ investing_news (6)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 22 | 3 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.1 |
-| marketpulse | OK | 3 | 1 | 1 | 0 | 2 | 0.1 |
-| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 7 | 3 | 4 | 29 | 0.0 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.6 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 74.7 |
-| kitco_general | OK | 36 | 34 | 1 | 33 | 2 | 0.1 |
-| gnews_fed | OK | 100 | 100 | 43 | 57 | 0 | 0.0 |
-| gnews_geopolitics | OK | 58 | 58 | 27 | 31 | 0 | 0.0 |
-| gnews_centralbanks | OK | 26 | 26 | 15 | 11 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.7 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.7 |
-| ecb_press | OK | 15 | 3 | 1 | 2 | 12 | 0.0 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 1.0 |
-| boj_whatsnew | OK | 41 | 1 | 0 | 1 | 40 | 0.5 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 18.5 |
-| mining_com | OK | 36 | 14 | 0 | 14 | 22 | 0.5 |
-| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
-| ing_think | OK | 10 | 9 | 4 | 5 | 1 | 0.0 |
-| bbc_business | OK | 58 | 26 | 2 | 24 | 32 | 0.0 |
+| actionforex | OK | 20 | 20 | 6 | 14 | 0 | 0.3 |
+| marketpulse | OK | 3 | 1 | 0 | 1 | 2 | 0.5 |
+| instaforex | OK | 25 | 25 | 22 | 3 | 0 | -0.1 |
+| wsj_economy | OK | 36 | 10 | 5 | 5 | 26 | 0.1 |
+| cme_metals_video | OK | 10 | 3 | 1 | 2 | 7 | 0.2 |
+| cme_fx_video | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
+| cme_rates_video | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
+| cme_energy_video | OK | 10 | 3 | 0 | 3 | 7 | 0.2 |
+| cme_daily_commentary | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 75.1 |
+| kitco_general | OK | 37 | 35 | 27 | 8 | 2 | 0.0 |
+| gnews_fed | OK | 100 | 100 | 51 | 49 | 0 | 0.1 |
+| gnews_geopolitics | OK | 59 | 59 | 29 | 30 | 0 | 0.1 |
+| gnews_centralbanks | OK | 38 | 38 | 30 | 8 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 1 | 1 | 0 | 14 | 0.1 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 4.2 |
+| ecb_press | OK | 15 | 3 | 0 | 3 | 12 | 0.4 |
+| boe_news | OK | 50 | 2 | 1 | 1 | 48 | 0.2 |
+| boj_whatsnew | OK | 41 | 1 | 0 | 1 | 40 | 0.9 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 18.9 |
+| mining_com | OK | 36 | 25 | 11 | 14 | 11 | 0.2 |
+| oilprice | OK | 15 | 15 | 13 | 2 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 3 | 7 | 0 | 0.2 |
+| bbc_business | OK | 59 | 31 | 6 | 25 | 28 | 0.0 |
 | aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 5 | 2 | 3 | 15 | 0.1 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 8.0 |
-| eia_energy | WARN | 29 | 0 | 0 | 0 | 29 | 4.9 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 3.9 |
-| wsj_world | OK | 72 | 25 | 7 | 18 | 47 | 0.0 |
-| wsj_markets | OK | 61 | 36 | 9 | 27 | 25 | 0.0 |
+| snb_press | OK | 20 | 5 | 0 | 5 | 15 | 0.5 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 8.5 |
+| eia_energy | OK | 30 | 1 | 1 | 0 | 29 | 0.3 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 4.3 |
+| wsj_world | OK | 72 | 34 | 13 | 21 | 38 | 0.0 |
+| wsj_markets | OK | 61 | 40 | 9 | 31 | 21 | 0.0 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 29 | 4 | 25 | 1 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 13 | 17 | 0 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
