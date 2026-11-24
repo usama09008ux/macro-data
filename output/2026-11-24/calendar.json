@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "24 Nov 2026 21:06",
+  "generated_pkt": "25 Nov 2026 02:45",
   "trading_day": "2026-11-24",
   "feed_sources": {
     "thisweek": "live"
@@ -968,5 +968,33 @@
       "trading_day": "2026-11-27"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US November consumer confidence 103.3 vs 92.5 expected",
+      "actual_raw": "103.3",
+      "forecast_raw": "92.5",
+      "beat": true,
+      "raw_diff": "+10.80",
+      "sign_flip": false,
+      "diff_pct": 11.7,
+      "when_pkt": "24 Nov 20:00",
+      "source": "investinglive",
+      "tags": [
+        "usd",
+        "risk"
+      ]
+    },
+    {
+      "title": "US September CaseShiller 20-city house price index +2.6 vs +2.7% expected",
+      "actual_raw": "+2.6",
+      "forecast_raw": "+2.7%",
+      "beat": false,
+      "raw_diff": "-0.10pp",
+      "sign_flip": false,
+      "diff_pct": -3.7,
+      "when_pkt": "24 Nov 19:00",
+      "source": "investinglive",
+      "tags": []
+    }
+  ]
 }
