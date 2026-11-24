@@ -1,9 +1,9 @@
 # News Pack — Trading Day 23 Nov 2026
 
 - Trading day: **23 Nov 03:00 -> 24 Nov 02:59 PKT**
-- Aakhri update: **24 Nov 06:16 PKT**
-- Kul khabrein: **597**
-- Feeds: 33/39 OK
+- Aakhri update: **24 Nov 16:07 PKT**
+- Kul khabrein: **616**
+- Feeds: 34/39 OK
 
 ---
 
@@ -341,6 +341,11 @@ Gold is currently trading as a funding asset, so its near-term direction depends
 
 ### USD
 
+**Fed's Williams sees 2% inflation target met only in 2028, says "Must act" - www.tmgm.com**
+`24 Nov 02:55 PKT` · pehli baar dekhi `24 Nov 16:07` · gnews_fed
+
+Fed's Williams sees 2% inflation target met only in 2028, says "Must act" www.tmgm.com
+
 **New York Fed's Williams Says More Tightening Needed as Inflation Remains High - bloomingbit**
 `24 Nov 02:45 PKT` · pehli baar dekhi `24 Nov 06:16` · gnews_fed
 
@@ -407,9 +412,10 @@ Singapore Q3 GDP: 0000 GMT / 1900 US Eastern Singapore starts the Asian data day
 Williams' remarks support pricing for a quarter-point hike in December and further tightening in 2027, which should keep front-end Treasury yields firm and give the US dollar some support. Energy features in his inflation story, and he calls the energy outlook uncertain, so any renewed rise in oil would add to the hawkish case.
 
 **Fed has 'work to do' to lower inflation, Williams says - Reuters**
-`24 Nov 02:06 PKT` · pehli baar dekhi `24 Nov 06:16` · gnews_fed
+`24 Nov 02:06 PKT` · pehli baar dekhi `24 Nov 06:16` · gnews_fed · **2 feeds mein**
 
 Fed has 'work to do' to lower inflation, Williams says Reuters
+  - `24 Nov 02:05` *gnews_fed* — Fed has 'work to do' to lower inflation, Williams says - The Lufkin Daily News
 
 **Fed's Watchdog Probes Whether Bowman Broke Communications Rules - Bloomberg.com**
 `24 Nov 02:05 PKT` · pehli baar dekhi `24 Nov 06:16` · gnews_fed
@@ -486,6 +492,11 @@ Schiff w/ Millette: The Fed has Lost All Credibility SchiffGold.com
 `23 Nov 22:18 PKT` · pehli baar dekhi `24 Nov 06:16` · gnews_fed
 
 Paper Money Market: Bank Notes Prove Healthy at Auction Numismatic News
+
+**AI bubble burst could put Fed rate cuts on the table - Bilyonaryo Business**
+`23 Nov 22:01 PKT` · pehli baar dekhi `24 Nov 16:07` · gnews_fed
+
+AI bubble burst could put Fed rate cuts on the table Bilyonaryo Business
 
 **Rates Spark: Jensen who?**
 `23 Nov 21:45 PKT` · pehli baar dekhi `24 Nov 06:16` · ing_think
@@ -586,6 +597,11 @@ Poland's producer price inflation picked up pace in October 2026, with the Produ
 `23 Nov 18:30 PKT` · pehli baar dekhi `23 Nov 18:44` · instaforex
 
 Year-on-year wage growth in Poland's corporate sector accelerated slightly in October 2026, with the annual increase reaching 6.1%, up from 5.9% recorded in September 2026. The figures, updated on 23 November 2026, show that wages in the corporate sector grew more rapidly compared to the same month a year earlier, and at a faster pace than in the previous month.
+
+**The Fed isn't riding to the rescue — Wall Street still sees a December rate hike after tech's worst week since 2020: Chart of the Day - Yahoo Finance**
+`23 Nov 18:26 PKT` · pehli baar dekhi `24 Nov 16:07` · gnews_fed
+
+The Fed isn't riding to the rescue — Wall Street still sees a December rate hike after tech's worst week since 2020: Chart of the Day Yahoo Finance
 
 **Deutsche Bank raises dollar forecasts on AI boom strength**
 `23 Nov 18:18 PKT` · pehli baar dekhi `23 Nov 18:44` · investing_news
@@ -898,11 +914,21 @@ Germany's manufacturing sector extended its expansion in November 2026, with the
 
 France's services economy showed a slight improvement in November, with the HCOB France Services PMI rising to 46.6, up from 46.2 in October 2026. The latest figure, updated on 23 November 2026, indicates that while activity remains in contraction territory, the pace of decline has eased marginally.
 
+**Euro: Resilient figures bolster case for ECB rate hikes – BBH - www.tmgm.com**
+`23 Nov 18:09 PKT` · pehli baar dekhi `24 Nov 16:07` · gnews_centralbanks
+
+Euro: Resilient figures bolster case for ECB rate hikes – BBH www.tmgm.com
+
 **December rate hike may not be enough but not in a rush to move again: ECB's Simkus - Kitco**
 `23 Nov 17:51 PKT` · pehli baar dekhi `23 Nov 18:44` · kitco_general · **2 feeds mein**
 
 December rate hike may not be enough but not in a rush to move again: ECB's Simkus Kitco
   - `23 Nov 14:21` *gnews_centralbanks* — December rate hike may not be enough but not in a rush to move again: ECB's Simkus - Tri-City Herald
+
+**Euro: ECB hikes backed by resilient data – BBH - www.tmgm.com**
+`23 Nov 17:32 PKT` · pehli baar dekhi `24 Nov 16:07` · gnews_centralbanks
+
+Euro: ECB hikes backed by resilient data – BBH www.tmgm.com
 
 **Euro strengthens as ECB hints interest rate rise - The Portugal News**
 `23 Nov 17:19 PKT` · pehli baar dekhi `24 Nov 06:16` · gnews_centralbanks · **2 feeds mein**
@@ -1046,6 +1072,16 @@ Bank of England's Huw Pill Says Rate Action Needed to Preserve Inflation Credibi
 `23 Nov 20:17 PKT` · pehli baar dekhi `24 Nov 06:16` · gnews_centralbanks
 
 Students meet the Bank of England Governor Durham University
+
+**Bank of England Holds Interest Rates at 3.75% - Finance Monthly**
+`23 Nov 18:26 PKT` · pehli baar dekhi `24 Nov 16:07` · gnews_centralbanks
+
+Bank of England Holds Interest Rates at 3.75% Finance Monthly
+
+**Pound-to-Euro Week Ahead Forecast: Is the Selloff Done? - Pound Sterling Live**
+`23 Nov 17:14 PKT` · pehli baar dekhi `24 Nov 16:07` · gnews_centralbanks
+
+Pound-to-Euro Week Ahead Forecast: Is the Selloff Done? Pound Sterling Live
 
 **GBP/USD Daily Outlook**
 `23 Nov 16:18 PKT` · pehli baar dekhi `23 Nov 18:44` · actionforex · **2 feeds mein**
@@ -1243,6 +1279,22 @@ WTI crude oil fell nearly 4% Monday, trading near $80.20 a barrel around settlem
 
 Pakistan and Iran are nearing the creation of a joint working group to boost energy cooperation, with a focus on electricity supply and electricity transmission projects, Pakistani outlet Business Recorder reported on Monday, quoting sources with knowledge of the matter.
 
+**Oil slumps to 3-month low on increased Middle East flows, Libyan pipeline restart - Yahoo Finance**
+`24 Nov 01:21 PKT` · pehli baar dekhi `24 Nov 16:07` · gnews_geopolitics
+
+Oil slumps to 3-month low on increased Middle East flows, Libyan pipeline restart Yahoo Finance
+
+**Crude Prices Fall on Reduced Concern About a New US Attack on Iran - TradingView**
+`24 Nov 01:10 PKT` · pehli baar dekhi `24 Nov 16:07` · gnews_geopolitics · **2 feeds mein**
+
+Crude Prices Fall on Reduced Concern About a New US Attack on Iran TradingView
+  - `23 Nov 21:49` *gnews_geopolitics* — Crude Prices Fall on Reduced Concern About a New US Attack on Iran - TradingView
+
+**Brent crude moves lower amid Trump's Iran de-escalation comments: Can renewed diplomacy stabilize oil supply? - Traders Union**
+`24 Nov 01:09 PKT` · pehli baar dekhi `24 Nov 16:07` · gnews_geopolitics
+
+Brent crude moves lower amid Trump's Iran de-escalation comments: Can renewed diplomacy stabilize oil supply? Traders Union
+
 **IEA Declares First Oil Supply Surplus Since Iran War Began, Sending Crude Prices Down Nearly 4% - Foreign Policy Journal**
 `24 Nov 01:02 PKT` · pehli baar dekhi `24 Nov 06:16` · gnews_geopolitics
 
@@ -1299,11 +1351,6 @@ Oil falls on increased Middle Eastern supplies American Journal of Transportatio
 
 The port that ships most of America's crude oil overseas is now fending off "hundreds or even thousands" of attempts to break into its systems every day, Port of Corpus Christi CEO Kent Britton told the Financial Times, as hackers step up a campaign against US ports and the cargo ships that call on them. The stakes at Corpus Christi are hard to overstate: about 60% of US crude exports, roughly 2.3 million barrels a day, flow out of the Texas port, Britton said in May.
 
-**Crude Prices Fall on Reduced Concern About a New US Attack on Iran - TradingView**
-`23 Nov 21:49 PKT` · pehli baar dekhi `24 Nov 06:16` · gnews_geopolitics
-
-Crude Prices Fall on Reduced Concern About a New US Attack on Iran TradingView
-
 **Storms and Drones Disrupt Russia's Oil Exports**
 `23 Nov 21:30 PKT` · pehli baar dekhi `24 Nov 06:16` · oilprice
 
@@ -1318,6 +1365,11 @@ Iran continues to export oil despite US statements Mehr News Agency
 `23 Nov 21:00 PKT` · pehli baar dekhi `24 Nov 06:16` · oilprice
 
 The Republican Party's loss of its majority in the Senate and the House of Representatives in the 2026 U.S. midterm elections has left President Donald Trump constrained in what he is able to achieve domestically. However, internationally, he is not so shackled. He needs no congressional approval to implement or increase economic tariffs. He holds on to the right to dictate the terms of U.S. alliances and treaties, including those related to the Russia-Ukraine War.
+
+**What Is Trump Up To Bombing Iran's Qeshm Island - Crude Oil Prices Today | OilPrice.com**
+`23 Nov 21:00 PKT` · pehli baar dekhi `24 Nov 16:07` · gnews_geopolitics
+
+What Is Trump Up To Bombing Iran's Qeshm Island Crude Oil Prices Today | OilPrice.com
 
 **IRAN'S "CROWN JEWEL" – Kharg Island, Struck by US, is Key Hub for Iran Oil Exports - EnergyNow.com**
 `23 Nov 20:56 PKT` · pehli baar dekhi `24 Nov 06:16` · gnews_geopolitics
@@ -1348,6 +1400,11 @@ Oil Prices Settle More Than 1% Higher, Log Strongest Month Since March EnergyNow
 `23 Nov 20:31 PKT` · pehli baar dekhi `24 Nov 06:16` · gnews_geopolitics
 
 US Pain at the Pump Worsens After More US-Iran Fighting Lifts Oil Prices EnergyNow.com
+
+**Oil Rises on Intensifying US-Iran Hostilities, Threat of Red Sea Closure - EnergyNow.com**
+`23 Nov 20:31 PKT` · pehli baar dekhi `24 Nov 16:07` · gnews_geopolitics
+
+Oil Rises on Intensifying US-Iran Hostilities, Threat of Red Sea Closure EnergyNow.com
 
 **Brent Oil Structure Changes to Reflect Mounting Supply Risk as Iran Tensions Flare - EnergyNow.com**
 `23 Nov 20:26 PKT` · pehli baar dekhi `24 Nov 06:16` · gnews_geopolitics
@@ -1737,6 +1794,11 @@ US EIA Hikes Oil Price Forecasts Again as Iran War Drains Global Stockpile Energ
 
 VIX Surges to 35.9 as Fed Stress Gauge Signals Normal Conditions Demokratis.co.id
 
+**Fed Stress Gauge Shows Limited Strain Despite VIX Surge - bsinews.id**
+`23 Nov 20:10 PKT` · pehli baar dekhi `24 Nov 16:07` · gnews_fed
+
+Fed Stress Gauge Shows Limited Strain Despite VIX Surge bsinews.id
+
 **VIX Signals Market Panic as Fed Stress Gauge Remains Normal - cwibc.co.id**
 `23 Nov 19:54 PKT` · pehli baar dekhi `24 Nov 06:16` · gnews_fed
 
@@ -1885,7 +1947,7 @@ A Russian warship was sunk at a Libyan port after a cargo vessel was hit in the 
 
 Trump says Russia's incursions into NATO are merely a 'mistake.'
 
-### BINA TAG (193)
+### BINA TAG (198)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -1907,6 +1969,8 @@ Trump says Russia's incursions into NATO are merely a 'mistake.'
 - `24 Nov 02:15` **aljazeera** — US states sue SpaceX over Grok AI's creation of child sexual abuse material
 - `24 Nov 02:12` **wsj_markets** — Nvidia Chief's Return Lifts Many Boats
 - `24 Nov 02:02` **aljazeera** — US drug prices leave patients facing impossible choices
+- `24 Nov 02:00` **gnews_fed** — Texas jobs up 1.1% in 2026, says Federal Reserve Bank of Dallas - The Killeen Daily Herald
+- `24 Nov 02:00` **gnews_fed** — Texas jobs up 1.1% in 2026, says Federal Reserve Bank of Dallas - The Moore County News-Press
 - `24 Nov 01:51` **kitco_general** — OPINION News - Kitco
 - `24 Nov 01:38` **cointelegraph** — Kalshi secures temporary win in New York gambling law dispute
 - `24 Nov 01:29` **gnews_fed** — Federal Reserve warnings rattle Wall Street - Fox Business
@@ -1942,6 +2006,7 @@ Trump says Russia's incursions into NATO are merely a 'mistake.'
 - `23 Nov 22:11` **bbc_business** — Faisal Islam: Why Jensen Huang proved too big to fire
 - `23 Nov 22:03` **kitco_general** — TSX rebounds on miners' rally; Nvidia CEO return lifts tech - Kitco
 - `23 Nov 21:42` **gnews_fed** — US Federal Reserve keeps interest rate unchanged - Yeni Safak English
+- `23 Nov 21:36` **gnews_fed** — Real-Time Payments Change Economics of Corporate Liquidity - PYMNTS.com
 - `23 Nov 21:12` **bbc_business** — How important are Nvidia and Jensen Huang to the US economy?
 - `23 Nov 20:51` **investing_commodities** — Natural gas prices fall as mild HDD readings weigh on heating demand outlook
 - `23 Nov 20:51` **gnews_fed** — CFA Co-Leads Letter to Federal Reserve Regarding Chime Financial's Application to Buy Central Services Corporation - Consumer Federation of America
@@ -1949,6 +2014,7 @@ Trump says Russia's incursions into NATO are merely a 'mistake.'
 - `23 Nov 20:41` **mining_com** — Stock market bear trend needs time to unfold: analyst
 - `23 Nov 20:28` **kitco_general** — TAG: Bank of China - Kitco
 - `23 Nov 20:28` **kitco_general** — Stocks soar as Nvidia reinstates Huang, reviving AI trade - Kitco
+- `23 Nov 20:10` **gnews_centralbanks** — Mortgage Rates Today: 23 November 2026 - Forbes
 - `23 Nov 19:51` **bbc_business** — Nvidia reinstates CEO after affair with alleged spy
 - `23 Nov 19:47` **cointelegraph** — Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe
 - `23 Nov 19:46` **gnews_fed** — Unit Surpasses $3 Billion in Customer Deposits, Built on Direct Connections to the Federal Reserve And Payment Networks - EIN News
@@ -1957,6 +2023,7 @@ Trump says Russia's incursions into NATO are merely a 'mistake.'
 - `23 Nov 19:07` **mining_com** — Prospectiva hits rich copper zone at São Francisco
 - `23 Nov 19:06` **wsj_world** — Best High-Yield Savings Accounts of November 2026: Up to 5.00%
 - `23 Nov 19:06` **wsj_markets** — 11 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider
+- `23 Nov 18:58` **gnews_centralbanks** — Pound's Bounce Faded As UK Growth Signals Cooled - Finimize
 - `23 Nov 18:52` **bbc_business** — Welfare cuts: What's been happening with Pip and universal credit?
 - `23 Nov 18:44` **instaforex** — Mexico's Economic Activity Slips in September, Reversing August Gains
 - `23 Nov 18:44` **instaforex** — Mexico's Economic Activity Cools Slightly in September, Yearly Growth Eases to 3.0%
@@ -2099,48 +2166,48 @@ investing_news (6)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 4 | 16 | 0 | 0.1 |
-| marketpulse | WARN | 2 | 0 | 0 | 0 | 2 | 3.4 |
-| instaforex | OK | 25 | 25 | 17 | 8 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.6 |
-| cme_metals_video | OK | 10 | 2 | 2 | 0 | 8 | 0.2 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.2 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.2 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.2 |
-| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.2 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 74.3 |
-| kitco_general | OK | 34 | 32 | 26 | 6 | 2 | 0.1 |
-| gnews_fed | OK | 100 | 100 | 67 | 33 | 0 | 0.0 |
-| gnews_geopolitics | OK | 64 | 64 | 43 | 21 | 0 | 0.1 |
-| gnews_centralbanks | OK | 16 | 16 | 8 | 8 | 0 | 0.4 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.3 |
-| ecb_press | OK | 15 | 2 | 1 | 1 | 13 | 0.4 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.6 |
-| boj_whatsnew | OK | 44 | 1 | 1 | 0 | 43 | 0.1 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 18.1 |
-| mining_com | OK | 36 | 14 | 12 | 2 | 22 | 0.1 |
-| oilprice | OK | 15 | 15 | 15 | 0 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 6 | 4 | 0 | 0.0 |
-| ing_think | OK | 10 | 5 | 1 | 4 | 5 | 0.4 |
-| bbc_business | OK | 56 | 24 | 10 | 14 | 32 | 0.0 |
+| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.1 |
+| marketpulse | OK | 3 | 1 | 1 | 0 | 2 | 0.1 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 7 | 3 | 4 | 29 | 0.0 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.6 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.6 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 74.7 |
+| kitco_general | OK | 36 | 34 | 1 | 33 | 2 | 0.1 |
+| gnews_fed | OK | 100 | 100 | 43 | 57 | 0 | 0.0 |
+| gnews_geopolitics | OK | 58 | 58 | 27 | 31 | 0 | 0.0 |
+| gnews_centralbanks | OK | 26 | 26 | 15 | 11 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 5.7 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 3.7 |
+| ecb_press | OK | 15 | 3 | 1 | 2 | 12 | 0.0 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 1.0 |
+| boj_whatsnew | OK | 41 | 1 | 0 | 1 | 40 | 0.5 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 18.5 |
+| mining_com | OK | 36 | 14 | 0 | 14 | 22 | 0.5 |
+| oilprice | OK | 15 | 15 | 4 | 11 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 3 | 7 | 0 | 0.0 |
+| ing_think | OK | 10 | 9 | 4 | 5 | 1 | 0.0 |
+| bbc_business | OK | 58 | 26 | 2 | 24 | 32 | 0.0 |
 | aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 3 | 0 | 3 | 17 | 0.7 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 7.6 |
-| eia_energy | WARN | 29 | 0 | 0 | 0 | 29 | 4.5 |
-| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 3.5 |
-| wsj_world | OK | 71 | 19 | 12 | 7 | 52 | 0.1 |
-| wsj_markets | OK | 61 | 32 | 13 | 19 | 29 | 0.0 |
+| snb_press | OK | 20 | 5 | 2 | 3 | 15 | 0.1 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 8.0 |
+| eia_energy | WARN | 29 | 0 | 0 | 0 | 29 | 4.9 |
+| bea_releases | OK | 49 | 0 | 0 | 0 | 49 | 3.9 |
+| wsj_world | OK | 72 | 25 | 7 | 18 | 47 | 0.0 |
+| wsj_markets | OK | 61 | 36 | 9 | 27 | 25 | 0.0 |
 | investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 25 | 14 | 11 | 5 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 29 | 4 | 25 | 1 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 74d purana
+- cme_risk_management — STALE, cadence 10d, magar 75d purana
 - yahoo_finance — FAIL, HTTP 404
