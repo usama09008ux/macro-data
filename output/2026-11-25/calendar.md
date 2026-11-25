@@ -1,6 +1,6 @@
 # Calendar — Trading Day 25 Nov 2026
 
-- Banaya gaya: **25 Nov 2026 20:54 PKT**
+- Banaya gaya: **26 Nov 2026 01:52 PKT**
 - Trading day: **25 Nov 03:00 -> 26 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,18 +12,16 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 22:00 | USD | low | Natural Gas Storage | -19B | 20B |
-| **26 Nov** 00:00 | USD | low | Beige Book | - | - |
-| **26 Nov** 05:30 | AUD | low | Private Capital Expenditure q/q | 4.5% | -3.6% |
-| **26 Nov** 05:30 | AUD | low | RBA Bulletin | - | - |
-| **26 Nov** 12:00 | EUR | low | German GfK Consumer Climate | -29.4 | -30.8 |
-| **26 Nov** 14:00 | EUR | low | M3 Money Supply y/y | 3.5% | 3.5% |
-| **26 Nov** 14:00 | EUR | low | Private Loans y/y | 3.2% | 3.1% |
-| **26 Nov** 15:30 | GBP | low | BOE Financial Stability Report | - | - |
-| **26 Nov** 15:30 | GBP | low | FPC Meeting Minutes | - | - |
-| **26 Nov** 15:30 | GBP | low | FPC Statement | - | - |
-| **26 Nov** 17:30 | EUR | low | ECB Monetary Policy Meeting Accounts | - | - |
-| **26 Nov** 18:00 | USD | chhutti | Bank Holiday | - | - |
+| 05:30 | AUD | low | Private Capital Expenditure q/q | 4.5% | -3.6% |
+| 05:30 | AUD | low | RBA Bulletin | - | - |
+| 12:00 | EUR | low | German GfK Consumer Climate | -29.4 | -30.8 |
+| 14:00 | EUR | low | M3 Money Supply y/y | 3.5% | 3.5% |
+| 14:00 | EUR | low | Private Loans y/y | 3.2% | 3.1% |
+| 15:30 | GBP | low | BOE Financial Stability Report | - | - |
+| 15:30 | GBP | low | FPC Meeting Minutes | - | - |
+| 15:30 | GBP | low | FPC Statement | - | - |
+| 17:30 | EUR | low | ECB Monetary Policy Meeting Accounts | - | - |
+| 18:00 | USD | chhutti | Bank Holiday | - | - |
 
 *Agle 24 ghante mein koi HIGH impact event nahi.*
 
