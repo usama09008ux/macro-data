@@ -401,6 +401,16 @@
 		<url><![CDATA[https://www.forexfactory.com/calendar/522-ge-10-y-bond-auction]]></url>
 	</event>
 	<event>
+		<title>FOMC Member Bowman Speaks</title>
+		<country>USD</country>
+		<date><![CDATA[11-25-2026]]></date>
+		<time><![CDATA[12:25pm]]></time>
+		<impact><![CDATA[Low]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/812-us-fomc-member-bowman-speaks]]></url>
+	</event>
+	<event>
 		<title>Core PCE Price Index m/m</title>
 		<country>USD</country>
 		<date><![CDATA[11-25-2026]]></date>
@@ -697,7 +707,7 @@
 		<time><![CDATA[10:33am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
-		<previous />
+		<previous><![CDATA[4.49|1.6]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/524-it-10-y-bond-auction]]></url>
 	</event>
 	<event>
