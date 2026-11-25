@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "25 Nov 2026 06:12",
+  "generated_pkt": "25 Nov 2026 10:00",
   "trading_day": "2026-11-25",
   "feed_sources": {
     "thisweek": "live"
@@ -659,7 +659,7 @@
       "title": "Crude Oil Inventories",
       "ccy": "USD",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "2.0M",
       "previous": "3.4M",
       "url": "https://www.forexfactory.com/calendar/10-us-crude-oil-inventories",
       "all_day": false,
