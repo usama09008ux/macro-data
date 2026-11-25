@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "25 Nov 2026 10:00",
+  "generated_pkt": "25 Nov 2026 20:54",
   "trading_day": "2026-11-25",
   "feed_sources": {
     "thisweek": "live"
@@ -520,9 +520,9 @@
       "previous": "3.37|1.1",
       "url": "https://www.forexfactory.com/calendar/522-ge-10-y-bond-auction",
       "all_day": false,
-      "utc": "2026-11-25T10:42Z",
-      "pkt": "25 Nov 15:42",
-      "pkt_iso": "2026-11-25T15:42:00+05:00",
+      "utc": "2026-11-25T10:32Z",
+      "pkt": "25 Nov 15:32",
+      "pkt_iso": "2026-11-25T15:32:00+05:00",
       "trading_day": "2026-11-25"
     },
     {
@@ -640,6 +640,19 @@
       "utc": "2026-11-25T13:30Z",
       "pkt": "25 Nov 18:30",
       "pkt_iso": "2026-11-25T18:30:00+05:00",
+      "trading_day": "2026-11-25"
+    },
+    {
+      "title": "Monetary Policy Report Hearings",
+      "ccy": "GBP",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/439-uk-monetary-policy-report-hearings",
+      "all_day": false,
+      "utc": "2026-11-25T14:15Z",
+      "pkt": "25 Nov 19:15",
+      "pkt_iso": "2026-11-25T19:15:00+05:00",
       "trading_day": "2026-11-25"
     },
     {
@@ -981,5 +994,48 @@
       "trading_day": "2026-11-27"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "US GDP 2nd Estimate for the 3rd quarter 4.3% vs 3.5 estimate",
+      "actual_raw": "4.3%",
+      "forecast_raw": "3.5",
+      "beat": true,
+      "raw_diff": "+0.80pp",
+      "sign_flip": false,
+      "diff_pct": 22.9,
+      "when_pkt": "25 Nov 18:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US October durable goods orders +0.2% vs +0.6% expected",
+      "actual_raw": "+0.2%",
+      "forecast_raw": "+0.6%",
+      "beat": false,
+      "raw_diff": "-0.40pp",
+      "sign_flip": false,
+      "diff_pct": -66.7,
+      "when_pkt": "25 Nov 18:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    },
+    {
+      "title": "US Initial jobless claims 189K vs 200K estimate. Continuing claim 1.697M vs 1.721M estimate",
+      "actual_raw": "189K",
+      "forecast_raw": "200K",
+      "beat": false,
+      "raw_diff": "-11.0K",
+      "sign_flip": false,
+      "diff_pct": -5.5,
+      "when_pkt": "25 Nov 18:30",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }

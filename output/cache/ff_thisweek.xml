@@ -394,7 +394,7 @@
 		<title>German 10-y Bond Auction</title>
 		<country>EUR</country>
 		<date><![CDATA[11-25-2026]]></date>
-		<time><![CDATA[10:42am]]></time>
+		<time><![CDATA[10:32am]]></time>
 		<impact><![CDATA[Low]]></impact>
 		<forecast />
 		<previous><![CDATA[3.37|1.1]]></previous>
@@ -489,6 +489,16 @@
 		<forecast><![CDATA[201K]]></forecast>
 		<previous><![CDATA[203K]]></previous>
 		<url><![CDATA[https://www.forexfactory.com/calendar/11-us-unemployment-claims]]></url>
+	</event>
+	<event>
+		<title>Monetary Policy Report Hearings</title>
+		<country>GBP</country>
+		<date><![CDATA[11-25-2026]]></date>
+		<time><![CDATA[2:15pm]]></time>
+		<impact><![CDATA[Medium]]></impact>
+		<forecast />
+		<previous />
+		<url><![CDATA[https://www.forexfactory.com/calendar/439-uk-monetary-policy-report-hearings]]></url>
 	</event>
 	<event>
 		<title>New Home Sales</title>

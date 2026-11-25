@@ -1,6 +1,6 @@
 # Calendar — Trading Day 25 Nov 2026
 
-- Banaya gaya: **25 Nov 2026 10:00 PKT**
+- Banaya gaya: **25 Nov 2026 20:54 PKT**
 - Trading day: **25 Nov 03:00 -> 26 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -12,29 +12,20 @@
 
 | Waqt PKT | Ccy | Impact | Event | Forecast | Previous |
 |---|---|---|---|---|---|
-| 12:00 | EUR | low | German Final GDP q/q | 0.2% | 0.2% |
-| 14:00 | CHF | low | UBS Economic Expectations | - | -15.3 |
-| 15:42 | EUR | low | German 10-y Bond Auction | - | 3.37|1.1 |
-| 17:25 | USD | low | FOMC Member Bowman Speaks | - | - |
-| 18:30 | USD | **HIGH** | Core PCE Price Index m/m | 0.3% | 0.3% |
-| 18:30 | USD | **HIGH** | Prelim GDP q/q | 3.5% | 3.4% |
-| 18:30 | USD | MED | Prelim GDP Price Index q/q | 2.3% | 2.3% |
-| 18:30 | USD | low | Core Durable Goods Orders m/m | 0.5% | 0.5% |
-| 18:30 | USD | low | Durable Goods Orders m/m | 0.7% | 1.8% |
-| 18:30 | USD | low | Personal Income m/m | 0.4% | 0.2% |
-| 18:30 | USD | low | Personal Spending m/m | 0.4% | 0.5% |
-| 18:30 | USD | low | Unemployment Claims | 201K | 203K |
-| 20:00 | USD | low | New Home Sales | 650K | 676K |
-| 20:30 | USD | low | Crude Oil Inventories | 2.0M | 3.4M |
 | 22:00 | USD | low | Natural Gas Storage | -19B | 20B |
 | **26 Nov** 00:00 | USD | low | Beige Book | - | - |
 | **26 Nov** 05:30 | AUD | low | Private Capital Expenditure q/q | 4.5% | -3.6% |
 | **26 Nov** 05:30 | AUD | low | RBA Bulletin | - | - |
+| **26 Nov** 12:00 | EUR | low | German GfK Consumer Climate | -29.4 | -30.8 |
+| **26 Nov** 14:00 | EUR | low | M3 Money Supply y/y | 3.5% | 3.5% |
+| **26 Nov** 14:00 | EUR | low | Private Loans y/y | 3.2% | 3.1% |
+| **26 Nov** 15:30 | GBP | low | BOE Financial Stability Report | - | - |
+| **26 Nov** 15:30 | GBP | low | FPC Meeting Minutes | - | - |
+| **26 Nov** 15:30 | GBP | low | FPC Statement | - | - |
+| **26 Nov** 17:30 | EUR | low | ECB Monetary Policy Meeting Accounts | - | - |
+| **26 Nov** 18:00 | USD | chhutti | Bank Holiday | - | - |
 
-**NO-TRADE windows** — in se 30 minute pehle aur 30 minute baad haath rok kar rakhen:
-
-- `25 Nov 18:30` **USD Core PCE Price Index m/m**
-- `25 Nov 18:30` **USD Prelim GDP q/q**
+*Agle 24 ghante mein koi HIGH impact event nahi.*
 
 ---
 
@@ -48,5 +39,11 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 25 Nov 18:30 | US GDP 2nd Estimate for the 3rd quarter | 4.3% | 3.5 | +0.80pp (+23%) | upar |
+| 25 Nov 18:30 | US October durable goods orders | +0.2% | +0.6% | -0.40pp (-67%) | neeche |
+| 25 Nov 18:30 | US Initial jobless claims | 189K | 200K | -11.0K (-6%) | neeche |
 
