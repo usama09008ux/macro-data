@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "26 Nov 2026 05:46",
+  "generated_pkt": "26 Nov 2026 09:19",
   "trading_day": "2026-11-26",
   "feed_sources": {
     "thisweek": "live"
@@ -770,6 +770,19 @@
       "utc": "2026-11-26T09:00Z",
       "pkt": "26 Nov 14:00",
       "pkt_iso": "2026-11-26T14:00:00+05:00",
+      "trading_day": "2026-11-26"
+    },
+    {
+      "title": "Euro Summit",
+      "ccy": "EUR",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "url": "https://www.forexfactory.com/calendar/622-ez-euro-summit",
+      "all_day": false,
+      "utc": "2026-11-26T09:15Z",
+      "pkt": "26 Nov 14:15",
+      "pkt_iso": "2026-11-26T14:15:00+05:00",
       "trading_day": "2026-11-26"
     },
     {

@@ -1,6 +1,6 @@
 # Calendar — Trading Day 26 Nov 2026
 
-- Banaya gaya: **26 Nov 2026 05:46 PKT**
+- Banaya gaya: **26 Nov 2026 09:19 PKT**
 - Trading day: **26 Nov 03:00 -> 27 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -15,6 +15,7 @@
 | 12:00 | EUR | low | German GfK Consumer Climate | -29.4 | -30.8 |
 | 14:00 | EUR | low | M3 Money Supply y/y | 3.5% | 3.5% |
 | 14:00 | EUR | low | Private Loans y/y | 3.2% | 3.1% |
+| 14:15 | EUR | low | Euro Summit | - | - |
 | 15:30 | GBP | low | BOE Financial Stability Report | - | - |
 | 15:30 | GBP | low | FPC Meeting Minutes | - | - |
 | 15:30 | GBP | low | FPC Statement | - | - |
