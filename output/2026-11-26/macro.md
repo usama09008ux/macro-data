@@ -1,6 +1,6 @@
 # Macro Pack — Trading Day 26 Nov 2026
 
-- Banaya gaya: **26 Nov 2026 20:48 PKT**
+- Banaya gaya: **27 Nov 2026 02:36 PKT**
 - Series: 25/25 mili
 
 *Har number ke sath uski tabdeeli aur uska muqam bhi hai. Percentile = pichhle 3 saal mein aaj kahan khare hain — 0 matlab sab se neeche, 100 matlab sab se ooper.*
