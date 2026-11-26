@@ -1,8 +1,8 @@
 # News Pack — Trading Day 25 Nov 2026
 
 - Trading day: **25 Nov 03:00 -> 26 Nov 02:59 PKT**
-- Aakhri update: **26 Nov 04:17 PKT**
-- Kul khabrein: **626**
+- Aakhri update: **26 Nov 10:12 PKT**
+- Kul khabrein: **662**
 - Feeds: 35/39 OK
 
 ---
@@ -66,19 +66,24 @@ Speech At the ASBA–BCBS–FSI High-Level Meeting for the Americas on Banking S
 The Prudential Regulation Authority and Financial Conduct Authority have today published revised rules designed to support securitisation's contribution to economic growth.
 
 **Japanese Government Bonds Held by the Bank of Japan**
-`25 Nov 13:00 PKT` · pehli baar dekhi `25 Nov 19:35` · boj_whatsnew
+`25 Nov 13:00 PKT` · pehli baar dekhi `25 Nov 19:35` · boj_whatsnew · **2 feeds mein**
+  - `25 Nov 13:00` *boj_whatsnew* — Japanese Government Bonds Held by the Bank of Japan
 
 **Indicators for Core CPI**
-`25 Nov 10:00 PKT` · pehli baar dekhi `25 Nov 19:35` · boj_whatsnew
+`25 Nov 10:00 PKT` · pehli baar dekhi `25 Nov 19:35` · boj_whatsnew · **2 feeds mein**
+  - `25 Nov 10:00` *boj_whatsnew* — Indicators for Core CPI
 
 **Bank of Japan Accounts (November 20)**
-`25 Nov 06:00 PKT` · pehli baar dekhi `25 Nov 09:14` · boj_whatsnew
+`25 Nov 06:00 PKT` · pehli baar dekhi `25 Nov 09:14` · boj_whatsnew · **2 feeds mein**
+  - `25 Nov 06:00` *boj_whatsnew* — Bank of Japan Accounts (November 20)
 
 **Average Contract Interest Rates on Loans and Discounts (Sept.)**
-`25 Nov 04:50 PKT` · pehli baar dekhi `25 Nov 09:14` · boj_whatsnew
+`25 Nov 04:50 PKT` · pehli baar dekhi `25 Nov 09:14` · boj_whatsnew · **2 feeds mein**
+  - `25 Nov 04:50` *boj_whatsnew* — Average Contract Interest Rates on Loans and Discounts (Sept.)
 
 **Services Producer Price Index (Oct.)**
-`25 Nov 04:50 PKT` · pehli baar dekhi `25 Nov 09:14` · boj_whatsnew
+`25 Nov 04:50 PKT` · pehli baar dekhi `25 Nov 09:14` · boj_whatsnew · **2 feeds mein**
+  - `25 Nov 04:50` *boj_whatsnew* — Services Producer Price Index (Oct.)
 
 ---
 
@@ -334,15 +339,24 @@ Gold, silver extend losses as tech stocks slide, Fed inflation test looms - Kitc
 Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike CNBC
 
 **Fed policymakers at odds over causes of high inflation - Kitco**
-`26 Nov 02:47 PKT` · pehli baar dekhi `26 Nov 04:17` · kitco_general · **7 feeds mein**
+`26 Nov 02:47 PKT` · pehli baar dekhi `26 Nov 04:17` · kitco_general · **8 feeds mein**
 
 Fed policymakers at odds over causes of high inflation Kitco
   - `25 Nov 18:27` *kitco_general* — Fed policymakers at odds over causes of high inflation - Kitco
   - `25 Nov 22:01` *gnews_fed* — Fed policymakers at odds over causes of high inflation - The Olympian
   - `25 Nov 22:01` *gnews_fed* — Fed policymakers at odds over causes of high inflation - Wichita Eagle
+  - `25 Nov 22:01` *gnews_fed* — Fed policymakers at odds over causes of high inflation - The State
   - `25 Nov 16:13` *gnews_fed* — Fed policymakers at odds over causes of high inflation - Tacoma News Tribune
   - `25 Nov 16:02` *gnews_fed* — Fed policymakers at odds over causes of high inflation - Reuters
   - `25 Nov 16:01` *gnews_fed* — Fed policymakers at odds over causes of high inflation - Merced Sun-Star
+
+**Rising inflation is setting consumers up for a holiday squeeze - 10News.com**
+`26 Nov 02:41 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_fed · **4 feeds mein**
+
+Rising inflation is setting consumers up for a holiday squeeze 10News.com
+  - `26 Nov 02:40` *gnews_fed* — Rising inflation is setting consumers up for a holiday squeeze - News Channel 5 Nashville
+  - `26 Nov 02:40` *gnews_fed* — Rising inflation is setting consumers up for a holiday squeeze - KXLH News Helena
+  - `26 Nov 02:39` *gnews_fed* — Rising inflation is setting consumers up for a holiday squeeze - ABC15 Arizona
 
 **Atlanta Fed's GDPNow Estimate Eases to 2.9% for Q4 2026, Signaling Softer U.S. Growth Momentum**
 `26 Nov 02:40 PKT` · pehli baar dekhi `26 Nov 04:17` · instaforex
@@ -353,6 +367,11 @@ The Atlanta Federal Reserve's GDPNow model has revised down its estimate for U.S
 `26 Nov 02:30 PKT` · pehli baar dekhi `26 Nov 04:17` · instaforex
 
 The yield on the U.S. 7-year Treasury note declined at the latest auction, with the current indicator coming in at 4.708%, down from the previous 4.894%. The move reflects a moderation in borrowing costs for the U.S. government at this key maturity point on the yield curve.
+
+**US Fed beige book reports moderate economic growth, rising wage pressures - China Labour Bulletin**
+`26 Nov 02:27 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_fed
+
+US Fed beige book reports moderate economic growth, rising wage pressures China Labour Bulletin
 
 **U.S. stocks close mixed as Dow reverses a 1,105-point drop**
 `26 Nov 02:24 PKT` · pehli baar dekhi `26 Nov 04:17` · investinglive
@@ -365,19 +384,33 @@ It was a volatile day heading into Thanksgiving. The Dow was down 1,104.96 point
 U.S. Treasury yields briefly extended their fall after a flurry of U.S. economic data including the personal consumption expenditures price index, the Federal Reserve's preferred gauge of inflation.
 
 **Lower energy prices aren't enough to cool inflation, raising pressure on Fed - KMPH Fox 26**
-`26 Nov 01:40 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_fed · **6 feeds mein**
+`26 Nov 01:40 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_fed · **10 feeds mein**
 
 Lower energy prices aren't enough to cool inflation, raising pressure on Fed KMPH Fox 26
+  - `26 Nov 00:19` *gnews_fed* — Lower energy prices aren't enough to cool inflation, raising pressure on Fed - KGAN
+  - `26 Nov 00:06` *gnews_fed* — Lower energy prices aren't enough to cool inflation, raising pressure on Fed - Fox 28
   - `25 Nov 23:53` *gnews_fed* — Lower energy prices aren't enough to cool inflation, raising pressure on Fed - WLUK
   - `25 Nov 23:11` *gnews_fed* — Lower energy prices aren't enough to cool inflation, raising pressure on Fed - WBFF
   - `25 Nov 23:10` *gnews_fed* — Lower energy prices aren't enough to cool inflation, raising pressure on Fed - KFDM
   - `25 Nov 23:10` *gnews_fed* — Lower energy prices aren't enough to cool inflation, raising pressure on Fed - KEYE
+  - `25 Nov 23:10` *gnews_fed* — Lower energy prices aren't enough to cool inflation, raising pressure on Fed - KOKI FOX 23
+  - `25 Nov 23:09` *gnews_fed* — Lower energy prices aren't enough to cool inflation, raising pressure on Fed - WSET
   - `25 Nov 23:09` *gnews_fed* — Lower energy prices aren't enough to cool inflation, raising pressure on Fed - WSBT
 
 **Fed Survey Shows Sticky Inflation in Recent Weeks - Newsmax**
 `26 Nov 01:40 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_fed
 
 Fed Survey Shows Sticky Inflation in Recent Weeks Newsmax
+
+**Fed survey shows continued economic growth, sticky inflation in recent weeks - The Lufkin Daily News**
+`26 Nov 01:38 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_fed
+
+Fed survey shows continued economic growth, sticky inflation in recent weeks The Lufkin Daily News
+
+**Fed's Beige Book Is a Mixed Bag, but Gives Doves Little Ammunition - RealMoney Pro**
+`26 Nov 01:22 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_fed
+
+Fed's Beige Book Is a Mixed Bag, but Gives Doves Little Ammunition RealMoney Pro
 
 **Fed Beige Book: Persistent Inflation Pressures and Tightening Labor Market - News and Statistics - IndexBox**
 `26 Nov 01:11 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_fed
@@ -437,10 +470,20 @@ Eight districts reported growth in the slight to moderate range, and four report
 
 PCE inflation reveals challenge Federal Reserve faces, Mike Shedlock argues Traders Union
 
+**Fed Beige Book: Prices rose moderately overall - Breakingthenews.net**
+`26 Nov 00:02 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_fed
+
+Fed Beige Book: Prices rose moderately overall Breakingthenews.net
+
 **October PCE inflation hits 3.8%: 12 numbers on prices, spending and the Fed - qz.com**
 `25 Nov 23:23 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_fed
 
 October PCE inflation hits 3.8%: 12 numbers on prices, spending and the Fed qz.com
+
+**The Fed's Attempt to Dismiss Lawsuit Over Bowman's Corruption with Wall Street Banks Should Fail - Better Markets**
+`25 Nov 23:21 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_fed
+
+The Fed's Attempt to Dismiss Lawsuit Over Bowman's Corruption with Wall Street Banks Should Fail Better Markets
 
 **Bitcoin briefly slips below $58K as hot PCE inflation fuels Fed rate hike bets - www.tmgm.com**
 `25 Nov 23:11 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_fed
@@ -460,6 +503,17 @@ Inflation remains uncomfortably high despite retreat in gas prices as challenges
   - `25 Nov 19:43` *gnews_fed* — Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed - Traverse City Record-Eagle
   - `25 Nov 19:12` *gnews_fed* — Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed - KVUE
 
+**Two Measures of Inflation: October 2026 - ETF Database**
+`25 Nov 22:47 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_fed
+
+Two Measures of Inflation: October 2026 ETF Database
+
+**Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates. - MarketWatch**
+`25 Nov 22:31 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_fed · **2 feeds mein**
+
+Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates. MarketWatch
+  - `25 Nov 18:34` *mw_topstories* — Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.
+
 **Core inflation rose to an annual 3.3% in October - upi**
 `25 Nov 22:13 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_fed
 
@@ -469,6 +523,11 @@ Core inflation rose to an annual 3.3% in October upi
 `25 Nov 22:06 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_fed
 
 The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed's target Fortune
+
+**Fed policymakers at odds over causes of high inflation - Belleville News-Democrat**
+`25 Nov 22:01 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_fed
+
+Fed policymakers at odds over causes of high inflation Belleville News-Democrat
 
 **US treasury sells $44 billion of 7-year notes at a high yield of 4.708%**
 `25 Nov 21:54 PKT` · pehli baar dekhi `26 Nov 04:17` · investinglive
@@ -608,6 +667,11 @@ Inflation Continues to Climb, Fed Poised to Raise Interest Rates | National News
 
 Inflation Data Overshoots As Fed Fears Hit Fragile Markets Investor's Business Daily
 
+**Fed's preferred gauge of inflation climbs ahead of possible rate hike - ABC News - Breaking News, Latest News and Videos**
+`25 Nov 19:23 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_fed
+
+Fed's preferred gauge of inflation climbs ahead of possible rate hike ABC News - Breaking News, Latest News and Videos
+
 **Strong growth and elevated inflation signal more Fed tightening**
 `25 Nov 19:15 PKT` · pehli baar dekhi `26 Nov 04:17` · ing_think · **2 feeds mein**
 
@@ -623,6 +687,11 @@ The U.S. economy expanded by 4.3% quarter-on-quarter (q/q, annualized) in the th
 `25 Nov 19:05 PKT` · pehli baar dekhi `25 Nov 19:35` · gnews_fed
 
 High inflation, strong GDP reports point to Fed rate hike American Banker
+
+**December Fed rate hike looks locked in after inflation climbs - Mortgage Professional America**
+`25 Nov 19:05 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_fed
+
+December Fed rate hike looks locked in after inflation climbs Mortgage Professional America
 
 **U.S. Jobless Claims Fall More Than Expected**
 `25 Nov 19:00 PKT` · pehli baar dekhi `25 Nov 19:35` · wsj_economy
@@ -704,11 +773,6 @@ Global risk-off mood lifts dollar ahead of inflation data Kitco
 
 Inflation rose to 3.8% in October in Fed's preferred gauge, adding to affordability woes Washington Examiner
 
-**Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.**
-`25 Nov 18:34 PKT` · pehli baar dekhi `25 Nov 19:35` · mw_topstories
-
-The measure of inflation used by the Federal Reserve to influence U.S. interest rates rose again in October at an accelerated rate, virtually assuring the central bank will increase borrowing costs next month.
-
 **U.S. PCE Inflation Report to Test Federal Reserve Policy Ahead of December Meeting: Global: JKN - 재경일보**
 `25 Nov 18:32 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_fed
 
@@ -763,6 +827,11 @@ Goldman Sachs: The market has already priced in four Federal Reserve rate hikes,
 `25 Nov 17:25 PKT` · pehli baar dekhi `25 Nov 19:35` · gnews_fed
 
 Fed's Bowman says decisive action key to supervision modernization American Banker
+
+**Fed officials at odds over causes of high inflation - The Globe and Mail**
+`25 Nov 17:15 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_fed
+
+Fed officials at odds over causes of high inflation The Globe and Mail
 
 **Will US core PCE inflation fuel expectations of further Fed tightening? - FXStreet**
 `25 Nov 17:00 PKT` · pehli baar dekhi `25 Nov 19:35` · gnews_fed
@@ -959,6 +1028,11 @@ EUR/USD Price Forecast — EURUSD (1.0948) 1.1085 Upside Target on ECB December 
 
 Musiala was examined by the German club for neurological dysfunction after the initial onset of symptoms in 2025.
 
+**ECB's Kocher: Market pricing doesn't seem completely unreasonable - Bloomberg - FXStreet**
+`25 Nov 16:35 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_centralbanks
+
+ECB's Kocher: Market pricing doesn't seem completely unreasonable - Bloomberg FXStreet
+
 **ECB Can't Fall Behind Curve on Interest Rates, Kocher Says - Bloomberg**
 `25 Nov 15:58 PKT` · pehli baar dekhi `25 Nov 19:35` · gnews_centralbanks
 
@@ -1058,6 +1132,11 @@ The U.K.'s annual rate of inflation would peak at a lower level than the Bank of
 `25 Nov 19:57 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_centralbanks
 
 BoE's Bailey sees lower inflation peak if energy prices stabilise Yahoo Finance
+
+**Why Bank of England Hike Bets Leave Sterling Exposed to Weak Growth - StoneX**
+`25 Nov 19:54 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_centralbanks
+
+Why Bank of England Hike Bets Leave Sterling Exposed to Weak Growth StoneX
 
 **Ex-England star Sterling given suspended sentence for dangerous driving**
 `25 Nov 16:50 PKT` · pehli baar dekhi `25 Nov 19:35` · aljazeera
@@ -1353,6 +1432,11 @@ U.S. crude oil inventories rose by 1.109 million barrels, a notable slowdown fro
 
 US billionaire Todd Boehly has signed a deal with Lukoil to buy the sanctioned Russian oil company's international assets through a share swap backed by the US International Development Finance Corp (DFC), Reuters reported on Wednesday. The consortium will exchange Lukoil securities worth $10 billion for the assets. The securities were bought from US and British funds and from US depositary banks that held them for retail investors, according to a person familiar with the terms.
 
+**Crude Prices Push Higher on Concerns Over Global Supply Disruptions - TradingView**
+`26 Nov 01:19 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_geopolitics
+
+Crude Prices Push Higher on Concerns Over Global Supply Disruptions TradingView
+
 **Oil Edges Lower as Expanding Supply Vies With Hormuz Attacks - Bloomberg**
 `26 Nov 01:15 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_geopolitics
 
@@ -1392,6 +1476,11 @@ The ruling comes a day after Kurdish authorities accused Baghdad of an &#039;ass
 `25 Nov 22:00 PKT` · pehli baar dekhi `26 Nov 04:17` · oilprice
 
 Trans-Caspian connectivity was the topic du jour during US Deputy Secretary of State Christopher Landau's November 23 talks with Turkmen leaders in Ashgabat. Readouts of Landau's meetings hinted that a trans-Caspian pipeline was among the central items on the agenda. The focal point of Landau's multi-day stop in Turkmenistan was two meetings, one with President Serdar Berdymukhamedov, the other with long-serving Foreign Minister Rashid Meredov.
+
+**Crude Prices Climb on Escalating Attacks on Shipping in the Middle East - TradingView**
+`25 Nov 21:35 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_geopolitics
+
+Crude Prices Climb on Escalating Attacks on Shipping in the Middle East TradingView
 
 **Aramco Opens $7 Billion Petrochemical Complex in South Korea**
 `25 Nov 21:31 PKT` · pehli baar dekhi `26 Nov 04:17` · oilprice
@@ -1615,6 +1704,11 @@ The American Petroleum Institute (API) estimated that crude oil inventories in t
 `26 Nov 02:53 PKT` · pehli baar dekhi `26 Nov 04:17` · cointelegraph
 
 The move paves the way for Switzerland to exchange crypto tax data with foreign authorities starting in 2028 as part of a global effort to combat tax evasion.
+
+**House Panel Sends 20-Year Bitcoin Lockup Bill to Floor, With Senate Hurdle Ahead - BigGo Finance**
+`26 Nov 02:35 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_fed
+
+House Panel Sends 20-Year Bitcoin Lockup Bill to Floor, With Senate Hurdle Ahead BigGo Finance
 
 **Braiins warns of Bitcoin mining attacks affecting over 1,000 sites**
 `26 Nov 02:22 PKT` · pehli baar dekhi `26 Nov 04:17` · cointelegraph
@@ -1957,6 +2051,11 @@ World Absorbs Historic Iran War Oil Supply Loss, But Depleted Stocks Bring Risks
 **African insurgents take war to the skies with off-the-shelf drones**
 `25 Nov 12:00 PKT` · pehli baar dekhi `25 Nov 19:35` · investing_commodities
 
+**Global oil prices fall up to 3% as US signals possible easing of Iran sanctions - DD News**
+`25 Nov 11:15 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_geopolitics
+
+Global oil prices fall up to 3% as US signals possible easing of Iran sanctions DD News
+
 **How The Iran War Turned Russia Into India's And China's Biggest Oil Bet - Outlook India**
 `25 Nov 10:33 PKT` · pehli baar dekhi `25 Nov 19:35` · gnews_geopolitics
 
@@ -2002,7 +2101,7 @@ The Saudi coalition says its forces targeted operational capabilities at Hodeida
 
 The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.
 
-### BINA TAG (193)
+### BINA TAG (198)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2013,6 +2112,7 @@ The Zimbabwean man was arrested on November 8 at a Johannesburg airport while at
 - `26 Nov 02:29` **mw_topstories** — How to spot 'bogus boutiques' and other Black Friday shopping scams
 - `26 Nov 02:21` **kitco_general** — China cobalt prices surge to three-month high as Congo bans exports - Kitco
 - `26 Nov 02:08` **kitco_general** — Congo mining forum announces $965 million in sector financing - Kitco
+- `26 Nov 02:08` **mining_com** — Can price floors fund rare earth projects beyond China?
 - `26 Nov 02:05` **kitco_general** — Norsk Hydro expects full return of Qatalum aluminum output early next year - Kitco
 - `26 Nov 02:03` **aljazeera** — Winter rains threaten 1,000 Gaza shelter sites, councils warn
 - `26 Nov 01:52` **aljazeera** — US Education Department probes Virginia schools after sexual abuse scandal
@@ -2023,11 +2123,13 @@ The Zimbabwean man was arrested on November 8 at a Johannesburg airport while at
 - `26 Nov 01:30` **instaforex** — U.S. Gasoline Stock Build Slows Sharply, Pointing to Firmer Fuel Demand
 - `26 Nov 01:29` **aljazeera** — Netanyahu says corruption trial 'must end' as court suggests dropping case
 - `26 Nov 01:20` **investinglive** — The Nasdaq looked over the edge. Support held. Now what?
+- `26 Nov 01:19` **gnews_fed** — Federal Reserve, CFPB set 2027 lending, leasing threshold at $76,300 - Traders Union
 - `26 Nov 01:14` **aljazeera** — Migrant wrongly deported by Trump leaves US for Spain
 - `26 Nov 01:00` **instaforex** — U.S. New Home Sales Jump to 701K in October, Extending Housing Market Momentum
 - `26 Nov 01:00` **instaforex** — U.S. New Home Sales Rebound Sharply in October, Rising 14.2% Month-on-Month
 - `26 Nov 00:57` **aljazeera** — Elderly man with Alzheimer's rescued after 11 days in Amazon jungle
 - `26 Nov 00:55` **gnews_centralbanks** — Bailey's latest comments: good news for mortgage rates? - Mortgage Professional America
+- `26 Nov 00:52` **gnews_fed** — Beige Book Finds Modest Growth amid Ongoing Cost Pressures - Federal Reserve Bank of Atlanta
 - `26 Nov 00:48` **gnews_fed** — The Beige Book – First District - Federal Reserve Bank of Boston
 - `26 Nov 00:43` **mw_topstories** — Nvidia is heading for its first 'death cross' since March 2025 as stock continues to struggle
 - `26 Nov 00:41` **aljazeera** — US Army declares Iowa lead azide detonation 'tremendously successful'
@@ -2054,6 +2156,8 @@ The Zimbabwean man was arrested on November 8 at a Johannesburg airport while at
 - `25 Nov 21:56` **bbc_business** — Scots react to news of rising energy prices
 - `25 Nov 21:49` **mining_com** — Sulphur shortage threatens Indonesia's nickel plans
 - `25 Nov 21:42` **bbc_business** — Trump's accounts traded Nvidia shares 44 times this year, records show
+- `25 Nov 21:32` **gnews_fed** — Notice of Application for Merger of Banks Renasant Bank, Tupelo, Mississippi, intends to apply to the Federal Reserve Board for permission to merge with Commercial Bank & Trust Company, Paris, … - Paris Post-Intelligencer
+- `25 Nov 21:27` **gnews_fed** — Personal Income, Consumption, and Prices in October - Haver Analytics
 - `25 Nov 21:24` **bbc_business** — Why has Poundland collapsed and what happens next?
 - `25 Nov 21:19` **investinglive** — We are in the railway boom, but just discovered the airplane
 - `25 Nov 20:48` **wsj_world** — Opinion | Why We Must Defeat China
@@ -2216,45 +2320,45 @@ investing_news (10)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 24 | 1 | 0 | 0.0 |
+| investinglive | OK | 25 | 25 | 16 | 9 | 0 | 0.1 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 2 | 18 | 0 | 0.3 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.6 |
-| instaforex | OK | 25 | 25 | 23 | 2 | 0 | -0.0 |
-| wsj_economy | OK | 36 | 6 | 1 | 5 | 30 | 0.3 |
-| cme_metals_video | OK | 10 | 2 | 2 | 0 | 8 | 0.3 |
-| cme_fx_video | OK | 10 | 2 | 1 | 1 | 8 | 0.2 |
-| cme_rates_video | OK | 10 | 2 | 1 | 1 | 8 | 0.1 |
-| cme_energy_video | OK | 10 | 2 | 1 | 1 | 8 | 0.3 |
-| cme_daily_commentary | OK | 10 | 8 | 3 | 5 | 2 | 0.1 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 76.2 |
-| kitco_general | OK | 39 | 38 | 25 | 13 | 1 | 0.0 |
-| gnews_fed | OK | 100 | 100 | 78 | 22 | 0 | 0.0 |
-| gnews_geopolitics | OK | 33 | 33 | 14 | 19 | 0 | 0.1 |
-| gnews_centralbanks | OK | 22 | 22 | 10 | 12 | 0 | 0.1 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.2 |
-| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.5 |
-| ecb_press | OK | 15 | 2 | 1 | 1 | 13 | 0.2 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.6 |
-| boj_whatsnew | OK | 45 | 5 | 0 | 5 | 40 | 0.6 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 20.0 |
-| mining_com | OK | 36 | 15 | 11 | 4 | 21 | 0.1 |
-| oilprice | OK | 15 | 15 | 14 | 1 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| ing_think | OK | 10 | 7 | 2 | 5 | 3 | 0.2 |
-| bbc_business | OK | 55 | 23 | 9 | 14 | 32 | 0.1 |
-| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.5 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 9.6 |
-| eia_energy | OK | 31 | 1 | 0 | 1 | 30 | 0.4 |
-| bea_releases | OK | 50 | 2 | 0 | 2 | 48 | 0.4 |
-| wsj_world | OK | 71 | 14 | 3 | 11 | 57 | 0.1 |
-| wsj_markets | OK | 61 | 28 | 7 | 21 | 33 | 0.0 |
+| actionforex | OK | 20 | 20 | 8 | 12 | 0 | 0.1 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.8 |
+| instaforex | OK | 25 | 25 | 6 | 19 | 0 | -0.2 |
+| wsj_economy | OK | 36 | 8 | 4 | 4 | 28 | 0.1 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.3 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 76.4 |
+| kitco_general | OK | 35 | 34 | 0 | 34 | 1 | 0.2 |
+| gnews_fed | OK | 100 | 100 | 41 | 59 | 0 | 0.1 |
+| gnews_geopolitics | OK | 39 | 39 | 17 | 22 | 0 | 0.0 |
+| gnews_centralbanks | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
+| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
+| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.5 |
+| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.8 |
+| boj_whatsnew | OK | 46 | 6 | 6 | 0 | 40 | 0.2 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 20.2 |
+| mining_com | OK | 36 | 16 | 1 | 15 | 20 | 0.3 |
+| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.2 |
+| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.1 |
+| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.5 |
+| bbc_business | OK | 50 | 25 | 3 | 22 | 25 | 0.0 |
+| aljazeera | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.8 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 9.8 |
+| eia_energy | OK | 31 | 1 | 0 | 1 | 30 | 0.6 |
+| bea_releases | OK | 50 | 2 | 0 | 2 | 48 | 0.7 |
+| wsj_world | OK | 71 | 17 | 3 | 14 | 54 | 0.1 |
+| wsj_markets | OK | 61 | 30 | 7 | 23 | 31 | 0.1 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
-| cointelegraph | OK | 30 | 24 | 8 | 16 | 6 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.2 |
+| cointelegraph | OK | 30 | 27 | 3 | 24 | 3 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
