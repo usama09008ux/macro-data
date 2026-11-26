@@ -1,8 +1,8 @@
 # News Pack — Trading Day 25 Nov 2026
 
 - Trading day: **25 Nov 03:00 -> 26 Nov 02:59 PKT**
-- Aakhri update: **26 Nov 10:12 PKT**
-- Kul khabrein: **662**
+- Aakhri update: **26 Nov 20:24 PKT**
+- Kul khabrein: **674**
 - Feeds: 35/39 OK
 
 ---
@@ -418,10 +418,11 @@ Fed's Beige Book Is a Mixed Bag, but Gives Doves Little Ammunition RealMoney Pro
 Fed Beige Book: Persistent Inflation Pressures and Tightening Labor Market - News and Statistics IndexBox
 
 **Fed survey shows continued growth and sticky inflation in recent weeks - Kitco**
-`26 Nov 01:00 PKT` · pehli baar dekhi `26 Nov 04:17` · kitco_general · **3 feeds mein**
+`26 Nov 01:00 PKT` · pehli baar dekhi `26 Nov 04:17` · kitco_general · **4 feeds mein**
 
 Fed survey shows continued growth and sticky inflation in recent weeks Kitco
   - `26 Nov 01:42` *gnews_fed* — Fed survey shows continued economic growth, sticky inflation in recent weeks - Reuters
+  - `26 Nov 00:41` *gnews_fed* — Fed survey shows continued growth and sticky inflation in recent weeks - Tacoma News Tribune
   - `26 Nov 00:19` *gnews_fed* — Fed survey shows continued growth and sticky inflation in recent weeks - The Lufkin Daily News
 
 **U.S. 8-Week T-Bill Auction Yield Edges Up to 4.120% on November 25, 2026**
@@ -490,15 +491,21 @@ The Fed's Attempt to Dismiss Lawsuit Over Bowman's Corruption with Wall Street B
 
 Bitcoin briefly slips below $58K as hot PCE inflation fuels Fed rate hike bets www.tmgm.com
 
+**$20 on the Front, $10 on the Back: Three Rare U.S. Error Notes Head to Auction - CoinWeek**
+`25 Nov 23:05 PKT` · pehli baar dekhi `26 Nov 20:24` · gnews_fed
+
+$20 on the Front, $10 on the Back: Three Rare U.S. Error Notes Head to Auction CoinWeek
+
 **If the Fed Raises Interest Rates Multiple Times in the Coming Months, Here's What Billionaire Investor David Tepper Would Do - The Globe and Mail**
 `25 Nov 23:03 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_fed
 
 If the Fed Raises Interest Rates Multiple Times in the Coming Months, Here's What Billionaire Investor David Tepper Would Do The Globe and Mail
 
 **Inflation remains uncomfortably high despite retreat in gas prices as challenges mount for the Fed - The Korea Times**
-`25 Nov 22:57 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_fed · **4 feeds mein**
+`25 Nov 22:57 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_fed · **5 feeds mein**
 
 Inflation remains uncomfortably high despite retreat in gas prices as challenges mount for the Fed The Korea Times
+  - `25 Nov 22:57` *gnews_fed* — Inflation remains uncomfortably high despite retreat in gas prices as challenges mount for the Fed - The Korea Times
   - `25 Nov 21:56` *gnews_fed* — Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed - WTOP News
   - `25 Nov 19:43` *gnews_fed* — Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed - Traverse City Record-Eagle
   - `25 Nov 19:12` *gnews_fed* — Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed - KVUE
@@ -515,9 +522,10 @@ Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates
   - `25 Nov 18:34` *mw_topstories* — Inflation gets worse. Now the Fed no choice but to raise U.S. interest rates.
 
 **Core inflation rose to an annual 3.3% in October - upi**
-`25 Nov 22:13 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_fed
+`25 Nov 22:13 PKT` · pehli baar dekhi `26 Nov 20:24` · gnews_fed · **2 feeds mein**
 
 Core inflation rose to an annual 3.3% in October upi
+  - `25 Nov 22:13` *gnews_fed* — Core inflation rose to an annual 3.3% in October - upi
 
 **The White House announced a raft of new tariffs on the same day inflation data came back at nearly twice the Fed's target - Fortune**
 `25 Nov 22:06 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_fed
@@ -533,6 +541,13 @@ Fed policymakers at odds over causes of high inflation Belleville News-Democrat
 `25 Nov 21:54 PKT` · pehli baar dekhi `26 Nov 04:17` · investinglive
 
 The US treasury sold 44 billion of 70 or notes: WI level at the time of the auction: 4.698% High yield: 4.708% WI level at the time of the auction: 4.698% Tail: 1.0 basis point vs the average of 0.1 basis point Bid to cover: 2.43X vs the average of 2.48X Directs: 33.19% vs the average of 24.64% Indirects: 58.20% vs the average of 63.64% Dealers: 8.61% vs the average of 11.72% Auction grade: C+ The auction was mixed but still better than average.
+
+**Fed's preferred inflation metric rose in October as final 2026 rate meeting nears - NewsNation**
+`25 Nov 21:49 PKT` · pehli baar dekhi `26 Nov 20:24` · gnews_fed · **3 feeds mein**
+
+Fed's preferred inflation metric rose in October as final 2026 rate meeting nears NewsNation
+  - `25 Nov 18:42` *gnews_fed* — Fed's preferred inflation metric rose in October as final 2026 rate meeting nears - FOX4KC.com
+  - `25 Nov 18:41` *gnews_fed* — Fed's preferred inflation metric rose in October as final 2026 rate meeting nears - The Hill
 
 **Fed's preferred inflation gauge jumps to 3.8% as Wall Street braces for rate hike - New York Post**
 `25 Nov 21:34 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_fed
@@ -553,6 +568,12 @@ US's Q3 GDP revised sharply upwards, Fed's inflation gauge hits three-year high 
 `25 Nov 21:02 PKT` · pehli baar dekhi `26 Nov 04:17` · investinglive
 
 Why good chart patterns fail: What traders should know about market context and order flow Heavy selling does not always mean prices are about to fall. Understanding how the market responds to buying and selling can help traders become more selective about their entries. You learn a chart pattern, recognise it on your screen and enter a trade. A few minutes later, the market moves against you. You followed the textbook, so what went wrong? Perhaps the pattern itself wasn't the problem.
+
+**Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed - ABC News - Breaking News, Latest News and Videos**
+`25 Nov 20:51 PKT` · pehli baar dekhi `26 Nov 20:24` · gnews_fed · **2 feeds mein**
+
+Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed ABC News - Breaking News, Latest News and Videos
+  - `25 Nov 18:37` *gnews_fed* — Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed - ABC News - Breaking News, Latest News and Videos
 
 **Sunset Market Commentary**
 `25 Nov 20:31 PKT` · pehli baar dekhi `26 Nov 04:17` · actionforex
@@ -736,12 +757,6 @@ US initial jobless claims fell from a downwardly revised 202K to 189K in the wee
 
 US economic growth in the third quarter was revised sharply higher, with real GDP upgraded from 3.4% to 4.3% annualized, exceeding market expectations of 3.5%. The revision also showed a substantial acceleration from Q2&#8217;s 2.2% growth. According to the Bureau of Economic Analysis, the 0.9 percentage point upgrade primarily reflected stronger investment and consumer spending [&#8230;] The post US GDP Growth Revised Up to 4.3% as Software Investment and Consumer Spending Strengthen appeared ...
 
-**Fed's preferred inflation metric rose in October as final 2026 rate meeting nears - FOX4KC.com**
-`25 Nov 18:42 PKT` · pehli baar dekhi `25 Nov 19:35` · gnews_fed · **2 feeds mein**
-
-Fed's preferred inflation metric rose in October as final 2026 rate meeting nears FOX4KC.com
-  - `25 Nov 18:41` *gnews_fed* — Fed's preferred inflation metric rose in October as final 2026 rate meeting nears - The Hill
-
 **US Core PCE Inflation Rises to 3.3% as Real Consumer Spending Stalls**
 `25 Nov 18:41 PKT` · pehli baar dekhi `25 Nov 19:35` · actionforex
 
@@ -756,11 +771,6 @@ The economy grew in the late spring and summer at the fastest pace in three year
 `25 Nov 18:37 PKT` · pehli baar dekhi `25 Nov 19:35` · gnews_fed
 
 Inflation remains high despite a retreat in gas prices, highlighting challenges for the Federal Reserve The Joplin Globe
-
-**Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed - ABC News - Breaking News, Latest News and Videos**
-`25 Nov 18:37 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_fed
-
-Inflation remains uncomfortably high despite a retreat in gas prices as challenges mount for the Fed ABC News - Breaking News, Latest News and Videos
 
 **Global risk-off mood lifts dollar ahead of inflation data - Kitco**
 `25 Nov 18:34 PKT` · pehli baar dekhi `25 Nov 19:35` · kitco_general · **2 feeds mein**
@@ -1108,6 +1118,11 @@ Bank of England's Carney speaks following rates decision Yeni Safak English
 
 Inflation may not be as high as predicted, says Bank of England The Times
 
+**UK food inflation could hit 5% next year, Bank of England says - The Guardian**
+`26 Nov 00:13 PKT` · pehli baar dekhi `26 Nov 20:24` · gnews_centralbanks
+
+UK food inflation could hit 5% next year, Bank of England says The Guardian
+
 **JAPEX Eyes More Than 10,000 Boe/d in Norway with Goliat Deal**
 `25 Nov 23:00 PKT` · pehli baar dekhi `26 Nov 04:17` · oilprice
 
@@ -1118,6 +1133,12 @@ Japan Petroleum Exploration (JAPEX) has agreed to buy an 8% stake in Norway's Go
 
 Bank of England Rate-Setters Leave December Hike on the Table Bloomberg
 
+**BoE's Bailey sees lower inflation peak if energy prices stabilise - Reuters**
+`25 Nov 21:20 PKT` · pehli baar dekhi `26 Nov 20:24` · gnews_centralbanks · **2 feeds mein**
+
+BoE's Bailey sees lower inflation peak if energy prices stabilise Reuters
+  - `25 Nov 19:57` *gnews_centralbanks* — BoE's Bailey sees lower inflation peak if energy prices stabilise - Yahoo Finance
+
 **Higher economic activity and stronger labour market pushed Bank of England to hike rates - Investment Week**
 `25 Nov 21:15 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_centralbanks
 
@@ -1127,11 +1148,6 @@ Higher economic activity and stronger labour market pushed Bank of England to hi
 `25 Nov 20:24 PKT` · pehli baar dekhi `26 Nov 04:17` · wsj_world
 
 The U.K.'s annual rate of inflation would peak at a lower level than the Bank of England had forecast if prices of oil and natural gas were to stay where they are, Governor Andrew Bailey said.
-
-**BoE's Bailey sees lower inflation peak if energy prices stabilise - Yahoo Finance**
-`25 Nov 19:57 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_centralbanks
-
-BoE's Bailey sees lower inflation peak if energy prices stabilise Yahoo Finance
 
 **Why Bank of England Hike Bets Leave Sterling Exposed to Weak Growth - StoneX**
 `25 Nov 19:54 PKT` · pehli baar dekhi `26 Nov 10:12` · gnews_centralbanks
@@ -1731,9 +1747,10 @@ Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor Bitcoin Ma
 Ethlabs co-founder Julian Ma told Cointelegraph that AI poses a more immediate threat as Ethereum prepares for one of its biggest security overhauls since the Merge.
 
 **US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook**
-`25 Nov 22:53 PKT` · pehli baar dekhi `26 Nov 04:17` · cointelegraph
+`25 Nov 22:53 PKT` · pehli baar dekhi `26 Nov 04:17` · cointelegraph · **2 feeds mein**
 
 US core inflation rose more than expected in October as markets anticipate a December interest rate hike, which could slow a crypto market recovery.
+  - `25 Nov 22:53` *cointelegraph* — US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook
 
 **Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%**
 `25 Nov 22:33 PKT` · pehli baar dekhi `26 Nov 04:17` · cointelegraph
@@ -1873,6 +1890,16 @@ Plus, tariffs are back on the agenda and Nvidia gets a warning
 `26 Nov 02:15 PKT` · pehli baar dekhi `26 Nov 04:17` · gnews_geopolitics
 
 Iran Braces For Winter Gas Shortages As War Damage Deepens Energy Crisis Eurasia Review
+
+**Iran War Spurs a Surge in Stock Sales From US Shale Companies - EnergyNow.com**
+`26 Nov 02:02 PKT` · pehli baar dekhi `26 Nov 20:24` · gnews_geopolitics
+
+Iran War Spurs a Surge in Stock Sales From US Shale Companies EnergyNow.com
+
+**Newly proposed tariffs raise chances of the Fed keeping interest rates higher for longer - Yahoo Finance**
+`26 Nov 01:39 PKT` · pehli baar dekhi `26 Nov 20:24` · gnews_fed
+
+Newly proposed tariffs raise chances of the Fed keeping interest rates higher for longer Yahoo Finance
 
 **What we know about Trump's Thanksgiving tariffs**
 `26 Nov 00:38 PKT` · pehli baar dekhi `26 Nov 04:17` · bbc_business
@@ -2101,7 +2128,7 @@ The Saudi coalition says its forces targeted operational capabilities at Hodeida
 
 The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.
 
-### BINA TAG (198)
+### BINA TAG (199)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2153,6 +2180,7 @@ The Zimbabwean man was arrested on November 8 at a Johannesburg airport while at
 - `25 Nov 22:07` **wsj_world** — Fragrance Giants Handed $630 Million in EU, U.K. Antitrust Fines
 - `25 Nov 22:05` **aljazeera** — Maduro turns 64 behind bars, son leads celebrations in Caracas
 - `25 Nov 22:01` **aljazeera** — Sporting Lisbon 2-2 Manchester United: UEFA Champions League – updates
+- `25 Nov 21:59` **gnews_fed** — What to Look Out for in Economic Data This Week (November 23-27) - Kiplinger
 - `25 Nov 21:56` **bbc_business** — Scots react to news of rising energy prices
 - `25 Nov 21:49` **mining_com** — Sulphur shortage threatens Indonesia's nickel plans
 - `25 Nov 21:42` **bbc_business** — Trump's accounts traded Nvidia shares 44 times this year, records show
@@ -2320,48 +2348,48 @@ investing_news (10)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 16 | 9 | 0 | 0.1 |
+| investinglive | OK | 25 | 25 | 23 | 2 | 0 | 0.1 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 8 | 12 | 0 | 0.1 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 1.8 |
-| instaforex | OK | 25 | 25 | 6 | 19 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 8 | 4 | 4 | 28 | 0.1 |
-| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
-| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.4 |
-| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.3 |
-| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.5 |
-| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.3 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 76.4 |
-| kitco_general | OK | 35 | 34 | 0 | 34 | 1 | 0.2 |
-| gnews_fed | OK | 100 | 100 | 41 | 59 | 0 | 0.1 |
-| gnews_geopolitics | OK | 39 | 39 | 17 | 22 | 0 | 0.0 |
-| gnews_centralbanks | OK | 25 | 25 | 8 | 17 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.4 |
-| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 0.7 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.5 |
-| boe_news | OK | 50 | 1 | 0 | 1 | 49 | 0.8 |
-| boj_whatsnew | OK | 46 | 6 | 6 | 0 | 40 | 0.2 |
-| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 20.2 |
-| mining_com | OK | 36 | 16 | 1 | 15 | 20 | 0.3 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.2 |
-| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.1 |
-| ing_think | OK | 10 | 7 | 0 | 7 | 3 | 0.5 |
-| bbc_business | OK | 50 | 25 | 3 | 22 | 25 | 0.0 |
-| aljazeera | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 1.8 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 9.8 |
-| eia_energy | OK | 31 | 1 | 0 | 1 | 30 | 0.6 |
-| bea_releases | OK | 50 | 2 | 0 | 2 | 48 | 0.7 |
-| wsj_world | OK | 71 | 17 | 3 | 14 | 54 | 0.1 |
-| wsj_markets | OK | 61 | 30 | 7 | 23 | 31 | 0.1 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| actionforex | OK | 20 | 20 | 20 | 0 | 0 | 0.1 |
+| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.3 |
+| instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.1 |
+| wsj_economy | OK | 36 | 10 | 3 | 7 | 26 | 0.1 |
+| cme_metals_video | OK | 10 | 2 | 0 | 2 | 8 | 0.9 |
+| cme_fx_video | OK | 10 | 2 | 0 | 2 | 8 | 0.9 |
+| cme_rates_video | OK | 10 | 2 | 0 | 2 | 8 | 0.8 |
+| cme_energy_video | OK | 10 | 2 | 0 | 2 | 8 | 0.9 |
+| cme_daily_commentary | OK | 10 | 8 | 0 | 8 | 2 | 0.8 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 76.9 |
+| kitco_general | OK | 29 | 29 | 10 | 19 | 0 | 0.1 |
+| gnews_fed | OK | 63 | 63 | 31 | 32 | 0 | 0.0 |
+| gnews_geopolitics | OK | 98 | 98 | 52 | 46 | 0 | 0.0 |
+| gnews_centralbanks | OK | 60 | 60 | 45 | 15 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 1.9 |
+| fed_speeches | OK | 15 | 1 | 0 | 1 | 14 | 1.1 |
+| ecb_press | OK | 15 | 3 | 1 | 2 | 12 | 0.1 |
+| boe_news | OK | 50 | 4 | 3 | 1 | 46 | 0.0 |
+| boj_whatsnew | OK | 46 | 6 | 1 | 5 | 40 | 0.6 |
+| rba_media | OK | 1 | 0 | 0 | 0 | 1 | 20.7 |
+| mining_com | OK | 36 | 19 | 3 | 16 | 17 | 0.1 |
+| oilprice | OK | 15 | 15 | 10 | 5 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 5 | 5 | 0 | 0.1 |
+| bbc_business | OK | 56 | 31 | 8 | 23 | 25 | 0.0 |
+| aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 1 | 0 | 19 | 0.7 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 10.2 |
+| eia_energy | OK | 31 | 1 | 0 | 1 | 30 | 1.1 |
+| bea_releases | OK | 50 | 2 | 0 | 2 | 48 | 1.1 |
+| wsj_world | OK | 71 | 24 | 7 | 17 | 47 | 0.0 |
+| wsj_markets | OK | 61 | 31 | 8 | 23 | 30 | 0.0 |
+| investing_news | OK | 10 | 10 | 9 | 1 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.2 |
-| cointelegraph | OK | 30 | 27 | 3 | 24 | 3 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 11 | 19 | 0 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 76d purana
+- cme_risk_management — STALE, cadence 10d, magar 77d purana
 - yahoo_finance — FAIL, HTTP 404
