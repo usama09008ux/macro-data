@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "27 Nov 2026 09:28",
+  "generated_pkt": "27 Nov 2026 20:26",
   "trading_day": "2026-11-27",
   "feed_sources": {
     "thisweek": "live"
@@ -949,9 +949,9 @@
       "previous": "4.49|1.6",
       "url": "https://www.forexfactory.com/calendar/524-it-10-y-bond-auction",
       "all_day": false,
-      "utc": "2026-11-27T10:33Z",
-      "pkt": "27 Nov 15:33",
-      "pkt_iso": "2026-11-27T15:33:00+05:00",
+      "utc": "2026-11-27T10:05Z",
+      "pkt": "27 Nov 15:05",
+      "pkt_iso": "2026-11-27T15:05:00+05:00",
       "trading_day": "2026-11-27"
     },
     {
