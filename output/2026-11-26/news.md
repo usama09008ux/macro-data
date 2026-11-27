@@ -1,8 +1,8 @@
 # News Pack — Trading Day 26 Nov 2026
 
 - Trading day: **26 Nov 03:00 -> 27 Nov 02:59 PKT**
-- Aakhri update: **27 Nov 13:04 PKT**
-- Kul khabrein: **696**
+- Aakhri update: **27 Nov 23:08 PKT**
+- Kul khabrein: **703**
 - Feeds: 31/39 OK
 
 ---
@@ -149,6 +149,12 @@ India's central bank repatriates another 60 tonnes of gold in 2026 as share of F
 
 Silver price can still go lower but this is a Black Friday deal not to miss – Bawden Capital Kitco
 
+**What will happen to gold rates? Crash or surge after the US Fed FOMC meeting outcome - Scenarios explained - IndiaIPO**
+`26 Nov 23:33 PKT` · pehli baar dekhi `27 Nov 23:08` · gnews_fed · **2 feeds mein**
+
+What will happen to gold rates? Crash or surge after the US Fed FOMC meeting outcome - Scenarios explained IndiaIPO
+  - `26 Nov 20:00` *gnews_fed* — What will happen to gold rates? Crash or surge after the US Fed FOMC meeting outcome - Scenarios explained - Livemint
+
 **Will gold prices crash or surge after US Fed's FOMC decision? - Inshorts**
 `26 Nov 21:34 PKT` · pehli baar dekhi `27 Nov 04:57` · gnews_fed
 
@@ -168,11 +174,6 @@ Gold's Thanksgiving support offers a glimmer of hope for battered bulls - Analys
 `26 Nov 20:40 PKT` · pehli baar dekhi `27 Nov 04:57` · mining_com
 
 Anagold targets 1.3 tonnes of gold by year-end as Ankara pushes to boost domestic production.
-
-**What will happen to gold rates? Crash or surge after the US Fed FOMC meeting outcome - Scenarios explained - Livemint**
-`26 Nov 20:00 PKT` · pehli baar dekhi `26 Nov 20:24` · gnews_fed
-
-What will happen to gold rates? Crash or surge after the US Fed FOMC meeting outcome - Scenarios explained Livemint
 
 **Gold Prices Today: Bullion Slips as Strong US Inflation Fuels Fed Rate Hike Expectations - Speaks Media**
 `26 Nov 19:28 PKT` · pehli baar dekhi `27 Nov 04:57` · gnews_fed
@@ -759,9 +760,10 @@ Pablo Hernández de Cos to Lead ECB and Is Unlikely to Raise Eurozone Interest R
 Hernández de Cos to Lead ECB: How Analysts Are Reacting - State Street SPDR EURO STOXX 50 ETF (ARCA:FEZ) Benzinga
 
 **ECB holds rates steady despite inflation surge and tightening financial conditions - The Brussels Times**
-`27 Nov 01:31 PKT` · pehli baar dekhi `27 Nov 04:57` · gnews_centralbanks
+`27 Nov 01:31 PKT` · pehli baar dekhi `27 Nov 04:57` · gnews_centralbanks · **2 feeds mein**
 
 ECB holds rates steady despite inflation surge and tightening financial conditions The Brussels Times
+  - `27 Nov 01:31` *gnews_centralbanks* — ECB holds rates steady despite inflation surge and tightening financial conditions - The Brussels Times
 
 **ECB Moves Closer to Another Rate Hike as Inflation and AI Boom Raise Concerns - CEO Magazyn**
 `27 Nov 01:13 PKT` · pehli baar dekhi `27 Nov 04:57` · gnews_centralbanks
@@ -792,6 +794,12 @@ ECB Rate Hike Expected Next Month: Futures Point to 25 Basis Point Increase - Ne
 `26 Nov 23:56 PKT` · pehli baar dekhi `27 Nov 04:57` · gnews_centralbanks
 
 Spain's De Cos to replace Lagarde as next ECB chief Business Day
+
+**ECB minutes show 'large' number of members could have backed rate hike in October By Investing.com - Investing.com South Africa**
+`26 Nov 23:53 PKT` · pehli baar dekhi `27 Nov 23:08` · gnews_centralbanks · **2 feeds mein**
+
+ECB minutes show 'large' number of members could have backed rate hike in October By Investing.com Investing.com South Africa
+  - `26 Nov 18:43` *gnews_centralbanks* — ECB minutes show 'large' number of members could have backed rate hike in October - Investing.com
 
 **Pablo Hernández de Cos: Lagarde's successor and the ECB's major challenges - ProtoThema English**
 `26 Nov 23:53 PKT` · pehli baar dekhi `27 Nov 04:57` · gnews_centralbanks
@@ -993,11 +1001,6 @@ The minutes of the ECB's October meeting confirm a clear tightening bias and sug
 `26 Nov 18:47 PKT` · pehli baar dekhi `26 Nov 20:24` · gnews_centralbanks
 
 ECB inclined to raise rates by 0.25% on December 17 NewsBytes
-
-**ECB minutes show 'large' number of members could have backed rate hike in October - Investing.com**
-`26 Nov 18:43 PKT` · pehli baar dekhi `26 Nov 20:24` · gnews_centralbanks
-
-ECB minutes show 'large' number of members could have backed rate hike in October Investing.com
 
 **ECB policymakers were ready to raise rates in October, December hike increasingly likely - Firstpost**
 `26 Nov 18:30 PKT` · pehli baar dekhi `26 Nov 20:24` · gnews_centralbanks
@@ -1449,6 +1452,11 @@ For decades, scientists have attempted to develop power devices that can harvest
 `27 Nov 01:00 PKT` · pehli baar dekhi `27 Nov 04:57` · oilprice
 
 Norway's transmission system operator Statnett paused new grid reservations for data centers on 9 November, the same day the government announced a licensing scheme that will keep out new crypto mining. The grid reservation halt will last until at least August 2027, when a new system is set to come into effect. Both moves come as data center demand threatens Norway's long-standing power surplus.
+
+**Oil Drops As Trump Signals Restraint On Iran - https://thefact.ng/**
+`27 Nov 00:15 PKT` · pehli baar dekhi `27 Nov 23:08` · gnews_geopolitics
+
+Oil Drops As Trump Signals Restraint On Iran https://thefact.ng/
 
 **Brent settles higher as mine strikes, refinery attack stoke Middle East supply concerns - Yahoo Finance**
 `27 Nov 00:12 PKT` · pehli baar dekhi `27 Nov 13:04` · gnews_geopolitics · **2 feeds mein**
@@ -2045,6 +2053,16 @@ U.S. stocks experience severe volatility amid a hawkish Federal Reserve! Waller 
 
 For Trump, doubling down on tariffs is about power, not popularity Kitco
 
+**Iran targets Gulf countries' energy infrastructure after Israeli strike on gas field - ABC News - Breaking News, Latest News and Videos**
+`27 Nov 01:58 PKT` · pehli baar dekhi `27 Nov 23:08` · gnews_geopolitics
+
+Iran targets Gulf countries' energy infrastructure after Israeli strike on gas field ABC News - Breaking News, Latest News and Videos
+
+**Iran's 'self-sanctions' compound pressure from US blockade, critics say - Iran International**
+`27 Nov 01:24 PKT` · pehli baar dekhi `27 Nov 23:08` · gnews_geopolitics
+
+Iran's 'self-sanctions' compound pressure from US blockade, critics say Iran International
+
 **Faisal Islam: Why Trump's new tariffs are less of a threat**
 `27 Nov 00:55 PKT` · pehli baar dekhi `27 Nov 04:57` · bbc_business
 
@@ -2286,7 +2304,7 @@ Oracle, CoreWeave and other technology stocks bounced back from early losses on 
 
 Oil's Long View Darkens as Iran War Refuses to End: Bousso EnergyNow
 
-### BINA TAG (185)
+### BINA TAG (186)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2314,6 +2332,7 @@ Oil's Long View Darkens as Iran War Refuses to End: Bousso EnergyNow
 - `27 Nov 00:05` **wsj_markets** — Opinion | Zohran Mamdani Has a Nvidia Revelation
 - `26 Nov 23:41` **mining_com** — Nyrstar to halt production at Dutch zinc smelter
 - `26 Nov 23:25` **gnews_fed** — Leaders choose Spain's former central bank head as next European Central Bank president - WGNO
+- `26 Nov 23:25` **gnews_fed** — Leaders choose Spain's former central bank head as next European Central Bank president - RochesterFirst
 - `26 Nov 23:24` **wsj_world** — Iranian Drone Attack Kills Two Italians in Kuwait
 - `26 Nov 23:17` **kitco_general** — TAG: Thanksgiving holiday trading - Kitco
 - `26 Nov 23:15` **kitco_general** — Heavy rain hampers Indonesian rescue of 13 people trapped inside illegal mine, agency says - Kitco
@@ -2492,45 +2511,45 @@ investing_news (10)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 23 | 2 | 0 | 0.1 |
+| investinglive | OK | 25 | 25 | 21 | 4 | 0 | 0.1 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 13 | 7 | 0 | 0.0 |
-| marketpulse | OK | 2 | 0 | 0 | 0 | 2 | 2.9 |
+| actionforex | OK | 20 | 20 | 11 | 9 | 0 | 0.1 |
+| marketpulse | OK | 3 | 1 | 1 | 0 | 2 | 0.3 |
 | instaforex | OK | 25 | 25 | 25 | 0 | 0 | -0.2 |
-| wsj_economy | OK | 36 | 7 | 1 | 6 | 29 | 0.2 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
-| cme_rates_video | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 1.6 |
-| cme_daily_commentary | OK | 10 | 0 | 0 | 0 | 10 | 1.5 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 77.6 |
-| kitco_general | OK | 34 | 33 | 3 | 30 | 1 | 0.4 |
-| gnews_fed | OK | 76 | 76 | 32 | 44 | 0 | 0.0 |
-| gnews_geopolitics | OK | 56 | 56 | 18 | 38 | 0 | 0.1 |
-| gnews_centralbanks | OK | 94 | 94 | 23 | 71 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 1.8 |
-| ecb_press | OK | 15 | 1 | 0 | 1 | 14 | 0.8 |
-| boe_news | OK | 50 | 3 | 0 | 3 | 47 | 0.7 |
-| boj_whatsnew | OK | 48 | 3 | 2 | 1 | 45 | 0.1 |
-| rba_media | WARN | 1 | 0 | 0 | 0 | 1 | 21.3 |
-| mining_com | OK | 36 | 12 | 1 | 11 | 24 | 0.3 |
-| oilprice | OK | 15 | 15 | 5 | 10 | 0 | 0.0 |
-| investing_commodities | OK | 10 | 10 | 4 | 6 | 0 | 0.1 |
-| ing_think | OK | 10 | 10 | 4 | 6 | 0 | 0.0 |
-| bbc_business | OK | 53 | 25 | 4 | 21 | 28 | 0.0 |
+| wsj_economy | OK | 36 | 9 | 2 | 7 | 27 | 0.2 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.0 |
+| cme_rates_video | OK | 10 | 1 | 1 | 0 | 9 | 0.0 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.1 |
+| cme_daily_commentary | OK | 10 | 3 | 2 | 1 | 7 | 0.0 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 78.0 |
+| kitco_general | OK | 32 | 32 | 14 | 18 | 0 | 0.0 |
+| gnews_fed | OK | 71 | 71 | 41 | 30 | 0 | 0.1 |
+| gnews_geopolitics | OK | 53 | 53 | 28 | 25 | 0 | 0.1 |
+| gnews_centralbanks | OK | 70 | 70 | 41 | 29 | 0 | 0.0 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.0 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.2 |
+| ecb_press | OK | 15 | 3 | 2 | 1 | 12 | 0.2 |
+| boe_news | OK | 50 | 3 | 0 | 3 | 47 | 1.1 |
+| boj_whatsnew | OK | 48 | 3 | 0 | 3 | 45 | 0.5 |
+| rba_media | WARN | 1 | 0 | 0 | 0 | 1 | 21.8 |
+| mining_com | OK | 36 | 18 | 6 | 12 | 18 | 0.0 |
+| oilprice | OK | 15 | 15 | 14 | 1 | 0 | 0.0 |
+| investing_commodities | OK | 10 | 10 | 7 | 3 | 0 | 0.0 |
+| ing_think | OK | 10 | 10 | 5 | 5 | 0 | 0.2 |
+| bbc_business | OK | 53 | 26 | 3 | 23 | 27 | 0.1 |
 | aljazeera | OK | 25 | 25 | 25 | 0 | 0 | 0.0 |
-| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 1.4 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 10.9 |
-| eia_energy | OK | 31 | 0 | 0 | 0 | 31 | 1.8 |
-| bea_releases | OK | 50 | 0 | 0 | 0 | 50 | 1.8 |
-| wsj_world | OK | 71 | 22 | 4 | 18 | 49 | 0.0 |
-| wsj_markets | OK | 60 | 24 | 10 | 14 | 36 | 0.0 |
-| investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
+| snb_press | OK | 20 | 1 | 0 | 1 | 19 | 1.8 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 11.3 |
+| eia_energy | OK | 32 | 1 | 1 | 0 | 31 | 0.2 |
+| bea_releases | OK | 50 | 0 | 0 | 0 | 50 | 2.2 |
+| wsj_world | OK | 74 | 31 | 8 | 23 | 43 | 0.0 |
+| wsj_markets | OK | 60 | 29 | 13 | 16 | 31 | 0.0 |
+| investing_news | OK | 10 | 10 | 8 | 2 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 1 | 9 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 28 | 5 | 23 | 2 | 0.0 |
+| mw_topstories | OK | 10 | 10 | 5 | 5 | 0 | 0.0 |
+| cointelegraph | OK | 30 | 30 | 9 | 21 | 0 | 0.0 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
