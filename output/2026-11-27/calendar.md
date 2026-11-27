@@ -1,6 +1,6 @@
 # Calendar — Trading Day 27 Nov 2026
 
-- Banaya gaya: **27 Nov 2026 20:26 PKT**
+- Banaya gaya: **28 Nov 2026 01:29 PKT**
 - Trading day: **27 Nov 03:00 -> 28 Nov 02:59 PKT**
 - Feed: thisweek=live
 
@@ -24,5 +24,9 @@
 
 ## Aaj ke surprises — actual banaam forecast
 
-*Aaj abhi tak koi actual-vs-forecast number nahi mila.*
+*Ye numbers khabron ke unwaan se nikale gaye hain. Market number par nahi, forecast se farq par chalta hai.*
+
+| Waqt PKT | Event | Actual | Forecast | Farq | Rukh |
+|---|---|---|---|---|---|
+| 27 Nov 18:31 | October US advance goods trade balance | -149.5B | -133.0B | -16.5B (-12%) | neeche |
 

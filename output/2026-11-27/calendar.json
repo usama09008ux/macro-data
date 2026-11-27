@@ -1,5 +1,5 @@
 {
-  "generated_pkt": "27 Nov 2026 20:26",
+  "generated_pkt": "28 Nov 2026 01:29",
   "trading_day": "2026-11-27",
   "feed_sources": {
     "thisweek": "live"
@@ -1007,5 +1007,20 @@
       "trading_day": "2026-11-27"
     }
   ],
-  "surprises": []
+  "surprises": [
+    {
+      "title": "October US advance goods trade balance -149.5B vs -133.0B expected",
+      "actual_raw": "-149.5B",
+      "forecast_raw": "-133.0B",
+      "beat": false,
+      "raw_diff": "-16.5B",
+      "sign_flip": false,
+      "diff_pct": -12.4,
+      "when_pkt": "27 Nov 18:31",
+      "source": "investinglive",
+      "tags": [
+        "usd"
+      ]
+    }
+  ]
 }
