@@ -1,8 +1,8 @@
 # News Pack — Trading Day 27 Nov 2026
 
 - Trading day: **27 Nov 03:00 -> 28 Nov 02:59 PKT**
-- Aakhri update: **28 Nov 06:26 PKT**
-- Kul khabrein: **596**
+- Aakhri update: **28 Nov 14:21 PKT**
+- Kul khabrein: **614**
 - Feeds: 31/39 OK
 
 ---
@@ -671,6 +671,11 @@ ECB Rate Shift Focus Might Change The Case For Investing In Allianz (XTRA:ALV) S
 
 3 Eurozone Bank Stocks Worth Watching If ECB Rate Hike Odds Rise Simply Wall St
 
+**Pablo Hernández de Cos: Who Is the Man Tipped to Replace Christine Lagarde at ECB? - International Business Times, Singapore Edition**
+`27 Nov 20:13 PKT` · pehli baar dekhi `28 Nov 14:21` · gnews_centralbanks
+
+Pablo Hernández de Cos: Who Is the Man Tipped to Replace Christine Lagarde at ECB? International Business Times, Singapore Edition
+
 **Sunset Market Commentary**
 `27 Nov 20:12 PKT` · pehli baar dekhi `27 Nov 23:08` · actionforex
 
@@ -718,10 +723,11 @@ The ECB set to raise interest rates in December Eunews
 The French economy tipped into a recession in the third quarter as summer heat waves slowed Airbus's factories.
 
 **ECB may have to raise rates further as inflation stays above 3% By Reuters - Investing.com**
-`27 Nov 18:29 PKT` · pehli baar dekhi `27 Nov 23:08` · gnews_centralbanks · **2 feeds mein**
+`27 Nov 18:29 PKT` · pehli baar dekhi `27 Nov 23:08` · gnews_centralbanks · **3 feeds mein**
 
 ECB may have to raise rates further as inflation stays above 3% By Reuters Investing.com
   - `27 Nov 18:15` *gnews_centralbanks* — ECB may have to raise rates further as inflation stays above 3% - Reuters
+  - `27 Nov 18:15` *gnews_centralbanks* — ECB May Have to Raise Rates Further as Inflation Stays Above 3% - US News Money
 
 **ECB's Nagel: Inflation to remain durably above 3% in 2027 - FXStreet**
 `27 Nov 18:25 PKT` · pehli baar dekhi `27 Nov 23:08` · gnews_centralbanks
@@ -785,6 +791,11 @@ The Euro remains in a quiet mode on Friday (third consecutive Doji daily candle)
 
 ECB: High energy costs are now knocking on borrowers' doors as rate hike talk returns Bankingnews
 
+**A new ECB head is coming: Will he lower interest rates and make credit easier in Europe? - Слободен печат**
+`27 Nov 16:53 PKT` · pehli baar dekhi `28 Nov 14:21` · gnews_centralbanks
+
+A new ECB head is coming: Will he lower interest rates and make credit easier in Europe? Слободен печат
+
 **Eurozone Inflation Expectations Rise Sharply, Five-Year Outlook Stays at Record High**
 `27 Nov 16:22 PKT` · pehli baar dekhi `27 Nov 23:08` · actionforex
 
@@ -815,6 +826,12 @@ A ship with 79,081 tonnes of iron ore fines left Simandou and will arrive in Dun
 
 ECB: Germany's control room behind the Spanish presidency Eunews
 
+**ECB Survey: One-year inflation expectations accelerate to 3.5% in October - www.tmgm.com**
+`27 Nov 14:38 PKT` · pehli baar dekhi `28 Nov 14:21` · gnews_centralbanks · **2 feeds mein**
+
+ECB Survey: One-year inflation expectations accelerate to 3.5% in October www.tmgm.com
+  - `27 Nov 14:08` *gnews_centralbanks* — ECB Survey: One-year inflation expectations accelerate to 3.5% in October - FXStreet
+
 **What the ECB's new leadership could mean for interest rates - Euronews.com**
 `27 Nov 14:18 PKT` · pehli baar dekhi `27 Nov 23:08` · gnews_centralbanks
 
@@ -829,11 +846,6 @@ ECB policymakers leaned towards October rate hike, minutes show The Economic Tim
 `27 Nov 14:09 PKT` · pehli baar dekhi `27 Nov 23:08` · gnews_centralbanks
 
 Euro zone inflation expectations rise, strengthening case for ECB rate hike Traders Union
-
-**ECB Survey: One-year inflation expectations accelerate to 3.5% in October - FXStreet**
-`27 Nov 14:08 PKT` · pehli baar dekhi `27 Nov 23:08` · gnews_centralbanks
-
-ECB Survey: One-year inflation expectations accelerate to 3.5% in October FXStreet
 
 **Euro zone consumers sharply increase inflation expectation, ECB survey shows - Yahoo Finance**
 `27 Nov 14:02 PKT` · pehli baar dekhi `27 Nov 23:08` · gnews_centralbanks
@@ -1039,6 +1051,12 @@ December Bank of England Rate Rise Not a Formality After Bailey's Testimony Poun
 
 Pound Resumes Gains Against Euro, Spurred by French and Spanish Inflation Pound Sterling Live
 
+**Banks may pass on £1.5bn tax rise to customers, warns Bank of England chief - AOL.co.uk**
+`27 Nov 16:14 PKT` · pehli baar dekhi `28 Nov 14:21` · gnews_centralbanks · **2 feeds mein**
+
+Banks may pass on £1.5bn tax rise to customers, warns Bank of England chief AOL.co.uk
+  - `27 Nov 12:53` *gnews_centralbanks* — Banks may pass on £1.5bn tax rise to customers, warns Bank of England chief - The Guardian
+
 **Bank of England Governor warns lenders may pass bank tax hike to customers - Business Live**
 `27 Nov 14:34 PKT` · pehli baar dekhi `27 Nov 23:08` · gnews_centralbanks
 
@@ -1053,11 +1071,6 @@ Lenders may pass on Labour's bank tax hike to customers, cautions Andrew Bailey 
 `27 Nov 13:08 PKT` · pehli baar dekhi `27 Nov 23:08` · ing_think
 
 EUROPE: Hedge funds are increasingly absorbing gilt supply through leveraged trading strategies but passing interest-rate risk to other investors. The Bank of England is looking at policy measures to mitigate the associated risks. Should hedge funds exit such trades, gilts would likely underperform swaps as gilts move to more expensive balance sheets
-
-**Banks may pass on £1.5bn tax rise to customers, warns Bank of England chief - The Guardian**
-`27 Nov 12:53 PKT` · pehli baar dekhi `27 Nov 23:08` · gnews_centralbanks
-
-Banks may pass on £1.5bn tax rise to customers, warns Bank of England chief The Guardian
 
 **GBPJPY Reverses from 207.00 for the Third Time**
 `27 Nov 11:59 PKT` · pehli baar dekhi `27 Nov 13:04` · actionforex
@@ -1281,6 +1294,26 @@ The muted reaction suggests NZD traders are pricing politics as noise unless tal
 
 ### OIL
 
+**World Faces Largest-Ever Oil Supply Disruption on Middle East War, IEA Says - EnergyNow.com**
+`28 Nov 02:52 PKT` · pehli baar dekhi `28 Nov 14:21` · gnews_geopolitics
+
+World Faces Largest-Ever Oil Supply Disruption on Middle East War, IEA Says EnergyNow.com
+
+**U.S. Oil Reserve Hits 43-Year Low as Trump Aims to Tame Prices - EnergyNow.com**
+`28 Nov 02:51 PKT` · pehli baar dekhi `28 Nov 14:21` · gnews_geopolitics
+
+U.S. Oil Reserve Hits 43-Year Low as Trump Aims to Tame Prices EnergyNow.com
+
+**Oil Holds Near Six-Week Highs as U.S.-Iran Conflict Keeps Supply Risk Elevated - EnergyNow**
+`28 Nov 02:45 PKT` · pehli baar dekhi `28 Nov 14:21` · gnews_geopolitics
+
+Oil Holds Near Six-Week Highs as U.S.-Iran Conflict Keeps Supply Risk Elevated EnergyNow
+
+**Oil Prices Jump Over 7% After Trump Says Attacks on Iran Will Continue - EnergyNow.com**
+`28 Nov 02:37 PKT` · pehli baar dekhi `28 Nov 14:21` · gnews_geopolitics
+
+Oil Prices Jump Over 7% After Trump Says Attacks on Iran Will Continue EnergyNow.com
+
 **[International Oil Prices] Fall Around 1%... Brent Crude Rises 3% for the Week - 파이낸셜뉴스**
 `28 Nov 02:30 PKT` · pehli baar dekhi `28 Nov 06:26` · gnews_geopolitics
 
@@ -1291,10 +1324,21 @@ The muted reaction suggests NZD traders are pricing politics as noise unless tal
 
 Flour and oil still reach markets in Hodeidah and Sanaa. But high costs and lack of work and aid put it out of reach.
 
+**Oil notches first weekly gain in November on supply fears - Apa.az**
+`28 Nov 02:09 PKT` · pehli baar dekhi `28 Nov 14:21` · gnews_geopolitics · **2 feeds mein**
+
+Oil notches first weekly gain in November on supply fears Apa.az
+  - `27 Nov 20:56` *gnews_geopolitics* — Oil on track for first weekly gain in November on supply fears - Apa.az
+
 **Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz - EnergyNow.com**
 `28 Nov 02:06 PKT` · pehli baar dekhi `28 Nov 06:26` · gnews_geopolitics
 
 Goldman Lowers Oil Price Forecasts on Deal to Reopen Strait of Hormuz EnergyNow.com
+
+**Crude Prices Retreat on Possible Increase in OPEC Crude Output - TradingView**
+`28 Nov 01:11 PKT` · pehli baar dekhi `28 Nov 14:21` · gnews_geopolitics
+
+Crude Prices Retreat on Possible Increase in OPEC Crude Output TradingView
 
 **Oil, gas prices fall as Brent trims weekly gains ahead of OPEC+ meeting - Middle East Monitor**
 `28 Nov 00:50 PKT` · pehli baar dekhi `28 Nov 06:26` · gnews_geopolitics
@@ -1374,11 +1418,6 @@ Crude Prices Erase Early Gains as Iraq Pushes OPEC for Higher Output TradingView
 
 Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting.
 
-**Oil on track for first weekly gain in November on supply fears - Apa.az**
-`27 Nov 20:56 PKT` · pehli baar dekhi `28 Nov 06:26` · gnews_geopolitics
-
-Oil on track for first weekly gain in November on supply fears Apa.az
-
 **Copper Heads for First Weekly Gain Since Early October After 6.5% Surge**
 `27 Nov 20:30 PKT` · pehli baar dekhi `27 Nov 23:08` · oilprice
 
@@ -1409,6 +1448,11 @@ The U.S. Administration early this year encouraged two of OPEC's five founding m
 `27 Nov 18:46 PKT` · pehli baar dekhi `28 Nov 06:26` · gnews_geopolitics
 
 US Pain at the Pump Worsens After More US-Iran Fighting Lifts Oil Prices EnergyNow.com
+
+**Oil Prices Steady as Investors Weigh Peace Deal, IEA Glut Forecasts - EnergyNow.com**
+`27 Nov 18:43 PKT` · pehli baar dekhi `28 Nov 14:21` · gnews_geopolitics
+
+Oil Prices Steady as Investors Weigh Peace Deal, IEA Glut Forecasts EnergyNow.com
 
 **South Sudan Readies Licensing Round to Boost Oil Production**
 `27 Nov 18:30 PKT` · pehli baar dekhi `27 Nov 23:08` · oilprice
@@ -1802,10 +1846,26 @@ Match between Besiktas and Hapoel Beer-Sheva suspended for 30 minutes after conf
 
 The Russian president will make no concessions in Ukraine, even as the war he started destroys his country.
 
+**Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies - EnergyNow.com**
+`28 Nov 02:44 PKT` · pehli baar dekhi `28 Nov 14:21` · gnews_geopolitics · **2 feeds mein**
+
+Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies EnergyNow.com
+  - `27 Nov 03:28` *gnews_geopolitics* — Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies - EnergyNow
+
+**Canada Weighs Options to Boost Oil Supply as Iran War Causes Market Turmoil - EnergyNow**
+`28 Nov 02:31 PKT` · pehli baar dekhi `28 Nov 14:21` · gnews_geopolitics
+
+Canada Weighs Options to Boost Oil Supply as Iran War Causes Market Turmoil EnergyNow
+
 **Iran War Erodes Exxon, Chevron Profits Even as Oil Prices Soar - EnergyNow.com**
 `28 Nov 02:31 PKT` · pehli baar dekhi `28 Nov 06:26` · gnews_geopolitics
 
 Iran War Erodes Exxon, Chevron Profits Even as Oil Prices Soar EnergyNow.com
+
+**Iran War Anxiety Sends Global Container Shipping Rates Soaring - EnergyNow.com**
+`28 Nov 02:23 PKT` · pehli baar dekhi `28 Nov 14:21` · gnews_geopolitics
+
+Iran War Anxiety Sends Global Container Shipping Rates Soaring EnergyNow.com
 
 **Turkey extends Iran gas deal until 2032 despite US sanctions - Roya News English**
 `28 Nov 01:04 PKT` · pehli baar dekhi `28 Nov 06:26` · gnews_geopolitics
@@ -1829,6 +1889,11 @@ Public outcry over the TV investigation highlights nation's struggle to come to 
 `27 Nov 22:44 PKT` · pehli baar dekhi `28 Nov 06:26` · aljazeera
 
 The proposal comes as President Zelenskyy criticises Trump's 'friendship' with Putin.
+
+**Oil-Gear Maker NOV Cuts Earnings Guidance as Iran War Hikes Costs and Snarls Deliveries - EnergyNow.com**
+`27 Nov 22:14 PKT` · pehli baar dekhi `28 Nov 14:21` · gnews_geopolitics
+
+Oil-Gear Maker NOV Cuts Earnings Guidance as Iran War Hikes Costs and Snarls Deliveries EnergyNow.com
 
 **'Bear trap': Ukraine hails new operation as Russian casualties mount**
 `27 Nov 22:13 PKT` · pehli baar dekhi `27 Nov 23:08` · aljazeera
@@ -1875,6 +1940,11 @@ Türkiye extends gas supply agreement with Iran TodayPress.tv
 `27 Nov 18:30 PKT` · pehli baar dekhi `28 Nov 06:26` · gnews_geopolitics
 
 Global Oil Supply to Plunge Below Demand This Year Due to Iran War, IEA says EnergyNow.com
+
+**Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says - EnergyNow**
+`27 Nov 18:04 PKT` · pehli baar dekhi `28 Nov 14:21` · gnews_geopolitics
+
+Global Oil Output to Return to Pre-Iran War Level by Year's End, US EIA Says EnergyNow
 
 **Trump embraced Xi, then slapped new tariffs on China: What's his game plan?**
 `27 Nov 17:48 PKT` · pehli baar dekhi `27 Nov 23:08` · aljazeera
@@ -2004,11 +2074,6 @@ Rep. Vindman Condemns Iran War Ahead of Thanksgiving, Says Too Many American Fam
 
 Fed Holds Rates; Tariffs Target 14 Partners Wisevoter
 
-**Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies - EnergyNow**
-`27 Nov 03:28 PKT` · pehli baar dekhi `27 Nov 13:04` · gnews_geopolitics
-
-Goldman Says US-Iran Escalation Could Slow Recovery in Gulf Oil Supplies EnergyNow
-
 **Canada Oil and Gas Profits to Surge on Iran War, but Firms Hold off New Investment - EnergyNow**
 `27 Nov 03:26 PKT` · pehli baar dekhi `27 Nov 13:04` · gnews_geopolitics
 
@@ -2019,7 +2084,7 @@ Canada Oil and Gas Profits to Surge on Iran War, but Firms Hold off New Investme
 
 European equities advanced on Thursday, mirroring the rebound in AI-related stocks in North America as markets reassessed the downside risks from potential cuts in AI spending. The Euro STOXX 50 climbed 2.2% to 6,025, while the STOXX Europe 600 added 1.9% to reach 638. Technology shares led the gains, suggesting that some investors view this week's selloff in AI stocks as excessive.
 
-### BINA TAG (170)
+### BINA TAG (171)
 
 *In par koi keyword nahi laga. Mehfooz hain taake baad mein keywords behtar karte waqt kaam aayen.*
 
@@ -2093,6 +2158,7 @@ European equities advanced on Thursday, mirroring the rebound in AI-related stoc
 - `27 Nov 19:35` **wsj_markets** — U.S. Natural Gas Futures Fall as Front Month Shifts to January
 - `27 Nov 19:34` **gnews_fed** — December Federal Reserve Rate Expectations Shape Global Markets - kalkine.ca
 - `27 Nov 19:07` **actionforex** — Weekly Focus – AI Concerns Drive Volatile Markets
+- `27 Nov 19:04` **gnews_centralbanks** — Leaders choose Spain's ex central bank head as next European Central Bank president - Naharnet
 - `27 Nov 19:04` **gnews_centralbanks** — Leaders choose Spain's ex central bank head as next European Central Bank president - Naharnet
 - `27 Nov 19:00` **eia_energy** — Global electricity generation more than doubled from 2000 to 2025
 - `27 Nov 18:46` **wsj_markets** — Stock Futures Jump as AI Trade Set for Rebound
@@ -2210,48 +2276,48 @@ investing_news (4)
 
 | Feed | Status | Feed mein | Aaj ki | Nayi | Purani | Bahar | Sab se nayi (din) |
 |---|---|---|---|---|---|---|---|
-| investinglive | OK | 25 | 25 | 1 | 24 | 0 | 0.3 |
+| investinglive | OK | 25 | 25 | 0 | 25 | 0 | 0.6 |
 | fxstreet_news | FAIL | 0 | 0 | 0 | 0 | 0 | - |
 | fxstreet_analysis | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| actionforex | OK | 20 | 20 | 1 | 19 | 0 | 0.1 |
-| marketpulse | OK | 3 | 2 | 1 | 1 | 1 | 0.5 |
-| instaforex | OK | 25 | 25 | 4 | 21 | 0 | -0.0 |
-| wsj_economy | OK | 36 | 4 | 1 | 3 | 32 | 0.5 |
-| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
-| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.3 |
-| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.3 |
-| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.4 |
-| cme_daily_commentary | OK | 10 | 3 | 0 | 3 | 7 | 0.3 |
-| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 78.3 |
-| kitco_general | OK | 33 | 33 | 15 | 18 | 0 | 0.1 |
-| gnews_fed | OK | 71 | 71 | 21 | 50 | 0 | 0.0 |
-| gnews_geopolitics | OK | 56 | 56 | 21 | 35 | 0 | 0.0 |
-| gnews_centralbanks | OK | 69 | 69 | 20 | 49 | 0 | 0.0 |
-| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.3 |
-| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.5 |
-| ecb_press | OK | 15 | 2 | 0 | 2 | 13 | 0.5 |
-| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.4 |
-| boj_whatsnew | OK | 47 | 2 | 2 | 0 | 45 | 0.9 |
-| rba_media | WARN | 1 | 0 | 0 | 0 | 1 | 22.1 |
-| mining_com | OK | 36 | 10 | 3 | 7 | 26 | 0.2 |
-| oilprice | OK | 15 | 15 | 2 | 13 | 0 | 0.1 |
-| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.2 |
-| ing_think | OK | 10 | 9 | 0 | 9 | 1 | 0.5 |
-| bbc_business | OK | 53 | 11 | 0 | 11 | 42 | 0.4 |
+| actionforex | OK | 20 | 20 | 6 | 14 | 0 | 0.0 |
+| marketpulse | OK | 3 | 2 | 0 | 2 | 1 | 0.8 |
+| instaforex | OK | 25 | 25 | 0 | 25 | 0 | 0.3 |
+| wsj_economy | OK | 36 | 4 | 0 | 4 | 32 | 0.8 |
+| cme_metals_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.7 |
+| cme_fx_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.6 |
+| cme_rates_video | OK | 10 | 1 | 0 | 1 | 9 | 0.6 |
+| cme_energy_video | WARN | 10 | 0 | 0 | 0 | 10 | 2.7 |
+| cme_daily_commentary | OK | 10 | 3 | 0 | 3 | 7 | 0.6 |
+| cme_risk_management | STALE | 20 | 0 | 0 | 0 | 20 | 78.6 |
+| kitco_general | OK | 31 | 31 | 1 | 30 | 0 | 0.1 |
+| gnews_fed | OK | 37 | 37 | 11 | 26 | 0 | 0.0 |
+| gnews_geopolitics | OK | 56 | 56 | 18 | 38 | 0 | 0.1 |
+| gnews_centralbanks | OK | 54 | 54 | 10 | 44 | 0 | 0.1 |
+| fed_monetary | OK | 15 | 0 | 0 | 0 | 15 | 3.6 |
+| fed_speeches | OK | 15 | 0 | 0 | 0 | 15 | 2.9 |
+| ecb_press | OK | 15 | 3 | 1 | 2 | 12 | 0.1 |
+| boe_news | OK | 50 | 0 | 0 | 0 | 50 | 1.8 |
+| boj_whatsnew | OK | 47 | 2 | 0 | 2 | 45 | 1.2 |
+| rba_media | WARN | 1 | 0 | 0 | 0 | 1 | 22.4 |
+| mining_com | OK | 36 | 10 | 0 | 10 | 26 | 0.5 |
+| oilprice | OK | 15 | 15 | 0 | 15 | 0 | 0.4 |
+| investing_commodities | OK | 10 | 10 | 0 | 10 | 0 | 0.5 |
+| ing_think | OK | 10 | 9 | 0 | 9 | 1 | 0.8 |
+| bbc_business | OK | 53 | 12 | 1 | 11 | 41 | 0.1 |
 | aljazeera | OK | 25 | 25 | 19 | 6 | 0 | 0.0 |
-| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.1 |
-| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 11.6 |
-| eia_energy | OK | 32 | 1 | 0 | 1 | 31 | 0.5 |
-| bea_releases | OK | 50 | 0 | 0 | 0 | 50 | 2.5 |
-| wsj_world | OK | 73 | 18 | 6 | 12 | 55 | 0.1 |
-| wsj_markets | OK | 60 | 23 | 3 | 20 | 37 | 0.1 |
+| snb_press | OK | 20 | 0 | 0 | 0 | 20 | 2.4 |
+| boc_press | OK | 10 | 0 | 0 | 0 | 10 | 12.0 |
+| eia_energy | OK | 32 | 1 | 0 | 1 | 31 | 0.8 |
+| bea_releases | OK | 50 | 0 | 0 | 0 | 50 | 2.8 |
+| wsj_world | OK | 73 | 21 | 3 | 18 | 52 | 0.3 |
+| wsj_markets | OK | 60 | 24 | 1 | 23 | 36 | 0.3 |
 | investing_news | OK | 10 | 10 | 10 | 0 | 0 | 0.0 |
 | yahoo_finance | FAIL | 0 | 0 | 0 | 0 | 0 | - |
-| mw_topstories | OK | 10 | 10 | 3 | 7 | 0 | 0.1 |
-| cointelegraph | OK | 30 | 18 | 3 | 15 | 12 | 0.1 |
+| mw_topstories | OK | 10 | 10 | 0 | 10 | 0 | 0.4 |
+| cointelegraph | OK | 30 | 19 | 1 | 18 | 11 | 0.1 |
 
 **Jo feeds nahi aaye:**
 - fxstreet_news — FAIL, HTTP 403
 - fxstreet_analysis — FAIL, HTTP 403
-- cme_risk_management — STALE, cadence 10d, magar 78d purana
+- cme_risk_management — STALE, cadence 10d, magar 79d purana
 - yahoo_finance — FAIL, HTTP 404
